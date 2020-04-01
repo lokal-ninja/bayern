@@ -1,0 +1,14 @@
+baseURL = "https://lokal.ninja/bayern"
+languageCode = "de-DE"
+title = "Lokal Ninja - Bayern"
+theme = "ln-base"
+
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[outputs]
+  home = ["HTML"]
+
+[params]
+  org = "lokal-ninja"
+  region = "Bayern"
+  repo = "bayern"
