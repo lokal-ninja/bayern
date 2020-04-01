@@ -1,0 +1,4 @@
+---
+title: Adelshofen
+url: /adelshofen/
+---

@@ -1,0 +1,4 @@
+---
+title: Stamsried
+url: /stamsried/
+---

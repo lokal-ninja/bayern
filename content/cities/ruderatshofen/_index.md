@@ -1,0 +1,4 @@
+---
+title: Ruderatshofen
+url: /ruderatshofen/
+---

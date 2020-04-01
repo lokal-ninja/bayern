@@ -1,0 +1,4 @@
+---
+title: "Getränke Geißel"
+url: /volkach/getraenke-geissel/
+---

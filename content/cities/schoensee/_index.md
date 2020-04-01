@@ -1,0 +1,4 @@
+---
+title: Schönsee
+url: /schoensee/
+---

@@ -1,0 +1,4 @@
+---
+title: Alling
+url: /alling/
+---

@@ -1,0 +1,4 @@
+---
+title: Hagelstadt
+url: /hagelstadt/
+---

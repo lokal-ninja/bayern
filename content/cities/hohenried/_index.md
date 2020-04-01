@@ -1,0 +1,4 @@
+---
+title: Hohenried
+url: /hohenried/
+---

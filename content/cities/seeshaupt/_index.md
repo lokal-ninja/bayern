@@ -1,0 +1,4 @@
+---
+title: Seeshaupt
+url: /seeshaupt/
+---

@@ -1,0 +1,4 @@
+---
+title: Buchhofen
+url: /buchhofen/
+---

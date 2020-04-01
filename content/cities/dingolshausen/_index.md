@@ -1,0 +1,4 @@
+---
+title: Dingolshausen
+url: /dingolshausen/
+---

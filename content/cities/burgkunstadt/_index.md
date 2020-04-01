@@ -1,0 +1,4 @@
+---
+title: Burgkunstadt
+url: /burgkunstadt/
+---

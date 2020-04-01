@@ -1,0 +1,4 @@
+---
+title: Bischberg
+url: /bischberg/
+---

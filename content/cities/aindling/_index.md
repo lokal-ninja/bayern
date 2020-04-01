@@ -1,0 +1,4 @@
+---
+title: Aindling
+url: /aindling/
+---

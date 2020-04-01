@@ -1,0 +1,4 @@
+---
+title: Stangenroth
+url: /stangenroth/
+---

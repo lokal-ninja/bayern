@@ -1,0 +1,4 @@
+---
+title: "schöne haare"
+url: /weilheim-in-oberbayern/schoene-haare/
+---

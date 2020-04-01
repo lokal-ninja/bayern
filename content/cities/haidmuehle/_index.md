@@ -1,0 +1,4 @@
+---
+title: Haidmühle
+url: /haidmuehle/
+---

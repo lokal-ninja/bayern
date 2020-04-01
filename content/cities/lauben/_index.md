@@ -1,0 +1,4 @@
+---
+title: Lauben
+url: /lauben/
+---

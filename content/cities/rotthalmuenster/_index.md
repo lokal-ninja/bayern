@@ -1,0 +1,4 @@
+---
+title: Rotthalmünster
+url: /rotthalmuenster/
+---

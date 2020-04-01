@@ -1,0 +1,4 @@
+---
+title: "Ford Fuchs"
+url: /uffenheim/ford-fuchs/
+---

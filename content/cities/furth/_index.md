@@ -1,0 +1,4 @@
+---
+title: Furth
+url: /furth/
+---

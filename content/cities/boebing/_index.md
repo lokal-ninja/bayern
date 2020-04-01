@@ -1,0 +1,4 @@
+---
+title: Böbing
+url: /boebing/
+---

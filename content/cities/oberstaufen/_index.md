@@ -1,0 +1,4 @@
+---
+title: Oberstaufen
+url: /oberstaufen/
+---

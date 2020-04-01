@@ -1,0 +1,4 @@
+---
+title: Heroldsberg
+url: /heroldsberg/
+---

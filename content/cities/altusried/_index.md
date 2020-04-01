@@ -1,0 +1,4 @@
+---
+title: Altusried
+url: /altusried/
+---

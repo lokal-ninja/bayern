@@ -1,0 +1,4 @@
+---
+title: Buckenhof
+url: /buckenhof/
+---

@@ -1,0 +1,4 @@
+---
+title: Waltenhofen
+url: /waltenhofen/
+---

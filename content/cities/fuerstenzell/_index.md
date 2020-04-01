@@ -1,0 +1,4 @@
+---
+title: Fürstenzell
+url: /fuerstenzell/
+---

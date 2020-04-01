@@ -1,0 +1,4 @@
+---
+title: Absberg
+url: /absberg/
+---

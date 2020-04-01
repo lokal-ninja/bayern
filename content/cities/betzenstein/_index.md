@@ -1,0 +1,4 @@
+---
+title: Betzenstein
+url: /betzenstein/
+---

@@ -1,0 +1,4 @@
+---
+title: Neubeuern
+url: /neubeuern/
+---

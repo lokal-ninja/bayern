@@ -1,0 +1,4 @@
+---
+title: Ainring
+url: /ainring/
+---

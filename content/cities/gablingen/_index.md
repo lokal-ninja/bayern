@@ -1,0 +1,4 @@
+---
+title: Gablingen
+url: /gablingen/
+---

@@ -1,0 +1,4 @@
+---
+title: Stammbach
+url: /stammbach/
+---

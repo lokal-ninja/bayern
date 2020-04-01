@@ -1,0 +1,4 @@
+---
+title: Kranzberg
+url: /kranzberg/
+---

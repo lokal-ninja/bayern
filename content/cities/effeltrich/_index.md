@@ -1,0 +1,4 @@
+---
+title: Effeltrich
+url: /effeltrich/
+---

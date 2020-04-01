@@ -1,0 +1,4 @@
+---
+title: Neuschönau
+url: /neuschoenau/
+---

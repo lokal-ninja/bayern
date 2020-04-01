@@ -1,0 +1,4 @@
+---
+title: Prittriching
+url: /prittriching/
+---

@@ -1,0 +1,4 @@
+---
+title: Huglfing
+url: /huglfing/
+---

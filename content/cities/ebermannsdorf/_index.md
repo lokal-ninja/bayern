@@ -1,0 +1,4 @@
+---
+title: Ebermannsdorf
+url: /ebermannsdorf/
+---

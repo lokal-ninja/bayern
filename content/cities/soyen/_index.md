@@ -1,0 +1,4 @@
+---
+title: Soyen
+url: /soyen/
+---

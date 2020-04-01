@@ -1,0 +1,4 @@
+---
+title: Finsing
+url: /finsing/
+---

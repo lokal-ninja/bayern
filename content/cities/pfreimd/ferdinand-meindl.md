@@ -1,0 +1,4 @@
+---
+title: "Ferdinand Meindl"
+url: /pfreimd/ferdinand-meindl/
+---

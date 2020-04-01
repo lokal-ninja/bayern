@@ -1,0 +1,4 @@
+---
+title: Gotteszell
+url: /gotteszell/
+---

@@ -1,0 +1,4 @@
+---
+title: Seybothenreuth
+url: /seybothenreuth/
+---

@@ -1,0 +1,4 @@
+---
+title: Schwindegg
+url: /schwindegg/
+---

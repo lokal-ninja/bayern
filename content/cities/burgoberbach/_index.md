@@ -1,0 +1,4 @@
+---
+title: Burgoberbach
+url: /burgoberbach/
+---

@@ -1,0 +1,4 @@
+---
+title: "Foto Express"
+url: /augsburg/foto-express/
+---

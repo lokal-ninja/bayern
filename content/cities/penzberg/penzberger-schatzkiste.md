@@ -1,0 +1,4 @@
+---
+title: "Penzberger Schatzkiste"
+url: /penzberg/penzberger-schatzkiste/
+---

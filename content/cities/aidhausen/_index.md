@@ -1,0 +1,4 @@
+---
+title: Aidhausen
+url: /aidhausen/
+---

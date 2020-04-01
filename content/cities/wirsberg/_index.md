@@ -1,0 +1,4 @@
+---
+title: Wirsberg
+url: /wirsberg/
+---

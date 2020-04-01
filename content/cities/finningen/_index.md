@@ -1,0 +1,4 @@
+---
+title: Finningen
+url: /finningen/
+---

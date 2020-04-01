@@ -1,0 +1,4 @@
+---
+title: Bärnau
+url: /baernau/
+---

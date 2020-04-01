@@ -1,0 +1,4 @@
+---
+title: Hasloch
+url: /hasloch/
+---

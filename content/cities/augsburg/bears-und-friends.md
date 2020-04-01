@@ -1,0 +1,4 @@
+---
+title: "Bears & Friends"
+url: /augsburg/bears-und-friends/
+---

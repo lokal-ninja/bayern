@@ -1,0 +1,4 @@
+---
+title: Mantel
+url: /mantel/
+---

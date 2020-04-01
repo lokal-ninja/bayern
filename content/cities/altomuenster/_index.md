@@ -1,0 +1,4 @@
+---
+title: Altomünster
+url: /altomuenster/
+---

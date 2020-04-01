@@ -1,0 +1,4 @@
+---
+title: Bodenkirchen
+url: /bodenkirchen/
+---

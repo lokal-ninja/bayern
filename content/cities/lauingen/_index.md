@@ -1,0 +1,4 @@
+---
+title: Lauingen
+url: /lauingen/
+---

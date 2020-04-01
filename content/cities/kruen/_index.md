@@ -1,0 +1,4 @@
+---
+title: Krün
+url: /kruen/
+---

@@ -1,0 +1,4 @@
+---
+title: Egloffstein
+url: /egloffstein/
+---

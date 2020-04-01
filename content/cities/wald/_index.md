@@ -1,0 +1,4 @@
+---
+title: Wald
+url: /wald/
+---

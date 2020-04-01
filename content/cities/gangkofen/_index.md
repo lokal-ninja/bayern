@@ -1,0 +1,4 @@
+---
+title: Gangkofen
+url: /gangkofen/
+---

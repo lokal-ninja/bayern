@@ -1,0 +1,4 @@
+---
+title: Fridolfing
+url: /fridolfing/
+---

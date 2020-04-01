@@ -1,0 +1,4 @@
+---
+title: Wallgau
+url: /wallgau/
+---

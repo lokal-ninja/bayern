@@ -1,0 +1,4 @@
+---
+title: Haldenwang
+url: /haldenwang/
+---

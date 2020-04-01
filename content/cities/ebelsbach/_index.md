@@ -1,0 +1,4 @@
+---
+title: Ebelsbach
+url: /ebelsbach/
+---

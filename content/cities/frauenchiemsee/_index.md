@@ -1,0 +1,4 @@
+---
+title: Frauenchiemsee
+url: /frauenchiemsee/
+---

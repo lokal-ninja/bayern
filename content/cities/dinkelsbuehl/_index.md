@@ -1,0 +1,4 @@
+---
+title: Dinkelsbühl
+url: /dinkelsbuehl/
+---

@@ -1,0 +1,4 @@
+---
+title: Bodolz
+url: /bodolz/
+---

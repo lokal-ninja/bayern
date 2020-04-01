@@ -1,0 +1,4 @@
+---
+title: Leupoldsgrün
+url: /leupoldsgruen/
+---

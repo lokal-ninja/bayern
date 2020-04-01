@@ -1,0 +1,4 @@
+---
+title: Mindelstetten
+url: /mindelstetten/
+---

@@ -1,0 +1,4 @@
+---
+title: Frauenau
+url: /frauenau/
+---

@@ -1,0 +1,4 @@
+---
+title: Bayrischzell
+url: /bayrischzell/
+---

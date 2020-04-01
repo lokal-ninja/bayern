@@ -1,0 +1,4 @@
+---
+title: Neualbenreuth
+url: /neualbenreuth/
+---

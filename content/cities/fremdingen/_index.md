@@ -1,0 +1,4 @@
+---
+title: Fremdingen
+url: /fremdingen/
+---

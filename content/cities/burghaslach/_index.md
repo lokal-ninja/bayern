@@ -1,0 +1,4 @@
+---
+title: Burghaslach
+url: /burghaslach/
+---

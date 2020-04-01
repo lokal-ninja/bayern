@@ -1,0 +1,4 @@
+---
+title: Schnabelwaid
+url: /schnabelwaid/
+---

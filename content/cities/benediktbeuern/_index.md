@@ -1,0 +1,4 @@
+---
+title: Benediktbeuern
+url: /benediktbeuern/
+---

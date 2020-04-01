@@ -1,0 +1,4 @@
+---
+title: Wolfsegg
+url: /wolfsegg/
+---

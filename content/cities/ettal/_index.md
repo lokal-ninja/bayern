@@ -1,0 +1,4 @@
+---
+title: Ettal
+url: /ettal/
+---

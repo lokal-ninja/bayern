@@ -1,0 +1,4 @@
+---
+title: Kipfenberg
+url: /kipfenberg/
+---

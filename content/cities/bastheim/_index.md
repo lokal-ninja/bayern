@@ -1,0 +1,4 @@
+---
+title: Bastheim
+url: /bastheim/
+---

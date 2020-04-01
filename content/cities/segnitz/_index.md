@@ -1,0 +1,4 @@
+---
+title: Segnitz
+url: /segnitz/
+---

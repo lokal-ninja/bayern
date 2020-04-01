@@ -1,0 +1,4 @@
+---
+title: Laaber
+url: /laaber/
+---

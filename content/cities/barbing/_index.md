@@ -1,0 +1,4 @@
+---
+title: Barbing
+url: /barbing/
+---

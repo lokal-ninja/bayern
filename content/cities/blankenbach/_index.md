@@ -1,0 +1,4 @@
+---
+title: Blankenbach
+url: /blankenbach/
+---

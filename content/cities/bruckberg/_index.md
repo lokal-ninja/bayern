@@ -1,0 +1,4 @@
+---
+title: Bruckberg
+url: /bruckberg/
+---

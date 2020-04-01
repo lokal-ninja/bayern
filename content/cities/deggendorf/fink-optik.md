@@ -1,0 +1,4 @@
+---
+title: "Fink Optik"
+url: /deggendorf/fink-optik/
+---

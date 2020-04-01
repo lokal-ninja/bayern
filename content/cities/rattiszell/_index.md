@@ -1,0 +1,4 @@
+---
+title: Rattiszell
+url: /rattiszell/
+---

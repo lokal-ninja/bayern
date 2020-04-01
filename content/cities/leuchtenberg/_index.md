@@ -1,0 +1,4 @@
+---
+title: Leuchtenberg
+url: /leuchtenberg/
+---

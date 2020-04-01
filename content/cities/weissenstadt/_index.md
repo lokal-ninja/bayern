@@ -1,0 +1,4 @@
+---
+title: Weißenstadt
+url: /weissenstadt/
+---

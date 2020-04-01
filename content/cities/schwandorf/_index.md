@@ -1,0 +1,4 @@
+---
+title: Schwandorf
+url: /schwandorf/
+---

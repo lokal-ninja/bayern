@@ -1,0 +1,4 @@
+---
+title: Oberammergau
+url: /oberammergau/
+---

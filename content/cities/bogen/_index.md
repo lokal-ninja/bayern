@@ -1,0 +1,4 @@
+---
+title: Bogen
+url: /bogen/
+---

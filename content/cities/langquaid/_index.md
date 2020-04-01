@@ -1,0 +1,4 @@
+---
+title: Langquaid
+url: /langquaid/
+---

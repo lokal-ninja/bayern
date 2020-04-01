@@ -1,0 +1,4 @@
+---
+title: Hinterschmiding
+url: /hinterschmiding/
+---

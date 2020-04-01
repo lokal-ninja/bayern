@@ -1,0 +1,4 @@
+---
+title: Brunnthal
+url: /brunnthal/
+---

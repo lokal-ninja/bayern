@@ -1,0 +1,4 @@
+---
+title: Hergensweiler
+url: /hergensweiler/
+---

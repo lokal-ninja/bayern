@@ -1,0 +1,4 @@
+---
+title: Gmund
+url: /gmund/
+---

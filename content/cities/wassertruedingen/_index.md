@@ -1,0 +1,4 @@
+---
+title: Wassertrüdingen
+url: /wassertruedingen/
+---

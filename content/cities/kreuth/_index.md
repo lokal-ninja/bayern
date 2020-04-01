@@ -1,0 +1,4 @@
+---
+title: Kreuth
+url: /kreuth/
+---

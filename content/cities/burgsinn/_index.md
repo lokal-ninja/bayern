@@ -1,0 +1,4 @@
+---
+title: Burgsinn
+url: /burgsinn/
+---

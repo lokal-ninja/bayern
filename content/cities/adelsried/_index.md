@@ -1,0 +1,4 @@
+---
+title: Adelsried
+url: /adelsried/
+---

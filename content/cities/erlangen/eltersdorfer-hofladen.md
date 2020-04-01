@@ -1,0 +1,4 @@
+---
+title: "Eltersdorfer Hofladen"
+url: /erlangen/eltersdorfer-hofladen/
+---

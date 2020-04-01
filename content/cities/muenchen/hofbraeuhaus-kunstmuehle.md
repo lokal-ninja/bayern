@@ -1,0 +1,4 @@
+---
+title: "Hofbräuhaus-Kunstmühle"
+url: /muenchen/hofbraeuhaus-kunstmuehle/
+---

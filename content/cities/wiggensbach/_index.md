@@ -1,0 +1,4 @@
+---
+title: Wiggensbach
+url: /wiggensbach/
+---

@@ -1,0 +1,4 @@
+---
+title: Bubenreuth
+url: /bubenreuth/
+---

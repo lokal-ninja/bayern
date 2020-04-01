@@ -1,0 +1,4 @@
+---
+title: Pentenried
+url: /pentenried/
+---

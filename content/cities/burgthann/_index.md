@@ -1,0 +1,4 @@
+---
+title: Burgthann
+url: /burgthann/
+---

@@ -1,0 +1,4 @@
+---
+title: Kraiburg
+url: /kraiburg/
+---

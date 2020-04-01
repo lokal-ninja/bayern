@@ -1,0 +1,4 @@
+---
+title: Bodenmais
+url: /bodenmais/
+---

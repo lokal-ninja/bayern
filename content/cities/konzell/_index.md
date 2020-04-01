@@ -1,0 +1,4 @@
+---
+title: Konzell
+url: /konzell/
+---

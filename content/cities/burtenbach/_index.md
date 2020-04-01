@@ -1,0 +1,4 @@
+---
+title: Burtenbach
+url: /burtenbach/
+---

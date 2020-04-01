@@ -1,0 +1,4 @@
+---
+title: Plößberg
+url: /ploessberg/
+---

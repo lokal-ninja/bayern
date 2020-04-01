@@ -1,0 +1,4 @@
+---
+title: Wipfeld
+url: /wipfeld/
+---

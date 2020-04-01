@@ -1,0 +1,4 @@
+---
+title: Kühbach
+url: /kuehbach/
+---

@@ -1,0 +1,4 @@
+---
+title: Fuchstal
+url: /fuchstal/
+---

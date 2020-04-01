@@ -1,0 +1,4 @@
+---
+title: Syrgenstein
+url: /syrgenstein/
+---

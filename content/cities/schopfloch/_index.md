@@ -1,0 +1,4 @@
+---
+title: Schopfloch
+url: /schopfloch/
+---

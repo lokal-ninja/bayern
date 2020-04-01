@@ -1,0 +1,4 @@
+---
+title: Schönwald
+url: /schoenwald/
+---

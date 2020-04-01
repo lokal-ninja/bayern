@@ -1,0 +1,4 @@
+---
+title: Kinding
+url: /kinding/
+---

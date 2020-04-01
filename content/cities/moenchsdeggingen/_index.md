@@ -1,0 +1,4 @@
+---
+title: Mönchsdeggingen
+url: /moenchsdeggingen/
+---

@@ -1,0 +1,4 @@
+---
+title: Goldkronach
+url: /goldkronach/
+---

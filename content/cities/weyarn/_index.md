@@ -1,0 +1,4 @@
+---
+title: Weyarn
+url: /weyarn/
+---

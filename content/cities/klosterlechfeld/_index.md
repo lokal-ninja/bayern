@@ -1,0 +1,4 @@
+---
+title: Klosterlechfeld
+url: /klosterlechfeld/
+---

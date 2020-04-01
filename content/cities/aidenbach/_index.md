@@ -1,0 +1,4 @@
+---
+title: Aidenbach
+url: /aidenbach/
+---

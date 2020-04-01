@@ -1,0 +1,4 @@
+---
+title: Eichenbühl
+url: /eichenbuehl/
+---

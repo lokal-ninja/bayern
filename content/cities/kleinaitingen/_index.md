@@ -1,0 +1,4 @@
+---
+title: Kleinaitingen
+url: /kleinaitingen/
+---

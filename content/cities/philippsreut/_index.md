@@ -1,0 +1,4 @@
+---
+title: Philippsreut
+url: /philippsreut/
+---

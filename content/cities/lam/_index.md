@@ -1,0 +1,4 @@
+---
+title: Lam
+url: /lam/
+---

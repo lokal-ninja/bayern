@@ -1,0 +1,4 @@
+---
+title: Riedlhütte
+url: /riedlhuette/
+---

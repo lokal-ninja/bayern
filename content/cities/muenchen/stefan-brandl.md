@@ -1,0 +1,4 @@
+---
+title: "Stefan Brandl"
+url: /muenchen/stefan-brandl/
+---

@@ -1,0 +1,4 @@
+---
+title: Oberasbach
+url: /oberasbach/
+---

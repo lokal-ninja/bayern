@@ -1,0 +1,4 @@
+---
+title: Ruhpolding
+url: /ruhpolding/
+---

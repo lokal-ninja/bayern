@@ -1,0 +1,4 @@
+---
+title: Schnaittenbach
+url: /schnaittenbach/
+---

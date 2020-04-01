@@ -1,0 +1,4 @@
+---
+title: Altfraunhofen
+url: /altfraunhofen/
+---

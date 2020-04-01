@@ -1,0 +1,4 @@
+---
+title: Oberostendorf
+url: /oberostendorf/
+---

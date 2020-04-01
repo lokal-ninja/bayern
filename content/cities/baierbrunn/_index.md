@@ -1,0 +1,4 @@
+---
+title: Baierbrunn
+url: /baierbrunn/
+---

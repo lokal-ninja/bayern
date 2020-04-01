@@ -1,0 +1,4 @@
+---
+title: Waffenbrunn
+url: /waffenbrunn/
+---

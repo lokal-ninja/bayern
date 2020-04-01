@@ -1,0 +1,4 @@
+---
+title: Ergolding
+url: /ergolding/
+---

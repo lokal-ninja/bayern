@@ -1,0 +1,4 @@
+---
+title: Wiesenttal
+url: /wiesenttal/
+---

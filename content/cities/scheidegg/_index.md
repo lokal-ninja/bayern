@@ -1,0 +1,4 @@
+---
+title: Scheidegg
+url: /scheidegg/
+---

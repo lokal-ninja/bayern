@@ -1,0 +1,4 @@
+---
+title: Ernsgaden
+url: /ernsgaden/
+---

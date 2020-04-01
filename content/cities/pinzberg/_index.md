@@ -1,0 +1,4 @@
+---
+title: Pinzberg
+url: /pinzberg/
+---

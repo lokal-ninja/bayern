@@ -1,0 +1,4 @@
+---
+title: Kaufering
+url: /kaufering/
+---

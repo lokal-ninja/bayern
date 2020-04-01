@@ -1,0 +1,4 @@
+---
+title: "XXL-Automotive"
+url: /hassfurt/xxl-automotive/
+---

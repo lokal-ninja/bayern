@@ -1,0 +1,4 @@
+---
+title: Ottobeuren
+url: /ottobeuren/
+---

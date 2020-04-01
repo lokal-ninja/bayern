@@ -1,0 +1,4 @@
+---
+title: Waldmünchen
+url: /waldmuenchen/
+---

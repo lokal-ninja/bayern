@@ -1,0 +1,4 @@
+---
+title: "Friseursalon Figaro"
+url: /geiselhoering/friseursalon-figaro/
+---
