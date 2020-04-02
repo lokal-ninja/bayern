@@ -5,7 +5,7 @@ latitude: 49.4605164
 longitude: 11.100071300000002
 postcode: 
 city: Nürnberg
-street: Ludwig-Feuerbach-Straße
+street: "Ludwig-Feuerbach-Straße"
 housenumber: 68
 phone: ""
 opening_hours: "Mo-Fr 10:00-14:00; Mo-Fr 15:00-18:00, Sa 10:00-14:00"

@@ -5,7 +5,7 @@ latitude: 49.4469689
 longitude: 11.4145733
 postcode: 91238
 city: Offenhausen
-street: Brandstraße
+street: "Brandstraße"
 housenumber: 10
 phone: ""
 opening_hours: ""

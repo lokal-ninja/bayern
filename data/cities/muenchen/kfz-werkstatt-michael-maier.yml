@@ -5,7 +5,7 @@ latitude: 48.1177415
 longitude: 11.5703729
 postcode: 81543
 city: München
-street: Claude-Lorrain-Straße
+street: "Claude-Lorrain-Straße"
 housenumber: 41
 phone: "+49 89 650 650"
 opening_hours: ""

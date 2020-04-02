@@ -5,7 +5,7 @@ latitude: 49.8604234
 longitude: 10.2281899
 postcode: 97332
 city: Volkach
-street: Sommeracher Straße
+street: "Sommeracher Straße"
 housenumber: 35
 phone: ""
 opening_hours: "Mo-Th 07:30-12:00,13:00-17:00 Service; Fr 07:30-12:00,13:00-16:30"

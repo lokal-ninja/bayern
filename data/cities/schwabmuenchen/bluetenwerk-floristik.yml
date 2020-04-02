@@ -5,7 +5,7 @@ latitude: 48.1806357
 longitude: 10.7588471
 postcode: 86830
 city: Schwabmünchen
-street: Raiffeisenstraße
+street: "Raiffeisenstraße"
 housenumber: 4
 phone: "+49 8232 8087990"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"

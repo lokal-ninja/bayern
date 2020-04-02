@@ -5,7 +5,7 @@ latitude: 47.461244300000004
 longitude: 10.272158300000001
 postcode: 87538
 city: Fischen im Allgäu
-street: Weilerstraße
+street: "Weilerstraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

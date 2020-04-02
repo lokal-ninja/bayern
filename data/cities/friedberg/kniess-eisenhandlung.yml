@@ -5,7 +5,7 @@ latitude: 48.3488794
 longitude: 10.997301100000001
 postcode: 86316
 city: Friedberg
-street: Marquardtstraße
+street: "Marquardtstraße"
 housenumber: 1
 phone: "+49 821 267690"
 opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-13:00"

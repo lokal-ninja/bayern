@@ -5,7 +5,7 @@ latitude: 48.1342894
 longitude: 11.299474100000001
 postcode: 82239
 city: Alling
-street: Waldstraße
+street: "Waldstraße"
 housenumber: 4
 phone: "+49 8141 328730"
 opening_hours: ""

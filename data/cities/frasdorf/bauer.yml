@@ -5,7 +5,7 @@ latitude: 47.8023285
 longitude: 12.282010000000001
 postcode: 83112
 city: Frasdorf
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 33
 phone: "+49 8052 2161"
 opening_hours: ""

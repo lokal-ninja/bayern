@@ -5,7 +5,7 @@ latitude: 48.1919175
 longitude: 11.2566611
 postcode: 82256
 city: Fürstenfeldbruck
-street: Maisacher Straße
+street: "Maisacher Straße"
 housenumber: 116
 phone: "+49 81 41 52 59 02"
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"

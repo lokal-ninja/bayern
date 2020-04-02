@@ -5,7 +5,7 @@ latitude: 47.984945800000006
 longitude: 11.8632659
 postcode: 85625
 city: Glonn
-street: Hans-Ernst-Straße
+street: "Hans-Ernst-Straße"
 housenumber: 13
 phone: ""
 opening_hours: "Mo-Fr 09:00-12:00; Th,Fr 14:00-19:00"

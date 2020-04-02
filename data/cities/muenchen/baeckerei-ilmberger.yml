@@ -5,7 +5,7 @@ latitude: 48.112731100000005
 longitude: 11.604810200000001
 postcode: 81669
 city: München
-street: Klagenfurter Straße
+street: "Klagenfurter Straße"
 housenumber: 15
 phone: "+49 89 30702409"
 opening_hours: "Mo, We 07:00-13:00; Tu,Th,Fr 07:00-13:00, 15:00-18:00; Sa 07:00-12:00"

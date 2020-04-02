@@ -5,7 +5,7 @@ latitude: 50.0711214
 longitude: 9.075890000000001
 postcode: 63755
 city: Alzenau
-street: Hahnenkammstraße
+street: "Hahnenkammstraße"
 housenumber: 22
 phone: "+49 6023 1306"
 opening_hours: ""

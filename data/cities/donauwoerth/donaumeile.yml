@@ -5,7 +5,7 @@ latitude: 48.716310400000005
 longitude: 10.7671963
 postcode: 86609
 city: Donauwörth
-street: Dillinger Straße
+street: "Dillinger Straße"
 housenumber: 18-34
 phone: ""
 opening_hours: "Mo-Sa 09:00-20:00"

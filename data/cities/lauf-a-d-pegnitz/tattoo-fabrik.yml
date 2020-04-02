@@ -5,7 +5,7 @@ latitude: 49.513232
 longitude: 11.283053
 postcode: 91207
 city: Lauf a.d.Pegnitz
-street: Mangplatz
+street: "Mangplatz"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Fr 12:00-18:00; Sa 12:00-16:00"

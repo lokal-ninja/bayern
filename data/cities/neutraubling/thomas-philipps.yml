@@ -5,7 +5,7 @@ latitude: 48.9778412
 longitude: 12.189749500000001
 postcode: 93073
 city: Neutraubling
-street: Podersamer Straße
+street: "Podersamer Straße"
 housenumber: 12
 phone: "+49 9401 521782"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"

@@ -5,7 +5,7 @@ latitude: 48.969522600000005
 longitude: 13.127040200000001
 postcode: 94209
 city: Regen
-street: Stadtplatz
+street: "Stadtplatz"
 housenumber: 16
 phone: ""
 opening_hours: ""

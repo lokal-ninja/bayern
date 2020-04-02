@@ -5,7 +5,7 @@ latitude: 49.676179100000006
 longitude: 12.162932600000001
 postcode: 92637
 city: Weiden i.d.OPf.
-street: Türlgasse
+street: "Türlgasse"
 housenumber: 13
 phone: "+49 961 44977"
 opening_hours: "Mo,We-Fr 08:15-18:00; Tu 08:15-13:00; Sa 08:15-14:00; Su,PH off"

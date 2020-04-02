@@ -5,7 +5,7 @@ latitude: 48.5388778
 longitude: 12.156132000000001
 postcode: 
 city: Landshut
-street: Am Alten Viehmarkt
+street: "Am Alten Viehmarkt"
 housenumber: 5
 phone: ""
 opening_hours: ""

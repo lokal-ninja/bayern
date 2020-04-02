@@ -5,7 +5,7 @@ latitude: 49.4509904
 longitude: 11.057588800000001
 postcode: 90429
 city: Nürnberg
-street: Fürther Straße
+street: "Fürther Straße"
 housenumber: 42
 phone: "+49 911 270700"
 opening_hours: ""

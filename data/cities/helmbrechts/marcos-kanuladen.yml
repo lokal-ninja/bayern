@@ -5,7 +5,7 @@ latitude: 50.235100800000005
 longitude: 11.723434000000001
 postcode: 95233
 city: Helmbrechts
-street: Karlstraße
+street: "Karlstraße"
 housenumber: 11
 phone: "+49 9252 7208"
 opening_hours: ""

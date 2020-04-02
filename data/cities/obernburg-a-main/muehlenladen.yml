@@ -5,7 +5,7 @@ latitude: 49.8350938
 longitude: 9.1109977
 postcode: 63785
 city: Obernburg a.Main
-street: Mühlstraße
+street: "Mühlstraße"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Th 09:00-12:00,13:00-17:00; PH off"

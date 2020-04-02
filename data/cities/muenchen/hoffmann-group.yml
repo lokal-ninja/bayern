@@ -5,7 +5,7 @@ latitude: 48.149475
 longitude: 11.447512000000001
 postcode: 81241
 city: München
-street: Haberlandstraße
+street: "Haberlandstraße"
 housenumber: 55
 phone: ""
 opening_hours: ""

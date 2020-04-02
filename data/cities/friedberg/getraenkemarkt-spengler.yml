@@ -5,7 +5,7 @@ latitude: 48.3824817
 longitude: 10.9841542
 postcode: 86316
 city: Friedberg
-street: Hochbergstraße
+street: "Hochbergstraße"
 housenumber: 4
 phone: "+49 821 782175"
 opening_hours: ""

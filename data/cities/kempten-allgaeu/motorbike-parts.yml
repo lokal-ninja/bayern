@@ -5,7 +5,7 @@ latitude: 47.741902800000005
 longitude: 10.3251475
 postcode: 87437
 city: Kempten (Allgäu)
-street: Bleicherstraße
+street: "Bleicherstraße"
 housenumber: 24
 phone: "+49 831 5918792"
 opening_hours: "Mo-Sa 08:00-18:00"

@@ -5,7 +5,7 @@ latitude: 47.8829889
 longitude: 12.6318429
 postcode: 83278
 city: Traunstein
-street: Kotzinger Straße
+street: "Kotzinger Straße"
 housenumber: 15
 phone: "+49 861 209950"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.3984104
 longitude: 11.975590500000001
 postcode: 92263
 city: Ebermannsdorf
-street: Schafhofer Weg
+street: "Schafhofer Weg"
 housenumber: 2
 phone: "+49 9438 943 544"
 opening_hours: ""

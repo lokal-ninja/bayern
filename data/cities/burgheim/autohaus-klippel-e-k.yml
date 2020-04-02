@@ -5,7 +5,7 @@ latitude: 48.7080284
 longitude: 11.0092393
 postcode: 86666
 city: Burgheim
-street: Gewerbering
+street: "Gewerbering"
 housenumber: 2
 phone: "+49 8432 920085"
 opening_hours: "Mo-Fr 08:00-18:00, Sa 08:00-13:00"

@@ -5,7 +5,7 @@ latitude: 49.3873833
 longitude: 11.359264000000001
 postcode: 90518
 city: Altdorf b.Nürnberg
-street: Schießhausstraße
+street: "Schießhausstraße"
 housenumber: 17
 phone: ""
 opening_hours: ""

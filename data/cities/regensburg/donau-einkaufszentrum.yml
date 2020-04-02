@@ -5,7 +5,7 @@ latitude: 49.0272355
 longitude: 12.1155095
 postcode: 93059
 city: Regensburg
-street: Weichser Weg
+street: "Weichser Weg"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Sa 09:30-20:00"

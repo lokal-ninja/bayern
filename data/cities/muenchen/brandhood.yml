@@ -5,7 +5,7 @@ latitude: 48.1335987
 longitude: 11.5687777
 postcode: 80331
 city: München
-street: Oberanger
+street: "Oberanger"
 housenumber: 45
 phone: "+49 89 23702655"
 opening_hours: "Mo-Sa 11:00-19:00; Sa 11:00-18:00"

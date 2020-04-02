@@ -5,7 +5,7 @@ latitude: 47.8478681
 longitude: 12.347982900000002
 postcode: 83209
 city: Prien am Chiemsee
-street: Hochriesstraße
+street: "Hochriesstraße"
 housenumber: 54
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

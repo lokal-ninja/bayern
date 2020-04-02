@@ -5,7 +5,7 @@ latitude: 49.574579400000005
 longitude: 11.0009464
 postcode: 91058
 city: Erlangen
-street: Günther-Scharowsky-Straße
+street: "Günther-Scharowsky-Straße"
 housenumber: 4
 phone: "+49 9131 160103"
 opening_hours: "Mo-Fr 07:30-20:00, Sa 08:00-16:00"

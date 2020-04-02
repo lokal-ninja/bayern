@@ -5,7 +5,7 @@ latitude: 48.125823200000006
 longitude: 11.644987400000002
 postcode: 81673
 city: München
-street: Sankt-Veit-Straße
+street: "Sankt-Veit-Straße"
 housenumber: 19
 phone: "+49 89 88989683"
 opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-18:00"

@@ -5,7 +5,7 @@ latitude: 48.126825100000005
 longitude: 11.593003900000001
 postcode: 81669
 city: München
-street: Franziskanerstraße
+street: "Franziskanerstraße"
 housenumber: 19
 phone: "+49 89 54881677"
 opening_hours: ""

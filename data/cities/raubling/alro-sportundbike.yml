@@ -5,7 +5,7 @@ latitude: 47.787139100000005
 longitude: 12.1101506
 postcode: 83064
 city: Raubling
-street: Kufsteiner Straße
+street: "Kufsteiner Straße"
 housenumber: 27
 phone: ""
 opening_hours: "Mo-Fr 09:00-12:00,14:00-18:00; Sa 09:00-13:00"

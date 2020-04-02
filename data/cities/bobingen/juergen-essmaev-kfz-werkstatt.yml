@@ -5,7 +5,7 @@ latitude: 48.260693700000004
 longitude: 10.8355776
 postcode: 86399
 city: Bobingen
-street: Tutzinger Straße
+street: "Tutzinger Straße"
 housenumber: 5
 phone: "+49 8234 9598187"
 opening_hours: "Mo-Fr 08:00-17:30"

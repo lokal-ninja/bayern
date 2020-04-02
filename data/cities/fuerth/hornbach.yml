@@ -5,7 +5,7 @@ latitude: 49.450983
 longitude: 11.000994400000002
 postcode: 90763
 city: Fürth
-street: Magazinstraße
+street: "Magazinstraße"
 housenumber: 90
 phone: ""
 opening_hours: ""

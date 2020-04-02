@@ -5,7 +5,7 @@ latitude: 49.716183300000004
 longitude: 9.2681935
 postcode: 63927
 city: Bürgstadt
-street: Martinsgasse
+street: "Martinsgasse"
 housenumber: 18
 phone: "+49 9371 2457"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.160378900000005
 longitude: 11.5730407
 postcode: 80796
 city: München
-street: Isabellastraße
+street: "Isabellastraße"
 housenumber: 49
 phone: ""
 opening_hours: "Mo-Fr 06:30-18:00, Sa 07:30-17:00, Su,PH 08:00-19:00"

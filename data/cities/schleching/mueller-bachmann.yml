@@ -5,7 +5,7 @@ latitude: 47.708722900000005
 longitude: 12.3849219
 postcode: 83259
 city: Schleching
-street: Geigelsteinstraße
+street: "Geigelsteinstraße"
 housenumber: 10
 phone: ""
 opening_hours: ""

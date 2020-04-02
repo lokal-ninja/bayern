@@ -5,7 +5,7 @@ latitude: 48.1564166
 longitude: 11.5581247
 postcode: 80797
 city: München
-street: Lothstraße
+street: "Lothstraße"
 housenumber: 78 a
 phone: ""
 opening_hours: "Th-Sa 15:00-19:00; Su-We,PH off || nach Vereinbarung"

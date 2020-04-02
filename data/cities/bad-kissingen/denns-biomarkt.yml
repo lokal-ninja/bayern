@@ -5,7 +5,7 @@ latitude: 50.1904151
 longitude: 10.0609718
 postcode: 97688
 city: Bad Kissingen
-street: Heiligenfelder Allee
+street: "Heiligenfelder Allee"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

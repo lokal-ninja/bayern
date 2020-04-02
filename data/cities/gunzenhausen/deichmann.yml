@@ -5,7 +5,7 @@ latitude: 49.105915800000005
 longitude: 10.7622742
 postcode: 91710
 city: Gunzenhausen
-street: Weißenburger Straße
+street: "Weißenburger Straße"
 housenumber: 89
 phone: ""
 opening_hours: ""

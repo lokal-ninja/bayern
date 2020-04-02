@@ -5,7 +5,7 @@ latitude: 50.0457155
 longitude: 10.234159
 postcode: 97421
 city: Schweinfurt
-street: Obere Straße
+street: "Obere Straße"
 housenumber: 
 phone: "+49 9721 188 81 00"
 opening_hours: "Tu-Fr 9:00-19:00; Sa 9:00-16:00; Mo,Su,PH off"

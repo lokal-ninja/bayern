@@ -5,7 +5,7 @@ latitude: 49.627226900000004
 longitude: 10.9385986
 postcode: 91056
 city: Erlangen
-street: Brühl
+street: "Brühl"
 housenumber: 4
 phone: "+49 9135 8444"
 opening_hours: "Mo-Fr 14:00-19:00; Sa 09:00-13:00"

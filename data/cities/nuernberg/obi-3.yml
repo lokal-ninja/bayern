@@ -5,7 +5,7 @@ latitude: 49.4787308
 longitude: 11.110477900000001
 postcode: 90411
 city: Nürnberg
-street: Äußere Bayreuther Straße
+street: "Äußere Bayreuther Straße"
 housenumber: 220
 phone: "+49 911 567900"
 opening_hours: "Mo-Sa 08:00-20:00"

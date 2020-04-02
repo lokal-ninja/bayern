@@ -5,7 +5,7 @@ latitude: 49.950740100000004
 longitude: 12.244477300000002
 postcode: 95666
 city: Mitterteich
-street: Bachstraße
+street: "Bachstraße"
 housenumber: 7
 phone: ""
 opening_hours: ""

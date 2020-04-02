@@ -5,7 +5,7 @@ latitude: 48.8166595
 longitude: 11.8445672
 postcode: 93326
 city: Abensberg
-street: Schulhausplatz
+street: "Schulhausplatz"
 housenumber: 3
 phone: "+49 9443 91340"
 opening_hours: ""

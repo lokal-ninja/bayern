@@ -5,7 +5,7 @@ latitude: 49.9472363
 longitude: 12.2553237
 postcode: 95666
 city: Mitterteich
-street: Mühlenstraße
+street: "Mühlenstraße"
 housenumber: 13
 phone: ""
 opening_hours: ""

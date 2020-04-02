@@ -5,7 +5,7 @@ latitude: 48.091538500000006
 longitude: 11.4076535
 postcode: 82131
 city: Gauting
-street: Baierplatz
+street: "Baierplatz"
 housenumber: 2
 phone: "+49 171 3439013"
 opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-14:30; PH off"

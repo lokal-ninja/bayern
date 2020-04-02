@@ -5,7 +5,7 @@ latitude: 49.0462202
 longitude: 11.3574616
 postcode: 91171
 city: Greding
-street: Kindinger Straße
+street: "Kindinger Straße"
 housenumber: 17
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

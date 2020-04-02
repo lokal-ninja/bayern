@@ -5,7 +5,7 @@ latitude: 49.623429200000004
 longitude: 10.8258729
 postcode: 91085
 city: Weisendorf
-street: Höchstadter Straße
+street: "Höchstadter Straße"
 housenumber: 4b
 phone: ""
 opening_hours: ""

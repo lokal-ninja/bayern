@@ -5,7 +5,7 @@ latitude: 50.1807516
 longitude: 11.7912605
 postcode: 95213
 city: Münchberg
-street: Sparnecker Straße
+street: "Sparnecker Straße"
 housenumber: 82a
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:00"

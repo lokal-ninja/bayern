@@ -5,7 +5,7 @@ latitude: 48.424529400000004
 longitude: 10.8791884
 postcode: 86368
 city: Gersthofen
-street: Augsburger Straße
+street: "Augsburger Straße"
 housenumber: 2
 phone: "+49 821 90798138"
 opening_hours: "Mo 07:00-17:00; Tu-Fr 07:00-19:00; Sa,Su 07:00-12:00"

@@ -5,7 +5,7 @@ latitude: 48.103157700000004
 longitude: 10.6584375
 postcode: 86833
 city: Ettringen
-street: Hahnenbichlstraße
+street: "Hahnenbichlstraße"
 housenumber: 16
 phone: "+49 8249 8104"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.223648600000004
 longitude: 12.6592392
 postcode: 93413
 city: Cham
-street: Waldschmidtstraße
+street: "Waldschmidtstraße"
 housenumber: 10
 phone: "+49 9971 2287"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.557166
 longitude: 11.3359661
 postcode: 91220
 city: Schnaittach
-street: Badstraße
+street: "Badstraße"
 housenumber: 25
 phone: ""
 opening_hours: ""

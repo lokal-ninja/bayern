@@ -5,7 +5,7 @@ latitude: 49.1205567
 longitude: 11.4309525
 postcode: 92334
 city: Berching
-street: Kirchstraße
+street: "Kirchstraße"
 housenumber: 15
 phone: "+49 8462 498"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.5968821
 longitude: 11.0156611
 postcode: 91054
 city: Erlangen
-street: Bismarckstraße
+street: "Bismarckstraße"
 housenumber: 36-38
 phone: ""
 opening_hours: "Mo-Fr 08:00-16:30"

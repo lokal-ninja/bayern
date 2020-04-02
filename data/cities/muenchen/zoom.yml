@@ -5,7 +5,7 @@ latitude: 48.1309022
 longitude: 11.576046400000001
 postcode: 
 city: München
-street: Reichenbachstraße
+street: "Reichenbachstraße"
 housenumber: 23
 phone: ""
 opening_hours: ""

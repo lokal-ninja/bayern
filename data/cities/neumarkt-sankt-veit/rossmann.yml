@@ -5,7 +5,7 @@ latitude: 48.3555896
 longitude: 12.495736
 postcode: 84494
 city: Neumarkt-Sankt Veit
-street: Ampfinger Straße
+street: "Ampfinger Straße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off"

@@ -5,7 +5,7 @@ latitude: 49.139351000000005
 longitude: 10.541504900000001
 postcode: 91572
 city: Bechhofen
-street: Krummweiherweg
+street: "Krummweiherweg"
 housenumber: 20
 phone: "+49-9822-6980"
 opening_hours: "Mo-Su 10:00-22:00"

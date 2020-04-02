@@ -5,7 +5,7 @@ latitude: 48.340861700000005
 longitude: 11.018754000000001
 postcode: 86316
 city: Friedberg
-street: Nikolausweg
+street: "Nikolausweg"
 housenumber: 1a
 phone: ""
 opening_hours: ""

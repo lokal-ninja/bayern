@@ -5,7 +5,7 @@ latitude: 48.2563194
 longitude: 11.556019200000001
 postcode: 85764
 city: Oberschleißheim
-street: Am Fohlengarten
+street: "Am Fohlengarten"
 housenumber: 10a
 phone: ""
 opening_hours: "Mo-Fr 06:00-19:00, Sa 06:00-14:00, So 8:30-11:30"

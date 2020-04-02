@@ -5,7 +5,7 @@ latitude: 49.4404447
 longitude: 11.083438200000002
 postcode: 90459
 city: Nürnberg
-street: Bulmannstraße
+street: "Bulmannstraße"
 housenumber: 26
 phone: ""
 opening_hours: ""

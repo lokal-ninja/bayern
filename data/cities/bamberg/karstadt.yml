@@ -5,7 +5,7 @@ latitude: 49.8936009
 longitude: 10.8887829
 postcode: 96047
 city: Bamberg
-street: Grüner Markt
+street: "Grüner Markt"
 housenumber: 23
 phone: ""
 opening_hours: "Mo-Sa 09:00-19:00"

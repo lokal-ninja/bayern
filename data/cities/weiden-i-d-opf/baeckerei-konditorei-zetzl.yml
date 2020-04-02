@@ -5,7 +5,7 @@ latitude: 49.6764707
 longitude: 12.172678300000001
 postcode: 92637
 city: Weiden i.d.OPf.
-street: Friedrich-Ebert-Straße
+street: "Friedrich-Ebert-Straße"
 housenumber: 20
 phone: ""
 opening_hours: ""

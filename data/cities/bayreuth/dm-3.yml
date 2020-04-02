@@ -5,7 +5,7 @@ latitude: 49.9545552
 longitude: 11.5986299
 postcode: 95448
 city: Bayreuth
-street: Bernecker Straße
+street: "Bernecker Straße"
 housenumber: 41
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 50.39654650000001
 longitude: 11.380705200000001
 postcode: 96358
 city: Teuschnitz
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 34
 phone: ""
 opening_hours: ""

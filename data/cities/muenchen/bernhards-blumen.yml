@@ -5,7 +5,7 @@ latitude: 48.1124908
 longitude: 11.5335534
 postcode: 81369
 city: München
-street: Johann-Clanze-Straße
+street: "Johann-Clanze-Straße"
 housenumber: 27
 phone: ""
 opening_hours: ""

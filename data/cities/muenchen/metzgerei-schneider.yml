@@ -5,7 +5,7 @@ latitude: 48.194043
 longitude: 11.4620057
 postcode: 80999
 city: München
-street: Franz-Nißl-Straße
+street: "Franz-Nißl-Straße"
 housenumber: 42
 phone: "+49 89 81801227"
 opening_hours: "Tu-Fr 07:30-13:00,15:00-18:00; Sa 07:30-12:30"

@@ -5,7 +5,7 @@ latitude: 48.3863951
 longitude: 10.8463835
 postcode: 86156
 city: Augsburg
-street: Kobelweg
+street: "Kobelweg"
 housenumber: 80
 phone: ""
 opening_hours: ""

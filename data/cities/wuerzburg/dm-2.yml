@@ -5,7 +5,7 @@ latitude: 49.784038100000004
 longitude: 9.946452500000001
 postcode: 97074
 city: Würzburg
-street: Erthalstraße
+street: "Erthalstraße"
 housenumber: 32b
 phone: ""
 opening_hours: ""

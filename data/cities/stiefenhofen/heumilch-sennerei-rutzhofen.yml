@@ -5,7 +5,7 @@ latitude: 47.5958125
 longitude: 9.985516500000001
 postcode: 88167
 city: Stiefenhofen
-street: Rutzhofen
+street: "Rutzhofen"
 housenumber: 7
 phone: "+49 8384 580"
 opening_hours: "Mo,Tu,Th,Fr 06:30-13:00,14:30-18:00; We,Sa 06:30-13:00"

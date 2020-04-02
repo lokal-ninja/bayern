@@ -5,7 +5,7 @@ latitude: 47.8431608
 longitude: 11.147186300000001
 postcode: 82362
 city: Weilheim in Oberbayern
-street: Andreas-Schmidtner-Straße
+street: "Andreas-Schmidtner-Straße"
 housenumber: 11
 phone: ""
 opening_hours: ""

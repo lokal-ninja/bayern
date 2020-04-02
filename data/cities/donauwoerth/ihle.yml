@@ -5,7 +5,7 @@ latitude: 48.719019900000006
 longitude: 10.7779834
 postcode: 86609
 city: Donauwörth
-street: Reichsstraße
+street: "Reichsstraße"
 housenumber: 43
 phone: ""
 opening_hours: ""

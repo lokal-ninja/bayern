@@ -5,7 +5,7 @@ latitude: 49.4778578
 longitude: 11.0585654
 postcode: 90425
 city: Nürnberg
-street: Schnepfenreuther Weg
+street: "Schnepfenreuther Weg"
 housenumber: 45
 phone: "+49 911 341924"
 opening_hours: ""

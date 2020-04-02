@@ -5,7 +5,7 @@ latitude: 49.798037400000005
 longitude: 12.159483400000001
 postcode: 92670
 city: Windischeschenbach
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 7
 phone: ""
 opening_hours: ""

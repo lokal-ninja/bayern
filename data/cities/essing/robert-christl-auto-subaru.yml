@@ -5,7 +5,7 @@ latitude: 48.929574300000006
 longitude: 11.796933200000002
 postcode: 93343
 city: Essing
-street: Schnellnecker Straße
+street: "Schnellnecker Straße"
 housenumber: 1a
 phone: "+49 9447 344"
 opening_hours: ""

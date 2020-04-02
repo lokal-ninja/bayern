@@ -5,7 +5,7 @@ latitude: 49.7063215
 longitude: 10.023833100000001
 postcode: 97286
 city: Sommerhausen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

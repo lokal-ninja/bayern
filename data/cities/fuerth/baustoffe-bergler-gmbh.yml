@@ -5,7 +5,7 @@ latitude: 49.5248586
 longitude: 10.9777398
 postcode: 90765
 city: Fürth
-street: Stadelner Hauptstraße
+street: "Stadelner Hauptstraße"
 housenumber: 182
 phone: "+49 911 76 13 31"
 opening_hours: "Mo-Fr 07:00-17:30; Sa 08:00-12:00"

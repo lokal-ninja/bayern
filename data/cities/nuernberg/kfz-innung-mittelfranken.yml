@@ -5,7 +5,7 @@ latitude: 49.438221000000006
 longitude: 11.054302
 postcode: 90439
 city: Nürnberg
-street: Hermannstraße
+street: "Hermannstraße"
 housenumber: 21-25
 phone: ""
 opening_hours: ""

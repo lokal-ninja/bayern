@@ -5,7 +5,7 @@ latitude: 49.5775835
 longitude: 11.009329800000001
 postcode: 91052
 city: Erlangen
-street: Jaminstraße
+street: "Jaminstraße"
 housenumber: 13
 phone: ""
 opening_hours: "Mo off; Tu-We 14:00-18:00; Th-Fr 10:00-18:00; Sa 10:00-13:00"

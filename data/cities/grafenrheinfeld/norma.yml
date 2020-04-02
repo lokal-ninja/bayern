@@ -5,7 +5,7 @@ latitude: 49.996116400000005
 longitude: 10.1975862
 postcode: 97506
 city: Grafenrheinfeld
-street: Hopfengarten
+street: "Hopfengarten"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

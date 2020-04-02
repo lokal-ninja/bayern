@@ -5,7 +5,7 @@ latitude: 48.7154054
 longitude: 11.493908900000001
 postcode: 85077
 city: Manching
-street: Bergstraße
+street: "Bergstraße"
 housenumber: 6
 phone: "+49 8459 332032"
 opening_hours: ""

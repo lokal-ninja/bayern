@@ -5,7 +5,7 @@ latitude: 48.9385003
 longitude: 12.051147400000001
 postcode: 93077
 city: Bad Abbach
-street: Raiffeisenstraße
+street: "Raiffeisenstraße"
 housenumber: 19
 phone: "+49 9405 5599"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.983132000000005
 longitude: 9.147214
 postcode: 63741
 city: Aschaffenburg
-street: Schneidmühlweg
+street: "Schneidmühlweg"
 housenumber: 12
 phone: ""
 opening_hours: ""

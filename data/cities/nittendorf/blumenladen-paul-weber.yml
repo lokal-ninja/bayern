@@ -5,7 +5,7 @@ latitude: 49.024903800000004
 longitude: 11.9548144
 postcode: 93152
 city: Nittendorf
-street: Brunnenstraße
+street: "Brunnenstraße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00, Sa 08:30-13:00"

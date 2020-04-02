@@ -5,7 +5,7 @@ latitude: 47.850604700000005
 longitude: 11.498318000000001
 postcode: 82538
 city: Geretsried
-street: Jeschkenstraße
+street: "Jeschkenstraße"
 housenumber: 12
 phone: "+49 8171 4830844"
 opening_hours: "Mo-Fr 07:30-18:00"

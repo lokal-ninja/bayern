@@ -5,7 +5,7 @@ latitude: 48.1777475
 longitude: 11.2514348
 postcode: 82256
 city: Fürstenfeldbruck
-street: Ludwigstraße
+street: "Ludwigstraße"
 housenumber: 2
 phone: "+49 8141 354020"
 opening_hours: "Mo-Su 08:00-20:00; Sa 08:00-16:00"

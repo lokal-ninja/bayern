@@ -5,7 +5,7 @@ latitude: 47.8688786
 longitude: 12.014895300000001
 postcode: 83043
 city: Bad Aibling
-street: Ellmosener Straße
+street: "Ellmosener Straße"
 housenumber: 22
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

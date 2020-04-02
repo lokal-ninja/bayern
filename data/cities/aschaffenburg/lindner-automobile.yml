@@ -5,7 +5,7 @@ latitude: 49.969363200000004
 longitude: 9.163292100000001
 postcode: 63743
 city: Aschaffenburg
-street: Würzburger Straße
+street: "Würzburger Straße"
 housenumber: 128
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.4525495
 longitude: 11.6853855
 postcode: 92278
 city: Illschwang
-street: Bergstraße
+street: "Bergstraße"
 housenumber: 11
 phone: "+49 9666 1885846"
 opening_hours: "Th,Fr 15:00-18:00; Sa 09:00-13:00"

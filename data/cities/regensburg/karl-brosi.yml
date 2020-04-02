@@ -5,7 +5,7 @@ latitude: 49.024549300000004
 longitude: 12.0971449
 postcode: 93059
 city: Regensburg
-street: Am Brückenfuß
+street: "Am Brückenfuß"
 housenumber: 5
 phone: "+49 941 82113"
 opening_hours: "Mo-Fr 08:00-13:00,14:00-18:00; Sa 09:00-13:30"

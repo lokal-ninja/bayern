@@ -5,7 +5,7 @@ latitude: 48.132283900000004
 longitude: 11.5673197
 postcode: 80469
 city: München
-street: Müllerstraße
+street: "Müllerstraße"
 housenumber: 54
 phone: ""
 opening_hours: "Mo-Sa 10:00-20:00"

@@ -5,7 +5,7 @@ latitude: 47.856363900000005
 longitude: 12.345395600000002
 postcode: 83209
 city: Prien am Chiemsee
-street: Schulstraße
+street: "Schulstraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

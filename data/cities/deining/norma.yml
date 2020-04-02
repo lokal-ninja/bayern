@@ -5,7 +5,7 @@ latitude: 49.223468000000004
 longitude: 11.5404031
 postcode: 92364
 city: Deining
-street: Untere Hauptstraße
+street: "Untere Hauptstraße"
 housenumber: 13
 phone: ""
 opening_hours: ""

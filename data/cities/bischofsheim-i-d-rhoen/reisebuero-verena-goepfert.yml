@@ -5,7 +5,7 @@ latitude: 50.4000527
 longitude: 10.0066547
 postcode: 97653
 city: Bischofsheim i.d.Rhön
-street: Löwenstraße
+street: "Löwenstraße"
 housenumber: 15
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.2612104
 longitude: 12.761890500000002
 postcode: 93495
 city: Weiding
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 30
 phone: ""
 opening_hours: ""

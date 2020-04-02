@@ -5,7 +5,7 @@ latitude: 50.248958800000004
 longitude: 12.035469500000001
 postcode: 95111
 city: Rehau
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.308846700000004
 longitude: 10.1434093
 postcode: 89264
 city: Weißenhorn
-street: Zeissstraße
+street: "Zeissstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

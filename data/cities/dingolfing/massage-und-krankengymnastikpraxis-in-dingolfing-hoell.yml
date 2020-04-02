@@ -5,7 +5,7 @@ latitude: 48.644882700000004
 longitude: 12.492724500000001
 postcode: 84130
 city: Dingolfing
-street: Boschstraße
+street: "Boschstraße"
 housenumber: 20
 phone: "+49 8731 74807"
 opening_hours: "Mo-Fr 07:30-19:00"

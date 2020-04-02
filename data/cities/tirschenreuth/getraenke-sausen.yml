@@ -5,7 +5,7 @@ latitude: 49.8862469
 longitude: 12.320285
 postcode: 95643
 city: Tirschenreuth
-street: Annastraße
+street: "Annastraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

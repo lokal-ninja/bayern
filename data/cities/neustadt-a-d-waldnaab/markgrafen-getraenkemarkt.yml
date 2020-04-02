@@ -5,7 +5,7 @@ latitude: 49.7288092
 longitude: 12.165468200000001
 postcode: 92660
 city: Neustadt a.d.Waldnaab
-street: Naabstraße
+street: "Naabstraße"
 housenumber: 5
 phone: "+49 9602 920 665"
 opening_hours: "Mo-Fr 08:30-19:00; Sa 08:30-14:00"

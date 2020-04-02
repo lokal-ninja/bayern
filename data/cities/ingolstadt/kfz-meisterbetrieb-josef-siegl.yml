@@ -5,7 +5,7 @@ latitude: 48.786551900000006
 longitude: 11.482641600000001
 postcode: 85055
 city: Ingolstadt
-street: Marie-Curie-Straße
+street: "Marie-Curie-Straße"
 housenumber: 35
 phone: "+49 841 55144"
 opening_hours: "08:00-12:00,13:00-18:00"

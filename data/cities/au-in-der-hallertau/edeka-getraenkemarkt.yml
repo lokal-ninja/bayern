@@ -5,7 +5,7 @@ latitude: 48.5644434
 longitude: 11.741314200000001
 postcode: 84072
 city: Au in der Hallertau
-street: Mainburger Straße
+street: "Mainburger Straße"
 housenumber: 34
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

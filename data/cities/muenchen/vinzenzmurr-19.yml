@@ -5,7 +5,7 @@ latitude: 48.125529900000004
 longitude: 11.610590700000001
 postcode: 81671
 city: München
-street: August-Everding-Straße
+street: "August-Everding-Straße"
 housenumber: 20
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.170768900000006
 longitude: 12.861995400000001
 postcode: 93444
 city: Bad Kötzting
-street: Arnbrucker Straße
+street: "Arnbrucker Straße"
 housenumber: 2
 phone: ""
 opening_hours: ""

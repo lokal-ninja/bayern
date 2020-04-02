@@ -5,7 +5,7 @@ latitude: 49.4718613
 longitude: 10.989175600000001
 postcode: 90762
 city: Fürth
-street: Friedrichstraße
+street: "Friedrichstraße"
 housenumber: 19
 phone: "+49 911 7711 07"
 opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"

@@ -5,7 +5,7 @@ latitude: 49.286070800000005
 longitude: 10.6616488
 postcode: 91623
 city: Sachsen bei Ansbach
-street: Bauhausstraße
+street: "Bauhausstraße"
 housenumber: 2
 phone: "+49987248006713"
 opening_hours: ""

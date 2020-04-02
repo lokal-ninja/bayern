@@ -5,7 +5,7 @@ latitude: 47.944439700000004
 longitude: 10.744470000000002
 postcode: 86869
 city: Oberostendorf
-street: Lengenfelder Straße
+street: "Lengenfelder Straße"
 housenumber: 3
 phone: "+49 8344 231"
 opening_hours: "Mo. - Fr. 7:30-18:00, Sa. 8:00-12:00"

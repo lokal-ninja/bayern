@@ -5,7 +5,7 @@ latitude: 47.9166024
 longitude: 12.2937834
 postcode: 83093
 city: Bad Endorf
-street: Im Gewerbegebiet
+street: "Im Gewerbegebiet"
 housenumber: 2a
 phone: ""
 opening_hours: ""

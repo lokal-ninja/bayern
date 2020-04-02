@@ -5,7 +5,7 @@ latitude: 48.1294684
 longitude: 11.625646000000001
 postcode: 81673
 city: München
-street: Berg-am-Laim-Straße
+street: "Berg-am-Laim-Straße"
 housenumber: 117
 phone: "+49 89 437079970"
 opening_hours: "Mo-Sa 07:00-20:00"

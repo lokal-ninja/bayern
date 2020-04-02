@@ -5,7 +5,7 @@ latitude: 48.07824230000001
 longitude: 11.3430652
 postcode: 82349
 city: Pentenried
-street: Gutsstraße
+street: "Gutsstraße"
 housenumber: 8c
 phone: "+49 (0) 151 58719400"
 opening_hours: ""

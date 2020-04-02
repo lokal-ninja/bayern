@@ -5,7 +5,7 @@ latitude: 48.1684623
 longitude: 11.6352136
 postcode: 81927
 city: München
-street: Fürkhofstraße
+street: "Fürkhofstraße"
 housenumber: 9
 phone: "+498995720296"
 opening_hours: ""

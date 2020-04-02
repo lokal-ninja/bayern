@@ -5,7 +5,7 @@ latitude: 49.969382700000004
 longitude: 11.615182800000001
 postcode: 95463
 city: Bindlach
-street: Im Letterer
+street: "Im Letterer"
 housenumber: 6
 phone: "+49 9208 6576410"
 opening_hours: "Mo-Fr 07:00-17:00; Sa 08:00-12:00"

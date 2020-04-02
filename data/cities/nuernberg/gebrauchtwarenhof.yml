@@ -5,7 +5,7 @@ latitude: 49.451243600000005
 longitude: 11.0172112
 postcode: 90431
 city: Nürnberg
-street: Burgbernheimer Straße
+street: "Burgbernheimer Straße"
 housenumber: 12
 phone: ""
 opening_hours: ""

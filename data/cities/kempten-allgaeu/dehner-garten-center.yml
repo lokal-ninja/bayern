@@ -5,7 +5,7 @@ latitude: 47.716767600000004
 longitude: 10.3252202
 postcode: 87437
 city: Kempten (Allgäu)
-street: Füssener Straße
+street: "Füssener Straße"
 housenumber: 2
 phone: ""
 opening_hours: ""

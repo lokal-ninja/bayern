@@ -5,7 +5,7 @@ latitude: 48.193395200000005
 longitude: 11.4235165
 postcode: 81249
 city: München
-street: Goteboldstraße
+street: "Goteboldstraße"
 housenumber: 154
 phone: ""
 opening_hours: ""

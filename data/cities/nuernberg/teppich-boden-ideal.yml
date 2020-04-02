@@ -5,7 +5,7 @@ latitude: 49.445538000000006
 longitude: 11.0607074
 postcode: 90443
 city: Nürnberg
-street: Bauerngasse
+street: "Bauerngasse"
 housenumber: 20
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"

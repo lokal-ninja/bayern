@@ -5,7 +5,7 @@ latitude: 49.506985400000005
 longitude: 12.0543095
 postcode: 92253
 city: Schnaittenbach
-street: Sitzambucher Straße
+street: "Sitzambucher Straße"
 housenumber: 9
 phone: "+49 9604 3463"
 opening_hours: "Tu-Fr 08:00-18:00; Sa 08:00-13:00; Su, PH Off"

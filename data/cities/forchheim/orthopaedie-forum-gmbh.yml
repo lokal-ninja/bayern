@@ -5,7 +5,7 @@ latitude: 49.71662430000001
 longitude: 11.0731102
 postcode: 91301
 city: Forchheim
-street: Bayreuther Straße
+street: "Bayreuther Straße"
 housenumber: 6A
 phone: "+49 9191 670708"
 opening_hours: ""

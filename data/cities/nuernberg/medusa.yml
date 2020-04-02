@@ -5,7 +5,7 @@ latitude: 49.4509624
 longitude: 11.0099137
 postcode: 90431
 city: Nürnberg
-street: Höfener Straße
+street: "Höfener Straße"
 housenumber: 173
 phone: "+49 911 3733311"
 opening_hours: ""

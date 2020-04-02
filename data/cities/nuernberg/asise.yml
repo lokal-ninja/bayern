@@ -5,7 +5,7 @@ latitude: 49.4624728
 longitude: 11.069991400000001
 postcode: 90419
 city: Nürnberg
-street: Kirchenweg
+street: "Kirchenweg"
 housenumber: 4
 phone: "+49-911-334 332"
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"

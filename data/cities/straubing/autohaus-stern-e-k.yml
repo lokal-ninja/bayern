@@ -5,7 +5,7 @@ latitude: 48.868966400000005
 longitude: 12.5740476
 postcode: 94315
 city: Straubing
-street: Landshuter Straße
+street: "Landshuter Straße"
 housenumber: 91
 phone: "+49 9421 520800"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.6978189
 longitude: 10.8073379
 postcode: 91315
 city: Höchstadt a.d.Aisch
-street: Erlanger Straße
+street: "Erlanger Straße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off"

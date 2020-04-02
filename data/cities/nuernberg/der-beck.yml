@@ -5,7 +5,7 @@ latitude: 49.470305
 longitude: 11.1071623
 postcode: 90491
 city: Nürnberg
-street: Mommsenstraße
+street: "Mommsenstraße"
 housenumber: 53
 phone: "+49 911 51920020"
 opening_hours: "Mo-Fr 05:30-18:30; Sa 05:30-17:30; Su 07:00-17:00"

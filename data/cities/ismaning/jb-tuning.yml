@@ -5,7 +5,7 @@ latitude: 48.2296829
 longitude: 11.6732239
 postcode: 85737
 city: Ismaning
-street: Schloßstraße
+street: "Schloßstraße"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Th 08:00-19:00; Fr 08:00-17:00; Sa 09:00-12:00"

@@ -5,7 +5,7 @@ latitude: 48.2145078
 longitude: 11.258095800000001
 postcode: 82216
 city: Maisach
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 23
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

@@ -5,7 +5,7 @@ latitude: 48.7190791
 longitude: 11.4246659
 postcode: 85051
 city: Ingolstadt
-street: Mühlhäuserstraße
+street: "Mühlhäuserstraße"
 housenumber: 2
 phone: ""
 opening_hours: "24/7"

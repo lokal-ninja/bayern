@@ -5,7 +5,7 @@ latitude: 48.1780619
 longitude: 11.564827000000001
 postcode: 
 city: München
-street: Riesenfeldstraße
+street: "Riesenfeldstraße"
 housenumber: 16
 phone: ""
 opening_hours: ""

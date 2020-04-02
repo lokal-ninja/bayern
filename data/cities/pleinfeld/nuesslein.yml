@@ -5,7 +5,7 @@ latitude: 49.1051731
 longitude: 10.9856815
 postcode: 91785
 city: Pleinfeld
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 3
 phone: "+499144 222"
 opening_hours: ""

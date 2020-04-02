@@ -5,7 +5,7 @@ latitude: 48.758551100000005
 longitude: 11.34642
 postcode: 85049
 city: Ingolstadt
-street: Dünzlauer Straße
+street: "Dünzlauer Straße"
 housenumber: 36
 phone: ""
 opening_hours: ""

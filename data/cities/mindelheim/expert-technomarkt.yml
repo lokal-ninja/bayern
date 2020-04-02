@@ -5,7 +5,7 @@ latitude: 48.0451569
 longitude: 10.508136100000002
 postcode: 87719
 city: Mindelheim
-street: Heimenegger Weg
+street: "Heimenegger Weg"
 housenumber: 8
 phone: ""
 opening_hours: ""

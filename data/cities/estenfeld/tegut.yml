@@ -5,7 +5,7 @@ latitude: 49.8326361
 longitude: 10.0066889
 postcode: 97230
 city: Estenfeld
-street: Am Zehnthügel
+street: "Am Zehnthügel"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

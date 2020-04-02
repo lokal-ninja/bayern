@@ -5,7 +5,7 @@ latitude: 49.3832314
 longitude: 10.175990500000001
 postcode: 91541
 city: Rothenburg ob der Tauber
-street: Heckenackerstraße
+street: "Heckenackerstraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

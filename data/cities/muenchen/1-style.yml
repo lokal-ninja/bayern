@@ -5,7 +5,7 @@ latitude: 48.194318200000005
 longitude: 11.5980551
 postcode: 80939
 city: München
-street: Margot-Kalinke-Straße
+street: "Margot-Kalinke-Straße"
 housenumber: 4
 phone: ""
 opening_hours: ""

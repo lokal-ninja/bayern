@@ -5,7 +5,7 @@ latitude: 48.143259400000005
 longitude: 11.555874600000001
 postcode: 80335
 city: München
-street: Rundfunkplatz
+street: "Rundfunkplatz"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"

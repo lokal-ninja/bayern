@@ -5,7 +5,7 @@ latitude: 47.9781424
 longitude: 10.182579500000001
 postcode: 87700
 city: Memmingen
-street: Allgäuer Straße
+street: "Allgäuer Straße"
 housenumber: 21
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

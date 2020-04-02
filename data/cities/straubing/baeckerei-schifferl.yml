@@ -5,7 +5,7 @@ latitude: 48.880753500000004
 longitude: 12.5697711
 postcode: 94315
 city: Straubing
-street: Steinergasse
+street: "Steinergasse"
 housenumber: 22
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.4802741
 longitude: 10.8686836
 postcode: 90556
 city: Seukendorf
-street: Am Seukenbach
+street: "Am Seukenbach"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

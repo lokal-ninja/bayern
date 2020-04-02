@@ -5,7 +5,7 @@ latitude: 48.265455900000006
 longitude: 10.8436547
 postcode: 86399
 city: Bobingen
-street: Gutenbergstraße
+street: "Gutenbergstraße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 07:30-20:00"

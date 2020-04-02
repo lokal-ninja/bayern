@@ -5,7 +5,7 @@ latitude: 48.061179
 longitude: 10.6426589
 postcode: 86842
 city: Türkheim
-street: Jakob-Sigle-Straße
+street: "Jakob-Sigle-Straße"
 housenumber: 16
 phone: "+49 8245 8379829"
 opening_hours: "Mo-Fr 08:00-12:30,14:00-18:00; Sa 08:00-13:00"

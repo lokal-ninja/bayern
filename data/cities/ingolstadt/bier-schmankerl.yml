@@ -5,7 +5,7 @@ latitude: 48.7649928
 longitude: 11.4271008
 postcode: 85049
 city: Ingolstadt
-street: Ziegelbräustraße
+street: "Ziegelbräustraße"
 housenumber: 4
 phone: ""
 opening_hours: "Tu-Fr 11:00-19:00, Sa 11:00-18:00"

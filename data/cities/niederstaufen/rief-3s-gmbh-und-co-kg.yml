@@ -5,7 +5,7 @@ latitude: 47.615329
 longitude: 9.812049
 postcode: 88138
 city: Niederstaufen
-street: Allgäustraße
+street: "Allgäustraße"
 housenumber: 91
 phone: ""
 opening_hours: "Mo-Fr 08:00-12:30, 13:30-18:00, Sa 08:00-12:30; Su, PH off"

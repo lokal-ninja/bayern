@@ -5,7 +5,7 @@ latitude: 49.4504223
 longitude: 11.6841168
 postcode: 92278
 city: Illschwang
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 10
 phone: ""
 opening_hours: ""

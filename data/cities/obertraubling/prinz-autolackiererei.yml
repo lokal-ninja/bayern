@@ -5,7 +5,7 @@ latitude: 48.970023000000005
 longitude: 12.172392700000001
 postcode: 93083
 city: Obertraubling
-street: Am Langwiesfeld
+street: "Am Langwiesfeld"
 housenumber: 4
 phone: "+49 9401 5701"
 opening_hours: ""

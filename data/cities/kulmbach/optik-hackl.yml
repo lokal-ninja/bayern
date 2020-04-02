@@ -5,7 +5,7 @@ latitude: 50.106965100000004
 longitude: 11.450964
 postcode: 95326
 city: Kulmbach
-street: Pestalozzistraße
+street: "Pestalozzistraße"
 housenumber: 2
 phone: "+49 9221 3434"
 opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-13:00 || nach Vereinbarung; Su,PH off"

@@ -5,7 +5,7 @@ latitude: 47.616283700000004
 longitude: 12.1878574
 postcode: 83088
 city: Kiefersfelden
-street: Thierseestraße
+street: "Thierseestraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

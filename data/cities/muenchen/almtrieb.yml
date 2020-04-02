@@ -5,7 +5,7 @@ latitude: 48.1549435
 longitude: 11.535349100000001
 postcode: 80634
 city: München
-street: Frundsbergstraße
+street: "Frundsbergstraße"
 housenumber: 13
 phone: ""
 opening_hours: ""

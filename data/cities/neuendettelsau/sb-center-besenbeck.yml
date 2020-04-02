@@ -5,7 +5,7 @@ latitude: 49.2821396
 longitude: 10.798926400000001
 postcode: 91564
 city: Neuendettelsau
-street: Reuther Straße
+street: "Reuther Straße"
 housenumber: 20
 phone: ""
 opening_hours: ""

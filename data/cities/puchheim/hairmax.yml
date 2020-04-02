@@ -5,7 +5,7 @@ latitude: 48.173788
 longitude: 11.356062000000001
 postcode: 82178
 city: Puchheim
-street: Lochhauser Straße
+street: "Lochhauser Straße"
 housenumber: 21
 phone: ""
 opening_hours: ""

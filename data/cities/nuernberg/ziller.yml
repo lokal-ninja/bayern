@@ -5,7 +5,7 @@ latitude: 49.4085869
 longitude: 11.057306500000001
 postcode: 90451
 city: Nürnberg
-street: Isarstraße
+street: "Isarstraße"
 housenumber: 30
 phone: ""
 opening_hours: ""

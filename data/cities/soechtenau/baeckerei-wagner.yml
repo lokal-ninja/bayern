@@ -5,7 +5,7 @@ latitude: 47.93130540000001
 longitude: 12.229352700000002
 postcode: 83139
 city: Söchtenau
-street: Halfinger Straße
+street: "Halfinger Straße"
 housenumber: 5
 phone: "+49 8055 344"
 opening_hours: ""

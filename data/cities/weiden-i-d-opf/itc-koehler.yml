@@ -5,7 +5,7 @@ latitude: 49.693567200000004
 longitude: 12.162644400000001
 postcode: 92637
 city: Weiden i.d.OPf.
-street: Neustädter Straße
+street: "Neustädter Straße"
 housenumber: 20
 phone: ""
 opening_hours: ""

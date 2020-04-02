@@ -5,7 +5,7 @@ latitude: 48.280745700000004
 longitude: 10.4708384
 postcode: 86470
 city: Thannhausen
-street: Edmund-Zimmermann-Straße
+street: "Edmund-Zimmermann-Straße"
 housenumber: 17
 phone: "+49 8281 2754"
 opening_hours: ""

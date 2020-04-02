@@ -5,7 +5,7 @@ latitude: 50.2666094
 longitude: 10.075480500000001
 postcode: 97708
 city: Bad Bocklet
-street: Aschacher Straße
+street: "Aschacher Straße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Fr 07:00-18:30; Sa 08:00-17:30"

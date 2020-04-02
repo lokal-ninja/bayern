@@ -5,7 +5,7 @@ latitude: 47.814067
 longitude: 10.8994149
 postcode: 86956
 city: Schongau
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

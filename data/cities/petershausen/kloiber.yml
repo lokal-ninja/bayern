@@ -5,7 +5,7 @@ latitude: 48.409338000000005
 longitude: 11.4683942
 postcode: 85238
 city: Petershausen
-street: Pertrichplatz
+street: "Pertrichplatz"
 housenumber: 9
 phone: "+49-8137-5287"
 opening_hours: ""

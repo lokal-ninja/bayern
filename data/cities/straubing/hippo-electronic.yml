@@ -5,7 +5,7 @@ latitude: 48.889356600000006
 longitude: 12.6077933
 postcode: 94315
 city: Straubing
-street: Elbinger Straße
+street: "Elbinger Straße"
 housenumber: 2
 phone: "+49 9421 928040"
 opening_hours: ""

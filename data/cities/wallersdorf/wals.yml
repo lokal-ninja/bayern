@@ -5,7 +5,7 @@ latitude: 48.7370474
 longitude: 12.7469335
 postcode: 94522
 city: Wallersdorf
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 07:00-18:00; Sa 06:30-12:00"

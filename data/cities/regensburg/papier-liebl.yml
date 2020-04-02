@@ -5,7 +5,7 @@ latitude: 49.0024966
 longitude: 12.1079685
 postcode: 93053
 city: Regensburg
-street: Hermann-Geib-Straße
+street: "Hermann-Geib-Straße"
 housenumber: 16
 phone: ""
 opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"

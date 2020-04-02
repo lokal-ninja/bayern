@@ -5,7 +5,7 @@ latitude: 49.7241693
 longitude: 10.0000003
 postcode: 97246
 city: Eibelstadt
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 6
 phone: "+49 9303 7279814"
 opening_hours: "Tu-Fr 09:00-13:00, 14:00-18:00; Sa 08:00-13:00"

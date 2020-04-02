@@ -5,7 +5,7 @@ latitude: 48.1633805
 longitude: 11.557985500000001
 postcode: 80797
 city: München
-street: Adams-Lehmann-Straße
+street: "Adams-Lehmann-Straße"
 housenumber: 109
 phone: "+49 (0)89-127091-0"
 opening_hours: "Mo-Fr 08:00-20:00; Sa 09:00-18:00"

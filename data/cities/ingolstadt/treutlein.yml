@@ -5,7 +5,7 @@ latitude: 48.7475582
 longitude: 11.460851900000002
 postcode: 85053
 city: Ingolstadt
-street: Heinkelstraße
+street: "Heinkelstraße"
 housenumber: 5
 phone: "+49 841 67017"
 opening_hours: ""

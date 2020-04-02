@@ -5,7 +5,7 @@ latitude: 50.1039898
 longitude: 9.1024759
 postcode: 63755
 city: Alzenau
-street: Carl-Diem-Straße
+street: "Carl-Diem-Straße"
 housenumber: 2
 phone: "+49 6023 2230"
 opening_hours: ""

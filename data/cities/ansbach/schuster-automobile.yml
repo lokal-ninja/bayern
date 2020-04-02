@@ -5,7 +5,7 @@ latitude: 49.2629668
 longitude: 10.5979037
 postcode: 91522
 city: Ansbach
-street: Hardtstraße
+street: "Hardtstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

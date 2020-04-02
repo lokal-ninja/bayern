@@ -5,7 +5,7 @@ latitude: 49.5288581
 longitude: 11.628358
 postcode: 92259
 city: Neukirchen bei Sulzbach-Rosenberg
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 28
 phone: ""
 opening_hours: ""

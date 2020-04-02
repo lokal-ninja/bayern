@@ -5,7 +5,7 @@ latitude: 48.113398800000006
 longitude: 11.5720808
 postcode: 81543
 city: München
-street: Pilgersheimer Straße
+street: "Pilgersheimer Straße"
 housenumber: 69
 phone: "+4989656381"
 opening_hours: "Mo-Sa 09:00-19:00"

@@ -5,7 +5,7 @@ latitude: 48.0858087
 longitude: 10.4263489
 postcode: 87769
 city: Oberrieden
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 45
 phone: ""
 opening_hours: ""

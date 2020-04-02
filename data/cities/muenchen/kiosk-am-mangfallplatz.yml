@@ -5,7 +5,7 @@ latitude: 48.0977894
 longitude: 11.5812556
 postcode: 81547
 city: München
-street: Mangfallplatz
+street: "Mangfallplatz"
 housenumber: 1A
 phone: ""
 opening_hours: ""

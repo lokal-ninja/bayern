@@ -5,7 +5,7 @@ latitude: 47.8632949
 longitude: 12.007672300000001
 postcode: 83043
 city: Bad Aibling
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 16
 phone: "+49 8061 3183"
 opening_hours: "Mo-Fr 08:30-13:00,14:00-18:00;Sa 09:30-13:00;We,PH off"

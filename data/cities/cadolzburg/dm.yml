@@ -5,7 +5,7 @@ latitude: 49.466602200000004
 longitude: 10.8633348
 postcode: 90556
 city: Cadolzburg
-street: Nürnberger Straße
+street: "Nürnberger Straße"
 housenumber: 32
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00; Su Off"

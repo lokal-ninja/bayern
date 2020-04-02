@@ -5,7 +5,7 @@ latitude: 48.153395
 longitude: 11.522785200000001
 postcode: 80639
 city: München
-street: Nibelungenstraße
+street: "Nibelungenstraße"
 housenumber: 32
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

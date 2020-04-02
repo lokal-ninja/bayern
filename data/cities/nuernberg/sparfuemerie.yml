@@ -5,7 +5,7 @@ latitude: 49.450322
 longitude: 11.0763174
 postcode: 90402
 city: Nürnberg
-street: Brunnengasse
+street: "Brunnengasse"
 housenumber: 17
 phone: ""
 opening_hours: ""

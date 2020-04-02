@@ -5,7 +5,7 @@ latitude: 48.0346236
 longitude: 10.506402000000001
 postcode: 
 city: Mindelheim
-street: Trettachstraße
+street: "Trettachstraße"
 housenumber: 9
 phone: ""
 opening_hours: ""

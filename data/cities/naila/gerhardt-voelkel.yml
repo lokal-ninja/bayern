@@ -5,7 +5,7 @@ latitude: 50.325501700000004
 longitude: 11.7088414
 postcode: 95119
 city: Naila
-street: Neulandstraße
+street: "Neulandstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

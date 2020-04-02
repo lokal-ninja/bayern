@@ -5,7 +5,7 @@ latitude: 48.1790461
 longitude: 11.4965794
 postcode: 80997
 city: München
-street: Allacher Straße
+street: "Allacher Straße"
 housenumber: 80
 phone: ""
 opening_hours: ""

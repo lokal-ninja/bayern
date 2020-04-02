@@ -5,7 +5,7 @@ latitude: 49.7342419
 longitude: 10.192325
 postcode: 97318
 city: Kitzingen
-street: Otto-Hahn-Straße
+street: "Otto-Hahn-Straße"
 housenumber: 3
 phone: "+49(0)9321 - 3 71 67"
 opening_hours: ""

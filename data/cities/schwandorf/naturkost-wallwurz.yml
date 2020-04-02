@@ -5,7 +5,7 @@ latitude: 49.32746220000001
 longitude: 12.108976
 postcode: 92421
 city: Schwandorf
-street: Friedrich-Ebert-Straße
+street: "Friedrich-Ebert-Straße"
 housenumber: 41
 phone: ""
 opening_hours: ""

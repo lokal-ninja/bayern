@@ -5,7 +5,7 @@ latitude: 49.474520600000005
 longitude: 10.989427000000001
 postcode: 90762
 city: Fürth
-street: Moststraße
+street: "Moststraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

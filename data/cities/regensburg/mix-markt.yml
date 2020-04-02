@@ -5,7 +5,7 @@ latitude: 48.994736200000006
 longitude: 12.1145185
 postcode: 93053
 city: Regensburg
-street: Langobardenstraße
+street: "Langobardenstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"

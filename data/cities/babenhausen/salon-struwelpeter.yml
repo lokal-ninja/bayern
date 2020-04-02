@@ -5,7 +5,7 @@ latitude: 48.1430814
 longitude: 10.2528643
 postcode: 87727
 city: Babenhausen
-street: Stadtgasse
+street: "Stadtgasse"
 housenumber: 10
 phone: ""
 opening_hours: ""

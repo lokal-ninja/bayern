@@ -5,7 +5,7 @@ latitude: 48.9853516
 longitude: 12.195052800000001
 postcode: 93073
 city: Neutraubling
-street: Borsigstraße
+street: "Borsigstraße"
 housenumber: 10 a
 phone: "+49 9401 5282571"
 opening_hours: "Mo-Sa 10:00-18:00"

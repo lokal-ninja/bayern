@@ -5,7 +5,7 @@ latitude: 49.9064174
 longitude: 10.3902672
 postcode: 97497
 city: Dingolshausen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 17
 phone: "+49 9382 3187900"
 opening_hours: "Fr 08:00-18:00; Sa 07:00-13:00"

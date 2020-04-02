@@ -5,7 +5,7 @@ latitude: 50.086594500000004
 longitude: 9.0739759
 postcode: 63755
 city: Alzenau
-street: Friedberger Gäßchen
+street: "Friedberger Gäßchen"
 housenumber: 5
 phone: "+49 6023 9292920"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"

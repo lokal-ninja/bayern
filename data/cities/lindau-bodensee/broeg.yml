@@ -5,7 +5,7 @@ latitude: 47.5608962
 longitude: 9.712818
 postcode: 88131
 city: Lindau (Bodensee)
-street: Oberreutiner Weg
+street: "Oberreutiner Weg"
 housenumber: 14b
 phone: ""
 opening_hours: "Mo-Sa 08:30-12:00"

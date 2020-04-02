@@ -5,7 +5,7 @@ latitude: 49.0294249
 longitude: 10.972407800000001
 postcode: 91781
 city: Weißenburg i. Bay.
-street: Wildbadstraße
+street: "Wildbadstraße"
 housenumber: 9
 phone: "+49 9141 9950690"
 opening_hours: "Mo-Fr 09:00-12:30; Tu 15:00-18:00; Th-Fr 15:00-18:00; Sa 10:00-13:00"

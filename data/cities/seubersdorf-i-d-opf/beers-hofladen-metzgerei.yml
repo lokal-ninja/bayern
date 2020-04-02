@@ -5,7 +5,7 @@ latitude: 49.151210400000004
 longitude: 11.5952883
 postcode: 92358
 city: Seubersdorf i.d.OPf.
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 16
 phone: ""
 opening_hours: "Th,Fr 08:00-18:00"

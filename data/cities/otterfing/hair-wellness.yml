@@ -5,7 +5,7 @@ latitude: 47.910740100000005
 longitude: 11.681562900000001
 postcode: 83624
 city: Otterfing
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 38
 phone: ""
 opening_hours: ""

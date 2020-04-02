@@ -5,7 +5,7 @@ latitude: 49.879207
 longitude: 12.3310329
 postcode: 95643
 city: Tirschenreuth
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 24
 phone: "+49 9631 799 5554"
 opening_hours: ""

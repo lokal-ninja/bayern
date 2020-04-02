@@ -5,7 +5,7 @@ latitude: 48.7260417
 longitude: 11.1944456
 postcode: 86633
 city: Neuburg an der Donau
-street: Längenmühlweg
+street: "Längenmühlweg"
 housenumber: 26
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

@@ -5,7 +5,7 @@ latitude: 48.3100236
 longitude: 11.0456812
 postcode: 86316
 city: Bachern
-street: Georgstraße
+street: "Georgstraße"
 housenumber: 23
 phone: ""
 opening_hours: "Do-Fr 08:00-13:30, 15:00-18:00 | Sa 08:00 - 12:00"

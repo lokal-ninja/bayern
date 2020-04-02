@@ -5,7 +5,7 @@ latitude: 48.189896100000006
 longitude: 11.373689800000001
 postcode: 82194
 city: Gröbenzell
-street: Osterseestraße
+street: "Osterseestraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

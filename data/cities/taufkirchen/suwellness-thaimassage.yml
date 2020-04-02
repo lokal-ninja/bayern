@@ -5,7 +5,7 @@ latitude: 48.052019900000005
 longitude: 11.605130800000001
 postcode: 82024
 city: Taufkirchen
-street: Eichenstraße
+street: "Eichenstraße"
 housenumber: 36
 phone: "+49 89 61514933"
 opening_hours: "Mo-Fr 10:00-20:00; Sa 12:00-17:00; Su,PH off"

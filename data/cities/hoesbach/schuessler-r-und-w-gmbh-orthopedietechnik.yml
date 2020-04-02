@@ -5,7 +5,7 @@ latitude: 50.003495900000004
 longitude: 9.2047217
 postcode: 63768
 city: Hösbach
-street: Brunnenstraße
+street: "Brunnenstraße"
 housenumber: 126
 phone: ""
 opening_hours: ""

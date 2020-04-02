@@ -5,7 +5,7 @@ latitude: 48.866799900000004
 longitude: 12.563819400000002
 postcode: 94315
 city: Straubing
-street: Roseggerstraße
+street: "Roseggerstraße"
 housenumber: 10
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.776633200000006
 longitude: 9.939533200000001
 postcode: 97072
 city: Würzburg
-street: Randersackerer Straße
+street: "Randersackerer Straße"
 housenumber: 50
 phone: ""
 opening_hours: ""

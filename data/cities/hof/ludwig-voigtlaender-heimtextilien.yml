@@ -5,7 +5,7 @@ latitude: 50.331545000000006
 longitude: 11.9134446
 postcode: 95028
 city: Hof
-street: Schleizer Straße
+street: "Schleizer Straße"
 housenumber: 56
 phone: ""
 opening_hours: "Mo-Th 09:00-16:30; Fr 09:00-12:00"

@@ -5,7 +5,7 @@ latitude: 49.3129287
 longitude: 11.474872300000001
 postcode: 92348
 city: Berg
-street: Ludwig-Erhard-Ring
+street: "Ludwig-Erhard-Ring"
 housenumber: 2
 phone: "+49 9181 320261"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.181352000000004
 longitude: 11.513771700000001
 postcode: 80992
 city: München
-street: Pelkovenstraße
+street: "Pelkovenstraße"
 housenumber: 48
 phone: ""
 opening_hours: "Tu-Fr 08:00-18:00; Sa 08:00-13:00; PH off"

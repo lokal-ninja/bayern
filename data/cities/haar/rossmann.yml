@@ -5,7 +5,7 @@ latitude: 48.1087245
 longitude: 11.7325256
 postcode: 85540
 city: Haar
-street: Leibstraße
+street: "Leibstraße"
 housenumber: 24
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-19:00; PH off"

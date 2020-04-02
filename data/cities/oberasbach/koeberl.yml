@@ -5,7 +5,7 @@ latitude: 49.4348034
 longitude: 10.9724315
 postcode: 90522
 city: Oberasbach
-street: Rothenburger Straße
+street: "Rothenburger Straße"
 housenumber: 35a
 phone: ""
 opening_hours: "Mo,Tu,Th 08:30-13:00,14:30-18:00; We,Sa 08:30-13:00; Fr 08:30-18:00"

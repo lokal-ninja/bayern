@@ -5,7 +5,7 @@ latitude: 49.5742691
 longitude: 10.9969775
 postcode: 91058
 city: Erlangen
-street: Felix-Klein-Straße
+street: "Felix-Klein-Straße"
 housenumber: 59
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

@@ -5,7 +5,7 @@ latitude: 49.599992300000004
 longitude: 11.038392100000001
 postcode: 91054
 city: Erlangen
-street: Sieglitzhofer Straße
+street: "Sieglitzhofer Straße"
 housenumber: 12
 phone: "+49 9131 5 50 12"
 opening_hours: "Mo-Fr 08:00-17:00; Sa nach Vereinbarung"

@@ -5,7 +5,7 @@ latitude: 48.155706200000004
 longitude: 11.575421700000001
 postcode: 
 city: München
-street: Belgradstraße
+street: "Belgradstraße"
 housenumber: 28
 phone: ""
 opening_hours: ""

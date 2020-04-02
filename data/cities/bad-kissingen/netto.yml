@@ -5,7 +5,7 @@ latitude: 50.182057
 longitude: 10.0781521
 postcode: 97688
 city: Bad Kissingen
-street: Rudolf-Diesel-Straße
+street: "Rudolf-Diesel-Straße"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

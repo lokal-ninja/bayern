@@ -5,7 +5,7 @@ latitude: 47.727290100000005
 longitude: 10.3137001
 postcode: 87435
 city: Kempten (Allgäu)
-street: Klostersteige
+street: "Klostersteige"
 housenumber: 17
 phone: ""
 opening_hours: "Mo-Sa 07:00-19:00"

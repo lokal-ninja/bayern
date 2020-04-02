@@ -5,7 +5,7 @@ latitude: 48.786658100000004
 longitude: 11.4508767
 postcode: 
 city: Ingolstadt
-street: Georgstraße
+street: "Georgstraße"
 housenumber: 15
 phone: ""
 opening_hours: ""

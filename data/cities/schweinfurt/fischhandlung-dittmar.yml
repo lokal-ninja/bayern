@@ -5,7 +5,7 @@ latitude: 50.0431073
 longitude: 10.233009800000001
 postcode: 97421
 city: Schweinfurt
-street: Fischerrain
+street: "Fischerrain"
 housenumber: 17
 phone: ""
 opening_hours: ""

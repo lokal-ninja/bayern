@@ -5,7 +5,7 @@ latitude: 48.1458529
 longitude: 11.519402300000001
 postcode: 80639
 city: München
-street: Friedenheimer Brücke
+street: "Friedenheimer Brücke"
 housenumber: 23
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

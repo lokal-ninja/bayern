@@ -5,7 +5,7 @@ latitude: 49.793998200000004
 longitude: 9.7254766
 postcode: 97292
 city: Uettingen
-street: Raiffeisenstraße
+street: "Raiffeisenstraße"
 housenumber: 25
 phone: "+49 9369 2325"
 opening_hours: ""

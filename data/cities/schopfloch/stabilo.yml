@@ -5,7 +5,7 @@ latitude: 49.117350800000004
 longitude: 10.3099395
 postcode: 91626
 city: Schopfloch
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 9
 phone: "+49 9857 974494"
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"

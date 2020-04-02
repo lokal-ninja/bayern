@@ -5,7 +5,7 @@ latitude: 48.3305559
 longitude: 10.731480900000001
 postcode: 86459
 city: Gessertshausen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 25
 phone: "+49 8238 7088"
 opening_hours: ""

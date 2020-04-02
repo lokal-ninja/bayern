@@ -5,7 +5,7 @@ latitude: 48.2381362
 longitude: 11.354243100000001
 postcode: 85232
 city: Bergkirchen
-street: Kreuzackerstraße
+street: "Kreuzackerstraße"
 housenumber: 2
 phone: "+49 8142 444440"
 opening_hours: "Mo-Sa 08:00-20:00"

@@ -5,7 +5,7 @@ latitude: 48.027382900000006
 longitude: 10.4391607
 postcode: 
 city: Stetten
-street: Hochstraße
+street: "Hochstraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

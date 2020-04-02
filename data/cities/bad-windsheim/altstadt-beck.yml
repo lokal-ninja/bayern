@@ -5,7 +5,7 @@ latitude: 49.503434000000006
 longitude: 10.415560300000001
 postcode: 91438
 city: Bad Windsheim
-street: An der Alten Weed
+street: "An der Alten Weed"
 housenumber: 18
 phone: "+49 9841 3734"
 opening_hours: ""

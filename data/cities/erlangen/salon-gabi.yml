@@ -5,7 +5,7 @@ latitude: 49.573213
 longitude: 11.016006500000001
 postcode: 91058
 city: Erlangen
-street: Hammerbacherstraße
+street: "Hammerbacherstraße"
 housenumber: 9
 phone: "+49 9131 3 21 76"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.447681800000005
 longitude: 11.847800300000001
 postcode: 92224
 city: Amberg
-street: Eglseer Straße
+street: "Eglseer Straße"
 housenumber: 27
 phone: "+49 09621 33943"
 opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-12:00; Su 7:00-10:30"

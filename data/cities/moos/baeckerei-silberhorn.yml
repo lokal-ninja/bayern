@@ -5,7 +5,7 @@ latitude: 48.750410800000004
 longitude: 12.9611911
 postcode: 94554
 city: Moos
-street: Preysingstraße
+street: "Preysingstraße"
 housenumber: 15
 phone: ""
 opening_hours: "Mo-Th 06:00-13:00,14:00-18:00; Fr 06:00-18:00; Sa 06:00-12:00"

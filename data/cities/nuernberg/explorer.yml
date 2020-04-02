@@ -5,7 +5,7 @@ latitude: 49.4479902
 longitude: 11.071773100000001
 postcode: 90402
 city: Nürnberg
-street: Färberstraße
+street: "Färberstraße"
 housenumber: 52
 phone: "+49 9 11 249160"
 opening_hours: "Mo-Fr 09:30-18:30; Sa 10:00-14:00"

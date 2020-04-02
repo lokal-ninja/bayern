@@ -5,7 +5,7 @@ latitude: 49.779414700000004
 longitude: 10.0631698
 postcode: 97337
 city: Dettelbach
-street: Mainfrankenpark
+street: "Mainfrankenpark"
 housenumber: 39-41
 phone: "+49 9302 932700"
 opening_hours: ""

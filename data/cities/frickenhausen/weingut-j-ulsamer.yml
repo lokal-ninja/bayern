@@ -5,7 +5,7 @@ latitude: 49.6709229
 longitude: 10.100156
 postcode: 97252
 city: Frickenhausen
-street: Segnitzer Straße
+street: "Segnitzer Straße"
 housenumber: 43
 phone: "+49-9331 - 32 86"
 opening_hours: ""

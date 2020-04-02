@@ -5,7 +5,7 @@ latitude: 48.740285300000004
 longitude: 12.7469116
 postcode: 94522
 city: Wallersdorf
-street: Deggendorfer Straße
+street: "Deggendorfer Straße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Fr 08:00-12:00,13:30-18:00; Sa 08:00-13:00; Su,PH off"

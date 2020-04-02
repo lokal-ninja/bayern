@@ -5,7 +5,7 @@ latitude: 48.7224853
 longitude: 13.6148758
 postcode: 94065
 city: Waldkirchen
-street: Schmidpointstraße
+street: "Schmidpointstraße"
 housenumber: 4
 phone: "+49 (0)8581 910633"
 opening_hours: ""

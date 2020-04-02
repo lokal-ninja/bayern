@@ -5,7 +5,7 @@ latitude: 48.460964800000006
 longitude: 10.8681661
 postcode: 86462
 city: Langweid am Lech
-street: Am Lehenauweg
+street: "Am Lehenauweg"
 housenumber: 2a
 phone: "+49 821 47871927"
 opening_hours: "Mo-Sa 07:00-20:00"

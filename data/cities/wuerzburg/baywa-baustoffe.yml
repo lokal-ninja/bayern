@@ -5,7 +5,7 @@ latitude: 49.7930572
 longitude: 10.0037152
 postcode: 97076
 city: Würzburg
-street: Nürnberger Straße
+street: "Nürnberger Straße"
 housenumber: 133
 phone: "+49-931-2789-111"
 opening_hours: "Mo-Fr 07:00-19:00; Sa 07:45-16:00"

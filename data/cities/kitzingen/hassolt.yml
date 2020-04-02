@@ -5,7 +5,7 @@ latitude: 49.7388447
 longitude: 10.161521
 postcode: 97318
 city: Kitzingen
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 38
 phone: ""
 opening_hours: ""

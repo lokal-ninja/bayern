@@ -5,7 +5,7 @@ latitude: 49.1866228
 longitude: 11.187280900000001
 postcode: 91161
 city: Hilpoltstein
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Fr 08:30-12:30, 14:00-18:00; Sa 08:30-12:30"

@@ -5,7 +5,7 @@ latitude: 49.006852800000004
 longitude: 12.176889000000001
 postcode: 93055
 city: Regensburg
-street: Am Kreuzhof
+street: "Am Kreuzhof"
 housenumber: 3
 phone: "+49 941 46455 0"
 opening_hours: ""

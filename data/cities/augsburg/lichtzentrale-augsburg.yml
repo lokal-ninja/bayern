@@ -5,7 +5,7 @@ latitude: 48.396371200000004
 longitude: 10.8788181
 postcode: 86154
 city: Augsburg
-street: Zirbelstraße
+street: "Zirbelstraße"
 housenumber: 58
 phone: "+49 821 21784-0"
 opening_hours: "Mo-Tu 07:30-16:30; Fr 07:30-14:00"

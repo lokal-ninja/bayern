@@ -5,7 +5,7 @@ latitude: 47.753079400000004
 longitude: 11.377386000000001
 postcode: 82377
 city: Penzberg
-street: Sigmundstraße
+street: "Sigmundstraße"
 housenumber: 16
 phone: ""
 opening_hours: "Mo,Tu,Th,Fr 09:30-12:30, 15:00-18:00; We,Sa 09:30-12:30; Nov 26-Dec 23 Sa 9:30-16:00; Dec 25-Jan 6 off; PH off"

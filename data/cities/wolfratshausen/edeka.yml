@@ -5,7 +5,7 @@ latitude: 47.9090896
 longitude: 11.4247945
 postcode: 82515
 city: Wolfratshausen
-street: Königsdorfer Straße
+street: "Königsdorfer Straße"
 housenumber: 36
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

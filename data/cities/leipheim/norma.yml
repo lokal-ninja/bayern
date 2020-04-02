@@ -5,7 +5,7 @@ latitude: 48.447757
 longitude: 10.229263600000001
 postcode: 89340
 city: Leipheim
-street: Maximilianstraße
+street: "Maximilianstraße"
 housenumber: 28
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

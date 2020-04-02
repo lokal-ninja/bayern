@@ -5,7 +5,7 @@ latitude: 48.063166700000004
 longitude: 11.651864100000001
 postcode: 85521
 city: Ottobrunn
-street: Unterhachinger Straße
+street: "Unterhachinger Straße"
 housenumber: 28
 phone: ""
 opening_hours: ""

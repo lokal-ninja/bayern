@@ -5,7 +5,7 @@ latitude: 49.4443539
 longitude: 11.8375456
 postcode: 92224
 city: Amberg
-street: Rammertshofer Weg
+street: "Rammertshofer Weg"
 housenumber: 2
 phone: ""
 opening_hours: ""

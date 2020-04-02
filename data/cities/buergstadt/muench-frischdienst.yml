@@ -5,7 +5,7 @@ latitude: 49.7056236
 longitude: 9.275301200000001
 postcode: 63927
 city: Bürgstadt
-street: Eichenbühler Straße
+street: "Eichenbühler Straße"
 housenumber: 77
 phone: "+49 9371 2431"
 opening_hours: ""

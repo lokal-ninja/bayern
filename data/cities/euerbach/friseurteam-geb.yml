@@ -5,7 +5,7 @@ latitude: 50.06152
 longitude: 10.136411800000001
 postcode: 97502
 city: Euerbach
-street: Rathausplatz
+street: "Rathausplatz"
 housenumber: 6
 phone: "+49 9726 2568"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.756162200000006
 longitude: 11.8502837
 postcode: 93354
 city: Siegenburg
-street: Ingolstädter Straße
+street: "Ingolstädter Straße"
 housenumber: 8
 phone: ""
 opening_hours: ""

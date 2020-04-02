@@ -5,7 +5,7 @@ latitude: 49.4509575
 longitude: 11.0270788
 postcode: 90431
 city: Nürnberg
-street: Leyher Straße
+street: "Leyher Straße"
 housenumber: 65
 phone: ""
 opening_hours: ""

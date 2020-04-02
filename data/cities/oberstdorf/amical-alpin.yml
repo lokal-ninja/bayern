@@ -5,7 +5,7 @@ latitude: 47.409879600000004
 longitude: 10.2765044
 postcode: 87561
 city: Oberstdorf
-street: Walserstraße
+street: "Walserstraße"
 housenumber: 5
 phone: "+49 8322 9874788"
 opening_hours: "Mo-Th 08:00-12:00; Mo-Th 13:00-17:00; Fr 08:00-12:00; Fr 13:00-15:00"

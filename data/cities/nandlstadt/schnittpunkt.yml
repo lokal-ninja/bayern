@@ -5,7 +5,7 @@ latitude: 48.5362358
 longitude: 11.8055567
 postcode: 85405
 city: Nandlstadt
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 15
 phone: ""
 opening_hours: "Mo. - Fr. : 8:30 - 18:00 Uhr, Sa. : 8:30 -13:00 Uhr"

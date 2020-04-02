@@ -5,7 +5,7 @@ latitude: 47.5122579
 longitude: 10.280420900000001
 postcode: 87527
 city: Sonthofen
-street: Hochstraße
+street: "Hochstraße"
 housenumber: 9
 phone: "+49 8321 800058"
 opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-16:00"

@@ -5,7 +5,7 @@ latitude: 50.319629400000004
 longitude: 11.929872900000001
 postcode: 95028
 city: Hof
-street: Gabelsbergerstraße
+street: "Gabelsbergerstraße"
 housenumber: 71
 phone: "+499281470252"
 opening_hours: "Mo-Fr 08:30-19:00; Sa 08:00-16:00"

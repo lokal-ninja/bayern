@@ -5,7 +5,7 @@ latitude: 49.0555602
 longitude: 10.5573809
 postcode: 91740
 city: Röckingen
-street: Untere Dorfstraße
+street: "Untere Dorfstraße"
 housenumber: 2
 phone: "+499832 7273"
 opening_hours: ""

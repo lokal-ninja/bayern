@@ -5,7 +5,7 @@ latitude: 47.823396300000006
 longitude: 12.646440400000001
 postcode: 83313
 city: Siegsdorf
-street: Kardinal-von-Faulhaber-Platz
+street: "Kardinal-von-Faulhaber-Platz"
 housenumber: 4
 phone: "+49 8662 2616"
 opening_hours: "Mo-Fr 8:30-12:30, 14:00-18:00, Sa 8:30-12:30"

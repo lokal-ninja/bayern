@@ -5,7 +5,7 @@ latitude: 48.878936200000005
 longitude: 12.5711467
 postcode: 94315
 city: Straubing
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 11
 phone: "+49 9421 82404"
 opening_hours: ""

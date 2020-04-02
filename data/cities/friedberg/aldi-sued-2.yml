@@ -5,7 +5,7 @@ latitude: 48.4062938
 longitude: 10.9510409
 postcode: 86316
 city: Friedberg
-street: Winterbruckenweg
+street: "Winterbruckenweg"
 housenumber: 62
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00; Dec 24 08:00-14:00; Dec 29-30 07:00-20:00; Dec 31 07:00-16:00; PH off"

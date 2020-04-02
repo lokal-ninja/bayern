@@ -5,7 +5,7 @@ latitude: 49.341878300000005
 longitude: 11.012136
 postcode: 91126
 city: Schwabach
-street: Wilhelm-Dümmler-Straße
+street: "Wilhelm-Dümmler-Straße"
 housenumber: 116a
 phone: ""
 opening_hours: ""

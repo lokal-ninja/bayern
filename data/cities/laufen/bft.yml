@@ -5,7 +5,7 @@ latitude: 47.932556000000005
 longitude: 12.937401600000001
 postcode: 83410
 city: Laufen
-street: Freilassinger Straße
+street: "Freilassinger Straße"
 housenumber: 62
 phone: ""
 opening_hours: ""

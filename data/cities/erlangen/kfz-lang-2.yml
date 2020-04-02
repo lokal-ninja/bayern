@@ -5,7 +5,7 @@ latitude: 49.594494600000004
 longitude: 10.999463800000001
 postcode: 91054
 city: Erlangen
-street: Münchener Straße
+street: "Münchener Straße"
 housenumber: 12
 phone: "+49 9131 21319"
 opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00"

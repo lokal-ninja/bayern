@@ -5,7 +5,7 @@ latitude: 48.3044476
 longitude: 10.457451500000001
 postcode: 86505
 city: Münsterhausen
-street: Thannhauser Straße
+street: "Thannhauser Straße"
 housenumber: 51
 phone: "+49  8281 2220"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.1488353
 longitude: 11.576944800000001
 postcode: 80799
 city: München
-street: Amalienstraße
+street: "Amalienstraße"
 housenumber: 41 (Rgb.)
 phone: "+49 89 33 36 86"
 opening_hours: "Tu-Fr 11:00-18:00; Sa 12:00-16:00"

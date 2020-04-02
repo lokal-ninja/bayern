@@ -5,7 +5,7 @@ latitude: 49.454410700000004
 longitude: 12.1853783
 postcode: 92507
 city: Nabburg
-street: Gartenstraße
+street: "Gartenstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

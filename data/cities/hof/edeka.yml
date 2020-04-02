@@ -5,7 +5,7 @@ latitude: 50.318916800000004
 longitude: 11.926809700000002
 postcode: 95028
 city: Hof
-street: Christoph-Klauß-Straße
+street: "Christoph-Klauß-Straße"
 housenumber: 13
 phone: "+49-9281-1446845"
 opening_hours: "Mo-Sa 08:00-20:00"

@@ -5,7 +5,7 @@ latitude: 50.0632147
 longitude: 9.1581316
 postcode: 63776
 city: Mömbris
-street: Frankenstraße
+street: "Frankenstraße"
 housenumber: 10
 phone: "+49 (0)6029 6337"
 opening_hours: "Mo-Fr 07:00-18:00, Sa 09:00-13:00"

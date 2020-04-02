@@ -5,7 +5,7 @@ latitude: 49.496354200000006
 longitude: 10.180933300000001
 postcode: 97215
 city: Uffenheim
-street: Langensteinach
+street: "Langensteinach"
 housenumber: 15
 phone: "+49-9865-1883"
 opening_hours: ""

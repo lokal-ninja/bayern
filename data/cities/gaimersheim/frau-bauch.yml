@@ -5,7 +5,7 @@ latitude: 48.8066363
 longitude: 11.3688345
 postcode: 85080
 city: Gaimersheim
-street: Untere Marktstraße
+street: "Untere Marktstraße"
 housenumber: 17
 phone: "+49 84583880808"
 opening_hours: ""

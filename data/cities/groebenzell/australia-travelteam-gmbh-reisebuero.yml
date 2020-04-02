@@ -5,7 +5,7 @@ latitude: 48.1923049
 longitude: 11.371289500000001
 postcode: 82194
 city: Gröbenzell
-street: Karwendelstraße
+street: "Karwendelstraße"
 housenumber: 1
 phone: "+49 8142 580031"
 opening_hours: ""

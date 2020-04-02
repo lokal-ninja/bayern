@@ -5,7 +5,7 @@ latitude: 48.467919300000005
 longitude: 13.2946927
 postcode: 94099
 city: Ruhstorf a.d. Rott
-street: Hans-Resch-Straße
+street: "Hans-Resch-Straße"
 housenumber: 10
 phone: ""
 opening_hours: ""

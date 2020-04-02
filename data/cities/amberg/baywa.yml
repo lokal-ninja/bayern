@@ -5,7 +5,7 @@ latitude: 49.457421100000005
 longitude: 11.845174100000001
 postcode: 92224
 city: Amberg
-street: Sulzbacher Straße
+street: "Sulzbacher Straße"
 housenumber: 90
 phone: ""
 opening_hours: ""

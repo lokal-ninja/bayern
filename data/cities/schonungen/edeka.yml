@@ -5,7 +5,7 @@ latitude: 50.0410101
 longitude: 10.3142472
 postcode: 97453
 city: Schonungen
-street: Tiefer Graben
+street: "Tiefer Graben"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00; Su, PH off"

@@ -5,7 +5,7 @@ latitude: 48.345495400000004
 longitude: 10.895576
 postcode: 86159
 city: Augsburg
-street: Von-Richthofen-Straße
+street: "Von-Richthofen-Straße"
 housenumber: 38
 phone: ""
 opening_hours: "Tu 07:30-19:00; We-Fr 09:00-19:00; Sa 08:30-17:00"

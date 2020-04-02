@@ -5,7 +5,7 @@ latitude: 48.27902580000001
 longitude: 10.8923495
 postcode: 86343
 city: Königsbrunn
-street: Haunstetter Straße
+street: "Haunstetter Straße"
 housenumber: 103
 phone: "+49 8231 9792590"
 opening_hours: "Mo-Sa 08:00-20:00"

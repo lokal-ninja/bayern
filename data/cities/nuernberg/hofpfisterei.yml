@@ -5,7 +5,7 @@ latitude: 49.4601824
 longitude: 11.130698500000001
 postcode: 90482
 city: Nürnberg
-street: Mögeldorfer Hauptstraße
+street: "Mögeldorfer Hauptstraße"
 housenumber: 40
 phone: ""
 opening_hours: "Mo-Th 07:30-13:00,14:30-18:00; Fr 07:30-18:00; Sa 07:30-12:30; Su off"

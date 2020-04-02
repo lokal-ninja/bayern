@@ -5,7 +5,7 @@ latitude: 49.391041200000004
 longitude: 11.9330627
 postcode: 92263
 city: Ebermannsdorf
-street: Theuerner Straße
+street: "Theuerner Straße"
 housenumber: 20
 phone: "+49 9624 934 000"
 opening_hours: "Mo 08:30-12:00; Tu-Fr 08:00-12:00, 14:00-18:00; Sa 07:30-12:30"

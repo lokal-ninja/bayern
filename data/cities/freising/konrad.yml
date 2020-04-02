@@ -5,7 +5,7 @@ latitude: 48.3992269
 longitude: 11.737768800000001
 postcode: 85354
 city: Freising
-street: Wippenhauser Straße
+street: "Wippenhauser Straße"
 housenumber: 5
 phone: "+49 8161 499040"
 opening_hours: "Mo-Fr 07:00-18:00; Sa 09:00-13:00"

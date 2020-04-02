@@ -5,7 +5,7 @@ latitude: 48.339488900000006
 longitude: 10.9010634
 postcode: 86159
 city: Augsburg
-street: Alter Postweg
+street: "Alter Postweg"
 housenumber: 97b
 phone: ""
 opening_hours: ""

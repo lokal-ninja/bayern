@@ -5,7 +5,7 @@ latitude: 48.2769617
 longitude: 11.091305100000001
 postcode: 86510
 city: Ried
-street: Birkenstraße
+street: "Birkenstraße"
 housenumber: 6a
 phone: "+49 8202 8338"
 opening_hours: ""

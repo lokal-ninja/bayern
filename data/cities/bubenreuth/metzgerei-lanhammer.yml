@@ -5,7 +5,7 @@ latitude: 49.619672300000005
 longitude: 11.008248700000001
 postcode: 
 city: Bubenreuth
-street: Eichenplatz
+street: "Eichenplatz"
 housenumber: 5
 phone: ""
 opening_hours: ""

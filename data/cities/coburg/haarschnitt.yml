@@ -5,7 +5,7 @@ latitude: 50.281006600000005
 longitude: 10.9708679
 postcode: 96450
 city: Coburg
-street: Max-Böhme-Ring
+street: "Max-Böhme-Ring"
 housenumber: 7
 phone: "+49 9561 238903"
 opening_hours: "Mo-Fr 08:30-13:30; Sa,Su,PH off"

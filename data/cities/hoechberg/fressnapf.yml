@@ -5,7 +5,7 @@ latitude: 49.770558400000006
 longitude: 9.8654004
 postcode: 97204
 city: Höchberg
-street: Leibnizstraße
+street: "Leibnizstraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

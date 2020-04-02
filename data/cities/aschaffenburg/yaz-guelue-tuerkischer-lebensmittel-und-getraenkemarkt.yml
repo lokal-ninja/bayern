@@ -5,7 +5,7 @@ latitude: 49.9850433
 longitude: 9.150767700000001
 postcode: 63741
 city: Aschaffenburg
-street: Stengerstraße
+street: "Stengerstraße"
 housenumber: 15
 phone: "+49060213718461"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.003028900000004
 longitude: 10.1791145
 postcode: 87700
 city: Memmingen
-street: Obere Straße
+street: "Obere Straße"
 housenumber: 12
 phone: ""
 opening_hours: ""

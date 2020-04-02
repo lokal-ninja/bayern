@@ -5,7 +5,7 @@ latitude: 48.3859763
 longitude: 10.880494500000001
 postcode: 86154
 city: Augsburg
-street: Donauwörther Straße
+street: "Donauwörther Straße"
 housenumber: 61
 phone: ""
 opening_hours: "Mo-Fr 11:00-19:00, Sa 12:00-16:00"

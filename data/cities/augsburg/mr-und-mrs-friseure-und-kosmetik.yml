@@ -5,7 +5,7 @@ latitude: 48.335471500000004
 longitude: 10.8788879
 postcode: 86199
 city: Augsburg
-street: Bürgermeister-Miehle-Straße
+street: "Bürgermeister-Miehle-Straße"
 housenumber: 15
 phone: "+49 821 65076330"
 opening_hours: "Mo,Tu 09:00-20:00; We-Fr 10:00-22:00; Sa 08:00-18:00; PH off"

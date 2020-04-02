@@ -5,7 +5,7 @@ latitude: 48.151667100000004
 longitude: 11.561982400000002
 postcode: 80333
 city: München
-street: Theresienstraße
+street: "Theresienstraße"
 housenumber: 81
 phone: "+49 89 21892000"
 opening_hours: "Mo-Fr 11:00-19:00;Sa 11:00-17:00"

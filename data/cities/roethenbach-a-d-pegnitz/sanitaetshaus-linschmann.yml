@@ -5,7 +5,7 @@ latitude: 49.4865945
 longitude: 11.246208800000002
 postcode: 90552
 city: Röthenbach a.d.Pegnitz
-street: Feldgasse
+street: "Feldgasse"
 housenumber: 2
 phone: ""
 opening_hours: ""

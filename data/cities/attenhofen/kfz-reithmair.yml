@@ -5,7 +5,7 @@ latitude: 48.6735203
 longitude: 11.8693971
 postcode: 84091
 city: Attenhofen
-street: Am Thonhauser Weg
+street: "Am Thonhauser Weg"
 housenumber: 2
 phone: ""
 opening_hours: ""

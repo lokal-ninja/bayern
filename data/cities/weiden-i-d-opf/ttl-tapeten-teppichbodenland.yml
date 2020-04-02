@@ -5,7 +5,7 @@ latitude: 49.685294000000006
 longitude: 12.1645021
 postcode: 92637
 city: Weiden i.d.OPf.
-street: Dr.-Martin-Luther-Straße
+street: "Dr.-Martin-Luther-Straße"
 housenumber: 2a
 phone: ""
 opening_hours: ""

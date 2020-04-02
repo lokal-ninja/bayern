@@ -5,7 +5,7 @@ latitude: 50.401035300000004
 longitude: 10.015814200000001
 postcode: 97653
 city: Bischofsheim i.d.Rhön
-street: Weisbacher Straße
+street: "Weisbacher Straße"
 housenumber: 14
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.2674894
 longitude: 10.836888400000001
 postcode: 86399
 city: Bobingen
-street: Mayerweg
+street: "Mayerweg"
 housenumber: 8
 phone: ""
 opening_hours: ""

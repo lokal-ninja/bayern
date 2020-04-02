@@ -5,7 +5,7 @@ latitude: 47.8353843
 longitude: 12.978271000000001
 postcode: 83395
 city: Freilassing
-street: Reichenhaller Straße
+street: "Reichenhaller Straße"
 housenumber: 17
 phone: ""
 opening_hours: "Mo,Tu,Th,Fr 09:00-12:30,14:00-17:00; We 09:00-12:30; Sa 09:00-12:00"

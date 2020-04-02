@@ -5,7 +5,7 @@ latitude: 47.852750500000006
 longitude: 12.1424581
 postcode: 83022
 city: Rosenheim
-street: Simsseestraße
+street: "Simsseestraße"
 housenumber: 17
 phone: "+49 8031 30870"
 opening_hours: ""

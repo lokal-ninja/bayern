@@ -5,7 +5,7 @@ latitude: 49.8231988
 longitude: 10.104961900000001
 postcode: 97337
 city: Dettelbach
-street: Lindenallee
+street: "Lindenallee"
 housenumber: 1
 phone: "+49-9324-980101"
 opening_hours: ""

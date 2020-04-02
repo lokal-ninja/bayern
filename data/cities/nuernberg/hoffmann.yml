@@ -5,7 +5,7 @@ latitude: 49.4613482
 longitude: 11.0920514
 postcode: 90409
 city: Nürnberg
-street: Bayreuther Straße
+street: "Bayreuther Straße"
 housenumber: 29a
 phone: "+49 911 552703"
 opening_hours: ""

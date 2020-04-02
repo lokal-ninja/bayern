@@ -5,7 +5,7 @@ latitude: 48.532361900000005
 longitude: 11.2983191
 postcode: 86561
 city: Aresing
-street: Sankt-Martin-Straße
+street: "Sankt-Martin-Straße"
 housenumber: 14
 phone: ""
 opening_hours: "Mo, Su 07:30-13:00; Tu-Fr 07:30-18:00"

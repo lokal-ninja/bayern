@@ -5,7 +5,7 @@ latitude: 49.035543000000004
 longitude: 12.1210971
 postcode: 93057
 city: Regensburg
-street: Brandlberger Straße
+street: "Brandlberger Straße"
 housenumber: 105
 phone: "+49 941 4616 142"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"

@@ -5,7 +5,7 @@ latitude: 49.4756799
 longitude: 11.071393500000001
 postcode: 90425
 city: Nürnberg
-street: Mittelstraße
+street: "Mittelstraße"
 housenumber: 4
 phone: "+49 0911 470 11 909"
 opening_hours: "Mo-Sa 14:00-19:00"

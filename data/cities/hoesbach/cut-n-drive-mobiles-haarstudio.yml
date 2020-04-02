@@ -5,7 +5,7 @@ latitude: 50.0384941
 longitude: 9.2343531
 postcode: 63768
 city: Hösbach
-street: Gartenstraße
+street: "Gartenstraße"
 housenumber: 11
 phone: ""
 opening_hours: ""

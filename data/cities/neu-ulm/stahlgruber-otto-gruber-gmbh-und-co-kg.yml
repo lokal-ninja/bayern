@@ -5,7 +5,7 @@ latitude: 48.388348
 longitude: 10.042459200000001
 postcode: 89231
 city: Neu-Ulm
-street: Böttgerstraße
+street: "Böttgerstraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

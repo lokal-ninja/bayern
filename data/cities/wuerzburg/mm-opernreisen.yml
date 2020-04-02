@@ -5,7 +5,7 @@ latitude: 49.7881123
 longitude: 9.9325276
 postcode: 97070
 city: Würzburg
-street: Münzstraße
+street: "Münzstraße"
 housenumber: 10
 phone: ""
 opening_hours: ""

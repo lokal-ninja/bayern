@@ -5,7 +5,7 @@ latitude: 48.5734135
 longitude: 10.8373652
 postcode: 86707
 city: Westendorf
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 24
 phone: ""
 opening_hours: ""

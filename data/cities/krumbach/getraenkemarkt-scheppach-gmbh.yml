@@ -5,7 +5,7 @@ latitude: 48.2441188
 longitude: 10.3655886
 postcode: 86381
 city: Krumbach
-street: Brühlstraße
+street: "Brühlstraße"
 housenumber: 1c
 phone: "+49 8282 90050"
 opening_hours: ""

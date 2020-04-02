@@ -5,7 +5,7 @@ latitude: 48.397035300000006
 longitude: 10.0137699
 postcode: 89231
 city: Neu-Ulm
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 34½
 phone: "+49 731 / 9409485"
 opening_hours: "Mo-Fr 07:30-18:00"

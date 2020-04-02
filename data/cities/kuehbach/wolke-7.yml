@@ -5,7 +5,7 @@ latitude: 48.495009
 longitude: 11.180058200000001
 postcode: 86556
 city: Kühbach
-street: Dieselstraße
+street: "Dieselstraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

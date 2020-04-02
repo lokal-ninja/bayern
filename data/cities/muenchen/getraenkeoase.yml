@@ -5,7 +5,7 @@ latitude: 48.1496435
 longitude: 11.56113
 postcode: 80333
 city: München
-street: Gabelsbergerstraße
+street: "Gabelsbergerstraße"
 housenumber: 54
 phone: "+49 89 57953637"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-14:00; Su,PH off"

@@ -5,7 +5,7 @@ latitude: 49.913879200000004
 longitude: 10.8690534
 postcode: 96103
 city: Hallstadt
-street: Laubanger
+street: "Laubanger"
 housenumber: 32
 phone: "+499514077801"
 opening_hours: "Mo-Sa 09:00-20:00"

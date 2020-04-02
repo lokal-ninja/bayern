@@ -5,7 +5,7 @@ latitude: 48.0712436
 longitude: 11.655307700000002
 postcode: 85521
 city: Ottobrunn
-street: Alte Landstraße
+street: "Alte Landstraße"
 housenumber: 1
 phone: "+49 89 608 602 94"
 opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00; Su,PH off"

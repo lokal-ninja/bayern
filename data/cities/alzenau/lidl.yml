@@ -5,7 +5,7 @@ latitude: 50.0478679
 longitude: 9.0443311
 postcode: 63755
 city: Alzenau
-street: Industriegebiet Süd A
+street: "Industriegebiet Süd A"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

@@ -5,7 +5,7 @@ latitude: 48.283761600000005
 longitude: 10.4679607
 postcode: 86470
 city: Thannhausen
-street: Frühmeßstraße
+street: "Frühmeßstraße"
 housenumber: 21
 phone: "+49 8281 3411"
 opening_hours: ""

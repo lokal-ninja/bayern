@@ -5,7 +5,7 @@ latitude: 48.447897000000005
 longitude: 10.2153869
 postcode: 89340
 city: Leipheim
-street: Ulmer Straße
+street: "Ulmer Straße"
 housenumber: 12
 phone: "+49 8221 369318"
 opening_hours: ""

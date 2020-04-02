@@ -5,7 +5,7 @@ latitude: 47.8547281
 longitude: 12.630639200000001
 postcode: 83278
 city: Traunstein
-street: Franz-Xaver-Steber-Straße
+street: "Franz-Xaver-Steber-Straße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Sa 09:00-20:00"

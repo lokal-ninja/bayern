@@ -5,7 +5,7 @@ latitude: 50.1683704
 longitude: 12.1204815
 postcode: 95100
 city: Selb
-street: Weißenbacher Straße
+street: "Weißenbacher Straße"
 housenumber: 55
 phone: ""
 opening_hours: ""

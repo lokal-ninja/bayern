@@ -5,7 +5,7 @@ latitude: 48.148132000000004
 longitude: 11.445262300000001
 postcode: 81243
 city: München
-street: Aubinger Straße
+street: "Aubinger Straße"
 housenumber: 15
 phone: ""
 opening_hours: ""

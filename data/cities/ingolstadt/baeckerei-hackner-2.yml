@@ -5,7 +5,7 @@ latitude: 48.776949800000004
 longitude: 11.4064028
 postcode: 85057
 city: Ingolstadt
-street: Gaimersheimer Straße
+street: "Gaimersheimer Straße"
 housenumber: 51
 phone: ""
 opening_hours: ""

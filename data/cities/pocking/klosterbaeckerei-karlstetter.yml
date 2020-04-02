@@ -5,7 +5,7 @@ latitude: 48.4025854
 longitude: 13.3106649
 postcode: 94060
 city: Pocking
-street: Klosterstraße
+street: "Klosterstraße"
 housenumber: 11
 phone: "+49 8531 4965"
 opening_hours: "Mo-Fr 6:00-18:30; Sa 6:00-13:30; So 7:00-18:00"

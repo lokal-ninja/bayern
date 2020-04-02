@@ -5,7 +5,7 @@ latitude: 48.918270400000004
 longitude: 11.8735955
 postcode: 93309
 city: Kelheim
-street: Ludwigsplatz
+street: "Ludwigsplatz"
 housenumber: 7
 phone: ""
 opening_hours: ""

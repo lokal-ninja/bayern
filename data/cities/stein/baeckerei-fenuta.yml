@@ -5,7 +5,7 @@ latitude: 49.416228100000005
 longitude: 11.0139396
 postcode: 90547
 city: Stein
-street: Rolandstraße
+street: "Rolandstraße"
 housenumber: 6
 phone: "+49911651484"
 opening_hours: "Mo-We 09:00-17:00; Th-Sa 09:00-22:00"

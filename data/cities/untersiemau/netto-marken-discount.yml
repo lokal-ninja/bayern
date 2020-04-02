@@ -5,7 +5,7 @@ latitude: 50.199637300000006
 longitude: 10.966111300000001
 postcode: 96253
 city: Untersiemau
-street: Straßäcker
+street: "Straßäcker"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00; PH off"

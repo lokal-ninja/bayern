@@ -5,7 +5,7 @@ latitude: 48.53555050000001
 longitude: 12.1550808
 postcode: 84028
 city: Landshut
-street: Königsfeldergasse
+street: "Königsfeldergasse"
 housenumber: 511
 phone: "+49 871 2764187"
 opening_hours: ""

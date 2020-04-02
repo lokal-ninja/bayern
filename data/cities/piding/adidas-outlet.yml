@@ -5,7 +5,7 @@ latitude: 47.765675300000005
 longitude: 12.9070674
 postcode: 83451
 city: Piding
-street: Lattenbergstraße
+street: "Lattenbergstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

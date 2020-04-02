@@ -5,7 +5,7 @@ latitude: 48.500280200000006
 longitude: 11.003754200000001
 postcode: 86447
 city: Aindling
-street: Amselstraße
+street: "Amselstraße"
 housenumber: 10
 phone: ""
 opening_hours: ""

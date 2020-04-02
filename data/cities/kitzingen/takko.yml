@@ -5,7 +5,7 @@ latitude: 49.7365531
 longitude: 10.160762700000001
 postcode: 97318
 city: Kitzingen
-street: Falterstraße
+street: "Falterstraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.5988611
 longitude: 11.0764879
 postcode: 91080
 city: Uttenreuth
-street: Esperstraße
+street: "Esperstraße"
 housenumber: 13
 phone: ""
 opening_hours: ""

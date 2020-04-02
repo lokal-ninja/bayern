@@ -5,7 +5,7 @@ latitude: 49.559788600000005
 longitude: 11.345058300000002
 postcode: 91220
 city: Schnaittach
-street: Gottfried-Stammler-Straße
+street: "Gottfried-Stammler-Straße"
 housenumber: 12
 phone: ""
 opening_hours: ""

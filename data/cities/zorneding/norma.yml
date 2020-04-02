@@ -5,7 +5,7 @@ latitude: 48.082659
 longitude: 11.8212688
 postcode: 85604
 city: Zorneding
-street: Münchner Straße
+street: "Münchner Straße"
 housenumber: 15
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

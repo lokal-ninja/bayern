@@ -5,7 +5,7 @@ latitude: 48.386479800000004
 longitude: 11.058419500000001
 postcode: 86453
 city: Dasing
-street: Aichacher Straße
+street: "Aichacher Straße"
 housenumber: 16
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

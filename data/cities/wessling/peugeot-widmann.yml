@@ -5,7 +5,7 @@ latitude: 48.0783593
 longitude: 11.257333000000001
 postcode: 
 city: Weßling
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 1
 phone: "+49 8153 9282 0"
 opening_hours: ""

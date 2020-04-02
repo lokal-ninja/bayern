@@ -5,7 +5,7 @@ latitude: 48.141412900000006
 longitude: 11.6155101
 postcode: 
 city: München
-street: Richard-Strauss-Straße
+street: "Richard-Strauss-Straße"
 housenumber: 48
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

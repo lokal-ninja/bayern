@@ -5,7 +5,7 @@ latitude: 48.413302900000005
 longitude: 10.1444258
 postcode: 89278
 city: Nersingen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 10
 phone: ""
 opening_hours: ""

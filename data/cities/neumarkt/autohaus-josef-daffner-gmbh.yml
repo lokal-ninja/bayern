@@ -5,7 +5,7 @@ latitude: 49.2584299
 longitude: 11.440104100000001
 postcode: 92318
 city: Neumarkt
-street: Alois-Senefelder-Straße
+street: "Alois-Senefelder-Straße"
 housenumber: 17
 phone: "+49 9181 89 50-0"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 08:00-14:00"

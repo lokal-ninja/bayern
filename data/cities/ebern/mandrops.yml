@@ -5,7 +5,7 @@ latitude: 50.099018300000004
 longitude: 10.7931518
 postcode: 
 city: Ebern
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 17
 phone: ""
 opening_hours: ""

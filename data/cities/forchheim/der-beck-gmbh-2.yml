@@ -5,7 +5,7 @@ latitude: 49.706507200000004
 longitude: 11.064561300000001
 postcode: 91301
 city: Forchheim
-street: Hans-Böckler-Straße
+street: "Hans-Böckler-Straße"
 housenumber: 4
 phone: ""
 opening_hours: ""

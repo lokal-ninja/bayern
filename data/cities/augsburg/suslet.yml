@@ -5,7 +5,7 @@ latitude: 48.3702557
 longitude: 10.894393
 postcode: 86152
 city: Augsburg
-street: Ludwigstraße
+street: "Ludwigstraße"
 housenumber: 16
 phone: ""
 opening_hours: "Mo-Sa 10:00-19:00"

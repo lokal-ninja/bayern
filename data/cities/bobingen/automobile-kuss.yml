@@ -5,7 +5,7 @@ latitude: 48.2688696
 longitude: 10.8133862
 postcode: 86399
 city: Bobingen
-street: Michael-Schäffer-Straße
+street: "Michael-Schäffer-Straße"
 housenumber: 11f
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.147652
 longitude: 12.618785500000001
 postcode: 84518
 city: Garching an der Alz
-street: Fabrikstraße
+street: "Fabrikstraße"
 housenumber: 19
 phone: "+49 (0)8634 680002"
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-14:00; Nach 18.00 Uhr Termine nach Vereinbarung"

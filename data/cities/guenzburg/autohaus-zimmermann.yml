@@ -5,7 +5,7 @@ latitude: 48.4528291
 longitude: 10.2946652
 postcode: 89312
 city: Günzburg
-street: Robert-Koch-Straße
+street: "Robert-Koch-Straße"
 housenumber: 2
 phone: "+498221-36330"
 opening_hours: "Mo-Fr 08:00-18:00, Sa 08:00-12:00"

@@ -5,7 +5,7 @@ latitude: 50.3284126
 longitude: 11.6953069
 postcode: 95119
 city: Naila
-street: Albert-Schweitzer-Straße
+street: "Albert-Schweitzer-Straße"
 housenumber: 2-6
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.4027321
 longitude: 11.1415629
 postcode: 90473
 city: Nürnberg
-street: Ratiborstraße
+street: "Ratiborstraße"
 housenumber: 27
 phone: ""
 opening_hours: ""

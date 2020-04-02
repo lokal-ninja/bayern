@@ -5,7 +5,7 @@ latitude: 49.9861288
 longitude: 10.2177153
 postcode: 97520
 city: Röthlein
-street: Barthstraße
+street: "Barthstraße"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Fr 14:00-18:00; PH off"

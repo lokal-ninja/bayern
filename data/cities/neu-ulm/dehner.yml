@@ -5,7 +5,7 @@ latitude: 48.388477900000005
 longitude: 10.0331655
 postcode: 89231
 city: Neu-Ulm
-street: Leibnizstraße
+street: "Leibnizstraße"
 housenumber: 15
 phone: "+49 731 9707900"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"

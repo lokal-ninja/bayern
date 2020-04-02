@@ -5,7 +5,7 @@ latitude: 48.191025800000006
 longitude: 11.8522035
 postcode: 85570
 city: Markt Schwaben
-street: Burgerfeld
+street: "Burgerfeld"
 housenumber: 12
 phone: "+49 8121 2235917"
 opening_hours: "Mo-Sa 08:00-20:00"

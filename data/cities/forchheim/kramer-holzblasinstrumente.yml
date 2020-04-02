@@ -5,7 +5,7 @@ latitude: 49.7201765
 longitude: 11.057050400000001
 postcode: 91301
 city: Forchheim
-street: Sattlertorstraße
+street: "Sattlertorstraße"
 housenumber: 12
 phone: ""
 opening_hours: ""

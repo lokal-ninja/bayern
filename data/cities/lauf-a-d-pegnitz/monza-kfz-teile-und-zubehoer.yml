@@ -5,7 +5,7 @@ latitude: 49.5097462
 longitude: 11.272920500000001
 postcode: 91207
 city: Lauf a.d.Pegnitz
-street: Nürnberger Straße
+street: "Nürnberger Straße"
 housenumber: 50
 phone: "+49 (0) 91 23 - 7 55 33"
 opening_hours: "Mo-Fr 08:00-18:00, Sa 09:00-13:00"

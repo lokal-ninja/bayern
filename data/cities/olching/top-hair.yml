@@ -5,7 +5,7 @@ latitude: 48.216319500000004
 longitude: 11.3471627
 postcode: 82140
 city: Olching
-street: Feursstraße
+street: "Feursstraße"
 housenumber: 56
 phone: "+49 8142 4482683"
 opening_hours: ""

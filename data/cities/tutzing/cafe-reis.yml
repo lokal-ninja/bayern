@@ -5,7 +5,7 @@ latitude: 47.910178200000004
 longitude: 11.2809831
 postcode: 
 city: Tutzing
-street: Marienstraße
+street: "Marienstraße"
 housenumber: 2a
 phone: ""
 opening_hours: "Mo-Sa 06:30-18:00; Su,PH 08:00-18:00"

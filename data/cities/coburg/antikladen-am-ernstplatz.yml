@@ -5,7 +5,7 @@ latitude: 50.25784
 longitude: 10.9622556
 postcode: 96450
 city: Coburg
-street: Ernstplatz
+street: "Ernstplatz"
 housenumber: 3
 phone: "+49 9561 94164"
 opening_hours: "Mo,We-Fr 09:00-18:00; Sa 09:00-13:00; Su,PH off"

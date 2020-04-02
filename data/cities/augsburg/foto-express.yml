@@ -5,7 +5,7 @@ latitude: 48.3689388
 longitude: 10.896801400000001
 postcode: 86150
 city: Augsburg
-street: Unter dem Bogen
+street: "Unter dem Bogen"
 housenumber: 2
 phone: "+49 821 313023"
 opening_hours: "Mo-Fr 09:30-18:00, Tu 09:30-16:00"

@@ -5,7 +5,7 @@ latitude: 48.088412100000006
 longitude: 11.459708000000001
 postcode: 82061
 city: Neuried
-street: Hainbuchenring
+street: "Hainbuchenring"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-20:00; PH off"

@@ -5,7 +5,7 @@ latitude: 48.1525638
 longitude: 11.5336309
 postcode: 80634
 city: München
-street: Rotkreuzplatz
+street: "Rotkreuzplatz"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Fr 10:00-14:00,14:45-19:00; Sa 10:00-16:00; Su,PH off"

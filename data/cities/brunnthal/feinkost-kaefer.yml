@@ -5,7 +5,7 @@ latitude: 48.042661700000004
 longitude: 11.662407900000002
 postcode: 85649
 city: Brunnthal
-street: Eugen-Sänger-Ring
+street: "Eugen-Sänger-Ring"
 housenumber: 19a
 phone: ""
 opening_hours: "Mo-Sa 09:00-20:00"

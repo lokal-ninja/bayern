@@ -5,7 +5,7 @@ latitude: 49.504715000000004
 longitude: 11.2795211
 postcode: 91207
 city: Lauf a.d.Pegnitz
-street: Röthenbacher Straße
+street: "Röthenbacher Straße"
 housenumber: 9
 phone: "+49 9123 701 51 41"
 opening_hours: "Mo-Fr 08:30-18:00; Sa 09:00-13:00"

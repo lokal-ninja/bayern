@@ -5,7 +5,7 @@ latitude: 48.643427700000004
 longitude: 12.4910884
 postcode: 84130
 city: Dingolfing
-street: Kreuzstraße
+street: "Kreuzstraße"
 housenumber: 18
 phone: "+49 8731 73334"
 opening_hours: "Mo-Fr 08:00-12:00,13:00-18:00; Sa 09:00-13:00"

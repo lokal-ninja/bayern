@@ -5,7 +5,7 @@ latitude: 49.7959894
 longitude: 9.9341966
 postcode: 97070
 city: Würzburg
-street: Oberthürstraße
+street: "Oberthürstraße"
 housenumber: 2
 phone: "+49-931-555979"
 opening_hours: "Mo-Fr 07:15-18:00; Sa 07:15-16:00"

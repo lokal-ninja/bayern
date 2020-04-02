@@ -5,7 +5,7 @@ latitude: 47.948202300000005
 longitude: 12.182543200000001
 postcode: 83569
 city: Vogtareuth
-street: Krankenhausstraße
+street: "Krankenhausstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.440796000000006
 longitude: 11.0836859
 postcode: 90459
 city: Nürnberg
-street: Wölckernstraße
+street: "Wölckernstraße"
 housenumber: 29
 phone: "+49911439900"
 opening_hours: "Mo-Fr 09:30-18:30;Sa 09:30-15:00"

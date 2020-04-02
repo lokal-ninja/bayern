@@ -5,7 +5,7 @@ latitude: 49.8990912
 longitude: 10.904431800000001
 postcode: 96052
 city: Bamberg
-street: Pödeldorfer Straße
+street: "Pödeldorfer Straße"
 housenumber: 3a
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

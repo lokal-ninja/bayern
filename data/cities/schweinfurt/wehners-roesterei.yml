@@ -5,7 +5,7 @@ latitude: 50.0525917
 longitude: 10.1947285
 postcode: 97424
 city: Schweinfurt
-street: Euerbacher Straße
+street: "Euerbacher Straße"
 housenumber: 4
 phone: "+49 9721 793 03 29"
 opening_hours: ""

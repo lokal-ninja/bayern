@@ -5,7 +5,7 @@ latitude: 48.1149879
 longitude: 11.4824037
 postcode: 81375
 city: München
-street: Würmtalstraße
+street: "Würmtalstraße"
 housenumber: 102
 phone: ""
 opening_hours: "Mo-Sa nach Vereinbarung"

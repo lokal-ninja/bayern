@@ -5,7 +5,7 @@ latitude: 48.385429200000004
 longitude: 10.024292800000001
 postcode: 89231
 city: Neu-Ulm
-street: Albrecht-Berblinger-Straße
+street: "Albrecht-Berblinger-Straße"
 housenumber: 13
 phone: "+49 731 9771970"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.6833333
 longitude: 13.3811145
 postcode: 94154
 city: Neukirchen vorm Wald
-street: Passauer Straße
+street: "Passauer Straße"
 housenumber: 31
 phone: ""
 opening_hours: "Mo-Fr 06:00-20:00;Sa-Su 07:00-20:00"

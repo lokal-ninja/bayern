@@ -5,7 +5,7 @@ latitude: 47.676908600000004
 longitude: 12.468256700000001
 postcode: 83242
 city: Reit im Winkl
-street: Tiroler Straße
+street: "Tiroler Straße"
 housenumber: 6
 phone: "+49 8640 97640"
 opening_hours: "Mo-Fr 08:30-18:30; Sa 08:30-13:00"

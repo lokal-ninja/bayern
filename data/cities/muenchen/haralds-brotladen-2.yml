@@ -5,7 +5,7 @@ latitude: 48.133679
 longitude: 11.5651407
 postcode: 80336
 city: München
-street: Sendlinger-Tor-Platz
+street: "Sendlinger-Tor-Platz"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Th 06:00-17:30; Fr 06:00-17:00"

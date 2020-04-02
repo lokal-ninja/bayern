@@ -5,7 +5,7 @@ latitude: 49.4590729
 longitude: 11.007645
 postcode: 90763
 city: Fürth
-street: Waldstraße
+street: "Waldstraße"
 housenumber: 101a
 phone: "+4991172301770"
 opening_hours: "Mo-Sa 07:00-20:00"

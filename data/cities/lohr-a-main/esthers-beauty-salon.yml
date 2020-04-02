@@ -5,7 +5,7 @@ latitude: 49.994319000000004
 longitude: 9.5736267
 postcode: 97816
 city: Lohr a. Main
-street: Sterngasse
+street: "Sterngasse"
 housenumber: 7
 phone: "+49 9352 6048800"
 opening_hours: ""

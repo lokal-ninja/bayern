@@ -5,7 +5,7 @@ latitude: 48.0755416
 longitude: 11.656875000000001
 postcode: 85579
 city: Neubiberg
-street: Professor-Messerschmitt-Straße
+street: "Professor-Messerschmitt-Straße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 10:00-18:00"

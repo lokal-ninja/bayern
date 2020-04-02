@@ -5,7 +5,7 @@ latitude: 48.118060500000006
 longitude: 11.2903564
 postcode: 82205
 city: Gilching
-street: Brucker Straße
+street: "Brucker Straße"
 housenumber: 53
 phone: "+4981054369"
 opening_hours: "Tu-Fr 08:00-18:00; Sa 08:00-12:00"

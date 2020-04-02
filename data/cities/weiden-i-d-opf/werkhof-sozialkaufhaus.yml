@@ -5,7 +5,7 @@ latitude: 49.6654135
 longitude: 12.1586493
 postcode: 92637
 city: Weiden i.d.OPf.
-street: Obere Bauscherstraße
+street: "Obere Bauscherstraße"
 housenumber: 21
 phone: "+49 961 21024"
 opening_hours: "Mo-Fr 10:00-18:00; Sa 09:00-12:00; Su,PH off"

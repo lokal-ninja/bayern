@@ -5,7 +5,7 @@ latitude: 47.875107400000005
 longitude: 11.4672043
 postcode: 82538
 city: Geretsried
-street: Egerlandstraße
+street: "Egerlandstraße"
 housenumber: 49
 phone: "+49 8171 62320"
 opening_hours: ""

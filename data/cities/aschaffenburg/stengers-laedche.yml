@@ -5,7 +5,7 @@ latitude: 49.964201300000006
 longitude: 9.1225272
 postcode: 63741
 city: Aschaffenburg
-street: Geschwister-Scholl-Platz
+street: "Geschwister-Scholl-Platz"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

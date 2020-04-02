@@ -5,7 +5,7 @@ latitude: 48.110393300000005
 longitude: 11.730720600000001
 postcode: 85540
 city: Haar
-street: Bahnhofplatz
+street: "Bahnhofplatz"
 housenumber: 4d
 phone: "+49 89 21598700"
 opening_hours: ""

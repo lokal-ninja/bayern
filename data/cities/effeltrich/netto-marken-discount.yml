@@ -5,7 +5,7 @@ latitude: 49.662390800000004
 longitude: 11.081815500000001
 postcode: 91090
 city: Effeltrich
-street: Baiersdorfer Straße
+street: "Baiersdorfer Straße"
 housenumber: 37
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.363864
 longitude: 10.814988000000001
 postcode: 86391
 city: Stadtbergen
-street: Sandbergstraße
+street: "Sandbergstraße"
 housenumber: 25
 phone: "+49 821 434473"
 opening_hours: "We 08:30-12:00; Th 08:30-12:00,13:00-18:00; Fr 08:30-12:00,13:00-18:00; Sa 07:30-13:00"

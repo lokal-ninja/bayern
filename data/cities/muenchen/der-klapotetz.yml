@@ -5,7 +5,7 @@ latitude: 48.1498842
 longitude: 11.466991700000001
 postcode: 81245
 city: München
-street: Nusselstraße
+street: "Nusselstraße"
 housenumber: 55
 phone: ""
 opening_hours: ""

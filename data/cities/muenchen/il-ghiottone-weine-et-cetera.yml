@@ -5,7 +5,7 @@ latitude: 48.116829700000004
 longitude: 11.590701000000001
 postcode: 81541
 city: München
-street: Eintrachtstraße
+street: "Eintrachtstraße"
 housenumber: 3
 phone: ""
 opening_hours: ""

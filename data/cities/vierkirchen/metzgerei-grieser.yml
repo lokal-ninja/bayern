@@ -5,7 +5,7 @@ latitude: 48.3647968
 longitude: 11.460177400000001
 postcode: 85256
 city: Vierkirchen
-street: Freisinger Straße
+street: "Freisinger Straße"
 housenumber: 2
 phone: "+49 8139 477"
 opening_hours: ""

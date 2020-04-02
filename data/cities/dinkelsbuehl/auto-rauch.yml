@@ -5,7 +5,7 @@ latitude: 49.0639352
 longitude: 10.325672200000001
 postcode: 91550
 city: Dinkelsbühl
-street: Hans-Behringer-Straße
+street: "Hans-Behringer-Straße"
 housenumber: 8
 phone: "+49 9851 2594"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.2231686
 longitude: 10.107410300000002
 postcode: 89257
 city: Illertissen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo,Tu,Th 09:00-12:30, 14:00-18:00; We,Fr 09:00-18:00; Sa 09:00-12:30"

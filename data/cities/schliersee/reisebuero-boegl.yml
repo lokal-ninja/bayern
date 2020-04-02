@@ -5,7 +5,7 @@ latitude: 47.735398700000005
 longitude: 11.8633328
 postcode: 83727
 city: Schliersee
-street: Rathausstraße
+street: "Rathausstraße"
 housenumber: 11
 phone: ""
 opening_hours: ""

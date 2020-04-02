@@ -5,7 +5,7 @@ latitude: 48.081806300000004
 longitude: 11.0317623
 postcode: 86922
 city: Eresing
-street: Riedhof
+street: "Riedhof"
 housenumber: 1
 phone: ""
 opening_hours: "Fr 09:00-18:00, Sa 09:00-14:00; PH off"

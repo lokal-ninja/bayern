@@ -5,7 +5,7 @@ latitude: 49.5503073
 longitude: 11.022453500000001
 postcode: 91058
 city: Erlangen
-street: Täublingstraße
+street: "Täublingstraße"
 housenumber: 7
 phone: ""
 opening_hours: ""

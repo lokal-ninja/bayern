@@ -5,7 +5,7 @@ latitude: 48.641031600000005
 longitude: 12.483326300000002
 postcode: 
 city: Dingolfing
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 89-91
 phone: ""
 opening_hours: ""

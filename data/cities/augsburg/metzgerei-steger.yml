@@ -5,7 +5,7 @@ latitude: 48.3805296
 longitude: 10.920187400000001
 postcode: 86165
 city: Augsburg
-street: Feuerhausstraße
+street: "Feuerhausstraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

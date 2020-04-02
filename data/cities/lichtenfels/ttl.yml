@@ -5,7 +5,7 @@ latitude: 50.1502963
 longitude: 11.0842728
 postcode: 96215
 city: Lichtenfels
-street: Krappenrother Straße
+street: "Krappenrother Straße"
 housenumber: 8
 phone: "+49 9571 4180"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"

@@ -5,7 +5,7 @@ latitude: 49.148645800000004
 longitude: 12.3469201
 postcode: 93192
 city: Wald
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 16
 phone: ""
 opening_hours: "Mo-Sa 08:00-18:00"

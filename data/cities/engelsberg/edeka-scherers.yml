@@ -5,7 +5,7 @@ latitude: 48.116635
 longitude: 12.5437951
 postcode: 84549
 city: Engelsberg
-street: Raiffeisenplatz
+street: "Raiffeisenplatz"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 06:00-19:30; Sa 06:00-18:00"

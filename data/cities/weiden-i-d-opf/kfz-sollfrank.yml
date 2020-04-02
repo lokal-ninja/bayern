@@ -5,7 +5,7 @@ latitude: 49.689407200000005
 longitude: 12.1626626
 postcode: 92637
 city: Weiden i.d.OPf.
-street: Professor-Stahl-Straße
+street: "Professor-Stahl-Straße"
 housenumber: 19a
 phone: ""
 opening_hours: ""

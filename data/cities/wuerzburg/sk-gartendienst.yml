@@ -5,7 +5,7 @@ latitude: 49.80394870000001
 longitude: 9.941081200000001
 postcode: 97080
 city: Würzburg
-street: Schiestlstraße
+street: "Schiestlstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

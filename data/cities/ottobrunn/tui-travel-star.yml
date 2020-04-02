@@ -5,7 +5,7 @@ latitude: 48.063344400000005
 longitude: 11.6790494
 postcode: 85521
 city: Ottobrunn
-street: Roseggerstraße
+street: "Roseggerstraße"
 housenumber: 55
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:30"

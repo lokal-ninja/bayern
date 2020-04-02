@@ -5,7 +5,7 @@ latitude: 49.9511824
 longitude: 9.671314800000001
 postcode: 97854
 city: Steinfeld
-street: Rathausstraße
+street: "Rathausstraße"
 housenumber: 7
 phone: ""
 opening_hours: ""

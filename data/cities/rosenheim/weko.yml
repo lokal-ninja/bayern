@@ -5,7 +5,7 @@ latitude: 47.8180095
 longitude: 12.1150187
 postcode: 83026
 city: Rosenheim
-street: Am Gittersbach
+street: "Am Gittersbach"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Fr 09:30-19:30; Sa 09:00-18:00"

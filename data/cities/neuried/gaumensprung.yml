@@ -5,7 +5,7 @@ latitude: 48.092664400000004
 longitude: 11.4645591
 postcode: 82061
 city: Neuried
-street: Josef-Hunger-Weg
+street: "Josef-Hunger-Weg"
 housenumber: 3
 phone: "+49 89 72444740"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"

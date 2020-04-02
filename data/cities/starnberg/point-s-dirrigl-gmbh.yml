@@ -5,7 +5,7 @@ latitude: 47.9972526
 longitude: 11.362177200000001
 postcode: 82319
 city: Starnberg
-street: Berger Straße
+street: "Berger Straße"
 housenumber: 18
 phone: ""
 opening_hours: ""

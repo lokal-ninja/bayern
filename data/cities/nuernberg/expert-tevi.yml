@@ -5,7 +5,7 @@ latitude: 49.4736659
 longitude: 11.073347
 postcode: 90425
 city: Nürnberg
-street: Kilianstraße
+street: "Kilianstraße"
 housenumber: 90
 phone: "+49 911 36508 0"
 opening_hours: ""

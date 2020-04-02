@@ -5,7 +5,7 @@ latitude: 49.44977
 longitude: 11.826233400000001
 postcode: 92224
 city: Amberg
-street: Speckmannshofer Straße
+street: "Speckmannshofer Straße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 8:00-18:00"

@@ -5,7 +5,7 @@ latitude: 49.1995714
 longitude: 12.510436700000001
 postcode: 93426
 city: Roding
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 16
 phone: ""
 opening_hours: ""

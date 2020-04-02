@@ -5,7 +5,7 @@ latitude: 48.3235104
 longitude: 10.895413300000001
 postcode: 86179
 city: Augsburg
-street: Josef-Schorer-Straße
+street: "Josef-Schorer-Straße"
 housenumber: 7
 phone: ""
 opening_hours: ""

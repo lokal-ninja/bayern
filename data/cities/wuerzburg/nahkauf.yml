@@ -5,7 +5,7 @@ latitude: 49.8176235
 longitude: 9.9665513
 postcode: 97078
 city: Würzburg
-street: Sankt-Rochus-Straße
+street: "Sankt-Rochus-Straße"
 housenumber: 36
 phone: "+4993135953220"
 opening_hours: "Mo-Sa 7:00-20:00"

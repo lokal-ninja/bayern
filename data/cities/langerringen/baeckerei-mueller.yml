@@ -5,7 +5,7 @@ latitude: 48.145048900000006
 longitude: 10.758008100000001
 postcode: 86853
 city: Langerringen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 43
 phone: "+49 8232 2379"
 opening_hours: "Mo-Fr 05:00-18:00; Sa 05:00-12:00; Su 08:00-12:00"

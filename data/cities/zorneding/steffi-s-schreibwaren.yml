@@ -5,7 +5,7 @@ latitude: 48.0876309
 longitude: 11.830601300000001
 postcode: 85604
 city: Zorneding
-street: Obere Bahnhofstraße
+street: "Obere Bahnhofstraße"
 housenumber: 13
 phone: ""
 opening_hours: ""

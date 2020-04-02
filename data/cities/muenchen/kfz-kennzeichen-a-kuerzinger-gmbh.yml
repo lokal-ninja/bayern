@@ -5,7 +5,7 @@ latitude: 48.1468494
 longitude: 11.4631048
 postcode: 
 city: München
-street: Rathausgasse
+street: "Rathausgasse"
 housenumber: 2
 phone: ""
 opening_hours: ""

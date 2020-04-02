@@ -5,7 +5,7 @@ latitude: 48.823849
 longitude: 12.952431800000001
 postcode: 94469
 city: Deggendorf
-street: Donaustraße
+street: "Donaustraße"
 housenumber: 20
 phone: "+49 991 9959755"
 opening_hours: "Mo-Th 08:00-12:00,13:00-17:30; Fr 08:00-15:00; Sa 09:00-12:00; PH closed"

@@ -5,7 +5,7 @@ latitude: 50.085987300000006
 longitude: 9.073194800000001
 postcode: 63755
 city: Alzenau
-street: Kaiser-Ruprecht-Straße
+street: "Kaiser-Ruprecht-Straße"
 housenumber: 11
 phone: "+49 6023 9474343"
 opening_hours: ""

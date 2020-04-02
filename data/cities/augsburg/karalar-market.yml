@@ -5,7 +5,7 @@ latitude: 48.349756400000004
 longitude: 10.8974156
 postcode: 86159
 city: Augsburg
-street: Hochfeldstraße
+street: "Hochfeldstraße"
 housenumber: 67
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

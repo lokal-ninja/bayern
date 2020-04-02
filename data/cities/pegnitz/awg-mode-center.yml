@@ -5,7 +5,7 @@ latitude: 49.751042500000004
 longitude: 11.5386939
 postcode: 91257
 city: Pegnitz
-street: Nürnberger Straße
+street: "Nürnberger Straße"
 housenumber: 22b
 phone: ""
 opening_hours: ""

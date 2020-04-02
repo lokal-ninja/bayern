@@ -5,7 +5,7 @@ latitude: 48.360546600000006
 longitude: 10.8621906
 postcode: 86157
 city: Augsburg
-street: Bürgermeister-Bohl-Straße
+street: "Bürgermeister-Bohl-Straße"
 housenumber: 26
 phone: "+49 821 45 51 870"
 opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-13:00; Su 07:30-16:30"

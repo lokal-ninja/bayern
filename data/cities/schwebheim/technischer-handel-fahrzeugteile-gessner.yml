@@ -5,7 +5,7 @@ latitude: 49.995448100000004
 longitude: 10.245354800000001
 postcode: 97525
 city: Schwebheim
-street: Aschenhof
+street: "Aschenhof"
 housenumber: 13
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-12:00; PH off"

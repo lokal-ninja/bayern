@@ -5,7 +5,7 @@ latitude: 49.521676600000006
 longitude: 11.318614
 postcode: 91233
 city: Neunkirchen a.Sand
-street: Erlenstraße
+street: "Erlenstraße"
 housenumber: 15
 phone: "+49 9123 983858"
 opening_hours: ""

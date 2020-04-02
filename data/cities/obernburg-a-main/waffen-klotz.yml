@@ -5,7 +5,7 @@ latitude: 49.830389600000004
 longitude: 9.111738500000001
 postcode: 63785
 city: Obernburg a.Main
-street: Odenwaldstraße
+street: "Odenwaldstraße"
 housenumber: 37
 phone: ""
 opening_hours: ""

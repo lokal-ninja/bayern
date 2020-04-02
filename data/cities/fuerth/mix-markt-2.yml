@@ -5,7 +5,7 @@ latitude: 49.4823242
 longitude: 10.9548805
 postcode: 90766
 city: Fürth
-street: Voltastraße
+street: "Voltastraße"
 housenumber: 9
 phone: "+49 911 97499740"
 opening_hours: "Mo-Fr 09:00-20:00; Sa 08:00-20:00"

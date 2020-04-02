@@ -5,7 +5,7 @@ latitude: 50.0380309
 longitude: 11.997558600000001
 postcode: 95632
 city: Wunsiedel
-street: Hofer Straße
+street: "Hofer Straße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Fr 09:00-20:00; Sa 08:30-20:00"

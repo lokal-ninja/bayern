@@ -5,7 +5,7 @@ latitude: 48.1460407
 longitude: 11.5578774
 postcode: 80335
 city: München
-street: Seidlstraße
+street: "Seidlstraße"
 housenumber: 23
 phone: "+49 89 552576 0"
 opening_hours: "Mo-Fr 09:00-18:00; Sa,Su,PH off"

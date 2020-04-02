@@ -5,7 +5,7 @@ latitude: 48.9132152
 longitude: 12.728304600000001
 postcode: 94327
 city: Bogen
-street: Bärndorf
+street: "Bärndorf"
 housenumber: 29f
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

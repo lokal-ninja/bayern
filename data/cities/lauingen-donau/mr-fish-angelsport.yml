@@ -5,7 +5,7 @@ latitude: 48.575964600000006
 longitude: 10.449137200000001
 postcode: 89415
 city: Lauingen (Donau)
-street: Werner-von-Siemens-Straße
+street: "Werner-von-Siemens-Straße"
 housenumber: 9
 phone: ""
 opening_hours: ""

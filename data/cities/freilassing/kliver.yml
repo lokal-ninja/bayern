@@ -5,7 +5,7 @@ latitude: 47.845594600000005
 longitude: 12.975625500000001
 postcode: 83395
 city: Freilassing
-street: Von-Weber-Straße
+street: "Von-Weber-Straße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:00"

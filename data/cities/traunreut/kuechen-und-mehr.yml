@@ -5,7 +5,7 @@ latitude: 47.9623561
 longitude: 12.5915397
 postcode: 83301
 city: Traunreut
-street: Marienstraße
+street: "Marienstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

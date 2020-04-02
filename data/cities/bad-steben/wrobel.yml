@@ -5,7 +5,7 @@ latitude: 50.3670021
 longitude: 11.648799
 postcode: 95138
 city: Bad Steben
-street: Frankenwaldstraße
+street: "Frankenwaldstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

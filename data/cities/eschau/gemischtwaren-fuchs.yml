@@ -5,7 +5,7 @@ latitude: 49.8522502
 longitude: 9.2788895
 postcode: 63863
 city: Eschau
-street: Dorfstraße
+street: "Dorfstraße"
 housenumber: 19
 phone: "+49 9374 650"
 opening_hours: "Tu-Fr 07:00-11:00+,15:00-18:00, Sa 07:00-13:00"

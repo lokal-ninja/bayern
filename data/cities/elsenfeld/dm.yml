@@ -5,7 +5,7 @@ latitude: 49.8413564
 longitude: 9.1580166
 postcode: 63820
 city: Elsenfeld
-street: Erlenbacher Straße
+street: "Erlenbacher Straße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00; PH off"

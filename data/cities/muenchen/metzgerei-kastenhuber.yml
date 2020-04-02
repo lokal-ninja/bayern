@@ -5,7 +5,7 @@ latitude: 48.123928600000006
 longitude: 11.656526600000001
 postcode: 81825
 city: München
-street: Kreuzerweg
+street: "Kreuzerweg"
 housenumber: 51
 phone: ""
 opening_hours: "Mo-Th 08:00-18:00; Fr 07:00-18:00; Sa 07:00-12:00"

@@ -5,7 +5,7 @@ latitude: 47.5818036
 longitude: 10.559273800000001
 postcode: 87459
 city: Pfronten
-street: Allgäuer Straße
+street: "Allgäuer Straße"
 housenumber: 14
 phone: ""
 opening_hours: "Mo-Fr 09:00-12:30,14:00-18:00; Sa 09:00-12:30"

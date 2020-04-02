@@ -5,7 +5,7 @@ latitude: 49.6321619
 longitude: 12.331390500000001
 postcode: 92648
 city: Vohenstrauß
-street: Weidener Straße
+street: "Weidener Straße"
 housenumber: 14
 phone: ""
 opening_hours: "We 14:00-18:00; Fr 14:00-18:00; Sa 09:00-14:00"

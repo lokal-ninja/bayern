@@ -5,7 +5,7 @@ latitude: 48.4424403
 longitude: 13.086776200000001
 postcode: 84364
 city: Bad Birnbach
-street: Professor-Drexel-Straße
+street: "Professor-Drexel-Straße"
 housenumber: 10
 phone: "+49 8563 2319"
 opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00, Sa 09:00-12:00"

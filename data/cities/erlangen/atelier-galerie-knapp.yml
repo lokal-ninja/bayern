@@ -5,7 +5,7 @@ latitude: 49.5985822
 longitude: 11.004200500000001
 postcode: 91054
 city: Erlangen
-street: Apfelstraße
+street: "Apfelstraße"
 housenumber: 4
 phone: "+49 175 1717707"
 opening_hours: ""

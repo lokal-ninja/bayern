@@ -5,7 +5,7 @@ latitude: 48.987478800000005
 longitude: 12.197516100000001
 postcode: 93073
 city: Neutraubling
-street: Aussiger Straße
+street: "Aussiger Straße"
 housenumber: 13
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.4265654
 longitude: 10.8720136
 postcode: 86368
 city: Gersthofen
-street: Händelstraße
+street: "Händelstraße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Sa 09:00-18:00"

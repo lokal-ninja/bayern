@@ -5,7 +5,7 @@ latitude: 48.8755687
 longitude: 12.5503815
 postcode: 94315
 city: Straubing
-street: Otto-von-Dandl-Ring
+street: "Otto-von-Dandl-Ring"
 housenumber: 10
 phone: "+49 9421 543666"
 opening_hours: ""

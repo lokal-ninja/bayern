@@ -5,7 +5,7 @@ latitude: 49.464126400000005
 longitude: 11.1185693
 postcode: 90491
 city: Nürnberg
-street: Äußere Sulzbacher Straße
+street: "Äußere Sulzbacher Straße"
 housenumber: 120
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 47.8981014
 longitude: 10.6614426
 postcode: 87665
 city: Mauerstetten
-street: Steinholzer Weg
+street: "Steinholzer Weg"
 housenumber: 9
 phone: "+49 (0)8341 875277"
 opening_hours: "Fr 09:00-18:30; Sa 08:30-12:30"

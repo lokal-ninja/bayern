@@ -5,7 +5,7 @@ latitude: 48.409640700000004
 longitude: 11.469782400000001
 postcode: 
 city: Petershausen
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 4
 phone: "+49 8137 8481"
 opening_hours: ""

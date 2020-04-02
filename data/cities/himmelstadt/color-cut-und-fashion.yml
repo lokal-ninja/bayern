@@ -5,7 +5,7 @@ latitude: 49.9236847
 longitude: 9.7914201
 postcode: 97267
 city: Himmelstadt
-street: Waldstraße
+street: "Waldstraße"
 housenumber: 9
 phone: ""
 opening_hours: ""

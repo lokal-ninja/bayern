@@ -5,7 +5,7 @@ latitude: 48.777632600000004
 longitude: 11.4407616
 postcode: 85055
 city: Ingolstadt
-street: Kleiststraße
+street: "Kleiststraße"
 housenumber: 35
 phone: ""
 opening_hours: ""

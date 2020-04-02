@@ -5,7 +5,7 @@ latitude: 48.149478200000004
 longitude: 11.346092500000001
 postcode: 82178
 city: Puchheim
-street: Dorfstraße
+street: "Dorfstraße"
 housenumber: 26
 phone: ""
 opening_hours: ""

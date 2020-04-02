@@ -5,7 +5,7 @@ latitude: 47.7370292
 longitude: 11.219031900000001
 postcode: 82395
 city: Obersöchering
-street: Liebfrauenstraße
+street: "Liebfrauenstraße"
 housenumber: 1
 phone: "+49 8847 800"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.971164300000005
 longitude: 12.1610223
 postcode: 93083
 city: Obertraubling
-street: Edekastraße
+street: "Edekastraße"
 housenumber: 5
 phone: "+499401913470"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 08:00-13:00"

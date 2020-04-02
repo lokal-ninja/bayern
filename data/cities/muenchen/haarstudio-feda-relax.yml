@@ -5,7 +5,7 @@ latitude: 48.1674226
 longitude: 11.5646055
 postcode: 
 city: München
-street: Schleißheimer Straße
+street: "Schleißheimer Straße"
 housenumber: 169
 phone: ""
 opening_hours: ""

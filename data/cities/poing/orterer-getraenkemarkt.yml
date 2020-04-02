@@ -5,7 +5,7 @@ latitude: 48.170047200000006
 longitude: 11.802813200000001
 postcode: 85586
 city: Poing
-street: Gruber Straße
+street: "Gruber Straße"
 housenumber: 59b
 phone: "+49 8121 98 06 92"
 opening_hours: "Mo-Sa 08:00-20:00"

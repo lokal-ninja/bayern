@@ -5,7 +5,7 @@ latitude: 47.8543188
 longitude: 12.344771300000001
 postcode: 83209
 city: Prien am Chiemsee
-street: Bernauer Straße
+street: "Bernauer Straße"
 housenumber: 14
 phone: ""
 opening_hours: ""

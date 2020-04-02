@@ -5,7 +5,7 @@ latitude: 48.8503715
 longitude: 10.4896446
 postcode: 86720
 city: Nördlingen
-street: Schäfflesmarkt
+street: "Schäfflesmarkt"
 housenumber: 1
 phone: ""
 opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-13:00"

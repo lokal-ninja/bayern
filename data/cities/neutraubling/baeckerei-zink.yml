@@ -5,7 +5,7 @@ latitude: 48.9921808
 longitude: 12.200099300000002
 postcode: 93073
 city: Neutraubling
-street: Anton-Günther-Straße
+street: "Anton-Günther-Straße"
 housenumber: 2
 phone: ""
 opening_hours: ""

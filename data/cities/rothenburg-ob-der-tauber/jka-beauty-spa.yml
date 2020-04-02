@@ -5,7 +5,7 @@ latitude: 49.377460400000004
 longitude: 10.183767900000001
 postcode: 91541
 city: Rothenburg ob der Tauber
-street: Hofstatt
+street: "Hofstatt"
 housenumber: 2
 phone: "+49 176 81383339"
 opening_hours: ""

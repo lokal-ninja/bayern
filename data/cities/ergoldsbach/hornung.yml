@@ -5,7 +5,7 @@ latitude: 48.692773200000005
 longitude: 12.203947300000001
 postcode: 84061
 city: Ergoldsbach
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 34
 phone: ""
 opening_hours: ""

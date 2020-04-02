@@ -5,7 +5,7 @@ latitude: 49.4458904
 longitude: 11.103819600000001
 postcode: 90478
 city: Nürnberg
-street: Kupferstraße
+street: "Kupferstraße"
 housenumber: 17
 phone: ""
 opening_hours: ""

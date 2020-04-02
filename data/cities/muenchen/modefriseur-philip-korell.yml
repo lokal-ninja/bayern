@@ -5,7 +5,7 @@ latitude: 48.095911900000004
 longitude: 11.498432900000001
 postcode: 
 city: München
-street: Forstenrieder Allee
+street: "Forstenrieder Allee"
 housenumber: 51
 phone: ""
 opening_hours: ""

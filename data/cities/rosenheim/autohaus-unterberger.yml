@@ -5,7 +5,7 @@ latitude: 47.8429785
 longitude: 12.083874900000001
 postcode: 83026
 city: Rosenheim
-street: Sepp-Heindl-Straße
+street: "Sepp-Heindl-Straße"
 housenumber: 2
 phone: "+49 8031 21400"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 47.576264200000004
 longitude: 10.555370400000001
 postcode: 87459
 city: Pfronten
-street: Kienbergstraße
+street: "Kienbergstraße"
 housenumber: 8
 phone: "+4983633590290"
 opening_hours: ""

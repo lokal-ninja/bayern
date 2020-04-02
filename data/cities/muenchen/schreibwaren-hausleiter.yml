@@ -5,7 +5,7 @@ latitude: 48.1864877
 longitude: 11.5729953
 postcode: 80807
 city: München
-street: Illungshofstraße
+street: "Illungshofstraße"
 housenumber: 19
 phone: "+49 89 35651444"
 opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-13:00"

@@ -5,7 +5,7 @@ latitude: 48.146326900000005
 longitude: 11.5735994
 postcode: 80333
 city: München
-street: Türkenstraße
+street: "Türkenstraße"
 housenumber: 16
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-18:00"

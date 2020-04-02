@@ -5,7 +5,7 @@ latitude: 49.410744900000005
 longitude: 11.033589800000001
 postcode: 90451
 city: Nürnberg
-street: Weißenburger Straße
+street: "Weißenburger Straße"
 housenumber: 140
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.955369600000004
 longitude: 11.5531217
 postcode: 95445
 city: Bayreuth
-street: Am Bauhof
+street: "Am Bauhof"
 housenumber: 11
 phone: "+49 921 747430"
 opening_hours: ""

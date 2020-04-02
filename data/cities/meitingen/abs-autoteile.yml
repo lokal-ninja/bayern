@@ -5,7 +5,7 @@ latitude: 48.5424665
 longitude: 10.848966800000001
 postcode: 86405
 city: Meitingen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 40
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00; PH off"

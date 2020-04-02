@@ -5,7 +5,7 @@ latitude: 48.0566923
 longitude: 11.6205245
 postcode: 82008
 city: Unterhaching
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 81
 phone: ""
 opening_hours: ""

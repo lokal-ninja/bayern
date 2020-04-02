@@ -5,7 +5,7 @@ latitude: 49.117367300000005
 longitude: 10.7534746
 postcode: 91710
 city: Gunzenhausen
-street: Osianderstraße
+street: "Osianderstraße"
 housenumber: 12
 phone: "+49 9831 61 07 93"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.7389675
 longitude: 10.164231000000001
 postcode: 97318
 city: Kitzingen
-street: Schrannenstraße
+street: "Schrannenstraße"
 housenumber: 17
 phone: ""
 opening_hours: ""

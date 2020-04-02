@@ -5,7 +5,7 @@ latitude: 49.4044357
 longitude: 11.093185400000001
 postcode: 90469
 city: Nürnberg
-street: Schießplatzstraße
+street: "Schießplatzstraße"
 housenumber: 29
 phone: "+49 911 482580"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.7872232
 longitude: 9.995582200000001
 postcode: 97218
 city: Gerbrunn
-street: Alte Landstraße
+street: "Alte Landstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00"

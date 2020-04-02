@@ -5,7 +5,7 @@ latitude: 49.1838485
 longitude: 11.1922888
 postcode: 91161
 city: Hilpoltstein
-street: Schlesierstraße
+street: "Schlesierstraße"
 housenumber: 16
 phone: "+49 9174 1394"
 opening_hours: "Mo-Fr 09:00-13:00; Sa 16:00-18:00; We off"

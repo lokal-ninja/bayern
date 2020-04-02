@@ -5,7 +5,7 @@ latitude: 48.2154049
 longitude: 11.5301889
 postcode: 80995
 city: München
-street: Josef-Frankl-Straße
+street: "Josef-Frankl-Straße"
 housenumber: 58
 phone: ""
 opening_hours: ""

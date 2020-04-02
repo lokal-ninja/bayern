@@ -5,7 +5,7 @@ latitude: 48.374835700000006
 longitude: 10.875427400000001
 postcode: 86156
 city: Augsburg
-street: Dillinger Weg
+street: "Dillinger Weg"
 housenumber: 8
 phone: ""
 opening_hours: ""

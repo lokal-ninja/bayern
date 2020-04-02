@@ -5,7 +5,7 @@ latitude: 49.5971647
 longitude: 11.012160100000001
 postcode: 91054
 city: Erlangen
-street: Bohlenplatz
+street: "Bohlenplatz"
 housenumber: 12
 phone: "+49 9131 88040"
 opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-14:00"

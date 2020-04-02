@@ -5,7 +5,7 @@ latitude: 48.737499
 longitude: 11.471025800000001
 postcode: 85053
 city: Ingolstadt
-street: Joseph-Baader-Straße
+street: "Joseph-Baader-Straße"
 housenumber: 
 phone: ""
 opening_hours: ""

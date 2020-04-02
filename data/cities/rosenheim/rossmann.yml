@@ -5,7 +5,7 @@ latitude: 47.8513235
 longitude: 12.1205066
 postcode: 83022
 city: Rosenheim
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 23-27
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-19:00; PH off"

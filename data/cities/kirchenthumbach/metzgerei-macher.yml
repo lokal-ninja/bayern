@@ -5,7 +5,7 @@ latitude: 49.7485328
 longitude: 11.724172900000001
 postcode: 91281
 city: Kirchenthumbach
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 12
 phone: "+49 9647 245"
 opening_hours: "Mo-Sa 06:00+"

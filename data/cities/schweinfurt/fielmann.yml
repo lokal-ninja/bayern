@@ -5,7 +5,7 @@ latitude: 50.044468900000005
 longitude: 10.2316763
 postcode: 97421
 city: Schweinfurt
-street: Georg-Wichtermann-Platz
+street: "Georg-Wichtermann-Platz"
 housenumber: 10
 phone: ""
 opening_hours: ""

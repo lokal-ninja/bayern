@@ -5,7 +5,7 @@ latitude: 48.1479936
 longitude: 11.5341134
 postcode: 80634
 city: München
-street: Donnersbergerstraße
+street: "Donnersbergerstraße"
 housenumber: 45
 phone: "+49 89 200 621 60"
 opening_hours: "Tu-Fr 09:00-13:30,14:30-18:30; Sa 10:00-13:00"

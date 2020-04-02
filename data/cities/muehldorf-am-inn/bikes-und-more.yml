@@ -5,7 +5,7 @@ latitude: 48.2570842
 longitude: 12.5340231
 postcode: 84453
 city: Mühldorf am Inn
-street: Egglkofenstraße
+street: "Egglkofenstraße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Fr 09:00-17:00, Sa 10:00-12:00"

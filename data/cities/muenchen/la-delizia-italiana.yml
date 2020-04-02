@@ -5,7 +5,7 @@ latitude: 48.1130882
 longitude: 11.702258
 postcode: 81827
 city: München
-street: Phantasiestraße
+street: "Phantasiestraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

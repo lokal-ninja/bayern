@@ -5,7 +5,7 @@ latitude: 48.046868100000005
 longitude: 10.784643
 postcode: 86859
 city: Igling
-street: Magnusstraße
+street: "Magnusstraße"
 housenumber: 1
 phone: "+49 8241 999-240"
 opening_hours: "Tu-Fr 10:00-18:00; Sa 08:00-12:00"

@@ -5,7 +5,7 @@ latitude: 50.327461400000004
 longitude: 10.2211957
 postcode: 97616
 city: Bad Neustadt a.d. Saale
-street: Siemensstraße
+street: "Siemensstraße"
 housenumber: 30
 phone: "+49 9771 6309920"
 opening_hours: ""

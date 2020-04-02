@@ -5,7 +5,7 @@ latitude: 48.7381158
 longitude: 11.213023900000001
 postcode: 86633
 city: Neuburg an der Donau
-street: Nördliche Grünauer Straße
+street: "Nördliche Grünauer Straße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

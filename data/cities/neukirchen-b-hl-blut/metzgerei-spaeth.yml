@@ -5,7 +5,7 @@ latitude: 49.259720200000004
 longitude: 12.9697192
 postcode: 93453
 city: Neukirchen b. Hl. Blut
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 7
 phone: "+499947339"
 opening_hours: ""

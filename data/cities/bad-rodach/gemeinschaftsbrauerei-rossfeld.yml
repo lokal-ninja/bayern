@@ -5,7 +5,7 @@ latitude: 50.3477236
 longitude: 10.7413212
 postcode: 96476
 city: Bad Rodach
-street: Rudelsdorfer Straße
+street: "Rudelsdorfer Straße"
 housenumber: 18
 phone: "+49-9564-809130"
 opening_hours: ""

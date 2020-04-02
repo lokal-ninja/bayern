@@ -5,7 +5,7 @@ latitude: 50.099733300000004
 longitude: 11.4435996
 postcode: 95326
 city: Kulmbach
-street: Bayreuther Straße
+street: "Bayreuther Straße"
 housenumber: 2
 phone: "+49 9221 74333"
 opening_hours: "Mo-Fr 07:00-19:00, Sa 08:00-16:00; PH off"

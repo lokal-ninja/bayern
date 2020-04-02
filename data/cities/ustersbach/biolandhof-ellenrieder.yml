@@ -5,7 +5,7 @@ latitude: 48.3160892
 longitude: 10.6423556
 postcode: 86514
 city: Ustersbach
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 36
 phone: ""
 opening_hours: ""

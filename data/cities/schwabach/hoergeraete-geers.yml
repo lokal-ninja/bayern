@@ -5,7 +5,7 @@ latitude: 49.3292414
 longitude: 11.0198879
 postcode: 91126
 city: Schwabach
-street: Königstraße
+street: "Königstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 09:00-13:00, Mo-Th 14:00-18:00"

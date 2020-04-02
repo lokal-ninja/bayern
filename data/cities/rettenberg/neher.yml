@@ -5,7 +5,7 @@ latitude: 47.5757685
 longitude: 10.291525700000001
 postcode: 87549
 city: Rettenberg
-street: Kirchbichl
+street: "Kirchbichl"
 housenumber: 1
 phone: ""
 opening_hours: "Mo 06:30-12:30; Tu-Fr 06:30-12:30,14:30-18:00; Sa 06:30-12:00, Jul-Oct Su 07:30-10:00"

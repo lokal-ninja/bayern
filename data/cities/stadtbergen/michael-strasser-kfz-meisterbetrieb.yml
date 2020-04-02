@@ -5,7 +5,7 @@ latitude: 48.368285500000006
 longitude: 10.854160700000001
 postcode: 86391
 city: Stadtbergen
-street: Pferseer Straße
+street: "Pferseer Straße"
 housenumber: 47
 phone: "+49 821 43 39 717"
 opening_hours: "Mo-Th 08:00-17:30; Fr 08:00-14:30"

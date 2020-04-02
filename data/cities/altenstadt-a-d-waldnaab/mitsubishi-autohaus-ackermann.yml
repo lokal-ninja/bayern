@@ -5,7 +5,7 @@ latitude: 49.7234032
 longitude: 12.155934700000001
 postcode: 92665
 city: Altenstadt a.d.Waldnaab
-street: Karl-Singer-Straße
+street: "Karl-Singer-Straße"
 housenumber: 2
 phone: "+49 9602 639 595"
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00"

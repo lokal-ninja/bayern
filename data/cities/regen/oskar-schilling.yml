@@ -5,7 +5,7 @@ latitude: 48.971575200000004
 longitude: 13.126262200000001
 postcode: 94209
 city: Regen
-street: Bachgasse
+street: "Bachgasse"
 housenumber: 17
 phone: ""
 opening_hours: ""

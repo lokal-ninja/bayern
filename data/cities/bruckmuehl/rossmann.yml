@@ -5,7 +5,7 @@ latitude: 47.8773781
 longitude: 11.932977500000002
 postcode: 83052
 city: Bruckmühl
-street: Gewerbepark BWB
+street: "Gewerbepark BWB"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off"

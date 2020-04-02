@@ -5,7 +5,7 @@ latitude: 49.3772305
 longitude: 12.706013500000001
 postcode: 93449
 city: Waldmünchen
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 8
 phone: ""
 opening_hours: ""

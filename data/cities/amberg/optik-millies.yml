@@ -5,7 +5,7 @@ latitude: 49.4451814
 longitude: 11.8589368
 postcode: 92224
 city: Amberg
-street: Rathausstraße
+street: "Rathausstraße"
 housenumber: 4
 phone: "+49 9621 42846"
 opening_hours: ""

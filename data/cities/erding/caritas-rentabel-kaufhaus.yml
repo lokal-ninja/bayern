@@ -5,7 +5,7 @@ latitude: 48.286884
 longitude: 11.8977637
 postcode: 85435
 city: Erding
-street: Otto-Hahn-Straße
+street: "Otto-Hahn-Straße"
 housenumber: 21
 phone: ""
 opening_hours: "Tu-Fr 10:00-16:00"

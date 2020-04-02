@@ -5,7 +5,7 @@ latitude: 49.4624071
 longitude: 11.1333319
 postcode: 90482
 city: Nürnberg
-street: Ziegenstraße
+street: "Ziegenstraße"
 housenumber: 20
 phone: "+49 911 541120"
 opening_hours: "Mo-Th 08:00-13:00,14:30-18:00; Fr 08:00-18:00; Sa 07:30-13:00"

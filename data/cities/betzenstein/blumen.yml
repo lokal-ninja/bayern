@@ -5,7 +5,7 @@ latitude: 49.6831898
 longitude: 11.418308300000001
 postcode: 91282
 city: Betzenstein
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 26
 phone: ""
 opening_hours: "Mo-Fr 08:00-12:00,14:00-16:00;Sa 08:00-13:00"

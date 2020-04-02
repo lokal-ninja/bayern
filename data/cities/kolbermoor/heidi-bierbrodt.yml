@@ -5,7 +5,7 @@ latitude: 47.847198000000006
 longitude: 12.0590653
 postcode: 83059
 city: Kolbermoor
-street: Brückenstraße
+street: "Brückenstraße"
 housenumber: 17
 phone: "+49 8031 95462"
 opening_hours: ""

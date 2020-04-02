@@ -5,7 +5,7 @@ latitude: 49.0007655
 longitude: 12.400264400000001
 postcode: 93086
 city: Wörth an der Donau
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 6
 phone: "+49 9482 9080966"
 opening_hours: "Mo-Fr 09:00-12:30,13:30-18:00; Sa 09:00-12:00"

@@ -5,7 +5,7 @@ latitude: 48.3893162
 longitude: 11.0606284
 postcode: 86453
 city: Dasing
-street: Messerschmittstraße
+street: "Messerschmittstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

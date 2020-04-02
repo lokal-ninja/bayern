@@ -5,7 +5,7 @@ latitude: 48.034375600000004
 longitude: 10.5068672
 postcode: 
 city: Mindelheim
-street: Breitenbergstraße
+street: "Breitenbergstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

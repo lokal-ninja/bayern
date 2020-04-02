@@ -5,7 +5,7 @@ latitude: 49.3963471
 longitude: 11.1392292
 postcode: 90473
 city: Nürnberg
-street: Bonhoefferstraße
+street: "Bonhoefferstraße"
 housenumber: 12
 phone: ""
 opening_hours: ""

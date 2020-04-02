@@ -5,7 +5,7 @@ latitude: 47.861231800000006
 longitude: 12.627798100000001
 postcode: 83278
 city: Traunstein
-street: Rupertistraße
+street: "Rupertistraße"
 housenumber: 7
 phone: "+49 861 70696593"
 opening_hours: "Mo-Sa 08:00-12:00, Tu-Fr 09:00-12:00"

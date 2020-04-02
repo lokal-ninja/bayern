@@ -5,7 +5,7 @@ latitude: 48.0811203
 longitude: 11.967005
 postcode: 85560
 city: Ebersberg
-street: Eberhardstraße
+street: "Eberhardstraße"
 housenumber: 27
 phone: "+49 8092 8526850"
 opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-13:00 und nach Vereinbarung"

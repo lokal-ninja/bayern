@@ -5,7 +5,7 @@ latitude: 49.4442114
 longitude: 11.0077479
 postcode: 90431
 city: Nürnberg
-street: Franz-Hoffmann-Straße
+street: "Franz-Hoffmann-Straße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo,We,Fr 08:00-17:00; Tu,Sa 08:00-20:00"

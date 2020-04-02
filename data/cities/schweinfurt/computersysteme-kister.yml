@@ -5,7 +5,7 @@ latitude: 50.0439212
 longitude: 10.2355073
 postcode: 97421
 city: Schweinfurt
-street: Judengasse
+street: "Judengasse"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Fr 09:00-12:00, 12:45-17:00"

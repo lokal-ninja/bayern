@@ -5,7 +5,7 @@ latitude: 50.321578200000005
 longitude: 11.9331814
 postcode: 95028
 city: Hof
-street: Enoch-Widman-Straße
+street: "Enoch-Widman-Straße"
 housenumber: 60
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-14:00; Su 08:00-12:00"

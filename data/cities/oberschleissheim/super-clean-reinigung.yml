@@ -5,7 +5,7 @@ latitude: 48.2590614
 longitude: 11.557810100000001
 postcode: 85764
 city: Oberschleißheim
-street: Mittenheimer Straße
+street: "Mittenheimer Straße"
 housenumber: 52
 phone: "+49 89 31595535"
 opening_hours: "Mo-Sa 08:00-20:00"

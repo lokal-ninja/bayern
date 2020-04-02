@@ -5,7 +5,7 @@ latitude: 48.110463700000004
 longitude: 11.547911200000001
 postcode: 81371
 city: München
-street: Thalkirchner Straße
+street: "Thalkirchner Straße"
 housenumber: 151
 phone: "+49 89 74299338"
 opening_hours: "nach Vereinbarung"

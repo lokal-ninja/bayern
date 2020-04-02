@@ -5,7 +5,7 @@ latitude: 50.2609477
 longitude: 10.9633073
 postcode: 96450
 city: Coburg
-street: Mohrenstraße
+street: "Mohrenstraße"
 housenumber: 21
 phone: "+49 9561 5125519"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00; Su,PH off"

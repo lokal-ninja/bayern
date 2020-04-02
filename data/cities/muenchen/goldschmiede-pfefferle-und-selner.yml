@@ -5,7 +5,7 @@ latitude: 48.1591205
 longitude: 11.5409167
 postcode: 80637
 city: München
-street: Hübnerstraße
+street: "Hübnerstraße"
 housenumber: 26
 phone: "+49 89 12133652"
 opening_hours: "Mo-Fr 10:00-19:00, Sa 10:00-16:00"

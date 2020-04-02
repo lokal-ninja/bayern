@@ -5,7 +5,7 @@ latitude: 47.854742800000004
 longitude: 12.3460011
 postcode: 83209
 city: Prien am Chiemsee
-street: Postweg
+street: "Postweg"
 housenumber: 3
 phone: "+49 8051 63147"
 opening_hours: ""

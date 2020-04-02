@@ -5,7 +5,7 @@ latitude: 49.4931409
 longitude: 10.9899506
 postcode: 90765
 city: Fürth
-street: Erlanger Straße
+street: "Erlanger Straße"
 housenumber: 192
 phone: ""
 opening_hours: ""

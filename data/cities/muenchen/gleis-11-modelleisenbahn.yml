@@ -5,7 +5,7 @@ latitude: 48.1398832
 longitude: 11.554943300000001
 postcode: 80335
 city: München
-street: Bayerstraße
+street: "Bayerstraße"
 housenumber: 16b
 phone: "+49 89 45219090"
 opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-13:00"

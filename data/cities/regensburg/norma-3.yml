@@ -5,7 +5,7 @@ latitude: 49.021858200000004
 longitude: 12.057832900000001
 postcode: 93049
 city: Regensburg
-street: Puricellistraße
+street: "Puricellistraße"
 housenumber: 17
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

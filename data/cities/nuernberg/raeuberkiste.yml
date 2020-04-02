@@ -5,7 +5,7 @@ latitude: 49.461114800000004
 longitude: 11.056230600000001
 postcode: 90419
 city: Nürnberg
-street: Schnieglinger Straße
+street: "Schnieglinger Straße"
 housenumber: 12
 phone: ""
 opening_hours: "Mo-Fr 12:00-18:00"

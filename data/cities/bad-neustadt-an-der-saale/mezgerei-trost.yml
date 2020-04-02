@@ -5,7 +5,7 @@ latitude: 50.3247816
 longitude: 10.193367400000001
 postcode: 97616
 city: Bad Neustadt an der Saale
-street: Rhönstraße
+street: "Rhönstraße"
 housenumber: 51
 phone: ""
 opening_hours: ""

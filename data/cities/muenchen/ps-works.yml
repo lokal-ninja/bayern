@@ -5,7 +5,7 @@ latitude: 48.1509994
 longitude: 11.5547187
 postcode: 80335
 city: München
-street: Erzgießereistraße
+street: "Erzgießereistraße"
 housenumber: 26
 phone: ""
 opening_hours: ""

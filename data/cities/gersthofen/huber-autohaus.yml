@@ -5,7 +5,7 @@ latitude: 48.4305845
 longitude: 10.818652100000001
 postcode: 86368
 city: Gersthofen
-street: Schmutterstraße
+street: "Schmutterstraße"
 housenumber: 11
 phone: ""
 opening_hours: ""

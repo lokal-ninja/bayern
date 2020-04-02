@@ -5,7 +5,7 @@ latitude: 49.496081200000006
 longitude: 11.465890900000002
 postcode: 91230
 city: Happurg
-street: Hersbrucker Straße
+street: "Hersbrucker Straße"
 housenumber: 28
 phone: "+49 9151 720952719"
 opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-13:00"

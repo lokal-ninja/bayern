@@ -5,7 +5,7 @@ latitude: 49.918507600000005
 longitude: 10.8701241
 postcode: 96103
 city: Hallstadt
-street: Biegenhofstraße
+street: "Biegenhofstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 09:00-20:00"

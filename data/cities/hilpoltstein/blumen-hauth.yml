@@ -5,7 +5,7 @@ latitude: 49.192571400000006
 longitude: 11.1895764
 postcode: 91161
 city: Hilpoltstein
-street: Allersberger Straße
+street: "Allersberger Straße"
 housenumber: 14
 phone: ""
 opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-16:00"

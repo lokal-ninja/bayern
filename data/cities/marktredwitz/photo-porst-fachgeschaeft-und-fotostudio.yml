@@ -5,7 +5,7 @@ latitude: 49.9997495
 longitude: 12.084589900000001
 postcode: 95615
 city: Marktredwitz
-street: Leopoldstraße
+street: "Leopoldstraße"
 housenumber: 20
 phone: "+49 9231 2731"
 opening_hours: "Mo-Fr 09:00-12:30,14:00-18:00; Sa 09:00-13:00"

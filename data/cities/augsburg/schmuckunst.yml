@@ -5,7 +5,7 @@ latitude: 48.371185700000005
 longitude: 10.897940400000001
 postcode: 86152
 city: Augsburg
-street: Am Schwalbeneck
+street: "Am Schwalbeneck"
 housenumber: 2
 phone: "+49 821 33691"
 opening_hours: ""

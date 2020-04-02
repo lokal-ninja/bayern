@@ -5,7 +5,7 @@ latitude: 50.315480300000004
 longitude: 11.916935
 postcode: 95028
 city: Hof
-street: Lorenzstraße
+street: "Lorenzstraße"
 housenumber: 
 phone: ""
 opening_hours: ""

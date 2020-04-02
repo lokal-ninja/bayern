@@ -5,7 +5,7 @@ latitude: 48.370808100000005
 longitude: 10.878842200000001
 postcode: 86152
 city: Augsburg
-street: Holzbachstraße
+street: "Holzbachstraße"
 housenumber: 2
 phone: "+49 821 5047765"
 opening_hours: "24/7"

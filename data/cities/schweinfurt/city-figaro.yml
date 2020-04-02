@@ -5,7 +5,7 @@ latitude: 50.0608608
 longitude: 10.230196900000001
 postcode: 97422
 city: Schweinfurt
-street: Walther-von-der-Vogelweide-Straße
+street: "Walther-von-der-Vogelweide-Straße"
 housenumber: 3
 phone: ""
 opening_hours: ""

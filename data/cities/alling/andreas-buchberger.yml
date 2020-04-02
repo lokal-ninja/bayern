@@ -5,7 +5,7 @@ latitude: 48.1517082
 longitude: 11.258017500000001
 postcode: 82239
 city: Alling
-street: Kirchstraße
+street: "Kirchstraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

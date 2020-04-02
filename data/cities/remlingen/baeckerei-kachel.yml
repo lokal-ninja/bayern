@@ -5,7 +5,7 @@ latitude: 49.804481900000006
 longitude: 9.6955513
 postcode: 97280
 city: Remlingen
-street: Untere Gasse
+street: "Untere Gasse"
 housenumber: 6
 phone: "+49 09 3698212"
 opening_hours: "Mo 06:15-12:30, Tu-Fr 06:15-12:30,15:00-18:00, Sa 06:15-12:30"

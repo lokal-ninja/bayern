@@ -5,7 +5,7 @@ latitude: 49.935973000000004
 longitude: 11.591473200000001
 postcode: 95448
 city: Bayreuth
-street: Nürnberger Straße
+street: "Nürnberger Straße"
 housenumber: 3 a
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

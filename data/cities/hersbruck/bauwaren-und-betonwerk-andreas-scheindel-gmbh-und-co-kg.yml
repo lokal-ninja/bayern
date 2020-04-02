@@ -5,7 +5,7 @@ latitude: 49.4994929
 longitude: 11.4281436
 postcode: 91217
 city: Hersbruck
-street: Ostbahnstraße
+street: "Ostbahnstraße"
 housenumber: 124
 phone: "+49 9151 2071"
 opening_hours: ""

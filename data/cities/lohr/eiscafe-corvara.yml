@@ -5,7 +5,7 @@ latitude: 49.995080900000005
 longitude: 9.5709856
 postcode: 97816
 city: Lohr
-street: Ludwigstraße
+street: "Ludwigstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

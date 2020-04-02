@@ -5,7 +5,7 @@ latitude: 49.8677712
 longitude: 11.880103100000001
 postcode: 95478
 city: Kemnath
-street: Röntgenstraße
+street: "Röntgenstraße"
 housenumber: 8
 phone: "+49 9642 8573"
 opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-12:00"

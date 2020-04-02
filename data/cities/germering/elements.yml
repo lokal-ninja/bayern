@@ -5,7 +5,7 @@ latitude: 48.131582900000005
 longitude: 11.370846
 postcode: 82110
 city: Germering
-street: Landsberger Straße
+street: "Landsberger Straße"
 housenumber: 23
 phone: ""
 opening_hours: ""

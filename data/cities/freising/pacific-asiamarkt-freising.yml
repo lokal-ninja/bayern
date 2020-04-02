@@ -5,7 +5,7 @@ latitude: 48.403399400000005
 longitude: 11.749695800000001
 postcode: 85356
 city: Freising
-street: General-von-Nagel-Straße
+street: "General-von-Nagel-Straße"
 housenumber: 17
 phone: ""
 opening_hours: ""

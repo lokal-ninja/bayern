@@ -5,7 +5,7 @@ latitude: 47.8388506
 longitude: 11.140759800000001
 postcode: 82362
 city: Weilheim in Oberbayern
-street: Ledererstraße
+street: "Ledererstraße"
 housenumber: 15
 phone: "+49 881 9277557"
 opening_hours: "Mo-Fr 09:00-18:00; PH off"

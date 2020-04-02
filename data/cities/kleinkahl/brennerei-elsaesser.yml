@@ -5,7 +5,7 @@ latitude: 50.1084474
 longitude: 9.2763899
 postcode: 63828
 city: Kleinkahl
-street: Großkahler Straße
+street: "Großkahler Straße"
 housenumber: 26
 phone: "+49 6024 1865"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.1143864
 longitude: 10.753898300000001
 postcode: 91710
 city: Gunzenhausen
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 26
 phone: ""
 opening_hours: ""

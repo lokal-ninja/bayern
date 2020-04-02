@@ -5,7 +5,7 @@ latitude: 48.8218447
 longitude: 11.319705200000001
 postcode: 85117
 city: Eitensheim
-street: Eichstätter Straße
+street: "Eichstätter Straße"
 housenumber: 16
 phone: "+49 8458 391 30"
 opening_hours: ""

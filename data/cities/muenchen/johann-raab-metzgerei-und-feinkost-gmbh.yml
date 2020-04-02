@@ -5,7 +5,7 @@ latitude: 48.1645601
 longitude: 11.4653515
 postcode: 81247
 city: München
-street: Verdistraße
+street: "Verdistraße"
 housenumber: 113
 phone: ""
 opening_hours: ""

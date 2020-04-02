@@ -5,7 +5,7 @@ latitude: 50.2986073
 longitude: 11.287740900000001
 postcode: 96342
 city: Stockheim
-street: Kronacher Straße
+street: "Kronacher Straße"
 housenumber: 77
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00; PH off"

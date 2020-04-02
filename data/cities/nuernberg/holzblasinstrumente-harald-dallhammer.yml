@@ -5,7 +5,7 @@ latitude: 49.439543
 longitude: 11.084901400000001
 postcode: 90459
 city: Nürnberg
-street: Humboldtstraße
+street: "Humboldtstraße"
 housenumber: 128
 phone: "+49 911 452499"
 opening_hours: "Mo, Tu, Th, Fr 14:00-18:00; Sa 10:00-13:00"

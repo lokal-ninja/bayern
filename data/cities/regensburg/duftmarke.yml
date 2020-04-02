@@ -5,7 +5,7 @@ latitude: 49.039755500000005
 longitude: 12.172949800000001
 postcode: 93055
 city: Regensburg
-street: Zur Hohen Linie
+street: "Zur Hohen Linie"
 housenumber: 64
 phone: ""
 opening_hours: ""

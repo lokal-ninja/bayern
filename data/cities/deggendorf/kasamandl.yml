@@ -5,7 +5,7 @@ latitude: 48.833506500000006
 longitude: 12.9627742
 postcode: 94469
 city: Deggendorf
-street: Pfleggasse
+street: "Pfleggasse"
 housenumber: 4
 phone: ""
 opening_hours: ""

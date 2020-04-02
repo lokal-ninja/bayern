@@ -5,7 +5,7 @@ latitude: 50.009660800000006
 longitude: 10.181897600000001
 postcode: 97493
 city: Bergrheinfeld
-street: Gartenstraße
+street: "Gartenstraße"
 housenumber: 41
 phone: ""
 opening_hours: ""

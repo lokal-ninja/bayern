@@ -5,7 +5,7 @@ latitude: 48.387497200000006
 longitude: 11.253343200000002
 postcode: 85250
 city: Altomünster
-street: Halmsrieder Straße
+street: "Halmsrieder Straße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

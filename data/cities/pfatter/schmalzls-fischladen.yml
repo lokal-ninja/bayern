@@ -5,7 +5,7 @@ latitude: 48.9651585
 longitude: 12.381267000000001
 postcode: 93102
 city: Pfatter
-street: Haidauer Straße
+street: "Haidauer Straße"
 housenumber: 21
 phone: ""
 opening_hours: "Th,Fr 08:00-18:00; Sa 08:00-12:00"

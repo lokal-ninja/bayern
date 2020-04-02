@@ -5,7 +5,7 @@ latitude: 48.117084600000005
 longitude: 11.515727100000001
 postcode: 81377
 city: München
-street: Krottenkopfstraße
+street: "Krottenkopfstraße"
 housenumber: 7
 phone: "+49 89 1500 2550"
 opening_hours: "Mo-Sa 09:00-18:00"

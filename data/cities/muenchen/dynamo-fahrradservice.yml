@@ -5,7 +5,7 @@ latitude: 48.1262458
 longitude: 11.6095194
 postcode: 81671
 city: München
-street: Haager Straße
+street: "Haager Straße"
 housenumber: 11
 phone: ""
 opening_hours: "Tu-Fr 09:00-13:00,14:00-18:30"

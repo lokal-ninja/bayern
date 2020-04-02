@@ -5,7 +5,7 @@ latitude: 48.141585500000005
 longitude: 11.488368000000001
 postcode: 80687
 city: München
-street: Willibaldstraße
+street: "Willibaldstraße"
 housenumber: 18
 phone: ""
 opening_hours: ""

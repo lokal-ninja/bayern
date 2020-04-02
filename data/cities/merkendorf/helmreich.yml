@@ -5,7 +5,7 @@ latitude: 49.2044908
 longitude: 10.701762700000002
 postcode: 91732
 city: Merkendorf
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

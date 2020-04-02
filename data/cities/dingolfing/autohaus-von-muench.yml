@@ -5,7 +5,7 @@ latitude: 48.645096900000006
 longitude: 12.486382500000001
 postcode: 84130
 city: Dingolfing
-street: Landshuter Straße
+street: "Landshuter Straße"
 housenumber: 5
 phone: "+49 8731 73133"
 opening_hours: "Mo-Fr 07:00-18:00, Sa 09:00-13:00"

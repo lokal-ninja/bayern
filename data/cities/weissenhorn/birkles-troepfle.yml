@@ -5,7 +5,7 @@ latitude: 48.302618
 longitude: 10.161337000000001
 postcode: 89264
 city: Weißenhorn
-street: Schulstraße
+street: "Schulstraße"
 housenumber: 20
 phone: ""
 opening_hours: ""

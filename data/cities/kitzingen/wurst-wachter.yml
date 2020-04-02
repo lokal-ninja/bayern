@@ -5,7 +5,7 @@ latitude: 49.738131300000006
 longitude: 10.160509600000001
 postcode: 97318
 city: Kitzingen
-street: Königsplatz
+street: "Königsplatz"
 housenumber: 5
 phone: ""
 opening_hours: ""

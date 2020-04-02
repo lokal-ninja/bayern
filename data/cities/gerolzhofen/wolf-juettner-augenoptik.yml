@@ -5,7 +5,7 @@ latitude: 49.901834300000004
 longitude: 10.3465483
 postcode: 97447
 city: Gerolzhofen
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Fr 09:00-12:30, 14:00-18:00; Sa 09:00-13:00"

@@ -5,7 +5,7 @@ latitude: 48.3449675
 longitude: 10.561322500000001
 postcode: 86424
 city: Dinkelscherben
-street: Dorfstraße
+street: "Dorfstraße"
 housenumber: 3
 phone: ""
 opening_hours: ""

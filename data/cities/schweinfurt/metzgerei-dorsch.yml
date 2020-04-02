@@ -5,7 +5,7 @@ latitude: 50.043609000000004
 longitude: 10.229094100000001
 postcode: 97421
 city: Schweinfurt
-street: Hadergasse
+street: "Hadergasse"
 housenumber: 2
 phone: ""
 opening_hours: ""

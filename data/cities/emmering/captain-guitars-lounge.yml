@@ -5,7 +5,7 @@ latitude: 48.1810667
 longitude: 11.3064566
 postcode: 82275
 city: Emmering
-street: Moosfeldstraße
+street: "Moosfeldstraße"
 housenumber: 17
 phone: "+49 8141 8886971"
 opening_hours: "Mo-Fr 10:00-12:00, 14:00-18:00; Sa 10:00-14:00"

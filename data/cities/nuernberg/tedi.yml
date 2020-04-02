@@ -5,7 +5,7 @@ latitude: 49.4105496
 longitude: 11.1201679
 postcode: 90471
 city: Nürnberg
-street: Watzmannstraße
+street: "Watzmannstraße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-13:00"

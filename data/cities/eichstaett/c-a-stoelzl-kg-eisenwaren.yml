@@ -5,7 +5,7 @@ latitude: 48.892864100000004
 longitude: 11.185802800000001
 postcode: 85072
 city: Eichstätt
-street: Luitpoldstraße
+street: "Luitpoldstraße"
 housenumber: 36
 phone: ""
 opening_hours: "Mo-Fr 08:00-12:30,14:00-18:00; Sa 08:30-12:15"

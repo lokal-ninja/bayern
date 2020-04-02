@@ -5,7 +5,7 @@ latitude: 49.3265748
 longitude: 11.0176906
 postcode: 91126
 city: Schwabach
-street: Wittelsbacherstraße
+street: "Wittelsbacherstraße"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Fr 07:00-19:00, Sa 07:00-18:00"

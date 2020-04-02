@@ -5,7 +5,7 @@ latitude: 49.547974800000006
 longitude: 12.000972500000001
 postcode: 92253
 city: Schnaittenbach
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 17
 phone: "+49 9622 5087"
 opening_hours: "Mo-Fr 7:30-12:30, Tu-Fr 14:30-18:00, Sa 7:00-12:00; PH off"

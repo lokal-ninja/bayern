@@ -5,7 +5,7 @@ latitude: 49.3290437
 longitude: 11.023306300000002
 postcode: 91126
 city: Schwabach
-street: Ludwigstraße
+street: "Ludwigstraße"
 housenumber: 3
 phone: "+49 9122 93400"
 opening_hours: "Mo-Fr 09:00-19:00, Sa 09:00-16:00"

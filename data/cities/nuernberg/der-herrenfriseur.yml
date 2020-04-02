@@ -5,7 +5,7 @@ latitude: 49.4396409
 longitude: 11.078373500000001
 postcode: 90459
 city: Nürnberg
-street: Gabelsbergerstraße
+street: "Gabelsbergerstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

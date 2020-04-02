@@ -5,7 +5,7 @@ latitude: 49.441047000000005
 longitude: 11.877705800000001
 postcode: 92224
 city: Amberg
-street: Mosacherweg
+street: "Mosacherweg"
 housenumber: 6
 phone: ""
 opening_hours: ""

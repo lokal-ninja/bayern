@@ -5,7 +5,7 @@ latitude: 49.0329719
 longitude: 12.1149488
 postcode: 93059
 city: Regensburg
-street: Altmühlstraße
+street: "Altmühlstraße"
 housenumber: 11
 phone: "+49 941 60489883"
 opening_hours: "Mo-Fr 08:30-19:00; Sa 08:30-16:00"

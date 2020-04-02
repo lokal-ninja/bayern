@@ -5,7 +5,7 @@ latitude: 48.0767582
 longitude: 11.660545200000001
 postcode: 85579
 city: Neubiberg
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Fr 07:00-18:30; Sa 06:30-13:00"

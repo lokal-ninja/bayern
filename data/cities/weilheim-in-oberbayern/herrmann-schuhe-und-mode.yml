@@ -5,7 +5,7 @@ latitude: 47.8474312
 longitude: 11.152316500000001
 postcode: 82362
 city: Weilheim in Oberbayern
-street: Christoph-Selhamer-Straße
+street: "Christoph-Selhamer-Straße"
 housenumber: 4
 phone: "+49 881 92799420"
 opening_hours: ""

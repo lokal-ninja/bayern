@@ -5,7 +5,7 @@ latitude: 49.631658300000005
 longitude: 10.935806900000001
 postcode: 91056
 city: Erlangen
-street: Faust-von-Stromberg-Straße
+street: "Faust-von-Stromberg-Straße"
 housenumber: 39
 phone: ""
 opening_hours: ""

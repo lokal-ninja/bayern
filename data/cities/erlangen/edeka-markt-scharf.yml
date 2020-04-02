@@ -5,7 +5,7 @@ latitude: 49.553487100000005
 longitude: 11.0234868
 postcode: 91058
 city: Erlangen
-street: Saidelsteig
+street: "Saidelsteig"
 housenumber: 15
 phone: "+49913168594920"
 opening_hours: "Mo-Sa 07:00-20:00"

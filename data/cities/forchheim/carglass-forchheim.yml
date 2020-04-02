@@ -5,7 +5,7 @@ latitude: 49.7010548
 longitude: 11.0595095
 postcode: 91301
 city: Forchheim
-street: Simon-Hegele-Straße
+street: "Simon-Hegele-Straße"
 housenumber: 7
 phone: ""
 opening_hours: ""

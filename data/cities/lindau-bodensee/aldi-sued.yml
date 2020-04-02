@@ -5,7 +5,7 @@ latitude: 47.550375300000006
 longitude: 9.722709700000001
 postcode: 88131
 city: Lindau (Bodensee)
-street: Von-Behring-Straße
+street: "Von-Behring-Straße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

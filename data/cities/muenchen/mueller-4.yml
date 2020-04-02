@@ -5,7 +5,7 @@ latitude: 48.131891200000005
 longitude: 11.5677325
 postcode: 80469
 city: München
-street: Pestalozzistraße
+street: "Pestalozzistraße"
 housenumber: 3a
 phone: "+49 89 2366560"
 opening_hours: "Mo-Fr 08:30-20:00; Sa 09:00-20:00"

@@ -5,7 +5,7 @@ latitude: 49.37138100000001
 longitude: 11.081939700000001
 postcode: 90455
 city: Nürnberg
-street: An der Radrunde
+street: "An der Radrunde"
 housenumber: 151
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.135553
 longitude: 11.519008000000001
 postcode: 80687
 city: München
-street: Wilhelm-Riehl-Straße
+street: "Wilhelm-Riehl-Straße"
 housenumber: 11
 phone: "+49 (0)89 255 444 77"
 opening_hours: "We 14:00-18:00; Th,Fr 11:00-18:00 || nach Vereinbarung"

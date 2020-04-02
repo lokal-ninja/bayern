@@ -5,7 +5,7 @@ latitude: 49.5097299
 longitude: 10.8882527
 postcode: 90587
 city: Veitsbronn
-street: Weiherwiese
+street: "Weiherwiese"
 housenumber: 25
 phone: ""
 opening_hours: "Mo-Fr 07:30-18:00, Sa 07:30-12:00"

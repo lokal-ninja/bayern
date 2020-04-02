@@ -5,7 +5,7 @@ latitude: 49.1456724
 longitude: 10.874904
 postcode: 91720
 city: Absberg
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 42
 phone: ""
 opening_hours: ""

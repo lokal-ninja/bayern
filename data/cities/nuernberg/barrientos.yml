@@ -5,7 +5,7 @@ latitude: 49.4291568
 longitude: 11.07123
 postcode: 90441
 city: Nürnberg
-street: Vogelweiherstraße
+street: "Vogelweiherstraße"
 housenumber: 42
 phone: ""
 opening_hours: ""

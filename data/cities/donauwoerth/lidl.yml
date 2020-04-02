@@ -5,7 +5,7 @@ latitude: 48.7159983
 longitude: 10.7604951
 postcode: 86609
 city: Donauwörth
-street: Artur-Proeller-Straße
+street: "Artur-Proeller-Straße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

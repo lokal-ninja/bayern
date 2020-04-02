@@ -5,7 +5,7 @@ latitude: 49.3033456
 longitude: 10.5715696
 postcode: 91522
 city: Ansbach
-street: Schaitbergerstraße
+street: "Schaitbergerstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00"

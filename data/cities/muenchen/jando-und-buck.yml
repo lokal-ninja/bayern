@@ -5,7 +5,7 @@ latitude: 48.160994900000006
 longitude: 11.6630184
 postcode: 81929
 city: München
-street: Glücksburger Straße
+street: "Glücksburger Straße"
 housenumber: 74a
 phone: "+49 (0) 89/96056798"
 opening_hours: ""

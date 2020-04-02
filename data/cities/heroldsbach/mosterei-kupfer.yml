@@ -5,7 +5,7 @@ latitude: 49.690711900000004
 longitude: 11.001914300000001
 postcode: 91336
 city: Heroldsbach
-street: Ringstraße
+street: "Ringstraße"
 housenumber: 9
 phone: "+49 9190 217"
 opening_hours: "Tu-Fr 8:00-12:00, 14:00-17:00; Sa 8:00-12:00"

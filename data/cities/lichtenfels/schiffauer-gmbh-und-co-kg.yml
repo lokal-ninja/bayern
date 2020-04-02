@@ -5,7 +5,7 @@ latitude: 50.1492025
 longitude: 11.078298
 postcode: 96215
 city: Lichtenfels
-street: Erlenweg
+street: "Erlenweg"
 housenumber: 2
 phone: ""
 opening_hours: ""

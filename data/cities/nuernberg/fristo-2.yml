@@ -5,7 +5,7 @@ latitude: 49.4610179
 longitude: 11.068994100000001
 postcode: 90419
 city: Nürnberg
-street: Jagdstraße
+street: "Jagdstraße"
 housenumber: 26
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

@@ -5,7 +5,7 @@ latitude: 48.186950100000004
 longitude: 10.9817617
 postcode: 86492
 city: Egling an der Paar
-street: Austraße
+street: "Austraße"
 housenumber: 15
 phone: ""
 opening_hours: "Mo-Sa 08:00-18:00"

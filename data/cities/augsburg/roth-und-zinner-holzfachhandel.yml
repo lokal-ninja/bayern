@@ -5,7 +5,7 @@ latitude: 48.353265500000006
 longitude: 10.8866742
 postcode: 86159
 city: Augsburg
-street: Eichleitnerstraße
+street: "Eichleitnerstraße"
 housenumber: 32
 phone: "+49 821 574021"
 opening_hours: "Mo-Th 07:30-12:30,13:00-16:30; Fr 07:30-12:00"

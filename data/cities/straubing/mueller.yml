@@ -5,7 +5,7 @@ latitude: 48.8817267
 longitude: 12.570713300000001
 postcode: 94315
 city: Straubing
-street: Ludwigsplatz
+street: "Ludwigsplatz"
 housenumber: 16
 phone: ""
 opening_hours: ""

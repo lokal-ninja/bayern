@@ -5,7 +5,7 @@ latitude: 49.7076088
 longitude: 9.246174700000001
 postcode: 63897
 city: Miltenberg
-street: Martin-Vierengel-Straße
+street: "Martin-Vierengel-Straße"
 housenumber: 1
 phone: "+49 9371 94980"
 opening_hours: ""

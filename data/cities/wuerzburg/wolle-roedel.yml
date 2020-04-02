@@ -5,7 +5,7 @@ latitude: 49.798479900000004
 longitude: 9.9337247
 postcode: 97070
 city: Würzburg
-street: Kaiserstraße
+street: "Kaiserstraße"
 housenumber: 9
 phone: ""
 opening_hours: ""

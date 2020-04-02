@@ -5,7 +5,7 @@ latitude: 49.2472124
 longitude: 11.1182882
 postcode: 91154
 city: Roth
-street: Norisstraße
+street: "Norisstraße"
 housenumber: 31
 phone: ""
 opening_hours: ""

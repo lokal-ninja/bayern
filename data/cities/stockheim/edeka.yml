@@ -5,7 +5,7 @@ latitude: 50.2942608
 longitude: 11.2863925
 postcode: 96342
 city: Stockheim
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 14
 phone: ""
 opening_hours: ""

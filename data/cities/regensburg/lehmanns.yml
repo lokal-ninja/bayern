@@ -5,7 +5,7 @@ latitude: 49.0008965
 longitude: 12.090267500000001
 postcode: 93051
 city: Regensburg
-street: Ludwig-Thoma-Straße
+street: "Ludwig-Thoma-Straße"
 housenumber: 43
 phone: "+49 (0)941 90830"
 opening_hours: "Mo-Th 10:30-17:00; Fr 10:30-15:00"

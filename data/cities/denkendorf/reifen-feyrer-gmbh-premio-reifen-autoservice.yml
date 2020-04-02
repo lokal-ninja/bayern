@@ -5,7 +5,7 @@ latitude: 48.933223100000006
 longitude: 11.4642061
 postcode: 85095
 city: Denkendorf
-street: Mühlweg
+street: "Mühlweg"
 housenumber: 2
 phone: "+49 8466 289"
 opening_hours: ""

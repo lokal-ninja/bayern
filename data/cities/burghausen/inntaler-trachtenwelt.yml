@@ -5,7 +5,7 @@ latitude: 48.1696418
 longitude: 12.817043100000001
 postcode: 84489
 city: Burghausen
-street: Burgkirchener Straße
+street: "Burgkirchener Straße"
 housenumber: 70
 phone: "+49 8677 9169993"
 opening_hours: ""

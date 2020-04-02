@@ -5,7 +5,7 @@ latitude: 49.567618100000004
 longitude: 11.3279148
 postcode: 91220
 city: Schnaittach
-street: Schwarzleite
+street: "Schwarzleite"
 housenumber: 2
 phone: ""
 opening_hours: ""

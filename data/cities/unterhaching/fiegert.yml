@@ -5,7 +5,7 @@ latitude: 48.071819700000006
 longitude: 11.605814
 postcode: 82008
 city: Unterhaching
-street: Münchner Straße
+street: "Münchner Straße"
 housenumber: 107
 phone: ""
 opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-12:00; Su 08:00-11:00"

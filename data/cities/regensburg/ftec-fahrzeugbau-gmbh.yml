@@ -5,7 +5,7 @@ latitude: 48.9910088
 longitude: 12.1524909
 postcode: 93055
 city: Regensburg
-street: Junkersstraße
+street: "Junkersstraße"
 housenumber: 11
 phone: "+49 941 7056530"
 opening_hours: ""

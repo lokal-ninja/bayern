@@ -5,7 +5,7 @@ latitude: 48.170318800000004
 longitude: 11.5770923
 postcode: 
 city: München
-street: Kölner Platz
+street: "Kölner Platz"
 housenumber: 1a
 phone: ""
 opening_hours: ""

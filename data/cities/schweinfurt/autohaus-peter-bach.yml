@@ -5,7 +5,7 @@ latitude: 50.037033900000004
 longitude: 10.2376045
 postcode: 97424
 city: Schweinfurt
-street: Carl-Zeiss-Straße
+street: "Carl-Zeiss-Straße"
 housenumber: 9
 phone: ""
 opening_hours: ""

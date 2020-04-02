@@ -5,7 +5,7 @@ latitude: 48.3992963
 longitude: 11.7426071
 postcode: 85354
 city: Freising
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 3
 phone: "+49 8161 94155"
 opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00; Sa 09:00-12:30"

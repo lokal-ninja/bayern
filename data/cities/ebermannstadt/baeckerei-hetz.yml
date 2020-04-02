@@ -5,7 +5,7 @@ latitude: 49.779845
 longitude: 11.187371500000001
 postcode: 91320
 city: Ebermannstadt
-street: Am Marktplatz
+street: "Am Marktplatz"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Fr 06:00-18:00, Sa 06:00-13:00"

@@ -5,7 +5,7 @@ latitude: 48.3550333
 longitude: 10.9429896
 postcode: 86163
 city: Augsburg
-street: Watzmannstraße
+street: "Watzmannstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

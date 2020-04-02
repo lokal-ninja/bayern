@@ -5,7 +5,7 @@ latitude: 47.6761113
 longitude: 12.471348800000001
 postcode: 83242
 city: Reit im Winkl
-street: Weitseestraße
+street: "Weitseestraße"
 housenumber: 12
 phone: "+49 8640 7967151"
 opening_hours: ""

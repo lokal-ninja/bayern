@@ -5,7 +5,7 @@ latitude: 47.8913546
 longitude: 12.0795846
 postcode: 83109
 city: Großkarolinenfeld
-street: Karolinenplatz
+street: "Karolinenplatz"
 housenumber: 4
 phone: "+49 8031 50050"
 opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa 08:30-13:00"

@@ -5,7 +5,7 @@ latitude: 48.1787508
 longitude: 11.571948200000001
 postcode: 80807
 city: München
-street: Petuelring
+street: "Petuelring"
 housenumber: 92
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

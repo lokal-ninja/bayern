@@ -5,7 +5,7 @@ latitude: 49.7973852
 longitude: 11.296083300000001
 postcode: 91364
 city: Wiesenttal
-street: Engelhardsberg
+street: "Engelhardsberg"
 housenumber: 42
 phone: "+49 170 8062855"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.380571
 longitude: 10.932254
 postcode: 86165
 city: Augsburg
-street: Meraner Straße
+street: "Meraner Straße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00; Dec 24 07:00-14:00; Dec 31 07:00-16:00; PH off"

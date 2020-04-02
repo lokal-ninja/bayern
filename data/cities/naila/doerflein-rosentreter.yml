@@ -5,7 +5,7 @@ latitude: 50.3297656
 longitude: 11.709251100000001
 postcode: 95119
 city: Naila
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 2
 phone: ""
 opening_hours: ""

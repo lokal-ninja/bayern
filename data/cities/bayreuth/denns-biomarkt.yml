@@ -5,7 +5,7 @@ latitude: 49.9523183
 longitude: 11.57253
 postcode: 95444
 city: Bayreuth
-street: Friedrich-von-Schiller-Straße
+street: "Friedrich-von-Schiller-Straße"
 housenumber: 35
 phone: ""
 opening_hours: ""

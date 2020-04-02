@@ -5,7 +5,7 @@ latitude: 49.466570700000005
 longitude: 10.859797400000001
 postcode: 90556
 city: Cadolzburg
-street: Zum Wasserhaus
+street: "Zum Wasserhaus"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

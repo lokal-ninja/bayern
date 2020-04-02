@@ -5,7 +5,7 @@ latitude: 49.8598827
 longitude: 9.0826045
 postcode: 63853
 city: Mömlingen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 100 1/2
 phone: ""
 opening_hours: ""

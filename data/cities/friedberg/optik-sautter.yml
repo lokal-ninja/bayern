@@ -5,7 +5,7 @@ latitude: 48.3551926
 longitude: 10.9815486
 postcode: 86316
 city: Friedberg
-street: Ludwigstraße
+street: "Ludwigstraße"
 housenumber: 26
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00, Tu,We 12:30-13:30 off; Sa 09:00-12:30"

@@ -5,7 +5,7 @@ latitude: 49.470672400000005
 longitude: 11.1134851
 postcode: 90491
 city: Nürnberg
-street: Leipziger Straße
+street: "Leipziger Straße"
 housenumber: 59
 phone: "+49 911 512051"
 opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00; Sa 08:00-13:00"

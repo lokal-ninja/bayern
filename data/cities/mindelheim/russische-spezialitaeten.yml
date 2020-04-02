@@ -5,7 +5,7 @@ latitude: 48.048478900000006
 longitude: 10.496663
 postcode: 87719
 city: Mindelheim
-street: Ramminger Straße
+street: "Ramminger Straße"
 housenumber: 11
 phone: ""
 opening_hours: ""

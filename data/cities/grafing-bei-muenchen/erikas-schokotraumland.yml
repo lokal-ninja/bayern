@@ -5,7 +5,7 @@ latitude: 48.0460804
 longitude: 11.9677851
 postcode: 85567
 city: Grafing bei München
-street: Münchener Straße
+street: "Münchener Straße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-13:00"

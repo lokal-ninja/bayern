@@ -5,7 +5,7 @@ latitude: 49.7381662
 longitude: 10.1615245
 postcode: 97318
 city: Kitzingen
-street: Herrnstraße
+street: "Herrnstraße"
 housenumber: 7
 phone: ""
 opening_hours: ""

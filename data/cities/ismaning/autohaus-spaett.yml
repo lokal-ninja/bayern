@@ -5,7 +5,7 @@ latitude: 48.232654800000006
 longitude: 11.686230700000001
 postcode: 85737
 city: Ismaning
-street: Robert-Bürkle-Straße
+street: "Robert-Bürkle-Straße"
 housenumber: 15
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 50.383681700000004
 longitude: 11.6757766
 postcode: 95192
 city: Lichtenberg
-street: Henri-Marteau-Platz
+street: "Henri-Marteau-Platz"
 housenumber: 4
 phone: ""
 opening_hours: ""

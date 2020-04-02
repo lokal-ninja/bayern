@@ -5,7 +5,7 @@ latitude: 49.459401400000004
 longitude: 12.418878600000001
 postcode: 92526
 city: Oberviechtach
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 9
 phone: "+49 9671 9215-0"
 opening_hours: "Mo - Fr 9.00 bis 18.00 Uhr,  Sa 9.00 bis 16.00 Uhr"

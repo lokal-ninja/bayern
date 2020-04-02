@@ -5,7 +5,7 @@ latitude: 50.0094232
 longitude: 10.1851748
 postcode: 97493
 city: Bergrheinfeld
-street: Goethestraße
+street: "Goethestraße"
 housenumber: 4
 phone: "+49 9721 7990"
 opening_hours: "Mo-Fr 08:00-17:30; Sa 08:00-12:00"

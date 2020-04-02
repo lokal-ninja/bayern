@@ -5,7 +5,7 @@ latitude: 47.907352700000004
 longitude: 11.431429600000001
 postcode: 82515
 city: Wolfratshausen
-street: Margeritenstraße
+street: "Margeritenstraße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

@@ -5,7 +5,7 @@ latitude: 50.108180600000004
 longitude: 11.456534900000001
 postcode: 95326
 city: Kulmbach
-street: Klostergasse
+street: "Klostergasse"
 housenumber: 2a
 phone: "+49 9221 5770"
 opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-13:00"

@@ -5,7 +5,7 @@ latitude: 48.0854632
 longitude: 11.6604153
 postcode: 81739
 city: München
-street: Maria-Wimmer-Straße
+street: "Maria-Wimmer-Straße"
 housenumber: 3
 phone: ""
 opening_hours: ""

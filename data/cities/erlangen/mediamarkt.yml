@@ -5,7 +5,7 @@ latitude: 49.574792900000006
 longitude: 10.9651365
 postcode: 91056
 city: Erlangen
-street: Frauenauracher Straße
+street: "Frauenauracher Straße"
 housenumber: 108
 phone: "+49 9131 90530"
 opening_hours: "Mo-Sa 10:00-20:00"

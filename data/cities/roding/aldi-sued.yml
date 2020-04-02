@@ -5,7 +5,7 @@ latitude: 49.202020700000006
 longitude: 12.525924300000002
 postcode: 93426
 city: Roding
-street: Kagerstraße
+street: "Kagerstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

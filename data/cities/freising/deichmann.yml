@@ -5,7 +5,7 @@ latitude: 48.399747100000006
 longitude: 11.771764800000001
 postcode: 85356
 city: Freising
-street: Rudolf-Diesel-Straße
+street: "Rudolf-Diesel-Straße"
 housenumber: 10
 phone: "+49 8161 8710 21"
 opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"

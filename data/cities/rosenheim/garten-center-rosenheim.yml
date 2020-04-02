@@ -5,7 +5,7 @@ latitude: 47.8508781
 longitude: 12.1290682
 postcode: 83022
 city: Rosenheim
-street: Brianconstraße
+street: "Brianconstraße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"

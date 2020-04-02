@@ -5,7 +5,7 @@ latitude: 48.1295068
 longitude: 11.572660200000001
 postcode: 80469
 city: München
-street: Klenzestraße
+street: "Klenzestraße"
 housenumber: 59
 phone: ""
 opening_hours: ""

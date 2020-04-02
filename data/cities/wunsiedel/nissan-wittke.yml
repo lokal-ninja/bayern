@@ -5,7 +5,7 @@ latitude: 50.0330177
 longitude: 12.003000100000001
 postcode: 95632
 city: Wunsiedel
-street: Luisenburgstraße
+street: "Luisenburgstraße"
 housenumber: 18
 phone: ""
 opening_hours: ""

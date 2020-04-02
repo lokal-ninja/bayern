@@ -5,7 +5,7 @@ latitude: 49.8444809
 longitude: 9.600458
 postcode: 97828
 city: Marktheidenfeld
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 18
 phone: ""
 opening_hours: ""

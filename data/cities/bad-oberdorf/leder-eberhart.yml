@@ -5,7 +5,7 @@ latitude: 47.504561100000004
 longitude: 10.3782039
 postcode: 87541
 city: Bad Oberdorf
-street: Hindelanger Straße
+street: "Hindelanger Straße"
 housenumber: 29
 phone: ""
 opening_hours: "Mo-Fr 09:30-12:30, 14:00-18:00; Sa 09:30-13:00"

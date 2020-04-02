@@ -5,7 +5,7 @@ latitude: 49.782307100000004
 longitude: 9.182186900000001
 postcode: 63911
 city: Klingenberg a.Main
-street: In der Altstadt
+street: "In der Altstadt"
 housenumber: 12
 phone: ""
 opening_hours: "Mo-Fr 08:30-12:30,14:00-18:00, Sa 09:00-12:30"

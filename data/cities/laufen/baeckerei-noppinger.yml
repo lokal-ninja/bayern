@@ -5,7 +5,7 @@ latitude: 47.935781600000006
 longitude: 12.9265412
 postcode: 83410
 city: Laufen
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 5
 phone: "+49 8682 470"
 opening_hours: ""

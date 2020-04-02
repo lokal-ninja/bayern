@@ -5,7 +5,7 @@ latitude: 50.0545101
 longitude: 10.2205753
 postcode: 97421
 city: Schweinfurt
-street: Franz-Schubert-Straße
+street: "Franz-Schubert-Straße"
 housenumber: 38
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00; Su off"

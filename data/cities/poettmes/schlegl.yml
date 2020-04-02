@@ -5,7 +5,7 @@ latitude: 48.584595300000004
 longitude: 11.089801000000001
 postcode: 86554
 city: Pöttmes
-street: von-Gumppenberg-Straße
+street: "von-Gumppenberg-Straße"
 housenumber: 40
 phone: ""
 opening_hours: ""

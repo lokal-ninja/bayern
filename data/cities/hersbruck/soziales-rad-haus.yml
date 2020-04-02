@@ -5,7 +5,7 @@ latitude: 49.508781000000006
 longitude: 11.428151000000002
 postcode: 91217
 city: Hersbruck
-street: Poststraße
+street: "Poststraße"
 housenumber: 2
 phone: "+49 9151 837735"
 opening_hours: ""

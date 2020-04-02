@@ -5,7 +5,7 @@ latitude: 49.4259904
 longitude: 11.868513
 postcode: 92245
 city: Kümmersbruck
-street: Bayernwerkstraße
+street: "Bayernwerkstraße"
 housenumber: 31
 phone: "+49 1515 2461600"
 opening_hours: "Mo-Fr 08:00-18:00"

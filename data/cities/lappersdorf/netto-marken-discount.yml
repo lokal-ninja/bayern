@@ -5,7 +5,7 @@ latitude: 49.042045
 longitude: 12.0834665
 postcode: 93138
 city: Lappersdorf
-street: Pfälzer Weg
+street: "Pfälzer Weg"
 housenumber: 44
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

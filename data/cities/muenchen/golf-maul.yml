@@ -5,7 +5,7 @@ latitude: 48.1445677
 longitude: 11.5772501
 postcode: 80333
 city: München
-street: Kardinal-Döpfner-Straße
+street: "Kardinal-Döpfner-Straße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Fr 10:30-19:00; Sa 10:30-16:00; Su,PH off"

@@ -5,7 +5,7 @@ latitude: 48.465857400000004
 longitude: 12.730477200000001
 postcode: 84326
 city: Falkenberg
-street: Eggenfeldener Straße
+street: "Eggenfeldener Straße"
 housenumber: 50
 phone: ""
 opening_hours: ""

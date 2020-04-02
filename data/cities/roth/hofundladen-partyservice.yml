@@ -5,7 +5,7 @@ latitude: 49.2674122
 longitude: 11.0770201
 postcode: 91154
 city: Roth
-street: Heidenbergstraße
+street: "Heidenbergstraße"
 housenumber: 12
 phone: "+49 9171 63413"
 opening_hours: "Tu 11:00-17:00; We-Fr 08:00-17:00; Sa 08:00-13:00"

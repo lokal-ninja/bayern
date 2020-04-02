@@ -5,7 +5,7 @@ latitude: 48.7333153
 longitude: 13.6104661
 postcode: 94065
 city: Waldkirchen
-street: Bannholzstraße
+street: "Bannholzstraße"
 housenumber: 34b
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

@@ -5,7 +5,7 @@ latitude: 49.4493608
 longitude: 11.0686277
 postcode: 90402
 city: Nürnberg
-street: Jakobsplatz
+street: "Jakobsplatz"
 housenumber: 3
 phone: "+49 911 221192"
 opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-18:00"

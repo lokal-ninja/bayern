@@ -5,7 +5,7 @@ latitude: 47.8228779
 longitude: 12.644872600000001
 postcode: 83313
 city: Siegsdorf
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 13
 phone: ""
 opening_hours: ""

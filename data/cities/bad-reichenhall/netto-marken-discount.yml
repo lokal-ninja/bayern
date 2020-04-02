@@ -5,7 +5,7 @@ latitude: 47.736388600000005
 longitude: 12.886887100000001
 postcode: 83435
 city: Bad Reichenhall
-street: Frühlingstraße
+street: "Frühlingstraße"
 housenumber: 64
 phone: ""
 opening_hours: ""

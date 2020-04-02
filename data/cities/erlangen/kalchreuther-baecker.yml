@@ -5,7 +5,7 @@ latitude: 49.5905867
 longitude: 11.006518300000002
 postcode: 91052
 city: Erlangen
-street: Rathausplatz
+street: "Rathausplatz"
 housenumber: 3
 phone: "+49 9131 4000166"
 opening_hours: "Mo-Fr 06:00-20:00; Sa-Su 06:00-18:00"

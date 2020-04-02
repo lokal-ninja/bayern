@@ -5,7 +5,7 @@ latitude: 49.794133900000006
 longitude: 9.7367045
 postcode: 97292
 city: Uettingen
-street: Mühlweg
+street: "Mühlweg"
 housenumber: 3
 phone: "+49 9369/663"
 opening_hours: "Mo-Fr 10:00-18:00, Sa 10:00-14:00"

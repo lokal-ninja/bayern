@@ -5,7 +5,7 @@ latitude: 48.5400934
 longitude: 12.107320900000001
 postcode: 
 city: Landshut
-street: Ludwig-Erhard-Straße
+street: "Ludwig-Erhard-Straße"
 housenumber: 22
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.3663119
 longitude: 10.8927071
 postcode: 86150
 city: Augsburg
-street: Schaezlerstraße
+street: "Schaezlerstraße"
 housenumber: 3
 phone: "+49 821 909408"
 opening_hours: ""

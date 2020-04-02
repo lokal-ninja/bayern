@@ -5,7 +5,7 @@ latitude: 48.7686951
 longitude: 12.2281144
 postcode: 84066
 city: Mallersdorf-Pfaffenberg
-street: Laberstraße
+street: "Laberstraße"
 housenumber: 6
 phone: "+49 8772 1800"
 opening_hours: ""

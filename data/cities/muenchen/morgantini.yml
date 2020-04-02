@@ -5,7 +5,7 @@ latitude: 48.132121000000005
 longitude: 11.575944400000001
 postcode: 80469
 city: München
-street: Reichenbachstraße
+street: "Reichenbachstraße"
 housenumber: 16
 phone: "+49 89 26018880"
 opening_hours: ""

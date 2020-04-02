@@ -5,7 +5,7 @@ latitude: 48.397701100000006
 longitude: 10.9144959
 postcode: 86169
 city: Augsburg
-street: Neuburger Straße
+street: "Neuburger Straße"
 housenumber: 227 - 229
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"

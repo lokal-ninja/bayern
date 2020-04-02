@@ -5,7 +5,7 @@ latitude: 47.8688985
 longitude: 12.651538200000001
 postcode: 83278
 city: Traunstein
-street: Traunerstraße
+street: "Traunerstraße"
 housenumber: 2
 phone: "+49 861 8385"
 opening_hours: ""

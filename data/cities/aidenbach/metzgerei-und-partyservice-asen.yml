@@ -5,7 +5,7 @@ latitude: 48.5679133
 longitude: 13.086594900000001
 postcode: 94501
 city: Aidenbach
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 43
 phone: ""
 opening_hours: ""

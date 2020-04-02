@@ -5,7 +5,7 @@ latitude: 48.115134100000006
 longitude: 11.593185700000001
 postcode: 81541
 city: München
-street: Werinherstraße
+street: "Werinherstraße"
 housenumber: 65
 phone: "+49 89 6913509"
 opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-12:00"

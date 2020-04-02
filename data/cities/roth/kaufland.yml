@@ -5,7 +5,7 @@ latitude: 49.249679300000004
 longitude: 11.0935702
 postcode: 91154
 city: Roth
-street: Friedrich-Wambsganz-Straße
+street: "Friedrich-Wambsganz-Straße"
 housenumber: 1
 phone: ""
 opening_hours: ""

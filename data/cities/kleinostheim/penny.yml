@@ -5,7 +5,7 @@ latitude: 50.0098287
 longitude: 9.057559600000001
 postcode: 63801
 city: Kleinostheim
-street: In der Heubrach
+street: "In der Heubrach"
 housenumber: 2
 phone: ""
 opening_hours: ""

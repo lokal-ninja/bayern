@@ -5,7 +5,7 @@ latitude: 47.559277300000005
 longitude: 10.0320184
 postcode: 87534
 city: Oberstaufen
-street: Immenstädter Straße
+street: "Immenstädter Straße"
 housenumber: 
 phone: "+49 8386 93440"
 opening_hours: ""

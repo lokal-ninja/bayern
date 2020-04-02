@@ -5,7 +5,7 @@ latitude: 48.286689300000006
 longitude: 10.8907637
 postcode: 86343
 city: Königsbrunn
-street: Germanenstraße
+street: "Germanenstraße"
 housenumber: 16
 phone: "+49 8231 3404804"
 opening_hours: "Mo-Sa 07:00-20:00; Su, PH off"

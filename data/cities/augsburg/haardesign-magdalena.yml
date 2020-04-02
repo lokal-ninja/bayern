@@ -5,7 +5,7 @@ latitude: 48.3754877
 longitude: 10.9191084
 postcode: 86165
 city: Augsburg
-street: Schackstraße
+street: "Schackstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

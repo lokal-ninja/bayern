@@ -5,7 +5,7 @@ latitude: 50.43673750000001
 longitude: 10.305966000000002
 postcode: 97638
 city: Mellrichstadt
-street: Lohstraße
+street: "Lohstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

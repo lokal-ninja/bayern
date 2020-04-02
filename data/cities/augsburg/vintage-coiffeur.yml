@@ -5,7 +5,7 @@ latitude: 48.364153800000004
 longitude: 10.9016649
 postcode: 86150
 city: Augsburg
-street: Predigerberg
+street: "Predigerberg"
 housenumber: 22
 phone: "+4982145076570"
 opening_hours: ""

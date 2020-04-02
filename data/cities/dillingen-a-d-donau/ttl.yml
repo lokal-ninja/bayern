@@ -5,7 +5,7 @@ latitude: 48.5770124
 longitude: 10.4638778
 postcode: 89407
 city: Dillingen a.d.Donau
-street: Hans-Geiger-Straße
+street: "Hans-Geiger-Straße"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"

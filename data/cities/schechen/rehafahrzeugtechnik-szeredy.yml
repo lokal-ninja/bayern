@@ -5,7 +5,7 @@ latitude: 47.887708100000005
 longitude: 12.1221122
 postcode: 83135
 city: Schechen
-street: Aboldstraße
+street: "Aboldstraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

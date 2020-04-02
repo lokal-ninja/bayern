@@ -5,7 +5,7 @@ latitude: 47.4946691
 longitude: 11.094445400000001
 postcode: 82467
 city: Garmisch-Partenkirchen
-street: Chamonixstraße
+street: "Chamonixstraße"
 housenumber: 11
 phone: ""
 opening_hours: ""

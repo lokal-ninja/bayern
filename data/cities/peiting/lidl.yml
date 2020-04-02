@@ -5,7 +5,7 @@ latitude: 47.8041123
 longitude: 10.935108600000001
 postcode: 86971
 city: Peiting
-street: Münchener Straße
+street: "Münchener Straße"
 housenumber: 66
 phone: ""
 opening_hours: ""

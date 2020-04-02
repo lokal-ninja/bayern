@@ -5,7 +5,7 @@ latitude: 48.365926
 longitude: 10.9061736
 postcode: 86153
 city: Augsburg
-street: Willy-Brandt-Platz
+street: "Willy-Brandt-Platz"
 housenumber: 1
 phone: "+49 821 5670351"
 opening_hours: ""

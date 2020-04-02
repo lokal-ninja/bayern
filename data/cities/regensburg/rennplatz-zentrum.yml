@@ -5,7 +5,7 @@ latitude: 49.013781400000006
 longitude: 12.0516219
 postcode: 93049
 city: Regensburg
-street: Franz-von-Taxis-Ring
+street: "Franz-von-Taxis-Ring"
 housenumber: 53
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

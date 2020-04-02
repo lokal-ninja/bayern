@@ -5,7 +5,7 @@ latitude: 48.9849213
 longitude: 12.1976834
 postcode: 93073
 city: Neutraubling
-street: Bayerwaldstraße
+street: "Bayerwaldstraße"
 housenumber: 57
 phone: "+49 9401 5260911"
 opening_hours: ""

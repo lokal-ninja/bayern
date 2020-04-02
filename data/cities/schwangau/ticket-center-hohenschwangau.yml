@@ -5,7 +5,7 @@ latitude: 47.555357400000005
 longitude: 10.7391036
 postcode: 87645
 city: Schwangau
-street: Alpseestraße
+street: "Alpseestraße"
 housenumber: 12
 phone: ""
 opening_hours: ""

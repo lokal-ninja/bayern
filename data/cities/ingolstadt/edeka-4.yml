@@ -5,7 +5,7 @@ latitude: 48.771060600000006
 longitude: 11.3819329
 postcode: 85049
 city: Ingolstadt
-street: Krumenauerstraße
+street: "Krumenauerstraße"
 housenumber: 58
 phone: "+49 841 44646"
 opening_hours: "Mo-Sa 07:00-20:00"

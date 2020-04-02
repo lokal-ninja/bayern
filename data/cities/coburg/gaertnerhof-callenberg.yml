@@ -5,7 +5,7 @@ latitude: 50.282484000000004
 longitude: 10.9216563
 postcode: 96450
 city: Coburg
-street: Callenberg
+street: "Callenberg"
 housenumber: 12
 phone: ""
 opening_hours: "Mo-Fr 09:00-13:30; Tu,Fr 09:00-13:30,15:00-18:00"

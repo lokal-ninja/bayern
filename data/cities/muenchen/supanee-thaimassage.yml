@@ -5,7 +5,7 @@ latitude: 48.1285254
 longitude: 11.6426811
 postcode: 81673
 city: München
-street: Schüleinstraße
+street: "Schüleinstraße"
 housenumber: 16
 phone: "+49 89 24405724"
 opening_hours: "Mo-Sa 10:00-20:00"

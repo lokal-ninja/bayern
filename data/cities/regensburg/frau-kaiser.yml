@@ -5,7 +5,7 @@ latitude: 49.021316500000005
 longitude: 12.092468100000001
 postcode: 93047
 city: Regensburg
-street: Keplerstraße
+street: "Keplerstraße"
 housenumber: 15
 phone: ""
 opening_hours: "Tu,Th 19:00-01:00, Fr-Sa 19:00-02:00, Su 18:00-24:00"

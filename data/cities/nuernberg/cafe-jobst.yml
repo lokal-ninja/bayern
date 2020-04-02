@@ -5,7 +5,7 @@ latitude: 49.4649457
 longitude: 11.120091200000001
 postcode: 90491
 city: Nürnberg
-street: Jobster Straße
+street: "Jobster Straße"
 housenumber: 2
 phone: ""
 opening_hours: ""

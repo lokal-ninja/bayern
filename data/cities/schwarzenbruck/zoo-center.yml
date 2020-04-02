@@ -5,7 +5,7 @@ latitude: 49.3625035
 longitude: 11.250494000000002
 postcode: 90592
 city: Schwarzenbruck
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 7
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.740609000000006
 longitude: 11.448472500000001
 postcode: 85053
 city: Ingolstadt
-street: Lenbachstraße
+street: "Lenbachstraße"
 housenumber: 23
 phone: "+49 841 69490"
 opening_hours: "Mo-Fr 8:00-18:30; We,Sa 8:00-13:00"

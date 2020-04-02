@@ -5,7 +5,7 @@ latitude: 48.2964161
 longitude: 10.394976400000001
 postcode: 86476
 city: Neuburg a.d.Kammel
-street: Attenhauser Straße
+street: "Attenhauser Straße"
 housenumber: 2
 phone: ""
 opening_hours: ""

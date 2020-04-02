@@ -5,7 +5,7 @@ latitude: 50.0034556
 longitude: 12.304604000000001
 postcode: 95652
 city: Waldsassen
-street: Prinz-Ludwig-Straße
+street: "Prinz-Ludwig-Straße"
 housenumber: 8
 phone: ""
 opening_hours: ""

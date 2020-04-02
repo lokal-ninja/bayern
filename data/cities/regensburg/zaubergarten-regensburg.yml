@@ -5,7 +5,7 @@ latitude: 49.016575100000004
 longitude: 12.0953291
 postcode: 93047
 city: Regensburg
-street: Obermünsterstraße
+street: "Obermünsterstraße"
 housenumber: 8
 phone: "+49 941 5041001"
 opening_hours: "Mo-Fr 09:30-18:00; Sa 10:00-17:00"

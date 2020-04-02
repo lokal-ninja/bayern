@@ -5,7 +5,7 @@ latitude: 50.0121734
 longitude: 9.3251565
 postcode: 63846
 city: Laufach
-street: Auweg
+street: "Auweg"
 housenumber: 8
 phone: ""
 opening_hours: ""

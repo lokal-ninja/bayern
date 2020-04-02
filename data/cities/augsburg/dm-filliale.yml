@@ -5,7 +5,7 @@ latitude: 48.2972223
 longitude: 10.8993404
 postcode: 86179
 city: Augsburg
-street: Brahmsstraße
+street: "Brahmsstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

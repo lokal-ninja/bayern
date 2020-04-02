@@ -5,7 +5,7 @@ latitude: 48.1493954
 longitude: 11.4607036
 postcode: 81241
 city: München
-street: Pasinger Bahnhofsplatz
+street: "Pasinger Bahnhofsplatz"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Fr 07:00-20:00; Sa-Su 08:00-18:00"

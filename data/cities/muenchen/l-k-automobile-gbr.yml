@@ -5,7 +5,7 @@ latitude: 48.161669
 longitude: 11.413675900000001
 postcode: 81245
 city: München
-street: Ubostraße
+street: "Ubostraße"
 housenumber: 50
 phone: ""
 opening_hours: ""

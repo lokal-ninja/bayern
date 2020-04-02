@@ -5,7 +5,7 @@ latitude: 49.407599700000006
 longitude: 11.1664373
 postcode: 90475
 city: Nürnberg
-street: Schornbaumstraße
+street: "Schornbaumstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

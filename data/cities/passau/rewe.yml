@@ -5,7 +5,7 @@ latitude: 48.5724293
 longitude: 13.4568697
 postcode: 
 city: Passau
-street: Nibelungenplatz
+street: "Nibelungenplatz"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

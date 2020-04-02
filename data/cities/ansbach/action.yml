@@ -5,7 +5,7 @@ latitude: 49.307673
 longitude: 10.5694873
 postcode: 91522
 city: Ansbach
-street: Schöneckerstraße
+street: "Schöneckerstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

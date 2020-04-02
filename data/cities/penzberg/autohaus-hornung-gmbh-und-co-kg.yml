@@ -5,7 +5,7 @@ latitude: 47.765987700000004
 longitude: 11.3603819
 postcode: 82377
 city: Penzberg
-street: Seeshaupter Straße
+street: "Seeshaupter Straße"
 housenumber: 54
 phone: ""
 opening_hours: ""

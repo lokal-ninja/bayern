@@ -5,7 +5,7 @@ latitude: 48.764220300000005
 longitude: 11.426558700000001
 postcode: 85049
 city: Ingolstadt
-street: Mauthstraße
+street: "Mauthstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

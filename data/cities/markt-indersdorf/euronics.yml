@@ -5,7 +5,7 @@ latitude: 48.3493092
 longitude: 11.371430700000001
 postcode: 85229
 city: Markt Indersdorf
-street: Lorenz-Braren-Straße
+street: "Lorenz-Braren-Straße"
 housenumber: 30
 phone: ""
 opening_hours: "Mo-Fr 09:00-20:00; Sa 09:30-12:30"

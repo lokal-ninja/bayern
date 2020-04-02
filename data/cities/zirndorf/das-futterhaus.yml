@@ -5,7 +5,7 @@ latitude: 49.4351646
 longitude: 10.959207600000001
 postcode: 90513
 city: Zirndorf
-street: Rothenburger Straße
+street: "Rothenburger Straße"
 housenumber: 20
 phone: ""
 opening_hours: ""

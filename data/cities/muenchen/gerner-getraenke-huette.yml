@@ -5,7 +5,7 @@ latitude: 48.160673900000006
 longitude: 11.529368900000001
 postcode: 80637
 city: München
-street: Waisenhausstraße
+street: "Waisenhausstraße"
 housenumber: 19
 phone: ""
 opening_hours: ""

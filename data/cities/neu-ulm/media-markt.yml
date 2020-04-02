@@ -5,7 +5,7 @@ latitude: 48.392702400000005
 longitude: 10.0026683
 postcode: 89231
 city: Neu-Ulm
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 1/1
 phone: "+49 731 9764-0"
 opening_hours: "Mo-Sa 10:00-20:00; PH,Su off"

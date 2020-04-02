@@ -5,7 +5,7 @@ latitude: 48.643240000000006
 longitude: 11.519243600000001
 postcode: 85084
 city: Reichertshofen
-street: Logistikring
+street: "Logistikring"
 housenumber: 8
 phone: "+49 8453 3346890"
 opening_hours: "24/7"

@@ -5,7 +5,7 @@ latitude: 48.360778700000004
 longitude: 10.897642300000001
 postcode: 86150
 city: Augsburg
-street: Konrad-Adenauer-Allee
+street: "Konrad-Adenauer-Allee"
 housenumber: 61
 phone: "+49 821 511774"
 opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-14:00"

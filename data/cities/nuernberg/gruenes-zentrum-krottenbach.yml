@@ -5,7 +5,7 @@ latitude: 49.3822703
 longitude: 11.0153467
 postcode: 90453
 city: Nürnberg
-street: Höllwiesenstraße
+street: "Höllwiesenstraße"
 housenumber: 59
 phone: "+49 911 638631"
 opening_hours: ""

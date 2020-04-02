@@ -5,7 +5,7 @@ latitude: 48.3765348
 longitude: 10.8453938
 postcode: 86391
 city: Stadtbergen
-street: Benzstraße
+street: "Benzstraße"
 housenumber: 3
 phone: "+49 821 440650"
 opening_hours: "Mo-Th 07:30-18:00 open Kundendienst, Verkauf, Werkstatt; Fr 07:30-17:30 open Kundendienst, Verkauf, Werkstatt; Sa 09:30-14:00 open Kundendienst, Verkauf, Werkstatt"

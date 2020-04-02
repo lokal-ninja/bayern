@@ -5,7 +5,7 @@ latitude: 47.9647063
 longitude: 12.589560700000002
 postcode: 83301
 city: Traunreut
-street: Munastraße
+street: "Munastraße"
 housenumber: 10a
 phone: ""
 opening_hours: "Mo-Sa 08:30-20:00"

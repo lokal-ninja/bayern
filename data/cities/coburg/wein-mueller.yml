@@ -5,7 +5,7 @@ latitude: 50.2249229
 longitude: 10.984376000000001
 postcode: 96450
 city: Coburg
-street: Creidlitzer Straße
+street: "Creidlitzer Straße"
 housenumber: 143
 phone: "+49 9561 1621"
 opening_hours: "Mo-Fr 08:00-19:00, Sa 08:00-14:00"

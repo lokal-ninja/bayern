@@ -5,7 +5,7 @@ latitude: 49.986738700000004
 longitude: 9.1585319
 postcode: 63741
 city: Aschaffenburg
-street: Weichertstraße
+street: "Weichertstraße"
 housenumber: 8
 phone: "+49060213433300"
 opening_hours: ""

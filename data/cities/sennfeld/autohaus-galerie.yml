@@ -5,7 +5,7 @@ latitude: 50.037192000000005
 longitude: 10.243313200000001
 postcode: 97526
 city: Sennfeld
-street: Felix-Wankel-Straße
+street: "Felix-Wankel-Straße"
 housenumber: 7
 phone: ""
 opening_hours: ""

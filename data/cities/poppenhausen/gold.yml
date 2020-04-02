@@ -5,7 +5,7 @@ latitude: 50.084852700000006
 longitude: 10.115319900000001
 postcode: 97490
 city: Poppenhausen
-street: Am Kärnersweg
+street: "Am Kärnersweg"
 housenumber: 2
 phone: ""
 opening_hours: ""

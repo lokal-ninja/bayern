@@ -5,7 +5,7 @@ latitude: 48.367287600000004
 longitude: 10.899704900000001
 postcode: 86150
 city: Augsburg
-street: Weiße Gasse
+street: "Weiße Gasse"
 housenumber: 2
 phone: ""
 opening_hours: ""

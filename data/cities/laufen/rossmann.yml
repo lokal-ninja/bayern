@@ -5,7 +5,7 @@ latitude: 47.937541200000005
 longitude: 12.921114800000002
 postcode: 83410
 city: Laufen
-street: Tittmoninger Straße
+street: "Tittmoninger Straße"
 housenumber: 55
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off"

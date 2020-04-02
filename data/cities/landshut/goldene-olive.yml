@@ -5,7 +5,7 @@ latitude: 48.53546720000001
 longitude: 12.153259700000001
 postcode: 84028
 city: Landshut
-street: Steckengasse
+street: "Steckengasse"
 housenumber: 305
 phone: ""
 opening_hours: ""

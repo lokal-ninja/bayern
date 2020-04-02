@@ -5,7 +5,7 @@ latitude: 50.0372251
 longitude: 11.4905302
 postcode: 95512
 city: Neudrossenfeld
-street: An der Autobahn
+street: "An der Autobahn"
 housenumber: 1
 phone: "+49 (9203) 688996"
 opening_hours: "24/7"

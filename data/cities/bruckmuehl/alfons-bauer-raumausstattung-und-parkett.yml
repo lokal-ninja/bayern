@@ -5,7 +5,7 @@ latitude: 47.878903900000005
 longitude: 11.9111472
 postcode: 83052
 city: Bruckmühl
-street: Mangfallstraße
+street: "Mangfallstraße"
 housenumber: 3-5
 phone: ""
 opening_hours: ""

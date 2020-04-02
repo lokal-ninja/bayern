@@ -5,7 +5,7 @@ latitude: 48.104063200000006
 longitude: 11.602337
 postcode: 81549
 city: München
-street: Ständlerstraße
+street: "Ständlerstraße"
 housenumber: 37
 phone: ""
 opening_hours: ""

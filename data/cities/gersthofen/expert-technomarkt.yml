@@ -5,7 +5,7 @@ latitude: 48.425551000000006
 longitude: 10.8640357
 postcode: 86368
 city: Gersthofen
-street: Dieselstraße
+street: "Dieselstraße"
 housenumber: 5a
 phone: "+49 821 49882-0"
 opening_hours: "Mo-Fr 10:00-19:30; Sa 09:30-18:00"

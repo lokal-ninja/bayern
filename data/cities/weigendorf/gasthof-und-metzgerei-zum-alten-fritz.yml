@@ -5,7 +5,7 @@ latitude: 49.4897306
 longitude: 11.584739200000001
 postcode: 91249
 city: Weigendorf
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 39-41
 phone: "+49 9154 4700"
 opening_hours: "Mo 15:00+ off, Tu off"

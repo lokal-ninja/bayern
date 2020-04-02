@@ -5,7 +5,7 @@ latitude: 48.365417
 longitude: 10.952936300000001
 postcode: 86316
 city: Friedberg
-street: Sebastian-Mayr-Straße
+street: "Sebastian-Mayr-Straße"
 housenumber: 10
 phone: ""
 opening_hours: ""

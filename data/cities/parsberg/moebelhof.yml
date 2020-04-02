@@ -5,7 +5,7 @@ latitude: 49.1566714
 longitude: 11.7056643
 postcode: 92331
 city: Parsberg
-street: Lindlbergstraße
+street: "Lindlbergstraße"
 housenumber: 26
 phone: ""
 opening_hours: "Mo-Fr 09:30-19:00, Sa 09:00-18:00"

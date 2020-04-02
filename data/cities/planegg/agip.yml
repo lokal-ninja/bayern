@@ -5,7 +5,7 @@ latitude: 48.1020466
 longitude: 11.425905
 postcode: 82152
 city: Planegg
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 1
 phone: "+49 89 8594153"
 opening_hours: ""

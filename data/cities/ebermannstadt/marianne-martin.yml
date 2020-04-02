@@ -5,7 +5,7 @@ latitude: 49.7750283
 longitude: 11.1851593
 postcode: 91320
 city: Ebermannstadt
-street: Pretzfelder Straße
+street: "Pretzfelder Straße"
 housenumber: 24
 phone: "+49 9194 9131"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.1364747
 longitude: 11.5750975
 postcode: 80331
 city: München
-street: Rindermarkt
+street: "Rindermarkt"
 housenumber: 16
 phone: ""
 opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-17:00"

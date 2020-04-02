@@ -5,7 +5,7 @@ latitude: 49.378444
 longitude: 11.2094915
 postcode: 90537
 city: Feucht
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 7
 phone: ""
 opening_hours: ""

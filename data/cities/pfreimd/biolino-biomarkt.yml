@@ -5,7 +5,7 @@ latitude: 49.490462300000004
 longitude: 12.1799259
 postcode: 92536
 city: Pfreimd
-street: Landgraf-Johann-Straße
+street: "Landgraf-Johann-Straße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00"

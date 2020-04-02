@@ -5,7 +5,7 @@ latitude: 48.051972400000004
 longitude: 10.489046400000001
 postcode: 87719
 city: Mindelheim
-street: Krumbacher Straße
+street: "Krumbacher Straße"
 housenumber: 45
 phone: ""
 opening_hours: ""

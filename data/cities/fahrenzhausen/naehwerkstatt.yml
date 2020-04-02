@@ -5,7 +5,7 @@ latitude: 48.3511493
 longitude: 11.5631023
 postcode: 85777
 city: Fahrenzhausen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 2
 phone: "+49 8133 9961077"
 opening_hours: ""

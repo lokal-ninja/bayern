@@ -5,7 +5,7 @@ latitude: 48.3902791
 longitude: 10.8378464
 postcode: 86356
 city: Neusäß
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 1a
 phone: ""
 opening_hours: ""

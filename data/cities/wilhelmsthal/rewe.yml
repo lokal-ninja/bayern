@@ -5,7 +5,7 @@ latitude: 50.276960800000005
 longitude: 11.3646998
 postcode: 96352
 city: Wilhelmsthal
-street: Weißanger
+street: "Weißanger"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

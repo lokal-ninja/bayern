@@ -5,7 +5,7 @@ latitude: 49.448458800000004
 longitude: 12.180769300000001
 postcode: 92507
 city: Nabburg
-street: Austraße
+street: "Austraße"
 housenumber: 20
 phone: ""
 opening_hours: ""

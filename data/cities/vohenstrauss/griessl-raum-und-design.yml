@@ -5,7 +5,7 @@ latitude: 49.6228946
 longitude: 12.343147
 postcode: 92648
 city: Vohenstrauß
-street: Prager Gasse
+street: "Prager Gasse"
 housenumber: 6-10
 phone: "+49 9651 924000"
 opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-13:00"

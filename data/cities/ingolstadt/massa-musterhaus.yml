@@ -5,7 +5,7 @@ latitude: 48.749397800000004
 longitude: 11.461860900000001
 postcode: 85053
 city: Ingolstadt
-street: Schütterlettenweg
+street: "Schütterlettenweg"
 housenumber: 2
 phone: "+49 841 3704444"
 opening_hours: "Mo-Su 10:00-18:00"

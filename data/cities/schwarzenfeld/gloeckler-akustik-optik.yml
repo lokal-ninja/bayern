@@ -5,7 +5,7 @@ latitude: 49.390104400000006
 longitude: 12.1346486
 postcode: 92521
 city: Schwarzenfeld
-street: Viktor-Koch-Straße
+street: "Viktor-Koch-Straße"
 housenumber: 14
 phone: "+49 9435 2433"
 opening_hours: "Mo-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00"

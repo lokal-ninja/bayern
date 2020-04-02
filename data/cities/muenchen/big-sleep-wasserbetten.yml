@@ -5,7 +5,7 @@ latitude: 48.146383900000004
 longitude: 11.5333261
 postcode: 80634
 city: München
-street: Arnulfstraße
+street: "Arnulfstraße"
 housenumber: 85
 phone: ""
 opening_hours: ""

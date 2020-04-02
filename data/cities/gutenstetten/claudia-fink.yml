@@ -5,7 +5,7 @@ latitude: 49.6167978
 longitude: 10.624867700000001
 postcode: 91468
 city: Gutenstetten
-street: Abtenweg
+street: "Abtenweg"
 housenumber: 2
 phone: ""
 opening_hours: ""

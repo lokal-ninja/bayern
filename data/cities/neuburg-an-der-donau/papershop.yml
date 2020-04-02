@@ -5,7 +5,7 @@ latitude: 48.732812800000005
 longitude: 11.198166200000001
 postcode: 86633
 city: Neuburg an der Donau
-street: Danziger Straße
+street: "Danziger Straße"
 housenumber: 21
 phone: ""
 opening_hours: ""

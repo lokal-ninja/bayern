@@ -5,7 +5,7 @@ latitude: 48.1524768
 longitude: 11.5636244
 postcode: 80798
 city: München
-street: Heßstraße
+street: "Heßstraße"
 housenumber: 47
 phone: ""
 opening_hours: "Fr-Sa 12:00-19:00; Su,PH off"

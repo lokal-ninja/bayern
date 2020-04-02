@@ -5,7 +5,7 @@ latitude: 49.5089581
 longitude: 11.4299192
 postcode: 91217
 city: Hersbruck
-street: Prager Straße
+street: "Prager Straße"
 housenumber: 10
 phone: "+49 9151 6095843"
 opening_hours: ""

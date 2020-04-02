@@ -5,7 +5,7 @@ latitude: 49.5581606
 longitude: 11.343784300000001
 postcode: 91220
 city: Schnaittach
-street: Hersbrucker Straße
+street: "Hersbrucker Straße"
 housenumber: 14
 phone: "+4991534162"
 opening_hours: ""

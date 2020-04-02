@@ -5,7 +5,7 @@ latitude: 47.8588145
 longitude: 12.6222569
 postcode: 83278
 city: Traunstein
-street: Lambergstraße
+street: "Lambergstraße"
 housenumber: 33
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.682412600000006
 longitude: 11.287465300000001
 postcode: 86668
 city: Karlshuld
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

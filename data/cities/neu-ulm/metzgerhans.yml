@@ -5,7 +5,7 @@ latitude: 48.3947792
 longitude: 9.9983976
 postcode: 89231
 city: Neu-Ulm
-street: Marienstraße
+street: "Marienstraße"
 housenumber: 8
 phone: "+49 731 88016299"
 opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-13:00"

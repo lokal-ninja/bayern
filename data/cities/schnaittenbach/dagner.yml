@@ -5,7 +5,7 @@ latitude: 49.554731600000004
 longitude: 12.0074115
 postcode: 92253
 city: Schnaittenbach
-street: Jahnstraße
+street: "Jahnstraße"
 housenumber: 15
 phone: "+49 9622 4881"
 opening_hours: ""

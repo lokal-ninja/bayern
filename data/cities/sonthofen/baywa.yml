@@ -5,7 +5,7 @@ latitude: 47.519776
 longitude: 10.2718492
 postcode: 87527
 city: Sonthofen
-street: Eichendorffstraße
+street: "Eichendorffstraße"
 housenumber: 15
 phone: ""
 opening_hours: "Mo-Fr 07:00-17:30"

@@ -5,7 +5,7 @@ latitude: 48.1753098
 longitude: 11.5820261
 postcode: 80804
 city: München
-street: Isoldenstraße
+street: "Isoldenstraße"
 housenumber: 60
 phone: ""
 opening_hours: "Mo-Fr 07:30-20:00, Sa 07:30-20:00"

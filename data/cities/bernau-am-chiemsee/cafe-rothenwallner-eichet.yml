@@ -5,7 +5,7 @@ latitude: 47.825379000000005
 longitude: 12.386075100000001
 postcode: 83233
 city: Bernau am Chiemsee
-street: Chiemseestraße
+street: "Chiemseestraße"
 housenumber: 92
 phone: "+49 8051 89958"
 opening_hours: ""

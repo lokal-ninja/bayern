@@ -5,7 +5,7 @@ latitude: 50.006731200000004
 longitude: 11.588410900000001
 postcode: 95463
 city: Bindlach
-street: Schulstraße
+street: "Schulstraße"
 housenumber: 7
 phone: "+49 9208 221"
 opening_hours: ""

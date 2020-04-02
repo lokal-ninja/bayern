@@ -5,7 +5,7 @@ latitude: 48.131669900000006
 longitude: 11.5933819
 postcode: 81667
 city: München
-street: Holzhofstraße
+street: "Holzhofstraße"
 housenumber: 5
 phone: "+49 89 21019826"
 opening_hours: "Mo 13:00-19:00, Tu 11:00-19:30, Sa 10:00-15:00"

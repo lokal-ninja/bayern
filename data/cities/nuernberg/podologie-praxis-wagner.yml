@@ -5,7 +5,7 @@ latitude: 49.4512506
 longitude: 11.061855000000001
 postcode: 90429
 city: Nürnberg
-street: Bleichstraße
+street: "Bleichstraße"
 housenumber: 22
 phone: "+499112874665"
 opening_hours: "Mo-Fr 08:00-18:00"

@@ -5,7 +5,7 @@ latitude: 48.7701866
 longitude: 11.6197072
 postcode: 85088
 city: Vohburg a.d.Donau
-street: Reinschmiedstraße
+street: "Reinschmiedstraße"
 housenumber: 6
 phone: ""
 opening_hours: "Tu-Fr 08:30-18:00; Sa 08:00-13:00"

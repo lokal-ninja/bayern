@@ -5,7 +5,7 @@ latitude: 47.8628683
 longitude: 12.0113544
 postcode: 83043
 city: Bad Aibling
-street: Rosenheimer Straße
+street: "Rosenheimer Straße"
 housenumber: 12
 phone: "+49 8061 350 50 73"
 opening_hours: "Mo-Fr 09:30-12:30,14:00-18:00;Th off;Sa 09:30-12:30"

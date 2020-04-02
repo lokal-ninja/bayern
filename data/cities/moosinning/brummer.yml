@@ -5,7 +5,7 @@ latitude: 48.277675
 longitude: 11.780666100000001
 postcode: 85452
 city: Moosinning
-street: Münchner Straße
+street: "Münchner Straße"
 housenumber: 50
 phone: ""
 opening_hours: ""

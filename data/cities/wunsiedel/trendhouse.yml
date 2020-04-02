@@ -5,7 +5,7 @@ latitude: 50.036812100000006
 longitude: 12.003637600000001
 postcode: 95632
 city: Wunsiedel
-street: Ludwigstraße
+street: "Ludwigstraße"
 housenumber: 29
 phone: ""
 opening_hours: ""

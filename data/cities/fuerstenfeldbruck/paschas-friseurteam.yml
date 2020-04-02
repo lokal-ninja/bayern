@@ -5,7 +5,7 @@ latitude: 48.178852500000005
 longitude: 11.2516169
 postcode: 82256
 city: Fürstenfeldbruck
-street: Pucher Straße
+street: "Pucher Straße"
 housenumber: 30
 phone: "+49 8141 6253737"
 opening_hours: "Mo-Fr 09:00-19:00, Sa 08:00-14:00"

@@ -5,7 +5,7 @@ latitude: 48.164193600000004
 longitude: 12.169414100000001
 postcode: 83527
 city: Haag in Oberbayern
-street: Schäfflerstraße
+street: "Schäfflerstraße"
 housenumber: 8
 phone: "+49 8072 3707370"
 opening_hours: ""

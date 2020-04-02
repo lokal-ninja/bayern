@@ -5,7 +5,7 @@ latitude: 47.657417300000006
 longitude: 11.3152697
 postcode: 82444
 city: Schlehdorf
-street: Kocheler Straße
+street: "Kocheler Straße"
 housenumber: 22
 phone: "+49 8851 6159713"
 opening_hours: ""

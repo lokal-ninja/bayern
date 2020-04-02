@@ -5,7 +5,7 @@ latitude: 47.8990773
 longitude: 11.3613482
 postcode: 82541
 city: Münsing
-street: Hartlweg
+street: "Hartlweg"
 housenumber: 15
 phone: "+49 8177 9110"
 opening_hours: ""

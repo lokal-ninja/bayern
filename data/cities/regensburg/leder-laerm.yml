@@ -5,7 +5,7 @@ latitude: 49.0203119
 longitude: 12.101389000000001
 postcode: 
 city: Regensburg
-street: Sankt-Georgen-Platz
+street: "Sankt-Georgen-Platz"
 housenumber: 9
 phone: ""
 opening_hours: "Tu-Fr 08:00-14:00; Sa 09:00-12:00"

@@ -5,7 +5,7 @@ latitude: 49.3426537
 longitude: 12.1274358
 postcode: 92421
 city: Schwandorf
-street: Graf-von-Drechsel-Straße
+street: "Graf-von-Drechsel-Straße"
 housenumber: 11
 phone: "+49 9431 8536"
 opening_hours: "Mo-Th 07:30-12:00,13:30-17:00; Fr 08:00-14:00"

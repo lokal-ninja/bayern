@@ -5,7 +5,7 @@ latitude: 47.803351400000004
 longitude: 10.215501600000001
 postcode: 87452
 city: Altusried
-street: Kemptener Straße
+street: "Kemptener Straße"
 housenumber: 4
 phone: ""
 opening_hours: ""

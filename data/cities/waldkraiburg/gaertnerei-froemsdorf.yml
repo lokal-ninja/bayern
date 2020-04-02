@@ -5,7 +5,7 @@ latitude: 48.2105642
 longitude: 12.388603600000001
 postcode: 84478
 city: Waldkraiburg
-street: Hermann-Löns-Straße
+street: "Hermann-Löns-Straße"
 housenumber: 22
 phone: ""
 opening_hours: ""

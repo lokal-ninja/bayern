@@ -5,7 +5,7 @@ latitude: 47.844195400000004
 longitude: 11.1321603
 postcode: 82362
 city: Weilheim in Oberbayern
-street: Wessobrunner Straße
+street: "Wessobrunner Straße"
 housenumber: 15
 phone: "+49 881 64992"
 opening_hours: "Mo-Fr 05:30-17:30; Sa 05:30-11:00"

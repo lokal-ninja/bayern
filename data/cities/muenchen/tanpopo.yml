@@ -5,7 +5,7 @@ latitude: 48.1492081
 longitude: 11.545904100000001
 postcode: 80636
 city: München
-street: Maillingerstraße
+street: "Maillingerstraße"
 housenumber: 6
 phone: "+49 89 52055757"
 opening_hours: "Mo-Fr 07:00-18:00; Sa 09:30-16:00"

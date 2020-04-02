@@ -5,7 +5,7 @@ latitude: 48.1421427
 longitude: 11.6348462
 postcode: 81929
 city: München
-street: Eggenfeldener Straße
+street: "Eggenfeldener Straße"
 housenumber: 55
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.32407490000001
 longitude: 12.117065100000001
 postcode: 92421
 city: Schwandorf
-street: Wackersdorfer Straße
+street: "Wackersdorfer Straße"
 housenumber: 36
 phone: ""
 opening_hours: ""

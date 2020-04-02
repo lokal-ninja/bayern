@@ -5,7 +5,7 @@ latitude: 50.3770248
 longitude: 9.9096852
 postcode: 97772
 city: Wildflecken
-street: Sonnenstraße
+street: "Sonnenstraße"
 housenumber: 35
 phone: "+49 9745 1261"
 opening_hours: "Mo,Tu off; We-Fr 18:00-01:00, Sa,Su 10:00+"

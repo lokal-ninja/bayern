@@ -5,7 +5,7 @@ latitude: 48.2774908
 longitude: 10.840513300000001
 postcode: 86399
 city: Bobingen
-street: Augsburger Straße
+street: "Augsburger Straße"
 housenumber: 4
 phone: "+49 8234 8341"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.5123345
 longitude: 10.9533669
 postcode: 86447
 city: Aindling
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 10
 phone: "+49 8237 960844"
 opening_hours: ""

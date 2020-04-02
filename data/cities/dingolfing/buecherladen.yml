@@ -5,7 +5,7 @@ latitude: 48.6294947
 longitude: 12.4984926
 postcode: 84130
 city: Dingolfing
-street: Marienplatz
+street: "Marienplatz"
 housenumber: 11
 phone: "+49 8731 40153"
 opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00"

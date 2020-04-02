@@ -5,7 +5,7 @@ latitude: 49.470389100000006
 longitude: 11.0811109
 postcode: 90408
 city: Nürnberg
-street: Rollnerstraße
+street: "Rollnerstraße"
 housenumber: 133
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.0338958
 longitude: 12.5583194
 postcode: 83308
 city: Trostberg
-street: Altöttinger Straße
+street: "Altöttinger Straße"
 housenumber: 19
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off"

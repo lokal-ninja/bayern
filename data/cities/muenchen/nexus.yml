@@ -5,7 +5,7 @@ latitude: 48.160260300000004
 longitude: 11.5743738
 postcode: 80796
 city: München
-street: Hohenzollernstraße
+street: "Hohenzollernstraße"
 housenumber: 57
 phone: "+49 (0) 89 27 26 96 47"
 opening_hours: "Mo-Fr 09:00-19:30; Sa 09:00-18:00"

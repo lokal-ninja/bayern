@@ -5,7 +5,7 @@ latitude: 50.230583
 longitude: 11.7316512
 postcode: 95233
 city: Helmbrechts
-street: Gunterstraße
+street: "Gunterstraße"
 housenumber: 36
 phone: "+49925299550"
 opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-12:00"

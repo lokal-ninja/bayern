@@ -5,7 +5,7 @@ latitude: 50.09346600000001
 longitude: 9.055562100000001
 postcode: 63755
 city: Alzenau
-street: Emmy-Noether-Straße
+street: "Emmy-Noether-Straße"
 housenumber: 1
 phone: "+49 60239436960"
 opening_hours: "Su-Fr 09:30-19:00; Sa 08:00-15:00"

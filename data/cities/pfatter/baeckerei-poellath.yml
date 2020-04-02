@@ -5,7 +5,7 @@ latitude: 48.965304100000004
 longitude: 12.3816541
 postcode: 93102
 city: Pfatter
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 3
 phone: "+49 9481 205"
 opening_hours: ""

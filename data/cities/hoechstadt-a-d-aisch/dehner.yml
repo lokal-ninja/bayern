@@ -5,7 +5,7 @@ latitude: 49.706918
 longitude: 10.826071500000001
 postcode: 91315
 city: Höchstadt a.d.Aisch
-street: Kieferndorfer Weg
+street: "Kieferndorfer Weg"
 housenumber: 58A
 phone: "+49 9193 5035740"
 opening_hours: "Mo-Sa 09:00-20:00"

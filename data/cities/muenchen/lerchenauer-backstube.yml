@@ -5,7 +5,7 @@ latitude: 48.1958296
 longitude: 11.5465009
 postcode: 80935
 city: München
-street: Lerchenauer Straße
+street: "Lerchenauer Straße"
 housenumber: 190
 phone: "+49 89 358 92 888"
 opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-13:00; Su,PH 07:30-11:00"

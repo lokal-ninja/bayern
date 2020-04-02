@@ -5,7 +5,7 @@ latitude: 50.1738179
 longitude: 11.220979900000001
 postcode: 96257
 city: Redwitz a.d.Rodach
-street: Dr.-Ludwig-Vierling-Straße
+street: "Dr.-Ludwig-Vierling-Straße"
 housenumber: 2
 phone: ""
 opening_hours: ""

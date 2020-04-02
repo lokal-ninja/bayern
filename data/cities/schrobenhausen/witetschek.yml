@@ -5,7 +5,7 @@ latitude: 48.549388400000005
 longitude: 11.2746516
 postcode: 86529
 city: Schrobenhausen
-street: Berliner Straße
+street: "Berliner Straße"
 housenumber: 2
 phone: ""
 opening_hours: ""

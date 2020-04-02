@@ -5,7 +5,7 @@ latitude: 49.066940300000006
 longitude: 10.331049
 postcode: 91550
 city: Dinkelsbühl
-street: Von-Raumer-Straße
+street: "Von-Raumer-Straße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

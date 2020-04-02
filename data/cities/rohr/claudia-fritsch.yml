@@ -5,7 +5,7 @@ latitude: 48.7697334
 longitude: 11.969176800000001
 postcode: 93352
 city: Rohr
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 33
 phone: ""
 opening_hours: ""

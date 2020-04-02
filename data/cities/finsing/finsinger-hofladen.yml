@@ -5,7 +5,7 @@ latitude: 48.212154000000005
 longitude: 11.8195469
 postcode: 85464
 city: Finsing
-street: Geltinger Straße
+street: "Geltinger Straße"
 housenumber: 20
 phone: "+49 8121 79680"
 opening_hours: "Th-Fr 09:00-18:00, Sa 09:00-12:00"

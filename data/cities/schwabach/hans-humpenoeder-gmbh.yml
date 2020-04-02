@@ -5,7 +5,7 @@ latitude: 49.3380917
 longitude: 11.018393000000001
 postcode: 91126
 city: Schwabach
-street: Dr.-Haas-Straße
+street: "Dr.-Haas-Straße"
 housenumber: 24
 phone: ""
 opening_hours: ""

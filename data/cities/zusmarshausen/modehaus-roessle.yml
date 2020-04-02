@@ -5,7 +5,7 @@ latitude: 48.40078260000001
 longitude: 10.594601500000001
 postcode: 86441
 city: Zusmarshausen
-street: Ulmer Straße
+street: "Ulmer Straße"
 housenumber: 9
 phone: "+49 8291 1252"
 opening_hours: ""

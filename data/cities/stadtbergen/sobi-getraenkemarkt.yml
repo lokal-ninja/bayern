@@ -5,7 +5,7 @@ latitude: 48.3697998
 longitude: 10.8471138
 postcode: 86391
 city: Stadtbergen
-street: Hagenmähderstraße
+street: "Hagenmähderstraße"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

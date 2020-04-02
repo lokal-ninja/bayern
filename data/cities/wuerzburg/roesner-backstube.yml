@@ -5,7 +5,7 @@ latitude: 49.810041000000005
 longitude: 9.9861225
 postcode: 97076
 city: Würzburg
-street: Kurze Gasse
+street: "Kurze Gasse"
 housenumber: 8
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.657751100000006
 longitude: 11.4683986
 postcode: 85084
 city: Reichertshofen
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 11
 phone: ""
 opening_hours: ""

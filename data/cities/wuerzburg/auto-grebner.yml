@@ -5,7 +5,7 @@ latitude: 49.807527900000004
 longitude: 9.9027898
 postcode: 97080
 city: Würzburg
-street: Unterdürrbacher Straße
+street: "Unterdürrbacher Straße"
 housenumber: 110
 phone: ""
 opening_hours: "Mo-Fr 09:00-17:00"

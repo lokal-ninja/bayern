@@ -5,7 +5,7 @@ latitude: 47.741893100000006
 longitude: 12.138667100000001
 postcode: 83131
 city: Nußdorf am Inn
-street: Am Inn
+street: "Am Inn"
 housenumber: 4
 phone: ""
 opening_hours: "Mo,Tu,Th,Fr 08:00-12:00,14:00-19:00; Sa 08:00-16:00"

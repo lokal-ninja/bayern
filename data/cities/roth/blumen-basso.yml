@@ -5,7 +5,7 @@ latitude: 49.2497516
 longitude: 11.089775300000001
 postcode: 91154
 city: Roth
-street: Nürnberger Straße
+street: "Nürnberger Straße"
 housenumber: 17
 phone: ""
 opening_hours: ""

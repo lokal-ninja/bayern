@@ -5,7 +5,7 @@ latitude: 47.786827100000004
 longitude: 10.9270309
 postcode: 86971
 city: Peiting
-street: Grasweg
+street: "Grasweg"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"

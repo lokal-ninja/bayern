@@ -5,7 +5,7 @@ latitude: 49.476014600000006
 longitude: 11.0272096
 postcode: 90427
 city: Nürnberg
-street: Mühlweg
+street: "Mühlweg"
 housenumber: 89
 phone: ""
 opening_hours: "Fr 09:00-18:00; Sa 09:00-13:00"

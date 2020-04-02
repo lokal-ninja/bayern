@@ -5,7 +5,7 @@ latitude: 49.5951153
 longitude: 11.013888600000001
 postcode: 91054
 city: Erlangen
-street: Waldstraße
+street: "Waldstraße"
 housenumber: 24
 phone: "+49 9131 205147"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-13:00"

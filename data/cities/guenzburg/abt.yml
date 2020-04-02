@@ -5,7 +5,7 @@ latitude: 48.455736200000004
 longitude: 10.277801100000001
 postcode: 89312
 city: Günzburg
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 5
 phone: "+49 8221 930670"
 opening_hours: "Mo-Fr 09:30-18:30, Sa 09:30-14:00"

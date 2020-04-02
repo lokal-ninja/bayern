@@ -5,7 +5,7 @@ latitude: 49.436772000000005
 longitude: 11.0676409
 postcode: 90443
 city: Nürnberg
-street: Leibnizstraße
+street: "Leibnizstraße"
 housenumber: 33
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.252717600000004
 longitude: 10.5923777
 postcode: 
 city: Ansbach
-street: Faunstraße
+street: "Faunstraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

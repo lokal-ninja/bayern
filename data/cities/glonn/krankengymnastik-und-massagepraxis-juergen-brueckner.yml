@@ -5,7 +5,7 @@ latitude: 47.9861805
 longitude: 11.862343000000001
 postcode: 85625
 city: Glonn
-street: Wiesmühlstraße
+street: "Wiesmühlstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

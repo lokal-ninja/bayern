@@ -5,7 +5,7 @@ latitude: 48.3063597
 longitude: 13.143516
 postcode: 
 city: Ering
-street: Münchhamer Straße
+street: "Münchhamer Straße"
 housenumber: 7
 phone: "+49857391006"
 opening_hours: "Mo-Fr 08:00-12:00, 13:30-18:00; Sa 08:00-13:00"

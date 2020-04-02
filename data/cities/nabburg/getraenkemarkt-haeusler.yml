@@ -5,7 +5,7 @@ latitude: 49.453536500000006
 longitude: 12.191583600000001
 postcode: 92507
 city: Nabburg
-street: Angerweiher
+street: "Angerweiher"
 housenumber: 5a
 phone: ""
 opening_hours: ""

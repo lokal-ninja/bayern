@@ -5,7 +5,7 @@ latitude: 49.232832
 longitude: 11.671101400000001
 postcode: 92355
 city: Velburg
-street: Stadtplatz
+street: "Stadtplatz"
 housenumber: 7
 phone: ""
 opening_hours: ""

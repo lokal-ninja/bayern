@@ -5,7 +5,7 @@ latitude: 48.121269000000005
 longitude: 11.6762224
 postcode: 81825
 city: München
-street: Ickelsamerstraße
+street: "Ickelsamerstraße"
 housenumber: 38
 phone: ""
 opening_hours: ""

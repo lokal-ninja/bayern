@@ -5,7 +5,7 @@ latitude: 48.212285200000004
 longitude: 11.283168100000001
 postcode: 82216
 city: Maisach
-street: Maisacher Straße
+street: "Maisacher Straße"
 housenumber: 61
 phone: ""
 opening_hours: ""

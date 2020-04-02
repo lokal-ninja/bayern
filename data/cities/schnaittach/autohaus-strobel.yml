@@ -5,7 +5,7 @@ latitude: 49.56639800000001
 longitude: 11.336694000000001
 postcode: 91220
 city: Schnaittach
-street: Kirschenleite
+street: "Kirschenleite"
 housenumber: 20
 phone: "+499153926530"
 opening_hours: ""

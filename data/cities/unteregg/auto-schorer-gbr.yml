@@ -5,7 +5,7 @@ latitude: 47.964687500000004
 longitude: 10.469601
 postcode: 
 city: Unteregg
-street: Mindeltalstraße
+street: "Mindeltalstraße"
 housenumber: 27
 phone: "+49 8269 771"
 opening_hours: ""

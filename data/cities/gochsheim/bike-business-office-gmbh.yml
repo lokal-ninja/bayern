@@ -5,7 +5,7 @@ latitude: 50.0156478
 longitude: 10.2827123
 postcode: 97469
 city: Gochsheim
-street: Lindestraße
+street: "Lindestraße"
 housenumber: 7
 phone: "+49 9721 978054"
 opening_hours: "Mo-Fr 10:00-17:00"

@@ -5,7 +5,7 @@ latitude: 48.119549400000004
 longitude: 11.5455611
 postcode: 
 city: München
-street: Oberländerstraße
+street: "Oberländerstraße"
 housenumber: 24
 phone: "+49 89 89067506"
 opening_hours: "Mo-Fr 08:30-18:30; Sa 08:00-13:00"

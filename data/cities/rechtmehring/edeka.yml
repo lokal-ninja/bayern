@@ -5,7 +5,7 @@ latitude: 48.125227800000005
 longitude: 12.1601586
 postcode: 83562
 city: Rechtmehring
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

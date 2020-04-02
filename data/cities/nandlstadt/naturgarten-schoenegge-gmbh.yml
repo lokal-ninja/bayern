@@ -5,7 +5,7 @@ latitude: 48.5208145
 longitude: 11.7658816
 postcode: 85405
 city: Nandlstadt
-street: Meilendorf
+street: "Meilendorf"
 housenumber: 20
 phone: "+49 8168 96 080"
 opening_hours: "Tu,Fr 15:00-19:00"

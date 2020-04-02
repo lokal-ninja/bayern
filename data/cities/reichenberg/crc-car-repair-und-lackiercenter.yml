@@ -5,7 +5,7 @@ latitude: 49.690139900000005
 longitude: 9.943599800000001
 postcode: 97234
 city: Reichenberg
-street: Georg-Heinrich-Appl-Straße
+street: "Georg-Heinrich-Appl-Straße"
 housenumber: 14
 phone: ""
 opening_hours: ""

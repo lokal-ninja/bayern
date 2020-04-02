@@ -5,7 +5,7 @@ latitude: 49.7950304
 longitude: 12.1640153
 postcode: 92670
 city: Windischeschenbach
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 40
 phone: "+49 9681 1223"
 opening_hours: ""

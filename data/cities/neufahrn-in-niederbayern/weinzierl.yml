@@ -5,7 +5,7 @@ latitude: 48.7348939
 longitude: 12.190182100000001
 postcode: 84088
 city: Neufahrn in Niederbayern
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 47
 phone: ""
 opening_hours: ""

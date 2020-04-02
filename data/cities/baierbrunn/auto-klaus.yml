@@ -5,7 +5,7 @@ latitude: 48.01863710000001
 longitude: 11.4752522
 postcode: 82065
 city: Baierbrunn
-street: Schorner Straße
+street: "Schorner Straße"
 housenumber: 
 phone: ""
 opening_hours: "Mo-Th 08:00-17:00; Fr 08:00-15:00; PH off"

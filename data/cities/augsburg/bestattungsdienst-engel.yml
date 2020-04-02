@@ -5,7 +5,7 @@ latitude: 48.4025662
 longitude: 10.897112900000002
 postcode: 86169
 city: Augsburg
-street: Sankt-Lukas-Straße
+street: "Sankt-Lukas-Straße"
 housenumber: 33g
 phone: ""
 opening_hours: ""

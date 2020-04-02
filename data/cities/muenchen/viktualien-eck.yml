@@ -5,7 +5,7 @@ latitude: 48.164080600000005
 longitude: 11.6287126
 postcode: 81925
 city: München
-street: Cosimastraße
+street: "Cosimastraße"
 housenumber: 121
 phone: ""
 opening_hours: "Mo-Fr 07:00-19:00, Sa 07:00-16:00"

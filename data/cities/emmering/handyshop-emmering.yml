@@ -5,7 +5,7 @@ latitude: 48.1838545
 longitude: 11.273673500000001
 postcode: 82275
 city: Emmering
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 18
 phone: "+49 8141 3631990"
 opening_hours: "Mo-Fr 09:30-12:30,14:00-18:00; We,Sa 09:30-12:30"

@@ -5,7 +5,7 @@ latitude: 48.151661000000004
 longitude: 11.6855457
 postcode: 85609
 city: Aschheim
-street: Ohmstraße
+street: "Ohmstraße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

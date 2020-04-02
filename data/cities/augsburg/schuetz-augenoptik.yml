@@ -5,7 +5,7 @@ latitude: 48.340504700000004
 longitude: 10.8682899
 postcode: 86199
 city: Augsburg
-street: Bürgermeister-Aurnhammer-Straße
+street: "Bürgermeister-Aurnhammer-Straße"
 housenumber: 13
 phone: "+49 821 993532"
 opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-12:00"

@@ -5,7 +5,7 @@ latitude: 49.718220300000006
 longitude: 11.064532900000001
 postcode: 91301
 city: Forchheim
-street: Dreikirchenstraße
+street: "Dreikirchenstraße"
 housenumber: 19
 phone: ""
 opening_hours: ""

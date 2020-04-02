@@ -5,7 +5,7 @@ latitude: 48.976672400000005
 longitude: 12.157821
 postcode: 93083
 city: Obertraubling
-street: Ernst-Frenzel-Straße
+street: "Ernst-Frenzel-Straße"
 housenumber: 10
 phone: ""
 opening_hours: ""

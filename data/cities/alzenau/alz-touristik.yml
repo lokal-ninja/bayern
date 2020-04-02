@@ -5,7 +5,7 @@ latitude: 50.0841453
 longitude: 9.073111
 postcode: 63755
 city: Alzenau
-street: Wasserloser Straße
+street: "Wasserloser Straße"
 housenumber: 9
 phone: "+49 6023 8888"
 opening_hours: ""

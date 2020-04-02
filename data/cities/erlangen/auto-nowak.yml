@@ -5,7 +5,7 @@ latitude: 49.5627975
 longitude: 10.927627600000001
 postcode: 91056
 city: Erlangen
-street: Neuseser Straße
+street: "Neuseser Straße"
 housenumber: 11
 phone: "+4991325426"
 opening_hours: "Mo-Fr 08:00-18:00"

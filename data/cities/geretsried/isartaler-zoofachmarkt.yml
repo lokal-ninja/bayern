@@ -5,7 +5,7 @@ latitude: 47.8560882
 longitude: 11.4897253
 postcode: 82538
 city: Geretsried
-street: Sudetenstraße
+street: "Sudetenstraße"
 housenumber: 47a
 phone: ""
 opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-13:00"

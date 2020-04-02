@@ -5,7 +5,7 @@ latitude: 49.7972825
 longitude: 9.937028600000001
 postcode: 97070
 city: Würzburg
-street: Semmelstraße
+street: "Semmelstraße"
 housenumber: 37
 phone: ""
 opening_hours: ""

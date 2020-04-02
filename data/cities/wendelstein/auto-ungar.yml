@@ -5,7 +5,7 @@ latitude: 49.365631
 longitude: 11.162887600000001
 postcode: 90530
 city: Wendelstein
-street: In der Lach
+street: "In der Lach"
 housenumber: 68
 phone: "+49 9129 4055520"
 opening_hours: "Mo-Fr 08:30-17:00"

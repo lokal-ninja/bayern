@@ -5,7 +5,7 @@ latitude: 49.751212
 longitude: 10.774219400000002
 postcode: 96172
 city: Mühlhausen
-street: Höchstadter Straße
+street: "Höchstadter Straße"
 housenumber: 15
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-14:00"

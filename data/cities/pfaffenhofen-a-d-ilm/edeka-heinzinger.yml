@@ -5,7 +5,7 @@ latitude: 48.5340617
 longitude: 11.491103800000001
 postcode: 85276
 city: Pfaffenhofen a.d. Ilm
-street: Hohenwarter Straße
+street: "Hohenwarter Straße"
 housenumber: 81
 phone: "+49 8441 72270"
 opening_hours: "Mo-Sa 07:00-20:00"

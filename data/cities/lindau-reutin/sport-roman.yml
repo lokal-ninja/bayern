@@ -5,7 +5,7 @@ latitude: 47.553062600000004
 longitude: 9.702416000000001
 postcode: 88131
 city: Lindau-Reutin
-street: Bregenzer Straße
+street: "Bregenzer Straße"
 housenumber: 49
 phone: ""
 opening_hours: ""

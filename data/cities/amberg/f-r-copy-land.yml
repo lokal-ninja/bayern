@@ -5,7 +5,7 @@ latitude: 49.4467426
 longitude: 11.849476500000002
 postcode: 92224
 city: Amberg
-street: Kaiser-Wilhelm-Ring
+street: "Kaiser-Wilhelm-Ring"
 housenumber: 29
 phone: "+49 09621 470152"
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:30"

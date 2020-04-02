@@ -5,7 +5,7 @@ latitude: 47.817652800000005
 longitude: 10.5381824
 postcode: 87648
 city: Aitrang
-street: Lindenstraße
+street: "Lindenstraße"
 housenumber: 50
 phone: ""
 opening_hours: ""

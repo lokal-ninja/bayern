@@ -5,7 +5,7 @@ latitude: 49.5927462
 longitude: 11.0040733
 postcode: 91052
 city: Erlangen
-street: Nürnberger Straße
+street: "Nürnberger Straße"
 housenumber: 7
 phone: "+49 9131 9733888"
 opening_hours: "Mo-Sa 09:30-20:00"

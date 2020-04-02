@@ -5,7 +5,7 @@ latitude: 48.4004124
 longitude: 11.746231
 postcode: 85354
 city: Freising
-street: Fischergasse
+street: "Fischergasse"
 housenumber: 15
 phone: "+49 8161 885192"
 opening_hours: "Termine nur telefonisch"

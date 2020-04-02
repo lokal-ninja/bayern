@@ -5,7 +5,7 @@ latitude: 48.0785215
 longitude: 11.969224
 postcode: 85560
 city: Ebersberg
-street: Marienplatz
+street: "Marienplatz"
 housenumber: 5
 phone: ""
 opening_hours: ""

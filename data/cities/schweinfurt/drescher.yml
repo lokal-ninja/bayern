@@ -5,7 +5,7 @@ latitude: 50.0572959
 longitude: 10.234913
 postcode: 97422
 city: Schweinfurt
-street: Birkenstraße
+street: "Birkenstraße"
 housenumber: 11
 phone: ""
 opening_hours: "Mo 06:00-12:30; Tu-Fr 06:00-18:00; Sa 06:00-12:30"

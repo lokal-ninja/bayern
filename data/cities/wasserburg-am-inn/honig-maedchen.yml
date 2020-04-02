@@ -5,7 +5,7 @@ latitude: 48.0614331
 longitude: 12.230853300000001
 postcode: 83512
 city: Wasserburg am Inn
-street: Färbergasse
+street: "Färbergasse"
 housenumber: 11
 phone: ""
 opening_hours: ""

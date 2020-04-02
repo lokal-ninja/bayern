@@ -5,7 +5,7 @@ latitude: 48.155459900000004
 longitude: 11.5108859
 postcode: 80639
 city: München
-street: Romanplatz
+street: "Romanplatz"
 housenumber: 4
 phone: ""
 opening_hours: ""

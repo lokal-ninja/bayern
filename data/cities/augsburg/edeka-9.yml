@@ -5,7 +5,7 @@ latitude: 48.3975318
 longitude: 10.856126100000001
 postcode: 86156
 city: Augsburg
-street: Zaunkönigweg
+street: "Zaunkönigweg"
 housenumber: 4
 phone: ""
 opening_hours: ""

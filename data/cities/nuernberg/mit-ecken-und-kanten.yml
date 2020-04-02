@@ -5,7 +5,7 @@ latitude: 49.4432215
 longitude: 11.097135300000001
 postcode: 90478
 city: Nürnberg
-street: Harsdörfferstraße
+street: "Harsdörfferstraße"
 housenumber: 27
 phone: ""
 opening_hours: ""

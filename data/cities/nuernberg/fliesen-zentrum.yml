@@ -5,7 +5,7 @@ latitude: 49.452320400000005
 longitude: 11.0132843
 postcode: 90431
 city: Nürnberg
-street: Sigmundstraße
+street: "Sigmundstraße"
 housenumber: 110
 phone: "+49 911 3001130 0"
 opening_hours: ""

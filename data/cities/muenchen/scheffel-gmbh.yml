@@ -5,7 +5,7 @@ latitude: 48.1112313
 longitude: 11.655648900000001
 postcode: 
 city: München
-street: Zehntfeldstraße
+street: "Zehntfeldstraße"
 housenumber: 174
 phone: ""
 opening_hours: ""

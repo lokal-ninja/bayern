@@ -5,7 +5,7 @@ latitude: 48.5547909
 longitude: 13.4113979
 postcode: 94036
 city: Passau
-street: Messestraße
+street: "Messestraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

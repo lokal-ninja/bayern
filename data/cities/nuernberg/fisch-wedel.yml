@@ -5,7 +5,7 @@ latitude: 49.5162496
 longitude: 11.0311673
 postcode: 90427
 city: Nürnberg
-street: Am Sportplatz
+street: "Am Sportplatz"
 housenumber: 4
 phone: "+49 911 302785"
 opening_hours: "Sep-Apr: Sa 08:00-12:00"

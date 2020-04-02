@@ -5,7 +5,7 @@ latitude: 48.397876000000004
 longitude: 10.929677900000002
 postcode: 86167
 city: Augsburg
-street: Bürgermeister-Wegele-Straße
+street: "Bürgermeister-Wegele-Straße"
 housenumber: 21
 phone: ""
 opening_hours: ""

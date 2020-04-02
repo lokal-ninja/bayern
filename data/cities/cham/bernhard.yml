@@ -5,7 +5,7 @@ latitude: 49.2190511
 longitude: 12.665067
 postcode: 93413
 city: Cham
-street: Hafnerstraße
+street: "Hafnerstraße"
 housenumber: 2
 phone: "+49-9971-2298"
 opening_hours: ""

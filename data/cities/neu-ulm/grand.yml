@@ -5,7 +5,7 @@ latitude: 48.363241300000006
 longitude: 10.0118089
 postcode: 89231
 city: Neu-Ulm
-street: Biberkopfweg
+street: "Biberkopfweg"
 housenumber: 1
 phone: "+49 731 9809690"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"

@@ -5,7 +5,7 @@ latitude: 48.135811100000005
 longitude: 11.572018
 postcode: 80331
 city: München
-street: Sendlinger Straße
+street: "Sendlinger Straße"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Sa 10:00-19:00"

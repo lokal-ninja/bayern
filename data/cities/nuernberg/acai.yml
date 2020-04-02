@@ -5,7 +5,7 @@ latitude: 49.433486
 longitude: 11.0405312
 postcode: 90439
 city: Nürnberg
-street: Geisseestraße
+street: "Geisseestraße"
 housenumber: 89
 phone: ""
 opening_hours: ""

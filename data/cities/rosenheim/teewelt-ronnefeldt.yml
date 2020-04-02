@@ -5,7 +5,7 @@ latitude: 47.856431900000004
 longitude: 12.129212800000001
 postcode: 83022
 city: Rosenheim
-street: Ludwigsplatz
+street: "Ludwigsplatz"
 housenumber: 9
 phone: "+49 8031 8073963"
 opening_hours: "Mo-Fr 10:30-18:30; Sa 9:00-14:30; Su,PH off"

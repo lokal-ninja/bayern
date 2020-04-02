@@ -5,7 +5,7 @@ latitude: 48.3780359
 longitude: 10.887667800000001
 postcode: 86153
 city: Augsburg
-street: Wolfgangstraße
+street: "Wolfgangstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 08:00-18:00"

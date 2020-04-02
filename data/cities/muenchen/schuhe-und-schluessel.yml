@@ -5,7 +5,7 @@ latitude: 48.095744100000005
 longitude: 11.4954912
 postcode: 81476
 city: München
-street: Winterthurer Straße
+street: "Winterthurer Straße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Fr 09:00-13:00,14:00-18:30; Sa 9:00-14:00;PH off"

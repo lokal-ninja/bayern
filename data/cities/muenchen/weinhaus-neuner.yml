@@ -5,7 +5,7 @@ latitude: 48.137731200000005
 longitude: 11.568387000000001
 postcode: 80331
 city: München
-street: Herzogspitalstraße
+street: "Herzogspitalstraße"
 housenumber: 8
 phone: "+49 89 2603954"
 opening_hours: "Mo-Su 12:00 - 00:00"

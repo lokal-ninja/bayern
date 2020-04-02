@@ -5,7 +5,7 @@ latitude: 47.8629789
 longitude: 12.008386100000001
 postcode: 83043
 city: Bad Aibling
-street: Irlachstraße
+street: "Irlachstraße"
 housenumber: 18
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00;Sa 09:00-12:00"

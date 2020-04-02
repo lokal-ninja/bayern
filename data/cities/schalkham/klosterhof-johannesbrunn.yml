@@ -5,7 +5,7 @@ latitude: 48.477303400000004
 longitude: 12.4626753
 postcode: 84175
 city: Schalkham
-street: Klosterstraße
+street: "Klosterstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Nach Vereinbarung"

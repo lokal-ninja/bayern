@@ -5,7 +5,7 @@ latitude: 49.290665700000005
 longitude: 10.7897818
 postcode: 91564
 city: Neuendettelsau
-street: Heilsbronner Straße
+street: "Heilsbronner Straße"
 housenumber: 18
 phone: "+49 9874 6899686"
 opening_hours: "Mo-Fr 06:00-20:00; Sa,Su 07:00-20:00"

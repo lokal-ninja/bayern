@@ -5,7 +5,7 @@ latitude: 49.8175369
 longitude: 10.9866723
 postcode: 96114
 city: Hirschaid
-street: Bamberger Straße
+street: "Bamberger Straße"
 housenumber: 12
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

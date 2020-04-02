@@ -5,7 +5,7 @@ latitude: 48.1536892
 longitude: 11.5088656
 postcode: 80639
 city: München
-street: Wotanstraße
+street: "Wotanstraße"
 housenumber: 105
 phone: ""
 opening_hours: ""

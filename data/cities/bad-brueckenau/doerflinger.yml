@@ -5,7 +5,7 @@ latitude: 50.310250800000006
 longitude: 9.792282700000001
 postcode: 97769
 city: Bad Brückenau
-street: Marktgasse
+street: "Marktgasse"
 housenumber: 5
 phone: ""
 opening_hours: ""

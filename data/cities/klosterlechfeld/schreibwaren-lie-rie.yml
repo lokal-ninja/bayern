@@ -5,7 +5,7 @@ latitude: 48.1585466
 longitude: 10.832101600000001
 postcode: 86836
 city: Klosterlechfeld
-street: Bayernstraße
+street: "Bayernstraße"
 housenumber: 3
 phone: "+49 8232 4887"
 opening_hours: "Mo-Fr 08:00-12:30,14:00-18:00; Sa 08:00-12:30"

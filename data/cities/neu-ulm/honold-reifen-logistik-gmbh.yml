@@ -5,7 +5,7 @@ latitude: 48.3979482
 longitude: 10.0378646
 postcode: 89231
 city: Neu-Ulm
-street: Ernst-Abbe-Straße
+street: "Ernst-Abbe-Straße"
 housenumber: 4
 phone: ""
 opening_hours: ""

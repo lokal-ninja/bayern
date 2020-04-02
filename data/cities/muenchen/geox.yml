@@ -5,7 +5,7 @@ latitude: 48.135375800000006
 longitude: 11.5751541
 postcode: 80331
 city: München
-street: Rosental
+street: "Rosental"
 housenumber: 7
 phone: ""
 opening_hours: ""

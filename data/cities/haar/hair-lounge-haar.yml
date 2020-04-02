@@ -5,7 +5,7 @@ latitude: 48.108141200000006
 longitude: 11.7231204
 postcode: 85540
 city: Haar
-street: Jagdfeldring
+street: "Jagdfeldring"
 housenumber: 91
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-15:00; PH off"

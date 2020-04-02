@@ -5,7 +5,7 @@ latitude: 49.456193500000005
 longitude: 11.0957652
 postcode: 90489
 city: Nürnberg
-street: Georg-Strobel-Straße
+street: "Georg-Strobel-Straße"
 housenumber: 29
 phone: "+49 911 5592 44"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 47.891926000000005
 longitude: 11.42125
 postcode: 82538
 city: Geretsried
-street: Loisachweg
+street: "Loisachweg"
 housenumber: 5a
 phone: "+49 8171 10874"
 opening_hours: ""

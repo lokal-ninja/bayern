@@ -5,7 +5,7 @@ latitude: 49.511639300000006
 longitude: 11.0055549
 postcode: 90765
 city: Fürth
-street: Gründlacher Straße
+street: "Gründlacher Straße"
 housenumber: 311
 phone: ""
 opening_hours: "Mo-Fr 10:00-19:00, Sa 09:30-18:00"

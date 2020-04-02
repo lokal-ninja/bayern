@@ -5,7 +5,7 @@ latitude: 49.0517022
 longitude: 12.090280900000002
 postcode: 93138
 city: Lappersdorf
-street: Pielmühler Straße
+street: "Pielmühler Straße"
 housenumber: 5
 phone: "+49 941 80829"
 opening_hours: ""

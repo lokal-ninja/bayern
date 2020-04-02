@@ -5,7 +5,7 @@ latitude: 49.3025639
 longitude: 10.163219600000001
 postcode: 91610
 city: Insingen
-street: Hintere Gasse
+street: "Hintere Gasse"
 housenumber: 1
 phone: ""
 opening_hours: ""

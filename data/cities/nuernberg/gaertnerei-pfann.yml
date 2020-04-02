@@ -5,7 +5,7 @@ latitude: 49.499285
 longitude: 11.042882500000001
 postcode: 90427
 city: Nürnberg
-street: Braunsbacher Weg
+street: "Braunsbacher Weg"
 housenumber: 10
 phone: "+49 911 - 5443110"
 opening_hours: ""

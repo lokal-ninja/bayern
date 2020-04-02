@@ -5,7 +5,7 @@ latitude: 48.4030773
 longitude: 11.7465629
 postcode: 85354
 city: Freising
-street: Kammergasse
+street: "Kammergasse"
 housenumber: 2
 phone: "+49-8161-62071"
 opening_hours: "Mo-Fr 08:00-17:00||Oder nach vorheriger telefonischer Vereinbarung."

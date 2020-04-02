@@ -5,7 +5,7 @@ latitude: 48.182858700000004
 longitude: 10.757509800000001
 postcode: 86830
 city: Schwabmünchen
-street: Fuggerstraße
+street: "Fuggerstraße"
 housenumber: 43
 phone: "+49 8232 71771"
 opening_hours: "Tu,We 08:30-18:00; Th 08:30-19:00; Fr 08:00-13:00; Sa 08:00-13:00"

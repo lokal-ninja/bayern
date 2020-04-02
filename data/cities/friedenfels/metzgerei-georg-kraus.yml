@@ -5,7 +5,7 @@ latitude: 49.881368
 longitude: 12.103418600000001
 postcode: 95688
 city: Friedenfels
-street: Gemmingen-Straße
+street: "Gemmingen-Straße"
 housenumber: 9
 phone: "+499683257"
 opening_hours: ""

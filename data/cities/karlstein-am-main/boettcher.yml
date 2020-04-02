@@ -5,7 +5,7 @@ latitude: 50.0479983
 longitude: 9.0115744
 postcode: 63791
 city: Karlstein am Main
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 25
 phone: ""
 opening_hours: ""

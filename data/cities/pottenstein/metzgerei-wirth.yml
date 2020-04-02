@@ -5,7 +5,7 @@ latitude: 49.736467100000006
 longitude: 11.4205465
 postcode: 91278
 city: Pottenstein
-street: Kühlenfelser Straße
+street: "Kühlenfelser Straße"
 housenumber: 44
 phone: "+49 9243 90242"
 opening_hours: ""

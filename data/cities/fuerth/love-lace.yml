@@ -5,7 +5,7 @@ latitude: 49.4786717
 longitude: 10.989891400000001
 postcode: 90762
 city: Fürth
-street: Gustavstraße
+street: "Gustavstraße"
 housenumber: 12
 phone: ""
 opening_hours: "Mo-Su off || nur nach Vereinbarung"

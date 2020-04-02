@@ -5,7 +5,7 @@ latitude: 49.8720791
 longitude: 12.340878100000001
 postcode: 95643
 city: Tirschenreuth
-street: Mitterweg
+street: "Mitterweg"
 housenumber: 1
 phone: "+49 800 200 0015"
 opening_hours: ""

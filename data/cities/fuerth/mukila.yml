@@ -5,7 +5,7 @@ latitude: 49.4707075
 longitude: 10.9920521
 postcode: 90762
 city: Fürth
-street: Bahnhofplatz
+street: "Bahnhofplatz"
 housenumber: 6
 phone: "+49 911 50720111"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.5268917
 longitude: 12.162350400000001
 postcode: 84036
 city: Landshut
-street: Adelmannstraße
+street: "Adelmannstraße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-12:30; Su 08:00-11:00; PH 08:00-11:00"

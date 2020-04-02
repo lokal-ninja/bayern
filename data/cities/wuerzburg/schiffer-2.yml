@@ -5,7 +5,7 @@ latitude: 49.791553300000004
 longitude: 9.9451344
 postcode: 97072
 city: Würzburg
-street: Sankt-Benedikt-Straße
+street: "Sankt-Benedikt-Straße"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Fr 05:30-18:00;Sa 05:30-13:00;Su,PH off"

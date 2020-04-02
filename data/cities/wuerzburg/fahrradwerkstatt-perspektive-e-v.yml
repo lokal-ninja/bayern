@@ -5,7 +5,7 @@ latitude: 49.729114900000006
 longitude: 9.9628764
 postcode: 97084
 city: Würzburg
-street: Max-Mengeringhausen-Straße
+street: "Max-Mengeringhausen-Straße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Th 11:00-19:00"

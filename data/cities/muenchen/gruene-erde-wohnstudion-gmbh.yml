@@ -5,7 +5,7 @@ latitude: 48.1343371
 longitude: 11.5762908
 postcode: 80469
 city: München
-street: Frauenstraße
+street: "Frauenstraße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00"

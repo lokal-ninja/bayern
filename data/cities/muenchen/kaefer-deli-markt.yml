@@ -5,7 +5,7 @@ latitude: 48.0773731
 longitude: 11.5198636
 postcode: 81479
 city: München
-street: Frans-Hals-Straße
+street: "Frans-Hals-Straße"
 housenumber: 31
 phone: "+49 89 4168 470"
 opening_hours: "Mo-Sa 09:00-20:00"

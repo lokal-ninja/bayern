@@ -5,7 +5,7 @@ latitude: 49.4426641
 longitude: 11.124411100000001
 postcode: 90480
 city: Nürnberg
-street: Zerzabelshofer Hauptstraße
+street: "Zerzabelshofer Hauptstraße"
 housenumber: 20
 phone: ""
 opening_hours: "Tu-Fr 10:00-18:00; Sa 10:00-13:00"

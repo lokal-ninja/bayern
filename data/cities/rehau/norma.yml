@@ -5,7 +5,7 @@ latitude: 50.2510886
 longitude: 12.044488000000001
 postcode: 95111
 city: Rehau
-street: Unlitzstraße
+street: "Unlitzstraße"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

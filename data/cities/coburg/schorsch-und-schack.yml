@@ -5,7 +5,7 @@ latitude: 50.2486286
 longitude: 10.9640979
 postcode: 96450
 city: Coburg
-street: Bamberger Straße
+street: "Bamberger Straße"
 housenumber: 34
 phone: "+49 9561 28909"
 opening_hours: "Mo-Fr 06:00-18:00; Sa 07:00-16:00"

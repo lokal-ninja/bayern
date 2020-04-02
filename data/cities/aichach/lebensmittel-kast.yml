@@ -5,7 +5,7 @@ latitude: 48.443489400000004
 longitude: 11.056082
 postcode: 86551
 city: Aichach
-street: Lorenzstraße
+street: "Lorenzstraße"
 housenumber: 29
 phone: ""
 opening_hours: ""

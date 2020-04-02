@@ -5,7 +5,7 @@ latitude: 49.787054000000005
 longitude: 9.924389300000001
 postcode: 97082
 city: Würzburg
-street: Mergentheimer Straße
+street: "Mergentheimer Straße"
 housenumber: 12
 phone: ""
 opening_hours: ""

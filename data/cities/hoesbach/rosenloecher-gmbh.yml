@@ -5,7 +5,7 @@ latitude: 50.0093097
 longitude: 9.217424600000001
 postcode: 63768
 city: Hösbach
-street: Frohnradstraße
+street: "Frohnradstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

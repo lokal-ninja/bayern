@@ -5,7 +5,7 @@ latitude: 48.6901985
 longitude: 10.920324200000001
 postcode: 86641
 city: Rain
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

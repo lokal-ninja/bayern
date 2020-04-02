@@ -5,7 +5,7 @@ latitude: 48.1705273
 longitude: 12.8362639
 postcode: 84489
 city: Burghausen
-street: Wackerstraße
+street: "Wackerstraße"
 housenumber: 49
 phone: "+49 8677 3333"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.3717077
 longitude: 10.7176259
 postcode: 86500
 city: Kutzenhausen
-street: Biburger Straße
+street: "Biburger Straße"
 housenumber: 26
 phone: "+49 8294 1452"
 opening_hours: "Mo-Th 08:00-17:00; Fr 08:00-15:00"

@@ -5,7 +5,7 @@ latitude: 49.5937622
 longitude: 11.015721800000001
 postcode: 91052
 city: Erlangen
-street: Henkestraße
+street: "Henkestraße"
 housenumber: 70
 phone: "+49 9131 21091"
 opening_hours: ""

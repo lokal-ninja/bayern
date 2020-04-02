@@ -5,7 +5,7 @@ latitude: 48.1585484
 longitude: 11.5853829
 postcode: 80802
 city: München
-street: Leopoldstraße
+street: "Leopoldstraße"
 housenumber: 54
 phone: ""
 opening_hours: "Tu-Fr 08:00-18:00; Sa 08:00-13:00"

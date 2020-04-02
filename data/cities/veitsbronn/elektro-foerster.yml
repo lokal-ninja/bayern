@@ -5,7 +5,7 @@ latitude: 49.5077074
 longitude: 10.880822700000001
 postcode: 90587
 city: Veitsbronn
-street: Fürther Straße
+street: "Fürther Straße"
 housenumber: 14
 phone: "+49 911 751104"
 opening_hours: ""

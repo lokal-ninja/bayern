@@ -5,7 +5,7 @@ latitude: 47.8663013
 longitude: 12.0016528
 postcode: 83043
 city: Bad Aibling
-street: Münchner Straße
+street: "Münchner Straße"
 housenumber: 35
 phone: ""
 opening_hours: "Mo-Sa 09:00-20:00; SU,PH off"

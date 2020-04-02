@@ -5,7 +5,7 @@ latitude: 49.76905
 longitude: 9.943143500000001
 postcode: 97084
 city: Würzburg
-street: Wiesenweg
+street: "Wiesenweg"
 housenumber: 12
 phone: ""
 opening_hours: ""

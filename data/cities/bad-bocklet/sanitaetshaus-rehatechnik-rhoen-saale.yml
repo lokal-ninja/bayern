@@ -5,7 +5,7 @@ latitude: 50.2675275
 longitude: 10.0733431
 postcode: 97708
 city: Bad Bocklet
-street: Kleinfeldlein
+street: "Kleinfeldlein"
 housenumber: 3
 phone: "+49 9708 7056480"
 opening_hours: "Mo-Th 09:00-13:00,14:00-18:00; We,Fr 09:00-13:00"

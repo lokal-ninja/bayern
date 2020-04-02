@@ -5,7 +5,7 @@ latitude: 49.45022650000001
 longitude: 11.052306000000002
 postcode: 90429
 city: Nürnberg
-street: Adam-Klein-Straße
+street: "Adam-Klein-Straße"
 housenumber: 15
 phone: "+49 911 289138"
 opening_hours: ""

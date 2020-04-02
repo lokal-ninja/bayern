@@ -5,7 +5,7 @@ latitude: 49.719279
 longitude: 12.1588057
 postcode: 92665
 city: Altenstadt a.d. Waldnaab
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

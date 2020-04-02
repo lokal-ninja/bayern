@@ -5,7 +5,7 @@ latitude: 48.144028500000005
 longitude: 11.5789024
 postcode: 80539
 city: München
-street: Galeriestraße
+street: "Galeriestraße"
 housenumber: 2
 phone: "+49 89 222 056"
 opening_hours: ""

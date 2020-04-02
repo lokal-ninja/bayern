@@ -5,7 +5,7 @@ latitude: 48.4581572
 longitude: 11.130069
 postcode: 86551
 city: Aichach
-street: Stadtplatz
+street: "Stadtplatz"
 housenumber: 38
 phone: "+49 8251 8890440"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-14:00"

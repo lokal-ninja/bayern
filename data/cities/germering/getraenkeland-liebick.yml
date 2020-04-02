@@ -5,7 +5,7 @@ latitude: 48.133958400000004
 longitude: 11.385589300000001
 postcode: 82110
 city: Germering
-street: Sankt-Cäcilia-Straße
+street: "Sankt-Cäcilia-Straße"
 housenumber: 14
 phone: "+49-89-842318"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 08:30-13:00"

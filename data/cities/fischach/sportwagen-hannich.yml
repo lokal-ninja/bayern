@@ -5,7 +5,7 @@ latitude: 48.290991600000005
 longitude: 10.653111200000001
 postcode: 86850
 city: Fischach
-street: Poststraße
+street: "Poststraße"
 housenumber: 16
 phone: ""
 opening_hours: ""

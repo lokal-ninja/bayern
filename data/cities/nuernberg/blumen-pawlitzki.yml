@@ -5,7 +5,7 @@ latitude: 49.4361176
 longitude: 11.025200100000001
 postcode: 90431
 city: Nürnberg
-street: Wallensteinstraße
+street: "Wallensteinstraße"
 housenumber: 128a
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 47.9918375
 longitude: 12.3074542
 postcode: 83123
 city: Amerang
-street: Wasserburger Straße
+street: "Wasserburger Straße"
 housenumber: 10
 phone: "+49 8075 9149352"
 opening_hours: "Mo-Fr 06:00-18:00; Sa, Su 07:00-12:00"

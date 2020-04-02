@@ -5,7 +5,7 @@ latitude: 49.4330377
 longitude: 10.9499657
 postcode: 90513
 city: Zirndorf
-street: Plauener Straße
+street: "Plauener Straße"
 housenumber: 38
 phone: "+49 911 7871070"
 opening_hours: ""

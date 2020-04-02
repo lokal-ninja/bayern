@@ -5,7 +5,7 @@ latitude: 48.4449703
 longitude: 11.1426224
 postcode: 86551
 city: Aichach
-street: Robert-Bosch-Straße
+street: "Robert-Bosch-Straße"
 housenumber: 23
 phone: ""
 opening_hours: ""

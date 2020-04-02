@@ -5,7 +5,7 @@ latitude: 48.212693400000006
 longitude: 12.8867264
 postcode: 84533
 city: Haiming
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 16
 phone: ""
 opening_hours: ""

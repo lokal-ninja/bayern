@@ -5,7 +5,7 @@ latitude: 50.240540900000006
 longitude: 11.718111200000001
 postcode: 95233
 city: Helmbrechts
-street: Schwarzenbacher Straße
+street: "Schwarzenbacher Straße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo,Tu,Th,Fr 08:30-12:30,14:00-18:00; We,Sa 08:30-13:00; Su off"

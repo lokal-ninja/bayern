@@ -5,7 +5,7 @@ latitude: 49.6638346
 longitude: 11.090330000000002
 postcode: 91090
 city: Effeltrich
-street: Forchheimer Straße
+street: "Forchheimer Straße"
 housenumber: 9
 phone: ""
 opening_hours: "Sep-Oct Mo-Fr 09:00-18:00; Sep-Oct Sa 09:00-16:00; Nov Mo-Fr 09:00-17:00; Nov Sa 09:00-16:00; Su,PH off"

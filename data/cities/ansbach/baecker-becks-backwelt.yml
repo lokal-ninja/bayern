@@ -5,7 +5,7 @@ latitude: 49.2987868
 longitude: 10.564122300000001
 postcode: 91522
 city: Ansbach
-street: Friedrichstraße
+street: "Friedrichstraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

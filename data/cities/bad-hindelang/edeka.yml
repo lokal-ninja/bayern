@@ -5,7 +5,7 @@ latitude: 47.503384700000005
 longitude: 10.3616417
 postcode: 87541
 city: Bad Hindelang
-street: Ostrachstraße
+street: "Ostrachstraße"
 housenumber: 5 a
 phone: ""
 opening_hours: "Mo-Fr 08:00-19:00, Sa 08:00-18:00"

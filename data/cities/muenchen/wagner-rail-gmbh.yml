@@ -5,7 +5,7 @@ latitude: 48.129188400000004
 longitude: 11.612660400000001
 postcode: 81671
 city: München
-street: Trausnitzstraße
+street: "Trausnitzstraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

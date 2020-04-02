@@ -5,7 +5,7 @@ latitude: 48.1621326
 longitude: 11.588634
 postcode: 80802
 city: München
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 10
 phone: "+49 89 338398"
 opening_hours: ""

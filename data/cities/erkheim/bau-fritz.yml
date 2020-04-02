@@ -5,7 +5,7 @@ latitude: 48.031190200000005
 longitude: 10.3354359
 postcode: 87746
 city: Erkheim
-street: Alpenweg
+street: "Alpenweg"
 housenumber: 25
 phone: "+49-8336-900-0"
 opening_hours: ""

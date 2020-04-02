@@ -5,7 +5,7 @@ latitude: 49.9487626
 longitude: 12.241937700000001
 postcode: 95666
 city: Mitterteich
-street: Martin-Zehendner-Straße
+street: "Martin-Zehendner-Straße"
 housenumber: 8a-b
 phone: "+49 9633 4875"
 opening_hours: ""

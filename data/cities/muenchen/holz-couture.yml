@@ -5,7 +5,7 @@ latitude: 48.1217405
 longitude: 11.578514100000001
 postcode: 81541
 city: München
-street: Falkenstraße
+street: "Falkenstraße"
 housenumber: 34
 phone: "+49 89 33983007"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 50.2928628
 longitude: 11.928279100000001
 postcode: 95032
 city: Hof
-street: Kornbergstraße
+street: "Kornbergstraße"
 housenumber: 39
 phone: ""
 opening_hours: ""

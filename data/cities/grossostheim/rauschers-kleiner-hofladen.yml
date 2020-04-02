@@ -5,7 +5,7 @@ latitude: 49.891426800000005
 longitude: 9.0414166
 postcode: 63762
 city: Großostheim
-street: Hagebornstraße
+street: "Hagebornstraße"
 housenumber: 22
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 47.853709
 longitude: 12.3456115
 postcode: 83209
 city: Prien am Chiemsee
-street: Wendelsteinstraße
+street: "Wendelsteinstraße"
 housenumber: 4
 phone: "+49 8051 1075"
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00"

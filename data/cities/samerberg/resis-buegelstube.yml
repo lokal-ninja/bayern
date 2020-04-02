@@ -5,7 +5,7 @@ latitude: 47.777861900000005
 longitude: 12.2085305
 postcode: 83122
 city: Samerberg
-street: Lindenweg
+street: "Lindenweg"
 housenumber: 10
 phone: ""
 opening_hours: ""

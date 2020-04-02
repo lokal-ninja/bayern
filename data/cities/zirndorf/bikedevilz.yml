@@ -5,7 +5,7 @@ latitude: 49.431950400000005
 longitude: 10.9361219
 postcode: 90513
 city: Zirndorf
-street: Rudolf-Diesel-Straße
+street: "Rudolf-Diesel-Straße"
 housenumber: 3
 phone: "+49 911 89624007"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.3535497
 longitude: 10.9530619
 postcode: 86316
 city: Friedberg
-street: Fürstenfelderstraße
+street: "Fürstenfelderstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

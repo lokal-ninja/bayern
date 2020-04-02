@@ -5,7 +5,7 @@ latitude: 50.308179100000004
 longitude: 10.2111319
 postcode: 97616
 city: Salz
-street: Hohe Marktstraße
+street: "Hohe Marktstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 09:00-19:00"

@@ -5,7 +5,7 @@ latitude: 47.9979506
 longitude: 11.5115263
 postcode: 82064
 city: Straßlach-Dingharting
-street: Gewerbestraße
+street: "Gewerbestraße"
 housenumber: 2-4
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00; Su 08:00-12:00"

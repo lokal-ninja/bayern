@@ -5,7 +5,7 @@ latitude: 47.5814199
 longitude: 10.7018918
 postcode: 87629
 city: Füssen
-street: Moosangerweg
+street: "Moosangerweg"
 housenumber: 12
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:00"

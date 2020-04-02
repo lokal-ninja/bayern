@@ -5,7 +5,7 @@ latitude: 49.311216
 longitude: 12.0980308
 postcode: 92421
 city: Schwandorf
-street: Otto-Hahn-Straße
+street: "Otto-Hahn-Straße"
 housenumber: 1
 phone: ""
 opening_hours: ""

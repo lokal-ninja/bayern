@@ -5,7 +5,7 @@ latitude: 49.5508718
 longitude: 11.026346700000001
 postcode: 91058
 city: Erlangen
-street: Lachnerstraße
+street: "Lachnerstraße"
 housenumber: 2
 phone: "+49 9131 21900"
 opening_hours: "Mo. - Fr. 7.30 - 13.30 und 14.30 - 18.00 Uhr, Sa. 8.00 - 13.00 Uhr"

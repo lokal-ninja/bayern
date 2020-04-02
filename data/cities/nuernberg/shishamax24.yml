@@ -5,7 +5,7 @@ latitude: 49.4474972
 longitude: 11.0617411
 postcode: 90443
 city: Nürnberg
-street: Rothenburger Straße
+street: "Rothenburger Straße"
 housenumber: 14
 phone: "+49 27474742"
 opening_hours: "Mo-Sa 10:00-20:00"

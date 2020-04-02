@@ -5,7 +5,7 @@ latitude: 50.1668983
 longitude: 12.1194103
 postcode: 95100
 city: Selb
-street: Unterweißenbacher Weg
+street: "Unterweißenbacher Weg"
 housenumber: 1
 phone: ""
 opening_hours: ""

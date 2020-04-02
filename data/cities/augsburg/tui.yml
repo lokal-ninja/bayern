@@ -5,7 +5,7 @@ latitude: 48.3689271
 longitude: 10.893925900000001
 postcode: 86150
 city: Augsburg
-street: Fuggerstraße
+street: "Fuggerstraße"
 housenumber: 16
 phone: ""
 opening_hours: ""

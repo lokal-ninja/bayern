@@ -5,7 +5,7 @@ latitude: 48.111228700000005
 longitude: 11.5313452
 postcode: 81369
 city: München
-street: Konrad-Celtis-Straße
+street: "Konrad-Celtis-Straße"
 housenumber: 22
 phone: "+498922848029"
 opening_hours: ""

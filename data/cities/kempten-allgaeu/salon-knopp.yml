@@ -5,7 +5,7 @@ latitude: 47.706015300000004
 longitude: 10.323345900000001
 postcode: 87437
 city: Kempten (Allgäu)
-street: Ludwigstraße
+street: "Ludwigstraße"
 housenumber: 67
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.5663563
 longitude: 12.1011436
 postcode: 84032
 city: Altdorf
-street: Am Aicher Feld
+street: "Am Aicher Feld"
 housenumber: 4
 phone: "+49 871 96687440"
 opening_hours: "Mo-Fr 6:00-19:00"

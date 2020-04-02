@@ -5,7 +5,7 @@ latitude: 49.7991894
 longitude: 12.1579001
 postcode: 92670
 city: Windischeschenbach
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 62
 phone: ""
 opening_hours: ""

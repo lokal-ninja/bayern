@@ -5,7 +5,7 @@ latitude: 49.9003789
 longitude: 10.341752600000001
 postcode: 97447
 city: Gerolzhofen
-street: Frankenwinheimer Straße
+street: "Frankenwinheimer Straße"
 housenumber: 1
 phone: ""
 opening_hours: ""

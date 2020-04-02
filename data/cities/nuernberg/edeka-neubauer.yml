@@ -5,7 +5,7 @@ latitude: 49.4643287
 longitude: 11.086699600000001
 postcode: 90409
 city: Nürnberg
-street: Löbleinstraße
+street: "Löbleinstraße"
 housenumber: 38
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

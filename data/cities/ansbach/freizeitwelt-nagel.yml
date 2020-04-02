@@ -5,7 +5,7 @@ latitude: 49.254170200000004
 longitude: 10.592178800000001
 postcode: 91522
 city: Ansbach
-street: Faunstraße
+street: "Faunstraße"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Th 09:00-18:00; Fr 09:00-13:00; Su 11:00-18:00 nur Ausstellung"

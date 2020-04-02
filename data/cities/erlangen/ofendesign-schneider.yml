@@ -5,7 +5,7 @@ latitude: 49.6308668
 longitude: 10.9352567
 postcode: 91056
 city: Erlangen
-street: Morauweg
+street: "Morauweg"
 housenumber: 4
 phone: "+49 9135-2744"
 opening_hours: ""

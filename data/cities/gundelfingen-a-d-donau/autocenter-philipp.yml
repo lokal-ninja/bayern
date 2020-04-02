@@ -5,7 +5,7 @@ latitude: 48.538104600000004
 longitude: 10.3682671
 postcode: 89423
 city: Gundelfingen a.d.Donau
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 21
 phone: ""
 opening_hours: ""

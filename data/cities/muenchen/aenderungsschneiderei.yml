@@ -5,7 +5,7 @@ latitude: 48.181188000000006
 longitude: 11.5733359
 postcode: 
 city: München
-street: Knorrstraße
+street: "Knorrstraße"
 housenumber: 28
 phone: ""
 opening_hours: "Mo 11:00-18:00; Sa 06:00-18:00;Tu-Fr 9:00-18:00; Sa 9:00-13:00"

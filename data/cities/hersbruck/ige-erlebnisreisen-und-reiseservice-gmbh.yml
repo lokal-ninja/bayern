@@ -5,7 +5,7 @@ latitude: 49.509833300000004
 longitude: 11.423702500000001
 postcode: 91217
 city: Hersbruck
-street: Bahngelände
+street: "Bahngelände"
 housenumber: 2
 phone: "+49 09151 90550"
 opening_hours: "Mo-Fr 08:30-17:30"

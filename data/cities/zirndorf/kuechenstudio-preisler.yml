@@ -5,7 +5,7 @@ latitude: 49.4425114
 longitude: 10.9618342
 postcode: 90513
 city: Zirndorf
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 40
 phone: "+49 911 607587"
 opening_hours: ""

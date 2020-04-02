@@ -5,7 +5,7 @@ latitude: 49.513065000000005
 longitude: 11.4444669
 postcode: 91217
 city: Hersbruck
-street: Amberger Straße
+street: "Amberger Straße"
 housenumber: 129
 phone: "+49 9151 2221"
 opening_hours: ""

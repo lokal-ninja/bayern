@@ -5,7 +5,7 @@ latitude: 48.3979586
 longitude: 11.676493500000001
 postcode: 85354
 city: Freising
-street: Hallberg Straße
+street: "Hallberg Straße"
 housenumber: 3
 phone: ""
 opening_hours: ""

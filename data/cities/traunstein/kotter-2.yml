@@ -5,7 +5,7 @@ latitude: 47.882945600000006
 longitude: 12.636258000000002
 postcode: 83278
 city: Traunstein
-street: Windschnur
+street: "Windschnur"
 housenumber: 16
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.3157932
 longitude: 13.193445
 postcode: 94094
 city: Malching
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 66
 phone: "+49 8573 686"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.883031200000005
 longitude: 12.612308
 postcode: 94315
 city: Straubing
-street: Zwickauer Straße
+street: "Zwickauer Straße"
 housenumber: 5
 phone: "+49 9421 3305 0"
 opening_hours: ""

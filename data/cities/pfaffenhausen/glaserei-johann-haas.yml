@@ -5,7 +5,7 @@ latitude: 48.120420300000006
 longitude: 10.45331
 postcode: 
 city: Pfaffenhausen
-street: Weilbacher Straße
+street: "Weilbacher Straße"
 housenumber: 10
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 47.759082500000005
 longitude: 11.5492793
 postcode: 83646
 city: Bad Tölz
-street: Vichyplatz
+street: "Vichyplatz"
 housenumber: 1
 phone: ""
 opening_hours: "Mar-Oct Mo 14:00-18:00; Tu-Fr 10:00-18:00; Sa 09:00-14:00"

@@ -5,7 +5,7 @@ latitude: 49.024161500000005
 longitude: 12.1629596
 postcode: 93105
 city: Tegernheim
-street: Gewerbegebiet Nord
+street: "Gewerbegebiet Nord"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off"

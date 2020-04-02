@@ -5,7 +5,7 @@ latitude: 49.4325647
 longitude: 11.128704500000001
 postcode: 90480
 city: Nürnberg
-street: Regensburger Straße
+street: "Regensburger Straße"
 housenumber: 330
 phone: "+49 911 40089940"
 opening_hours: "Mo-Sa 08:00-20:00"

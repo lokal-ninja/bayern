@@ -5,7 +5,7 @@ latitude: 48.254721700000005
 longitude: 10.0908789
 postcode: 
 city: Bellenberg
-street: Werkstraße
+street: "Werkstraße"
 housenumber: 3-4
 phone: ""
 opening_hours: ""

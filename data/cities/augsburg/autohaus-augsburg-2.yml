@@ -5,7 +5,7 @@ latitude: 48.3769877
 longitude: 10.9311883
 postcode: 86165
 city: Augsburg
-street: Stätzlinger Straße
+street: "Stätzlinger Straße"
 housenumber: 66
 phone: "+49 821 72052 0"
 opening_hours: "Mo-Fr 07:00-18:30; Sa 09:00-13:00"

@@ -5,7 +5,7 @@ latitude: 49.8098995
 longitude: 12.4397061
 postcode: 95671
 city: Bärnau
-street: Tachauer Straße
+street: "Tachauer Straße"
 housenumber: 45
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

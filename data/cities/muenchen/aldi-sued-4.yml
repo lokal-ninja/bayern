@@ -5,7 +5,7 @@ latitude: 48.133077300000004
 longitude: 11.6318661
 postcode: 81673
 city: München
-street: Hermann-Weinhauser-Straße
+street: "Hermann-Weinhauser-Straße"
 housenumber: 90
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

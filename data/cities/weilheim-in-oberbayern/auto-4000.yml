@@ -5,7 +5,7 @@ latitude: 47.8359024
 longitude: 11.1433178
 postcode: 82362
 city: Weilheim in Oberbayern
-street: Alpenstraße
+street: "Alpenstraße"
 housenumber: 12
 phone: "+49 881 2520"
 opening_hours: "Mo-Th 08:00-12:00,13:00-17:00; Fr 08:00-12:00,13:00-16:00; PH off"

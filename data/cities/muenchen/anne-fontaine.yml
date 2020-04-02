@@ -5,7 +5,7 @@ latitude: 48.1390157
 longitude: 11.5774498
 postcode: 80333
 city: München
-street: Residenzstraße
+street: "Residenzstraße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"

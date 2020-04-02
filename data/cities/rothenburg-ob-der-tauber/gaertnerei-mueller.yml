@@ -5,7 +5,7 @@ latitude: 49.3760023
 longitude: 10.182073500000001
 postcode: 91541
 city: Rothenburg ob der Tauber
-street: Wenggasse
+street: "Wenggasse"
 housenumber: 29
 phone: ""
 opening_hours: ""

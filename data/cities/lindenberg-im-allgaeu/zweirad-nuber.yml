@@ -5,7 +5,7 @@ latitude: 47.611403800000005
 longitude: 9.898605400000001
 postcode: 88161
 city: Lindenberg im Allgäu
-street: Goßholzer Straße
+street: "Goßholzer Straße"
 housenumber: 13 a
 phone: "+49 8381 81285"
 opening_hours: ""

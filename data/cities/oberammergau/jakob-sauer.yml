@@ -5,7 +5,7 @@ latitude: 47.5962237
 longitude: 11.064808000000001
 postcode: 82487
 city: Oberammergau
-street: Am Mühlbach
+street: "Am Mühlbach"
 housenumber: 8
 phone: ""
 opening_hours: ""

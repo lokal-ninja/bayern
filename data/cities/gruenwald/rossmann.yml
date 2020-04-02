@@ -5,7 +5,7 @@ latitude: 48.0398823
 longitude: 11.5204819
 postcode: 82031
 city: Grünwald
-street: Emil-Geis-Straße
+street: "Emil-Geis-Straße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off"

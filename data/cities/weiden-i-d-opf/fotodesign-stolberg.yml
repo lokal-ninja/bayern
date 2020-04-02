@@ -5,7 +5,7 @@ latitude: 49.674100300000006
 longitude: 12.1518145
 postcode: 92637
 city: Weiden i.d.OPf.
-street: Fehrstraße
+street: "Fehrstraße"
 housenumber: 2
 phone: "+49 961 40188089"
 opening_hours: ""

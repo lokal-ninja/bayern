@@ -5,7 +5,7 @@ latitude: 49.463941600000005
 longitude: 11.0860722
 postcode: 90409
 city: Nürnberg
-street: Löbleinstraße
+street: "Löbleinstraße"
 housenumber: 32
 phone: "+49 911 93 7777 87"
 opening_hours: "Tu-Fr 09:00-18:00, Sa 08:00-14:00"

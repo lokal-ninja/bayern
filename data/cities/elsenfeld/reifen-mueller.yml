@@ -5,7 +5,7 @@ latitude: 49.850491500000004
 longitude: 9.1625467
 postcode: 63820
 city: Elsenfeld
-street: Kleinwallstädter Straße
+street: "Kleinwallstädter Straße"
 housenumber: 45
 phone: "+49 6022 1542"
 opening_hours: "Mo-Fr 08:00-17:00, Sa 08:00-12:00; PH off"

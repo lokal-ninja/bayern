@@ -5,7 +5,7 @@ latitude: 49.660872700000006
 longitude: 11.098127600000002
 postcode: 91090
 city: Effeltrich
-street: Gaiganzer Straße
+street: "Gaiganzer Straße"
 housenumber: 3
 phone: ""
 opening_hours: "Tu 09:00-19:00; We 08:30-17:30; Th 08:30-19:00; Fr 08:30-17:30; Sa 08:00-13:00; Su, Mo, PH off"

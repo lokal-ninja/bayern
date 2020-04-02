@@ -5,7 +5,7 @@ latitude: 50.046873000000005
 longitude: 10.233256200000001
 postcode: 97421
 city: Schweinfurt
-street: Obere Straße
+street: "Obere Straße"
 housenumber: 15
 phone: ""
 opening_hours: ""

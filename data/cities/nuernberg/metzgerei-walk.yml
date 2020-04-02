@@ -5,7 +5,7 @@ latitude: 49.4571411
 longitude: 11.086860000000001
 postcode: 90403
 city: Nürnberg
-street: Äußerer Laufer Platz
+street: "Äußerer Laufer Platz"
 housenumber: 2-8
 phone: ""
 opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-13:00"

@@ -5,7 +5,7 @@ latitude: 48.966169300000004
 longitude: 12.1674913
 postcode: 93083
 city: Obertraubling
-street: St.-Georg-Straße
+street: "St.-Georg-Straße"
 housenumber: 2
 phone: ""
 opening_hours: ""

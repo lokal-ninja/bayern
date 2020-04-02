@@ -5,7 +5,7 @@ latitude: 47.7983701
 longitude: 12.171279700000001
 postcode: 83101
 city: Rohrdorf
-street: Achentalstraße
+street: "Achentalstraße"
 housenumber: 30
 phone: "+49 8032 5204"
 opening_hours: ""

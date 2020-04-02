@@ -5,7 +5,7 @@ latitude: 48.3842233
 longitude: 10.0251254
 postcode: 89231
 city: Neu-Ulm
-street: Dornierstraße
+street: "Dornierstraße"
 housenumber: 7
 phone: "+49 731 79241"
 opening_hours: "Mo-Th 08:00-12:00, 13:00-17:00; Fr 08:00-12:00, 13:00-15:00"

@@ -5,7 +5,7 @@ latitude: 50.105757700000005
 longitude: 10.144176400000001
 postcode: 97490
 city: Poppenhausen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 3-5
 phone: ""
 opening_hours: ""

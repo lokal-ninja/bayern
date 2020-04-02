@@ -5,7 +5,7 @@ latitude: 47.441287300000006
 longitude: 11.2667932
 postcode: 82481
 city: Mittenwald
-street: Dammkarstraße
+street: "Dammkarstraße"
 housenumber: 16
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00"

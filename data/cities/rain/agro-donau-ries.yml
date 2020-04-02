@@ -5,7 +5,7 @@ latitude: 48.69584690000001
 longitude: 10.9306786
 postcode: 86641
 city: Rain
-street: Mittelstetter Straße
+street: "Mittelstetter Straße"
 housenumber: 1
 phone: "+49 9090 92276 0"
 opening_hours: "Mo-Fr 08:00-16:45; Sa 08:00-12:00"

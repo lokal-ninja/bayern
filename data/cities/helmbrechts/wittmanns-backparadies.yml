@@ -5,7 +5,7 @@ latitude: 50.2368333
 longitude: 11.716727800000001
 postcode: 95233
 city: Helmbrechts
-street: Friedrich-Ebert-Straße
+street: "Friedrich-Ebert-Straße"
 housenumber: 6
 phone: ""
 opening_hours: ""

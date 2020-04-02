@@ -5,7 +5,7 @@ latitude: 49.0686942
 longitude: 10.320987
 postcode: 91550
 city: Dinkelsbühl
-street: Nördlinger Straße
+street: "Nördlinger Straße"
 housenumber: 7
 phone: "+49 9851 5551711"
 opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-16:00"

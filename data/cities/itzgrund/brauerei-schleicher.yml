@@ -5,7 +5,7 @@ latitude: 50.124435000000005
 longitude: 10.878571500000001
 postcode: 96274
 city: Itzgrund
-street: Coburger Straße
+street: "Coburger Straße"
 housenumber: 22
 phone: "+49 9533 229"
 opening_hours: ""

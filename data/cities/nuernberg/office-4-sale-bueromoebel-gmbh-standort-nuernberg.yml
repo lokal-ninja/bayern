@@ -5,7 +5,7 @@ latitude: 49.4094094
 longitude: 11.137980500000001
 postcode: 90471
 city: Nürnberg
-street: Breslauer Straße
+street: "Breslauer Straße"
 housenumber: 290
 phone: "+49 911 9880 4770"
 opening_hours: ""

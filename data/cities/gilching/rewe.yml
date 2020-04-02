@@ -5,7 +5,7 @@ latitude: 48.1065337
 longitude: 11.290902800000001
 postcode: 82205
 city: Gilching
-street: Starnberger Weg
+street: "Starnberger Weg"
 housenumber: 60
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"

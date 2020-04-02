@@ -5,7 +5,7 @@ latitude: 50.297630100000006
 longitude: 10.1856443
 postcode: 97618
 city: Niederlauer
-street: Brückenstraße
+street: "Brückenstraße"
 housenumber: 4a
 phone: "+49 9771 61880"
 opening_hours: "Mo-Fr 09:00-18:00; Th 09:00-19:00; Sa 09:00-13:00"

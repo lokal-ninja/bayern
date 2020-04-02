@@ -5,7 +5,7 @@ latitude: 49.448630900000005
 longitude: 12.1747812
 postcode: 92507
 city: Nabburg
-street: Diepoldstraße
+street: "Diepoldstraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

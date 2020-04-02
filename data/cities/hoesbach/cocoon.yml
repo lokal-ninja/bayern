@@ -5,7 +5,7 @@ latitude: 50.0034124
 longitude: 9.2029302
 postcode: 63768
 city: Hösbach
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 97
 phone: ""
 opening_hours: "Mo-We 09:30-18:00; Th,Fr 09:30-18:30; Sa 09:30-13:30"

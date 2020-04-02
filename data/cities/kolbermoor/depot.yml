@@ -5,7 +5,7 @@ latitude: 47.8447491
 longitude: 12.0648757
 postcode: 83059
 city: Kolbermoor
-street: Carl-Jordan-Straße
+street: "Carl-Jordan-Straße"
 housenumber: 14
 phone: "+49 8031 7980679"
 opening_hours: ""

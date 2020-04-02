@@ -5,7 +5,7 @@ latitude: 47.8790501
 longitude: 12.635633200000001
 postcode: 83278
 city: Traunstein
-street: Eugen-Rosner-Straße
+street: "Eugen-Rosner-Straße"
 housenumber: 27
 phone: ""
 opening_hours: ""

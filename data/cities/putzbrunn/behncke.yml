@@ -5,7 +5,7 @@ latitude: 48.0775501
 longitude: 11.720497400000001
 postcode: 85640
 city: Putzbrunn
-street: Michael-Haslbeck-Straße
+street: "Michael-Haslbeck-Straße"
 housenumber: 13
 phone: "+49 89 4569170"
 opening_hours: ""

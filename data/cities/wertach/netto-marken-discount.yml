@@ -5,7 +5,7 @@ latitude: 47.6020636
 longitude: 10.413547900000001
 postcode: 87497
 city: Wertach
-street: Grüntenseestraße
+street: "Grüntenseestraße"
 housenumber: 16
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

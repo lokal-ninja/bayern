@@ -5,7 +5,7 @@ latitude: 48.0677443
 longitude: 11.669933700000001
 postcode: 85521
 city: Ottobrunn
-street: Johann-Sebastian-Bach-Straße
+street: "Johann-Sebastian-Bach-Straße"
 housenumber: 1
 phone: ""
 opening_hours: ""

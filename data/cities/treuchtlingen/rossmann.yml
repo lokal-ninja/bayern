@@ -5,7 +5,7 @@ latitude: 48.967695600000006
 longitude: 10.907650100000001
 postcode: 91757
 city: Treuchtlingen
-street: Ansbacher Straße
+street: "Ansbacher Straße"
 housenumber: 50a
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off"

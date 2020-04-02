@@ -5,7 +5,7 @@ latitude: 48.2740756
 longitude: 10.9765978
 postcode: 86415
 city: Mering
-street: Hertzstraße
+street: "Hertzstraße"
 housenumber: 2
 phone: "+49 8233 7390744"
 opening_hours: ""

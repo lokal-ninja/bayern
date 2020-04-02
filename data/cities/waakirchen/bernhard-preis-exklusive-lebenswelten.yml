@@ -5,7 +5,7 @@ latitude: 47.7956707
 longitude: 11.680020500000001
 postcode: 83666
 city: Waakirchen
-street: Taubenbergweg
+street: "Taubenbergweg"
 housenumber: 15
 phone: ""
 opening_hours: ""

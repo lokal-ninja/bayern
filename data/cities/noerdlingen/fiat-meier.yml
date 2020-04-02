@@ -5,7 +5,7 @@ latitude: 48.8575456
 longitude: 10.5096837
 postcode: 86720
 city: Nördlingen
-street: Gewerbestraße
+street: "Gewerbestraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

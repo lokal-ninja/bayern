@@ -5,7 +5,7 @@ latitude: 47.8511035
 longitude: 12.106955600000001
 postcode: 83026
 city: Rosenheim
-street: Hochgernstraße
+street: "Hochgernstraße"
 housenumber: 16
 phone: "+49 8035 9099954"
 opening_hours: "Jan-Oct: Mo-Fr 09:00-13:00,14:00-17:00; Nov-Dec: Mo-Fr 09:00-13:00,14:00-18:00; Nov-Dec: Sa 09:00-16:00"

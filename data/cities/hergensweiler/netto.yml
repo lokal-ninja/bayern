@@ -5,7 +5,7 @@ latitude: 47.6153934
 longitude: 9.775468400000001
 postcode: 88138
 city: Hergensweiler
-street: Kemptener Straße
+street: "Kemptener Straße"
 housenumber: 26
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"

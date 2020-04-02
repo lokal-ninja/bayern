@@ -5,7 +5,7 @@ latitude: 49.4575576
 longitude: 11.083584400000001
 postcode: 90403
 city: Nürnberg
-street: Treibberg
+street: "Treibberg"
 housenumber: 1
 phone: "+49 911 554114"
 opening_hours: ""

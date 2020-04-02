@@ -5,7 +5,7 @@ latitude: 48.1608761
 longitude: 10.813484200000001
 postcode: 86836
 city: Untermeitingen
-street: Lechfelder Straße
+street: "Lechfelder Straße"
 housenumber: 41
 phone: "+49 8232 994250"
 opening_hours: "Tu-Fr 09:00-20:00; Sa 08:00-13:00"

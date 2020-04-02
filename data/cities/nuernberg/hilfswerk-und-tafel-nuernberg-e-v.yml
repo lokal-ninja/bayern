@@ -5,7 +5,7 @@ latitude: 49.436913800000006
 longitude: 11.0948395
 postcode: 90461
 city: Nürnberg
-street: Wodanstraße
+street: "Wodanstraße"
 housenumber: 22a
 phone: ""
 opening_hours: "Mo-Fr 14:00-18:00"

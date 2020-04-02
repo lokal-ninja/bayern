@@ -5,7 +5,7 @@ latitude: 47.5051831
 longitude: 10.370113100000001
 postcode: 87541
 city: Bad Hindelang
-street: Am Bauernmarkt
+street: "Am Bauernmarkt"
 housenumber: 1
 phone: ""
 opening_hours: ""

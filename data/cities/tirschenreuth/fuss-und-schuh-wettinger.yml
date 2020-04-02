@@ -5,7 +5,7 @@ latitude: 49.879053000000006
 longitude: 12.3371276
 postcode: 95643
 city: Tirschenreuth
-street: Maximilianplatz
+street: "Maximilianplatz"
 housenumber: 3
 phone: "+49 9631 2104"
 opening_hours: ""

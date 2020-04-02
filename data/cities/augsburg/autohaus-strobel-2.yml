@@ -5,7 +5,7 @@ latitude: 48.339353100000004
 longitude: 10.885529400000001
 postcode: 86199
 city: Augsburg
-street: Pilsener Straße
+street: "Pilsener Straße"
 housenumber: 10
 phone: "+49 821 258520"
 opening_hours: "Mo-Fr 07:30-18:00; Sa 09:00-12:30"

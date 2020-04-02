@@ -5,7 +5,7 @@ latitude: 48.3533455
 longitude: 10.162010200000001
 postcode: 89284
 city: Pfaffenhofen a.d.Roth
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 24
 phone: ""
 opening_hours: "Mo-Fr 08:30-20:00; Sa 08:30-18:00; PH off"

@@ -5,7 +5,7 @@ latitude: 47.7163751
 longitude: 10.316972100000001
 postcode: 87435
 city: Kempten (Allgäu)
-street: Wiesstraße
+street: "Wiesstraße"
 housenumber: 17
 phone: ""
 opening_hours: ""

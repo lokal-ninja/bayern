@@ -5,7 +5,7 @@ latitude: 48.102593600000006
 longitude: 11.644185100000001
 postcode: 81737
 city: München
-street: Charles-de-Gaulle-Straße
+street: "Charles-de-Gaulle-Straße"
 housenumber: 6
 phone: "+49 89 649123120"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.5097487
 longitude: 12.546129800000001
 postcode: 92539
 city: Schönsee
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 35
 phone: "+49 9674 402"
 opening_hours: "Mo 07:00-12:30; Tu-Fr 07:00-12:30,14:00-18:00; Sa 07:00-12:00"

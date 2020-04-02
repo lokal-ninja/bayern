@@ -5,7 +5,7 @@ latitude: 48.424284400000005
 longitude: 11.2593797
 postcode: 85250
 city: Altomünster
-street: Himmelreichstraße
+street: "Himmelreichstraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

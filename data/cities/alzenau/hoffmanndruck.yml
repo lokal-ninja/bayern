@@ -5,7 +5,7 @@ latitude: 50.0947406
 longitude: 9.0586397
 postcode: 63755
 city: Alzenau
-street: Siemensstraße
+street: "Siemensstraße"
 housenumber: 6
 phone: "+49 6023 503792"
 opening_hours: ""

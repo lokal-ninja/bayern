@@ -5,7 +5,7 @@ latitude: 49.7925203
 longitude: 9.9311909
 postcode: 97070
 city: Würzburg
-street: Plattnerstraße
+street: "Plattnerstraße"
 housenumber: 14
 phone: ""
 opening_hours: "Mo-Fr 10:00-18:00;Sa 10:00-16:00"

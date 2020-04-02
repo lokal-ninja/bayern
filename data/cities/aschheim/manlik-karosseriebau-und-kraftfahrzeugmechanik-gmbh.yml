@@ -5,7 +5,7 @@ latitude: 48.1760229
 longitude: 11.717132900000001
 postcode: 85609
 city: Aschheim
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 11
 phone: "+4989429186"
 opening_hours: ""

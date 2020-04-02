@@ -5,7 +5,7 @@ latitude: 48.1816327
 longitude: 11.572420200000002
 postcode: 80807
 city: München
-street: Keferloherstraße
+street: "Keferloherstraße"
 housenumber: 92
 phone: "+49 89 35029749"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"

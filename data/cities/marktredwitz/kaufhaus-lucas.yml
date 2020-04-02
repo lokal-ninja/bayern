@@ -5,7 +5,7 @@ latitude: 50.0055302
 longitude: 12.0787543
 postcode: 95615
 city: Marktredwitz
-street: Schulze-Delitzsch-Straße
+street: "Schulze-Delitzsch-Straße"
 housenumber: 2a
 phone: ""
 opening_hours: "Mo-Fr 10:00-18:00, Sa 10:00-16:00"

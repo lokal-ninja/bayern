@@ -5,7 +5,7 @@ latitude: 48.1520718
 longitude: 11.532403500000001
 postcode: 80634
 city: München
-street: Pötschnerstraße
+street: "Pötschnerstraße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Fr 09:30-20:00; Sa 09:00-20:00; Su,PH off"

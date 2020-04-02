@@ -5,7 +5,7 @@ latitude: 48.584673800000004
 longitude: 12.0644179
 postcode: 84095
 city: Furth
-street: Sonnenstraße
+street: "Sonnenstraße"
 housenumber: 3
 phone: ""
 opening_hours: ""

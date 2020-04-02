@@ -5,7 +5,7 @@ latitude: 49.965012200000004
 longitude: 9.2086054
 postcode: 63808
 city: Haibach
-street: Fischergasse
+street: "Fischergasse"
 housenumber: 2
 phone: ""
 opening_hours: ""

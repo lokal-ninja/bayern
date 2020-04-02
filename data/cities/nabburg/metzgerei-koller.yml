@@ -5,7 +5,7 @@ latitude: 49.4488452
 longitude: 12.179538200000001
 postcode: 92507
 city: Nabburg
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 9
 phone: "+49 9433 901476"
 opening_hours: ""

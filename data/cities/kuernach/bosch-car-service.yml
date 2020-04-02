@@ -5,7 +5,7 @@ latitude: 49.8430242
 longitude: 10.0155892
 postcode: 97273
 city: Kürnach
-street: Wachtelberg
+street: "Wachtelberg"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00"

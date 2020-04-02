@@ -5,7 +5,7 @@ latitude: 48.908010700000005
 longitude: 12.6923933
 postcode: 94327
 city: Bogen
-street: Stadtplatz
+street: "Stadtplatz"
 housenumber: 18
 phone: ""
 opening_hours: "Mo-Th 09:00-12:30,14:00-18:00; Fr 09:00-18:00; Sa 09:00-12:30"

@@ -5,7 +5,7 @@ latitude: 48.778977600000005
 longitude: 11.3229202
 postcode: 85049
 city: Ingolstadt
-street: Bergfeldweg
+street: "Bergfeldweg"
 housenumber: 4
 phone: ""
 opening_hours: "Tu-Fr 08:30-18:00; Sa 08:00-13:00"

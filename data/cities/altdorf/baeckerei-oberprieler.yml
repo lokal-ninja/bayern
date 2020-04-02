@@ -5,7 +5,7 @@ latitude: 48.5491351
 longitude: 12.106626200000001
 postcode: 84032
 city: Altdorf
-street: Sonnenring
+street: "Sonnenring"
 housenumber: 21
 phone: "+49 871 43094590"
 opening_hours: "Mo-Fr 6:00-18:00; Sa 6:30-12:30; Su 7:00-11:00; PH 7:00-11:00"

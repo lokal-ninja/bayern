@@ -5,7 +5,7 @@ latitude: 49.989103500000006
 longitude: 9.078831600000001
 postcode: 63814
 city: Mainaschaff
-street: Johann-Dahlem-Straße
+street: "Johann-Dahlem-Straße"
 housenumber: 5
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.285680500000005
 longitude: 11.559857800000001
 postcode: 85716
 city: Unterschleißheim
-street: Andreas-Danzer-Weg
+street: "Andreas-Danzer-Weg"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

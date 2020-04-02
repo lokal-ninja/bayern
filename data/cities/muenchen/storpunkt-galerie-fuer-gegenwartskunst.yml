@@ -5,7 +5,7 @@ latitude: 48.159597100000006
 longitude: 11.5692766
 postcode: 80796
 city: München
-street: Tengstraße
+street: "Tengstraße"
 housenumber: 32a
 phone: ""
 opening_hours: "Th-Sa 15:00-19:00"

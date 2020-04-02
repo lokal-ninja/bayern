@@ -5,7 +5,7 @@ latitude: 48.1554038
 longitude: 11.5731932
 postcode: 80799
 city: München
-street: Arcisstraße
+street: "Arcisstraße"
 housenumber: 66
 phone: "+49 89 2721459"
 opening_hours: "Mo-Th 09:00-17:00; Fr 09:00-14:00"

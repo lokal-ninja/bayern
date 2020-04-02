@@ -5,7 +5,7 @@ latitude: 48.9649243
 longitude: 10.806290500000001
 postcode: 91757
 city: Treuchtlingen
-street: Frankenstraße
+street: "Frankenstraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

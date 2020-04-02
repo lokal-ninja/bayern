@@ -5,7 +5,7 @@ latitude: 48.1212153
 longitude: 11.5617312
 postcode: 80469
 city: München
-street: Ehrengutstraße
+street: "Ehrengutstraße"
 housenumber: 25
 phone: ""
 opening_hours: ""

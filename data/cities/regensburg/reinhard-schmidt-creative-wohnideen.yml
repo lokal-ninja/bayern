@@ -5,7 +5,7 @@ latitude: 49.00135220000001
 longitude: 12.174461500000001
 postcode: 93055
 city: Regensburg
-street: Sulzfeldstraße
+street: "Sulzfeldstraße"
 housenumber: 5
 phone: "+49 941 791788"
 opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-16:00"

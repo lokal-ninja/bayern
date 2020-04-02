@@ -5,7 +5,7 @@ latitude: 49.0195779
 longitude: 12.096343000000001
 postcode: 93047
 city: Regensburg
-street: Tändlergasse
+street: "Tändlergasse"
 housenumber: 3
 phone: "+49 941 510 74"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.5833189
 longitude: 10.9652803
 postcode: 91056
 city: Erlangen
-street: Gundstraße
+street: "Gundstraße"
 housenumber: 2
 phone: "+49 180 3292534"
 opening_hours: "Mo-Sa 08:00-20:00"

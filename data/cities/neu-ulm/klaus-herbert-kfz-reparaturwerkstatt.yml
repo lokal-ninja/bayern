@@ -5,7 +5,7 @@ latitude: 48.382660300000005
 longitude: 10.0216224
 postcode: 89231
 city: Neu-Ulm
-street: Messerschmittstraße
+street: "Messerschmittstraße"
 housenumber: 14
 phone: "+49 731 722296"
 opening_hours: ""

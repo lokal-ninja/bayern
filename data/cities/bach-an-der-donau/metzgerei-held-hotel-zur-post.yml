@@ -5,7 +5,7 @@ latitude: 49.020678600000004
 longitude: 12.305507500000001
 postcode: 93090
 city: Bach an der Donau
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 44
 phone: "+49 9403 1881"
 opening_hours: ""

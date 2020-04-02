@@ -5,7 +5,7 @@ latitude: 49.070583000000006
 longitude: 12.8912724
 postcode: 94234
 city: Viechtach
-street: Hafnerhöhe
+street: "Hafnerhöhe"
 housenumber: 19
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

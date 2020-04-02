@@ -5,7 +5,7 @@ latitude: 49.442855800000004
 longitude: 11.075955500000001
 postcode: 90443
 city: Nürnberg
-street: Tafelfeldstraße
+street: "Tafelfeldstraße"
 housenumber: 13
 phone: ""
 opening_hours: ""

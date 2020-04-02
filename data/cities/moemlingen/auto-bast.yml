@@ -5,7 +5,7 @@ latitude: 49.8529229
 longitude: 9.0842648
 postcode: 63853
 city: Mömlingen
-street: Odenwaldstraße
+street: "Odenwaldstraße"
 housenumber: 7
 phone: "+49 6022 2633380"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00; PH off"

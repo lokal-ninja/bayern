@@ -5,7 +5,7 @@ latitude: 49.975909800000004
 longitude: 11.6050778
 postcode: 95463
 city: Bindlach
-street: St.-Georgen-Straße
+street: "St.-Georgen-Straße"
 housenumber: 19
 phone: "+49 9208 5887550"
 opening_hours: "Mo-Th 08:00-17:00, Fr 08:00-16:00"

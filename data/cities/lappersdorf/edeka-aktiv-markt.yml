@@ -5,7 +5,7 @@ latitude: 49.059016
 longitude: 12.091064800000002
 postcode: 93138
 city: Lappersdorf
-street: Regendorfer Straße
+street: "Regendorfer Straße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Fr 08:15-20:00; Sa 07:00-18:00"

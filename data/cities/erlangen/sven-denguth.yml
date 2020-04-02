@@ -5,7 +5,7 @@ latitude: 49.5973045
 longitude: 11.0026922
 postcode: 91054
 city: Erlangen
-street: Helmstraße
+street: "Helmstraße"
 housenumber: 4
 phone: "+49 9131 974 2540"
 opening_hours: "Mo 12:00-19:00; Tu-Fr 10:00-19:00; Sa 10:00-15:00"

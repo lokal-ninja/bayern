@@ -5,7 +5,7 @@ latitude: 49.01625000000001
 longitude: 12.0973419
 postcode: 93047
 city: Regensburg
-street: Obermünsterstraße
+street: "Obermünsterstraße"
 housenumber: 17
 phone: ""
 opening_hours: ""

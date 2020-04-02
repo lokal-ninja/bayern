@@ -5,7 +5,7 @@ latitude: 48.5557293
 longitude: 12.113398400000001
 postcode: 84032
 city: Altdorf
-street: Landshuter Straße
+street: "Landshuter Straße"
 housenumber: 24
 phone: "+4987132484"
 opening_hours: ""

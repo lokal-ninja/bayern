@@ -5,7 +5,7 @@ latitude: 48.4712717
 longitude: 11.935176100000001
 postcode: 85368
 city: Moosburg a.d. Isar
-street: Thalbacher Straße
+street: "Thalbacher Straße"
 housenumber: 28b
 phone: ""
 opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-13:00"

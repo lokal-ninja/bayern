@@ -5,7 +5,7 @@ latitude: 49.595418200000005
 longitude: 11.0090556
 postcode: 91054
 city: Erlangen
-street: Südliche Stadtmauerstraße
+street: "Südliche Stadtmauerstraße"
 housenumber: 40
 phone: "+49 9131 974634"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"

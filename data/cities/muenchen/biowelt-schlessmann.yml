@@ -5,7 +5,7 @@ latitude: 48.0783823
 longitude: 11.508844600000002
 postcode: 
 city: München
-street: Schuchstraße
+street: "Schuchstraße"
 housenumber: 46
 phone: "+49 89 74419451"
 opening_hours: "Mo-Fr 08:30-19:00; Sa 08:00-19:00"

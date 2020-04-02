@@ -5,7 +5,7 @@ latitude: 48.1184716
 longitude: 11.5847938
 postcode: 81541
 city: München
-street: Sankt-Bonifatius-Straße
+street: "Sankt-Bonifatius-Straße"
 housenumber: 20
 phone: ""
 opening_hours: "Tu,WE,Fr 14:00-19:00; Th 14:00-20:00; Sa 11:00-19:00"

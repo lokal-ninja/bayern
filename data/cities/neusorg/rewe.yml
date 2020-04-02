@@ -5,7 +5,7 @@ latitude: 49.935001400000004
 longitude: 11.984125
 postcode: 95700
 city: Neusorg
-street: Steinwaldstraße
+street: "Steinwaldstraße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

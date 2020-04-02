@@ -5,7 +5,7 @@ latitude: 49.9225366
 longitude: 10.078449800000001
 postcode: 97241
 city: Bergtheim
-street: Schwanfelder Straße
+street: "Schwanfelder Straße"
 housenumber: 6
 phone: ""
 opening_hours: ""

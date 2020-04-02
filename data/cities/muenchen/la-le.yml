@@ -5,7 +5,7 @@ latitude: 48.139308
 longitude: 11.533899600000002
 postcode: 80339
 city: München
-street: Trappentreustraße
+street: "Trappentreustraße"
 housenumber: 6
 phone: "+49 89 50029925"
 opening_hours: "Tu-Fr 10:00-19:00; Sa 10:00-15:00"

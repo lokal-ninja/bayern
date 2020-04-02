@@ -5,7 +5,7 @@ latitude: 48.75302000000001
 longitude: 11.342171
 postcode: 85049
 city: Ingolstadt
-street: Hangstraße
+street: "Hangstraße"
 housenumber: 12
 phone: ""
 opening_hours: ""

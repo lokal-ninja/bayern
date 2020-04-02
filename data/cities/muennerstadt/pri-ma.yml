@@ -5,7 +5,7 @@ latitude: 50.248651200000005
 longitude: 10.1955814
 postcode: 97702
 city: Münnerstadt
-street: Anger
+street: "Anger"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"

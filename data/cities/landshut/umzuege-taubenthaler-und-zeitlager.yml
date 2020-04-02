@@ -5,7 +5,7 @@ latitude: 48.5506984
 longitude: 12.1474778
 postcode: 
 city: Landshut
-street: Liebigstraße
+street: "Liebigstraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.3378444
 longitude: 10.7893249
 postcode: 91560
 city: Heilsbronn
-street: Spitalgasse
+street: "Spitalgasse"
 housenumber: 1
 phone: ""
 opening_hours: ""

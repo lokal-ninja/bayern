@@ -5,7 +5,7 @@ latitude: 48.135246
 longitude: 11.5021661
 postcode: 80689
 city: München
-street: Joergstraße
+street: "Joergstraße"
 housenumber: 1
 phone: "+49 89 562557"
 opening_hours: "Mo-Sa 07:00-20:00"

@@ -5,7 +5,7 @@ latitude: 48.1780387
 longitude: 11.2550317
 postcode: 82256
 city: Fürstenfeldbruck
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Sa 08:30-19:00"

@@ -5,7 +5,7 @@ latitude: 48.158308500000004
 longitude: 11.9945512
 postcode: 85664
 city: Hohenlinden
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 1
 phone: "+498124910204"
 opening_hours: "Mo-Fr 08:30-20:00"

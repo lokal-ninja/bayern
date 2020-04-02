@@ -5,7 +5,7 @@ latitude: 48.462865400000005
 longitude: 11.1351112
 postcode: 86551
 city: Aichach
-street: Schrobenhausener Straße
+street: "Schrobenhausener Straße"
 housenumber: 15
 phone: ""
 opening_hours: "Mo-Sa 06:00-23:00; Su 07:00-23:00"

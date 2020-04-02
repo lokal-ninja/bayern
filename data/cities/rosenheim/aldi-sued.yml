@@ -5,7 +5,7 @@ latitude: 47.851710600000004
 longitude: 12.1374917
 postcode: 83022
 city: Rosenheim
-street: Chiemseestraße
+street: "Chiemseestraße"
 housenumber: 25
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

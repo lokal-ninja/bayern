@@ -5,7 +5,7 @@ latitude: 48.1371553
 longitude: 11.615680600000001
 postcode: 81677
 city: München
-street: Einsteinstraße
+street: "Einsteinstraße"
 housenumber: 163
 phone: ""
 opening_hours: "Tu-Fr 11:00-19:00, Sa 11:00-16:00"

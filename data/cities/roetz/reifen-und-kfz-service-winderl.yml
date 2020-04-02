@@ -5,7 +5,7 @@ latitude: 49.3432079
 longitude: 12.5192282
 postcode: 92444
 city: Rötz
-street: Neunburger Straße
+street: "Neunburger Straße"
 housenumber: 28
 phone: ""
 opening_hours: ""

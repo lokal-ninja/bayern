@@ -5,7 +5,7 @@ latitude: 49.564533100000006
 longitude: 10.7300462
 postcode: 91489
 city: Wilhelmsdorf
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 14
 phone: ""
 opening_hours: ""

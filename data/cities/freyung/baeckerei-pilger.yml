@@ -5,7 +5,7 @@ latitude: 48.806732800000006
 longitude: 13.547111500000002
 postcode: 94078
 city: Freyung
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Fr 06:00-18:00; Sa 07:00-12:00; PH,Su 07:30-10:00"

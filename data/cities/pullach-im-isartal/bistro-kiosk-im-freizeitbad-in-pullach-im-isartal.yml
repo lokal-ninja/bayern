@@ -5,7 +5,7 @@ latitude: 48.0649492
 longitude: 11.525143
 postcode: 82049
 city: Pullach im Isartal
-street: Hans-Keis-Straße
+street: "Hans-Keis-Straße"
 housenumber: 59
 phone: ""
 opening_hours: ""

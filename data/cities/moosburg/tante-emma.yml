@@ -5,7 +5,7 @@ latitude: 48.4678022
 longitude: 11.934280000000001
 postcode: 85368
 city: Moosburg
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 6
 phone: ""
 opening_hours: "We 09:00-12:30; Th-Fr 12:00-19:00; Sa 09:00-12:30"

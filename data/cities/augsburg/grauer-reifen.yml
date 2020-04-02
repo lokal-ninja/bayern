@@ -5,7 +5,7 @@ latitude: 48.3077388
 longitude: 10.904119300000001
 postcode: 86179
 city: Augsburg
-street: Augustusstraße
+street: "Augustusstraße"
 housenumber: 3
 phone: "+49 821 800 35 29"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 47.957390600000004
 longitude: 11.099562200000001
 postcode: 86911
 city: Dießen am Ammersee
-street: Georg-Gröbl-Straße
+street: "Georg-Gröbl-Straße"
 housenumber: 11
 phone: "+49 8807 949940"
 opening_hours: ""

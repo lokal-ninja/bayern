@@ -5,7 +5,7 @@ latitude: 48.2006303
 longitude: 11.5196
 postcode: 80995
 city: München
-street: Am Schnepfenweg
+street: "Am Schnepfenweg"
 housenumber: 29
 phone: "+49 89 157 7902"
 opening_hours: "Mo-Fr 10:00-17:00"

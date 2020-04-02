@@ -5,7 +5,7 @@ latitude: 49.9427376
 longitude: 11.574224500000001
 postcode: 95444
 city: Bayreuth
-street: Kanzleistraße
+street: "Kanzleistraße"
 housenumber: 13
 phone: ""
 opening_hours: "Mo-Fr 08:00-16:00; PH off"

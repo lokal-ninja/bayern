@@ -5,7 +5,7 @@ latitude: 48.8097112
 longitude: 13.5473496
 postcode: 94078
 city: Freyung
-street: Grafenauer Straße
+street: "Grafenauer Straße"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Fr 09:00-12:00,13:00-18:00; Dec 24, Sa 09:00-12:00; PH off"

@@ -5,7 +5,7 @@ latitude: 49.118932
 longitude: 10.754026000000001
 postcode: 91710
 city: Gunzenhausen
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 20
 phone: ""
 opening_hours: ""

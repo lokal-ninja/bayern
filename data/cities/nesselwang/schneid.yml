@@ -5,7 +5,7 @@ latitude: 47.621327300000004
 longitude: 10.5022572
 postcode: 87484
 city: Nesselwang
-street: Füssener Straße
+street: "Füssener Straße"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Fr 06:00-18:30; Sa 06:00-13:00; Su 07:00-17:00"

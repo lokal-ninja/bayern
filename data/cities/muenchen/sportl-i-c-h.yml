@@ -5,7 +5,7 @@ latitude: 48.1186159
 longitude: 11.517774300000001
 postcode: 81373
 city: München
-street: Ohlstadter Straße
+street: "Ohlstadter Straße"
 housenumber: 52
 phone: ""
 opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00; Su,PH off"

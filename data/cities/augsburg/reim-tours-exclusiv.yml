@@ -5,7 +5,7 @@ latitude: 48.3609317
 longitude: 10.940609100000001
 postcode: 86163
 city: Augsburg
-street: Tannheimer Straße
+street: "Tannheimer Straße"
 housenumber: 4
 phone: "+49 821 662723"
 opening_hours: ""

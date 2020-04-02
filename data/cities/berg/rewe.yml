@@ -5,7 +5,7 @@ latitude: 47.967375600000004
 longitude: 11.3558768
 postcode: 82335
 city: Berg
-street: Perchastraße
+street: "Perchastraße"
 housenumber: 3a
 phone: ""
 opening_hours: ""

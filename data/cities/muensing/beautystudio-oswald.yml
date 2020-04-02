@@ -5,7 +5,7 @@ latitude: 47.9026888
 longitude: 11.3702091
 postcode: 82541
 city: Münsing
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 13
 phone: ""
 opening_hours: ""

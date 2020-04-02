@@ -5,7 +5,7 @@ latitude: 49.3040365
 longitude: 10.5869464
 postcode: 91522
 city: Ansbach
-street: Nürnberger Straße
+street: "Nürnberger Straße"
 housenumber: 66
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

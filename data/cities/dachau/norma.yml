@@ -5,7 +5,7 @@ latitude: 48.2623261
 longitude: 11.439399600000002
 postcode: 85221
 city: Dachau
-street: Ludwig-Thoma-Straße
+street: "Ludwig-Thoma-Straße"
 housenumber: 30
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

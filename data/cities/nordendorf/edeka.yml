@@ -5,7 +5,7 @@ latitude: 48.5944402
 longitude: 10.832373
 postcode: 86695
 city: Nordendorf
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 16
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

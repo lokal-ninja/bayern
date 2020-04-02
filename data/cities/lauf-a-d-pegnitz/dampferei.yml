@@ -5,7 +5,7 @@ latitude: 49.512825500000005
 longitude: 11.282866
 postcode: 91207
 city: Lauf a.d.Pegnitz
-street: Hersbrucker Straße
+street: "Hersbrucker Straße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo 14:00-19:00; Tu-Fr 11:00-18:00; Sa 11:00-14:00"

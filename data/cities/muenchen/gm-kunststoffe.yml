@@ -5,7 +5,7 @@ latitude: 48.1324837
 longitude: 11.4098544
 postcode: 81249
 city: München
-street: Georg-Maurer-Straße
+street: "Georg-Maurer-Straße"
 housenumber: 4
 phone: ""
 opening_hours: ""

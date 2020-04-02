@@ -5,7 +5,7 @@ latitude: 49.5553802
 longitude: 10.988871900000001
 postcode: 91058
 city: Erlangen
-street: Eltersdorfer Straße
+street: "Eltersdorfer Straße"
 housenumber: 11
 phone: ""
 opening_hours: ""

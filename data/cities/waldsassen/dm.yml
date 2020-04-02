@@ -5,7 +5,7 @@ latitude: 50.003686200000004
 longitude: 12.2992685
 postcode: 95652
 city: Waldsassen
-street: An der Tongrube
+street: "An der Tongrube"
 housenumber: 2
 phone: "+49 9632 8409332"
 opening_hours: "Mo-Sa 08:00-20:00"

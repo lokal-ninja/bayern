@@ -5,7 +5,7 @@ latitude: 48.871672100000005
 longitude: 12.6291553
 postcode: 94315
 city: Straubing
-street: Aiterhofener Straße
+street: "Aiterhofener Straße"
 housenumber: 220
 phone: "+49 9421 18490"
 opening_hours: "Mo-Sa 07:00-20:00"

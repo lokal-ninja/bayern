@@ -5,7 +5,7 @@ latitude: 50.3666351
 longitude: 11.642182400000001
 postcode: 95138
 city: Bad Steben
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 14
 phone: ""
 opening_hours: ""

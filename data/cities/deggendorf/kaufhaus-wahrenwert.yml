@@ -5,7 +5,7 @@ latitude: 48.849485200000004
 longitude: 12.9859483
 postcode: 94469
 city: Deggendorf
-street: Ruselstraße
+street: "Ruselstraße"
 housenumber: 80
 phone: "+49 991 3831048182"
 opening_hours: "Mo-Fr 09:00-17:00;Sa[1],Sa[3] 09:00-16:00"

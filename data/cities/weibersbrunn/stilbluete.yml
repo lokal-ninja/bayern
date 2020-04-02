@@ -5,7 +5,7 @@ latitude: 49.930455900000005
 longitude: 9.364911600000001
 postcode: 63879
 city: Weibersbrunn
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 111A
 phone: ""
 opening_hours: ""

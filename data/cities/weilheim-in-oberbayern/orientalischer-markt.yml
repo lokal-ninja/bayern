@@ -5,7 +5,7 @@ latitude: 47.839058
 longitude: 11.1441505
 postcode: 82362
 city: Weilheim in Oberbayern
-street: Admiral-Hipper-Straße
+street: "Admiral-Hipper-Straße"
 housenumber: 21
 phone: ""
 opening_hours: ""

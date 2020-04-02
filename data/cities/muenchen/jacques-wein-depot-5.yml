@@ -5,7 +5,7 @@ latitude: 48.142565100000006
 longitude: 11.4246414
 postcode: 81243
 city: München
-street: Bodenseestraße
+street: "Bodenseestraße"
 housenumber: 235
 phone: "+49 89 8712 8397"
 opening_hours: "Mo-We 15:00-19:00; Th 14:00-19:30; Fr 13:00-19:30; Sa 10:00-16:00"

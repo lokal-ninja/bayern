@@ -5,7 +5,7 @@ latitude: 50.23574180000001
 longitude: 11.323886
 postcode: 96317
 city: Kronach
-street: Kulmbacher Straße
+street: "Kulmbacher Straße"
 housenumber: 22
 phone: ""
 opening_hours: ""

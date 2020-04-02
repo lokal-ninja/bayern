@@ -5,7 +5,7 @@ latitude: 49.806109000000006
 longitude: 12.1523836
 postcode: 92670
 city: Windischeschenbach
-street: Bussardweg
+street: "Bussardweg"
 housenumber: 5
 phone: ""
 opening_hours: ""

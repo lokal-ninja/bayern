@@ -5,7 +5,7 @@ latitude: 47.9054238
 longitude: 10.666512200000001
 postcode: 87665
 city: Mauerstetten
-street: Schwarzbrunnweg
+street: "Schwarzbrunnweg"
 housenumber: 12
 phone: ""
 opening_hours: ""

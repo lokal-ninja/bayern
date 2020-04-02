@@ -5,7 +5,7 @@ latitude: 49.739595200000004
 longitude: 10.147814400000001
 postcode: 97318
 city: Kitzingen
-street: Repperndorfer Straße
+street: "Repperndorfer Straße"
 housenumber: 9
 phone: "+49 9321 924000"
 opening_hours: ""

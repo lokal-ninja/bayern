@@ -5,7 +5,7 @@ latitude: 48.0941683
 longitude: 11.498372000000002
 postcode: 81476
 city: München
-street: Forstenrieder Allee
+street: "Forstenrieder Allee"
 housenumber: 59
 phone: "+498974899870"
 opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-12:30"

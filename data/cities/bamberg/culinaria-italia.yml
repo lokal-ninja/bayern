@@ -5,7 +5,7 @@ latitude: 49.882917600000006
 longitude: 10.920523600000001
 postcode: 96050
 city: Bamberg
-street: Nürnberger Straße
+street: "Nürnberger Straße"
 housenumber: 164
 phone: ""
 opening_hours: ""

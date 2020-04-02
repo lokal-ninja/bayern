@@ -5,7 +5,7 @@ latitude: 48.5812084
 longitude: 10.4905817
 postcode: 89407
 city: Dillingen a.d.Donau
-street: Große Allee
+street: "Große Allee"
 housenumber: 29
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

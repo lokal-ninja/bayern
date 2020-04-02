@@ -5,7 +5,7 @@ latitude: 47.9771189
 longitude: 11.65165
 postcode: 82054
 city: Sauerlach
-street: Münchener Straße
+street: "Münchener Straße"
 housenumber: 37
 phone: "+49 8104 6287799"
 opening_hours: "Mo-Fr 11:00-18:00; Sa 10:00-14:00"

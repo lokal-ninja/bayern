@@ -5,7 +5,7 @@ latitude: 49.5416977
 longitude: 10.238522600000001
 postcode: 97215
 city: Uffenheim
-street: Nürnberger Straße
+street: "Nürnberger Straße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

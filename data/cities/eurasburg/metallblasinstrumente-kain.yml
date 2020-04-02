@@ -5,7 +5,7 @@ latitude: 47.8245419
 longitude: 11.412721000000001
 postcode: 82547
 city: Eurasburg
-street: Alpenblickstraße
+street: "Alpenblickstraße"
 housenumber: 15
 phone: "+49 8179 9979620"
 opening_hours: ""

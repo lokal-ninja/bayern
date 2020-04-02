@@ -5,7 +5,7 @@ latitude: 49.798519600000006
 longitude: 9.9458772
 postcode: 97080
 city: Würzburg
-street: Schweinfurter Straße
+street: "Schweinfurter Straße"
 housenumber: 6
 phone: ""
 opening_hours: ""

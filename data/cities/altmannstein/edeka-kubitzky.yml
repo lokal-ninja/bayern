@@ -5,7 +5,7 @@ latitude: 48.9001272
 longitude: 11.6440316
 postcode: 93336
 city: Altmannstein
-street: Galgenbergring
+street: "Galgenbergring"
 housenumber: 19
 phone: "+49 9446 918547"
 opening_hours: "Mo-Fr 08:00-20:00;Sa 07:00-20:00"

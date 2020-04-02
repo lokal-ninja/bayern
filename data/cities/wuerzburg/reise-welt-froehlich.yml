@@ -5,7 +5,7 @@ latitude: 49.7969978
 longitude: 9.9307291
 postcode: 97070
 city: Würzburg
-street: Juliuspromenade
+street: "Juliuspromenade"
 housenumber: 58
 phone: ""
 opening_hours: ""

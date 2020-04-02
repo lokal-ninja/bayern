@@ -5,7 +5,7 @@ latitude: 47.821058400000005
 longitude: 12.641826100000001
 postcode: 83313
 city: Siegsdorf
-street: Adelholzener Straße
+street: "Adelholzener Straße"
 housenumber: 2
 phone: "+49 176 62401880"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.999538300000005
 longitude: 9.1874071
 postcode: 63773
 city: Goldbach
-street: Sandgraben
+street: "Sandgraben"
 housenumber: 12
 phone: ""
 opening_hours: ""

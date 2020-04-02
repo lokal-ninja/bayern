@@ -5,7 +5,7 @@ latitude: 48.169726600000004
 longitude: 12.8312185
 postcode: 84489
 city: Burghausen
-street: Marktler Straße
+street: "Marktler Straße"
 housenumber: 20
 phone: ""
 opening_hours: ""

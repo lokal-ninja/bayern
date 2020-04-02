@@ -5,7 +5,7 @@ latitude: 49.462469000000006
 longitude: 11.077007700000001
 postcode: 90408
 city: Nürnberg
-street: Kaulbachstraße
+street: "Kaulbachstraße"
 housenumber: 19
 phone: "+49-911-353243"
 opening_hours: "We-Sa 09:00-13:00, We-Fr 15:00-18:00"

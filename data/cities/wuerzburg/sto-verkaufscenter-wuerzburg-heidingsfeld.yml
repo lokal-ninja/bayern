@@ -5,7 +5,7 @@ latitude: 49.759446000000004
 longitude: 9.9628198
 postcode: 97084
 city: Würzburg
-street: Eisenbahnstraße
+street: "Eisenbahnstraße"
 housenumber: 57
 phone: ""
 opening_hours: "Mo-Th 07:00-16:30; Fr 07:00-14:00"

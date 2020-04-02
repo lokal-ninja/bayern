@@ -5,7 +5,7 @@ latitude: 49.9366174
 longitude: 11.533225300000002
 postcode: 95447
 city: Bayreuth
-street: Donndorfer Straße
+street: "Donndorfer Straße"
 housenumber: 2
 phone: ""
 opening_hours: ""

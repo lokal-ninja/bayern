@@ -5,7 +5,7 @@ latitude: 48.4964418
 longitude: 11.456880900000002
 postcode: 
 city: Scheyern
-street: Fernhager Straße
+street: "Fernhager Straße"
 housenumber: 
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00; Su 07:30-10:30"

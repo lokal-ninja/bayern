@@ -5,7 +5,7 @@ latitude: 50.038232400000005
 longitude: 12.002610200000001
 postcode: 95632
 city: Wunsiedel
-street: Maximilianstraße
+street: "Maximilianstraße"
 housenumber: 33
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.773577700000004
 longitude: 11.608474600000001
 postcode: 85088
 city: Vohburg a.d.Donau
-street: Habichtstraße
+street: "Habichtstraße"
 housenumber: 40
 phone: "+49 8457 930455"
 opening_hours: "Tu 16:00-18:00; Fr 10:00-12:00, 16:00-18:00; Sa 10:00-12:00"

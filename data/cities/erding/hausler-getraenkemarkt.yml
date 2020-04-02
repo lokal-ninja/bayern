@@ -5,7 +5,7 @@ latitude: 48.307810700000005
 longitude: 11.9125507
 postcode: 85435
 city: Erding
-street: Landshuter Straße
+street: "Landshuter Straße"
 housenumber: 45
 phone: ""
 opening_hours: "Mo-Fr 08:30-18:00, Sa 08:30-13:00"

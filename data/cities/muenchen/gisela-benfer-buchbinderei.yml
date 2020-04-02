@@ -5,7 +5,7 @@ latitude: 48.163906000000004
 longitude: 11.5819621
 postcode: 
 city: München
-street: Clemensstraße
+street: "Clemensstraße"
 housenumber: 22
 phone: ""
 opening_hours: ""

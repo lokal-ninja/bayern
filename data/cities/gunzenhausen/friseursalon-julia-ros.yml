@@ -5,7 +5,7 @@ latitude: 49.1127088
 longitude: 10.754927700000001
 postcode: 91710
 city: Gunzenhausen
-street: Weißenburger Straße
+street: "Weißenburger Straße"
 housenumber: 8
 phone: "+49 9831 22 42"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.1500092
 longitude: 11.5389586
 postcode: 80636
 city: München
-street: Blutenburgstraße
+street: "Blutenburgstraße"
 housenumber: 55
 phone: ""
 opening_hours: ""

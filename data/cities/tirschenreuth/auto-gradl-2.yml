@@ -5,7 +5,7 @@ latitude: 49.873109400000004
 longitude: 12.341128000000001
 postcode: 95643
 city: Tirschenreuth
-street: Äußere Regensburger Straße
+street: "Äußere Regensburger Straße"
 housenumber: 48
 phone: "+49 9631 2067"
 opening_hours: ""

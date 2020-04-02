@@ -5,7 +5,7 @@ latitude: 48.1595141
 longitude: 11.5468886
 postcode: 80636
 city: München
-street: Leonrodplatz
+street: "Leonrodplatz"
 housenumber: 5
 phone: ""
 opening_hours: ""

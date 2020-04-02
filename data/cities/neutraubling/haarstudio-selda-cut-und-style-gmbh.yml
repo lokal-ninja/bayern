@@ -5,7 +5,7 @@ latitude: 48.980602700000006
 longitude: 12.190928000000001
 postcode: 93073
 city: Neutraubling
-street: Stettiner Straße
+street: "Stettiner Straße"
 housenumber: 3
 phone: "+49 9401 911955"
 opening_hours: "Mo-Fr 08:00-19:00; Sa 07:00-18:00"

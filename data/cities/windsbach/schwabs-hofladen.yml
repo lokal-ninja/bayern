@@ -5,7 +5,7 @@ latitude: 49.277672900000006
 longitude: 10.861488600000001
 postcode: 91575
 city: Windsbach
-street: Suddersdorf
+street: "Suddersdorf"
 housenumber: 25
 phone: "+49 9871 477"
 opening_hours: "Fr 09:00-18:00; Sa 09:00-14:00; alternative times only after reservation by phone; PH off"

@@ -5,7 +5,7 @@ latitude: 48.070097200000006
 longitude: 10.6453913
 postcode: 86842
 city: Türkheim
-street: Augsburger Straße
+street: "Augsburger Straße"
 housenumber: 58
 phone: ""
 opening_hours: "Mo-Fr 08:00-17:00"

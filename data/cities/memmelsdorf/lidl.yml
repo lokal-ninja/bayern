@@ -5,7 +5,7 @@ latitude: 49.9378164
 longitude: 10.9659271
 postcode: 96117
 city: Memmelsdorf
-street: Josef-Fösel-Straße
+street: "Josef-Fösel-Straße"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00;Su, PH off"

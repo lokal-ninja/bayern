@@ -5,7 +5,7 @@ latitude: 48.511562500000004
 longitude: 11.9032429
 postcode: 85419
 city: Mauern
-street: Alpersdorfer Straße
+street: "Alpersdorfer Straße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00"

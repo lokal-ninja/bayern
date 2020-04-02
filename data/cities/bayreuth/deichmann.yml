@@ -5,7 +5,7 @@ latitude: 49.9598359
 longitude: 11.6044236
 postcode: 
 city: Bayreuth
-street: Theodor-Schmidt-Straße
+street: "Theodor-Schmidt-Straße"
 housenumber: 14
 phone: ""
 opening_hours: ""

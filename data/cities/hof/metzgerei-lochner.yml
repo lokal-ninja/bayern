@@ -5,7 +5,7 @@ latitude: 50.3239462
 longitude: 11.919470800000001
 postcode: 95028
 city: Hof
-street: Unteres Tor
+street: "Unteres Tor"
 housenumber: 2
 phone: ""
 opening_hours: ""

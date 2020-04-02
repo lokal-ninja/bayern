@@ -5,7 +5,7 @@ latitude: 48.035465200000004
 longitude: 10.5019506
 postcode: 
 city: Mindelheim
-street: Nebelhornstraße
+street: "Nebelhornstraße"
 housenumber: 10
 phone: ""
 opening_hours: ""

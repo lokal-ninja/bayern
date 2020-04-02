@@ -5,7 +5,7 @@ latitude: 49.058260800000006
 longitude: 12.1312981
 postcode: 93057
 city: Regensburg
-street: Kulmbacher Straße
+street: "Kulmbacher Straße"
 housenumber: 1
 phone: "+49 941 65432"
 opening_hours: "Mo-Fr 09:00-12:00,13:30-18:00; Sa 09:00-13:00"

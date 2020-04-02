@@ -5,7 +5,7 @@ latitude: 48.1809379
 longitude: 11.798070000000001
 postcode: 85586
 city: Poing
-street: Schwanenstraße
+street: "Schwanenstraße"
 housenumber: 1
 phone: "+49 81217779864"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"

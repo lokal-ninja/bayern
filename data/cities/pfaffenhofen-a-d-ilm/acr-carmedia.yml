@@ -5,7 +5,7 @@ latitude: 48.529495100000005
 longitude: 11.5355741
 postcode: 85276
 city: Pfaffenhofen a.d. Ilm
-street: Schweitenkirchener Straße
+street: "Schweitenkirchener Straße"
 housenumber: 17
 phone: "+49 8441 490113"
 opening_hours: ""

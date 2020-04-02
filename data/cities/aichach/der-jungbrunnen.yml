@@ -5,7 +5,7 @@ latitude: 48.456712800000005
 longitude: 11.1288741
 postcode: 86551
 city: Aichach
-street: Werlbergerstraße
+street: "Werlbergerstraße"
 housenumber: 15
 phone: "+49 8251 8869122"
 opening_hours: "Mo-Th 10:00-13:30,14:30-19:00; Fr 10:00-13:30,14:30-18:00; Sa 10:00-14:00; PH off"

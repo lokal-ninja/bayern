@@ -5,7 +5,7 @@ latitude: 48.187237800000005
 longitude: 11.5625876
 postcode: 80809
 city: München
-street: Motorstraße
+street: "Motorstraße"
 housenumber: 43-45
 phone: "+49 89 356 528 56"
 opening_hours: "Mo-Sa 09:00-20:00"

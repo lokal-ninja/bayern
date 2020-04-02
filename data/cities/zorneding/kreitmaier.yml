@@ -5,7 +5,7 @@ latitude: 48.083283300000005
 longitude: 11.825570800000001
 postcode: 85604
 city: Zorneding
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 1a
 phone: ""
 opening_hours: ""

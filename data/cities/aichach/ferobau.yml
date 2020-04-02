@@ -5,7 +5,7 @@ latitude: 48.4354638
 longitude: 11.117197
 postcode: 86551
 city: Aichach
-street: Ludwig-Erhard-Straße
+street: "Ludwig-Erhard-Straße"
 housenumber: 7
 phone: ""
 opening_hours: ""

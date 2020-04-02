@@ -5,7 +5,7 @@ latitude: 48.7527221
 longitude: 11.452309600000001
 postcode: 85053
 city: Ingolstadt
-street: Manchinger Straße
+street: "Manchinger Straße"
 housenumber: 86
 phone: "+49 841 965030"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 47.744592600000004
 longitude: 10.3233785
 postcode: 87437
 city: Kempten (Allgäu)
-street: Kaufbeurer Straße
+street: "Kaufbeurer Straße"
 housenumber: 150
 phone: ""
 opening_hours: ""

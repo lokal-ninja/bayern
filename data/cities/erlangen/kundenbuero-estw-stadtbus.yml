@@ -5,7 +5,7 @@ latitude: 49.5966505
 longitude: 11.002547600000002
 postcode: 91054
 city: Erlangen
-street: Goethestraße
+street: "Goethestraße"
 housenumber: 21a
 phone: "+49 9131 8234470"
 opening_hours: "Mo-Fr 09:00-18:00; Sa, Su, PH off"

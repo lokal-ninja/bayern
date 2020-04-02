@@ -5,7 +5,7 @@ latitude: 48.833675500000005
 longitude: 12.961092200000001
 postcode: 94469
 city: Deggendorf
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 10
 phone: ""
 opening_hours: ""

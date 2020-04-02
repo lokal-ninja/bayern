@@ -5,7 +5,7 @@ latitude: 49.642461700000005
 longitude: 11.0006793
 postcode: 91096
 city: Möhrendorf
-street: Schulstraße
+street: "Schulstraße"
 housenumber: 15
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-14:00"

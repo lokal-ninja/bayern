@@ -5,7 +5,7 @@ latitude: 50.0361071
 longitude: 10.258243700000001
 postcode: 97526
 city: Sennfeld
-street: Hermann-Schuman-Straße
+street: "Hermann-Schuman-Straße"
 housenumber: 6
 phone: "+49 9721 54 14 34 – 0"
 opening_hours: ""

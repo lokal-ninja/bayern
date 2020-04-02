@@ -5,7 +5,7 @@ latitude: 47.868890500000006
 longitude: 11.1641353
 postcode: 82407
 city: Wielenbach
-street: Primelstraße
+street: "Primelstraße"
 housenumber: 2
 phone: "+49 881 3392"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.1879414
 longitude: 11.5799763
 postcode: 80807
 city: München
-street: Frankfurter Ring
+street: "Frankfurter Ring"
 housenumber: 85
 phone: ""
 opening_hours: ""

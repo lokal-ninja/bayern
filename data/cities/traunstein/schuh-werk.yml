@@ -5,7 +5,7 @@ latitude: 47.8686455
 longitude: 12.6495657
 postcode: 83278
 city: Traunstein
-street: Mittlere Hofgasse
+street: "Mittlere Hofgasse"
 housenumber: 8
 phone: "+49 861 164113"
 opening_hours: "Mo-Fr 09:00-12:00,14:00-18:00; Th 09:00-12:00"

@@ -5,7 +5,7 @@ latitude: 48.135552000000004
 longitude: 11.663678500000001
 postcode: 81829
 city: München
-street: Valentin-Linhof-Straße
+street: "Valentin-Linhof-Straße"
 housenumber: 4
 phone: "+49 89 4377 8390"
 opening_hours: ""

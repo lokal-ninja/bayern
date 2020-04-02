@@ -5,7 +5,7 @@ latitude: 49.8593751
 longitude: 10.231893300000001
 postcode: 97332
 city: Volkach
-street: Dimbacher Straße
+street: "Dimbacher Straße"
 housenumber: 40
 phone: "+49 9381 8463484"
 opening_hours: "Mo-Sa 07:00-20:00"

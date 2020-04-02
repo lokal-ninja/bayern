@@ -5,7 +5,7 @@ latitude: 49.456833
 longitude: 10.5935
 postcode: 90619
 city: Trautskirchen
-street: Hans-Böckler-Straße
+street: "Hans-Böckler-Straße"
 housenumber: 3
 phone: ""
 opening_hours: ""

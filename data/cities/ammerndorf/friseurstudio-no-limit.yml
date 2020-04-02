@@ -5,7 +5,7 @@ latitude: 49.423289200000006
 longitude: 10.851043
 postcode: 90614
 city: Ammerndorf
-street: Am Moosrangen
+street: "Am Moosrangen"
 housenumber: 12
 phone: "+49 9127 9054040"
 opening_hours: ""

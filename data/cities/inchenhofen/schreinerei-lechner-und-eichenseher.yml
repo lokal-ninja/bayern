@@ -5,7 +5,7 @@ latitude: 48.508312600000004
 longitude: 11.123409500000001
 postcode: 86570
 city: Inchenhofen
-street: Am Weiherbach
+street: "Am Weiherbach"
 housenumber: 4
 phone: ""
 opening_hours: ""

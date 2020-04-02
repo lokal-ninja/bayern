@@ -5,7 +5,7 @@ latitude: 50.134394
 longitude: 11.046519
 postcode: 96215
 city: Lichtenfels
-street: Bamberger Straße
+street: "Bamberger Straße"
 housenumber: 125
 phone: "+49 9571 940300"
 opening_hours: "Mo-Fr 09:00-12:30,14:00-18:00"

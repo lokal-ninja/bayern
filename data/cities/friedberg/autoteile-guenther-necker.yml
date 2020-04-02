@@ -5,7 +5,7 @@ latitude: 48.3543366
 longitude: 10.9793151
 postcode: 86316
 city: Friedberg
-street: Jungbräustraße
+street: "Jungbräustraße"
 housenumber: 3
 phone: "+49 821 601368"
 opening_hours: "Mo-Fr 08:00-12:00,14:00-17:30; We 08:00-12:00; Sa 09:00-12:00"

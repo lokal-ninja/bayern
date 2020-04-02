@@ -5,7 +5,7 @@ latitude: 49.2523697
 longitude: 11.0869125
 postcode: 91154
 city: Roth
-street: Nürnberger Straße
+street: "Nürnberger Straße"
 housenumber: 41
 phone: "+49 9171 98120"
 opening_hours: "Mo-Sa 07:00-20:00"

@@ -5,7 +5,7 @@ latitude: 49.9096549
 longitude: 9.1509476
 postcode: 63834
 city: Sulzbach am Main
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

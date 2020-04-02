@@ -5,7 +5,7 @@ latitude: 47.8331804
 longitude: 11.1377308
 postcode: 82362
 city: Weilheim in Oberbayern
-street: Oderdinger Straße
+street: "Oderdinger Straße"
 housenumber: 3
 phone: "+49 881 61825"
 opening_hours: ""

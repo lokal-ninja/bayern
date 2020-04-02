@@ -5,7 +5,7 @@ latitude: 47.8393438
 longitude: 11.1404995
 postcode: 82362
 city: Weilheim in Oberbayern
-street: Kreuzgasse
+street: "Kreuzgasse"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-13:00; Su 07:30-11:30"

@@ -5,7 +5,7 @@ latitude: 49.9470796
 longitude: 11.7023688
 postcode: 95466
 city: Weidenberg
-street: Grund
+street: "Grund"
 housenumber: 3
 phone: "+49 9278 1461"
 opening_hours: "Mo 15:00-18:00; We 15:00-18:00; Fr 15:00-18:00"

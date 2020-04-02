@@ -5,7 +5,7 @@ latitude: 49.5984485
 longitude: 11.0029768
 postcode: 91054
 city: Erlangen
-street: Dreikönigstraße
+street: "Dreikönigstraße"
 housenumber: 6-8
 phone: "+49 9131 205542"
 opening_hours: "Mo-Th 09:00-22:00,Fr 09:00-20:30,Sa 13:00-18:00, Su 10:00-17:00"

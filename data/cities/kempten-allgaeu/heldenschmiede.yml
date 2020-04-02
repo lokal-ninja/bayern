@@ -5,7 +5,7 @@ latitude: 47.724833000000004
 longitude: 10.320700200000001
 postcode: 87435
 city: Kempten (Allgäu)
-street: Bäckerstraße
+street: "Bäckerstraße"
 housenumber: 15
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.4627532
 longitude: 11.1412939
 postcode: 90482
 city: Nürnberg
-street: Laufamholzstraße
+street: "Laufamholzstraße"
 housenumber: 78
 phone: ""
 opening_hours: ""

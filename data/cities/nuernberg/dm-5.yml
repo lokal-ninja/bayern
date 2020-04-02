@@ -5,7 +5,7 @@ latitude: 49.518314800000006
 longitude: 11.032854700000001
 postcode: 90427
 city: Nürnberg
-street: Lichtenfelser Straße
+street: "Lichtenfelser Straße"
 housenumber: 2a
 phone: "+49 911 30709554"
 opening_hours: "Mo-Sa 08:00-20:00"

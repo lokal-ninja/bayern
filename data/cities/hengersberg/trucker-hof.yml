@@ -5,7 +5,7 @@ latitude: 48.7670918
 longitude: 13.043507400000001
 postcode: 94491
 city: Hengersberg
-street: Donaustraße
+street: "Donaustraße"
 housenumber: 4
 phone: "+49 9901 2007297"
 opening_hours: ""

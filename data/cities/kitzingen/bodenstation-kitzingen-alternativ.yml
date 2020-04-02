@@ -5,7 +5,7 @@ latitude: 49.7366626
 longitude: 10.1587057
 postcode: 97318
 city: Kitzingen
-street: Rosenstraße
+street: "Rosenstraße"
 housenumber: 17
 phone: "+49(0)9321 - 2 47 35"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.2012781
 longitude: 11.606938300000001
 postcode: 80939
 city: München
-street: Karl-Köglsperger-Straße
+street: "Karl-Köglsperger-Straße"
 housenumber: 15
 phone: "+49 89 37158804"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; PH off"

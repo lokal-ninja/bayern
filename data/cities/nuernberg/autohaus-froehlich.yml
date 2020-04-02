@@ -5,7 +5,7 @@ latitude: 49.43054780000001
 longitude: 11.042549900000001
 postcode: 90441
 city: Nürnberg
-street: Gustav-Adolf-Straße
+street: "Gustav-Adolf-Straße"
 housenumber: 135
 phone: "+49 911 954080"
 opening_hours: ""

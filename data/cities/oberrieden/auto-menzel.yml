@@ -5,7 +5,7 @@ latitude: 48.0834836
 longitude: 10.424130100000001
 postcode: 87769
 city: Oberrieden
-street: Haldenweg
+street: "Haldenweg"
 housenumber: 2
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.48629570000001
 longitude: 10.375105000000001
 postcode: 89362
 city: Offingen
-street: Pfaffenbogen
+street: "Pfaffenbogen"
 housenumber: 22
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.805970900000005
 longitude: 11.37001
 postcode: 85080
 city: Gaimersheim
-street: Steinbruck
+street: "Steinbruck"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Fr 07:00-20:00; PH closed"

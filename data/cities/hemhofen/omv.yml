@@ -5,7 +5,7 @@ latitude: 49.686361700000006
 longitude: 10.938900400000001
 postcode: 91334
 city: Hemhofen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 38
 phone: ""
 opening_hours: "Mo-Fr 06:00-22:00;Sa 07:00-22:00;Su 07:30-22:00"

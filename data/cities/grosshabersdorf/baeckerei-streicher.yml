@@ -5,7 +5,7 @@ latitude: 49.404423900000005
 longitude: 10.791043700000001
 postcode: 90613
 city: Großhabersdorf
-street: Nürnberger Straße
+street: "Nürnberger Straße"
 housenumber: 20
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 47.49218380000001
 longitude: 11.089970300000001
 postcode: 82467
 city: Garmisch-Partenkirchen
-street: Klammstraße
+street: "Klammstraße"
 housenumber: 16
 phone: "+49 8821 9667491"
 opening_hours: ""

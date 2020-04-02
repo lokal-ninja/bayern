@@ -5,7 +5,7 @@ latitude: 48.1618459
 longitude: 11.562372600000002
 postcode: 80797
 city: München
-street: Winzererstraße
+street: "Winzererstraße"
 housenumber: 92
 phone: "+49 89 30 55 17"
 opening_hours: ""

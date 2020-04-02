@@ -5,7 +5,7 @@ latitude: 48.6493188
 longitude: 11.4805436
 postcode: 85084
 city: Reichertshofen
-street: Wackerstraße
+street: "Wackerstraße"
 housenumber: 27
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.030817000000006
 longitude: 12.1277416
 postcode: 93059
 city: Regensburg
-street: Im Gewerbepark
+street: "Im Gewerbepark"
 housenumber: D30c
 phone: "+49 941 4646994"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.138721800000006
 longitude: 11.610364800000001
 postcode: 81677
 city: München
-street: Prinzregentenstraße
+street: "Prinzregentenstraße"
 housenumber: 105
 phone: "+49 89 476457"
 opening_hours: "Mo 07:00-13:00; Tu-Fr 07:00-16:00; Sa 08:00-12:00"

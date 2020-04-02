@@ -5,7 +5,7 @@ latitude: 49.979386000000005
 longitude: 9.1558322
 postcode: 63739
 city: Aschaffenburg
-street: Fabrikstraße
+street: "Fabrikstraße"
 housenumber: 50
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 47.9493859
 longitude: 11.220488300000001
 postcode: 82346
 city: Andechs
-street: Angerweg
+street: "Angerweg"
 housenumber: 4
 phone: "+49 8157 900846"
 opening_hours: ""

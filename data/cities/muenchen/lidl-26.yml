@@ -5,7 +5,7 @@ latitude: 48.1524859
 longitude: 11.476936400000001
 postcode: 81245
 city: München
-street: Paul-Gerhardt-Allee
+street: "Paul-Gerhardt-Allee"
 housenumber: 34-36
 phone: "+49 800 4353361"
 opening_hours: "Mo-Sa 08:00-20:00"

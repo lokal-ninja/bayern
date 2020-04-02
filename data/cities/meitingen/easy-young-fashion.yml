@@ -5,7 +5,7 @@ latitude: 48.541507100000004
 longitude: 10.8526758
 postcode: 86405
 city: Meitingen
-street: Schloßstraße
+street: "Schloßstraße"
 housenumber: 7
 phone: ""
 opening_hours: ""

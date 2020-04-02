@@ -5,7 +5,7 @@ latitude: 48.143796300000005
 longitude: 11.4235988
 postcode: 81243
 city: München
-street: Limesstraße
+street: "Limesstraße"
 housenumber: 111
 phone: "+49 89 872500"
 opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-13:00"

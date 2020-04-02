@@ -5,7 +5,7 @@ latitude: 48.566904
 longitude: 12.156390100000001
 postcode: 84030
 city: Ergolding
-street: Mendelstraße
+street: "Mendelstraße"
 housenumber: 11
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.106860600000005
 longitude: 11.4406712
 postcode: 92334
 city: Berching
-street: Hubstraße
+street: "Hubstraße"
 housenumber: 4
 phone: "+49 8462 2236"
 opening_hours: ""

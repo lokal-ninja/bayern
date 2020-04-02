@@ -5,7 +5,7 @@ latitude: 48.1778448
 longitude: 10.7576356
 postcode: 86830
 city: Schwabmünchen
-street: Luitpoldstraße
+street: "Luitpoldstraße"
 housenumber: 16
 phone: "+49 8232 2697"
 opening_hours: ""

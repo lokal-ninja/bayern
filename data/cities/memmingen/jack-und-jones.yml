@@ -5,7 +5,7 @@ latitude: 47.98366660000001
 longitude: 10.1820752
 postcode: 87700
 city: Memmingen
-street: Kramerstraße
+street: "Kramerstraße"
 housenumber: 43
 phone: ""
 opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00"

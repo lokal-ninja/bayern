@@ -5,7 +5,7 @@ latitude: 49.026911000000005
 longitude: 12.750585500000001
 postcode: 
 city: Haibach
-street: Azoplatz
+street: "Azoplatz"
 housenumber: 8
 phone: ""
 opening_hours: ""

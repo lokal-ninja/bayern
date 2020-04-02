@@ -5,7 +5,7 @@ latitude: 49.010685
 longitude: 12.100604
 postcode: 93053
 city: Regensburg
-street: Friedenstraße
+street: "Friedenstraße"
 housenumber: 23
 phone: "+49 941 560525"
 opening_hours: "Mo-Fr 09:30-20:00"

@@ -5,7 +5,7 @@ latitude: 48.395985100000004
 longitude: 10.912395700000001
 postcode: 86169
 city: Augsburg
-street: Karlsbader Straße
+street: "Karlsbader Straße"
 housenumber: 19
 phone: ""
 opening_hours: "Tu-Fr 09:00-17:00, Sa 08:00-14:00"

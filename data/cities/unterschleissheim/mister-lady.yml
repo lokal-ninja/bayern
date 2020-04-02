@@ -5,7 +5,7 @@ latitude: 48.290832300000005
 longitude: 11.570148000000001
 postcode: 85716
 city: Unterschleißheim
-street: Morsestraße
+street: "Morsestraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

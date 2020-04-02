@@ -5,7 +5,7 @@ latitude: 48.213547500000004
 longitude: 11.3658493
 postcode: 82140
 city: Olching
-street: Reiterstraße
+street: "Reiterstraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

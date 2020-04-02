@@ -5,7 +5,7 @@ latitude: 47.747919800000005
 longitude: 11.385087400000002
 postcode: 82377
 city: Penzberg
-street: Fraunhoferstraße
+street: "Fraunhoferstraße"
 housenumber: 16
 phone: "+49 8856 935550"
 opening_hours: ""

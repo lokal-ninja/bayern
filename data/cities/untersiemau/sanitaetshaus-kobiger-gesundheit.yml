@@ -5,7 +5,7 @@ latitude: 50.196522300000005
 longitude: 10.9656119
 postcode: 96253
 city: Untersiemau
-street: Hutstraße
+street: "Hutstraße"
 housenumber: 1a
 phone: ""
 opening_hours: "Mo,Tu,Th,Fr 09:00-16:30, We 08:00-18:00"

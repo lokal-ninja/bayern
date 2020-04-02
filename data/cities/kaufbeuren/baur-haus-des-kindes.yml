@@ -5,7 +5,7 @@ latitude: 47.879235200000004
 longitude: 10.6225073
 postcode: 87600
 city: Kaufbeuren
-street: Ludwigstraße
+street: "Ludwigstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

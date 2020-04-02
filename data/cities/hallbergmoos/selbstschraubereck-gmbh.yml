@@ -5,7 +5,7 @@ latitude: 48.3155378
 longitude: 11.7426974
 postcode: 85399
 city: Hallbergmoos
-street: Auenstraße
+street: "Auenstraße"
 housenumber: 1
 phone: "+49 811 9989631"
 opening_hours: ""

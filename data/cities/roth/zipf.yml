@@ -5,7 +5,7 @@ latitude: 49.2467698
 longitude: 11.0905862
 postcode: 91154
 city: Roth
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 31
 phone: ""
 opening_hours: ""

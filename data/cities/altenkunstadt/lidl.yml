@@ -5,7 +5,7 @@ latitude: 50.1308895
 longitude: 11.243530400000001
 postcode: 96264
 city: Altenkunstadt
-street: Weismainer Straße
+street: "Weismainer Straße"
 housenumber: 15
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

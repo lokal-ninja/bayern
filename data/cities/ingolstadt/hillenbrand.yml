@@ -5,7 +5,7 @@ latitude: 48.7540089
 longitude: 11.432559600000001
 postcode: 85053
 city: Ingolstadt
-street: Zainerstraße
+street: "Zainerstraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

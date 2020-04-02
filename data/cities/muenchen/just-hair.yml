@@ -5,7 +5,7 @@ latitude: 48.1617769
 longitude: 11.587158700000002
 postcode: 80802
 city: München
-street: Feilitzschstraße
+street: "Feilitzschstraße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Fr 09:30-19:30; Sa 09:30-16:00"

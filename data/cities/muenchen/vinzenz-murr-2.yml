@@ -5,7 +5,7 @@ latitude: 48.1490979
 longitude: 11.6407013
 postcode: 81927
 city: München
-street: Ostpreußenstraße
+street: "Ostpreußenstraße"
 housenumber: 22
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00; Sa 07:30-14:00"

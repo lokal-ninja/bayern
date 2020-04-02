@@ -5,7 +5,7 @@ latitude: 49.4865672
 longitude: 10.957522500000001
 postcode: 90766
 city: Fürth
-street: Hansastraße
+street: "Hansastraße"
 housenumber: 22
 phone: ""
 opening_hours: ""

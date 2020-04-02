@@ -5,7 +5,7 @@ latitude: 47.842503300000004
 longitude: 12.607076000000001
 postcode: 83377
 city: Vachendorf
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 12
 phone: ""
 opening_hours: ""

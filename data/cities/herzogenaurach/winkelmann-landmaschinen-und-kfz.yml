@@ -5,7 +5,7 @@ latitude: 49.5578304
 longitude: 10.914653000000001
 postcode: 91074
 city: Herzogenaurach
-street: Am Behälterberg
+street: "Am Behälterberg"
 housenumber: 6
 phone: "+49 9132 60623"
 opening_hours: ""

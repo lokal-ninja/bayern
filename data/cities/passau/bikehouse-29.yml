@@ -5,7 +5,7 @@ latitude: 48.5740143
 longitude: 13.4494836
 postcode: 94032
 city: Passau
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 29
 phone: "+49 800 4602460"
 opening_hours: ""

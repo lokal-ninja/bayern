@@ -5,7 +5,7 @@ latitude: 49.595111700000004
 longitude: 11.0040552
 postcode: 91054
 city: Erlangen
-street: Innere Brucker Straße
+street: "Innere Brucker Straße"
 housenumber: 3
 phone: "+49 9131 21265"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:30-13:00"

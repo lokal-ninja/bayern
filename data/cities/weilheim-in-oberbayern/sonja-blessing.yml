@@ -5,7 +5,7 @@ latitude: 47.833867500000004
 longitude: 11.1367477
 postcode: 82362
 city: Weilheim in Oberbayern
-street: Lilienstraße
+street: "Lilienstraße"
 housenumber: 8
 phone: "+49 881 9278877"
 opening_hours: ""

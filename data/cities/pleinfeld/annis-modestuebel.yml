@@ -5,7 +5,7 @@ latitude: 49.1042348
 longitude: 10.9871438
 postcode: 91785
 city: Pleinfeld
-street: Brückenstraße
+street: "Brückenstraße"
 housenumber: 8
 phone: "+49171 1018122"
 opening_hours: ""

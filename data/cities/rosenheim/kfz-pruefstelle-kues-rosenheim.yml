@@ -5,7 +5,7 @@ latitude: 47.860416900000004
 longitude: 12.111020600000002
 postcode: 83024
 city: Rosenheim
-street: Hubertusstraße
+street: "Hubertusstraße"
 housenumber: 45
 phone: "+49 8031 2336810"
 opening_hours: ""

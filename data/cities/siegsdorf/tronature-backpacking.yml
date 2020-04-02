@@ -5,7 +5,7 @@ latitude: 47.792312800000005
 longitude: 12.647987500000001
 postcode: 83313
 city: Siegsdorf
-street: Buchecker Weg
+street: "Buchecker Weg"
 housenumber: 1
 phone: ""
 opening_hours: "24/7"

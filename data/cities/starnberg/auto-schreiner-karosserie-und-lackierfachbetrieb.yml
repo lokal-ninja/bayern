@@ -5,7 +5,7 @@ latitude: 48.022132400000004
 longitude: 11.3252319
 postcode: 82319
 city: Starnberg
-street: Hirtwiesweg
+street: "Hirtwiesweg"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Fr 08:00-12:00,13:00-17:00"

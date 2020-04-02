@@ -5,7 +5,7 @@ latitude: 48.365181400000004
 longitude: 11.3780283
 postcode: 85229
 city: Markt Indersdorf
-street: Freisinger Straße
+street: "Freisinger Straße"
 housenumber: 44
 phone: ""
 opening_hours: ""

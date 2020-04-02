@@ -5,7 +5,7 @@ latitude: 48.101395000000004
 longitude: 11.630352400000001
 postcode: 81737
 city: München
-street: Pfanzeltplatz
+street: "Pfanzeltplatz"
 housenumber: 17
 phone: ""
 opening_hours: ""

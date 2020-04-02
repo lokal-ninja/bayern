@@ -5,7 +5,7 @@ latitude: 48.132746000000004
 longitude: 11.5771561
 postcode: 80469
 city: München
-street: Buttermelcherstraße
+street: "Buttermelcherstraße"
 housenumber: 6
 phone: ""
 opening_hours: "Tu-Fr 09:00-18:30; Sa 08:30-13:00"

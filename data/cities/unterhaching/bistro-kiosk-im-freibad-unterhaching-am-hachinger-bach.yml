@@ -5,7 +5,7 @@ latitude: 48.063007500000005
 longitude: 11.6205952
 postcode: 82008
 city: Unterhaching
-street: Schrenkstraße
+street: "Schrenkstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

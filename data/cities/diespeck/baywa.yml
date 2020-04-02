@@ -5,7 +5,7 @@ latitude: 49.5907416
 longitude: 10.624256800000001
 postcode: 91456
 city: Diespeck
-street: Neustädter Straße
+street: "Neustädter Straße"
 housenumber: 53
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.278447
 longitude: 10.836043400000001
 postcode: 86399
 city: Bobingen
-street: Wertachstraße
+street: "Wertachstraße"
 housenumber: 11
 phone: "+49 176 24988328"
 opening_hours: "Mo-Fr 16:00-19:00; Sa 10:00-18:00"

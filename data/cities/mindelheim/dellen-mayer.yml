@@ -5,7 +5,7 @@ latitude: 48.035938300000005
 longitude: 10.4960053
 postcode: 
 city: Mindelheim
-street: Fellhornstraße
+street: "Fellhornstraße"
 housenumber: 13
 phone: ""
 opening_hours: ""

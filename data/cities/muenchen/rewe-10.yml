@@ -5,7 +5,7 @@ latitude: 48.150592700000004
 longitude: 11.601493000000001
 postcode: 81679
 city: München
-street: Pienzenauerstraße
+street: "Pienzenauerstraße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

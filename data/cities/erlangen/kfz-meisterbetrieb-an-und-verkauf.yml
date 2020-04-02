@@ -5,7 +5,7 @@ latitude: 49.585150500000005
 longitude: 10.991526
 postcode: 91052
 city: Erlangen
-street: Neckarstraße
+street: "Neckarstraße"
 housenumber: 13
 phone: ""
 opening_hours: ""

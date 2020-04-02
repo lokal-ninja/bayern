@@ -5,7 +5,7 @@ latitude: 48.10507500000001
 longitude: 10.771028000000001
 postcode: 86853
 city: Langerringen
-street: Bauernstraße
+street: "Bauernstraße"
 housenumber: 5
 phone: "+49 8248 7693"
 opening_hours: ""

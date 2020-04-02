@@ -5,7 +5,7 @@ latitude: 49.99505550000001
 longitude: 9.576302
 postcode: 97816
 city: Lohr am Main
-street: Lohrtorstraße
+street: "Lohrtorstraße"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-17:00; So,PH 07:00-17:00"

@@ -5,7 +5,7 @@ latitude: 48.571812
 longitude: 13.453948200000001
 postcode: 94032
 city: Passau
-street: Dr.-Hans-Kapfinger-Straße
+street: "Dr.-Hans-Kapfinger-Straße"
 housenumber: 30
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 47.870380600000004
 longitude: 12.647427200000001
 postcode: 83278
 city: Traunstein
-street: Schaumburgerstraße
+street: "Schaumburgerstraße"
 housenumber: 25
 phone: ""
 opening_hours: ""

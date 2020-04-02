@@ -5,7 +5,7 @@ latitude: 48.570052100000005
 longitude: 10.846425
 postcode: 86707
 city: Westendorf
-street: Gewerbestraße
+street: "Gewerbestraße"
 housenumber: 15
 phone: ""
 opening_hours: ""

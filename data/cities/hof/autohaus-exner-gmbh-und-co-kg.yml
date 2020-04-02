@@ -5,7 +5,7 @@ latitude: 50.304071500000006
 longitude: 11.9172404
 postcode: 95032
 city: Hof
-street: Wunsiedler Straße
+street: "Wunsiedler Straße"
 housenumber: 2
 phone: ""
 opening_hours: ""

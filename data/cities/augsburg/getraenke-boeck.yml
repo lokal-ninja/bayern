@@ -5,7 +5,7 @@ latitude: 48.313340800000006
 longitude: 10.8594206
 postcode: 86199
 city: Augsburg
-street: Oktavianstraße
+street: "Oktavianstraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

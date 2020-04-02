@@ -5,7 +5,7 @@ latitude: 48.1075144
 longitude: 11.730914100000001
 postcode: 85540
 city: Haar
-street: Wasserburger Straße
+street: "Wasserburger Straße"
 housenumber: 13a
 phone: ""
 opening_hours: "Mo-Th 08:30-18:00; Fr 08:30-16:00"

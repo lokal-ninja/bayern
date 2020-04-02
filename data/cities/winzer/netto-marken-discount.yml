@@ -5,7 +5,7 @@ latitude: 48.729759900000005
 longitude: 13.062395800000001
 postcode: 94577
 city: Winzer
-street: Aupoint
+street: "Aupoint"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

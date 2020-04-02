@@ -5,7 +5,7 @@ latitude: 49.591244800000005
 longitude: 11.009070300000001
 postcode: 91052
 city: Erlangen
-street: Schuhstraße
+street: "Schuhstraße"
 housenumber: 45
 phone: ""
 opening_hours: "Mo-Th 08:30-12:00,14:00-17:00; Fr 08:30-14:00"

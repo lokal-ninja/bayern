@@ -5,7 +5,7 @@ latitude: 49.443417600000004
 longitude: 11.845312100000001
 postcode: 92224
 city: Amberg
-street: Sechserstraße
+street: "Sechserstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

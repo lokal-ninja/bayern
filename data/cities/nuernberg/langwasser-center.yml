@@ -5,7 +5,7 @@ latitude: 49.4014411
 longitude: 11.134515200000001
 postcode: 90473
 city: Nürnberg
-street: Oppelner Straße
+street: "Oppelner Straße"
 housenumber: 223
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

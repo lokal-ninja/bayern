@@ -5,7 +5,7 @@ latitude: 48.313891700000006
 longitude: 11.743458100000002
 postcode: 85399
 city: Hallbergmoos
-street: Freisinger Straße
+street: "Freisinger Straße"
 housenumber: 30 a
 phone: "+49 811 94640"
 opening_hours: "Mo-Fr 08:00-18:30, Sa 08:00-20:00; Su off"

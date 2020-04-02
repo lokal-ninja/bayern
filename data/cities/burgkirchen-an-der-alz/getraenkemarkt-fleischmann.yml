@@ -5,7 +5,7 @@ latitude: 48.1722344
 longitude: 12.726654900000002
 postcode: 84508
 city: Burgkirchen an der Alz
-street: Jahnstraße
+street: "Jahnstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 08:30-19:00; Sa 08:00-16:00"

@@ -5,7 +5,7 @@ latitude: 48.1120352
 longitude: 11.548989
 postcode: 
 city: München
-street: Thalkirchner Straße
+street: "Thalkirchner Straße"
 housenumber: 137
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

@@ -5,7 +5,7 @@ latitude: 50.258635500000004
 longitude: 10.9643422
 postcode: 96450
 city: Coburg
-street: Markt
+street: "Markt"
 housenumber: 9
 phone: "+49 9561 80870"
 opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-17:00"

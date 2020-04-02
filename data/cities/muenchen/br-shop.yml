@@ -5,7 +5,7 @@ latitude: 48.142808900000006
 longitude: 11.5539377
 postcode: 80335
 city: München
-street: Arnulfstraße
+street: "Arnulfstraße"
 housenumber: 42
 phone: "+49 89 59 00 10 820"
 opening_hours: "Mo-Fr 09:00-17:30"

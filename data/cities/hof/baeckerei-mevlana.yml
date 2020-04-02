@@ -5,7 +5,7 @@ latitude: 50.319164400000005
 longitude: 11.918614400000001
 postcode: 95028
 city: Hof
-street: Fischergasse
+street: "Fischergasse"
 housenumber: 5
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.6787563
 longitude: 12.688488900000001
 postcode: 94405
 city: Landau an der Isar
-street: Straubinger Straße
+street: "Straubinger Straße"
 housenumber: 21
 phone: ""
 opening_hours: ""

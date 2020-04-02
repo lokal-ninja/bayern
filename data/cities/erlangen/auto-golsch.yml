@@ -5,7 +5,7 @@ latitude: 49.585924000000006
 longitude: 11.000409300000001
 postcode: 91052
 city: Erlangen
-street: Resenscheckstraße
+street: "Resenscheckstraße"
 housenumber: 10
 phone: "+49 9131 38888"
 opening_hours: ""

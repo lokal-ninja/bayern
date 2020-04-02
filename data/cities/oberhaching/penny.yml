@@ -5,7 +5,7 @@ latitude: 48.0292966
 longitude: 11.578381100000001
 postcode: 82041
 city: Oberhaching
-street: Linienstraße
+street: "Linienstraße"
 housenumber: 36
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

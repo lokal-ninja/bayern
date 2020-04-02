@@ -5,7 +5,7 @@ latitude: 49.4583875
 longitude: 12.419262600000001
 postcode: 92526
 city: Oberviechtach
-street: Dr.-Max-Schwarz-Platz
+street: "Dr.-Max-Schwarz-Platz"
 housenumber: 1
 phone: ""
 opening_hours: ""

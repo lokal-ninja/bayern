@@ -5,7 +5,7 @@ latitude: 47.9488307
 longitude: 11.597853200000001
 postcode: 82054
 city: Sauerlach
-street: Eichenhausener Straße
+street: "Eichenhausener Straße"
 housenumber: 43
 phone: "+49 8104 9754"
 opening_hours: ""

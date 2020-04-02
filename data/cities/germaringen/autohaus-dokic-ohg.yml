@@ -5,7 +5,7 @@ latitude: 47.9232114
 longitude: 10.658018100000001
 postcode: 87656
 city: Germaringen
-street: Rudolf-Diesel-Straße
+street: "Rudolf-Diesel-Straße"
 housenumber: 12
 phone: "+498341999670"
 opening_hours: ""

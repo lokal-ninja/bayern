@@ -5,7 +5,7 @@ latitude: 48.6944595
 longitude: 13.1211143
 postcode: 94577
 city: Winzer
-street: Leharstraße
+street: "Leharstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.494867600000006
 longitude: 11.245291400000001
 postcode: 90607
 city: Rückersdorf
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 52
 phone: ""
 opening_hours: ""

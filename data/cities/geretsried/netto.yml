@@ -5,7 +5,7 @@ latitude: 47.8534738
 longitude: 11.4931382
 postcode: 82538
 city: Geretsried
-street: Bunsenweg
+street: "Bunsenweg"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

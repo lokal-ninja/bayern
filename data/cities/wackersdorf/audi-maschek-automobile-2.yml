@@ -5,7 +5,7 @@ latitude: 49.312626200000004
 longitude: 12.158126900000001
 postcode: 92442
 city: Wackersdorf
-street: Gewerbepark
+street: "Gewerbepark"
 housenumber: 2
 phone: "+49 9431 7144-00"
 opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-13:00"

@@ -5,7 +5,7 @@ latitude: 49.9786955
 longitude: 9.0646167
 postcode: 63811
 city: Stockstadt am Main
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 9
 phone: ""
 opening_hours: ""

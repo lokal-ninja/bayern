@@ -5,7 +5,7 @@ latitude: 50.0454245
 longitude: 10.2354947
 postcode: 97421
 city: Schweinfurt
-street: Rückertstraße
+street: "Rückertstraße"
 housenumber: 13
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00"

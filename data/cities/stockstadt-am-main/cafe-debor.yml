@@ -5,7 +5,7 @@ latitude: 49.975029600000006
 longitude: 9.0670616
 postcode: 63811
 city: Stockstadt am Main
-street: Obernburger Straße
+street: "Obernburger Straße"
 housenumber: 26
 phone: ""
 opening_hours: ""

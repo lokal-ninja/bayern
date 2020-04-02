@@ -5,7 +5,7 @@ latitude: 47.6410154
 longitude: 10.1247954
 postcode: 87480
 city: Weitnau
-street: Hoheneggstraße
+street: "Hoheneggstraße"
 housenumber: 25
 phone: ""
 opening_hours: "Mo-Sa 08:00-12:00, Tu 14:30-18:00, Th-Fr 14:30-18:00; PH off"

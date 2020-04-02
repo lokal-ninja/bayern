@@ -5,7 +5,7 @@ latitude: 48.1472531
 longitude: 11.5581417
 postcode: 80335
 city: München
-street: Nymphenburger Straße
+street: "Nymphenburger Straße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:30; Sa,PH off"

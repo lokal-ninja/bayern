@@ -5,7 +5,7 @@ latitude: 49.248104600000005
 longitude: 11.108495000000001
 postcode: 
 city: Roth
-street: Fuggerstraße
+street: "Fuggerstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

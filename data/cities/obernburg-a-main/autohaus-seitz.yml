@@ -5,7 +5,7 @@ latitude: 49.833735000000004
 longitude: 9.1266165
 postcode: 63785
 city: Obernburg a.Main
-street: Dieselstraße
+street: "Dieselstraße"
 housenumber: 4
 phone: "+49 6022 710810"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"

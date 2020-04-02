@@ -5,7 +5,7 @@ latitude: 50.2895121
 longitude: 11.017357800000001
 postcode: 96472
 city: Rödental
-street: Nikolaus-August-Otto-Straße
+street: "Nikolaus-August-Otto-Straße"
 housenumber: 13
 phone: "+49 9563 308660"
 opening_hours: "Mo-Sa 09:00-20:00"

@@ -5,7 +5,7 @@ latitude: 48.5639273
 longitude: 13.430744
 postcode: 94036
 city: Passau
-street: Neuburger Straße
+street: "Neuburger Straße"
 housenumber: 104b
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off"

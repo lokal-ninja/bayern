@@ -5,7 +5,7 @@ latitude: 49.355560000000004
 longitude: 11.143797000000001
 postcode: 90530
 city: Wendelstein
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 23
 phone: ""
 opening_hours: ""

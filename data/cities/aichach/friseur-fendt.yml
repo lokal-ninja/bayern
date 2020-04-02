@@ -5,7 +5,7 @@ latitude: 48.467753800000004
 longitude: 11.1256836
 postcode: 86551
 city: Aichach
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 20
 phone: ""
 opening_hours: "Tu-Fr 08:00-18:00; Sa 07:00-12:30"

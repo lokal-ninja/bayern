@@ -5,7 +5,7 @@ latitude: 49.9885249
 longitude: 9.1335554
 postcode: 63741
 city: Aschaffenburg
-street: Dorfstraße
+street: "Dorfstraße"
 housenumber: 3a
 phone: ""
 opening_hours: ""

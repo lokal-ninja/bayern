@@ -5,7 +5,7 @@ latitude: 48.969615000000005
 longitude: 12.1750229
 postcode: 93083
 city: Obertraubling
-street: Walhallastraße
+street: "Walhallastraße"
 housenumber: 26
 phone: "+49 9401 9604 0"
 opening_hours: ""

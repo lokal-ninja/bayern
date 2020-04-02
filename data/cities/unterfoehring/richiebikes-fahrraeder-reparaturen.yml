@@ -5,7 +5,7 @@ latitude: 48.185082200000004
 longitude: 11.6522492
 postcode: 85774
 city: Unterföhring
-street: Mitterfeldallee
+street: "Mitterfeldallee"
 housenumber: 29
 phone: "+49 89 92008293"
 opening_hours: ""

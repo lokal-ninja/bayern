@@ -5,7 +5,7 @@ latitude: 48.056154600000006
 longitude: 11.5145136
 postcode: 
 city: Pullach i. Isartal
-street: Richard-Wagner-Straße
+street: "Richard-Wagner-Straße"
 housenumber: 10
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.5315268
 longitude: 11.507460700000001
 postcode: 85276
 city: Pfaffenhofen a.d. Ilm
-street: Ingolstädter Straße
+street: "Ingolstädter Straße"
 housenumber: 18
 phone: "+49 8441 84004"
 opening_hours: ""

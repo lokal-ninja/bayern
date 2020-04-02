@@ -5,7 +5,7 @@ latitude: 49.7186614
 longitude: 11.061770200000002
 postcode: 91301
 city: Forchheim
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 4
 phone: ""
 opening_hours: ""

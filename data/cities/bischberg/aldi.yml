@@ -5,7 +5,7 @@ latitude: 49.914534700000004
 longitude: 10.824651600000001
 postcode: 96120
 city: Bischberg
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 132
 phone: ""
 opening_hours: ""

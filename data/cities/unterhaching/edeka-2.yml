@@ -5,7 +5,7 @@ latitude: 48.0555054
 longitude: 11.5999841
 postcode: 82008
 city: Unterhaching
-street: Parkackerstraße
+street: "Parkackerstraße"
 housenumber: 1
 phone: "+49 89 61208297"
 opening_hours: "Mo-Sa 07:00-20:00"

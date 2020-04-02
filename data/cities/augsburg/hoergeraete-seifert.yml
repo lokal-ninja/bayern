@@ -5,7 +5,7 @@ latitude: 48.354733700000004
 longitude: 10.9417875
 postcode: 86163
 city: Augsburg
-street: Friedberger Straße
+street: "Friedberger Straße"
 housenumber: 120
 phone: ""
 opening_hours: ""

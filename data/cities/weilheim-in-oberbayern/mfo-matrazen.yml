@@ -5,7 +5,7 @@ latitude: 47.839353800000005
 longitude: 11.1442759
 postcode: 82362
 city: Weilheim in Oberbayern
-street: Pütrichstraße
+street: "Pütrichstraße"
 housenumber: 3
 phone: "+49 881 4179102"
 opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00"

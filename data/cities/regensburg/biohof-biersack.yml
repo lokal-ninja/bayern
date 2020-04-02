@@ -5,7 +5,7 @@ latitude: 48.988283700000004
 longitude: 12.075782700000001
 postcode: 93053
 city: Regensburg
-street: Brunnstraße
+street: "Brunnstraße"
 housenumber: 31
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.8989101
 longitude: 10.7305182
 postcode: 96170
 city: Lisberg
-street: Weiherer Straße
+street: "Weiherer Straße"
 housenumber: 28
 phone: "+499549289"
 opening_hours: "Mo-Fr 08:00-12:00,13:00-17:00"

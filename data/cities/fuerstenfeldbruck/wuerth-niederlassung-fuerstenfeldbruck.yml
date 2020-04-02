@@ -5,7 +5,7 @@ latitude: 48.186798200000005
 longitude: 11.244006
 postcode: 82256
 city: Fürstenfeldbruck
-street: Starenweg
+street: "Starenweg"
 housenumber: 5
 phone: "+49 8141 534669 0"
 opening_hours: "Mo-Th 07:00-17:00; Fr 07:00-16:00"

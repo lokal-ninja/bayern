@@ -5,7 +5,7 @@ latitude: 48.2457062
 longitude: 11.3730715
 postcode: 85232
 city: Bergkirchen
-street: Dachauer Straße
+street: "Dachauer Straße"
 housenumber: 8
 phone: "+49 81 31 99 784 80"
 opening_hours: ""

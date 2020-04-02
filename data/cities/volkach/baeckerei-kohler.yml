@@ -5,7 +5,7 @@ latitude: 49.8637979
 longitude: 10.2268203
 postcode: 97332
 city: Volkach
-street: Oberer Markt
+street: "Oberer Markt"
 housenumber: 8
 phone: "+49 9381 4664"
 opening_hours: "Sa 05:00-13:00; Mo-Fr 05:00-18:00"

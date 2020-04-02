@@ -5,7 +5,7 @@ latitude: 49.013887200000006
 longitude: 13.231812900000001
 postcode: 94227
 city: Zwiesel
-street: Stadtplatz
+street: "Stadtplatz"
 housenumber: 37
 phone: ""
 opening_hours: ""

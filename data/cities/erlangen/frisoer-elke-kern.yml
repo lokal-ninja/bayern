@@ -5,7 +5,7 @@ latitude: 49.594900700000004
 longitude: 10.950627
 postcode: 91056
 city: Erlangen
-street: Mönaustraße
+street: "Mönaustraße"
 housenumber: 65
 phone: ""
 opening_hours: "Tu-Fr 08:30-18:00; Sa 08:00-13:00; Su,Mo,PH off"

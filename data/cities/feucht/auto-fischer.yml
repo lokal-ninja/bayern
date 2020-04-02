@@ -5,7 +5,7 @@ latitude: 49.3707513
 longitude: 11.211372200000001
 postcode: 90537
 city: Feucht
-street: Bogenstraße
+street: "Bogenstraße"
 housenumber: 31
 phone: "+4991287750"
 opening_hours: "Mo-Fr 07:30-18:00"

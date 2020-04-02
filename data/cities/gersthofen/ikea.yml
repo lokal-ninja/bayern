@@ -5,7 +5,7 @@ latitude: 48.4054414
 longitude: 10.872419500000001
 postcode: 86368
 city: Gersthofen
-street: Otto-Hahn-Straße
+street: "Otto-Hahn-Straße"
 housenumber: 99
 phone: "+49 6192 9399999"
 opening_hours: "Mo-Sa 09:30-20:00"

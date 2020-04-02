@@ -5,7 +5,7 @@ latitude: 49.593317400000004
 longitude: 11.048419
 postcode: 91054
 city: Erlangen
-street: Gräfenberger Straße
+street: "Gräfenberger Straße"
 housenumber: 22
 phone: "+4991316109275"
 opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-15:00"

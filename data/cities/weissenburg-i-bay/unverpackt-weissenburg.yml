@@ -5,7 +5,7 @@ latitude: 49.0306368
 longitude: 10.974999400000002
 postcode: 91781
 city: Weißenburg i. Bay.
-street: Obertorstraße
+street: "Obertorstraße"
 housenumber: 4
 phone: "+49 178 9137905"
 opening_hours: "We-Do 09:00-14:00; Fr 09:00-18:00; Sa 09:00-13:00"

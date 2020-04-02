@@ -5,7 +5,7 @@ latitude: 49.552114100000004
 longitude: 10.718955300000001
 postcode: 91448
 city: Emskirchen
-street: Erlanger Straße
+street: "Erlanger Straße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00; PH off"

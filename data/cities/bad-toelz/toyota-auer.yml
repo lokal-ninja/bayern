@@ -5,7 +5,7 @@ latitude: 47.7596391
 longitude: 11.585130000000001
 postcode: 83646
 city: Bad Tölz
-street: Albert-Schäffenacker-Straße
+street: "Albert-Schäffenacker-Straße"
 housenumber: 1
 phone: "+49 8041 78440"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.809974700000005
 longitude: 12.5652059
 postcode: 94330
 city: Salching
-street: Landshuter Straße
+street: "Landshuter Straße"
 housenumber: 13
 phone: ""
 opening_hours: "Tu 15:00-20:00; Fr 10:00-20:00; Sa 09:00-13:00"

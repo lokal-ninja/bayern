@@ -5,7 +5,7 @@ latitude: 49.364525500000006
 longitude: 11.2075612
 postcode: 90537
 city: Feucht
-street: Wendelsteiner Straße
+street: "Wendelsteiner Straße"
 housenumber: 3-5
 phone: "+49 9128 925838"
 opening_hours: "Mo-Sa 07:00-20:00"

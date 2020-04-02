@@ -5,7 +5,7 @@ latitude: 49.317435200000006
 longitude: 12.102046000000001
 postcode: 92421
 city: Schwandorf
-street: Fraunhoferstraße
+street: "Fraunhoferstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 06:30-20:00"

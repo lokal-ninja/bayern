@@ -5,7 +5,7 @@ latitude: 48.62264690000001
 longitude: 13.190268900000001
 postcode: 
 city: Vilshofen an der Donau
-street: Ortenburger Straße
+street: "Ortenburger Straße"
 housenumber: 64
 phone: "+49 8541 97270"
 opening_hours: "Sa 08:30-12:30; Mo-Fr 08:00-17:30"

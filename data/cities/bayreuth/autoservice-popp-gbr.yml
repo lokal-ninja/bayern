@@ -5,7 +5,7 @@ latitude: 49.939019200000004
 longitude: 11.5686567
 postcode: 
 city: Bayreuth
-street: Robert-Koch-Straße
+street: "Robert-Koch-Straße"
 housenumber: 1
 phone: ""
 opening_hours: ""

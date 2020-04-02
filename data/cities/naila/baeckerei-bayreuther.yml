@@ -5,7 +5,7 @@ latitude: 50.337350300000004
 longitude: 11.713729
 postcode: 95119
 city: Naila
-street: Berger Straße
+street: "Berger Straße"
 housenumber: 15
 phone: ""
 opening_hours: ""

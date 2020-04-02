@@ -5,7 +5,7 @@ latitude: 49.0059874
 longitude: 11.9764441
 postcode: 93161
 city: Sinzing
-street: Röhrl-Bräu-Straße
+street: "Röhrl-Bräu-Straße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Fr 09:00-12:00, 14:00-19:00; Sa 08:00-14:00"

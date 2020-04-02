@@ -5,7 +5,7 @@ latitude: 48.1283869
 longitude: 11.601782100000001
 postcode: 81667
 city: München
-street: Weißenburger Straße
+street: "Weißenburger Straße"
 housenumber: 41
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

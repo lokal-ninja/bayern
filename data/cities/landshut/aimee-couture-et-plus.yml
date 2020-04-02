@@ -5,7 +5,7 @@ latitude: 48.534979400000005
 longitude: 12.152939400000001
 postcode: 84028
 city: Landshut
-street: Schirmgasse
+street: "Schirmgasse"
 housenumber: 275
 phone: ""
 opening_hours: ""

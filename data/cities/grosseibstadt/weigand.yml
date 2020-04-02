@@ -5,7 +5,7 @@ latitude: 50.302919700000004
 longitude: 10.4157344
 postcode: 97633
 city: Großeibstadt
-street: Weiherstraße
+street: "Weiherstraße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"

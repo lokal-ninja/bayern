@@ -5,7 +5,7 @@ latitude: 48.571662100000005
 longitude: 13.415659100000001
 postcode: 94036
 city: Passau
-street: Graneckerstraße
+street: "Graneckerstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

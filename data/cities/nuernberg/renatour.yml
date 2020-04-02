@@ -5,7 +5,7 @@ latitude: 49.435576700000006
 longitude: 11.2538087
 postcode: 90475
 city: Nürnberg
-street: Brunner Hauptstraße
+street: "Brunner Hauptstraße"
 housenumber: 26
 phone: ""
 opening_hours: ""

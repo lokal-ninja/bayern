@@ -5,7 +5,7 @@ latitude: 48.4126587
 longitude: 10.869856700000001
 postcode: 86368
 city: Gersthofen
-street: Wernher-von-Braun-Straße
+street: "Wernher-von-Braun-Straße"
 housenumber: 14
 phone: ""
 opening_hours: "Mo-Th 07:30-16:30; Fr 07:30-14:00"

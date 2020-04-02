@@ -5,7 +5,7 @@ latitude: 49.7352416
 longitude: 10.159370500000001
 postcode: 97318
 city: Kitzingen
-street: Friedrich-Ebert-Straße
+street: "Friedrich-Ebert-Straße"
 housenumber: 1a
 phone: ""
 opening_hours: ""

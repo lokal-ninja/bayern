@@ -5,7 +5,7 @@ latitude: 48.191308400000004
 longitude: 11.5675398
 postcode: 
 city: München
-street: Max-Diamand-Straße
+street: "Max-Diamand-Straße"
 housenumber: 19
 phone: ""
 opening_hours: "Mo-Th 09:00-17:00; Fr 09:00-14:00"

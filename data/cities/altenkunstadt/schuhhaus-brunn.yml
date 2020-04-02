@@ -5,7 +5,7 @@ latitude: 50.1270967
 longitude: 11.250305
 postcode: 96264
 city: Altenkunstadt
-street: Dr.-Anton-Sattler-Straße
+street: "Dr.-Anton-Sattler-Straße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Th 08:30-18:00; Fr,Sa 08:30-14:00"

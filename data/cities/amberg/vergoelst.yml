@@ -5,7 +5,7 @@ latitude: 49.444780200000004
 longitude: 11.8430909
 postcode: 92224
 city: Amberg
-street: Infanteriestraße
+street: "Infanteriestraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

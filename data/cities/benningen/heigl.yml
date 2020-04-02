@@ -5,7 +5,7 @@ latitude: 47.967474900000006
 longitude: 10.211758600000001
 postcode: 87734
 city: Benningen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 17
 phone: "+49 8331 88161"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.3235703
 longitude: 11.9430996
 postcode: 92286
 city: Rieden
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 14
 phone: "+499624512"
 opening_hours: ""

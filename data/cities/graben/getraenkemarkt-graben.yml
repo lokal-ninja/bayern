@@ -5,7 +5,7 @@ latitude: 48.1898889
 longitude: 10.8220677
 postcode: 86836
 city: Graben
-street: Angerstraße
+street: "Angerstraße"
 housenumber: 6
 phone: "+49 8232 1538"
 opening_hours: ""

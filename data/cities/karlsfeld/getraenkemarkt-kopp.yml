@@ -5,7 +5,7 @@ latitude: 48.22699050000001
 longitude: 11.4674738
 postcode: 85757
 city: Karlsfeld
-street: Rathausstraße
+street: "Rathausstraße"
 housenumber: 40
 phone: ""
 opening_hours: "Mo-Fr 07:30-18:30; Sa 07:30-14:00"

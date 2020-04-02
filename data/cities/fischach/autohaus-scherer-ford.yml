@@ -5,7 +5,7 @@ latitude: 48.292548100000005
 longitude: 10.6676421
 postcode: 86850
 city: Fischach
-street: Rudolf-Diesel-Straße
+street: "Rudolf-Diesel-Straße"
 housenumber: 13
 phone: ""
 opening_hours: ""

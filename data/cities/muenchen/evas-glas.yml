@@ -5,7 +5,7 @@ latitude: 48.14035620000001
 longitude: 11.5702827
 postcode: 80333
 city: München
-street: Pacellistraße
+street: "Pacellistraße"
 housenumber: 5
 phone: "+49 89 2608118"
 opening_hours: "Tu-Fr 11:00-13:00; Tu-Fr 14:00-18:00; Sa 11:00-14:00"

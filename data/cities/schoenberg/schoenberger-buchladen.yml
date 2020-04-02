@@ -5,7 +5,7 @@ latitude: 48.8407245
 longitude: 13.3357787
 postcode: 94513
 city: Schönberg
-street: Kirchplatz
+street: "Kirchplatz"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-12:30"

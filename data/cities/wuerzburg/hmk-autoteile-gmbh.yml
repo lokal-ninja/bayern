@@ -5,7 +5,7 @@ latitude: 49.8015896
 longitude: 9.8906734
 postcode: 97080
 city: Würzburg
-street: Nördliche Hafenstraße
+street: "Nördliche Hafenstraße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Fr 07:30-17:30; Sa 08:00-12:00"

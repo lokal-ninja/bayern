@@ -5,7 +5,7 @@ latitude: 48.776686500000004
 longitude: 12.874005100000002
 postcode: 94447
 city: Plattling
-street: Ludwigplatz
+street: "Ludwigplatz"
 housenumber: 1
 phone: "+49 9931 894242"
 opening_hours: ""

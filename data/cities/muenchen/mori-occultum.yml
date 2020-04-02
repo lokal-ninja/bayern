@@ -5,7 +5,7 @@ latitude: 48.138874300000005
 longitude: 11.5319064
 postcode: 80339
 city: München
-street: Guldeinstraße
+street: "Guldeinstraße"
 housenumber: 36
 phone: "+49 89 23548544"
 opening_hours: ""

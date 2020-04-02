@@ -5,7 +5,7 @@ latitude: 48.1382593
 longitude: 11.5881887
 postcode: 80538
 city: München
-street: Pfarrstraße
+street: "Pfarrstraße"
 housenumber: 16
 phone: ""
 opening_hours: ""

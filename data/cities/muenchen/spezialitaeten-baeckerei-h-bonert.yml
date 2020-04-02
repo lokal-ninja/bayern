@@ -5,7 +5,7 @@ latitude: 48.1420577
 longitude: 11.495981500000001
 postcode: 80687
 city: München
-street: Perhamerstraße
+street: "Perhamerstraße"
 housenumber: 42
 phone: ""
 opening_hours: "Mo-Fr 07:00-18:00; We 07:00-14:00; Sa 06:30-12:00"

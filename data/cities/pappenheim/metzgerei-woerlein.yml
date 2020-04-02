@@ -5,7 +5,7 @@ latitude: 48.9229755
 longitude: 11.031854500000001
 postcode: 91788
 city: Pappenheim
-street: Am Solnhofer Weg
+street: "Am Solnhofer Weg"
 housenumber: 
 phone: ""
 opening_hours: ""

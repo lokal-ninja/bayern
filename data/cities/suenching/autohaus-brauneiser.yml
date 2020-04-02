@@ -5,7 +5,7 @@ latitude: 48.885043700000004
 longitude: 12.359379500000001
 postcode: 93104
 city: Sünching
-street: Straubinger Straße
+street: "Straubinger Straße"
 housenumber: 11
 phone: "+49 9480 239"
 opening_hours: "Mo-Fr 07:00-18:00; Sa 09:00-12:00"

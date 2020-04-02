@@ -5,7 +5,7 @@ latitude: 47.7925254
 longitude: 12.1116878
 postcode: 83064
 city: Raubling
-street: Ludwigsplatz
+street: "Ludwigsplatz"
 housenumber: 10
 phone: "+49 8035 2716"
 opening_hours: "Tu-Fr 08:00-18:00; Sa 07:30-12:30"

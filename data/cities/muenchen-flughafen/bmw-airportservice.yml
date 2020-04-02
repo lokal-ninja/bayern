@@ -5,7 +5,7 @@ latitude: 48.357502100000005
 longitude: 11.749076200000001
 postcode: 85356
 city: München-Flughafen
-street: Nordallee
+street: "Nordallee"
 housenumber: 62
 phone: "+49 89 35357 0"
 opening_hours: "Mo-Fr 06:00-22:00"

@@ -5,7 +5,7 @@ latitude: 48.574732100000006
 longitude: 13.466094400000001
 postcode: 94032
 city: Passau
-street: Große Messergasse
+street: "Große Messergasse"
 housenumber: 10
 phone: ""
 opening_hours: ""

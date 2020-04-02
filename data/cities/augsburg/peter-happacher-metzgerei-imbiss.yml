@@ -5,7 +5,7 @@ latitude: 48.355354000000005
 longitude: 10.9156464
 postcode: 86161
 city: Augsburg
-street: Gentnerstraße
+street: "Gentnerstraße"
 housenumber: 79
 phone: "+49 821 552113"
 opening_hours: "Mo-Th 07:30-18:00; Fr 07:00-18:00; Sa 07:30-12:30"

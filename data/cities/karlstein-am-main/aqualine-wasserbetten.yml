@@ -5,7 +5,7 @@ latitude: 50.0411334
 longitude: 9.0321298
 postcode: 63791
 city: Karlstein am Main
-street: Hanauer Landstraße
+street: "Hanauer Landstraße"
 housenumber: 93
 phone: "+49 6188 990 202"
 opening_hours: "Mo-Fr 10:00-12:30,14:30-18:00; Sa 10:00-14:00"

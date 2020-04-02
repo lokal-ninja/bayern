@@ -5,7 +5,7 @@ latitude: 48.547078500000005
 longitude: 12.1539888
 postcode: 84034
 city: Landshut
-street: Stethaimerstraße
+street: "Stethaimerstraße"
 housenumber: 41
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

@@ -5,7 +5,7 @@ latitude: 48.459493200000004
 longitude: 11.1300377
 postcode: 86551
 city: Aichach
-street: Hubmannstraße
+street: "Hubmannstraße"
 housenumber: 10
 phone: ""
 opening_hours: ""

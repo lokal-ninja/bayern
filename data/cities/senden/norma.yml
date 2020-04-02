@@ -5,7 +5,7 @@ latitude: 48.3239602
 longitude: 10.0450534
 postcode: 89250
 city: Senden
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 37
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

@@ -5,7 +5,7 @@ latitude: 49.441880600000005
 longitude: 11.0916039
 postcode: 90478
 city: Nürnberg
-street: Schweiggerstraße
+street: "Schweiggerstraße"
 housenumber: 16
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

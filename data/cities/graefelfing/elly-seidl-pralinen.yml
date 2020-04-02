@@ -5,7 +5,7 @@ latitude: 48.1218427
 longitude: 11.447432500000001
 postcode: 82166
 city: Gräfelfing
-street: Seeholzenstraße
+street: "Seeholzenstraße"
 housenumber: 6a
 phone: ""
 opening_hours: "Mo-Sa 09:00-13:00; Mo-Fr 13:30-18:00; Su, PH off"

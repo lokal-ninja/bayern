@@ -5,7 +5,7 @@ latitude: 47.8695874
 longitude: 12.649954300000001
 postcode: 83278
 city: Traunstein
-street: Stadtplatz
+street: "Stadtplatz"
 housenumber: 28
 phone: ""
 opening_hours: ""

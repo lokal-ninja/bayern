@@ -5,7 +5,7 @@ latitude: 47.947987000000005
 longitude: 11.1023636
 postcode: 86911
 city: Dießen am Ammersee
-street: Herrenstraße
+street: "Herrenstraße"
 housenumber: 4
 phone: "+49 172 6414714"
 opening_hours: "Tu 15:00-18:00; We-Fr 10:00-12:30,15:00-18:00; Sa 10:00-13:00; PH off"

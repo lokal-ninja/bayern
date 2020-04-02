@@ -5,7 +5,7 @@ latitude: 49.3925976
 longitude: 11.3319317
 postcode: 90518
 city: Altdorf b. Nürnberg
-street: Am Umspannwerk
+street: "Am Umspannwerk"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:30-13:00"

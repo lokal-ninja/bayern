@@ -5,7 +5,7 @@ latitude: 50.03851220000001
 longitude: 9.232144100000001
 postcode: 63768
 city: Hösbach
-street: Gräfenbergstraße
+street: "Gräfenbergstraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

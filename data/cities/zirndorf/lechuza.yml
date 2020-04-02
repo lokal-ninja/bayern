@@ -5,7 +5,7 @@ latitude: 49.428894500000006
 longitude: 10.9418979
 postcode: 90513
 city: Zirndorf
-street: Brandstätterstraße
+street: "Brandstätterstraße"
 housenumber: 2-10
 phone: "+49-911-9666-2660"
 opening_hours: ""

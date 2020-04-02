@@ -5,7 +5,7 @@ latitude: 50.3166414
 longitude: 11.685913600000001
 postcode: 95119
 city: Naila
-street: Kalkofen
+street: "Kalkofen"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Fr 06:00-22:00; Sa 07:00-22:00; Su 08:00-22:00"

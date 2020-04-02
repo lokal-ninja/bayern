@@ -5,7 +5,7 @@ latitude: 50.244654100000005
 longitude: 11.323383900000001
 postcode: 96317
 city: Kronach
-street: Haßlachgasse
+street: "Haßlachgasse"
 housenumber: 2
 phone: ""
 opening_hours: ""

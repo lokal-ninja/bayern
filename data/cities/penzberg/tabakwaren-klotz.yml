@@ -5,7 +5,7 @@ latitude: 47.750116500000004
 longitude: 11.3725109
 postcode: 82377
 city: Penzberg
-street: Philippstraße
+street: "Philippstraße"
 housenumber: 31
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.0338945
 longitude: 10.498251
 postcode: 
 city: Mindelheim
-street: Widdersteinstraße
+street: "Widdersteinstraße"
 housenumber: 7
 phone: "+49 8261 737384"
 opening_hours: "Tu-Fr 09:00-12:00,13:00-18:00"

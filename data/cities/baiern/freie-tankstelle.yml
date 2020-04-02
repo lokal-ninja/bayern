@@ -5,7 +5,7 @@ latitude: 47.9545186
 longitude: 11.9150836
 postcode: 85625
 city: Baiern
-street: Glonner Straße
+street: "Glonner Straße"
 housenumber: 25
 phone: "+49 8093 5681"
 opening_hours: "24/7"

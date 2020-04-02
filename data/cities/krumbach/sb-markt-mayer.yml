@@ -5,7 +5,7 @@ latitude: 48.2431703
 longitude: 10.361778600000001
 postcode: 86381
 city: Krumbach
-street: Babenhauser Straße
+street: "Babenhauser Straße"
 housenumber: 2
 phone: ""
 opening_hours: ""

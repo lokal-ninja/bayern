@@ -5,7 +5,7 @@ latitude: 49.5909625
 longitude: 11.0055867
 postcode: 91052
 city: Erlangen
-street: Sedanstraße
+street: "Sedanstraße"
 housenumber: 1
 phone: "+49 9131 812800"
 opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00"

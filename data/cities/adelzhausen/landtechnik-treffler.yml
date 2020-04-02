@@ -5,7 +5,7 @@ latitude: 48.357008300000004
 longitude: 11.138103500000001
 postcode: 86559
 city: Adelzhausen
-street: Aichacher Straße
+street: "Aichacher Straße"
 housenumber: 6
 phone: "+49 8258 523"
 opening_hours: ""

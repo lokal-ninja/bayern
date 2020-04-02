@@ -5,7 +5,7 @@ latitude: 48.402638200000005
 longitude: 11.7533454
 postcode: 85356
 city: Freising
-street: Sonnenstraße
+street: "Sonnenstraße"
 housenumber: 29
 phone: "+49 8161 9103394"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.3981488
 longitude: 11.736701400000001
 postcode: 85354
 city: Freising
-street: Vöttinger Straße
+street: "Vöttinger Straße"
 housenumber: 11
 phone: "+49-8161-92344"
 opening_hours: ""

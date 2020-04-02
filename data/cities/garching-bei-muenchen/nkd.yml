@@ -5,7 +5,7 @@ latitude: 48.250243000000005
 longitude: 11.6512057
 postcode: 85748
 city: Garching bei München
-street: Bürgerplatz
+street: "Bürgerplatz"
 housenumber: 12
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-15:00"

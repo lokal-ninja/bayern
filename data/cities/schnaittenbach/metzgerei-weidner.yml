@@ -5,7 +5,7 @@ latitude: 49.549153800000006
 longitude: 12.007471
 postcode: 92253
 city: Schnaittenbach
-street: Wernberger Straße
+street: "Wernberger Straße"
 housenumber: 30
 phone: "+49 9622 2460"
 opening_hours: "Mo-Fr 06:30-18:00, Sa 07:00-12:00; PH off"

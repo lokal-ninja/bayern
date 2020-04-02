@@ -5,7 +5,7 @@ latitude: 49.304464
 longitude: 12.832047500000002
 postcode: 93437
 city: Furth im Wald
-street: Pointweg
+street: "Pointweg"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

@@ -5,7 +5,7 @@ latitude: 48.6028153
 longitude: 11.626172700000001
 postcode: 85283
 city: Wolnzach
-street: Schloßstraße
+street: "Schloßstraße"
 housenumber: 3
 phone: ""
 opening_hours: ""

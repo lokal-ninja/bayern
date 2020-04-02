@@ -5,7 +5,7 @@ latitude: 48.140828600000006
 longitude: 10.8288109
 postcode: 86836
 city: Obermeitingen
-street: Elias-Holl-Straße
+street: "Elias-Holl-Straße"
 housenumber: 22
 phone: ""
 opening_hours: "Mo 08:00-12:00,13:00-17:00; Tu 08:00-12:00,13:00-18:00; We 08:00-12:00; Th 08:00-12:00,13:00-17:00; Fr 08:00-15:00"

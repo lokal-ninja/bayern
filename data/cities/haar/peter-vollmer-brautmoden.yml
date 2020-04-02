@@ -5,7 +5,7 @@ latitude: 48.109037
 longitude: 11.7228992
 postcode: 85540
 city: Haar
-street: Münchener Straße
+street: "Münchener Straße"
 housenumber: 13
 phone: ""
 opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-16:00"

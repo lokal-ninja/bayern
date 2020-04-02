@@ -5,7 +5,7 @@ latitude: 49.6992951
 longitude: 10.2599288
 postcode: 97346
 city: Iphofen
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 36
 phone: "+49(0)9323 - 33 31"
 opening_hours: ""

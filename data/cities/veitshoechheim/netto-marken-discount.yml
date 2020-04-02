@@ -5,7 +5,7 @@ latitude: 49.8313289
 longitude: 9.8979683
 postcode: 97209
 city: Veitshöchheim
-street: Raiffeisenstraße
+street: "Raiffeisenstraße"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

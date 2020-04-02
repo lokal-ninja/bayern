@@ -5,7 +5,7 @@ latitude: 50.14704630000001
 longitude: 11.06239
 postcode: 96215
 city: Lichtenfels
-street: Badgasse
+street: "Badgasse"
 housenumber: 2
 phone: ""
 opening_hours: ""

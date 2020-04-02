@@ -5,7 +5,7 @@ latitude: 49.011411100000004
 longitude: 12.1165126
 postcode: 93053
 city: Regensburg
-street: Guerickestraße
+street: "Guerickestraße"
 housenumber: 35
 phone: ""
 opening_hours: ""

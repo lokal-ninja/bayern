@@ -5,7 +5,7 @@ latitude: 49.7048476
 longitude: 9.250242100000001
 postcode: 63897
 city: Miltenberg
-street: Brückenstraße
+street: "Brückenstraße"
 housenumber: 25
 phone: "+49 9371 948310"
 opening_hours: "Mo-Fr 08:00-19:00; Sa 07:00-15:00; PH off"

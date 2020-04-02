@@ -5,7 +5,7 @@ latitude: 48.151106600000006
 longitude: 11.6200638
 postcode: 81925
 city: München
-street: Rosenkavalierplatz
+street: "Rosenkavalierplatz"
 housenumber: 12
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off"

@@ -5,7 +5,7 @@ latitude: 48.955040700000005
 longitude: 10.909195
 postcode: 91757
 city: Treuchtlingen
-street: Kanalstraße
+street: "Kanalstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 06:00-18:30; Sa 06:00-17:00; Su 07:00-18:00"

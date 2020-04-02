@@ -5,7 +5,7 @@ latitude: 49.430178000000005
 longitude: 10.9566078
 postcode: 90522
 city: Oberasbach
-street: Meißener Straße
+street: "Meißener Straße"
 housenumber: 36
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-13:00"

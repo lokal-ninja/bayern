@@ -5,7 +5,7 @@ latitude: 47.6528057
 longitude: 10.0520163
 postcode: 88167
 city: Maierhöfen
-street: Kirchweg
+street: "Kirchweg"
 housenumber: 8
 phone: "+49 8383 553"
 opening_hours: "Mo-Sa 7:00-12:30; Mo-Tu 14:00-18:00; Th-Sa 14:00-18:00"

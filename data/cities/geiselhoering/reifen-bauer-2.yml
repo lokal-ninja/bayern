@@ -5,7 +5,7 @@ latitude: 48.826887400000004
 longitude: 12.391826700000001
 postcode: 94333
 city: Geiselhöring
-street: Regensburger Straße
+street: "Regensburger Straße"
 housenumber: 13
 phone: "+49 9423 943335 0"
 opening_hours: "Mo-Fr 08:00-12:00,13:00-17:00"

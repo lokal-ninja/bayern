@@ -5,7 +5,7 @@ latitude: 48.3938034
 longitude: 10.8555513
 postcode: 86156
 city: Augsburg
-street: Hirschstraße
+street: "Hirschstraße"
 housenumber: 63 1/2
 phone: "+49 821 2417192"
 opening_hours: "Mo-Fr 13:00-18:00; Sa 09:30-13:00"

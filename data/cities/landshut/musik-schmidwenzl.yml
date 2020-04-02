@@ -5,7 +5,7 @@ latitude: 48.5388195
 longitude: 12.1540733
 postcode: 84028
 city: Landshut
-street: Bischof-Sailer-Platz
+street: "Bischof-Sailer-Platz"
 housenumber: 419
 phone: "+49 871 28162"
 opening_hours: "Mo-Fr 09:30-12:30,14:00-17:00; PH off"

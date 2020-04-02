@@ -5,7 +5,7 @@ latitude: 47.802859700000006
 longitude: 12.285032000000001
 postcode: 83112
 city: Frasdorf
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 
 phone: ""
 opening_hours: ""

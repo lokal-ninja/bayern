@@ -5,7 +5,7 @@ latitude: 47.880154100000006
 longitude: 10.620076800000001
 postcode: 87600
 city: Kaufbeuren
-street: Salzmarkt
+street: "Salzmarkt"
 housenumber: 16
 phone: "+49 8341 41414"
 opening_hours: ""

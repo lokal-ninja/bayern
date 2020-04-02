@@ -5,7 +5,7 @@ latitude: 49.462898200000005
 longitude: 11.0029337
 postcode: 90763
 city: Fürth
-street: Balbiererstraße
+street: "Balbiererstraße"
 housenumber: 20
 phone: ""
 opening_hours: ""

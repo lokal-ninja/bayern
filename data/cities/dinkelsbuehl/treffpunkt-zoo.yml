@@ -5,7 +5,7 @@ latitude: 49.061789700000006
 longitude: 10.326441800000001
 postcode: 91550
 city: Dinkelsbühl
-street: St.-Leonhard-Straße
+street: "St.-Leonhard-Straße"
 housenumber: 9
 phone: "+49 9851 6501"
 opening_hours: "Mo-Fr 9:00-18:30, Sa 9:00-16:00"

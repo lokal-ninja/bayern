@@ -5,7 +5,7 @@ latitude: 48.2200635
 longitude: 11.6717294
 postcode: 85737
 city: Ismaning
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 42
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.6456097
 longitude: 10.6961882
 postcode: 91462
 city: Dachsbach
-street: Kreisstraße
+street: "Kreisstraße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Fr 09:00-12:00,13:00-18:00"

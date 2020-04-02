@@ -5,7 +5,7 @@ latitude: 50.0849495
 longitude: 11.239103400000001
 postcode: 96260
 city: Weismain
-street: Burgkunstadter Straße
+street: "Burgkunstadter Straße"
 housenumber: 7
 phone: ""
 opening_hours: ""

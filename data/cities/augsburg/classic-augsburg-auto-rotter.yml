@@ -5,7 +5,7 @@ latitude: 48.388643200000004
 longitude: 10.8689224
 postcode: 86156
 city: Augsburg
-street: Auerstraße
+street: "Auerstraße"
 housenumber: 59
 phone: "+49 821 41 67 63"
 opening_hours: "Mo-Fr 08:00-18:00; Sa 10:00-12:00,12:30-15:00"

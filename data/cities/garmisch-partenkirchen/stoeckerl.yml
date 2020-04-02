@@ -5,7 +5,7 @@ latitude: 47.493100500000004
 longitude: 11.0877558
 postcode: 82467
 city: Garmisch-Partenkirchen
-street: Marienplatz
+street: "Marienplatz"
 housenumber: 3
 phone: ""
 opening_hours: ""

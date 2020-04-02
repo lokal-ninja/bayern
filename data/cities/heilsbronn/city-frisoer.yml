@@ -5,7 +5,7 @@ latitude: 49.3372596
 longitude: 10.789039200000001
 postcode: 91560
 city: Heilsbronn
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 25
 phone: ""
 opening_hours: ""

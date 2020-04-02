@@ -5,7 +5,7 @@ latitude: 49.434597100000005
 longitude: 11.882370300000002
 postcode: 92224
 city: Amberg
-street: Boschstraße
+street: "Boschstraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

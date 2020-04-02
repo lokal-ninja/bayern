@@ -5,7 +5,7 @@ latitude: 47.8430131
 longitude: 12.0924777
 postcode: 83026
 city: Rosenheim
-street: Krainstraße
+street: "Krainstraße"
 housenumber: 55
 phone: ""
 opening_hours: ""

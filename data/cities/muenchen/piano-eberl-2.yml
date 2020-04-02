@@ -5,7 +5,7 @@ latitude: 48.1207058
 longitude: 11.599802700000001
 postcode: 81541
 city: München
-street: Balanstraße
+street: "Balanstraße"
 housenumber: 69
 phone: ""
 opening_hours: "nur nach telefonischer Absprache"

@@ -5,7 +5,7 @@ latitude: 49.0250093
 longitude: 12.061201500000001
 postcode: 93049
 city: Regensburg
-street: Agnesstraße
+street: "Agnesstraße"
 housenumber: 24
 phone: ""
 opening_hours: ""

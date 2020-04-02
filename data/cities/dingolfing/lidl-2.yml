@@ -5,7 +5,7 @@ latitude: 48.636894600000005
 longitude: 12.4843571
 postcode: 84130
 city: Dingolfing
-street: Aitrachstraße
+street: "Aitrachstraße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

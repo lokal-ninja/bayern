@@ -5,7 +5,7 @@ latitude: 50.0182507
 longitude: 11.5370285
 postcode: 95512
 city: Neudrossenfeld
-street: Pechgraben
+street: "Pechgraben"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Fr 08:00-17:00"

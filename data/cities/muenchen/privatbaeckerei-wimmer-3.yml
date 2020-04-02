@@ -5,7 +5,7 @@ latitude: 48.1955608
 longitude: 11.583707
 postcode: 80939
 city: München
-street: Ingolstädter Straße
+street: "Ingolstädter Straße"
 housenumber: 101
 phone: ""
 opening_hours: "Mo-Fr 06:00-20:00; Sa,Su 07:00-18:00"

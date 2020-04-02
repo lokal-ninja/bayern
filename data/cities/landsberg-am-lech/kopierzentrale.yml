@@ -5,7 +5,7 @@ latitude: 48.0702153
 longitude: 10.8590161
 postcode: 86899
 city: Landsberg am Lech
-street: Lechwiesenstraße
+street: "Lechwiesenstraße"
 housenumber: 58
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00"

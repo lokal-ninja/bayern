@@ -5,7 +5,7 @@ latitude: 48.1577465
 longitude: 11.5491098
 postcode: 80636
 city: München
-street: Dachauer Straße
+street: "Dachauer Straße"
 housenumber: 175
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

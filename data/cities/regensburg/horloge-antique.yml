@@ -5,7 +5,7 @@ latitude: 49.0212462
 longitude: 12.090115200000001
 postcode: 93047
 city: Regensburg
-street: Weißgerbergraben
+street: "Weißgerbergraben"
 housenumber: 6
 phone: "+49 941 58612345"
 opening_hours: "Mo-Sa 13:00-18:00"

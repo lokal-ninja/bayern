@@ -5,7 +5,7 @@ latitude: 49.822185600000005
 longitude: 9.984901
 postcode: 97078
 city: Würzburg
-street: Mainfrankenhöhe
+street: "Mainfrankenhöhe"
 housenumber: 2
 phone: "+49 6192 9399999"
 opening_hours: "Mo-Fr 10:00-20:00; Sa 9:30-20:00"

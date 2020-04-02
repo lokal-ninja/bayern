@@ -5,7 +5,7 @@ latitude: 47.8045429
 longitude: 11.6513851
 postcode: 83679
 city: Sachsenkam
-street: Tegernseer Weg
+street: "Tegernseer Weg"
 housenumber: 4
 phone: "+49 8021 909770"
 opening_hours: ""

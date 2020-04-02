@@ -5,7 +5,7 @@ latitude: 48.493999200000005
 longitude: 11.0913502
 postcode: 86568
 city: Hollenbach
-street: Dieselstraße
+street: "Dieselstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

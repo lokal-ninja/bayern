@@ -5,7 +5,7 @@ latitude: 49.016570300000005
 longitude: 12.0982131
 postcode: 93047
 city: Regensburg
-street: Königsstraße
+street: "Königsstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

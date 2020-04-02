@@ -5,7 +5,7 @@ latitude: 48.4594899
 longitude: 11.1301941
 postcode: 86551
 city: Aichach
-street: Hubmannstraße
+street: "Hubmannstraße"
 housenumber: 6
 phone: "+49 8251 5960"
 opening_hours: ""

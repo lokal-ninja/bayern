@@ -5,7 +5,7 @@ latitude: 47.580083200000004
 longitude: 10.7397828
 postcode: 87645
 city: Schwangau
-street: Alemannenweg
+street: "Alemannenweg"
 housenumber: 5
 phone: ""
 opening_hours: ""

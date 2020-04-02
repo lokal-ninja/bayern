@@ -5,7 +5,7 @@ latitude: 48.150105100000005
 longitude: 11.5768447
 postcode: 
 city: München
-street: Schellingstraße
+street: "Schellingstraße"
 housenumber: 26
 phone: "+49 89 2424 2207"
 opening_hours: "Mo 11:00-19:00; Tu-Fr 11:00-19:30; Sa 11:00-19:00"

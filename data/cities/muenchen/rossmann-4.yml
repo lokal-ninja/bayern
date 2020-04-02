@@ -5,7 +5,7 @@ latitude: 48.130556000000006
 longitude: 11.572356800000001
 postcode: 80469
 city: München
-street: Fraunhoferstraße
+street: "Fraunhoferstraße"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off"

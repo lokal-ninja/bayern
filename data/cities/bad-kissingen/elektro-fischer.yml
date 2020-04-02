@@ -5,7 +5,7 @@ latitude: 50.188615000000006
 longitude: 10.057460800000001
 postcode: 97688
 city: Bad Kissingen
-street: Riedgraben
+street: "Riedgraben"
 housenumber: 20
 phone: "+49 971 3780"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"

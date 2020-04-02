@@ -5,7 +5,7 @@ latitude: 47.493339000000006
 longitude: 11.088949600000001
 postcode: 82467
 city: Garmisch-Partenkirchen
-street: Am Kurpark
+street: "Am Kurpark"
 housenumber: 23
 phone: ""
 opening_hours: ""

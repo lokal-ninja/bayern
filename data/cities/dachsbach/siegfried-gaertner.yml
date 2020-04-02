@@ -5,7 +5,7 @@ latitude: 49.6416015
 longitude: 10.707323500000001
 postcode: 91462
 city: Dachsbach
-street: Schreibergasse
+street: "Schreibergasse"
 housenumber: 1
 phone: ""
 opening_hours: ""

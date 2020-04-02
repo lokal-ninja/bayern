@@ -5,7 +5,7 @@ latitude: 50.1461514
 longitude: 11.248388
 postcode: 96224
 city: Burgkunstadt
-street: Kommerzienrat-Riexinger-Weg
+street: "Kommerzienrat-Riexinger-Weg"
 housenumber: 16
 phone: "+49 9572 9224"
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00; Su,PH off"

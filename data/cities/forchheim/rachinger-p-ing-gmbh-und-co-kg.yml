@@ -5,7 +5,7 @@ latitude: 49.713853500000006
 longitude: 11.060468700000001
 postcode: 91301
 city: Forchheim
-street: Paul-Keith-Straße
+street: "Paul-Keith-Straße"
 housenumber: 2
 phone: ""
 opening_hours: ""

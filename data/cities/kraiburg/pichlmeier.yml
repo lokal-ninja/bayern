@@ -5,7 +5,7 @@ latitude: 48.181429400000006
 longitude: 12.428828800000002
 postcode: 84559
 city: Kraiburg
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 18
 phone: ""
 opening_hours: ""

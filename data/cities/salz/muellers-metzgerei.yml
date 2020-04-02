@@ -5,7 +5,7 @@ latitude: 50.3096472
 longitude: 10.209294900000002
 postcode: 97616
 city: Salz
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 19
 phone: ""
 opening_hours: ""

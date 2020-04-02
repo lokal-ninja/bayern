@@ -5,7 +5,7 @@ latitude: 48.4464698
 longitude: 10.2249282
 postcode: 89340
 city: Leipheim
-street: Günzburger Straße
+street: "Günzburger Straße"
 housenumber: 28
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00"

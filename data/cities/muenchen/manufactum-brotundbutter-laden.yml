@@ -5,7 +5,7 @@ latitude: 48.1386454
 longitude: 11.5774097
 postcode: 80331
 city: München
-street: Dienerstraße
+street: "Dienerstraße"
 housenumber: 12
 phone: ""
 opening_hours: "Mo-Sa 09:30-19:00"

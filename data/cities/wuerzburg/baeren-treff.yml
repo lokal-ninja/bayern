@@ -5,7 +5,7 @@ latitude: 49.793837100000005
 longitude: 9.929504600000001
 postcode: 97070
 city: Würzburg
-street: Schenkhof
+street: "Schenkhof"
 housenumber: 3
 phone: "+49 931 4045471"
 opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-18:00"

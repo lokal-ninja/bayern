@@ -5,7 +5,7 @@ latitude: 48.1891194
 longitude: 11.4622656
 postcode: 80999
 city: München
-street: Vesaliusstraße
+street: "Vesaliusstraße"
 housenumber: 24
 phone: "+49 89 14883929"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:00; PH off"

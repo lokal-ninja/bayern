@@ -5,7 +5,7 @@ latitude: 49.4584946
 longitude: 11.283329
 postcode: 91227
 city: Leinburg
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 20
 phone: ""
 opening_hours: ""

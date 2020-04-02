@@ -5,7 +5,7 @@ latitude: 49.6601233
 longitude: 11.0964144
 postcode: 91090
 city: Effeltrich
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 17
 phone: ""
 opening_hours: ""

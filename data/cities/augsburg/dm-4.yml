@@ -5,7 +5,7 @@ latitude: 48.3670113
 longitude: 10.8856511
 postcode: 86150
 city: Augsburg
-street: Viktoriastraße
+street: "Viktoriastraße"
 housenumber: 3
 phone: "+49 821 32911020"
 opening_hours: "Mo-Sa 07:00-20:00"

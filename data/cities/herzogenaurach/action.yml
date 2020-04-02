@@ -5,7 +5,7 @@ latitude: 49.568456100000006
 longitude: 10.896568
 postcode: 91074
 city: Herzogenaurach
-street: Schützengraben
+street: "Schützengraben"
 housenumber: 20
 phone: ""
 opening_hours: "Mo-Sa 09:00-20:00; PH off"

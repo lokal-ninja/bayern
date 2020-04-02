@@ -5,7 +5,7 @@ latitude: 49.278488800000005
 longitude: 11.4597634
 postcode: 92318
 city: Neumarkt in der Oberpfalz
-street: Obere Marktstraße
+street: "Obere Marktstraße"
 housenumber: 41
 phone: ""
 opening_hours: ""

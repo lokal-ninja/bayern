@@ -5,7 +5,7 @@ latitude: 49.095823700000004
 longitude: 11.8132978
 postcode: 93176
 city: Beratzhausen
-street: An der Laaberer Straße
+street: "An der Laaberer Straße"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

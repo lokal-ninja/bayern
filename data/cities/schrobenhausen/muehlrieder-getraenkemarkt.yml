@@ -5,7 +5,7 @@ latitude: 48.567512300000004
 longitude: 11.2791495
 postcode: 86529
 city: Schrobenhausen
-street: Ingolstädter Straße
+street: "Ingolstädter Straße"
 housenumber: 26
 phone: ""
 opening_hours: ""

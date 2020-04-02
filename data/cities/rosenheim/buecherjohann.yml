@@ -5,7 +5,7 @@ latitude: 47.854556200000005
 longitude: 12.124005
 postcode: 83022
 city: Rosenheim
-street: Gillitzerstraße
+street: "Gillitzerstraße"
 housenumber: 14
 phone: "+49 8031 5818438"
 opening_hours: "Mo.-Fr. 09:30-13:00,14:00 – 18:00h Sa. 09:30-14:00"

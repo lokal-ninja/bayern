@@ -5,7 +5,7 @@ latitude: 49.3666185
 longitude: 11.2051593
 postcode: 90537
 city: Feucht
-street: Gugelhammerweg
+street: "Gugelhammerweg"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

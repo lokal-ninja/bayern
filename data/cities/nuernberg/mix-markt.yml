@@ -5,7 +5,7 @@ latitude: 49.430024
 longitude: 11.087675500000001
 postcode: 90461
 city: Nürnberg
-street: Neulichtenhofstraße
+street: "Neulichtenhofstraße"
 housenumber: 16
 phone: "+49 911 99446248"
 opening_hours: "Mo-Sa 09:00-20:00"

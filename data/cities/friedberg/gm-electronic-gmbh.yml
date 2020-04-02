@@ -5,7 +5,7 @@ latitude: 48.356079900000005
 longitude: 10.9874877
 postcode: 86316
 city: Friedberg
-street: Ekherstraße
+street: "Ekherstraße"
 housenumber: 1a
 phone: ""
 opening_hours: ""

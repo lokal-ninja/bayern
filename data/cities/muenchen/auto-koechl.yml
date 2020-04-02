@@ -5,7 +5,7 @@ latitude: 48.1306974
 longitude: 11.533301400000001
 postcode: 81373
 city: München
-street: Hansastraße
+street: "Hansastraße"
 housenumber: 31
 phone: ""
 opening_hours: ""

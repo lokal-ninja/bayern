@@ -5,7 +5,7 @@ latitude: 48.294562400000004
 longitude: 11.4109683
 postcode: 
 city: Dachau
-street: Dorfstraße
+street: "Dorfstraße"
 housenumber: 45
 phone: ""
 opening_hours: ""

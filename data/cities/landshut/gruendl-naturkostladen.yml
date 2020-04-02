@@ -5,7 +5,7 @@ latitude: 48.539769400000004
 longitude: 12.128527
 postcode: 84034
 city: Landshut
-street: Rennweg
+street: "Rennweg"
 housenumber: 97
 phone: "+49 871 4306177"
 opening_hours: "Mo-Fr 8:00-18:00; Sa 8:00-13:00"

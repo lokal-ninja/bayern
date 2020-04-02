@@ -5,7 +5,7 @@ latitude: 49.453481700000005
 longitude: 12.180999600000002
 postcode: 92507
 city: Nabburg
-street: Unterer Markt
+street: "Unterer Markt"
 housenumber: 5
 phone: ""
 opening_hours: ""

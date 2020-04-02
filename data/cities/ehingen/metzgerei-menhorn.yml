@@ -5,7 +5,7 @@ latitude: 49.087257900000004
 longitude: 10.5379228
 postcode: 91725
 city: Ehingen
-street: Am Mühlbach
+street: "Am Mühlbach"
 housenumber: 8
 phone: "+4998 3596 823"
 opening_hours: ""

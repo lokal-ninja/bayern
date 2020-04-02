@@ -5,7 +5,7 @@ latitude: 48.886521200000004
 longitude: 10.4702196
 postcode: 86757
 city: Wallerstein
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 27
 phone: ""
 opening_hours: ""

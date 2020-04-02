@@ -5,7 +5,7 @@ latitude: 47.714141700000006
 longitude: 11.719451000000001
 postcode: 83707
 city: Bad Wiessee
-street: Dr.-Scheid-Straße
+street: "Dr.-Scheid-Straße"
 housenumber: 9
 phone: "+49 8022 82760"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.2833369
 longitude: 10.786707400000001
 postcode: 91564
 city: Neuendettelsau
-street: Riegelgasse
+street: "Riegelgasse"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off"

@@ -5,7 +5,7 @@ latitude: 48.2697489
 longitude: 13.0198999
 postcode: 84359
 city: Simbach am Inn
-street: Simon-Breu-Straße
+street: "Simon-Breu-Straße"
 housenumber: 39
 phone: "+49 8571-9251436"
 opening_hours: "Mo-Sa 08:30-20:00; PH off"

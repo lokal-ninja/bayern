@@ -5,7 +5,7 @@ latitude: 49.4502821
 longitude: 11.0728527
 postcode: 90402
 city: Nürnberg
-street: Breite Gasse
+street: "Breite Gasse"
 housenumber: 76
 phone: ""
 opening_hours: ""

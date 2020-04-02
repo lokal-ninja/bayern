@@ -5,7 +5,7 @@ latitude: 48.1793909
 longitude: 11.6326999
 postcode: 85774
 city: Unterföhring
-street: Feringastraße
+street: "Feringastraße"
 housenumber: 5
 phone: "+49 89 96051638"
 opening_hours: "Mo-Sa 08:00-20:00"

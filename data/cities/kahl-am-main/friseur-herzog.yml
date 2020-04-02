@@ -5,7 +5,7 @@ latitude: 50.073415600000004
 longitude: 9.0071705
 postcode: 63796
 city: Kahl am Main
-street: Seestraße
+street: "Seestraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

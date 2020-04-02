@@ -5,7 +5,7 @@ latitude: 49.177721600000005
 longitude: 10.917840700000001
 postcode: 91174
 city: Spalt
-street: Windsbacher Straße
+street: "Windsbacher Straße"
 housenumber: 39
 phone: "+49 9175 790990"
 opening_hours: ""

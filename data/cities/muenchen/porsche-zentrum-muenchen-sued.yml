@@ -5,7 +5,7 @@ latitude: 48.0930776
 longitude: 11.504235600000001
 postcode: 81477
 city: München
-street: Drygalski-Allee
+street: "Drygalski-Allee"
 housenumber: 29
 phone: ""
 opening_hours: ""

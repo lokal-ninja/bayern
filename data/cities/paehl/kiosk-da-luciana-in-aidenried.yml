@@ -5,7 +5,7 @@ latitude: 47.946468800000005
 longitude: 11.1500198
 postcode: 82396
 city: Pähl
-street: Seestraße
+street: "Seestraße"
 housenumber: 41a
 phone: ""
 opening_hours: ""

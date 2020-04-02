@@ -5,7 +5,7 @@ latitude: 47.8759692
 longitude: 11.4626187
 postcode: 82538
 city: Geretsried
-street: Graslitzer Straße
+street: "Graslitzer Straße"
 housenumber: 23a
 phone: "+49 8171 6911"
 opening_hours: "24/7"

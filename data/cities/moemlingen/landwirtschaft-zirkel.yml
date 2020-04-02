@@ -5,7 +5,7 @@ latitude: 49.851488100000005
 longitude: 9.0899128
 postcode: 63853
 city: Mömlingen
-street: Frankenstraße
+street: "Frankenstraße"
 housenumber: 3
 phone: ""
 opening_hours: "Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00; PH off"

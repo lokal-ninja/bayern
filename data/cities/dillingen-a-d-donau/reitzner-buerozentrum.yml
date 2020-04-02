@@ -5,7 +5,7 @@ latitude: 48.577563600000005
 longitude: 10.472484900000001
 postcode: 
 city: Dillingen a.d.Donau
-street: Johannes-Scheiffele-Straße
+street: "Johannes-Scheiffele-Straße"
 housenumber: 17
 phone: ""
 opening_hours: ""

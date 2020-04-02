@@ -5,7 +5,7 @@ latitude: 48.140622500000006
 longitude: 11.6016185
 postcode: 81675
 city: München
-street: Trogerstraße
+street: "Trogerstraße"
 housenumber: 48
 phone: "+49 89 47099445"
 opening_hours: "Mo-Fr 09:30-20:00; Sa 08:30-16:00"

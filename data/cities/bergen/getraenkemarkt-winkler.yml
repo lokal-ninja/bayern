@@ -5,7 +5,7 @@ latitude: 47.8070991
 longitude: 12.5906786
 postcode: 83346
 city: Bergen
-street: Dorfplatz
+street: "Dorfplatz"
 housenumber: 4
 phone: "+49 8662 668355"
 opening_hours: "Mo-Fr 08:00-13:00, 14:00-18:00; Sa 08:00-13:00"

@@ -5,7 +5,7 @@ latitude: 48.7493727
 longitude: 12.4209644
 postcode: 84152
 city: Martinsbuch
-street: Martinsbuch
+street: "Martinsbuch"
 housenumber: 27
 phone: "+49 8733 207"
 opening_hours: ""

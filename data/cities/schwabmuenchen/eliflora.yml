@@ -5,7 +5,7 @@ latitude: 48.1826378
 longitude: 10.7578142
 postcode: 86830
 city: Schwabmünchen
-street: Fuggerstraße
+street: "Fuggerstraße"
 housenumber: 36
 phone: ""
 opening_hours: ""

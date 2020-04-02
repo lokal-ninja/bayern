@@ -5,7 +5,7 @@ latitude: 49.2452259
 longitude: 11.0930535
 postcode: 91154
 city: Roth
-street: Hilpoltsteiner Straße
+street: "Hilpoltsteiner Straße"
 housenumber: 6
 phone: ""
 opening_hours: "Tu-Fr 9:00-17:45; Sa 08:00-13:00"

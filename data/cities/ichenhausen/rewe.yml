@@ -5,7 +5,7 @@ latitude: 48.3690512
 longitude: 10.300096
 postcode: 89335
 city: Ichenhausen
-street: Günztalstraße
+street: "Günztalstraße"
 housenumber: 2
 phone: "+49 8223 4084871"
 opening_hours: "Mo-Sa 07:00-20:00"

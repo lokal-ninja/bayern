@@ -5,7 +5,7 @@ latitude: 47.648274300000004
 longitude: 9.8574269
 postcode: 88145
 city: Maurersreute
-street: Maurersreute
+street: "Maurersreute"
 housenumber: 168
 phone: ""
 opening_hours: ""

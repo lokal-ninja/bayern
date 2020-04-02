@@ -5,7 +5,7 @@ latitude: 48.2735798
 longitude: 10.9758042
 postcode: 86415
 city: Mering
-street: Holzgartenstraße
+street: "Holzgartenstraße"
 housenumber: 13a
 phone: ""
 opening_hours: "Mo-Fr 06:00-20:00; Sa 07:00-20:00; Su 08:00-17:00"

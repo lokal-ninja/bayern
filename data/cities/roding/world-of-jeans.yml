@@ -5,7 +5,7 @@ latitude: 49.195529300000004
 longitude: 12.5173564
 postcode: 93426
 city: Roding
-street: Schulstraße
+street: "Schulstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

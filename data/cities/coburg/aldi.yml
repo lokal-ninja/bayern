@@ -5,7 +5,7 @@ latitude: 50.229967300000006
 longitude: 10.978585200000001
 postcode: 96450
 city: Coburg
-street: Fabrikweg
+street: "Fabrikweg"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

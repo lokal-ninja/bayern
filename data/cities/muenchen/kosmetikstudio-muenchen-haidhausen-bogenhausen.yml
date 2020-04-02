@@ -5,7 +5,7 @@ latitude: 48.136537700000005
 longitude: 11.6092452
 postcode: 81675
 city: München
-street: Einsteinstraße
+street: "Einsteinstraße"
 housenumber: 129
 phone: "+49 89 4702242"
 opening_hours: "daily after appointment, call +49894702242 or +4915124080503 (mobile)"

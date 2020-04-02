@@ -5,7 +5,7 @@ latitude: 50.1581635
 longitude: 10.121113000000001
 postcode: 97714
 city: Oerlenbach
-street: Wittelsbacher Straße
+street: "Wittelsbacher Straße"
 housenumber: 5
 phone: ""
 opening_hours: "06:00-12:00"

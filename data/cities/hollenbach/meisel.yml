@@ -5,7 +5,7 @@ latitude: 48.4848827
 longitude: 11.059208700000001
 postcode: 86568
 city: Hollenbach
-street: Ulrichstraße
+street: "Ulrichstraße"
 housenumber: 13
 phone: ""
 opening_hours: ""

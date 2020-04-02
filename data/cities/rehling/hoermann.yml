@@ -5,7 +5,7 @@ latitude: 48.486811200000005
 longitude: 10.9308441
 postcode: 86508
 city: Rehling
-street: Bergstraße
+street: "Bergstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

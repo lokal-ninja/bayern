@@ -5,7 +5,7 @@ latitude: 50.3616569
 longitude: 11.9401659
 postcode: 95183
 city: Feilitzsch
-street: Scheibenweg
+street: "Scheibenweg"
 housenumber: 2
 phone: ""
 opening_hours: ""

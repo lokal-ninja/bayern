@@ -5,7 +5,7 @@ latitude: 48.1471524
 longitude: 11.4131301
 postcode: 81249
 city: München
-street: Wiesentfelser Straße
+street: "Wiesentfelser Straße"
 housenumber: 68
 phone: ""
 opening_hours: "07:00-20:00"

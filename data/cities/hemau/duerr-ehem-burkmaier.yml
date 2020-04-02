@@ -5,7 +5,7 @@ latitude: 49.051417300000004
 longitude: 11.782737800000001
 postcode: 93155
 city: Hemau
-street: Stadtplatz
+street: "Stadtplatz"
 housenumber: 12
 phone: ""
 opening_hours: ""

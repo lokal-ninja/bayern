@@ -5,7 +5,7 @@ latitude: 48.0644319
 longitude: 11.664228300000001
 postcode: 85521
 city: Ottobrunn
-street: Rathausstraße
+street: "Rathausstraße"
 housenumber: 12
 phone: ""
 opening_hours: ""

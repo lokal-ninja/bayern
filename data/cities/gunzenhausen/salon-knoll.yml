@@ -5,7 +5,7 @@ latitude: 49.1211312
 longitude: 10.7781643
 postcode: 91710
 city: Gunzenhausen
-street: Heidestraße
+street: "Heidestraße"
 housenumber: 20
 phone: ""
 opening_hours: ""

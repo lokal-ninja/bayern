@@ -5,7 +5,7 @@ latitude: 48.9941782
 longitude: 12.109616800000001
 postcode: 93053
 city: Regensburg
-street: Franz-Hartl-Straße
+street: "Franz-Hartl-Straße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

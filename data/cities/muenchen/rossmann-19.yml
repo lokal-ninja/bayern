@@ -5,7 +5,7 @@ latitude: 48.1133078
 longitude: 11.533497
 postcode: 81369
 city: München
-street: Passauerstraße
+street: "Passauerstraße"
 housenumber: 38
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off"

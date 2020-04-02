@@ -5,7 +5,7 @@ latitude: 48.136542500000004
 longitude: 11.580274300000001
 postcode: 80331
 city: München
-street: Hochbrückenstraße
+street: "Hochbrückenstraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

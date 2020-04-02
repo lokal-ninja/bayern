@@ -5,7 +5,7 @@ latitude: 48.1454469
 longitude: 11.5364787
 postcode: 
 city: München
-street: Arnulfstraße
+street: "Arnulfstraße"
 housenumber: 61
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 50.259111700000005
 longitude: 10.9634268
 postcode: 96450
 city: Coburg
-street: Mauer
+street: "Mauer"
 housenumber: 8
 phone: ""
 opening_hours: ""

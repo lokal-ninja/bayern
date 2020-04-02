@@ -5,7 +5,7 @@ latitude: 49.4116683
 longitude: 11.142028700000001
 postcode: 90471
 city: Nürnberg
-street: Kreuzburger Straße
+street: "Kreuzburger Straße"
 housenumber: 1
 phone: ""
 opening_hours: ""

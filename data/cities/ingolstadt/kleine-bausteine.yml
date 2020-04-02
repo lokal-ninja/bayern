@@ -5,7 +5,7 @@ latitude: 48.7635432
 longitude: 11.4209122
 postcode: 85049
 city: Ingolstadt
-street: Poppenstraße
+street: "Poppenstraße"
 housenumber: 2
 phone: "+49 841 34172"
 opening_hours: "Mo-Fr 10:00-12:30, 14:00-18:00; Sa 10:00-14:00; PH off"

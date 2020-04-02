@@ -5,7 +5,7 @@ latitude: 49.85815040000001
 longitude: 9.0792886
 postcode: 63853
 city: Mömlingen
-street: Eugen-Ostheimer-Straße
+street: "Eugen-Ostheimer-Straße"
 housenumber: 3
 phone: ""
 opening_hours: ""

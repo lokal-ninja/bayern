@@ -5,7 +5,7 @@ latitude: 48.1266473
 longitude: 11.6214773
 postcode: 81673
 city: München
-street: Altöttinger Straße
+street: "Altöttinger Straße"
 housenumber: 
 phone: ""
 opening_hours: "Mo-Fr 05:30-18:00; Sa 07:00-14:00; Su,PH 08:00-11:00"

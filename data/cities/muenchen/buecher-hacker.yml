@@ -5,7 +5,7 @@ latitude: 48.1376769
 longitude: 11.5025688
 postcode: 80686
 city: München
-street: Fürstenrieder Straße
+street: "Fürstenrieder Straße"
 housenumber: 46a
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00, Sa 09:00-16:00"

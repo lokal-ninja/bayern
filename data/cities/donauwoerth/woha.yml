@@ -5,7 +5,7 @@ latitude: 48.715678600000004
 longitude: 10.775404400000001
 postcode: 86609
 city: Donauwörth
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 12
 phone: ""
 opening_hours: ""

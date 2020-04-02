@@ -5,7 +5,7 @@ latitude: 48.109178400000005
 longitude: 11.724822600000001
 postcode: 85540
 city: Haar
-street: Kirchenstraße
+street: "Kirchenstraße"
 housenumber: 5
 phone: ""
 opening_hours: "Tu-Fr 09:30-17:00; Sa 09:30-13:30; PH off"

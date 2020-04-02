@@ -5,7 +5,7 @@ latitude: 49.5014492
 longitude: 11.278766800000001
 postcode: 91207
 city: Lauf a.d.Pegnitz
-street: Oskar-Sembach-Ring
+street: "Oskar-Sembach-Ring"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Tu 09:00-13:00,14:00-20:00"

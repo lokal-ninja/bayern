@@ -5,7 +5,7 @@ latitude: 47.8532444
 longitude: 12.126377900000001
 postcode: 83022
 city: Rosenheim
-street: Brixstraße
+street: "Brixstraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

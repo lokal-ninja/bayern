@@ -5,7 +5,7 @@ latitude: 48.436105100000006
 longitude: 12.347809100000001
 postcode: 84137
 city: Vilsbiburg
-street: Streunweinmühle
+street: "Streunweinmühle"
 housenumber: 6
 phone: ""
 opening_hours: "Fr 08:00-17:00; Sa 08:00-17:00; PH off; if present"

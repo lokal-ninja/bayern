@@ -5,7 +5,7 @@ latitude: 48.762776
 longitude: 11.4238414
 postcode: 85049
 city: Ingolstadt
-street: Sauerstraße
+street: "Sauerstraße"
 housenumber: 7
 phone: "+49 841 33811"
 opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-14:00"

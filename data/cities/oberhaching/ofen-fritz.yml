@@ -5,7 +5,7 @@ latitude: 48.0175518
 longitude: 11.5832531
 postcode: 82041
 city: Oberhaching
-street: Sauerlacher Straße
+street: "Sauerlacher Straße"
 housenumber: 22
 phone: "+49 89 130 60 184"
 opening_hours: ""

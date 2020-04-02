@@ -5,7 +5,7 @@ latitude: 49.451973100000004
 longitude: 12.182375700000001
 postcode: 92507
 city: Nabburg
-street: Georgenstraße
+street: "Georgenstraße"
 housenumber: 32
 phone: ""
 opening_hours: ""

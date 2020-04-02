@@ -5,7 +5,7 @@ latitude: 48.366418
 longitude: 10.891498100000002
 postcode: 86150
 city: Augsburg
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 12
 phone: "+49 821 50898591"
 opening_hours: "Mo-Fr 07:00-18:30; Sa 09:00-17:30"

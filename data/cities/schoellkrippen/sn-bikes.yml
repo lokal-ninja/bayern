@@ -5,7 +5,7 @@ latitude: 50.084121
 longitude: 9.246886400000001
 postcode: 63825
 city: Schöllkrippen
-street: Lindenstraße
+street: "Lindenstraße"
 housenumber: 37
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.4615042
 longitude: 10.9855622
 postcode: 90763
 city: Fürth
-street: Kaiserstraße
+street: "Kaiserstraße"
 housenumber: 22
 phone: ""
 opening_hours: "Mo-Sa 09:00-20:00"

@@ -5,7 +5,7 @@ latitude: 48.098227200000004
 longitude: 11.522106200000001
 postcode: 81379
 city: München
-street: Aidenbachstraße
+street: "Aidenbachstraße"
 housenumber: 36
 phone: ""
 opening_hours: "Mo-Th 07:30-17:00; Fr 07:30-14:00"

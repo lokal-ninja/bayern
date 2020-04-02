@@ -5,7 +5,7 @@ latitude: 48.345942
 longitude: 10.881859700000001
 postcode: 86199
 city: Augsburg
-street: Edisonstraße
+street: "Edisonstraße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

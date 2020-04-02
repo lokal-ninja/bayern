@@ -5,7 +5,7 @@ latitude: 48.129356200000004
 longitude: 11.568239700000001
 postcode: 80469
 city: München
-street: Holzstraße
+street: "Holzstraße"
 housenumber: 25
 phone: "+49 89 26022660"
 opening_hours: ""

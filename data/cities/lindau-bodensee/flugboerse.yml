@@ -5,7 +5,7 @@ latitude: 47.5457887
 longitude: 9.6815282
 postcode: 88131
 city: Lindau (Bodensee)
-street: Maximilianstraße
+street: "Maximilianstraße"
 housenumber: 50
 phone: "+49 8382 946294"
 opening_hours: ""

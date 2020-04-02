@@ -5,7 +5,7 @@ latitude: 48.371746300000005
 longitude: 10.8954555
 postcode: 86152
 city: Augsburg
-street: Peutingerstraße
+street: "Peutingerstraße"
 housenumber: 18
 phone: ""
 opening_hours: "Tu-Fr 09:00-18:00; Sa 10:00-18:00"

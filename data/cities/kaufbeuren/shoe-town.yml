@@ -5,7 +5,7 @@ latitude: 47.881784
 longitude: 10.6181926
 postcode: 87600
 city: Kaufbeuren
-street: Alleeweg
+street: "Alleeweg"
 housenumber: 10
 phone: ""
 opening_hours: ""

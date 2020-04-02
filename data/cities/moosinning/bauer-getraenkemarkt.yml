@@ -5,7 +5,7 @@ latitude: 48.2761377
 longitude: 11.842910400000001
 postcode: 85452
 city: Moosinning
-street: Sonnenstraße
+street: "Sonnenstraße"
 housenumber: 25
 phone: "+49 8123 1422"
 opening_hours: ""

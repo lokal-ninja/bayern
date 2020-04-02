@@ -5,7 +5,7 @@ latitude: 49.474855500000004
 longitude: 11.7913957
 postcode: 92284
 city: Poppenricht
-street: Häringloher Straße
+street: "Häringloher Straße"
 housenumber: 55a
 phone: ""
 opening_hours: "Mo off; Tu-Sa 09:00-12:00,16:00-18:00"

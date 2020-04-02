@@ -5,7 +5,7 @@ latitude: 48.0534678
 longitude: 11.665402100000001
 postcode: 85521
 city: Ottobrunn
-street: Robert-Koch-Straße
+street: "Robert-Koch-Straße"
 housenumber: 11a
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 50.1622506
 longitude: 11.8431034
 postcode: 95234
 city: Sparneck
-street: Münchberger Straße
+street: "Münchberger Straße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Fr 05:30-13:00, Sa 05:30-12:00, Mo-We,Fr 14:00-18:00"

@@ -5,7 +5,7 @@ latitude: 48.1438123
 longitude: 11.535798600000001
 postcode: 80636
 city: München
-street: Erika-Mann-Straße
+street: "Erika-Mann-Straße"
 housenumber: 68
 phone: ""
 opening_hours: "Mo-Sa 06:00-22:00"

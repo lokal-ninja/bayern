@@ -5,7 +5,7 @@ latitude: 48.1241469
 longitude: 11.580299400000001
 postcode: 81541
 city: München
-street: Falkenstraße
+street: "Falkenstraße"
 housenumber: 2a
 phone: ""
 opening_hours: ""

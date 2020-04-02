@@ -5,7 +5,7 @@ latitude: 48.114705
 longitude: 11.6468781
 postcode: 81825
 city: München
-street: Rofanstraße
+street: "Rofanstraße"
 housenumber: 53
 phone: "+49 89 421365"
 opening_hours: ""

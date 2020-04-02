@@ -5,7 +5,7 @@ latitude: 49.864407500000006
 longitude: 10.2274729
 postcode: 97332
 city: Volkach
-street: Professor-Jäcklein-Straße
+street: "Professor-Jäcklein-Straße"
 housenumber: 1
 phone: "+49 9381 5179091"
 opening_hours: "Mo-Fr 09:00-12:30, 13:30-17:00"

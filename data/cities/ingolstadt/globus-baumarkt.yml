@@ -5,7 +5,7 @@ latitude: 48.7041582
 longitude: 11.4233378
 postcode: 85051
 city: Ingolstadt
-street: Am Hochfeldweg
+street: "Am Hochfeldweg"
 housenumber: 4
 phone: "+49 8450 928880"
 opening_hours: "Mo-Sa 08:00-20:00"

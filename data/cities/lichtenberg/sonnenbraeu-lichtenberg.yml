@@ -5,7 +5,7 @@ latitude: 50.380909900000006
 longitude: 11.6755083
 postcode: 95192
 city: Lichtenberg
-street: Nailaer Straße
+street: "Nailaer Straße"
 housenumber: 20
 phone: "+49-9288-304"
 opening_hours: ""

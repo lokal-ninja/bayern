@@ -5,7 +5,7 @@ latitude: 48.1908149
 longitude: 11.616836900000001
 postcode: 80939
 city: München
-street: Situlistraße
+street: "Situlistraße"
 housenumber: 36
 phone: ""
 opening_hours: ""

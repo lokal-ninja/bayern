@@ -5,7 +5,7 @@ latitude: 47.7785488
 longitude: 12.456133900000001
 postcode: 83224
 city: Grassau
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 31
 phone: "+49 8641 598825"
 opening_hours: ""

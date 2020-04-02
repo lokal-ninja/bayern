@@ -5,7 +5,7 @@ latitude: 48.2179176
 longitude: 11.525316100000001
 postcode: 80995
 city: München
-street: Karlsfelder Straße
+street: "Karlsfelder Straße"
 housenumber: 13
 phone: ""
 opening_hours: ""

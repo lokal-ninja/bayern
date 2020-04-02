@@ -5,7 +5,7 @@ latitude: 48.137736200000006
 longitude: 11.454241600000001
 postcode: 81241
 city: München
-street: Planegger Straße
+street: "Planegger Straße"
 housenumber: 48
 phone: ""
 opening_hours: ""

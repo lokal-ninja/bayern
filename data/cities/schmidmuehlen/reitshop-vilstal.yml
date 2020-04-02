@@ -5,7 +5,7 @@ latitude: 49.274497000000004
 longitude: 11.9354122
 postcode: 92287
 city: Schmidmühlen
-street: Harschhof
+street: "Harschhof"
 housenumber: 3
 phone: "+49 176 962 075 45"
 opening_hours: "Mo-Tu 09:00-18:00, Tu-Fr 09:00-18:00; Sa 09:00-13:00"

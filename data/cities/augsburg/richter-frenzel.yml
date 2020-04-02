@@ -5,7 +5,7 @@ latitude: 48.3458344
 longitude: 10.9074933
 postcode: 86161
 city: Augsburg
-street: Stauffenbergstraße
+street: "Stauffenbergstraße"
 housenumber: 5-7
 phone: "+49 821 59020"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00; Su 13:00-17:00"

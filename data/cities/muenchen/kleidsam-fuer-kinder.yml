@@ -5,7 +5,7 @@ latitude: 48.150542
 longitude: 11.5374882
 postcode: 80636
 city: München
-street: Blutenburgstraße
+street: "Blutenburgstraße"
 housenumber: 112
 phone: "+49 89 540434-34"
 opening_hours: ""

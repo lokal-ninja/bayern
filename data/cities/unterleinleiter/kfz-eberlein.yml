@@ -5,7 +5,7 @@ latitude: 49.835973100000004
 longitude: 11.161201
 postcode: 91364
 city: Unterleinleiter
-street: Kolmhof
+street: "Kolmhof"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Fr 08:30-18:00"

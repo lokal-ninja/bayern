@@ -5,7 +5,7 @@ latitude: 49.8872994
 longitude: 10.3136661
 postcode: 97447
 city: Frankenwinheim
-street: Gerolzhöfer Straße
+street: "Gerolzhöfer Straße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Fr 06:30-12:30,14:00-18:00; Sa 06:30-13:00"

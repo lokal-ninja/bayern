@@ -5,7 +5,7 @@ latitude: 48.6737825
 longitude: 11.8739497
 postcode: 84091
 city: Attenhofen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 9
 phone: ""
 opening_hours: ""

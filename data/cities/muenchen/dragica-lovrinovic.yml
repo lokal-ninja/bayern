@@ -5,7 +5,7 @@ latitude: 48.0840265
 longitude: 11.6761546
 postcode: 81739
 city: München
-street: Putzbrunner Straße
+street: "Putzbrunner Straße"
 housenumber: 266
 phone: "+49-89-60011713"
 opening_hours: ""

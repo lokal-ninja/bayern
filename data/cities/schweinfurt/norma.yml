@@ -5,7 +5,7 @@ latitude: 50.0408914
 longitude: 10.1973187
 postcode: 97424
 city: Schweinfurt
-street: Oskar-von-Miller-Straße
+street: "Oskar-von-Miller-Straße"
 housenumber: 60
 phone: ""
 opening_hours: ""

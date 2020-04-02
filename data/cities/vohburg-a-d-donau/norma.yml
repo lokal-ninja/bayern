@@ -5,7 +5,7 @@ latitude: 48.7653605
 longitude: 11.625464500000001
 postcode: 85088
 city: Vohburg a.d.Donau
-street: Hartackerstraße
+street: "Hartackerstraße"
 housenumber: 35
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

@@ -5,7 +5,7 @@ latitude: 48.7245964
 longitude: 10.7779916
 postcode: 86609
 city: Donauwörth
-street: Berger Allee
+street: "Berger Allee"
 housenumber: 4
 phone: "+49 906 3168"
 opening_hours: ""

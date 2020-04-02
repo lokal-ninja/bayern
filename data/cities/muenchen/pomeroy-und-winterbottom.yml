@@ -5,7 +5,7 @@ latitude: 48.1470452
 longitude: 11.560299
 postcode: 80333
 city: München
-street: Brienner Straße
+street: "Brienner Straße"
 housenumber: 55
 phone: "+49 89 2016901"
 opening_hours: "Mo-Fr 11:00-19:00; Sa 11:00-16:00"

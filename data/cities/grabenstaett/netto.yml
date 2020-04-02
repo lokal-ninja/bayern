@@ -5,7 +5,7 @@ latitude: 47.8503984
 longitude: 12.5421121
 postcode: 83355
 city: Grabenstätt
-street: Gewerbestraße
+street: "Gewerbestraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.119829800000005
 longitude: 11.5716392
 postcode: 81543
 city: München
-street: Schyrenstraße
+street: "Schyrenstraße"
 housenumber: 16
 phone: ""
 opening_hours: "Tu,Th-Fr 09:30-12:30, Tu,Fr 14:00-18:30; Th 14:00-20:00; Sa 09:30-13:00"

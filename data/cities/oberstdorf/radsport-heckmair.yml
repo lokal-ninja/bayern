@@ -5,7 +5,7 @@ latitude: 47.405351100000004
 longitude: 10.2841986
 postcode: 87561
 city: Oberstdorf
-street: Nebelhornstraße
+street: "Nebelhornstraße"
 housenumber: 46
 phone: ""
 opening_hours: ""

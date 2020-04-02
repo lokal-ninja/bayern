@@ -5,7 +5,7 @@ latitude: 49.193800200000005
 longitude: 11.207731500000001
 postcode: 91161
 city: Hilpoltstein
-street: Zum Bauernhof
+street: "Zum Bauernhof"
 housenumber: 2
 phone: ""
 opening_hours: "Mar-Oct: Mo-Fr 08:00-18:00, Mar-Oct: Sa 08:00-13:00, Nov-Feb: Mo-Fr 08:00-17:00, Nov-Feb: Sa 08:00-13:00"

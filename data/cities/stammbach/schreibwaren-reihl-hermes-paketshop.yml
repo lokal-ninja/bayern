@@ -5,7 +5,7 @@ latitude: 50.1453019
 longitude: 11.693510700000001
 postcode: 95236
 city: Stammbach
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Fr 07:30-12:30,13:30-18:00; We,Sa 07:30-12:30"

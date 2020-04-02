@@ -5,7 +5,7 @@ latitude: 49.0080277
 longitude: 12.131288900000001
 postcode: 93055
 city: Regensburg
-street: Am Ostbahnhof
+street: "Am Ostbahnhof"
 housenumber: 9
 phone: "+49 941 63088083"
 opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00"

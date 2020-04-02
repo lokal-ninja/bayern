@@ -5,7 +5,7 @@ latitude: 48.0409349
 longitude: 11.523135100000001
 postcode: 82031
 city: Grünwald
-street: Schloßstraße
+street: "Schloßstraße"
 housenumber: 14c
 phone: "+49 89 6410471"
 opening_hours: ""

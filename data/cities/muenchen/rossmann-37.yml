@@ -5,7 +5,7 @@ latitude: 48.1415711
 longitude: 11.418827700000001
 postcode: 81249
 city: München
-street: Bodenseestraße
+street: "Bodenseestraße"
 housenumber: 281
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off"

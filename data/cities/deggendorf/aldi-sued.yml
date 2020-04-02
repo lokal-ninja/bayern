@@ -5,7 +5,7 @@ latitude: 48.8291236
 longitude: 12.9598533
 postcode: 94469
 city: Deggendorf
-street: Werftstraße
+street: "Werftstraße"
 housenumber: 32
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

@@ -5,7 +5,7 @@ latitude: 50.2380907
 longitude: 11.3293481
 postcode: 96317
 city: Kronach
-street: Friedhofstraße
+street: "Friedhofstraße"
 housenumber: 14
 phone: ""
 opening_hours: ""

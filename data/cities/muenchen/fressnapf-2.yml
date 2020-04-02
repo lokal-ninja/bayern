@@ -5,7 +5,7 @@ latitude: 48.0948349
 longitude: 11.511625800000001
 postcode: 81379
 city: München
-street: Kistlerhofstraße
+street: "Kistlerhofstraße"
 housenumber: 168
 phone: ""
 opening_hours: "Mo-Sa 09:00-20:00"

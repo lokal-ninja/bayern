@@ -5,7 +5,7 @@ latitude: 50.1344372
 longitude: 12.013167800000002
 postcode: 95168
 city: Marktleuthen
-street: Schlupfenweg
+street: "Schlupfenweg"
 housenumber: 15
 phone: ""
 opening_hours: ""

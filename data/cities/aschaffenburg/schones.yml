@@ -5,7 +5,7 @@ latitude: 49.9751326
 longitude: 9.149938500000001
 postcode: 63739
 city: Aschaffenburg
-street: Roßmarkt
+street: "Roßmarkt"
 housenumber: 34
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 50.0203478
 longitude: 10.214057700000001
 postcode: 97424
 city: Schweinfurt
-street: Straßburgstraße
+street: "Straßburgstraße"
 housenumber: 9
 phone: ""
 opening_hours: "24/7"

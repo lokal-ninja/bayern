@@ -5,7 +5,7 @@ latitude: 48.559361800000005
 longitude: 12.156911500000001
 postcode: 84030
 city: Ergolding
-street: Meisenstraße
+street: "Meisenstraße"
 housenumber: 22
 phone: ""
 opening_hours: ""

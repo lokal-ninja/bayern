@@ -5,7 +5,7 @@ latitude: 49.501715100000006
 longitude: 11.002359
 postcode: 90765
 city: Fürth
-street: Im Grund
+street: "Im Grund"
 housenumber: 19
 phone: ""
 opening_hours: "Mo-Fr 08:00-17:00"

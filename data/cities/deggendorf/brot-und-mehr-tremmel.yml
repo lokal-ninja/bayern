@@ -5,7 +5,7 @@ latitude: 48.8325114
 longitude: 12.960605600000001
 postcode: 94469
 city: Deggendorf
-street: Veilchengasse
+street: "Veilchengasse"
 housenumber: 9
 phone: "+49-991-2503266"
 opening_hours: ""

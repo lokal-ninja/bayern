@@ -5,7 +5,7 @@ latitude: 49.9818621
 longitude: 9.113318000000001
 postcode: 63741
 city: Aschaffenburg
-street: Schwalbenrainweg
+street: "Schwalbenrainweg"
 housenumber: 48
 phone: "+49 6021 21460"
 opening_hours: "Mo - Fr: 10:00 - 18:00 Uhr, Sa: 10:00 - 14:00 Uhr"

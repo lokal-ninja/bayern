@@ -5,7 +5,7 @@ latitude: 47.846613700000006
 longitude: 12.347772500000001
 postcode: 83209
 city: Prien am Chiemsee
-street: Systemformstraße
+street: "Systemformstraße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

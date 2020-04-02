@@ -5,7 +5,7 @@ latitude: 48.173860600000005
 longitude: 11.366713800000001
 postcode: 82178
 city: Puchheim
-street: Benzstraße
+street: "Benzstraße"
 housenumber: 38
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

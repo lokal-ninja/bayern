@@ -5,7 +5,7 @@ latitude: 48.5707299
 longitude: 13.4798665
 postcode: 94032
 city: Passau
-street: Kapuzinerstraße
+street: "Kapuzinerstraße"
 housenumber: 42
 phone: ""
 opening_hours: ""

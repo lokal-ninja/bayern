@@ -5,7 +5,7 @@ latitude: 49.4933783
 longitude: 12.179678500000001
 postcode: 92536
 city: Pfreimd
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 15
 phone: ""
 opening_hours: ""

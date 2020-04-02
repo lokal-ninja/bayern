@@ -5,7 +5,7 @@ latitude: 48.257460300000005
 longitude: 10.8916182
 postcode: 86343
 city: Königsbrunn
-street: Rosenstraße
+street: "Rosenstraße"
 housenumber: 2a
 phone: ""
 opening_hours: "Mo-Sa 07:30-20:00"

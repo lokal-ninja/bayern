@@ -5,7 +5,7 @@ latitude: 48.1410235
 longitude: 11.656398900000001
 postcode: 81929
 city: München
-street: Riemer Straße
+street: "Riemer Straße"
 housenumber: 199
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

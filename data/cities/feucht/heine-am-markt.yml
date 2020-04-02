@@ -5,7 +5,7 @@ latitude: 49.375110600000006
 longitude: 11.2144622
 postcode: 90537
 city: Feucht
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"

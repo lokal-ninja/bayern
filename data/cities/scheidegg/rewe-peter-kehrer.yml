@@ -5,7 +5,7 @@ latitude: 47.580334400000005
 longitude: 9.844725
 postcode: 88175
 city: Scheidegg
-street: Zollstraße
+street: "Zollstraße"
 housenumber: 26
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00; PH off"

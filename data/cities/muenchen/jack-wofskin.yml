@@ -5,7 +5,7 @@ latitude: 48.1384588
 longitude: 11.568601600000001
 postcode: 80331
 city: München
-street: Neuhauser Straße
+street: "Neuhauser Straße"
 housenumber: 29
 phone: ""
 opening_hours: "Mo-Sa 10:00-20:00"

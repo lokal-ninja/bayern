@@ -5,7 +5,7 @@ latitude: 49.4105733
 longitude: 11.543924200000001
 postcode: 91236
 city: Alfeld
-street: Vogelherd
+street: "Vogelherd"
 housenumber: 4
 phone: ""
 opening_hours: ""

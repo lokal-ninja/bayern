@@ -5,7 +5,7 @@ latitude: 48.343038500000006
 longitude: 10.038717
 postcode: 89233
 city: Neu-Ulm
-street: St.-Wolfgang-Straße
+street: "St.-Wolfgang-Straße"
 housenumber: 18
 phone: ""
 opening_hours: ""

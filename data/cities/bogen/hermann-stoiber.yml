@@ -5,7 +5,7 @@ latitude: 48.915562900000005
 longitude: 12.693828900000002
 postcode: 94327
 city: Bogen
-street: Ganghoferstraße
+street: "Ganghoferstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

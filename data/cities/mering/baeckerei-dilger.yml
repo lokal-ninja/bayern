@@ -5,7 +5,7 @@ latitude: 48.267916500000005
 longitude: 10.986560800000001
 postcode: 86415
 city: Mering
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 6
 phone: ""
 opening_hours: ""

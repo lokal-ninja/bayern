@@ -5,7 +5,7 @@ latitude: 49.7878163
 longitude: 9.9293188
 postcode: 97070
 city: Würzburg
-street: Landwehrstraße
+street: "Landwehrstraße"
 housenumber: 13
 phone: ""
 opening_hours: ""

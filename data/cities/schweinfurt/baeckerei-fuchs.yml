@@ -5,7 +5,7 @@ latitude: 50.044898100000005
 longitude: 10.2338216
 postcode: 97421
 city: Schweinfurt
-street: Markt
+street: "Markt"
 housenumber: 21
 phone: ""
 opening_hours: ""

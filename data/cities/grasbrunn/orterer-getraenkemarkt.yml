@@ -5,7 +5,7 @@ latitude: 48.0968877
 longitude: 11.7677663
 postcode: 85630
 city: Grasbrunn
-street: Gartenstraße
+street: "Gartenstraße"
 housenumber: 1a
 phone: "+49 89 43 57 56 05"
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"

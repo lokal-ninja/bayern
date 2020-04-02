@@ -5,7 +5,7 @@ latitude: 48.3977093
 longitude: 10.682035800000001
 postcode: 86497
 city: Horgau
-street: Von-Holzapfel-Straße
+street: "Von-Holzapfel-Straße"
 housenumber: 
 phone: ""
 opening_hours: "Mo-Fr 08:00-12:00,13:00-19:30; Sa 09:30-14:00"

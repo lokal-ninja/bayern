@@ -5,7 +5,7 @@ latitude: 48.3902246
 longitude: 10.9745597
 postcode: 86316
 city: Friedberg
-street: St.-Anton-Straße
+street: "St.-Anton-Straße"
 housenumber: 5
 phone: ""
 opening_hours: ""

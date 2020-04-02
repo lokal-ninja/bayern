@@ -5,7 +5,7 @@ latitude: 48.1101596
 longitude: 11.7333805
 postcode: 85540
 city: Haar
-street: Parkstraße
+street: "Parkstraße"
 housenumber: 4
 phone: ""
 opening_hours: "Tu,Th,Fr 10:00-13:00, We 10:00-18:00, Tu,Fr 15:00-18:00, Th 15:00-20:00; Sa 11:00-14:00, Sa[1] 11:00-16:00"

@@ -5,7 +5,7 @@ latitude: 49.443932100000005
 longitude: 11.867443000000002
 postcode: 92224
 city: Amberg
-street: Regensburger Straße
+street: "Regensburger Straße"
 housenumber: 11
 phone: "+49 09621 372896"
 opening_hours: "Mo-Sa 08:00-20:00"

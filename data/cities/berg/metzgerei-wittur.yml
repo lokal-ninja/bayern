@@ -5,7 +5,7 @@ latitude: 47.9560988
 longitude: 11.3637534
 postcode: 82335
 city: Berg
-street: Marienstraße
+street: "Marienstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

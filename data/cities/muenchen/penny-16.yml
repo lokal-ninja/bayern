@@ -5,7 +5,7 @@ latitude: 48.10105
 longitude: 11.5591989
 postcode: 81543
 city: München
-street: Schönstraße
+street: "Schönstraße"
 housenumber: 126
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

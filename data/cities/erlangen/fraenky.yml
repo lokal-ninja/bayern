@@ -5,7 +5,7 @@ latitude: 49.5959756
 longitude: 11.0273623
 postcode: 91052
 city: Erlangen
-street: Artilleriestraße
+street: "Artilleriestraße"
 housenumber: 52
 phone: "+49 9131 5300379"
 opening_hours: "Mo-Sa 08:00-20:00"

@@ -5,7 +5,7 @@ latitude: 48.333662600000004
 longitude: 10.8996712
 postcode: 86159
 city: Augsburg
-street: Salomon-Idler-Straße
+street: "Salomon-Idler-Straße"
 housenumber: 22E
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 08:00-12:00"

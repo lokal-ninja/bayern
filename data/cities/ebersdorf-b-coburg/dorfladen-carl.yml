@@ -5,7 +5,7 @@ latitude: 50.240714000000004
 longitude: 11.0761102
 postcode: 96237
 city: Ebersdorf b. Coburg
-street: Kirchstraße
+street: "Kirchstraße"
 housenumber: 7
 phone: ""
 opening_hours: ""

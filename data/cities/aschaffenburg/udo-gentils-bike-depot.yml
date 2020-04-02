@@ -5,7 +5,7 @@ latitude: 49.9722116
 longitude: 9.157997100000001
 postcode: 63739
 city: Aschaffenburg
-street: Würzburger Straße
+street: "Würzburger Straße"
 housenumber: 68
 phone: "+496021960779"
 opening_hours: "Mo-Tu 10:00-13:00,14:30-18:00; We 14:30-18:00; Tu-Fr 10:00-13:00,14:30-18:00; Sa 10:00-13:00"

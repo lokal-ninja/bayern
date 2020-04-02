@@ -5,7 +5,7 @@ latitude: 49.0878044
 longitude: 11.2232315
 postcode: 91177
 city: Thalmässing
-street: Münchener Straße
+street: "Münchener Straße"
 housenumber: 14
 phone: "+49(0)9173-291"
 opening_hours: ""

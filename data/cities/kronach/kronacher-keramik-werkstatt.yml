@@ -5,7 +5,7 @@ latitude: 50.2412756
 longitude: 11.3270868
 postcode: 96317
 city: Kronach
-street: Strauer Straße
+street: "Strauer Straße"
 housenumber: 4
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.355662900000006
 longitude: 10.9258023
 postcode: 86161
 city: Augsburg
-street: Wilhelm-Hauff-Straße
+street: "Wilhelm-Hauff-Straße"
 housenumber: 32
 phone: "+49 821 5697504"
 opening_hours: ""

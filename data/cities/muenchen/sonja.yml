@@ -5,7 +5,7 @@ latitude: 48.1235482
 longitude: 11.5669473
 postcode: 
 city: München
-street: Baldeplatz
+street: "Baldeplatz"
 housenumber: 1a
 phone: ""
 opening_hours: ""

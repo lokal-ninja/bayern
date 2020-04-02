@@ -5,7 +5,7 @@ latitude: 49.1958363
 longitude: 11.202487600000001
 postcode: 91161
 city: Hilpoltstein
-street: Lohbachstraße
+street: "Lohbachstraße"
 housenumber: 33
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00"

@@ -5,7 +5,7 @@ latitude: 48.066337100000005
 longitude: 11.6105345
 postcode: 82008
 city: Unterhaching
-street: Rathausplatz
+street: "Rathausplatz"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:30;Sa 09:00-13:00"

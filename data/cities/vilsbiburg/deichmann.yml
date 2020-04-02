@@ -5,7 +5,7 @@ latitude: 48.452198700000004
 longitude: 12.3343927
 postcode: 84137
 city: Vilsbiburg
-street: Ohmstraße
+street: "Ohmstraße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00, Sa 09:00-17:00"

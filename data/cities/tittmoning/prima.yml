@@ -5,7 +5,7 @@ latitude: 48.063011100000004
 longitude: 12.767336400000001
 postcode: 84529
 city: Tittmoning
-street: Stadtplatz
+street: "Stadtplatz"
 housenumber: 60
 phone: ""
 opening_hours: "Mo-Fr 8:00-18:00; Sa 8:00-16:00"

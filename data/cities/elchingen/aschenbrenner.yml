@@ -5,7 +5,7 @@ latitude: 48.4361205
 longitude: 10.0523586
 postcode: 89275
 city: Elchingen
-street: Donaustraße
+street: "Donaustraße"
 housenumber: 10
 phone: ""
 opening_hours: ""

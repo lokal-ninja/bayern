@@ -5,7 +5,7 @@ latitude: 48.922107000000004
 longitude: 12.5959544
 postcode: 94365
 city: Parkstetten
-street: Harthofer Straße
+street: "Harthofer Straße"
 housenumber: 34
 phone: "+4994219628424"
 opening_hours: "Sa 07:00-12:00; Tu-Th 08:00-13:00,15:00-18:00; Fr 08:00-18:00"

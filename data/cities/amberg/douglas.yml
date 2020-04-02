@@ -5,7 +5,7 @@ latitude: 49.4467489
 longitude: 11.861781
 postcode: 92224
 city: Amberg
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 20
 phone: "+49 9621 31203"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"

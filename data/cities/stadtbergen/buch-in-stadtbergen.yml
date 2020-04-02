@@ -5,7 +5,7 @@ latitude: 48.366527500000004
 longitude: 10.8510576
 postcode: 86391
 city: Stadtbergen
-street: Bismarckstraße
+street: "Bismarckstraße"
 housenumber: 36
 phone: ""
 opening_hours: "Mo-Fr 08:30-13:00,14:00-18:00; Sa 09:30-13:30; Su,PH off"

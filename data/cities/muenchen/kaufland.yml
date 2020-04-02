@@ -5,7 +5,7 @@ latitude: 48.099766100000004
 longitude: 11.6436753
 postcode: 81737
 city: München
-street: Ollenhauerstraße
+street: "Ollenhauerstraße"
 housenumber: 4
 phone: "+49 89 6736920"
 opening_hours: "Mo-Sa 07:00-20:00"

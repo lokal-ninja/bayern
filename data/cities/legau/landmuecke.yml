@@ -5,7 +5,7 @@ latitude: 47.889631900000005
 longitude: 10.1231785
 postcode: 87764
 city: Legau
-street: Mückental
+street: "Mückental"
 housenumber: 10
 phone: "+49 8394 926389"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.1093197
 longitude: 11.7189163
 postcode: 85540
 city: Haar
-street: Hans-Stießberger-Straße
+street: "Hans-Stießberger-Straße"
 housenumber: 9
 phone: "+49 89 4614 7655"
 opening_hours: "Mo-Sa 08:00-20:00"

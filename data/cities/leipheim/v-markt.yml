@@ -5,7 +5,7 @@ latitude: 48.4481291
 longitude: 10.231299
 postcode: 89340
 city: Leipheim
-street: Augsburger Straße
+street: "Augsburger Straße"
 housenumber: 38
 phone: "+49 (0) 8221/278809-0"
 opening_hours: "Mo-Fr 08:00-20:00; Sa 07:30-20:00"

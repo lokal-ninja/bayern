@@ -5,7 +5,7 @@ latitude: 48.44182
 longitude: 10.877923200000001
 postcode: 86368
 city: Gersthofen
-street: Röntgenstraße
+street: "Röntgenstraße"
 housenumber: 36
 phone: ""
 opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-16:00; Su 13:00-17:00"

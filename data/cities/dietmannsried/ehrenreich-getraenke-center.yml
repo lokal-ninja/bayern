@@ -5,7 +5,7 @@ latitude: 47.8076262
 longitude: 10.2979813
 postcode: 87463
 city: Dietmannsried
-street: Fuggerstraße
+street: "Fuggerstraße"
 housenumber: 3
 phone: ""
 opening_hours: ""

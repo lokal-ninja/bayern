@@ -5,7 +5,7 @@ latitude: 48.4323196
 longitude: 12.940293500000001
 postcode: 84347
 city: Pfarrkirchen
-street: Stadtplatz
+street: "Stadtplatz"
 housenumber: 34
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00"

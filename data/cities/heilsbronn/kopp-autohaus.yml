@@ -5,7 +5,7 @@ latitude: 49.3471094
 longitude: 10.800013600000002
 postcode: 91560
 city: Heilsbronn
-street: Gutenbergstraße
+street: "Gutenbergstraße"
 housenumber: 2
 phone: "+49 9872 956920"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.100084100000004
 longitude: 11.5042139
 postcode: 
 city: München
-street: Kreuzhofstraße
+street: "Kreuzhofstraße"
 housenumber: 21
 phone: "+49 89 755 4044"
 opening_hours: "Mo-Th 07:00-17:00;Fr 07:00-14:00"

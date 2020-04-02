@@ -5,7 +5,7 @@ latitude: 49.008492200000006
 longitude: 12.375505200000001
 postcode: 93109
 city: Wiesent
-street: Regensburger Straße
+street: "Regensburger Straße"
 housenumber: 14
 phone: ""
 opening_hours: ""

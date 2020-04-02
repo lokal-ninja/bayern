@@ -5,7 +5,7 @@ latitude: 48.128247
 longitude: 11.6461062
 postcode: 81673
 city: München
-street: Sankt-Veit-Straße
+street: "Sankt-Veit-Straße"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

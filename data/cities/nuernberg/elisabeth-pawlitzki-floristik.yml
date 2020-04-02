@@ -5,7 +5,7 @@ latitude: 49.439544500000004
 longitude: 11.0357614
 postcode: 90439
 city: Nürnberg
-street: Von-der-Tann-Straße
+street: "Von-der-Tann-Straße"
 housenumber: 154
 phone: ""
 opening_hours: "Jun-Sep: Mo-Fr 08:00-18:00; Jun-Sep: Sa 08:00-13:00;Oct-May: Su 10:00-12:00"

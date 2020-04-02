@@ -5,7 +5,7 @@ latitude: 48.4012018
 longitude: 11.054939200000002
 postcode: 86453
 city: Dasing
-street: Marienstraße
+street: "Marienstraße"
 housenumber: 23
 phone: ""
 opening_hours: ""

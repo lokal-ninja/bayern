@@ -5,7 +5,7 @@ latitude: 50.0434756
 longitude: 10.2293524
 postcode: 97421
 city: Schweinfurt
-street: Roßmarkt
+street: "Roßmarkt"
 housenumber: 9
 phone: ""
 opening_hours: ""

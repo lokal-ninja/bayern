@@ -5,7 +5,7 @@ latitude: 48.1409395
 longitude: 11.5767235
 postcode: 
 city: München
-street: Theatinerstraße
+street: "Theatinerstraße"
 housenumber: 32
 phone: ""
 opening_hours: ""

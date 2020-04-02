@@ -5,7 +5,7 @@ latitude: 48.031589100000005
 longitude: 11.575443100000001
 postcode: 82041
 city: Oberhaching
-street: Puppenspielerweg
+street: "Puppenspielerweg"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Fr 9:00-20:00; Sa 10:00-13:00"

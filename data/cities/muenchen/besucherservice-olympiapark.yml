@@ -5,7 +5,7 @@ latitude: 48.174545800000004
 longitude: 11.557946900000001
 postcode: 80809
 city: München
-street: Spiridon-Louis-Ring
+street: "Spiridon-Louis-Ring"
 housenumber: 7
 phone: "+498930672414"
 opening_hours: "Mo-Fr 09:00-17:00"

@@ -5,7 +5,7 @@ latitude: 49.7963601
 longitude: 9.9856817
 postcode: 
 city: Würzburg
-street: Gattingerstraße
+street: "Gattingerstraße"
 housenumber: 
 phone: ""
 opening_hours: ""

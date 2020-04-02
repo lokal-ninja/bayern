@@ -5,7 +5,7 @@ latitude: 48.353442300000005
 longitude: 10.8886619
 postcode: 86159
 city: Augsburg
-street: Memminger Straße
+street: "Memminger Straße"
 housenumber: 3
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 50.107579900000005
 longitude: 11.5128938
 postcode: 95361
 city: Ködnitz-Fölschnitz
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 41
 phone: ""
 opening_hours: ""

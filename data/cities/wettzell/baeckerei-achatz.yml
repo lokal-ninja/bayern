@@ -5,7 +5,7 @@ latitude: 49.1447787
 longitude: 12.887182300000001
 postcode: 93444
 city: Wettzell
-street: Wettzell
+street: "Wettzell"
 housenumber: 6
 phone: ""
 opening_hours: ""

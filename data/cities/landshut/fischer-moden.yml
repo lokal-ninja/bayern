@@ -5,7 +5,7 @@ latitude: 48.539889800000005
 longitude: 12.151120800000001
 postcode: 84028
 city: Landshut
-street: Zweibrückenstraße
+street: "Zweibrückenstraße"
 housenumber: 723
 phone: ""
 opening_hours: ""

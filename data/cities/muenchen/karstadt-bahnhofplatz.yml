@@ -5,7 +5,7 @@ latitude: 48.140055100000005
 longitude: 11.5626102
 postcode: 80335
 city: München
-street: Bahnhofplatz
+street: "Bahnhofplatz"
 housenumber: 7
 phone: "+49 89 55120"
 opening_hours: "Mo-Sa 09:30-20:00"

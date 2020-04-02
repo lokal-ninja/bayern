@@ -5,7 +5,7 @@ latitude: 48.1645398
 longitude: 10.898030200000001
 postcode: 86937
 city: Scheuring
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 2
 phone: "+49 8195 9320-0"
 opening_hours: "Mo-Fr 07:00-18:00; Sa 09:00-13:00"

@@ -5,7 +5,7 @@ latitude: 48.570679600000005
 longitude: 13.424719900000001
 postcode: 
 city: Passau
-street: Spitalhofstraße
+street: "Spitalhofstraße"
 housenumber: 90
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00"

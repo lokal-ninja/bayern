@@ -5,7 +5,7 @@ latitude: 48.1495162
 longitude: 11.5970498
 postcode: 80538
 city: München
-street: Widenmayerstraße
+street: "Widenmayerstraße"
 housenumber: 52
 phone: "+49 89 221627"
 opening_hours: ""

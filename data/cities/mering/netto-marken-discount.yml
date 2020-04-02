@@ -5,7 +5,7 @@ latitude: 48.2650481
 longitude: 10.9854743
 postcode: 86415
 city: Mering
-street: Münchener Straße
+street: "Münchener Straße"
 housenumber: 38
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

@@ -5,7 +5,7 @@ latitude: 47.6690496
 longitude: 12.943908100000002
 postcode: 83483
 city: Bischofswiesen
-street: Reichenhaller Straße
+street: "Reichenhaller Straße"
 housenumber: 18-20
 phone: ""
 opening_hours: "Mo-Sa 09:00-19:00"

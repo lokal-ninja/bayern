@@ -5,7 +5,7 @@ latitude: 50.2600567
 longitude: 10.9640681
 postcode: 96450
 city: Coburg
-street: Webergasse
+street: "Webergasse"
 housenumber: 32
 phone: "+49 9561 790506"
 opening_hours: "Tu-Fr 08:00-18:00; Sa 08:00-13:00; Su,Mo off"

@@ -5,7 +5,7 @@ latitude: 48.1255387
 longitude: 11.570105600000002
 postcode: 
 city: München
-street: Auenstraße
+street: "Auenstraße"
 housenumber: 
 phone: ""
 opening_hours: ""

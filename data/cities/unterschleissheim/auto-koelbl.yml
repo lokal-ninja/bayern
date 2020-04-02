@@ -5,7 +5,7 @@ latitude: 48.280951200000004
 longitude: 11.5662971
 postcode: 85716
 city: Unterschleißheim
-street: Michael-Kölbl-Straße
+street: "Michael-Kölbl-Straße"
 housenumber: 1
 phone: ""
 opening_hours: ""

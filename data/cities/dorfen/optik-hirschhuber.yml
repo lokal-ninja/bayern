@@ -5,7 +5,7 @@ latitude: 48.273331400000004
 longitude: 12.151342900000001
 postcode: 84405
 city: Dorfen
-street: Unterer Markt
+street: "Unterer Markt"
 housenumber: 5
 phone: "+49 8081 8960"
 opening_hours: "Mo-We,Fr 08:30-12:30,14:00-18:00; Th 08:30-12:30,14:00-18:30; Sa 09:00-12:30"

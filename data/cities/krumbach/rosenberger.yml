@@ -5,7 +5,7 @@ latitude: 48.244651600000005
 longitude: 10.364693200000001
 postcode: 86381
 city: Krumbach
-street: Karl-Mantel-Straße
+street: "Karl-Mantel-Straße"
 housenumber: 29
 phone: "+49 8282 81868"
 opening_hours: ""

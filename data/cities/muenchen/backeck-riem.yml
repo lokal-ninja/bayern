@@ -5,7 +5,7 @@ latitude: 48.1433971
 longitude: 11.678269100000001
 postcode: 81829
 city: München
-street: Mittbacher Straße
+street: "Mittbacher Straße"
 housenumber: 15
 phone: ""
 opening_hours: ""

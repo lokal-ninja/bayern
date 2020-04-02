@@ -5,7 +5,7 @@ latitude: 49.298087200000005
 longitude: 11.469830400000001
 postcode: 92318
 city: Neumarkt
-street: Dr.-Otto-Schedl-Straße
+street: "Dr.-Otto-Schedl-Straße"
 housenumber: 15
 phone: "+49 9181 51001 0"
 opening_hours: ""

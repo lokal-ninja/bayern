@@ -5,7 +5,7 @@ latitude: 49.4332113
 longitude: 11.0969093
 postcode: 90461
 city: Nürnberg
-street: Allersberger Straße
+street: "Allersberger Straße"
 housenumber: 185
 phone: "+499119418437"
 opening_hours: "Mo 14:00-18:00; Tu-Fr 10:00-13:00, 14:00-18:00; Sa 10:00-13:00"

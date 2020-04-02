@@ -5,7 +5,7 @@ latitude: 49.799761700000005
 longitude: 9.9777663
 postcode: 97076
 city: Würzburg
-street: Werner-von-Siemens-Straße
+street: "Werner-von-Siemens-Straße"
 housenumber: 20
 phone: ""
 opening_hours: ""

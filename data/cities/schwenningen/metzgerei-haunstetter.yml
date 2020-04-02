@@ -5,7 +5,7 @@ latitude: 48.654694000000006
 longitude: 10.6418768
 postcode: 89443
 city: Schwenningen
-street: Bundesstraße
+street: "Bundesstraße"
 housenumber: 7
 phone: ""
 opening_hours: ""

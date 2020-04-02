@@ -5,7 +5,7 @@ latitude: 49.796373200000005
 longitude: 12.152674900000001
 postcode: 92670
 city: Windischeschenbach
-street: Neustädter Straße
+street: "Neustädter Straße"
 housenumber: 66
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.536081100000004
 longitude: 12.1211249
 postcode: 84034
 city: Landshut
-street: Watzmannstraße
+street: "Watzmannstraße"
 housenumber: 54
 phone: ""
 opening_hours: ""

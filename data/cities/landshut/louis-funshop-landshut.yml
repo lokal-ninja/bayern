@@ -5,7 +5,7 @@ latitude: 48.5637721
 longitude: 12.139479600000001
 postcode: 84030
 city: Landshut
-street: Straubinger Straße
+street: "Straubinger Straße"
 housenumber: 19
 phone: "+49 871 1438224"
 opening_hours: "Feb-Oct: Mo-Sa 09:00-20:00; Nov-Jan: Mo-Sa 09:00-19:00; Su off"

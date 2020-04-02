@@ -5,7 +5,7 @@ latitude: 50.0348288
 longitude: 10.2479773
 postcode: 97526
 city: Sennfeld
-street: Gutenbergstraße
+street: "Gutenbergstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

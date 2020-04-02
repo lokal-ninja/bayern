@@ -5,7 +5,7 @@ latitude: 47.851739800000004
 longitude: 12.157942100000001
 postcode: 83071
 city: Stephanskirchen
-street: Schneidermühlstraße
+street: "Schneidermühlstraße"
 housenumber: 25
 phone: "+49 8036 3117"
 opening_hours: ""

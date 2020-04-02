@@ -5,7 +5,7 @@ latitude: 49.399461200000005
 longitude: 10.5133498
 postcode: 91604
 city: Flachslanden
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 5
 phone: "+49-9829-242"
 opening_hours: "Tu-Fr 09:00-12:00, 13:00-18:00; Sa 09:00-14:00"

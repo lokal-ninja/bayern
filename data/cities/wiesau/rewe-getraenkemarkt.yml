@@ -5,7 +5,7 @@ latitude: 49.903811600000004
 longitude: 12.183912300000001
 postcode: 95676
 city: Wiesau
-street: Egerstraße
+street: "Egerstraße"
 housenumber: 2
 phone: "+49 9634 92350"
 opening_hours: ""

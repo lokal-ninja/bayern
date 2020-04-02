@@ -5,7 +5,7 @@ latitude: 49.699983700000004
 longitude: 10.7754939
 postcode: 91475
 city: Lonnerstadt
-street: Höchstadter Straße
+street: "Höchstadter Straße"
 housenumber: 5
 phone: ""
 opening_hours: ""

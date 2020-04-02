@@ -5,7 +5,7 @@ latitude: 48.456943700000004
 longitude: 10.279074600000001
 postcode: 89312
 city: Günzburg
-street: Dillinger Straße
+street: "Dillinger Straße"
 housenumber: 
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00, Sa 09:00-16:00"

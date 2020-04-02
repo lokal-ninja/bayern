@@ -5,7 +5,7 @@ latitude: 48.690102200000005
 longitude: 10.929818000000001
 postcode: 86641
 city: Rain
-street: Erlenweg
+street: "Erlenweg"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

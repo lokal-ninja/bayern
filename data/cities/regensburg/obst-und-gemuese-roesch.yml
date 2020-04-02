@@ -5,7 +5,7 @@ latitude: 49.007345400000005
 longitude: 12.0871247
 postcode: 93051
 city: Regensburg
-street: Kumpfmühler Straße
+street: "Kumpfmühler Straße"
 housenumber: 51
 phone: "+49 941 94654222"
 opening_hours: "Mo-Sa 07:30-12:30, Tu 07:30-18:00, Th 07:30-18:00, Sa 07:30-18:00"

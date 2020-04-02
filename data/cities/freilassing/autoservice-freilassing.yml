@@ -5,7 +5,7 @@ latitude: 47.842085600000004
 longitude: 12.9662772
 postcode: 83395
 city: Freilassing
-street: Sägewerkstraße
+street: "Sägewerkstraße"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Fr 08:30-17:00"

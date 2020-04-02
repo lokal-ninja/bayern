@@ -5,7 +5,7 @@ latitude: 48.879034600000004
 longitude: 12.5661983
 postcode: 94315
 city: Straubing
-street: Max-Gerhaher-Straße
+street: "Max-Gerhaher-Straße"
 housenumber: 14
 phone: ""
 opening_hours: ""

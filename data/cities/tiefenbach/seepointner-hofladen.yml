@@ -5,7 +5,7 @@ latitude: 48.5082582
 longitude: 12.1499679
 postcode: 84184
 city: Tiefenbach
-street: Seepoint
+street: "Seepoint"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 08:00-18:00"

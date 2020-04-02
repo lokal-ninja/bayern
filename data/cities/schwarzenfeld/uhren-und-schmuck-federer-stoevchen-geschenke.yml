@@ -5,7 +5,7 @@ latitude: 49.388695600000005
 longitude: 12.1385942
 postcode: 92521
 city: Schwarzenfeld
-street: Amberger Straße
+street: "Amberger Straße"
 housenumber: 5
 phone: ""
 opening_hours: ""

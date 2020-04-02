@@ -5,7 +5,7 @@ latitude: 49.943636600000005
 longitude: 11.5789696
 postcode: 95444
 city: Bayreuth
-street: Badstraße
+street: "Badstraße"
 housenumber: 7
 phone: "+49 921 58855"
 opening_hours: "Mo-Fr 08:30-18:30; Sa 08:00-13:00"

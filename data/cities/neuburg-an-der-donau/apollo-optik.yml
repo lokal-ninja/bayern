@@ -5,7 +5,7 @@ latitude: 48.734672
 longitude: 11.182547000000001
 postcode: 86633
 city: Neuburg an der Donau
-street: Färberstraße
+street: "Färberstraße"
 housenumber: 3
 phone: ""
 opening_hours: ""

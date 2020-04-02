@@ -5,7 +5,7 @@ latitude: 47.874498100000004
 longitude: 10.6275739
 postcode: 87600
 city: Kaufbeuren
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

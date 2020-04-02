@@ -5,7 +5,7 @@ latitude: 49.3096286
 longitude: 10.189680300000001
 postcode: 91583
 city: Diebach
-street: Wolfsauer Straße
+street: "Wolfsauer Straße"
 housenumber: 9
 phone: "+499868328"
 opening_hours: ""

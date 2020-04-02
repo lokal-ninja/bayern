@@ -5,7 +5,7 @@ latitude: 48.26751
 longitude: 12.156399700000001
 postcode: 84405
 city: Dorfen
-street: Haager Straße
+street: "Haager Straße"
 housenumber: 59a
 phone: "+49 8081 95 333 0"
 opening_hours: ""

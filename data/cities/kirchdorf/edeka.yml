@@ -5,7 +5,7 @@ latitude: 48.243411300000005
 longitude: 12.9793596
 postcode: 84375
 city: Kirchdorf
-street: Kirchenweg
+street: "Kirchenweg"
 housenumber: 2
 phone: ""
 opening_hours: ""

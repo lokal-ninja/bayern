@@ -5,7 +5,7 @@ latitude: 49.856158900000004
 longitude: 9.1659988
 postcode: 63820
 city: Elsenfeld
-street: Im Höning
+street: "Im Höning"
 housenumber: 13
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

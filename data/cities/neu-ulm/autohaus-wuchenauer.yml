@@ -5,7 +5,7 @@ latitude: 48.38580940000001
 longitude: 10.034654100000001
 postcode: 89231
 city: Neu-Ulm
-street: Otto-Renner-Straße
+street: "Otto-Renner-Straße"
 housenumber: 3
 phone: "+49 731 / 97014-0"
 opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-12:00"

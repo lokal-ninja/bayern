@@ -5,7 +5,7 @@ latitude: 48.1350543
 longitude: 11.5777832
 postcode: 80331
 city: München
-street: Westenriederstraße
+street: "Westenriederstraße"
 housenumber: 15
 phone: ""
 opening_hours: "Tu-Sa 10:00-18:00"

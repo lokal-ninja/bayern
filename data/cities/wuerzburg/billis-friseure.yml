@@ -5,7 +5,7 @@ latitude: 49.795992500000004
 longitude: 9.9272466
 postcode: 97070
 city: Würzburg
-street: Karmelitenstraße
+street: "Karmelitenstraße"
 housenumber: 40
 phone: "+49 931 32919009"
 opening_hours: "Mo closed, Tu,We 08:30-18:00, Th 09:00-19:00, Fr 08:30-18:00, Sa 08:00-13:00, Su closed"

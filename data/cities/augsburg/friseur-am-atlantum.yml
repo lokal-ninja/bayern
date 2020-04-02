@@ -5,7 +5,7 @@ latitude: 48.386206900000005
 longitude: 10.9028183
 postcode: 86169
 city: Augsburg
-street: Dr.-Otto-Meyer-Straße
+street: "Dr.-Otto-Meyer-Straße"
 housenumber: 28
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.1489916
 longitude: 11.5449927
 postcode: 
 city: München
-street: Blutenburgstraße
+street: "Blutenburgstraße"
 housenumber: 52
 phone: ""
 opening_hours: "Mo-Sa 09:30-20:00"

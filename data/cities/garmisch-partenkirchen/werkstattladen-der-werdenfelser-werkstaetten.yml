@@ -5,7 +5,7 @@ latitude: 47.4981499
 longitude: 11.096332400000001
 postcode: 82467
 city: Garmisch-Partenkirchen
-street: Dompfaffstraße
+street: "Dompfaffstraße"
 housenumber: 3
 phone: ""
 opening_hours: ""

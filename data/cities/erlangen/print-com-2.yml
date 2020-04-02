@@ -5,7 +5,7 @@ latitude: 49.543786600000004
 longitude: 11.023144100000001
 postcode: 91058
 city: Erlangen
-street: Wetterkreuz
+street: "Wetterkreuz"
 housenumber: 17
 phone: ""
 opening_hours: ""

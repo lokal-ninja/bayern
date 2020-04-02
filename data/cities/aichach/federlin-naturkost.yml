@@ -5,7 +5,7 @@ latitude: 48.4611189
 longitude: 11.1331314
 postcode: 86551
 city: Aichach
-street: Gerhauserstraße
+street: "Gerhauserstraße"
 housenumber: 9
 phone: "+49 8251 4625"
 opening_hours: ""

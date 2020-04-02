@@ -5,7 +5,7 @@ latitude: 48.824159
 longitude: 12.397431800000001
 postcode: 94333
 city: Geiselhöring
-street: Dingolfinger Straße
+street: "Dingolfinger Straße"
 housenumber: 26
 phone: "+49 9423 943350"
 opening_hours: ""

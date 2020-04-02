@@ -5,7 +5,7 @@ latitude: 48.140402900000005
 longitude: 11.588823900000001
 postcode: 80538
 city: München
-street: Triftstraße
+street: "Triftstraße"
 housenumber: 4
 phone: "+49 89 2913566"
 opening_hours: "Mo-Fr 06:30-18:00, Sa 07:00-14:00"

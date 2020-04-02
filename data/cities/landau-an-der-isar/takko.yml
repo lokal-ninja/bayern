@@ -5,7 +5,7 @@ latitude: 48.681002500000005
 longitude: 12.6901959
 postcode: 94405
 city: Landau an der Isar
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:30; Sa 09:00-18:00"

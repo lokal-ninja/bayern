@@ -5,7 +5,7 @@ latitude: 49.4449284
 longitude: 11.1092303
 postcode: 90478
 city: Nürnberg
-street: Zerzabelshofstraße
+street: "Zerzabelshofstraße"
 housenumber: 25
 phone: ""
 opening_hours: ""

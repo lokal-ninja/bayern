@@ -5,7 +5,7 @@ latitude: 48.1452505
 longitude: 11.558594900000001
 postcode: 80333
 city: München
-street: Karlstraße
+street: "Karlstraße"
 housenumber: 55
 phone: ""
 opening_hours: ""

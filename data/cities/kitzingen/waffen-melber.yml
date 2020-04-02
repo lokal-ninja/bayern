@@ -5,7 +5,7 @@ latitude: 49.737397200000004
 longitude: 10.1605681
 postcode: 97318
 city: Kitzingen
-street: Luitpoldstraße
+street: "Luitpoldstraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

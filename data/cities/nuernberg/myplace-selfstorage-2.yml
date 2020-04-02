@@ -5,7 +5,7 @@ latitude: 49.4307449
 longitude: 11.044717100000002
 postcode: 90441
 city: Nürnberg
-street: Schweinauer Hauptstraße
+street: "Schweinauer Hauptstraße"
 housenumber: 72
 phone: "+49 911 6698090"
 opening_hours: ""

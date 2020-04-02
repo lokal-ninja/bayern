@@ -5,7 +5,7 @@ latitude: 47.569591700000004
 longitude: 10.702458700000001
 postcode: 87629
 city: Füssen
-street: Kaiser-Maximilian-Platz
+street: "Kaiser-Maximilian-Platz"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off"

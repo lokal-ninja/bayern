@@ -5,7 +5,7 @@ latitude: 48.2311665
 longitude: 11.6760588
 postcode: 85737
 city: Ismaning
-street: Freisinger Straße
+street: "Freisinger Straße"
 housenumber: 15
 phone: "+49 89 961099 0"
 opening_hours: "Mo-Fr 07:00-18:00; Sa 09:00-13:30; PH closed"

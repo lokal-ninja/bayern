@@ -5,7 +5,7 @@ latitude: 48.741757400000004
 longitude: 11.4096598
 postcode: 85051
 city: Ingolstadt
-street: Oberringstraße
+street: "Oberringstraße"
 housenumber: 16
 phone: ""
 opening_hours: ""

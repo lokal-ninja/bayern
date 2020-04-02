@@ -5,7 +5,7 @@ latitude: 49.2256626
 longitude: 12.672928
 postcode: 93413
 city: Cham
-street: Osserstraße
+street: "Osserstraße"
 housenumber: 6
 phone: "+49 9971 5070"
 opening_hours: ""

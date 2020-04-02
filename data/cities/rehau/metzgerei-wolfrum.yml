@@ -5,7 +5,7 @@ latitude: 50.2477469
 longitude: 12.0323212
 postcode: 95111
 city: Rehau
-street: Pfarrstraße
+street: "Pfarrstraße"
 housenumber: 18
 phone: ""
 opening_hours: ""

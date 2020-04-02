@@ -5,7 +5,7 @@ latitude: 50.1138502
 longitude: 11.467917600000002
 postcode: 95326
 city: Kulmbach
-street: Hofer Straße
+street: "Hofer Straße"
 housenumber: 20
 phone: "+49 9221 5446"
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00; Su,PH off"

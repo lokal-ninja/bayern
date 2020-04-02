@@ -5,7 +5,7 @@ latitude: 49.017587400000004
 longitude: 12.1039454
 postcode: 93047
 city: Regensburg
-street: Fahrbeckgasse
+street: "Fahrbeckgasse"
 housenumber: 9
 phone: "+49 941 52307"
 opening_hours: ""

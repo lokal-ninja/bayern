@@ -5,7 +5,7 @@ latitude: 48.4668325
 longitude: 11.934680100000001
 postcode: 85368
 city: Moosburg a.d. Isar
-street: Münchener Straße
+street: "Münchener Straße"
 housenumber: 4
 phone: "+49 8761 7267370"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"

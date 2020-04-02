@@ -5,7 +5,7 @@ latitude: 50.0453306
 longitude: 10.233595000000001
 postcode: 
 city: Schweinfurt
-street: Markt
+street: "Markt"
 housenumber: 31
 phone: ""
 opening_hours: ""

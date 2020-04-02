@@ -5,7 +5,7 @@ latitude: 48.599240400000006
 longitude: 13.785522400000001
 postcode: 94110
 city: Wegscheid
-street: Passauer Straße
+street: "Passauer Straße"
 housenumber: 23
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.466441
 longitude: 11.129773100000001
 postcode: 86551
 city: Aichach
-street: Oberbernbacher Weg
+street: "Oberbernbacher Weg"
 housenumber: 16
 phone: ""
 opening_hours: ""

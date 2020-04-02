@@ -5,7 +5,7 @@ latitude: 49.5874657
 longitude: 11.0046747
 postcode: 91052
 city: Erlangen
-street: Nägelsbachstraße
+street: "Nägelsbachstraße"
 housenumber: 59
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

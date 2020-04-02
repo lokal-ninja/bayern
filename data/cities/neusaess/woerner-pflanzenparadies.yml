@@ -5,7 +5,7 @@ latitude: 48.370918700000004
 longitude: 10.800540300000002
 postcode: 86356
 city: Neusäß
-street: Biburger Straße
+street: "Biburger Straße"
 housenumber: 39
 phone: "+49 821 488940"
 opening_hours: "Mo-Fr 09:00-19:00, 09:00-18:00"

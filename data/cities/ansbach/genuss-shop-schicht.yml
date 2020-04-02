@@ -5,7 +5,7 @@ latitude: 49.3129689
 longitude: 10.570639400000001
 postcode: 91522
 city: Ansbach
-street: Klopstockstraße
+street: "Klopstockstraße"
 housenumber: 
 phone: ""
 opening_hours: ""

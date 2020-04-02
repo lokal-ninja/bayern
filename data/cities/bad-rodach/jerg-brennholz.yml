@@ -5,7 +5,7 @@ latitude: 50.3427658
 longitude: 10.774720700000001
 postcode: 96476
 city: Bad Rodach
-street: Saarstraße
+street: "Saarstraße"
 housenumber: 2
 phone: "49 160 96336999"
 opening_hours: ""

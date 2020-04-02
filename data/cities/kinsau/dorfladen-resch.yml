@@ -5,7 +5,7 @@ latitude: 47.8809565
 longitude: 10.9159945
 postcode: 86981
 city: Kinsau
-street: Bachstraße
+street: "Bachstraße"
 housenumber: 9
 phone: ""
 opening_hours: "Tu-Fr 7:00-12:00,14:00-18:00; Sa 7:00-12:00"

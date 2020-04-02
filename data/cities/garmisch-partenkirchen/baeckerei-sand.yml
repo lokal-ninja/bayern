@@ -5,7 +5,7 @@ latitude: 47.4935726
 longitude: 11.103807300000001
 postcode: 82467
 city: Garmisch-Partenkirchen
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

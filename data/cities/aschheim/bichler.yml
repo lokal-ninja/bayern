@@ -5,7 +5,7 @@ latitude: 48.1704742
 longitude: 11.7144002
 postcode: 85609
 city: Aschheim
-street: Münchner Straße
+street: "Münchner Straße"
 housenumber: 10
 phone: ""
 opening_hours: ""

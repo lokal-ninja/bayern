@@ -5,7 +5,7 @@ latitude: 48.24520690000001
 longitude: 10.3607451
 postcode: 86381
 city: Krumbach
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 36
 phone: "+49 8282 81166"
 opening_hours: ""

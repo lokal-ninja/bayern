@@ -5,7 +5,7 @@ latitude: 47.7530195
 longitude: 11.3779669
 postcode: 82377
 city: Penzberg
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 40
 phone: "+49 8856 4214"
 opening_hours: "Mo-Fr 08:30-12:30,14:15-18:15; Sa 08:30-12:30; PH off"

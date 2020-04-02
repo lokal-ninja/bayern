@@ -5,7 +5,7 @@ latitude: 48.7397256
 longitude: 11.4096972
 postcode: 85051
 city: Ingolstadt
-street: Berliner Straße
+street: "Berliner Straße"
 housenumber: 17
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00; PH off"

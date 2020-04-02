@@ -5,7 +5,7 @@ latitude: 47.888334900000004
 longitude: 11.5042367
 postcode: 83623
 city: Dietramszell
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-12:00"

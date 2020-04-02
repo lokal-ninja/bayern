@@ -5,7 +5,7 @@ latitude: 49.7226859
 longitude: 9.964343900000001
 postcode: 97084
 city: Würzburg
-street: Schleifweg
+street: "Schleifweg"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

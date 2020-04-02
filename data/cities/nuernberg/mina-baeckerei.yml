@@ -5,7 +5,7 @@ latitude: 49.4409791
 longitude: 11.1035597
 postcode: 90461
 city: Nürnberg
-street: Hainstraße
+street: "Hainstraße"
 housenumber: 25
 phone: ""
 opening_hours: ""

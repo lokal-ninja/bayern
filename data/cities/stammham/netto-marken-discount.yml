@@ -5,7 +5,7 @@ latitude: 48.8515621
 longitude: 11.456639200000001
 postcode: 85134
 city: Stammham
-street: Stadtweg
+street: "Stadtweg"
 housenumber: 
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

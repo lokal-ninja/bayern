@@ -5,7 +5,7 @@ latitude: 48.105679
 longitude: 11.769374000000001
 postcode: 85591
 city: Vaterstetten
-street: Wendelsteinstraße
+street: "Wendelsteinstraße"
 housenumber: 55
 phone: ""
 opening_hours: ""

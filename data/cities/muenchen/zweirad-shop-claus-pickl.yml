@@ -5,7 +5,7 @@ latitude: 48.16905250000001
 longitude: 11.534745500000001
 postcode: 80637
 city: München
-street: Pickelstraße
+street: "Pickelstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo - Sa: 9:00-12:30 Uhr Mo - Fr: 14:30-18:00 Uhr"

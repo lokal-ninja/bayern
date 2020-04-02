@@ -5,7 +5,7 @@ latitude: 50.0075195
 longitude: 11.6815563
 postcode: 95497
 city: Goldkronach
-street: Siedlungsstraße
+street: "Siedlungsstraße"
 housenumber: 31
 phone: ""
 opening_hours: ""

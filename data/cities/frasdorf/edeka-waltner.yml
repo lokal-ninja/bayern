@@ -5,7 +5,7 @@ latitude: 47.8038326
 longitude: 12.285279800000001
 postcode: 83112
 city: Frasdorf
-street: Simsseestraße
+street: "Simsseestraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 07:30-19:00; Sa 07:30-16:00"

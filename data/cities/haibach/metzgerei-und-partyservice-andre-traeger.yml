@@ -5,7 +5,7 @@ latitude: 49.965764500000006
 longitude: 9.1958584
 postcode: 63808
 city: Haibach
-street: Dr-Hönlein-Straße
+street: "Dr-Hönlein-Straße"
 housenumber: 2-4
 phone: "+49 6021 69429"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.340308400000005
 longitude: 10.911034200000001
 postcode: 86161
 city: Augsburg
-street: Ilsungstraße
+street: "Ilsungstraße"
 housenumber: 15b
 phone: ""
 opening_hours: ""

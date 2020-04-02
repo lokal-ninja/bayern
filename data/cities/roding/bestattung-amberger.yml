@@ -5,7 +5,7 @@ latitude: 49.206465200000004
 longitude: 12.511184100000001
 postcode: 93426
 city: Roding
-street: Altwasserweg
+street: "Altwasserweg"
 housenumber: 17
 phone: ""
 opening_hours: ""

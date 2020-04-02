@@ -5,7 +5,7 @@ latitude: 50.3303646
 longitude: 11.1244758
 postcode: 96465
 city: Neustadt b. Coburg
-street: Wittkenstraße
+street: "Wittkenstraße"
 housenumber: 8
 phone: ""
 opening_hours: "Mar-Sep Mo-Fr 09:00-19:00;Sa 09:00-14:00; Oct-Feb Mo-Fr 09:00-18:00; Sa 09:00-13:00"

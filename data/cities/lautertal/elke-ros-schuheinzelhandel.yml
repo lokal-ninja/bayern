@@ -5,7 +5,7 @@ latitude: 50.3119778
 longitude: 10.976357400000001
 postcode: 96486
 city: Lautertal
-street: Frankenstraße
+street: "Frankenstraße"
 housenumber: 43
 phone: "+49 9561 513021"
 opening_hours: ""

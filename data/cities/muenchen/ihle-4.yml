@@ -5,7 +5,7 @@ latitude: 48.1491987
 longitude: 11.5375232
 postcode: 80637
 city: München
-street: Landshuter Allee
+street: "Landshuter Allee"
 housenumber: 30
 phone: ""
 opening_hours: "Mo-Sa 06:00-20:00"

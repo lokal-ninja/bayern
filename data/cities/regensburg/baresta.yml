@@ -5,7 +5,7 @@ latitude: 49.019668100000004
 longitude: 12.090930400000001
 postcode: 93047
 city: Regensburg
-street: Ludwigstraße
+street: "Ludwigstraße"
 housenumber: 5
 phone: "+49 941 59995674"
 opening_hours: "Tu-Fr 10:00-18:30; Sa 10:00-15:00"

@@ -5,7 +5,7 @@ latitude: 48.7036474
 longitude: 13.793784200000001
 postcode: 94139
 city: Breitenberg
-street: Dreisesselstraße
+street: "Dreisesselstraße"
 housenumber: 3
 phone: "+49 8584 273"
 opening_hours: ""

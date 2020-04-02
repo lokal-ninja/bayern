@@ -5,7 +5,7 @@ latitude: 48.1519709
 longitude: 11.5608862
 postcode: 
 city: München
-street: Theresienstraße
+street: "Theresienstraße"
 housenumber: 91
 phone: ""
 opening_hours: ""

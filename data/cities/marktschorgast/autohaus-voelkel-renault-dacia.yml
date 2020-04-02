@@ -5,7 +5,7 @@ latitude: 50.094458100000004
 longitude: 11.6604652
 postcode: 95509
 city: Marktschorgast
-street: Gefreeser Straße
+street: "Gefreeser Straße"
 housenumber: 12
 phone: "+49 9227 5170"
 opening_hours: ""

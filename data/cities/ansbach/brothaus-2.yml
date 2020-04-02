@@ -5,7 +5,7 @@ latitude: 49.295611400000006
 longitude: 10.568828100000001
 postcode: 91522
 city: Ansbach
-street: Louis-Schmetzer-Straße
+street: "Louis-Schmetzer-Straße"
 housenumber: 6
 phone: ""
 opening_hours: ""

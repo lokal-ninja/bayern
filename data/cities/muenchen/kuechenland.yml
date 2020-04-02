@@ -5,7 +5,7 @@ latitude: 48.124469500000004
 longitude: 11.601653800000001
 postcode: 81671
 city: München
-street: Rosenheimer Straße
+street: "Rosenheimer Straße"
 housenumber: 139
 phone: "+49 89 488284-0"
 opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-18:00"

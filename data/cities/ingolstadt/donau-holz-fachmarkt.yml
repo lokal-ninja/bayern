@@ -5,7 +5,7 @@ latitude: 48.7501304
 longitude: 11.4756587
 postcode: 85053
 city: Ingolstadt
-street: Kälberschüttstraße
+street: "Kälberschüttstraße"
 housenumber: 2
 phone: "+49 841 62148"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"

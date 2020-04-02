@@ -5,7 +5,7 @@ latitude: 49.445553100000005
 longitude: 11.0715228
 postcode: 90443
 city: Nürnberg
-street: Zeltnerstraße
+street: "Zeltnerstraße"
 housenumber: 19
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

@@ -5,7 +5,7 @@ latitude: 49.6480363
 longitude: 9.2181951
 postcode: 63916
 city: Amorbach
-street: Krummwiese
+street: "Krummwiese"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

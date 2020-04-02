@@ -5,7 +5,7 @@ latitude: 49.7531778
 longitude: 11.8293228
 postcode: 92678
 city: Eschenbach
-street: Karlsplatz
+street: "Karlsplatz"
 housenumber: 12
 phone: "+49 9645 9213"
 opening_hours: ""

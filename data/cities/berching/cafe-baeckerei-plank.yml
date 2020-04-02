@@ -5,7 +5,7 @@ latitude: 49.1059932
 longitude: 11.4420423
 postcode: 92334
 city: Berching
-street: Pettenkoferplatz
+street: "Pettenkoferplatz"
 housenumber: 10
 phone: "+49 8462 1740"
 opening_hours: "Mo-Sa 06:00-18:00; Su 13:00-18:00"

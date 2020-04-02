@@ -5,7 +5,7 @@ latitude: 48.159951500000005
 longitude: 11.3493644
 postcode: 82178
 city: Puchheim
-street: Alte Bahnhofstraße
+street: "Alte Bahnhofstraße"
 housenumber: 12
 phone: ""
 opening_hours: "Tu,Th 10:00-12:00; Fr 09:30-12:00,14:30-18:00; Sa 09:30-12:00"

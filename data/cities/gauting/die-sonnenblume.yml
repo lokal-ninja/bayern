@@ -5,7 +5,7 @@ latitude: 48.0924349
 longitude: 11.402690600000001
 postcode: 82131
 city: Gauting
-street: Bahnstraße
+street: "Bahnstraße"
 housenumber: 34
 phone: "+49 89 8594225"
 opening_hours: ""

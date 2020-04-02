@@ -5,7 +5,7 @@ latitude: 48.171433400000005
 longitude: 12.8284646
 postcode: 84489
 city: Burghausen
-street: Robert-Koch-Straße
+street: "Robert-Koch-Straße"
 housenumber: 17b
 phone: "+49 8677 8758888"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 50.054572
 longitude: 9.6554068
 postcode: 97737
 city: Gemünden am Main
-street: Lohrer Straße
+street: "Lohrer Straße"
 housenumber: 22
 phone: "+49 9351 8788"
 opening_hours: "Mo-Fr 08:30-19:00"

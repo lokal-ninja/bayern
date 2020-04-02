@@ -5,7 +5,7 @@ latitude: 48.078101600000004
 longitude: 11.116439100000001
 postcode: 82279
 city: Eching am Ammersee
-street: Am Windachfeld
+street: "Am Windachfeld"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-19:00; PH off"

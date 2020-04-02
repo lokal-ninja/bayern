@@ -5,7 +5,7 @@ latitude: 48.1216255
 longitude: 11.366474700000001
 postcode: 82110
 city: Germering
-street: Otto-Wagner-Straße
+street: "Otto-Wagner-Straße"
 housenumber: 36
 phone: ""
 opening_hours: ""

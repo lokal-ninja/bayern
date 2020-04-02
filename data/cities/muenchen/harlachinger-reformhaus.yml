@@ -5,7 +5,7 @@ latitude: 48.0973425
 longitude: 11.5791818
 postcode: 81547
 city: München
-street: Naupliastraße
+street: "Naupliastraße"
 housenumber: 16
 phone: ""
 opening_hours: "Mo-Fr 8:30-18:00; Sa 8:30-13:00"

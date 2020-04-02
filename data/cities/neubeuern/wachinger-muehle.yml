@@ -5,7 +5,7 @@ latitude: 47.7970144
 longitude: 12.1478391
 postcode: 83115
 city: Neubeuern
-street: Winkl
+street: "Winkl"
 housenumber: 22
 phone: "+49 8035 2936"
 opening_hours: "Tu-Fr 08:00-17:15; Sa 08:00-12:00"

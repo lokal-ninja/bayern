@@ -5,7 +5,7 @@ latitude: 48.1391081
 longitude: 11.5836632
 postcode: 80539
 city: München
-street: Maximilianstraße
+street: "Maximilianstraße"
 housenumber: 35
 phone: ""
 opening_hours: "We-Fr 14:00-18:00 || nach Vereinbarung"

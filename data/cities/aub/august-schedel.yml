@@ -5,7 +5,7 @@ latitude: 49.5521332
 longitude: 10.064843300000001
 postcode: 97239
 city: Aub
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 18
 phone: "+49-9335-277"
 opening_hours: ""

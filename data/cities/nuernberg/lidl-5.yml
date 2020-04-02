@@ -5,7 +5,7 @@ latitude: 49.4573363
 longitude: 11.042802100000001
 postcode: 
 city: Nürnberg
-street: Peyerstraße
+street: "Peyerstraße"
 housenumber: 23
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

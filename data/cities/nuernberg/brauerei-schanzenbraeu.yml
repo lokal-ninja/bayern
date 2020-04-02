@@ -5,7 +5,7 @@ latitude: 49.4483509
 longitude: 11.003074300000002
 postcode: 90431
 city: Nürnberg
-street: Proeslerstraße
+street: "Proeslerstraße"
 housenumber: 3
 phone: "+49 911 81006910"
 opening_hours: "Mo-Th 10:00-19:00; Fr 10:00-18:00"

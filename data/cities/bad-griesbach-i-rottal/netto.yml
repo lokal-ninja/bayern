@@ -5,7 +5,7 @@ latitude: 48.4534086
 longitude: 13.192895700000001
 postcode: 94086
 city: Bad Griesbach i.Rottal
-street: Passauer Straße
+street: "Passauer Straße"
 housenumber: 13
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

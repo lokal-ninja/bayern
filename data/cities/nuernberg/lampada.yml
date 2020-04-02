@@ -5,7 +5,7 @@ latitude: 49.4719428
 longitude: 11.1357526
 postcode: 90491
 city: Nürnberg
-street: Erlenstegenstraße
+street: "Erlenstegenstraße"
 housenumber: 90
 phone: "+49 911 598770"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-14:00"

@@ -5,7 +5,7 @@ latitude: 49.70178790000001
 longitude: 11.0440143
 postcode: 91353
 city: Hausen
-street: Pilatus Campus
+street: "Pilatus Campus"
 housenumber: 4a
 phone: ""
 opening_hours: "Mo-Sa 09:00-20:00"

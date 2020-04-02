@@ -5,7 +5,7 @@ latitude: 49.707292200000005
 longitude: 11.0579754
 postcode: 91301
 city: Forchheim
-street: Boschstraße
+street: "Boschstraße"
 housenumber: 3
 phone: ""
 opening_hours: ""

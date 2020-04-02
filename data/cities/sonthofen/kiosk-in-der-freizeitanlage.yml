@@ -5,7 +5,7 @@ latitude: 47.486209900000006
 longitude: 10.2888613
 postcode: 87527
 city: Sonthofen
-street: Freibadweg
+street: "Freibadweg"
 housenumber: 16
 phone: ""
 opening_hours: ""

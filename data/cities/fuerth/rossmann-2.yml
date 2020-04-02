@@ -5,7 +5,7 @@ latitude: 49.4946654
 longitude: 10.976602300000001
 postcode: 90766
 city: Fürth
-street: Vacher Straße
+street: "Vacher Straße"
 housenumber: 188
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off"

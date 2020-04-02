@@ -5,7 +5,7 @@ latitude: 48.349333
 longitude: 11.377303000000001
 postcode: 85229
 city: Markt Indersdorf
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 17
 phone: "+49 8136 93976"
 opening_hours: ""

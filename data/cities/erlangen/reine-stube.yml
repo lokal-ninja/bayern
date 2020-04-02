@@ -5,7 +5,7 @@ latitude: 49.59598930000001
 longitude: 11.0333853
 postcode: 91052
 city: Erlangen
-street: Drausnickstraße
+street: "Drausnickstraße"
 housenumber: 25
 phone: ""
 opening_hours: "Mo-Sa 16:00-20:00"

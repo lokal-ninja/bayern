@@ -5,7 +5,7 @@ latitude: 48.1621035
 longitude: 11.5410562
 postcode: 80637
 city: München
-street: Heideckstraße
+street: "Heideckstraße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Fr 07:00-18:00, Sa 07:00-12:00"

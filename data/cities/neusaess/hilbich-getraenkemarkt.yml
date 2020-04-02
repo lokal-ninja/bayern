@@ -5,7 +5,7 @@ latitude: 48.377696400000005
 longitude: 10.8323166
 postcode: 86356
 city: Neusäß
-street: Ulmer Straße
+street: "Ulmer Straße"
 housenumber: 2
 phone: "+49 821 481415"
 opening_hours: ""

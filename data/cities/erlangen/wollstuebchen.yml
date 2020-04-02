@@ -5,7 +5,7 @@ latitude: 49.5987931
 longitude: 11.0019504
 postcode: 91054
 city: Erlangen
-street: Heuwaagstraße
+street: "Heuwaagstraße"
 housenumber: 18
 phone: ""
 opening_hours: ""

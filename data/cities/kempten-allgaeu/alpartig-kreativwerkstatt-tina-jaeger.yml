@@ -5,7 +5,7 @@ latitude: 47.749375900000004
 longitude: 10.282593100000001
 postcode: 87439
 city: Kempten (Allgäu)
-street: Heiligkreuzer Straße
+street: "Heiligkreuzer Straße"
 housenumber: 91
 phone: ""
 opening_hours: ""

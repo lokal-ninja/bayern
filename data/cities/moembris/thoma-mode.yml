@@ -5,7 +5,7 @@ latitude: 50.0693214
 longitude: 9.1645876
 postcode: 63776
 city: Mömbris
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

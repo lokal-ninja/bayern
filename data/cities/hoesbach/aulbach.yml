@@ -5,7 +5,7 @@ latitude: 50.0075723
 longitude: 9.2196067
 postcode: 63768
 city: Hösbach
-street: Siemensstraße
+street: "Siemensstraße"
 housenumber: 9
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 47.9833574
 longitude: 12.1275031
 postcode: 83543
 city: Rott am Inn
-street: Münchener Straße
+street: "Münchener Straße"
 housenumber: 1
 phone: "+49 8039 9093287"
 opening_hours: ""

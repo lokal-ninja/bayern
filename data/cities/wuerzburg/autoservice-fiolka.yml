@@ -5,7 +5,7 @@ latitude: 49.8038023
 longitude: 9.892384100000001
 postcode: 97080
 city: Würzburg
-street: Alfred-Nobel-Straße
+street: "Alfred-Nobel-Straße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-We 08:00-18:00, Th-Fr 08:00-17:00, Sa 09:00-13:00, PH off"

@@ -5,7 +5,7 @@ latitude: 49.454095800000005
 longitude: 12.413860300000001
 postcode: 92526
 city: Oberviechtach
-street: Am Bahnhof
+street: "Am Bahnhof"
 housenumber: 6
 phone: ""
 opening_hours: ""

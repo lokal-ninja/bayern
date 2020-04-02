@@ -5,7 +5,7 @@ latitude: 49.4057468
 longitude: 11.138751000000001
 postcode: 90473
 city: Nürnberg
-street: Neusalzer Straße
+street: "Neusalzer Straße"
 housenumber: 21
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.4566809
 longitude: 10.9222464
 postcode: 90513
 city: Zirndorf
-street: Weiherhofer Hauptstraße
+street: "Weiherhofer Hauptstraße"
 housenumber: 7
 phone: "+49 911 9657198"
 opening_hours: ""

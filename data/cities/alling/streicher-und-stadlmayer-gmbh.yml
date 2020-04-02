@@ -5,7 +5,7 @@ latitude: 48.151379000000006
 longitude: 11.2551924
 postcode: 82239
 city: Alling
-street: Ammerseestraße
+street: "Ammerseestraße"
 housenumber: 15
 phone: ""
 opening_hours: "Mo-Th 07:30-12:00,13:00-17:30; Fr 07:30-12:00,13:00-16:00; Sa 09:00-12:00"

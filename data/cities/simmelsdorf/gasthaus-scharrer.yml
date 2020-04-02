@@ -5,7 +5,7 @@ latitude: 49.638244
 longitude: 11.3559192
 postcode: 91245
 city: Simmelsdorf
-street: Wintersteiner Straße
+street: "Wintersteiner Straße"
 housenumber: 2
 phone: "+49 9155 407"
 opening_hours: "Tu off"

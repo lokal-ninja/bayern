@@ -5,7 +5,7 @@ latitude: 48.2937689
 longitude: 10.5309235
 postcode: 86473
 city: Ziemetshausen
-street: Wiedengasse
+street: "Wiedengasse"
 housenumber: 8
 phone: "+49 8284 8191"
 opening_hours: ""

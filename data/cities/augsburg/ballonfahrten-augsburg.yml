@@ -5,7 +5,7 @@ latitude: 48.365856
 longitude: 10.911069900000001
 postcode: 86153
 city: Augsburg
-street: Julius-Spokojny-Weg
+street: "Julius-Spokojny-Weg"
 housenumber: 2
 phone: "+49 821 449 555 02"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 50.001777600000004
 longitude: 12.087895900000001
 postcode: 95615
 city: Marktredwitz
-street: Markt
+street: "Markt"
 housenumber: 53
 phone: ""
 opening_hours: ""

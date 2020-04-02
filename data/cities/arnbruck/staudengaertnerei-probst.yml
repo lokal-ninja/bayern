@@ -5,7 +5,7 @@ latitude: 49.1467807
 longitude: 12.964241300000001
 postcode: 93471
 city: Arnbruck
-street: Gutendorf
+street: "Gutendorf"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Fr 13:00-18:00; Sa 09:00-13:00"

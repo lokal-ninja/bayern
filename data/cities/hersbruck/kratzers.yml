@@ -5,7 +5,7 @@ latitude: 49.508188700000005
 longitude: 11.429408200000001
 postcode: 91217
 city: Hersbruck
-street: Unterer Markt
+street: "Unterer Markt"
 housenumber: 11
 phone: "+49 9151 2723"
 opening_hours: ""

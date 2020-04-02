@@ -5,7 +5,7 @@ latitude: 49.4632379
 longitude: 11.070805700000001
 postcode: 90419
 city: Nürnberg
-street: Bucher Straße
+street: "Bucher Straße"
 housenumber: 69
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-14:00"

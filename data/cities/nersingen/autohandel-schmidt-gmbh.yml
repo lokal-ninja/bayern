@@ -5,7 +5,7 @@ latitude: 48.428800100000004
 longitude: 10.1567678
 postcode: 89278
 city: Nersingen
-street: Augsburger Straße
+street: "Augsburger Straße"
 housenumber: 6
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 47.494579800000004
 longitude: 11.110158100000001
 postcode: 82467
 city: Garmisch-Partenkirchen
-street: Ludwigstraße
+street: "Ludwigstraße"
 housenumber: 64
 phone: ""
 opening_hours: "Tu-Fr 09:00-18:00, Sa 09:00-12:30; PH Su off"

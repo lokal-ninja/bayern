@@ -5,7 +5,7 @@ latitude: 49.7933133
 longitude: 9.996276700000001
 postcode: 97076
 city: Würzburg
-street: Louis-Pasteur-Straße
+street: "Louis-Pasteur-Straße"
 housenumber: 12
 phone: "+49-931-2704880"
 opening_hours: ""

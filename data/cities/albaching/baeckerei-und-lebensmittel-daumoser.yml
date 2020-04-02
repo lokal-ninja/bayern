@@ -5,7 +5,7 @@ latitude: 48.1121047
 longitude: 12.109463400000001
 postcode: 83544
 city: Albaching
-street: Postgasse
+street: "Postgasse"
 housenumber: 7
 phone: "+49 8076 269"
 opening_hours: "Mo-Fr 06:30-18:00, Sa 06:30-12:30"

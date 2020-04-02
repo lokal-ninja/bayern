@@ -5,7 +5,7 @@ latitude: 49.2932044
 longitude: 10.6045063
 postcode: 91522
 city: Ansbach
-street: Eichenbachstraße
+street: "Eichenbachstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

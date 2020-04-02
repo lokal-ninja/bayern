@@ -5,7 +5,7 @@ latitude: 47.8667256
 longitude: 12.6299136
 postcode: 83278
 city: Traunstein
-street: Chiemseestraße
+street: "Chiemseestraße"
 housenumber: 15
 phone: ""
 opening_hours: ""

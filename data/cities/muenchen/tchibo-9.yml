@@ -5,7 +5,7 @@ latitude: 48.1484467
 longitude: 11.4606276
 postcode: 81241
 city: München
-street: Gleichmannstraße
+street: "Gleichmannstraße"
 housenumber: 16
 phone: ""
 opening_hours: ""

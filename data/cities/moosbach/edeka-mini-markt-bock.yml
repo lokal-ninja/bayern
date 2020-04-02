@@ -5,7 +5,7 @@ latitude: 49.5905531
 longitude: 12.410328400000001
 postcode: 92709
 city: Moosbach
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 24
 phone: ""
 opening_hours: "Mo-Fr 07:30-12:30,13:30-18:00; Sa 07:30-13:00"

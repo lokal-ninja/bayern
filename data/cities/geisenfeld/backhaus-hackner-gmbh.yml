@@ -5,7 +5,7 @@ latitude: 48.6848206
 longitude: 11.613901700000001
 postcode: 85290
 city: Geisenfeld
-street: Marienplatz
+street: "Marienplatz"
 housenumber: 7
 phone: ""
 opening_hours: ""

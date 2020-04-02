@@ -5,7 +5,7 @@ latitude: 48.3088903
 longitude: 11.908111600000002
 postcode: 85435
 city: Erding
-street: Lange Zeile
+street: "Lange Zeile"
 housenumber: 31
 phone: "+49 8122 9599390"
 opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"

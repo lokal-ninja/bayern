@@ -5,7 +5,7 @@ latitude: 48.199127600000004
 longitude: 10.9274923
 postcode: 86931
 city: Prittriching
-street: Sonnenstraße
+street: "Sonnenstraße"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Fr 09:00-12:00,14:30-18:00, Sa 08:00-14:00; PH off"

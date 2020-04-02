@@ -5,7 +5,7 @@ latitude: 49.511970500000004
 longitude: 11.282603700000001
 postcode: 91207
 city: Lauf a.d.Pegnitz
-street: Barthstraße
+street: "Barthstraße"
 housenumber: 1
 phone: "+499123 9999960"
 opening_hours: "Tu-Fr 10:00-12:00,13:30-18:00; Sa 10:00-14:00"

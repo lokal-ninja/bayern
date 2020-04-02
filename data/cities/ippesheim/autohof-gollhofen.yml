@@ -5,7 +5,7 @@ latitude: 49.586046700000004
 longitude: 10.175481600000001
 postcode: 97258
 city: Ippesheim
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

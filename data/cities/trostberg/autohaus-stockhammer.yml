@@ -5,7 +5,7 @@ latitude: 48.031582300000004
 longitude: 12.5670072
 postcode: 83308
 city: Trostberg
-street: Tittmoninger Straße
+street: "Tittmoninger Straße"
 housenumber: 46
 phone: "+49-8621-3204"
 opening_hours: "Mo-Th 07:30-12:00, 13:00-18:00; Fr. 07:30-12:00, 13:00-17:30; Sa 08:30-12:30"

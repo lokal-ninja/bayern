@@ -5,7 +5,7 @@ latitude: 49.0399995
 longitude: 12.1016163
 postcode: 93057
 city: Regensburg
-street: Amberger Straße
+street: "Amberger Straße"
 housenumber: 75
 phone: "+49 941 62128"
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"

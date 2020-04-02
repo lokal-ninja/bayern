@@ -5,7 +5,7 @@ latitude: 49.9350481
 longitude: 11.6204592
 postcode: 95448
 city: Bayreuth
-street: Orionstraße
+street: "Orionstraße"
 housenumber: 1
 phone: "+49 921 50707599"
 opening_hours: ""

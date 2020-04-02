@@ -5,7 +5,7 @@ latitude: 49.1319839
 longitude: 11.1241952
 postcode: 91180
 city: Heideck
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

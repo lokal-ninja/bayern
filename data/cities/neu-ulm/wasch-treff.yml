@@ -5,7 +5,7 @@ latitude: 48.392433600000004
 longitude: 9.996281100000001
 postcode: 89231
 city: Neu-Ulm
-street: Luitpoldstraße
+street: "Luitpoldstraße"
 housenumber: 18-20
 phone: ""
 opening_hours: "Mo-Sa 07:00-23:00"

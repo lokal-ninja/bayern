@@ -5,7 +5,7 @@ latitude: 49.015016900000006
 longitude: 12.138358700000001
 postcode: 93055
 city: Regensburg
-street: Ditthornstraße
+street: "Ditthornstraße"
 housenumber: 11
 phone: "+49 941 791159"
 opening_hours: ""

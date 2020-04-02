@@ -5,7 +5,7 @@ latitude: 48.3540122
 longitude: 10.9456229
 postcode: 86163
 city: Augsburg
-street: Hochzoller Straße
+street: "Hochzoller Straße"
 housenumber: 7
 phone: "+49 821 32919765"
 opening_hours: "Mo-Sa 08:00-20:00"

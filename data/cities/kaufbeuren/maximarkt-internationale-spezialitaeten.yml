@@ -5,7 +5,7 @@ latitude: 47.8923405
 longitude: 10.6319294
 postcode: 87600
 city: Kaufbeuren
-street: Liegnitzer Straße
+street: "Liegnitzer Straße"
 housenumber: 11
 phone: ""
 opening_hours: "8:00 - 19:00"

@@ -5,7 +5,7 @@ latitude: 47.8501792
 longitude: 12.1576128
 postcode: 83071
 city: Stephanskirchen
-street: Hofmühlstraße
+street: "Hofmühlstraße"
 housenumber: 54
 phone: "+49 8031 700201"
 opening_hours: ""

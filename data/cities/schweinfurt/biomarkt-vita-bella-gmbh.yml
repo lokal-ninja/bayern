@@ -5,7 +5,7 @@ latitude: 50.043325100000004
 longitude: 10.230994
 postcode: 97421
 city: Schweinfurt
-street: Siebenbrückleinsgasse
+street: "Siebenbrückleinsgasse"
 housenumber: 8
 phone: ""
 opening_hours: ""

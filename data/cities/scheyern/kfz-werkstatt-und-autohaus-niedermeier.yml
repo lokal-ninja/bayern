@@ -5,7 +5,7 @@ latitude: 48.518569500000005
 longitude: 11.457734700000001
 postcode: 85298
 city: Scheyern
-street: Werkstraße
+street: "Werkstraße"
 housenumber: 8
 phone: "+49 8441 400 86 04"
 opening_hours: "Mo-Fr 08:00-12:00, 13:00-17:00; Sa 08:00-13:00"

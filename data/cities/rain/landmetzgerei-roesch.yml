@@ -5,7 +5,7 @@ latitude: 48.9057668
 longitude: 12.4527391
 postcode: 94369
 city: Rain
-street: Im Gewerbegebiet
+street: "Im Gewerbegebiet"
 housenumber: 12
 phone: "+49 9429 903388"
 opening_hours: "Mo-Th 08:00-13:00,15:00-18:00; Fr 07:30-18:00; Sa 07:00-12:00"

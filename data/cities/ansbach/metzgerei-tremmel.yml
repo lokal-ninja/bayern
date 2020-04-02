@@ -5,7 +5,7 @@ latitude: 49.297223100000004
 longitude: 10.597930400000001
 postcode: 91522
 city: Ansbach
-street: Eyber Straße
+street: "Eyber Straße"
 housenumber: 163
 phone: "+49-981-2052"
 opening_hours: "Mo- Fr 16:30-18:00; Sa 06:30-12:30"

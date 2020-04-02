@@ -5,7 +5,7 @@ latitude: 49.0355688
 longitude: 11.933600100000001
 postcode: 93152
 city: Nittendorf
-street: Deuerlinger Straße
+street: "Deuerlinger Straße"
 housenumber: 44a
 phone: "+49 9404 961415"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"

@@ -5,7 +5,7 @@ latitude: 48.0455516
 longitude: 11.965817300000001
 postcode: 85567
 city: Grafing
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-16:00"

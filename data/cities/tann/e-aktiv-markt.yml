@@ -5,7 +5,7 @@ latitude: 48.315572800000005
 longitude: 12.891348
 postcode: 84367
 city: Tann
-street: Martin-Grainer-Platz
+street: "Martin-Grainer-Platz"
 housenumber: 1
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.661314700000005
 longitude: 10.9173101
 postcode: 91341
 city: Röttenbach
-street: Gewerbering
+street: "Gewerbering"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

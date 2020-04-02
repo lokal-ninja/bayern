@@ -5,7 +5,7 @@ latitude: 47.991688700000005
 longitude: 11.3298175
 postcode: 82319
 city: Starnberg
-street: Weilheimer Straße
+street: "Weilheimer Straße"
 housenumber: 16
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

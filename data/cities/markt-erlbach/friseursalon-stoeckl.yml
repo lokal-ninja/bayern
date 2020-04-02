@@ -5,7 +5,7 @@ latitude: 49.493572300000004
 longitude: 10.6506056
 postcode: 91459
 city: Markt Erlbach
-street: Sackgasse
+street: "Sackgasse"
 housenumber: 3
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.437468
 longitude: 10.9458163
 postcode: 90513
 city: Zirndorf
-street: Schwabacher Straße
+street: "Schwabacher Straße"
 housenumber: 30
 phone: "+49911960250"
 opening_hours: ""

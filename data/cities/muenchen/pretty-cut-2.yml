@@ -5,7 +5,7 @@ latitude: 48.149494600000004
 longitude: 11.5341758
 postcode: 80634
 city: München
-street: Donnersbergerstraße
+street: "Donnersbergerstraße"
 housenumber: 24
 phone: "+49 (0)89 23719426"
 opening_hours: ""

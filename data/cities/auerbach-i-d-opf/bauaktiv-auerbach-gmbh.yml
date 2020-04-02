@@ -5,7 +5,7 @@ latitude: 49.6873489
 longitude: 11.6373855
 postcode: 91275
 city: Auerbach i.d.OPf.
-street: Bernreuther Straße
+street: "Bernreuther Straße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00, Sa 08:00-12:30; PH off"

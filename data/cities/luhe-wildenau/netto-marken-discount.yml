@@ -5,7 +5,7 @@ latitude: 49.58958560000001
 longitude: 12.1478336
 postcode: 92706
 city: Luhe-Wildenau
-street: Leuchtenberger Straße
+street: "Leuchtenberger Straße"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

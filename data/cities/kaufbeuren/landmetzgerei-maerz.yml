@@ -5,7 +5,7 @@ latitude: 47.9136649
 longitude: 10.6359052
 postcode: 87600
 city: Kaufbeuren
-street: Neuer Markt
+street: "Neuer Markt"
 housenumber: 9
 phone: ""
 opening_hours: "Mo 07:30-13:00; Tu-Fr 07:30-13:00; 15:00-18:00; Sa 07:30-12:00"

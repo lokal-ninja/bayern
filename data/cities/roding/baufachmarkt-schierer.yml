@@ -5,7 +5,7 @@ latitude: 49.2100452
 longitude: 12.510176900000001
 postcode: 93426
 city: Roding
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 53
 phone: ""
 opening_hours: ""

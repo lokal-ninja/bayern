@@ -5,7 +5,7 @@ latitude: 48.2043861
 longitude: 11.1537655
 postcode: 82291
 city: Mammendorf
-street: Bürgermeister-Gantner-Straße
+street: "Bürgermeister-Gantner-Straße"
 housenumber: 4
 phone: ""
 opening_hours: "Tu,Th 09:30-12:00,14:30-18:00"

@@ -5,7 +5,7 @@ latitude: 48.752571100000004
 longitude: 11.345131400000001
 postcode: 85049
 city: Ingolstadt
-street: Am Burggraben
+street: "Am Burggraben"
 housenumber: 57
 phone: ""
 opening_hours: ""

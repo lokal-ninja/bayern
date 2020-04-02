@@ -5,7 +5,7 @@ latitude: 48.8916423
 longitude: 12.575628100000001
 postcode: 94315
 city: Straubing
-street: Chamer Straße
+street: "Chamer Straße"
 housenumber: 47
 phone: "+49 9421 9920 0"
 opening_hours: "Mo-Fr 10:00-19:30; Sa 09:00-18:00"

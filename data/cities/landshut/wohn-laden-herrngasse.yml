@@ -5,7 +5,7 @@ latitude: 48.5379579
 longitude: 12.1531231
 postcode: 84028
 city: Landshut
-street: Herrngasse
+street: "Herrngasse"
 housenumber: 370
 phone: ""
 opening_hours: ""

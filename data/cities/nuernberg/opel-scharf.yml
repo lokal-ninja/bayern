@@ -5,7 +5,7 @@ latitude: 49.453343100000005
 longitude: 11.027209000000001
 postcode: 90431
 city: Nürnberg
-street: Siegelsdorfer Straße
+street: "Siegelsdorfer Straße"
 housenumber: 58
 phone: ""
 opening_hours: ""

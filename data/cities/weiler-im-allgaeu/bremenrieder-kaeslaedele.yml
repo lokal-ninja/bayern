@@ -5,7 +5,7 @@ latitude: 47.579950600000004
 longitude: 9.901325100000001
 postcode: 88171
 city: Weiler im Allgäu
-street: Bregenzer Straße
+street: "Bregenzer Straße"
 housenumber: 96
 phone: "+49 8387 265 8"
 opening_hours: "Mo-Sa 07:00-12:00, 16:00-19:00; Su, PH 07:00-11:30, 17:30-19:00"

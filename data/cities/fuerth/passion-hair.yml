@@ -5,7 +5,7 @@ latitude: 49.481886
 longitude: 11.0076803
 postcode: 90765
 city: Fürth
-street: Poppenreuther Straße
+street: "Poppenreuther Straße"
 housenumber: 72
 phone: "+49 911 97799577"
 opening_hours: ""

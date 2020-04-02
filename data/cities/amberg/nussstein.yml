@@ -5,7 +5,7 @@ latitude: 49.4454038
 longitude: 11.8670662
 postcode: 92224
 city: Amberg
-street: Marienstraße
+street: "Marienstraße"
 housenumber: 8
 phone: "+49 09621 22172"
 opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-13:00"

@@ -5,7 +5,7 @@ latitude: 48.304247000000004
 longitude: 10.969858200000001
 postcode: 86438
 city: Kissing
-street: Kirchstraße
+street: "Kirchstraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

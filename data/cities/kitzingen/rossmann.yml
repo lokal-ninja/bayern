@@ -5,7 +5,7 @@ latitude: 49.736729700000005
 longitude: 10.1612484
 postcode: 97318
 city: Kitzingen
-street: Ritterstraße
+street: "Ritterstraße"
 housenumber: 27
 phone: ""
 opening_hours: "Mo-Fr 08:30-19:00; Sa 08:30-16:00; PH off"

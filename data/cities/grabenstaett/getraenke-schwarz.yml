@@ -5,7 +5,7 @@ latitude: 47.873447600000006
 longitude: 12.589567500000001
 postcode: 83355
 city: Grabenstätt
-street: Römerstraße
+street: "Römerstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

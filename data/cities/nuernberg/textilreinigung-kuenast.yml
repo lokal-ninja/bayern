@@ -5,7 +5,7 @@ latitude: 49.453602200000006
 longitude: 11.0873092
 postcode: 90489
 city: Nürnberg
-street: Laufertorgraben
+street: "Laufertorgraben"
 housenumber: 4
 phone: "+49 911 221506"
 opening_hours: "Mo-Fr 08:00-18:00"

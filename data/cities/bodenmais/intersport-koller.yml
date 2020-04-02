@@ -5,7 +5,7 @@ latitude: 49.068840800000004
 longitude: 13.103081300000001
 postcode: 94249
 city: Bodenmais
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 41
 phone: ""
 opening_hours: ""

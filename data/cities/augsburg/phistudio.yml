@@ -5,7 +5,7 @@ latitude: 48.364466
 longitude: 10.8769706
 postcode: 86157
 city: Augsburg
-street: Augsburger Straße
+street: "Augsburger Straße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Th 17:00-20:00; We-Tu 09:00-18:00; Fr 09:00-18:00"

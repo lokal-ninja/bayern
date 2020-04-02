@@ -5,7 +5,7 @@ latitude: 48.2545719
 longitude: 12.4598615
 postcode: 84562
 city: Mettenheim-Hart
-street: An der Münchener Straße
+street: "An der Münchener Straße"
 housenumber: 4
 phone: "+49 8631 9883302"
 opening_hours: ""

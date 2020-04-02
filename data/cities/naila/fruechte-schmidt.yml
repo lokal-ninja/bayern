@@ -5,7 +5,7 @@ latitude: 50.3287817
 longitude: 11.7101985
 postcode: 95119
 city: Naila
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

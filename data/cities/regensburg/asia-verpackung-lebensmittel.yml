@@ -5,7 +5,7 @@ latitude: 49.009329400000006
 longitude: 12.114284300000001
 postcode: 93053
 city: Regensburg
-street: Landshuter Straße
+street: "Landshuter Straße"
 housenumber: 51 b
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00"

@@ -5,7 +5,7 @@ latitude: 50.236155700000005
 longitude: 11.336431900000001
 postcode: 96317
 city: Kronach
-street: Gabelsbergerstraße
+street: "Gabelsbergerstraße"
 housenumber: 9
 phone: ""
 opening_hours: ""

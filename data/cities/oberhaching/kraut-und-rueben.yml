@@ -5,7 +5,7 @@ latitude: 48.0190579
 longitude: 11.5882435
 postcode: 82041
 city: Oberhaching
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 20
 phone: "+49 89 6132520"
 opening_hours: "mo-th 7:30-13:00,14:30-18:00;fr 7:00-18:00;sa 7:00-12:30"

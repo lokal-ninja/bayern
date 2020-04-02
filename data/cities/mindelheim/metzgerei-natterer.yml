@@ -5,7 +5,7 @@ latitude: 48.0409513
 longitude: 10.489813400000001
 postcode: 
 city: Mindelheim
-street: Kaufbeurer Straße
+street: "Kaufbeurer Straße"
 housenumber: 42
 phone: ""
 opening_hours: ""

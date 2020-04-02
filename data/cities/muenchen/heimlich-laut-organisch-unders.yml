@@ -5,7 +5,7 @@ latitude: 48.1511573
 longitude: 11.5637667
 postcode: 80333
 city: München
-street: Theresienstraße
+street: "Theresienstraße"
 housenumber: 63
 phone: "+49 89 54245023"
 opening_hours: "Mo-Fr 13:00-19:00; Sa 11:00-17:00"

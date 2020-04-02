@@ -5,7 +5,7 @@ latitude: 50.327181700000004
 longitude: 10.220821500000001
 postcode: 97616
 city: Bad Neustadt an der Saale
-street: Meininger Straße
+street: "Meininger Straße"
 housenumber: 28
 phone: ""
 opening_hours: ""

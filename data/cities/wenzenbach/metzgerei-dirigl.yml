@@ -5,7 +5,7 @@ latitude: 49.0731636
 longitude: 12.1908302
 postcode: 93173
 city: Wenzenbach
-street: Regensburger Straße
+street: "Regensburger Straße"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-12:00; PH off"

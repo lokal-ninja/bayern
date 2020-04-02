@@ -5,7 +5,7 @@ latitude: 49.8698125
 longitude: 10.047476600000001
 postcode: 97294
 city: Unterpleichfeld
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 42
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.080919300000005
 longitude: 10.858881700000001
 postcode: 86916
 city: Kaufering
-street: Viktor-Frankl-Straße
+street: "Viktor-Frankl-Straße"
 housenumber: 3
 phone: "+49 8191 7120"
 opening_hours: "Mo-Fr 07:00-18:30; Sa 07:30-13:00; Su,PH off"

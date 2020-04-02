@@ -5,7 +5,7 @@ latitude: 50.261994200000004
 longitude: 10.963350400000001
 postcode: 96450
 city: Coburg
-street: Hindenburgstraße
+street: "Hindenburgstraße"
 housenumber: 5
 phone: "+49 9561 8531453"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"

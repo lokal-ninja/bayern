@@ -5,7 +5,7 @@ latitude: 48.1998602
 longitude: 11.512541
 postcode: 80995
 city: München
-street: Pappelallee
+street: "Pappelallee"
 housenumber: 19
 phone: ""
 opening_hours: "nach Vereinbarung"

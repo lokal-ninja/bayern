@@ -5,7 +5,7 @@ latitude: 49.3120099
 longitude: 11.3562159
 postcode: 92353
 city: Postbauer-Heng
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 18
 phone: ""
 opening_hours: ""

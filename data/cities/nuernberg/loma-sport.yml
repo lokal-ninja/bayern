@@ -5,7 +5,7 @@ latitude: 49.466361600000006
 longitude: 11.1619454
 postcode: 90482
 city: Nürnberg
-street: Moritzbergstraße
+street: "Moritzbergstraße"
 housenumber: 40
 phone: "+49 911 503022"
 opening_hours: "Mo-Fr 09:00-12:30,15:00-18:00; Sa 09:00-12:30"

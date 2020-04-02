@@ -5,7 +5,7 @@ latitude: 48.462556000000006
 longitude: 10.6557093
 postcode: 86465
 city: Welden
-street: Uzstraße
+street: "Uzstraße"
 housenumber: 38
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

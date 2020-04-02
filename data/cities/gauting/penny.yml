@@ -5,7 +5,7 @@ latitude: 48.0708982
 longitude: 11.3587366
 postcode: 82131
 city: Gauting
-street: Ammerseestraße
+street: "Ammerseestraße"
 housenumber: 130
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

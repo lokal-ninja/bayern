@@ -5,7 +5,7 @@ latitude: 49.437527300000006
 longitude: 11.8717848
 postcode: 92224
 city: Amberg
-street: Merzstraße
+street: "Merzstraße"
 housenumber: 3
 phone: ""
 opening_hours: ""

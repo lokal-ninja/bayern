@@ -5,7 +5,7 @@ latitude: 48.05535080000001
 longitude: 11.667373900000001
 postcode: 85521
 city: Ottobrunn
-street: Rosenheimer Landstraße
+street: "Rosenheimer Landstraße"
 housenumber: 112
 phone: ""
 opening_hours: ""

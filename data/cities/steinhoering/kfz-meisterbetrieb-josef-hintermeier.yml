@@ -5,7 +5,7 @@ latitude: 48.093417
 longitude: 12.04978
 postcode: 85643
 city: Steinhöring
-street: Endorf
+street: "Endorf"
 housenumber: 23
 phone: ""
 opening_hours: "Mo-Th 07:30-12:00,13:00-16:30; Fr 07:30-12:00,13:00-16:00"

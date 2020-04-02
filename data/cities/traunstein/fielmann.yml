@@ -5,7 +5,7 @@ latitude: 47.868132700000004
 longitude: 12.6455953
 postcode: 83278
 city: Traunstein
-street: Maximilianstraße
+street: "Maximilianstraße"
 housenumber: 17
 phone: ""
 opening_hours: ""

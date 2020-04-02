@@ -5,7 +5,7 @@ latitude: 49.4686522
 longitude: 11.0326445
 postcode: 90427
 city: Nürnberg
-street: Brettergartenstraße
+street: "Brettergartenstraße"
 housenumber: 26
 phone: "+49 911 3130118"
 opening_hours: ""

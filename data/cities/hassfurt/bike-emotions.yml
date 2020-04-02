@@ -5,7 +5,7 @@ latitude: 50.0309132
 longitude: 10.5069102
 postcode: 97437
 city: Haßfurt
-street: Brückenstraße
+street: "Brückenstraße"
 housenumber: 9
 phone: "+49 9521 8619"
 opening_hours: ""

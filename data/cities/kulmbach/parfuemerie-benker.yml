@@ -5,7 +5,7 @@ latitude: 50.107686300000005
 longitude: 11.4545039
 postcode: 95326
 city: Kulmbach
-street: Kressenstein
+street: "Kressenstein"
 housenumber: 3
 phone: "+49 9221 4215"
 opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-14:00; Su,PH off"

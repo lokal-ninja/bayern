@@ -5,7 +5,7 @@ latitude: 47.790834600000004
 longitude: 11.8321872
 postcode: 83714
 city: Miesbach
-street: Wallenburger Straße
+street: "Wallenburger Straße"
 housenumber: 4
 phone: ""
 opening_hours: ""

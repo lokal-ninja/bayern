@@ -5,7 +5,7 @@ latitude: 48.1298442
 longitude: 11.6308986
 postcode: 81673
 city: München
-street: Baumkirchner Straße
+street: "Baumkirchner Straße"
 housenumber: 29a
 phone: ""
 opening_hours: ""

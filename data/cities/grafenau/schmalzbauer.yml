@@ -5,7 +5,7 @@ latitude: 48.8563321
 longitude: 13.3966417
 postcode: 94481
 city: Grafenau
-street: Stadtplatz
+street: "Stadtplatz"
 housenumber: 9-11
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00"

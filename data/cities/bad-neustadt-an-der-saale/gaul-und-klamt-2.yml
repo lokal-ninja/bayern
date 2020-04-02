@@ -5,7 +5,7 @@ latitude: 50.3194315
 longitude: 10.201080300000001
 postcode: 97616
 city: Bad Neustadt an der Saale
-street: Haydnstraße
+street: "Haydnstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

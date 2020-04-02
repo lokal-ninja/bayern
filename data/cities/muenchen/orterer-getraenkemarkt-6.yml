@@ -5,7 +5,7 @@ latitude: 48.1078376
 longitude: 11.5829172
 postcode: 81539
 city: München
-street: Untersbergstraße
+street: "Untersbergstraße"
 housenumber: 74
 phone: "+49 89 62000112"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 08:00-14:00"

@@ -5,7 +5,7 @@ latitude: 49.5569209
 longitude: 11.1317255
 postcode: 90562
 city: Kalchreuth
-street: Erlanger Straße
+street: "Erlanger Straße"
 housenumber: 1
 phone: "+49 911 5180868"
 opening_hours: ""

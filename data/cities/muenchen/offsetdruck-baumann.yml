@@ -5,7 +5,7 @@ latitude: 48.089429300000006
 longitude: 11.507375900000001
 postcode: 81477
 city: München
-street: Meglingerstraße
+street: "Meglingerstraße"
 housenumber: 49
 phone: "+49 89 7488330"
 opening_hours: ""

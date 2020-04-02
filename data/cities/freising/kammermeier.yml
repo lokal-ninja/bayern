@@ -5,7 +5,7 @@ latitude: 48.4043654
 longitude: 11.747951200000001
 postcode: 85356
 city: Freising
-street: Mainburger Straße
+street: "Mainburger Straße"
 housenumber: 4
 phone: "+49-8161-97080"
 opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-12:00"

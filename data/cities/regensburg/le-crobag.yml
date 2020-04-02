@@ -5,7 +5,7 @@ latitude: 49.0123164
 longitude: 12.0997556
 postcode: 93047
 city: Regensburg
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 18
 phone: ""
 opening_hours: "Mo-Su 06:00-20:00"

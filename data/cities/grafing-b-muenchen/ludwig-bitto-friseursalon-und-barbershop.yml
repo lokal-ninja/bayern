@@ -5,7 +5,7 @@ latitude: 48.0464654
 longitude: 11.967725100000001
 postcode: 85567
 city: Grafing b. München
-street: Kirchenstraße
+street: "Kirchenstraße"
 housenumber: 1
 phone: "+49 8092 9186"
 opening_hours: "Mo 12:30-18:00; Tu, We, Fr 08:00-18:00; Th 08:00-20:00; Sa 07:30-12:30; PH off"

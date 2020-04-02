@@ -5,7 +5,7 @@ latitude: 49.306542500000006
 longitude: 12.8446134
 postcode: 93437
 city: Furth im Wald
-street: Lorenz-Zierl-Straße
+street: "Lorenz-Zierl-Straße"
 housenumber: 29
 phone: ""
 opening_hours: "Mo-Fr 8:00-12:30, 13:45-18:00; Sa 8:00-12:00"

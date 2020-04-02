@@ -5,7 +5,7 @@ latitude: 48.790707700000006
 longitude: 11.3751963
 postcode: 85080
 city: Gaimersheim
-street: Siemensstraße
+street: "Siemensstraße"
 housenumber: 7
 phone: ""
 opening_hours: ""

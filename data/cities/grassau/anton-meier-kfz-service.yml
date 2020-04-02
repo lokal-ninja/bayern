@@ -5,7 +5,7 @@ latitude: 47.785679800000004
 longitude: 12.431447100000002
 postcode: 83224
 city: Grassau
-street: Brunnhausweg
+street: "Brunnhausweg"
 housenumber: 6
 phone: "+49 8641 4724"
 opening_hours: ""

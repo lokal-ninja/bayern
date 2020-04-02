@@ -5,7 +5,7 @@ latitude: 50.1339017
 longitude: 11.243740200000001
 postcode: 96264
 city: Altenkunstadt
-street: Mainbrücke
+street: "Mainbrücke"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"

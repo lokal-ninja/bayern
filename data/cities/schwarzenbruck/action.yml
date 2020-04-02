@@ -5,7 +5,7 @@ latitude: 49.360250400000005
 longitude: 11.252902800000001
 postcode: 90592
 city: Schwarzenbruck
-street: Frauenfeldstraße
+street: "Frauenfeldstraße"
 housenumber: 12
 phone: ""
 opening_hours: "Mo-Sa 09:00-20:00"

@@ -5,7 +5,7 @@ latitude: 48.4615469
 longitude: 11.1350013
 postcode: 86551
 city: Aichach
-street: Freisinger Straße
+street: "Freisinger Straße"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00; PH off"

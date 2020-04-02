@@ -5,7 +5,7 @@ latitude: 48.0211642
 longitude: 11.5806567
 postcode: 82041
 city: Oberhaching
-street: Gartenstraße
+street: "Gartenstraße"
 housenumber: 35
 phone: "+49 89 6131627"
 opening_hours: ""

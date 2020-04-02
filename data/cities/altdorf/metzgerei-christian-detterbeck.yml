@@ -5,7 +5,7 @@ latitude: 48.555981700000004
 longitude: 12.1040828
 postcode: 
 city: Altdorf
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 18
 phone: "+49 871 32282"
 opening_hours: ""

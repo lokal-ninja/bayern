@@ -5,7 +5,7 @@ latitude: 48.139381400000005
 longitude: 11.531371100000001
 postcode: 80339
 city: München
-street: Astallerstraße
+street: "Astallerstraße"
 housenumber: 7
 phone: ""
 opening_hours: "Tu-Fr 09:30-19:00; Sa 09:00-15:00 || zusätzliche Termine nach Vereinbarung"

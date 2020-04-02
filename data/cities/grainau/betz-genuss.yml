@@ -5,7 +5,7 @@ latitude: 47.4766641
 longitude: 11.0233547
 postcode: 82491
 city: Grainau
-street: Waxensteinstraße
+street: "Waxensteinstraße"
 housenumber: 6
 phone: "+49 8821 81320"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.251894300000004
 longitude: 12.5112485
 postcode: 84453
 city: Mühldorf a. Inn
-street: Felix-Gebhardt-Straße
+street: "Felix-Gebhardt-Straße"
 housenumber: 8
 phone: ""
 opening_hours: ""

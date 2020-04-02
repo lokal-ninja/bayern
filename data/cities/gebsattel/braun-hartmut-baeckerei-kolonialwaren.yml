@@ -5,7 +5,7 @@ latitude: 49.352020100000004
 longitude: 10.2019217
 postcode: 91607
 city: Gebsattel
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 7
 phone: ""
 opening_hours: ""

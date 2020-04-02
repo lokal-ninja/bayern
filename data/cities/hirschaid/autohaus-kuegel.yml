@@ -5,7 +5,7 @@ latitude: 49.8200305
 longitude: 11.001668200000001
 postcode: 96114
 city: Hirschaid
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 11 a
 phone: ""
 opening_hours: ""

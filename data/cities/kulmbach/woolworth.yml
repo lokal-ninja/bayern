@@ -5,7 +5,7 @@ latitude: 50.1073297
 longitude: 11.4570995
 postcode: 95326
 city: Kulmbach
-street: Langgasse
+street: "Langgasse"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:00; Su,PH off"

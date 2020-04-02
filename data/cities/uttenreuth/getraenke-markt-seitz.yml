@@ -5,7 +5,7 @@ latitude: 49.593467100000005
 longitude: 11.068523200000001
 postcode: 91080
 city: Uttenreuth
-street: Ringstraße
+street: "Ringstraße"
 housenumber: 37
 phone: "+49 9131 59 66 0"
 opening_hours: "Mo-Fr 14:00-18:30, Sa 8:30-14:00"

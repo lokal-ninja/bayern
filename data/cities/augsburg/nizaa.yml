@@ -5,7 +5,7 @@ latitude: 48.3755236
 longitude: 10.894415400000002
 postcode: 86152
 city: Augsburg
-street: Auf dem Kreuz
+street: "Auf dem Kreuz"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Th 09:30-12:00,13:00-16:00; We off; Fr 09:30-12:00,13:00-15:00; Sa 09:30-12:00"

@@ -5,7 +5,7 @@ latitude: 50.094960500000006
 longitude: 11.654800100000001
 postcode: 95509
 city: Marktschorgast
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 36
 phone: "+49 9227 909020"
 opening_hours: "Mo 07:30-13:00; Tu-Fr 07:30-18:00; Sa 06:30-12:30"

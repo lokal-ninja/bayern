@@ -5,7 +5,7 @@ latitude: 49.8933789
 longitude: 10.8926111
 postcode: 96047
 city: Bamberg
-street: Franz-Ludwig-Straße
+street: "Franz-Ludwig-Straße"
 housenumber: 7a
 phone: ""
 opening_hours: "Mo-We 10:00-18:00; Th 10:00-14:00; Fr 10:00-17:00; Sa 10:00-14:00"

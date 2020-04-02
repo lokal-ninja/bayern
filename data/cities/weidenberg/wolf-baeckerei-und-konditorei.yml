@@ -5,7 +5,7 @@ latitude: 49.9407675
 longitude: 11.722418900000001
 postcode: 95466
 city: Weidenberg
-street: Lindenstraße
+street: "Lindenstraße"
 housenumber: 27
 phone: "+49 9278 98450"
 opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-12:00"

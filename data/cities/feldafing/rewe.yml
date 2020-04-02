@@ -5,7 +5,7 @@ latitude: 47.9447404
 longitude: 11.2875545
 postcode: 82340
 city: Feldafing
-street: Eugen-Friedl-Straße
+street: "Eugen-Friedl-Straße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00; Su off"

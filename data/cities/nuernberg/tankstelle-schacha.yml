@@ -5,7 +5,7 @@ latitude: 49.4093554
 longitude: 11.0505464
 postcode: 90451
 city: Nürnberg
-street: Donaustraße
+street: "Donaustraße"
 housenumber: 135
 phone: "+49911646829"
 opening_hours: ""

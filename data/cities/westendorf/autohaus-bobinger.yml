@@ -5,7 +5,7 @@ latitude: 48.570408400000005
 longitude: 10.8450115
 postcode: 86707
 city: Westendorf
-street: Dieselstraße
+street: "Dieselstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

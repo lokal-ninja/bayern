@@ -5,7 +5,7 @@ latitude: 49.8078535
 longitude: 12.1987614
 postcode: 92670
 city: Neuhaus
-street: Lindenhof
+street: "Lindenhof"
 housenumber: 3
 phone: "+49 176 636 80875"
 opening_hours: ""

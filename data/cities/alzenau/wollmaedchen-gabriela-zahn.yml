@@ -5,7 +5,7 @@ latitude: 50.086265600000004
 longitude: 9.0720918
 postcode: 63755
 city: Alzenau
-street: Hanauer Straße
+street: "Hanauer Straße"
 housenumber: 11
 phone: ""
 opening_hours: ""

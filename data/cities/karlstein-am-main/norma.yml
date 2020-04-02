@@ -5,7 +5,7 @@ latitude: 50.0445794
 longitude: 9.026399300000001
 postcode: 63791
 city: Karlstein am Main
-street: Schubertstraße
+street: "Schubertstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 08:30-20:00"

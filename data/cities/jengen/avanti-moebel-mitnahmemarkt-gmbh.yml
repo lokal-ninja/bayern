@@ -5,7 +5,7 @@ latitude: 48.001984300000004
 longitude: 10.7226759
 postcode: 86860
 city: Jengen
-street: Alleestraße
+street: "Alleestraße"
 housenumber: 2
 phone: "+49 8241 90484"
 opening_hours: "Mo-Fr 09:00-18:30; Sa 09:30-17:00"

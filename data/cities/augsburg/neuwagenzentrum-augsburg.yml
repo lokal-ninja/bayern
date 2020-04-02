@@ -5,7 +5,7 @@ latitude: 48.3978787
 longitude: 10.8800597
 postcode: 86154
 city: Augsburg
-street: Eschenhofstraße
+street: "Eschenhofstraße"
 housenumber: 73
 phone: ""
 opening_hours: ""

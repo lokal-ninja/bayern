@@ -5,7 +5,7 @@ latitude: 47.5208589
 longitude: 10.273500700000001
 postcode: 87527
 city: Sonthofen
-street: An der Eisenschmelze
+street: "An der Eisenschmelze"
 housenumber: 4
 phone: ""
 opening_hours: ""

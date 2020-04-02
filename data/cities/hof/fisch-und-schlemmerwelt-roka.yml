@@ -5,7 +5,7 @@ latitude: 50.3119724
 longitude: 11.903719800000001
 postcode: 95030
 city: Hof
-street: Ossecker Straße
+street: "Ossecker Straße"
 housenumber: 30
 phone: "+4992815493840"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00; Mo-Sa 08:00-16:00"

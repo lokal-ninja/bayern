@@ -5,7 +5,7 @@ latitude: 48.1411856
 longitude: 11.5846406
 postcode: 80538
 city: München
-street: Seitzstraße
+street: "Seitzstraße"
 housenumber: 13
 phone: ""
 opening_hours: "Tu-Fr 10:30-17:00;Sa 10:00-14:00"

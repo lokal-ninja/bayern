@@ -5,7 +5,7 @@ latitude: 49.980395800000004
 longitude: 9.1537217
 postcode: 63739
 city: Aschaffenburg
-street: Merkelstraße
+street: "Merkelstraße"
 housenumber: 1a
 phone: "+49 6021 4442657"
 opening_hours: ""

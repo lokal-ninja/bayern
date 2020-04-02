@@ -5,7 +5,7 @@ latitude: 47.840385600000005
 longitude: 12.1134809
 postcode: 83026
 city: Rosenheim
-street: Mangfallstraße
+street: "Mangfallstraße"
 housenumber: 35
 phone: ""
 opening_hours: ""

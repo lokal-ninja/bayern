@@ -5,7 +5,7 @@ latitude: 49.9353324
 longitude: 11.576753
 postcode: 95447
 city: Bayreuth
-street: Herderstraße
+street: "Herderstraße"
 housenumber: 27
 phone: ""
 opening_hours: "nach Vereinbarung "

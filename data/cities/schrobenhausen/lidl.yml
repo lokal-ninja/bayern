@@ -5,7 +5,7 @@ latitude: 48.562848200000005
 longitude: 11.2556758
 postcode: 86529
 city: Schrobenhausen
-street: Bürgermeister-Götz-Straße
+street: "Bürgermeister-Götz-Straße"
 housenumber: 22
 phone: ""
 opening_hours: ""

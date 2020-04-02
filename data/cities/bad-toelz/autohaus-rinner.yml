@@ -5,7 +5,7 @@ latitude: 47.748905900000004
 longitude: 11.564805900000001
 postcode: 83646
 city: Bad Tölz
-street: Demmeljochstraße
+street: "Demmeljochstraße"
 housenumber: 50
 phone: ""
 opening_hours: ""

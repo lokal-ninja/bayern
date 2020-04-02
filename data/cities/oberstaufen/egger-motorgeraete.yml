@@ -5,7 +5,7 @@ latitude: 47.558691200000005
 longitude: 10.0281496
 postcode: 87534
 city: Oberstaufen
-street: Kalzhofer Straße
+street: "Kalzhofer Straße"
 housenumber: 26
 phone: "+49 8386 960433"
 opening_hours: ""

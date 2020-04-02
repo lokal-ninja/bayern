@@ -5,7 +5,7 @@ latitude: 49.5225073
 longitude: 11.3417106
 postcode: 91233
 city: Neunkirchen a. Sand
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 12
 phone: "+49 9153 92990"
 opening_hours: "Mo-Fr 08:00-11:45, 13:00-17:00; Sa 08:00-12:00"

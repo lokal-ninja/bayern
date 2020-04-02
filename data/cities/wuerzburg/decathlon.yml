@@ -5,7 +5,7 @@ latitude: 49.7972089
 longitude: 9.9909421
 postcode: 97076
 city: Würzburg
-street: Robert-Bunsen-Straße
+street: "Robert-Bunsen-Straße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Sa 09:00-20:00"

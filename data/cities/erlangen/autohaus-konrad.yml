@@ -5,7 +5,7 @@ latitude: 49.5753769
 longitude: 11.011524000000001
 postcode: 91052
 city: Erlangen
-street: Paul-Gossen-Straße
+street: "Paul-Gossen-Straße"
 housenumber: 116
 phone: "+49 9131 1209-0"
 opening_hours: ""

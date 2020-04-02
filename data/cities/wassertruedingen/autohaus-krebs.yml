@@ -5,7 +5,7 @@ latitude: 49.045766300000004
 longitude: 10.5993375
 postcode: 91717
 city: Wassertrüdingen
-street: Ansbacher Straße
+street: "Ansbacher Straße"
 housenumber: 18
 phone: "+499832 68350"
 opening_hours: "Mo-Fr 7:45-17:45; Sa 09:00-12:00"

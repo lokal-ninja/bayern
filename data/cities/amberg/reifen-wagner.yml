@@ -5,7 +5,7 @@ latitude: 49.441377800000005
 longitude: 11.842038500000001
 postcode: 92224
 city: Amberg
-street: Gerberstraße
+street: "Gerberstraße"
 housenumber: 1a
 phone: ""
 opening_hours: ""

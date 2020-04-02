@@ -5,7 +5,7 @@ latitude: 48.3785563
 longitude: 10.8894757
 postcode: 86153
 city: Augsburg
-street: Heinrich-von-Buz-Straße
+street: "Heinrich-von-Buz-Straße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00; Dec 24 07:00-14:00; Dec 31 07:00-16:00; PH off"

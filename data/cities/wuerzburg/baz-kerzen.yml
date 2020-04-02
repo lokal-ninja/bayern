@@ -5,7 +5,7 @@ latitude: 49.784009100000006
 longitude: 9.952870200000001
 postcode: 97074
 city: Würzburg
-street: Zeppelinstraße
+street: "Zeppelinstraße"
 housenumber: 58
 phone: ""
 opening_hours: "Mo-Fr 08:30-18:00; Sa 10:00-13:00"

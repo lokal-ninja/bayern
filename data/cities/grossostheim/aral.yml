@@ -5,7 +5,7 @@ latitude: 49.9266123
 longitude: 9.0794996
 postcode: 63762
 city: Großostheim
-street: Aschaffenburger Straße
+street: "Aschaffenburger Straße"
 housenumber: 33
 phone: ""
 opening_hours: "Mo-Fr 06:00-21:00; Sa 07:00-21:00; Su 08:00-21:00"

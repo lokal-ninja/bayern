@@ -5,7 +5,7 @@ latitude: 49.713926400000005
 longitude: 9.238824600000001
 postcode: 63920
 city: Großheubach
-street: Auweg
+street: "Auweg"
 housenumber: 25
 phone: ""
 opening_hours: ""

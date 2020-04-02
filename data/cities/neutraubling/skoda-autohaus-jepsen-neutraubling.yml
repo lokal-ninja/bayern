@@ -5,7 +5,7 @@ latitude: 48.988978100000004
 longitude: 12.219893800000001
 postcode: 93073
 city: Neutraubling
-street: Rosenhofer Straße
+street: "Rosenhofer Straße"
 housenumber: 2a
 phone: "+49 9401 93980"
 opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00"

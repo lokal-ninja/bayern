@@ -5,7 +5,7 @@ latitude: 47.845246100000004
 longitude: 12.1353282
 postcode: 83026
 city: Rosenheim
-street: Theodor-Gietl-Straße
+street: "Theodor-Gietl-Straße"
 housenumber: 13
 phone: ""
 opening_hours: ""

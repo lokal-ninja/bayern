@@ -5,7 +5,7 @@ latitude: 48.0844789
 longitude: 11.4943472
 postcode: 81476
 city: München
-street: Forstenrieder Allee
+street: "Forstenrieder Allee"
 housenumber: 186
 phone: ""
 opening_hours: "Nach Vereinbarung"

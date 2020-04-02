@@ -5,7 +5,7 @@ latitude: 48.0991075
 longitude: 11.653322300000001
 postcode: 81737
 city: München
-street: Sudermannallee
+street: "Sudermannallee"
 housenumber: 22
 phone: ""
 opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00-16:00"

@@ -5,7 +5,7 @@ latitude: 49.304088
 longitude: 10.5751515
 postcode: 91522
 city: Ansbach
-street: Fischstraße
+street: "Fischstraße"
 housenumber: 7-9
 phone: ""
 opening_hours: "Mo off; Tu-Fr 10:00-19:30; Sa 10:00-18:00"

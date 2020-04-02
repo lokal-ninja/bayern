@@ -5,7 +5,7 @@ latitude: 49.791395900000005
 longitude: 9.492226800000001
 postcode: 97907
 city: Hasloch
-street: Brunngasse
+street: "Brunngasse"
 housenumber: 5
 phone: ""
 opening_hours: ""

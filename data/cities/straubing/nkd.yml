@@ -5,7 +5,7 @@ latitude: 48.8754987
 longitude: 12.5745289
 postcode: 94315
 city: Straubing
-street: Hebbelstraße
+street: "Hebbelstraße"
 housenumber: 14
 phone: "+49 9421 182186"
 opening_hours: "Mo-Sa 09:00-19:00"

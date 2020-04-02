@@ -5,7 +5,7 @@ latitude: 49.509475300000005
 longitude: 11.427014600000001
 postcode: 91217
 city: Hersbruck
-street: Nürnberger Straße
+street: "Nürnberger Straße"
 housenumber: 5
 phone: ""
 opening_hours: ""

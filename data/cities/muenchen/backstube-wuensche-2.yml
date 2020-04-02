@@ -5,7 +5,7 @@ latitude: 48.119551300000005
 longitude: 11.6866421
 postcode: 81827
 city: München
-street: Schwablhofstraße
+street: "Schwablhofstraße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00; Su 08:00-11:00"

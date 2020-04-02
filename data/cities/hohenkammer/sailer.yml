@@ -5,7 +5,7 @@ latitude: 48.431630000000006
 longitude: 11.514436700000001
 postcode: 85411
 city: Hohenkammer
-street: Untermarbach
+street: "Untermarbach"
 housenumber: 14
 phone: "+49 (0)8137 939425"
 opening_hours: ""

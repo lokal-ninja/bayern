@@ -5,7 +5,7 @@ latitude: 48.2358763
 longitude: 12.547327500000002
 postcode: 84453
 city: Mühldorf an der Inn
-street: Rheinstraße
+street: "Rheinstraße"
 housenumber: 50
 phone: "+49 (8631) 98678-0"
 opening_hours: "Mo-Fr 10:00-20:00; Sa 09:00-19:00"

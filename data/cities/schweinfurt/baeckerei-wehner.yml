@@ -5,7 +5,7 @@ latitude: 50.044781500000006
 longitude: 10.2304843
 postcode: 97421
 city: Schweinfurt
-street: Manggasse
+street: "Manggasse"
 housenumber: 
 phone: ""
 opening_hours: ""

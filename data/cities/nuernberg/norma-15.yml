@@ -5,7 +5,7 @@ latitude: 49.4646661
 longitude: 11.1024764
 postcode: 90489
 city: Nürnberg
-street: Welserstraße
+street: "Welserstraße"
 housenumber: 42
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

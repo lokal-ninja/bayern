@@ -5,7 +5,7 @@ latitude: 49.014463000000006
 longitude: 12.057974000000002
 postcode: 93049
 city: Regensburg
-street: Lilienthalstraße
+street: "Lilienthalstraße"
 housenumber: 6
 phone: "+49 1520 680 1753"
 opening_hours: "We 17:30-19:00, Sa 10:00-11:30 Unterricht"

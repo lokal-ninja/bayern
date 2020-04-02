@@ -5,7 +5,7 @@ latitude: 47.841356100000006
 longitude: 11.144938000000002
 postcode: 82362
 city: Weilheim in Oberbayern
-street: Krumpperstraße
+street: "Krumpperstraße"
 housenumber: 12
 phone: "+49 881 92740"
 opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00; PH off"

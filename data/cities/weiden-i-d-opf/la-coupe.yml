@@ -5,7 +5,7 @@ latitude: 49.6704049
 longitude: 12.16027
 postcode: 92637
 city: Weiden i.d.OPf.
-street: Dr.-Pfleger-Straße
+street: "Dr.-Pfleger-Straße"
 housenumber: 26
 phone: ""
 opening_hours: ""

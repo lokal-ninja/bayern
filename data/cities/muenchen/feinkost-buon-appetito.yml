@@ -5,7 +5,7 @@ latitude: 48.140062400000005
 longitude: 11.5883052
 postcode: 80538
 city: München
-street: Triftstraße
+street: "Triftstraße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo,Tu,Th,Fr 08:00-18:30, Sa 08:00-12:30"

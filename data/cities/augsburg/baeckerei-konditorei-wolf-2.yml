@@ -5,7 +5,7 @@ latitude: 48.3720609
 longitude: 10.8622384
 postcode: 86156
 city: Augsburg
-street: Luther-King-Straße
+street: "Luther-King-Straße"
 housenumber: 4
 phone: "+49 821 4550047"
 opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-17:00; Su 08:00-17:00"

@@ -5,7 +5,7 @@ latitude: 48.253134100000004
 longitude: 12.687463800000002
 postcode: 84543
 city: Winhöring
-street: August-Unterholzner-Straße
+street: "August-Unterholzner-Straße"
 housenumber: 4
 phone: "+49 8671 4030085"
 opening_hours: "Mar-Sep Mo 09:00-18:00; Mar-Sep Tu-Fr 08:00-18:00; Oct-Feb Mo-Fr 09:00-17:30; Sa 09:00-12:00; Su,PH off"

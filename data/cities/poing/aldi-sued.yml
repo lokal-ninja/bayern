@@ -5,7 +5,7 @@ latitude: 48.1721967
 longitude: 11.807176400000001
 postcode: 85586
 city: Poing
-street: Bürgerstraße
+street: "Bürgerstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

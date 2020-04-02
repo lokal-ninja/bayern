@@ -5,7 +5,7 @@ latitude: 49.1764646
 longitude: 12.857675
 postcode: 93444
 city: Bad Kötzting
-street: Jahnstraße
+street: "Jahnstraße"
 housenumber: 11-15
 phone: "+49 9941 1321"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 9:00-13:00"

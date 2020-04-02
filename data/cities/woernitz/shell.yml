@@ -5,7 +5,7 @@ latitude: 49.2592124
 longitude: 10.235547200000001
 postcode: 91637
 city: Wörnitz
-street: Bastenauer Straße
+street: "Bastenauer Straße"
 housenumber: 12
 phone: ""
 opening_hours: "24/7"

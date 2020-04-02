@@ -5,7 +5,7 @@ latitude: 48.1289713
 longitude: 11.603296400000001
 postcode: 81667
 city: München
-street: Orleansplatz
+street: "Orleansplatz"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-15:00"

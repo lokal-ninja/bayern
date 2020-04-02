@@ -5,7 +5,7 @@ latitude: 48.091044800000006
 longitude: 10.4314075
 postcode: 87769
 city: Oberrieden
-street: Egelhofer Weg
+street: "Egelhofer Weg"
 housenumber: 4
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 50.2575489
 longitude: 10.930185700000001
 postcode: 96450
 city: Coburg
-street: Von-Merklin-Straße
+street: "Von-Merklin-Straße"
 housenumber: 4
 phone: "+49 9561 37748"
 opening_hours: ""

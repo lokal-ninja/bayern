@@ -5,7 +5,7 @@ latitude: 47.8431122
 longitude: 11.149258900000001
 postcode: 82362
 city: Weilheim in Oberbayern
-street: Kaltenmoserstraße
+street: "Kaltenmoserstraße"
 housenumber: 28
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

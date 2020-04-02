@@ -5,7 +5,7 @@ latitude: 48.168384200000006
 longitude: 11.644072900000001
 postcode: 81927
 city: München
-street: Freischützstraße
+street: "Freischützstraße"
 housenumber: 98
 phone: "+49 89 93938700"
 opening_hours: "Tu-Fr 11:00-19:00; Sa 11:00-15:00"

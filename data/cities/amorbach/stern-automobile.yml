@@ -5,7 +5,7 @@ latitude: 49.646135900000004
 longitude: 9.218395300000001
 postcode: 63916
 city: Amorbach
-street: Miltenberger Straße
+street: "Miltenberger Straße"
 housenumber: 33
 phone: ""
 opening_hours: ""

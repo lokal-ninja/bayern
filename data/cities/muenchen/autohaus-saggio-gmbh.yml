@@ -5,7 +5,7 @@ latitude: 48.1381462
 longitude: 11.641130200000001
 postcode: 81677
 city: München
-street: Zamdorfer Straße
+street: "Zamdorfer Straße"
 housenumber: 86
 phone: "+49 89 9090036 0"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.399117600000004
 longitude: 11.770886
 postcode: 85356
 city: Freising
-street: Falkenstraße
+street: "Falkenstraße"
 housenumber: 5
 phone: "+49 8161 8627 265"
 opening_hours: ""

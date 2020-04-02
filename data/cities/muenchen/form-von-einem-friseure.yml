@@ -5,7 +5,7 @@ latitude: 48.1132338
 longitude: 11.5385387
 postcode: 81369
 city: München
-street: Engelhardstraße
+street: "Engelhardstraße"
 housenumber: 10
 phone: "+49 89 76701660"
 opening_hours: ""

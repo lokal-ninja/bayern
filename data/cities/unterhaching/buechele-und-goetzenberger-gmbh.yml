@@ -5,7 +5,7 @@ latitude: 48.0569323
 longitude: 11.5987053
 postcode: 82008
 city: Unterhaching
-street: Grünwalder Weg
+street: "Grünwalder Weg"
 housenumber: 44
 phone: "+49 89 66 55 99 - 11"
 opening_hours: ""

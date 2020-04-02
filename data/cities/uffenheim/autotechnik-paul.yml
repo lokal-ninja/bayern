@@ -5,7 +5,7 @@ latitude: 49.547873900000006
 longitude: 10.2221363
 postcode: 97215
 city: Uffenheim
-street: Buchenweg
+street: "Buchenweg"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Fr 07:30-12:00,12:45-18:00; Sa 08:00-12:00"

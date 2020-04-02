@@ -5,7 +5,7 @@ latitude: 48.5708087
 longitude: 13.466989600000002
 postcode: 94032
 city: Passau
-street: Schmiedgasse
+street: "Schmiedgasse"
 housenumber: 8
 phone: ""
 opening_hours: ""

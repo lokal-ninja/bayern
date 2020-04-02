@@ -5,7 +5,7 @@ latitude: 48.1585568
 longitude: 11.3217903
 postcode: 82223
 city: Eichenau
-street: Max-Planck-Straße
+street: "Max-Planck-Straße"
 housenumber: 8
 phone: "+49 8141 5372554"
 opening_hours: ""

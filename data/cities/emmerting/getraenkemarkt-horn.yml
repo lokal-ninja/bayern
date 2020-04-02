@@ -5,7 +5,7 @@ latitude: 48.2016288
 longitude: 12.769832500000001
 postcode: 84547
 city: Emmerting
-street: Sternstraße
+street: "Sternstraße"
 housenumber: 21
 phone: "+49 8679 911306"
 opening_hours: "Mo-Fr 08:00-12:30, Mo-Fr 13:30-18:00, Sa 08:00-12:00"

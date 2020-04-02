@@ -5,7 +5,7 @@ latitude: 47.7787209
 longitude: 12.449912900000001
 postcode: 83224
 city: Grassau
-street: Kirchplatz
+street: "Kirchplatz"
 housenumber: 11
 phone: "+49 8641 2054"
 opening_hours: ""

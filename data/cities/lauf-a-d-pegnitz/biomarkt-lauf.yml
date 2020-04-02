@@ -5,7 +5,7 @@ latitude: 49.513911300000004
 longitude: 11.2830078
 postcode: 91207
 city: Lauf a.d.Pegnitz
-street: Simonshofer Straße
+street: "Simonshofer Straße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-14:00"

@@ -5,7 +5,7 @@ latitude: 50.3195192
 longitude: 11.901821100000001
 postcode: 95030
 city: Hof
-street: Ernst-Reuter-Straße
+street: "Ernst-Reuter-Straße"
 housenumber: 107
 phone: ""
 opening_hours: ""

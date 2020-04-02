@@ -5,7 +5,7 @@ latitude: 48.072097400000004
 longitude: 11.374672100000002
 postcode: 82131
 city: Gauting
-street: Pippinplatz
+street: "Pippinplatz"
 housenumber: 3
 phone: "+49 (0)89 89305542"
 opening_hours: ""

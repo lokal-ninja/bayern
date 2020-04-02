@@ -5,7 +5,7 @@ latitude: 49.462177100000005
 longitude: 11.0496175
 postcode: 90419
 city: Nürnberg
-street: Nordwestring
+street: "Nordwestring"
 housenumber: 77
 phone: ""
 opening_hours: ""

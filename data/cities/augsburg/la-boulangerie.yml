@@ -5,7 +5,7 @@ latitude: 48.3546825
 longitude: 10.9220632
 postcode: 86161
 city: Augsburg
-street: Elsenbornstraße
+street: "Elsenbornstraße"
 housenumber: 3
 phone: "+49 821 56974776"
 opening_hours: "Tu-Fr 07:00-18:00; Sa,Su,PH 07:00-17:00"

@@ -5,7 +5,7 @@ latitude: 49.482230300000005
 longitude: 11.1199572
 postcode: 90411
 city: Nürnberg
-street: Neumeyerstraße
+street: "Neumeyerstraße"
 housenumber: 21
 phone: "+49 911 59058530"
 opening_hours: "Mo-Sa 09:00-20:00"

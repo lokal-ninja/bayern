@@ -5,7 +5,7 @@ latitude: 48.3685704
 longitude: 10.891672400000001
 postcode: 86150
 city: Augsburg
-street: Schaezlerstraße
+street: "Schaezlerstraße"
 housenumber: 17
 phone: ""
 opening_hours: ""

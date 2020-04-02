@@ -5,7 +5,7 @@ latitude: 47.5059771
 longitude: 10.3681184
 postcode: 87541
 city: Bad Hindelang
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 31
 phone: ""
 opening_hours: "Mo-Fr 09:00-12:30, Mo-Th, Th-Fr 14:00-18:00; Sa 09:00-13:00"

@@ -5,7 +5,7 @@ latitude: 48.0946669
 longitude: 11.499160300000002
 postcode: 81476
 city: München
-street: Züricher Straße
+street: "Züricher Straße"
 housenumber: 37
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

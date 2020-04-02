@@ -5,7 +5,7 @@ latitude: 49.4277255
 longitude: 11.061116400000001
 postcode: 90441
 city: Nürnberg
-street: Heisterstraße
+street: "Heisterstraße"
 housenumber: 6-10
 phone: "+49 911 42360"
 opening_hours: ""

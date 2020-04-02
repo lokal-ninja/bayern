@@ -5,7 +5,7 @@ latitude: 49.0800427
 longitude: 12.8856233
 postcode: 94234
 city: Viechtach
-street: Stadtplatz
+street: "Stadtplatz"
 housenumber: 12
 phone: "+49 9942 902626"
 opening_hours: "Mo-Fr 14:30-18:30; Sa 09:00-14:00"

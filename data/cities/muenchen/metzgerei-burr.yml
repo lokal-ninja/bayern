@@ -5,7 +5,7 @@ latitude: 48.154950500000005
 longitude: 11.565420300000001
 postcode: 80798
 city: München
-street: Görresstraße
+street: "Görresstraße"
 housenumber: 15
 phone: "+49 89 523 150 80"
 opening_hours: "Mo-Fr 07:30-18:30; Sa 07:30-13:00"

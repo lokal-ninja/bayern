@@ -5,7 +5,7 @@ latitude: 48.147303900000004
 longitude: 11.7352728
 postcode: 85622
 city: Feldkirchen
-street: Hohenlindner Straße
+street: "Hohenlindner Straße"
 housenumber: 24
 phone: ""
 opening_hours: ""

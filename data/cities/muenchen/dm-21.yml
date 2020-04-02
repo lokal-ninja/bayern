@@ -5,7 +5,7 @@ latitude: 48.136938
 longitude: 11.5643484
 postcode: 
 city: München
-street: Sonnenstraße
+street: "Sonnenstraße"
 housenumber: 12
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

@@ -5,7 +5,7 @@ latitude: 49.8502037
 longitude: 9.0881886
 postcode: 63853
 city: Mömlingen
-street: Obernburger Straße
+street: "Obernburger Straße"
 housenumber: 44
 phone: "+49 6022 680700"
 opening_hours: "Mo-Sa 08:00-20:00"

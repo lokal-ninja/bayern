@@ -5,7 +5,7 @@ latitude: 49.458187800000005
 longitude: 11.2807151
 postcode: 91227
 city: Leinburg
-street: Reichswaldstraße
+street: "Reichswaldstraße"
 housenumber: 6
 phone: "+49 9120 181795"
 opening_hours: ""

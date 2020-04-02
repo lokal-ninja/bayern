@@ -5,7 +5,7 @@ latitude: 48.066332800000005
 longitude: 11.6891639
 postcode: 85521
 city: Ottobrunn
-street: Lenbachallee
+street: "Lenbachallee"
 housenumber: 36
 phone: "+49 175 6352028"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.1705911
 longitude: 12.825742700000001
 postcode: 84489
 city: Burghausen
-street: Robert-Koch-Straße
+street: "Robert-Koch-Straße"
 housenumber: 58-62
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

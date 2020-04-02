@@ -5,7 +5,7 @@ latitude: 48.4187972
 longitude: 10.1548704
 postcode: 89278
 city: Nersingen
-street: Eichendorffstraße
+street: "Eichendorffstraße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Fr 08:00-17:00"

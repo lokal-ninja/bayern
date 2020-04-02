@@ -5,7 +5,7 @@ latitude: 48.166198
 longitude: 10.827020000000001
 postcode: 86836
 city: Untermeitingen
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 3
 phone: "+498232908600"
 opening_hours: ""

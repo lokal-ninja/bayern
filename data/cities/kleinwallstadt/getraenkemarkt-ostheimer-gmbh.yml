@@ -5,7 +5,7 @@ latitude: 49.876285700000004
 longitude: 9.1670158
 postcode: 63839
 city: Kleinwallstadt
-street: Frühlingstraße
+street: "Frühlingstraße"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:30, Sa 08:00 -16:00"

@@ -5,7 +5,7 @@ latitude: 50.0669459
 longitude: 10.2251071
 postcode: 97456
 city: Dittelbrunn
-street: Am Steingraben
+street: "Am Steingraben"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00; Su off"

@@ -5,7 +5,7 @@ latitude: 48.8903843
 longitude: 11.187439000000001
 postcode: 85072
 city: Eichstätt
-street: Ostenstraße
+street: "Ostenstraße"
 housenumber: 5
 phone: "+49 8421 7782"
 opening_hours: ""

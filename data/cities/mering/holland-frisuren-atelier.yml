@@ -5,7 +5,7 @@ latitude: 48.280093400000005
 longitude: 10.970752300000001
 postcode: 86415
 city: Mering
-street: Marienplatz
+street: "Marienplatz"
 housenumber: 7
 phone: ""
 opening_hours: "Tu-Th 08:00-12:00,14:00-17:00; Fr 08:00-12:00,14:00-18:00; Sa 08:00-12:00; Mo,PH off"

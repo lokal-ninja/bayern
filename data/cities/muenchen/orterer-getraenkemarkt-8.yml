@@ -5,7 +5,7 @@ latitude: 48.105122800000004
 longitude: 11.604158
 postcode: 81549
 city: München
-street: Balanstraße
+street: "Balanstraße"
 housenumber: 202
 phone: "+49 89 62899160"
 opening_hours: "Mo-Sa 08:00-20:00"

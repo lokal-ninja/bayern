@@ -5,7 +5,7 @@ latitude: 48.1464257
 longitude: 11.570446500000001
 postcode: 80333
 city: München
-street: Barer Straße
+street: "Barer Straße"
 housenumber: 36
 phone: ""
 opening_hours: "Tu-We 11:00-19:00; Th 14:00-20:00; Fr 11:00-19:00; Sa 11:00-18:00"

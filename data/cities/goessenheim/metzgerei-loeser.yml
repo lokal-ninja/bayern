@@ -5,7 +5,7 @@ latitude: 50.020893300000004
 longitude: 9.7800097
 postcode: 97780
 city: Gössenheim
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 
 phone: ""
 opening_hours: ""

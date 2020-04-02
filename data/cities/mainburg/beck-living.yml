@@ -5,7 +5,7 @@ latitude: 48.644598300000006
 longitude: 11.7865021
 postcode: 84048
 city: Mainburg
-street: Abensberger Straße
+street: "Abensberger Straße"
 housenumber: 29
 phone: "+49 8751 1379"
 opening_hours: "Mo-We 08:00-18:00; Th-Fr 08:00-19:00; Sa 08:00-15:00; Su off"

@@ -5,7 +5,7 @@ latitude: 49.637652100000004
 longitude: 10.707662800000001
 postcode: 91462
 city: Dachsbach
-street: Nelkenstraße
+street: "Nelkenstraße"
 housenumber: 3
 phone: ""
 opening_hours: ""

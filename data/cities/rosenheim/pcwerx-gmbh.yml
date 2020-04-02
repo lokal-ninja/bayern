@@ -5,7 +5,7 @@ latitude: 47.854485800000006
 longitude: 12.119991500000001
 postcode: 83022
 city: Rosenheim
-street: Am Roßacker
+street: "Am Roßacker"
 housenumber: 13
 phone: ""
 opening_hours: ""

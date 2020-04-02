@@ -5,7 +5,7 @@ latitude: 49.790460200000005
 longitude: 10.0317305
 postcode: 97228
 city: Rottendorf
-street: Zeppelinstraße
+street: "Zeppelinstraße"
 housenumber: 3
 phone: "+49-9302-1030"
 opening_hours: ""

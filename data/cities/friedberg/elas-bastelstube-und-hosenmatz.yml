@@ -5,7 +5,7 @@ latitude: 48.3496241
 longitude: 10.987943300000001
 postcode: 86316
 city: Friedberg
-street: Mergenthauer Weg
+street: "Mergenthauer Weg"
 housenumber: 20
 phone: ""
 opening_hours: ""

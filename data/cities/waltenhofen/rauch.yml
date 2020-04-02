@@ -5,7 +5,7 @@ latitude: 47.6929352
 longitude: 10.317189800000001
 postcode: 87448
 city: Waltenhofen
-street: Metzgergasse
+street: "Metzgergasse"
 housenumber: 7
 phone: ""
 opening_hours: ""

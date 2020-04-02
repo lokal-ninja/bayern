@@ -5,7 +5,7 @@ latitude: 47.7496171
 longitude: 11.380294300000001
 postcode: 82377
 city: Penzberg
-street: Bürgermeister-Rummer-Straße
+street: "Bürgermeister-Rummer-Straße"
 housenumber: 12
 phone: "+49 (0) 8856 / 9367979"
 opening_hours: "Mo-Fr 08:30-18:30; Sa 08:30-12:00; PH off"

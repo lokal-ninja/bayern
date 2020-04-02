@@ -5,7 +5,7 @@ latitude: 48.775803100000005
 longitude: 12.843486400000002
 postcode: 94447
 city: Plattling
-street: Eduard-Stanglmeier-Straße
+street: "Eduard-Stanglmeier-Straße"
 housenumber: 32
 phone: "+49-9931-91810"
 opening_hours: ""

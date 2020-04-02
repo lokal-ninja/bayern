@@ -5,7 +5,7 @@ latitude: 49.69366470000001
 longitude: 12.163051600000001
 postcode: 92637
 city: Weiden i.d.OPf.
-street: Liebigstraße
+street: "Liebigstraße"
 housenumber: 4a
 phone: ""
 opening_hours: ""

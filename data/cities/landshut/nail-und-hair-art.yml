@@ -5,7 +5,7 @@ latitude: 48.5448838
 longitude: 12.143474000000001
 postcode: 84034
 city: Landshut
-street: Seligenthaler Straße
+street: "Seligenthaler Straße"
 housenumber: 25
 phone: ""
 opening_hours: ""

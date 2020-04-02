@@ -5,7 +5,7 @@ latitude: 48.1506599
 longitude: 11.2592663
 postcode: 82239
 city: Alling
-street: Angerstraße
+street: "Angerstraße"
 housenumber: 13
 phone: ""
 opening_hours: "Mo-Th 07:30-17:00; Fr 07:30-14:00"

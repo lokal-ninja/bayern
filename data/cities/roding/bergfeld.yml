@@ -5,7 +5,7 @@ latitude: 49.194528500000004
 longitude: 12.517278600000001
 postcode: 93426
 city: Roding
-street: Falkensteiner Straße
+street: "Falkensteiner Straße"
 housenumber: 7
 phone: ""
 opening_hours: ""

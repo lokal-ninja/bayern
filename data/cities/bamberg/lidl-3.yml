@@ -5,7 +5,7 @@ latitude: 49.9022146
 longitude: 10.865633800000001
 postcode: 96049
 city: Bamberg
-street: Gaustadter Hauptstraße
+street: "Gaustadter Hauptstraße"
 housenumber: 109b
 phone: ""
 opening_hours: ""

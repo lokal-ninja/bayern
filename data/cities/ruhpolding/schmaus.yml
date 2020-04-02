@@ -5,7 +5,7 @@ latitude: 47.762323900000005
 longitude: 12.646372300000001
 postcode: 83324
 city: Ruhpolding
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 50
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.188650200000005
 longitude: 11.1933495
 postcode: 91161
 city: Hilpoltstein
-street: Kolpingstraße
+street: "Kolpingstraße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo, We-Fr 09:00-20:00; Sa 09:00-16:00; Tu off"

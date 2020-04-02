@@ -5,7 +5,7 @@ latitude: 50.0447587
 longitude: 10.232848200000001
 postcode: 97421
 city: Schweinfurt
-street: Keßlergasse
+street: "Keßlergasse"
 housenumber: 16
 phone: "+49 09721 28700"
 opening_hours: "Mo-Fr 09:30-18:00, Sa 09:30-14:00"

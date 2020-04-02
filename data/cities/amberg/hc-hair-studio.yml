@@ -5,7 +5,7 @@ latitude: 49.4428233
 longitude: 11.8741906
 postcode: 92224
 city: Amberg
-street: Bäumlstraße
+street: "Bäumlstraße"
 housenumber: 10
 phone: ""
 opening_hours: ""

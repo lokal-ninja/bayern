@@ -5,7 +5,7 @@ latitude: 48.1195231
 longitude: 11.6520702
 postcode: 81825
 city: München
-street: Groschenweg
+street: "Groschenweg"
 housenumber: 1
 phone: "+49 89 603014"
 opening_hours: "Nach telefonischer Vereinbarung"

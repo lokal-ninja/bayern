@@ -5,7 +5,7 @@ latitude: 50.263385500000005
 longitude: 11.931848400000002
 postcode: 95145
 city: Oberkotzau
-street: Hofer Straße
+street: "Hofer Straße"
 housenumber: 10
 phone: "+49 9286 324"
 opening_hours: ""

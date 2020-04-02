@@ -5,7 +5,7 @@ latitude: 49.283154200000006
 longitude: 11.4559701
 postcode: 92318
 city: Neumarkt in der Oberpfalz
-street: Dammstraße
+street: "Dammstraße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:30"

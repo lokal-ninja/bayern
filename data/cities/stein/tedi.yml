@@ -5,7 +5,7 @@ latitude: 49.4145497
 longitude: 11.015819
 postcode: 90547
 city: Stein
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 24
 phone: ""
 opening_hours: "Mo-Sa 09:00-20:00"

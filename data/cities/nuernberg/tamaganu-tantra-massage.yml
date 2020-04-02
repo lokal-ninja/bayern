@@ -5,7 +5,7 @@ latitude: 49.467072800000004
 longitude: 11.0695492
 postcode: 90408
 city: Nürnberg
-street: Gärtnerstraße
+street: "Gärtnerstraße"
 housenumber: 21
 phone: ""
 opening_hours: ""

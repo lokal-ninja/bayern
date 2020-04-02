@@ -5,7 +5,7 @@ latitude: 48.530644
 longitude: 11.531570400000001
 postcode: 85276
 city: Pfaffenhofen a.d. Ilm
-street: Max-Weinberger-Straße
+street: "Max-Weinberger-Straße"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off"

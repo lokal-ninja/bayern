@@ -5,7 +5,7 @@ latitude: 49.9805652
 longitude: 11.6099698
 postcode: 95463
 city: Bindlach
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 7
 phone: ""
 opening_hours: "Mo,Sa 05:30-12:00; Tu 05:30-14:00; We-Fr 05:30-18:00; Su 07:00-17:00; PH off"

@@ -5,7 +5,7 @@ latitude: 48.5151051
 longitude: 10.948656300000001
 postcode: 86447
 city: Aindling
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 37
 phone: ""
 opening_hours: ""

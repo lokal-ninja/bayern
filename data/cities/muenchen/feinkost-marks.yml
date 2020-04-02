@@ -5,7 +5,7 @@ latitude: 48.1496416
 longitude: 11.6021633
 postcode: 81679
 city: München
-street: Kufsteiner Platz
+street: "Kufsteiner Platz"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00, Sa 08:00-15:00"

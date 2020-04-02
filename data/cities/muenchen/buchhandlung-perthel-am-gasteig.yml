@@ -5,7 +5,7 @@ latitude: 48.1313911
 longitude: 11.5894635
 postcode: 81669
 city: München
-street: Rosenheimer Straße
+street: "Rosenheimer Straße"
 housenumber: 12
 phone: "+49 (0)89- 45 87 99 09"
 opening_hours: "Mo-Fr,Sa 08:00-20:00 unknown Begin der Öffungszeiten ungewiss. 20 Uhr Schließung"

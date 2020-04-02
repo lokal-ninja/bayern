@@ -5,7 +5,7 @@ latitude: 48.1354285
 longitude: 11.5858299
 postcode: 80538
 city: München
-street: Adelgundenstraße
+street: "Adelgundenstraße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Sa 11:00-14:30,16:30-20:00"

@@ -5,7 +5,7 @@ latitude: 49.584597900000006
 longitude: 11.0056066
 postcode: 91052
 city: Erlangen
-street: Karl-Zucker-Straße
+street: "Karl-Zucker-Straße"
 housenumber: 7-9
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

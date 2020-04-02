@@ -5,7 +5,7 @@ latitude: 50.0293125
 longitude: 10.2022881
 postcode: 97424
 city: Schweinfurt
-street: Engelbert-Fries-Straße
+street: "Engelbert-Fries-Straße"
 housenumber: 7
 phone: ""
 opening_hours: ""

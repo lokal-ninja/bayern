@@ -5,7 +5,7 @@ latitude: 49.177114700000004
 longitude: 11.0109402
 postcode: 91166
 city: Georgensgmünd
-street: Pleinfelder Straße
+street: "Pleinfelder Straße"
 housenumber: 66b
 phone: "+49 9172 6859432"
 opening_hours: "Mo-Sa 08:00-20:00"

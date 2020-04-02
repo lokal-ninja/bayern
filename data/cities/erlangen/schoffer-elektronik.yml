@@ -5,7 +5,7 @@ latitude: 49.5898799
 longitude: 11.0066973
 postcode: 91052
 city: Erlangen
-street: Beethovenstraße
+street: "Beethovenstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 09:00-12:30,13:30-18:00, Sa 09:30-13:00"

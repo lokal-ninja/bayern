@@ -5,7 +5,7 @@ latitude: 48.9229068
 longitude: 12.0058102
 postcode: 93077
 city: Bad Abbach
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 1
 phone: "+49  94 05  95 95-0"
 opening_hours: "Mo-Fr 10:00-17:00; Sa 10:00-13:00"

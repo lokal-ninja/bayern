@@ -5,7 +5,7 @@ latitude: 49.975211
 longitude: 9.1485845
 postcode: 63739
 city: Aschaffenburg
-street: Badergasse
+street: "Badergasse"
 housenumber: 16
 phone: ""
 opening_hours: "Tu-Th 09:00-19:00;Fr 08:00-20:00;Sa 08:00-16:00"

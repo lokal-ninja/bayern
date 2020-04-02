@@ -5,7 +5,7 @@ latitude: 49.066033600000004
 longitude: 10.3328357
 postcode: 91550
 city: Dinkelsbühl
-street: Augsburger Straße
+street: "Augsburger Straße"
 housenumber: 1
 phone: "+49 9851 57130"
 opening_hours: ""

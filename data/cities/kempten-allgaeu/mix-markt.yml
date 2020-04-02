@@ -5,7 +5,7 @@ latitude: 47.737835700000005
 longitude: 10.2900541
 postcode: 87439
 city: Kempten (Allgäu)
-street: Schwalbenweg
+street: "Schwalbenweg"
 housenumber: 71
 phone: "+49 831 5127805"
 opening_hours: "Mo-Sa 08:00-19:00"

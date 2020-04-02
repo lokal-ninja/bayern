@@ -5,7 +5,7 @@ latitude: 48.1789228
 longitude: 11.5735091
 postcode: 80807
 city: München
-street: Knorrstraße
+street: "Knorrstraße"
 housenumber: 6
 phone: "+49 (0) 89/35063630"
 opening_hours: "Mo-Th 09:00-13:00,15:00-18:00; Fr 09:00-14:00"

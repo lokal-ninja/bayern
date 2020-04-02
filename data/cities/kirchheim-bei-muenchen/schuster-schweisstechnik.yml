@@ -5,7 +5,7 @@ latitude: 48.176235600000005
 longitude: 11.7678179
 postcode: 85551
 city: Kirchheim bei München
-street: Henschelring
+street: "Henschelring"
 housenumber: 7
 phone: "+49 8990 32093"
 opening_hours: ""

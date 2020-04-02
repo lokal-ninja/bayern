@@ -5,7 +5,7 @@ latitude: 48.338592600000005
 longitude: 10.446925100000001
 postcode: 89349
 city: Burtenbach
-street: Weg zur Walk
+street: "Weg zur Walk"
 housenumber: 4
 phone: "+49  8285 245"
 opening_hours: ""

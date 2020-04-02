@@ -5,7 +5,7 @@ latitude: 49.450926100000004
 longitude: 11.073675900000001
 postcode: 90402
 city: Nürnberg
-street: Karolinenstraße
+street: "Karolinenstraße"
 housenumber: 53
 phone: "+49 911 992080"
 opening_hours: "Mo-Sa 10:00-20:00"

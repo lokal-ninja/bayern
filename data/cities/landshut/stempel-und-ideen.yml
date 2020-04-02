@@ -5,7 +5,7 @@ latitude: 48.537510000000005
 longitude: 12.151672000000001
 postcode: 84028
 city: Landshut
-street: Ländgasse
+street: "Ländgasse"
 housenumber: 110
 phone: ""
 opening_hours: "Tu-Fr 10:00-13:30, 14:30-18:00; Sa 10:00-14:00"

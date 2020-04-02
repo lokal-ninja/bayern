@@ -5,7 +5,7 @@ latitude: 49.5047153
 longitude: 11.741726300000002
 postcode: 92237
 city: Sulzbach-Rosenberg
-street: Neutorgasse
+street: "Neutorgasse"
 housenumber: 14
 phone: ""
 opening_hours: "Mo-Fr 09:00-12:00; Mo-Fr 14:00-19:00;Sa 09:00-13:00"

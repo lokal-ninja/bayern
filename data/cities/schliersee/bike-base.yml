@@ -5,7 +5,7 @@ latitude: 47.704644900000005
 longitude: 11.8765829
 postcode: 83727
 city: Schliersee
-street: Neuhauser Straße
+street: "Neuhauser Straße"
 housenumber: 36
 phone: "+49 (0)8026 9279441"
 opening_hours: "Mo,We,Fr 14:00-18:00; Sa 09:00-12:00"

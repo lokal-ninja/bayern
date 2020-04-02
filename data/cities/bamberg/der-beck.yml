@@ -5,7 +5,7 @@ latitude: 49.886797800000004
 longitude: 10.9204599
 postcode: 96050
 city: Bamberg
-street: Von-Ketteler-Straße
+street: "Von-Ketteler-Straße"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Fr 05:30-19:00; Sa 05:30-18:00; Su 07:00-18:00"

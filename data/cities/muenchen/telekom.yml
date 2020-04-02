@@ -5,7 +5,7 @@ latitude: 48.1152498
 longitude: 11.5799891
 postcode: 81541
 city: München
-street: Tegernseer Platz
+street: "Tegernseer Platz"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-14:00"

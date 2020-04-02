@@ -5,7 +5,7 @@ latitude: 48.544288
 longitude: 11.511113100000001
 postcode: 85276
 city: Pfaffenhofen a.d. Ilm
-street: Joseph-Fraunhofer-Straße
+street: "Joseph-Fraunhofer-Straße"
 housenumber: 47
 phone: ""
 opening_hours: ""

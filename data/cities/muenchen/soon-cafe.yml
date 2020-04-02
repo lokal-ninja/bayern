@@ -5,7 +5,7 @@ latitude: 48.154135100000005
 longitude: 11.553195500000001
 postcode: 80335
 city: München
-street: Lothstraße
+street: "Lothstraße"
 housenumber: 15
 phone: "+49 89 20062770"
 opening_hours: "Mo-Fr 07:00-18:30; Sa 08:00-16:00; Su 09:00-14:00"

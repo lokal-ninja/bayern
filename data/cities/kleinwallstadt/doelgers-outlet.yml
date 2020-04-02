@@ -5,7 +5,7 @@ latitude: 49.8727597
 longitude: 9.167032200000001
 postcode: 63839
 city: Kleinwallstadt
-street: Wallstraße
+street: "Wallstraße"
 housenumber: 23
 phone: ""
 opening_hours: "Tu-Sa 09:00-12:00; PH off"

@@ -5,7 +5,7 @@ latitude: 48.537967300000005
 longitude: 12.1540364
 postcode: 
 city: Landshut
-street: Neustadt
+street: "Neustadt"
 housenumber: 439
 phone: ""
 opening_hours: "Th,Tu,Fr 10:00-13:00,15:00-18:00; We 12:00-18:00; Sa 10:00-12:30"

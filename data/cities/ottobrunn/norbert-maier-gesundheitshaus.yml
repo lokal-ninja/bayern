@@ -5,7 +5,7 @@ latitude: 48.0646885
 longitude: 11.6642121
 postcode: 85521
 city: Ottobrunn
-street: Naupliaallee
+street: "Naupliaallee"
 housenumber: 22
 phone: "+49 89 45219138"
 opening_hours: "Mo-Fr 08:00-18:00; Sa,Su,PH off"

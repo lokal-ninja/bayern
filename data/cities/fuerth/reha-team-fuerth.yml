@@ -5,7 +5,7 @@ latitude: 49.484301
 longitude: 10.954513700000001
 postcode: 90766
 city: Fürth
-street: Keplerstraße
+street: "Keplerstraße"
 housenumber: 10
 phone: "+49 911 972720"
 opening_hours: "Mo-Th 08:00-17:00; Fr 08:00-14:30"

@@ -5,7 +5,7 @@ latitude: 48.1607993
 longitude: 11.2240449
 postcode: 82256
 city: Fürstenfeldbruck
-street: Kurt-Huber-Ring
+street: "Kurt-Huber-Ring"
 housenumber: 12
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off"

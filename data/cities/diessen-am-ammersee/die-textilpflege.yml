@@ -5,7 +5,7 @@ latitude: 47.9485879
 longitude: 11.105571300000001
 postcode: 86911
 city: Dießen am Ammersee
-street: Mühlstraße
+street: "Mühlstraße"
 housenumber: 20
 phone: "+49 8807 7112"
 opening_hours: "Mo-Sa 09:00-12:30; Mo,Tu,Fr 14:00-18:00; Th,PH off"

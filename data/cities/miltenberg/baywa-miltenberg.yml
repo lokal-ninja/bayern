@@ -5,7 +5,7 @@ latitude: 49.704632000000004
 longitude: 9.2683142
 postcode: 63897
 city: Miltenberg
-street: Eichenbühler Straße
+street: "Eichenbühler Straße"
 housenumber: 68
 phone: "+49 9371 409420"
 opening_hours: ""

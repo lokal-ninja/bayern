@@ -5,7 +5,7 @@ latitude: 48.1202971
 longitude: 11.5729793
 postcode: 81543
 city: München
-street: Humboldtstraße
+street: "Humboldtstraße"
 housenumber: 14
 phone: ""
 opening_hours: ""

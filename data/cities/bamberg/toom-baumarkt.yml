@@ -5,7 +5,7 @@ latitude: 49.8887992
 longitude: 10.9144647
 postcode: 96050
 city: Bamberg
-street: Geisfelder Straße
+street: "Geisfelder Straße"
 housenumber: 4
 phone: "+49 951 91527-0"
 opening_hours: ""

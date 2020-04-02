@@ -5,7 +5,7 @@ latitude: 48.18424
 longitude: 11.461177900000001
 postcode: 80999
 city: München
-street: Eversbuschstraße
+street: "Eversbuschstraße"
 housenumber: 58
 phone: ""
 opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-12:30"

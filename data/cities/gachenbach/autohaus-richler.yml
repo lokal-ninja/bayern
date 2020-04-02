@@ -5,7 +5,7 @@ latitude: 48.485089200000004
 longitude: 11.261737700000001
 postcode: 86565
 city: Gachenbach
-street: Dorfstraße
+street: "Dorfstraße"
 housenumber: 86
 phone: ""
 opening_hours: ""

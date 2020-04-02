@@ -5,7 +5,7 @@ latitude: 50.086093600000005
 longitude: 11.2412527
 postcode: 96260
 city: Weismain
-street: Festungsweg
+street: "Festungsweg"
 housenumber: 6
 phone: ""
 opening_hours: ""

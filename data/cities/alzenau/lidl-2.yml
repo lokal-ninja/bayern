@@ -5,7 +5,7 @@ latitude: 50.0916276
 longitude: 9.0569085
 postcode: 63755
 city: Alzenau
-street: Brentanostraße
+street: "Brentanostraße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

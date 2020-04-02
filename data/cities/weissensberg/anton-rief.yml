@@ -5,7 +5,7 @@ latitude: 47.5775105
 longitude: 9.728440500000001
 postcode: 88138
 city: Weißensberg
-street: Oberhof
+street: "Oberhof"
 housenumber: 7
 phone: "+49 8389 1373"
 opening_hours: ""

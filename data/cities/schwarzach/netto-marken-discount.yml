@@ -5,7 +5,7 @@ latitude: 48.9144675
 longitude: 12.808656000000001
 postcode: 94374
 city: Schwarzach
-street: Deggendorfer Straße
+street: "Deggendorfer Straße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

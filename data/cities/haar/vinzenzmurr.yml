@@ -5,7 +5,7 @@ latitude: 48.107525100000004
 longitude: 11.7225256
 postcode: 85540
 city: Haar
-street: Am See
+street: "Am See"
 housenumber: 19
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:30; Sa 07:30-14:00; PH off"

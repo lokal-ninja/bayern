@@ -5,7 +5,7 @@ latitude: 49.460545100000004
 longitude: 11.078660000000001
 postcode: 90408
 city: Nürnberg
-street: Krelingstraße
+street: "Krelingstraße"
 housenumber: 28
 phone: "+49 911 36789990"
 opening_hours: ""

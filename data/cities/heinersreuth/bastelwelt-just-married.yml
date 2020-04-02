@@ -5,7 +5,7 @@ latitude: 49.9678763
 longitude: 11.531348000000001
 postcode: 95500
 city: Heinersreuth
-street: Dörnhofer Straße
+street: "Dörnhofer Straße"
 housenumber: 3a
 phone: "+49 921 5085932"
 opening_hours: "Mo-Fr 10:00-18:00; Sa 09:00-12:00"

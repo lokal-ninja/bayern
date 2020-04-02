@@ -5,7 +5,7 @@ latitude: 49.825666000000005
 longitude: 10.7408052
 postcode: 96138
 city: Burgebrach
-street: Lagerhausstraße
+street: "Lagerhausstraße"
 housenumber: 10a
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.109570600000005
 longitude: 10.6709156
 postcode: 86833
 city: Ettringen
-street: Rechbergstraße
+street: "Rechbergstraße"
 housenumber: 12
 phone: "+49 8249 968523"
 opening_hours: "Th,Fr 9:00-12:00, 14:00-17:00, Sa 9:00-12:00"

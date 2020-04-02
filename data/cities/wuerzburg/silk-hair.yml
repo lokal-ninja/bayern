@@ -5,7 +5,7 @@ latitude: 49.7913955
 longitude: 9.927721700000001
 postcode: 97070
 city: Würzburg
-street: Büttnerstraße
+street: "Büttnerstraße"
 housenumber: 29
 phone: ""
 opening_hours: ""

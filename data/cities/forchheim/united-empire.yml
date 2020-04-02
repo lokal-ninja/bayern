@@ -5,7 +5,7 @@ latitude: 49.720585400000004
 longitude: 11.0581779
 postcode: 91301
 city: Forchheim
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 14
 phone: ""
 opening_hours: ""

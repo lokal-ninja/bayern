@@ -5,7 +5,7 @@ latitude: 48.544177000000005
 longitude: 11.5209598
 postcode: 85276
 city: Pfaffenhofen a.d. Ilm
-street: Förnbachstraße
+street: "Förnbachstraße"
 housenumber: 19
 phone: ""
 opening_hours: "Mo-We 07:00-13:30,15:00-18:00; Fr 07:00-18:00; Sa 07:00-12:30"

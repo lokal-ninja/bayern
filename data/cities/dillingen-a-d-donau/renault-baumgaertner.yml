@@ -5,7 +5,7 @@ latitude: 48.5884889
 longitude: 10.518388100000001
 postcode: 89407
 city: Dillingen a.d.Donau
-street: Otto-Hahn-Straße
+street: "Otto-Hahn-Straße"
 housenumber: 6
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.593157500000004
 longitude: 10.8274719
 postcode: 86695
 city: Nordendorf
-street: Schmutterstraße
+street: "Schmutterstraße"
 housenumber: 5A
 phone: "+49 8273 99408-0"
 opening_hours: ""

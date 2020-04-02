@@ -5,7 +5,7 @@ latitude: 48.431645800000005
 longitude: 10.4065141
 postcode: 89331
 city: Burgau
-street: Norbert-Schuster-Straße
+street: "Norbert-Schuster-Straße"
 housenumber: 4
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.675881100000005
 longitude: 12.164789800000001
 postcode: 92637
 city: Weiden i.d.OPf.
-street: Unterer Markt
+street: "Unterer Markt"
 housenumber: 12-14
 phone: "+49 961 48109-0"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su,PH off"

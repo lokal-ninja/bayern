@@ -5,7 +5,7 @@ latitude: 49.602718900000006
 longitude: 11.002805500000001
 postcode: 91054
 city: Erlangen
-street: Lazarettstraße
+street: "Lazarettstraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

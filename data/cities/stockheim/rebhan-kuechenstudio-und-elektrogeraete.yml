@@ -5,7 +5,7 @@ latitude: 50.3257496
 longitude: 11.284049900000001
 postcode: 96342
 city: Stockheim
-street: Ludwigsstädter Straße
+street: "Ludwigsstädter Straße"
 housenumber: 95
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00"

@@ -5,7 +5,7 @@ latitude: 48.126761
 longitude: 11.59355
 postcode: 81669
 city: München
-street: Rablstraße
+street: "Rablstraße"
 housenumber: 38
 phone: ""
 opening_hours: "Mo-Fr 07:00-19:00; Sa 07:30-13:00"

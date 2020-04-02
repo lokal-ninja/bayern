@@ -5,7 +5,7 @@ latitude: 48.4455638
 longitude: 10.28332
 postcode: 89312
 city: Günzburg
-street: Geschwister-Scholl-Straße
+street: "Geschwister-Scholl-Straße"
 housenumber: 2
 phone: ""
 opening_hours: "08:00-20:00"

@@ -5,7 +5,7 @@ latitude: 47.903173100000004
 longitude: 11.2713897
 postcode: 82327
 city: Tutzing
-street: Lindemannstraße
+street: "Lindemannstraße"
 housenumber: 11
 phone: ""
 opening_hours: ""

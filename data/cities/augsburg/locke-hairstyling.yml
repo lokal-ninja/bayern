@@ -5,7 +5,7 @@ latitude: 48.361889700000006
 longitude: 10.902258300000002
 postcode: 86150
 city: Augsburg
-street: Milchberg
+street: "Milchberg"
 housenumber: 22
 phone: ""
 opening_hours: ""

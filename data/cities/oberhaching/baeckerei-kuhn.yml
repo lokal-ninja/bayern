@@ -5,7 +5,7 @@ latitude: 48.026091300000004
 longitude: 11.596002100000002
 postcode: 82041
 city: Oberhaching
-street: Kirchplatz
+street: "Kirchplatz"
 housenumber: 5
 phone: ""
 opening_hours: ""

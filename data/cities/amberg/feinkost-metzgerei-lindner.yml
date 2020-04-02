@@ -5,7 +5,7 @@ latitude: 49.443239000000005
 longitude: 11.855373100000001
 postcode: 92224
 city: Amberg
-street: Steinhofgasse
+street: "Steinhofgasse"
 housenumber: 9
 phone: "+49 9621 12531"
 opening_hours: ""

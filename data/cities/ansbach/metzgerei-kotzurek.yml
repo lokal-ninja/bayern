@@ -5,7 +5,7 @@ latitude: 49.304789400000004
 longitude: 10.5774614
 postcode: 91522
 city: Ansbach
-street: Schloßstraße
+street: "Schloßstraße"
 housenumber: 12
 phone: "+49 981 3698"
 opening_hours: "Mo-Fr 07:45-18:00; Sa 07:00-12:30"

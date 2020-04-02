@@ -5,7 +5,7 @@ latitude: 48.1476478
 longitude: 11.7453971
 postcode: 85622
 city: Feldkirchen
-street: Kapellenstraße
+street: "Kapellenstraße"
 housenumber: 16
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

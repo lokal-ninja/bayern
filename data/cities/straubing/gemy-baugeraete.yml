@@ -5,7 +5,7 @@ latitude: 48.8888856
 longitude: 12.622603600000001
 postcode: 94315
 city: Straubing
-street: Philipp-Reis-Straße
+street: "Philipp-Reis-Straße"
 housenumber: 11
 phone: "+49 9421 9989 0"
 opening_hours: "Mo-Th 07:30-12:00,12:45-17:00; Fr 07:30-14:00"

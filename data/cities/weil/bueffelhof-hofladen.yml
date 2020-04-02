@@ -5,7 +5,7 @@ latitude: 48.1447925
 longitude: 10.916920600000001
 postcode: 86947
 city: Weil
-street: Benediktstraße
+street: "Benediktstraße"
 housenumber: 4
 phone: "+49 8195 1533"
 opening_hours: ""

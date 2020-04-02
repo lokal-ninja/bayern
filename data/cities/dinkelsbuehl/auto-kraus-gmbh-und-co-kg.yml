@@ -5,7 +5,7 @@ latitude: 49.0659811
 longitude: 10.3396177
 postcode: 91550
 city: Dinkelsbühl
-street: Gleiwitzer Straße
+street: "Gleiwitzer Straße"
 housenumber: 2
 phone: "+49 9851 7777"
 opening_hours: ""

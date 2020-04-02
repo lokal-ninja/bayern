@@ -5,7 +5,7 @@ latitude: 48.0849187
 longitude: 11.4593574
 postcode: 82061
 city: Neuried
-street: Parkstraße
+street: "Parkstraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.8158059
 longitude: 9.980511400000001
 postcode: 97076
 city: Würzburg
-street: Am Handelshof
+street: "Am Handelshof"
 housenumber: 2
 phone: "+4993127925"
 opening_hours: "Mo-Fr 10:00-20:00; Sa 09:30-18:00"

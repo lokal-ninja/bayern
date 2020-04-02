@@ -5,7 +5,7 @@ latitude: 50.32380190000001
 longitude: 11.705956400000002
 postcode: 95119
 city: Naila
-street: Doktor-Hans-Künzel-Straße
+street: "Doktor-Hans-Künzel-Straße"
 housenumber: 1
 phone: ""
 opening_hours: ""

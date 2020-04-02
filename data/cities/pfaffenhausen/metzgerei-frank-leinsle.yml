@@ -5,7 +5,7 @@ latitude: 48.118818100000006
 longitude: 10.4518289
 postcode: 
 city: Pfaffenhausen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 3
 phone: ""
 opening_hours: ""

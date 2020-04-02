@@ -5,7 +5,7 @@ latitude: 49.398235500000006
 longitude: 10.8862492
 postcode: 90574
 city: Roßtal
-street: Richtersgasse
+street: "Richtersgasse"
 housenumber: 3
 phone: "+49 9127 9267"
 opening_hours: "Tu 08:00-18:00; We-Fr 08:00-20:00; Sa 08:00-14:00"

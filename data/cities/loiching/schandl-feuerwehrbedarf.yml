@@ -5,7 +5,7 @@ latitude: 48.556732200000006
 longitude: 12.411489600000001
 postcode: 84180
 city: Loiching
-street: Finkenweg
+street: "Finkenweg"
 housenumber: 7
 phone: ""
 opening_hours: ""

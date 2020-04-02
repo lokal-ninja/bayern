@@ -5,7 +5,7 @@ latitude: 48.8605749
 longitude: 11.3664482
 postcode: 85113
 city: Böhmfeld
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 22
 phone: ""
 opening_hours: ""

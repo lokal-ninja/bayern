@@ -5,7 +5,7 @@ latitude: 49.328271300000004
 longitude: 12.107927400000001
 postcode: 92421
 city: Schwandorf
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 24
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.7999257
 longitude: 9.8954705
 postcode: 97080
 city: Würzburg
-street: Südliche Hafenstraße
+street: "Südliche Hafenstraße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Fr 08:30-18:00"

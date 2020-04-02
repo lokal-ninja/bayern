@@ -5,7 +5,7 @@ latitude: 49.401683600000005
 longitude: 11.117381100000001
 postcode: 90469
 city: Nürnberg
-street: Zollhausstraße
+street: "Zollhausstraße"
 housenumber: 22;24
 phone: ""
 opening_hours: ""

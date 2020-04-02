@@ -5,7 +5,7 @@ latitude: 49.287394500000005
 longitude: 10.7876045
 postcode: 91564
 city: Neuendettelsau
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 08:30-12:30,13:30-18:00; Sa 08:30-12:00"

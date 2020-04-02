@@ -5,7 +5,7 @@ latitude: 48.1110349
 longitude: 11.553924700000001
 postcode: 81379
 city: München
-street: Hans-Preißinger-Straße
+street: "Hans-Preißinger-Straße"
 housenumber: 8
 phone: ""
 opening_hours: ""

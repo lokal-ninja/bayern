@@ -5,7 +5,7 @@ latitude: 49.4610579
 longitude: 11.0577071
 postcode: 90419
 city: Nürnberg
-street: Franzstraße
+street: "Franzstraße"
 housenumber: 15
 phone: "+49 911 3506835"
 opening_hours: ""

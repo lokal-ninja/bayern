@@ -5,7 +5,7 @@ latitude: 47.870288900000006
 longitude: 11.472263400000001
 postcode: 82538
 city: Geretsried
-street: Jahnstraße
+street: "Jahnstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Jan-Dec: Mo-Sa 06:30-18:00; Su 08:00-12:00"

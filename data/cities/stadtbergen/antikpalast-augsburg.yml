@@ -5,7 +5,7 @@ latitude: 48.3626823
 longitude: 10.843679400000001
 postcode: 86391
 city: Stadtbergen
-street: Leitershofer Straße
+street: "Leitershofer Straße"
 housenumber: 12
 phone: "+49 821 49821776"
 opening_hours: ""

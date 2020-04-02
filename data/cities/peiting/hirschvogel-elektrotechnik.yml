@@ -5,7 +5,7 @@ latitude: 47.798156600000006
 longitude: 10.921178000000001
 postcode: 86971
 city: Peiting
-street: Schongauer Straße
+street: "Schongauer Straße"
 housenumber: 17
 phone: ""
 opening_hours: ""

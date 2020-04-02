@@ -5,7 +5,7 @@ latitude: 48.066817900000004
 longitude: 11.664417400000001
 postcode: 85521
 city: Ottobrunn
-street: Putzbrunner Straße
+street: "Putzbrunner Straße"
 housenumber: 17
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 08:00-14:00; Su,PH off"

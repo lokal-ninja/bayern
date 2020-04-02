@@ -5,7 +5,7 @@ latitude: 49.467573800000004
 longitude: 11.124407300000001
 postcode: 90491
 city: Nürnberg
-street: Thumenberger Weg
+street: "Thumenberger Weg"
 housenumber: 61
 phone: ""
 opening_hours: "Mo-Fr 09:30-18:00, Sa 09:30-15:00"

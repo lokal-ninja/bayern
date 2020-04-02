@@ -5,7 +5,7 @@ latitude: 48.7037336
 longitude: 11.4196983
 postcode: 85051
 city: Ingolstadt
-street: Im Weiherfeld
+street: "Im Weiherfeld"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00"

@@ -5,7 +5,7 @@ latitude: 48.738561100000005
 longitude: 11.436346
 postcode: 85051
 city: Ingolstadt
-street: Münchener Straße
+street: "Münchener Straße"
 housenumber: 143
 phone: ""
 opening_hours: ""

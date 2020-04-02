@@ -5,7 +5,7 @@ latitude: 48.178345900000004
 longitude: 11.5675883
 postcode: 
 city: München
-street: Kantstraße
+street: "Kantstraße"
 housenumber: 16
 phone: ""
 opening_hours: ""

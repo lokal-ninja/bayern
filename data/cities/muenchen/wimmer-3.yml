@@ -5,7 +5,7 @@ latitude: 48.1482704
 longitude: 11.574867300000001
 postcode: 
 city: München
-street: Türkenstraße
+street: "Türkenstraße"
 housenumber: 36
 phone: "+49 89 28755733"
 opening_hours: "Mo-Fr 06:00-20:00; Sa 07:00-18:00; Su 08:00-18:00"

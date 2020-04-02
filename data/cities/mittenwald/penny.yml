@@ -5,7 +5,7 @@ latitude: 47.449281400000004
 longitude: 11.2660648
 postcode: 82481
 city: Mittenwald
-street: Partenkirchner Straße
+street: "Partenkirchner Straße"
 housenumber: 53
 phone: ""
 opening_hours: "Mo-Sa 07:30-20:00"

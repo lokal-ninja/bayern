@@ -5,7 +5,7 @@ latitude: 49.3771344
 longitude: 10.1822586
 postcode: 91541
 city: Rothenburg ob der Tauber
-street: Rödergasse
+street: "Rödergasse"
 housenumber: 11
 phone: "+49-9861-86266"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00; Su off"

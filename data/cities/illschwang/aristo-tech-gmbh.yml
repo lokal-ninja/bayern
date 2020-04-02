@@ -5,7 +5,7 @@ latitude: 49.4567653
 longitude: 11.6696968
 postcode: 92278
 city: Illschwang
-street: Gewerbepark
+street: "Gewerbepark"
 housenumber: 9
 phone: "+49 9666 1880100"
 opening_hours: ""

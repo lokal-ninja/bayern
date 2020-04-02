@@ -5,7 +5,7 @@ latitude: 47.986226900000005
 longitude: 10.1817855
 postcode: 87700
 city: Memmingen
-street: Kalchstraße
+street: "Kalchstraße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Fr 08:00-19:00; Sa 07:30-16:15"

@@ -5,7 +5,7 @@ latitude: 48.1011576
 longitude: 11.5803148
 postcode: 81547
 city: München
-street: Resedenweg
+street: "Resedenweg"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Fr 09:00-16:00"

@@ -5,7 +5,7 @@ latitude: 49.441507300000005
 longitude: 11.0827921
 postcode: 90459
 city: Nürnberg
-street: Breitscheidstraße
+street: "Breitscheidstraße"
 housenumber: 19
 phone: ""
 opening_hours: ""

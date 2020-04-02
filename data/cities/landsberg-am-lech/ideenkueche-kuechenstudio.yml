@@ -5,7 +5,7 @@ latitude: 48.0490457
 longitude: 10.883087100000001
 postcode: 86899
 city: Landsberg am Lech
-street: Münchener Straße
+street: "Münchener Straße"
 housenumber: 1
 phone: "+49 8191 940590"
 opening_hours: ""

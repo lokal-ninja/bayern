@@ -5,7 +5,7 @@ latitude: 50.0023628
 longitude: 10.1142219
 postcode: 97440
 city: Werneck
-street: Pfaffenpfad
+street: "Pfaffenpfad"
 housenumber: 7
 phone: ""
 opening_hours: ""

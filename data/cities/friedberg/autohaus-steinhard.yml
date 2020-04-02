@@ -5,7 +5,7 @@ latitude: 48.3447351
 longitude: 11.0523532
 postcode: 86316
 city: Friedberg
-street: Aretinstraße
+street: "Aretinstraße"
 housenumber: 26
 phone: "+49 8208 247"
 opening_hours: ""

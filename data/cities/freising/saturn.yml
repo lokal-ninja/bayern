@@ -5,7 +5,7 @@ latitude: 48.402156600000005
 longitude: 11.751068100000001
 postcode: 85356
 city: Freising
-street: Isarstraße
+street: "Isarstraße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 10:00-20:00"

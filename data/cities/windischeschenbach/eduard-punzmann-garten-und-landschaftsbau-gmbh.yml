@@ -5,7 +5,7 @@ latitude: 49.806360000000005
 longitude: 12.187351600000001
 postcode: 92670
 city: Windischeschenbach
-street: Lindenhof
+street: "Lindenhof"
 housenumber: 4
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 47.715580700000004
 longitude: 10.3177816
 postcode: 87435
 city: Kempten (Allgäu)
-street: Heinrich-Findelkind-Weg
+street: "Heinrich-Findelkind-Weg"
 housenumber: 1
 phone: ""
 opening_hours: ""

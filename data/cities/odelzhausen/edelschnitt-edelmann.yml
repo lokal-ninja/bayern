@@ -5,7 +5,7 @@ latitude: 48.311399
 longitude: 11.1963813
 postcode: 85235
 city: Odelzhausen
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 23
 phone: ""
 opening_hours: ""

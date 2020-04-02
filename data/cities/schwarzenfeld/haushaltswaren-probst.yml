@@ -5,7 +5,7 @@ latitude: 49.3893891
 longitude: 12.1385818
 postcode: 92521
 city: Schwarzenfeld
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 16
 phone: ""
 opening_hours: ""

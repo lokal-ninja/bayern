@@ -5,7 +5,7 @@ latitude: 48.804459300000005
 longitude: 11.7724218
 postcode: 93333
 city: Neustadt a.d.Donau
-street: Herderstraße
+street: "Herderstraße"
 housenumber: 7
 phone: ""
 opening_hours: "Mo 10:00-12:00,14:00-18:00; We-Fr 10:00-12:00,14:00-18:00; Sa 09:00-12:00"

@@ -5,7 +5,7 @@ latitude: 48.763862
 longitude: 11.4241287
 postcode: 85049
 city: Ingolstadt
-street: Moritzstraße
+street: "Moritzstraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

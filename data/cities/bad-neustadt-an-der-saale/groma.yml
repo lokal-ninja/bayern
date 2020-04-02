@@ -5,7 +5,7 @@ latitude: 50.3370193
 longitude: 10.226123000000001
 postcode: 97616
 city: Bad Neustadt an der Saale
-street: Rudolf-Diesel-Ring
+street: "Rudolf-Diesel-Ring"
 housenumber: 36
 phone: ""
 opening_hours: ""

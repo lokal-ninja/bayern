@@ -5,7 +5,7 @@ latitude: 48.456818600000005
 longitude: 11.130525500000001
 postcode: 86551
 city: Aichach
-street: Martinstraße
+street: "Martinstraße"
 housenumber: 23
 phone: ""
 opening_hours: ""

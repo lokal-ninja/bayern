@@ -5,7 +5,7 @@ latitude: 48.177308100000005
 longitude: 11.5860611
 postcode: 80805
 city: München
-street: Schenkendorfstraße
+street: "Schenkendorfstraße"
 housenumber: 92
 phone: ""
 opening_hours: ""

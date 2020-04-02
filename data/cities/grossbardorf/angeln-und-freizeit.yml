@@ -5,7 +5,7 @@ latitude: 50.265769000000006
 longitude: 10.363853200000001
 postcode: 97633
 city: Großbardorf
-street: Oberes Tor
+street: "Oberes Tor"
 housenumber: 15
 phone: "+49 9766 940160"
 opening_hours: "Mo-Fr 09:00-18:00; Su 09:30-13:30"

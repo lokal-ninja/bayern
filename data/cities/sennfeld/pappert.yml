@@ -5,7 +5,7 @@ latitude: 50.0387798
 longitude: 10.2451702
 postcode: 97526
 city: Sennfeld
-street: Schweinfurter Straße
+street: "Schweinfurter Straße"
 housenumber: 3
 phone: ""
 opening_hours: ""

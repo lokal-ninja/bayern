@@ -5,7 +5,7 @@ latitude: 49.4454068
 longitude: 11.859996200000001
 postcode: 92224
 city: Amberg
-street: Untere Nabburger Straße
+street: "Untere Nabburger Straße"
 housenumber: 3
 phone: "+49 9621 31717"
 opening_hours: "Mo-Fr 08:30-18:30; Sa 08:00-13:00"

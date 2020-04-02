@@ -5,7 +5,7 @@ latitude: 49.4504705
 longitude: 10.3230663
 postcode: 91593
 city: Burgbernheim
-street: Obere Marktstraße
+street: "Obere Marktstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

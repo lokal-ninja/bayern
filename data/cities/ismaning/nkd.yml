@@ -5,7 +5,7 @@ latitude: 48.2245624
 longitude: 11.6692078
 postcode: 85737
 city: Ismaning
-street: Korbinianstraße
+street: "Korbinianstraße"
 housenumber: 16
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"

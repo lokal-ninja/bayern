@@ -5,7 +5,7 @@ latitude: 49.8536258
 longitude: 9.277325000000001
 postcode: 63863
 city: Eschau
-street: Bayernstraße
+street: "Bayernstraße"
 housenumber: 65
 phone: ""
 opening_hours: ""

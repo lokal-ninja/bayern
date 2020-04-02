@@ -5,7 +5,7 @@ latitude: 48.3038271
 longitude: 10.9660297
 postcode: 86438
 city: Kissing
-street: Rosenstraße
+street: "Rosenstraße"
 housenumber: 23
 phone: "+49 8233 60407"
 opening_hours: "Mo-Fr 08:30-12:30,14:00-18:00; Sa 08:30-12:30; Su off"

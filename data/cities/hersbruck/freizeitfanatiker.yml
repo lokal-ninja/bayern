@@ -5,7 +5,7 @@ latitude: 49.5083666
 longitude: 11.4300145
 postcode: 91217
 city: Hersbruck
-street: Martin-Luther-Straße
+street: "Martin-Luther-Straße"
 housenumber: 9
 phone: "+49 9151 9629616"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.3088953
 longitude: 10.9052428
 postcode: 86179
 city: Augsburg
-street: Landsberger Straße
+street: "Landsberger Straße"
 housenumber: 57
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

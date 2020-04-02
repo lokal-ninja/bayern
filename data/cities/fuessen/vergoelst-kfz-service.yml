@@ -5,7 +5,7 @@ latitude: 47.5829273
 longitude: 10.7023699
 postcode: 87629
 city: Füssen
-street: Abt-Hafner-Straße
+street: "Abt-Hafner-Straße"
 housenumber: 4
 phone: ""
 opening_hours: ""

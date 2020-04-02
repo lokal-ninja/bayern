@@ -5,7 +5,7 @@ latitude: 48.116249700000004
 longitude: 11.525008900000001
 postcode: 81369
 city: München
-street: Albert-Roßhaupter-Straße
+street: "Albert-Roßhaupter-Straße"
 housenumber: 94
 phone: "+49 89 7437 1010"
 opening_hours: ""

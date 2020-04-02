@@ -5,7 +5,7 @@ latitude: 49.180512900000004
 longitude: 11.1806996
 postcode: 91161
 city: Hilpoltstein
-street: Siemensstraße
+street: "Siemensstraße"
 housenumber: 13
 phone: ""
 opening_hours: ""

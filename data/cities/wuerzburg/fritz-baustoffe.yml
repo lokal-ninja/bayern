@@ -5,7 +5,7 @@ latitude: 49.7581397
 longitude: 9.9701243
 postcode: 97084
 city: Würzburg
-street: Winterhäuser Straße
+street: "Winterhäuser Straße"
 housenumber: 98
 phone: "+49-931-780114-0"
 opening_hours: "Mo-Th 07:00-17:00; Fr 07:00-15:00"

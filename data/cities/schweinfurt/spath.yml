@@ -5,7 +5,7 @@ latitude: 50.0409695
 longitude: 10.2231394
 postcode: 97421
 city: Schweinfurt
-street: Cramerstraße
+street: "Cramerstraße"
 housenumber: 9
 phone: ""
 opening_hours: ""

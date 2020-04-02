@@ -5,7 +5,7 @@ latitude: 48.8084368
 longitude: 13.5476164
 postcode: 94078
 city: Freyung
-street: Stadtplatz
+street: "Stadtplatz"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-12:00"

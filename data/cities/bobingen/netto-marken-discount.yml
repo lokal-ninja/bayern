@@ -5,7 +5,7 @@ latitude: 48.2633285
 longitude: 10.840575600000001
 postcode: 86399
 city: Bobingen
-street: Ziegeleistraße
+street: "Ziegeleistraße"
 housenumber: 15
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

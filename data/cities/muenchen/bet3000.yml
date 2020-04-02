@@ -5,7 +5,7 @@ latitude: 48.2016129
 longitude: 11.542800900000001
 postcode: 80995
 city: München
-street: Lerchenstraße
+street: "Lerchenstraße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Su 11:00-23:00"

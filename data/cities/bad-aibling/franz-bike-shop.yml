@@ -5,7 +5,7 @@ latitude: 47.8570256
 longitude: 11.9994168
 postcode: 83043
 city: Bad Aibling
-street: Wendelsteinstraße
+street: "Wendelsteinstraße"
 housenumber: 18a
 phone: "+49 8061 36 266"
 opening_hours: "Mo-We,Fr 14:00-18:30;Th 14:00-20:00;Sa 09:00-12:00;Su,PH off"

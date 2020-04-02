@@ -5,7 +5,7 @@ latitude: 48.1498798
 longitude: 11.4436514
 postcode: 81243
 city: München
-street: Stockacher Straße
+street: "Stockacher Straße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

@@ -5,7 +5,7 @@ latitude: 48.1327909
 longitude: 11.579432800000001
 postcode: 80469
 city: München
-street: Aventinstraße
+street: "Aventinstraße"
 housenumber: 8
 phone: "+49 89 22 25 40"
 opening_hours: "Mo-Sa 12:00-20:00"

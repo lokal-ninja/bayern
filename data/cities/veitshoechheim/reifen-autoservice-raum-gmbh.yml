@@ -5,7 +5,7 @@ latitude: 49.8355253
 longitude: 9.9072378
 postcode: 97209
 city: Veitshöchheim
-street: Schleehofstraße
+street: "Schleehofstraße"
 housenumber: 24
 phone: "+49 931 4043998"
 opening_hours: "Mo-Fr 08:00-18:00, Sa 08:00-13:00"

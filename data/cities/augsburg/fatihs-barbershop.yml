@@ -5,7 +5,7 @@ latitude: 48.378034
 longitude: 10.8860018
 postcode: 
 city: Augsburg
-street: Wertachstraße
+street: "Wertachstraße"
 housenumber: 22a
 phone: ""
 opening_hours: ""

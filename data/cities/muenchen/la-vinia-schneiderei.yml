@@ -5,7 +5,7 @@ latitude: 48.1624101
 longitude: 11.589652200000002
 postcode: 80802
 city: München
-street: Occamstraße
+street: "Occamstraße"
 housenumber: 13
 phone: "+49 89 38 88 77 11"
 opening_hours: "Mo,Tu,Th 11:00-19:00; Fr 11:00-18:00; Sa 10:00-14:00"

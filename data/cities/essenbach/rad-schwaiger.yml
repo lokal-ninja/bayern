@@ -5,7 +5,7 @@ latitude: 48.614051200000006
 longitude: 12.219245800000001
 postcode: 84051
 city: Essenbach
-street: Regensburger Straße
+street: "Regensburger Straße"
 housenumber: 4
 phone: ""
 opening_hours: ""

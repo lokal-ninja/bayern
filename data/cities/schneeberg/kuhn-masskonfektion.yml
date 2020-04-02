@@ -5,7 +5,7 @@ latitude: 49.637943500000006
 longitude: 9.246083500000001
 postcode: 63936
 city: Schneeberg
-street: Bühlweg
+street: "Bühlweg"
 housenumber: 7
 phone: "+49 9373 97440"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 08:00-13:00; Su off"

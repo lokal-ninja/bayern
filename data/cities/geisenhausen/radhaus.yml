@@ -5,7 +5,7 @@ latitude: 48.473808500000004
 longitude: 12.2580924
 postcode: 84144
 city: Geisenhausen
-street: Kirchstraße
+street: "Kirchstraße"
 housenumber: 5
 phone: "+49 151 67 50 41 21"
 opening_hours: ""

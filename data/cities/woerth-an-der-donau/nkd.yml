@@ -5,7 +5,7 @@ latitude: 49.0008889
 longitude: 12.400270800000001
 postcode: 93086
 city: Wörth an der Donau
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 8
 phone: ""
 opening_hours: ""

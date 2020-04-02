@@ -5,7 +5,7 @@ latitude: 48.239921700000004
 longitude: 12.690125100000001
 postcode: 84524
 city: Neuötting
-street: Sebastiansplatz
+street: "Sebastiansplatz"
 housenumber: 
 phone: "+49 8671 3714"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"

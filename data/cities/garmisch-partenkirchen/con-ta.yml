@@ -5,7 +5,7 @@ latitude: 47.4929743
 longitude: 11.088748500000001
 postcode: 82467
 city: Garmisch-Partenkirchen
-street: Klammstraße
+street: "Klammstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

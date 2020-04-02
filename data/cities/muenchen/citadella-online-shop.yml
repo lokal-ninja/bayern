@@ -5,7 +5,7 @@ latitude: 48.1182846
 longitude: 11.553138500000001
 postcode: 81371
 city: München
-street: Schäftlarnstraße
+street: "Schäftlarnstraße"
 housenumber: 10
 phone: "+49 89 72018003"
 opening_hours: ""

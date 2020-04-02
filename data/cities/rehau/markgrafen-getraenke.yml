@@ -5,7 +5,7 @@ latitude: 50.2472961
 longitude: 12.0298943
 postcode: 95111
 city: Rehau
-street: Gerberstraße
+street: "Gerberstraße"
 housenumber: 17
 phone: ""
 opening_hours: ""

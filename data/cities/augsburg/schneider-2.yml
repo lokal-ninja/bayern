@@ -5,7 +5,7 @@ latitude: 48.3688821
 longitude: 10.932421000000001
 postcode: 86165
 city: Augsburg
-street: Zugspitzstraße
+street: "Zugspitzstraße"
 housenumber: 183a
 phone: ""
 opening_hours: ""

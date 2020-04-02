@@ -5,7 +5,7 @@ latitude: 49.5886536
 longitude: 10.2528103
 postcode: 
 city: Reusch
-street: Reusch
+street: "Reusch"
 housenumber: 94
 phone: ""
 opening_hours: ""

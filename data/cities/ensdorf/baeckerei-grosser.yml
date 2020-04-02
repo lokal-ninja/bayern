@@ -5,7 +5,7 @@ latitude: 49.340980800000004
 longitude: 11.935146600000001
 postcode: 92266
 city: Ensdorf
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 6
 phone: "+499624931424"
 opening_hours: ""

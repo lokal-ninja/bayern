@@ -5,7 +5,7 @@ latitude: 48.041591000000004
 longitude: 10.505371700000001
 postcode: 87719
 city: Mindelheim
-street: Aggensteinstraße
+street: "Aggensteinstraße"
 housenumber: 4
 phone: "+49 8261 763240"
 opening_hours: "Mo-Fr 07:00-18:00, Sa 09:00-12:00"

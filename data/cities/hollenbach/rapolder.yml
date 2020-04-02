@@ -5,7 +5,7 @@ latitude: 48.488156100000005
 longitude: 11.0724017
 postcode: 86568
 city: Hollenbach
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 42
 phone: ""
 opening_hours: ""

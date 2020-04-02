@@ -5,7 +5,7 @@ latitude: 47.788252400000005
 longitude: 11.831059600000001
 postcode: 83714
 city: Miesbach
-street: Rathausstraße
+street: "Rathausstraße"
 housenumber: 7a
 phone: ""
 opening_hours: ""

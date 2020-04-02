@@ -5,7 +5,7 @@ latitude: 49.2518868
 longitude: 11.092690800000002
 postcode: 91154
 city: Roth
-street: Schleifweg
+street: "Schleifweg"
 housenumber: 16a
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:30-13:00"

@@ -5,7 +5,7 @@ latitude: 49.452304600000005
 longitude: 11.071216600000001
 postcode: 90402
 city: Nürnberg
-street: Karl-Grillenberger-Straße
+street: "Karl-Grillenberger-Straße"
 housenumber: 1a
 phone: ""
 opening_hours: "Mo-Th 07:00-15:00; Fr 07:00-14:00"

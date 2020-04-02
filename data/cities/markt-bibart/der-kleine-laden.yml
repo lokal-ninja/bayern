@@ -5,7 +5,7 @@ latitude: 49.6477967
 longitude: 10.426842200000001
 postcode: 91477
 city: Markt Bibart
-street: Nürnberger Straße
+street: "Nürnberger Straße"
 housenumber: 3
 phone: ""
 opening_hours: ""

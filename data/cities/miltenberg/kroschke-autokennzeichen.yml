@@ -5,7 +5,7 @@ latitude: 49.70359800000001
 longitude: 9.2528725
 postcode: 63897
 city: Miltenberg
-street: Steingaesserstraße
+street: "Steingaesserstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

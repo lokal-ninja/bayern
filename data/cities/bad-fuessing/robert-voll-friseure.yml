@@ -5,7 +5,7 @@ latitude: 48.3542701
 longitude: 13.3079818
 postcode: 94072
 city: Bad Füssing
-street: Sonnenstraße
+street: "Sonnenstraße"
 housenumber: 11
 phone: "+49 8531 22935"
 opening_hours: ""

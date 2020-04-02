@@ -5,7 +5,7 @@ latitude: 49.027140700000004
 longitude: 12.110439600000001
 postcode: 93059
 city: Regensburg
-street: Abensstraße
+street: "Abensstraße"
 housenumber: 2
 phone: "+49 941 43104"
 opening_hours: "Mo-Fr 08:00-12:00,13:00-17:00; Sa 08:00-12:00"

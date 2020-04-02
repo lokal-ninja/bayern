@@ -5,7 +5,7 @@ latitude: 49.446389
 longitude: 11.081600600000002
 postcode: 90443
 city: Nürnberg
-street: Bahnhofsplatz
+street: "Bahnhofsplatz"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Su 06:00-22:00"

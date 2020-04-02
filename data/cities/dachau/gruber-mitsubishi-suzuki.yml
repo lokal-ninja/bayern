@@ -5,7 +5,7 @@ latitude: 48.2578745
 longitude: 11.475402800000001
 postcode: 85221
 city: Dachau
-street: Kopernikusstraße
+street: "Kopernikusstraße"
 housenumber: 23
 phone: ""
 opening_hours: ""

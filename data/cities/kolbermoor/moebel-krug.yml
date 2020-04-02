@@ -5,7 +5,7 @@ latitude: 47.849492600000005
 longitude: 12.071805000000001
 postcode: 83059
 city: Kolbermoor
-street: Rosenheimer Straße
+street: "Rosenheimer Straße"
 housenumber: 41
 phone: ""
 opening_hours: ""

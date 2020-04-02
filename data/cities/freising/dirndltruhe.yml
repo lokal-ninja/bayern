@@ -5,7 +5,7 @@ latitude: 48.401135100000005
 longitude: 11.7447136
 postcode: 85354
 city: Freising
-street: Untere Hauptstraße
+street: "Untere Hauptstraße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Fr 09:30-13:00,14:00-18:30, Sa 09:30-14:00"

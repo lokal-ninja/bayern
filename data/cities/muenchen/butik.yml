@@ -5,7 +5,7 @@ latitude: 48.1599833
 longitude: 11.5810949
 postcode: 
 city: München
-street: Hohenzollernstraße
+street: "Hohenzollernstraße"
 housenumber: 36
 phone: ""
 opening_hours: ""

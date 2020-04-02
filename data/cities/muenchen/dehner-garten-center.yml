@@ -5,7 +5,7 @@ latitude: 48.1245964
 longitude: 11.672903400000001
 postcode: 81829
 city: München
-street: Kirchtruderinger Straße
+street: "Kirchtruderinger Straße"
 housenumber: 20
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-19:00"

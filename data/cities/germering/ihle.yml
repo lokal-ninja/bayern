@@ -5,7 +5,7 @@ latitude: 48.1227456
 longitude: 11.3684963
 postcode: 82110
 city: Germering
-street: Friedenstraße
+street: "Friedenstraße"
 housenumber: 19a
 phone: ""
 opening_hours: "Mo-Fr 06:00-20:00, Sa 06:00-20:00, Su 08:00-11:00"

@@ -5,7 +5,7 @@ latitude: 49.4744571
 longitude: 11.1049717
 postcode: 90411
 city: Nürnberg
-street: Bessemerstraße
+street: "Bessemerstraße"
 housenumber: 5
 phone: "+49 911 9512657"
 opening_hours: ""

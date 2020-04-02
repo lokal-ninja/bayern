@@ -5,7 +5,7 @@ latitude: 48.733428
 longitude: 11.1959852
 postcode: 86633
 city: Neuburg an der Donau
-street: Berliner Straße
+street: "Berliner Straße"
 housenumber: 
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

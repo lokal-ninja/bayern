@@ -5,7 +5,7 @@ latitude: 48.133038500000005
 longitude: 11.5963288
 postcode: 81667
 city: München
-street: Steinstraße
+street: "Steinstraße"
 housenumber: 19
 phone: ""
 opening_hours: ""

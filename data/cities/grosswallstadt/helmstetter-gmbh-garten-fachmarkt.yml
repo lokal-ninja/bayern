@@ -5,7 +5,7 @@ latitude: 49.8818963
 longitude: 9.1391106
 postcode: 63868
 city: Großwallstadt
-street: Flurbereinigungsweg
+street: "Flurbereinigungsweg"
 housenumber: 3
 phone: "+49 6022 66210"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"

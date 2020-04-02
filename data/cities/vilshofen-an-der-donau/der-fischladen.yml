@@ -5,7 +5,7 @@ latitude: 48.632515700000006
 longitude: 13.1871475
 postcode: 94474
 city: Vilshofen an der Donau
-street: Fischerzeile
+street: "Fischerzeile"
 housenumber: 5
 phone: ""
 opening_hours: "We-Fr 09:00-18:00, Sa 08:30-13:00, Mo,Tu off"

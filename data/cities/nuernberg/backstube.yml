@@ -5,7 +5,7 @@ latitude: 49.449167100000004
 longitude: 11.0638558
 postcode: 90429
 city: Nürnberg
-street: Am Plärrer
+street: "Am Plärrer"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Fr 05:30-18:00; Sa 05:30-13:00"

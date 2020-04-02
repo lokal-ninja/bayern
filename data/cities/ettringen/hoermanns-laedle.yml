@@ -5,7 +5,7 @@ latitude: 48.107266
 longitude: 10.659631500000001
 postcode: 86833
 city: Ettringen
-street: Augsburger Straße
+street: "Augsburger Straße"
 housenumber: 4
 phone: ""
 opening_hours: "Tu-Fr 08:00-12:00,14:00-18:00; Sa 08:00-12:30"

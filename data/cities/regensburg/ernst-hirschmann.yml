@@ -5,7 +5,7 @@ latitude: 49.0407206
 longitude: 12.123641200000002
 postcode: 93057
 city: Regensburg
-street: Aussiger Straße
+street: "Aussiger Straße"
 housenumber: 5
 phone: "+49 941 648383"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.15666340000001
 longitude: 10.713226200000001
 postcode: 91735
 city: Muhr am See
-street: Stadelner Straße
+street: "Stadelner Straße"
 housenumber: 11
 phone: "+49 9831 7525"
 opening_hours: ""

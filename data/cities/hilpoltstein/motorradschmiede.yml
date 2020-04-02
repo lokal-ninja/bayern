@@ -5,7 +5,7 @@ latitude: 49.1867644
 longitude: 11.187201100000001
 postcode: 91161
 city: Hilpoltstein
-street: Altstadtring
+street: "Altstadtring"
 housenumber: 25
 phone: "+49 9174 2700"
 opening_hours: ""

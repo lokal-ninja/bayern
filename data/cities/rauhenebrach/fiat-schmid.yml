@@ -5,7 +5,7 @@ latitude: 49.8734715
 longitude: 10.624944000000001
 postcode: 
 city: Rauhenebrach
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 14
 phone: ""
 opening_hours: ""

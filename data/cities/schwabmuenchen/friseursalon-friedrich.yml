@@ -5,7 +5,7 @@ latitude: 48.177387200000005
 longitude: 10.7559898
 postcode: 86830
 city: Schwabmünchen
-street: Mindelheimer Straße
+street: "Mindelheimer Straße"
 housenumber: 13
 phone: "+49 8232 2910"
 opening_hours: ""

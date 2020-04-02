@@ -5,7 +5,7 @@ latitude: 49.4139697
 longitude: 11.016492600000001
 postcode: 90547
 city: Stein
-street: Luitpoldstraße
+street: "Luitpoldstraße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo,Tu,Th-Sa 09:00-12:00;Mo,Th,Th,Fr15:00-18:00;We 09:00-13:00"

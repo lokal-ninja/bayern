@@ -5,7 +5,7 @@ latitude: 48.128843
 longitude: 11.601054900000001
 postcode: 81667
 city: München
-street: Pariser Straße
+street: "Pariser Straße"
 housenumber: 44
 phone: ""
 opening_hours: ""

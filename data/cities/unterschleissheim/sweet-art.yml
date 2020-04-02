@@ -5,7 +5,7 @@ latitude: 48.2833485
 longitude: 11.564411600000001
 postcode: 85716
 city: Unterschleißheim
-street: Max-Planck-Straße
+street: "Max-Planck-Straße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Th 09:00-12:00; Fr 08:00-11:00"

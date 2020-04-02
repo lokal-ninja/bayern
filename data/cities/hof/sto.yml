@@ -5,7 +5,7 @@ latitude: 50.313890300000004
 longitude: 11.877383100000001
 postcode: 95030
 city: Hof
-street: An der Hohensaas
+street: "An der Hohensaas"
 housenumber: 14
 phone: ""
 opening_hours: ""

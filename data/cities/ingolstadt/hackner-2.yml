@@ -5,7 +5,7 @@ latitude: 48.772471
 longitude: 11.4062268
 postcode: 85057
 city: Ingolstadt
-street: Richard-Strauss-Straße
+street: "Richard-Strauss-Straße"
 housenumber: 30
 phone: ""
 opening_hours: ""

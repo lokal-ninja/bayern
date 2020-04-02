@@ -5,7 +5,7 @@ latitude: 49.374220300000005
 longitude: 11.214105
 postcode: 90537
 city: Feucht
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 55
 phone: ""
 opening_hours: ""

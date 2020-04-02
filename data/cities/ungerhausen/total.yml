@@ -5,7 +5,7 @@ latitude: 48.01837200000001
 longitude: 10.273325600000002
 postcode: 87781
 city: Ungerhausen
-street: Gutenbergstraße
+street: "Gutenbergstraße"
 housenumber: 2
 phone: ""
 opening_hours: "24/7"

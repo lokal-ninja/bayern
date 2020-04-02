@@ -5,7 +5,7 @@ latitude: 48.227534500000004
 longitude: 11.4816877
 postcode: 85757
 city: Karlsfeld
-street: Dieselstraße
+street: "Dieselstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

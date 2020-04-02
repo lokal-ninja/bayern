@@ -5,7 +5,7 @@ latitude: 49.0582824
 longitude: 12.129869900000001
 postcode: 93057
 city: Regensburg
-street: Münchberger Straße
+street: "Münchberger Straße"
 housenumber: 2
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 47.891838400000005
 longitude: 10.6121797
 postcode: 87600
 city: Kaufbeuren
-street: Mindelheimer Straße
+street: "Mindelheimer Straße"
 housenumber: 78
 phone: ""
 opening_hours: ""

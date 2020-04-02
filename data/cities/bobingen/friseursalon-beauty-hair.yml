@@ -5,7 +5,7 @@ latitude: 48.2788897
 longitude: 10.843788400000001
 postcode: 86399
 city: Bobingen
-street: Banaterstraße
+street: "Banaterstraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

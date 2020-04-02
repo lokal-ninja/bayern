@@ -5,7 +5,7 @@ latitude: 49.803541700000004
 longitude: 9.1576278
 postcode: 63906
 city: Erlenbach am Main
-street: Dr.-Vits-Straße
+street: "Dr.-Vits-Straße"
 housenumber: 6
 phone: "+49 9372 5321"
 opening_hours: ""

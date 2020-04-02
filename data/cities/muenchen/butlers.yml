@@ -5,7 +5,7 @@ latitude: 48.1357586
 longitude: 11.5798173
 postcode: 80331
 city: München
-street: Tal
+street: "Tal"
 housenumber: 26
 phone: "+49 89 242237-07"
 opening_hours: "Mo-Sa 10:00-20:00"

@@ -5,7 +5,7 @@ latitude: 48.1135402
 longitude: 11.4762172
 postcode: 81377
 city: München
-street: Sauerbruchstraße
+street: "Sauerbruchstraße"
 housenumber: 10
 phone: "+49 89 703894"
 opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-13:00"

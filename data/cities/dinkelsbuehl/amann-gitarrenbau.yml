@@ -5,7 +5,7 @@ latitude: 49.0674459
 longitude: 10.3204578
 postcode: 91550
 city: Dinkelsbühl
-street: Lange Gasse
+street: "Lange Gasse"
 housenumber: 35
 phone: "+49(0)9851-53843"
 opening_hours: ""

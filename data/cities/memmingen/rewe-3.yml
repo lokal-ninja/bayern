@@ -5,7 +5,7 @@ latitude: 47.996005800000006
 longitude: 10.1971507
 postcode: 87700
 city: Memmingen
-street: Münchner Straße
+street: "Münchner Straße"
 housenumber: 75
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

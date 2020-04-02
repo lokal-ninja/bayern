@@ -5,7 +5,7 @@ latitude: 48.51430250000001
 longitude: 11.4626671
 postcode: 85298
 city: Scheyern
-street: Scheyerer Straße
+street: "Scheyerer Straße"
 housenumber: 7
 phone: "+49 8441 2130"
 opening_hours: ""

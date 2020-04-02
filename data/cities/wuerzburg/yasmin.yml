@@ -5,7 +5,7 @@ latitude: 49.7942436
 longitude: 9.911692
 postcode: 97082
 city: Würzburg
-street: Frankfurter Straße
+street: "Frankfurter Straße"
 housenumber: 33
 phone: "+49 176 436 073 34"
 opening_hours: ""

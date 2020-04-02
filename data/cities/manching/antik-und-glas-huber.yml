@@ -5,7 +5,7 @@ latitude: 48.714672
 longitude: 11.4773922
 postcode: 85077
 city: Manching
-street: Mitterstraße
+street: "Mitterstraße"
 housenumber: 12
 phone: "+49 8459 1399"
 opening_hours: ""

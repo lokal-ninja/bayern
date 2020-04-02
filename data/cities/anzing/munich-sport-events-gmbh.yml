@@ -5,7 +5,7 @@ latitude: 48.142796800000006
 longitude: 11.8540662
 postcode: 85646
 city: Anzing
-street: Gutenbergstraße
+street: "Gutenbergstraße"
 housenumber: 3a
 phone: ""
 opening_hours: ""

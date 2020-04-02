@@ -5,7 +5,7 @@ latitude: 49.702208000000006
 longitude: 11.043243700000001
 postcode: 91353
 city: Hausen
-street: Forchheimer Straße
+street: "Forchheimer Straße"
 housenumber: 38
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

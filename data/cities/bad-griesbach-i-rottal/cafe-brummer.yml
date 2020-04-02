@@ -5,7 +5,7 @@ latitude: 48.4511509
 longitude: 13.193681400000001
 postcode: 94086
 city: Bad Griesbach i.Rottal
-street: Stadtplatz
+street: "Stadtplatz"
 housenumber: 4
 phone: "+49 8532 3318"
 opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-12:00; Su 07:00-17:00"

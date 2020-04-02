@@ -5,7 +5,7 @@ latitude: 50.0834908
 longitude: 10.568669400000001
 postcode: 97486
 city: Königsberg in Bayern
-street: Ottostraße
+street: "Ottostraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

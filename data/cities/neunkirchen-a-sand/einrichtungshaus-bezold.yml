@@ -5,7 +5,7 @@ latitude: 49.521747600000005
 longitude: 11.3137361
 postcode: 91233
 city: Neunkirchen a.Sand
-street: Grenzweg
+street: "Grenzweg"
 housenumber: 1
 phone: "+49 9123 183183"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"

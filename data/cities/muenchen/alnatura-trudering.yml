@@ -5,7 +5,7 @@ latitude: 48.12314730000001
 longitude: 11.6715668
 postcode: 81825
 city: München
-street: Hafelhofweg
+street: "Hafelhofweg"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00; PH closed"

@@ -5,7 +5,7 @@ latitude: 48.354680800000004
 longitude: 10.9788837
 postcode: 86316
 city: Friedberg
-street: Marienplatz
+street: "Marienplatz"
 housenumber: 15
 phone: "+49 821 60 91 10"
 opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"

@@ -5,7 +5,7 @@ latitude: 48.121224600000005
 longitude: 11.670947100000001
 postcode: 81825
 city: München
-street: Truderinger Straße
+street: "Truderinger Straße"
 housenumber: 
 phone: ""
 opening_hours: ""

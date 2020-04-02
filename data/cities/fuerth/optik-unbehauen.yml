@@ -5,7 +5,7 @@ latitude: 49.474140600000005
 longitude: 10.990530900000001
 postcode: 90762
 city: Fürth
-street: Hallstraße
+street: "Hallstraße"
 housenumber: 5
 phone: "+49 911 779376"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-14:00"

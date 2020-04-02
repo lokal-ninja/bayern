@@ -5,7 +5,7 @@ latitude: 50.0390187
 longitude: 12.0039086
 postcode: 95632
 city: Wunsiedel
-street: Karl-Sand-Straße
+street: "Karl-Sand-Straße"
 housenumber: 8
 phone: "+499232 700770"
 opening_hours: ""

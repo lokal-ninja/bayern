@@ -5,7 +5,7 @@ latitude: 49.4110309
 longitude: 11.1714011
 postcode: 90475
 city: Nürnberg
-street: Löwenberger Straße
+street: "Löwenberger Straße"
 housenumber: 34
 phone: "+49 911 9413341"
 opening_hours: ""

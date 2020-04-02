@@ -5,7 +5,7 @@ latitude: 48.3430187
 longitude: 10.8737425
 postcode: 86199
 city: Augsburg
-street: Klausenberg
+street: "Klausenberg"
 housenumber: 30
 phone: "+49 821 90070"
 opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-12:00"

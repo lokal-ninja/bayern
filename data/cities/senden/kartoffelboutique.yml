@@ -5,7 +5,7 @@ latitude: 48.3132755
 longitude: 10.058382400000001
 postcode: 89250
 city: Senden
-street: Ferdinand-Lassalle-Weg
+street: "Ferdinand-Lassalle-Weg"
 housenumber: 5
 phone: ""
 opening_hours: "Fr 14:00-18:00; Sa 09:00-12:00"

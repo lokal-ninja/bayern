@@ -5,7 +5,7 @@ latitude: 48.374498200000005
 longitude: 10.9325951
 postcode: 86165
 city: Augsburg
-street: Donaustraße
+street: "Donaustraße"
 housenumber: 14
 phone: ""
 opening_hours: ""

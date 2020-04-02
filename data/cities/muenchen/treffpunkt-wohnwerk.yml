@@ -5,7 +5,7 @@ latitude: 48.1499108
 longitude: 11.5270706
 postcode: 80634
 city: München
-street: Schäringerplatz
+street: "Schäringerplatz"
 housenumber: 13
 phone: ""
 opening_hours: ""

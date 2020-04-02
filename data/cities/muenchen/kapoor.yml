@@ -5,7 +5,7 @@ latitude: 48.180854200000006
 longitude: 11.570572
 postcode: 80807
 city: München
-street: Georgenschwaigstraße
+street: "Georgenschwaigstraße"
 housenumber: 19
 phone: ""
 opening_hours: ""

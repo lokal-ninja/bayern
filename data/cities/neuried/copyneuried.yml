@@ -5,7 +5,7 @@ latitude: 48.0925196
 longitude: 11.464387100000001
 postcode: 82061
 city: Neuried
-street: Gautinger Straße
+street: "Gautinger Straße"
 housenumber: 8
 phone: "+49 (0)89 790 86 490"
 opening_hours: "Mo-Th 07:30-12:00,13:30-17:00; Fr 07:30-13:00"

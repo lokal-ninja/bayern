@@ -5,7 +5,7 @@ latitude: 48.1466008
 longitude: 11.3008932
 postcode: 82239
 city: Alling
-street: Flurstraße
+street: "Flurstraße"
 housenumber: 4a
 phone: "+49 8141 666551"
 opening_hours: ""

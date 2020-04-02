@@ -5,7 +5,7 @@ latitude: 47.840499200000004
 longitude: 12.0737786
 postcode: 83059
 city: Kolbermoor
-street: Fraunhoferstraße
+street: "Fraunhoferstraße"
 housenumber: 6
 phone: "+49 800 473288 39"
 opening_hours: ""

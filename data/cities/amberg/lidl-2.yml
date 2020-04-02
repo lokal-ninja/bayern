@@ -5,7 +5,7 @@ latitude: 49.434293600000004
 longitude: 11.878732000000001
 postcode: 92224
 city: Amberg
-street: Barbarastraße
+street: "Barbarastraße"
 housenumber: 20
 phone: ""
 opening_hours: ""

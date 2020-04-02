@@ -5,7 +5,7 @@ latitude: 48.0456488
 longitude: 12.588094700000001
 postcode: 83308
 city: Trostberg
-street: Angerweg
+street: "Angerweg"
 housenumber: 1
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 47.8711295
 longitude: 12.6139054
 postcode: 83278
 city: Traunstein
-street: Grabenstätter Straße
+street: "Grabenstätter Straße"
 housenumber: 5
 phone: "+49 861 98889 20"
 opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-12:00"

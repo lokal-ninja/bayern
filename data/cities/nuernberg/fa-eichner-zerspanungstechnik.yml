@@ -5,7 +5,7 @@ latitude: 49.40153
 longitude: 11.179941600000001
 postcode: 90475
 city: Nürnberg
-street: Altenfurter Straße
+street: "Altenfurter Straße"
 housenumber: 97
 phone: ""
 opening_hours: ""

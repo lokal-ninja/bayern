@@ -5,7 +5,7 @@ latitude: 48.216374200000004
 longitude: 11.6750985
 postcode: 85737
 city: Ismaning
-street: Frühlingstraße
+street: "Frühlingstraße"
 housenumber: 21
 phone: ""
 opening_hours: "Tu,Th,Fr 15:00-18:00; We,Sa 10:00-13:00"

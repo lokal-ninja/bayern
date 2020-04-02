@@ -5,7 +5,7 @@ latitude: 49.475627100000004
 longitude: 11.1066163
 postcode: 90411
 city: Nürnberg
-street: Bessemerstraße
+street: "Bessemerstraße"
 housenumber: 20
 phone: ""
 opening_hours: ""

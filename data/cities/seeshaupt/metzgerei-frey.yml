@@ -5,7 +5,7 @@ latitude: 47.8230439
 longitude: 11.297184300000001
 postcode: 82402
 city: Seeshaupt
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 18
 phone: "+49 8801 843"
 opening_hours: "Mo,Sa 07:00-12:00; Tu-Fr 07:00-12:30,15:00-18:00"

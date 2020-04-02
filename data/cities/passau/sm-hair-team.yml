@@ -5,7 +5,7 @@ latitude: 48.571349600000005
 longitude: 13.451277800000002
 postcode: 94032
 city: Passau
-street: Neuburger Straße
+street: "Neuburger Straße"
 housenumber: 32
 phone: "+49 851 55830"
 opening_hours: ""

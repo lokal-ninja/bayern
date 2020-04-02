@@ -5,7 +5,7 @@ latitude: 48.051509800000005
 longitude: 11.607756
 postcode: 82024
 city: Taufkirchen
-street: Eschenstraße
+street: "Eschenstraße"
 housenumber: 20
 phone: "+49 89 6126553"
 opening_hours: ""

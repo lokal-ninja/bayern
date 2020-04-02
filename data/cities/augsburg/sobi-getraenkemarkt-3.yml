@@ -5,7 +5,7 @@ latitude: 48.37315520000001
 longitude: 10.870406500000001
 postcode: 86156
 city: Augsburg
-street: Reinöhlstraße
+street: "Reinöhlstraße"
 housenumber: 101
 phone: "+49 821 52 85 34"
 opening_hours: "Mo-Sa 08:00-20:00"

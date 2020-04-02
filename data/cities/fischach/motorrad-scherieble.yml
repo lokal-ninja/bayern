@@ -5,7 +5,7 @@ latitude: 48.2898347
 longitude: 10.6484267
 postcode: 86850
 city: Fischach
-street: Neufnachstraße
+street: "Neufnachstraße"
 housenumber: 14
 phone: ""
 opening_hours: "10:00 - 18:00"

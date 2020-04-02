@@ -5,7 +5,7 @@ latitude: 49.660042100000005
 longitude: 12.1475471
 postcode: 92637
 city: Weiden i.d.OPf.
-street: Regensburger Straße
+street: "Regensburger Straße"
 housenumber: 42
 phone: "+49 961 4016695"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"

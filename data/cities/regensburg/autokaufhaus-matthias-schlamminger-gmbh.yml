@@ -5,7 +5,7 @@ latitude: 49.0620842
 longitude: 12.1334993
 postcode: 93057
 city: Regensburg
-street: Weidener Straße
+street: "Weidener Straße"
 housenumber: 3
 phone: "+49 941 29789 11"
 opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-16:00"

@@ -5,7 +5,7 @@ latitude: 48.1268917
 longitude: 11.6085723
 postcode: 81671
 city: München
-street: Haager Straße
+street: "Haager Straße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Th 08:00-09:00 open Neuwagen, Mo-Th 09:00-18:00 open Neuwagen, Gebrauchtwagen; Fr 08:00-17:00 open Neuwagen, Fr 08:00-17:00 open Neuwagen, Gebrauchtwagen; Sa 09:00-12:00 open Neuwagen, Sa 12:00-13:00 open Gebrauchtwagen; PH off"

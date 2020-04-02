@@ -5,7 +5,7 @@ latitude: 49.1864331
 longitude: 11.605939000000001
 postcode: 92358
 city: Batzhausen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 16
 phone: "+49 9497 94120"
 opening_hours: ""

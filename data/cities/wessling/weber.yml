@@ -5,7 +5,7 @@ latitude: 48.0765897
 longitude: 11.252122
 postcode: 82234
 city: Weßling
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 23
 phone: ""
 opening_hours: ""

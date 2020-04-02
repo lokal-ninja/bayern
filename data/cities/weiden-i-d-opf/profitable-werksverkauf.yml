@@ -5,7 +5,7 @@ latitude: 49.667342000000005
 longitude: 12.1550034
 postcode: 92637
 city: Weiden i.d.OPf.
-street: Fabrikstraße
+street: "Fabrikstraße"
 housenumber: 
 phone: ""
 opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-14:00"

@@ -5,7 +5,7 @@ latitude: 50.0273728
 longitude: 10.5199139
 postcode: 97437
 city: Haßfurt
-street: Flugplatzstraße
+street: "Flugplatzstraße"
 housenumber: 12
 phone: "+49 9521 64608"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.831060300000004
 longitude: 12.962087
 postcode: 94469
 city: Deggendorf
-street: Michael-Fischer-Platz
+street: "Michael-Fischer-Platz"
 housenumber: 18
 phone: ""
 opening_hours: ""

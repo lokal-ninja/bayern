@@ -5,7 +5,7 @@ latitude: 48.9759369
 longitude: 12.191577800000001
 postcode: 93073
 city: Neutraubling
-street: Waldkraiburger Straße
+street: "Waldkraiburger Straße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Fr 07:30-18:00; Sa 08:30-13:00"

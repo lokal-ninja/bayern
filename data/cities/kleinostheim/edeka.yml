@@ -5,7 +5,7 @@ latitude: 50.0091437
 longitude: 9.0569159
 postcode: 63801
 city: Kleinostheim
-street: Kardinal-Faulhaber-Straße
+street: "Kardinal-Faulhaber-Straße"
 housenumber: 16
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

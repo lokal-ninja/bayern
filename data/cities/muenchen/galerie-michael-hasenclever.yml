@@ -5,7 +5,7 @@ latitude: 48.1300328
 longitude: 11.5766673
 postcode: 80469
 city: München
-street: Baaderstraße
+street: "Baaderstraße"
 housenumber: 56 c
 phone: "+49 (0)89 99 75 00 70"
 opening_hours: "Tu-Fr 14:00-18:00; Sa 11:00-14:00 || nach Vereinbarung"

@@ -5,7 +5,7 @@ latitude: 49.450521300000005
 longitude: 12.1795267
 postcode: 92507
 city: Nabburg
-street: Regensburger Straße
+street: "Regensburger Straße"
 housenumber: 15
 phone: ""
 opening_hours: ""

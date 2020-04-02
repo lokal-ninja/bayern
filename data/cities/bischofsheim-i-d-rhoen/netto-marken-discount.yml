@@ -5,7 +5,7 @@ latitude: 50.4031005
 longitude: 10.0042152
 postcode: 97653
 city: Bischofsheim i.d.Rhön
-street: Rhönstraße
+street: "Rhönstraße"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

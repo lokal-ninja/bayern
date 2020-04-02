@@ -5,7 +5,7 @@ latitude: 48.0189504
 longitude: 11.590655400000001
 postcode: 82041
 city: Oberhaching
-street: Hubertusstraße
+street: "Hubertusstraße"
 housenumber: 1
 phone: "+49 89 46098097"
 opening_hours: "Mo-Fr 10:00-13:00,14:00-19:30; Sa 10:00-15:00"

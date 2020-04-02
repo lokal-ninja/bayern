@@ -5,7 +5,7 @@ latitude: 48.5473286
 longitude: 13.242753400000002
 postcode: 94496
 city: Ortenburg
-street: Hinterhainberg
+street: "Hinterhainberg"
 housenumber: 8
 phone: "+49 8542 7274"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.0571003
 longitude: 11.667074600000001
 postcode: 85521
 city: Hohenbrunn
-street: Rosenheimer Landstraße
+street: "Rosenheimer Landstraße"
 housenumber: 105
 phone: ""
 opening_hours: ""

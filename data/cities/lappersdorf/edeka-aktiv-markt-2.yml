@@ -5,7 +5,7 @@ latitude: 49.072903100000005
 longitude: 12.047296600000001
 postcode: 93138
 city: Lappersdorf
-street: Turlweg
+street: "Turlweg"
 housenumber: 69
 phone: "+49 941 8703250"
 opening_hours: "Mo-Sa 08:00-20:00"

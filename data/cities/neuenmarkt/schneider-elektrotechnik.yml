@@ -5,7 +5,7 @@ latitude: 50.0931652
 longitude: 11.584211700000001
 postcode: 95339
 city: Neuenmarkt
-street: Laubenstraße
+street: "Laubenstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

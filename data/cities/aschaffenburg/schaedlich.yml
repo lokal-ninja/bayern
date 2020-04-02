@@ -5,7 +5,7 @@ latitude: 49.9753449
 longitude: 9.1462263
 postcode: 63739
 city: Aschaffenburg
-street: Nebensteingasse
+street: "Nebensteingasse"
 housenumber: 1-5
 phone: "+49 60221 38820"
 opening_hours: ""

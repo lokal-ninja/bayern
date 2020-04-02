@@ -5,7 +5,7 @@ latitude: 49.8768381
 longitude: 10.1661438
 postcode: 97332
 city: Volkach
-street: Blütenstraße
+street: "Blütenstraße"
 housenumber: 11
 phone: "+49 9381 718350"
 opening_hours: ""

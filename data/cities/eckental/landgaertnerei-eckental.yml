@@ -5,7 +5,7 @@ latitude: 49.576714100000004
 longitude: 11.188301200000002
 postcode: 90542
 city: Eckental
-street: Brander Hauptstraße
+street: "Brander Hauptstraße"
 housenumber: 58
 phone: ""
 opening_hours: ""

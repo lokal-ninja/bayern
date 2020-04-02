@@ -5,7 +5,7 @@ latitude: 47.5281649
 longitude: 11.111561100000001
 postcode: 82490
 city: Farchant
-street: Partnachstraße
+street: "Partnachstraße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Fr 08:00-12:00,13:00-17:00"

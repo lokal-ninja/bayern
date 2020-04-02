@@ -5,7 +5,7 @@ latitude: 47.828567
 longitude: 12.104995500000001
 postcode: 83026
 city: Rosenheim
-street: Aisinger Straße
+street: "Aisinger Straße"
 housenumber: 88
 phone: ""
 opening_hours: ""

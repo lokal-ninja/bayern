@@ -5,7 +5,7 @@ latitude: 49.758850900000006
 longitude: 9.715791600000001
 postcode: 97264
 city: Helmstadt
-street: Prinz-Ludwig-Straße
+street: "Prinz-Ludwig-Straße"
 housenumber: 2
 phone: "+49 172 8012461"
 opening_hours: "Mo-Fr: 09:00 - 18:00 Uhr"

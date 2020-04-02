@@ -5,7 +5,7 @@ latitude: 49.7199984
 longitude: 11.0605319
 postcode: 91301
 city: Forchheim
-street: Hornschuchallee
+street: "Hornschuchallee"
 housenumber: 21
 phone: ""
 opening_hours: ""

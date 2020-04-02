@@ -5,7 +5,7 @@ latitude: 48.1606024
 longitude: 11.4238646
 postcode: 81245
 city: München
-street: Bergsonstraße
+street: "Bergsonstraße"
 housenumber: 147
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"

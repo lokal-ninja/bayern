@@ -5,7 +5,7 @@ latitude: 50.295981100000006
 longitude: 11.0425901
 postcode: 96472
 city: Rödental
-street: Bürgerplatz
+street: "Bürgerplatz"
 housenumber: 2
 phone: "+49 9563 7298367"
 opening_hours: ""

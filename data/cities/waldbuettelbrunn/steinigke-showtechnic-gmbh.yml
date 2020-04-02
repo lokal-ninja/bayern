@@ -5,7 +5,7 @@ latitude: 49.7934678
 longitude: 9.8435953
 postcode: 97297
 city: Waldbüttelbrunn
-street: Andreas-Bauer-Straße
+street: "Andreas-Bauer-Straße"
 housenumber: 5
 phone: "+49 931 4061 600"
 opening_hours: ""

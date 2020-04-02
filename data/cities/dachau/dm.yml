@@ -5,7 +5,7 @@ latitude: 48.2548229
 longitude: 11.439167600000001
 postcode: 85221
 city: Dachau
-street: Münchner Straße
+street: "Münchner Straße"
 housenumber: 32
 phone: ""
 opening_hours: "Mo-Fr 08:30-19:00; Sa 08:30-18:00; PH off"

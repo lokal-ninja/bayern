@@ -5,7 +5,7 @@ latitude: 48.1371984
 longitude: 11.5421311
 postcode: 80339
 city: München
-street: Ligsalzstraße
+street: "Ligsalzstraße"
 housenumber: 18
 phone: ""
 opening_hours: "Mo-Th 08:00-18:00, Fr 08:00-16:00"

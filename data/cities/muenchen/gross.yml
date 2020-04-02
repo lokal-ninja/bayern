@@ -5,7 +5,7 @@ latitude: 48.1374252
 longitude: 11.578141700000002
 postcode: 80331
 city: München
-street: Ledererstraße
+street: "Ledererstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 11:00-19:00"

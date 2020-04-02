@@ -5,7 +5,7 @@ latitude: 49.3203271
 longitude: 11.1256135
 postcode: 90596
 city: Schwanstetten
-street: Ringstraße
+street: "Ringstraße"
 housenumber: 22
 phone: ""
 opening_hours: "Mo-Fr 07:30-19:00; Sa 07:30-13:00"

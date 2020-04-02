@@ -5,7 +5,7 @@ latitude: 49.791135000000004
 longitude: 9.9318586
 postcode: 97070
 city: Würzburg
-street: Franziskanerplatz
+street: "Franziskanerplatz"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-14:00"

@@ -5,7 +5,7 @@ latitude: 48.554765
 longitude: 12.151139500000001
 postcode: 84030
 city: Landshut
-street: Siemensstraße
+street: "Siemensstraße"
 housenumber: 12
 phone: ""
 opening_hours: ""

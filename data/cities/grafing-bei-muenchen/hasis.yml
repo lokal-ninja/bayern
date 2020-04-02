@@ -5,7 +5,7 @@ latitude: 48.044450700000006
 longitude: 11.9665739
 postcode: 85567
 city: Grafing bei München
-street: Griesstraße
+street: "Griesstraße"
 housenumber: 26
 phone: "+49 8092 863123"
 opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-12:00, Su, PH 07:00-11:30"

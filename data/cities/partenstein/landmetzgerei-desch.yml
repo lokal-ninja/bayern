@@ -5,7 +5,7 @@ latitude: 50.042935500000006
 longitude: 9.5140946
 postcode: 97846
 city: Partenstein
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 50
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00; We off; Sa 08:00-12:00"

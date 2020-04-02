@@ -5,7 +5,7 @@ latitude: 48.4100387
 longitude: 11.793606800000001
 postcode: 85417
 city: Marzling
-street: Freisinger Straße
+street: "Freisinger Straße"
 housenumber: 16
 phone: "+49 8161 21416"
 opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-12:00"

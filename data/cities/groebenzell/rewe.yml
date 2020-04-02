@@ -5,7 +5,7 @@ latitude: 48.1940528
 longitude: 11.372673200000001
 postcode: 82194
 city: Gröbenzell
-street: Kirchenstraße
+street: "Kirchenstraße"
 housenumber: 13
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

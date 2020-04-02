@@ -5,7 +5,7 @@ latitude: 49.7959097
 longitude: 9.7233821
 postcode: 97292
 city: Uettingen
-street: Münchener Straße
+street: "Münchener Straße"
 housenumber: 21
 phone: "+49 9369 980 0374"
 opening_hours: "Mo 09:00-13:00; Fr 15:00-18:00"

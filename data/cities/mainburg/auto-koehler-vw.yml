@@ -5,7 +5,7 @@ latitude: 48.651941900000004
 longitude: 11.777075400000001
 postcode: 84048
 city: Mainburg
-street: Max-Spenger-Straße
+street: "Max-Spenger-Straße"
 housenumber: 11
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.3121778
 longitude: 10.5569249
 postcode: 91522
 city: Ansbach
-street: Rothenburger Straße
+street: "Rothenburger Straße"
 housenumber: 15
 phone: "+49 981 48790"
 opening_hours: "Mo-Sa 09:30-20:00"

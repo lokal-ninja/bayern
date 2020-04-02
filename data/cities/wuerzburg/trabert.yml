@@ -5,7 +5,7 @@ latitude: 49.797265800000005
 longitude: 9.9339799
 postcode: 97070
 city: Würzburg
-street: Theaterstraße
+street: "Theaterstraße"
 housenumber: 1-3
 phone: ""
 opening_hours: ""

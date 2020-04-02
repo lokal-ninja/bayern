@@ -5,7 +5,7 @@ latitude: 49.441378400000005
 longitude: 11.0352771
 postcode: 90431
 city: Nürnberg
-street: Leubelfingstraße
+street: "Leubelfingstraße"
 housenumber: 133
 phone: "+49 911 3939508"
 opening_hours: ""

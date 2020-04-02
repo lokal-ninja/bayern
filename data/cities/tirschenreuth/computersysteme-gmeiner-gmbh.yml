@@ -5,7 +5,7 @@ latitude: 49.88562
 longitude: 12.3134727
 postcode: 95643
 city: Tirschenreuth
-street: Fischerhüttenweg
+street: "Fischerhüttenweg"
 housenumber: 4
 phone: "+49 9631 70000"
 opening_hours: ""

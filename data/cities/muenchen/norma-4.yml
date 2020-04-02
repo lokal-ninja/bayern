@@ -5,7 +5,7 @@ latitude: 48.133439200000005
 longitude: 11.575124800000001
 postcode: 80469
 city: München
-street: Am Einlaß
+street: "Am Einlaß"
 housenumber: 3a
 phone: ""
 opening_hours: "Mo-Su 08:00-20:00"

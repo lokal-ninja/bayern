@@ -5,7 +5,7 @@ latitude: 49.378278800000004
 longitude: 10.180728100000001
 postcode: 91541
 city: Rothenburg ob der Tauber
-street: Galgengasse
+street: "Galgengasse"
 housenumber: 2
 phone: "+49-9861-2372"
 opening_hours: ""

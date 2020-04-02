@@ -5,7 +5,7 @@ latitude: 49.4359106
 longitude: 11.8842703
 postcode: 92224
 city: Amberg
-street: Dieselstraße
+street: "Dieselstraße"
 housenumber: 3
 phone: "+49 9621 769580"
 opening_hours: "Mo-Th 08:00-12:00,13:00-17:00; Fr 08:00-12:00,13:00-15:30"

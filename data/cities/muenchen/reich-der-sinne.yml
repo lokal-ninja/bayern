@@ -5,7 +5,7 @@ latitude: 48.1280081
 longitude: 11.5385986
 postcode: 81373
 city: München
-street: Ganghoferstraße
+street: "Ganghoferstraße"
 housenumber: 80
 phone: ""
 opening_hours: ""

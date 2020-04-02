@@ -5,7 +5,7 @@ latitude: 49.376489400000004
 longitude: 10.1793378
 postcode: 91541
 city: Rothenburg ob der Tauber
-street: Obere Schmiedgasse
+street: "Obere Schmiedgasse"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Su 09:30-17:30"

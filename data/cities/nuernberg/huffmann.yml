@@ -5,7 +5,7 @@ latitude: 49.4524441
 longitude: 11.073565100000001
 postcode: 90403
 city: Nürnberg
-street: Obere Wörthstraße
+street: "Obere Wörthstraße"
 housenumber: 14
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.782575400000006
 longitude: 9.1826472
 postcode: 63911
 city: Klingenberg a.Main
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 25
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.0097193
 longitude: 12.377611100000001
 postcode: 93109
 city: Wiesent
-street: Frauenzeller Straße
+street: "Frauenzeller Straße"
 housenumber: 8
 phone: "+49 9482 407"
 opening_hours: ""

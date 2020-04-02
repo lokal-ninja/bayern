@@ -5,7 +5,7 @@ latitude: 49.5965208
 longitude: 11.0033127
 postcode: 91054
 city: Erlangen
-street: Richard-Wagner-Straße
+street: "Richard-Wagner-Straße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Fr 10:00-19:00"

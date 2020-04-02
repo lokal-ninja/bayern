@@ -5,7 +5,7 @@ latitude: 48.161003300000004
 longitude: 11.579900400000001
 postcode: 80801
 city: München
-street: Kaiserstraße
+street: "Kaiserstraße"
 housenumber: 37
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.0970723
 longitude: 12.482854000000001
 postcode: 93167
 city: Falkenstein
-street: Regensburger Straße
+street: "Regensburger Straße"
 housenumber: 12
 phone: "+49 9462 5292"
 opening_hours: "Mo-Sa 06:00-20:00"

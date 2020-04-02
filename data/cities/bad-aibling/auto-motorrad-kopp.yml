@@ -5,7 +5,7 @@ latitude: 47.853977
 longitude: 11.989559700000001
 postcode: 83043
 city: Bad Aibling
-street: Pullacher Straße
+street: "Pullacher Straße"
 housenumber: 6
 phone: "+49 8061 55 01"
 opening_hours: "Mo-Fr 09:00-18:00;Sa 10:00-13:00;Su,PH off"

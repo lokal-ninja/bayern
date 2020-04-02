@@ -5,7 +5,7 @@ latitude: 47.79426
 longitude: 11.838980900000001
 postcode: 83714
 city: Miesbach
-street: Am Windfeld
+street: "Am Windfeld"
 housenumber: 8
 phone: "+49 8025 29730"
 opening_hours: "Mo-Sa 08:00-19:00"

@@ -5,7 +5,7 @@ latitude: 49.960321400000005
 longitude: 9.767637500000001
 postcode: 97753
 city: Karlstadt
-street: Ringstraße
+street: "Ringstraße"
 housenumber: 42a
 phone: "+49 9353 3015"
 opening_hours: ""

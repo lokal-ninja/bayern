@@ -5,7 +5,7 @@ latitude: 48.161394200000004
 longitude: 11.5322524
 postcode: 80637
 city: München
-street: Taxisstraße
+street: "Taxisstraße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Fr 07:30-20:00; Sa,Su 10:30-19:30"

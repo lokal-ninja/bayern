@@ -5,7 +5,7 @@ latitude: 47.6440156
 longitude: 10.828121900000001
 postcode: 87642
 city: Trauchgau
-street: Steingadener Straße
+street: "Steingadener Straße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 06:30-12:00,14:30-18:00; Sa 06:30-12:00; Su 07:00-10:00"

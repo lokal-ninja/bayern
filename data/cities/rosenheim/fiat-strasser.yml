@@ -5,7 +5,7 @@ latitude: 47.851455300000005
 longitude: 12.0961618
 postcode: 83026
 city: Rosenheim
-street: Äußere Münchener Straße
+street: "Äußere Münchener Straße"
 housenumber: 72
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.116061200000004
 longitude: 11.6813078
 postcode: 81827
 city: München
-street: Friedenspromenade
+street: "Friedenspromenade"
 housenumber: 114
 phone: ""
 opening_hours: ""

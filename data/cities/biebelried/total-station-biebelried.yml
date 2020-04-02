@@ -5,7 +5,7 @@ latitude: 49.7672183
 longitude: 10.0750545
 postcode: 97318
 city: Biebelried
-street: Würzburger Straße
+street: "Würzburger Straße"
 housenumber: 55
 phone: "+49 1621333317"
 opening_hours: "24/7"

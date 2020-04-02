@@ -5,7 +5,7 @@ latitude: 48.3860964
 longitude: 9.9934363
 postcode: 89231
 city: Neu-Ulm
-street: An der Schießmauer
+street: "An der Schießmauer"
 housenumber: 3
 phone: "+49 731 81356"
 opening_hours: "Tu-Fr 08:00-18:00; Sa 08:00-13:00"

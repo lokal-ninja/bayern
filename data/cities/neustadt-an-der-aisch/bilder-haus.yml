@@ -5,7 +5,7 @@ latitude: 49.5802666
 longitude: 10.60777
 postcode: 91413
 city: Neustadt an der Aisch
-street: Würzburger Straße
+street: "Würzburger Straße"
 housenumber: 7
 phone: "+49 9161 5606"
 opening_hours: "Mo-Tu 09:30-13:00, 14:00-18:00; We 09:30-13:00; Th-Fr 09:30-13:00, 14:00-18:00; Sa 09:30-13:00"

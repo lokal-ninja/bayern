@@ -5,7 +5,7 @@ latitude: 48.172320600000006
 longitude: 12.2311134
 postcode: 84437
 city: Reichertsheim
-street: Schulstraße
+street: "Schulstraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

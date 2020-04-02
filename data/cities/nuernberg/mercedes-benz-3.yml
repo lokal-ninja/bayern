@@ -5,7 +5,7 @@ latitude: 49.4500788
 longitude: 11.099332
 postcode: 90402
 city: Nürnberg
-street: Kressengartenstraße
+street: "Kressengartenstraße"
 housenumber: 14
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.1857594
 longitude: 11.237706900000001
 postcode: 82256
 city: Fürstenfeldbruck
-street: Nicolaus-Otto-Straße
+street: "Nicolaus-Otto-Straße"
 housenumber: 3
 phone: "+49 8141 534674-0"
 opening_hours: "Mo-Sa 08:30-20:00; PH off"

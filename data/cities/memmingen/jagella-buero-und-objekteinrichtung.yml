@@ -5,7 +5,7 @@ latitude: 47.9846042
 longitude: 10.188634700000001
 postcode: 87700
 city: Memmingen
-street: Gaswerkstraße
+street: "Gaswerkstraße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Fr 09:00-17:00"

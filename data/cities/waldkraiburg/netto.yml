@@ -5,7 +5,7 @@ latitude: 48.2090776
 longitude: 12.404715000000001
 postcode: 84478
 city: Waldkraiburg
-street: Adlergebirgsstraße
+street: "Adlergebirgsstraße"
 housenumber: 
 phone: ""
 opening_hours: ""

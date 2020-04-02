@@ -5,7 +5,7 @@ latitude: 49.699097900000005
 longitude: 10.764726300000001
 postcode: 91475
 city: Lonnerstadt
-street: Badgasse
+street: "Badgasse"
 housenumber: 2
 phone: ""
 opening_hours: ""

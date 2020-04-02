@@ -5,7 +5,7 @@ latitude: 49.4275079
 longitude: 11.066262400000001
 postcode: 90443
 city: Nürnberg
-street: Dianaplatz
+street: "Dianaplatz"
 housenumber: 23-25
 phone: "+49 911 941710"
 opening_hours: "Mo-Sa 07:00-20:00"

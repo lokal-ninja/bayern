@@ -5,7 +5,7 @@ latitude: 48.161522000000005
 longitude: 11.5888425
 postcode: 
 city: München
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Tu-Fr 09:00-19:00; Sa 09:00-16:00"

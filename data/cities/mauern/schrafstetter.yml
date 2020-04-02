@@ -5,7 +5,7 @@ latitude: 48.515447800000004
 longitude: 11.897563700000001
 postcode: 85419
 city: Mauern
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

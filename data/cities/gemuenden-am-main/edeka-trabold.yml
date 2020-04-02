@@ -5,7 +5,7 @@ latitude: 50.058932500000004
 longitude: 9.6840202
 postcode: 97737
 city: Gemünden am Main
-street: Weißensteinstraße
+street: "Weißensteinstraße"
 housenumber: 2-4
 phone: "+49 9351 6044930"
 opening_hours: "Mo-Sa 07:00-20:00"

@@ -5,7 +5,7 @@ latitude: 48.4081386
 longitude: 10.955829000000001
 postcode: 86316
 city: Friedberg
-street: Egerländer Straße
+street: "Egerländer Straße"
 housenumber: 16
 phone: ""
 opening_hours: ""

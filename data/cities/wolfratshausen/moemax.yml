@@ -5,7 +5,7 @@ latitude: 47.900495600000006
 longitude: 11.4242877
 postcode: 82515
 city: Wolfratshausen
-street: Hans-Urmiller-Ring
+street: "Hans-Urmiller-Ring"
 housenumber: 43
 phone: ""
 opening_hours: ""

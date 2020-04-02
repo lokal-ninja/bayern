@@ -5,7 +5,7 @@ latitude: 49.9496258
 longitude: 12.242037300000002
 postcode: 95666
 city: Mitterteich
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 3
 phone: ""
 opening_hours: ""

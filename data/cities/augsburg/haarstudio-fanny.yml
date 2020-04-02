@@ -5,7 +5,7 @@ latitude: 48.388628700000005
 longitude: 10.9053146
 postcode: 86169
 city: Augsburg
-street: Schillstraße
+street: "Schillstraße"
 housenumber: 104
 phone: ""
 opening_hours: ""

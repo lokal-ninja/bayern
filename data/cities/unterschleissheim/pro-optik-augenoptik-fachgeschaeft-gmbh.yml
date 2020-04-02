@@ -5,7 +5,7 @@ latitude: 48.2827661
 longitude: 11.5793689
 postcode: 85716
 city: Unterschleißheim
-street: Bezirksstraße
+street: "Bezirksstraße"
 housenumber: 24
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:30; Sa 08:00-13:00; PH off"

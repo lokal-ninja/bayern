@@ -5,7 +5,7 @@ latitude: 48.0555699
 longitude: 11.605109500000001
 postcode: 82008
 city: Unterhaching
-street: Karl-Herrmann-Weg
+street: "Karl-Herrmann-Weg"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Sa 09:30-20:00"

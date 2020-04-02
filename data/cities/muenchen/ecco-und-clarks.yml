@@ -5,7 +5,7 @@ latitude: 48.1362089
 longitude: 11.5758106
 postcode: 80331
 city: München
-street: Petersplatz
+street: "Petersplatz"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Sa 10:00-19:00"

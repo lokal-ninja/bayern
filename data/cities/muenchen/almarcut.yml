@@ -5,7 +5,7 @@ latitude: 48.108934000000005
 longitude: 11.538556100000001
 postcode: 81369
 city: München
-street: Fallstraße
+street: "Fallstraße"
 housenumber: 24
 phone: "+49 89 7239502"
 opening_hours: "Tu-Fr 09:00-19:00; Sa 09:00-16:00"

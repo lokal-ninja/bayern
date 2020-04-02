@@ -5,7 +5,7 @@ latitude: 48.119754400000005
 longitude: 10.4616127
 postcode: 
 city: Pfaffenhausen
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

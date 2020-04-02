@@ -5,7 +5,7 @@ latitude: 48.1374386
 longitude: 11.4577846
 postcode: 81241
 city: München
-street: Haidelweg
+street: "Haidelweg"
 housenumber: 13
 phone: ""
 opening_hours: ""

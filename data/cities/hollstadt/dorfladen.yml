@@ -5,7 +5,7 @@ latitude: 50.353416
 longitude: 10.2862948
 postcode: 97618
 city: Hollstadt
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 
 phone: ""
 opening_hours: ""

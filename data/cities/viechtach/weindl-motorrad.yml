@@ -5,7 +5,7 @@ latitude: 49.0824756
 longitude: 12.877566100000001
 postcode: 94234
 city: Viechtach
-street: Krumwiesenweg
+street: "Krumwiesenweg"
 housenumber: 10
 phone: ""
 opening_hours: ""

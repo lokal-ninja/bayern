@@ -5,7 +5,7 @@ latitude: 48.516012700000005
 longitude: 11.031312400000001
 postcode: 86574
 city: Petersdorf
-street: Sonnenstraße
+street: "Sonnenstraße"
 housenumber: 17
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.5771377
 longitude: 11.0221136
 postcode: 91058
 city: Erlangen
-street: Karlsbader Straße
+street: "Karlsbader Straße"
 housenumber: 13
 phone: "+49913139325"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-13:00"

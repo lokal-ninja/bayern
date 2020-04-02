@@ -5,7 +5,7 @@ latitude: 49.4475818
 longitude: 11.0584836
 postcode: 90429
 city: Nürnberg
-street: Obere Kanalstraße
+street: "Obere Kanalstraße"
 housenumber: 25
 phone: "+49 911 390885"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.026412400000005
 longitude: 11.595808600000002
 postcode: 82041
 city: Oberhaching
-street: Hahilingastraße
+street: "Hahilingastraße"
 housenumber: 1
 phone: "+49 89 66655715"
 opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-14:00"

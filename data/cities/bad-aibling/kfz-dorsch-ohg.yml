@@ -5,7 +5,7 @@ latitude: 47.8221603
 longitude: 12.007082500000001
 postcode: 83043
 city: Bad Aibling
-street: Eulenau
+street: "Eulenau"
 housenumber: 12
 phone: "+498061 938608"
 opening_hours: ""

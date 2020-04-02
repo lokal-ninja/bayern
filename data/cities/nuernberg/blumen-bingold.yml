@@ -5,7 +5,7 @@ latitude: 49.468724800000004
 longitude: 11.024651400000002
 postcode: 90427
 city: Nürnberg
-street: Schnieglinger Straße
+street: "Schnieglinger Straße"
 housenumber: 272
 phone: "+49-911-313760"
 opening_hours: ""

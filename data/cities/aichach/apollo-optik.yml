@@ -5,7 +5,7 @@ latitude: 48.4591701
 longitude: 11.131780500000001
 postcode: 86551
 city: Aichach
-street: Tandlmarkt
+street: "Tandlmarkt"
 housenumber: 5
 phone: "+49 8251 1599"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00; Su,PH off"

@@ -5,7 +5,7 @@ latitude: 49.4597873
 longitude: 11.0885441
 postcode: 90409
 city: Nürnberg
-street: Veillodterstraße
+street: "Veillodterstraße"
 housenumber: 11a
 phone: ""
 opening_hours: "Tu, Th 17:00 - 19:00"

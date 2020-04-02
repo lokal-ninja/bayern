@@ -5,7 +5,7 @@ latitude: 49.226626800000005
 longitude: 10.7228644
 postcode: 91639
 city: Wolframs-Eschenbach
-street: Richard-Wagner-Straße
+street: "Richard-Wagner-Straße"
 housenumber: 2
 phone: "+49987597970"
 opening_hours: ""

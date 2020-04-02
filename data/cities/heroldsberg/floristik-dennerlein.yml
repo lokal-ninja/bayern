@@ -5,7 +5,7 @@ latitude: 49.5354011
 longitude: 11.1397659
 postcode: 90562
 city: Heroldsberg
-street: Stettenberger Weg
+street: "Stettenberger Weg"
 housenumber: 5
 phone: ""
 opening_hours: ""

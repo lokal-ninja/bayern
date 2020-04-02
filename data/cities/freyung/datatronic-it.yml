@@ -5,7 +5,7 @@ latitude: 48.80688
 longitude: 13.544735500000002
 postcode: 94078
 city: Freyung
-street: Passauer Straße
+street: "Passauer Straße"
 housenumber: 12
 phone: "+49 8551 910222"
 opening_hours: ""

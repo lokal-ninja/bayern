@@ -5,7 +5,7 @@ latitude: 48.159925400000006
 longitude: 11.5635195
 postcode: 80797
 city: München
-street: Schleißheimer Straße
+street: "Schleißheimer Straße"
 housenumber: 140
 phone: "+49 89 20060602"
 opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00"

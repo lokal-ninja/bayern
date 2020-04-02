@@ -5,7 +5,7 @@ latitude: 47.7797801
 longitude: 10.617992200000002
 postcode: 87616
 city: Marktoberdorf
-street: Gschwenderstraße
+street: "Gschwenderstraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

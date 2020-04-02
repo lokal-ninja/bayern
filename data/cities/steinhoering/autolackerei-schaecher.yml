@@ -5,7 +5,7 @@ latitude: 48.092736
 longitude: 12.0279102
 postcode: 85643
 city: Steinhöring
-street: Berger Straße
+street: "Berger Straße"
 housenumber: 30
 phone: "+498094180190"
 opening_hours: "Mo-Fr 08:00-18:00; PH off"

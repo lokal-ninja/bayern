@@ -5,7 +5,7 @@ latitude: 48.554061700000005
 longitude: 12.156970900000001
 postcode: 84030
 city: Landshut
-street: Porschestraße
+street: "Porschestraße"
 housenumber: 22
 phone: "+49 871 43072-0"
 opening_hours: "Mo-Sa 08:00-20:00"

@@ -5,7 +5,7 @@ latitude: 48.4399205
 longitude: 13.1888734
 postcode: 94086
 city: Bad Griesbach i.Rottal
-street: Weghofstraße
+street: "Weghofstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

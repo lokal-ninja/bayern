@@ -5,7 +5,7 @@ latitude: 49.975959100000004
 longitude: 9.1450031
 postcode: 63739
 city: Aschaffenburg
-street: Steingasse
+street: "Steingasse"
 housenumber: 16
 phone: ""
 opening_hours: ""

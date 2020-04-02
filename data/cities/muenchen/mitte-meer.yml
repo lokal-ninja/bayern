@@ -5,7 +5,7 @@ latitude: 48.1244735
 longitude: 11.6060701
 postcode: 81671
 city: München
-street: Atelierstraße
+street: "Atelierstraße"
 housenumber: 16
 phone: ""
 opening_hours: "Mo-Th 10:00-20:00; Fr-Sa 09:00-20:00"

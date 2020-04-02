@@ -5,7 +5,7 @@ latitude: 48.001111
 longitude: 10.1673386
 postcode: 87700
 city: Memmingen
-street: Rudolf-Diesel-Straße
+street: "Rudolf-Diesel-Straße"
 housenumber: 21
 phone: "+49 8331 95950"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.441456
 longitude: 11.074020800000001
 postcode: 90443
 city: Nürnberg
-street: Peter-Henlein-Straße
+street: "Peter-Henlein-Straße"
 housenumber: 27
 phone: "+49 911 47776960"
 opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-14:00"

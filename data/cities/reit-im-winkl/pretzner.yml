@@ -5,7 +5,7 @@ latitude: 47.6773571
 longitude: 12.4707076
 postcode: 83242
 city: Reit im Winkl
-street: Dorfstraße
+street: "Dorfstraße"
 housenumber: 4
 phone: "+49 8640 976969"
 opening_hours: ""

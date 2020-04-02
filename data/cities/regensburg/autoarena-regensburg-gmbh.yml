@@ -5,7 +5,7 @@ latitude: 49.0267738
 longitude: 12.131309600000002
 postcode: 93059
 city: Regensburg
-street: Zimmerstraße
+street: "Zimmerstraße"
 housenumber: 28
 phone: "+49 941 7845956 0"
 opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-12:00"

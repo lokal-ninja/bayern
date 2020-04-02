@@ -5,7 +5,7 @@ latitude: 48.1757342
 longitude: 11.7642965
 postcode: 85551
 city: Kirchheim bei München
-street: Florianstraße
+street: "Florianstraße"
 housenumber: 31
 phone: ""
 opening_hours: "24/7"

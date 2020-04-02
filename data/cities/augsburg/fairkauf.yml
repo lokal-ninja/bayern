@@ -5,7 +5,7 @@ latitude: 48.3505988
 longitude: 10.88089
 postcode: 86199
 city: Augsburg
-street: Depotstraße
+street: "Depotstraße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Fr 09:00-17:00; PH off"

@@ -5,7 +5,7 @@ latitude: 49.026026300000005
 longitude: 10.8658765
 postcode: 91793
 city: Alesheim
-street: Im Unteren Dorf
+street: "Im Unteren Dorf"
 housenumber: 18
 phone: "+49 9146 836"
 opening_hours: "We-Th 14:00-18:30; Fr 08:00-18:30; Sa 14:00-16:00; PH off"

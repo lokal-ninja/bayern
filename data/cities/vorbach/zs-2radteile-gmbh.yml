@@ -5,7 +5,7 @@ latitude: 49.8037496
 longitude: 11.7636591
 postcode: 95519
 city: Vorbach
-street: Unterbibracherstraße
+street: "Unterbibracherstraße"
 housenumber: 3
 phone: "+4992059881760"
 opening_hours: "Mo-Fr 09:00-19:00; Mar-Sep Sa 09:00-14:00; PH closed"

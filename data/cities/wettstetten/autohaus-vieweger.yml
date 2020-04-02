@@ -5,7 +5,7 @@ latitude: 48.81897480000001
 longitude: 11.4221871
 postcode: 85139
 city: Wettstetten
-street: Dr.-Kurt-Schumacher-Ring
+street: "Dr.-Kurt-Schumacher-Ring"
 housenumber: 28
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 47.9981334
 longitude: 12.8244454
 postcode: 83413
 city: Fridolfing
-street: Rupertistraße
+street: "Rupertistraße"
 housenumber: 17
 phone: ""
 opening_hours: "Su-Fr 07:00-18:00; Sa 07:00-12:00"

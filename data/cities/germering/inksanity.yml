@@ -5,7 +5,7 @@ latitude: 48.1290842
 longitude: 11.362530600000001
 postcode: 82110
 city: Germering
-street: Bahnhofplatz
+street: "Bahnhofplatz"
 housenumber: 12
 phone: ""
 opening_hours: "Mo-Fr 14:00-18:00"

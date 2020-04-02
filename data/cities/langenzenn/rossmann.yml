@@ -5,7 +5,7 @@ latitude: 49.4962485
 longitude: 10.8037156
 postcode: 90579
 city: Langenzenn
-street: Nürnberger Straße
+street: "Nürnberger Straße"
 housenumber: 46
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off"

@@ -5,7 +5,7 @@ latitude: 48.193263200000004
 longitude: 11.369277400000001
 postcode: 
 city: Gröbenzell
-street: Augsburger Straße
+street: "Augsburger Straße"
 housenumber: 15-17
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-19:00"

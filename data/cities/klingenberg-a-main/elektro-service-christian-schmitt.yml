@@ -5,7 +5,7 @@ latitude: 49.7736614
 longitude: 9.184283
 postcode: 63911
 city: Klingenberg a.Main
-street: Wilhelmstraße
+street: "Wilhelmstraße"
 housenumber: 129
 phone: ""
 opening_hours: ""

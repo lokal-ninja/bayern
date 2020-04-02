@@ -5,7 +5,7 @@ latitude: 49.7321772
 longitude: 9.916556700000001
 postcode: 97234
 city: Reichenberg
-street: Würzburger Straße
+street: "Würzburger Straße"
 housenumber: 4
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.758402700000005
 longitude: 10.7126608
 postcode: 86655
 city: Harburg (Schwaben)
-street: Harburger Straße
+street: "Harburger Straße"
 housenumber: 19
 phone: ""
 opening_hours: ""

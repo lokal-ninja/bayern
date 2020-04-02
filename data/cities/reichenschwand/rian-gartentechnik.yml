@@ -5,7 +5,7 @@ latitude: 49.513426700000004
 longitude: 11.381775000000001
 postcode: 91244
 city: Reichenschwand
-street: Hersbrucker Straße
+street: "Hersbrucker Straße"
 housenumber: 25
 phone: ""
 opening_hours: ""

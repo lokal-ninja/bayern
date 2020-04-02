@@ -5,7 +5,7 @@ latitude: 48.1063218
 longitude: 10.6574915
 postcode: 86833
 city: Ettringen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 33
 phone: "+49 8249962407"
 opening_hours: "Mo-Th 08:00-17:00; Fr 08:00-12:00"

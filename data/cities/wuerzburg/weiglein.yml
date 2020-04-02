@@ -5,7 +5,7 @@ latitude: 49.777512400000006
 longitude: 9.9542889
 postcode: 97074
 city: Würzburg
-street: Sanderrothstraße
+street: "Sanderrothstraße"
 housenumber: 13
 phone: "+49-931-85280"
 opening_hours: "Mo-Fr 10:00-13:00,15:00-18:00; Sa 10:00-13:00"

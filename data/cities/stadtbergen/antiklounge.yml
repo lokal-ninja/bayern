@@ -5,7 +5,7 @@ latitude: 48.349024500000006
 longitude: 10.844868100000001
 postcode: 86391
 city: Stadtbergen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 53 a
 phone: "+49 821 22 93 94 43"
 opening_hours: ""

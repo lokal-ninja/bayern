@@ -5,7 +5,7 @@ latitude: 48.0891856
 longitude: 11.480509300000001
 postcode: 81475
 city: München
-street: Engadiner Straße
+street: "Engadiner Straße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 06:00-19:00; Sa,Su 07:00-18:00"

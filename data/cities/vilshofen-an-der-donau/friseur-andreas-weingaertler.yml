@@ -5,7 +5,7 @@ latitude: 48.628519100000005
 longitude: 13.188233100000001
 postcode: 94474
 city: Vilshofen an der Donau
-street: Aidenbacher Straße
+street: "Aidenbacher Straße"
 housenumber: 5
 phone: "+498541 8558"
 opening_hours: ""

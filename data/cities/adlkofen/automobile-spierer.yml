@@ -5,7 +5,7 @@ latitude: 48.5489334
 longitude: 12.2619354
 postcode: 84166
 city: Adlkofen
-street: Frauenberger Straße
+street: "Frauenberger Straße"
 housenumber: 12
 phone: "+49 8707 233"
 opening_hours: "Mo-Th 07:30-12:00, 13:00-16:45; Fr 07:30-15:00"

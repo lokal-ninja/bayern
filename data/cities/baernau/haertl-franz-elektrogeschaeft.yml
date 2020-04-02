@@ -5,7 +5,7 @@ latitude: 49.8096777
 longitude: 12.4315092
 postcode: 95671
 city: Bärnau
-street: Philipp-Mühlmayer-Straße
+street: "Philipp-Mühlmayer-Straße"
 housenumber: 15
 phone: "+49 9635 578"
 opening_hours: ""

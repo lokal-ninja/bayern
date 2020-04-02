@@ -5,7 +5,7 @@ latitude: 49.302352500000005
 longitude: 10.5737579
 postcode: 91522
 city: Ansbach
-street: Johann-Sebastian-Bach-Platz
+street: "Johann-Sebastian-Bach-Platz"
 housenumber: 16
 phone: "+49 981 9538288"
 opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"

@@ -5,7 +5,7 @@ latitude: 47.5239205
 longitude: 10.262412900000001
 postcode: 87527
 city: Sonthofen
-street: Illerstraße
+street: "Illerstraße"
 housenumber: 12
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.8295356
 longitude: 12.9586269
 postcode: 94469
 city: Deggendorf
-street: Hans-Krämer-Straße
+street: "Hans-Krämer-Straße"
 housenumber: 24
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00;Sa 09:00-18:00"

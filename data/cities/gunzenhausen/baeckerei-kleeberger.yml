@@ -5,7 +5,7 @@ latitude: 49.124962800000006
 longitude: 10.775841400000001
 postcode: 91710
 city: Gunzenhausen
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 17
 phone: ""
 opening_hours: ""

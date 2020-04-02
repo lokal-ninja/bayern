@@ -5,7 +5,7 @@ latitude: 48.822764600000006
 longitude: 13.545398200000001
 postcode: 94078
 city: Freyung
-street: Speltenbach
+street: "Speltenbach"
 housenumber: 28
 phone: ""
 opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-12:00; PH off"

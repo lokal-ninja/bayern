@@ -5,7 +5,7 @@ latitude: 48.8165599
 longitude: 11.8456688
 postcode: 93326
 city: Abensberg
-street: Ulrichstraße
+street: "Ulrichstraße"
 housenumber: 13
 phone: ""
 opening_hours: ""

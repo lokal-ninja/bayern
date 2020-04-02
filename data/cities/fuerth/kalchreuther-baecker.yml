@@ -5,7 +5,7 @@ latitude: 49.511605200000005
 longitude: 10.975351700000001
 postcode: 90765
 city: Fürth
-street: An der Christuskirche
+street: "An der Christuskirche"
 housenumber: 1
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.138846
 longitude: 11.583463100000001
 postcode: 80539
 city: München
-street: Herzog-Rudolf-Straße
+street: "Herzog-Rudolf-Straße"
 housenumber: 2
 phone: "+49 89 21113452"
 opening_hours: ""

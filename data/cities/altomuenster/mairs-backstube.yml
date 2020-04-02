@@ -5,7 +5,7 @@ latitude: 48.3881688
 longitude: 11.2558618
 postcode: 85250
 city: Altomünster
-street: Herzog-Georg-Straße
+street: "Herzog-Georg-Straße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo 06:00-13:00; Tu-Fr 06:00-13:00,14:30-18:00; Sa 06:00-16:00; Su 07:00-17:00; PH off"

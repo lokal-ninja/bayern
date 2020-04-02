@@ -5,7 +5,7 @@ latitude: 47.967268000000004
 longitude: 11.7776016
 postcode: 85653
 city: Aying
-street: Kaltenbrunner Straße
+street: "Kaltenbrunner Straße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 08:00-17:00; PH off"

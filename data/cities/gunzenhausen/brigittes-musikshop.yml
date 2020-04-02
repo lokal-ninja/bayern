@@ -5,7 +5,7 @@ latitude: 49.117623300000005
 longitude: 10.7555569
 postcode: 91710
 city: Gunzenhausen
-street: Nürnberger Straße
+street: "Nürnberger Straße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:30"

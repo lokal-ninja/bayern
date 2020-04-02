@@ -5,7 +5,7 @@ latitude: 49.4635709
 longitude: 11.103766
 postcode: 90489
 city: Nürnberg
-street: Welserstraße
+street: "Welserstraße"
 housenumber: 36
 phone: "+49 911 5978350"
 opening_hours: ""

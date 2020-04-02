@@ -5,7 +5,7 @@ latitude: 48.8748197
 longitude: 12.351681000000001
 postcode: 93104
 city: Sünching
-street: Laberstraße
+street: "Laberstraße"
 housenumber: 3
 phone: "+49 9480 938396"
 opening_hours: "Mo-Th 17:00-20:00; Fr,Sa 07:00-20:00"

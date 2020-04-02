@@ -5,7 +5,7 @@ latitude: 48.229035100000004
 longitude: 11.671065500000001
 postcode: 85737
 city: Ismaning
-street: Leuchtenbergstraße
+street: "Leuchtenbergstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

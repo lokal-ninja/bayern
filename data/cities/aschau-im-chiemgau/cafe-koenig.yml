@@ -5,7 +5,7 @@ latitude: 47.7724441
 longitude: 12.325231200000001
 postcode: 83229
 city: Aschau im Chiemgau
-street: Kampenwandstraße
+street: "Kampenwandstraße"
 housenumber: 43
 phone: "+49 8052 1442"
 opening_hours: "Tu-Su 09:30-18:00; Mo off; PH 09:30-18:00"

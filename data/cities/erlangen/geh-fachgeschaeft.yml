@@ -5,7 +5,7 @@ latitude: 49.601688700000004
 longitude: 11.002290200000001
 postcode: 91054
 city: Erlangen
-street: Schulstraße
+street: "Schulstraße"
 housenumber: 4
 phone: "+49 9131 21210"
 opening_hours: ""

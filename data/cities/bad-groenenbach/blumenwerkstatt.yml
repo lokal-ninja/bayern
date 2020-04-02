@@ -5,7 +5,7 @@ latitude: 47.8769404
 longitude: 10.2235853
 postcode: 87730
 city: Bad Grönenbach
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 17
 phone: "+49 8334 988418"
 opening_hours: ""

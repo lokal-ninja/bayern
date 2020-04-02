@@ -5,7 +5,7 @@ latitude: 49.5751411
 longitude: 10.822239100000001
 postcode: 91086
 city: Aurachtal
-street: Fürther Straße
+street: "Fürther Straße"
 housenumber: 2
 phone: "+49 9132 / 74 777 50"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.678499300000006
 longitude: 11.591724200000002
 postcode: 85290
 city: Geisenfeld
-street: Max-Knöferl-Straße
+street: "Max-Knöferl-Straße"
 housenumber: 14
 phone: "+49 8452 7358440"
 opening_hours: ""

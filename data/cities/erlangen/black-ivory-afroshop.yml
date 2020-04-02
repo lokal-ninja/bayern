@@ -5,7 +5,7 @@ latitude: 49.5958016
 longitude: 11.0082634
 postcode: 91054
 city: Erlangen
-street: Friedrichstraße
+street: "Friedrichstraße"
 housenumber: 27
 phone: "+49 9131 4001414"
 opening_hours: "Mo-We,Fr 10:00-19:00; Th 14:00-19:00, Sa 10:00-12:00"

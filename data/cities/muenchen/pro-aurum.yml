@@ -5,7 +5,7 @@ latitude: 48.1352946
 longitude: 11.6854346
 postcode: 81829
 city: München
-street: Joseph-Wild-Straße
+street: "Joseph-Wild-Straße"
 housenumber: 12
 phone: ""
 opening_hours: "Mo-Fr 09:00-12:30,14:00-17:30; We 09:00-12:30; Th 09:00-12:30,14:00-20:00"

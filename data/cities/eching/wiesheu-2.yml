@@ -5,7 +5,7 @@ latitude: 48.2989334
 longitude: 11.6268621
 postcode: 85386
 city: Eching
-street: Goethestraße
+street: "Goethestraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

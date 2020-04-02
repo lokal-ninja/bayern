@@ -5,7 +5,7 @@ latitude: 48.241314700000004
 longitude: 12.6847159
 postcode: 84524
 city: Neuötting
-street: Ludwigstraße
+street: "Ludwigstraße"
 housenumber: 33
 phone: "+49 8671 70820"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.21245690000001
 longitude: 11.5292695
 postcode: 80995
 city: München
-street: Feldmochinger Straße
+street: "Feldmochinger Straße"
 housenumber: 378
 phone: ""
 opening_hours: ""

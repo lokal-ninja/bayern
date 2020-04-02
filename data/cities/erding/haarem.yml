@@ -5,7 +5,7 @@ latitude: 48.3090806
 longitude: 11.9088287
 postcode: 85435
 city: Erding
-street: Am Mühlgraben
+street: "Am Mühlgraben"
 housenumber: 2
 phone: "+49 8122 48114"
 opening_hours: "Mo-We 09:00-18:00; Th 08:00-20:00; Fr 08:00-20:00; Sa 08:00-15:00"

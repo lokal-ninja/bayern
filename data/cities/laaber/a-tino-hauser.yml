@@ -5,7 +5,7 @@ latitude: 49.066429400000004
 longitude: 11.8846053
 postcode: 93164
 city: Laaber
-street: Beratzhauser Straße
+street: "Beratzhauser Straße"
 housenumber: 5
 phone: ""
 opening_hours: ""

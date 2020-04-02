@@ -5,7 +5,7 @@ latitude: 50.016007800000004
 longitude: 11.9585605
 postcode: 95709
 city: Tröstau
-street: Fichtelgebirgsstraße
+street: "Fichtelgebirgsstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.0162995
 longitude: 13.227512
 postcode: 94227
 city: Zwiesel
-street: Dr.-Schott-Straße
+street: "Dr.-Schott-Straße"
 housenumber: 35
 phone: ""
 opening_hours: ""

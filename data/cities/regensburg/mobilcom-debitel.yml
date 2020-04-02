@@ -5,7 +5,7 @@ latitude: 49.018419400000006
 longitude: 12.0949383
 postcode: 93047
 city: Regensburg
-street: Untere Bachgasse
+street: "Untere Bachgasse"
 housenumber: 15
 phone: "+49 941 59573652"
 opening_hours: "Mo-Fr 09:30-18:30, Sa 09:30-16:00"

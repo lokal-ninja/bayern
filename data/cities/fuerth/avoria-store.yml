@@ -5,7 +5,7 @@ latitude: 49.4760591
 longitude: 10.988561800000001
 postcode: 90762
 city: Fürth
-street: Hirschenstraße
+street: "Hirschenstraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

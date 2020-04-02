@@ -5,7 +5,7 @@ latitude: 48.3343695
 longitude: 10.9060524
 postcode: 86159
 city: Augsburg
-street: Lilienthalstraße
+street: "Lilienthalstraße"
 housenumber: 31
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"

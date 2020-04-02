@@ -5,7 +5,7 @@ latitude: 48.3473041
 longitude: 11.380688300000001
 postcode: 85229
 city: Markt Indersdorf
-street: Seilerstraße
+street: "Seilerstraße"
 housenumber: 6a
 phone: "+49 8136 7549"
 opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00"

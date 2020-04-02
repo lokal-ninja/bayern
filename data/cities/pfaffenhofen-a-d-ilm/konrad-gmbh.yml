@@ -5,7 +5,7 @@ latitude: 48.5374348
 longitude: 11.5164778
 postcode: 85276
 city: Pfaffenhofen a.d. Ilm
-street: Raiffeisenstraße
+street: "Raiffeisenstraße"
 housenumber: 16
 phone: ""
 opening_hours: "Mo-Fr 08:30-18:00, Sa 08:30-12:30"

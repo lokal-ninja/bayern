@@ -5,7 +5,7 @@ latitude: 48.255383300000005
 longitude: 10.8747164
 postcode: 86343
 city: Königsbrunn
-street: Messerschmittring
+street: "Messerschmittring"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

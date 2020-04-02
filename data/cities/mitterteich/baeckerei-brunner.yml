@@ -5,7 +5,7 @@ latitude: 49.9519377
 longitude: 12.2449484
 postcode: 95666
 city: Mitterteich
-street: Oberer Marktplatz
+street: "Oberer Marktplatz"
 housenumber: 17
 phone: ""
 opening_hours: ""

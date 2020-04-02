@@ -5,7 +5,7 @@ latitude: 49.367490600000004
 longitude: 11.170870500000001
 postcode: 90530
 city: Wendelstein
-street: Bogenstraße
+street: "Bogenstraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

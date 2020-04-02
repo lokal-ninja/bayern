@@ -5,7 +5,7 @@ latitude: 50.239231700000005
 longitude: 11.3217347
 postcode: 96317
 city: Kronach
-street: Hirtengasse
+street: "Hirtengasse"
 housenumber: 12
 phone: ""
 opening_hours: ""

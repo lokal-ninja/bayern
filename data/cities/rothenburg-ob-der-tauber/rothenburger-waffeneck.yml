@@ -5,7 +5,7 @@ latitude: 49.3772631
 longitude: 10.1810512
 postcode: 91541
 city: Rothenburg ob der Tauber
-street: Milchmarkt
+street: "Milchmarkt"
 housenumber: 4
 phone: "+49-9861-3350"
 opening_hours: ""

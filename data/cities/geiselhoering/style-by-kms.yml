@@ -5,7 +5,7 @@ latitude: 48.825912
 longitude: 12.393540100000001
 postcode: 94333
 city: Geiselhöring
-street: Stadtplatz
+street: "Stadtplatz"
 housenumber: 9
 phone: "+49 9423 943 637"
 opening_hours: ""

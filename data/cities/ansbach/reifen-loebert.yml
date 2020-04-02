@@ -5,7 +5,7 @@ latitude: 49.313414800000004
 longitude: 10.5609941
 postcode: 91522
 city: Ansbach
-street: Schleifweg
+street: "Schleifweg"
 housenumber: 26
 phone: ""
 opening_hours: ""

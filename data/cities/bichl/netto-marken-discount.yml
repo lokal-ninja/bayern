@@ -5,7 +5,7 @@ latitude: 47.7229175
 longitude: 11.413776200000001
 postcode: 83673
 city: Bichl
-street: Penzberger Straße
+street: "Penzberger Straße"
 housenumber: 16
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"

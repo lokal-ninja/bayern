@@ -5,7 +5,7 @@ latitude: 49.9701029
 longitude: 9.1651102
 postcode: 63739
 city: Aschaffenburg
-street: Beckerstraße
+street: "Beckerstraße"
 housenumber: 11
 phone: ""
 opening_hours: ""

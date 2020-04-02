@@ -5,7 +5,7 @@ latitude: 47.8799915
 longitude: 12.3393581
 postcode: 83253
 city: Rimsting
-street: Schafwaschener Weg
+street: "Schafwaschener Weg"
 housenumber: 13
 phone: ""
 opening_hours: ""

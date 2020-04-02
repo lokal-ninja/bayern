@@ -5,7 +5,7 @@ latitude: 49.6512693
 longitude: 12.043301600000001
 postcode: 92708
 city: Mantel
-street: Etzenrichter Straße
+street: "Etzenrichter Straße"
 housenumber: 7
 phone: ""
 opening_hours: ""

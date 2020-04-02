@@ -5,7 +5,7 @@ latitude: 50.057884300000005
 longitude: 12.1849146
 postcode: 
 city: Arzberg
-street: Thiersheimer Straße
+street: "Thiersheimer Straße"
 housenumber: 13
 phone: "+49 9233 1306"
 opening_hours: ""

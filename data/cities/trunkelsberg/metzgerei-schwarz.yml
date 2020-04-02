@@ -5,7 +5,7 @@ latitude: 48.0025277
 longitude: 10.218961700000001
 postcode: 87779
 city: Trunkelsberg
-street: Memminger Straße
+street: "Memminger Straße"
 housenumber: 3
 phone: ""
 opening_hours: ""

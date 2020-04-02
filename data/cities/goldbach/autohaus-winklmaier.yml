@@ -5,7 +5,7 @@ latitude: 49.9950033
 longitude: 9.1758839
 postcode: 63773
 city: Goldbach
-street: Aschaffenburger Straße
+street: "Aschaffenburger Straße"
 housenumber: 17b
 phone: ""
 opening_hours: ""

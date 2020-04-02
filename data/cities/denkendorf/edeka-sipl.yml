@@ -5,7 +5,7 @@ latitude: 48.9279281
 longitude: 11.4578216
 postcode: 85095
 city: Denkendorf
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 17
 phone: ""
 opening_hours: ""

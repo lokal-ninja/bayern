@@ -5,7 +5,7 @@ latitude: 48.5737837
 longitude: 13.461639600000002
 postcode: 94032
 city: Passau
-street: Theresienstraße
+street: "Theresienstraße"
 housenumber: 21
 phone: "+49 851 26 11"
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-15:00"

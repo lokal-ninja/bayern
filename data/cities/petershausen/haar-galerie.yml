@@ -5,7 +5,7 @@ latitude: 48.410447000000005
 longitude: 11.4704575
 postcode: 85238
 city: Petershausen
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 13c
 phone: ""
 opening_hours: ""

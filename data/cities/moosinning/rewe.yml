@@ -5,7 +5,7 @@ latitude: 48.2750361
 longitude: 11.8269888
 postcode: 85452
 city: Moosinning
-street: Einfangstraße
+street: "Einfangstraße"
 housenumber: 6
 phone: "+49 8123 9918083"
 opening_hours: "Mo-Sa 07:00-20:00"

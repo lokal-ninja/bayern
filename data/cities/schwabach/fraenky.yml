@@ -5,7 +5,7 @@ latitude: 49.3424561
 longitude: 11.047813900000001
 postcode: 91126
 city: Schwabach
-street: Katzwanger Straße
+street: "Katzwanger Straße"
 housenumber: 22
 phone: ""
 opening_hours: ""

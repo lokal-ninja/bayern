@@ -5,7 +5,7 @@ latitude: 49.345743600000006
 longitude: 10.7951153
 postcode: 91560
 city: Heilsbronn
-street: Fürther Straße
+street: "Fürther Straße"
 housenumber: 40
 phone: "+499872805435 ‎"
 opening_hours: ""

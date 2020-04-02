@@ -5,7 +5,7 @@ latitude: 48.177408
 longitude: 11.252739700000001
 postcode: 82256
 city: Fürstenfeldbruck
-street: Viehmarktstraße
+street: "Viehmarktstraße"
 housenumber: 3
 phone: "+49 173 1503760"
 opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-14:00"

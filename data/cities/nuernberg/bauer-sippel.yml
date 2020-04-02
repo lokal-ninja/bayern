@@ -5,7 +5,7 @@ latitude: 49.470466800000004
 longitude: 11.0416673
 postcode: 90425
 city: Nürnberg
-street: Alte Parlerstraße
+street: "Alte Parlerstraße"
 housenumber: 3
 phone: ""
 opening_hours: ""

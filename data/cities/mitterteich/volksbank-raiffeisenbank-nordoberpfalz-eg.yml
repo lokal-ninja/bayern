@@ -5,7 +5,7 @@ latitude: 49.935263500000005
 longitude: 12.2214132
 postcode: 95666
 city: Mitterteich
-street: Ludwig-Erhard-Straße
+street: "Ludwig-Erhard-Straße"
 housenumber: 11
 phone: "+49 9633 934 710"
 opening_hours: ""

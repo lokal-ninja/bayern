@@ -5,7 +5,7 @@ latitude: 47.858865
 longitude: 11.480063600000001
 postcode: 82538
 city: Geretsried
-street: Carl-Maria-von-Weber-Weg
+street: "Carl-Maria-von-Weber-Weg"
 housenumber: 34
 phone: "+49 176 96088419"
 opening_hours: ""

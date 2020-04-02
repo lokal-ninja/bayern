@@ -5,7 +5,7 @@ latitude: 47.883890900000004
 longitude: 10.2483245
 postcode: 87730
 city: Bad Grönenbach
-street: Weißenbachstraße
+street: "Weißenbachstraße"
 housenumber: 2
 phone: ""
 opening_hours: "24/7"

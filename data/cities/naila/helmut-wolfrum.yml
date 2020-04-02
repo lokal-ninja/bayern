@@ -5,7 +5,7 @@ latitude: 50.302319600000004
 longitude: 11.666167100000001
 postcode: 95119
 city: Naila
-street: Schwarzenbacher Straße
+street: "Schwarzenbacher Straße"
 housenumber: 50
 phone: ""
 opening_hours: ""

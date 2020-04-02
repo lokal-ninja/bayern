@@ -5,7 +5,7 @@ latitude: 49.733623900000005
 longitude: 11.1457709
 postcode: 91356
 city: Kirchehrenbach
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 24
 phone: ""
 opening_hours: "Mo-Fr 07:30-19:00; Sa 07:30-16:00"

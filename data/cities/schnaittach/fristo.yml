@@ -5,7 +5,7 @@ latitude: 49.5524349
 longitude: 11.3331195
 postcode: 91220
 city: Schnaittach
-street: Nürnberger Straße
+street: "Nürnberger Straße"
 housenumber: 93
 phone: "+499153925913"
 opening_hours: "Mo-Sa 08:00-19:00"

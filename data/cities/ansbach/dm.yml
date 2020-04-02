@@ -5,7 +5,7 @@ latitude: 49.2961958
 longitude: 10.5761839
 postcode: 91522
 city: Ansbach
-street: Welserstraße
+street: "Welserstraße"
 housenumber: 11
 phone: ""
 opening_hours: ""

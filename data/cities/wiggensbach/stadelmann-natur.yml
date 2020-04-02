@@ -5,7 +5,7 @@ latitude: 47.7277914
 longitude: 10.251739800000001
 postcode: 87487
 city: Wiggensbach
-street: An der Schmiede
+street: "An der Schmiede"
 housenumber: 1
 phone: "+49 8370 209069"
 opening_hours: "Mo-Fr 09:00-12:00, We-Fr 15:00-18:00, Sa 10:00-15:00"

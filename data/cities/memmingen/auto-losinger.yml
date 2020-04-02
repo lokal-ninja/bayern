@@ -5,7 +5,7 @@ latitude: 47.9793584
 longitude: 10.1845516
 postcode: 87700
 city: Memmingen
-street: Luitpoldstraße
+street: "Luitpoldstraße"
 housenumber: 20
 phone: ""
 opening_hours: ""

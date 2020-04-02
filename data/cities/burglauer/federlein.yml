@@ -5,7 +5,7 @@ latitude: 50.2771168
 longitude: 10.1827155
 postcode: 97724
 city: Burglauer
-street: Ringstraße
+street: "Ringstraße"
 housenumber: 1
 phone: "+49 9733 4433"
 opening_hours: ""

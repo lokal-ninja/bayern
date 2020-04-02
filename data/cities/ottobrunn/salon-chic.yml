@@ -5,7 +5,7 @@ latitude: 48.0655945
 longitude: 11.667742200000001
 postcode: 85521
 city: Ottobrunn
-street: Beethovenstraße
+street: "Beethovenstraße"
 housenumber: 17
 phone: ""
 opening_hours: ""

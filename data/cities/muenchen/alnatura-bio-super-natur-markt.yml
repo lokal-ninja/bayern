@@ -5,7 +5,7 @@ latitude: 48.1275799
 longitude: 11.554844800000001
 postcode: 80337
 city: München
-street: Lindwurmstraße
+street: "Lindwurmstraße"
 housenumber: 117
 phone: "+49 89 76701794"
 opening_hours: "Mo-Sa 08:00-20:00"

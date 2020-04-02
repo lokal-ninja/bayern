@@ -5,7 +5,7 @@ latitude: 49.640753600000004
 longitude: 11.1913415
 postcode: 91077
 city: Neunkirchen a. Brand
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 1
 phone: "+49 9192 7449"
 opening_hours: ""

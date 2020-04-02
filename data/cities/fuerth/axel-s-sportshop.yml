@@ -5,7 +5,7 @@ latitude: 49.46491940000001
 longitude: 10.986070400000001
 postcode: 90763
 city: Fürth
-street: Schwabacher Straße
+street: "Schwabacher Straße"
 housenumber: 125a
 phone: ""
 opening_hours: ""

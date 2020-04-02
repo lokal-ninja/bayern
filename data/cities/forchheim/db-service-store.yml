@@ -5,7 +5,7 @@ latitude: 49.717190800000004
 longitude: 11.069255700000001
 postcode: 91301
 city: Forchheim
-street: Bahnhofsplatz
+street: "Bahnhofsplatz"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Fr 05:00-19:00 Sa+Su 08:-17:00"

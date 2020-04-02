@@ -5,7 +5,7 @@ latitude: 48.182157700000005
 longitude: 10.692048300000002
 postcode: 86830
 city: Schwabmünchen
-street: Freiweg
+street: "Freiweg"
 housenumber: 15
 phone: ""
 opening_hours: ""

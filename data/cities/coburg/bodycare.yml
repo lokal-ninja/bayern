@@ -5,7 +5,7 @@ latitude: 50.262483200000005
 longitude: 10.9659732
 postcode: 96450
 city: Coburg
-street: Gerbergasse
+street: "Gerbergasse"
 housenumber: 1
 phone: "+49 9561 513011"
 opening_hours: "Mo,Tu,Th,Fr 09:00-18:00; We 14:00-18:00; Sa 09:00-14:00; Su,PH off"

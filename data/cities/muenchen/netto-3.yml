@@ -5,7 +5,7 @@ latitude: 48.127620500000006
 longitude: 11.675477800000001
 postcode: 81829
 city: München
-street: Am Mitterfeld
+street: "Am Mitterfeld"
 housenumber: 18
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

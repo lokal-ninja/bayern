@@ -5,7 +5,7 @@ latitude: 49.97777850000001
 longitude: 12.062341
 postcode: 95679
 city: Waldershof
-street: Markt
+street: "Markt"
 housenumber: 19
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.4956511
 longitude: 11.7415312
 postcode: 92237
 city: Sulzbach-Rosenberg
-street: Krötenseestraße
+street: "Krötenseestraße"
 housenumber: 2
 phone: "+49 9661 50611-0"
 opening_hours: "Mo-Fr 07:00-17:00; Sa 08:00-12:00"

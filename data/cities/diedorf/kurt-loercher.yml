@@ -5,7 +5,7 @@ latitude: 48.352767300000004
 longitude: 10.7804666
 postcode: 86420
 city: Diedorf
-street: Schwalbenstraße
+street: "Schwalbenstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

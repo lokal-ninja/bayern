@@ -5,7 +5,7 @@ latitude: 49.3887361
 longitude: 11.174385000000001
 postcode: 90475
 city: Nürnberg
-street: Gleiwitzer Straße
+street: "Gleiwitzer Straße"
 housenumber: 600
 phone: ""
 opening_hours: ""

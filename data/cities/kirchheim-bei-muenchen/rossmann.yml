@@ -5,7 +5,7 @@ latitude: 48.162124600000006
 longitude: 11.756964400000001
 postcode: 85551
 city: Kirchheim bei München
-street: Am Gangsteig
+street: "Am Gangsteig"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off"

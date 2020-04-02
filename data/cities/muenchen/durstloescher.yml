@@ -5,7 +5,7 @@ latitude: 48.117380700000005
 longitude: 11.5382862
 postcode: 81373
 city: München
-street: Meindlstraße
+street: "Meindlstraße"
 housenumber: 25
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:30, Sa 09:00-15:00"

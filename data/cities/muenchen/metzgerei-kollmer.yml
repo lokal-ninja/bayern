@@ -5,7 +5,7 @@ latitude: 48.1960047
 longitude: 11.583572
 postcode: 80937
 city: München
-street: Sudetendeutschestraße
+street: "Sudetendeutschestraße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Fr 07:00-18:00; Sa 07:30-12:00"

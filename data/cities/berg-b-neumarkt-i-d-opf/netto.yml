@@ -5,7 +5,7 @@ latitude: 49.325818500000004
 longitude: 11.4423952
 postcode: 92348
 city: Berg b.Neumarkt i.d.OPf.
-street: Neumarkter Straße
+street: "Neumarkter Straße"
 housenumber: 40
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

@@ -5,7 +5,7 @@ latitude: 47.8442829
 longitude: 11.1332128
 postcode: 82362
 city: Weilheim in Oberbayern
-street: Kanalstraße
+street: "Kanalstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

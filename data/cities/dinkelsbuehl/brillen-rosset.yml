@@ -5,7 +5,7 @@ latitude: 49.068825000000004
 longitude: 10.317590000000001
 postcode: 91550
 city: Dinkelsbühl
-street: Segringer Straße
+street: "Segringer Straße"
 housenumber: 21
 phone: "+49 9851 555321"
 opening_hours: ""

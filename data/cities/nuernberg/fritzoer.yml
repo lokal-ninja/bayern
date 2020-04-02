@@ -5,7 +5,7 @@ latitude: 49.450302
 longitude: 11.0673782
 postcode: 90402
 city: Nürnberg
-street: Schlotfegergasse
+street: "Schlotfegergasse"
 housenumber: 12
 phone: ""
 opening_hours: "Tu-We 09:00-18:30; Th-Fr 10:00-20:00; Sa 08:00-13:30"

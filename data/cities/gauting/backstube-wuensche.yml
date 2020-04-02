@@ -5,7 +5,7 @@ latitude: 48.087285800000004
 longitude: 11.405465300000001
 postcode: 82131
 city: Gauting
-street: Gautinger Straße
+street: "Gautinger Straße"
 housenumber: 23
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

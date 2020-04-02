@@ -5,7 +5,7 @@ latitude: 50.323548100000004
 longitude: 10.2153138
 postcode: 97616
 city: Bad Neustadt an der Saale
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 22-28
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"

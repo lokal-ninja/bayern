@@ -5,7 +5,7 @@ latitude: 49.0251534
 longitude: 12.1449238
 postcode: 93055
 city: Regensburg
-street: Donaustaufer Straße
+street: "Donaustaufer Straße"
 housenumber: 300
 phone: "+49 941 742 59"
 opening_hours: ""

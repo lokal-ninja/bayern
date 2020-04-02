@@ -5,7 +5,7 @@ latitude: 48.1625348
 longitude: 11.5898871
 postcode: 80802
 city: München
-street: Hesseloherstraße
+street: "Hesseloherstraße"
 housenumber: 20
 phone: ""
 opening_hours: ""

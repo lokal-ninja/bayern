@@ -5,7 +5,7 @@ latitude: 47.991925200000004
 longitude: 10.16768
 postcode: 87700
 city: Memmingen
-street: Nordweg
+street: "Nordweg"
 housenumber: 33
 phone: ""
 opening_hours: ""

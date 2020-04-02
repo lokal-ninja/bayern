@@ -5,7 +5,7 @@ latitude: 47.7961034
 longitude: 11.8364691
 postcode: 83714
 city: Miesbach
-street: Marcel-Deprez-Straße
+street: "Marcel-Deprez-Straße"
 housenumber: 4
 phone: ""
 opening_hours: ""

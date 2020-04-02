@@ -5,7 +5,7 @@ latitude: 49.0673347
 longitude: 10.3110931
 postcode: 91550
 city: Dinkelsbühl
-street: Ellwanger Straße
+street: "Ellwanger Straße"
 housenumber: 15
 phone: "+49 9851 3119"
 opening_hours: "Tu-Fr 09:00-12:00,13:30-18:00; Sa 10:00-13:00; Su,Mo,PH off"

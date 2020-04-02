@@ -5,7 +5,7 @@ latitude: 47.819885400000004
 longitude: 12.9534745
 postcode: 83404
 city: Ainring
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

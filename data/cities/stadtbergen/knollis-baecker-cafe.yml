@@ -5,7 +5,7 @@ latitude: 48.3625452
 longitude: 10.853555
 postcode: 86391
 city: Stadtbergen
-street: Nestackerweg
+street: "Nestackerweg"
 housenumber: 20
 phone: ""
 opening_hours: "Mo-Fr 06:00-20:00; Sa 06:00-12:00"

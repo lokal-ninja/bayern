@@ -5,7 +5,7 @@ latitude: 48.392447600000004
 longitude: 10.438772100000001
 postcode: 89343
 city: Jettingen-Scheppach
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 102
 phone: ""
 opening_hours: ""

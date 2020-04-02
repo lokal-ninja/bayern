@@ -5,7 +5,7 @@ latitude: 49.4804113
 longitude: 10.9674481
 postcode: 90766
 city: Fürth
-street: Wehlauer Straße
+street: "Wehlauer Straße"
 housenumber: 63
 phone: "+49 911 3237707"
 opening_hours: ""

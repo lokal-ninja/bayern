@@ -5,7 +5,7 @@ latitude: 50.064581800000006
 longitude: 9.4702438
 postcode: 97833
 city: Frammersbach
-street: Lohrtalstraße
+street: "Lohrtalstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.7918333
 longitude: 9.7293596
 postcode: 97292
 city: Uettingen
-street: Helmstadter Straße
+street: "Helmstadter Straße"
 housenumber: 10
 phone: "+49 93 69 / 82 53"
 opening_hours: "Mo - Fr: 08:00 Uhr - 12:30 Uhr 13:30 Uhr - 18:00 Uhr; Sa: 08:00 Uhr - 13:00 Uhr"

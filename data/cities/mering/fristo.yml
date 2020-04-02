@@ -5,7 +5,7 @@ latitude: 48.2728132
 longitude: 10.9768834
 postcode: 86415
 city: Mering
-street: Gaußring
+street: "Gaußring"
 housenumber: 36
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00; PH off"

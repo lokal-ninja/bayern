@@ -5,7 +5,7 @@ latitude: 50.267711600000005
 longitude: 9.810387500000001
 postcode: 97789
 city: Oberleichtersbach
-street: Kapellenstraße
+street: "Kapellenstraße"
 housenumber: 20
 phone: ""
 opening_hours: "Fr 09:00-18:00"

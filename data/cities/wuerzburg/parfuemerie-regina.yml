@@ -5,7 +5,7 @@ latitude: 49.793900900000004
 longitude: 9.929508700000001
 postcode: 97070
 city: Würzburg
-street: Schustergasse
+street: "Schustergasse"
 housenumber: 9
 phone: ""
 opening_hours: ""

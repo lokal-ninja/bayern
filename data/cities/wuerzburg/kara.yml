@@ -5,7 +5,7 @@ latitude: 49.7999298
 longitude: 9.962529
 postcode: 97076
 city: Würzburg
-street: Innere Aumühlstraße
+street: "Innere Aumühlstraße"
 housenumber: 
 phone: ""
 opening_hours: "Mo-Fr 08:30-18:00; Sa 09:00-14:00"

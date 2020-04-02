@@ -5,7 +5,7 @@ latitude: 49.468993600000005
 longitude: 10.9979703
 postcode: 90762
 city: Fürth
-street: Gebhardtstraße
+street: "Gebhardtstraße"
 housenumber: 37
 phone: "+4991189190654"
 opening_hours: "Th 13:00-18:00; Fr 13:00-18:00; Sa 10:00-14:00 || nach Vereinbarung"

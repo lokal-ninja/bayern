@@ -5,7 +5,7 @@ latitude: 48.0798147
 longitude: 11.742078800000002
 postcode: 85630
 city: Grasbrunn
-street: Kirchenstraße
+street: "Kirchenstraße"
 housenumber: 6
 phone: "+49 89 42079564"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.369593
 longitude: 10.193607700000001
 postcode: 91541
 city: Rothenburg ob der Tauber
-street: Dr.-Bühler-Straße
+street: "Dr.-Bühler-Straße"
 housenumber: 17
 phone: "+49-9861-5063"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00; Su geschlossen"

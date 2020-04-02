@@ -5,7 +5,7 @@ latitude: 49.4291798
 longitude: 11.544220300000001
 postcode: 91236
 city: Alfeld
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 15
 phone: ""
 opening_hours: ""

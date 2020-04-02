@@ -5,7 +5,7 @@ latitude: 47.9235969
 longitude: 10.208743700000001
 postcode: 87789
 city: Woringen
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 12
 phone: ""
 opening_hours: ""

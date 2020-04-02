@@ -5,7 +5,7 @@ latitude: 49.4457474
 longitude: 11.8616202
 postcode: 
 city: Amberg
-street: Obere Nabburger Straße
+street: "Obere Nabburger Straße"
 housenumber: 11
 phone: "+49 9621 9147910"
 opening_hours: ""

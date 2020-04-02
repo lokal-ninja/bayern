@@ -5,7 +5,7 @@ latitude: 49.598823200000005
 longitude: 11.002149800000002
 postcode: 91054
 city: Erlangen
-street: Heuwaagstraße
+street: "Heuwaagstraße"
 housenumber: 16
 phone: "+49 9131 22674"
 opening_hours: ""

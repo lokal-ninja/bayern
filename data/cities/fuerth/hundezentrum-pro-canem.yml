@@ -5,7 +5,7 @@ latitude: 49.4953019
 longitude: 10.916874
 postcode: 90768
 city: Fürth
-street: Breiter Steig
+street: "Breiter Steig"
 housenumber: 25
 phone: "+49 911 97909760"
 opening_hours: "Mo-Fr 07:00-19:00"

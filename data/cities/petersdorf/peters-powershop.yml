@@ -5,7 +5,7 @@ latitude: 48.538081500000004
 longitude: 10.9950735
 postcode: 86574
 city: Petersdorf
-street: Axtstraße
+street: "Axtstraße"
 housenumber: 26
 phone: ""
 opening_hours: ""

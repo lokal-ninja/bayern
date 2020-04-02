@@ -5,7 +5,7 @@ latitude: 49.717730700000004
 longitude: 11.0607418
 postcode: 91301
 city: Forchheim
-street: Paradeplatz
+street: "Paradeplatz"
 housenumber: 9
 phone: ""
 opening_hours: ""

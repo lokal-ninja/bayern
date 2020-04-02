@@ -5,7 +5,7 @@ latitude: 48.429620400000005
 longitude: 11.155012800000002
 postcode: 86551
 city: Aichach
-street: Deutschherrnstraße
+street: "Deutschherrnstraße"
 housenumber: 13
 phone: ""
 opening_hours: ""

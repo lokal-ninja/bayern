@@ -5,7 +5,7 @@ latitude: 48.3516728
 longitude: 10.954728600000001
 postcode: 86316
 city: Friedberg
-street: Metzstraße
+street: "Metzstraße"
 housenumber: 7
 phone: "+49 821 261910"
 opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-12:30"

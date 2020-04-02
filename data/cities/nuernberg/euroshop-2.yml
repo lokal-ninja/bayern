@@ -5,7 +5,7 @@ latitude: 49.4593063
 longitude: 11.098182000000001
 postcode: 90489
 city: Nürnberg
-street: Sulzbacher Straße
+street: "Sulzbacher Straße"
 housenumber: 71
 phone: ""
 opening_hours: ""

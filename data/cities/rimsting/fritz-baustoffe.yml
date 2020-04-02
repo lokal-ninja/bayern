@@ -5,7 +5,7 @@ latitude: 47.887018600000005
 longitude: 12.3354063
 postcode: 83253
 city: Rimsting
-street: Nordstraße
+street: "Nordstraße"
 housenumber: 12
 phone: "+49 8051 965540"
 opening_hours: ""

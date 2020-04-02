@@ -5,7 +5,7 @@ latitude: 48.969892900000005
 longitude: 13.1346734
 postcode: 94209
 city: Regen
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 24
 phone: "+49 (09921) 882474"
 opening_hours: "Mo-Sa 06:00-20:00"

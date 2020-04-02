@@ -5,7 +5,7 @@ latitude: 49.6904343
 longitude: 11.0332868
 postcode: 91353
 city: Hausen
-street: Fackendorfer Straße
+street: "Fackendorfer Straße"
 housenumber: 6
 phone: ""
 opening_hours: "Tu 09:00-12:00,14:00-18:30; Th-Fr 14:00-18:30; Sa 09:00-13:00"

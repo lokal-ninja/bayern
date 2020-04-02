@@ -5,7 +5,7 @@ latitude: 49.995356
 longitude: 11.624451800000001
 postcode: 95463
 city: Bindlach
-street: Christensenstraße
+street: "Christensenstraße"
 housenumber: 8
 phone: "+49 9208 1485"
 opening_hours: "Mo-Fr 10:00-12:00,14:00-18:30"

@@ -5,7 +5,7 @@ latitude: 49.6264254
 longitude: 9.900623000000001
 postcode: 97232
 city: Giebelstadt
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 7
 phone: ""
 opening_hours: ""

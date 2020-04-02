@@ -5,7 +5,7 @@ latitude: 47.5190445
 longitude: 10.2700657
 postcode: 87527
 city: Sonthofen
-street: Theodor-Aufsberg-Straße
+street: "Theodor-Aufsberg-Straße"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-13:30"

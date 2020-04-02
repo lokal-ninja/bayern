@@ -5,7 +5,7 @@ latitude: 48.5746953
 longitude: 13.4601798
 postcode: 94032
 city: Passau
-street: Ludwigstraße
+street: "Ludwigstraße"
 housenumber: 5
 phone: "+49 851 929590"
 opening_hours: "Mo-Fr 09:00-19:00, Sa 09:00-18:00"

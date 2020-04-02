@@ -5,7 +5,7 @@ latitude: 47.8728229
 longitude: 10.627446800000001
 postcode: 87600
 city: Kaufbeuren
-street: Füssener Straße
+street: "Füssener Straße"
 housenumber: 10
 phone: "+49834194650"
 opening_hours: "Mo-Tu 13:00-19:00; We 09:00-13:00; Tu-Fr 13:00-19:00; Sa 09:00-13:00"

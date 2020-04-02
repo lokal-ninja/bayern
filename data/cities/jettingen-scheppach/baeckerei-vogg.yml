@@ -5,7 +5,7 @@ latitude: 48.3860126
 longitude: 10.494963700000001
 postcode: 89343
 city: Jettingen-Scheppach
-street: Obere Dorfstraße
+street: "Obere Dorfstraße"
 housenumber: 46
 phone: "+49-8225-1235"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.7559496
 longitude: 11.051251200000001
 postcode: 86643
 city: Rennertshofen
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 49
 phone: "+49 8434 94000"
 opening_hours: "Mo-Fr 07:30-17:30, Sa 08:00-12:00"

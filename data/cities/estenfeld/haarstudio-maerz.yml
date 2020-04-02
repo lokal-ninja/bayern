@@ -5,7 +5,7 @@ latitude: 49.825903100000005
 longitude: 10.002832100000001
 postcode: 97230
 city: Estenfeld
-street: Sankt-Mauritius-Straße
+street: "Sankt-Mauritius-Straße"
 housenumber: 21a
 phone: ""
 opening_hours: ""

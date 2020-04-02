@@ -5,7 +5,7 @@ latitude: 48.335133400000004
 longitude: 11.3422128
 postcode: 85247
 city: Schwabhausen
-street: Berghofer Straße
+street: "Berghofer Straße"
 housenumber: 
 phone: ""
 opening_hours: "Mo-Su 06:30-10:00"

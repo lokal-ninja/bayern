@@ -5,7 +5,7 @@ latitude: 49.4878118
 longitude: 11.0035466
 postcode: 90765
 city: Fürth
-street: Dieselstraße
+street: "Dieselstraße"
 housenumber: 19
 phone: "+49 911 7879972 0"
 opening_hours: ""

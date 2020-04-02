@@ -5,7 +5,7 @@ latitude: 49.1944208
 longitude: 12.514416800000001
 postcode: 93426
 city: Roding
-street: Regensburger Straße
+street: "Regensburger Straße"
 housenumber: 22
 phone: ""
 opening_hours: ""

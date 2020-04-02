@@ -5,7 +5,7 @@ latitude: 48.8438857
 longitude: 10.5061488
 postcode: 86720
 city: Nördlingen
-street: Augsburger Straße
+street: "Augsburger Straße"
 housenumber: 65
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

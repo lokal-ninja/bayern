@@ -5,7 +5,7 @@ latitude: 47.720027
 longitude: 11.4120197
 postcode: 83673
 city: Bichl
-street: Kocheler Straße
+street: "Kocheler Straße"
 housenumber: 8
 phone: "+49 175 5463583"
 opening_hours: ""

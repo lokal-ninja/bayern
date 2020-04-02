@@ -5,7 +5,7 @@ latitude: 48.820751900000005
 longitude: 11.853164000000001
 postcode: 93326
 city: Abensberg
-street: Regensburger Straße
+street: "Regensburger Straße"
 housenumber: 39
 phone: "+49 9443 700200"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.9436138
 longitude: 11.5774308
 postcode: 95444
 city: Bayreuth
-street: Maximilianstraße
+street: "Maximilianstraße"
 housenumber: 4
 phone: "+49 921 5087012"
 opening_hours: "Mo-Fr 09:00-18:30; Sa 10:00-16:00"

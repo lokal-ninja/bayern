@@ -5,7 +5,7 @@ latitude: 49.7596636
 longitude: 9.181956600000001
 postcode: 63911
 city: Klingenberg am Main
-street: Rosenbergstraße
+street: "Rosenbergstraße"
 housenumber: 48
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00; PH off"

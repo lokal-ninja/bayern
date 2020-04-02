@@ -5,7 +5,7 @@ latitude: 49.068451
 longitude: 10.338977900000001
 postcode: 91550
 city: Dinkelsbühl
-street: Heiningerstraße
+street: "Heiningerstraße"
 housenumber: 11a
 phone: "+49 9851 894"
 opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-12:30"

@@ -5,7 +5,7 @@ latitude: 49.5075699
 longitude: 11.4296216
 postcode: 91217
 city: Hersbruck
-street: Rudolf-Wetzer-Straße
+street: "Rudolf-Wetzer-Straße"
 housenumber: 1
 phone: ""
 opening_hours: ""

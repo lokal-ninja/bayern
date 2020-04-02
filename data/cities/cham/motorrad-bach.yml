@@ -5,7 +5,7 @@ latitude: 49.201351700000004
 longitude: 12.6667891
 postcode: 93413
 city: Cham
-street: Bergfeldstraße
+street: "Bergfeldstraße"
 housenumber: 11
 phone: "+49 9971 861270"
 opening_hours: ""

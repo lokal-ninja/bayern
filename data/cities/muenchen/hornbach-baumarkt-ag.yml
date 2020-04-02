@@ -5,7 +5,7 @@ latitude: 48.2020617
 longitude: 11.618692900000001
 postcode: 80939
 city: München
-street: Muthmannstraße
+street: "Muthmannstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

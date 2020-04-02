@@ -5,7 +5,7 @@ latitude: 47.7910972
 longitude: 12.1131115
 postcode: 83064
 city: Raubling
-street: Friedrich-Fuckel-Straße
+street: "Friedrich-Fuckel-Straße"
 housenumber: 24
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00"

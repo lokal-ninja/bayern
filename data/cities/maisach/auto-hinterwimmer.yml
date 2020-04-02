@@ -5,7 +5,7 @@ latitude: 48.2173625
 longitude: 11.263156400000002
 postcode: 82216
 city: Maisach
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 23b
 phone: ""
 opening_hours: ""

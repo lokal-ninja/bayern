@@ -5,7 +5,7 @@ latitude: 48.224277300000004
 longitude: 12.6765383
 postcode: 84503
 city: Altötting
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 10
 phone: ""
 opening_hours: ""

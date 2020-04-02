@@ -5,7 +5,7 @@ latitude: 48.3784195
 longitude: 10.841195
 postcode: 86391
 city: Stadtbergen
-street: Ulmer Landstraße
+street: "Ulmer Landstraße"
 housenumber: 315
 phone: "+49 821 240 70 0"
 opening_hours: "Mo-Fr 09:00-18:00"

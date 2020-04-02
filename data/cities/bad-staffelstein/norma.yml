@@ -5,7 +5,7 @@ latitude: 50.1049086
 longitude: 11.0081897
 postcode: 96231
 city: Bad Staffelstein
-street: Lichtenfelser Straße
+street: "Lichtenfelser Straße"
 housenumber: 44
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

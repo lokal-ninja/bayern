@@ -5,7 +5,7 @@ latitude: 49.013577600000005
 longitude: 12.0841714
 postcode: 93049
 city: Regensburg
-street: Friedrich-Niedermayer-Straße
+street: "Friedrich-Niedermayer-Straße"
 housenumber: 44
 phone: "+49 941 22241"
 opening_hours: ""

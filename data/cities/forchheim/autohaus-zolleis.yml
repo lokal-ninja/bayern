@@ -5,7 +5,7 @@ latitude: 49.704632700000005
 longitude: 11.061911
 postcode: 91301
 city: Forchheim
-street: Daimlerstraße
+street: "Daimlerstraße"
 housenumber: 4a
 phone: ""
 opening_hours: ""

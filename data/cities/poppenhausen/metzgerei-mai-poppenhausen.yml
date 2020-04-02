@@ -5,7 +5,7 @@ latitude: 50.1001844
 longitude: 10.1454293
 postcode: 97490
 city: Poppenhausen
-street: Obere Straße
+street: "Obere Straße"
 housenumber: 2
 phone: ""
 opening_hours: ""

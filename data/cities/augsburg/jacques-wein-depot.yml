@@ -5,7 +5,7 @@ latitude: 48.379099800000006
 longitude: 10.850929
 postcode: 86156
 city: Augsburg
-street: Kriegshaberstraße
+street: "Kriegshaberstraße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Th 15:00-19:00, Fr 13:00-20:00, Sa 10:00-16:00"

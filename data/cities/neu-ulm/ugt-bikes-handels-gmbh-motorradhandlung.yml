@@ -5,7 +5,7 @@ latitude: 48.3943097
 longitude: 10.0251038
 postcode: 89231
 city: Neu-Ulm
-street: Max-Eyth-Straße
+street: "Max-Eyth-Straße"
 housenumber: 33
 phone: ""
 opening_hours: ""

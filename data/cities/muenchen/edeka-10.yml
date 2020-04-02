@@ -5,7 +5,7 @@ latitude: 48.1787037
 longitude: 11.6022665
 postcode: 80805
 city: München
-street: Ungererstraße
+street: "Ungererstraße"
 housenumber: 175
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

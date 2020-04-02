@@ -5,7 +5,7 @@ latitude: 48.190124700000005
 longitude: 11.868381300000001
 postcode: 85570
 city: Markt Schwaben
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 23
 phone: ""
 opening_hours: "Mo-Sa 08:00-18:00"

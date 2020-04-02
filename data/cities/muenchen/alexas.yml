@@ -5,7 +5,7 @@ latitude: 48.133773000000005
 longitude: 11.5757294
 postcode: 80469
 city: München
-street: Utzschneiderstraße
+street: "Utzschneiderstraße"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Fr 13:00-19:00; Sa 11:00-18:00"

@@ -5,7 +5,7 @@ latitude: 49.190910800000005
 longitude: 12.5130297
 postcode: 93426
 city: Roding
-street: Ringstraße
+street: "Ringstraße"
 housenumber: 41
 phone: ""
 opening_hours: ""

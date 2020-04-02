@@ -5,7 +5,7 @@ latitude: 48.3035854
 longitude: 10.1602981
 postcode: 89264
 city: Weißenhorn
-street: Hauptplatz
+street: "Hauptplatz"
 housenumber: 8
 phone: "+49 7309 9 29 64 37"
 opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-15:00"

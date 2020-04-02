@@ -5,7 +5,7 @@ latitude: 50.318649
 longitude: 10.198889300000001
 postcode: 97616
 city: Bad Neustadt an der Saale
-street: Hohenrother Straße
+street: "Hohenrother Straße"
 housenumber: 1-3
 phone: ""
 opening_hours: ""

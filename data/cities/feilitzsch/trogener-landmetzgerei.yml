@@ -5,7 +5,7 @@ latitude: 50.3619283
 longitude: 11.9346134
 postcode: 95183
 city: Feilitzsch
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 14
 phone: ""
 opening_hours: ""

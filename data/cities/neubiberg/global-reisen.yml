@@ -5,7 +5,7 @@ latitude: 48.0753265
 longitude: 11.6661414
 postcode: 85579
 city: Neubiberg
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 30
 phone: "+49 89 60089190"
 opening_hours: "Mo-Fr 09:00-12:30,14:30-18:00; Sa 09:30-12:30"

@@ -5,7 +5,7 @@ latitude: 49.4652831
 longitude: 11.0681613
 postcode: 90419
 city: Nürnberg
-street: Juvenellstraße
+street: "Juvenellstraße"
 housenumber: 25
 phone: "+49 911 333194"
 opening_hours: ""

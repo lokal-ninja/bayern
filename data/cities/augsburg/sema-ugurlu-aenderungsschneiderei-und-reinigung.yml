@@ -5,7 +5,7 @@ latitude: 48.372128100000005
 longitude: 10.892400400000001
 postcode: 
 city: Augsburg
-street: Kohlergasse
+street: "Kohlergasse"
 housenumber: 16
 phone: ""
 opening_hours: ""

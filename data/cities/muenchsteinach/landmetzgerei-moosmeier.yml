@@ -5,7 +5,7 @@ latitude: 49.637325100000005
 longitude: 10.588172400000001
 postcode: 91481
 city: Münchsteinach
-street: Fischbachstraße
+street: "Fischbachstraße"
 housenumber: 9
 phone: ""
 opening_hours: ""

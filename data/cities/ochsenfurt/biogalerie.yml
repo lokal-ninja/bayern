@@ -5,7 +5,7 @@ latitude: 49.664235500000004
 longitude: 10.075635700000001
 postcode: 97199
 city: Ochsenfurt
-street: Marktbreiter Straße
+street: "Marktbreiter Straße"
 housenumber: 11
 phone: "+49 93314740"
 opening_hours: ""

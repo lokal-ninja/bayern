@@ -5,7 +5,7 @@ latitude: 49.975824700000004
 longitude: 9.1474685
 postcode: 63739
 city: Aschaffenburg
-street: Herstallstraße
+street: "Herstallstraße"
 housenumber: 30
 phone: ""
 opening_hours: ""

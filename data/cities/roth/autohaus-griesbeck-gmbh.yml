@@ -5,7 +5,7 @@ latitude: 49.240192400000005
 longitude: 11.088787400000001
 postcode: 91154
 city: Roth
-street: Münchener Straße
+street: "Münchener Straße"
 housenumber: 48-50
 phone: ""
 opening_hours: ""

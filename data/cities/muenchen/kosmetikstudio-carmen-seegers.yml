@@ -5,7 +5,7 @@ latitude: 48.100305500000005
 longitude: 11.543817500000001
 postcode: 81379
 city: München
-street: Fraunbergstraße
+street: "Fraunbergstraße"
 housenumber: 16
 phone: ""
 opening_hours: "Tu-Fr 10:00-12:00,14:00-18:30; Sa nach Vereinbarung"

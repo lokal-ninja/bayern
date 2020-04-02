@@ -5,7 +5,7 @@ latitude: 49.4502332
 longitude: 11.025099500000001
 postcode: 90431
 city: Nürnberg
-street: Lehrberger Straße
+street: "Lehrberger Straße"
 housenumber: 10
 phone: "+49 911 9397770"
 opening_hours: ""

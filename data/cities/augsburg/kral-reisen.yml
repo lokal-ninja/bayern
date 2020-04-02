@@ -5,7 +5,7 @@ latitude: 48.3646143
 longitude: 10.8937775
 postcode: 86150
 city: Augsburg
-street: Hermanstraße
+street: "Hermanstraße"
 housenumber: 3
 phone: ""
 opening_hours: ""

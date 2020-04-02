@@ -5,7 +5,7 @@ latitude: 48.560595500000005
 longitude: 10.861898100000001
 postcode: 86405
 city: Meitingen
-street: Thierhauptener Straße
+street: "Thierhauptener Straße"
 housenumber: 10
 phone: "+49 8271 80160"
 opening_hours: ""

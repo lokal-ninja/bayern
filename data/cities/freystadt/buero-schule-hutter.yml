@@ -5,7 +5,7 @@ latitude: 49.199249300000005
 longitude: 11.328675700000002
 postcode: 92342
 city: Freystadt
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 40
 phone: "+49 9179 94 63 72"
 opening_hours: "Mo-Fr 09:00-13:00, 14:00-18:00, Sa 9:00-13:00"

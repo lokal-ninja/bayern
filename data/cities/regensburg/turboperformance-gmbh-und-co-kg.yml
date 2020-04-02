@@ -5,7 +5,7 @@ latitude: 48.999368100000005
 longitude: 12.1105707
 postcode: 93053
 city: Regensburg
-street: Unterislinger Weg
+street: "Unterislinger Weg"
 housenumber: 14
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.064171200000004
 longitude: 11.6646383
 postcode: 85521
 city: Ottobrunn
-street: Am Bogen
+street: "Am Bogen"
 housenumber: 13
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 08:00-13:00; Su,PH off"

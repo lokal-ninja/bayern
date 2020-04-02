@@ -5,7 +5,7 @@ latitude: 47.8644759
 longitude: 12.0005675
 postcode: 83043
 city: Bad Aibling
-street: Westendstraße
+street: "Westendstraße"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00;PH off"

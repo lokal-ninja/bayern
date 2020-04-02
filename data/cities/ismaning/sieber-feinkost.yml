@@ -5,7 +5,7 @@ latitude: 48.2227502
 longitude: 11.6678475
 postcode: 85737
 city: Ismaning
-street: Münchener Straße
+street: "Münchener Straße"
 housenumber: 70
 phone: ""
 opening_hours: "Mo-Fr 08:30-12:30,14:00-18:30; Sa 08:30-13:00"

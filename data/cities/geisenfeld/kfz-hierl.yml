@@ -5,7 +5,7 @@ latitude: 48.678629
 longitude: 11.590738700000001
 postcode: 85290
 city: Geisenfeld
-street: Augsburger Straße
+street: "Augsburger Straße"
 housenumber: 95
 phone: ""
 opening_hours: ""

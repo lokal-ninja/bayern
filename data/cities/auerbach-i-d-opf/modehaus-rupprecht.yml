@@ -5,7 +5,7 @@ latitude: 49.6918262
 longitude: 11.6309827
 postcode: 91275
 city: Auerbach i.d.OPf.
-street: Pfarrstraße
+street: "Pfarrstraße"
 housenumber: 24
 phone: "+49 9643 91182"
 opening_hours: "Mo-Fr 08:30-12:30, 14:00-18:00, Sa 08:30-12:30; Su,PH off"

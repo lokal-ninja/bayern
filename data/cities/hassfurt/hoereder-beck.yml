@@ -5,7 +5,7 @@ latitude: 50.0310362
 longitude: 10.5416266
 postcode: 97437
 city: Haßfurt
-street: Godelstatt
+street: "Godelstatt"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 05:00-19:00; Sa 06:00-18:00; Su 07:00-17:00"

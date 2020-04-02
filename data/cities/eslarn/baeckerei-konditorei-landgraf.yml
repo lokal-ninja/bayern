@@ -5,7 +5,7 @@ latitude: 49.582893000000006
 longitude: 12.5206101
 postcode: 92693
 city: Eslarn
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 6
 phone: "+49 9653 282"
 opening_hours: ""

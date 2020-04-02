@@ -5,7 +5,7 @@ latitude: 48.9719391
 longitude: 13.133823600000001
 postcode: 94209
 city: Regen
-street: Auwiesenweg
+street: "Auwiesenweg"
 housenumber: 42
 phone: ""
 opening_hours: ""

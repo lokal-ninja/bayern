@@ -5,7 +5,7 @@ latitude: 48.1660909
 longitude: 11.5817707
 postcode: 80803
 city: München
-street: Karl-Theodor-Straße
+street: "Karl-Theodor-Straße"
 housenumber: 31
 phone: "+49 89 33 37 01"
 opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-14:00"

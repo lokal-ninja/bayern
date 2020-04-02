@@ -5,7 +5,7 @@ latitude: 49.0241142
 longitude: 10.686616200000001
 postcode: 91747
 city: Westheim
-street: Lehrbuck
+street: "Lehrbuck"
 housenumber: 17
 phone: ""
 opening_hours: ""

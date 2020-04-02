@@ -5,7 +5,7 @@ latitude: 49.5754425
 longitude: 11.0004848
 postcode: 91058
 city: Erlangen
-street: Cumianastraße
+street: "Cumianastraße"
 housenumber: 5
 phone: "+49 180 3292534"
 opening_hours: "Mo-Sa 08:00-20:00"

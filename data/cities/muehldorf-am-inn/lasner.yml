@@ -5,7 +5,7 @@ latitude: 48.2460236
 longitude: 12.523573
 postcode: 
 city: Mühldorf am Inn
-street: Kaiser-Ludwig-Straße
+street: "Kaiser-Ludwig-Straße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 08:00-12:30, 13:30-17:30; Sa 08:00-12:30"

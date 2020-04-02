@@ -5,7 +5,7 @@ latitude: 48.4701314
 longitude: 11.937477900000001
 postcode: 85368
 city: Moosburg a.d. Isar
-street: Leinbergerstraße
+street: "Leinbergerstraße"
 housenumber: 26-28
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"

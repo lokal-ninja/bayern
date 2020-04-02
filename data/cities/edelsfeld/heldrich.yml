@@ -5,7 +5,7 @@ latitude: 49.576588400000006
 longitude: 11.695755400000001
 postcode: 92265
 city: Edelsfeld
-street: Sulzbacher Straße
+street: "Sulzbacher Straße"
 housenumber: 5
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 47.83991
 longitude: 11.1415705
 postcode: 82362
 city: Weilheim in Oberbayern
-street: Schmiedstraße
+street: "Schmiedstraße"
 housenumber: 4
 phone: "+49 881 2616"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:30-14:00; PH off"

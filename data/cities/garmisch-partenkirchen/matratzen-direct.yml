@@ -5,7 +5,7 @@ latitude: 47.497024800000005
 longitude: 11.1017893
 postcode: 
 city: Garmisch-Partenkirchen
-street: Hindenburgstraße
+street: "Hindenburgstraße"
 housenumber: 35
 phone: ""
 opening_hours: ""

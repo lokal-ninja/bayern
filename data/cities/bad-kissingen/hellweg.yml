@@ -5,7 +5,7 @@ latitude: 50.21037200000001
 longitude: 10.0805406
 postcode: 97688
 city: Bad Kissingen
-street: Steubenstraße
+street: "Steubenstraße"
 housenumber: 2
 phone: "+49 971 785790"
 opening_hours: "Mo-Sa 08:00-20:00"

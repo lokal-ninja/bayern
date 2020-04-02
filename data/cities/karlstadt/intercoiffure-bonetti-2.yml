@@ -5,7 +5,7 @@ latitude: 49.9616023
 longitude: 9.764870400000001
 postcode: 97753
 city: Karlstadt
-street: Rathausgasse
+street: "Rathausgasse"
 housenumber: 5
 phone: "+49 9353 9823020"
 opening_hours: ""

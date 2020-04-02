@@ -5,7 +5,7 @@ latitude: 49.5964965
 longitude: 11.008372300000001
 postcode: 91054
 city: Erlangen
-street: Obere Karlstraße
+street: "Obere Karlstraße"
 housenumber: 11
 phone: "+49 9131 9703844"
 opening_hours: ""

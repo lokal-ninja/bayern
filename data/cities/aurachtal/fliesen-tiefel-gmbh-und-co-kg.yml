@@ -5,7 +5,7 @@ latitude: 49.5798171
 longitude: 10.814466000000001
 postcode: 91086
 city: Aurachtal
-street: Gewerbeweg
+street: "Gewerbeweg"
 housenumber: 2
 phone: ""
 opening_hours: ""

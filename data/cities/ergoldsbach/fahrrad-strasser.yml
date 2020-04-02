@@ -5,7 +5,7 @@ latitude: 48.6918561
 longitude: 12.2026062
 postcode: 84061
 city: Ergoldsbach
-street: Rottenburger Straße
+street: "Rottenburger Straße"
 housenumber: 12
 phone: "+4987713261"
 opening_hours: "Mo-Fr 14:30-18:00; Sa 08:00-13:00"

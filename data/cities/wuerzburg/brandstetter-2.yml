@@ -5,7 +5,7 @@ latitude: 49.7933236
 longitude: 9.9289375
 postcode: 97070
 city: Würzburg
-street: Domstraße
+street: "Domstraße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Fr 06:30-18:00, Sa 07:00-18:00; Su,PH off"

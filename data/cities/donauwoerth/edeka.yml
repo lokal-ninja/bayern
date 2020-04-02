@@ -5,7 +5,7 @@ latitude: 48.724439800000006
 longitude: 10.779613000000001
 postcode: 86609
 city: Donauwörth
-street: Berger Vorstadt
+street: "Berger Vorstadt"
 housenumber: 31
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

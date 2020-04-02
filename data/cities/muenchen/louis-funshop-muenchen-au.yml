@@ -5,7 +5,7 @@ latitude: 48.123819700000006
 longitude: 11.5958108
 postcode: 81541
 city: München
-street: Auerfeldstraße
+street: "Auerfeldstraße"
 housenumber: 25
 phone: "+49 89 48900165"
 opening_hours: "Mo-We 09:00-20:00; Th-Fr 09:00-20:00; Sa 09:00-20:00"

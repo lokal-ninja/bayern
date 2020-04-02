@@ -5,7 +5,7 @@ latitude: 47.951491600000004
 longitude: 12.2765552
 postcode: 83128
 city: Halfing
-street: Chiemseestraße
+street: "Chiemseestraße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Sa 09:00-12:00"

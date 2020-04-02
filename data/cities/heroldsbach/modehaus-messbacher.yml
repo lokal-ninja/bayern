@@ -5,7 +5,7 @@ latitude: 49.692030100000004
 longitude: 11.001414200000001
 postcode: 91336
 city: Heroldsbach
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

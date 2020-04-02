@@ -5,7 +5,7 @@ latitude: 48.2605944
 longitude: 11.4690572
 postcode: 85221
 city: Dachau
-street: Alte Römerstraße
+street: "Alte Römerstraße"
 housenumber: 35
 phone: ""
 opening_hours: "Mo-Sa 07:30-20:00"

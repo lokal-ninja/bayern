@@ -5,7 +5,7 @@ latitude: 48.7248473
 longitude: 11.193093000000001
 postcode: 86633
 city: Neuburg an der Donau
-street: St.-Andreas-Straße
+street: "St.-Andreas-Straße"
 housenumber: 3
 phone: "+49 8431 642244"
 opening_hours: "Mo-Fr 08:30-19:00; Sa 08:00-16:00"

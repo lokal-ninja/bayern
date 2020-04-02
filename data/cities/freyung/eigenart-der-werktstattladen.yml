@@ -5,7 +5,7 @@ latitude: 48.8066904
 longitude: 13.5454567
 postcode: 94078
 city: Freyung
-street: Geyersberger Straße
+street: "Geyersberger Straße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 9:00-18:00; PH off"

@@ -5,7 +5,7 @@ latitude: 49.881827
 longitude: 12.3423618
 postcode: 95643
 city: Tirschenreuth
-street: Johannisstraße
+street: "Johannisstraße"
 housenumber: 11
 phone: ""
 opening_hours: ""

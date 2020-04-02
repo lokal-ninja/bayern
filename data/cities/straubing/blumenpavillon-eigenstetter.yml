@@ -5,7 +5,7 @@ latitude: 48.881074100000006
 longitude: 12.580312800000002
 postcode: 94315
 city: Straubing
-street: Heerstraße
+street: "Heerstraße"
 housenumber: 26
 phone: ""
 opening_hours: ""

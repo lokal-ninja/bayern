@@ -5,7 +5,7 @@ latitude: 49.4392471
 longitude: 11.0954996
 postcode: 
 city: Nürnberg
-street: Holzgartenstraße
+street: "Holzgartenstraße"
 housenumber: 24
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

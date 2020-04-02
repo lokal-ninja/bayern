@@ -5,7 +5,7 @@ latitude: 49.547448
 longitude: 10.9611537
 postcode: 91056
 city: Erlangen
-street: Hüttendorfer Straße
+street: "Hüttendorfer Straße"
 housenumber: 100
 phone: "+49 911 763651"
 opening_hours: "Th-Sa"

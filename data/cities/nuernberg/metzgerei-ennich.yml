@@ -5,7 +5,7 @@ latitude: 49.379156200000004
 longitude: 11.0298072
 postcode: 90453
 city: Nürnberg
-street: Reichelsdorfer Hauptstraße
+street: "Reichelsdorfer Hauptstraße"
 housenumber: 171
 phone: ""
 opening_hours: ""

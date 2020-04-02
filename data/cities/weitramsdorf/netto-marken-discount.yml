@@ -5,7 +5,7 @@ latitude: 50.2649525
 longitude: 10.912843800000001
 postcode: 96479
 city: Weitramsdorf
-street: Coburger Straße
+street: "Coburger Straße"
 housenumber: 135
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00; PH off"

@@ -5,7 +5,7 @@ latitude: 47.720416300000004
 longitude: 10.316053
 postcode: 87435
 city: Kempten (Allgäu)
-street: August-Fischer-Platz
+street: "August-Fischer-Platz"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 09:00-20:00"

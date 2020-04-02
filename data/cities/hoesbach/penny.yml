@@ -5,7 +5,7 @@ latitude: 50.006485600000005
 longitude: 9.217313200000001
 postcode: 63768
 city: Hösbach
-street: Daimlerstraße
+street: "Daimlerstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

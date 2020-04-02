@@ -5,7 +5,7 @@ latitude: 47.5603716
 longitude: 11.1368927
 postcode: 82496
 city: Oberau
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

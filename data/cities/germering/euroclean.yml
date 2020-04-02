@@ -5,7 +5,7 @@ latitude: 48.128825600000006
 longitude: 11.3653613
 postcode: 82110
 city: Germering
-street: Untere Bahnhofstraße
+street: "Untere Bahnhofstraße"
 housenumber: 50
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:30; Sa 08:30-13:00"

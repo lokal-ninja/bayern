@@ -5,7 +5,7 @@ latitude: 48.172168400000004
 longitude: 11.6379324
 postcode: 81927
 city: München
-street: Küfnerstraße
+street: "Küfnerstraße"
 housenumber: 3
 phone: "+49 89 9093 9670"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 08:00-16:00"

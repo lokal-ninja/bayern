@@ -5,7 +5,7 @@ latitude: 49.3778719
 longitude: 10.1794322
 postcode: 91541
 city: Rothenburg ob der Tauber
-street: Markt
+street: "Markt"
 housenumber: 1
 phone: "+49-9861-7653"
 opening_hours: ""

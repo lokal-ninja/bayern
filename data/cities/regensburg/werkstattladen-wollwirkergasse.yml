@@ -5,7 +5,7 @@ latitude: 49.0204292
 longitude: 12.088203700000001
 postcode: 93047
 city: Regensburg
-street: Wollwirkergasse
+street: "Wollwirkergasse"
 housenumber: 4
 phone: "+49 941 28097603"
 opening_hours: "We 12:00-17:00; Th 15:00-20:00; Fr 08:00-14:00"

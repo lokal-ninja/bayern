@@ -5,7 +5,7 @@ latitude: 49.9811539
 longitude: 9.114917400000001
 postcode: 63741
 city: Aschaffenburg
-street: Horchstraße
+street: "Horchstraße"
 housenumber: 120
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"

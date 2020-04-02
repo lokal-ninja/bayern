@@ -5,7 +5,7 @@ latitude: 48.388505900000006
 longitude: 10.8841183
 postcode: 86154
 city: Augsburg
-street: Weiherstraße
+street: "Weiherstraße"
 housenumber: 10a
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

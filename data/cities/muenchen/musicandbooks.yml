@@ -5,7 +5,7 @@ latitude: 48.135327100000005
 longitude: 11.5679504
 postcode: 80331
 city: München
-street: Kreuzstraße
+street: "Kreuzstraße"
 housenumber: 13
 phone: ""
 opening_hours: ""

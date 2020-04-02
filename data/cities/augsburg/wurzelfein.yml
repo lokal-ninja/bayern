@@ -5,7 +5,7 @@ latitude: 48.3497354
 longitude: 10.953090300000001
 postcode: 86163
 city: Augsburg
-street: Meringer Straße
+street: "Meringer Straße"
 housenumber: 58
 phone: "+49-821-64102"
 opening_hours: "Mo-We 08:30-18:00; Th,Fr 08:30-18:30; Sa 08:00-13:00"

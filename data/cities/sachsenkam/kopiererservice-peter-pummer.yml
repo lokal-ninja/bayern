@@ -5,7 +5,7 @@ latitude: 47.8042164
 longitude: 11.6503595
 postcode: 83679
 city: Sachsenkam
-street: Wagleitenstraße
+street: "Wagleitenstraße"
 housenumber: 2
 phone: "+49 8021 90655"
 opening_hours: "Mo,Tu,Th,Fr 9:00-12:00; We nach Vereinbarung"

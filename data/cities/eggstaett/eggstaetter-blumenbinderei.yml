@@ -5,7 +5,7 @@ latitude: 47.924259000000006
 longitude: 12.3810287
 postcode: 83125
 city: Eggstätt
-street: Priener Straße
+street: "Priener Straße"
 housenumber: 25
 phone: ""
 opening_hours: "Mo-Fr 08:00-12:30, 13:30-18:00; Sa 08:00-12:00"

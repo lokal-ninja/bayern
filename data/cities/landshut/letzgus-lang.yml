@@ -5,7 +5,7 @@ latitude: 48.548320800000006
 longitude: 12.1466638
 postcode: 84030
 city: Landshut
-street: Hofmark-Aich-Straße
+street: "Hofmark-Aich-Straße"
 housenumber: 20
 phone: "+49 871 74033"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"

@@ -5,7 +5,7 @@ latitude: 48.929233100000005
 longitude: 11.0417875
 postcode: 91788
 city: Pappenheim
-street: Sportplatzweg
+street: "Sportplatzweg"
 housenumber: 10
 phone: ""
 opening_hours: ""

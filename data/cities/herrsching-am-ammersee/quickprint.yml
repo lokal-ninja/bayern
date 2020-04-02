@@ -5,7 +5,7 @@ latitude: 48.004657900000005
 longitude: 11.1725937
 postcode: 82211
 city: Herrsching am Ammersee
-street: Gewerbestraße
+street: "Gewerbestraße"
 housenumber: 17
 phone: ""
 opening_hours: ""

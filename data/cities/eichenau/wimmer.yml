@@ -5,7 +5,7 @@ latitude: 48.168627300000004
 longitude: 11.323303200000002
 postcode: 82223
 city: Eichenau
-street: Eichenstraße
+street: "Eichenstraße"
 housenumber: 34
 phone: "+49 (8141) 539985"
 opening_hours: "Mo-Fr 06:30-18:00;Sa 06:30-12:00;Su 08:00-11:00"

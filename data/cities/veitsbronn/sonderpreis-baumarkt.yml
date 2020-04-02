@@ -5,7 +5,7 @@ latitude: 49.509177
 longitude: 10.888762
 postcode: 90587
 city: Veitsbronn
-street: Weihergasse
+street: "Weihergasse"
 housenumber: 6
 phone: "+49 911 9712684"
 opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00"

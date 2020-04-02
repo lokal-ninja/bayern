@@ -5,7 +5,7 @@ latitude: 48.3781861
 longitude: 10.832951000000001
 postcode: 86391
 city: Stadtbergen
-street: Steppacher Straße
+street: "Steppacher Straße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Th 07:30-17:30, Fr 07:30-14:00"

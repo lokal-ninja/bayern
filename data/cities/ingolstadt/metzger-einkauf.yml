@@ -5,7 +5,7 @@ latitude: 48.7429654
 longitude: 11.484244
 postcode: 85053
 city: Ingolstadt
-street: Scheelestraße
+street: "Scheelestraße"
 housenumber: 10
 phone: ""
 opening_hours: ""

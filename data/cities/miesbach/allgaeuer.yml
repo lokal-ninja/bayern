@@ -5,7 +5,7 @@ latitude: 47.7894355
 longitude: 11.832048700000001
 postcode: 83714
 city: Miesbach
-street: Kirchgasse
+street: "Kirchgasse"
 housenumber: 9
 phone: ""
 opening_hours: ""

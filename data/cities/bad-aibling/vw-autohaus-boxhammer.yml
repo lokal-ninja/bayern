@@ -5,7 +5,7 @@ latitude: 47.857593
 longitude: 11.994282
 postcode: 83043
 city: Bad Aibling
-street: Kampenwandstraße
+street: "Kampenwandstraße"
 housenumber: 5
 phone: "+49 8061 90 60 0"
 opening_hours: "Mo-Fr 07:00-18:00;Sa 08:30-16:00;Su,PH off"

@@ -5,7 +5,7 @@ latitude: 48.820059
 longitude: 12.3772386
 postcode: 94333
 city: Geiselhöring
-street: Landshuter Straße
+street: "Landshuter Straße"
 housenumber: 88
 phone: "+49 9423 943061"
 opening_hours: "Mo-Sa 07:00-20:00"

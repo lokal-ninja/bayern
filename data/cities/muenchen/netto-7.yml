@@ -5,7 +5,7 @@ latitude: 48.184679
 longitude: 11.568019000000001
 postcode: 80807
 city: München
-street: Milbertshofener Straße
+street: "Milbertshofener Straße"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

@@ -5,7 +5,7 @@ latitude: 49.506939700000004
 longitude: 10.8748821
 postcode: 90587
 city: Veitsbronn
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 10
 phone: "+49 911 751036"
 opening_hours: ""

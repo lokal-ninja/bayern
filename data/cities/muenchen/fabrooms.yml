@@ -5,7 +5,7 @@ latitude: 48.130931000000004
 longitude: 11.5878606
 postcode: 81669
 city: München
-street: Lilienstraße
+street: "Lilienstraße"
 housenumber: 3-5
 phone: "+49 89 416163660"
 opening_hours: ""

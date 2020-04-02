@@ -5,7 +5,7 @@ latitude: 48.2505419
 longitude: 11.645512
 postcode: 85748
 city: Garching bei München
-street: Schleißheimer Straße
+street: "Schleißheimer Straße"
 housenumber: 30c
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

@@ -5,7 +5,7 @@ latitude: 48.765415700000005
 longitude: 11.5340655
 postcode: 85098
 city: Großmehring
-street: Marienplatz
+street: "Marienplatz"
 housenumber: 3
 phone: "+49 8407 9153"
 opening_hours: ""

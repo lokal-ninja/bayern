@@ -5,7 +5,7 @@ latitude: 49.4683927
 longitude: 11.8496755
 postcode: 92224
 city: Amberg
-street: Neumühler Straße
+street: "Neumühler Straße"
 housenumber: 7
 phone: "+49 09621 308604"
 opening_hours: "Mo-Sa 07:00-20:00"

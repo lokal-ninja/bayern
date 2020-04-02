@@ -5,7 +5,7 @@ latitude: 49.561970800000005
 longitude: 10.9886534
 postcode: 91058
 city: Erlangen
-street: Weidenweg
+street: "Weidenweg"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Fr 8:00-20:00, Sa 8:00-16:00"

@@ -5,7 +5,7 @@ latitude: 47.8737568
 longitude: 11.0235827
 postcode: 82405
 city: Wessobrunn
-street: Zöpfstraße
+street: "Zöpfstraße"
 housenumber: 24
 phone: "+49 8809 259"
 opening_hours: "Mo-Fr 05:30-17:00; Sa 05:30-12:00; PH off"

@@ -5,7 +5,7 @@ latitude: 48.306041300000004
 longitude: 10.903891100000001
 postcode: 86179
 city: Augsburg
-street: Königsbrunner Straße
+street: "Königsbrunner Straße"
 housenumber: 29
 phone: ""
 opening_hours: ""

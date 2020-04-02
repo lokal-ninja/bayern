@@ -5,7 +5,7 @@ latitude: 47.755553400000004
 longitude: 10.3219244
 postcode: 87437
 city: Kempten (Allgäu)
-street: Benzstraße
+street: "Benzstraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

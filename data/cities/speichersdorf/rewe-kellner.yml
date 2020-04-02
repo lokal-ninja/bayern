@@ -5,7 +5,7 @@ latitude: 49.877070800000006
 longitude: 11.772510800000001
 postcode: 95469
 city: Speichersdorf
-street: Weidener Straße
+street: "Weidener Straße"
 housenumber: 
 phone: ""
 opening_hours: ""

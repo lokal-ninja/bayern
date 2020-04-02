@@ -5,7 +5,7 @@ latitude: 49.44523
 longitude: 11.857000900000001
 postcode: 92224
 city: Amberg
-street: Georgenstraße
+street: "Georgenstraße"
 housenumber: 4
 phone: "+49 9621 9656934"
 opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-17:00"

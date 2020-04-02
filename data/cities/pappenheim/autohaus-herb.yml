@@ -5,7 +5,7 @@ latitude: 48.9293509
 longitude: 11.033617600000001
 postcode: 91788
 city: Pappenheim
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 2a
 phone: ""
 opening_hours: ""

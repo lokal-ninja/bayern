@@ -5,7 +5,7 @@ latitude: 47.8487492
 longitude: 12.086187500000001
 postcode: 83026
 city: Rosenheim
-street: Georg-Aicher-Straße
+street: "Georg-Aicher-Straße"
 housenumber: 18
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

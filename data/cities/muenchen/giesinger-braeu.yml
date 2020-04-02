@@ -5,7 +5,7 @@ latitude: 48.1156963
 longitude: 11.576695800000001
 postcode: 81539
 city: München
-street: Martin-Luther-Straße
+street: "Martin-Luther-Straße"
 housenumber: 2
 phone: ""
 opening_hours: "Tu-Fr 10:00-19:00; Sa 09:00-14:00"

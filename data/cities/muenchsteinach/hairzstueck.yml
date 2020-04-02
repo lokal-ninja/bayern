@@ -5,7 +5,7 @@ latitude: 49.639675700000005
 longitude: 10.6009671
 postcode: 91481
 city: Münchsteinach
-street: Neuebersbacher Straße
+street: "Neuebersbacher Straße"
 housenumber: 5
 phone: ""
 opening_hours: ""

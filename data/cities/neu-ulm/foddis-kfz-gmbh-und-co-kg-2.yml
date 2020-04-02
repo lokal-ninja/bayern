@@ -5,7 +5,7 @@ latitude: 48.3875351
 longitude: 10.0203085
 postcode: 89231
 city: Neu-Ulm
-street: Lilienthalstraße
+street: "Lilienthalstraße"
 housenumber: 2
 phone: "+49 731 1405880"
 opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-13:00"

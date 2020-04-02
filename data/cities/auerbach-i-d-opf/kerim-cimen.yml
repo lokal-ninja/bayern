@@ -5,7 +5,7 @@ latitude: 49.6924408
 longitude: 11.6303962
 postcode: 91275
 city: Auerbach i.d.OPf.
-street: Oberer Marktplatz
+street: "Oberer Marktplatz"
 housenumber: 12
 phone: "+49 9643 4190"
 opening_hours: ""

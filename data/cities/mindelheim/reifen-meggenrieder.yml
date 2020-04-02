@@ -5,7 +5,7 @@ latitude: 48.048484300000005
 longitude: 10.4866794
 postcode: 87719
 city: Mindelheim
-street: Rechbergstraße
+street: "Rechbergstraße"
 housenumber: 27
 phone: ""
 opening_hours: ""

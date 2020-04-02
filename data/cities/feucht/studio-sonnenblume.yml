@@ -5,7 +5,7 @@ latitude: 49.373548400000004
 longitude: 11.213923900000001
 postcode: 90537
 city: Feucht
-street: Regensburger Straße
+street: "Regensburger Straße"
 housenumber: 2
 phone: ""
 opening_hours: ""

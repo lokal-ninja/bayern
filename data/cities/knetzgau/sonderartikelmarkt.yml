@@ -5,7 +5,7 @@ latitude: 49.9929536
 longitude: 10.5475513
 postcode: 97478
 city: Knetzgau
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 21
 phone: ""
 opening_hours: ""

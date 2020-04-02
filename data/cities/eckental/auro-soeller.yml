@@ -5,7 +5,7 @@ latitude: 49.57117220000001
 longitude: 11.203017200000001
 postcode: 90542
 city: Eckental
-street: Neunhofer Straße
+street: "Neunhofer Straße"
 housenumber: 18
 phone: ""
 opening_hours: ""

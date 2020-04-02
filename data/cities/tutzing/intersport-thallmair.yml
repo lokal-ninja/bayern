@@ -5,7 +5,7 @@ latitude: 47.9100903
 longitude: 11.2804909
 postcode: 82327
 city: Tutzing
-street: Traubinger Straße
+street: "Traubinger Straße"
 housenumber: 2
 phone: "+49 8158 993156"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"

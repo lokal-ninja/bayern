@@ -5,7 +5,7 @@ latitude: 49.915364600000004
 longitude: 10.907158200000001
 postcode: 96052
 city: Bamberg
-street: Zeppelinstraße
+street: "Zeppelinstraße"
 housenumber: 1 a
 phone: ""
 opening_hours: ""

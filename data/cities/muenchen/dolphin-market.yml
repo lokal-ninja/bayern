@@ -5,7 +5,7 @@ latitude: 48.181420700000004
 longitude: 11.5061634
 postcode: 80997
 city: München
-street: Gröbenzeller Straße
+street: "Gröbenzeller Straße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 07:30-19:30"

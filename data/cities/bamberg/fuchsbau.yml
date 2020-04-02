@@ -5,7 +5,7 @@ latitude: 49.9112815
 longitude: 10.9102555
 postcode: 96052
 city: Bamberg
-street: Memmelsdorfer Straße
+street: "Memmelsdorfer Straße"
 housenumber: 179
 phone: "+49 951 91793152"
 opening_hours: "Mo-Sa 06:00-21:00; Su 09:00-18:00"

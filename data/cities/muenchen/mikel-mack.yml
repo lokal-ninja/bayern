@@ -5,7 +5,7 @@ latitude: 48.1265525
 longitude: 11.582983800000001
 postcode: 81541
 city: München
-street: Schweigerstraße
+street: "Schweigerstraße"
 housenumber: 16
 phone: ""
 opening_hours: "Mo-Th 09:00-13:00,14:00-18:00;Fr 09:00-14:00"

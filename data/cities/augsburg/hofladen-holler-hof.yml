@@ -5,7 +5,7 @@ latitude: 48.337202000000005
 longitude: 10.8466915
 postcode: 86199
 city: Augsburg
-street: Wellenburger Straße
+street: "Wellenburger Straße"
 housenumber: 102
 phone: ""
 opening_hours: "Fr 10:00-12:00,15:00-18:00; Sa 09:00-13:00"

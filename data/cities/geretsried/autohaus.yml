@@ -5,7 +5,7 @@ latitude: 47.8808116
 longitude: 11.460602300000001
 postcode: 82538
 city: Geretsried
-street: Elbestraße
+street: "Elbestraße"
 housenumber: 21
 phone: ""
 opening_hours: ""

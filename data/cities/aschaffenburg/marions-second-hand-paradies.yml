@@ -5,7 +5,7 @@ latitude: 49.978374200000005
 longitude: 9.1486646
 postcode: 63739
 city: Aschaffenburg
-street: Goldbacher Straße
+street: "Goldbacher Straße"
 housenumber: 13
 phone: ""
 opening_hours: ""

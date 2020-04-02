@@ -5,7 +5,7 @@ latitude: 48.6814765
 longitude: 11.285395600000001
 postcode: 86668
 city: Karlshuld
-street: Augsburger Straße
+street: "Augsburger Straße"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00, PH off"

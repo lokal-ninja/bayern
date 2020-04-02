@@ -5,7 +5,7 @@ latitude: 48.3921548
 longitude: 10.020631400000001
 postcode: 89231
 city: Neu-Ulm
-street: Finninger Straße
+street: "Finninger Straße"
 housenumber: 49
 phone: "+49 731 1763"
 opening_hours: "Mo-Sa 09:00-19:30"

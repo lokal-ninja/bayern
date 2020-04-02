@@ -5,7 +5,7 @@ latitude: 49.9725887
 longitude: 9.149378500000001
 postcode: 63739
 city: Aschaffenburg
-street: Wermbachstraße
+street: "Wermbachstraße"
 housenumber: 46
 phone: ""
 opening_hours: ""

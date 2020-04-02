@@ -5,7 +5,7 @@ latitude: 48.5926349
 longitude: 10.9612721
 postcode: 86674
 city: Baar
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 18
 phone: ""
 opening_hours: ""

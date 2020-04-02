@@ -5,7 +5,7 @@ latitude: 47.8335056
 longitude: 11.162379900000001
 postcode: 82362
 city: Weilheim in Oberbayern
-street: Jakob-Steigenberger-Straße
+street: "Jakob-Steigenberger-Straße"
 housenumber: 2
 phone: ""
 opening_hours: "Mar-Nov: Mo-Fr 07:00-17:30; Mar-Nov: Sa 08:00-13:00; Dec-Feb: Mo-Fr 07:30-17:30; Dec-Feb: Sa 08:00-13:00"

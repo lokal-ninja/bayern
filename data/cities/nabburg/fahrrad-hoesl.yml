@@ -5,7 +5,7 @@ latitude: 49.4533071
 longitude: 12.185952700000001
 postcode: 92507
 city: Nabburg
-street: Hütgasse
+street: "Hütgasse"
 housenumber: 2
 phone: "+49 9433 6395"
 opening_hours: ""

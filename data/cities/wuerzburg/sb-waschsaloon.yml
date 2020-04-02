@@ -5,7 +5,7 @@ latitude: 49.793216300000005
 longitude: 9.946859
 postcode: 97072
 city: Würzburg
-street: Annastraße
+street: "Annastraße"
 housenumber: 13a
 phone: ""
 opening_hours: "Mo-Su 06:00-22:00"

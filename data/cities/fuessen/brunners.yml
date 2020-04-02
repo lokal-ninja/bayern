@@ -5,7 +5,7 @@ latitude: 47.568806
 longitude: 10.6999084
 postcode: 87629
 city: Füssen
-street: Reichenstraße
+street: "Reichenstraße"
 housenumber: 25
 phone: "+49 8362 929872"
 opening_hours: ""

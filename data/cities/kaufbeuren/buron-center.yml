@@ -5,7 +5,7 @@ latitude: 47.8829451
 longitude: 10.6206856
 postcode: 87600
 city: Kaufbeuren
-street: Josef-Landes-Straße
+street: "Josef-Landes-Straße"
 housenumber: 40
 phone: ""
 opening_hours: ""

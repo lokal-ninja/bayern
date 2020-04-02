@@ -5,7 +5,7 @@ latitude: 48.1554444
 longitude: 11.565820500000001
 postcode: 80798
 city: München
-street: Josephsplatz
+street: "Josephsplatz"
 housenumber: 4
 phone: "+498912737806"
 opening_hours: "Mo-Sa 10:00-20:00; Su 10:00-18:00; PH off"

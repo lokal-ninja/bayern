@@ -5,7 +5,7 @@ latitude: 50.0104082
 longitude: 9.3239864
 postcode: 63846
 city: Laufach
-street: Alter Weg
+street: "Alter Weg"
 housenumber: 10
 phone: ""
 opening_hours: ""

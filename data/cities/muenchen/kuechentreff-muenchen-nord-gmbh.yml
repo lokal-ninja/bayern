@@ -5,7 +5,7 @@ latitude: 48.192622400000005
 longitude: 11.598132900000001
 postcode: 
 city: München
-street: Maria-Probst-Straße
+street: "Maria-Probst-Straße"
 housenumber: 22
 phone: "+49 89 37001780"
 opening_hours: ""

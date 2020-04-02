@@ -5,7 +5,7 @@ latitude: 48.0009797
 longitude: 12.404005300000001
 postcode: 83119
 city: Obing
-street: Wasserburger Straße
+street: "Wasserburger Straße"
 housenumber: 17
 phone: ""
 opening_hours: ""

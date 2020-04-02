@@ -5,7 +5,7 @@ latitude: 49.481762200000006
 longitude: 11.0091943
 postcode: 90765
 city: Fürth
-street: Hans-Vogel-Straße
+street: "Hans-Vogel-Straße"
 housenumber: 54
 phone: ""
 opening_hours: ""

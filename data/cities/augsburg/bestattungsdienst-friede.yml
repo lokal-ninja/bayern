@@ -5,7 +5,7 @@ latitude: 48.380824700000005
 longitude: 10.848035300000001
 postcode: 86156
 city: Augsburg
-street: Neusässer Straße
+street: "Neusässer Straße"
 housenumber: 15
 phone: "+49 821 440070"
 opening_hours: ""

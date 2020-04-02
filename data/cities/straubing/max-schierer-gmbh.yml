@@ -5,7 +5,7 @@ latitude: 48.8751845
 longitude: 12.587359000000001
 postcode: 94315
 city: Straubing
-street: Antoniusberg
+street: "Antoniusberg"
 housenumber: 22
 phone: "+49 9421 9959 0"
 opening_hours: "Mo-Th 07:00-18:00; Fr 07:00-17:30; Sa 07:00-12:00"

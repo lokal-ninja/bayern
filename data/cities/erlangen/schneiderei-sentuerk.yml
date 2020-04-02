@@ -5,7 +5,7 @@ latitude: 49.597562800000006
 longitude: 11.015525400000001
 postcode: 91054
 city: Erlangen
-street: Marquardsenstraße
+street: "Marquardsenstraße"
 housenumber: 22
 phone: "+49 9131 23169"
 opening_hours: "Mo-Fr 09:00-13:00, 14:30-18:00; Sa 09:00-13:00"

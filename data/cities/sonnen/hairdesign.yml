@@ -5,7 +5,7 @@ latitude: 48.6863338
 longitude: 13.728931600000001
 postcode: 94164
 city: Sonnen
-street: Böhmerwaldstraße
+street: "Böhmerwaldstraße"
 housenumber: 17
 phone: ""
 opening_hours: ""

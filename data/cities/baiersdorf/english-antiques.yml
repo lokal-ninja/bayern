@@ -5,7 +5,7 @@ latitude: 49.6565195
 longitude: 11.0405973
 postcode: 91083
 city: Baiersdorf
-street: Ahornweg
+street: "Ahornweg"
 housenumber: 2
 phone: ""
 opening_hours: "Fr 10:00-18:00; Sa 10:00-16:00; PH off"

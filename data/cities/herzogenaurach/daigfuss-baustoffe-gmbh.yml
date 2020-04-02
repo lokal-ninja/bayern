@@ -5,7 +5,7 @@ latitude: 49.5767152
 longitude: 10.8982614
 postcode: 91074
 city: Herzogenaurach
-street: Zeppelinstraße
+street: "Zeppelinstraße"
 housenumber: 5
 phone: "+49 9132 7877 0"
 opening_hours: ""

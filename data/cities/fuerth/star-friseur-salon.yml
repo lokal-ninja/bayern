@@ -5,7 +5,7 @@ latitude: 49.474910200000004
 longitude: 10.9873844
 postcode: 90762
 city: Fürth
-street: Blumenstraße
+street: "Blumenstraße"
 housenumber: 11
 phone: ""
 opening_hours: "Tu-Fr 09:00-18:00"

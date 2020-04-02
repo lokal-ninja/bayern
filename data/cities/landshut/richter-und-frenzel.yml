@@ -5,7 +5,7 @@ latitude: 48.5624181
 longitude: 12.158135300000001
 postcode: 84030
 city: Landshut
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 18a
 phone: "+49 871 758-0"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00; Su 13:00-17:00"

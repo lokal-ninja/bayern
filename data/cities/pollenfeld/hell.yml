@@ -5,7 +5,7 @@ latitude: 48.9601977
 longitude: 11.224784600000001
 postcode: 85131
 city: Pollenfeld
-street: Jurastraße
+street: "Jurastraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

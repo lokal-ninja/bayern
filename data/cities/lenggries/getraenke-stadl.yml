@@ -5,7 +5,7 @@ latitude: 47.6778379
 longitude: 11.574133100000001
 postcode: 83661
 city: Lenggries
-street: Demmeljochstraße
+street: "Demmeljochstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

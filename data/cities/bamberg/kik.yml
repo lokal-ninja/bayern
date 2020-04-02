@@ -5,7 +5,7 @@ latitude: 49.878858300000005
 longitude: 10.9199268
 postcode: 96050
 city: Bamberg
-street: Forchheimer Straße
+street: "Forchheimer Straße"
 housenumber: 15
 phone: ""
 opening_hours: "Mo-Sa 09:00-20:00"

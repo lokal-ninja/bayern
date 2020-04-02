@@ -5,7 +5,7 @@ latitude: 49.8021438
 longitude: 9.9441856
 postcode: 97080
 city: Würzburg
-street: Brücknerstraße
+street: "Brücknerstraße"
 housenumber: 7
 phone: "+49 931 2879312"
 opening_hours: "Mo-Fr 07:00-18:00 Sa 07:00-13:00"

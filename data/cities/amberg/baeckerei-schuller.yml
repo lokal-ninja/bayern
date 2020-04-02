@@ -5,7 +5,7 @@ latitude: 49.453003
 longitude: 11.888206100000001
 postcode: 92224
 city: Amberg
-street: Kleinraigering
+street: "Kleinraigering"
 housenumber: 44
 phone: "+49 9621 145 04"
 opening_hours: "Mo-Sa 05:30-12:30, Tu-Fr 14:30-17:00"

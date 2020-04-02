@@ -5,7 +5,7 @@ latitude: 48.7650816
 longitude: 11.534453300000001
 postcode: 85098
 city: Großmehring
-street: Donaustraße
+street: "Donaustraße"
 housenumber: 1
 phone: "+49 8407 1012"
 opening_hours: ""

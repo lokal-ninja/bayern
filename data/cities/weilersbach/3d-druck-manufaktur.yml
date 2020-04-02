@@ -5,7 +5,7 @@ latitude: 49.749357100000005
 longitude: 11.126008500000001
 postcode: 91365
 city: Weilersbach
-street: Weißenbacherstraße
+street: "Weißenbacherstraße"
 housenumber: 9
 phone: "+49 9191 340 5811"
 opening_hours: ""

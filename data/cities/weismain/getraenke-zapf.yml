@@ -5,7 +5,7 @@ latitude: 50.0895924
 longitude: 11.2397171
 postcode: 96260
 city: Weismain
-street: Abt-Knauer-Straße
+street: "Abt-Knauer-Straße"
 housenumber: 29
 phone: ""
 opening_hours: ""

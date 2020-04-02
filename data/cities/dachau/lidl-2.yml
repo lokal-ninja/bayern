@@ -5,7 +5,7 @@ latitude: 48.2611335
 longitude: 11.471539100000001
 postcode: 85221
 city: Dachau
-street: Keplerstraße
+street: "Keplerstraße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

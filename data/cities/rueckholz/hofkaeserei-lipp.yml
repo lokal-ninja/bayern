@@ -5,7 +5,7 @@ latitude: 47.663569100000004
 longitude: 10.532710400000001
 postcode: 87494
 city: Rückholz
-street: Stelle
+street: "Stelle"
 housenumber: 1
 phone: "+49 8369 361"
 opening_hours: "Mo-Fr 09:00-12:00,17:00-19:00; Sa,Su,PH 09:00-12:00; We off"

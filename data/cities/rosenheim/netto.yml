@@ -5,7 +5,7 @@ latitude: 47.8639536
 longitude: 12.106155800000002
 postcode: 83024
 city: Rosenheim
-street: Prinzregentenstraße
+street: "Prinzregentenstraße"
 housenumber: 109
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

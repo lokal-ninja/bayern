@@ -5,7 +5,7 @@ latitude: 48.3540799
 longitude: 10.9843965
 postcode: 86316
 city: Friedberg
-street: Münchner Straße
+street: "Münchner Straße"
 housenumber: 6
 phone: ""
 opening_hours: ""

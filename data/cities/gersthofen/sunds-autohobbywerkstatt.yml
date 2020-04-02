@@ -5,7 +5,7 @@ latitude: 48.4138693
 longitude: 10.874713400000001
 postcode: 86368
 city: Gersthofen
-street: Tiefenbacherstraße
+street: "Tiefenbacherstraße"
 housenumber: 4
 phone: "+49 821 704001"
 opening_hours: "Mo-Fr 09:00-21:30; Sa 08:00-20:30; PH off"

@@ -5,7 +5,7 @@ latitude: 50.060884800000004
 longitude: 10.2319472
 postcode: 97422
 city: Schweinfurt
-street: An der Turngemeinde
+street: "An der Turngemeinde"
 housenumber: 2
 phone: ""
 opening_hours: ""

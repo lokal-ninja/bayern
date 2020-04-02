@@ -5,7 +5,7 @@ latitude: 49.455192600000004
 longitude: 11.0932674
 postcode: 90489
 city: Nürnberg
-street: Äußere Cramer-Klett-Straße
+street: "Äußere Cramer-Klett-Straße"
 housenumber: 21
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

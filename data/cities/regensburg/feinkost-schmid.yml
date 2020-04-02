@@ -5,7 +5,7 @@ latitude: 49.001987
 longitude: 12.083904400000002
 postcode: 93051
 city: Regensburg
-street: Theodor-Storm-Straße
+street: "Theodor-Storm-Straße"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Fr 07:00-18:00, Sa 07:00-12:30"

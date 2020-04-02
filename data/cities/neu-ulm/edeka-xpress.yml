@@ -5,7 +5,7 @@ latitude: 48.3686303
 longitude: 10.014304000000001
 postcode: 89231
 city: Neu-Ulm
-street: Reichenberger Straße
+street: "Reichenberger Straße"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"

@@ -5,7 +5,7 @@ latitude: 47.763052300000005
 longitude: 11.0483515
 postcode: 82380
 city: Böbing
-street: Scheibenweg
+street: "Scheibenweg"
 housenumber: 2-4
 phone: ""
 opening_hours: "Mo-Fr 09:00-15:00; Sa 09:00-12:00"

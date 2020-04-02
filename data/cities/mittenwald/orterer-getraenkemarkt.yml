@@ -5,7 +5,7 @@ latitude: 47.444615000000006
 longitude: 11.263233600000001
 postcode: 82481
 city: Mittenwald
-street: Partenkirchner Straße
+street: "Partenkirchner Straße"
 housenumber: 20
 phone: "+49 8823 9384854"
 opening_hours: "Mo-Fr 08:30-19:00; Sa 08:00-16:00"

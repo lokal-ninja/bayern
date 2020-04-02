@@ -5,7 +5,7 @@ latitude: 48.142786
 longitude: 11.576295
 postcode: 
 city: München
-street: Brienner Straße
+street: "Brienner Straße"
 housenumber: 7
 phone: ""
 opening_hours: ""

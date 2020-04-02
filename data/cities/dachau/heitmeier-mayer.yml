@@ -5,7 +5,7 @@ latitude: 48.261620300000004
 longitude: 11.4315382
 postcode: 85221
 city: Dachau
-street: Augsburger Straße
+street: "Augsburger Straße"
 housenumber: 41
 phone: ""
 opening_hours: ""

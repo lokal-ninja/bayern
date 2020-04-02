@@ -5,7 +5,7 @@ latitude: 47.8210563
 longitude: 11.482670800000001
 postcode: 82549
 city: Königsdorf
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

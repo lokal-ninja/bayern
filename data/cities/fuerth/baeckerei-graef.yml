@@ -5,7 +5,7 @@ latitude: 49.4901866
 longitude: 10.974977
 postcode: 90766
 city: Fürth
-street: Friedrich-Ebert-Straße
+street: "Friedrich-Ebert-Straße"
 housenumber: 164
 phone: "+49 911 736576"
 opening_hours: ""

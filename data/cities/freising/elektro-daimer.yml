@@ -5,7 +5,7 @@ latitude: 48.4035007
 longitude: 11.750182800000001
 postcode: 85356
 city: Freising
-street: Landshuter Straße
+street: "Landshuter Straße"
 housenumber: 2
 phone: "+49 8161 145837"
 opening_hours: ""

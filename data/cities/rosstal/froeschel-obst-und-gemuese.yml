@@ -5,7 +5,7 @@ latitude: 49.396283100000005
 longitude: 10.8849172
 postcode: 90574
 city: Roßtal
-street: Rathausgasse
+street: "Rathausgasse"
 housenumber: 22
 phone: ""
 opening_hours: ""

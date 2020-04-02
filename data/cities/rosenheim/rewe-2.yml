@@ -5,7 +5,7 @@ latitude: 47.8717162
 longitude: 12.115109200000001
 postcode: 83024
 city: Rosenheim
-street: Ebersberger Straße
+street: "Ebersberger Straße"
 housenumber: 107
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

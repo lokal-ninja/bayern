@@ -5,7 +5,7 @@ latitude: 48.114026300000006
 longitude: 11.612925800000001
 postcode: 81669
 city: München
-street: Herrenchiemseestraße
+street: "Herrenchiemseestraße"
 housenumber: 4
 phone: ""
 opening_hours: "Th,Fr 16:00-19:00; Sa 11:00-16:00; on appointment"

@@ -5,7 +5,7 @@ latitude: 48.807401500000005
 longitude: 11.479383200000001
 postcode: 85092
 city: Kösching
-street: Ingolstädter Straße
+street: "Ingolstädter Straße"
 housenumber: 145
 phone: ""
 opening_hours: ""

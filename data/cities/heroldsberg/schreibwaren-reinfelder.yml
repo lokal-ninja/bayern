@@ -5,7 +5,7 @@ latitude: 49.5274074
 longitude: 11.153495300000001
 postcode: 90562
 city: Heroldsberg
-street: Nürnberger Straße
+street: "Nürnberger Straße"
 housenumber: 40
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.1466299
 longitude: 11.1524745
 postcode: 91180
 city: Heideck
-street: Industriepark
+street: "Industriepark"
 housenumber: 8
 phone: "+49 9177 1888"
 opening_hours: ""

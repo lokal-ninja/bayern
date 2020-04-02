@@ -5,7 +5,7 @@ latitude: 47.855098100000006
 longitude: 12.7875489
 postcode: 83317
 city: Teisendorf
-street: Weidacherfeld
+street: "Weidacherfeld"
 housenumber: 10
 phone: "+49 151 58111597"
 opening_hours: ""

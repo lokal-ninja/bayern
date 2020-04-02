@@ -5,7 +5,7 @@ latitude: 47.875005400000006
 longitude: 11.4658376
 postcode: 82538
 city: Geretsried
-street: Karl-Lederer-Platz
+street: "Karl-Lederer-Platz"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:30, Sa 09:00-14:00"

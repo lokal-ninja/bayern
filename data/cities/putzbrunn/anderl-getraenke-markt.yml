@@ -5,7 +5,7 @@ latitude: 48.080276000000005
 longitude: 11.6921157
 postcode: 85640
 city: Putzbrunn
-street: Innstraße
+street: "Innstraße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Fr 09:00-20:00; Sa 08:00-18:00"

@@ -5,7 +5,7 @@ latitude: 48.2530945
 longitude: 12.4658919
 postcode: 84562
 city: Mettenheim-Hart
-street: Waldstraße
+street: "Waldstraße"
 housenumber: 1-3
 phone: "+49 8631 5898"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.6917745
 longitude: 12.1708897
 postcode: 92637
 city: Weiden i.d.OPf.
-street: Pfeifferstraße
+street: "Pfeifferstraße"
 housenumber: 2
 phone: "+49 961 38178169"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"

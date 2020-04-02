@@ -5,7 +5,7 @@ latitude: 47.9665734
 longitude: 12.593384400000001
 postcode: 83301
 city: Traunreut
-street: Werner-von-Siemens-Straße
+street: "Werner-von-Siemens-Straße"
 housenumber: 19
 phone: ""
 opening_hours: "Mo-Fr 07:30-17:00;Sa 09:00-13:00"

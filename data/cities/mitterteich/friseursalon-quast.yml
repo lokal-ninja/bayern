@@ -5,7 +5,7 @@ latitude: 49.950306700000006
 longitude: 12.2421112
 postcode: 95666
 city: Mitterteich
-street: Vorstadt
+street: "Vorstadt"
 housenumber: 1
 phone: ""
 opening_hours: ""

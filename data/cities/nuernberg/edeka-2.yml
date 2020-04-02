@@ -5,7 +5,7 @@ latitude: 49.4120622
 longitude: 11.1732834
 postcode: 90475
 city: Nürnberg
-street: Löwenberger Straße
+street: "Löwenberger Straße"
 housenumber: 52
 phone: ""
 opening_hours: ""

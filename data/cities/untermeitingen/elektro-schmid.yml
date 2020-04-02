@@ -5,7 +5,7 @@ latitude: 48.1677273
 longitude: 10.825605300000001
 postcode: 86836
 city: Untermeitingen
-street: Brünnerstraße
+street: "Brünnerstraße"
 housenumber: 12
 phone: "+49 8232 9977133"
 opening_hours: ""

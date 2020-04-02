@@ -5,7 +5,7 @@ latitude: 48.148509000000004
 longitude: 11.577090700000001
 postcode: 80799
 city: München
-street: Amalienstraße
+street: "Amalienstraße"
 housenumber: 37
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:30; Sa 10:00-14:00; Su,PH off"

@@ -5,7 +5,7 @@ latitude: 50.3031408
 longitude: 11.9228687
 postcode: 95032
 city: Hof
-street: Wunsiedler Straße
+street: "Wunsiedler Straße"
 housenumber: 16
 phone: "+4992815402730"
 opening_hours: "Mo off; Tu-Fr 09:30-19:00; Sa 09:30-17:00"

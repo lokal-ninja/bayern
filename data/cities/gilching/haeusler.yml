@@ -5,7 +5,7 @@ latitude: 48.0974579
 longitude: 11.287168900000001
 postcode: 82205
 city: Gilching
-street: Landsberger Straße
+street: "Landsberger Straße"
 housenumber: 64
 phone: ""
 opening_hours: ""

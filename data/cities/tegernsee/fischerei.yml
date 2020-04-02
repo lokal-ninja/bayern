@@ -5,7 +5,7 @@ latitude: 47.70631
 longitude: 11.758344000000001
 postcode: 83684
 city: Tegernsee
-street: Seestraße
+street: "Seestraße"
 housenumber: 42
 phone: ""
 opening_hours: ""

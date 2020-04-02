@@ -5,7 +5,7 @@ latitude: 49.706092500000004
 longitude: 10.798189
 postcode: 91315
 city: Höchstadt a.d.Aisch
-street: Rothenburger Straße
+street: "Rothenburger Straße"
 housenumber: 19
 phone: "+49 9193 50290"
 opening_hours: ""

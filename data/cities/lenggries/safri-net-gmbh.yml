@@ -5,7 +5,7 @@ latitude: 47.6815627
 longitude: 11.5834227
 postcode: 
 city: Lenggries
-street: Goethestraße
+street: "Goethestraße"
 housenumber: 28
 phone: ""
 opening_hours: "Mo-Fr 08:00-17:00"

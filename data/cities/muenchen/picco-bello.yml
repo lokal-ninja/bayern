@@ -5,7 +5,7 @@ latitude: 48.081608100000004
 longitude: 11.5290649
 postcode: 81479
 city: München
-street: Wolfratshauser Straße
+street: "Wolfratshauser Straße"
 housenumber: 204
 phone: ""
 opening_hours: "Mo-Fr 08:30-18:00, Sa 09:00-13:00"

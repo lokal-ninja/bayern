@@ -5,7 +5,7 @@ latitude: 49.799759800000004
 longitude: 10.0027299
 postcode: 97076
 city: Würzburg
-street: Im Kreuz
+street: "Im Kreuz"
 housenumber: 12
 phone: ""
 opening_hours: ""

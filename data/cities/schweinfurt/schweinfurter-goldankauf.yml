@@ -5,7 +5,7 @@ latitude: 50.0447001
 longitude: 10.2295523
 postcode: 97421
 city: Schweinfurt
-street: Wolfsgasse
+street: "Wolfsgasse"
 housenumber: 10
 phone: ""
 opening_hours: ""

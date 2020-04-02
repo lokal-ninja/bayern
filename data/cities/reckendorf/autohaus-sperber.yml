@@ -5,7 +5,7 @@ latitude: 50.0222977
 longitude: 10.826853600000002
 postcode: 96182
 city: Reckendorf
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 62
 phone: ""
 opening_hours: "Mo-Fr 08:00-17:30; Sa 08:00-12:00"

@@ -5,7 +5,7 @@ latitude: 48.560171700000005
 longitude: 11.264919800000001
 postcode: 86529
 city: Schrobenhausen
-street: Lenbachstraße
+street: "Lenbachstraße"
 housenumber: 33
 phone: ""
 opening_hours: ""

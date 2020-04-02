@@ -5,7 +5,7 @@ latitude: 49.497530000000005
 longitude: 10.410627100000001
 postcode: 91438
 city: Bad Windsheim
-street: Rothenburger Straße
+street: "Rothenburger Straße"
 housenumber: 47
 phone: "+49 9841 68930"
 opening_hours: "Mo-Sa 07:00-20:00; PH off"

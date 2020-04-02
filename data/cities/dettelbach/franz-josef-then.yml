@@ -5,7 +5,7 @@ latitude: 49.8015242
 longitude: 10.1616046
 postcode: 97337
 city: Dettelbach
-street: Maingasse
+street: "Maingasse"
 housenumber: 10
 phone: ""
 opening_hours: ""

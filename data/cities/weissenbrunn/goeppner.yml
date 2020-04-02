@@ -5,7 +5,7 @@ latitude: 50.203515700000004
 longitude: 11.3047486
 postcode: 96369
 city: Weißenbrunn
-street: Dorfplatz
+street: "Dorfplatz"
 housenumber: 2
 phone: ""
 opening_hours: "Tu-Fr 07:30-12:30,14:00-18:00; Sa 07:30-12:00,14:00-18:00"

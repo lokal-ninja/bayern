@@ -5,7 +5,7 @@ latitude: 48.517851300000004
 longitude: 10.8093412
 postcode: 86485
 city: Biberbach
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 11
 phone: "+49 8271 8147907"
 opening_hours: "Mo 06:30-12:30; Tu-Fr 06:30-12:30,14:00-18:00; Sa 06:30-12:00"

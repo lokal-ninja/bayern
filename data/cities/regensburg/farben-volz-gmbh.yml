@@ -5,7 +5,7 @@ latitude: 49.0053301
 longitude: 12.146691
 postcode: 93055
 city: Regensburg
-street: Werner-Heisenberg-Straße
+street: "Werner-Heisenberg-Straße"
 housenumber: 1
 phone: "+49 941 79509 0"
 opening_hours: "Mo-Th 07:00-17:00; Fr 07:00-15:00"

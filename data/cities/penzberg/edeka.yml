@@ -5,7 +5,7 @@ latitude: 47.760304100000006
 longitude: 11.367405000000002
 postcode: 82377
 city: Penzberg
-street: Schöneberger Straße
+street: "Schöneberger Straße"
 housenumber: 24
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00; PH off"

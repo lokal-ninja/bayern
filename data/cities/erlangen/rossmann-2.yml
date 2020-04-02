@@ -5,7 +5,7 @@ latitude: 49.5944197
 longitude: 10.9498073
 postcode: 91056
 city: Erlangen
-street: Rudeltplatz
+street: "Rudeltplatz"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"

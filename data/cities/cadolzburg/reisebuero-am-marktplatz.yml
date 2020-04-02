@@ -5,7 +5,7 @@ latitude: 49.4582587
 longitude: 10.851987300000001
 postcode: 90556
 city: Cadolzburg
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 15
 phone: ""
 opening_hours: ""

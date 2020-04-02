@@ -5,7 +5,7 @@ latitude: 49.4560237
 longitude: 11.084541600000001
 postcode: 90403
 city: Nürnberg
-street: Innerer Laufer Platz
+street: "Innerer Laufer Platz"
 housenumber: 6-8
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.4499141
 longitude: 11.077489700000001
 postcode: 90402
 city: Nürnberg
-street: Pfannenschmiedsgasse
+street: "Pfannenschmiedsgasse"
 housenumber: 18
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.254681000000005
 longitude: 10.6042802
 postcode: 86863
 city: Langenneufnach
-street: Hummelweg
+street: "Hummelweg"
 housenumber: 5
 phone: "+49 8239 7311"
 opening_hours: ""

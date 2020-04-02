@@ -5,7 +5,7 @@ latitude: 49.1001368
 longitude: 12.4868284
 postcode: 93167
 city: Falkenstein
-street: Rodinger Straße
+street: "Rodinger Straße"
 housenumber: 9
 phone: "+49 9462 227"
 opening_hours: "Mo-Fr 09:00-12:00,14:00-18:00; We 09:00-12:00; Sa 10:00-13:00"

@@ -5,7 +5,7 @@ latitude: 49.628049600000004
 longitude: 10.9414718
 postcode: 91056
 city: Erlangen
-street: Naturbadstraße
+street: "Naturbadstraße"
 housenumber: 13
 phone: "+49 9135 8808"
 opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-12:30"

@@ -5,7 +5,7 @@ latitude: 49.3769944
 longitude: 10.187802300000001
 postcode: 91541
 city: Rothenburg ob der Tauber
-street: Johannitergasse
+street: "Johannitergasse"
 housenumber: 11
 phone: "+49 9861 86386"
 opening_hours: ""

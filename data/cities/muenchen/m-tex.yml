@@ -5,7 +5,7 @@ latitude: 48.1470786
 longitude: 11.5938777
 postcode: 80538
 city: München
-street: Lerchenfeldstraße
+street: "Lerchenfeldstraße"
 housenumber: 16
 phone: "+49 89 28788392"
 opening_hours: ""

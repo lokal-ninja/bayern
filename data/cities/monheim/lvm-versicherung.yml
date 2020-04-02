@@ -5,7 +5,7 @@ latitude: 48.842049900000006
 longitude: 10.856399600000001
 postcode: 86653
 city: Monheim
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 6
 phone: ""
 opening_hours: ""

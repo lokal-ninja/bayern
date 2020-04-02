@@ -5,7 +5,7 @@ latitude: 49.035152800000006
 longitude: 12.108065900000001
 postcode: 93059
 city: Regensburg
-street: Sonnenstraße
+street: "Sonnenstraße"
 housenumber: 21a
 phone: ""
 opening_hours: ""

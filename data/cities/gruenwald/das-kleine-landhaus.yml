@@ -5,7 +5,7 @@ latitude: 48.041536
 longitude: 11.526202000000001
 postcode: 82031
 city: Grünwald
-street: Südliche Münchner Straße
+street: "Südliche Münchner Straße"
 housenumber: 10
 phone: "+49 89 6413628"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.226401200000005
 longitude: 12.0891032
 postcode: 93158
 city: Teublitz
-street: Ganghoferstraße
+street: "Ganghoferstraße"
 housenumber: 14
 phone: ""
 opening_hours: ""

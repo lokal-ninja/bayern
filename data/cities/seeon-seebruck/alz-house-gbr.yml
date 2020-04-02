@@ -5,7 +5,7 @@ latitude: 47.959420900000005
 longitude: 12.5006965
 postcode: 83376
 city: Seeon-Seebruck
-street: Chiemseestraße
+street: "Chiemseestraße"
 housenumber: 3
 phone: "+49 177 5502544"
 opening_hours: ""

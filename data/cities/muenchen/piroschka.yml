@@ -5,7 +5,7 @@ latitude: 48.0797396
 longitude: 11.512675100000001
 postcode: 
 city: München
-street: Geigenbergerstraße
+street: "Geigenbergerstraße"
 housenumber: 51
 phone: ""
 opening_hours: "We-Fr 08:00-19:00"

@@ -5,7 +5,7 @@ latitude: 49.0760566
 longitude: 12.195412500000002
 postcode: 93173
 city: Wenzenbach
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

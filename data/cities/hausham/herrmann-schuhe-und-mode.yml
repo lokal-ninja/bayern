@@ -5,7 +5,7 @@ latitude: 47.762234400000004
 longitude: 11.8293268
 postcode: 83734
 city: Hausham
-street: Obere Tiefenbachstraße
+street: "Obere Tiefenbachstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.424396400000006
 longitude: 10.8515914
 postcode: 90614
 city: Ammerndorf
-street: Eichenstraße
+street: "Eichenstraße"
 housenumber: 47
 phone: ""
 opening_hours: ""

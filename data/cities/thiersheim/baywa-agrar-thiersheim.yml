@@ -5,7 +5,7 @@ latitude: 50.0773887
 longitude: 12.1204756
 postcode: 95707
 city: Thiersheim
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 28
 phone: ""
 opening_hours: ""

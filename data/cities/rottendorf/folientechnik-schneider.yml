@@ -5,7 +5,7 @@ latitude: 49.7904933
 longitude: 10.025253000000001
 postcode: 97228
 city: Rottendorf
-street: Würzburger Straße
+street: "Würzburger Straße"
 housenumber: 12
 phone: "+49 9302 9800471"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 47.674955600000004
 longitude: 12.0119804
 postcode: 83735
 city: Bayrischzell
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

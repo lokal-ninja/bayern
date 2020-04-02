@@ -5,7 +5,7 @@ latitude: 49.358452400000004
 longitude: 11.0515989
 postcode: 90453
 city: Nürnberg
-street: Katzwanger Hauptstraße
+street: "Katzwanger Hauptstraße"
 housenumber: 33
 phone: ""
 opening_hours: ""

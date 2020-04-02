@@ -5,7 +5,7 @@ latitude: 49.376750300000005
 longitude: 10.196208700000001
 postcode: 91541
 city: Rothenburg ob der Tauber
-street: Ansbacher Straße
+street: "Ansbacher Straße"
 housenumber: 85
 phone: "+49 9861 3495"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00; Nov,Dec,Jan,Feb Mo off"

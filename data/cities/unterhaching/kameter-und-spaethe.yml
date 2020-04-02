@@ -5,7 +5,7 @@ latitude: 48.0689852
 longitude: 11.6098052
 postcode: 82008
 city: Unterhaching
-street: Franz-Schubert-Straße
+street: "Franz-Schubert-Straße"
 housenumber: 7
 phone: ""
 opening_hours: ""

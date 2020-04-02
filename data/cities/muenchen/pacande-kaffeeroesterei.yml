@@ -5,7 +5,7 @@ latitude: 48.1170101
 longitude: 11.5485608
 postcode: 81371
 city: München
-street: Implerstraße
+street: "Implerstraße"
 housenumber: 65
 phone: ""
 opening_hours: "Tu-Fr 09:00-13:00, 14:00-18:00; Sa 10:00-13:00, 14:00-16:00"

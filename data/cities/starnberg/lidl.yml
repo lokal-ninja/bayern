@@ -5,7 +5,7 @@ latitude: 48.0105488
 longitude: 11.3478297
 postcode: 
 city: Starnberg
-street: Gautinger Straße
+street: "Gautinger Straße"
 housenumber: 37
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

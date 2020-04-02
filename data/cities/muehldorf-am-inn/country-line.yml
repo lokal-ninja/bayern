@@ -5,7 +5,7 @@ latitude: 48.2568588
 longitude: 12.5448825
 postcode: 84453
 city: Mühldorf am Inn
-street: Mühlbauerstraße
+street: "Mühlbauerstraße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Fr 08:30-18:00; Sa 08:00-14:00; Su,PH off"

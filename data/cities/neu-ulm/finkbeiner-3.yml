@@ -5,7 +5,7 @@ latitude: 48.3913901
 longitude: 9.998603300000001
 postcode: 89231
 city: Neu-Ulm
-street: Gartenstraße
+street: "Gartenstraße"
 housenumber: 30-34
 phone: ""
 opening_hours: "Mo-Fr 08:30-19:00; Sa 08:00-18:00"

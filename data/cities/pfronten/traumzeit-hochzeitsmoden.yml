@@ -5,7 +5,7 @@ latitude: 47.581491400000004
 longitude: 10.5563897
 postcode: 87459
 city: Pfronten
-street: Vilstalstraße
+street: "Vilstalstraße"
 housenumber: 6
 phone: ""
 opening_hours: "Tu-Fr 10:00-13:00,14:00-18:00"

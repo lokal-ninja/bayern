@@ -5,7 +5,7 @@ latitude: 50.1695896
 longitude: 12.130691
 postcode: 95100
 city: Selb
-street: Ludwigstraße
+street: "Ludwigstraße"
 housenumber: 12
 phone: ""
 opening_hours: ""

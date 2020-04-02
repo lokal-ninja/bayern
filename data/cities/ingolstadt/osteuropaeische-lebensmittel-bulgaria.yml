@@ -5,7 +5,7 @@ latitude: 48.767003200000005
 longitude: 11.441554400000001
 postcode: 85055
 city: Ingolstadt
-street: Regensburger Straße
+street: "Regensburger Straße"
 housenumber: 29
 phone: ""
 opening_hours: ""

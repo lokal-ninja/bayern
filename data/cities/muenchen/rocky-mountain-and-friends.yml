@@ -5,7 +5,7 @@ latitude: 48.1261036
 longitude: 11.5677347
 postcode: 80469
 city: München
-street: Am Glockenbach
+street: "Am Glockenbach"
 housenumber: 10
 phone: "+49 89 71674735"
 opening_hours: "Mo-Sa 10:00-19:00"

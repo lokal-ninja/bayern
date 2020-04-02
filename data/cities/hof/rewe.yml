@@ -5,7 +5,7 @@ latitude: 50.310000200000005
 longitude: 11.902993
 postcode: 95030
 city: Hof
-street: August-Mohl-Straße
+street: "August-Mohl-Straße"
 housenumber: 38
 phone: ""
 opening_hours: "Mo-Sa 06:30-20:00"

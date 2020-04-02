@@ -5,7 +5,7 @@ latitude: 48.149694100000005
 longitude: 11.657425600000002
 postcode: 81929
 city: München
-street: Burgauerstraße
+street: "Burgauerstraße"
 housenumber: 117
 phone: "+49 89 93939157"
 opening_hours: "Mo 14:30-20:00; Tu,Fr 09:30-12:00,14:30-18:00; Th 09:30-12:00,14:30-20:00; PH off"

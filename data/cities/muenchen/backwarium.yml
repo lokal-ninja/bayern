@@ -5,7 +5,7 @@ latitude: 48.1146802
 longitude: 11.597304900000001
 postcode: 81539
 city: München
-street: Ungsteiner Straße
+street: "Ungsteiner Straße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Fr 06:30-18:00; Sa 07:30-12:00"

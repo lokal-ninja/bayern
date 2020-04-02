@@ -5,7 +5,7 @@ latitude: 48.1523297
 longitude: 10.1156805
 postcode: 89281
 city: Altenstadt
-street: Memminger Straße
+street: "Memminger Straße"
 housenumber: 101
 phone: "+49 8337 9100"
 opening_hours: "Mo-Fr 08:00-12:00,13:00-18:00;Sa 09:00-13:00"

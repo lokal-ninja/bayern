@@ -5,7 +5,7 @@ latitude: 48.577736800000004
 longitude: 10.495924200000001
 postcode: 89407
 city: Dillingen
-street: Königstraße
+street: "Königstraße"
 housenumber: 24
 phone: ""
 opening_hours: ""

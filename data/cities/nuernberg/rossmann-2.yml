@@ -5,7 +5,7 @@ latitude: 49.460196100000005
 longitude: 11.0584646
 postcode: 90419
 city: Nürnberg
-street: Johannisstraße
+street: "Johannisstraße"
 housenumber: 84
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off"

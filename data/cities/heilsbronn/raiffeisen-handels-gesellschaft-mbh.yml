@@ -5,7 +5,7 @@ latitude: 49.34467840000001
 longitude: 10.788614200000001
 postcode: 91560
 city: Heilsbronn
-street: Caspar-Othmayr-Straße
+street: "Caspar-Othmayr-Straße"
 housenumber: 8
 phone: ""
 opening_hours: ""

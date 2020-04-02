@@ -5,7 +5,7 @@ latitude: 49.481610200000006
 longitude: 10.9713267
 postcode: 90766
 city: Fürth
-street: Würzburger Straße
+street: "Würzburger Straße"
 housenumber: 104
 phone: "+49 911 7360443"
 opening_hours: "Mo-Fr 08:00-17:00"

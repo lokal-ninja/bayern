@@ -5,7 +5,7 @@ latitude: 48.8814986
 longitude: 12.567884900000001
 postcode: 94315
 city: Straubing
-street: Theresienplatz
+street: "Theresienplatz"
 housenumber: 19
 phone: "+49 9421 788727"
 opening_hours: ""

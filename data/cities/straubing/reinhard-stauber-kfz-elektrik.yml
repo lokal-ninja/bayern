@@ -5,7 +5,7 @@ latitude: 48.8825566
 longitude: 12.5877873
 postcode: 94315
 city: Straubing
-street: Michaelsweg
+street: "Michaelsweg"
 housenumber: 2
 phone: "+49 9421 72519"
 opening_hours: "Mo-Th 08:00-16:45, Fr 08:00-12:00"

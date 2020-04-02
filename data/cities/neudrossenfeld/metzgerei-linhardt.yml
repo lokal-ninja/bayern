@@ -5,7 +5,7 @@ latitude: 50.0180051
 longitude: 11.501983300000001
 postcode: 95512
 city: Neudrossenfeld
-street: Kulmbacher Straße
+street: "Kulmbacher Straße"
 housenumber: 11
 phone: ""
 opening_hours: "Mo 07:30-12:30,14:00-18:15; Tu,We,Th 07:30-13:00,14:00-18:15; Fr 07:30-18:15; Sa 07:00-12:30"

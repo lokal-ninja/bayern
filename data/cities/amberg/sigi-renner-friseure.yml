@@ -5,7 +5,7 @@ latitude: 49.444099200000004
 longitude: 11.8543774
 postcode: 92224
 city: Amberg
-street: Roßmarkt
+street: "Roßmarkt"
 housenumber: 6
 phone: "+49 09621 12365"
 opening_hours: "Tu-Fr 08:15-18:00; Sa 08:00-15:00"

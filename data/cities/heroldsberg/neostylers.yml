@@ -5,7 +5,7 @@ latitude: 49.527207000000004
 longitude: 11.151135
 postcode: 90562
 city: Heroldsberg
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 108a
 phone: ""
 opening_hours: ""

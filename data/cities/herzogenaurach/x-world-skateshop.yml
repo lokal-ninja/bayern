@@ -5,7 +5,7 @@ latitude: 49.567673500000005
 longitude: 10.8835575
 postcode: 91074
 city: Herzogenaurach
-street: An der Schütt
+street: "An der Schütt"
 housenumber: 22
 phone: "+49 9132 747477"
 opening_hours: "13:00-18:00"

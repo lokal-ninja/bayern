@@ -5,7 +5,7 @@ latitude: 50.037527600000004
 longitude: 10.535008300000001
 postcode: 97437
 city: Haßfurt
-street: Ohmstraße
+street: "Ohmstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

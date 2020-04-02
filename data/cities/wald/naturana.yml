@@ -5,7 +5,7 @@ latitude: 49.1430153
 longitude: 12.3352549
 postcode: 93192
 city: Wald
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 3A
 phone: ""
 opening_hours: "Mo-Sa 08:00-18:00"

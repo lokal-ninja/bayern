@@ -5,7 +5,7 @@ latitude: 48.1642525
 longitude: 11.5565973
 postcode: 80797
 city: München
-street: Georg-Birk-Straße
+street: "Georg-Birk-Straße"
 housenumber: 13
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"

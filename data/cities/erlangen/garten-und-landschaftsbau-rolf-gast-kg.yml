@@ -5,7 +5,7 @@ latitude: 49.5850367
 longitude: 10.9853526
 postcode: 91052
 city: Erlangen
-street: Bayernstraße
+street: "Bayernstraße"
 housenumber: 41
 phone: "+49 9131 38802"
 opening_hours: "Mo-Th 07:00-12:00, 13:00-16:30; Fr 07:00-12:00"

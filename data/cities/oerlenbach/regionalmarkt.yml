@@ -5,7 +5,7 @@ latitude: 50.1442387
 longitude: 10.1330238
 postcode: 97714
 city: Oerlenbach
-street: Heglerstraße
+street: "Heglerstraße"
 housenumber: 2a
 phone: ""
 opening_hours: ""

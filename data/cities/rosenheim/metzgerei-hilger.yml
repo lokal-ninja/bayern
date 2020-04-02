@@ -5,7 +5,7 @@ latitude: 47.857753300000006
 longitude: 12.1332827
 postcode: 83022
 city: Rosenheim
-street: In der Schmucken
+street: "In der Schmucken"
 housenumber: 20
 phone: "+49 8031 18190"
 opening_hours: ""

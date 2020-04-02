@@ -5,7 +5,7 @@ latitude: 50.071671800000004
 longitude: 9.0043121
 postcode: 63796
 city: Kahl am Main
-street: Hanauer Landstraße
+street: "Hanauer Landstraße"
 housenumber: 24
 phone: ""
 opening_hours: ""

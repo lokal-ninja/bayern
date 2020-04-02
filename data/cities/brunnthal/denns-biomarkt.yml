@@ -5,7 +5,7 @@ latitude: 48.0400578
 longitude: 11.6624654
 postcode: 85649
 city: Brunnthal
-street: Zusestraße
+street: "Zusestraße"
 housenumber: 5
 phone: "+49 89 61180345"
 opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"

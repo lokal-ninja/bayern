@@ -5,7 +5,7 @@ latitude: 48.784892000000006
 longitude: 11.479723600000002
 postcode: 85055
 city: Ingolstadt
-street: Otto-Hahn-Straße
+street: "Otto-Hahn-Straße"
 housenumber: 2-4
 phone: "+49 841 9013-0"
 opening_hours: "Mo-Fr 07:00-22:00; Sa 08:00-19:30"

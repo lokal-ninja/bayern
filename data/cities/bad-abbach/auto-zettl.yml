@@ -5,7 +5,7 @@ latitude: 48.938133300000004
 longitude: 12.054086700000001
 postcode: 
 city: Bad Abbach
-street: Goldtalstraße
+street: "Goldtalstraße"
 housenumber: 7
 phone: ""
 opening_hours: ""

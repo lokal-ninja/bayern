@@ -5,7 +5,7 @@ latitude: 50.2589194
 longitude: 10.9648628
 postcode: 96450
 city: Coburg
-street: Spitalgasse
+street: "Spitalgasse"
 housenumber: 4
 phone: "+49 9561 4276416"
 opening_hours: "Mo-Sa 09:30-20:00; Su,PH off"

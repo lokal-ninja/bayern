@@ -5,7 +5,7 @@ latitude: 48.5620484
 longitude: 13.424828000000002
 postcode: 94036
 city: Passau
-street: Söldenpeterweg
+street: "Söldenpeterweg"
 housenumber: 47
 phone: ""
 opening_hours: ""

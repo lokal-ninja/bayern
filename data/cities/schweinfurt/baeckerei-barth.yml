@@ -5,7 +5,7 @@ latitude: 50.056820300000005
 longitude: 10.2435953
 postcode: 97422
 city: Schweinfurt
-street: Segnitzstraße
+street: "Segnitzstraße"
 housenumber: 26
 phone: ""
 opening_hours: ""

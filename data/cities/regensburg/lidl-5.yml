@@ -5,7 +5,7 @@ latitude: 49.025614700000006
 longitude: 12.149963000000001
 postcode: 93055
 city: Regensburg
-street: Metzgerweg
+street: "Metzgerweg"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

@@ -5,7 +5,7 @@ latitude: 48.0030215
 longitude: 10.5902474
 postcode: 86825
 city: Bad Wörishofen
-street: Bürgermeister-Stöckle-Straße
+street: "Bürgermeister-Stöckle-Straße"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Fr 09:30-13:00, 14:00-18:00; Sa 09:30-16:00"

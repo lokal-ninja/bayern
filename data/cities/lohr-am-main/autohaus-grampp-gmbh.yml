@@ -5,7 +5,7 @@ latitude: 49.993446000000006
 longitude: 9.5658378
 postcode: 97816
 city: Lohr am Main
-street: Rechtenbacher Straße
+street: "Rechtenbacher Straße"
 housenumber: 17
 phone: "+49 9352 50030"
 opening_hours: "Mo-Fr 08:30-18:00; Sa 09:00-13:00; PH off"

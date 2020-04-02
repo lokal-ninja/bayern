@@ -5,7 +5,7 @@ latitude: 49.30576000000001
 longitude: 10.588658
 postcode: 91522
 city: Ansbach
-street: Ritter-von-Lang-Allee
+street: "Ritter-von-Lang-Allee"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Fr 09:00-20:00; Sa 08:00-20:00"

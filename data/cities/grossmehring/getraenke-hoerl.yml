@@ -5,7 +5,7 @@ latitude: 48.7660969
 longitude: 11.5338782
 postcode: 85098
 city: Großmehring
-street: Starkstraße
+street: "Starkstraße"
 housenumber: 5
 phone: "+49 8407 930905"
 opening_hours: ""

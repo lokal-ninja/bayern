@@ -5,7 +5,7 @@ latitude: 48.1112806
 longitude: 11.598461
 postcode: 81539
 city: München
-street: Pfälzer-Wald-Straße
+street: "Pfälzer-Wald-Straße"
 housenumber: 34
 phone: ""
 opening_hours: "Mo-Th 07:00-12:00,13:00-17:00; Fr 07:00-12:00,13:00-15:00; Sa 10:00-12:00"

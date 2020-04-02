@@ -5,7 +5,7 @@ latitude: 47.676577900000005
 longitude: 12.468705100000001
 postcode: 83242
 city: Reit im Winkl
-street: Tiroler Straße
+street: "Tiroler Straße"
 housenumber: 3
 phone: "+49 151 54629875"
 opening_hours: ""

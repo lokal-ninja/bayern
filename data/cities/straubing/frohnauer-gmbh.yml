@@ -5,7 +5,7 @@ latitude: 48.891135000000006
 longitude: 12.624633300000001
 postcode: 94315
 city: Straubing
-street: Schlesische Straße
+street: "Schlesische Straße"
 housenumber: 250
 phone: "+49 9421 9263 0"
 opening_hours: ""

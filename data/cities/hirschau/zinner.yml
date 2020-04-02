@@ -5,7 +5,7 @@ latitude: 49.5438674
 longitude: 11.9399476
 postcode: 92242
 city: Hirschau
-street: Gartenstraße
+street: "Gartenstraße"
 housenumber: 17
 phone: ""
 opening_hours: "Mo- Fr 08:00-12:00,13:00-17:00; Sa,Su,PH off"

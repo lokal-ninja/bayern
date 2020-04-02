@@ -5,7 +5,7 @@ latitude: 48.753780400000004
 longitude: 11.348381
 postcode: 85049
 city: Ingolstadt
-street: Eichenwaldstraße
+street: "Eichenwaldstraße"
 housenumber: 55
 phone: ""
 opening_hours: ""

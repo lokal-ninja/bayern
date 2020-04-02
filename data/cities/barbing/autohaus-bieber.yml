@@ -5,7 +5,7 @@ latitude: 49.0111848
 longitude: 12.2278123
 postcode: 93092
 city: Barbing
-street: Heisinger Straße
+street: "Heisinger Straße"
 housenumber: 7
 phone: "+49 9403 9503 0"
 opening_hours: ""

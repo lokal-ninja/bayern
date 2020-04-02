@@ -5,7 +5,7 @@ latitude: 48.4644514
 longitude: 10.5905579
 postcode: 86450
 city: Altenmünster
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 31
 phone: ""
 opening_hours: ""

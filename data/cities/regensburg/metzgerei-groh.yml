@@ -5,7 +5,7 @@ latitude: 49.011443500000006
 longitude: 12.134265300000001
 postcode: 93055
 city: Regensburg
-street: Hoher-Kreuz-Weg
+street: "Hoher-Kreuz-Weg"
 housenumber: 28
 phone: ""
 opening_hours: "Mo-Fr 07:00-13:00; Sa,Su off"

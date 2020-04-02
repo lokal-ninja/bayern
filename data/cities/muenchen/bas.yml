@@ -5,7 +5,7 @@ latitude: 48.092049900000006
 longitude: 11.567523300000001
 postcode: 81545
 city: München
-street: Armanspergstraße
+street: "Armanspergstraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

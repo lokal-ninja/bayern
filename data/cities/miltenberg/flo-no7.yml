@@ -5,7 +5,7 @@ latitude: 49.701283000000004
 longitude: 9.2582935
 postcode: 63897
 city: Miltenberg
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 65
 phone: "+49 9371 948088"
 opening_hours: ""

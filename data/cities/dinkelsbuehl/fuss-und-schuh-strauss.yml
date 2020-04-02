@@ -5,7 +5,7 @@ latitude: 49.065188600000006
 longitude: 10.3410018
 postcode: 91550
 city: Dinkelsbühl
-street: Danziger Straße
+street: "Danziger Straße"
 housenumber: 19
 phone: "+49(0)9851-7067"
 opening_hours: "Mo-Fr 08:30-18:00, Sa 08:30-12:30, verkaufsoffene Marktsonntage 12:30 - 17:30"

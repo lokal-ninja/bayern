@@ -5,7 +5,7 @@ latitude: 48.3730096
 longitude: 11.2325657
 postcode: 85250
 city: Altomünster
-street: Dachauer Straße
+street: "Dachauer Straße"
 housenumber: 
 phone: ""
 opening_hours: "Mo-Fr 08:00-12:00, Mo-Tu 13:00-17:00, Th-Fr 13:00-17:00, Sa 08:00-13:00"

@@ -5,7 +5,7 @@ latitude: 49.829690500000005
 longitude: 9.618516600000001
 postcode: 97837
 city: Erlenbach bei Marktheidenfeld
-street: Am Bäuerleinsberg
+street: "Am Bäuerleinsberg"
 housenumber: 3
 phone: "+49 9391 9138960"
 opening_hours: ""

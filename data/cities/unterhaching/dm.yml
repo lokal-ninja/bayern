@@ -5,7 +5,7 @@ latitude: 48.0678958
 longitude: 11.619262
 postcode: 82008
 city: Unterhaching
-street: Biberger Straße
+street: "Biberger Straße"
 housenumber: 64
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"

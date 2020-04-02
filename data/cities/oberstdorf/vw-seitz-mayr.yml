@@ -5,7 +5,7 @@ latitude: 47.4127299
 longitude: 10.275746900000001
 postcode: 87561
 city: Oberstdorf
-street: Poststraße
+street: "Poststraße"
 housenumber: 12
 phone: "+49 8322 96260"
 opening_hours: "Verkauf: Mo-Do 07:30-18:00, Fr 07:30-17:00, Sa 08:00-12:00; Service: Mo-Do 07:30-18:00, Fr 07:30-17:00, Sa 08:00-12:00"

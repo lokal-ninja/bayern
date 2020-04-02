@@ -5,7 +5,7 @@ latitude: 48.9198845
 longitude: 11.872731400000001
 postcode: 93309
 city: Kelheim
-street: Altmühlstraße
+street: "Altmühlstraße"
 housenumber: 19
 phone: "+49 9441 1401"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"

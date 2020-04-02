@@ -5,7 +5,7 @@ latitude: 49.3989965
 longitude: 10.8881803
 postcode: 90574
 city: Roßtal
-street: Untere Bahnhofstraße
+street: "Untere Bahnhofstraße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off"

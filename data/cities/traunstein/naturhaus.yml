@@ -5,7 +5,7 @@ latitude: 47.8754306
 longitude: 12.6377784
 postcode: 83278
 city: Traunstein
-street: Wasserburger Straße
+street: "Wasserburger Straße"
 housenumber: 29
 phone: "+49 (0)861-165476"
 opening_hours: "Mo-Fr 09:00-18:00; PH off"

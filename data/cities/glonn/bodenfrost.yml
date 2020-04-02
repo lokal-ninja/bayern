@@ -5,7 +5,7 @@ latitude: 47.986563700000005
 longitude: 11.8699819
 postcode: 85625
 city: Glonn
-street: Prof.-Lebsche-Straße
+street: "Prof.-Lebsche-Straße"
 housenumber: 28
 phone: ""
 opening_hours: ""

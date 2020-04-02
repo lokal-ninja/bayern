@@ -5,7 +5,7 @@ latitude: 48.872583600000006
 longitude: 12.347150500000001
 postcode: 93104
 city: Sünching
-street: Mühlstraße
+street: "Mühlstraße"
 housenumber: 4
 phone: "+49 9480 430"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 50.331901
 longitude: 11.708186000000001
 postcode: 95119
 city: Naila
-street: Walchstraße
+street: "Walchstraße"
 housenumber: 21
 phone: ""
 opening_hours: ""

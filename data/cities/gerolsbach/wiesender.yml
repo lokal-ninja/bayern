@@ -5,7 +5,7 @@ latitude: 48.493224000000005
 longitude: 11.3611058
 postcode: 85302
 city: Gerolsbach
-street: Sankt-Andreas-Straße
+street: "Sankt-Andreas-Straße"
 housenumber: 6
 phone: ""
 opening_hours: ""

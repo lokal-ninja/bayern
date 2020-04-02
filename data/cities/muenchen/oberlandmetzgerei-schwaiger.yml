@@ -5,7 +5,7 @@ latitude: 48.152881900000004
 longitude: 11.5406641
 postcode: 80636
 city: München
-street: Jutastraße
+street: "Jutastraße"
 housenumber: 11
 phone: ""
 opening_hours: "Mo - Fr 7:30 - 18:00, Sa 7:30 - 12:00"

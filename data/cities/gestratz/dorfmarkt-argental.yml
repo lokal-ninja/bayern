@@ -5,7 +5,7 @@ latitude: 47.647527800000006
 longitude: 9.9849355
 postcode: 88167
 city: Gestratz
-street: Schulstraße
+street: "Schulstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

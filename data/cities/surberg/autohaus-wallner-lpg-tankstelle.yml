@@ -5,7 +5,7 @@ latitude: 47.8689473
 longitude: 12.6691094
 postcode: 83362
 city: Surberg
-street: Salzburger Straße
+street: "Salzburger Straße"
 housenumber: 43
 phone: "+49 861 986400"
 opening_hours: ""

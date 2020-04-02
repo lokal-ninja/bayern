@@ -5,7 +5,7 @@ latitude: 49.9534436
 longitude: 11.5887851
 postcode: 95448
 city: Bayreuth
-street: Markgrafenallee
+street: "Markgrafenallee"
 housenumber: 42
 phone: "+49 (921) 22472"
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00"

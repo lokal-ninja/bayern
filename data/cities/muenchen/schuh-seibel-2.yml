@@ -5,7 +5,7 @@ latitude: 48.136106500000004
 longitude: 11.5761626
 postcode: 
 city: München
-street: Petersplatz
+street: "Petersplatz"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00"

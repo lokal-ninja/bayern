@@ -5,7 +5,7 @@ latitude: 48.0022681
 longitude: 11.3478315
 postcode: 82319
 city: Starnberg
-street: Münchner Straße
+street: "Münchner Straße"
 housenumber: 14
 phone: ""
 opening_hours: "Mo-Fr 08:30-19:00; Sa 08:00-16:00"

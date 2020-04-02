@@ -5,7 +5,7 @@ latitude: 49.454711800000005
 longitude: 11.0408276
 postcode: 90429
 city: Nürnberg
-street: Maximilianstraße
+street: "Maximilianstraße"
 housenumber: 43
 phone: "+49 911 9289696"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.456228700000004
 longitude: 11.0771873
 postcode: 90403
 city: Nürnberg
-street: Burgstraße
+street: "Burgstraße"
 housenumber: 7
 phone: ""
 opening_hours: "Tu-Fr 11:00-18:00; Sa 10:30-16:00"

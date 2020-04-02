@@ -5,7 +5,7 @@ latitude: 48.0179866
 longitude: 11.590512400000001
 postcode: 82041
 city: Oberhaching
-street: Stefanienstraße
+street: "Stefanienstraße"
 housenumber: 7
 phone: "+49 (0)89 – 69 62 57"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.5539542
 longitude: 12.0044486
 postcode: 92253
 city: Schnaittenbach
-street: Kindlaser Weg
+street: "Kindlaser Weg"
 housenumber: 16
 phone: "+49 9622 2339"
 opening_hours: "Mo-Fr 08:00-12:00,13:00-17:00; Sa,Su,PH off"

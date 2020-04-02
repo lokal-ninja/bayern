@@ -5,7 +5,7 @@ latitude: 47.7415018
 longitude: 12.104399
 postcode: 83098
 city: Brannenburg
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 82
 phone: "+49 8034 6339807"
 opening_hours: "Mo-Sa 09:00-12:00, Mo,Tu,Th,Fr 14:00-18:00; PH off"

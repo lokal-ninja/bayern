@@ -5,7 +5,7 @@ latitude: 49.7659808
 longitude: 11.550007800000001
 postcode: 91257
 city: Pegnitz
-street: Kleiner Johannes
+street: "Kleiner Johannes"
 housenumber: 1a
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 50.052043100000006
 longitude: 11.7978555
 postcode: 95493
 city: Bischofsgrün
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 17a
 phone: ""
 opening_hours: ""

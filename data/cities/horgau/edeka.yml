@@ -5,7 +5,7 @@ latitude: 48.393551800000004
 longitude: 10.694734400000002
 postcode: 86497
 city: Horgau
-street: Augsburger Straße
+street: "Augsburger Straße"
 housenumber: 16
 phone: ""
 opening_hours: ""

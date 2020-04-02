@@ -5,7 +5,7 @@ latitude: 48.993662
 longitude: 12.1045508
 postcode: 93053
 city: Regensburg
-street: Merowingerstraße
+street: "Merowingerstraße"
 housenumber: 2
 phone: "+49 941 705790"
 opening_hours: ""

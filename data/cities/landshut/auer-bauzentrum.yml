@@ -5,7 +5,7 @@ latitude: 48.54014230000001
 longitude: 12.1069136
 postcode: 84035
 city: Landshut
-street: Ludwig-Erhard-Straße
+street: "Ludwig-Erhard-Straße"
 housenumber: 20
 phone: "+49 871 430674-0"
 opening_hours: "Ausstellung: Mo-Fr 09:00-18:00; Sa 09:00-16:00; Ausstellung Schausonntag: So 13:00-16:00; Baustoffe und Lager: Mo-Fr 06:30-18:00; Sa 07:30-13:00"

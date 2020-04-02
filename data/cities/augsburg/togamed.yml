@@ -5,7 +5,7 @@ latitude: 48.300704800000005
 longitude: 10.9024456
 postcode: 86179
 city: Augsburg
-street: Alpenrosenstraße
+street: "Alpenrosenstraße"
 housenumber: 25
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.0946043
 longitude: 11.5353516
 postcode: 81379
 city: München
-street: Blieskastelstraße
+street: "Blieskastelstraße"
 housenumber: 6
 phone: "+49 89 17959600"
 opening_hours: ""

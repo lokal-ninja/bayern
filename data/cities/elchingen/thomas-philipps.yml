@@ -5,7 +5,7 @@ latitude: 48.449163600000006
 longitude: 10.0984894
 postcode: 89275
 city: Elchingen
-street: Nersinger Straße
+street: "Nersinger Straße"
 housenumber: 26
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"

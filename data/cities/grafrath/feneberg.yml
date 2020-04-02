@@ -5,7 +5,7 @@ latitude: 48.124113900000005
 longitude: 11.1626817
 postcode: 82284
 city: Grafrath
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 42
 phone: ""
 opening_hours: ""

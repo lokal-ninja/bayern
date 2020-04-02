@@ -5,7 +5,7 @@ latitude: 49.9952752
 longitude: 9.570277800000001
 postcode: 97816
 city: Lohr am Main
-street: Ludwigstraße
+street: "Ludwigstraße"
 housenumber: 12
 phone: "+49 9352 9011"
 opening_hours: ""

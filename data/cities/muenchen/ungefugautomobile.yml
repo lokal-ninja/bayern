@@ -5,7 +5,7 @@ latitude: 48.0830405
 longitude: 11.648087700000001
 postcode: 81739
 city: München
-street: Arnold-Sommerfeld-Straße
+street: "Arnold-Sommerfeld-Straße"
 housenumber: 129
 phone: ""
 opening_hours: ""

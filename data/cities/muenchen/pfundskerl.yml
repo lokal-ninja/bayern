@@ -5,7 +5,7 @@ latitude: 48.191515700000004
 longitude: 11.5939127
 postcode: 80939
 city: München
-street: Lotte-Branz-Straße
+street: "Lotte-Branz-Straße"
 housenumber: 8
 phone: ""
 opening_hours: ""

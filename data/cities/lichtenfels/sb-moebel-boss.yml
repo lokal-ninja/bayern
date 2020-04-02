@@ -5,7 +5,7 @@ latitude: 50.1387354
 longitude: 11.068382300000001
 postcode: 96215
 city: Lichtenfels
-street: Theodor-Heuss-Straße
+street: "Theodor-Heuss-Straße"
 housenumber: 59
 phone: "+49 9571 755580"
 opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00-18:00; Su,PH off"

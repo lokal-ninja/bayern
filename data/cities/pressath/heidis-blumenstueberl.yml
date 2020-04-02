@@ -5,7 +5,7 @@ latitude: 49.766447400000004
 longitude: 11.9362597
 postcode: 92690
 city: Pressath
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 23
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.718153300000004
 longitude: 11.1058205
 postcode: 91301
 city: Forchheim
-street: Reuther Straße
+street: "Reuther Straße"
 housenumber: 52
 phone: ""
 opening_hours: ""

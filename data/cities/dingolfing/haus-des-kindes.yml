@@ -5,7 +5,7 @@ latitude: 48.629407300000004
 longitude: 12.497448200000001
 postcode: 84130
 city: Dingolfing
-street: Bruckstraße
+street: "Bruckstraße"
 housenumber: 8
 phone: "+49 8731 2424"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00"

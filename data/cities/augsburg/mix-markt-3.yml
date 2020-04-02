@@ -5,7 +5,7 @@ latitude: 48.392327200000004
 longitude: 10.921720800000001
 postcode: 86167
 city: Augsburg
-street: Steinerne Furt
+street: "Steinerne Furt"
 housenumber: 34a
 phone: ""
 opening_hours: "Mo-Sa 09:00-20:00"

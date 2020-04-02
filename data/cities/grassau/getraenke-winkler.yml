@@ -5,7 +5,7 @@ latitude: 47.7801151
 longitude: 12.474677400000001
 postcode: 83224
 city: Grassau
-street: Eichelreuth
+street: "Eichelreuth"
 housenumber: 6
 phone: "+49 8641 695940"
 opening_hours: ""

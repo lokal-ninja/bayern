@@ -5,7 +5,7 @@ latitude: 50.0575503
 longitude: 9.4838539
 postcode: 97833
 city: Frammersbach
-street: Herbertshainer Straße
+street: "Herbertshainer Straße"
 housenumber: 50
 phone: "+49 9355 2005"
 opening_hours: ""

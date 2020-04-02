@@ -5,7 +5,7 @@ latitude: 49.365919000000005
 longitude: 11.030198500000001
 postcode: 91126
 city: Schwabach
-street: Wolkersdorfer Hauptstraße
+street: "Wolkersdorfer Hauptstraße"
 housenumber: 69
 phone: ""
 opening_hours: ""

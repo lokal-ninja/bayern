@@ -5,7 +5,7 @@ latitude: 48.187773500000006
 longitude: 11.5663397
 postcode: 80809
 city: München
-street: Schleißheimer Straße
+street: "Schleißheimer Straße"
 housenumber: 384
 phone: "+49 (0) 89/3544767"
 opening_hours: ""

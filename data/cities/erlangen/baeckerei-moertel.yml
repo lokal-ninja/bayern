@@ -5,7 +5,7 @@ latitude: 49.568667000000005
 longitude: 10.959484600000001
 postcode: 91056
 city: Erlangen
-street: Herdegenplatz
+street: "Herdegenplatz"
 housenumber: 7
 phone: "+49 9131 990674"
 opening_hours: "Tu-Fr 06:45-13:00,14:30-18:00; Sa 06:45-12:00"

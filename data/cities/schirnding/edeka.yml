@@ -5,7 +5,7 @@ latitude: 50.0768679
 longitude: 12.231594600000001
 postcode: 95706
 city: Schirnding
-street: Waldsassener Straße
+street: "Waldsassener Straße"
 housenumber: 12
 phone: ""
 opening_hours: ""

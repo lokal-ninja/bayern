@@ -5,7 +5,7 @@ latitude: 48.973530000000004
 longitude: 12.156463100000002
 postcode: 93083
 city: Obertraubling
-street: Regensburger Straße
+street: "Regensburger Straße"
 housenumber: 75
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

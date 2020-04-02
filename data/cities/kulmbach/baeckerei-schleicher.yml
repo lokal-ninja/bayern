@@ -5,7 +5,7 @@ latitude: 50.1076829
 longitude: 11.4549518
 postcode: 95326
 city: Kulmbach
-street: Holzmarkt
+street: "Holzmarkt"
 housenumber: 11
 phone: "+49 9221 827862"
 opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-14:00; Su,PH off"

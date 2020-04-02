@@ -5,7 +5,7 @@ latitude: 48.611011500000004
 longitude: 10.567312000000001
 postcode: 89420
 city: Höchstädt a.d.Donau
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 10
 phone: ""
 opening_hours: ""

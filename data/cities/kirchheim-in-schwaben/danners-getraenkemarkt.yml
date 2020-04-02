@@ -5,7 +5,7 @@ latitude: 48.1709593
 longitude: 10.484515400000001
 postcode: 87757
 city: Kirchheim in Schwaben
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 35
 phone: ""
 opening_hours: ""

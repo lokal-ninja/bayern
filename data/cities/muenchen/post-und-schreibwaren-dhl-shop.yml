@@ -5,7 +5,7 @@ latitude: 48.1435923
 longitude: 11.617953100000001
 postcode: 81677
 city: München
-street: Stuntzstraße
+street: "Stuntzstraße"
 housenumber: 
 phone: ""
 opening_hours: "Mo-Fr 08:00-12:00, 15:00-18:00; Sa 08:00-12:30"

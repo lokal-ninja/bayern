@@ -5,7 +5,7 @@ latitude: 48.022697
 longitude: 10.5968554
 postcode: 86825
 city: Bad Wörishofen
-street: Zeppelinstraße
+street: "Zeppelinstraße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

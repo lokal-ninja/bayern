@@ -5,7 +5,7 @@ latitude: 48.1380081
 longitude: 11.561207600000001
 postcode: 80336
 city: München
-street: Schillerstraße
+street: "Schillerstraße"
 housenumber: 9
 phone: "+49 89 592222"
 opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-17:00"

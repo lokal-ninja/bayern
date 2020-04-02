@@ -5,7 +5,7 @@ latitude: 48.028579300000004
 longitude: 11.6777759
 postcode: 85649
 city: Brunnthal
-street: Sankt-Georg-Straße
+street: "Sankt-Georg-Straße"
 housenumber: 6
 phone: ""
 opening_hours: ""

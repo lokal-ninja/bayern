@@ -5,7 +5,7 @@ latitude: 47.971076200000006
 longitude: 11.660461000000002
 postcode: 82054
 city: Sauerlach
-street: Hofoldinger Straße
+street: "Hofoldinger Straße"
 housenumber: 16a
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"

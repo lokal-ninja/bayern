@@ -5,7 +5,7 @@ latitude: 48.2439253
 longitude: 10.364213900000001
 postcode: 86381
 city: Krumbach
-street: Karl-Mantel-Straße
+street: "Karl-Mantel-Straße"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Fr 09:15-12:30,14:00-18:00"

@@ -5,7 +5,7 @@ latitude: 49.7951198
 longitude: 9.9338127
 postcode: 97070
 city: Würzburg
-street: Spiegelstraße
+street: "Spiegelstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"

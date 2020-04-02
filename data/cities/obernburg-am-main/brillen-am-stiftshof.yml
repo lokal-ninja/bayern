@@ -5,7 +5,7 @@ latitude: 49.842121600000006
 longitude: 9.148742200000001
 postcode: 63785
 city: Obernburg am Main
-street: Am Stiftshof
+street: "Am Stiftshof"
 housenumber: 4
 phone: "+49 6022 71151"
 opening_hours: "Tu-Fr 08:30-18:30; Sa 09:00-13:00; Mo,PH off"

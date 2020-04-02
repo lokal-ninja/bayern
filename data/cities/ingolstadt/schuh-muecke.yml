@@ -5,7 +5,7 @@ latitude: 48.779999600000004
 longitude: 11.4366059
 postcode: 
 city: Ingolstadt
-street: Lena-Christ-Straße
+street: "Lena-Christ-Straße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Fr 09:30-20:00;Sa 09:00-19:00"

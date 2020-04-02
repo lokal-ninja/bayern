@@ -5,7 +5,7 @@ latitude: 48.140307
 longitude: 11.592242200000001
 postcode: 80538
 city: München
-street: Liebigstraße
+street: "Liebigstraße"
 housenumber: 24
 phone: "+49 89 295131"
 opening_hours: "Mo-Th 08:30-14:00; Fr 08:30-18:00"

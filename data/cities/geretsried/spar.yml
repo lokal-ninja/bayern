@@ -5,7 +5,7 @@ latitude: 47.855668800000004
 longitude: 11.4798532
 postcode: 82538
 city: Geretsried
-street: Haydnweg
+street: "Haydnweg"
 housenumber: 33
 phone: ""
 opening_hours: ""

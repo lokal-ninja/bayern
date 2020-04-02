@@ -5,7 +5,7 @@ latitude: 48.1240387
 longitude: 11.533674600000001
 postcode: 81373
 city: München
-street: Am Westpark
+street: "Am Westpark"
 housenumber: 8F
 phone: "+49 89 23769525"
 opening_hours: "Tu-We 09:00-18:00; Th-Fr 11:00-20:00; Sa 09:00-17:00"

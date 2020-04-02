@@ -5,7 +5,7 @@ latitude: 48.4019265
 longitude: 11.1641486
 postcode: 86577
 city: Sielenbach
-street: Maria-Birnbaum-Straße
+street: "Maria-Birnbaum-Straße"
 housenumber: 2
 phone: ""
 opening_hours: ""

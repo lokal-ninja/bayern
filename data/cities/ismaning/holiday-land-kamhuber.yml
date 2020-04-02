@@ -5,7 +5,7 @@ latitude: 48.2248846
 longitude: 11.672964200000001
 postcode: 85737
 city: Ismaning
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 18
 phone: ""
 opening_hours: ""

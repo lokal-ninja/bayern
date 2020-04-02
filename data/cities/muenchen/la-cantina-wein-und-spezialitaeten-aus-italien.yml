@@ -5,7 +5,7 @@ latitude: 48.159573300000005
 longitude: 11.563933500000001
 postcode: 80796
 city: München
-street: Elisabethstraße
+street: "Elisabethstraße"
 housenumber: 53
 phone: ""
 opening_hours: "Mo-Fr 11:00-19:00, Sa 11:00-17:00"

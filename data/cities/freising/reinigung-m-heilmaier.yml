@@ -5,7 +5,7 @@ latitude: 48.399909300000004
 longitude: 11.748924800000001
 postcode: 85354
 city: Freising
-street: Heiliggeistgasse
+street: "Heiliggeistgasse"
 housenumber: 24
 phone: "+49 8161 4 44 09"
 opening_hours: "Mo-Fr 09:00-13:00,14:00-18:30, Sa 09:00-13:00"

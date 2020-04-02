@@ -5,7 +5,7 @@ latitude: 48.225293
 longitude: 11.677090000000002
 postcode: 85737
 city: Ismaning
-street: Doktor-Schmitt-Straße
+street: "Doktor-Schmitt-Straße"
 housenumber: 15
 phone: ""
 opening_hours: ""

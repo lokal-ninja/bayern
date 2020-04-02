@@ -5,7 +5,7 @@ latitude: 47.760907200000005
 longitude: 11.5600792
 postcode: 83646
 city: Bad Tölz
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 36
 phone: ""
 opening_hours: ""

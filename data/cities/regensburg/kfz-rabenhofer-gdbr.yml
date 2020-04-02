@@ -5,7 +5,7 @@ latitude: 49.0119538
 longitude: 12.130351200000002
 postcode: 93055
 city: Regensburg
-street: An der Irler Höhe
+street: "An der Irler Höhe"
 housenumber: 4
 phone: "+49 941 7803740"
 opening_hours: "Mo-Fr 09:00-18:00"

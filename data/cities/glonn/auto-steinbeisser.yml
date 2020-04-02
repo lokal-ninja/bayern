@@ -5,7 +5,7 @@ latitude: 47.9900311
 longitude: 11.865129300000001
 postcode: 85625
 city: Glonn
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 11
 phone: "+49 8093 90890"
 opening_hours: "Mo-Fr 07:30-18:00"

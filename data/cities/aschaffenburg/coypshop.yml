@@ -5,7 +5,7 @@ latitude: 49.9799118
 longitude: 9.139512100000001
 postcode: 
 city: Aschaffenburg
-street: Maximilianstraße
+street: "Maximilianstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

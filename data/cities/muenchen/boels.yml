@@ -5,7 +5,7 @@ latitude: 48.134892400000005
 longitude: 11.409014500000001
 postcode: 81249
 city: München
-street: Jakob-Baumann-Straße
+street: "Jakob-Baumann-Straße"
 housenumber: 2
 phone: "+49 89 89948080"
 opening_hours: "Mo-Fr 07:00-17:00; Sa 08:00-12:30"

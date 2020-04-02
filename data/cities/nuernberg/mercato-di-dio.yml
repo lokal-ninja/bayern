@@ -5,7 +5,7 @@ latitude: 49.4720425
 longitude: 11.062896400000001
 postcode: 90425
 city: Nürnberg
-street: Pretzfelder Straße
+street: "Pretzfelder Straße"
 housenumber: 5
 phone: "+49 911 3224220"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; PH off"

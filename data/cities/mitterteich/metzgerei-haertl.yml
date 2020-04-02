@@ -5,7 +5,7 @@ latitude: 49.9489072
 longitude: 12.2404685
 postcode: 95666
 city: Mitterteich
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 24
 phone: "+49 9633 91357"
 opening_hours: ""

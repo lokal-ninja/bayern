@@ -5,7 +5,7 @@ latitude: 48.1657072
 longitude: 11.720761600000001
 postcode: 85609
 city: Aschheim
-street: Jedovnicestraße
+street: "Jedovnicestraße"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

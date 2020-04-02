@@ -5,7 +5,7 @@ latitude: 47.8106219
 longitude: 10.8981639
 postcode: 86956
 city: Schongau
-street: Lechtorstraße
+street: "Lechtorstraße"
 housenumber: 11
 phone: "+49 8861 2595617"
 opening_hours: "Mo-Fr 09:00-12:30,14:00-18:00; Sa 09:30-14:00"

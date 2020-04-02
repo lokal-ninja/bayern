@@ -5,7 +5,7 @@ latitude: 50.0497834
 longitude: 10.2183653
 postcode: 97421
 city: Schweinfurt
-street: Mozartstraße
+street: "Mozartstraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

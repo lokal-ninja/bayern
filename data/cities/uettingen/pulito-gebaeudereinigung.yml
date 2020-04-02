@@ -5,7 +5,7 @@ latitude: 49.798171
 longitude: 9.734281600000001
 postcode: 97292
 city: Uettingen
-street: Lehmgrubenweg
+street: "Lehmgrubenweg"
 housenumber: 14
 phone: "+49 151 / 40786492"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.4529368
 longitude: 11.0928593
 postcode: 90489
 city: Nürnberg
-street: Keßlerplatz
+street: "Keßlerplatz"
 housenumber: 12
 phone: ""
 opening_hours: "Mo-Th 07:30-14:00, 15:00-18:00; Fr 07:30-16:00"

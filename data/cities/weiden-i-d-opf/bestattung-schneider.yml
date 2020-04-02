@@ -5,7 +5,7 @@ latitude: 49.678349700000005
 longitude: 12.154420400000001
 postcode: 92637
 city: Weiden i.d.OPf.
-street: Sintzelstraße
+street: "Sintzelstraße"
 housenumber: 12
 phone: ""
 opening_hours: ""

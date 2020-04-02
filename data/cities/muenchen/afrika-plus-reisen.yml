@@ -5,7 +5,7 @@ latitude: 48.1176435
 longitude: 11.5258651
 postcode: 81373
 city: München
-street: Partnachstraße
+street: "Partnachstraße"
 housenumber: 6
 phone: "+49 89 7266940"
 opening_hours: "Mo-Fr 09:00-18:00"

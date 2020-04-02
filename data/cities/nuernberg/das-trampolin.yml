@@ -5,7 +5,7 @@ latitude: 49.45632680000001
 longitude: 11.0761701
 postcode: 90403
 city: Nürnberg
-street: Albrecht-Dürer-Platz
+street: "Albrecht-Dürer-Platz"
 housenumber: 10
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.141480800000004
 longitude: 11.588588000000001
 postcode: 80538
 city: München
-street: Wagmüllerstraße
+street: "Wagmüllerstraße"
 housenumber: 15
 phone: "+49 89 299200"
 opening_hours: ""

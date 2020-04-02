@@ -5,7 +5,7 @@ latitude: 48.2524956
 longitude: 12.519858200000002
 postcode: 84453
 city: Mühldorf a. Inn
-street: Wolfgang-Perger-Straße
+street: "Wolfgang-Perger-Straße"
 housenumber: 3
 phone: "+49 8631 370-0"
 opening_hours: ""

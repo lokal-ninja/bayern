@@ -5,7 +5,7 @@ latitude: 50.0286558
 longitude: 10.2362891
 postcode: 97424
 city: Schweinfurt
-street: Friedrich-Rätzer-Straße
+street: "Friedrich-Rätzer-Straße"
 housenumber: 5
 phone: "+49 9721 659820"
 opening_hours: "Mo-Sa 09:00-20:00"

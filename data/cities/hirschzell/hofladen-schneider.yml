@@ -5,7 +5,7 @@ latitude: 47.869789000000004
 longitude: 10.642433500000001
 postcode: 87600
 city: Hirschzell
-street: Thomasplatz
+street: "Thomasplatz"
 housenumber: 4
 phone: ""
 opening_hours: ""

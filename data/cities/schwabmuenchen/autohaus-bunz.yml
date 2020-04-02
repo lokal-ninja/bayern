@@ -5,7 +5,7 @@ latitude: 48.1918908
 longitude: 10.753650400000001
 postcode: 86830
 city: Schwabmünchen
-street: Augsburger Straße
+street: "Augsburger Straße"
 housenumber: 54
 phone: "+49 8232 99400"
 opening_hours: ""

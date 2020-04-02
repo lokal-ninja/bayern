@@ -5,7 +5,7 @@ latitude: 48.207957900000004
 longitude: 11.175377000000001
 postcode: 82291
 city: Mammendorf
-street: Ahornstraße
+street: "Ahornstraße"
 housenumber: 47
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 47.4099252
 longitude: 10.2776008
 postcode: 87561
 city: Oberstdorf
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Fr 06:30-18:00; Sa 07:00-13:00; Su 07:00-10:00"

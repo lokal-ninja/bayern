@@ -5,7 +5,7 @@ latitude: 49.020888500000005
 longitude: 12.0561831
 postcode: 93049
 city: Regensburg
-street: Wernerwerkstraße
+street: "Wernerwerkstraße"
 housenumber: 2a
 phone: ""
 opening_hours: "Mo-Sa 7:00-20:00"

@@ -5,7 +5,7 @@ latitude: 50.1389518
 longitude: 10.4629727
 postcode: 97491
 city: Aidhausen
-street: Lindenstraße
+street: "Lindenstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

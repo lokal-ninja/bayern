@@ -5,7 +5,7 @@ latitude: 49.544780700000004
 longitude: 11.9437777
 postcode: 92242
 city: Hirschau
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 94 a
 phone: "+49 9622 718275"
 opening_hours: "Sa 09:30-12:00; Su, PH Off"

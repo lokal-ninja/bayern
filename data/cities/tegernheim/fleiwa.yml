@@ -5,7 +5,7 @@ latitude: 49.0247023
 longitude: 12.1747618
 postcode: 93105
 city: Tegernheim
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 69
 phone: "+49 9403 9547468"
 opening_hours: "Th,Fr 07:00-18:00"

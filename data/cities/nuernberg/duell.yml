@@ -5,7 +5,7 @@ latitude: 49.457075800000005
 longitude: 11.0747704
 postcode: 90403
 city: Nürnberg
-street: Bergstraße
+street: "Bergstraße"
 housenumber: 23
 phone: ""
 opening_hours: ""

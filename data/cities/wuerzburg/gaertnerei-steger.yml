@@ -5,7 +5,7 @@ latitude: 49.7661207
 longitude: 9.958339200000001
 postcode: 97074
 city: Würzburg
-street: Alandsgrund
+street: "Alandsgrund"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00; Su,PH off || 08:00-12:00 open Muttertag || Sa 09:00-16:00 open Saison"

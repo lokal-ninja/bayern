@@ -5,7 +5,7 @@ latitude: 49.8751453
 longitude: 9.846250600000001
 postcode: 97291
 city: Thüngersheim
-street: Günterslebener Straße
+street: "Günterslebener Straße"
 housenumber: 12
 phone: "+49 9364 9635"
 opening_hours: "09:00-19:00"

@@ -5,7 +5,7 @@ latitude: 50.0445598
 longitude: 10.2325174
 postcode: 97421
 city: Schweinfurt
-street: Lange Zehntstraße
+street: "Lange Zehntstraße"
 housenumber: 11
 phone: ""
 opening_hours: ""

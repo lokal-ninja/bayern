@@ -5,7 +5,7 @@ latitude: 49.548899000000006
 longitude: 10.222326200000001
 postcode: 97215
 city: Uffenheim
-street: Gollachweg
+street: "Gollachweg"
 housenumber: 4
 phone: ""
 opening_hours: ""

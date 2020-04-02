@@ -5,7 +5,7 @@ latitude: 47.822416600000004
 longitude: 11.2867514
 postcode: 82402
 city: Seeshaupt
-street: Flurweg
+street: "Flurweg"
 housenumber: 12
 phone: "+49 8801 90900"
 opening_hours: "Mo-Fr 07:30-12:00,13:00-17:00; Sa 09:00-12:00"

@@ -5,7 +5,7 @@ latitude: 48.156771600000006
 longitude: 10.1154802
 postcode: 89281
 city: Altenstadt
-street: Wiener Straße
+street: "Wiener Straße"
 housenumber: 2
 phone: "+49 8337 740340"
 opening_hours: "Mo-Sa 08:00-20:00"

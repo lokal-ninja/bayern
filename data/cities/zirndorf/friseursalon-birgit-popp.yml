@@ -5,7 +5,7 @@ latitude: 49.459078000000005
 longitude: 10.927252900000001
 postcode: 90513
 city: Zirndorf
-street: Herbststraße
+street: "Herbststraße"
 housenumber: 1A
 phone: "+49 911 6001614"
 opening_hours: ""

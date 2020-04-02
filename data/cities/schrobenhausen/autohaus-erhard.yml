@@ -5,7 +5,7 @@ latitude: 48.548021600000006
 longitude: 11.259170200000002
 postcode: 86529
 city: Schrobenhausen
-street: Münchener Straße
+street: "Münchener Straße"
 housenumber: 14
 phone: ""
 opening_hours: ""

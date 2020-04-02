@@ -5,7 +5,7 @@ latitude: 49.725376700000005
 longitude: 9.9995946
 postcode: 97246
 city: Eibelstadt
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 9
 phone: ""
 opening_hours: ""

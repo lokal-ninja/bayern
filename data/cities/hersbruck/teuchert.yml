@@ -5,7 +5,7 @@ latitude: 49.509703
 longitude: 11.431098100000002
 postcode: 91217
 city: Hersbruck
-street: Grabenstraße
+street: "Grabenstraße"
 housenumber: 1B
 phone: "+49 9151 824870"
 opening_hours: ""

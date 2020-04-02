@@ -5,7 +5,7 @@ latitude: 48.1603596
 longitude: 11.5873649
 postcode: 80802
 city: München
-street: Knollerstraße
+street: "Knollerstraße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Th 07:30-17:00; Fr 07:30-16:00; Sa 09:00-13:00"

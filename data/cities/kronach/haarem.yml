@@ -5,7 +5,7 @@ latitude: 50.231813800000005
 longitude: 11.3210855
 postcode: 96317
 city: Kronach
-street: Wachtersflurstraße
+street: "Wachtersflurstraße"
 housenumber: 11
 phone: ""
 opening_hours: ""

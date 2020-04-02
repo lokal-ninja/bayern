@@ -5,7 +5,7 @@ latitude: 49.390630300000005
 longitude: 12.1350534
 postcode: 92521
 city: Schwarzenfeld
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 17
 phone: "+49 9435 22 36"
 opening_hours: ""

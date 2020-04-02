@@ -5,7 +5,7 @@ latitude: 48.1266885
 longitude: 12.574052900000002
 postcode: 84518
 city: Garching an der Alz
-street: Am Binderfeld
+street: "Am Binderfeld"
 housenumber: 6a
 phone: "+49 8634 6241102"
 opening_hours: "Mo-Sa 08:00-20:00"

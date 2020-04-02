@@ -5,7 +5,7 @@ latitude: 48.1374724
 longitude: 11.5743244
 postcode: 80331
 city: München
-street: Kaufingerstraße
+street: "Kaufingerstraße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Sa 10:00-20:00"

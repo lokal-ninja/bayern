@@ -5,7 +5,7 @@ latitude: 49.013758100000004
 longitude: 12.1281824
 postcode: 93055
 city: Regensburg
-street: Kastenmaierstraße
+street: "Kastenmaierstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

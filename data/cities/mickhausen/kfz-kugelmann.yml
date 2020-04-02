@@ -5,7 +5,7 @@ latitude: 48.214422500000005
 longitude: 10.6208735
 postcode: 86866
 city: Mickhausen
-street: Angerstraße
+street: "Angerstraße"
 housenumber: 2
 phone: "+49 8204 1453"
 opening_hours: ""

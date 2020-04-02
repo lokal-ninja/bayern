@@ -5,7 +5,7 @@ latitude: 49.757929700000005
 longitude: 10.6141705
 postcode: 96132
 city: Schlüsselfeld
-street: Aschbacher Straße
+street: "Aschbacher Straße"
 housenumber: 15
 phone: ""
 opening_hours: ""

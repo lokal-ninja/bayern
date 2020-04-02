@@ -5,7 +5,7 @@ latitude: 50.133767500000005
 longitude: 11.8204306
 postcode: 95239
 city: Zell im Fichtelgebirge
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 5
 phone: ""
 opening_hours: ""

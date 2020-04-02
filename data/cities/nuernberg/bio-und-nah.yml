@@ -5,7 +5,7 @@ latitude: 49.4504948
 longitude: 11.061966400000001
 postcode: 90429
 city: Nürnberg
-street: Rosenaustraße
+street: "Rosenaustraße"
 housenumber: 16
 phone: "+4991118070746"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-14:00"

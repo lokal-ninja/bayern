@@ -5,7 +5,7 @@ latitude: 48.301126100000005
 longitude: 11.363330300000001
 postcode: 85247
 city: Schwabhausen
-street: Münchener Straße
+street: "Münchener Straße"
 housenumber: 24
 phone: ""
 opening_hours: ""

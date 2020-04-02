@@ -5,7 +5,7 @@ latitude: 47.5019137
 longitude: 10.385449300000001
 postcode: 87541
 city: Bad Hindelang
-street: Rainbühlgasse
+street: "Rainbühlgasse"
 housenumber: 2
 phone: ""
 opening_hours: "Mo 06:30-09:30; Tu-Fr 06:30-12:00, 14:00-18:00; Sa 06:30-12:00"

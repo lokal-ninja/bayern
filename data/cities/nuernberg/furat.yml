@@ -5,7 +5,7 @@ latitude: 49.4390337
 longitude: 11.051473600000001
 postcode: 90439
 city: Nürnberg
-street: Schwabacher Straße
+street: "Schwabacher Straße"
 housenumber: 66
 phone: ""
 opening_hours: "Mo-Sa 09:00-20:00"

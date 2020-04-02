@@ -5,7 +5,7 @@ latitude: 48.372703200000004
 longitude: 10.893452700000001
 postcode: 86152
 city: Augsburg
-street: Jesuitengasse
+street: "Jesuitengasse"
 housenumber: 25
 phone: ""
 opening_hours: ""

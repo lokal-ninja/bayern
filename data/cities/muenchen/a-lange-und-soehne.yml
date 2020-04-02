@@ -5,7 +5,7 @@ latitude: 48.13976520000001
 longitude: 11.5767512
 postcode: 80333
 city: München
-street: Perusastraße
+street: "Perusastraße"
 housenumber: 3-4
 phone: ""
 opening_hours: ""

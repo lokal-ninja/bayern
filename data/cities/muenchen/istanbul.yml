@@ -5,7 +5,7 @@ latitude: 48.1167408
 longitude: 11.535429
 postcode: 81369
 city: München
-street: Marbachstraße
+street: "Marbachstraße"
 housenumber: 1
 phone: "+49 89 74051370"
 opening_hours: "Mo-Sa 08:00-20:00"

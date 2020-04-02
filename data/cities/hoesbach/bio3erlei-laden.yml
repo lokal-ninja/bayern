@@ -5,7 +5,7 @@ latitude: 50.0042221
 longitude: 9.202942100000001
 postcode: 63768
 city: Hösbach
-street: Schöllkrippener Straße
+street: "Schöllkrippener Straße"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00"

@@ -5,7 +5,7 @@ latitude: 47.9996571
 longitude: 10.7241277
 postcode: 86860
 city: Jengen
-street: Kirchplatz
+street: "Kirchplatz"
 housenumber: 3
 phone: "+49 8241 3507"
 opening_hours: ""

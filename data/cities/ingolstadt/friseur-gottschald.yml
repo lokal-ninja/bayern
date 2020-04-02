@@ -5,7 +5,7 @@ latitude: 48.7649593
 longitude: 11.4217063
 postcode: 85049
 city: Ingolstadt
-street: Kupferstraße
+street: "Kupferstraße"
 housenumber: 26
 phone: ""
 opening_hours: ""

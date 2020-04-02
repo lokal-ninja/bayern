@@ -5,7 +5,7 @@ latitude: 49.7926414
 longitude: 9.931035000000001
 postcode: 97070
 city: Würzburg
-street: Sterngasse
+street: "Sterngasse"
 housenumber: 9
 phone: ""
 opening_hours: ""

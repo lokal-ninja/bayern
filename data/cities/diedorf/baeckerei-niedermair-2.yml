@@ -5,7 +5,7 @@ latitude: 48.359643000000005
 longitude: 10.785268700000001
 postcode: 86420
 city: Diedorf
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 5b
 phone: ""
 opening_hours: ""

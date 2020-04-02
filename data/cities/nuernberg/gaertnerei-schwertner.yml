@@ -5,7 +5,7 @@ latitude: 49.474699400000006
 longitude: 11.0906889
 postcode: 90425
 city: Nürnberg
-street: Großreuther Straße
+street: "Großreuther Straße"
 housenumber: 163
 phone: "+49 911 352101"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.70392450000001
 longitude: 9.2466702
 postcode: 63897
 city: Miltenberg
-street: Von-Hauck-Straße
+street: "Von-Hauck-Straße"
 housenumber: 12
 phone: "+49 9371 406812"
 opening_hours: "Mo,We-Fr 10:00-12:00,14:00-18:00; Sa 10:00-13:30; PH off"

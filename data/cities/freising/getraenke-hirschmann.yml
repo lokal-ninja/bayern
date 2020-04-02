@@ -5,7 +5,7 @@ latitude: 48.4026834
 longitude: 11.751706500000001
 postcode: 85356
 city: Freising
-street: Sonnenstraße
+street: "Sonnenstraße"
 housenumber: 20
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.443134300000004
 longitude: 11.8646623
 postcode: 92224
 city: Amberg
-street: Schlachthausstraße
+street: "Schlachthausstraße"
 housenumber: 10
 phone: ""
 opening_hours: ""

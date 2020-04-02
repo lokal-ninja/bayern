@@ -5,7 +5,7 @@ latitude: 49.42099210000001
 longitude: 10.854799700000001
 postcode: 90614
 city: Ammerndorf
-street: Rothenburger Straße
+street: "Rothenburger Straße"
 housenumber: 7
 phone: "+49 9127 90 22 22"
 opening_hours: ""

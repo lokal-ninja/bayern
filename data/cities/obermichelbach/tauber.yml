@@ -5,7 +5,7 @@ latitude: 49.5319287
 longitude: 10.9093791
 postcode: 90587
 city: Obermichelbach
-street: Bürgermeister-Hans-Tauber-Weg
+street: "Bürgermeister-Hans-Tauber-Weg"
 housenumber: 1
 phone: "+49 911 762937"
 opening_hours: "Mo-Fr 07:30-12:00; Mo-Th 13:00-17:00; Fr 13:00-16:00"

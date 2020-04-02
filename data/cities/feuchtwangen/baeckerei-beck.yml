@@ -5,7 +5,7 @@ latitude: 49.1692212
 longitude: 10.3316253
 postcode: 91555
 city: Feuchtwangen
-street: Hindenburgstraße
+street: "Hindenburgstraße"
 housenumber: 12
 phone: ""
 opening_hours: "Mo-Fr 05:30-18:00; Sa 06:00-12:00; Su,PH off"

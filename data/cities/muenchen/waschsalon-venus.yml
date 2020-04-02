@@ -5,7 +5,7 @@ latitude: 48.0887739
 longitude: 11.642758800000001
 postcode: 81739
 city: München
-street: Gustav-Heinemann-Ring
+street: "Gustav-Heinemann-Ring"
 housenumber: 125
 phone: "+49 8963 79828"
 opening_hours: "Mo-Fr 08:00-19:00; Sa 09:00-13:00"

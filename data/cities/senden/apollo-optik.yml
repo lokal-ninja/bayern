@@ -5,7 +5,7 @@ latitude: 48.3318962
 longitude: 10.038519500000001
 postcode: 89250
 city: Senden
-street: Berliner Straße
+street: "Berliner Straße"
 housenumber: 13
 phone: "+49 7307 800122"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"

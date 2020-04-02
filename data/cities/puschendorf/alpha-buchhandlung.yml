@@ -5,7 +5,7 @@ latitude: 49.5231574
 longitude: 10.837088300000001
 postcode: 
 city: Puschendorf
-street: Waldstraße
+street: "Waldstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

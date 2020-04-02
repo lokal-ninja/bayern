@@ -5,7 +5,7 @@ latitude: 49.5961079
 longitude: 11.004457100000002
 postcode: 91054
 city: Erlangen
-street: Hugenottenplatz
+street: "Hugenottenplatz"
 housenumber: 6
 phone: "+49 9131 78090"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"

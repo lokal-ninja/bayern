@@ -5,7 +5,7 @@ latitude: 48.490859300000004
 longitude: 11.181682700000001
 postcode: 86556
 city: Kühbach
-street: Aichacher Straße
+street: "Aichacher Straße"
 housenumber: 4
 phone: ""
 opening_hours: ""

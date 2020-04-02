@@ -5,7 +5,7 @@ latitude: 50.010497
 longitude: 9.221617
 postcode: 63768
 city: Hösbach
-street: Frohnradstraße
+street: "Frohnradstraße"
 housenumber: 23
 phone: "+49 6021 59620"
 opening_hours: "Mo-Fr 09:30-18:30, Sa 09:30-13:30"

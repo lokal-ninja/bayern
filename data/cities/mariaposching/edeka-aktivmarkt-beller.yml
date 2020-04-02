@@ -5,7 +5,7 @@ latitude: 48.843716500000006
 longitude: 12.797077900000001
 postcode: 94553
 city: Mariaposching
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 45
 phone: ""
 opening_hours: ""

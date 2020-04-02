@@ -5,7 +5,7 @@ latitude: 49.196756300000004
 longitude: 12.522131600000002
 postcode: 93426
 city: Roding
-street: Further Straße
+street: "Further Straße"
 housenumber: 4
 phone: ""
 opening_hours: ""

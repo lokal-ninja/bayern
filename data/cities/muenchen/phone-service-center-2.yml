@@ -5,7 +5,7 @@ latitude: 48.1364991
 longitude: 11.614025400000001
 postcode: 81675
 city: München
-street: Einsteinstraße
+street: "Einsteinstraße"
 housenumber: 130
 phone: "+49 89 413 172 76"
 opening_hours: "Mo-Sa 10:00-20:00; Su,PH off"

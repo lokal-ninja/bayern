@@ -5,7 +5,7 @@ latitude: 48.971467100000005
 longitude: 13.127524900000001
 postcode: 
 city: Regen
-street: Amtsgerichtstraße
+street: "Amtsgerichtstraße"
 housenumber: 5
 phone: "+49-9921-94020"
 opening_hours: ""

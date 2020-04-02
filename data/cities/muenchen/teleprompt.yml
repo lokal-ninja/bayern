@@ -5,7 +5,7 @@ latitude: 48.176934200000005
 longitude: 11.600787500000001
 postcode: 80805
 city: München
-street: Ungererstraße
+street: "Ungererstraße"
 housenumber: 161
 phone: "+49 89 3616178"
 opening_hours: "Mo,We,Fr 09:00-14:00 Tu,Th 14:00-18:00 Sa off"

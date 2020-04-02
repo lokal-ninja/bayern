@@ -5,7 +5,7 @@ latitude: 49.6293957
 longitude: 12.3379104
 postcode: 92648
 city: Vohenstrauß
-street: Altenstadter Straße
+street: "Altenstadter Straße"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

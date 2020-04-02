@@ -5,7 +5,7 @@ latitude: 48.381917
 longitude: 10.930300800000001
 postcode: 86165
 city: Augsburg
-street: Albert-Schenavsky-Straße
+street: "Albert-Schenavsky-Straße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

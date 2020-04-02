@@ -5,7 +5,7 @@ latitude: 47.7970264
 longitude: 11.835290700000002
 postcode: 83714
 city: Miesbach
-street: Oskar-von-Miller-Straße
+street: "Oskar-von-Miller-Straße"
 housenumber: 15
 phone: ""
 opening_hours: ""

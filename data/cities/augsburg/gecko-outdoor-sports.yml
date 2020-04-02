@@ -5,7 +5,7 @@ latitude: 48.352787000000006
 longitude: 10.9282689
 postcode: 86161
 city: Augsburg
-street: Hornungstraße
+street: "Hornungstraße"
 housenumber: 51
 phone: "+49 821 553030"
 opening_hours: ""

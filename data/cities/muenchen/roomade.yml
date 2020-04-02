@@ -5,7 +5,7 @@ latitude: 48.1397557
 longitude: 11.5827954
 postcode: 80539
 city: München
-street: Wurzerstraße
+street: "Wurzerstraße"
 housenumber: 12
 phone: "+49 89 33037780"
 opening_hours: "Mo-Fr 11:00-18:00; Sa 10:00-16:00"

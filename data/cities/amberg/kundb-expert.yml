@@ -5,7 +5,7 @@ latitude: 49.442649100000004
 longitude: 11.838141
 postcode: 92224
 city: Amberg
-street: Fuggerstraße
+street: "Fuggerstraße"
 housenumber: 5
 phone: "+49 9621 916 90"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:00"

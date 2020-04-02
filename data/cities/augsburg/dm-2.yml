@@ -5,7 +5,7 @@ latitude: 48.316526200000006
 longitude: 10.891701000000001
 postcode: 86179
 city: Augsburg
-street: Unterer Talweg
+street: "Unterer Talweg"
 housenumber: 60
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00; PH off"

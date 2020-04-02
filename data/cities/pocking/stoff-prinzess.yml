@@ -5,7 +5,7 @@ latitude: 48.400609200000005
 longitude: 13.310581
 postcode: 94060
 city: Pocking
-street: Simbacher Straße
+street: "Simbacher Straße"
 housenumber: 1a
 phone: "+49 8531 7840"
 opening_hours: ""

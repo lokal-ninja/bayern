@@ -5,7 +5,7 @@ latitude: 48.822327200000004
 longitude: 11.4611593
 postcode: 85120
 city: Hepberg
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 33
 phone: ""
 opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-13:00"

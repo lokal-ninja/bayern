@@ -5,7 +5,7 @@ latitude: 47.7774116
 longitude: 12.105568700000001
 postcode: 83064
 city: Raubling
-street: Rosenweg
+street: "Rosenweg"
 housenumber: 25
 phone: ""
 opening_hours: ""

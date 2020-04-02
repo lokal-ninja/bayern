@@ -5,7 +5,7 @@ latitude: 50.2487106
 longitude: 12.035637000000001
 postcode: 95111
 city: Rehau
-street: Wallstraße
+street: "Wallstraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.108713900000005
 longitude: 11.530572900000001
 postcode: 81369
 city: München
-street: Gottfried-Böhm-Ring
+street: "Gottfried-Böhm-Ring"
 housenumber: 23
 phone: "+49 89 785 53 13"
 opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-13:00"

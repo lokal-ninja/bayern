@@ -5,7 +5,7 @@ latitude: 48.544894500000005
 longitude: 11.5122578
 postcode: 85276
 city: Pfaffenhofen a.d. Ilm
-street: Otto-Hahn-Straße
+street: "Otto-Hahn-Straße"
 housenumber: 2
 phone: "+49 8441 8950 0"
 opening_hours: ""

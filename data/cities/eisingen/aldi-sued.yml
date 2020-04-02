@@ -5,7 +5,7 @@ latitude: 49.761600300000005
 longitude: 9.8457702
 postcode: 97249
 city: Eisingen
-street: Landwehrstraße
+street: "Landwehrstraße"
 housenumber: 19
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

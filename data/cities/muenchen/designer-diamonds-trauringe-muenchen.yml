@@ -5,7 +5,7 @@ latitude: 48.182465300000004
 longitude: 11.529684900000001
 postcode: 80993
 city: München
-street: Hanauer Straße
+street: "Hanauer Straße"
 housenumber: 65-67
 phone: "+49 89 14902057"
 opening_hours: "Tu-Fr 11:00-19:00; Sa 10:00-18:00; Mo off"

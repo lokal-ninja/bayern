@@ -5,7 +5,7 @@ latitude: 49.796286800000004
 longitude: 9.8964652
 postcode: 97082
 city: Würzburg
-street: Mainaustraße
+street: "Mainaustraße"
 housenumber: 57
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00, Su,PH off; 2017 Jan 28 08:00-14:00, 2017 Jan 30-2017 Feb 22 off"

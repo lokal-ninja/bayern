@@ -5,7 +5,7 @@ latitude: 48.1350464
 longitude: 11.5855311
 postcode: 80538
 city: München
-street: Mannhardtstraße
+street: "Mannhardtstraße"
 housenumber: 6
 phone: ""
 opening_hours: "Apr-Oct Tu-We 15:00-18:30; Th-Fr 15:00-19:00; Sa 10:00-14:00"

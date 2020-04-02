@@ -5,7 +5,7 @@ latitude: 48.4385271
 longitude: 12.428070700000001
 postcode: 84155
 city: Bodenkirchen
-street: Bergstraße
+street: "Bergstraße"
 housenumber: 
 phone: ""
 opening_hours: "Tu-Fr 06:15-12:30; Sa 06:15-12:00"

@@ -5,7 +5,7 @@ latitude: 49.829741500000004
 longitude: 9.904897
 postcode: 97209
 city: Veitshöchheim
-street: Oberdürrbacher Straße
+street: "Oberdürrbacher Straße"
 housenumber: 3
 phone: "+49 931 78010600"
 opening_hours: ""

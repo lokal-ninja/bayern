@@ -5,7 +5,7 @@ latitude: 48.383493900000005
 longitude: 10.004388800000001
 postcode: 89231
 city: Neu-Ulm
-street: Boschstraße
+street: "Boschstraße"
 housenumber: 2
 phone: "+49 731 9845107"
 opening_hours: "Mo-Fr 07:30-18:00; Sa 09:00-12:00"

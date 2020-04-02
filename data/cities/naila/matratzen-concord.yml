@@ -5,7 +5,7 @@ latitude: 50.3344285
 longitude: 11.707486000000001
 postcode: 95119
 city: Naila
-street: Froschgrüner Straße
+street: "Froschgrüner Straße"
 housenumber: 9
 phone: ""
 opening_hours: ""

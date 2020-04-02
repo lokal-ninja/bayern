@@ -5,7 +5,7 @@ latitude: 48.3738061
 longitude: 10.883236400000001
 postcode: 86153
 city: Augsburg
-street: Badstraße
+street: "Badstraße"
 housenumber: 5
 phone: "+49 821 35380"
 opening_hours: ""

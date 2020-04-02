@@ -5,7 +5,7 @@ latitude: 48.4645135
 longitude: 11.141218100000001
 postcode: 86551
 city: Aichach
-street: Wittelsbacher Weg
+street: "Wittelsbacher Weg"
 housenumber: 7
 phone: ""
 opening_hours: ""

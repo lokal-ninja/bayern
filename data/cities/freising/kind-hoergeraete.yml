@@ -5,7 +5,7 @@ latitude: 48.399755500000005
 longitude: 11.742357400000001
 postcode: 85354
 city: Freising
-street: Obere Hauptstraße
+street: "Obere Hauptstraße"
 housenumber: 23
 phone: "+49 8161 92373"
 opening_hours: "Mo-Sa 08:30-13:00,14:00-18:00"

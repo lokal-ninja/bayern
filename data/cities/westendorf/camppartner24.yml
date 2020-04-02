@@ -5,7 +5,7 @@ latitude: 48.5678974
 longitude: 10.846478000000001
 postcode: 86707
 city: Westendorf
-street: Daimlerstraße
+street: "Daimlerstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

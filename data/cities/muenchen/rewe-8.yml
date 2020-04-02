@@ -5,7 +5,7 @@ latitude: 48.10973490000001
 longitude: 11.5747946
 postcode: 81547
 city: München
-street: Grünwalder Straße
+street: "Grünwalder Straße"
 housenumber: 10
 phone: "+49 89 69372707"
 opening_hours: "Mo-Sa 07:00-20:00"

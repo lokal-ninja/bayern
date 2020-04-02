@@ -5,7 +5,7 @@ latitude: 49.318217100000005
 longitude: 11.012225500000001
 postcode: 91126
 city: Schwabach
-street: Nördlinger Straße
+street: "Nördlinger Straße"
 housenumber: 44
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00; PH off"

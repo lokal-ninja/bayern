@@ -5,7 +5,7 @@ latitude: 48.4210423
 longitude: 11.0639084
 postcode: 86573
 city: Obergriesbach
-street: Annastraße
+street: "Annastraße"
 housenumber: 7
 phone: "+49 8251 885336"
 opening_hours: ""

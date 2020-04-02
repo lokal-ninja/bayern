@@ -5,7 +5,7 @@ latitude: 49.0595009
 longitude: 12.1262827
 postcode: 93057
 city: Regensburg
-street: Arzberger Straße
+street: "Arzberger Straße"
 housenumber: 7
 phone: "+49 941 64176"
 opening_hours: ""

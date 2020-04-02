@@ -5,7 +5,7 @@ latitude: 48.0674961
 longitude: 10.8601161
 postcode: 86899
 city: Landsberg am Lech
-street: Graf-Zeppelin-Straße
+street: "Graf-Zeppelin-Straße"
 housenumber: 2
 phone: "+49 8191 98515-0"
 opening_hours: ""

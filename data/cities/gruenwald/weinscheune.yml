@@ -5,7 +5,7 @@ latitude: 48.0395143
 longitude: 11.523622900000001
 postcode: 82031
 city: Grünwald
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 2
 phone: ""
 opening_hours: "Mo,Tu 15:00-19:00; We,Th 13:00-19:00; Fr 11:00-19:00; Sa 10:00-14:00"

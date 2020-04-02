@@ -5,7 +5,7 @@ latitude: 50.279433600000004
 longitude: 10.1744103
 postcode: 97724
 city: Burglauer
-street: Frühlingstraße
+street: "Frühlingstraße"
 housenumber: 19
 phone: ""
 opening_hours: ""

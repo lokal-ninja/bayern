@@ -5,7 +5,7 @@ latitude: 49.8044536
 longitude: 12.083056200000001
 postcode: 92681
 city: Erbendorf
-street: Wildenreuth A
+street: "Wildenreuth A"
 housenumber: 55
 phone: "+49 9682 722"
 opening_hours: ""

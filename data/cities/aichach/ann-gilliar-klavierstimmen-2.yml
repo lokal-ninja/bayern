@@ -5,7 +5,7 @@ latitude: 48.462729800000005
 longitude: 11.121826200000001
 postcode: 86551
 city: Aichach
-street: Simpertstraße
+street: "Simpertstraße"
 housenumber: 14
 phone: ""
 opening_hours: ""

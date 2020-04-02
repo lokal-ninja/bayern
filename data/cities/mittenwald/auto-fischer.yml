@@ -5,7 +5,7 @@ latitude: 47.449138500000004
 longitude: 11.272578900000001
 postcode: 82481
 city: Mittenwald
-street: Am Fischweiher
+street: "Am Fischweiher"
 housenumber: 15
 phone: "+49 8823 5015"
 opening_hours: "Mo-Th 07:00-17:00; Fr 07:00-12:00"

@@ -5,7 +5,7 @@ latitude: 48.847333000000006
 longitude: 10.9434024
 postcode: 86703
 city: Rögling
-street: Gartenstraße
+street: "Gartenstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 47.776787500000005
 longitude: 12.448664200000001
 postcode: 83224
 city: Grassau
-street: Achentalstraße
+street: "Achentalstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

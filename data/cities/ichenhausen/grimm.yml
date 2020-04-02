@@ -5,7 +5,7 @@ latitude: 48.376048100000006
 longitude: 10.3168565
 postcode: 89335
 city: Ichenhausen
-street: Weiler Weg
+street: "Weiler Weg"
 housenumber: 7
 phone: ""
 opening_hours: ""

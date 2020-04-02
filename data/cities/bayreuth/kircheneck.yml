@@ -5,7 +5,7 @@ latitude: 49.9429645
 longitude: 11.5737755
 postcode: 95444
 city: Bayreuth
-street: Sophienstraße
+street: "Sophienstraße"
 housenumber: 29
 phone: ""
 opening_hours: ""

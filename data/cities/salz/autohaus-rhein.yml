@@ -5,7 +5,7 @@ latitude: 50.296554400000005
 longitude: 10.190480500000001
 postcode: 97616
 city: Salz
-street: Ludwig-Elsbett-Straße
+street: "Ludwig-Elsbett-Straße"
 housenumber: 1
 phone: "+49 9771 6353-0"
 opening_hours: ""

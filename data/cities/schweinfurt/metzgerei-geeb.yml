@@ -5,7 +5,7 @@ latitude: 50.026397300000006
 longitude: 10.1996278
 postcode: 97424
 city: Schweinfurt
-street: Würzburger Straße
+street: "Würzburger Straße"
 housenumber: 3
 phone: "+49 9721 82472"
 opening_hours: ""

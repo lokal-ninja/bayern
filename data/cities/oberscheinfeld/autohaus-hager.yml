@@ -5,7 +5,7 @@ latitude: 49.706897000000005
 longitude: 10.428515200000001
 postcode: 91483
 city: Oberscheinfeld
-street: Schloßstraße
+street: "Schloßstraße"
 housenumber: 20
 phone: "+49-9167-412"
 opening_hours: ""

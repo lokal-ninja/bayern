@@ -5,7 +5,7 @@ latitude: 49.407661100000006
 longitude: 11.0011899
 postcode: 90547
 city: Stein
-street: Spitzleitenweg
+street: "Spitzleitenweg"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

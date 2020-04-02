@@ -5,7 +5,7 @@ latitude: 48.1331001
 longitude: 11.575871600000001
 postcode: 80469
 city: München
-street: Rumfordstraße
+street: "Rumfordstraße"
 housenumber: 8
 phone: "+49 89 26 01 80 00"
 opening_hours: "Mo-Fr 10:30-19:00; Sa 11:00-18:00"

@@ -5,7 +5,7 @@ latitude: 48.140370000000004
 longitude: 11.5760948
 postcode: 80333
 city: München
-street: Theatinerstraße
+street: "Theatinerstraße"
 housenumber: 11
 phone: "+49 89 30757575"
 opening_hours: "Mo-Sa 09:00-20:00"

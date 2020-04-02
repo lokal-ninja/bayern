@@ -5,7 +5,7 @@ latitude: 49.215526600000004
 longitude: 11.1423726
 postcode: 91154
 city: Roth
-street: Eckersmühlener Hauptstraße
+street: "Eckersmühlener Hauptstraße"
 housenumber: 32
 phone: ""
 opening_hours: ""

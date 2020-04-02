@@ -5,7 +5,7 @@ latitude: 47.982440100000005
 longitude: 11.6978577
 postcode: 85649
 city: Brunnthal
-street: An der Weindl-Wiesn
+street: "An der Weindl-Wiesn"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 06:00-20:00; Su 08:00-11:00"

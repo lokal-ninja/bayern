@@ -5,7 +5,7 @@ latitude: 49.459770500000005
 longitude: 11.1013058
 postcode: 90489
 city: Nürnberg
-street: Sulzbacher Straße
+street: "Sulzbacher Straße"
 housenumber: 99
 phone: "+49 911 557857"
 opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-12:00"

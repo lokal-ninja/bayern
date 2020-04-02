@@ -5,7 +5,7 @@ latitude: 48.1630617
 longitude: 11.731053500000002
 postcode: 85609
 city: Aschheim
-street: Uhlandstraße
+street: "Uhlandstraße"
 housenumber: 32
 phone: ""
 opening_hours: "Mo-Sa 09:30-20:00"

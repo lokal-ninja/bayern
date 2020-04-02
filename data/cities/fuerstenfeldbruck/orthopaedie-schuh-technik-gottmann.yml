@@ -5,7 +5,7 @@ latitude: 48.177054500000004
 longitude: 11.2547309
 postcode: 82256
 city: Fürstenfeldbruck
-street: Ledererstraße
+street: "Ledererstraße"
 housenumber: 10
 phone: "+49 8141 21198"
 opening_hours: "Mo-Fr 08:30-12:30,14:00-18:00"

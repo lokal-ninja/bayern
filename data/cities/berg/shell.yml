@@ -5,7 +5,7 @@ latitude: 50.3720986
 longitude: 11.7883186
 postcode: 95180
 city: Berg
-street: Sieggrubenstraße
+street: "Sieggrubenstraße"
 housenumber: 5
 phone: "+49 9293 9470"
 opening_hours: "24/7"

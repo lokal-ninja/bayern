@@ -5,7 +5,7 @@ latitude: 49.015965200000004
 longitude: 10.850664100000001
 postcode: 91801
 city: Markt Berolzheim
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 5
 phone: "+49 914694100"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.895081100000006
 longitude: 12.6085737
 postcode: 94315
 city: Straubing
-street: Osserstraße
+street: "Osserstraße"
 housenumber: 23
 phone: "+49 9421 18881 0"
 opening_hours: ""

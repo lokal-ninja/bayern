@@ -5,7 +5,7 @@ latitude: 47.9198983
 longitude: 12.3855076
 postcode: 83125
 city: Eggstätt
-street: Chiemseestraße
+street: "Chiemseestraße"
 housenumber: 25
 phone: "+49 8056 909644"
 opening_hours: "Mo-Sa 08:30-12:00; Mo-Tu 14:00-18:00; Th-Fr 14:00-18:00"

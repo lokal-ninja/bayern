@@ -5,7 +5,7 @@ latitude: 48.7725578
 longitude: 11.45326
 postcode: 85055
 city: Ingolstadt
-street: Goethestraße
+street: "Goethestraße"
 housenumber: 147
 phone: ""
 opening_hours: "Mo-Fr 07:00-18:00; Sa 09:00-13:00"

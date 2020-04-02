@@ -5,7 +5,7 @@ latitude: 47.9615236
 longitude: 12.611031
 postcode: 83301
 city: Traunreut
-street: Waginger Straße
+street: "Waginger Straße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"

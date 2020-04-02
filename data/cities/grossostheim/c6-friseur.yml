@@ -5,7 +5,7 @@ latitude: 49.909409700000005
 longitude: 9.0600973
 postcode: 63762
 city: Großostheim
-street: Rathausstraße
+street: "Rathausstraße"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Fr 09:00-12:00,15:00-19:00; Sa 09:00-16:00"

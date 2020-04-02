@@ -5,7 +5,7 @@ latitude: 48.4081684
 longitude: 11.740396700000002
 postcode: 85354
 city: Freising
-street: Düwellstraße
+street: "Düwellstraße"
 housenumber: 18b
 phone: ""
 opening_hours: "Mo-Sa 09:00-19:00"

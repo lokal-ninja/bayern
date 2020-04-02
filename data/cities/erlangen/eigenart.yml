@@ -5,7 +5,7 @@ latitude: 49.600221000000005
 longitude: 11.004104
 postcode: 91054
 city: Erlangen
-street: Schiffstraße
+street: "Schiffstraße"
 housenumber: 12
 phone: "+49 9131 202105"
 opening_hours: ""

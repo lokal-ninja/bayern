@@ -5,7 +5,7 @@ latitude: 49.7022404
 longitude: 9.2592241
 postcode: 
 city: Miltenberg
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 35
 phone: ""
 opening_hours: ""

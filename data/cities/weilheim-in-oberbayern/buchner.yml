@@ -5,7 +5,7 @@ latitude: 47.838953200000006
 longitude: 11.1427937
 postcode: 82362
 city: Weilheim in Oberbayern
-street: Hofstraße
+street: "Hofstraße"
 housenumber: 1
 phone: "+49 881 2591"
 opening_hours: "Mo,Tu,Th,Fr 11:00-18:00; We,Sa 11:00-15:00; PH off"

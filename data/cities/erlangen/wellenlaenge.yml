@@ -5,7 +5,7 @@ latitude: 49.6298666
 longitude: 10.9493991
 postcode: 91056
 city: Erlangen
-street: Waldseestraße
+street: "Waldseestraße"
 housenumber: 30
 phone: ""
 opening_hours: ""

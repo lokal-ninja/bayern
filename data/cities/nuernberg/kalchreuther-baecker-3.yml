@@ -5,7 +5,7 @@ latitude: 49.5213272
 longitude: 11.048955000000001
 postcode: 90427
 city: Nürnberg
-street: Untere Dorfstraße
+street: "Untere Dorfstraße"
 housenumber: 24
 phone: ""
 opening_hours: ""

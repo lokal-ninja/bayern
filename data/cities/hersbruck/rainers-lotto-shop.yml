@@ -5,7 +5,7 @@ latitude: 49.509278900000005
 longitude: 11.4322146
 postcode: 91217
 city: Hersbruck
-street: Amberger Straße
+street: "Amberger Straße"
 housenumber: 6
 phone: ""
 opening_hours: ""

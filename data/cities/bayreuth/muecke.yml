@@ -5,7 +5,7 @@ latitude: 49.9480346
 longitude: 11.570594700000001
 postcode: 95444
 city: Bayreuth
-street: Casselmannstraße
+street: "Casselmannstraße"
 housenumber: 20
 phone: "+49 921 34890497"
 opening_hours: "Mo-Fr 09:30-20:00; Sa 09:00-19:00"

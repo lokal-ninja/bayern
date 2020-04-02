@@ -5,7 +5,7 @@ latitude: 48.166956600000006
 longitude: 11.5857861
 postcode: 80802
 city: München
-street: Rheinstraße
+street: "Rheinstraße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

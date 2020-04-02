@@ -5,7 +5,7 @@ latitude: 50.054045900000006
 longitude: 11.6225217
 postcode: 95502
 city: Himmelkron
-street: Hofer Straße
+street: "Hofer Straße"
 housenumber: 4
 phone: ""
 opening_hours: ""

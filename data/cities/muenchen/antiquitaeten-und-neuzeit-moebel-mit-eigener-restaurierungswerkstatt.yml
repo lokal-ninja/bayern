@@ -5,7 +5,7 @@ latitude: 48.135379500000006
 longitude: 11.543334300000001
 postcode: 80339
 city: München
-street: Gollierstraße
+street: "Gollierstraße"
 housenumber: 23 / RGB
 phone: "+49 89 4704367, +49 172 8705930"
 opening_hours: ""

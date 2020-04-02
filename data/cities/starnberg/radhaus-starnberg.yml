@@ -5,7 +5,7 @@ latitude: 47.999278200000006
 longitude: 11.341893800000001
 postcode: 82319
 city: Starnberg
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

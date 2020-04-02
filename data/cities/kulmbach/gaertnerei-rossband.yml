@@ -5,7 +5,7 @@ latitude: 50.106412000000006
 longitude: 11.4083093
 postcode: 95326
 city: Kulmbach
-street: Seidenhofer Straße
+street: "Seidenhofer Straße"
 housenumber: 20
 phone: "+49 9221 4469"
 opening_hours: ""

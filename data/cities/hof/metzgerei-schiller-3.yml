@@ -5,7 +5,7 @@ latitude: 50.310789
 longitude: 11.907601300000001
 postcode: 95030
 city: Hof
-street: Blücherstraße
+street: "Blücherstraße"
 housenumber: 10
 phone: ""
 opening_hours: ""

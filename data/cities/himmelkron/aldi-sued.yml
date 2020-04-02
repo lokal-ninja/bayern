@@ -5,7 +5,7 @@ latitude: 50.054705000000006
 longitude: 11.614697900000001
 postcode: 95502
 city: Himmelkron
-street: Kulmbacher Straße
+street: "Kulmbacher Straße"
 housenumber: 3
 phone: ""
 opening_hours: ""

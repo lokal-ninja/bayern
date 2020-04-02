@@ -5,7 +5,7 @@ latitude: 48.138078300000004
 longitude: 11.5830813
 postcode: 80539
 city: München
-street: Stollbergstraße
+street: "Stollbergstraße"
 housenumber: 17
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 47.865560200000004
 longitude: 12.6473122
 postcode: 83278
 city: Traunstein
-street: Bürgerwaldstraße
+street: "Bürgerwaldstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.302781
 longitude: 10.1603493
 postcode: 89264
 city: Weißenhorn
-street: Memminger Straße
+street: "Memminger Straße"
 housenumber: 11
 phone: "+49 7309 3051"
 opening_hours: ""

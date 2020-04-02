@@ -5,7 +5,7 @@ latitude: 49.504612
 longitude: 10.412641
 postcode: 91438
 city: Bad Windsheim
-street: Westring
+street: "Westring"
 housenumber: 31
 phone: "+49 151 18352745"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 47.9009712
 longitude: 11.368693100000002
 postcode: 82541
 city: Münsing
-street: Hauserweg
+street: "Hauserweg"
 housenumber: 32
 phone: "+49 171 9981306"
 opening_hours: ""

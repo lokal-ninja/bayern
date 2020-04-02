@@ -5,7 +5,7 @@ latitude: 48.1071936
 longitude: 11.743402000000001
 postcode: 85540
 city: Haar
-street: Zunftstraße
+street: "Zunftstraße"
 housenumber: 17f
 phone: ""
 opening_hours: "Mo-Fr 08:00-12:00,13:00-17:00; Sa on request"

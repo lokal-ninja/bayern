@@ -5,7 +5,7 @@ latitude: 48.7461695
 longitude: 11.461411
 postcode: 85053
 city: Ingolstadt
-street: Messerschmittstraße
+street: "Messerschmittstraße"
 housenumber: 10
 phone: "+49 841 65600"
 opening_hours: ""

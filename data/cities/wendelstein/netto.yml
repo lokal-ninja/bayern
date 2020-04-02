@@ -5,7 +5,7 @@ latitude: 49.3525051
 longitude: 11.16366
 postcode: 90530
 city: Wendelstein
-street: Richtweg
+street: "Richtweg"
 housenumber: 49
 phone: ""
 opening_hours: ""

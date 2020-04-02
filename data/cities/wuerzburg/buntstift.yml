@@ -5,7 +5,7 @@ latitude: 49.7889288
 longitude: 9.9468955
 postcode: 97074
 city: Würzburg
-street: Seinsheimstraße
+street: "Seinsheimstraße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Fr 07:30-18:00; Sa 08:30-13:00"

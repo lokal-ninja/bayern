@@ -5,7 +5,7 @@ latitude: 49.5925552
 longitude: 10.715207000000001
 postcode: 91448
 city: Emskirchen
-street: Dorfstraße
+street: "Dorfstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

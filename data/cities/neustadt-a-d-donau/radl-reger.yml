@@ -5,7 +5,7 @@ latitude: 48.8204204
 longitude: 11.784068900000001
 postcode: 93333
 city: Neustadt a.d.Donau
-street: Heiligenstädter Straße
+street: "Heiligenstädter Straße"
 housenumber: 9b
 phone: "+49 9445 1058"
 opening_hours: ""

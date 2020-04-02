@@ -5,7 +5,7 @@ latitude: 49.9384267
 longitude: 12.2308924
 postcode: 95666
 city: Mitterteich
-street: Carl-Zeiss-Straße
+street: "Carl-Zeiss-Straße"
 housenumber: 3
 phone: "+49 9633 4000890"
 opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00"

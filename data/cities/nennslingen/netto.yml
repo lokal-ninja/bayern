@@ -5,7 +5,7 @@ latitude: 49.0463095
 longitude: 11.1268212
 postcode: 91790
 city: Nennslingen
-street: Weißenburger Straße
+street: "Weißenburger Straße"
 housenumber: 24
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00;Su,PH off"

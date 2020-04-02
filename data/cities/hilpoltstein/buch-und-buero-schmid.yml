@@ -5,7 +5,7 @@ latitude: 49.1895832
 longitude: 11.191459700000001
 postcode: 91161
 city: Hilpoltstein
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 08:30-13:00,14:30-18:00; Sa 08:30-12:30"

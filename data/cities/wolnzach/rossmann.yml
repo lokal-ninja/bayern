@@ -5,7 +5,7 @@ latitude: 48.6129012
 longitude: 11.610274500000001
 postcode: 85283
 city: Wolnzach
-street: Ringstraße
+street: "Ringstraße"
 housenumber: 23
 phone: ""
 opening_hours: ""

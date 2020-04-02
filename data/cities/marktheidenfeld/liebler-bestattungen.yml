@@ -5,7 +5,7 @@ latitude: 49.848108100000005
 longitude: 9.613395500000001
 postcode: 97828
 city: Marktheidenfeld
-street: Baumhofstraße
+street: "Baumhofstraße"
 housenumber: 47
 phone: ""
 opening_hours: ""

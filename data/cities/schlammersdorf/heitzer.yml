@@ -5,7 +5,7 @@ latitude: 49.802128
 longitude: 11.7362327
 postcode: 95519
 city: Schlammersdorf
-street: Am Pfarrhof
+street: "Am Pfarrhof"
 housenumber: 4
 phone: "+49 9205 240"
 opening_hours: "Mo 06:30-12:00; Tu,Th-Fr 06:30-12:00,14:30-18:00, Sa 06:30-12:00; We 06:30-12:00"

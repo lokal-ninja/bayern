@@ -5,7 +5,7 @@ latitude: 49.951810300000005
 longitude: 11.584256700000001
 postcode: 95448
 city: Bayreuth
-street: Markgrafenallee
+street: "Markgrafenallee"
 housenumber: 11
 phone: ""
 opening_hours: ""

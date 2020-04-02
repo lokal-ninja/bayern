@@ -5,7 +5,7 @@ latitude: 48.8873759
 longitude: 11.412306000000001
 postcode: 85110
 city: Schelldorf
-street: Schulstraße
+street: "Schulstraße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Fr 07:00-12:30, 15:30-18:00; Sa 07:30-12:30"

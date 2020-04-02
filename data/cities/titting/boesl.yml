@@ -5,7 +5,7 @@ latitude: 48.995777700000005
 longitude: 11.210696
 postcode: 
 city: Titting
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 25
 phone: ""
 opening_hours: ""

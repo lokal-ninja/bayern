@@ -5,7 +5,7 @@ latitude: 49.300670800000006
 longitude: 10.411576400000001
 postcode: 91578
 city: Leutershausen
-street: Rammersdorfer Straße
+street: "Rammersdorfer Straße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"

@@ -5,7 +5,7 @@ latitude: 49.0097158
 longitude: 12.1033193
 postcode: 93053
 city: Regensburg
-street: Furtmayrstraße
+street: "Furtmayrstraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

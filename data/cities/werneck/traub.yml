@@ -5,7 +5,7 @@ latitude: 49.9807579
 longitude: 10.100702700000001
 postcode: 97440
 city: Werneck
-street: Balthasar-Neumann-Platz
+street: "Balthasar-Neumann-Platz"
 housenumber: 1
 phone: "+49 9722 944816"
 opening_hours: "Mo-Fr 09:00-18:00"

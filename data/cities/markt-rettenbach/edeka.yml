@@ -5,7 +5,7 @@ latitude: 47.9506869
 longitude: 10.3930889
 postcode: 87733
 city: Markt Rettenbach
-street: Gewerbestraße
+street: "Gewerbestraße"
 housenumber: 23
 phone: ""
 opening_hours: ""

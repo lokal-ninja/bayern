@@ -5,7 +5,7 @@ latitude: 48.175813700000006
 longitude: 10.758050800000001
 postcode: 86830
 city: Schwabmünchen
-street: Kaufbeurer Straße
+street: "Kaufbeurer Straße"
 housenumber: 5
 phone: "+49 8232 809000"
 opening_hours: ""

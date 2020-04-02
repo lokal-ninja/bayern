@@ -5,7 +5,7 @@ latitude: 50.294900000000005
 longitude: 10.1804454
 postcode: 97618
 city: Niederlauer
-street: Mühlstraße
+street: "Mühlstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

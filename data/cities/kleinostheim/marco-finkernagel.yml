@@ -5,7 +5,7 @@ latitude: 50.001631700000004
 longitude: 9.066749900000001
 postcode: 63801
 city: Kleinostheim
-street: Goethestraße
+street: "Goethestraße"
 housenumber: 
 phone: ""
 opening_hours: ""

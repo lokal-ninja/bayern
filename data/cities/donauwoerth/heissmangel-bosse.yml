@@ -5,7 +5,7 @@ latitude: 48.7153604
 longitude: 10.7510809
 postcode: 86609
 city: Donauwörth
-street: Anemonenweg
+street: "Anemonenweg"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 08:00-12:30, 13:30-18:00; Sa 08:00-12:00"

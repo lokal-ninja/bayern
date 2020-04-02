@@ -5,7 +5,7 @@ latitude: 48.4355812
 longitude: 10.8650628
 postcode: 86368
 city: Gersthofen
-street: Messerschmittstraße
+street: "Messerschmittstraße"
 housenumber: 3
 phone: "+49 821 2992540"
 opening_hours: "Mo-Fr 08:30-19:00; Sa 08:00-18:00; Su off"

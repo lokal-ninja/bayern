@@ -5,7 +5,7 @@ latitude: 48.136885
 longitude: 11.5744694
 postcode: 80331
 city: München
-street: Rosenstraße
+street: "Rosenstraße"
 housenumber: 1
 phone: "+49 89 2421 4500"
 opening_hours: "Mo-Sa 09:00-20:00; Su,PH off"

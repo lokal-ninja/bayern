@@ -5,7 +5,7 @@ latitude: 48.127818500000004
 longitude: 10.4792918
 postcode: 
 city: Salgen
-street: Raiffeisenstraße
+street: "Raiffeisenstraße"
 housenumber: 16
 phone: ""
 opening_hours: ""

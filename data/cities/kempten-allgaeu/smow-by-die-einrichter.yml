@@ -5,7 +5,7 @@ latitude: 47.736653000000004
 longitude: 10.323127300000001
 postcode: 87437
 city: Kempten (Allgäu)
-street: Kaufbeurer Straße
+street: "Kaufbeurer Straße"
 housenumber: 91
 phone: "+49 831 54074712"
 opening_hours: "Mo-Fr 08:00-18:00; Sa 10:00-16:00"

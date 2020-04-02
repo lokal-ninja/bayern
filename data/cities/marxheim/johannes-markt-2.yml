@@ -5,7 +5,7 @@ latitude: 48.754180700000006
 longitude: 10.9503655
 postcode: 86688
 city: Marxheim
-street: Diepoldstraße
+street: "Diepoldstraße"
 housenumber: 32
 phone: "+49 9097 809500"
 opening_hours: "Mo,Th,Fr 07:00-18:00; Tu,We 07:00-13:00; Sa 07:00-12:00"

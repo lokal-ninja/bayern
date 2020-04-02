@@ -5,7 +5,7 @@ latitude: 48.1864246
 longitude: 11.868435700000001
 postcode: 85570
 city: Markt Schwaben
-street: Wallbergstraße
+street: "Wallbergstraße"
 housenumber: 16
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

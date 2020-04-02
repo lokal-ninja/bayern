@@ -5,7 +5,7 @@ latitude: 47.9879369
 longitude: 10.161438500000001
 postcode: 87700
 city: Memmingen
-street: Braunstraße
+street: "Braunstraße"
 housenumber: 23
 phone: ""
 opening_hours: ""

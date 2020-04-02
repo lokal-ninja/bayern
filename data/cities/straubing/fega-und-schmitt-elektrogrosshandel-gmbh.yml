@@ -5,7 +5,7 @@ latitude: 48.884636400000005
 longitude: 12.6163188
 postcode: 94315
 city: Straubing
-street: Ittlinger Straße
+street: "Ittlinger Straße"
 housenumber: 234
 phone: "+49 9421 8000 0"
 opening_hours: "Mo-Th 07:00-16:30; Fr 07:00-13:00"

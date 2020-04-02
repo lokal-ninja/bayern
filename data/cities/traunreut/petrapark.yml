@@ -5,7 +5,7 @@ latitude: 47.964420100000005
 longitude: 12.585505300000001
 postcode: 83301
 city: Traunreut
-street: Traunring
+street: "Traunring"
 housenumber: 4
 phone: ""
 opening_hours: ""

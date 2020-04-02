@@ -5,7 +5,7 @@ latitude: 47.871277500000005
 longitude: 10.603374200000001
 postcode: 87600
 city: Kaufbeuren
-street: Sankt-Cosmas-Straße
+street: "Sankt-Cosmas-Straße"
 housenumber: 1
 phone: ""
 opening_hours: ""

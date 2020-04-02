@@ -5,7 +5,7 @@ latitude: 48.411426500000005
 longitude: 10.8814854
 postcode: 86368
 city: Gersthofen
-street: Adelbertstraße
+street: "Adelbertstraße"
 housenumber: 2
 phone: "+49 821 78099890"
 opening_hours: "Mo-Sa 09:30-19:00"

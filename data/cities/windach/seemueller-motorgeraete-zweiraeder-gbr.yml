@@ -5,7 +5,7 @@ latitude: 48.068141000000004
 longitude: 10.991101
 postcode: 86949
 city: Windach
-street: Ringstraße
+street: "Ringstraße"
 housenumber: 10
 phone: "+49 8193 1534"
 opening_hours: "Mo-Fr 09:00-18:00"

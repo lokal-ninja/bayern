@@ -5,7 +5,7 @@ latitude: 49.328295700000005
 longitude: 11.0206604
 postcode: 91126
 city: Schwabach
-street: Königsplatz
+street: "Königsplatz"
 housenumber: 25
 phone: "+49 9122 2427"
 opening_hours: ""

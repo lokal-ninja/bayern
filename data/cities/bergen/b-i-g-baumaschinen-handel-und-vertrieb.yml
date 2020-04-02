@@ -5,7 +5,7 @@ latitude: 49.0751958
 longitude: 11.1105166
 postcode: 91790
 city: Bergen
-street: Reuther Straße
+street: "Reuther Straße"
 housenumber: 25
 phone: "+49 9148 279"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.1721298
 longitude: 12.867574300000001
 postcode: 93444
 city: Bad Kötzting
-street: Pfingstreiterstraße
+street: "Pfingstreiterstraße"
 housenumber: 19
 phone: ""
 opening_hours: ""

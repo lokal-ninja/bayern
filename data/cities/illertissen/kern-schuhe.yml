@@ -5,7 +5,7 @@ latitude: 48.2213007
 longitude: 10.101463
 postcode: 89257
 city: Illertissen
-street: Dietenheimer Straße
+street: "Dietenheimer Straße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"

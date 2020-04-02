@@ -5,7 +5,7 @@ latitude: 48.2584585
 longitude: 11.463644700000001
 postcode: 85221
 city: Dachau
-street: Würmstraße
+street: "Würmstraße"
 housenumber: 16
 phone: ""
 opening_hours: ""

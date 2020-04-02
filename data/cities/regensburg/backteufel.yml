@@ -5,7 +5,7 @@ latitude: 49.0189147
 longitude: 12.1049384
 postcode: 93047
 city: Regensburg
-street: Ostengasse
+street: "Ostengasse"
 housenumber: 21
 phone: "+49 170 6826777"
 opening_hours: "Mo-Fr 07:00-15:00"

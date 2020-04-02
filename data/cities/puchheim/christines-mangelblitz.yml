@@ -5,7 +5,7 @@ latitude: 48.1841219
 longitude: 11.371337800000001
 postcode: 82178
 city: Puchheim
-street: Gröbenzeller Straße
+street: "Gröbenzeller Straße"
 housenumber: 30
 phone: ""
 opening_hours: "Mo-Sa 09:00-12:00, Mo,Tu,Th,Fr 14:00-18:00"

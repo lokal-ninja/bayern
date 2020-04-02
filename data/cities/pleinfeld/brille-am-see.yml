@@ -5,7 +5,7 @@ latitude: 49.105099
 longitude: 10.984172500000001
 postcode: 91785
 city: Pleinfeld
-street: Seilergasse
+street: "Seilergasse"
 housenumber: 4
 phone: "+499144 201421"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.5612799
 longitude: 10.682539700000001
 postcode: 86637
 city: Wertingen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 9
 phone: "+49 8272 6090094"
 opening_hours: "Tu,Th,Fr 09:00-18:00; We 09:00-15:00; Sa 09:00-12:00"

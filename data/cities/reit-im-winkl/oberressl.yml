@@ -5,7 +5,7 @@ latitude: 47.676818100000006
 longitude: 12.470384300000001
 postcode: 83242
 city: Reit im Winkl
-street: Brunnenstraße
+street: "Brunnenstraße"
 housenumber: 10
 phone: "+49 8640 7974079"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 08:30-13:00"

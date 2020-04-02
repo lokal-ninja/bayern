@@ -5,7 +5,7 @@ latitude: 49.455128200000004
 longitude: 11.072851700000001
 postcode: 90403
 city: Nürnberg
-street: Weißgerbergasse
+street: "Weißgerbergasse"
 housenumber: 21
 phone: ""
 opening_hours: ""

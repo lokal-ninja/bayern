@@ -5,7 +5,7 @@ latitude: 48.3104925
 longitude: 10.888403700000001
 postcode: 86179
 city: Augsburg
-street: Inninger Straße
+street: "Inninger Straße"
 housenumber: 107
 phone: ""
 opening_hours: ""

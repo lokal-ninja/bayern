@@ -5,7 +5,7 @@ latitude: 49.707104300000005
 longitude: 11.0601871
 postcode: 91301
 city: Forchheim
-street: Hafenstraße
+street: "Hafenstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00; PH off"

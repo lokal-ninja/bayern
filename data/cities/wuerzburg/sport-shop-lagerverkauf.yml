@@ -5,7 +5,7 @@ latitude: 49.798813100000004
 longitude: 9.9346878
 postcode: 97070
 city: Würzburg
-street: Reisgrubengasse
+street: "Reisgrubengasse"
 housenumber: 11
 phone: ""
 opening_hours: ""

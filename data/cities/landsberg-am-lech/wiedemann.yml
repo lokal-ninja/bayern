@@ -5,7 +5,7 @@ latitude: 48.0555074
 longitude: 10.876128300000001
 postcode: 86899
 city: Landsberg am Lech
-street: Augsburger Straße
+street: "Augsburger Straße"
 housenumber: 2
 phone: ""
 opening_hours: ""

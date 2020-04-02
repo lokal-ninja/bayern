@@ -5,7 +5,7 @@ latitude: 49.992719300000005
 longitude: 10.2437705
 postcode: 97525
 city: Schwebheim
-street: Gulbranssonstraße
+street: "Gulbranssonstraße"
 housenumber: 83
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

@@ -5,7 +5,7 @@ latitude: 49.445484900000004
 longitude: 11.8580111
 postcode: 92224
 city: Amberg
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 7
 phone: "+49 09621 13193"
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"

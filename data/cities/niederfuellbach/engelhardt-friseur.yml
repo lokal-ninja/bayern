@@ -5,7 +5,7 @@ latitude: 50.218069
 longitude: 10.9849785
 postcode: 96489
 city: Niederfüllbach
-street: Simonsgasse
+street: "Simonsgasse"
 housenumber: 28A
 phone: "+49 9565 6300"
 opening_hours: ""

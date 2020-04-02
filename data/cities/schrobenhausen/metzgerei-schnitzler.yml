@@ -5,7 +5,7 @@ latitude: 48.570316600000005
 longitude: 11.2825968
 postcode: 86529
 city: Schrobenhausen
-street: Alte Dorfstraße
+street: "Alte Dorfstraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

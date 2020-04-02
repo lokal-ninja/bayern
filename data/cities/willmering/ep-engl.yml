@@ -5,7 +5,7 @@ latitude: 49.2444107
 longitude: 12.670750100000001
 postcode: 93497
 city: Willmering
-street: Chamer Straße
+street: "Chamer Straße"
 housenumber: 2
 phone: "+49 9971 1600"
 opening_hours: "Mo-Fr 08:30-12:00,13:00-18:00; Sa 08:30-12:00"

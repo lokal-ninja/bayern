@@ -5,7 +5,7 @@ latitude: 49.5213173
 longitude: 11.005782700000001
 postcode: 90427
 city: Nürnberg
-street: Wiesbadener Straße
+street: "Wiesbadener Straße"
 housenumber: 33
 phone: ""
 opening_hours: ""

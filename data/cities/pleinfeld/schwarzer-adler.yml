@@ -5,7 +5,7 @@ latitude: 49.143522600000004
 longitude: 10.978668
 postcode: 91785
 city: Pleinfeld
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 21
 phone: "+49 9144 338"
 opening_hours: ""

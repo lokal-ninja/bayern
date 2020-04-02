@@ -5,7 +5,7 @@ latitude: 48.765634500000004
 longitude: 11.4299206
 postcode: 85049
 city: Ingolstadt
-street: Paradeplatz
+street: "Paradeplatz"
 housenumber: 15
 phone: "+49 841 32300"
 opening_hours: "Tu-Fr 07:45-18:00; Sa 07:30-13:00"

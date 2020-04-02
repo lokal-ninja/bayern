@@ -5,7 +5,7 @@ latitude: 48.3743786
 longitude: 10.937264500000001
 postcode: 86165
 city: Augsburg
-street: Zusamstraße
+street: "Zusamstraße"
 housenumber: 20
 phone: "+49 821 714737"
 opening_hours: ""

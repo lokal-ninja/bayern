@@ -5,7 +5,7 @@ latitude: 47.742195300000006
 longitude: 10.305191500000001
 postcode: 87439
 city: Kempten (Allgäu)
-street: Gewerbestraße
+street: "Gewerbestraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

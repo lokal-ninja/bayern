@@ -5,7 +5,7 @@ latitude: 48.138985500000004
 longitude: 11.564384
 postcode: 80335
 city: München
-street: Karlsplatz
+street: "Karlsplatz"
 housenumber: 21
 phone: "+49 89 5125 0"
 opening_hours: "Mo-Sa 09:30-20:00, 2014 Sep 12 20:00-24:00 open Galeria Shopping Night"

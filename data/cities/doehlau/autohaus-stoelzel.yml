@@ -5,7 +5,7 @@ latitude: 50.289368100000004
 longitude: 11.9438571
 postcode: 95182
 city: Döhlau
-street: Hofer Straße
+street: "Hofer Straße"
 housenumber: 2a
 phone: "+49 9286 9515-0"
 opening_hours: ""

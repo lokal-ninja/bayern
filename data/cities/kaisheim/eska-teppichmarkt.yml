@@ -5,7 +5,7 @@ latitude: 48.76309740000001
 longitude: 10.7919438
 postcode: 86687
 city: Kaisheim
-street: Gewerbegebiet
+street: "Gewerbegebiet"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00;Sa 09:00-13:00"

@@ -5,7 +5,7 @@ latitude: 48.137559200000005
 longitude: 11.5644142
 postcode: 80331
 city: München
-street: Sonnenstraße
+street: "Sonnenstraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

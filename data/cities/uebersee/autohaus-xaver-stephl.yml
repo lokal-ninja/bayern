@@ -5,7 +5,7 @@ latitude: 47.821484000000005
 longitude: 12.482494800000001
 postcode: 83236
 city: Übersee
-street: Wolferstraße
+street: "Wolferstraße"
 housenumber: 1a
 phone: ""
 opening_hours: ""

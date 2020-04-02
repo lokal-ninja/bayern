@@ -5,7 +5,7 @@ latitude: 50.026091
 longitude: 10.267484600000001
 postcode: 97469
 city: Gochsheim
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 20
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

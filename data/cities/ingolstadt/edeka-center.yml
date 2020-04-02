@@ -5,7 +5,7 @@ latitude: 48.776481600000004
 longitude: 11.4538197
 postcode: 85055
 city: Ingolstadt
-street: Despag-Straße
+street: "Despag-Straße"
 housenumber: 1
 phone: "+49 841 88140080"
 opening_hours: "Mo-Sa 06:00-20:00"

@@ -5,7 +5,7 @@ latitude: 47.987642
 longitude: 11.862300300000001
 postcode: 85625
 city: Glonn
-street: Pfarrer-Winhart-Straße
+street: "Pfarrer-Winhart-Straße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

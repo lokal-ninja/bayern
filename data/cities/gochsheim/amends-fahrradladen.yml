@@ -5,7 +5,7 @@ latitude: 50.022773900000004
 longitude: 10.273930400000001
 postcode: 97469
 city: Gochsheim
-street: Am Setzen
+street: "Am Setzen"
 housenumber: 109
 phone: "+49 9721 4771498"
 opening_hours: "Mo 14:00-19:00; Tu off; We-Fr 14:00-19:00; Sa 9:00-13:00"

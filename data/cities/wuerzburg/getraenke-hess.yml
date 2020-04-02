@@ -5,7 +5,7 @@ latitude: 49.803584300000004
 longitude: 9.947022500000001
 postcode: 97080
 city: Würzburg
-street: Steinheilstraße
+street: "Steinheilstraße"
 housenumber: 33
 phone: ""
 opening_hours: "Mo-Fr 09:00-12:00,14:00-18:00; Sa 09:00-13:00"

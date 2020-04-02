@@ -5,7 +5,7 @@ latitude: 48.1036232
 longitude: 11.7297423
 postcode: 85540
 city: Haar
-street: Mozartstraße
+street: "Mozartstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Tu-Fr 09:00-18:00; Sa 08:00-13:00"

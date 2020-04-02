@@ -5,7 +5,7 @@ latitude: 48.9861815
 longitude: 12.154584700000001
 postcode: 93055
 city: Regensburg
-street: Junkersstraße
+street: "Junkersstraße"
 housenumber: 17
 phone: ""
 opening_hours: ""

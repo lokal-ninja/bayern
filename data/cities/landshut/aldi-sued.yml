@@ -5,7 +5,7 @@ latitude: 48.550079800000006
 longitude: 12.1589325
 postcode: 
 city: Landshut
-street: Alte Regensburger Straße
+street: "Alte Regensburger Straße"
 housenumber: 59
 phone: ""
 opening_hours: ""

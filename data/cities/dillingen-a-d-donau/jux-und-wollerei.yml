@@ -5,7 +5,7 @@ latitude: 48.580500400000005
 longitude: 10.495607300000001
 postcode: 89407
 city: Dillingen a.d. Donau
-street: Kapuzinerstraße
+street: "Kapuzinerstraße"
 housenumber: 20A
 phone: "+49 9071 7299313"
 opening_hours: ""

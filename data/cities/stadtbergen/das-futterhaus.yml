@@ -5,7 +5,7 @@ latitude: 48.377120100000006
 longitude: 10.8416525
 postcode: 86391
 city: Stadtbergen
-street: Daimlerstraße
+street: "Daimlerstraße"
 housenumber: 3
 phone: "+49 821 540 9497"
 opening_hours: "Mo-Fr 09:00-19:00, Sa 09:00-18:00"

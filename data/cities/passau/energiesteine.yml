@@ -5,7 +5,7 @@ latitude: 48.572660000000006
 longitude: 13.4611864
 postcode: 94032
 city: Passau
-street: Heiliggeistgasse
+street: "Heiliggeistgasse"
 housenumber: 19
 phone: ""
 opening_hours: ""

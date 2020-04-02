@@ -5,7 +5,7 @@ latitude: 49.718040800000004
 longitude: 11.0620911
 postcode: 91301
 city: Forchheim
-street: Klosterstraße
+street: "Klosterstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

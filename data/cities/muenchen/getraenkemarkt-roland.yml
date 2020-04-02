@@ -5,7 +5,7 @@ latitude: 48.164560300000005
 longitude: 11.5761912
 postcode: 80803
 city: München
-street: Rossinistraße
+street: "Rossinistraße"
 housenumber: 12
 phone: "+49 89 302524"
 opening_hours: "Mo-Fr 09:30-19:30; Sa 09:00-14:00"

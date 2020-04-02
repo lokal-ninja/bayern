@@ -5,7 +5,7 @@ latitude: 48.546510600000005
 longitude: 12.525901000000001
 postcode: 84160
 city: Frontenhausen
-street: Marienplatz
+street: "Marienplatz"
 housenumber: 18-20
 phone: ""
 opening_hours: "Mo-Sa 08:00-12:00, Mo-Fr 13:00-18:00; PH Su off"

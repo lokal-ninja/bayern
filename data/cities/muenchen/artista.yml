@@ -5,7 +5,7 @@ latitude: 48.1355638
 longitude: 11.5772297
 postcode: 80331
 city: München
-street: Heiliggeiststraße
+street: "Heiliggeiststraße"
 housenumber: 7
 phone: "+49 89 2010707"
 opening_hours: "Tu-Fr 10:00-19:00; Sa 09:00-15:00"

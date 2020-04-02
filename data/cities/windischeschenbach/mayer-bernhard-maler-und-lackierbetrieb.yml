@@ -5,7 +5,7 @@ latitude: 49.798372400000005
 longitude: 12.166551100000001
 postcode: 92670
 city: Windischeschenbach
-street: Naabstraße
+street: "Naabstraße"
 housenumber: 17
 phone: ""
 opening_hours: ""

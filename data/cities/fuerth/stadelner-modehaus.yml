@@ -5,7 +5,7 @@ latitude: 49.5119205
 longitude: 10.975287300000002
 postcode: 90765
 city: Fürth
-street: Stadelner Hauptstraße
+street: "Stadelner Hauptstraße"
 housenumber: 84
 phone: ""
 opening_hours: ""

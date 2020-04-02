@@ -5,7 +5,7 @@ latitude: 49.5806818
 longitude: 10.609375700000001
 postcode: 91413
 city: Neustadt an der Aisch
-street: Bamberger Straße
+street: "Bamberger Straße"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:30"

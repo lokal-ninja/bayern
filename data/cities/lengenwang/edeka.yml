@@ -5,7 +5,7 @@ latitude: 47.701914200000004
 longitude: 10.6034562
 postcode: 
 city: Lengenwang
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 23
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

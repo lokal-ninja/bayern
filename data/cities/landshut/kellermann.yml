@@ -5,7 +5,7 @@ latitude: 48.5362402
 longitude: 12.1530485
 postcode: 84028
 city: Landshut
-street: Grasgasse
+street: "Grasgasse"
 housenumber: 328
 phone: ""
 opening_hours: ""

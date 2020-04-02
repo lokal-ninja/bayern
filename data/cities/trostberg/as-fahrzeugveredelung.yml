@@ -5,7 +5,7 @@ latitude: 48.030238000000004
 longitude: 12.564964400000001
 postcode: 83308
 city: Trostberg
-street: Franz-Josef-Soll-Straße
+street: "Franz-Josef-Soll-Straße"
 housenumber: 29
 phone: "+49-175-4186184"
 opening_hours: ""

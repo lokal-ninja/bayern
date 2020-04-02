@@ -5,7 +5,7 @@ latitude: 49.185166100000004
 longitude: 11.188421
 postcode: 91161
 city: Hilpoltstein
-street: Heidecker Straße
+street: "Heidecker Straße"
 housenumber: 26
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"

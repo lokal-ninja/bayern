@@ -5,7 +5,7 @@ latitude: 48.172716400000006
 longitude: 10.7412022
 postcode: 86830
 city: Schwabmünchen
-street: Falkensteinstraße
+street: "Falkensteinstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

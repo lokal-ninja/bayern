@@ -5,7 +5,7 @@ latitude: 48.716176100000006
 longitude: 10.7502574
 postcode: 86609
 city: Donauwörth
-street: Merianstraße
+street: "Merianstraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

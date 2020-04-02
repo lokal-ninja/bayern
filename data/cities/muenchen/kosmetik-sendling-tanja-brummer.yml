@@ -5,7 +5,7 @@ latitude: 48.1220738
 longitude: 11.535360800000001
 postcode: 81373
 city: München
-street: Hansastraße
+street: "Hansastraße"
 housenumber: 99
 phone: "+49 89 95842005"
 opening_hours: ""

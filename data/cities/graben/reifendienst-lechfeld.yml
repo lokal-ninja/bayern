@@ -5,7 +5,7 @@ latitude: 48.185839800000004
 longitude: 10.8413585
 postcode: 86836
 city: Graben
-street: Gewerbestraße
+street: "Gewerbestraße"
 housenumber: 8
 phone: "+49 8232 1846724"
 opening_hours: ""

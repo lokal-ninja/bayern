@@ -5,7 +5,7 @@ latitude: 48.404420800000004
 longitude: 11.98911
 postcode: 85456
 city: Wartenberg
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 3
 phone: "+49 8762 9868"
 opening_hours: ""

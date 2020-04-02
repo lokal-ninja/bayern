@@ -5,7 +5,7 @@ latitude: 48.735060000000004
 longitude: 11.182471600000001
 postcode: 86633
 city: Neuburg an der Donau
-street: Rosenstraße
+street: "Rosenstraße"
 housenumber: 111
 phone: ""
 opening_hours: ""

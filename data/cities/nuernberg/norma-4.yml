@@ -5,7 +5,7 @@ latitude: 49.4869391
 longitude: 11.1031996
 postcode: 90411
 city: Nürnberg
-street: Rathsbergstraße
+street: "Rathsbergstraße"
 housenumber: 19
 phone: ""
 opening_hours: "Mo-Sa 7:00-20:00"

@@ -5,7 +5,7 @@ latitude: 49.8456483
 longitude: 9.9058869
 postcode: 97209
 city: Veitshöchheim
-street: Gadheimer Straße
+street: "Gadheimer Straße"
 housenumber: 19
 phone: ""
 opening_hours: "Mo-Th 06:30-13:00; Fr 06:30-12:30"

@@ -5,7 +5,7 @@ latitude: 50.249417
 longitude: 12.035389
 postcode: 95111
 city: Rehau
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 10
 phone: "+49 9281 819420"
 opening_hours: ""

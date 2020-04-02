@@ -5,7 +5,7 @@ latitude: 48.4899671
 longitude: 11.552013500000001
 postcode: 85307
 city: Entrischenbrunn
-street: Entrischenbrunn
+street: "Entrischenbrunn"
 housenumber: 3
 phone: ""
 opening_hours: ""

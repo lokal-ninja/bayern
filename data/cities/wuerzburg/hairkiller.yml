@@ -5,7 +5,7 @@ latitude: 49.7901917
 longitude: 9.9302005
 postcode: 97070
 city: Würzburg
-street: Neubaustraße
+street: "Neubaustraße"
 housenumber: 12
 phone: ""
 opening_hours: ""

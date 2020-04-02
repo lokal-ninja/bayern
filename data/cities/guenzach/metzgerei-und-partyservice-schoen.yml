@@ -5,7 +5,7 @@ latitude: 47.8235764
 longitude: 10.43566
 postcode: 87634
 city: Günzach
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 18
 phone: ""
 opening_hours: ""

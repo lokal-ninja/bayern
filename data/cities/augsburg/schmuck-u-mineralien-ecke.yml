@@ -5,7 +5,7 @@ latitude: 48.367399500000005
 longitude: 10.899549200000001
 postcode: 86150
 city: Augsburg
-street: Judenberg
+street: "Judenberg"
 housenumber: 13
 phone: ""
 opening_hours: "Th,Fr 10:00-12:30,13:30-18:00; Sa 10:00-13:00"

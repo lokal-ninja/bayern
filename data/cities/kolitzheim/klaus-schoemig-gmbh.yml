@@ -5,7 +5,7 @@ latitude: 49.9090696
 longitude: 10.193097900000001
 postcode: 97509
 city: Kolitzheim
-street: Am Lerchenberg
+street: "Am Lerchenberg"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 08:00-17:00"

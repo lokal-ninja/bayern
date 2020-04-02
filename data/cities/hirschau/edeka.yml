@@ -5,7 +5,7 @@ latitude: 49.54393880000001
 longitude: 11.949301
 postcode: 92242
 city: Hirschau
-street: Georg-Schiffer-Straße
+street: "Georg-Schiffer-Straße"
 housenumber: 29
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"

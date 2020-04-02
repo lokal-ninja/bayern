@@ -5,7 +5,7 @@ latitude: 49.532026800000004
 longitude: 11.3450334
 postcode: 91233
 city: Neunkirchen a. Sand
-street: Kersbacher Straße
+street: "Kersbacher Straße"
 housenumber: 42
 phone: "+49 9153 923556"
 opening_hours: ""

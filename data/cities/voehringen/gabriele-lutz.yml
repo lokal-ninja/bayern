@@ -5,7 +5,7 @@ latitude: 48.2771556
 longitude: 10.0776521
 postcode: 89269
 city: Vöhringen
-street: Vöhlinstraße
+street: "Vöhlinstraße"
 housenumber: 5
 phone: "+49 7306 2993"
 opening_hours: ""

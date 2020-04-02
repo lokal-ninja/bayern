@@ -5,7 +5,7 @@ latitude: 49.0297391
 longitude: 12.091974500000001
 postcode: 93059
 city: Regensburg
-street: Alte Nürnberger Straße
+street: "Alte Nürnberger Straße"
 housenumber: 34
 phone: "+49 941 897700"
 opening_hours: ""

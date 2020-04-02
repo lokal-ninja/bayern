@@ -5,7 +5,7 @@ latitude: 49.595886
 longitude: 11.0051343
 postcode: 91054
 city: Erlangen
-street: Neustädter Kirchenplatz
+street: "Neustädter Kirchenplatz"
 housenumber: 2
 phone: "+49 9131611811"
 opening_hours: "Mo-Sa 09:00-19:00"

@@ -5,7 +5,7 @@ latitude: 48.387996900000005
 longitude: 11.2560266
 postcode: 85250
 city: Altomünster
-street: Herzog-Georg-Straße
+street: "Herzog-Georg-Straße"
 housenumber: 4
 phone: "+49 8254 8608"
 opening_hours: "Mo-Fr 06:15-13:00,14:00-18:00; We off, Sa 06:15-12:00"

@@ -5,7 +5,7 @@ latitude: 48.176869800000006
 longitude: 11.2527813
 postcode: 82256
 city: Fürstenfeldbruck
-street: Schöngeisinger Straße
+street: "Schöngeisinger Straße"
 housenumber: 29
 phone: "+49 (8141) 52 42 20"
 opening_hours: "Mo,Tu,Th,Fr 09:00-18:00;We,Fr 09:00-13:00"

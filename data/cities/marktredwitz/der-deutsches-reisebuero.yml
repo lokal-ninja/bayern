@@ -5,7 +5,7 @@ latitude: 50.0002019
 longitude: 12.0854706
 postcode: 95615
 city: Marktredwitz
-street: Ottostraße
+street: "Ottostraße"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"

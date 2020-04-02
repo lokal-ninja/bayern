@@ -5,7 +5,7 @@ latitude: 47.784716700000004
 longitude: 11.3277265
 postcode: 82393
 city: Iffeldorf
-street: Seeshaupter Straße
+street: "Seeshaupter Straße"
 housenumber: 7
 phone: "+49 8856 2068"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.2126024
 longitude: 11.5608774
 postcode: 80933
 city: München
-street: Dülferstraße
+street: "Dülferstraße"
 housenumber: 3
 phone: "+49 89 325642"
 opening_hours: "Mo-Th 07:30-17:00; Fr 07:30-15:00"

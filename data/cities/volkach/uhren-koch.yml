@@ -5,7 +5,7 @@ latitude: 49.8669571
 longitude: 10.2261679
 postcode: 97332
 city: Volkach
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 44
 phone: ""
 opening_hours: ""

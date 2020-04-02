@@ -5,7 +5,7 @@ latitude: 49.8606883
 longitude: 9.9669737
 postcode: 97222
 city: Rimpar
-street: Burggrumbacher Straße
+street: "Burggrumbacher Straße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

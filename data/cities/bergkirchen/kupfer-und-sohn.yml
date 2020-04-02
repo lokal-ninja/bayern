@@ -5,7 +5,7 @@ latitude: 48.235493600000005
 longitude: 11.3494626
 postcode: 85232
 city: Bergkirchen
-street: Apothekerstraße
+street: "Apothekerstraße"
 housenumber: 3
 phone: ""
 opening_hours: ""

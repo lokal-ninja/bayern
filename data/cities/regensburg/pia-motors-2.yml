@@ -5,7 +5,7 @@ latitude: 49.037927
 longitude: 12.1038175
 postcode: 93059
 city: Regensburg
-street: Böhmerwaldstraße
+street: "Böhmerwaldstraße"
 housenumber: 8
 phone: "+49 941 464650"
 opening_hours: ""

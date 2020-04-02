@@ -5,7 +5,7 @@ latitude: 48.183155500000005
 longitude: 11.242402
 postcode: 82256
 city: Fürstenfeldbruck
-street: Kurt-Schumacher-Straße
+street: "Kurt-Schumacher-Straße"
 housenumber: 108
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-16:00"

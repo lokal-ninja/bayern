@@ -5,7 +5,7 @@ latitude: 49.9821116
 longitude: 9.117490100000001
 postcode: 63741
 city: Aschaffenburg
-street: Linkstraße
+street: "Linkstraße"
 housenumber: 61
 phone: ""
 opening_hours: ""

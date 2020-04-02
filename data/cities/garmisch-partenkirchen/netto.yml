@@ -5,7 +5,7 @@ latitude: 47.490658
 longitude: 11.112609800000001
 postcode: 82467
 city: Garmisch-Partenkirchen
-street: Mittenwalder Straße
+street: "Mittenwalder Straße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Sa 07:00 - 20:00"

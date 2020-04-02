@@ -5,7 +5,7 @@ latitude: 49.4232622
 longitude: 11.0481035
 postcode: 90441
 city: Nürnberg
-street: Daimlerstraße
+street: "Daimlerstraße"
 housenumber: 67
 phone: "+49 911 662219"
 opening_hours: ""

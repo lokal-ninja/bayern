@@ -5,7 +5,7 @@ latitude: 49.6930047
 longitude: 11.629203500000001
 postcode: 91275
 city: Auerbach i.d.OPf.
-street: Unterer Markt
+street: "Unterer Markt"
 housenumber: 4
 phone: "+49 9643 2155"
 opening_hours: ""

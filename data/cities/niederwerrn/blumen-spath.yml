@@ -5,7 +5,7 @@ latitude: 50.0694382
 longitude: 10.150640300000001
 postcode: 97464
 city: Niederwerrn
-street: Rhönstraße
+street: "Rhönstraße"
 housenumber: 68
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.1529711
 longitude: 11.574359900000001
 postcode: 80799
 city: München
-street: Barer Straße
+street: "Barer Straße"
 housenumber: 65
 phone: ""
 opening_hours: ""

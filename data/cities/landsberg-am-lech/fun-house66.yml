@@ -5,7 +5,7 @@ latitude: 48.062749200000006
 longitude: 10.8537014
 postcode: 86899
 city: Landsberg am Lech
-street: Robert-Bosch-Straße
+street: "Robert-Bosch-Straße"
 housenumber: 13
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00"

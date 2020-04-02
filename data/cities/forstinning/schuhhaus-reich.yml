@@ -5,7 +5,7 @@ latitude: 48.165172000000005
 longitude: 11.909547
 postcode: 85661
 city: Forstinning
-street: Münchener Straße
+street: "Münchener Straße"
 housenumber: 25
 phone: ""
 opening_hours: ""

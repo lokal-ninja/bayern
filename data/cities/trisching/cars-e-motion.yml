@@ -5,7 +5,7 @@ latitude: 49.438816900000006
 longitude: 12.054810100000001
 postcode: 92546
 city: Trisching
-street: Gewerbegebiet Trisching
+street: "Gewerbegebiet Trisching"
 housenumber: 8
 phone: "+49 9438 5359988"
 opening_hours: ""

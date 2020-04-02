@@ -5,7 +5,7 @@ latitude: 49.3347196
 longitude: 10.7836912
 postcode: 91560
 city: Heilsbronn
-street: Ansbacher Straße
+street: "Ansbacher Straße"
 housenumber: 34
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off"

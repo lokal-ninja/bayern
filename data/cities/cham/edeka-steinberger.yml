@@ -5,7 +5,7 @@ latitude: 49.2273141
 longitude: 12.6739519
 postcode: 93413
 city: Cham
-street: Darsteinstraße
+street: "Darsteinstraße"
 housenumber: 10
 phone: "+49 9971 3927961"
 opening_hours: ""

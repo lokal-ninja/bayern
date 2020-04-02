@@ -5,7 +5,7 @@ latitude: 49.7956962
 longitude: 9.7158596
 postcode: 97292
 city: Uettingen
-street: Mittlere Stämmig
+street: "Mittlere Stämmig"
 housenumber: 6
 phone: "+49 9369 8035"
 opening_hours: "Mo-Th 06:30-17:00; Fr 06:30-16:00"

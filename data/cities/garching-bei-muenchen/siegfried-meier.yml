@@ -5,7 +5,7 @@ latitude: 48.2519026
 longitude: 11.605040500000001
 postcode: 85748
 city: Garching bei München
-street: Carl-Zeiss-Straße
+street: "Carl-Zeiss-Straße"
 housenumber: 14
 phone: ""
 opening_hours: ""

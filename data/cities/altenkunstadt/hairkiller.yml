@@ -5,7 +5,7 @@ latitude: 50.129189200000006
 longitude: 11.2462835
 postcode: 96264
 city: Altenkunstadt
-street: Dr.-Friedrich-Baur-Straße
+street: "Dr.-Friedrich-Baur-Straße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"

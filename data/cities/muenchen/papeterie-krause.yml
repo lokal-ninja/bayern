@@ -5,7 +5,7 @@ latitude: 48.1970353
 longitude: 11.5457465
 postcode: 80935
 city: München
-street: Lerchenauer Straße
+street: "Lerchenauer Straße"
 housenumber: 200
 phone: ""
 opening_hours: "Mo-Fr 07:30-18:00; Sa 07:30-13:00"

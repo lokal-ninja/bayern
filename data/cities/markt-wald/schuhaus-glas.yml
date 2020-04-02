@@ -5,7 +5,7 @@ latitude: 48.139291500000006
 longitude: 10.5838584
 postcode: 86865
 city: Markt Wald
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 34
 phone: ""
 opening_hours: ""

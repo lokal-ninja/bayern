@@ -5,7 +5,7 @@ latitude: 48.1103734
 longitude: 12.209335000000001
 postcode: 83564
 city: Soyen
-street: Dorfstraße
+street: "Dorfstraße"
 housenumber: 7
 phone: "+49 8071 6946"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.9214938
 longitude: 10.137239800000001
 postcode: 97523
 city: Schwanfeld
-street: Webergasse
+street: "Webergasse"
 housenumber: 9
 phone: ""
 opening_hours: ""

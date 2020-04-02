@@ -5,7 +5,7 @@ latitude: 48.2512867
 longitude: 11.561448
 postcode: 85764
 city: Oberschleißheim
-street: Freisinger Straße
+street: "Freisinger Straße"
 housenumber: 11
 phone: "+49 89 3150103"
 opening_hours: ""

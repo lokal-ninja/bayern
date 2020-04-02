@@ -5,7 +5,7 @@ latitude: 49.95184020000001
 longitude: 12.2493119
 postcode: 95666
 city: Mitterteich
-street: Angergasse
+street: "Angergasse"
 housenumber: 30
 phone: "+49 9633 3411"
 opening_hours: ""

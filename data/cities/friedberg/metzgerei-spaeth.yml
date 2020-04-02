@@ -5,7 +5,7 @@ latitude: 48.363770800000005
 longitude: 11.0446769
 postcode: 86316
 city: Friedberg
-street: Ringstraße
+street: "Ringstraße"
 housenumber: 15a
 phone: ""
 opening_hours: ""

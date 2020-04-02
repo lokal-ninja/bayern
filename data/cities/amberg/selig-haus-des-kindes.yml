@@ -5,7 +5,7 @@ latitude: 49.4460813
 longitude: 11.858292400000002
 postcode: 92224
 city: Amberg
-street: Herrnstraße
+street: "Herrnstraße"
 housenumber: 5
 phone: "+49 9621 12964"
 opening_hours: "Mo-Fr 09:00-13:00,14:15-18:00; Sa 09:00-15:00"

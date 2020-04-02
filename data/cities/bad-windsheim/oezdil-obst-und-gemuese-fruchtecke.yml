@@ -5,7 +5,7 @@ latitude: 49.504655500000005
 longitude: 10.415762500000001
 postcode: 91438
 city: Bad Windsheim
-street: Johanniterstraße
+street: "Johanniterstraße"
 housenumber: 15
 phone: ""
 opening_hours: ""

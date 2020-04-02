@@ -5,7 +5,7 @@ latitude: 48.7398067
 longitude: 11.437103500000001
 postcode: 
 city: Ingolstadt
-street: Elisabethstraße
+street: "Elisabethstraße"
 housenumber: 15
 phone: ""
 opening_hours: ""

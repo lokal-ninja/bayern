@@ -5,7 +5,7 @@ latitude: 49.446863
 longitude: 11.106259900000001
 postcode: 90478
 city: Nürnberg
-street: Ernststraße
+street: "Ernststraße"
 housenumber: 16
 phone: ""
 opening_hours: ""

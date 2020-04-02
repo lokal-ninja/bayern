@@ -5,7 +5,7 @@ latitude: 48.561116500000004
 longitude: 10.6822897
 postcode: 86637
 city: Wertingen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 12
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.0139371
 longitude: 11.3474787
 postcode: 82319
 city: Starnberg
-street: Gautinger Straße
+street: "Gautinger Straße"
 housenumber: 41
 phone: "+49 8151 6668680"
 opening_hours: "Mo-Fr 08:00-20:00, Sa 08:00 - 19:00"

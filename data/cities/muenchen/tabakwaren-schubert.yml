@@ -5,7 +5,7 @@ latitude: 48.1336626
 longitude: 11.5650133
 postcode: 80336
 city: München
-street: Sendlinger-Tor-Platz
+street: "Sendlinger-Tor-Platz"
 housenumber: 7
 phone: "+49 89 53886788"
 opening_hours: ""

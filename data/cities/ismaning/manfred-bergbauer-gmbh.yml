@@ -5,7 +5,7 @@ latitude: 48.219876400000004
 longitude: 11.675562000000001
 postcode: 85737
 city: Ismaning
-street: Hohenadlstraße
+street: "Hohenadlstraße"
 housenumber: 26
 phone: ""
 opening_hours: ""

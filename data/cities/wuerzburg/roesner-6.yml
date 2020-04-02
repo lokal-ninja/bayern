@@ -5,7 +5,7 @@ latitude: 49.783343
 longitude: 9.9302942
 postcode: 97072
 city: Würzburg
-street: Eichendorffstraße
+street: "Eichendorffstraße"
 housenumber: 12a
 phone: ""
 opening_hours: ""

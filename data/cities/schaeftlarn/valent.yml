@@ -5,7 +5,7 @@ latitude: 47.9920002
 longitude: 11.452662
 postcode: 82069
 city: Schäftlarn
-street: Schorner Straße
+street: "Schorner Straße"
 housenumber: 3
 phone: "+49 8178 3685"
 opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-13:00"

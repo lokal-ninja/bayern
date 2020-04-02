@@ -5,7 +5,7 @@ latitude: 48.557572300000004
 longitude: 10.9888832
 postcode: 86554
 city: Pöttmes
-street: Obere Straße
+street: "Obere Straße"
 housenumber: 13
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.9555048
 longitude: 10.912383100000001
 postcode: 91757
 city: Treuchtlingen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 39
 phone: ""
 opening_hours: ""

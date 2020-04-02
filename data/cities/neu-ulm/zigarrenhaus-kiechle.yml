@@ -5,7 +5,7 @@ latitude: 48.395684900000006
 longitude: 10.000538500000001
 postcode: 89231
 city: Neu-Ulm
-street: Augsburger Straße
+street: "Augsburger Straße"
 housenumber: 16
 phone: "+49 731 721236"
 opening_hours: ""

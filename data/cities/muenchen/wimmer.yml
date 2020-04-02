@@ -5,7 +5,7 @@ latitude: 48.161663600000004
 longitude: 11.5676924
 postcode: 80796
 city: München
-street: Hohenzollernplatz
+street: "Hohenzollernplatz"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 06:30-20:00; Sa 06:30-18:00; Su,PH 08:00-18:00; Jan 1, easter-easter+1 days, Dec 25-26: off"

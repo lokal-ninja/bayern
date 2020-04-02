@@ -5,7 +5,7 @@ latitude: 49.626882200000004
 longitude: 10.9254681
 postcode: 91093
 city: Heßdorf
-street: Im Gewerbepark
+street: "Im Gewerbepark"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Sa 09:00-20:00"

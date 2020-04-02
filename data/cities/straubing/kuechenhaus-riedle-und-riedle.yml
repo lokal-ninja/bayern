@@ -5,7 +5,7 @@ latitude: 48.8847547
 longitude: 12.574429700000001
 postcode: 94315
 city: Straubing
-street: Stadtgraben
+street: "Stadtgraben"
 housenumber: 122
 phone: "+49 9421 2675"
 opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa 10:00-14:00"

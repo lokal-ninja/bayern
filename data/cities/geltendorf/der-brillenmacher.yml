@@ -5,7 +5,7 @@ latitude: 48.1112515
 longitude: 11.036312200000001
 postcode: 82269
 city: Geltendorf
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 117
 phone: ""
 opening_hours: "Mo, Tu, Th, Fr 09:00-13:00, 14:00-18:00; We, Sa 09:00-12:00"

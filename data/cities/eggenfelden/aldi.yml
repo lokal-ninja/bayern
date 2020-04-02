@@ -5,7 +5,7 @@ latitude: 48.3983581
 longitude: 12.747712900000002
 postcode: 84307
 city: Eggenfelden
-street: Lauterbachstraße
+street: "Lauterbachstraße"
 housenumber: 49
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

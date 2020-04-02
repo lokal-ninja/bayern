@@ -5,7 +5,7 @@ latitude: 47.8588904
 longitude: 11.990559800000002
 postcode: 83043
 city: Bad Aibling
-street: Altwasserstraße
+street: "Altwasserstraße"
 housenumber: 8c
 phone: "+49 8061 55 81"
 opening_hours: "Tu-Fr 09:00-12:00,14:00-18:00; Fr 09:00-12:00; PH off"

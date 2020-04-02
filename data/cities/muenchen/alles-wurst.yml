@@ -5,7 +5,7 @@ latitude: 48.1585514
 longitude: 11.5868871
 postcode: 80802
 city: München
-street: Nikolaiplatz
+street: "Nikolaiplatz"
 housenumber: 3
 phone: "+49 89 34077443"
 opening_hours: "Mo-Fr 11:00-20:00"

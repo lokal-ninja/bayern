@@ -5,7 +5,7 @@ latitude: 48.3944154
 longitude: 10.0014994
 postcode: 89231
 city: Neu-Ulm
-street: Ludwigstraße
+street: "Ludwigstraße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Fr 12:00-18:00; Sa 10:00-16:00; Su,PH off"

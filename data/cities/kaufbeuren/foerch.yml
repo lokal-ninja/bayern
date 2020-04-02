@@ -5,7 +5,7 @@ latitude: 47.895181900000004
 longitude: 10.6400132
 postcode: 87600
 city: Kaufbeuren
-street: Moosmangstraße
+street: "Moosmangstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

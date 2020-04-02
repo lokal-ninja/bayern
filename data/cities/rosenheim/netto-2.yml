@@ -5,7 +5,7 @@ latitude: 47.8422002
 longitude: 12.124448800000001
 postcode: 83026
 city: Rosenheim
-street: Isarstraße
+street: "Isarstraße"
 housenumber: 1c
 phone: ""
 opening_hours: "Mo - Sa 07:00 - 20:00"

@@ -5,7 +5,7 @@ latitude: 49.9324615
 longitude: 11.5554699
 postcode: 95447
 city: Bayreuth
-street: Spitzwegstraße
+street: "Spitzwegstraße"
 housenumber: 59
 phone: ""
 opening_hours: ""

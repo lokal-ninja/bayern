@@ -5,7 +5,7 @@ latitude: 49.0779207
 longitude: 13.072989100000001
 postcode: 94249
 city: Bodenmais
-street: Moosweg
+street: "Moosweg"
 housenumber: 7
 phone: "+499924902280"
 opening_hours: "Mo-Fr 08:00-12:00, 13:00-18:00; Sa 08:30-12:30"

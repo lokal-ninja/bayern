@@ -5,7 +5,7 @@ latitude: 49.741205
 longitude: 10.150301
 postcode: 97318
 city: Kitzingen
-street: Siegfried-Wilke-Straße
+street: "Siegfried-Wilke-Straße"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

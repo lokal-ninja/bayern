@@ -5,7 +5,7 @@ latitude: 48.341626100000006
 longitude: 10.0339615
 postcode: 89233
 city: Neu-Ulm
-street: Freudenegger Straße
+street: "Freudenegger Straße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Sa 09:00+"

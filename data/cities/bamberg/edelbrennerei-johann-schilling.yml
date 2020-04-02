@@ -5,7 +5,7 @@ latitude: 49.878857
 longitude: 10.8926336
 postcode: 96049
 city: Bamberg
-street: Schellenbergerstraße
+street: "Schellenbergerstraße"
 housenumber: 54 a
 phone: "+49 951 51935488"
 opening_hours: ""

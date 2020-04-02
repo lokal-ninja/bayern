@@ -5,7 +5,7 @@ latitude: 48.7221568
 longitude: 12.444736500000001
 postcode: 84152
 city: Mengkofen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 7
 phone: "+49 8733 930038"
 opening_hours: ""

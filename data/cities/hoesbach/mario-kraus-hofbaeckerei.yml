@@ -5,7 +5,7 @@ latitude: 50.039982200000004
 longitude: 9.2151735
 postcode: 63768
 city: Hösbach
-street: Schimborner Straße
+street: "Schimborner Straße"
 housenumber: 16
 phone: ""
 opening_hours: "Tu-Fr 06:00-14:00; Sa 06:00-13:00; Su 08:00-12:00"

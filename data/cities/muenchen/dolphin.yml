@@ -5,7 +5,7 @@ latitude: 48.139646400000004
 longitude: 11.5868491
 postcode: 80538
 city: München
-street: Sankt-Anna-Straße
+street: "Sankt-Anna-Straße"
 housenumber: 13
 phone: "+49 89 2904235"
 opening_hours: ""

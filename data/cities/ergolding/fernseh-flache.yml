@@ -5,7 +5,7 @@ latitude: 48.573673400000004
 longitude: 12.163044500000002
 postcode: 84030
 city: Ergolding
-street: Lindenstraße
+street: "Lindenstraße"
 housenumber: 74
 phone: ""
 opening_hours: ""

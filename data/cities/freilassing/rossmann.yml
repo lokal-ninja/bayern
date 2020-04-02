@@ -5,7 +5,7 @@ latitude: 47.839294900000006
 longitude: 12.9797709
 postcode: 83395
 city: Freilassing
-street: Lindenstraße
+street: "Lindenstraße"
 housenumber: 22
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off"

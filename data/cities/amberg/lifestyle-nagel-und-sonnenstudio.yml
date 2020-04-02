@@ -5,7 +5,7 @@ latitude: 49.4447908
 longitude: 11.852965300000001
 postcode: 92224
 city: Amberg
-street: Seminargasse
+street: "Seminargasse"
 housenumber: 2
 phone: ""
 opening_hours: ""

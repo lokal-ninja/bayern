@@ -5,7 +5,7 @@ latitude: 50.2861016
 longitude: 11.917216600000001
 postcode: 95032
 city: Hof
-street: Schaumbergstraße
+street: "Schaumbergstraße"
 housenumber: 6a
 phone: ""
 opening_hours: ""

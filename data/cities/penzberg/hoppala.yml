@@ -5,7 +5,7 @@ latitude: 47.7492966
 longitude: 11.3743586
 postcode: 82377
 city: Penzberg
-street: Ludwig-März-Straße
+street: "Ludwig-März-Straße"
 housenumber: 4
 phone: "+49 8856 9362622"
 opening_hours: "Mo-Fr 09:30-13:00, Mo,We,Fr 14:30-18:00; Sa 10:00-14:00; PH off"

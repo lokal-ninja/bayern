@@ -5,7 +5,7 @@ latitude: 50.233329000000005
 longitude: 11.3250164
 postcode: 96317
 city: Kronach
-street: Hammermühlweg
+street: "Hammermühlweg"
 housenumber: 2a
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.383406400000005
 longitude: 10.8766453
 postcode: 86154
 city: Augsburg
-street: Zollernstraße
+street: "Zollernstraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

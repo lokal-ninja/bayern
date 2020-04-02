@@ -5,7 +5,7 @@ latitude: 48.395357100000005
 longitude: 10.0133229
 postcode: 89231
 city: Neu-Ulm
-street: Im Starkfeld
+street: "Im Starkfeld"
 housenumber: 1
 phone: "+49 731 / 207660"
 opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"

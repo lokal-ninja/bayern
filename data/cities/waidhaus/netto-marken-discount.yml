@@ -5,7 +5,7 @@ latitude: 49.6372396
 longitude: 12.4901073
 postcode: 92726
 city: Waidhaus
-street: Eslarner Straße
+street: "Eslarner Straße"
 housenumber: 15
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

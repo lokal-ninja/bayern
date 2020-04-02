@@ -5,7 +5,7 @@ latitude: 49.5007079
 longitude: 10.4222484
 postcode: 91438
 city: Bad Windsheim
-street: Nürnberger Straße
+street: "Nürnberger Straße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 08:00-12:00,13:00-17:00; Sa 08:00-12:00"

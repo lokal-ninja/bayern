@@ -5,7 +5,7 @@ latitude: 48.832555500000005
 longitude: 12.9617258
 postcode: 94469
 city: Deggendorf
-street: Luitpoldplatz
+street: "Luitpoldplatz"
 housenumber: 10
 phone: ""
 opening_hours: ""

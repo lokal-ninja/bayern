@@ -5,7 +5,7 @@ latitude: 48.091483000000004
 longitude: 11.561124900000001
 postcode: 81545
 city: München
-street: Grünwalder Straße
+street: "Grünwalder Straße"
 housenumber: 248
 phone: "+49 89 64254691"
 opening_hours: "Mo-Fr 07:00-18:00; Sa,Su 08:00-17:00"

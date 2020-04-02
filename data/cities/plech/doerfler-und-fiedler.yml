@@ -5,7 +5,7 @@ latitude: 49.6529078
 longitude: 11.4682612
 postcode: 91287
 city: Plech
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 33
 phone: ""
 opening_hours: ""

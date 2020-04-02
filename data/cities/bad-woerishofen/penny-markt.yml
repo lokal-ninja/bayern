@@ -5,7 +5,7 @@ latitude: 48.0203271
 longitude: 10.599800700000001
 postcode: 86825
 city: Bad Wörishofen
-street: Gottlieb-Daimler-Straße
+street: "Gottlieb-Daimler-Straße"
 housenumber: 23
 phone: ""
 opening_hours: "Mo-Sa 07:30-20:00"

@@ -5,7 +5,7 @@ latitude: 49.4734114
 longitude: 11.0369106
 postcode: 90427
 city: Nürnberg
-street: Frauentaler Weg
+street: "Frauentaler Weg"
 housenumber: 86
 phone: ""
 opening_hours: ""

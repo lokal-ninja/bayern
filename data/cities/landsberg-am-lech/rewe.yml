@@ -5,7 +5,7 @@ latitude: 48.0424054
 longitude: 10.8692995
 postcode: 86899
 city: Landsberg am Lech
-street: Saarburgstraße
+street: "Saarburgstraße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Sa 08:30-20:00"

@@ -5,7 +5,7 @@ latitude: 49.457008900000005
 longitude: 11.062996400000001
 postcode: 90419
 city: Nürnberg
-street: Großweidenmühlstraße
+street: "Großweidenmühlstraße"
 housenumber: 19
 phone: ""
 opening_hours: ""

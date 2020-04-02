@@ -5,7 +5,7 @@ latitude: 50.315439700000006
 longitude: 11.9230675
 postcode: 95028
 city: Hof
-street: Leimitzer Straße
+street: "Leimitzer Straße"
 housenumber: 15
 phone: ""
 opening_hours: ""

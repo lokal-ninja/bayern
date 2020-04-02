@@ -5,7 +5,7 @@ latitude: 47.5595288
 longitude: 11.1377617
 postcode: 82496
 city: Oberau
-street: Schmiedeweg
+street: "Schmiedeweg"
 housenumber: 2
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.2483675
 longitude: 10.872727000000001
 postcode: 
 city: Königsbrunn
-street: Richthofenstraße
+street: "Richthofenstraße"
 housenumber: 8
 phone: "+49 8231 5026"
 opening_hours: ""

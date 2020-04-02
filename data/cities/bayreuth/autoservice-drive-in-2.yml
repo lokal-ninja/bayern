@@ -5,7 +5,7 @@ latitude: 49.954077700000006
 longitude: 11.5480476
 postcode: 95445
 city: Bayreuth
-street: Himmelkronstraße
+street: "Himmelkronstraße"
 housenumber: 14
 phone: ""
 opening_hours: ""

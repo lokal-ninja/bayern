@@ -5,7 +5,7 @@ latitude: 47.4083236
 longitude: 10.276342600000001
 postcode: 
 city: Oberstdorf
-street: Weststraße
+street: "Weststraße"
 housenumber: 11
 phone: ""
 opening_hours: ""

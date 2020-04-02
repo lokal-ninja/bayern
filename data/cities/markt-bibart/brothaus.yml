@@ -5,7 +5,7 @@ latitude: 49.645448900000005
 longitude: 10.4392887
 postcode: 91477
 city: Markt Bibart
-street: Am Mühlberg
+street: "Am Mühlberg"
 housenumber: 22
 phone: ""
 opening_hours: "Mo-Fr 07:00-18:30; Sa 07:00-15:30"

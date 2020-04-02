@@ -5,7 +5,7 @@ latitude: 50.306031600000004
 longitude: 11.916058900000001
 postcode: 95032
 city: Hof
-street: Hans-Böckler-Straße
+street: "Hans-Böckler-Straße"
 housenumber: 26
 phone: ""
 opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-17:00"

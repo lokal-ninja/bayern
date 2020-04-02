@@ -5,7 +5,7 @@ latitude: 47.7325626
 longitude: 12.104575200000001
 postcode: 83098
 city: Brannenburg
-street: Dapferstraße
+street: "Dapferstraße"
 housenumber: 5
 phone: ""
 opening_hours: "We-Fr 07:30-18:00; Sa 07:30-12:30; PH off"

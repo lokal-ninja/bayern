@@ -5,7 +5,7 @@ latitude: 49.9980472
 longitude: 10.245184
 postcode: 97525
 city: Schwebheim
-street: Heideweg
+street: "Heideweg"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Th 10:00-17:00; Fr,Sa Nach Vereinbarung; Su,PH off"

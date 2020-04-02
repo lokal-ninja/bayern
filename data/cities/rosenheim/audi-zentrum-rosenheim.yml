@@ -5,7 +5,7 @@ latitude: 47.8552747
 longitude: 12.1384062
 postcode: 83022
 city: Rosenheim
-street: Innstraße
+street: "Innstraße"
 housenumber: 63
 phone: "+49 8031 389370"
 opening_hours: ""

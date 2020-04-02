@@ -5,7 +5,7 @@ latitude: 48.091856400000005
 longitude: 11.4024397
 postcode: 82131
 city: Gauting
-street: Waldstraße
+street: "Waldstraße"
 housenumber: 3
 phone: ""
 opening_hours: ""

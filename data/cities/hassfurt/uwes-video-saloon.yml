@@ -5,7 +5,7 @@ latitude: 50.032260400000006
 longitude: 10.511358000000001
 postcode: 97437
 city: Haßfurt
-street: Centstraße
+street: "Centstraße"
 housenumber: 2
 phone: "+49 9521 3500"
 opening_hours: "Mo-Fr 11:00-19:00 open Rückgabe; Sa 11:00-15:00 open Rückgabe"

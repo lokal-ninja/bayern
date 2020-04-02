@@ -5,7 +5,7 @@ latitude: 47.6668274
 longitude: 11.574008500000001
 postcode: 83661
 city: Lenggries
-street: Jachenauer Straße
+street: "Jachenauer Straße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Fr 07:30-18:30;Sa 07:30-14:00"

@@ -5,7 +5,7 @@ latitude: 49.4416956
 longitude: 10.9569971
 postcode: 90513
 city: Zirndorf
-street: Kirchenweg
+street: "Kirchenweg"
 housenumber: 2a
 phone: "+49 911 6105400"
 opening_hours: ""

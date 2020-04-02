@@ -5,7 +5,7 @@ latitude: 48.266584
 longitude: 10.886828000000001
 postcode: 86343
 city: Königsbrunn
-street: Bürgermeister-Wohlfarth-Straße
+street: "Bürgermeister-Wohlfarth-Straße"
 housenumber: 87
 phone: ""
 opening_hours: "Mo-Fr 08:00-17:00"

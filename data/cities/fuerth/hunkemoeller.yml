@@ -5,7 +5,7 @@ latitude: 49.4736947
 longitude: 10.989463500000001
 postcode: 90762
 city: Fürth
-street: Rudolf-Breitscheid-Straße
+street: "Rudolf-Breitscheid-Straße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Sa 09:00-19:00"

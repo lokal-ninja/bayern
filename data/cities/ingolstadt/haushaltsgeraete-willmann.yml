@@ -5,7 +5,7 @@ latitude: 48.771688100000006
 longitude: 11.479576000000002
 postcode: 85055
 city: Ingolstadt
-street: Regensburger Straße
+street: "Regensburger Straße"
 housenumber: 244
 phone: "+49 (0)841/9518434"
 opening_hours: ""

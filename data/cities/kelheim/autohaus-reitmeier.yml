@@ -5,7 +5,7 @@ latitude: 48.9181674
 longitude: 11.888995300000001
 postcode: 
 city: Kelheim
-street: Kelheimwinzerstraße
+street: "Kelheimwinzerstraße"
 housenumber: 113
 phone: ""
 opening_hours: ""

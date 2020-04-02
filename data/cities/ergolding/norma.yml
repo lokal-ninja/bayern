@@ -5,7 +5,7 @@ latitude: 48.5642876
 longitude: 12.1657569
 postcode: 84030
 city: Ergolding
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 9
 phone: ""
 opening_hours: ""

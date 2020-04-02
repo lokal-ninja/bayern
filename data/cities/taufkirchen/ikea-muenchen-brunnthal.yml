@@ -5,7 +5,7 @@ latitude: 48.0400289
 longitude: 11.6564846
 postcode: 82024
 city: Taufkirchen
-street: Brunnthaler Straße
+street: "Brunnthaler Straße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 09:30-20:00"

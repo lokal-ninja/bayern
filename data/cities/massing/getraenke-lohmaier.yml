@@ -5,7 +5,7 @@ latitude: 48.3947323
 longitude: 12.616371200000001
 postcode: 84323
 city: Massing
-street: Siemensstraße
+street: "Siemensstraße"
 housenumber: 23a
 phone: ""
 opening_hours: ""

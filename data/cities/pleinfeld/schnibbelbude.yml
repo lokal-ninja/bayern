@@ -5,7 +5,7 @@ latitude: 49.104947200000005
 longitude: 10.9851431
 postcode: 91785
 city: Pleinfeld
-street: Obere Torstraße
+street: "Obere Torstraße"
 housenumber: 4
 phone: "+499144 9270777"
 opening_hours: ""

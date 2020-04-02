@@ -5,7 +5,7 @@ latitude: 49.479514200000004
 longitude: 10.967208600000001
 postcode: 90766
 city: Fürth
-street: Wehlauer Straße
+street: "Wehlauer Straße"
 housenumber: 76
 phone: ""
 opening_hours: ""

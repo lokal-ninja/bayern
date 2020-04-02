@@ -5,7 +5,7 @@ latitude: 48.184018200000004
 longitude: 11.597431
 postcode: 80807
 city: München
-street: Fritz-Winter-Straße
+street: "Fritz-Winter-Straße"
 housenumber: 3
 phone: "+49 (0) 89 448 72 00"
 opening_hours: "Sa,Tu,We 09:00-14:00; Th-Fr 14:00-19:00"

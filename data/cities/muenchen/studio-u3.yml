@@ -5,7 +5,7 @@ latitude: 48.172147900000006
 longitude: 11.6378453
 postcode: 81927
 city: München
-street: Küfnerstraße
+street: "Küfnerstraße"
 housenumber: 3
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.0063162
 longitude: 12.1262559
 postcode: 93053
 city: Regensburg
-street: Zeißstraße
+street: "Zeißstraße"
 housenumber: 9
 phone: "+49 941 80370"
 opening_hours: ""

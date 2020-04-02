@@ -5,7 +5,7 @@ latitude: 48.367861100000006
 longitude: 10.8932926
 postcode: 86150
 city: Augsburg
-street: Fuggerstraße
+street: "Fuggerstraße"
 housenumber: 11
 phone: "+49 821 50288 16;+49 821 50288 17;+49 821 50288 18"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 9:30-13:00"

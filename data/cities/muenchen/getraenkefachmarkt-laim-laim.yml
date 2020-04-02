@@ -5,7 +5,7 @@ latitude: 48.1433898
 longitude: 11.4969829
 postcode: 80687
 city: München
-street: Von-der-Pfordten-Straße
+street: "Von-der-Pfordten-Straße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Fr 08:30-19:00; Sa 08:30-16:00"

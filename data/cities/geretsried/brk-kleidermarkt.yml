@@ -5,7 +5,7 @@ latitude: 47.8561788
 longitude: 11.4794923
 postcode: 82538
 city: Geretsried
-street: Johann-Sebastian-Bach-Straße
+street: "Johann-Sebastian-Bach-Straße"
 housenumber: 13
 phone: ""
 opening_hours: "Mo-Fr 09:00-13:00, Tu,Th,Fr 15:00-18:30"

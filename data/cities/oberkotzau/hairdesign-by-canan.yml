@@ -5,7 +5,7 @@ latitude: 50.2624865
 longitude: 11.931992800000002
 postcode: 95145
 city: Oberkotzau
-street: Schwarzenbacher Straße
+street: "Schwarzenbacher Straße"
 housenumber: 2
 phone: "+49 9286 6206"
 opening_hours: ""

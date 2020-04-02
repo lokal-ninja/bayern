@@ -5,7 +5,7 @@ latitude: 49.4892964
 longitude: 11.7687495
 postcode: 92237
 city: Sulzbach-Rosenberg
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 38
 phone: ""
 opening_hours: ""

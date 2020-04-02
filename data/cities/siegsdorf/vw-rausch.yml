@@ -5,7 +5,7 @@ latitude: 47.827317900000004
 longitude: 12.635792700000001
 postcode: 83313
 city: Siegsdorf
-street: Breslauer Straße
+street: "Breslauer Straße"
 housenumber: 1
 phone: "+49 8662 9111"
 opening_hours: "Mo-Fr 07:00-17:30, Su 09:00-12:00"

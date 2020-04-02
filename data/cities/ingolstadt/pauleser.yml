@@ -5,7 +5,7 @@ latitude: 48.766155600000005
 longitude: 11.4392212
 postcode: 85055
 city: Ingolstadt
-street: Schillerstraße
+street: "Schillerstraße"
 housenumber: 63
 phone: "+49 841 51919"
 opening_hours: ""

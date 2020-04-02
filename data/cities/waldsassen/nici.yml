@@ -5,7 +5,7 @@ latitude: 50.0042692
 longitude: 12.297321400000001
 postcode: 95652
 city: Waldsassen
-street: Konnersreuther Straße
+street: "Konnersreuther Straße"
 housenumber: 6c
 phone: ""
 opening_hours: ""

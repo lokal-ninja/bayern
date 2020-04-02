@@ -5,7 +5,7 @@ latitude: 48.1394783
 longitude: 11.545796800000002
 postcode: 80339
 city: München
-street: Landsberger Straße
+street: "Landsberger Straße"
 housenumber: 14
 phone: "+49 89 50072410"
 opening_hours: "Tu-Fr 11:00-19:00; Sa 11:00-16:00"

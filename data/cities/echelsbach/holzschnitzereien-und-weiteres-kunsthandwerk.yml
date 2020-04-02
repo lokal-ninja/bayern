@@ -5,7 +5,7 @@ latitude: 47.707418100000005
 longitude: 10.979957500000001
 postcode: 82435
 city: Echelsbach
-street: Echelsbach
+street: "Echelsbach"
 housenumber: 7 1/2
 phone: ""
 opening_hours: "Mo-Fr 09:00-16:00, We off"

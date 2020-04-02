@@ -5,7 +5,7 @@ latitude: 49.5419135
 longitude: 10.2308202
 postcode: 97215
 city: Uffenheim
-street: Sparkassenstraße
+street: "Sparkassenstraße"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"

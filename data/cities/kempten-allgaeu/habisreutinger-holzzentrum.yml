@@ -5,7 +5,7 @@ latitude: 47.764236100000005
 longitude: 10.328789200000001
 postcode: 87437
 city: Kempten (Allgäu)
-street: Heisinger Straße
+street: "Heisinger Straße"
 housenumber: 43
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.483266500000006
 longitude: 10.721270500000001
 postcode: 91452
 city: Wilhermsdorf
-street: Gartenstraße
+street: "Gartenstraße"
 housenumber: 1a
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

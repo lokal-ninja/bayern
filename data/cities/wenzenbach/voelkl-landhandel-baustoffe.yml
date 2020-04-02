@@ -5,7 +5,7 @@ latitude: 49.070495
 longitude: 12.1845884
 postcode: 93173
 city: Wenzenbach
-street: Raiffeisenstraße
+street: "Raiffeisenstraße"
 housenumber: 6
 phone: "+49 9407 3356"
 opening_hours: ""

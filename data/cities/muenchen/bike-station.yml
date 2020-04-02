@@ -5,7 +5,7 @@ latitude: 48.1654951
 longitude: 11.564455500000001
 postcode: 80797
 city: München
-street: Schleißheimer Straße
+street: "Schleißheimer Straße"
 housenumber: 151
 phone: "+49 89 30764469"
 opening_hours: "Tu-Fr 09:00-13:00, 14:00-18:30; Sa 09:00-13:00"

@@ -5,7 +5,7 @@ latitude: 49.627545600000005
 longitude: 10.8384902
 postcode: 91085
 city: Weisendorf
-street: Gewerbegebiet Ost
+street: "Gewerbegebiet Ost"
 housenumber: 15c
 phone: "+49 9135 721242"
 opening_hours: ""

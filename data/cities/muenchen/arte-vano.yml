@@ -5,7 +5,7 @@ latitude: 48.0993293
 longitude: 11.5290554
 postcode: 81379
 city: München
-street: Hofmannstraße
+street: "Hofmannstraße"
 housenumber: 21
 phone: ""
 opening_hours: ""

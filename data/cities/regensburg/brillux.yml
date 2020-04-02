@@ -5,7 +5,7 @@ latitude: 48.9964249
 longitude: 12.1190107
 postcode: 93053
 city: Regensburg
-street: Bajuwarenstraße
+street: "Bajuwarenstraße"
 housenumber: 9
 phone: "+49 941 297480"
 opening_hours: "Apr-Oct Mo-Th 06:30-17:00; Apr-Oct Fr 06:30-14:30; Apr-Oct Sa 08:00-12:00; Nov-Mar Mo-Th 07:00-17:00; Nov-Mar Fr 07:00-14:30"

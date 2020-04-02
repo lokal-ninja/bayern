@@ -5,7 +5,7 @@ latitude: 49.7986634
 longitude: 9.9522662
 postcode: 97076
 city: Würzburg
-street: Nürnberger Straße
+street: "Nürnberger Straße"
 housenumber: 12
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"

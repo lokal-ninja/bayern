@@ -5,7 +5,7 @@ latitude: 48.1270898
 longitude: 11.364698500000001
 postcode: 82110
 city: Germering
-street: Kleinfeldstraße
+street: "Kleinfeldstraße"
 housenumber: 1c
 phone: ""
 opening_hours: ""

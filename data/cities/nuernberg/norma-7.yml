@@ -5,7 +5,7 @@ latitude: 49.418543400000004
 longitude: 11.185303900000001
 postcode: 90475
 city: Nürnberg
-street: Fischbacher Hauptstraße
+street: "Fischbacher Hauptstraße"
 housenumber: 110
 phone: ""
 opening_hours: ""

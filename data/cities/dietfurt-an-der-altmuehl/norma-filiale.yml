@@ -5,7 +5,7 @@ latitude: 49.0323617
 longitude: 11.5943746
 postcode: 92345
 city: Dietfurt an der Altmühl
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 76
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

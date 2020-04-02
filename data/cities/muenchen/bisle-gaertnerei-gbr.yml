@@ -5,7 +5,7 @@ latitude: 48.094512400000006
 longitude: 11.571534300000001
 postcode: 81545
 city: München
-street: Widdersteinstraße
+street: "Widdersteinstraße"
 housenumber: 19
 phone: "+49 89 645943"
 opening_hours: "Mo-Fr 08:00-12:30,14:30-18:00; Sa 08:00-12:30"

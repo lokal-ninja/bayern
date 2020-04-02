@@ -5,7 +5,7 @@ latitude: 49.3374001
 longitude: 12.4042756
 postcode: 92431
 city: Neunburg vorm Wald
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 11
 phone: "+49 9672 46105"
 opening_hours: ""

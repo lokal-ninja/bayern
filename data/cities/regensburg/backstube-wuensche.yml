@@ -5,7 +5,7 @@ latitude: 49.005291
 longitude: 12.115378100000001
 postcode: 93053
 city: Regensburg
-street: Hornstraße
+street: "Hornstraße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

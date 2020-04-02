@@ -5,7 +5,7 @@ latitude: 49.952336100000004
 longitude: 11.570972000000001
 postcode: 95445
 city: Bayreuth
-street: Spinnereistraße
+street: "Spinnereistraße"
 housenumber: 5-7
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

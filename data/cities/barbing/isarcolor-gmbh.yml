@@ -5,7 +5,7 @@ latitude: 48.9936469
 longitude: 12.2314874
 postcode: 93092
 city: Barbing
-street: Henleinstraße
+street: "Henleinstraße"
 housenumber: 2
 phone: "+49 9401 5211 0"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.3814785
 longitude: 10.028394800000001
 postcode: 89231
 city: Neu-Ulm
-street: Reuttier Straße
+street: "Reuttier Straße"
 housenumber: 158
 phone: "+49 731/75954"
 opening_hours: "Mo-Fr 10:00-12:30, 13:30-18:00; Sa 10:00-14:00"

@@ -5,7 +5,7 @@ latitude: 49.589629
 longitude: 10.9688139
 postcode: 91056
 city: Erlangen
-street: Dorfstraße
+street: "Dorfstraße"
 housenumber: 56
 phone: ""
 opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00; Su,PH off"

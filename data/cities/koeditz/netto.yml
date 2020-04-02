@@ -5,7 +5,7 @@ latitude: 50.3317361
 longitude: 11.8561039
 postcode: 95189
 city: Köditz
-street: Göstrastraße
+street: "Göstrastraße"
 housenumber: 3
 phone: ""
 opening_hours: ""

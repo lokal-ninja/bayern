@@ -5,7 +5,7 @@ latitude: 49.9428393
 longitude: 11.5801584
 postcode: 95444
 city: Bayreuth
-street: Richard-Wagner-Straße
+street: "Richard-Wagner-Straße"
 housenumber: 19
 phone: ""
 opening_hours: ""

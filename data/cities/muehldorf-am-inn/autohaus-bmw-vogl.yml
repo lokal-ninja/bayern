@@ -5,7 +5,7 @@ latitude: 48.2546492
 longitude: 12.543188200000001
 postcode: 84453
 city: Mühldorf am Inn
-street: Leisederstraße
+street: "Leisederstraße"
 housenumber: 1
 phone: "+49 8631 98800"
 opening_hours: "Mo-Fr 07:30-18:00; Sa 09:00-13:00"

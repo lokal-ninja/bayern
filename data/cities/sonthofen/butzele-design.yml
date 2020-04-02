@@ -5,7 +5,7 @@ latitude: 47.4860388
 longitude: 10.283671700000001
 postcode: 87527
 city: Sonthofen
-street: Am Naglerweg
+street: "Am Naglerweg"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Fr 9:30-11:20; Tu 17:00-20:00; Fr 14:00 - 18:00; Sa 9:30-12:00"

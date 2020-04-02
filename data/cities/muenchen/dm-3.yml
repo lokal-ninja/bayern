@@ -5,7 +5,7 @@ latitude: 48.118445200000004
 longitude: 11.5406989
 postcode: 81369
 city: München
-street: Plinganserstraße
+street: "Plinganserstraße"
 housenumber: 33
 phone: "+49 89 76700071"
 opening_hours: "Mo-Sa 08:00-20:00"

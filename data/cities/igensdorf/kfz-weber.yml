@@ -5,7 +5,7 @@ latitude: 49.617857900000004
 longitude: 11.214443300000001
 postcode: 91338
 city: Igensdorf
-street: Unterlindelbach
+street: "Unterlindelbach"
 housenumber: 13
 phone: "+49 9126 298944"
 opening_hours: "Mo-Fr 08:00-17:00"

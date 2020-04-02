@@ -5,7 +5,7 @@ latitude: 48.1972855
 longitude: 10.760634900000001
 postcode: 86830
 city: Schwabmünchen
-street: Robert-Bosch-Straße
+street: "Robert-Bosch-Straße"
 housenumber: 5
 phone: ""
 opening_hours: ""

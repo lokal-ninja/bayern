@@ -5,7 +5,7 @@ latitude: 48.191664900000006
 longitude: 11.5883324
 postcode: 80939
 city: München
-street: Maria-Probst-Straße
+street: "Maria-Probst-Straße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

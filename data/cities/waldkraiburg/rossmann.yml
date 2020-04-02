@@ -5,7 +5,7 @@ latitude: 48.208163000000006
 longitude: 12.4173118
 postcode: 84478
 city: Waldkraiburg
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off"

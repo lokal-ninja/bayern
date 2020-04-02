@@ -5,7 +5,7 @@ latitude: 49.510869400000004
 longitude: 11.2803485
 postcode: 91207
 city: Lauf a.d.Pegnitz
-street: Johannisstraße
+street: "Johannisstraße"
 housenumber: 9
 phone: "+49 9123 - 2701"
 opening_hours: "Mo-Fr 07:00-18:00; We 07:00-13:00; Sa 06:30-12:30"

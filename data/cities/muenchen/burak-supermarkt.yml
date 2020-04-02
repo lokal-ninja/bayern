@@ -5,7 +5,7 @@ latitude: 48.1853241
 longitude: 11.5628338
 postcode: 
 city: München
-street: Riesenfeldstraße
+street: "Riesenfeldstraße"
 housenumber: 86a
 phone: "+49 89 999 435 75"
 opening_hours: "Mo-Sa 08:00-20:00"

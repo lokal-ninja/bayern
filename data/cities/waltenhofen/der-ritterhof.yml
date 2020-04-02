@@ -5,7 +5,7 @@ latitude: 47.6275312
 longitude: 10.2716688
 postcode: 87448
 city: Waltenhofen
-street: Niedersonthofener Straße
+street: "Niedersonthofener Straße"
 housenumber: 8
 phone: ""
 opening_hours: "Th 15:00-18:00"

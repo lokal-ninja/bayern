@@ -5,7 +5,7 @@ latitude: 49.9331875
 longitude: 11.566207400000001
 postcode: 95447
 city: Bayreuth
-street: Leuschnerstraße
+street: "Leuschnerstraße"
 housenumber: 80
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"

@@ -5,7 +5,7 @@ latitude: 49.811423100000006
 longitude: 9.9204553
 postcode: 97080
 city: Würzburg
-street: Dürrbachtal
+street: "Dürrbachtal"
 housenumber: 127
 phone: ""
 opening_hours: "Mo,Sa 08:30-12:30; Tu-Fr 08:30-12:30,14:30-18:00"

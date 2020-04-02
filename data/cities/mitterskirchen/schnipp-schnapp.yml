@@ -5,7 +5,7 @@ latitude: 48.3479612
 longitude: 12.734327100000002
 postcode: 84335
 city: Mitterskirchen
-street: Stiftungsstraße
+street: "Stiftungsstraße"
 housenumber: 1
 phone: "+49 8725-7329"
 opening_hours: "Tu-Fr 8:30-17:30;Sa 7:00-12:00; PH off"

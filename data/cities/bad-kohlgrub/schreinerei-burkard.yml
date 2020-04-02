@@ -5,7 +5,7 @@ latitude: 47.6663415
 longitude: 11.0518449
 postcode: 82433
 city: Bad Kohlgrub
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 23
 phone: ""
 opening_hours: ""

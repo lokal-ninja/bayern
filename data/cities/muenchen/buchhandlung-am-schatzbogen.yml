@@ -5,7 +5,7 @@ latitude: 48.124715800000004
 longitude: 11.6556514
 postcode: 81825
 city: München
-street: Kreillerstraße
+street: "Kreillerstraße"
 housenumber: 151
 phone: "+49 89 421535"
 opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-15:00"

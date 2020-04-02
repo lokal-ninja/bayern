@@ -5,7 +5,7 @@ latitude: 50.1954812
 longitude: 10.0776049
 postcode: 97688
 city: Bad Kissingen
-street: Lindesmühlpromenade
+street: "Lindesmühlpromenade"
 housenumber: 2
 phone: ""
 opening_hours: ""

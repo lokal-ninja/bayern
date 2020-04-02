@@ -5,7 +5,7 @@ latitude: 49.918752600000005
 longitude: 9.0747703
 postcode: 63762
 city: Großostheim
-street: Breite Straße
+street: "Breite Straße"
 housenumber: 36
 phone: "+49 6026 4826"
 opening_hours: "Mo,Tu,Th,Fr 08:00-12:30,14:00-18:00, We,Sa 08:00-12:30"

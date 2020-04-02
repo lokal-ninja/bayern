@@ -5,7 +5,7 @@ latitude: 48.4107089
 longitude: 11.7487594
 postcode: 85356
 city: Freising
-street: Weinmiller-Straße
+street: "Weinmiller-Straße"
 housenumber: 5
 phone: "+49 8161 9364460"
 opening_hours: "Mo-Sa 08:00-20:00; PH off"

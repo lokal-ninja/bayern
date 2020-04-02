@@ -5,7 +5,7 @@ latitude: 49.0180973
 longitude: 12.0967894
 postcode: 93047
 city: Regensburg
-street: Neupfarrplatz
+street: "Neupfarrplatz"
 housenumber: 8
 phone: "+49 941 58370"
 opening_hours: "Mo-Sa 09:00-20:00"

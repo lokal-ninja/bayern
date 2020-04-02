@@ -5,7 +5,7 @@ latitude: 49.0168157
 longitude: 12.098587400000001
 postcode: 93047
 city: Regensburg
-street: Königsstraße
+street: "Königsstraße"
 housenumber: 1
 phone: "+49 941 59111"
 opening_hours: "Mo-Sa 07:30-18:00"

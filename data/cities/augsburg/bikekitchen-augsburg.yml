@@ -5,7 +5,7 @@ latitude: 48.372587900000006
 longitude: 10.890873800000001
 postcode: 86152
 city: Augsburg
-street: Heilig-Kreuz-Straße
+street: "Heilig-Kreuz-Straße"
 housenumber: 30
 phone: ""
 opening_hours: "Th 18:00-20:00; Fr[1] 16:00-20:00"

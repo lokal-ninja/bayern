@@ -5,7 +5,7 @@ latitude: 49.0163275
 longitude: 12.116420000000002
 postcode: 93055
 city: Regensburg
-street: Adolf-Schmetzer-Straße
+street: "Adolf-Schmetzer-Straße"
 housenumber: 39
 phone: "+49 941 46701634"
 opening_hours: "Mo-Fr 09:30-18:45; Sa 08:30-14:00"

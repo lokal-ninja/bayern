@@ -5,7 +5,7 @@ latitude: 48.172457400000006
 longitude: 10.8379454
 postcode: 86836
 city: Untermeitingen
-street: Lagerlechfelder Straße
+street: "Lagerlechfelder Straße"
 housenumber: 50
 phone: "+4982324777"
 opening_hours: "Mo-Th 07:30-12:00,13:00-18:00; Fr 07:30-12:00,13:00-17:00; Sa 09:00-12:00"

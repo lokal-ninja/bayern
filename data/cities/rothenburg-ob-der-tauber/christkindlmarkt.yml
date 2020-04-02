@@ -5,7 +5,7 @@ latitude: 49.377009900000004
 longitude: 10.178191700000001
 postcode: 91541
 city: Rothenburg ob der Tauber
-street: Herrngasse
+street: "Herrngasse"
 housenumber: 2
 phone: "+49-9861-409-0"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.1506392
 longitude: 11.556507600000002
 postcode: 80335
 city: München
-street: Kreittmayrstraße
+street: "Kreittmayrstraße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Fr 06:45-18:00, Mo-Fr 13:30-15:00 off; Sa 07:30-12:30; PH off"

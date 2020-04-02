@@ -5,7 +5,7 @@ latitude: 49.71434
 longitude: 9.235824000000001
 postcode: 63920
 city: Großheubach
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 31
 phone: ""
 opening_hours: ""

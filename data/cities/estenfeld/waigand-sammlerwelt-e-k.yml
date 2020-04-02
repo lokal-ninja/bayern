@@ -5,7 +5,7 @@ latitude: 49.8369088
 longitude: 10.008037400000001
 postcode: 97230
 city: Estenfeld
-street: Sieboldstraße
+street: "Sieboldstraße"
 housenumber: 6
 phone: "+49 931 3293460"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.761779700000005
 longitude: 11.425625100000001
 postcode: 85049
 city: Ingolstadt
-street: Donaustraße
+street: "Donaustraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

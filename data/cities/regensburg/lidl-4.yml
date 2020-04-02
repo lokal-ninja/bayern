@@ -5,7 +5,7 @@ latitude: 49.0297587
 longitude: 12.1157997
 postcode: 93059
 city: Regensburg
-street: Altmühlstraße
+street: "Altmühlstraße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

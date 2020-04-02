@@ -5,7 +5,7 @@ latitude: 48.066333
 longitude: 11.3798273
 postcode: 82131
 city: Gauting
-street: Hauptplatz
+street: "Hauptplatz"
 housenumber: 2
 phone: "+49 89 89357791"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-14:00"

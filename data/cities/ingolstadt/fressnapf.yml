@@ -5,7 +5,7 @@ latitude: 48.7686256
 longitude: 11.4008722
 postcode: 85057
 city: Ingolstadt
-street: Neuburger Straße
+street: "Neuburger Straße"
 housenumber: 65
 phone: ""
 opening_hours: ""

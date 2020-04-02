@@ -5,7 +5,7 @@ latitude: 48.2395695
 longitude: 12.690728700000001
 postcode: 84524
 city: Neuötting
-street: Altöttinger Straße
+street: "Altöttinger Straße"
 housenumber: 1a
 phone: "+49 8671 883454"
 opening_hours: "Mo-Fr 10:00-18:30; Sa 09:30-16:00"

@@ -5,7 +5,7 @@ latitude: 47.737334600000004
 longitude: 10.3114562
 postcode: 87439
 city: Kempten (Allgäu)
-street: Rottachstraße
+street: "Rottachstraße"
 housenumber: 73
 phone: ""
 opening_hours: ""

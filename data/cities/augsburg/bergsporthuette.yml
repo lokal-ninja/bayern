@@ -5,7 +5,7 @@ latitude: 48.3684245
 longitude: 10.8997759
 postcode: 86150
 city: Augsburg
-street: Pfladergasse
+street: "Pfladergasse"
 housenumber: 1
 phone: "+49 821 152777"
 opening_hours: "Mo-We 10:00-18:00; Th-Fr 10:00-19:00; Sa 10:00-16:00"

@@ -5,7 +5,7 @@ latitude: 49.554397900000005
 longitude: 10.708831100000001
 postcode: 91448
 city: Emskirchen
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 25
 phone: "+499104671"
 opening_hours: ""

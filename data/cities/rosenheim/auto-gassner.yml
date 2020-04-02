@@ -5,7 +5,7 @@ latitude: 47.8449286
 longitude: 12.1483237
 postcode: 83022
 city: Rosenheim
-street: Eschenweg
+street: "Eschenweg"
 housenumber: 24
 phone: ""
 opening_hours: ""

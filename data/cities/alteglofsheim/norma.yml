@@ -5,7 +5,7 @@ latitude: 48.9255639
 longitude: 12.2082487
 postcode: 93087
 city: Alteglofsheim
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 23
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

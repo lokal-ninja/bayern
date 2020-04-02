@@ -5,7 +5,7 @@ latitude: 49.7031629
 longitude: 11.5852008
 postcode: 91275
 city: Auerbach i.d.OPf.
-street: Auerbacher Straße
+street: "Auerbacher Straße"
 housenumber: 4
 phone: "+49 9643 776"
 opening_hours: "Tu-We 08:00-12:00,14:00-18:00; Th-Fr 09:00-12:00,14:00-19:00; Sa 08:00-13:00"

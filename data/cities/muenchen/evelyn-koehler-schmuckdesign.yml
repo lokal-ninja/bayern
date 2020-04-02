@@ -5,7 +5,7 @@ latitude: 48.129000700000006
 longitude: 11.5997318
 postcode: 81667
 city: München
-street: Sedanstraße
+street: "Sedanstraße"
 housenumber: 37
 phone: ""
 opening_hours: ""

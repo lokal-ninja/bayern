@@ -5,7 +5,7 @@ latitude: 48.1712463
 longitude: 11.3623255
 postcode: 82178
 city: Puchheim
-street: Siemensstraße
+street: "Siemensstraße"
 housenumber: 3
 phone: "+49 89 95477496"
 opening_hours: ""

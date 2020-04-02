@@ -5,7 +5,7 @@ latitude: 50.3257604
 longitude: 11.900691100000001
 postcode: 95030
 city: Hof
-street: Leopoldstraße
+street: "Leopoldstraße"
 housenumber: 14
 phone: ""
 opening_hours: ""

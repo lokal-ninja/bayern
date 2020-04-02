@@ -5,7 +5,7 @@ latitude: 50.283778100000006
 longitude: 11.6224009
 postcode: 95131
 city: Schwarzenbach a.Wald
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 53
 phone: ""
 opening_hours: "06:00-18:00"

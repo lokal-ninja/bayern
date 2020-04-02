@@ -5,7 +5,7 @@ latitude: 48.3913591
 longitude: 10.855580400000001
 postcode: 86156
 city: Augsburg
-street: Holzweg
+street: "Holzweg"
 housenumber: 51
 phone: ""
 opening_hours: ""

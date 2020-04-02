@@ -5,7 +5,7 @@ latitude: 48.156997700000005
 longitude: 11.5851425
 postcode: 80802
 city: München
-street: Martiusstraße
+street: "Martiusstraße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Fr 10:30-19:00; Sa 10:30-18:00"

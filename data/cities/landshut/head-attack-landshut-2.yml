@@ -5,7 +5,7 @@ latitude: 48.5391373
 longitude: 12.155678
 postcode: 
 city: Landshut
-street: Kapuzinerweg
+street: "Kapuzinerweg"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Sa 09:00-20:00"

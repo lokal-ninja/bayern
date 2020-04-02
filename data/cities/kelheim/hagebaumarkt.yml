@@ -5,7 +5,7 @@ latitude: 48.9137957
 longitude: 11.8664175
 postcode: 
 city: Kelheim
-street: Donaupark
+street: "Donaupark"
 housenumber: 27
 phone: ""
 opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"

@@ -5,7 +5,7 @@ latitude: 49.025215900000006
 longitude: 12.160976400000001
 postcode: 93105
 city: Tegernheim
-street: Gewerbegebiet Nord
+street: "Gewerbegebiet Nord"
 housenumber: 20
 phone: "+49 9403 9691910"
 opening_hours: "Feb-Oct Mo-Fr 09:00-12:30,13:30-18:00; Nov-Jan Mo-Fr 09:00-12:30,13:30-17:00; Tu off"

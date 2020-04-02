@@ -5,7 +5,7 @@ latitude: 48.1303703
 longitude: 11.5998049
 postcode: 81667
 city: München
-street: Wörthstraße
+street: "Wörthstraße"
 housenumber: 18a
 phone: ""
 opening_hours: ""

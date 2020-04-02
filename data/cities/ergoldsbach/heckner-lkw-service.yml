@@ -5,7 +5,7 @@ latitude: 48.7022175
 longitude: 12.196384700000001
 postcode: 84061
 city: Ergoldsbach
-street: Gewerbestraße
+street: "Gewerbestraße"
 housenumber: 15
 phone: ""
 opening_hours: ""

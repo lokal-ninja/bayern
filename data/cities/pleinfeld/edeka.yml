@@ -5,7 +5,7 @@ latitude: 49.101998300000005
 longitude: 10.9737571
 postcode: 91785
 city: Pleinfeld
-street: Dieselstraße
+street: "Dieselstraße"
 housenumber: 1c
 phone: "+499144 92708"
 opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"

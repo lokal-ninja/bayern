@@ -5,7 +5,7 @@ latitude: 48.660682800000004
 longitude: 12.0947413
 postcode: 84098
 city: Hohenthann
-street: Auenstraße
+street: "Auenstraße"
 housenumber: 2a
 phone: ""
 opening_hours: ""

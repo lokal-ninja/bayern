@@ -5,7 +5,7 @@ latitude: 48.1358438
 longitude: 11.366101500000001
 postcode: 82110
 city: Germering
-street: Hörwegstraße
+street: "Hörwegstraße"
 housenumber: 13
 phone: ""
 opening_hours: ""

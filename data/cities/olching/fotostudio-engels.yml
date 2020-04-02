@@ -5,7 +5,7 @@ latitude: 48.2130163
 longitude: 11.339214400000001
 postcode: 82140
 city: Olching
-street: Buchhoferstraße
+street: "Buchhoferstraße"
 housenumber: 2
 phone: "+49 8142 13556"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.013167
 longitude: 12.052594000000001
 postcode: 93049
 city: Regensburg
-street: Rennweg
+street: "Rennweg"
 housenumber: 12
 phone: "+49 941 35095"
 opening_hours: "Mo-Fr 9:30-18:30, Sa 9:30-14:00"

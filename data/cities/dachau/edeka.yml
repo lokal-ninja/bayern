@@ -5,7 +5,7 @@ latitude: 48.2577313
 longitude: 11.4389924
 postcode: 85221
 city: Dachau
-street: Schleißheimer Straße
+street: "Schleißheimer Straße"
 housenumber: 19
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00; PH off"

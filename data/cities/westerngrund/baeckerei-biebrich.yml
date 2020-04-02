@@ -5,7 +5,7 @@ latitude: 50.114876800000005
 longitude: 9.241378300000001
 postcode: 63825
 city: Westerngrund
-street: Lindenstraße
+street: "Lindenstraße"
 housenumber: 1
 phone: "+49 6024 9432"
 opening_hours: ""

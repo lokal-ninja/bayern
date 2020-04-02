@@ -5,7 +5,7 @@ latitude: 48.1514335
 longitude: 11.5474493
 postcode: 80335
 city: München
-street: Thorwaldsenstraße
+street: "Thorwaldsenstraße"
 housenumber: 29
 phone: "+49 89 12789607"
 opening_hours: "Mo,Su,PH off; Tu-Fr 10:00-20:00; Sa 09:30-15:00"

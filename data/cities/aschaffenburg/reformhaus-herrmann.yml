@@ -5,7 +5,7 @@ latitude: 49.974219100000006
 longitude: 9.1501678
 postcode: 63739
 city: Aschaffenburg
-street: Sandgasse
+street: "Sandgasse"
 housenumber: 54
 phone: ""
 opening_hours: ""

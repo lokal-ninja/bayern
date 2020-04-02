@@ -5,7 +5,7 @@ latitude: 47.695190700000005
 longitude: 13.047271
 postcode: 83487
 city: Marktschellenberg
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Sa 6:00-12:30"

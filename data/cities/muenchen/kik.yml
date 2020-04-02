@@ -5,7 +5,7 @@ latitude: 48.2017387
 longitude: 11.5888934
 postcode: 80939
 city: München
-street: Heidemannstraße
+street: "Heidemannstraße"
 housenumber: 17
 phone: ""
 opening_hours: "Mo-Sa 09:00-20:00"

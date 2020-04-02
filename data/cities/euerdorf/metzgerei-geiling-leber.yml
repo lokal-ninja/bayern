@@ -5,7 +5,7 @@ latitude: 50.1484594
 longitude: 10.0235485
 postcode: 97717
 city: Euerdorf
-street: Schweinfurter Straße
+street: "Schweinfurter Straße"
 housenumber: 5
 phone: ""
 opening_hours: ""

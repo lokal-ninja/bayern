@@ -5,7 +5,7 @@ latitude: 49.982053300000004
 longitude: 10.0999958
 postcode: 97440
 city: Werneck
-street: Schönbornstraße
+street: "Schönbornstraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

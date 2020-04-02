@@ -5,7 +5,7 @@ latitude: 48.950723800000006
 longitude: 11.1879849
 postcode: 85131
 city: Pollenfeld
-street: Osterstraße
+street: "Osterstraße"
 housenumber: 17
 phone: ""
 opening_hours: ""

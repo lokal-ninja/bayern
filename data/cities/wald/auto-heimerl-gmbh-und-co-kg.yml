@@ -5,7 +5,7 @@ latitude: 49.149832700000005
 longitude: 12.3516214
 postcode: 93192
 city: Wald
-street: Hirschenbühler Straße
+street: "Hirschenbühler Straße"
 housenumber: 13
 phone: ""
 opening_hours: "Mo-Sa 08:00-18:00"

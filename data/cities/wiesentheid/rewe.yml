@@ -5,7 +5,7 @@ latitude: 49.7856625
 longitude: 10.3417422
 postcode: 97353
 city: Wiesentheid
-street: Korbacher Straße
+street: "Korbacher Straße"
 housenumber: 
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

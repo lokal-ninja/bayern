@@ -5,7 +5,7 @@ latitude: 47.6501509
 longitude: 10.998445700000001
 postcode: 82442
 city: Saulgrub
-street: Unternoggstraße
+street: "Unternoggstraße"
 housenumber: 15
 phone: ""
 opening_hours: "Mo-Fr 08:15-12:00,13:30-17:30; Sa 09:00-12:00"

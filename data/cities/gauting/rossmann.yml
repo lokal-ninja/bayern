@@ -5,7 +5,7 @@ latitude: 48.065597800000006
 longitude: 11.378867600000001
 postcode: 82131
 city: Gauting
-street: Starnberger Straße
+street: "Starnberger Straße"
 housenumber: 14
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off"

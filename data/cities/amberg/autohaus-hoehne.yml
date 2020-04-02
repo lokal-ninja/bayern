@@ -5,7 +5,7 @@ latitude: 49.4404935
 longitude: 11.864164200000001
 postcode: 92224
 city: Amberg
-street: Schießstätteweg
+street: "Schießstätteweg"
 housenumber: 21
 phone: ""
 opening_hours: ""

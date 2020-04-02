@@ -5,7 +5,7 @@ latitude: 48.3474598
 longitude: 11.382822800000001
 postcode: 85229
 city: Markt Indersdorf
-street: Gewerbestraße
+street: "Gewerbestraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

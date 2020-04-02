@@ -5,7 +5,7 @@ latitude: 49.4556429
 longitude: 11.073173800000001
 postcode: 90403
 city: Nürnberg
-street: Irrerstraße
+street: "Irrerstraße"
 housenumber: 14
 phone: "+49-911-225318"
 opening_hours: ""

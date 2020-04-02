@@ -5,7 +5,7 @@ latitude: 50.0600753
 longitude: 10.4514937
 postcode: 97437
 city: Haßfurt
-street: Kreisstraße
+street: "Kreisstraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

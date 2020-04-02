@@ -5,7 +5,7 @@ latitude: 47.862305500000005
 longitude: 11.9914275
 postcode: 83043
 city: Bad Aibling
-street: Sonnenstraße
+street: "Sonnenstraße"
 housenumber: 63
 phone: "+49 8061 13 33"
 opening_hours: "Mo-Fr 07:30-12:00,13:00-18:00;Sa,Su,PH off"

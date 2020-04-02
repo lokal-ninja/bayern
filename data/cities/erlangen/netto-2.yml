@@ -5,7 +5,7 @@ latitude: 49.584811300000005
 longitude: 10.9957595
 postcode: 91052
 city: Erlangen
-street: Am Anger
+street: "Am Anger"
 housenumber: 8
 phone: ""
 opening_hours: "07:00-20:00"

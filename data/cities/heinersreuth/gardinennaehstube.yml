@@ -5,7 +5,7 @@ latitude: 49.968759500000004
 longitude: 11.531755700000001
 postcode: 95500
 city: Heinersreuth
-street: Kulmbacher Straße
+street: "Kulmbacher Straße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00"

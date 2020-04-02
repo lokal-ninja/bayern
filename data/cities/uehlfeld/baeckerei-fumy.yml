@@ -5,7 +5,7 @@ latitude: 49.6712062
 longitude: 10.7225462
 postcode: 91486
 city: Uehlfeld
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 25
 phone: ""
 opening_hours: ""

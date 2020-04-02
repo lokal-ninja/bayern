@@ -5,7 +5,7 @@ latitude: 50.1342403
 longitude: 11.043068600000002
 postcode: 96215
 city: Lichtenfels
-street: Reundorfer Straße
+street: "Reundorfer Straße"
 housenumber: 2
 phone: "+49 9571 75800"
 opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-12:00"

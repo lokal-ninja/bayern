@@ -5,7 +5,7 @@ latitude: 49.456662900000005
 longitude: 11.076772700000001
 postcode: 90403
 city: Nürnberg
-street: Untere Krämersgasse
+street: "Untere Krämersgasse"
 housenumber: 16
 phone: ""
 opening_hours: "Th-Fr 11:00-18:00; Sa 11:00-15:00"

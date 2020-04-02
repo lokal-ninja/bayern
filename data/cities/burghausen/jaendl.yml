@@ -5,7 +5,7 @@ latitude: 48.1708155
 longitude: 12.8386831
 postcode: 84489
 city: Burghausen
-street: Hermann-Hiller-Straße
+street: "Hermann-Hiller-Straße"
 housenumber: 7
 phone: "+49 8677 2838"
 opening_hours: "Mo off; Tu-Fr 06:00-12:30, 14:00-18:00; Sa 06:00-13:00"

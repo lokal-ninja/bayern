@@ -5,7 +5,7 @@ latitude: 49.028801300000005
 longitude: 12.1045569
 postcode: 93059
 city: Regensburg
-street: Holzgartenstraße
+street: "Holzgartenstraße"
 housenumber: 15
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

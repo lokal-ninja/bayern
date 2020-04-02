@@ -5,7 +5,7 @@ latitude: 49.812890900000006
 longitude: 9.976936700000001
 postcode: 97076
 city: Würzburg
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 7
 phone: "+49 931 278890"
 opening_hours: "Mo-Sa 07:00-20:00"

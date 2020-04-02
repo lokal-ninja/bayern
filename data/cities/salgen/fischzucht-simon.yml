@@ -5,7 +5,7 @@ latitude: 48.099594700000004
 longitude: 10.4795757
 postcode: 87775
 city: Salgen
-street: Weiherweg
+street: "Weiherweg"
 housenumber: 6
 phone: ""
 opening_hours: ""

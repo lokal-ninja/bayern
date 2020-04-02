@@ -5,7 +5,7 @@ latitude: 48.1740852
 longitude: 11.357808400000001
 postcode: 82178
 city: Puchheim
-street: Lochhauser Straße
+street: "Lochhauser Straße"
 housenumber: 36
 phone: "+49 89 80070382"
 opening_hours: "Tu-Fr 09:00-18:00, Sa 08:00-13:00"

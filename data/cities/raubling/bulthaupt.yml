@@ -5,7 +5,7 @@ latitude: 47.795205100000004
 longitude: 12.120086500000001
 postcode: 83064
 city: Raubling
-street: Rosenheimer Straße
+street: "Rosenheimer Straße"
 housenumber: 32
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.114843300000004
 longitude: 11.697164800000001
 postcode: 81827
 city: München
-street: Rotkehlchenweg
+street: "Rotkehlchenweg"
 housenumber: 1
 phone: ""
 opening_hours: ""

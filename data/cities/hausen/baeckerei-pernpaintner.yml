@@ -5,7 +5,7 @@ latitude: 48.858330200000005
 longitude: 12.0035469
 postcode: 93345
 city: Hausen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 16
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00"

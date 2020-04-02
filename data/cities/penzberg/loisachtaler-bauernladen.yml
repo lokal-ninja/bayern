@@ -5,7 +5,7 @@ latitude: 47.7547111
 longitude: 11.373181800000001
 postcode: 82377
 city: Penzberg
-street: Christianstraße
+street: "Christianstraße"
 housenumber: 6
 phone: "+49 (0) 88 56 / 92 17-16"
 opening_hours: "Mo-Th 07:30-12:30; Tu-Th 15:00-18:00; Fr 07:30-18:00; Sa 07:30-12:00; PH off"

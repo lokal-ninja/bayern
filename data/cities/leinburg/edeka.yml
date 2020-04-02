@@ -5,7 +5,7 @@ latitude: 49.4545425
 longitude: 11.2977617
 postcode: 91227
 city: Leinburg
-street: Kalkofenstraße
+street: "Kalkofenstraße"
 housenumber: 2
 phone: "+49 9120 1804 12"
 opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"

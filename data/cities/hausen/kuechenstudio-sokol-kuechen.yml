@@ -5,7 +5,7 @@ latitude: 49.6906138
 longitude: 11.0405286
 postcode: 91353
 city: Hausen
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 33
 phone: "+49 9191 738 00"
 opening_hours: ""

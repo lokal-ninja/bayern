@@ -5,7 +5,7 @@ latitude: 48.1950115
 longitude: 11.8656208
 postcode: 85570
 city: Markt Schwaben
-street: Dr.-Hartlaub-Ring
+street: "Dr.-Hartlaub-Ring"
 housenumber: 3
 phone: ""
 opening_hours: ""

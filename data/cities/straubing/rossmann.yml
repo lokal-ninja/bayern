@@ -5,7 +5,7 @@ latitude: 48.875829100000004
 longitude: 12.5754725
 postcode: 94315
 city: Straubing
-street: Hebbelstraße
+street: "Hebbelstraße"
 housenumber: 14b
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off"

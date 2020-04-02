@@ -5,7 +5,7 @@ latitude: 47.522669300000004
 longitude: 10.269998000000001
 postcode: 87527
 city: Sonthofen
-street: Rudolf-Diesel-Straße
+street: "Rudolf-Diesel-Straße"
 housenumber: 5
 phone: ""
 opening_hours: ""

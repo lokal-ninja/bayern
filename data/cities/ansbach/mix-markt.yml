@@ -5,7 +5,7 @@ latitude: 49.2973811
 longitude: 10.5683808
 postcode: 91522
 city: Ansbach
-street: Oberhäuserstraße
+street: "Oberhäuserstraße"
 housenumber: 9
 phone: ""
 opening_hours: ""

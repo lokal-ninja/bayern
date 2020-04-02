@@ -5,7 +5,7 @@ latitude: 49.1582925
 longitude: 12.762855400000001
 postcode: 93468
 city: Miltach
-street: Chamer Straße
+street: "Chamer Straße"
 housenumber: 19
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

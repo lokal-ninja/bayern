@@ -5,7 +5,7 @@ latitude: 49.2039963
 longitude: 12.048273100000001
 postcode: 93133
 city: Burglengenfeld
-street: Regensburger Straße
+street: "Regensburger Straße"
 housenumber: 57
 phone: ""
 opening_hours: ""

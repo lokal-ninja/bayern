@@ -5,7 +5,7 @@ latitude: 48.3532998
 longitude: 10.8954278
 postcode: 86159
 city: Augsburg
-street: Schertlinstraße
+street: "Schertlinstraße"
 housenumber: 23
 phone: ""
 opening_hours: ""

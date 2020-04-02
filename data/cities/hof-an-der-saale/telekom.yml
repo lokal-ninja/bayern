@@ -5,7 +5,7 @@ latitude: 50.3189189
 longitude: 11.916552800000002
 postcode: 95028
 city: Hof an der Saale
-street: Oberes Tor
+street: "Oberes Tor"
 housenumber: 5
 phone: ""
 opening_hours: ""

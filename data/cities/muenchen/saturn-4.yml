@@ -5,7 +5,7 @@ latitude: 48.183728200000004
 longitude: 11.5294846
 postcode: 80993
 city: München
-street: Hanauer Straße
+street: "Hanauer Straße"
 housenumber: 77
 phone: ""
 opening_hours: "Mo-Sa 09:00-20:00"

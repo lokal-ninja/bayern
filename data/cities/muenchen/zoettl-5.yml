@@ -5,7 +5,7 @@ latitude: 48.094685000000005
 longitude: 11.4977704
 postcode: 81476
 city: München
-street: Knöpflerstraße
+street: "Knöpflerstraße"
 housenumber: 1
 phone: "+49 89 85631727"
 opening_hours: "Mo-Sa 06:30-20:00, Su 08:00-17:00"

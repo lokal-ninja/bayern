@@ -5,7 +5,7 @@ latitude: 48.265874000000004
 longitude: 10.980765400000001
 postcode: 86415
 city: Mering
-street: Kanalstraße
+street: "Kanalstraße"
 housenumber: 13
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.7207857
 longitude: 11.0593754
 postcode: 91301
 city: Forchheim
-street: Wiesentstraße
+street: "Wiesentstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

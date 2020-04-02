@@ -5,7 +5,7 @@ latitude: 49.912991000000005
 longitude: 10.8796595
 postcode: 96052
 city: Bamberg
-street: Hallstadter Straße
+street: "Hallstadter Straße"
 housenumber: 168
 phone: ""
 opening_hours: ""

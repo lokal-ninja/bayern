@@ -5,7 +5,7 @@ latitude: 49.0094762
 longitude: 12.1045806
 postcode: 93053
 city: Regensburg
-street: Alfons-Auer-Straße
+street: "Alfons-Auer-Straße"
 housenumber: 2
 phone: "+49 941 99220004"
 opening_hours: "Mo-Sa 10:30-20:00"

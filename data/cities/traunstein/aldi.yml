@@ -5,7 +5,7 @@ latitude: 47.8577777
 longitude: 12.6274183
 postcode: 83278
 city: Traunstein
-street: Hochstraße
+street: "Hochstraße"
 housenumber: 16
 phone: ""
 opening_hours: ""

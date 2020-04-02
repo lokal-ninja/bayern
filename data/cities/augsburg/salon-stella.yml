@@ -5,7 +5,7 @@ latitude: 48.377488
 longitude: 10.9041171
 postcode: 86153
 city: Augsburg
-street: Bleichstraße
+street: "Bleichstraße"
 housenumber: 26
 phone: "+49 821 52 21 64"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.2659291
 longitude: 10.8382594
 postcode: 86399
 city: Bobingen
-street: Königsbrunner Straße
+street: "Königsbrunner Straße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"

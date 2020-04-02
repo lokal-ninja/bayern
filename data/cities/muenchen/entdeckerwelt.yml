@@ -5,7 +5,7 @@ latitude: 48.0950179
 longitude: 11.5737327
 postcode: 81547
 city: München
-street: Säbener Straße
+street: "Säbener Straße"
 housenumber: 173
 phone: ""
 opening_hours: ""

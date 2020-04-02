@@ -5,7 +5,7 @@ latitude: 48.088386
 longitude: 11.519744600000001
 postcode: 81479
 city: München
-street: Aidenbachstraße
+street: "Aidenbachstraße"
 housenumber: 142
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

@@ -5,7 +5,7 @@ latitude: 49.796319600000004
 longitude: 9.931416200000001
 postcode: 97070
 city: Würzburg
-street: Dominikanerplatz
+street: "Dominikanerplatz"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-13:00"

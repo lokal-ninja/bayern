@@ -5,7 +5,7 @@ latitude: 48.514184500000006
 longitude: 10.525427
 postcode: 89438
 city: Holzheim
-street: Dillinger Straße
+street: "Dillinger Straße"
 housenumber: 4
 phone: ""
 opening_hours: ""

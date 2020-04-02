@@ -5,7 +5,7 @@ latitude: 48.3052949
 longitude: 10.9770312
 postcode: 86438
 city: Kissing
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 40c
 phone: "+49 8233 7395936"
 opening_hours: "Mo-Sa 07:00-20:00; Su 07:30-10:30"

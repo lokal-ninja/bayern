@@ -5,7 +5,7 @@ latitude: 49.795214800000004
 longitude: 9.729964500000001
 postcode: 97292
 city: Uettingen
-street: Würzburger Straße
+street: "Würzburger Straße"
 housenumber: 2
 phone: "+49 9369 1295"
 opening_hours: "Mo - Sa: 05:00 - 12:00 Uhr"

@@ -5,7 +5,7 @@ latitude: 49.768061700000004
 longitude: 11.932032000000001
 postcode: 92690
 city: Pressath
-street: Grafenwöhrer Straße
+street: "Grafenwöhrer Straße"
 housenumber: 4
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.362639400000006
 longitude: 10.919375500000001
 postcode: 86161
 city: Augsburg
-street: Reichenberger Straße
+street: "Reichenberger Straße"
 housenumber: 41
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

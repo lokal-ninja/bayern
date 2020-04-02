@@ -5,7 +5,7 @@ latitude: 47.822140700000006
 longitude: 12.643794600000001
 postcode: 83313
 city: Siegsdorf
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 5
 phone: "+49 172 1096725"
 opening_hours: "Mo 9:00-14:00, Tu 9:00-12:00, 13:30-15:30, We 9:00-14:00, Th 9:00-12:00, 13:30-15:30, Fr 9:00-14:00"

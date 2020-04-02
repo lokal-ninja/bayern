@@ -5,7 +5,7 @@ latitude: 48.114851200000004
 longitude: 11.581137100000001
 postcode: 81539
 city: München
-street: Deisenhofener Straße
+street: "Deisenhofener Straße"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Fr 09:00-20:00; Sa 08:00-20:00"

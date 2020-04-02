@@ -5,7 +5,7 @@ latitude: 49.5765867
 longitude: 10.882894400000001
 postcode: 91074
 city: Herzogenaurach
-street: Bamberger Straße
+street: "Bamberger Straße"
 housenumber: 38
 phone: ""
 opening_hours: ""

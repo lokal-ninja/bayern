@@ -5,7 +5,7 @@ latitude: 49.7941221
 longitude: 9.930066700000001
 postcode: 97070
 city: Würzburg
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 18
 phone: ""
 opening_hours: ""

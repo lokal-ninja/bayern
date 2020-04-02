@@ -5,7 +5,7 @@ latitude: 49.451136000000005
 longitude: 11.071783100000001
 postcode: 90403
 city: Nürnberg
-street: Ludwigsplatz
+street: "Ludwigsplatz"
 housenumber: 4-10
 phone: "+49180557767842"
 opening_hours: "Mo-Sa 10:00-20:00"

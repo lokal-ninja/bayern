@@ -5,7 +5,7 @@ latitude: 48.1994465
 longitude: 11.3729499
 postcode: 82194
 city: Gröbenzell
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 31
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

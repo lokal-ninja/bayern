@@ -5,7 +5,7 @@ latitude: 48.4489266
 longitude: 10.2207737
 postcode: 89340
 city: Leipheim
-street: Rathausgasse
+street: "Rathausgasse"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Tu 07:00-14:00, Th-Fr 07:00-18:00, Sa 07:00-13:00"

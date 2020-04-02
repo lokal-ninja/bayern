@@ -5,7 +5,7 @@ latitude: 48.6493392
 longitude: 12.485248200000001
 postcode: 84130
 city: Dingolfing
-street: Straubinger Straße
+street: "Straubinger Straße"
 housenumber: 24
 phone: "+49 8731 7993"
 opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-12:00"

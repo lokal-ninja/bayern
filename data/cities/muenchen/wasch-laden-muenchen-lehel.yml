@@ -5,7 +5,7 @@ latitude: 48.1393338
 longitude: 11.5909533
 postcode: 80538
 city: München
-street: Sternstraße
+street: "Sternstraße"
 housenumber: 18
 phone: ""
 opening_hours: ""

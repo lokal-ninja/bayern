@@ -5,7 +5,7 @@ latitude: 48.150277700000004
 longitude: 11.5762067
 postcode: 
 city: München
-street: Schellingstraße
+street: "Schellingstraße"
 housenumber: 28a
 phone: ""
 opening_hours: "Mo-Fr 12:00-18:00; Sa 12:00-15:00"

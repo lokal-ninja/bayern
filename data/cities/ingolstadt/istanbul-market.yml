@@ -5,7 +5,7 @@ latitude: 48.7742778
 longitude: 11.4290263
 postcode: 85057
 city: Ingolstadt
-street: Hindenburgstraße
+street: "Hindenburgstraße"
 housenumber: 21
 phone: ""
 opening_hours: ""

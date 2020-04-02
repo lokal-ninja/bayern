@@ -5,7 +5,7 @@ latitude: 48.1373833
 longitude: 11.568856100000001
 postcode: 80331
 city: München
-street: Damenstiftstraße
+street: "Damenstiftstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

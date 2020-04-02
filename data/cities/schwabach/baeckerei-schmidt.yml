@@ -5,7 +5,7 @@ latitude: 49.3361895
 longitude: 11.0338743
 postcode: 91126
 city: Schwabach
-street: Limbacher Straße
+street: "Limbacher Straße"
 housenumber: 62a
 phone: "+49 9122 6301141"
 opening_hours: "Mo-Fr 06:00-18:30; Sa 06:00-18:00; Su 07:00-18:00"

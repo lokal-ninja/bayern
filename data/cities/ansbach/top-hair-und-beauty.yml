@@ -5,7 +5,7 @@ latitude: 49.288568000000005
 longitude: 10.570745200000001
 postcode: 91522
 city: Ansbach
-street: Meinhardswindener Straße
+street: "Meinhardswindener Straße"
 housenumber: 2
 phone: "+49 981 9538879"
 opening_hours: "Mo-Sa 08:00-20:00"

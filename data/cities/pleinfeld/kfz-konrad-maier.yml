@@ -5,7 +5,7 @@ latitude: 49.1050905
 longitude: 10.9900462
 postcode: 91785
 city: Pleinfeld
-street: Nürnberger Straße
+street: "Nürnberger Straße"
 housenumber: 16
 phone: "+499144 269"
 opening_hours: ""

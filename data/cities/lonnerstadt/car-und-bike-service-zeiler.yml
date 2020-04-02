@@ -5,7 +5,7 @@ latitude: 49.698098200000004
 longitude: 10.7670907
 postcode: 91475
 city: Lonnerstadt
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 11
 phone: ""
 opening_hours: ""

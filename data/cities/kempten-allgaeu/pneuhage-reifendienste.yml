@@ -5,7 +5,7 @@ latitude: 47.743792000000006
 longitude: 10.305134200000001
 postcode: 87439
 city: Kempten (Allgäu)
-street: Unterwanger Straße
+street: "Unterwanger Straße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 8:00-18:00, Sa 8:00-12:00"

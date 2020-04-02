@@ -5,7 +5,7 @@ latitude: 49.991072700000004
 longitude: 9.5851482
 postcode: 97816
 city: Lohr am Main
-street: Steinfelder Straße
+street: "Steinfelder Straße"
 housenumber: 7
 phone: ""
 opening_hours: "Sa 9:00-12:00"

@@ -5,7 +5,7 @@ latitude: 49.0289191
 longitude: 12.208568000000001
 postcode: 93093
 city: Donaustauf
-street: Maxstraße
+street: "Maxstraße"
 housenumber: 24
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.1311029
 longitude: 11.6254448
 postcode: 81673
 city: München
-street: Neumarkter Straße
+street: "Neumarkter Straße"
 housenumber: 64
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

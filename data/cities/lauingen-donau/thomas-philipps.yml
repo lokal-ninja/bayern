@@ -5,7 +5,7 @@ latitude: 48.5744033
 longitude: 10.451346800000001
 postcode: 
 city: Lauingen (Donau)
-street: Raiffeisenstraße
+street: "Raiffeisenstraße"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"

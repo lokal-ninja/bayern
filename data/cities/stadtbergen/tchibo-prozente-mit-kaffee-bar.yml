@@ -5,7 +5,7 @@ latitude: 48.376566000000004
 longitude: 10.8426963
 postcode: 86391
 city: Stadtbergen
-street: Wankelstraße
+street: "Wankelstraße"
 housenumber: 10
 phone: "+49 800 3000111"
 opening_hours: "Mo-Sa 09:00-20:00"

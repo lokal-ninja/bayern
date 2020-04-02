@@ -5,7 +5,7 @@ latitude: 49.764214300000006
 longitude: 9.950090000000001
 postcode: 97084
 city: Würzburg
-street: Löffelgasse
+street: "Löffelgasse"
 housenumber: 1
 phone: "+49 931 35932982"
 opening_hours: "Mo-Fr 06:45-18:00; Sa 06:45-14:00; Su off"

@@ -5,7 +5,7 @@ latitude: 48.1342718
 longitude: 11.5401089
 postcode: 80339
 city: München
-street: Ganghoferstraße
+street: "Ganghoferstraße"
 housenumber: 25
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00"

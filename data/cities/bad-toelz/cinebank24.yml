@@ -5,7 +5,7 @@ latitude: 47.758507800000004
 longitude: 11.5834478
 postcode: 83646
 city: Bad Tölz
-street: Professor-Max-Lange-Platz
+street: "Professor-Max-Lange-Platz"
 housenumber: 12
 phone: ""
 opening_hours: "24/7"

@@ -5,7 +5,7 @@ latitude: 48.4330635
 longitude: 10.2917511
 postcode: 89312
 city: Günzburg
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 2
 phone: ""
 opening_hours: "24/7"

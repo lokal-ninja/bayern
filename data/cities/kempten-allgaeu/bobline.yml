@@ -5,7 +5,7 @@ latitude: 47.724069400000005
 longitude: 10.3210751
 postcode: 87435
 city: Kempten (Allgäu)
-street: Burgstraße
+street: "Burgstraße"
 housenumber: 21
 phone: ""
 opening_hours: ""

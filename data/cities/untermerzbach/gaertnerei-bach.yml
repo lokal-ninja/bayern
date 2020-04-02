@@ -5,7 +5,7 @@ latitude: 50.125056900000004
 longitude: 10.8585677
 postcode: 96190
 city: Untermerzbach
-street: Brückenstraße
+street: "Brückenstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.884819300000004
 longitude: 10.916064400000002
 postcode: 96050
 city: Bamberg
-street: Münchner Ring
+street: "Münchner Ring"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Fr 08:00-17:00; Sa 09:00-12:00"

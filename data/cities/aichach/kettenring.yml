@@ -5,7 +5,7 @@ latitude: 48.459293100000004
 longitude: 11.1293661
 postcode: 86551
 city: Aichach
-street: Steubstraße
+street: "Steubstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

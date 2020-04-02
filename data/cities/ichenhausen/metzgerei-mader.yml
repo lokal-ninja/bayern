@@ -5,7 +5,7 @@ latitude: 48.3704971
 longitude: 10.305555400000001
 postcode: 89335
 city: Ichenhausen
-street: Heinrich-Sinz-Straße
+street: "Heinrich-Sinz-Straße"
 housenumber: 5
 phone: "+49 8223 2348"
 opening_hours: ""

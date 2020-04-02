@@ -5,7 +5,7 @@ latitude: 48.4124205
 longitude: 10.878728500000001
 postcode: 86368
 city: Gersthofen
-street: Ziegeleistraße
+street: "Ziegeleistraße"
 housenumber: 2
 phone: "+49 821 29770"
 opening_hours: "Mo-Sa 07:00-20:00"

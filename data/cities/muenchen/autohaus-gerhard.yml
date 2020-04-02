@@ -5,7 +5,7 @@ latitude: 48.118898800000004
 longitude: 11.598419300000002
 postcode: 81541
 city: München
-street: Sankt-Martin-Straße
+street: "Sankt-Martin-Straße"
 housenumber: 88
 phone: ""
 opening_hours: ""

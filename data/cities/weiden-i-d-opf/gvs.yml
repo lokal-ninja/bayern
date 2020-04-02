@@ -5,7 +5,7 @@ latitude: 49.664283600000005
 longitude: 12.1493686
 postcode: 92637
 city: Weiden i.d.OPf.
-street: Nikolaus-Otto-Straße
+street: "Nikolaus-Otto-Straße"
 housenumber: 6
 phone: ""
 opening_hours: ""

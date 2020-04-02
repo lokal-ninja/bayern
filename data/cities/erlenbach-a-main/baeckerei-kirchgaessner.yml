@@ -5,7 +5,7 @@ latitude: 49.802667500000005
 longitude: 9.1571715
 postcode: 63906
 city: Erlenbach a. Main
-street: Bahnstraße
+street: "Bahnstraße"
 housenumber: 
 phone: "+49 9372 98890"
 opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-12:00; Su 08:00-11:00; PH off"

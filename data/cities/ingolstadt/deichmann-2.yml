@@ -5,7 +5,7 @@ latitude: 48.7478488
 longitude: 11.4695765
 postcode: 85053
 city: Ingolstadt
-street: Eriagstraße
+street: "Eriagstraße"
 housenumber: 6
 phone: "+49 841 8863764"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"

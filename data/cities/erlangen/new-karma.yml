@@ -5,7 +5,7 @@ latitude: 49.57849220000001
 longitude: 11.0203694
 postcode: 91058
 city: Erlangen
-street: Hartmannstraße
+street: "Hartmannstraße"
 housenumber: 134
 phone: ""
 opening_hours: "Tu-Fr 08:00-19:00; Mo 09:00-19:00; Sa 08:00-14:00"

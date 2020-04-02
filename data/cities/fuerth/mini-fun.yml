@@ -5,7 +5,7 @@ latitude: 49.4799504
 longitude: 10.9874734
 postcode: 90762
 city: Fürth
-street: Gustavstraße
+street: "Gustavstraße"
 housenumber: 58
 phone: "+49 911 717133"
 opening_hours: ""

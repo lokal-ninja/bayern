@@ -5,7 +5,7 @@ latitude: 48.186047300000006
 longitude: 11.384408200000001
 postcode: 82194
 city: Gröbenzell
-street: Olchinger Straße
+street: "Olchinger Straße"
 housenumber: 80
 phone: "+49 8142 410 83 00"
 opening_hours: "Mo-Th 15:00-19:00; We 12:00-19:00; Fr 10:00-20:00; Sa 10:00-18:00"

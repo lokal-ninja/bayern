@@ -5,7 +5,7 @@ latitude: 48.391429200000005
 longitude: 10.836583200000002
 postcode: 86356
 city: Neusäß
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 14
 phone: "+49 821 207800"
 opening_hours: "Mo-Sa 08:00-20:00"

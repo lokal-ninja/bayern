@@ -5,7 +5,7 @@ latitude: 49.7388683
 longitude: 12.178251300000001
 postcode: 92660
 city: Neustadt a.d.Waldnaab
-street: Tirschenreuther Straße
+street: "Tirschenreuther Straße"
 housenumber: 40
 phone: ""
 opening_hours: ""

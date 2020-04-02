@@ -5,7 +5,7 @@ latitude: 47.8587732
 longitude: 12.1279898
 postcode: 83022
 city: Rosenheim
-street: Kaiserstraße
+street: "Kaiserstraße"
 housenumber: 19
 phone: ""
 opening_hours: ""

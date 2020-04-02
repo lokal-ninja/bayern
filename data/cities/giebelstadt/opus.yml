@@ -5,7 +5,7 @@ latitude: 49.652493400000004
 longitude: 9.9477212
 postcode: 97232
 city: Giebelstadt
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 6
 phone: ""
 opening_hours: ""

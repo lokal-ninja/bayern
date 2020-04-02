@@ -5,7 +5,7 @@ latitude: 48.162684600000006
 longitude: 11.3277452
 postcode: 82223
 city: Eichenau
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 110
 phone: ""
 opening_hours: ""

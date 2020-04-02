@@ -5,7 +5,7 @@ latitude: 49.4516264
 longitude: 11.0694344
 postcode: 90402
 city: Nürnberg
-street: Karl-Grillenberger-Straße
+street: "Karl-Grillenberger-Straße"
 housenumber: 30
 phone: "+49 911 2007807"
 opening_hours: ""

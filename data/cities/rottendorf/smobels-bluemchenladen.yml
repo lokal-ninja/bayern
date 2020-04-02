@@ -5,7 +5,7 @@ latitude: 49.7870718
 longitude: 10.0203676
 postcode: 97228
 city: Rottendorf
-street: Gartenstraße
+street: "Gartenstraße"
 housenumber: 33
 phone: ""
 opening_hours: "Th-Fr 12:00-18:00; Sa 10:00-12:00"

@@ -5,7 +5,7 @@ latitude: 48.7753403
 longitude: 11.4174162
 postcode: 85057
 city: Ingolstadt
-street: Ettinger Straße
+street: "Ettinger Straße"
 housenumber: 24
 phone: ""
 opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-13:00; PH off"

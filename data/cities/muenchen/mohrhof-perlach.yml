@@ -5,7 +5,7 @@ latitude: 48.101732600000005
 longitude: 11.6281095
 postcode: 81737
 city: München
-street: Ottobrunner Straße
+street: "Ottobrunner Straße"
 housenumber: 133
 phone: "+49 89 6300 5732"
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"

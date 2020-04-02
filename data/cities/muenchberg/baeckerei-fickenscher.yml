@@ -5,7 +5,7 @@ latitude: 50.19048840000001
 longitude: 11.787856300000001
 postcode: 95213
 city: Münchberg
-street: Luitpoldstraße
+street: "Luitpoldstraße"
 housenumber: 16
 phone: "+49 9251-5719"
 opening_hours: "Mo-Fr 05:30-18:00; Sa 05:30-13:00; Su 07:30-11:00"

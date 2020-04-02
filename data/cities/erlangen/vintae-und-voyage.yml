@@ -5,7 +5,7 @@ latitude: 49.5587582
 longitude: 10.9647459
 postcode: 91056
 city: Erlangen
-street: Neuenweiherstraße
+street: "Neuenweiherstraße"
 housenumber: 12
 phone: ""
 opening_hours: "Mo-Fr 09:00-14:00"

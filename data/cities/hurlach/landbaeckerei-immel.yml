@@ -5,7 +5,7 @@ latitude: 48.1182645
 longitude: 10.811776100000001
 postcode: 86857
 city: Hurlach
-street: Poststraße
+street: "Poststraße"
 housenumber: 7
 phone: ""
 opening_hours: ""

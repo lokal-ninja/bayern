@@ -5,7 +5,7 @@ latitude: 48.3103798
 longitude: 11.196643400000001
 postcode: 85235
 city: Odelzhausen
-street: Gartenstraße
+street: "Gartenstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

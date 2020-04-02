@@ -5,7 +5,7 @@ latitude: 48.281522200000005
 longitude: 11.5775099
 postcode: 85716
 city: Unterschleißheim
-street: Heimgartenstraße
+street: "Heimgartenstraße"
 housenumber: 30a
 phone: "+49 89 32121412;+49 171 1806980"
 opening_hours: "Th 15:00-18:00; Fr 11:00-18:00"

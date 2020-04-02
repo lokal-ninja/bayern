@@ -5,7 +5,7 @@ latitude: 48.2025809
 longitude: 10.8422657
 postcode: 86836
 city: Graben
-street: Junkersstraße
+street: "Junkersstraße"
 housenumber: 5
 phone: "+49 8232 50381 00"
 opening_hours: ""

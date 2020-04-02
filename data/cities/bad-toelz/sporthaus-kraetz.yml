@@ -5,7 +5,7 @@ latitude: 47.760174000000006
 longitude: 11.558680200000001
 postcode: 83646
 city: Bad Tölz
-street: Lenggrieser Straße
+street: "Lenggrieser Straße"
 housenumber: 1
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.3827147
 longitude: 10.8758833
 postcode: 86154
 city: Augsburg
-street: Grabenstraße
+street: "Grabenstraße"
 housenumber: 12
 phone: ""
 opening_hours: ""

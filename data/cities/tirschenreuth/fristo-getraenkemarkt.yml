@@ -5,7 +5,7 @@ latitude: 49.8820034
 longitude: 12.326708900000002
 postcode: 95643
 city: Tirschenreuth
-street: Mitterteicher Straße
+street: "Mitterteicher Straße"
 housenumber: 9A
 phone: "+49 9631 795 765"
 opening_hours: ""

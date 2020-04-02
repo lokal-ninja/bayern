@@ -5,7 +5,7 @@ latitude: 49.514825900000005
 longitude: 11.4182061
 postcode: 91217
 city: Hersbruck
-street: Kühnhofener Straße
+street: "Kühnhofener Straße"
 housenumber: 44
 phone: ""
 opening_hours: ""

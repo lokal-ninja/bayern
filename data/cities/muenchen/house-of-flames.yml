@@ -5,7 +5,7 @@ latitude: 48.135682
 longitude: 11.412383100000001
 postcode: 81249
 city: München
-street: Anton-Böck-Straße
+street: "Anton-Böck-Straße"
 housenumber: 32
 phone: "+49 89 89796030"
 opening_hours: "Mo-Fr 09:30-18:30; Sa 09:00-17:00"

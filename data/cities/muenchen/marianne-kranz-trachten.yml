@@ -5,7 +5,7 @@ latitude: 48.155210100000005
 longitude: 11.5755043
 postcode: 
 city: München
-street: Georgenstraße
+street: "Georgenstraße"
 housenumber: 50
 phone: ""
 opening_hours: ""

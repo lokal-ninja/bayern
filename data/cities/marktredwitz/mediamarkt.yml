@@ -5,7 +5,7 @@ latitude: 49.999624100000005
 longitude: 12.0772311
 postcode: 95615
 city: Marktredwitz
-street: Waldershofer Straße
+street: "Waldershofer Straße"
 housenumber: 10
 phone: ""
 opening_hours: ""

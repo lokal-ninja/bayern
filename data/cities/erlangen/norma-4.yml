@@ -5,7 +5,7 @@ latitude: 49.5618798
 longitude: 10.96162
 postcode: 91056
 city: Erlangen
-street: Sylvaniastraße
+street: "Sylvaniastraße"
 housenumber: 14
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

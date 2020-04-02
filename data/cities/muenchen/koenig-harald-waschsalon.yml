@@ -5,7 +5,7 @@ latitude: 48.140122500000004
 longitude: 11.591190500000002
 postcode: 80538
 city: München
-street: Sternstraße
+street: "Sternstraße"
 housenumber: 26
 phone: "+49 89 220988"
 opening_hours: "Mo-Fr 07:30-13:00,15:00-18:00; Sa 08:00-12:00"

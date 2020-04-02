@@ -5,7 +5,7 @@ latitude: 49.068977600000004
 longitude: 10.319583000000002
 postcode: 91550
 city: Dinkelsbühl
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 3
 phone: "+49 9851 7690"
 opening_hours: ""

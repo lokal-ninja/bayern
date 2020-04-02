@@ -5,7 +5,7 @@ latitude: 48.2916978
 longitude: 10.655784500000001
 postcode: 86850
 city: Fischach
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

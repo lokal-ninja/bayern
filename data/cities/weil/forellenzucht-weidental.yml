@@ -5,7 +5,7 @@ latitude: 48.1083447
 longitude: 10.930911400000001
 postcode: 
 city: Weil
-street: Weidentaler Weg
+street: "Weidentaler Weg"
 housenumber: 15
 phone: ""
 opening_hours: ""

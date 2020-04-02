@@ -5,7 +5,7 @@ latitude: 48.4750418
 longitude: 10.363724000000001
 postcode: 89362
 city: Offingen
-street: Remsharter Straße
+street: "Remsharter Straße"
 housenumber: 12
 phone: "+49 8224 7417"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:30; We,Su,PH off"

@@ -5,7 +5,7 @@ latitude: 49.50900540000001
 longitude: 11.281738200000001
 postcode: 91207
 city: Lauf a.d.Pegnitz
-street: Altdorfer Straße
+street: "Altdorfer Straße"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"

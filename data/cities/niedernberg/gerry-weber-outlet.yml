@@ -5,7 +5,7 @@ latitude: 49.9138962
 longitude: 9.1255061
 postcode: 63843
 city: Niedernberg
-street: Großostheimer Straße
+street: "Großostheimer Straße"
 housenumber: 1
 phone: "+49 6028 9793494"
 opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-17:00"

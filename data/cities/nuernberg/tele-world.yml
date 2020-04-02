@@ -5,7 +5,7 @@ latitude: 49.44977
 longitude: 11.0542526
 postcode: 90429
 city: Nürnberg
-street: Kernstraße
+street: "Kernstraße"
 housenumber: 21
 phone: ""
 opening_hours: ""

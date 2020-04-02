@@ -5,7 +5,7 @@ latitude: 48.005268900000004
 longitude: 12.8134621
 postcode: 83413
 city: Fridolfing
-street: Strohhof
+street: "Strohhof"
 housenumber: 8
 phone: "+49 (8684) 987 90"
 opening_hours: ""

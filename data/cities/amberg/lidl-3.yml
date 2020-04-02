@@ -5,7 +5,7 @@ latitude: 49.46679090000001
 longitude: 11.8536256
 postcode: 92224
 city: Amberg
-street: Hirschauer Straße
+street: "Hirschauer Straße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00; Su off"

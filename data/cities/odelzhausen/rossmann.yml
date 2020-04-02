@@ -5,7 +5,7 @@ latitude: 48.3069696
 longitude: 11.2051362
 postcode: 85235
 city: Odelzhausen
-street: Rudolf-Diesel-Straße
+street: "Rudolf-Diesel-Straße"
 housenumber: 1
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.388679100000004
 longitude: 12.1399989
 postcode: 92521
 city: Schwarzenfeld
-street: Schloßstraße
+street: "Schloßstraße"
 housenumber: 3
 phone: ""
 opening_hours: ""

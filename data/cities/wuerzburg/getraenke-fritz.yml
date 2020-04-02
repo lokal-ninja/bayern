@@ -5,7 +5,7 @@ latitude: 49.7312572
 longitude: 9.9563632
 postcode: 
 city: Würzburg
-street: Ossietzkystraße
+street: "Ossietzkystraße"
 housenumber: 12
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

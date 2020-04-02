@@ -5,7 +5,7 @@ latitude: 47.727681000000004
 longitude: 10.314438500000001
 postcode: 87435
 city: Kempten (Allgäu)
-street: Residenzplatz
+street: "Residenzplatz"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"

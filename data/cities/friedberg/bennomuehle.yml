@@ -5,7 +5,7 @@ latitude: 48.3564671
 longitude: 10.9758226
 postcode: 86316
 city: Friedberg
-street: Achstraße
+street: "Achstraße"
 housenumber: 35
 phone: ""
 opening_hours: "Mo-Fr 08:00-12:30, 13:30-18:00; Sa 08:00-12:30"

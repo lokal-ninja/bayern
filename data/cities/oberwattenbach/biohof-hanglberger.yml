@@ -5,7 +5,7 @@ latitude: 48.638702900000006
 longitude: 12.236625400000001
 postcode: 84051
 city: Oberwattenbach
-street: Am Berg
+street: "Am Berg"
 housenumber: 6
 phone: ""
 opening_hours: ""

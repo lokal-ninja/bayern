@@ -5,7 +5,7 @@ latitude: 49.443194600000005
 longitude: 11.0951626
 postcode: 90478
 city: Nürnberg
-street: Harsdörfferstraße
+street: "Harsdörfferstraße"
 housenumber: 9
 phone: "+49 911 442072"
 opening_hours: "Mo,Tu,We,Fr 09:00-13:00,14:00-18:00; Th 09:00-13:00; Sa 10:00-13:00; Mar-Sep: Tu 09:00-13:00,14:00-19:00 Sa 10:00-14:00"

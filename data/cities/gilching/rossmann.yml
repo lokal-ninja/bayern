@@ -5,7 +5,7 @@ latitude: 48.110138500000005
 longitude: 11.298774600000002
 postcode: 82205
 city: Gilching
-street: Römerstraße
+street: "Römerstraße"
 housenumber: 44
 phone: ""
 opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-19:00; PH off"

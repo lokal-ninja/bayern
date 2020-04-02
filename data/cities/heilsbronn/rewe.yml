@@ -5,7 +5,7 @@ latitude: 49.333274
 longitude: 10.7816734
 postcode: 91560
 city: Heilsbronn
-street: Am Klosterwald
+street: "Am Klosterwald"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

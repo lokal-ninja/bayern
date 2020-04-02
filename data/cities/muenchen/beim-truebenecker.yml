@@ -5,7 +5,7 @@ latitude: 48.1348155
 longitude: 11.5759717
 postcode: 80331
 city: München
-street: Viktualienmarkt
+street: "Viktualienmarkt"
 housenumber: Stand 33
 phone: ""
 opening_hours: "Mo-Fr 07:00-18:30; Sa 07:00-17:00"

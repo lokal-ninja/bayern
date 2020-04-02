@@ -5,7 +5,7 @@ latitude: 48.563463500000005
 longitude: 11.286640700000001
 postcode: 86529
 city: Schrobenhausen
-street: Rinderhofer Breite
+street: "Rinderhofer Breite"
 housenumber: 12
 phone: ""
 opening_hours: ""

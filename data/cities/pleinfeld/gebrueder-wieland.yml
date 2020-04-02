@@ -5,7 +5,7 @@ latitude: 49.095583000000005
 longitude: 10.9959345
 postcode: 91785
 city: Pleinfeld
-street: Postleitenstraße
+street: "Postleitenstraße"
 housenumber: 4
 phone: "+499144 9270060"
 opening_hours: ""

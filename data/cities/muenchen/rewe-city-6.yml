@@ -5,7 +5,7 @@ latitude: 48.1165591
 longitude: 11.525786400000001
 postcode: 81373
 city: München
-street: Partnachplatz
+street: "Partnachplatz"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

@@ -5,7 +5,7 @@ latitude: 47.825492100000005
 longitude: 12.0937628
 postcode: 83026
 city: Rosenheim
-street: Panger Straße
+street: "Panger Straße"
 housenumber: 37
 phone: ""
 opening_hours: ""

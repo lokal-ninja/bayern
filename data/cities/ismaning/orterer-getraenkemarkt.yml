@@ -5,7 +5,7 @@ latitude: 48.2191774
 longitude: 11.665265400000001
 postcode: 85737
 city: Ismaning
-street: Camerloherstraße
+street: "Camerloherstraße"
 housenumber: 40
 phone: "+49 89 92 39 67 08"
 opening_hours: "Mo-Sa 08:00-20:00"

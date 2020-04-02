@@ -5,7 +5,7 @@ latitude: 48.687867600000004
 longitude: 12.206378500000001
 postcode: 84061
 city: Ergoldsbach
-street: Friedhofstraße
+street: "Friedhofstraße"
 housenumber: 26
 phone: "+49 8771 408304"
 opening_hours: ""

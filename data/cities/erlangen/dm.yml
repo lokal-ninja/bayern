@@ -5,7 +5,7 @@ latitude: 49.59233690000001
 longitude: 11.0276692
 postcode: 91052
 city: Erlangen
-street: Allee am Röthelheimpark
+street: "Allee am Röthelheimpark"
 housenumber: 11
 phone: "+49 9131 4010046"
 opening_hours: "Mo-Fr 08:00-20:00"

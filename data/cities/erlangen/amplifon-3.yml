@@ -5,7 +5,7 @@ latitude: 49.5898612
 longitude: 11.0001086
 postcode: 91052
 city: Erlangen
-street: Michael-Vogel-Straße
+street: "Michael-Vogel-Straße"
 housenumber: 1b
 phone: ""
 opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa,Su,PH off"

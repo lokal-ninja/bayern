@@ -5,7 +5,7 @@ latitude: 49.416868
 longitude: 11.881148000000001
 postcode: 92245
 city: Kümmersbruck
-street: Vilstalstraße
+street: "Vilstalstraße"
 housenumber: 108
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

@@ -5,7 +5,7 @@ latitude: 50.0023075
 longitude: 12.093624400000001
 postcode: 95615
 city: Marktredwitz
-street: Fikentscherstraße
+street: "Fikentscherstraße"
 housenumber: 12
 phone: ""
 opening_hours: ""

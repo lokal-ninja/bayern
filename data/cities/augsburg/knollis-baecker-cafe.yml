@@ -5,7 +5,7 @@ latitude: 48.346821000000006
 longitude: 10.901290900000001
 postcode: 86159
 city: Augsburg
-street: Konrad-Zuse-Straße
+street: "Konrad-Zuse-Straße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 06:00-20:00; Su off"

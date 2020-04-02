@@ -5,7 +5,7 @@ latitude: 49.020274900000004
 longitude: 12.1284883
 postcode: 93055
 city: Regensburg
-street: Budapester Straße
+street: "Budapester Straße"
 housenumber: 13 c
 phone: ""
 opening_hours: ""

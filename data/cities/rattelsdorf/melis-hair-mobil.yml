@@ -5,7 +5,7 @@ latitude: 50.016150700000004
 longitude: 10.892066600000001
 postcode: 96179
 city: Rattelsdorf
-street: Ahornweg
+street: "Ahornweg"
 housenumber: 2
 phone: ""
 opening_hours: ""

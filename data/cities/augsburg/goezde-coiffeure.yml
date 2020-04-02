@@ -5,7 +5,7 @@ latitude: 48.3702174
 longitude: 10.9036209
 postcode: 86152
 city: Augsburg
-street: Pilgerhausstraße
+street: "Pilgerhausstraße"
 housenumber: 30
 phone: "+49 174 6376131"
 opening_hours: "Mo-Sa 09:00-20:00"

@@ -5,7 +5,7 @@ latitude: 49.864591600000004
 longitude: 10.289253800000001
 postcode: 97332
 city: Rimbach
-street: Lindenstraße
+street: "Lindenstraße"
 housenumber: 1a
 phone: ""
 opening_hours: ""

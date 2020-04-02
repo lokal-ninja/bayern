@@ -5,7 +5,7 @@ latitude: 48.124424100000006
 longitude: 11.423941000000001
 postcode: 82166
 city: Gräfelfing
-street: Maria-Eich-Straße
+street: "Maria-Eich-Straße"
 housenumber: 53
 phone: ""
 opening_hours: ""

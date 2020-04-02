@@ -5,7 +5,7 @@ latitude: 48.7750708
 longitude: 11.3824591
 postcode: 85049
 city: Ingolstadt
-street: Friedrichshofener Straße
+street: "Friedrichshofener Straße"
 housenumber: 1e
 phone: ""
 opening_hours: "Mo-Fr 09:30-19:00, Sa 09:30-18:00"

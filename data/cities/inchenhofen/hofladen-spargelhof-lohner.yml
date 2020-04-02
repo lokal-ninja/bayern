@@ -5,7 +5,7 @@ latitude: 48.510853000000004
 longitude: 11.1167526
 postcode: 86570
 city: Inchenhofen
-street: Sankt-Leonhard-Straße
+street: "Sankt-Leonhard-Straße"
 housenumber: 10
 phone: "+49 8257 997191"
 opening_hours: "08:00-19:00"

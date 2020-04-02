@@ -5,7 +5,7 @@ latitude: 50.0596219
 longitude: 10.1920778
 postcode: 97424
 city: Schweinfurt
-street: Gretel-Baumbach-Straße
+street: "Gretel-Baumbach-Straße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00; PH off"

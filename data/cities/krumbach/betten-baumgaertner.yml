@@ -5,7 +5,7 @@ latitude: 48.239911000000006
 longitude: 10.3573108
 postcode: 86381
 city: Krumbach
-street: Buchstraße
+street: "Buchstraße"
 housenumber: 17
 phone: "+49 8282 3978"
 opening_hours: ""

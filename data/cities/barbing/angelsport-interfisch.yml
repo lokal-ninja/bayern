@@ -5,7 +5,7 @@ latitude: 49.001329000000005
 longitude: 12.220236100000001
 postcode: 93092
 city: Barbing
-street: Dinkelweg
+street: "Dinkelweg"
 housenumber: 4
 phone: "+49 9401 3782"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"

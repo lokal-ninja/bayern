@@ -5,7 +5,7 @@ latitude: 48.3091664
 longitude: 11.9076637
 postcode: 85435
 city: Erding
-street: Freisinger Straße
+street: "Freisinger Straße"
 housenumber: 3
 phone: "+49 8122 8025"
 opening_hours: "Mo-Sa 09:00-20:00"

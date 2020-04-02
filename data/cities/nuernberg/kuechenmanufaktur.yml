@@ -5,7 +5,7 @@ latitude: 49.418398800000006
 longitude: 11.0226029
 postcode: 90449
 city: Nürnberg
-street: Ansbacher Straße
+street: "Ansbacher Straße"
 housenumber: 129
 phone: "+49 911 4303637"
 opening_hours: ""

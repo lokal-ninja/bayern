@@ -5,7 +5,7 @@ latitude: 48.2311672
 longitude: 11.686797
 postcode: 85737
 city: Ismaning
-street: Osterfeldstraße
+street: "Osterfeldstraße"
 housenumber: 41
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

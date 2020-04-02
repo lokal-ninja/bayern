@@ -5,7 +5,7 @@ latitude: 48.918707000000005
 longitude: 12.2083138
 postcode: 93087
 city: Alteglofsheim
-street: Landshuter Straße
+street: "Landshuter Straße"
 housenumber: 27
 phone: "+49 9453 375"
 opening_hours: ""

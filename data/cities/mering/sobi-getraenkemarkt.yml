@@ -5,7 +5,7 @@ latitude: 48.2558267
 longitude: 10.986172600000002
 postcode: 86415
 city: Mering
-street: Wallbergstraße
+street: "Wallbergstraße"
 housenumber: 14
 phone: ""
 opening_hours: ""

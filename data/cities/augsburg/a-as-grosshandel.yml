@@ -5,7 +5,7 @@ latitude: 48.3714067
 longitude: 10.870329700000001
 postcode: 86157
 city: Augsburg
-street: Eberlestraße
+street: "Eberlestraße"
 housenumber: 74
 phone: "+49 821 3490120"
 opening_hours: ""

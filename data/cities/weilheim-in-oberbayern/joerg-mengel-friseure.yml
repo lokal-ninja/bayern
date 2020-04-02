@@ -5,7 +5,7 @@ latitude: 47.840202700000006
 longitude: 11.1406676
 postcode: 82362
 city: Weilheim in Oberbayern
-street: Cavaliergasse
+street: "Cavaliergasse"
 housenumber: 4
 phone: "+49 881 41100"
 opening_hours: "Tu-Fr 09:00-18:00; Sa 08:30-13:00; PH off"

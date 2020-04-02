@@ -5,7 +5,7 @@ latitude: 48.137348
 longitude: 11.7144527
 postcode: 81829
 city: München
-street: Otto-Perutz-Straße
+street: "Otto-Perutz-Straße"
 housenumber: 16
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.0906578
 longitude: 12.247215200000001
 postcode: 93170
 city: Bernhardswald
-street: Regensburger Straße
+street: "Regensburger Straße"
 housenumber: 31
 phone: ""
 opening_hours: ""

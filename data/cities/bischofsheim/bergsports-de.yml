@@ -5,7 +5,7 @@ latitude: 50.411959800000005
 longitude: 10.0114529
 postcode: 97653
 city: Bischofsheim
-street: Querenteichstraße
+street: "Querenteichstraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

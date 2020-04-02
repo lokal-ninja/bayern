@@ -5,7 +5,7 @@ latitude: 49.686139000000004
 longitude: 11.6242116
 postcode: 91275
 city: Auerbach i.d.OPf.
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 7
 phone: ""
 opening_hours: ""

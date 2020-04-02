@@ -5,7 +5,7 @@ latitude: 49.655407100000005
 longitude: 9.9584098
 postcode: 97232
 city: Giebelstadt
-street: Kilian-Keller-Straße
+street: "Kilian-Keller-Straße"
 housenumber: 8
 phone: "+49 9334 1833"
 opening_hours: ""

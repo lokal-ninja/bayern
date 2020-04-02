@@ -5,7 +5,7 @@ latitude: 49.8889675
 longitude: 10.1791028
 postcode: 97247
 city: Obereisenheim
-street: An der Mainaue
+street: "An der Mainaue"
 housenumber: 2
 phone: "+49-9386-230"
 opening_hours: "Mo-Fr 07:00-18:00; Sa 09:00-14:00"

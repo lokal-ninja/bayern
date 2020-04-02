@@ -5,7 +5,7 @@ latitude: 48.673232500000005
 longitude: 10.8215859
 postcode: 86663
 city: Asbach-Bäumenheim
-street: Anton-Jaumann-Straße
+street: "Anton-Jaumann-Straße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

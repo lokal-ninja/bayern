@@ -5,7 +5,7 @@ latitude: 49.372799300000004
 longitude: 10.186213700000001
 postcode: 91541
 city: Rothenburg ob der Tauber
-street: Bensenstraße
+street: "Bensenstraße"
 housenumber: 2
 phone: "+49-9861-8739695"
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su off"

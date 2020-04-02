@@ -5,7 +5,7 @@ latitude: 50.321379400000005
 longitude: 10.214645
 postcode: 97616
 city: Bad Neustadt an der Saale
-street: Hohnstraße
+street: "Hohnstraße"
 housenumber: 30
 phone: ""
 opening_hours: "Mo-Fr 10:00-13:00,14:00-18:00; Sa 10:00-13:00"

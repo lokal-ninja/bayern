@@ -5,7 +5,7 @@ latitude: 49.068943000000004
 longitude: 10.3196244
 postcode: 91550
 city: Dinkelsbühl
-street: Ledermarkt
+street: "Ledermarkt"
 housenumber: 7
 phone: "+49 9851 9402"
 opening_hours: "Mo-Fr 07:00-18:30; Sa 07:00-13:00; Su 08:00-13:00"

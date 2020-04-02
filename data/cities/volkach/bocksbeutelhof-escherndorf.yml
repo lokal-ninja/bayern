@@ -5,7 +5,7 @@ latitude: 49.8625516
 longitude: 10.175077700000001
 postcode: 97332
 city: Volkach
-street: Astheimer Straße
+street: "Astheimer Straße"
 housenumber: 6
 phone: ""
 opening_hours: ""

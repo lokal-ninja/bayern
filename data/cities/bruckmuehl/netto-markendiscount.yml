@@ -5,7 +5,7 @@ latitude: 47.876218800000004
 longitude: 11.9154633
 postcode: 83052
 city: Bruckmühl
-street: Göttinger Straße
+street: "Göttinger Straße"
 housenumber: 33
 phone: ""
 opening_hours: ""

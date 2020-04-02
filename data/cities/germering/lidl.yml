@@ -5,7 +5,7 @@ latitude: 48.1328149
 longitude: 11.3787538
 postcode: 82110
 city: Germering
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 19
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

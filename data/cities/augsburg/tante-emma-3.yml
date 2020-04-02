@@ -5,7 +5,7 @@ latitude: 48.3676517
 longitude: 10.9215019
 postcode: 86153
 city: Augsburg
-street: Otto-Lindenmeyer-Straße
+street: "Otto-Lindenmeyer-Straße"
 housenumber: 45a
 phone: "+49 (0) 821 650 798 50"
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-14:00"

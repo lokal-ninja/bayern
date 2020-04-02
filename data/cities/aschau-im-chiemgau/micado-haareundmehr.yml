@@ -5,7 +5,7 @@ latitude: 47.780689100000004
 longitude: 12.324820800000001
 postcode: 83229
 city: Aschau im Chiemgau
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 1a
 phone: ""
 opening_hours: ""

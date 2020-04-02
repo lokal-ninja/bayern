@@ -5,7 +5,7 @@ latitude: 49.250365800000004
 longitude: 11.106568800000002
 postcode: 91154
 city: Roth
-street: Welserstraße
+street: "Welserstraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.518882600000005
 longitude: 11.333744900000001
 postcode: 91242
 city: Ottensoos
-street: Bräunleinsberg
+street: "Bräunleinsberg"
 housenumber: 2
 phone: "+49 9123 1660"
 opening_hours: ""

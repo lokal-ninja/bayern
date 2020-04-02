@@ -5,7 +5,7 @@ latitude: 48.310627100000005
 longitude: 10.6509478
 postcode: 86850
 city: Fischach
-street: Zollerstraße
+street: "Zollerstraße"
 housenumber: 7
 phone: "+498236 999 0"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 50.240858100000004
 longitude: 11.3285046
 postcode: 96317
 city: Kronach
-street: Andreas-Limmer-Straße
+street: "Andreas-Limmer-Straße"
 housenumber: 5
 phone: ""
 opening_hours: ""

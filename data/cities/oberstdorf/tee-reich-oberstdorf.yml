@@ -5,7 +5,7 @@ latitude: 47.4069268
 longitude: 10.279626700000001
 postcode: 87561
 city: Oberstdorf
-street: Oststraße
+street: "Oststraße"
 housenumber: 3
 phone: "+49 8322 7059878"
 opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-14:00"

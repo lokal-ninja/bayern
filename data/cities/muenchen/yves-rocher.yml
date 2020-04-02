@@ -5,7 +5,7 @@ latitude: 48.136774100000004
 longitude: 11.5763905
 postcode: 80331
 city: München
-street: Marienplatz
+street: "Marienplatz"
 housenumber: 17
 phone: ""
 opening_hours: "Mo-Sa 09:30-20:00"

@@ -5,7 +5,7 @@ latitude: 49.548771200000004
 longitude: 10.2382755
 postcode: 97215
 city: Uffenheim
-street: Geckenheimer Straße
+street: "Geckenheimer Straße"
 housenumber: 4
 phone: "+49 9842 7287"
 opening_hours: "Fr 09:00-14:00"

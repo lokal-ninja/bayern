@@ -5,7 +5,7 @@ latitude: 49.7832366
 longitude: 11.188134600000001
 postcode: 91320
 city: Ebermannstadt
-street: Markgrafenweg
+street: "Markgrafenweg"
 housenumber: 13
 phone: "+49 9194 7245940"
 opening_hours: "Mo-Sa 08:00-20:00"

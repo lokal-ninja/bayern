@@ -5,7 +5,7 @@ latitude: 48.7873396
 longitude: 12.0733014
 postcode: 84097
 city: Herrngiersdorf
-street: Bernhardstraße
+street: "Bernhardstraße"
 housenumber: 58-60
 phone: "+49 9452 933 9490"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.574191400000004
 longitude: 13.4691802
 postcode: 94032
 city: Passau
-street: Schustergasse
+street: "Schustergasse"
 housenumber: 9
 phone: "+49 851 851 6066"
 opening_hours: "Tu-Fr 10:00-13:00, 14:00-18:00; Sa 10:00-13:00"

@@ -5,7 +5,7 @@ latitude: 49.465465900000005
 longitude: 11.121598500000001
 postcode: 90491
 city: Nürnberg
-street: Äußere Sulzbacher Straße
+street: "Äußere Sulzbacher Straße"
 housenumber: 148
 phone: "+49 911 5979117"
 opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-16:00"

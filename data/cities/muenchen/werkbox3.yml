@@ -5,7 +5,7 @@ latitude: 48.122872900000004
 longitude: 11.609501
 postcode: 81671
 city: München
-street: Grafinger Straße
+street: "Grafinger Straße"
 housenumber: 6
 phone: ""
 opening_hours: "Offizielle Öffnungszeiten haben wir noch nicht, aber Du kannst uns jederzeit erreichen und einen Termin ausmachen."

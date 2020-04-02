@@ -5,7 +5,7 @@ latitude: 49.616375600000005
 longitude: 10.034417300000001
 postcode: 97253
 city: Gaukönigshofen
-street: Am Berg
+street: "Am Berg"
 housenumber: 15
 phone: "+49 9337 980334"
 opening_hours: ""

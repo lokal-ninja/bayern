@@ -5,7 +5,7 @@ latitude: 49.065200000000004
 longitude: 10.343107900000001
 postcode: 91550
 city: Dinkelsbühl
-street: Wassertrüdinger Straße
+street: "Wassertrüdinger Straße"
 housenumber: 57
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.215859300000005
 longitude: 11.5603005
 postcode: 80933
 city: München
-street: Linkstraße
+street: "Linkstraße"
 housenumber: 56
 phone: "+49 89 37157225"
 opening_hours: "Mo-Sa 09:00-18:00"

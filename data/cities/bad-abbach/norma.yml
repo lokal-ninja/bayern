@@ -5,7 +5,7 @@ latitude: 48.9368241
 longitude: 12.0515168
 postcode: 93077
 city: Bad Abbach
-street: Raiffeisenstraße
+street: "Raiffeisenstraße"
 housenumber: 23
 phone: ""
 opening_hours: ""

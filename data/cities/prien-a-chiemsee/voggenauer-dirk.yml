@@ -5,7 +5,7 @@ latitude: 47.856399
 longitude: 12.3476098
 postcode: 83209
 city: Prien a. Chiemsee
-street: Seestraße
+street: "Seestraße"
 housenumber: 11
 phone: "+49 8051 1218"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 50.037666300000005
 longitude: 12.0024105
 postcode: 95632
 city: Wunsiedel
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 2
 phone: ""
 opening_hours: ""

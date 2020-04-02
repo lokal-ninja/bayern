@@ -5,7 +5,7 @@ latitude: 49.7883268
 longitude: 9.9117683
 postcode: 97082
 city: Würzburg
-street: Leistenstraße
+street: "Leistenstraße"
 housenumber: 64a
 phone: ""
 opening_hours: ""

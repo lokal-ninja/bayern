@@ -5,7 +5,7 @@ latitude: 50.5203615
 longitude: 10.1464732
 postcode: 97650
 city: Fladungen
-street: Ludwigstraße
+street: "Ludwigstraße"
 housenumber: 2
 phone: "+49 9778 7222"
 opening_hours: "Mo-Sa 09:00-12:00"

@@ -5,7 +5,7 @@ latitude: 48.326472
 longitude: 10.0572257
 postcode: 89250
 city: Senden
-street: Bachstraße
+street: "Bachstraße"
 housenumber: 12
 phone: "+49 7307 21755"
 opening_hours: "Mo-Fr 06:15-13:00,14:30-18:00; Sa 06:15-12:00; PH off"

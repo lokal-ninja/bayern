@@ -5,7 +5,7 @@ latitude: 49.57664320000001
 longitude: 10.9917967
 postcode: 91058
 city: Erlangen
-street: Baumschulenweg
+street: "Baumschulenweg"
 housenumber: 15
 phone: ""
 opening_hours: "Mar-Oct Mo-Fr 08:00-18:00, Sa 08:00-14:00;Nov-Feb Mo-Fr 08:00-17:00, Sa 09:30-13:00"

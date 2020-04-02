@@ -5,7 +5,7 @@ latitude: 50.007012700000004
 longitude: 11.591970700000001
 postcode: 95463
 city: Bindlach
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 11
 phone: "+49 9208 212"
 opening_hours: ""

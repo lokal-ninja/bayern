@@ -5,7 +5,7 @@ latitude: 49.70711
 longitude: 9.2659403
 postcode: 63927
 city: Bürgstadt
-street: Friedenstraße
+street: "Friedenstraße"
 housenumber: 12-14
 phone: "+49 9371 660444"
 opening_hours: ""

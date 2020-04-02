@@ -5,7 +5,7 @@ latitude: 48.1124881
 longitude: 11.6747493
 postcode: 81825
 city: München
-street: Wimbachtalstraße
+street: "Wimbachtalstraße"
 housenumber: 29
 phone: ""
 opening_hours: ""

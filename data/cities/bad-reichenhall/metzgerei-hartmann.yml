@@ -5,7 +5,7 @@ latitude: 47.719389
 longitude: 12.8566544
 postcode: 83435
 city: Bad Reichenhall
-street: Reifenstuelstraße
+street: "Reifenstuelstraße"
 housenumber: 26
 phone: ""
 opening_hours: ""

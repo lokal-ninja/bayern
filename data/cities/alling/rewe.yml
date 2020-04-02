@@ -5,7 +5,7 @@ latitude: 48.1344324
 longitude: 11.2989815
 postcode: 82239
 city: Alling
-street: Gilchinger Straße
+street: "Gilchinger Straße"
 housenumber: 33
 phone: "+49 8141 5251232"
 opening_hours: "Mo-Sa 07:00-20:00"

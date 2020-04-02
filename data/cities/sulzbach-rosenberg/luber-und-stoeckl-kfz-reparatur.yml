@@ -5,7 +5,7 @@ latitude: 49.507607400000005
 longitude: 11.744836300000001
 postcode: 92237
 city: Sulzbach-Rosenberg
-street: Bayreuther Straße
+street: "Bayreuther Straße"
 housenumber: 26
 phone: "+49 9661 80500"
 opening_hours: ""

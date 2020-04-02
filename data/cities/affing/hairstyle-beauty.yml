@@ -5,7 +5,7 @@ latitude: 48.462032
 longitude: 10.981385000000001
 postcode: 86444
 city: Affing
-street: Neuburger Straße
+street: "Neuburger Straße"
 housenumber: 23 b
 phone: ""
 opening_hours: "Tu,We,Fr 09:00-18:00; Th 09:00-19:00; Sa 08:00-13:00"

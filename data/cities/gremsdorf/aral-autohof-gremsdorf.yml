@@ -5,7 +5,7 @@ latitude: 49.698522100000005
 longitude: 10.8540202
 postcode: 91350
 city: Gremsdorf
-street: Gewerbepark
+street: "Gewerbepark"
 housenumber: 2
 phone: ""
 opening_hours: "24/7"

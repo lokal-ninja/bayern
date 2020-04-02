@@ -5,7 +5,7 @@ latitude: 50.0326418
 longitude: 10.2365019
 postcode: 97424
 city: Schweinfurt
-street: Friedrich-Gauß-Straße
+street: "Friedrich-Gauß-Straße"
 housenumber: 2
 phone: "+49972177350"
 opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-19:00"

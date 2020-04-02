@@ -5,7 +5,7 @@ latitude: 48.554645900000004
 longitude: 12.1504545
 postcode: 84030
 city: Landshut
-street: Siemensstraße
+street: "Siemensstraße"
 housenumber: 12
 phone: "+49 (0) 871 97485445"
 opening_hours: ""

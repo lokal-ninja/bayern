@@ -5,7 +5,7 @@ latitude: 48.135099200000006
 longitude: 11.3749404
 postcode: 82110
 city: Germering
-street: Wittelsbacherstraße
+street: "Wittelsbacherstraße"
 housenumber: 23
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

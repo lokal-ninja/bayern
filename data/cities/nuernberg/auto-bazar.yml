@@ -5,7 +5,7 @@ latitude: 49.454447200000004
 longitude: 11.0120143
 postcode: 90431
 city: Nürnberg
-street: Leyher Straße
+street: "Leyher Straße"
 housenumber: 150
 phone: "+49 911 3262603"
 opening_hours: ""

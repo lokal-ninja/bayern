@@ -5,7 +5,7 @@ latitude: 48.9619389
 longitude: 12.383836
 postcode: 93102
 city: Pfatter
-street: Ringstraße
+street: "Ringstraße"
 housenumber: 27
 phone: "+49 9481 240"
 opening_hours: ""

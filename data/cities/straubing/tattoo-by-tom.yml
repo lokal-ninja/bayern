@@ -5,7 +5,7 @@ latitude: 48.8785789
 longitude: 12.5739706
 postcode: 94315
 city: Straubing
-street: Mittlere Bachstraße
+street: "Mittlere Bachstraße"
 housenumber: 25
 phone: ""
 opening_hours: "Tu-Fr 13:00-19:00; Sa 12:00-15:00"

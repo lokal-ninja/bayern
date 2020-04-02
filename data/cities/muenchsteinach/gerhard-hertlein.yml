@@ -5,7 +5,7 @@ latitude: 49.638566600000004
 longitude: 10.5983976
 postcode: 91481
 city: Münchsteinach
-street: Neustädter Straße
+street: "Neustädter Straße"
 housenumber: 6
 phone: ""
 opening_hours: ""

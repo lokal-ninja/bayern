@@ -5,7 +5,7 @@ latitude: 48.379785000000005
 longitude: 10.9234474
 postcode: 86165
 city: Augsburg
-street: Marienplatz
+street: "Marienplatz"
 housenumber: 8
 phone: ""
 opening_hours: ""

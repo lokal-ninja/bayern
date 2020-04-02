@@ -5,7 +5,7 @@ latitude: 49.984503000000004
 longitude: 10.2135262
 postcode: 97520
 city: Röthlein
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 90
 phone: "+49 9723 3542"
 opening_hours: ""

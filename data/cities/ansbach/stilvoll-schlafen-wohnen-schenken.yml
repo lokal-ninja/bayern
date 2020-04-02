@@ -5,7 +5,7 @@ latitude: 49.3034619
 longitude: 10.5720068
 postcode: 91522
 city: Ansbach
-street: Pfarrstraße
+street: "Pfarrstraße"
 housenumber: 6
 phone: ""
 opening_hours: "Tu-Fr 9:30-18:00, Sa 9:30-14:00, Mo on appointment"

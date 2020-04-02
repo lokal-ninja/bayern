@@ -5,7 +5,7 @@ latitude: 48.1231036
 longitude: 11.566108600000002
 postcode: 80469
 city: München
-street: Auenstraße
+street: "Auenstraße"
 housenumber: 31
 phone: "+49 89 13948485"
 opening_hours: ""

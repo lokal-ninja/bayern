@@ -5,7 +5,7 @@ latitude: 50.015652700000004
 longitude: 12.0989968
 postcode: 95615
 city: Marktredwitz
-street: Klepperstraße
+street: "Klepperstraße"
 housenumber: 5
 phone: "+49 9231 505779"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"

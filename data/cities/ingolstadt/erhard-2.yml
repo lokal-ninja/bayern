@@ -5,7 +5,7 @@ latitude: 48.751067500000005
 longitude: 11.4288945
 postcode: 85051
 city: Ingolstadt
-street: Eigenheimstraße
+street: "Eigenheimstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

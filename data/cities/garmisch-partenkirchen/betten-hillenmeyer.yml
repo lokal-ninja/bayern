@@ -5,7 +5,7 @@ latitude: 47.49633660000001
 longitude: 11.0978183
 postcode: 82467
 city: Garmisch-Partenkirchen
-street: Hindenburgstraße
+street: "Hindenburgstraße"
 housenumber: 49
 phone: "+49 8821 20 82"
 opening_hours: ""

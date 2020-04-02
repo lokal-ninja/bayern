@@ -5,7 +5,7 @@ latitude: 49.2841163
 longitude: 10.785579100000001
 postcode: 91564
 city: Neuendettelsau
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 18
 phone: ""
 opening_hours: "Mo-Fr 08:00-17:00"

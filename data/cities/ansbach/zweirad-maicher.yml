@@ -5,7 +5,7 @@ latitude: 49.3061245
 longitude: 10.564825200000001
 postcode: 91522
 city: Ansbach
-street: Würzburger Landstraße
+street: "Würzburger Landstraße"
 housenumber: 10a
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00;Sa 09:00-16:00"

@@ -5,7 +5,7 @@ latitude: 47.721735
 longitude: 12.8750408
 postcode: 83435
 city: Bad Reichenhall
-street: Poststraße
+street: "Poststraße"
 housenumber: 7
 phone: ""
 opening_hours: ""

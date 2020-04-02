@@ -5,7 +5,7 @@ latitude: 48.3158509
 longitude: 10.892474
 postcode: 86179
 city: Augsburg
-street: Im Tal
+street: "Im Tal"
 housenumber: 11
 phone: "+49 821 650 9283"
 opening_hours: "Mo-Fr 09:00-19:00, Sa 09:00-18:00"

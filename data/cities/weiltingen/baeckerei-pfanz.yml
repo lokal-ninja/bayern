@@ -5,7 +5,7 @@ latitude: 49.037992800000005
 longitude: 10.4486713
 postcode: 91744
 city: Weiltingen
-street: Badstraße
+street: "Badstraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

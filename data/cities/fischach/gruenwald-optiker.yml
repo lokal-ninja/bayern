@@ -5,7 +5,7 @@ latitude: 48.29118020000001
 longitude: 10.657869100000001
 postcode: 86850
 city: Fischach
-street: Augsburger Straße
+street: "Augsburger Straße"
 housenumber: 10
 phone: ""
 opening_hours: ""

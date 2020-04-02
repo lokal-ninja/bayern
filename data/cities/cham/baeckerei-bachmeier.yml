@@ -5,7 +5,7 @@ latitude: 49.207761100000006
 longitude: 12.666254100000002
 postcode: 93413
 city: Cham
-street: Werner-von-Siemens-Straße
+street: "Werner-von-Siemens-Straße"
 housenumber: 14
 phone: "+49 8721 9700"
 opening_hours: ""

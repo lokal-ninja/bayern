@@ -5,7 +5,7 @@ latitude: 48.393762800000005
 longitude: 9.9979489
 postcode: 89231
 city: Neu-Ulm
-street: Schützenstraße
+street: "Schützenstraße"
 housenumber: 20
 phone: ""
 opening_hours: ""

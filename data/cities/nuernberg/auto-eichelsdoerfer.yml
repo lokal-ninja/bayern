@@ -5,7 +5,7 @@ latitude: 49.4424216
 longitude: 11.076687000000002
 postcode: 90459
 city: Nürnberg
-street: Bogenstraße
+street: "Bogenstraße"
 housenumber: 10
 phone: ""
 opening_hours: ""

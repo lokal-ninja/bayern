@@ -5,7 +5,7 @@ latitude: 48.9208342
 longitude: 11.883373500000001
 postcode: 
 city: Kelheim
-street: Schäfflerstraße
+street: "Schäfflerstraße"
 housenumber: 12
 phone: ""
 opening_hours: ""

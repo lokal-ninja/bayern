@@ -5,7 +5,7 @@ latitude: 50.090005000000005
 longitude: 10.785741
 postcode: 96106
 city: Ebern
-street: Heubacher Straße
+street: "Heubacher Straße"
 housenumber: 17
 phone: ""
 opening_hours: ""

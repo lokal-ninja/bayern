@@ -5,7 +5,7 @@ latitude: 48.179478
 longitude: 11.2554149
 postcode: 82256
 city: Fürstenfeldbruck
-street: Dachauer Straße
+street: "Dachauer Straße"
 housenumber: 2
 phone: "+49 (180) 5011225"
 opening_hours: "Mo-Fr 9:00-18:30;Sa 9:00-16:00"

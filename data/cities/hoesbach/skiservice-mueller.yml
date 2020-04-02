@@ -5,7 +5,7 @@ latitude: 50.006205800000004
 longitude: 9.2052229
 postcode: 63768
 city: Hösbach
-street: Spessartstraße
+street: "Spessartstraße"
 housenumber: 10
 phone: "+49 6021 367464"
 opening_hours: ""

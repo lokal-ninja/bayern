@@ -5,7 +5,7 @@ latitude: 48.99836680000001
 longitude: 12.095252700000001
 postcode: 93053
 city: Regensburg
-street: Universitätsstraße
+street: "Universitätsstraße"
 housenumber: 31
 phone: "+49 941 9106 9790"
 opening_hours: "Mo-Fr 08:30-18:00"

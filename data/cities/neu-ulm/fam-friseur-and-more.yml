@@ -5,7 +5,7 @@ latitude: 48.3941852
 longitude: 9.999455900000001
 postcode: 89231
 city: Neu-Ulm
-street: Petrusplatz
+street: "Petrusplatz"
 housenumber: 11
 phone: "+49 731 / 3782344"
 opening_hours: "Mo 10:00-19:00; Tu-Fr 09:00-20:00; Sa 10:00-15:00"

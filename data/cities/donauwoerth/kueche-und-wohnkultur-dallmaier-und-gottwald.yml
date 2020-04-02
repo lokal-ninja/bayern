@@ -5,7 +5,7 @@ latitude: 48.707477600000004
 longitude: 10.7567956
 postcode: 86609
 city: Donauwörth
-street: Ludwig-Auer-Straße
+street: "Ludwig-Auer-Straße"
 housenumber: 7
 phone: "+49 906 7058890"
 opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-13:00"

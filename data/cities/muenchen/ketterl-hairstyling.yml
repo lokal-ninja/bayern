@@ -5,7 +5,7 @@ latitude: 48.113084400000005
 longitude: 11.6508508
 postcode: 81825
 city: München
-street: Zehntfeldstraße
+street: "Zehntfeldstraße"
 housenumber: 135
 phone: ""
 opening_hours: "Tu-Fr 08:00-18:00; Sa 08:00-12:30"

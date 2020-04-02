@@ -5,7 +5,7 @@ latitude: 49.443173900000005
 longitude: 11.0875879
 postcode: 90459
 city: Nürnberg
-street: Galgenhofstraße
+street: "Galgenhofstraße"
 housenumber: 53
 phone: ""
 opening_hours: ""

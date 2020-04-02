@@ -5,7 +5,7 @@ latitude: 48.7761106
 longitude: 11.437121900000001
 postcode: 85055
 city: Ingolstadt
-street: Mitterweg
+street: "Mitterweg"
 housenumber: 7
 phone: "+49 841 14901505"
 opening_hours: ""

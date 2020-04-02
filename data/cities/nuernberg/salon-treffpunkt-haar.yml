@@ -5,7 +5,7 @@ latitude: 49.447115600000004
 longitude: 11.1225623
 postcode: 90480
 city: Nürnberg
-street: Passauer Straße
+street: "Passauer Straße"
 housenumber: 30
 phone: ""
 opening_hours: ""

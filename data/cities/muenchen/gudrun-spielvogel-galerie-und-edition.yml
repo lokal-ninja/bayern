@@ -5,7 +5,7 @@ latitude: 48.1380835
 longitude: 11.5875968
 postcode: 80538
 city: München
-street: Maximilianstraße
+street: "Maximilianstraße"
 housenumber: 45
 phone: "+49 89 21 86 97 00"
 opening_hours: "Tu nach Vereinbarung; We-Fr 13:00-18:30; Sa 11:00-14:00"

@@ -5,7 +5,7 @@ latitude: 48.104419500000006
 longitude: 10.6416485
 postcode: 86833
 city: Ettringen
-street: Germanenstraße
+street: "Germanenstraße"
 housenumber: 7
 phone: "+49 8249 90156"
 opening_hours: "Mo, Tu, Th, Fr 09:00-12:30, 14:00-18:30; Sa 08:00-12:30; We 09:00-12:30"

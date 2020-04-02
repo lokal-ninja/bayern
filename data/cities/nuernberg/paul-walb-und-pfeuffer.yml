@@ -5,7 +5,7 @@ latitude: 49.447136300000004
 longitude: 11.0653333
 postcode: 90443
 city: Nürnberg
-street: Gostenhofer Hauptstraße
+street: "Gostenhofer Hauptstraße"
 housenumber: 21
 phone: ""
 opening_hours: "Mo-Fr 09:00-13:00; Sa 09:00-13:00"

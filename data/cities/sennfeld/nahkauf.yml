@@ -5,7 +5,7 @@ latitude: 50.035569800000005
 longitude: 10.257139
 postcode: 97526
 city: Sennfeld
-street: Kreuzstraße
+street: "Kreuzstraße"
 housenumber: 41
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

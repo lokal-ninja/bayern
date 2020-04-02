@@ -5,7 +5,7 @@ latitude: 49.175532000000004
 longitude: 10.924836800000001
 postcode: 91174
 city: Spalt
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 25
 phone: "+49917577940"
 opening_hours: "Mo,Tu,Th,Fr 08:15-12:30,14:00-18:00; We,Sa 08:15-12:30"

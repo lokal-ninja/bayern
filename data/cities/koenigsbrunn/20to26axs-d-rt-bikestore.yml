@@ -5,7 +5,7 @@ latitude: 48.276619600000004
 longitude: 10.881426000000001
 postcode: 86343
 city: Königsbrunn
-street: Augustusstraße
+street: "Augustusstraße"
 housenumber: 12
 phone: ""
 opening_hours: ""

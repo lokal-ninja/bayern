@@ -5,7 +5,7 @@ latitude: 49.4428357
 longitude: 11.8598704
 postcode: 92224
 city: Amberg
-street: Kurfürstenring
+street: "Kurfürstenring"
 housenumber: 10
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.6988459
 longitude: 11.060319900000001
 postcode: 91301
 city: Forchheim
-street: Äußere Nürnberger Straße
+street: "Äußere Nürnberger Straße"
 housenumber: 77
 phone: ""
 opening_hours: "Mo-Sa 8:00-20:00; Su,PH off"

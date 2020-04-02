@@ -5,7 +5,7 @@ latitude: 48.113221
 longitude: 11.6573577
 postcode: 81825
 city: München
-street: Matterhornstraße
+street: "Matterhornstraße"
 housenumber: 21a
 phone: "+49 89 423495"
 opening_hours: ""

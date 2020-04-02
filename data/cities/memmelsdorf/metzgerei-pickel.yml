@@ -5,7 +5,7 @@ latitude: 49.9328451
 longitude: 10.9549255
 postcode: 96117
 city: Memmelsdorf
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 26
 phone: ""
 opening_hours: ""

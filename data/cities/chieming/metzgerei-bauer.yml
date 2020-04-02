@@ -5,7 +5,7 @@ latitude: 47.8934847
 longitude: 12.541719400000002
 postcode: 83339
 city: Chieming
-street: Laimgruber Straße
+street: "Laimgruber Straße"
 housenumber: 5
 phone: "+498664358"
 opening_hours: "Mo-Sa 07:00-12:30; Mo-Fr 14:30-18:00"

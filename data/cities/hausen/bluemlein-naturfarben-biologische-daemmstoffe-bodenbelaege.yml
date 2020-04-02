@@ -5,7 +5,7 @@ latitude: 49.691116900000004
 longitude: 11.034076800000001
 postcode: 91353
 city: Hausen
-street: Heroldsbacher Straße
+street: "Heroldsbacher Straße"
 housenumber: 11
 phone: ""
 opening_hours: ""

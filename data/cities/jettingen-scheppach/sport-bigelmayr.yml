@@ -5,7 +5,7 @@ latitude: 48.3824994
 longitude: 10.4905109
 postcode: 89343
 city: Jettingen-Scheppach
-street: Untere Dorfstraße
+street: "Untere Dorfstraße"
 housenumber: 5
 phone: "+49-8225-1395"
 opening_hours: "Mo-Tu 10:00-12:00,14:30-18:00; We 10:00-12:00; Th 10:00-12:00,14:30-20:00; Fr 10:00-12:00,14:30-18:00; Sa 09:00-12:00"

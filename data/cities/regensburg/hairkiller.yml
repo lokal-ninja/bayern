@@ -5,7 +5,7 @@ latitude: 49.0158068
 longitude: 12.1004056
 postcode: 93047
 city: Regensburg
-street: Maximilianstraße
+street: "Maximilianstraße"
 housenumber: 23
 phone: ""
 opening_hours: ""

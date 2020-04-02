@@ -5,7 +5,7 @@ latitude: 47.648177700000005
 longitude: 10.4547355
 postcode: 87466
 city: Oy-Mittelberg
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 2
 phone: ""
 opening_hours: "24/7"

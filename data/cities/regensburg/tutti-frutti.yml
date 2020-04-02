@@ -5,7 +5,7 @@ latitude: 49.016096000000005
 longitude: 12.1316483
 postcode: 93055
 city: Regensburg
-street: Auweg
+street: "Auweg"
 housenumber: 44 c
 phone: ""
 opening_hours: ""

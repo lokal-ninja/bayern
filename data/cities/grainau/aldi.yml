@@ -5,7 +5,7 @@ latitude: 47.479178100000006
 longitude: 11.054334200000001
 postcode: 82491
 city: Grainau
-street: An der Zugspitze
+street: "An der Zugspitze"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

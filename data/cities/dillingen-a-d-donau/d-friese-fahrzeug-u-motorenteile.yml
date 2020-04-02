@@ -5,7 +5,7 @@ latitude: 48.583986700000004
 longitude: 10.479622800000001
 postcode: 89407
 city: Dillingen a.d.Donau
-street: Otto-Brenner-Straße
+street: "Otto-Brenner-Straße"
 housenumber: 2
 phone: ""
 opening_hours: ""

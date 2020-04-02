@@ -5,7 +5,7 @@ latitude: 48.3684883
 longitude: 10.8994102
 postcode: 86150
 city: Augsburg
-street: Elias-Holl-Platz
+street: "Elias-Holl-Platz"
 housenumber: 8
 phone: "+49 821 31949881"
 opening_hours: "Tu, We, Fr 10:00-19:00; Th 10:00-20:00; Sa 10:00-18:00"

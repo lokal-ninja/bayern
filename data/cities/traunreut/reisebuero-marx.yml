@@ -5,7 +5,7 @@ latitude: 47.964435
 longitude: 12.5910448
 postcode: 83301
 city: Traunreut
-street: Kantstraße
+street: "Kantstraße"
 housenumber: 11
 phone: ""
 opening_hours: ""

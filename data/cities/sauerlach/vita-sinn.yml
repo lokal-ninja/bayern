@@ -5,7 +5,7 @@ latitude: 47.969354100000004
 longitude: 11.662415300000001
 postcode: 82054
 city: Sauerlach
-street: Rudolf-Diesel-Ring
+street: "Rudolf-Diesel-Ring"
 housenumber: 17
 phone: ""
 opening_hours: ""

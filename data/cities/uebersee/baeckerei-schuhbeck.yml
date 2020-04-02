@@ -5,7 +5,7 @@ latitude: 47.822715
 longitude: 12.4834355
 postcode: 83236
 city: Übersee
-street: Feldwieser Straße
+street: "Feldwieser Straße"
 housenumber: 16
 phone: "+49 8642 597180"
 opening_hours: ""

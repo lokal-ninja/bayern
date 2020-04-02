@@ -5,7 +5,7 @@ latitude: 47.746155800000004
 longitude: 10.229645900000001
 postcode: 87487
 city: Wiggensbach
-street: Rohrachstraße
+street: "Rohrachstraße"
 housenumber: 11
 phone: ""
 opening_hours: ""

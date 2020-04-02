@@ -5,7 +5,7 @@ latitude: 49.8286974
 longitude: 9.619034300000001
 postcode: 97837
 city: Erlenbach bei Marktheidenfeld
-street: An der Röthe
+street: "An der Röthe"
 housenumber: 1
 phone: "+49 9391 915834"
 opening_hours: ""

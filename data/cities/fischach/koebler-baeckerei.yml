@@ -5,7 +5,7 @@ latitude: 48.2559228
 longitude: 10.641437600000001
 postcode: 86850
 city: Fischach
-street: Mickhauser Straße
+street: "Mickhauser Straße"
 housenumber: 8
 phone: ""
 opening_hours: ""

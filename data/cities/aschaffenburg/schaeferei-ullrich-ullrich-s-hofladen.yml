@@ -5,7 +5,7 @@ latitude: 50.000062500000006
 longitude: 9.1173698
 postcode: 63741
 city: Aschaffenburg
-street: Konradstraße
+street: "Konradstraße"
 housenumber: 66
 phone: "+496021/4488157"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 47.716445300000004
 longitude: 10.291786400000001
 postcode: 87439
 city: Kempten (Allgäu)
-street: Aybühlweg
+street: "Aybühlweg"
 housenumber: 45
 phone: ""
 opening_hours: ""

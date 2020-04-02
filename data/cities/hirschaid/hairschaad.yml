@@ -5,7 +5,7 @@ latitude: 49.813965700000004
 longitude: 10.992278500000001
 postcode: 96114
 city: Hirschaid
-street: Nürnberger Straße
+street: "Nürnberger Straße"
 housenumber: 41
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.1453883
 longitude: 11.5792949
 postcode: 
 city: München
-street: Ludwigstraße
+street: "Ludwigstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

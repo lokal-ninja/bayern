@@ -5,7 +5,7 @@ latitude: 47.8702519
 longitude: 12.6567062
 postcode: 83278
 city: Traunstein
-street: Salzburger Straße
+street: "Salzburger Straße"
 housenumber: 4
 phone: "+49 861 69344"
 opening_hours: ""

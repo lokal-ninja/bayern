@@ -5,7 +5,7 @@ latitude: 48.7466838
 longitude: 11.0168985
 postcode: 86643
 city: Rennertshofen
-street: Am Berg
+street: "Am Berg"
 housenumber: 3a
 phone: "+49 8434 1796"
 opening_hours: "nach Vereinbarung"

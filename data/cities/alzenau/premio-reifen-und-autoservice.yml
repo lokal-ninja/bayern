@@ -5,7 +5,7 @@ latitude: 50.0933786
 longitude: 9.0588791
 postcode: 63755
 city: Alzenau
-street: Merkurstraße
+street: "Merkurstraße"
 housenumber: 5
 phone: "+49 6023 1081"
 opening_hours: ""

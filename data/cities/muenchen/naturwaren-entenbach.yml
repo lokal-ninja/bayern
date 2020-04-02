@@ -5,7 +5,7 @@ latitude: 48.1230339
 longitude: 11.577906200000001
 postcode: 81541
 city: München
-street: Schlotthauerstraße
+street: "Schlotthauerstraße"
 housenumber: 16
 phone: "+49 (0) 89 62232389"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"

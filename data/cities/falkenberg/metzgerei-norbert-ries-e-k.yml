@@ -5,7 +5,7 @@ latitude: 48.492878700000006
 longitude: 12.757783000000002
 postcode: 84326
 city: Falkenberg
-street: Hochfeldstraße
+street: "Hochfeldstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

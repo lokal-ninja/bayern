@@ -5,7 +5,7 @@ latitude: 48.4525573
 longitude: 10.984251800000001
 postcode: 86444
 city: Affing
-street: Sommerstraße
+street: "Sommerstraße"
 housenumber: 4a
 phone: ""
 opening_hours: ""

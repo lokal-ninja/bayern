@@ -5,7 +5,7 @@ latitude: 48.9811205
 longitude: 12.0677751
 postcode: 93080
 city: Pentling
-street: Hohengebrachinger Straße
+street: "Hohengebrachinger Straße"
 housenumber: 31
 phone: "+49 (0)941 91069422"
 opening_hours: "Mo-Sa 06:00-20:00; Su 08:00-19:00"

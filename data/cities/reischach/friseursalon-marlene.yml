@@ -5,7 +5,7 @@ latitude: 48.291067500000004
 longitude: 12.7252288
 postcode: 84571
 city: Reischach
-street: Eggenfeldener Straße
+street: "Eggenfeldener Straße"
 housenumber: 2
 phone: ""
 opening_hours: ""

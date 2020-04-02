@@ -5,7 +5,7 @@ latitude: 48.8345143
 longitude: 12.9624678
 postcode: 94469
 city: Deggendorf
-street: Metzgergasse
+street: "Metzgergasse"
 housenumber: 1
 phone: "+49 991 34478870"
 opening_hours: ""

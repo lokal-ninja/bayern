@@ -5,7 +5,7 @@ latitude: 48.727723000000005
 longitude: 13.381097
 postcode: 94104
 city: Tittling
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 13
 phone: ""
 opening_hours: "Mo-Fr 09:00-12:30;Mo-Fr 13:30-18:00;Sa 09:00-16:00"

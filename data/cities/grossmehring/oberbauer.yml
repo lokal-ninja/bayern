@@ -5,7 +5,7 @@ latitude: 48.7653345
 longitude: 11.5252318
 postcode: 85098
 city: Großmehring
-street: Ingolstädter Straße
+street: "Ingolstädter Straße"
 housenumber: 37
 phone: "+49 8407 702"
 opening_hours: ""

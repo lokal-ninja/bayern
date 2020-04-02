@@ -5,7 +5,7 @@ latitude: 49.505204500000005
 longitude: 11.2718488
 postcode: 91207
 city: Lauf a.d.Pegnitz
-street: Pegnitzstraße
+street: "Pegnitzstraße"
 housenumber: 11
 phone: ""
 opening_hours: ""

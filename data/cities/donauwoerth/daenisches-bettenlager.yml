@@ -5,7 +5,7 @@ latitude: 48.725781000000005
 longitude: 10.7715958
 postcode: 86609
 city: Donauwörth
-street: Sallingerstraße
+street: "Sallingerstraße"
 housenumber: 13
 phone: ""
 opening_hours: "Mo-Fr 09:30-19:00; Sa 09:00-16:00; PH off"

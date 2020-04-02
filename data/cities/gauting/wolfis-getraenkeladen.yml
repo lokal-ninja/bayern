@@ -5,7 +5,7 @@ latitude: 48.0565505
 longitude: 11.4014722
 postcode: 82131
 city: Gauting
-street: Leutstettener Weg
+street: "Leutstettener Weg"
 housenumber: 10
 phone: "+49 89 8509744"
 opening_hours: "Mo-Fr 08:30-12:30; Mo,Tu,Th,Fr 15:00-18:00; Sa 08:00-12:30; PH off"

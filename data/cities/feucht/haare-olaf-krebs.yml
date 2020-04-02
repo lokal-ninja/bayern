@@ -5,7 +5,7 @@ latitude: 49.373080300000005
 longitude: 11.213875300000002
 postcode: 90537
 city: Feucht
-street: Lohweg
+street: "Lohweg"
 housenumber: 1
 phone: ""
 opening_hours: ""

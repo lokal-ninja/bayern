@@ -5,7 +5,7 @@ latitude: 48.2244642
 longitude: 11.4696526
 postcode: 85757
 city: Karlsfeld
-street: Münchner Straße
+street: "Münchner Straße"
 housenumber: 173
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.943808100000005
 longitude: 11.577857400000001
 postcode: 95444
 city: Bayreuth
-street: Opernstraße
+street: "Opernstraße"
 housenumber: 5
 phone: "+49 921 513111"
 opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00; PH off"

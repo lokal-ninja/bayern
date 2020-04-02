@@ -5,7 +5,7 @@ latitude: 49.5077409
 longitude: 11.280476700000001
 postcode: 91207
 city: Lauf a.d.Pegnitz
-street: Luitpoldstraße
+street: "Luitpoldstraße"
 housenumber: 14
 phone: "+49 177 4119523"
 opening_hours: "Mo,Th 16:30-18:00; Fr 15:00-18:00; Sa 09:00-13:00"

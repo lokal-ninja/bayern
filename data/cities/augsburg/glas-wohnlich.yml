@@ -5,7 +5,7 @@ latitude: 48.307991300000005
 longitude: 10.904161400000001
 postcode: 86179
 city: Augsburg
-street: Inninger Straße
+street: "Inninger Straße"
 housenumber: 4
 phone: "+49 821 84044"
 opening_hours: ""

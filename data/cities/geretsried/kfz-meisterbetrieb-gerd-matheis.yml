@@ -5,7 +5,7 @@ latitude: 47.8524965
 longitude: 11.487290900000001
 postcode: 82538
 city: Geretsried
-street: Spreestraße
+street: "Spreestraße"
 housenumber: 11
 phone: ""
 opening_hours: ""

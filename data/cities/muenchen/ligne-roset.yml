@@ -5,7 +5,7 @@ latitude: 48.145861100000005
 longitude: 11.576822900000002
 postcode: 80333
 city: München
-street: Oskar-von-Miller-Ring
+street: "Oskar-von-Miller-Ring"
 housenumber: 35
 phone: ""
 opening_hours: ""

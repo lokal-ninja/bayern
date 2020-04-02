@@ -5,7 +5,7 @@ latitude: 48.04609
 longitude: 11.9686442
 postcode: 85567
 city: Grafing bei München
-street: Rotter Straße
+street: "Rotter Straße"
 housenumber: 3
 phone: "+49 8092 861557"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00; PH off"

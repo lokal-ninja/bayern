@@ -5,7 +5,7 @@ latitude: 49.603627200000005
 longitude: 11.0044047
 postcode: 91054
 city: Erlangen
-street: Bayreuther Straße
+street: "Bayreuther Straße"
 housenumber: 2
 phone: "+49 9131 29947"
 opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-12:00"

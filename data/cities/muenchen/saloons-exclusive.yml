@@ -5,7 +5,7 @@ latitude: 48.1453664
 longitude: 11.640114700000002
 postcode: 81929
 city: München
-street: Friedrich-Eckart-Straße
+street: "Friedrich-Eckart-Straße"
 housenumber: 52
 phone: ""
 opening_hours: ""

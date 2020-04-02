@@ -5,7 +5,7 @@ latitude: 48.204819400000005
 longitude: 11.5730681
 postcode: 80937
 city: München
-street: Lieberweg
+street: "Lieberweg"
 housenumber: 42
 phone: "+49 89 31813717"
 opening_hours: "Mo-Sa 07:00-20:00"

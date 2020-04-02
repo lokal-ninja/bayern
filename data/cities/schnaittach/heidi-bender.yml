@@ -5,7 +5,7 @@ latitude: 49.5591911
 longitude: 11.3410893
 postcode: 91220
 city: Schnaittach
-street: Festungsstraße
+street: "Festungsstraße"
 housenumber: 7
 phone: "+49 91531496"
 opening_hours: ""

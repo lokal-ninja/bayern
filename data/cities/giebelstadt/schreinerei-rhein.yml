@@ -5,7 +5,7 @@ latitude: 49.649356000000004
 longitude: 9.8972069
 postcode: 97232
 city: Giebelstadt
-street: Kirschenweg
+street: "Kirschenweg"
 housenumber: 3
 phone: ""
 opening_hours: ""

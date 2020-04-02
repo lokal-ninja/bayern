@@ -5,7 +5,7 @@ latitude: 48.0637221
 longitude: 11.040513800000001
 postcode: 86949
 city: Windach
-street: Lindenstraße
+street: "Lindenstraße"
 housenumber: 1b
 phone: ""
 opening_hours: "Mo-Tu 09:00-12:00,14:00-18:00; Th-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00"

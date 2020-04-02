@@ -5,7 +5,7 @@ latitude: 48.365609000000006
 longitude: 10.9926986
 postcode: 86316
 city: Friedberg
-street: Bozener Straße
+street: "Bozener Straße"
 housenumber: 2
 phone: "+49 821 2674352"
 opening_hours: "Mo-Sa 07:30-20:00"

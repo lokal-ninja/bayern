@@ -5,7 +5,7 @@ latitude: 48.116952000000005
 longitude: 11.529570000000001
 postcode: 81369
 city: München
-street: Albert-Roßhaupter-Straße
+street: "Albert-Roßhaupter-Straße"
 housenumber: 68
 phone: "+49 (0)89 7696562"
 opening_hours: "Mo-Fr 08:00-19:00; Sa 10:00-14:00"

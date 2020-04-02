@@ -5,7 +5,7 @@ latitude: 49.508290200000005
 longitude: 11.419836100000001
 postcode: 91217
 city: Hersbruck
-street: Nürnberger Straße
+street: "Nürnberger Straße"
 housenumber: 63
 phone: "+49 9151 71166"
 opening_hours: "Tu-Fr 08:00-18:00; Sa 08:00-13:00"

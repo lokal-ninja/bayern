@@ -5,7 +5,7 @@ latitude: 48.5726966
 longitude: 10.433390300000001
 postcode: 89415
 city: Lauingen (Donau)
-street: Dillinger Straße
+street: "Dillinger Straße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

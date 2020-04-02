@@ -5,7 +5,7 @@ latitude: 48.4046402
 longitude: 10.598898700000001
 postcode: 86441
 city: Zusmarshausen
-street: Römerstraße
+street: "Römerstraße"
 housenumber: 1
 phone: "+49-8291-9335"
 opening_hours: ""

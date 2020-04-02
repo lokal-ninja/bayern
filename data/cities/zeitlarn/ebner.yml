@@ -5,7 +5,7 @@ latitude: 49.0766876
 longitude: 12.1079752
 postcode: 93197
 city: Zeitlarn
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 21
 phone: ""
 opening_hours: ""

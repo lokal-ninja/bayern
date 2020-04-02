@@ -5,7 +5,7 @@ latitude: 49.454707000000006
 longitude: 11.072229
 postcode: 90403
 city: Nürnberg
-street: Maxplatz
+street: "Maxplatz"
 housenumber: 46a
 phone: "+49 911 8105333"
 opening_hours: ""

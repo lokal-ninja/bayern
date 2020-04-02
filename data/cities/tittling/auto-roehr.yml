@@ -5,7 +5,7 @@ latitude: 48.724376400000004
 longitude: 13.3839398
 postcode: 94104
 city: Tittling
-street: Kaltenecker Straße
+street: "Kaltenecker Straße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Fr 08:00-17:00"

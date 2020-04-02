@@ -5,7 +5,7 @@ latitude: 47.854206500000004
 longitude: 12.1251297
 postcode: 83022
 city: Rosenheim
-street: Münchener Straße
+street: "Münchener Straße"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00"

@@ -5,7 +5,7 @@ latitude: 49.7813267
 longitude: 9.1820257
 postcode: 63911
 city: Klingenberg a.Main
-street: Brückenstraße
+street: "Brückenstraße"
 housenumber: 10
 phone: "+49 9372 2486"
 opening_hours: ""

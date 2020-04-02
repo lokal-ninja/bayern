@@ -5,7 +5,7 @@ latitude: 48.130481
 longitude: 11.577562
 postcode: 80469
 city: München
-street: Corneliusstraße
+street: "Corneliusstraße"
 housenumber: 32
 phone: ""
 opening_hours: "Mo 14:00-22:00; Tu-We 14:00-20:00; Th 14:00-23:00; Fr-Su 14:00-20:00"

@@ -5,7 +5,7 @@ latitude: 48.734785800000004
 longitude: 12.719190200000002
 postcode: 94522
 city: Wallersdorf
-street: Raiffeisenstraße
+street: "Raiffeisenstraße"
 housenumber: 38
 phone: ""
 opening_hours: ""

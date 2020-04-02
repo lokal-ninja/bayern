@@ -5,7 +5,7 @@ latitude: 49.7954513
 longitude: 9.931263000000001
 postcode: 97070
 city: Würzburg
-street: Schönbornstraße
+street: "Schönbornstraße"
 housenumber: 4-6
 phone: ""
 opening_hours: ""

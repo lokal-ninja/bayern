@@ -5,7 +5,7 @@ latitude: 48.9320226
 longitude: 12.493628000000001
 postcode: 94345
 city: Aholfing
-street: Hofmarkstraße
+street: "Hofmarkstraße"
 housenumber: 69
 phone: "+49 9429 759"
 opening_hours: ""

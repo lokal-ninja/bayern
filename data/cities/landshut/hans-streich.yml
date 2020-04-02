@@ -5,7 +5,7 @@ latitude: 48.5588568
 longitude: 12.1511011
 postcode: 84030
 city: Landshut
-street: Maffeiweg
+street: "Maffeiweg"
 housenumber: 5
 phone: "+49 (8621) 8 03-30"
 opening_hours: "Mo-Th 08:00-12:00,13:00-17:00; Fr 08:00-12:00"

@@ -5,7 +5,7 @@ latitude: 48.366352400000004
 longitude: 10.902022500000001
 postcode: 86150
 city: Augsburg
-street: Mittlerer Lech
+street: "Mittlerer Lech"
 housenumber: 48
 phone: "+49 821 885 839 60"
 opening_hours: "Mo-Sa 11:00-18:00"

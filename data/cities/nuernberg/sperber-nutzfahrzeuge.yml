@@ -5,7 +5,7 @@ latitude: 49.4338508
 longitude: 11.060217600000001
 postcode: 90441
 city: Nürnberg
-street: Bruckwiesenstraße
+street: "Bruckwiesenstraße"
 housenumber: 14
 phone: "+49 911 94170 0"
 opening_hours: ""

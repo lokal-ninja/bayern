@@ -5,7 +5,7 @@ latitude: 49.8959509
 longitude: 10.9186867
 postcode: 96050
 city: Bamberg
-street: Ohmstraße
+street: "Ohmstraße"
 housenumber: 10
 phone: ""
 opening_hours: ""

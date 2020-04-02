@@ -5,7 +5,7 @@ latitude: 48.1818813
 longitude: 11.4760269
 postcode: 80997
 city: München
-street: Von-Reuter-Straße
+street: "Von-Reuter-Straße"
 housenumber: 196
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

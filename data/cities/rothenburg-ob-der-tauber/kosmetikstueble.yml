@@ -5,7 +5,7 @@ latitude: 49.379877500000006
 longitude: 10.176530900000001
 postcode: 91541
 city: Rothenburg ob der Tauber
-street: Klingengasse
+street: "Klingengasse"
 housenumber: 31
 phone: "+49-9861-2444"
 opening_hours: ""

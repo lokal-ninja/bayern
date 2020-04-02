@@ -5,7 +5,7 @@ latitude: 48.0767413
 longitude: 11.5173137
 postcode: 
 city: München
-street: Grünbauerstraße
+street: "Grünbauerstraße"
 housenumber: 4a
 phone: "+49 89 795085"
 opening_hours: "Mo-Fr 09:00-13:00, 14:00-18:00; Sa 09:00-13:00"

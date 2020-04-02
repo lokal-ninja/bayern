@@ -5,7 +5,7 @@ latitude: 48.3130668
 longitude: 11.651461900000001
 postcode: 85375
 city: Neufahrn
-street: Ludwig-Erhard-Straße
+street: "Ludwig-Erhard-Straße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

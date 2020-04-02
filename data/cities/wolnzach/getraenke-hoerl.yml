@@ -5,7 +5,7 @@ latitude: 48.6061343
 longitude: 11.619898500000001
 postcode: 85283
 city: Wolnzach
-street: Hopfenstraße
+street: "Hopfenstraße"
 housenumber: 33
 phone: ""
 opening_hours: ""

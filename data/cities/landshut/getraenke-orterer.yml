@@ -5,7 +5,7 @@ latitude: 48.544499
 longitude: 12.1765077
 postcode: 
 city: Landshut
-street: Niedermayerstraße
+street: "Niedermayerstraße"
 housenumber: 40
 phone: ""
 opening_hours: ""

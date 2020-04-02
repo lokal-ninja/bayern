@@ -5,7 +5,7 @@ latitude: 48.063952500000006
 longitude: 10.8572428
 postcode: 86899
 city: Landsberg am Lech
-street: Max-von-Eyth-Straße
+street: "Max-von-Eyth-Straße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00"

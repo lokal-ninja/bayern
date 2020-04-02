@@ -5,7 +5,7 @@ latitude: 48.712615400000004
 longitude: 11.4038585
 postcode: 85051
 city: Ingolstadt
-street: Wallmeisterstraße
+street: "Wallmeisterstraße"
 housenumber: 4
 phone: "+49 8450 1075"
 opening_hours: "Tu-Th 09:00-12:30,14:00-18:00; Fr 09:00-12:30,14:00-19:00"

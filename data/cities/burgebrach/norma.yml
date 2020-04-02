@@ -5,7 +5,7 @@ latitude: 49.8269548
 longitude: 10.747035100000002
 postcode: 96138
 city: Burgebrach
-street: Bamberger Straße
+street: "Bamberger Straße"
 housenumber: 20
 phone: ""
 opening_hours: ""

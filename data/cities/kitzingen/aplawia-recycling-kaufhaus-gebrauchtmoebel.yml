@@ -5,7 +5,7 @@ latitude: 49.74924
 longitude: 10.175791
 postcode: 97318
 city: Kitzingen
-street: Lochweg
+street: "Lochweg"
 housenumber: 22
 phone: "+49-9321 - 2 52 47"
 opening_hours: ""

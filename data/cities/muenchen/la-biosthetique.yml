@@ -5,7 +5,7 @@ latitude: 48.1003678
 longitude: 11.536517700000001
 postcode: 
 city: München
-street: Boschetsrieder Straße
+street: "Boschetsrieder Straße"
 housenumber: 24
 phone: ""
 opening_hours: "Mo-Fr  Nur nach Vereinbarung"

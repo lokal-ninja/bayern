@@ -5,7 +5,7 @@ latitude: 49.7887381
 longitude: 9.9305743
 postcode: 97070
 city: Würzburg
-street: Sanderstraße
+street: "Sanderstraße"
 housenumber: 10
 phone: ""
 opening_hours: ""

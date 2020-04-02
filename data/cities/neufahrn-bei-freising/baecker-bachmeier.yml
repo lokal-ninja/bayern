@@ -5,7 +5,7 @@ latitude: 48.3211558
 longitude: 11.669023800000002
 postcode: 85375
 city: Neufahrn bei Freising
-street: Kurt-Kittel-Ring
+street: "Kurt-Kittel-Ring"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 06:00-20:00; Su 08:00-11:00"

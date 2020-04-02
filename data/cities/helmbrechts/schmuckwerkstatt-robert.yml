@@ -5,7 +5,7 @@ latitude: 50.2378926
 longitude: 11.7159983
 postcode: 95233
 city: Helmbrechts
-street: Kulmbacher Straße
+street: "Kulmbacher Straße"
 housenumber: 4
 phone: "+49 9252 35 79 91 0"
 opening_hours: "Mo-Tu 09:30-13:30"

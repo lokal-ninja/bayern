@@ -5,7 +5,7 @@ latitude: 49.0688582
 longitude: 13.097155500000001
 postcode: 94249
 city: Bodenmais
-street: Kötztinger Straße
+street: "Kötztinger Straße"
 housenumber: 24
 phone: ""
 opening_hours: ""

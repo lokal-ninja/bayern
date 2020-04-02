@@ -5,7 +5,7 @@ latitude: 49.5111519
 longitude: 11.4317101
 postcode: 91217
 city: Hersbruck
-street: Steingasse
+street: "Steingasse"
 housenumber: 5a
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.1902155
 longitude: 11.970499400000001
 postcode: 85659
 city: Forstern
-street: Gewerbebogen
+street: "Gewerbebogen"
 housenumber: 2
 phone: ""
 opening_hours: ""

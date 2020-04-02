@@ -5,7 +5,7 @@ latitude: 48.183317100000004
 longitude: 11.592608700000001
 postcode: 80807
 city: München
-street: Wilhelm-Wagenfeld-Straße
+street: "Wilhelm-Wagenfeld-Straße"
 housenumber: 18
 phone: ""
 opening_hours: ""

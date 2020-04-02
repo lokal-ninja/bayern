@@ -5,7 +5,7 @@ latitude: 48.8194427
 longitude: 11.8372545
 postcode: 93326
 city: Abensberg
-street: Bacchusweg
+street: "Bacchusweg"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

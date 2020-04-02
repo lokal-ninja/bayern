@@ -5,7 +5,7 @@ latitude: 49.3009289
 longitude: 10.570740800000001
 postcode: 91522
 city: Ansbach
-street: Reuterstraße
+street: "Reuterstraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

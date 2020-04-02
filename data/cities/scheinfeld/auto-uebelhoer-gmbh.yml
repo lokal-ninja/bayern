@@ -5,7 +5,7 @@ latitude: 49.6722138
 longitude: 10.4771446
 postcode: 91443
 city: Scheinfeld
-street: Schwarzenberg
+street: "Schwarzenberg"
 housenumber: 10
 phone: "+49 9162 209"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.814726300000004
 longitude: 11.844748000000001
 postcode: 93326
 city: Abensberg
-street: Babostraße
+street: "Babostraße"
 housenumber: 13
 phone: "+49 9443 91460"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.3047879
 longitude: 10.164827500000001
 postcode: 89264
 city: Weißenhorn
-street: Reichenbacher Straße
+street: "Reichenbacher Straße"
 housenumber: 23
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

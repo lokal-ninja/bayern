@@ -5,7 +5,7 @@ latitude: 47.5298625
 longitude: 11.113770800000001
 postcode: 82490
 city: Farchant
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 5
 phone: "+49 8821 7321990"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.1390911
 longitude: 11.5769677
 postcode: 80333
 city: München
-street: Schrammerstraße
+street: "Schrammerstraße"
 housenumber: 3
 phone: "+49 89 22 38 18"
 opening_hours: "Mo nach Vereinbarung; Tu-Th 10:30-18:30; Fr 10:30-17:00; Sa 10:30-16:00"

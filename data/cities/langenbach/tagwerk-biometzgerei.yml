@@ -5,7 +5,7 @@ latitude: 48.4364099
 longitude: 11.883428700000001
 postcode: 85416
 city: Langenbach
-street: Ortsstraße
+street: "Ortsstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Tu-Fr 08:00-18:00; Sa 07:00-13:00"

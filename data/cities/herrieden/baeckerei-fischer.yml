@@ -5,7 +5,7 @@ latitude: 49.234572400000005
 longitude: 10.505825000000002
 postcode: 91567
 city: Herrieden
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 7
 phone: ""
 opening_hours: ""

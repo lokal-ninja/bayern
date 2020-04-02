@@ -5,7 +5,7 @@ latitude: 49.9447799
 longitude: 11.571632200000002
 postcode: 
 city: Bayreuth
-street: Maximilianstraße
+street: "Maximilianstraße"
 housenumber: 70
 phone: ""
 opening_hours: ""

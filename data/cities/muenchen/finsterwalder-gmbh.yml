@@ -5,7 +5,7 @@ latitude: 48.162919900000006
 longitude: 11.4879092
 postcode: 81247
 city: München
-street: Pagodenburgstraße
+street: "Pagodenburgstraße"
 housenumber: 8
 phone: "+49 89 8116528"
 opening_hours: "Mo-Fr 08:00-16:00"

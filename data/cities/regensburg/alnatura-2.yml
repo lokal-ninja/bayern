@@ -5,7 +5,7 @@ latitude: 49.01258240000001
 longitude: 12.0872393
 postcode: 93049
 city: Regensburg
-street: Joseph-Dahlem-Straße
+street: "Joseph-Dahlem-Straße"
 housenumber: 3
 phone: "+49 941 63071874"
 opening_hours: "Mo-Sa 08:00-20:00"

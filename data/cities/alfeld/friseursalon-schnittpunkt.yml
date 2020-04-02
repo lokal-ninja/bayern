@@ -5,7 +5,7 @@ latitude: 49.4294183
 longitude: 11.541209100000001
 postcode: 91236
 city: Alfeld
-street: Reinhardstoettnerstraße
+street: "Reinhardstoettnerstraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

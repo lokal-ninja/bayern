@@ -5,7 +5,7 @@ latitude: 50.317725700000004
 longitude: 11.899252800000001
 postcode: 95030
 city: Hof
-street: Kulmbacher Straße
+street: "Kulmbacher Straße"
 housenumber: 40
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.1336176
 longitude: 11.601832100000001
 postcode: 
 city: München
-street: Kirchenstraße
+street: "Kirchenstraße"
 housenumber: 28
 phone: ""
 opening_hours: "Mo-Su,PH 09:00-21:00"

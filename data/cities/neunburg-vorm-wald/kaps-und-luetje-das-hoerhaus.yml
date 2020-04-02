@@ -5,7 +5,7 @@ latitude: 49.3487388
 longitude: 12.386232600000001
 postcode: 92431
 city: Neunburg vorm Wald
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 41
 phone: ""
 opening_hours: ""

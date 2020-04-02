@@ -5,7 +5,7 @@ latitude: 48.161371800000005
 longitude: 11.3392196
 postcode: 82178
 city: Puchheim
-street: Dornierstraße
+street: "Dornierstraße"
 housenumber: 1
 phone: "+49 89 89465860"
 opening_hours: "Mo-Sa 09:00-19:00"

@@ -5,7 +5,7 @@ latitude: 48.3952122
 longitude: 10.9240005
 postcode: 86167
 city: Augsburg
-street: Curt-Frenzel-Straße
+street: "Curt-Frenzel-Straße"
 housenumber: 10a
 phone: "+49 821 700 290"
 opening_hours: "Mo-Fr 10:00-19:30; Sa 10:00-16:00"

@@ -5,7 +5,7 @@ latitude: 50.101785500000005
 longitude: 11.885660600000001
 postcode: 95163
 city: Weißenstadt
-street: Kirchenlamitzer Straße
+street: "Kirchenlamitzer Straße"
 housenumber: 4
 phone: ""
 opening_hours: ""

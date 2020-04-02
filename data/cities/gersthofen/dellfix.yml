@@ -5,7 +5,7 @@ latitude: 48.408637500000005
 longitude: 10.871972600000001
 postcode: 86368
 city: Gersthofen
-street: Porschestraße
+street: "Porschestraße"
 housenumber: 3
 phone: ""
 opening_hours: ""

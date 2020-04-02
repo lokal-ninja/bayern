@@ -5,7 +5,7 @@ latitude: 49.01782600000001
 longitude: 12.0982128
 postcode: 93047
 city: Regensburg
-street: Schwarze-Bären-Straße
+street: "Schwarze-Bären-Straße"
 housenumber: 2
 phone: "+49-941-93081650"
 opening_hours: "Mo-Sa 10:00-20:00"

@@ -5,7 +5,7 @@ latitude: 49.4368174
 longitude: 11.0681157
 postcode: 90443
 city: Nürnberg
-street: Gibitzenhofstraße
+street: "Gibitzenhofstraße"
 housenumber: 79
 phone: ""
 opening_hours: ""

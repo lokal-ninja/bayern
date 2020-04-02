@@ -5,7 +5,7 @@ latitude: 50.2573177
 longitude: 10.9644939
 postcode: 96450
 city: Coburg
-street: Ketschengasse
+street: "Ketschengasse"
 housenumber: 11
 phone: "+49 9561 90340"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-15:00; Su,PH off"

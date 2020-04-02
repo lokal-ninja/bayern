@@ -5,7 +5,7 @@ latitude: 49.470580600000005
 longitude: 11.0669707
 postcode: 90425
 city: Nürnberg
-street: Erlanger Straße
+street: "Erlanger Straße"
 housenumber: 9
 phone: "+49 911 341965"
 opening_hours: ""

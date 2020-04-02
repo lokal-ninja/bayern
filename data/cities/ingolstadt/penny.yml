@@ -5,7 +5,7 @@ latitude: 48.7797752
 longitude: 11.4006904
 postcode: 85057
 city: Ingolstadt
-street: Furtwänglerstraße
+street: "Furtwänglerstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

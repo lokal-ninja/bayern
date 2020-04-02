@@ -5,7 +5,7 @@ latitude: 49.9490665
 longitude: 12.238904000000002
 postcode: 95666
 city: Mitterteich
-street: Marktredwitzer Straße
+street: "Marktredwitzer Straße"
 housenumber: 2
 phone: ""
 opening_hours: ""

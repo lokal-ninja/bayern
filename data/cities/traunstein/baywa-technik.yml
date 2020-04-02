@@ -5,7 +5,7 @@ latitude: 47.8488605
 longitude: 12.6308185
 postcode: 83278
 city: Traunstein
-street: Wimpasinger Straße
+street: "Wimpasinger Straße"
 housenumber: 24
 phone: ""
 opening_hours: "Mo-Fr 07:30-12:00, 13:00-16:30"

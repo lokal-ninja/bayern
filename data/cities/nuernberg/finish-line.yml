@@ -5,7 +5,7 @@ latitude: 49.4418644
 longitude: 11.0952116
 postcode: 90461
 city: Nürnberg
-street: Wilhelm-Spaeth-Straße
+street: "Wilhelm-Spaeth-Straße"
 housenumber: 15
 phone: ""
 opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"

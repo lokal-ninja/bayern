@@ -5,7 +5,7 @@ latitude: 48.239328300000004
 longitude: 12.6877525
 postcode: 84524
 city: Neuötting
-street: Frauengasse
+street: "Frauengasse"
 housenumber: 14-16
 phone: "+49 8671 2306"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.9075021
 longitude: 10.8808865
 postcode: 96052
 city: Bamberg
-street: Laubanger
+street: "Laubanger"
 housenumber: 1a
 phone: ""
 opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-12:00; Su,PH off"

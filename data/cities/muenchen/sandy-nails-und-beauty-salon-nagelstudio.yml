@@ -5,7 +5,7 @@ latitude: 48.1071271
 longitude: 11.6561857
 postcode: 81735
 city: München
-street: Peschelanger
+street: "Peschelanger"
 housenumber: 13
 phone: "+49 89 319 838 21"
 opening_hours: "Mo-Sa 10:00-18:00"

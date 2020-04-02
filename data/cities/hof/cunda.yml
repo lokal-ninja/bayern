@@ -5,7 +5,7 @@ latitude: 50.318122
 longitude: 11.9158238
 postcode: 95028
 city: Hof
-street: Altstadt
+street: "Altstadt"
 housenumber: 11-13
 phone: "+49 9281 1409733"
 opening_hours: "Mo-We 09:00-18:30; Th-Fr 09:00-20:00; Sa 09:00-18:00"

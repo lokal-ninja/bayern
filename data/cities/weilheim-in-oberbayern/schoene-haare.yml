@@ -5,7 +5,7 @@ latitude: 47.837510200000004
 longitude: 11.141820800000001
 postcode: 82362
 city: Weilheim in Oberbayern
-street: Pöltnerstraße
+street: "Pöltnerstraße"
 housenumber: 21
 phone: "+49 881 9011748"
 opening_hours: "Mo 08:00-12:00; Tu-Fr 09:00-18:00; PH off"

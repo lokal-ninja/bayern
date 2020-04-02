@@ -5,7 +5,7 @@ latitude: 48.089718000000005
 longitude: 11.611450900000001
 postcode: 81549
 city: München
-street: Fasangartenstraße
+street: "Fasangartenstraße"
 housenumber: 106
 phone: ""
 opening_hours: ""

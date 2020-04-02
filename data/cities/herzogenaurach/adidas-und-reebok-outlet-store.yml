@@ -5,7 +5,7 @@ latitude: 49.5742351
 longitude: 10.916432700000001
 postcode: 91074
 city: Herzogenaurach
-street: Olympiaring
+street: "Olympiaring"
 housenumber: 2
 phone: "+49 9132 842000"
 opening_hours: "Mo-Fr 9:00-20:00; Sa 9:00-18:00"

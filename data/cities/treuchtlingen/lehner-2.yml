@@ -5,7 +5,7 @@ latitude: 48.955600700000005
 longitude: 10.922654300000001
 postcode: 91757
 city: Treuchtlingen
-street: Schwarzfeldstraße
+street: "Schwarzfeldstraße"
 housenumber: 44
 phone: ""
 opening_hours: ""

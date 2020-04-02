@@ -5,7 +5,7 @@ latitude: 50.044926000000004
 longitude: 10.233376600000001
 postcode: 97421
 city: Schweinfurt
-street: Keßlergasse
+street: "Keßlergasse"
 housenumber: 6
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.193335100000006
 longitude: 11.6148886
 postcode: 80939
 city: München
-street: Harnierplatz
+street: "Harnierplatz"
 housenumber: 1
 phone: "+49 89 307 68 229"
 opening_hours: "Mo-Fr 10:00-18:00"

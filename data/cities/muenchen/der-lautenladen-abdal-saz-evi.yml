@@ -5,7 +5,7 @@ latitude: 48.1518181
 longitude: 11.556516400000001
 postcode: 80335
 city: München
-street: Dachauer Straße
+street: "Dachauer Straße"
 housenumber: 111
 phone: ""
 opening_hours: "Tu-Fr 12:00-20:00, Sa 11:00-18:00"

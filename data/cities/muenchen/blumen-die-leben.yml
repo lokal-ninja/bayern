@@ -5,7 +5,7 @@ latitude: 48.135444
 longitude: 11.598726000000001
 postcode: 
 city: München
-street: Max-Weber-Platz
+street: "Max-Weber-Platz"
 housenumber: 8
 phone: ""
 opening_hours: ""

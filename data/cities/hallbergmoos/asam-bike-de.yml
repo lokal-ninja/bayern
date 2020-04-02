@@ -5,7 +5,7 @@ latitude: 48.3093159
 longitude: 11.740748
 postcode: 85399
 city: Hallbergmoos
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 55
 phone: ""
 opening_hours: "Th,Fr 8:00-13:00; Sa 9:00-12:00"

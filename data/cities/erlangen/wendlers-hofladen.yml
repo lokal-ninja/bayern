@@ -5,7 +5,7 @@ latitude: 49.5469572
 longitude: 11.0310238
 postcode: 91058
 city: Erlangen
-street: Sebastianstraße
+street: "Sebastianstraße"
 housenumber: 15
 phone: "+49 9131 603702;+49 170 7101802"
 opening_hours: "Mo,We,Th,Fr 10:00-12:30; Sa 10:00-13:00; Tu off"

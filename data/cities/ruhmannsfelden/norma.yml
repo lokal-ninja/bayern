@@ -5,7 +5,7 @@ latitude: 48.9847307
 longitude: 12.9786186
 postcode: 94239
 city: Ruhmannsfelden
-street: Viechtacher Straße
+street: "Viechtacher Straße"
 housenumber: 12
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

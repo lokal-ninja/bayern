@@ -5,7 +5,7 @@ latitude: 50.107557500000006
 longitude: 11.456649
 postcode: 95326
 city: Kulmbach
-street: Grabenstraße
+street: "Grabenstraße"
 housenumber: 3
 phone: "+49 9221 86401"
 opening_hours: "Tu,Fr 09:00-14:00; Th 12:00-18:00; Sa 09:00-13:00; Su,PH off"

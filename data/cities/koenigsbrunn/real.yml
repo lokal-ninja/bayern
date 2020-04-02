@@ -5,7 +5,7 @@ latitude: 48.2916248
 longitude: 10.888628500000001
 postcode: 86343
 city: Königsbrunn
-street: Föllstraße
+street: "Föllstraße"
 housenumber: 20
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

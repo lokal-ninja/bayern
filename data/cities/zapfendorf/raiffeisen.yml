@@ -5,7 +5,7 @@ latitude: 50.0145119
 longitude: 10.9273655
 postcode: 96199
 city: Zapfendorf
-street: Bamberger Straße
+street: "Bamberger Straße"
 housenumber: 40
 phone: ""
 opening_hours: ""

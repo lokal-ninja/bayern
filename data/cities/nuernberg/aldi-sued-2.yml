@@ -5,7 +5,7 @@ latitude: 49.454797500000005
 longitude: 11.052588400000001
 postcode: 90429
 city: Nürnberg
-street: Reutersbrunnenstraße
+street: "Reutersbrunnenstraße"
 housenumber: 55
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

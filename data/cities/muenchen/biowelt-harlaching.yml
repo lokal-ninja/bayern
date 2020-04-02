@@ -5,7 +5,7 @@ latitude: 48.091681200000004
 longitude: 11.5617306
 postcode: 81545
 city: München
-street: Authariplatz
+street: "Authariplatz"
 housenumber: 8
 phone: "+49 89 89054656"
 opening_hours: "Mo-Sa 08:00-20:00"

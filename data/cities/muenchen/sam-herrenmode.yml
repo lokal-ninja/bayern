@@ -5,7 +5,7 @@ latitude: 48.1458724
 longitude: 11.559493100000001
 postcode: 
 city: München
-street: Dachauer Straße
+street: "Dachauer Straße"
 housenumber: 42
 phone: ""
 opening_hours: "Mo-Fr 09:00-20:00, Sa 09:00-18:00"

@@ -5,7 +5,7 @@ latitude: 48.493715
 longitude: 10.854729
 postcode: 86462
 city: Langweid am Lech
-street: Dillinger Straße
+street: "Dillinger Straße"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Fr 07:45-12:00, 13:00-18:00; Sa 09:00-12:30"

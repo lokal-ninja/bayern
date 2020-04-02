@@ -5,7 +5,7 @@ latitude: 48.539223400000004
 longitude: 13.2166847
 postcode: 94496
 city: Ortenburg
-street: Griesbacher Straße
+street: "Griesbacher Straße"
 housenumber: 54
 phone: "+49 8542 96120"
 opening_hours: ""

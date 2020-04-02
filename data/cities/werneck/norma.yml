@@ -5,7 +5,7 @@ latitude: 49.9808535
 longitude: 10.097472900000001
 postcode: 97440
 city: Werneck
-street: Otto-Hahn-Straße
+street: "Otto-Hahn-Straße"
 housenumber: 5
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.795619800000004
 longitude: 9.9841254
 postcode: 97076
 city: Würzburg
-street: Gattingerstraße
+street: "Gattingerstraße"
 housenumber: 4
 phone: "+49-931-2977-0"
 opening_hours: "Mo-Fr 08:00-17:30; Sa 08:00-12:00"

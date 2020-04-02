@@ -5,7 +5,7 @@ latitude: 49.4521187
 longitude: 11.0764946
 postcode: 90403
 city: Nürnberg
-street: Kaiserstraße
+street: "Kaiserstraße"
 housenumber: 15
 phone: ""
 opening_hours: ""

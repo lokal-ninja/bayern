@@ -5,7 +5,7 @@ latitude: 49.4574094
 longitude: 10.8601481
 postcode: 90556
 city: Cadolzburg
-street: Markgraf-Alexander-Straße
+street: "Markgraf-Alexander-Straße"
 housenumber: 30
 phone: ""
 opening_hours: "Mo-Sa 10:00-12:00; Mo-Fr 15:00-18:00"

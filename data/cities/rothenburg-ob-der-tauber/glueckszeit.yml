@@ -5,7 +5,7 @@ latitude: 49.3786603
 longitude: 10.1789093
 postcode: 91541
 city: Rothenburg ob der Tauber
-street: Heugasse
+street: "Heugasse"
 housenumber: 9
 phone: "+49 9861 9767633"
 opening_hours: ""

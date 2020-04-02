@@ -5,7 +5,7 @@ latitude: 49.2950511
 longitude: 11.081491900000001
 postcode: 91126
 city: Rednitzhembach
-street: Rother Straße
+street: "Rother Straße"
 housenumber: 44
 phone: "+49 9122 6301667"
 opening_hours: "Mo-Sa 06:00-20:00"

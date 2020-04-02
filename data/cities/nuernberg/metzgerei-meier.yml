@@ -5,7 +5,7 @@ latitude: 49.350416200000005
 longitude: 11.0626906
 postcode: 90455
 city: Nürnberg
-street: Penzendorfer Straße
+street: "Penzendorfer Straße"
 housenumber: 19
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.301988200000004
 longitude: 10.5720234
 postcode: 91522
 city: Ansbach
-street: Uzstraße
+street: "Uzstraße"
 housenumber: 16
 phone: ""
 opening_hours: ""

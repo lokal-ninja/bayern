@@ -5,7 +5,7 @@ latitude: 49.5209616
 longitude: 11.3355235
 postcode: 91233
 city: Neunkirchen a.Sand
-street: Seeäckerstraße
+street: "Seeäckerstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

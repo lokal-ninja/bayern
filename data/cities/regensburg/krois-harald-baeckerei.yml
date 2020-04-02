@@ -5,7 +5,7 @@ latitude: 49.029089600000006
 longitude: 12.085820100000001
 postcode: 93059
 city: Regensburg
-street: Schweinfurter Straße
+street: "Schweinfurter Straße"
 housenumber: 2
 phone: "+49 941 842 71"
 opening_hours: ""

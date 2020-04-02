@@ -5,7 +5,7 @@ latitude: 48.078314000000006
 longitude: 11.970521900000001
 postcode: 85560
 city: Ebersberg
-street: Schloßplatz
+street: "Schloßplatz"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"

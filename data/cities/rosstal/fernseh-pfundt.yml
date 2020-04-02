@@ -5,7 +5,7 @@ latitude: 49.3985538
 longitude: 10.885017000000001
 postcode: 90574
 city: Roßtal
-street: An der Schloßmauer
+street: "An der Schloßmauer"
 housenumber: 5
 phone: "+49 9127 7642"
 opening_hours: ""

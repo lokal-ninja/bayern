@@ -5,7 +5,7 @@ latitude: 48.5357421
 longitude: 12.1061288
 postcode: 84034
 city: Landshut
-street: Siebensee
+street: "Siebensee"
 housenumber: 2
 phone: "+49 871 61794"
 opening_hours: "Fr-Sa sunrise-sunset"

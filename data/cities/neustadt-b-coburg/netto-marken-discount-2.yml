@@ -5,7 +5,7 @@ latitude: 50.3251209
 longitude: 11.1180477
 postcode: 96465
 city: Neustadt b. Coburg
-street: Austraße
+street: "Austraße"
 housenumber: 38
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.2470541
 longitude: 11.120231500000001
 postcode: 91154
 city: Roth
-street: Bortenmacherstraße
+street: "Bortenmacherstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

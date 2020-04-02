@@ -5,7 +5,7 @@ latitude: 48.3557259
 longitude: 10.984741600000001
 postcode: 
 city: Friedberg
-street: Herrgottsruhstraße
+street: "Herrgottsruhstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

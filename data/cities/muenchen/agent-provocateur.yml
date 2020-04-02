@@ -5,7 +5,7 @@ latitude: 48.1374489
 longitude: 11.5772715
 postcode: 80331
 city: München
-street: Burgstraße
+street: "Burgstraße"
 housenumber: 3
 phone: "+49 89 5457 2672"
 opening_hours: "Mo-Sa 10:00-20:00"

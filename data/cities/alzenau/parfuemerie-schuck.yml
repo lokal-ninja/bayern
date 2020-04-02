@@ -5,7 +5,7 @@ latitude: 50.0873537
 longitude: 9.0677302
 postcode: 63755
 city: Alzenau
-street: Wingertstraße
+street: "Wingertstraße"
 housenumber: 1
 phone: "+49 6023 1331"
 opening_hours: ""

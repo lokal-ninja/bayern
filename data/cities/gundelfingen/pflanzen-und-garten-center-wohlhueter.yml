@@ -5,7 +5,7 @@ latitude: 48.5570615
 longitude: 10.3575657
 postcode: 89423
 city: Gundelfingen
-street: Medlinger Straße
+street: "Medlinger Straße"
 housenumber: 52
 phone: "+49 9073 91077"
 opening_hours: "Apr-Oct Mo-We 08:30-18:00; Apr-Oct Th,Fr 08:30-19:00; Apr-Oct Sa 08:30-16:00; Nov-Mar Mo-Fr 09:00-18:00; Nov-Mar Sa 09:00-16:00"

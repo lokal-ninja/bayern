@@ -5,7 +5,7 @@ latitude: 49.40435110000001
 longitude: 11.034740900000001
 postcode: 90451
 city: Nürnberg
-street: Eibacher Hauptstraße
+street: "Eibacher Hauptstraße"
 housenumber: 50a
 phone: ""
 opening_hours: ""

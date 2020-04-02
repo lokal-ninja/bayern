@@ -5,7 +5,7 @@ latitude: 48.0616192
 longitude: 11.6722031
 postcode: 85521
 city: Ottobrunn
-street: Ottostraße
+street: "Ottostraße"
 housenumber: 39
 phone: ""
 opening_hours: "Mo-Sa 08:30-12:00; Mo,Tu,Th,Fr 14:00-18:00"

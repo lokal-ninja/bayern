@@ -5,7 +5,7 @@ latitude: 47.6579606
 longitude: 9.8525673
 postcode: 88145
 city: Hergatz
-street: Salzstraße
+street: "Salzstraße"
 housenumber: 11
 phone: "+49 8385 382"
 opening_hours: "Tu-Fr 08:30-12:00, 14:00-18:30; Su,Mo,PH off"

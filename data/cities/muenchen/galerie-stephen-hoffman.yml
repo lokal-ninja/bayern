@@ -5,7 +5,7 @@ latitude: 48.140928
 longitude: 11.5736807
 postcode: 80333
 city: München
-street: Prannerstraße
+street: "Prannerstraße"
 housenumber: 5
 phone: "+49 89 255 408 44"
 opening_hours: "Tu-Fr 11:00-18:00; Sa 11:00-14:00"

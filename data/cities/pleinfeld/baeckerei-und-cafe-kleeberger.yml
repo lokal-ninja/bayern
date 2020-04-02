@@ -5,7 +5,7 @@ latitude: 49.1184268
 longitude: 10.935091400000001
 postcode: 91785
 city: Pleinfeld
-street: Obere Dorfstraße
+street: "Obere Dorfstraße"
 housenumber: 37
 phone: ""
 opening_hours: ""

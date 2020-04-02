@@ -5,7 +5,7 @@ latitude: 48.1490511
 longitude: 11.5425743
 postcode: 80636
 city: München
-street: Elvirastraße
+street: "Elvirastraße"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Sa 16:00+"

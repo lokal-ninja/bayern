@@ -5,7 +5,7 @@ latitude: 49.072323000000004
 longitude: 12.053225000000001
 postcode: 93138
 city: Lappersdorf
-street: Einhauser Straße
+street: "Einhauser Straße"
 housenumber: 10
 phone: "+4994181281"
 opening_hours: ""

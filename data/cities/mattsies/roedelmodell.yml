@@ -5,7 +5,7 @@ latitude: 48.093698
 longitude: 10.5463485
 postcode: 86874
 city: Mattsies
-street: Lausangerweg
+street: "Lausangerweg"
 housenumber: 4
 phone: "+49 8268 713"
 opening_hours: "Mo-Fr 09:00-12:30, 14:00-18:00; Sa 10:00-13:00"

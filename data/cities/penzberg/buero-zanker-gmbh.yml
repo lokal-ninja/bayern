@@ -5,7 +5,7 @@ latitude: 47.751419000000006
 longitude: 11.3746679
 postcode: 82377
 city: Penzberg
-street: Friedrich-Ebert-Straße
+street: "Friedrich-Ebert-Straße"
 housenumber: 2
 phone: "+49 8856 2237"
 opening_hours: "Mo-Fr 8:00-12:30, 14:00-18:00; Sa 9:00-13:00; PH off"

@@ -5,7 +5,7 @@ latitude: 48.388060700000004
 longitude: 11.0890702
 postcode: 86453
 city: Dasing
-street: Riedener Straße
+street: "Riedener Straße"
 housenumber: 23
 phone: "+49 8205 1224"
 opening_hours: "Mo-Fr 06:15-12:30; Mo,Th,Fr 14:00-18:00; Sa 06:15-12:00; Su,PH off"

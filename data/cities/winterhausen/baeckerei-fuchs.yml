@@ -5,7 +5,7 @@ latitude: 49.7060911
 longitude: 10.0162618
 postcode: 97286
 city: Winterhausen
-street: Alte Brückenstraße
+street: "Alte Brückenstraße"
 housenumber: 3
 phone: "+49-9333-1396"
 opening_hours: ""

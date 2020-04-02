@@ -5,7 +5,7 @@ latitude: 50.285127700000004
 longitude: 11.0042723
 postcode: 96487
 city: Dörfles-Esbach
-street: Ziegelei
+street: "Ziegelei"
 housenumber: 16
 phone: "+49 9561 5110549"
 opening_hours: "Mo-Sa 09:30-19:00"

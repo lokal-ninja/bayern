@@ -5,7 +5,7 @@ latitude: 48.5868638
 longitude: 12.1910418
 postcode: 84051
 city: Essenbach
-street: Daimlerstraße
+street: "Daimlerstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

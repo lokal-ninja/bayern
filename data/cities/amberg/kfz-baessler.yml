@@ -5,7 +5,7 @@ latitude: 48.0595804
 longitude: 10.6818498
 postcode: 86854
 city: Amberg
-street: Bachstraße
+street: "Bachstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

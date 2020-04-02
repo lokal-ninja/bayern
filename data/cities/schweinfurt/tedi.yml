@@ -5,7 +5,7 @@ latitude: 50.040966000000004
 longitude: 10.2074779
 postcode: 97424
 city: Schweinfurt
-street: Peter-Krammer-Straße
+street: "Peter-Krammer-Straße"
 housenumber: 1
 phone: ""
 opening_hours: ""

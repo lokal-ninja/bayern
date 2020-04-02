@@ -5,7 +5,7 @@ latitude: 48.359163200000005
 longitude: 10.8891504
 postcode: 86159
 city: Augsburg
-street: Gögginger Straße
+street: "Gögginger Straße"
 housenumber: 9 1/2
 phone: "+49 821 58979660"
 opening_hours: ""

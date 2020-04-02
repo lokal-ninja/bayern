@@ -5,7 +5,7 @@ latitude: 48.535143600000005
 longitude: 12.1498614
 postcode: 84028
 city: Landshut
-street: Theaterstraße
+street: "Theaterstraße"
 housenumber: 65
 phone: ""
 opening_hours: ""

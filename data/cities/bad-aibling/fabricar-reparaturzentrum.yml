@@ -5,7 +5,7 @@ latitude: 47.8701912
 longitude: 11.9846651
 postcode: 83043
 city: Bad Aibling
-street: Gewerbepark Markfeld
+street: "Gewerbepark Markfeld"
 housenumber: 4a
 phone: "+49 8061 9 38 44 95"
 opening_hours: "Mo-Fr 08:00-12:00,13:00-18:00;Sa,Su,PH off"

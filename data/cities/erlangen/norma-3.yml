@@ -5,7 +5,7 @@ latitude: 49.5976347
 longitude: 11.003177200000001
 postcode: 91054
 city: Erlangen
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

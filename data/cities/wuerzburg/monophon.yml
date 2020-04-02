@@ -5,7 +5,7 @@ latitude: 49.8023876
 longitude: 9.944460900000001
 postcode: 97080
 city: Würzburg
-street: Wagnerplatz
+street: "Wagnerplatz"
 housenumber: 6a
 phone: ""
 opening_hours: "Mo-Fr 12:00-19:00, Sa 11:00-16:00"

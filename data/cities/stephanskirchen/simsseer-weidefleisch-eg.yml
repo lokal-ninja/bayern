@@ -5,7 +5,7 @@ latitude: 47.8474949
 longitude: 12.1659172
 postcode: 83071
 city: Stephanskirchen
-street: Finsterwalderstraße
+street: "Finsterwalderstraße"
 housenumber: 1
 phone: ""
 opening_hours: "Tu-Fr 09:00-19:00; Sa 09:00-16:00"

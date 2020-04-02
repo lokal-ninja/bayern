@@ -5,7 +5,7 @@ latitude: 48.423256800000004
 longitude: 10.0595791
 postcode: 89233
 city: Neu-Ulm
-street: Große Isel
+street: "Große Isel"
 housenumber: 28
 phone: "+49 731 2 06 02 30"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 47.960891100000005
 longitude: 11.5894858
 postcode: 82054
 city: Sauerlach
-street: Oberbiberger Straße
+street: "Oberbiberger Straße"
 housenumber: 12
 phone: ""
 opening_hours: "Mo-Th 08:00-14:00; Fr 08:00-12:00"

@@ -5,7 +5,7 @@ latitude: 50.031802400000004
 longitude: 10.5101423
 postcode: 97437
 city: Haßfurt
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 2
 phone: "+49 9521 - 3890"
 opening_hours: ""

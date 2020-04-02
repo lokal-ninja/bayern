@@ -5,7 +5,7 @@ latitude: 47.727553300000004
 longitude: 10.3144951
 postcode: 87435
 city: Kempten (Allgäu)
-street: Gerberstraße
+street: "Gerberstraße"
 housenumber: 47
 phone: ""
 opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-18:00"

@@ -5,7 +5,7 @@ latitude: 48.4643278
 longitude: 11.931309
 postcode: 85368
 city: Moosburg
-street: Münchener Straße
+street: "Münchener Straße"
 housenumber: 44
 phone: "+49 8761 2741"
 opening_hours: ""

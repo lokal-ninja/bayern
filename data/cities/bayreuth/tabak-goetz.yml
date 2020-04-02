@@ -5,7 +5,7 @@ latitude: 49.944603900000004
 longitude: 11.5777318
 postcode: 95444
 city: Bayreuth
-street: Opernstraße
+street: "Opernstraße"
 housenumber: 9
 phone: ""
 opening_hours: ""

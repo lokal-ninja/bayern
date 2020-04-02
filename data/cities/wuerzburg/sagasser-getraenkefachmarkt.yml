@@ -5,7 +5,7 @@ latitude: 49.8070438
 longitude: 9.9794129
 postcode: 97076
 city: Würzburg
-street: Ohmstr
+street: "Ohmstr"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

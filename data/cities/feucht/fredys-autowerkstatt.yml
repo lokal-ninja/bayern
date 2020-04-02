@@ -5,7 +5,7 @@ latitude: 49.3630584
 longitude: 11.2057918
 postcode: 90537
 city: Feucht
-street: Gsteinacher Straße
+street: "Gsteinacher Straße"
 housenumber: 71
 phone: ""
 opening_hours: "Mo-Fr 08:00-12:00, 13:00-17:00; Sa,Su,PH off"

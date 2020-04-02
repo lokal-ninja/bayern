@@ -5,7 +5,7 @@ latitude: 48.474831800000004
 longitude: 11.1182484
 postcode: 86551
 city: Aichach
-street: Leonhardstraße
+street: "Leonhardstraße"
 housenumber: 2
 phone: "+49 8251 500 41"
 opening_hours: "Mo-Fr 07:45-18:00; Sa 10:00-12:00; PH off"

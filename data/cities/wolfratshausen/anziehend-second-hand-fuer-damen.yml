@@ -5,7 +5,7 @@ latitude: 47.911035500000004
 longitude: 11.4192371
 postcode: 82515
 city: Wolfratshausen
-street: Barbezieuxstraße
+street: "Barbezieuxstraße"
 housenumber: 1
 phone: ""
 opening_hours: "Tu-Fr 09:30-13:00; Tu,Th,Fr 14:30-18:00"

@@ -5,7 +5,7 @@ latitude: 48.1176929
 longitude: 11.6534659
 postcode: 81825
 city: München
-street: Damaschkestraße
+street: "Damaschkestraße"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Fr 09:00-13:00,15:00-18:00; Sa 09:00-13:00"

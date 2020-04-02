@@ -5,7 +5,7 @@ latitude: 49.4330057
 longitude: 10.9492653
 postcode: 90513
 city: Zirndorf
-street: Zwickauer Straße
+street: "Zwickauer Straße"
 housenumber: 2
 phone: "+49 911 692230"
 opening_hours: ""

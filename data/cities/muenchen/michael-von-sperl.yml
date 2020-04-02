@@ -5,7 +5,7 @@ latitude: 48.119011300000004
 longitude: 11.5739815
 postcode: 81543
 city: München
-street: Freibadstraße
+street: "Freibadstraße"
 housenumber: 15
 phone: "+49 89 656020"
 opening_hours: ""

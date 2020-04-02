@@ -5,7 +5,7 @@ latitude: 49.3808914
 longitude: 10.1885591
 postcode: 91541
 city: Rothenburg ob der Tauber
-street: Schweinsdorfer Straße
+street: "Schweinsdorfer Straße"
 housenumber: 25 b
 phone: "+49-9861-8916"
 opening_hours: ""

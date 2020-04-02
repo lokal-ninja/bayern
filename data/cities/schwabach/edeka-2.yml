@@ -5,7 +5,7 @@ latitude: 49.3207856
 longitude: 11.055121900000001
 postcode: 91126
 city: Schwabach
-street: Am Falbenholzweg
+street: "Am Falbenholzweg"
 housenumber: 17
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.034068000000005
 longitude: 12.118199500000001
 postcode: 93057
 city: Regensburg
-street: Isarstraße
+street: "Isarstraße"
 housenumber: 17a
 phone: ""
 opening_hours: ""

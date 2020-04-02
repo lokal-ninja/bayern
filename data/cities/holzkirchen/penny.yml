@@ -5,7 +5,7 @@ latitude: 47.8805483
 longitude: 11.709090300000002
 postcode: 83607
 city: Holzkirchen
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 35
 phone: ""
 opening_hours: ""

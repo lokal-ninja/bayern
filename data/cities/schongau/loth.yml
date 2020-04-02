@@ -5,7 +5,7 @@ latitude: 47.808789000000004
 longitude: 10.878900400000001
 postcode: 86956
 city: Schongau
-street: Burggener Straße
+street: "Burggener Straße"
 housenumber: 12 a
 phone: ""
 opening_hours: ""

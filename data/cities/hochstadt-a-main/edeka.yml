@@ -5,7 +5,7 @@ latitude: 50.15032780000001
 longitude: 11.172754300000001
 postcode: 96272
 city: Hochstadt a. Main
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 22
 phone: ""
 opening_hours: ""

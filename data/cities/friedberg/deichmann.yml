@@ -5,7 +5,7 @@ latitude: 48.3506908
 longitude: 10.9931278
 postcode: 86316
 city: Friedberg
-street: Engelschalkstraße
+street: "Engelschalkstraße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"

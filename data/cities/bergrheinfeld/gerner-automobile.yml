@@ -5,7 +5,7 @@ latitude: 50.013708300000005
 longitude: 10.1847233
 postcode: 97493
 city: Bergrheinfeld
-street: Schweinfurter Straße
+street: "Schweinfurter Straße"
 housenumber: 65
 phone: "+49972190167"
 opening_hours: "Mo-Fr 09:30-12:00,13:00-17:00; Sa 10:00-12:00; PH off"

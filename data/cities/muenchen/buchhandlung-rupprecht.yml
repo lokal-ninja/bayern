@@ -5,7 +5,7 @@ latitude: 48.149292900000006
 longitude: 11.5790381
 postcode: 80799
 city: München
-street: Schellingstraße
+street: "Schellingstraße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 10:00-17:00; PH off"

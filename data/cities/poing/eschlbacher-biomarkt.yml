@@ -5,7 +5,7 @@ latitude: 48.1708088
 longitude: 11.8066426
 postcode: 85586
 city: Poing
-street: Alte Gruber Straße
+street: "Alte Gruber Straße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

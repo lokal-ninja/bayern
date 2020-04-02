@@ -5,7 +5,7 @@ latitude: 48.1731739
 longitude: 12.8307643
 postcode: 84489
 city: Burghausen
-street: Marktler Straße
+street: "Marktler Straße"
 housenumber: 50
 phone: "+49 8677 875855"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"

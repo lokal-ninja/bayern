@@ -5,7 +5,7 @@ latitude: 48.9878994
 longitude: 12.189486700000002
 postcode: 93073
 city: Neutraubling
-street: Gleiwitzer Straße
+street: "Gleiwitzer Straße"
 housenumber: 8
 phone: "+49 9401 79060"
 opening_hours: "24/7"

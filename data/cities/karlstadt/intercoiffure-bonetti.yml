@@ -5,7 +5,7 @@ latitude: 49.972866100000005
 longitude: 9.8456525
 postcode: 97753
 city: Karlstadt
-street: Karlstadter Pfad
+street: "Karlstadter Pfad"
 housenumber: 21
 phone: "+49 9360 993055"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.510391600000005
 longitude: 10.4261517
 postcode: 91438
 city: Bad Windsheim
-street: Sebastian-Münster-Straße
+street: "Sebastian-Münster-Straße"
 housenumber: 4
 phone: "+49 9841 652005"
 opening_hours: ""

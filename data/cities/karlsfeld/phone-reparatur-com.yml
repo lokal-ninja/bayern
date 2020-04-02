@@ -5,7 +5,7 @@ latitude: 48.225763900000004
 longitude: 11.4742768
 postcode: 85757
 city: Karlsfeld
-street: Blumenstraße
+street: "Blumenstraße"
 housenumber: 37
 phone: ""
 opening_hours: ""

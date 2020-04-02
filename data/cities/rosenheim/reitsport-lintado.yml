@@ -1,11 +1,11 @@
 id: 3616180290
 type: node
-shop: Reitsport
+shop: Pferde
 latitude: 47.854894200000004
 longitude: 12.1323529
 postcode: 83022
 city: Rosenheim
-street: Innstraße
+street: "Innstraße"
 housenumber: 27
 phone: ""
 opening_hours: "Mo,We-Fr 09:30-18:00; Sa 9:30-15:00; "

@@ -5,7 +5,7 @@ latitude: 48.5849759
 longitude: 13.492669900000001
 postcode: 94034
 city: Passau
-street: Schulbergstraße
+street: "Schulbergstraße"
 housenumber: 58
 phone: ""
 opening_hours: "Mo-Sa 09:00-20:00"

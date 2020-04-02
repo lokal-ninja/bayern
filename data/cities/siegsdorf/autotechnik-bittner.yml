@@ -5,7 +5,7 @@ latitude: 47.82000600000001
 longitude: 12.646203700000001
 postcode: 83313
 city: Siegsdorf
-street: Ruhpoldinger Straße
+street: "Ruhpoldinger Straße"
 housenumber: 13a
 phone: "+49 8662-9606"
 opening_hours: "Mo-Fr 08:00-12:00,13:30-18:00"

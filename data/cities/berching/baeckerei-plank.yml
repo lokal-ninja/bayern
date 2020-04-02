@@ -5,7 +5,7 @@ latitude: 49.110789800000006
 longitude: 11.4353318
 postcode: 92334
 city: Berching
-street: Sollngriesbacher Straße
+street: "Sollngriesbacher Straße"
 housenumber: 7
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.705875500000005
 longitude: 9.2811567
 postcode: 63927
 city: Bürgstadt
-street: Erfstraße
+street: "Erfstraße"
 housenumber: 51
 phone: ""
 opening_hours: ""

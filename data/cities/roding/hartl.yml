@@ -5,7 +5,7 @@ latitude: 49.1961037
 longitude: 12.516068800000001
 postcode: 93426
 city: Roding
-street: Bäckergasse
+street: "Bäckergasse"
 housenumber: 1
 phone: ""
 opening_hours: ""

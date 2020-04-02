@@ -5,7 +5,7 @@ latitude: 48.1510156
 longitude: 11.7319711
 postcode: 85622
 city: Feldkirchen
-street: Velaskostraße
+street: "Velaskostraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 09:00-17:00"

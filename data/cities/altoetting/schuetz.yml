@@ -5,7 +5,7 @@ latitude: 48.2247393
 longitude: 12.677219800000001
 postcode: 84503
 city: Altötting
-street: Burghauser Straße
+street: "Burghauser Straße"
 housenumber: 2
 phone: "+49 8671 5633"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00"

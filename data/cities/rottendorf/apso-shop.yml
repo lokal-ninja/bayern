@@ -5,7 +5,7 @@ latitude: 49.7906799
 longitude: 10.025877600000001
 postcode: 97228
 city: Rottendorf
-street: Zehntplatz
+street: "Zehntplatz"
 housenumber: 
 phone: "+49-9302-980916"
 opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00; Sa 08:00-12:00"

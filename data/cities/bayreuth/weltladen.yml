@@ -5,7 +5,7 @@ latitude: 49.942937400000005
 longitude: 11.577685
 postcode: 95444
 city: Bayreuth
-street: Ludwigstraße
+street: "Ludwigstraße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-15:00"

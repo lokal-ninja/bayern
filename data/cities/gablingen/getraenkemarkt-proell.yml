@@ -5,7 +5,7 @@ latitude: 48.45542450000001
 longitude: 10.818914900000001
 postcode: 86456
 city: Gablingen
-street: Grünholderstraße
+street: "Grünholderstraße"
 housenumber: 22
 phone: ""
 opening_hours: ""

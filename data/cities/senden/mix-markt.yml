@@ -5,7 +5,7 @@ latitude: 48.332079
 longitude: 10.0411005
 postcode: 89250
 city: Senden
-street: Danziger Straße
+street: "Danziger Straße"
 housenumber: 1
 phone: "+49 7307 952190"
 opening_hours: "Mo-Sa 09:00-20:00"

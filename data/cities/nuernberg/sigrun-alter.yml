@@ -5,7 +5,7 @@ latitude: 49.3493386
 longitude: 11.058236200000001
 postcode: 90455
 city: Nürnberg
-street: Johannes-Brahms-Straße
+street: "Johannes-Brahms-Straße"
 housenumber: 25
 phone: ""
 opening_hours: ""

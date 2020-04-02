@@ -5,7 +5,7 @@ latitude: 48.0772265
 longitude: 11.969835100000001
 postcode: 85560
 city: Ebersberg
-street: Altstadtpassage
+street: "Altstadtpassage"
 housenumber: 6
 phone: ""
 opening_hours: ""

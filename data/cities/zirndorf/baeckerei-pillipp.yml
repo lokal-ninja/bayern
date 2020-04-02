@@ -5,7 +5,7 @@ latitude: 49.441700000000004
 longitude: 10.955344
 postcode: 90513
 city: Zirndorf
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 5
 phone: "+49 911 606365"
 opening_hours: ""

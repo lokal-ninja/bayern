@@ -5,7 +5,7 @@ latitude: 49.035398
 longitude: 11.907771400000001
 postcode: 93180
 city: Deuerling
-street: Regensburger Straße
+street: "Regensburger Straße"
 housenumber: 18
 phone: "+49 9498 905421"
 opening_hours: ""

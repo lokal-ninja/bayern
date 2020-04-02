@@ -5,7 +5,7 @@ latitude: 50.1456789
 longitude: 11.688799300000001
 postcode: 95236
 city: Stammbach
-street: Kulmbacher Straße
+street: "Kulmbacher Straße"
 housenumber: 20b
 phone: ""
 opening_hours: ""

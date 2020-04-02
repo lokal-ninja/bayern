@@ -5,7 +5,7 @@ latitude: 50.025943500000004
 longitude: 9.045004200000001
 postcode: 63801
 city: Kleinostheim
-street: Lindigstraße
+street: "Lindigstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 50.1858006
 longitude: 10.077784600000001
 postcode: 97688
 city: Bad Kissingen
-street: Würzburger Straße
+street: "Würzburger Straße"
 housenumber: 15
 phone: ""
 opening_hours: ""

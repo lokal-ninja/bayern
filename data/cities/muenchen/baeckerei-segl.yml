@@ -5,7 +5,7 @@ latitude: 48.1395275
 longitude: 11.571864000000001
 postcode: 80333
 city: München
-street: Löwengrube
+street: "Löwengrube"
 housenumber: 10
 phone: ""
 opening_hours: ""

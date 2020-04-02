@@ -5,7 +5,7 @@ latitude: 48.0608549
 longitude: 12.231815800000001
 postcode: 83512
 city: Wasserburg am Inn
-street: Herrengasse
+street: "Herrengasse"
 housenumber: 2
 phone: ""
 opening_hours: ""

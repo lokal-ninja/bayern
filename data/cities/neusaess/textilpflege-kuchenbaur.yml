@@ -5,7 +5,7 @@ latitude: 48.393196
 longitude: 10.8248187
 postcode: 86356
 city: Neusäß
-street: Daimlerstraße
+street: "Daimlerstraße"
 housenumber: 17
 phone: "+49 821 463635"
 opening_hours: ""

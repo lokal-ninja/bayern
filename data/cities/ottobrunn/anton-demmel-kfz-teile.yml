@@ -5,7 +5,7 @@ latitude: 48.065243800000005
 longitude: 11.6528697
 postcode: 85521
 city: Ottobrunn
-street: Resselweg
+street: "Resselweg"
 housenumber: 2b
 phone: "+49 89 6093327"
 opening_hours: "Mo-Fr 08:00-18:00"

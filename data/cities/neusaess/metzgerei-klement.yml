@@ -5,7 +5,7 @@ latitude: 48.393428
 longitude: 10.826929
 postcode: 86356
 city: Neusäß
-street: Benzstraße
+street: "Benzstraße"
 housenumber: 18
 phone: "+49 821 4530200"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.111404400000005
 longitude: 11.5485428
 postcode: 81371
 city: München
-street: Thalkirchner Straße
+street: "Thalkirchner Straße"
 housenumber: 145
 phone: ""
 opening_hours: "Mo-Fr 09:00-12:30,14:00-18:30; Sa 09:00-12:30"

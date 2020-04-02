@@ -5,7 +5,7 @@ latitude: 50.275820200000005
 longitude: 10.984909400000001
 postcode: 96450
 city: Coburg
-street: Rosenauer Straße
+street: "Rosenauer Straße"
 housenumber: 102
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00; PH off"

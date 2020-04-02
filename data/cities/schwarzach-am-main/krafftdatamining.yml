@@ -5,7 +5,7 @@ latitude: 49.797169600000004
 longitude: 10.229766600000001
 postcode: 97359
 city: Schwarzach am Main
-street: Kolpingstraße
+street: "Kolpingstraße"
 housenumber: 10
 phone: "+49 1706112430"
 opening_hours: "Mo-Fr 11:00-17:00"

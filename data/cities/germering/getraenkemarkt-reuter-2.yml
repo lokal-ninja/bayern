@@ -5,7 +5,7 @@ latitude: 48.1303264
 longitude: 11.3875513
 postcode: 82110
 city: Germering
-street: Hartstraße
+street: "Hartstraße"
 housenumber: 140
 phone: ""
 opening_hours: "Mo-Fr 08:00-12:30,14:00-18:30; Sa 08:00-13:00"

@@ -5,7 +5,7 @@ latitude: 50.248936500000006
 longitude: 12.037965300000002
 postcode: 95111
 city: Rehau
-street: Schützenstraße
+street: "Schützenstraße"
 housenumber: 9b
 phone: ""
 opening_hours: ""

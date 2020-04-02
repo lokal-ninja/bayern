@@ -5,7 +5,7 @@ latitude: 49.599274400000006
 longitude: 11.0043351
 postcode: 91054
 city: Erlangen
-street: Wasserturmstraße
+street: "Wasserturmstraße"
 housenumber: 12
 phone: ""
 opening_hours: ""

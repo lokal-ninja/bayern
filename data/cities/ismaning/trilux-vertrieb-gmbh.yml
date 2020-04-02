@@ -5,7 +5,7 @@ latitude: 48.235708100000004
 longitude: 11.6797707
 postcode: 85737
 city: Ismaning
-street: Carl-Zeiss-Ring
+street: "Carl-Zeiss-Ring"
 housenumber: 12
 phone: "+49 89 3209870"
 opening_hours: ""

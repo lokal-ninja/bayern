@@ -5,7 +5,7 @@ latitude: 49.0385313
 longitude: 12.134615700000001
 postcode: 93055
 city: Regensburg
-street: Glashüttenstraße
+street: "Glashüttenstraße"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

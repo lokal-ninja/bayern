@@ -5,7 +5,7 @@ latitude: 49.696441
 longitude: 10.2506765
 postcode: 
 city: Iphofen
-street: Alte Reichsstraße
+street: "Alte Reichsstraße"
 housenumber: 33
 phone: "+499323 - 87230"
 opening_hours: ""

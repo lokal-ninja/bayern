@@ -5,7 +5,7 @@ latitude: 48.995955
 longitude: 12.194482
 postcode: 93073
 city: Neutraubling
-street: Rainstallweg
+street: "Rainstallweg"
 housenumber: 2b
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

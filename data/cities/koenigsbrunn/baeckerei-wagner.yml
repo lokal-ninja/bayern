@@ -5,7 +5,7 @@ latitude: 48.2555234
 longitude: 10.8962971
 postcode: 86343
 city: Königsbrunn
-street: Eichenplatz
+street: "Eichenplatz"
 housenumber: 3
 phone: "+49 8231 5770"
 opening_hours: ""

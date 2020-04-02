@@ -5,7 +5,7 @@ latitude: 49.1467321
 longitude: 12.000812300000002
 postcode: 93183
 city: Holzheim am Forst
-street: Sonnenstraße
+street: "Sonnenstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

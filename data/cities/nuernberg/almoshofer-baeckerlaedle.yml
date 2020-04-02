@@ -5,7 +5,7 @@ latitude: 49.4911188
 longitude: 11.0613089
 postcode: 90427
 city: Nürnberg
-street: Almoshofer Hauptstraße
+street: "Almoshofer Hauptstraße"
 housenumber: 95
 phone: ""
 opening_hours: "Mo-Fr 5:30-17:00, Sa 5:30+"

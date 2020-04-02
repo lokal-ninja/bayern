@@ -5,7 +5,7 @@ latitude: 47.4904452
 longitude: 11.0784014
 postcode: 82467
 city: Garmisch-Partenkirchen
-street: Zugspitzstraße
+street: "Zugspitzstraße"
 housenumber: 49
 phone: "+49 8821 59909"
 opening_hours: "Mo - Fr 09:00-18:00; Sa 09:00-13:00"

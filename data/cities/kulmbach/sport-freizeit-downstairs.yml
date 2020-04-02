@@ -5,7 +5,7 @@ latitude: 50.1079208
 longitude: 11.452527900000002
 postcode: 95326
 city: Kulmbach
-street: Fritz-Hornschuch-Straße
+street: "Fritz-Hornschuch-Straße"
 housenumber: 7
 phone: "+49 9221 91444"
 opening_hours: "Mo-Fr 09:30-18:00; Sa 09:00-16:00; Su,PH off"

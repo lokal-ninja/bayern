@@ -5,7 +5,7 @@ latitude: 47.9973528
 longitude: 12.8253842
 postcode: 83413
 city: Fridolfing
-street: Hadrianstraße
+street: "Hadrianstraße"
 housenumber: 35
 phone: "+49 8684 969 99 90"
 opening_hours: ""

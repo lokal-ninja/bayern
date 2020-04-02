@@ -5,7 +5,7 @@ latitude: 48.528899300000006
 longitude: 11.5046867
 postcode: 85276
 city: Pfaffenhofen a.d. Ilm
-street: Scheyerer Straße
+street: "Scheyerer Straße"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Sa 09:00-12:30, Mo,Tu,Th,Fr 14:00-18:30"

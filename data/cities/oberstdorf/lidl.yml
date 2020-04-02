@@ -5,7 +5,7 @@ latitude: 47.4126022
 longitude: 10.2786404
 postcode: 87561
 city: Oberstdorf
-street: Im Steinach
+street: "Im Steinach"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

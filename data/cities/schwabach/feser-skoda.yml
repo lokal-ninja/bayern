@@ -5,7 +5,7 @@ latitude: 49.324099000000004
 longitude: 11.0395993
 postcode: 91126
 city: Schwabach
-street: Rother Straße
+street: "Rother Straße"
 housenumber: 15
 phone: ""
 opening_hours: ""

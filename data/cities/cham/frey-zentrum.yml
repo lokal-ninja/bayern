@@ -5,7 +5,7 @@ latitude: 49.2180419
 longitude: 12.666613900000002
 postcode: 93413
 city: Cham
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 11
 phone: "+49 9971 4080"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.4426769
 longitude: 13.0889723
 postcode: 84364
 city: Bad Birnbach
-street: Neuer Marktplatz
+street: "Neuer Marktplatz"
 housenumber: 18
 phone: ""
 opening_hours: "Mo-Fr 07:00-18:00, Sa 07:00-12:00"

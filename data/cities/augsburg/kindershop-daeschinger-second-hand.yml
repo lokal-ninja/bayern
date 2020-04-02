@@ -5,7 +5,7 @@ latitude: 48.360933
 longitude: 10.8752305
 postcode: 86157
 city: Augsburg
-street: Gollwitzerstraße
+street: "Gollwitzerstraße"
 housenumber: 7
 phone: "+49821520606"
 opening_hours: "Mo,Tu,Th 10:00-13:00,15:00-18:00; We 10:00-15:00; Fr 10:00-13:00"

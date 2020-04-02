@@ -5,7 +5,7 @@ latitude: 49.4479782
 longitude: 11.0578029
 postcode: 90429
 city: Nürnberg
-street: Rohrmannstraße
+street: "Rohrmannstraße"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

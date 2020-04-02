@@ -5,7 +5,7 @@ latitude: 48.126568000000006
 longitude: 11.631638
 postcode: 81673
 city: München
-street: Josephsburgstraße
+street: "Josephsburgstraße"
 housenumber: 37
 phone: "+49 89 43589147"
 opening_hours: "Mo-Sa 07:00-20:00"

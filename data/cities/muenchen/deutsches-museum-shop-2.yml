@@ -5,7 +5,7 @@ latitude: 48.130329
 longitude: 11.583252600000002
 postcode: 80538
 city: München
-street: Museumsinsel
+street: "Museumsinsel"
 housenumber: 1
 phone: "+49 89 21 38 38 92"
 opening_hours: "Mo-Su 9:00-18:00"

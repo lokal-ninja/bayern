@@ -5,7 +5,7 @@ latitude: 48.3789037
 longitude: 10.0049919
 postcode: 89231
 city: Neu-Ulm
-street: Wegenerstraße
+street: "Wegenerstraße"
 housenumber: 2
 phone: "+49 731 / 2058667-0"
 opening_hours: "Mo-Sa 08:30-20:00"

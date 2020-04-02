@@ -5,7 +5,7 @@ latitude: 48.142229900000004
 longitude: 11.302938800000002
 postcode: 82239
 city: Alling
-street: Griesstraße
+street: "Griesstraße"
 housenumber: 13
 phone: ""
 opening_hours: ""

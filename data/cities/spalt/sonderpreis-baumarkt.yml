@@ -5,7 +5,7 @@ latitude: 49.174707000000005
 longitude: 10.933000700000001
 postcode: 91174
 city: Spalt
-street: Rother Straße
+street: "Rother Straße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00"

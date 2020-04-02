@@ -5,7 +5,7 @@ latitude: 47.697109600000005
 longitude: 10.7932514
 postcode: 86983
 city: Lechbruck am See
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 29
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

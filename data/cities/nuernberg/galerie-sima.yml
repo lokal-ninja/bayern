@@ -5,7 +5,7 @@ latitude: 49.45342410000001
 longitude: 11.0604361
 postcode: 90429
 city: Nürnberg
-street: Hochstraße
+street: "Hochstraße"
 housenumber: 33
 phone: "+49 911 263409"
 opening_hours: ""

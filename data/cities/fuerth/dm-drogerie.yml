@@ -5,7 +5,7 @@ latitude: 49.4951888
 longitude: 10.9950644
 postcode: 90765
 city: Fürth
-street: Seeackerstraße
+street: "Seeackerstraße"
 housenumber: 33
 phone: "+49 911 7665708"
 opening_hours: "Mo-Sa 07:00-20:00"

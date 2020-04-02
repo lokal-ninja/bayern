@@ -5,7 +5,7 @@ latitude: 49.6683937
 longitude: 10.925027400000001
 postcode: 91341
 city: Röttenbach
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 43
 phone: ""
 opening_hours: ""

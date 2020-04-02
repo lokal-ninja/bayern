@@ -5,7 +5,7 @@ latitude: 48.2812428
 longitude: 12.145092
 postcode: 84405
 city: Dorfen
-street: Ludwig-Mertl-Straße
+street: "Ludwig-Mertl-Straße"
 housenumber: 1
 phone: "+49 8081 60 49 555"
 opening_hours: "Mo-Fr 06:00-19:00, Sa 07:00-13:00"

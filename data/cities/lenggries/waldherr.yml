@@ -5,7 +5,7 @@ latitude: 47.682093800000004
 longitude: 11.5766281
 postcode: 83661
 city: Lenggries
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 8
 phone: "+49 8042 8720"
 opening_hours: "Mo-Tu 06:00-18:00; We off; Th-Fr 06:00-18:00; Sa 06:00-12:00; Su 07:30-10:30"

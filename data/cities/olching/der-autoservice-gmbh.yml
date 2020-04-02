@@ -5,7 +5,7 @@ latitude: 48.197686100000006
 longitude: 11.3020648
 postcode: 82140
 city: Olching
-street: Schloßstraße
+street: "Schloßstraße"
 housenumber: 161B
 phone: "+49 8142 284747"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.0617626
 longitude: 10.5840686
 postcode: 86871
 city: Rammingen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 52
 phone: ""
 opening_hours: ""

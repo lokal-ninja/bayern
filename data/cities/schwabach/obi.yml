@@ -5,7 +5,7 @@ latitude: 49.3384124
 longitude: 11.023835700000001
 postcode: 91126
 city: Schwabach
-street: Nürnberger Straße
+street: "Nürnberger Straße"
 housenumber: 86
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

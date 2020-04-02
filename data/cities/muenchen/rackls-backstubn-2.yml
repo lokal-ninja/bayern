@@ -5,7 +5,7 @@ latitude: 48.0970899
 longitude: 11.5813521
 postcode: 81547
 city: München
-street: Haushamer Straße
+street: "Haushamer Straße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 06:00-18:30; Sa 06:30-17:00; Su 07:30-17:00"

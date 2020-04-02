@@ -5,7 +5,7 @@ latitude: 49.055227300000006
 longitude: 10.502723300000001
 postcode: 91726
 city: Gerolfingen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 60
 phone: "+499854 976494"
 opening_hours: ""

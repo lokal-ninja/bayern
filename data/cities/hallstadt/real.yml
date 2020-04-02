@@ -5,7 +5,7 @@ latitude: 49.914538300000004
 longitude: 10.8651741
 postcode: 96103
 city: Hallstadt
-street: Emil-Kemmer-Straße
+street: "Emil-Kemmer-Straße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

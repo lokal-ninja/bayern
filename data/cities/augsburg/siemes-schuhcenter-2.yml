@@ -5,7 +5,7 @@ latitude: 48.3792088
 longitude: 10.933480000000001
 postcode: 86165
 city: Augsburg
-street: Brixener Straße
+street: "Brixener Straße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Fr 09:00-20:00;Sa 09:00-18:00"

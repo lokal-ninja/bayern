@@ -5,7 +5,7 @@ latitude: 48.692327600000006
 longitude: 12.200416200000001
 postcode: 84061
 city: Ergoldsbach
-street: Am Alten Sägewerk
+street: "Am Alten Sägewerk"
 housenumber: 1
 phone: "+49 8771 1235"
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"

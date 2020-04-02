@@ -5,7 +5,7 @@ latitude: 48.549598
 longitude: 12.1265139
 postcode: 84032
 city: Landshut
-street: Eichenstraße
+street: "Eichenstraße"
 housenumber: 23
 phone: ""
 opening_hours: ""

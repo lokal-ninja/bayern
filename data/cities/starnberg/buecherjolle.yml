@@ -5,7 +5,7 @@ latitude: 47.9985313
 longitude: 11.34162
 postcode: 82319
 city: Starnberg
-street: Kirchplatz
+street: "Kirchplatz"
 housenumber: 3
 phone: "+49 8151 128 28"
 opening_hours: "Mo-Fr 09:00-18:30; Sa 09:30-14:00"

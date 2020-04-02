@@ -5,7 +5,7 @@ latitude: 48.856872
 longitude: 10.4789481
 postcode: 86720
 city: Nördlingen
-street: Würzburger Straße
+street: "Würzburger Straße"
 housenumber: 24
 phone: "+49 9081 290890"
 opening_hours: ""

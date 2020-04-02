@@ -5,7 +5,7 @@ latitude: 50.2979818
 longitude: 11.6929558
 postcode: 95119
 city: Naila
-street: Feldstraße
+street: "Feldstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

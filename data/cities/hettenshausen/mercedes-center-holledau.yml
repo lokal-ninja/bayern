@@ -5,7 +5,7 @@ latitude: 48.5188828
 longitude: 11.510471200000001
 postcode: 85276
 city: Hettenshausen
-street: Münchener Straße
+street: "Münchener Straße"
 housenumber: 94 - 98
 phone: "+49 8441 2788 0"
 opening_hours: ""

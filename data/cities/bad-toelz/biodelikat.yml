@@ -5,7 +5,7 @@ latitude: 47.7603877
 longitude: 11.5544145
 postcode: 83646
 city: Bad Tölz
-street: Badstraße
+street: "Badstraße"
 housenumber: 4 1/3
 phone: ""
 opening_hours: ""

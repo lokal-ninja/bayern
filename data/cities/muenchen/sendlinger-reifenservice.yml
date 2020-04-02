@@ -5,7 +5,7 @@ latitude: 48.0992848
 longitude: 11.5327958
 postcode: 81379
 city: München
-street: Baierbrunner Straße
+street: "Baierbrunner Straße"
 housenumber: 8
 phone: "+49 89 789140"
 opening_hours: ""

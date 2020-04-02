@@ -5,7 +5,7 @@ latitude: 48.3718882
 longitude: 10.866872200000001
 postcode: 86156
 city: Augsburg
-street: Pearl-S.-Buck-Straße
+street: "Pearl-S.-Buck-Straße"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

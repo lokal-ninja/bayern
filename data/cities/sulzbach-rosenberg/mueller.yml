@@ -5,7 +5,7 @@ latitude: 49.5038587
 longitude: 11.7425595
 postcode: 92237
 city: Sulzbach-Rosenberg
-street: Rosenberger Straße
+street: "Rosenberger Straße"
 housenumber: 30
 phone: "+49 9661 87510"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 08:30-16:00"

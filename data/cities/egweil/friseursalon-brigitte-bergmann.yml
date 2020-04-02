@@ -5,7 +5,7 @@ latitude: 48.7886759
 longitude: 11.2292097
 postcode: 85116
 city: Egweil
-street: Untere Straße
+street: "Untere Straße"
 housenumber: 3
 phone: ""
 opening_hours: ""

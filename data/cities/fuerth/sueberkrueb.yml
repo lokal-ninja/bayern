@@ -5,7 +5,7 @@ latitude: 49.4846937
 longitude: 11.001401900000001
 postcode: 90765
 city: Fürth
-street: Alte Reutstraße
+street: "Alte Reutstraße"
 housenumber: 62
 phone: ""
 opening_hours: ""

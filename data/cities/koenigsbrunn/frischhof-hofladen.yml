@@ -5,7 +5,7 @@ latitude: 48.254172800000006
 longitude: 10.8815875
 postcode: 86343
 city: Königsbrunn
-street: Landsberger Straße
+street: "Landsberger Straße"
 housenumber: 57A
 phone: "+49 8231 4890"
 opening_hours: "Mo-Fr 08:00-18:00, Sa 08:00-12:30"

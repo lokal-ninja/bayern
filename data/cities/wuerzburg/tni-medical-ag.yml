@@ -5,7 +5,7 @@ latitude: 49.7638947
 longitude: 9.9422239
 postcode: 
 city: Würzburg
-street: Hofmannstraße
+street: "Hofmannstraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

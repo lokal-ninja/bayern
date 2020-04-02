@@ -5,7 +5,7 @@ latitude: 50.135521000000004
 longitude: 11.2429439
 postcode: 96224
 city: Burgkunstadt
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 54
 phone: ""
 opening_hours: "Mo-Sa 08:30-18:30"

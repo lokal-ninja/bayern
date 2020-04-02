@@ -5,7 +5,7 @@ latitude: 48.2262361
 longitude: 11.3329859
 postcode: 82140
 city: Olching
-street: Geiselbullacher Straße
+street: "Geiselbullacher Straße"
 housenumber: 2A
 phone: ""
 opening_hours: "Mo-Fr 14:00-18:00, Sa 09:30-13:00"

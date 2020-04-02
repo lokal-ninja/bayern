@@ -5,7 +5,7 @@ latitude: 48.1437612
 longitude: 11.5754839
 postcode: 80333
 city: München
-street: Finkenstraße
+street: "Finkenstraße"
 housenumber: 4
 phone: "+49 89 28 25 48"
 opening_hours: "Tu-Fr 12:00-18:00"

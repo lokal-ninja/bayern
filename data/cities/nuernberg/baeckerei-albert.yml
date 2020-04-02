@@ -5,7 +5,7 @@ latitude: 49.4638264
 longitude: 11.0876903
 postcode: 90409
 city: Nürnberg
-street: Parkstraße
+street: "Parkstraße"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Fr 06:30-18:00;Sa 06:30-13:00"

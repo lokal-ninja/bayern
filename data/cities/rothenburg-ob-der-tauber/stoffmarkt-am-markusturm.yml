@@ -5,7 +5,7 @@ latitude: 49.3769652
 longitude: 10.1809442
 postcode: 91541
 city: Rothenburg ob der Tauber
-street: Hafengasse
+street: "Hafengasse"
 housenumber: 22
 phone: "+49-9861-8738881"
 opening_hours: ""

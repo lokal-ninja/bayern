@@ -5,7 +5,7 @@ latitude: 50.24774600000001
 longitude: 11.702451
 postcode: 95233
 city: Helmbrechts
-street: Mittelweg
+street: "Mittelweg"
 housenumber: 3
 phone: ""
 opening_hours: ""

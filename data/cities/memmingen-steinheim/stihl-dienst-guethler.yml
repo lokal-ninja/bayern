@@ -5,7 +5,7 @@ latitude: 48.0178269
 longitude: 10.1624429
 postcode: 87700
 city: Memmingen-Steinheim
-street: Achstraße
+street: "Achstraße"
 housenumber: 1a
 phone: ""
 opening_hours: "Mo-Sa 08:00-12:00, Mo-Fr 13:00-17:30"

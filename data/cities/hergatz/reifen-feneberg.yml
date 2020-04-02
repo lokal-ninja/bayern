@@ -5,7 +5,7 @@ latitude: 47.647679800000006
 longitude: 9.8307835
 postcode: 88145
 city: Hergatz
-street: Bregenzer Straße
+street: "Bregenzer Straße"
 housenumber: 10
 phone: "+49 8385 98016"
 opening_hours: "Mo-Fr 08:00-18:00, Sa 09:00-13:00"

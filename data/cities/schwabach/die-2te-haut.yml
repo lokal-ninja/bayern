@@ -5,7 +5,7 @@ latitude: 49.329348
 longitude: 11.0206993
 postcode: 91126
 city: Schwabach
-street: Königsplatz
+street: "Königsplatz"
 housenumber: 8
 phone: "+49 9122 86422"
 opening_hours: "Mo-Th 09:00-12:30, 14:00-18:00; Fr 09:00-18:00; Sa 09:00-13:00"

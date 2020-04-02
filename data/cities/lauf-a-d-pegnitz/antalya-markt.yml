@@ -5,7 +5,7 @@ latitude: 49.5057823
 longitude: 11.2803366
 postcode: 91207
 city: Lauf a.d.Pegnitz
-street: Hermannstraße
+street: "Hermannstraße"
 housenumber: 29
 phone: "+49 9123 - 8091203"
 opening_hours: "Mo-Sa 08:00-20:00"

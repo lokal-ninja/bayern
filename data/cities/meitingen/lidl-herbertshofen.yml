@@ -5,7 +5,7 @@ latitude: 48.521787100000005
 longitude: 10.857850000000001
 postcode: 86405
 city: Meitingen
-street: Ulrichstraße
+street: "Ulrichstraße"
 housenumber: 24
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00; PH off"

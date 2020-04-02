@@ -5,7 +5,7 @@ latitude: 48.4071043
 longitude: 11.7573447
 postcode: 85356
 city: Freising
-street: Alte Poststraße
+street: "Alte Poststraße"
 housenumber: 99
 phone: "+49-8161-9351690"
 opening_hours: ""

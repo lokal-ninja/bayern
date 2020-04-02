@@ -5,7 +5,7 @@ latitude: 48.228405300000006
 longitude: 11.432425700000001
 postcode: 85232
 city: Gröbenried
-street: Langwieder Straße
+street: "Langwieder Straße"
 housenumber: 1
 phone: ""
 opening_hours: "Tu-Fr 08:00-12:00,13:00-17:00; Sa 08:00-12:00; Mo,Su closed Ruhetag"

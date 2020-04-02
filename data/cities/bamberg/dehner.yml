@@ -5,7 +5,7 @@ latitude: 49.8952217
 longitude: 10.9216052
 postcode: 96050
 city: Bamberg
-street: Moosstraße
+street: "Moosstraße"
 housenumber: 109
 phone: "+49 951 9120010"
 opening_hours: "Mo-Fr 09:00-20:00; Sa 08:30-20:00"

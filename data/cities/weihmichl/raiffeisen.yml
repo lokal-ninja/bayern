@@ -5,7 +5,7 @@ latitude: 48.6156695
 longitude: 11.997103500000001
 postcode: 84107
 city: Weihmichl
-street: Further Straße
+street: "Further Straße"
 housenumber: 5
 phone: "+49 8708 416"
 opening_hours: "Mo-Fr 08:00-12:00,13:00-16:30"

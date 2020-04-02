@@ -5,7 +5,7 @@ latitude: 49.9228536
 longitude: 10.896382500000001
 postcode: 96103
 city: Hallstadt
-street: Michelinstraße
+street: "Michelinstraße"
 housenumber: 142
 phone: ""
 opening_hours: ""

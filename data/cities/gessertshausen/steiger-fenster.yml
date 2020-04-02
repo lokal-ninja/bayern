@@ -5,7 +5,7 @@ latitude: 48.3136602
 longitude: 10.711389
 postcode: 86459
 city: Gessertshausen
-street: Fuggerstraße
+street: "Fuggerstraße"
 housenumber: 20
 phone: "+49 8238 2267"
 opening_hours: ""

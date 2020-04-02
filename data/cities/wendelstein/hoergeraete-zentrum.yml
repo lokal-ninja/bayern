@@ -5,7 +5,7 @@ latitude: 49.3519115
 longitude: 11.146085000000001
 postcode: 90530
 city: Wendelstein
-street: Äußere Further Straße
+street: "Äußere Further Straße"
 housenumber: 1
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.0682909
 longitude: 10.316472800000001
 postcode: 91550
 city: Dinkelsbühl
-street: Schreinersgasse
+street: "Schreinersgasse"
 housenumber: 11
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.3480849
 longitude: 12.732042600000002
 postcode: 84335
 city: Mitterskirchen
-street: Holzhamer Straße
+street: "Holzhamer Straße"
 housenumber: 14
 phone: ""
 opening_hours: "Mo-Fr 08:00 -12:00, Mo-Fr 13:00 - 17:00; Sa,Su,PH off"

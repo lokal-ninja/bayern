@@ -5,7 +5,7 @@ latitude: 49.450448
 longitude: 11.081007000000001
 postcode: 90402
 city: Nürnberg
-street: Lorenzer Straße
+street: "Lorenzer Straße"
 housenumber: 5
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.328526100000005
 longitude: 11.0216551
 postcode: 91126
 city: Schwabach
-street: Martin-Luther-Platz
+street: "Martin-Luther-Platz"
 housenumber: 17
 phone: ""
 opening_hours: ""

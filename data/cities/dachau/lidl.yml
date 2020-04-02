@@ -5,7 +5,7 @@ latitude: 48.257902200000004
 longitude: 11.421012000000001
 postcode: 85221
 city: Dachau
-street: Ludwig-Dill-Straße
+street: "Ludwig-Dill-Straße"
 housenumber: 69
 phone: ""
 opening_hours: ""

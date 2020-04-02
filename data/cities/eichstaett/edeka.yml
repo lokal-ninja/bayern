@@ -5,7 +5,7 @@ latitude: 48.896893600000006
 longitude: 11.176087500000001
 postcode: 85072
 city: Eichstätt
-street: Weißenburger Straße
+street: "Weißenburger Straße"
 housenumber: 36
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

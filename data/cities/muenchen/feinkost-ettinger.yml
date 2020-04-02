@@ -5,7 +5,7 @@ latitude: 48.153845100000005
 longitude: 11.4640123
 postcode: 81245
 city: München
-street: Orthstraße
+street: "Orthstraße"
 housenumber: 14
 phone: ""
 opening_hours: ""

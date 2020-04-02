@@ -5,7 +5,7 @@ latitude: 47.6744478
 longitude: 11.201135
 postcode: 82418
 city: Murnau am Staffelsee
-street: Untermarkt
+street: "Untermarkt"
 housenumber: 58
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

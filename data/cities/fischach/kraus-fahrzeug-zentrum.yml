@@ -5,7 +5,7 @@ latitude: 48.282382000000005
 longitude: 10.6547374
 postcode: 86850
 city: Fischach
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 66
 phone: ""
 opening_hours: ""

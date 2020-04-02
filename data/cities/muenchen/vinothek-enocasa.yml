@@ -5,7 +5,7 @@ latitude: 48.2110331
 longitude: 11.4619113
 postcode: 80997
 city: München
-street: Mannertstraße
+street: "Mannertstraße"
 housenumber: 22
 phone: ""
 opening_hours: "Mo,Tu,Th-Sa 14:00 - 20:00; We, Su off"

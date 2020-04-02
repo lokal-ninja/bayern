@@ -5,7 +5,7 @@ latitude: 50.056307100000005
 longitude: 10.2289828
 postcode: 97422
 city: Schweinfurt
-street: Heckenweg
+street: "Heckenweg"
 housenumber: 2 A
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

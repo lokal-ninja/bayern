@@ -5,7 +5,7 @@ latitude: 49.993856400000006
 longitude: 9.5761701
 postcode: 97816
 city: Lohr am Main
-street: Turmstraße
+street: "Turmstraße"
 housenumber: 13
 phone: ""
 opening_hours: ""

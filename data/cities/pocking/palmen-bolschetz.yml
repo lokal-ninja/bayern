@@ -5,7 +5,7 @@ latitude: 48.4034367
 longitude: 13.318813800000001
 postcode: 94060
 city: Pocking
-street: Arnulfstraße
+street: "Arnulfstraße"
 housenumber: 14
 phone: ""
 opening_hours: ""

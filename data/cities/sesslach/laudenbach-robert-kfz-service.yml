@@ -5,7 +5,7 @@ latitude: 50.1738178
 longitude: 10.847911600000002
 postcode: 96145
 city: Seßlach
-street: Eckersdorf
+street: "Eckersdorf"
 housenumber: 5
 phone: "+49 9569 366"
 opening_hours: ""

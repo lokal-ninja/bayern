@@ -5,7 +5,7 @@ latitude: 48.0955409
 longitude: 11.5162869
 postcode: 81379
 city: München
-street: Kistlerhofstraße
+street: "Kistlerhofstraße"
 housenumber: 140
 phone: "+49 89 7489050"
 opening_hours: ""

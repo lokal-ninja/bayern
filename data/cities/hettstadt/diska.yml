@@ -5,7 +5,7 @@ latitude: 49.800057
 longitude: 9.823640000000001
 postcode: 97265
 city: Hettstadt
-street: August-Wörner-Straße
+street: "August-Wörner-Straße"
 housenumber: 21-23
 phone: "+49 931 4675838"
 opening_hours: ""

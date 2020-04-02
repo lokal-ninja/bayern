@@ -5,7 +5,7 @@ latitude: 49.429906900000006
 longitude: 11.0744404
 postcode: 90443
 city: Nürnberg
-street: Ulmenstraße
+street: "Ulmenstraße"
 housenumber: 52g
 phone: ""
 opening_hours: ""

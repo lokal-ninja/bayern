@@ -5,7 +5,7 @@ latitude: 49.027748100000004
 longitude: 12.109728800000001
 postcode: 93059
 city: Regensburg
-street: Günzstraße
+street: "Günzstraße"
 housenumber: 2
 phone: "+49 941 590409 600"
 opening_hours: "Mo-Th 09:00-13:00,14:00-17:00; We,Fr 09:00-13:00"

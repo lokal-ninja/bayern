@@ -5,7 +5,7 @@ latitude: 48.1331653
 longitude: 11.5855405
 postcode: 80538
 city: München
-street: Steinsdorfstraße
+street: "Steinsdorfstraße"
 housenumber: 18
 phone: "+49 89 2601 1608"
 opening_hours: "Mo-th 15:00-19:00; Fr 13:00-20:00; Sa 10:00-16:00"

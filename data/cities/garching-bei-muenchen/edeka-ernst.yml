@@ -5,7 +5,7 @@ latitude: 48.249621000000005
 longitude: 11.6338325
 postcode: 85748
 city: Garching bei München
-street: Parkring
+street: "Parkring"
 housenumber: 37
 phone: "+49 89 3220 9844"
 opening_hours: "Mo-Sa 07:00-20:00"

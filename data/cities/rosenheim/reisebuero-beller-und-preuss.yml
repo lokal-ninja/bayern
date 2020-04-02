@@ -5,7 +5,7 @@ latitude: 47.855608800000006
 longitude: 12.1259093
 postcode: 83022
 city: Rosenheim
-street: Hafnerstraße
+street: "Hafnerstraße"
 housenumber: 3
 phone: "+49 8031 32001"
 opening_hours: "Mo-Fr 9:00-18:00;Fr 9:00-19:00"

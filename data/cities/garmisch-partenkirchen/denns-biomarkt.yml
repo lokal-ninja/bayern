@@ -5,7 +5,7 @@ latitude: 47.4956368
 longitude: 11.095251300000001
 postcode: 82467
 city: Garmisch-Partenkirchen
-street: Von-Brug-Straße
+street: "Von-Brug-Straße"
 housenumber: 13
 phone: "+49 8821 7301770"
 opening_hours: ""

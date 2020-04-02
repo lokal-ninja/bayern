@@ -5,7 +5,7 @@ latitude: 49.436815
 longitude: 11.857628400000001
 postcode: 92224
 city: Amberg
-street: Köferinger Straße
+street: "Köferinger Straße"
 housenumber: 2
 phone: ""
 opening_hours: ""

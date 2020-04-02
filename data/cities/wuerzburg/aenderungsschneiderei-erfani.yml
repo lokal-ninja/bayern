@@ -5,7 +5,7 @@ latitude: 49.7988038
 longitude: 9.9343649
 postcode: 97070
 city: Würzburg
-street: Kaiserstraße
+street: "Kaiserstraße"
 housenumber: 16
 phone: "+49 0931 3538673"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-16:00"

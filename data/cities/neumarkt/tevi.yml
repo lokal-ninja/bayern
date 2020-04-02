@@ -5,7 +5,7 @@ latitude: 49.287425000000006
 longitude: 11.4427593
 postcode: 92318
 city: Neumarkt
-street: Nürnberger Straße
+street: "Nürnberger Straße"
 housenumber: 37a
 phone: ""
 opening_hours: ""

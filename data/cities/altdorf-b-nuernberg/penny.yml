@@ -5,7 +5,7 @@ latitude: 49.382077300000006
 longitude: 11.346833
 postcode: 90518
 city: Altdorf b. Nürnberg
-street: Pfaffentalstraße
+street: "Pfaffentalstraße"
 housenumber: 31-33
 phone: ""
 opening_hours: ""

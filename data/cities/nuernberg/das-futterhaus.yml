@@ -5,7 +5,7 @@ latitude: 49.4343931
 longitude: 11.0363824
 postcode: 90431
 city: Nürnberg
-street: Tillypark
+street: "Tillypark"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Sa 09:00-19:00"

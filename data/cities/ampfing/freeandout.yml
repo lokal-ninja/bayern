@@ -5,7 +5,7 @@ latitude: 48.247734300000005
 longitude: 12.410876700000001
 postcode: 84539
 city: Ampfing
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00"

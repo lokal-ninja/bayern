@@ -5,7 +5,7 @@ latitude: 47.9029521
 longitude: 11.368633
 postcode: 82541
 city: Münsing
-street: Schmiedgasse
+street: "Schmiedgasse"
 housenumber: 1
 phone: "+49 8177 268"
 opening_hours: ""

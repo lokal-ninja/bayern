@@ -5,7 +5,7 @@ latitude: 48.5846366
 longitude: 11.1084571
 postcode: 86554
 city: Pöttmes
-street: Rudolf-Diesel-Straße
+street: "Rudolf-Diesel-Straße"
 housenumber: 6
 phone: "+49 8253-9978-0"
 opening_hours: ""

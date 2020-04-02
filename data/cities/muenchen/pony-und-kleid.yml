@@ -5,7 +5,7 @@ latitude: 48.158340700000004
 longitude: 11.5837879
 postcode: 80801
 city: München
-street: Ainmillerstraße
+street: "Ainmillerstraße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-We 09:30-18:00;Th 09:30-20:00;Fr 09:30-18:00"

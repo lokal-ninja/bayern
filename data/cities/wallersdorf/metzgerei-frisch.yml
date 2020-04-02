@@ -5,7 +5,7 @@ latitude: 48.739268800000005
 longitude: 12.7468143
 postcode: 94522
 city: Wallersdorf
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Fr 07:00-18:00; Sa 06:30-12:00; Su,PH off"

@@ -5,7 +5,7 @@ latitude: 49.79722760000001
 longitude: 9.9347577
 postcode: 97070
 city: Würzburg
-street: Textorstraße
+street: "Textorstraße"
 housenumber: 13
 phone: ""
 opening_hours: ""

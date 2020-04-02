@@ -5,7 +5,7 @@ latitude: 48.32078610000001
 longitude: 10.908172
 postcode: 86179
 city: Augsburg
-street: Haunstetter Straße
+street: "Haunstetter Straße"
 housenumber: 232
 phone: "+49 821 5047729"
 opening_hours: "Mo-Fr 09:00-17:00"

@@ -5,7 +5,7 @@ latitude: 48.729574400000004
 longitude: 11.8902327
 postcode: 93359
 city: Wildenberg
-street: Siegenburger Straße
+street: "Siegenburger Straße"
 housenumber: 50
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 47.8632399
 longitude: 12.007252000000001
 postcode: 83043
 city: Bad Aibling
-street: Griesgasse
+street: "Griesgasse"
 housenumber: 1
 phone: ""
 opening_hours: "Mo,Tu,Fr 10:00-12:30,15:00-18:00;We 10:00-12:30;Th 10:00-18:00;Sa 10:00-13:00;PH off"

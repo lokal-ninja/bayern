@@ -5,7 +5,7 @@ latitude: 48.1566757
 longitude: 11.546037
 postcode: 80636
 city: München
-street: Hilblestraße
+street: "Hilblestraße"
 housenumber: 26
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:30, Sa 08:00-13:00; PH off"

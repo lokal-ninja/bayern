@@ -5,7 +5,7 @@ latitude: 47.8192369
 longitude: 10.592103700000001
 postcode: 87674
 city: Ruderatshofen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 2
 phone: "+49 8343 92390"
 opening_hours: "Mo-Fr 06:30-18:00, Sa 06:30-12:00; Su, PH off"

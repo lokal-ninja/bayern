@@ -5,7 +5,7 @@ latitude: 49.577929000000005
 longitude: 10.886426
 postcode: 91074
 city: Herzogenaurach
-street: Einsteinstraße
+street: "Einsteinstraße"
 housenumber: 13
 phone: ""
 opening_hours: ""

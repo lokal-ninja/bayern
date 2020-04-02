@@ -5,7 +5,7 @@ latitude: 48.799613400000005
 longitude: 12.870891700000001
 postcode: 94447
 city: Plattling
-street: Gottlieb-Daimler-Straße
+street: "Gottlieb-Daimler-Straße"
 housenumber: 16
 phone: "+49 9931 5060"
 opening_hours: ""

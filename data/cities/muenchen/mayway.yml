@@ -5,7 +5,7 @@ latitude: 48.1918056
 longitude: 11.590931900000001
 postcode: 80939
 city: München
-street: Schwarzhauptstraße
+street: "Schwarzhauptstraße"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Fr 08:30-17:00"

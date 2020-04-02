@@ -5,7 +5,7 @@ latitude: 49.6008118
 longitude: 11.002734100000001
 postcode: 91054
 city: Erlangen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 81
 phone: "+49 9131 401 0088"
 opening_hours: "Mo-Sa 10:30-18:00"

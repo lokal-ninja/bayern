@@ -5,7 +5,7 @@ latitude: 49.9975651
 longitude: 9.185393900000001
 postcode: 63773
 city: Goldbach
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 90
 phone: ""
 opening_hours: ""

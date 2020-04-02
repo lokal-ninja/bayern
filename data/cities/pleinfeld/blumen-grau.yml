@@ -5,7 +5,7 @@ latitude: 49.1036737
 longitude: 10.9870894
 postcode: 91785
 city: Pleinfeld
-street: Ellinger Straße
+street: "Ellinger Straße"
 housenumber: 6
 phone: "+499144 353"
 opening_hours: ""

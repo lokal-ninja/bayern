@@ -5,7 +5,7 @@ latitude: 47.741196300000006
 longitude: 12.463220100000001
 postcode: 83246
 city: Unterwössen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

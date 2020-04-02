@@ -5,7 +5,7 @@ latitude: 48.1496165
 longitude: 11.563424900000001
 postcode: 80333
 city: München
-street: Augustenstraße
+street: "Augustenstraße"
 housenumber: 72
 phone: "+49 89 57933371"
 opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-19:00"

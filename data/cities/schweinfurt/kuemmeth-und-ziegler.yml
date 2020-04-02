@@ -5,7 +5,7 @@ latitude: 50.033439
 longitude: 10.236703700000001
 postcode: 97424
 city: Schweinfurt
-street: Rudolf-Diesel-Straße
+street: "Rudolf-Diesel-Straße"
 housenumber: 22
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00; Sa 09:30-13:00; Su off"

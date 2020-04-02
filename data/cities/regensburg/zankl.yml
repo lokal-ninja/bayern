@@ -5,7 +5,7 @@ latitude: 49.014085400000006
 longitude: 12.1080736
 postcode: 93055
 city: Regensburg
-street: Sedanstraße
+street: "Sedanstraße"
 housenumber: 18
 phone: "+49 941 79999 0"
 opening_hours: "Mo-Fr 09:30-18:00; Sa 10:00-16:00"

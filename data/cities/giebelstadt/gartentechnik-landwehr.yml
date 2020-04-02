@@ -5,7 +5,7 @@ latitude: 49.671068500000004
 longitude: 9.9574168
 postcode: 
 city: Giebelstadt
-street: Adenauerstraße
+street: "Adenauerstraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

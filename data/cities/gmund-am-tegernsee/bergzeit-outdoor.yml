@@ -5,7 +5,7 @@ latitude: 47.770327300000005
 longitude: 11.7237655
 postcode: 83703
 city: Gmund am Tegernsee
-street: Am Eisweiher
+street: "Am Eisweiher"
 housenumber: 2
 phone: "+49 8021 5062000"
 opening_hours: "Mo-Fr 10:00-19:00; Sa 9:00-18:00"

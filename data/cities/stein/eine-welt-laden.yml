@@ -5,7 +5,7 @@ latitude: 49.4040042
 longitude: 10.992676300000001
 postcode: 90547
 city: Stein
-street: Locher Straße
+street: "Locher Straße"
 housenumber: 2
 phone: ""
 opening_hours: ""

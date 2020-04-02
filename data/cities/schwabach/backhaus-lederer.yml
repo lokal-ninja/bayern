@@ -5,7 +5,7 @@ latitude: 49.336472300000004
 longitude: 11.023690100000001
 postcode: 91126
 city: Schwabach
-street: Fürther Straße
+street: "Fürther Straße"
 housenumber: 39
 phone: ""
 opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-13:00"

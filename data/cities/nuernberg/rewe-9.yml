@@ -5,7 +5,7 @@ latitude: 49.4043805
 longitude: 11.1333526
 postcode: 90473
 city: Nürnberg
-street: Glogauer Straße
+street: "Glogauer Straße"
 housenumber: 30
 phone: ""
 opening_hours: ""

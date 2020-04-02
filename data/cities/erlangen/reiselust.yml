@@ -5,7 +5,7 @@ latitude: 49.587814
 longitude: 10.977034300000001
 postcode: 91056
 city: Erlangen
-street: Neumühle
+street: "Neumühle"
 housenumber: 4
 phone: "+49 9131 9238831"
 opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-13:30"

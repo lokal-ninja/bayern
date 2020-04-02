@@ -5,7 +5,7 @@ latitude: 47.7898438
 longitude: 10.943252300000001
 postcode: 86971
 city: Peiting
-street: Schönriedlstraße
+street: "Schönriedlstraße"
 housenumber: 11
 phone: "+49 (0)8861 69210"
 opening_hours: ""

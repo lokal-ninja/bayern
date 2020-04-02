@@ -5,7 +5,7 @@ latitude: 49.5455856
 longitude: 12.0081097
 postcode: 92253
 city: Schnaittenbach
-street: Dr.-Martin-Winkler-Straße
+street: "Dr.-Martin-Winkler-Straße"
 housenumber: 14
 phone: "+49 9622 2816"
 opening_hours: ""

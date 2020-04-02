@@ -5,7 +5,7 @@ latitude: 49.8620159
 longitude: 10.1746134
 postcode: 97332
 city: Volkach
-street: Bocksbeutelstraße
+street: "Bocksbeutelstraße"
 housenumber: 3
 phone: ""
 opening_hours: ""

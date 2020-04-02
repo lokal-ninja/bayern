@@ -5,7 +5,7 @@ latitude: 48.8405512
 longitude: 12.9525912
 postcode: 94469
 city: Deggendorf
-street: Stadtfeldstraße
+street: "Stadtfeldstraße"
 housenumber: 16
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

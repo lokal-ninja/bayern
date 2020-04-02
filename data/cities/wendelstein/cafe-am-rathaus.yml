@@ -5,7 +5,7 @@ latitude: 49.3556278
 longitude: 11.143439800000001
 postcode: 90530
 city: Wendelstein
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 19
 phone: "+49 9129 40 97 90"
 opening_hours: ""

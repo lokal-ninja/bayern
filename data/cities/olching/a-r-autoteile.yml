@@ -5,7 +5,7 @@ latitude: 48.2043339
 longitude: 11.328405400000001
 postcode: 82140
 city: Olching
-street: Münchner Straße
+street: "Münchner Straße"
 housenumber: 15A
 phone: ""
 opening_hours: ""

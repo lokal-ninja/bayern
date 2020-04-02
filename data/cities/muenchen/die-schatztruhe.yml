@@ -5,7 +5,7 @@ latitude: 48.112048300000005
 longitude: 11.570688800000001
 postcode: 81543
 city: München
-street: Candidplatz
+street: "Candidplatz"
 housenumber: 1
 phone: "+49 89 66 84 00"
 opening_hours: "Mo,Tu,We,Fr 10:00-18:00; Th 10:00-20:00; Sa 10:00-14:00"

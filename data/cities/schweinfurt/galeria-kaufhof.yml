@@ -5,7 +5,7 @@ latitude: 50.0428489
 longitude: 10.2281776
 postcode: 97421
 city: Schweinfurt
-street: Jägersbrunnen
+street: "Jägersbrunnen"
 housenumber: 11
 phone: "+49 9721 205 0"
 opening_hours: ""

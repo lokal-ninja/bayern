@@ -5,7 +5,7 @@ latitude: 48.308089200000005
 longitude: 13.0755282
 postcode: 94166
 city: Stubenberg
-street: Schloßberg
+street: "Schloßberg"
 housenumber: 10-12
 phone: "+49 8571 8135"
 opening_hours: "Mo-Fr 09:00-12:00,13:00-18:00; Sa 09:00-13:00; Oct-Feb Mo off; PH off; Dec 24,31 09:00-12:00"

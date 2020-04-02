@@ -5,7 +5,7 @@ latitude: 48.3366156
 longitude: 10.0689414
 postcode: 89250
 city: Senden
-street: Wiesenweg
+street: "Wiesenweg"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Sa"

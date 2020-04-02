@@ -5,7 +5,7 @@ latitude: 48.099469400000004
 longitude: 11.787511700000001
 postcode: 85598
 city: Baldham
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 21
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.333070400000004
 longitude: 10.7346973
 postcode: 86459
 city: Gessertshausen
-street: Bahnhofsplatz
+street: "Bahnhofsplatz"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Fr 09:00-12:00, 13:00-18:00; Sa 09:00-12:00"

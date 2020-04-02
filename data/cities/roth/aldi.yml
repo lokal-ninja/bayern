@@ -5,7 +5,7 @@ latitude: 49.251073700000006
 longitude: 11.087090400000001
 postcode: 91154
 city: Roth
-street: Von-Vollmar-Straße
+street: "Von-Vollmar-Straße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

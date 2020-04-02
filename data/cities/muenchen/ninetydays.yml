@@ -5,7 +5,7 @@ latitude: 48.137497200000006
 longitude: 11.5813865
 postcode: 80539
 city: München
-street: Hildegardstraße
+street: "Hildegardstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 11:00-19:00"

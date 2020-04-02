@@ -5,7 +5,7 @@ latitude: 47.494567800000006
 longitude: 11.091127400000001
 postcode: 82467
 city: Garmisch-Partenkirchen
-street: Am Kurpark
+street: "Am Kurpark"
 housenumber: 4
 phone: "+49 8821 9461188"
 opening_hours: "Mo-Sa 10:00-19:00"

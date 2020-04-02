@@ -5,7 +5,7 @@ latitude: 47.981735400000005
 longitude: 12.796154000000001
 postcode: 83413
 city: Fridolfing
-street: Bergfriedstraße
+street: "Bergfriedstraße"
 housenumber: 22
 phone: ""
 opening_hours: ""

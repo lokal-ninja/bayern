@@ -5,7 +5,7 @@ latitude: 49.017174000000004
 longitude: 12.0995839
 postcode: 93047
 city: Regensburg
-street: Am Brixener Hof
+street: "Am Brixener Hof"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-We 08:30-18:00, Th,Fr 08:30-19:00, Sa 09:00-19:00, Su 10:00-18:00"

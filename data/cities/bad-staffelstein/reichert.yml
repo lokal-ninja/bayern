@@ -5,7 +5,7 @@ latitude: 50.085996900000005
 longitude: 11.0684175
 postcode: 96231
 city: Bad Staffelstein
-street: Stublanger Straße
+street: "Stublanger Straße"
 housenumber: 2
 phone: "+49 9573 6304"
 opening_hours: "Mo-Fr 06:30-18:00, Sa 06:30-20:00, Su 14:00-20:00"

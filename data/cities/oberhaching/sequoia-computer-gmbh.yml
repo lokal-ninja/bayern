@@ -5,7 +5,7 @@ latitude: 48.019945400000005
 longitude: 11.5902849
 postcode: 82041
 city: Oberhaching
-street: Karlstraße
+street: "Karlstraße"
 housenumber: 8a
 phone: "+49 89 66659260"
 opening_hours: "Mo 09:00-12:00; Tu,Th 15:00-18:00 || nach Vereinbarung"

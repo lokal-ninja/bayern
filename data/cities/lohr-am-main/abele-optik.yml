@@ -5,7 +5,7 @@ latitude: 49.9944556
 longitude: 9.574361600000001
 postcode: 97816
 city: Lohr am Main
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 19
 phone: ""
 opening_hours: ""

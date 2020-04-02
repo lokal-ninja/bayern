@@ -5,7 +5,7 @@ latitude: 47.749250800000006
 longitude: 12.6565425
 postcode: 83324
 city: Ruhpolding
-street: Seehauser Straße
+street: "Seehauser Straße"
 housenumber: 39a
 phone: ""
 opening_hours: ""

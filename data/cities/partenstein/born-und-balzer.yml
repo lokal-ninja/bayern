@@ -5,7 +5,7 @@ latitude: 50.0407815
 longitude: 9.518746400000001
 postcode: 97846
 city: Partenstein
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 18-20
 phone: "+49 9355 99733"
 opening_hours: "Mo-Fr 08:30-12:00,14:00-18:00; Sa 09:00-13:00"

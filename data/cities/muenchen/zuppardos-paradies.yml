@@ -5,7 +5,7 @@ latitude: 48.0779085
 longitude: 11.5161674
 postcode: 81479
 city: München
-street: Grünbauerstraße
+street: "Grünbauerstraße"
 housenumber: 13
 phone: "+49 89 74975774"
 opening_hours: "Mo-Fr 08:30-18:00, Sa 08:00-12:30"

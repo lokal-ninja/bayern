@@ -5,7 +5,7 @@ latitude: 47.9609463
 longitude: 12.6129019
 postcode: 83301
 city: Traunreut
-street: Kirchholzweg
+street: "Kirchholzweg"
 housenumber: 2
 phone: "+49 8669 86190"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:00"

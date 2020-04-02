@@ -5,7 +5,7 @@ latitude: 49.399071000000006
 longitude: 11.976289600000001
 postcode: 92263
 city: Ebermannsdorf
-street: Schafhofer Weg
+street: "Schafhofer Weg"
 housenumber: 1
 phone: ""
 opening_hours: ""

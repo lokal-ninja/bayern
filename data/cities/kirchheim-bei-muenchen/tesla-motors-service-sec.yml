@@ -5,7 +5,7 @@ latitude: 48.151021500000006
 longitude: 11.748485
 postcode: 85551
 city: Kirchheim bei München
-street: Ammerthalstraße
+street: "Ammerthalstraße"
 housenumber: 24
 phone: "+49 89 210 939 77"
 opening_hours: "Mo-Fr 08:00-17:00; PH,Sa,Su off"

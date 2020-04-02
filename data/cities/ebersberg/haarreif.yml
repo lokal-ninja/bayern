@@ -5,7 +5,7 @@ latitude: 48.077735100000005
 longitude: 11.968552800000001
 postcode: 85560
 city: Ebersberg
-street: Heinrich-Vogl-Straße
+street: "Heinrich-Vogl-Straße"
 housenumber: 4 1/2
 phone: ""
 opening_hours: ""

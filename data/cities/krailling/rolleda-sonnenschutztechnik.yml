@@ -5,7 +5,7 @@ latitude: 48.1003916
 longitude: 11.4155023
 postcode: 82152
 city: Krailling
-street: Elisenstraße
+street: "Elisenstraße"
 housenumber: 14
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00; PH off"

@@ -5,7 +5,7 @@ latitude: 49.5120067
 longitude: 11.281298600000001
 postcode: 91207
 city: Lauf a.d.Pegnitz
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 16
 phone: ""
 opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-14:00"

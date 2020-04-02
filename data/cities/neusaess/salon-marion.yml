@@ -5,7 +5,7 @@ latitude: 48.405515300000005
 longitude: 10.8053816
 postcode: 86356
 city: Neusäß
-street: Paul-von-Stetten-Straße
+street: "Paul-von-Stetten-Straße"
 housenumber: 1
 phone: "+49 821 481946"
 opening_hours: ""

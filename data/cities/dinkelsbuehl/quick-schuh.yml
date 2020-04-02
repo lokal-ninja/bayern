@@ -5,7 +5,7 @@ latitude: 49.068767
 longitude: 10.3284167
 postcode: 91550
 city: Dinkelsbühl
-street: Bahnhofsplatz
+street: "Bahnhofsplatz"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"

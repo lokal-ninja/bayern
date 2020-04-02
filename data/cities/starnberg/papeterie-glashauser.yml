@@ -5,7 +5,7 @@ latitude: 47.9977554
 longitude: 11.3434611
 postcode: 82319
 city: Starnberg
-street: Maximilianstraße
+street: "Maximilianstraße"
 housenumber: 9
 phone: "+49 8151 12126"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-14:00"

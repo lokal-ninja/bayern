@@ -5,7 +5,7 @@ latitude: 48.2431576
 longitude: 10.3663722
 postcode: 86381
 city: Krumbach
-street: Schlachthausstraße
+street: "Schlachthausstraße"
 housenumber: 20
 phone: "+49 8282 4723"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.4115746
 longitude: 10.874140800000001
 postcode: 86368
 city: Gersthofen
-street: Ziegeleistraße
+street: "Ziegeleistraße"
 housenumber: 12
 phone: ""
 opening_hours: ""

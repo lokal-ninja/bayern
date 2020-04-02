@@ -5,7 +5,7 @@ latitude: 49.449531400000005
 longitude: 11.8594723
 postcode: 92224
 city: Amberg
-street: Ruoffstraße
+street: "Ruoffstraße"
 housenumber: 20
 phone: ""
 opening_hours: ""

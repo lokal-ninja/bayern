@@ -5,7 +5,7 @@ latitude: 49.5760178
 longitude: 11.205225200000001
 postcode: 90542
 city: Eckental
-street: Eckentaler Straße
+street: "Eckentaler Straße"
 housenumber: 12
 phone: ""
 opening_hours: ""

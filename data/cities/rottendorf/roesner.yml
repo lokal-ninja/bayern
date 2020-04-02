@@ -5,7 +5,7 @@ latitude: 49.7885056
 longitude: 10.030504800000001
 postcode: 97228
 city: Rottendorf
-street: Kitzinger Straße
+street: "Kitzinger Straße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Sa 06:00-20:00; Su 08:00-17:00"

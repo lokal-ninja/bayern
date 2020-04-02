@@ -5,7 +5,7 @@ latitude: 48.733558200000004
 longitude: 11.178913300000001
 postcode: 86633
 city: Neuburg an der Donau
-street: Franziskanerstraße
+street: "Franziskanerstraße"
 housenumber: B 223
 phone: ""
 opening_hours: ""

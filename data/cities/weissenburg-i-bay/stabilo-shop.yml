@@ -5,7 +5,7 @@ latitude: 49.021942
 longitude: 10.9629799
 postcode: 91781
 city: Weißenburg i. Bay.
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 47
 phone: ""
 opening_hours: "Mo-Fr 13:00-17:00"

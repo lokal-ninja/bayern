@@ -5,7 +5,7 @@ latitude: 49.1161435
 longitude: 10.7537021
 postcode: 91710
 city: Gunzenhausen
-street: Gerberstraße
+street: "Gerberstraße"
 housenumber: 4
 phone: "+49 9831 2061"
 opening_hours: ""

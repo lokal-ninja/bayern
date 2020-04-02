@@ -5,7 +5,7 @@ latitude: 49.802863
 longitude: 9.944392
 postcode: 97080
 city: Würzburg
-street: Matterstockstraße
+street: "Matterstockstraße"
 housenumber: 29
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

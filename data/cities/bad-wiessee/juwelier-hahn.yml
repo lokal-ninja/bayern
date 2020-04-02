@@ -5,7 +5,7 @@ latitude: 47.7116126
 longitude: 11.725103
 postcode: 83707
 city: Bad Wiessee
-street: Sanktjohanserstraße
+street: "Sanktjohanserstraße"
 housenumber: 2
 phone: ""
 opening_hours: "09:30-12:30,14:30-18:00"

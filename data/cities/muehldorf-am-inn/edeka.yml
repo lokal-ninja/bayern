@@ -5,7 +5,7 @@ latitude: 48.2355802
 longitude: 12.537382200000001
 postcode: 84453
 city: Mühldorf am Inn
-street: Oderstraße
+street: "Oderstraße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

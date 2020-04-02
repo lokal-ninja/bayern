@@ -5,7 +5,7 @@ latitude: 48.1316598
 longitude: 11.6006385
 postcode: 81667
 city: München
-street: Metzstraße
+street: "Metzstraße"
 housenumber: 33
 phone: "+4989488356"
 opening_hours: ""

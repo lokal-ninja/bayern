@@ -5,7 +5,7 @@ latitude: 48.680464900000004
 longitude: 10.8089773
 postcode: 86663
 city: Asbach-Bäumenheim
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

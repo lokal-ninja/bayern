@@ -5,7 +5,7 @@ latitude: 48.975204600000005
 longitude: 12.188978200000001
 postcode: 93073
 city: Neutraubling
-street: Pommernstraße
+street: "Pommernstraße"
 housenumber: 26
 phone: "+49 9401 52630 0"
 opening_hours: ""

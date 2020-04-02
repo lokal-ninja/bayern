@@ -5,7 +5,7 @@ latitude: 48.0404135
 longitude: 11.5221102
 postcode: 82031
 city: Grünwald
-street: Rathausstraße
+street: "Rathausstraße"
 housenumber: 1
 phone: "+49 89 6412107"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"

@@ -5,7 +5,7 @@ latitude: 48.2482546
 longitude: 12.16351
 postcode: 84427
 city: Sankt Wolfgang
-street: Mayerhofer Straße
+street: "Mayerhofer Straße"
 housenumber: 25
 phone: ""
 opening_hours: "Mo-Fr 08:00-12:00,13:00-18:00; We,Sa 08:00-12:00"

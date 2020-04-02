@@ -5,7 +5,7 @@ latitude: 47.5147478
 longitude: 10.405734200000001
 postcode: 87541
 city: Bad Hindelang
-street: Bachweg
+street: "Bachweg"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 07:00-12:00; 14:00-18:00; Sa 07:00-13:00"

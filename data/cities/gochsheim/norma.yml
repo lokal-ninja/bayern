@@ -5,7 +5,7 @@ latitude: 50.021168200000005
 longitude: 10.277872400000001
 postcode: 97469
 city: Gochsheim
-street: Goethestraße
+street: "Goethestraße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00; Su off"

@@ -5,7 +5,7 @@ latitude: 49.795560200000004
 longitude: 9.932984000000001
 postcode: 97070
 city: Würzburg
-street: Eichhornstraße
+street: "Eichhornstraße"
 housenumber: 13a
 phone: "+49-0931-3539844"
 opening_hours: ""

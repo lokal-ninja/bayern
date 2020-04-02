@@ -5,7 +5,7 @@ latitude: 48.135319300000006
 longitude: 11.584472400000001
 postcode: 80538
 city: München
-street: Kanalstraße
+street: "Kanalstraße"
 housenumber: 11
 phone: ""
 opening_hours: ""

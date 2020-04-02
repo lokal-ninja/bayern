@@ -5,7 +5,7 @@ latitude: 49.0898551
 longitude: 11.2311642
 postcode: 91177
 city: Thalmässing
-street: Blumenstraße
+street: "Blumenstraße"
 housenumber: 22
 phone: "+49-9173-78973"
 opening_hours: ""

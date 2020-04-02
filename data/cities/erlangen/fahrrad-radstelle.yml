@@ -5,7 +5,7 @@ latitude: 49.5981892
 longitude: 10.982330000000001
 postcode: 91056
 city: Erlangen
-street: Pappelgasse
+street: "Pappelgasse"
 housenumber: 6
 phone: "+49 9131 972795"
 opening_hours: "Tu-Fr 13:00-19:00"

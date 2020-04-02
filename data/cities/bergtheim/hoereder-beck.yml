@@ -5,7 +5,7 @@ latitude: 49.89550800000001
 longitude: 10.066861600000001
 postcode: 97241
 city: Bergtheim
-street: Oberpleichfelder Straße
+street: "Oberpleichfelder Straße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00; Su 08:00-11:00"

@@ -5,7 +5,7 @@ latitude: 47.7105538
 longitude: 11.402452100000001
 postcode: 83671
 city: Benediktbeuern
-street: Meichelbeckstraße
+street: "Meichelbeckstraße"
 housenumber: 30
 phone: "+49 8857 899 961"
 opening_hours: ""

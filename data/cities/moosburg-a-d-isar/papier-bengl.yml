@@ -5,7 +5,7 @@ latitude: 48.4674701
 longitude: 11.9355135
 postcode: 85368
 city: Moosburg a.d. Isar
-street: Stadtplatz
+street: "Stadtplatz"
 housenumber: 13
 phone: ""
 opening_hours: "Mo-Fr 08:30-18:30; Sa 08:30-13:00"

@@ -5,7 +5,7 @@ latitude: 48.1399096
 longitude: 11.518025000000002
 postcode: 80687
 city: München
-street: Lautensackstraße
+street: "Lautensackstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

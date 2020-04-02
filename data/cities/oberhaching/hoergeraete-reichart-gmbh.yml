@@ -5,7 +5,7 @@ latitude: 48.0190436
 longitude: 11.5911585
 postcode: 82041
 city: Oberhaching
-street: Tisinstraße
+street: "Tisinstraße"
 housenumber: 54
 phone: "+49 89 66 68 22 66"
 opening_hours: "Tu, We, Th 09:00 -13:00; 14:00-18:00"

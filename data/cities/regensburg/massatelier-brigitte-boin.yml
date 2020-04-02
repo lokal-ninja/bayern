@@ -5,7 +5,7 @@ latitude: 49.034884500000004
 longitude: 12.1079413
 postcode: 93059
 city: Regensburg
-street: Alte Waldmünchener Straße
+street: "Alte Waldmünchener Straße"
 housenumber: 51
 phone: ""
 opening_hours: ""

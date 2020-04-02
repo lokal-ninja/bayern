@@ -5,7 +5,7 @@ latitude: 47.7832765
 longitude: 11.834237700000001
 postcode: 83714
 city: Miesbach
-street: Straß
+street: "Straß"
 housenumber: 3
 phone: "+49 8025 9979915"
 opening_hours: "Mo,Tu,Th,Fr 09:00-12:00,13:00-18:00; Sa 09:00-12:30"

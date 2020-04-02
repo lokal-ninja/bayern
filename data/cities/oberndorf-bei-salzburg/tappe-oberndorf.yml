@@ -5,7 +5,7 @@ latitude: 47.9443664
 longitude: 12.9403257
 postcode: 5110
 city: Oberndorf bei Salzburg
-street: Salzburger Straße
+street: "Salzburger Straße"
 housenumber: 79
 phone: "+43 (0)5 7071 - 6221"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.9775326
 longitude: 9.142116300000001
 postcode: 63739
 city: Aschaffenburg
-street: Karlstraße
+street: "Karlstraße"
 housenumber: 5
 phone: "+49 6021 218736"
 opening_hours: "Tu-Fr 09:30-18:00; Sa 09:00-14:00; PH off"

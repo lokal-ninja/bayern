@@ -5,7 +5,7 @@ latitude: 48.31169310000001
 longitude: 10.8557501
 postcode: 86199
 city: Augsburg
-street: Bobinger Straße
+street: "Bobinger Straße"
 housenumber: 93
 phone: "+49 176 74700575"
 opening_hours: "Tu-Sa 10:00-17:00"

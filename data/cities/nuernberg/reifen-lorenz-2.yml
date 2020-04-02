@@ -5,7 +5,7 @@ latitude: 49.4297934
 longitude: 11.057204200000001
 postcode: 90441
 city: Nürnberg
-street: Nopitschstraße
+street: "Nopitschstraße"
 housenumber: 63
 phone: "+49 9 11 424980"
 opening_hours: ""

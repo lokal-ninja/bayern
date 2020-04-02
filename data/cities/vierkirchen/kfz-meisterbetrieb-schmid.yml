@@ -5,7 +5,7 @@ latitude: 48.3584849
 longitude: 11.440831300000001
 postcode: 85256
 city: Vierkirchen
-street: Unterfeldring
+street: "Unterfeldring"
 housenumber: 15
 phone: "+49 8139 1842"
 opening_hours: ""

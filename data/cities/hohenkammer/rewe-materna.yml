@@ -5,7 +5,7 @@ latitude: 48.4295601
 longitude: 11.5237622
 postcode: 85411
 city: Hohenkammer
-street: Eisfeldstraße
+street: "Eisfeldstraße"
 housenumber: 5
 phone: "+49 81379986479"
 opening_hours: "Mo-Sa 06:00-20:00"

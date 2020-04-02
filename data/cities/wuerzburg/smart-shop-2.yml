@@ -5,7 +5,7 @@ latitude: 49.792679
 longitude: 9.9284814
 postcode: 97070
 city: Würzburg
-street: Augustinerstraße
+street: "Augustinerstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.0696238
 longitude: 10.319014800000001
 postcode: 91550
 city: Dinkelsbühl
-street: Weinmarkt
+street: "Weinmarkt"
 housenumber: 4
 phone: "+49 9851 3577"
 opening_hours: "Mo-Fr 09:00-12:30,14:00-18:00; Sa 09:00-12:30"

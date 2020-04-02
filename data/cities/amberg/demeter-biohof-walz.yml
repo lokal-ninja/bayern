@@ -5,7 +5,7 @@ latitude: 49.461265700000006
 longitude: 11.809303700000001
 postcode: 92224
 city: Amberg
-street: In der Schäflohe
+street: "In der Schäflohe"
 housenumber: 4
 phone: "+49 09621 470680"
 opening_hours: "Mo-Fr 10:00-19:00;Sa 09:00-13:00"

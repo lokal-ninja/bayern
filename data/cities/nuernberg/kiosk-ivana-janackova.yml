@@ -5,7 +5,7 @@ latitude: 49.4722792
 longitude: 11.104355400000001
 postcode: 90491
 city: Nürnberg
-street: Leipziger Platz
+street: "Leipziger Platz"
 housenumber: 19
 phone: "+49 911 5107485"
 opening_hours: ""

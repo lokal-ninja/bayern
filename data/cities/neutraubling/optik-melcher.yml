@@ -5,7 +5,7 @@ latitude: 48.991267300000004
 longitude: 12.199855000000001
 postcode: 93073
 city: Neutraubling
-street: Waldenburger Straße
+street: "Waldenburger Straße"
 housenumber: 5
 phone: "+49 9401 2091"
 opening_hours: "Mo-Fr 08:30-18:00; Sa 09:00-12:30"

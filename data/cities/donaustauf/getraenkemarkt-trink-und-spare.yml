@@ -5,7 +5,7 @@ latitude: 49.0293312
 longitude: 12.203229100000001
 postcode: 93093
 city: Donaustauf
-street: Bayerwaldstraße
+street: "Bayerwaldstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

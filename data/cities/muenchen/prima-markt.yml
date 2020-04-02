@@ -5,7 +5,7 @@ latitude: 48.1280185
 longitude: 11.6224465
 postcode: 81673
 city: München
-street: Schlüsselbergstraße
+street: "Schlüsselbergstraße"
 housenumber: 13
 phone: ""
 opening_hours: "Mo-Sa 09:00-20:00"

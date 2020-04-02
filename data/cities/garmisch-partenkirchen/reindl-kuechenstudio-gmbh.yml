@@ -5,7 +5,7 @@ latitude: 47.488587100000004
 longitude: 11.073035200000001
 postcode: 
 city: Garmisch-Partenkirchen
-street: Zugspitzstraße
+street: "Zugspitzstraße"
 housenumber: 81
 phone: ""
 opening_hours: ""

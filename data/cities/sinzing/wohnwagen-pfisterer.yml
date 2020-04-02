@@ -5,7 +5,7 @@ latitude: 48.9957721
 longitude: 12.032835100000002
 postcode: 93161
 city: Sinzing
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 4
 phone: "+49 941 95444"
 opening_hours: "Mo-Fr 08:00-12:00,13:00-18:00; Sa 09:00-13:00"

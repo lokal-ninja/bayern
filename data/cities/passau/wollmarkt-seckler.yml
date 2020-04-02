@@ -5,7 +5,7 @@ latitude: 48.571631100000005
 longitude: 13.4585228
 postcode: 
 city: Passau
-street: Kleiner Exerzierplatz
+street: "Kleiner Exerzierplatz"
 housenumber: 8
 phone: ""
 opening_hours: ""

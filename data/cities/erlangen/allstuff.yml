@@ -5,7 +5,7 @@ latitude: 49.595053300000004
 longitude: 11.0067056
 postcode: 91054
 city: Erlangen
-street: Rückertstraße
+street: "Rückertstraße"
 housenumber: 2
 phone: "+49 9131 128570"
 opening_hours: "Mo-Fr 10:00-13:00, 14:00-18:30; Sa 09:30-14:00"

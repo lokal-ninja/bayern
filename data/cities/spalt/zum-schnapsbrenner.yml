@@ -5,7 +5,7 @@ latitude: 49.1692503
 longitude: 10.942934800000002
 postcode: 91174
 city: Spalt
-street: Dorfstraße
+street: "Dorfstraße"
 housenumber: 67
 phone: "+49 9175 797 80"
 opening_hours: ""

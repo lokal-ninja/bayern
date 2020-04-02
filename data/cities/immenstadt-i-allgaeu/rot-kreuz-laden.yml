@@ -5,7 +5,7 @@ latitude: 47.560579600000004
 longitude: 10.218742200000001
 postcode: 87509
 city: Immenstadt i.Allgäu
-street: Hirschstraße
+street: "Hirschstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 47.6611995
 longitude: 10.349931100000001
 postcode: 87477
 city: Sulzberg
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.095628700000006
 longitude: 11.587248200000001
 postcode: 81549
 city: München
-street: Tegernseer Landstraße
+street: "Tegernseer Landstraße"
 housenumber: 300
 phone: "+49 89 6908771"
 opening_hours: "Mo-Fr 07:30-12:00, Sa 10:00-14:00"

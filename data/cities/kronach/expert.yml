@@ -5,7 +5,7 @@ latitude: 50.233863400000004
 longitude: 11.326624
 postcode: 96317
 city: Kronach
-street: Hammersteig
+street: "Hammersteig"
 housenumber: 1
 phone: ""
 opening_hours: ""

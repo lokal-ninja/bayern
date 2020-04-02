@@ -5,7 +5,7 @@ latitude: 48.385555000000004
 longitude: 10.881897100000002
 postcode: 86154
 city: Augsburg
-street: Dieselstraße
+street: "Dieselstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

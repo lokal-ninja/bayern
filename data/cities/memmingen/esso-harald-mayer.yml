@@ -5,7 +5,7 @@ latitude: 47.9794398
 longitude: 10.1713903
 postcode: 87700
 city: Memmingen
-street: Bodenseestraße
+street: "Bodenseestraße"
 housenumber: 33
 phone: ""
 opening_hours: "Mo-Fr 06:00-23:00; Sa-Su 07:00-23:00"

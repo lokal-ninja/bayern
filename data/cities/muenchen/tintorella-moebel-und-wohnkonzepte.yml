@@ -5,7 +5,7 @@ latitude: 48.1603829
 longitude: 11.5830152
 postcode: 80801
 city: München
-street: Wilhelmstraße
+street: "Wilhelmstraße"
 housenumber: 19
 phone: ""
 opening_hours: ""

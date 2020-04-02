@@ -5,7 +5,7 @@ latitude: 48.814622
 longitude: 11.8502381
 postcode: 93326
 city: Abensberg
-street: Straubinger Straße
+street: "Straubinger Straße"
 housenumber: 6
 phone: "+49 9443 5161"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 50.042551
 longitude: 10.230670400000001
 postcode: 97421
 city: Schweinfurt
-street: Schultesstraße
+street: "Schultesstraße"
 housenumber: 16
 phone: ""
 opening_hours: ""

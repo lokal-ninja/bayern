@@ -5,7 +5,7 @@ latitude: 50.106836200000004
 longitude: 11.6067213
 postcode: 95339
 city: Wirsberg
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 8
 phone: "+49 9227 7169"
 opening_hours: ""

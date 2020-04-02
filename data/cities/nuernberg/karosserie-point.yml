@@ -5,7 +5,7 @@ latitude: 49.4283519
 longitude: 11.0368185
 postcode: 90441
 city: Nürnberg
-street: Am Fernmeldeturm
+street: "Am Fernmeldeturm"
 housenumber: 10
 phone: ""
 opening_hours: ""

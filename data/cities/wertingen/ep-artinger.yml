@@ -5,7 +5,7 @@ latitude: 48.5601628
 longitude: 10.684146700000001
 postcode: 86637
 city: Wertingen
-street: Augsburger Straße
+street: "Augsburger Straße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Fr 09:00-12:30,14:00-18:00; Sa 09:00-12:30"

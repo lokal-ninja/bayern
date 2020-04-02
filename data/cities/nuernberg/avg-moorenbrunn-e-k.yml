@@ -5,7 +5,7 @@ latitude: 49.3970208
 longitude: 11.1743901
 postcode: 90475
 city: Nürnberg
-street: Bregenzer Straße
+street: "Bregenzer Straße"
 housenumber: 27
 phone: "+49 911 98134040"
 opening_hours: ""

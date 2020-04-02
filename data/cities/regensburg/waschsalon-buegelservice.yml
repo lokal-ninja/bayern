@@ -5,7 +5,7 @@ latitude: 49.0067231
 longitude: 12.0896513
 postcode: 93051
 city: Regensburg
-street: Hofgartenweg
+street: "Hofgartenweg"
 housenumber: 4
 phone: "+49 941 90293"
 opening_hours: "Mo-Sa 06:00-23:00"

@@ -5,7 +5,7 @@ latitude: 48.243559000000005
 longitude: 11.5496893
 postcode: 85764
 city: Oberschleißheim
-street: Sonnenstraße
+street: "Sonnenstraße"
 housenumber: 15
 phone: ""
 opening_hours: ""

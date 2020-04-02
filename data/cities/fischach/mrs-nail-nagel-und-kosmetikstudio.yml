@@ -5,7 +5,7 @@ latitude: 48.2900396
 longitude: 10.656266800000001
 postcode: 86850
 city: Fischach
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 5
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.066079900000005
 longitude: 11.024649
 postcode: 86949
 city: Windach
-street: Landsberger Straße
+street: "Landsberger Straße"
 housenumber: 33
 phone: "+49 819393130"
 opening_hours: "Mo-Fr 08:30-18:00; Sa 09:00 - 13:00"

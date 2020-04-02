@@ -5,7 +5,7 @@ latitude: 49.9374187
 longitude: 11.576161800000001
 postcode: 95444
 city: Bayreuth
-street: Friedrichstraße
+street: "Friedrichstraße"
 housenumber: 40
 phone: "+49 921 1691901"
 opening_hours: "Mo, Tu, Th, Sa 09:00-13:00; We, Fr 09:00-13:00, 16:00-20:00"

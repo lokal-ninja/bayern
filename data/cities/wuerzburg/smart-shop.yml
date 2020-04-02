@@ -5,7 +5,7 @@ latitude: 49.7840013
 longitude: 9.9349111
 postcode: 97072
 city: Würzburg
-street: Weingartenstraße
+street: "Weingartenstraße"
 housenumber: 24
 phone: ""
 opening_hours: "Mo-Fr 07:00-18:00, Sa 07:00-14:00, Su 07:30-10:30"

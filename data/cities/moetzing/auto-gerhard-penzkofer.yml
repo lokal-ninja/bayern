@@ -5,7 +5,7 @@ latitude: 48.912590900000005
 longitude: 12.4226936
 postcode: 93099
 city: Mötzing
-street: Dorfstraße
+street: "Dorfstraße"
 housenumber: 17
 phone: "+49 9429 8254"
 opening_hours: ""

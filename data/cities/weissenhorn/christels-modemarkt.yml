@@ -5,7 +5,7 @@ latitude: 48.3023371
 longitude: 10.152388100000001
 postcode: 89264
 city: Weißenhorn
-street: Herzog-Georg-Straße
+street: "Herzog-Georg-Straße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

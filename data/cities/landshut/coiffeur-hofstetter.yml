@@ -5,7 +5,7 @@ latitude: 48.537187100000004
 longitude: 12.143858600000002
 postcode: 84034
 city: Landshut
-street: Luitpoldstraße
+street: "Luitpoldstraße"
 housenumber: 17a
 phone: ""
 opening_hours: ""

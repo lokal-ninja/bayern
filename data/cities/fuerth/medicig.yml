@@ -5,7 +5,7 @@ latitude: 49.465821000000005
 longitude: 10.997541400000001
 postcode: 90763
 city: Fürth
-street: Herrnstraße
+street: "Herrnstraße"
 housenumber: 89
 phone: "+4991149006539"
 opening_hours: "Mo - Fr: 09:30 - 18:30 Uhr, Sa: 10:00 - 18:00 Uhr"

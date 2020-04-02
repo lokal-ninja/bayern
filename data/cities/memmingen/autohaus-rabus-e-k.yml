@@ -5,7 +5,7 @@ latitude: 47.9951208
 longitude: 10.1964777
 postcode: 87700
 city: Memmingen
-street: Schumacherring
+street: "Schumacherring"
 housenumber: 2
 phone: "+49 8331 750900"
 opening_hours: ""

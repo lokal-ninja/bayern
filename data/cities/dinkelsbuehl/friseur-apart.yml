@@ -5,7 +5,7 @@ latitude: 49.069290900000006
 longitude: 10.3213053
 postcode: 91550
 city: Dinkelsbühl
-street: Altrathausplatz
+street: "Altrathausplatz"
 housenumber: 9
 phone: "+49 9851 551948"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 08:00-13:00"

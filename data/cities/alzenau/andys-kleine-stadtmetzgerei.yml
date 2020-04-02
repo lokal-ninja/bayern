@@ -5,7 +5,7 @@ latitude: 50.0822105
 longitude: 9.0677158
 postcode: 63755
 city: Alzenau
-street: Hauckstraße
+street: "Hauckstraße"
 housenumber: 16
 phone: "+49 6023 32360"
 opening_hours: ""

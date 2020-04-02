@@ -5,7 +5,7 @@ latitude: 47.5047183
 longitude: 11.278219100000001
 postcode: 82494
 city: Krün
-street: Karwendelstraße
+street: "Karwendelstraße"
 housenumber: 4
 phone: "+49 8825 921880"
 opening_hours: ""

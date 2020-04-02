@@ -5,7 +5,7 @@ latitude: 48.3565716
 longitude: 10.885179500000001
 postcode: 86159
 city: Augsburg
-street: Moltkestraße
+street: "Moltkestraße"
 housenumber: 4
 phone: "+49 821 575939"
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-16:00"

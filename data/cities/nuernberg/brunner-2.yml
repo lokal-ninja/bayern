@@ -5,7 +5,7 @@ latitude: 49.432675100000004
 longitude: 11.030016400000001
 postcode: 90431
 city: Nürnberg
-street: Edisonstraße
+street: "Edisonstraße"
 housenumber: 16
 phone: ""
 opening_hours: ""

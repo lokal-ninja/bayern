@@ -5,7 +5,7 @@ latitude: 48.087867
 longitude: 11.4984131
 postcode: 81476
 city: München
-street: Filchnerstraße
+street: "Filchnerstraße"
 housenumber: 86
 phone: ""
 opening_hours: ""

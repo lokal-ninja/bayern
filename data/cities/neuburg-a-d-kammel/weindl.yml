@@ -5,7 +5,7 @@ latitude: 48.3033869
 longitude: 10.360376800000001
 postcode: 86476
 city: Neuburg a.d.Kammel
-street: Kesselstraße
+street: "Kesselstraße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 6:30-18:00"

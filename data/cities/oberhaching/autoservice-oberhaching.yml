@@ -5,7 +5,7 @@ latitude: 48.031149400000004
 longitude: 11.584381
 postcode: 
 city: Oberhaching
-street: Kolpingring
+street: "Kolpingring"
 housenumber: 4
 phone: "+49 89 666 822 72"
 opening_hours: ""

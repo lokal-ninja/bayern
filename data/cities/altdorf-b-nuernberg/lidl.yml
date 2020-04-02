@@ -5,7 +5,7 @@ latitude: 49.384992200000006
 longitude: 11.350603300000001
 postcode: 90518
 city: Altdorf b.Nürnberg
-street: Nürnberger Straße
+street: "Nürnberger Straße"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

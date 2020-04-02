@@ -5,7 +5,7 @@ latitude: 49.8033839
 longitude: 9.960841400000001
 postcode: 97078
 city: Würzburg
-street: Versbacher Straße
+street: "Versbacher Straße"
 housenumber: 6
 phone: "+49-931-2878811"
 opening_hours: ""

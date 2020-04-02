@@ -5,7 +5,7 @@ latitude: 49.4611755
 longitude: 11.0629728
 postcode: 90419
 city: Nürnberg
-street: Rohledererstraße
+street: "Rohledererstraße"
 housenumber: 21
 phone: ""
 opening_hours: "Tu-Fr 08:30-18:30; Sa 08:00-13:00"

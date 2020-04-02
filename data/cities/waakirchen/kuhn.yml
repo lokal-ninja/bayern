@@ -5,7 +5,7 @@ latitude: 47.770332100000005
 longitude: 11.674782500000001
 postcode: 83666
 city: Waakirchen
-street: Tegernseer Straße
+street: "Tegernseer Straße"
 housenumber: 2
 phone: ""
 opening_hours: ""

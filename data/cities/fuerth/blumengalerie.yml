@@ -5,7 +5,7 @@ latitude: 49.464632200000004
 longitude: 11.000605700000001
 postcode: 90763
 city: Fürth
-street: Kaiserplatz
+street: "Kaiserplatz"
 housenumber: 3
 phone: "+49 911 705006"
 opening_hours: "Mo-Fr 08:30-13:00,14:00-18:30; Sa 08:30-14:00"

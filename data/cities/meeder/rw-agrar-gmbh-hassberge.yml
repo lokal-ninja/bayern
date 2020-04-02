@@ -5,7 +5,7 @@ latitude: 50.3171485
 longitude: 10.903882600000001
 postcode: 96484
 city: Meeder
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 11
 phone: "+49 9566 921004"
 opening_hours: ""

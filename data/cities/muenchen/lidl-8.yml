@@ -5,7 +5,7 @@ latitude: 48.1499393
 longitude: 11.566267400000001
 postcode: 80333
 city: München
-street: Luisenstraße
+street: "Luisenstraße"
 housenumber: 53
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

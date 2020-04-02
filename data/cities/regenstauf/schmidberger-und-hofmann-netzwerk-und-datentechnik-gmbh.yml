@@ -5,7 +5,7 @@ latitude: 49.1177143
 longitude: 12.1439093
 postcode: 93128
 city: Regenstauf
-street: Lönsstraße
+street: "Lönsstraße"
 housenumber: 10
 phone: "+49 9402 9020"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.3941772
 longitude: 12.6670463
 postcode: 84339
 city: Unterdietfurt
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 6
 phone: "+49 8724 96130"
 opening_hours: "Mo-Fr 08:00-17:00"

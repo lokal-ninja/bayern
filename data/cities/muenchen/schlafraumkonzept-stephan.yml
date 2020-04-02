@@ -5,7 +5,7 @@ latitude: 48.1388418
 longitude: 11.4090179
 postcode: 81249
 city: München
-street: Clarita-Bernhard-Straße
+street: "Clarita-Bernhard-Straße"
 housenumber: 18
 phone: "+49 89 41119400"
 opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00"

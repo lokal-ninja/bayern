@@ -5,7 +5,7 @@ latitude: 50.2568227
 longitude: 10.963001
 postcode: 96450
 city: Coburg
-street: Albertsplatz
+street: "Albertsplatz"
 housenumber: 7
 phone: "+49 9561 235364"
 opening_hours: "Tu-Th 09:00-13:00,14:00-17:00; Fr 09:00-17:00; Sa-Mo,PH off"

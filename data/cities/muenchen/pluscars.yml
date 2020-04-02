@@ -5,7 +5,7 @@ latitude: 48.10316520000001
 longitude: 11.625100900000001
 postcode: 81737
 city: München
-street: Ottobrunner Straße
+street: "Ottobrunner Straße"
 housenumber: 116
 phone: "+49 89 6302000"
 opening_hours: ""

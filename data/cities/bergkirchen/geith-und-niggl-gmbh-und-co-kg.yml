@@ -5,7 +5,7 @@ latitude: 48.230161100000004
 longitude: 11.4322432
 postcode: 85232
 city: Bergkirchen
-street: Münchner Straße
+street: "Münchner Straße"
 housenumber: 1
 phone: ""
 opening_hours: ""

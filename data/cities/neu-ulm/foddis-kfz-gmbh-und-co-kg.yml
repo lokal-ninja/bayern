@@ -5,7 +5,7 @@ latitude: 48.394351
 longitude: 10.021435100000001
 postcode: 89231
 city: Neu-Ulm
-street: Pfaffenweg
+street: "Pfaffenweg"
 housenumber: 21½
 phone: ""
 opening_hours: ""

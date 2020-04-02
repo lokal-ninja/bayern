@@ -5,7 +5,7 @@ latitude: 50.2497642
 longitude: 10.9621299
 postcode: 96450
 city: Coburg
-street: Karchestraße
+street: "Karchestraße"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00; PH off"

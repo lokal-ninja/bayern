@@ -5,7 +5,7 @@ latitude: 47.559557600000005
 longitude: 11.1208848
 postcode: 82496
 city: Oberau
-street: Alte Ettaler Straße
+street: "Alte Ettaler Straße"
 housenumber: 12
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.4432015
 longitude: 10.9603307
 postcode: 86444
 city: Affing
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

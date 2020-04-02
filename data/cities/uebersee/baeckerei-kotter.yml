@@ -5,7 +5,7 @@ latitude: 47.8196184
 longitude: 12.4960755
 postcode: 83236
 city: Übersee
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 85
 phone: "+49 8642 595644"
 opening_hours: ""

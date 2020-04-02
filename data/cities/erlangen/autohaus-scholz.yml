@@ -5,7 +5,7 @@ latitude: 49.58037100000001
 longitude: 10.9733391
 postcode: 91056
 city: Erlangen
-street: Schallershofer Straße
+street: "Schallershofer Straße"
 housenumber: 114
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.4305846
 longitude: 11.086628900000001
 postcode: 90459
 city: Nürnberg
-street: Pillenreuther Straße
+street: "Pillenreuther Straße"
 housenumber: 155
 phone: ""
 opening_hours: ""

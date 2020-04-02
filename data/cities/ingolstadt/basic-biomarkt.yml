@@ -5,7 +5,7 @@ latitude: 48.7713722
 longitude: 11.386265300000002
 postcode: 85049
 city: Ingolstadt
-street: Levelingstraße
+street: "Levelingstraße"
 housenumber: 3
 phone: "+49 841 1425370"
 opening_hours: "Mo-Sa 08:00-20:00"

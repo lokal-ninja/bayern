@@ -5,7 +5,7 @@ latitude: 49.500871000000004
 longitude: 11.4279887
 postcode: 91217
 city: Hersbruck
-street: Sebastian-Fackelmann-Straße
+street: "Sebastian-Fackelmann-Straße"
 housenumber: 12
 phone: ""
 opening_hours: ""

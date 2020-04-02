@@ -5,7 +5,7 @@ latitude: 49.000384000000004
 longitude: 12.3871865
 postcode: 93086
 city: Wörth an der Donau
-street: Im Haslet
+street: "Im Haslet"
 housenumber: 17
 phone: "+49 9482 90968 0"
 opening_hours: "Mo-Fr 07:30-17:30; Sa 07:30-13:00"

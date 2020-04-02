@@ -5,7 +5,7 @@ latitude: 48.6588306
 longitude: 11.463898400000001
 postcode: 85084
 city: Reichertshofen
-street: Herrnstraße
+street: "Herrnstraße"
 housenumber: 9
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.3522752
 longitude: 12.7298258
 postcode: 84335
 city: Mitterskirchen
-street: Am Gewerbegebiet
+street: "Am Gewerbegebiet"
 housenumber: 2
 phone: ""
 opening_hours: "Mo -Sa 07:00 - 19:00; Su, PH off"

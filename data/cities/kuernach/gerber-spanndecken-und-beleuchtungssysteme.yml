@@ -5,7 +5,7 @@ latitude: 49.8455408
 longitude: 10.0450572
 postcode: 97273
 city: Kürnach
-street: Friedrich-Ebert-Straße
+street: "Friedrich-Ebert-Straße"
 housenumber: 16
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.0930358
 longitude: 11.8222401
 postcode: 85604
 city: Zorneding
-street: Georg-Wimmer-Ring
+street: "Georg-Wimmer-Ring"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off"

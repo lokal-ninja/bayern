@@ -5,7 +5,7 @@ latitude: 48.9940075
 longitude: 12.110463500000002
 postcode: 93053
 city: Regensburg
-street: Johann-Hösl-Straße
+street: "Johann-Hösl-Straße"
 housenumber: 5
 phone: "+49 941 69879 0"
 opening_hours: "Mo-Th 08:00-17:00; Fr 08:00-16:00"

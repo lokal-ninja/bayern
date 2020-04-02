@@ -5,7 +5,7 @@ latitude: 50.2575944
 longitude: 10.9665105
 postcode: 96450
 city: Coburg
-street: Steingasse
+street: "Steingasse"
 housenumber: 16
 phone: ""
 opening_hours: "Mo-Fr 09:00-13:00,15:00-18:00; Sa 09:00-13:00"

@@ -5,7 +5,7 @@ latitude: 48.1835577
 longitude: 11.505925300000001
 postcode: 80993
 city: München
-street: Dachauer Straße
+street: "Dachauer Straße"
 housenumber: 463
 phone: "+49 89 15883386 0"
 opening_hours: ""

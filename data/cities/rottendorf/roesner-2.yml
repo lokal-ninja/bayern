@@ -5,7 +5,7 @@ latitude: 49.7908224
 longitude: 10.025765700000001
 postcode: 97228
 city: Rottendorf
-street: Kirchstraße
+street: "Kirchstraße"
 housenumber: 
 phone: ""
 opening_hours: ""

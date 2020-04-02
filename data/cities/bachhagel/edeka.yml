@@ -5,7 +5,7 @@ latitude: 48.6335221
 longitude: 10.312218600000001
 postcode: 89429
 city: Bachhagel
-street: Schreiäcker
+street: "Schreiäcker"
 housenumber: 2
 phone: ""
 opening_hours: ""

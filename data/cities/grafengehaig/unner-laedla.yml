@@ -5,7 +5,7 @@ latitude: 50.203509800000006
 longitude: 11.593225200000001
 postcode: 95356
 city: Grafengehaig
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 23
 phone: ""
 opening_hours: ""

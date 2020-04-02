@@ -5,7 +5,7 @@ latitude: 48.2717156
 longitude: 10.8354193
 postcode: 86399
 city: Bobingen
-street: Hochstraße
+street: "Hochstraße"
 housenumber: 34a
 phone: "+49 8234 902006"
 opening_hours: ""

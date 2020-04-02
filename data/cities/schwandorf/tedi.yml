@@ -5,7 +5,7 @@ latitude: 49.3142008
 longitude: 12.099110900000001
 postcode: 92421
 city: Schwandorf
-street: Regensburger Straße
+street: "Regensburger Straße"
 housenumber: 64a
 phone: ""
 opening_hours: ""

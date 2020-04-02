@@ -5,7 +5,7 @@ latitude: 49.919502300000005
 longitude: 9.0771891
 postcode: 63762
 city: Großostheim
-street: Bachstraße
+street: "Bachstraße"
 housenumber: 33
 phone: "+49 6026 4778"
 opening_hours: "Mo-Fr 08:00-12:30, Mo-Fr 14:00-18:00, Sa 08:00-12:30"

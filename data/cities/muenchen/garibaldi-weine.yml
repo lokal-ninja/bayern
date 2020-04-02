@@ -5,7 +5,7 @@ latitude: 48.1404178
 longitude: 11.6154028
 postcode: 81677
 city: München
-street: Richard-Strauss-Straße
+street: "Richard-Strauss-Straße"
 housenumber: 26
 phone: "+49 (0)89 57084833"
 opening_hours: ""

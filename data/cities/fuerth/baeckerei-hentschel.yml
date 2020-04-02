@@ -5,7 +5,7 @@ latitude: 49.5273315
 longitude: 10.966933800000001
 postcode: 
 city: Fürth
-street: Herzogenauracher Straße
+street: "Herzogenauracher Straße"
 housenumber: 2
 phone: ""
 opening_hours: ""

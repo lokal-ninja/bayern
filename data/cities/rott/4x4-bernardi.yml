@@ -5,7 +5,7 @@ latitude: 47.905724400000004
 longitude: 10.972200200000001
 postcode: 86935
 city: Rott
-street: Dießener Straße
+street: "Dießener Straße"
 housenumber: 8
 phone: "+49 8869 93219"
 opening_hours: ""

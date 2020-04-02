@@ -5,7 +5,7 @@ latitude: 50.020656
 longitude: 10.8287878
 postcode: 96182
 city: Reckendorf
-street: Schloßgasse
+street: "Schloßgasse"
 housenumber: 2
 phone: ""
 opening_hours: "Mo off; Tu-Fr 06:30-18:00; Sa 06:00-12:30"

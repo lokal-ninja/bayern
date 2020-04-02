@@ -5,7 +5,7 @@ latitude: 49.796632300000006
 longitude: 9.736759000000001
 postcode: 97292
 city: Uettingen
-street: Am Graben
+street: "Am Graben"
 housenumber: 5-7
 phone: "+49 800 2000015"
 opening_hours: "Mo-Sa 07:00-20:00"

@@ -5,7 +5,7 @@ latitude: 48.3950892
 longitude: 11.758140500000001
 postcode: 85356
 city: Freising
-street: Erdinger Straße
+street: "Erdinger Straße"
 housenumber: 45
 phone: ""
 opening_hours: ""

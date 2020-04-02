@@ -5,7 +5,7 @@ latitude: 49.486298500000004
 longitude: 11.246595300000001
 postcode: 90552
 city: Röthenbach a.d.Pegnitz
-street: Rückersdorfer Straße
+street: "Rückersdorfer Straße"
 housenumber: 44
 phone: ""
 opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-13:00"

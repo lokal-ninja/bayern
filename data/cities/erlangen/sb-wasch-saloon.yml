@@ -5,7 +5,7 @@ latitude: 49.5967805
 longitude: 11.016481
 postcode: 91052
 city: Erlangen
-street: Luitpoldstraße
+street: "Luitpoldstraße"
 housenumber: 27
 phone: "+49 9131 8291540"
 opening_hours: "Mo-Su 06:00-22:00"

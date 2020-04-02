@@ -5,7 +5,7 @@ latitude: 47.9407477
 longitude: 12.4789299
 postcode: 83358
 city: Seebruck
-street: Pullacher Straße
+street: "Pullacher Straße"
 housenumber: 14
 phone: "+49 8667 7564"
 opening_hours: "Mo-Fr 07:15-20:00; Sa 07:00-20:00"

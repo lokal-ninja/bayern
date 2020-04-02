@@ -5,7 +5,7 @@ latitude: 47.891415900000005
 longitude: 12.5370121
 postcode: 83339
 city: Chieming
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 16
 phone: ""
 opening_hours: ""

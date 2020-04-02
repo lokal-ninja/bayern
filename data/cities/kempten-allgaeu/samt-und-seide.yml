@@ -5,7 +5,7 @@ latitude: 47.708889400000004
 longitude: 10.3316874
 postcode: 87437
 city: Kempten (Allgäu)
-street: Magnusstraße
+street: "Magnusstraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

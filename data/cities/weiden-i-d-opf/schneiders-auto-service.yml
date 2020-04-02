@@ -5,7 +5,7 @@ latitude: 49.694850800000005
 longitude: 12.1565489
 postcode: 92637
 city: Weiden i.d.OPf.
-street: Conrad-Röntgen-Straße
+street: "Conrad-Röntgen-Straße"
 housenumber: 30
 phone: ""
 opening_hours: ""

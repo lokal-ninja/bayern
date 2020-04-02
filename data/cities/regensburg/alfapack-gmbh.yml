@@ -5,7 +5,7 @@ latitude: 48.997145100000004
 longitude: 12.1194766
 postcode: 93053
 city: Regensburg
-street: Schwabenstraße
+street: "Schwabenstraße"
 housenumber: 38
 phone: "+49 941 6408230 5"
 opening_hours: "Mo-Fr 08:30-17:00; Sa 08:30-14:00"

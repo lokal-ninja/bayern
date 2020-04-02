@@ -5,7 +5,7 @@ latitude: 49.0623792
 longitude: 13.101257700000001
 postcode: 94249
 city: Bodenmais
-street: Jahnstraße
+street: "Jahnstraße"
 housenumber: 20
 phone: ""
 opening_hours: ""

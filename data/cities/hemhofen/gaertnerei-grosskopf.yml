@@ -5,7 +5,7 @@ latitude: 49.692537800000004
 longitude: 10.9322408
 postcode: 91334
 city: Hemhofen
-street: Bergstraße
+street: "Bergstraße"
 housenumber: 2
 phone: "+49 (0) 9195 7285"
 opening_hours: ""

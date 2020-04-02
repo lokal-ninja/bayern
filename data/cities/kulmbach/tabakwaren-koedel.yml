@@ -5,7 +5,7 @@ latitude: 50.1086636
 longitude: 11.456362
 postcode: 95326
 city: Kulmbach
-street: Webergasse
+street: "Webergasse"
 housenumber: 10
 phone: ""
 opening_hours: ""

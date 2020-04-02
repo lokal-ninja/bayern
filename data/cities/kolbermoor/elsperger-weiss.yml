@@ -5,7 +5,7 @@ latitude: 47.8430631
 longitude: 12.0564929
 postcode: 83059
 city: Kolbermoor
-street: Sigmund-Fischer-Straße
+street: "Sigmund-Fischer-Straße"
 housenumber: 2
 phone: "+49 8031 91570"
 opening_hours: ""

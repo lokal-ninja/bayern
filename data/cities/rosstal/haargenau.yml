@@ -5,7 +5,7 @@ latitude: 49.396541500000005
 longitude: 10.896690000000001
 postcode: 90574
 city: Roßtal
-street: Heinrichstraße
+street: "Heinrichstraße"
 housenumber: 14
 phone: ""
 opening_hours: ""

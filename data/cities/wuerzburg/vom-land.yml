@@ -5,7 +5,7 @@ latitude: 49.8019091
 longitude: 9.945773
 postcode: 97080
 city: Würzburg
-street: Petrinistraße
+street: "Petrinistraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 09:30-18:30, Sa 09:30-14:00"

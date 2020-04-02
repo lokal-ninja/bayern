@@ -5,7 +5,7 @@ latitude: 48.768283600000004
 longitude: 11.5382136
 postcode: 85098
 city: Großmehring
-street: Regensburger Straße
+street: "Regensburger Straße"
 housenumber: 25
 phone: "+49 8407 243"
 opening_hours: ""

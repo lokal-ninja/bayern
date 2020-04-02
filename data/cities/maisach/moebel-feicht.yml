@@ -5,7 +5,7 @@ latitude: 48.218730900000004
 longitude: 11.2599212
 postcode: 82216
 city: Maisach
-street: Lindenstraße
+street: "Lindenstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

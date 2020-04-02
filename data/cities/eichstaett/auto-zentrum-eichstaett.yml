@@ -5,7 +5,7 @@ latitude: 48.879178
 longitude: 11.211227300000001
 postcode: 85072
 city: Eichstätt
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 44
 phone: "+49 8421 900350"
 opening_hours: ""

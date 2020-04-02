@@ -5,7 +5,7 @@ latitude: 48.31559540000001
 longitude: 10.820533000000001
 postcode: 86199
 city: Augsburg
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 36a
 phone: "+49 821 9985500"
 opening_hours: ""

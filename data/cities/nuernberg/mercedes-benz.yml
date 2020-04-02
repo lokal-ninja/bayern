@@ -5,7 +5,7 @@ latitude: 49.4034574
 longitude: 11.0486655
 postcode: 90451
 city: Nürnberg
-street: Duisburger Straße
+street: "Duisburger Straße"
 housenumber: 65
 phone: ""
 opening_hours: ""

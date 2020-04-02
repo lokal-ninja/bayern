@@ -5,7 +5,7 @@ latitude: 50.0938546
 longitude: 11.4189336
 postcode: 95326
 city: Kulmbach
-street: Burghaiger Weg
+street: "Burghaiger Weg"
 housenumber: 16a
 phone: "+49 9221 90450"
 opening_hours: ""

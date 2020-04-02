@@ -5,7 +5,7 @@ latitude: 49.6065983
 longitude: 10.9839911
 postcode: 91056
 city: Erlangen
-street: Sankt Johann
+street: "Sankt Johann"
 housenumber: 17
 phone: ""
 opening_hours: "Mo-Th 10:00-16:00, Fr 10:00-15:00"

@@ -5,7 +5,7 @@ latitude: 48.979484400000004
 longitude: 12.0911383
 postcode: 93053
 city: Regensburg
-street: Brücklmaierweg
+street: "Brücklmaierweg"
 housenumber: 18
 phone: "+49 941 7020131"
 opening_hours: ""

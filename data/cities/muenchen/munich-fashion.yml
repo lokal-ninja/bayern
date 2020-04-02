@@ -5,7 +5,7 @@ latitude: 48.1166825
 longitude: 11.5808985
 postcode: 81541
 city: München
-street: Tegernseer Landstraße
+street: "Tegernseer Landstraße"
 housenumber: 46
 phone: ""
 opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-17:00"

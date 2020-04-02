@@ -5,7 +5,7 @@ latitude: 48.207916000000004
 longitude: 11.3291714
 postcode: 82140
 city: Olching
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 33
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

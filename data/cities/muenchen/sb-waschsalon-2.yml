@@ -5,7 +5,7 @@ latitude: 48.1139394
 longitude: 11.5340222
 postcode: 81369
 city: München
-street: Tutzinger Straße
+street: "Tutzinger Straße"
 housenumber: 12
 phone: ""
 opening_hours: "Mo-Su,PH 07:00-23:00"

@@ -5,7 +5,7 @@ latitude: 48.388600600000004
 longitude: 10.930915500000001
 postcode: 86167
 city: Augsburg
-street: Mühlmahdweg
+street: "Mühlmahdweg"
 housenumber: 6
 phone: "+49 176 444 74 656"
 opening_hours: ""

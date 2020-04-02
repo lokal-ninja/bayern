@@ -5,7 +5,7 @@ latitude: 48.1790693
 longitude: 11.2777028
 postcode: 82275
 city: Emmering
-street: Brucker Straße
+street: "Brucker Straße"
 housenumber: 15
 phone: "+49 8141 2284644"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 50.2243592
 longitude: 11.318923100000001
 postcode: 96317
 city: Kronach
-street: Fröschbrunn
+street: "Fröschbrunn"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Sa 09:00-19:00"

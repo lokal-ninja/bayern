@@ -5,7 +5,7 @@ latitude: 48.3803003
 longitude: 10.860799100000001
 postcode: 86156
 city: Augsburg
-street: Ulmer Straße
+street: "Ulmer Straße"
 housenumber: 133
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

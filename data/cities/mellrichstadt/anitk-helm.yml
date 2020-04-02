@@ -5,7 +5,7 @@ latitude: 50.428991700000005
 longitude: 10.2988178
 postcode: 97638
 city: Mellrichstadt
-street: Bündstraße
+street: "Bündstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Th 14:00-19:00; Sa 10:00-13:00"

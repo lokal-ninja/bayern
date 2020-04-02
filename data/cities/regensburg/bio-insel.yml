@@ -5,7 +5,7 @@ latitude: 49.0246623
 longitude: 12.097597500000001
 postcode: 93059
 city: Regensburg
-street: Andreasstraße
+street: "Andreasstraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

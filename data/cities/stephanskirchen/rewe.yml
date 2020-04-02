@@ -5,7 +5,7 @@ latitude: 47.864274900000005
 longitude: 12.163961200000001
 postcode: 83071
 city: Stephanskirchen
-street: Habichtstraße
+street: "Habichtstraße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

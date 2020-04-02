@@ -5,7 +5,7 @@ latitude: 48.315164700000004
 longitude: 11.691201900000001
 postcode: 85375
 city: Neufahrn bei Freising
-street: Erdinger Straße
+street: "Erdinger Straße"
 housenumber: 2
 phone: "+49 8165 9247870"
 opening_hours: ""

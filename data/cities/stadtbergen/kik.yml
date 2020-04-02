@@ -5,7 +5,7 @@ latitude: 48.3792545
 longitude: 10.848258000000001
 postcode: 86391
 city: Stadtbergen
-street: Benzstraße
+street: "Benzstraße"
 housenumber: 16
 phone: ""
 opening_hours: ""

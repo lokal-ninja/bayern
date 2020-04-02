@@ -5,7 +5,7 @@ latitude: 48.1351339
 longitude: 11.5747321
 postcode: 80331
 city: München
-street: Prälat-Zistl-Straße
+street: "Prälat-Zistl-Straße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Sa 10:00-20:00"

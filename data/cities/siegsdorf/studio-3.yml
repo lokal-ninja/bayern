@@ -5,7 +5,7 @@ latitude: 47.8217724
 longitude: 12.641735800000001
 postcode: 83313
 city: Siegsdorf
-street: Traunsteiner Straße
+street: "Traunsteiner Straße"
 housenumber: 3
 phone: "+49 8662 409218"
 opening_hours: ""

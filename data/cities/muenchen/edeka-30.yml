@@ -5,7 +5,7 @@ latitude: 48.087285400000006
 longitude: 11.6001165
 postcode: 81549
 city: München
-street: Minnewitstraße
+street: "Minnewitstraße"
 housenumber: 37
 phone: "+49 89 693 86 735"
 opening_hours: "Mo-Sa 08:00-20:00"

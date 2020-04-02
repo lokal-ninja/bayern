@@ -5,7 +5,7 @@ latitude: 48.4516933
 longitude: 10.292804100000001
 postcode: 
 city: Günzburg
-street: Augsburger Straße
+street: "Augsburger Straße"
 housenumber: 82
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

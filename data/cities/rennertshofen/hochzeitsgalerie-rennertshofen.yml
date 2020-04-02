@@ -5,7 +5,7 @@ latitude: 48.755570000000006
 longitude: 11.054788700000001
 postcode: 86643
 city: Rennertshofen
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

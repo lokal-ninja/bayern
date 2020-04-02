@@ -5,7 +5,7 @@ latitude: 48.1144235
 longitude: 11.546835600000001
 postcode: 81371
 city: München
-street: Gaißacher Straße
+street: "Gaißacher Straße"
 housenumber: 17
 phone: "+49 89 747470590"
 opening_hours: "Mo-Th 07:00-18:00, Fr 07:00-16:00, Sa 09:00-13:00"

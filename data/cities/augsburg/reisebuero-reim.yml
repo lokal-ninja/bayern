@@ -5,7 +5,7 @@ latitude: 48.364859
 longitude: 10.8927031
 postcode: 86150
 city: Augsburg
-street: Halderstraße
+street: "Halderstraße"
 housenumber: 29
 phone: ""
 opening_hours: ""

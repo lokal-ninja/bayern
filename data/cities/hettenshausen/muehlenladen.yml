@@ -5,7 +5,7 @@ latitude: 48.514555900000005
 longitude: 11.505018600000001
 postcode: 85276
 city: Hettenshausen
-street: Mühlweg
+street: "Mühlweg"
 housenumber: 6
 phone: "+49 8441 78910"
 opening_hours: ""

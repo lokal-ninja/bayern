@@ -5,7 +5,7 @@ latitude: 48.3801568
 longitude: 10.933695100000001
 postcode: 86165
 city: Augsburg
-street: Brixener Straße
+street: "Brixener Straße"
 housenumber: 8
 phone: "+49 1523 7594753"
 opening_hours: "Mo-Sa 09:00-20:00"

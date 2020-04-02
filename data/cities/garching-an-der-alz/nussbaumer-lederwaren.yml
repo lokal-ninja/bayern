@@ -5,7 +5,7 @@ latitude: 48.1337186
 longitude: 12.587281500000001
 postcode: 84518
 city: Garching an der Alz
-street: Nikolausstraße
+street: "Nikolausstraße"
 housenumber: 34
 phone: ""
 opening_hours: ""

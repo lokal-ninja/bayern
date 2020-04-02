@@ -5,7 +5,7 @@ latitude: 48.9740806
 longitude: 12.7528707
 postcode: 94362
 city: Neukirchen
-street: Bayerwaldstraße
+street: "Bayerwaldstraße"
 housenumber: 2
 phone: "+49 9961 94090"
 opening_hours: ""

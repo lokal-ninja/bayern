@@ -5,7 +5,7 @@ latitude: 48.3633583
 longitude: 10.872211
 postcode: 86157
 city: Augsburg
-street: Kirchbergstraße
+street: "Kirchbergstraße"
 housenumber: 2
 phone: "+49821523385"
 opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-16:00; Su,PH 10:00-12:00"

@@ -5,7 +5,7 @@ latitude: 50.006065400000004
 longitude: 12.1067589
 postcode: 95615
 city: Marktredwitz
-street: Wölsauer Straße
+street: "Wölsauer Straße"
 housenumber: 35a
 phone: ""
 opening_hours: ""

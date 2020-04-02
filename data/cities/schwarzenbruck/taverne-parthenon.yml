@@ -5,7 +5,7 @@ latitude: 49.3570919
 longitude: 11.2572629
 postcode: 90592
 city: Schwarzenbruck
-street: Regensburger Straße
+street: "Regensburger Straße"
 housenumber: 26
 phone: ""
 opening_hours: ""

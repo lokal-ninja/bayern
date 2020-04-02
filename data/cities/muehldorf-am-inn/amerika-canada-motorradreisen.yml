@@ -5,7 +5,7 @@ latitude: 48.2642107
 longitude: 12.5189812
 postcode: 84453
 city: Mühldorf am Inn
-street: Adlerstraße
+street: "Adlerstraße"
 housenumber: 4
 phone: "+49 170 3146905"
 opening_hours: ""

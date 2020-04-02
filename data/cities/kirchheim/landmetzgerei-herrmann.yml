@@ -5,7 +5,7 @@ latitude: 49.63827980000001
 longitude: 9.8757221
 postcode: 97268
 city: Kirchheim
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 11
 phone: ""
 opening_hours: ""

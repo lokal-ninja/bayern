@@ -5,7 +5,7 @@ latitude: 47.751110700000005
 longitude: 11.3803807
 postcode: 82377
 city: Penzberg
-street: Karlstraße
+street: "Karlstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

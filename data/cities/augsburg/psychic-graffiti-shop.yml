@@ -5,7 +5,7 @@ latitude: 48.3700222
 longitude: 10.9006396
 postcode: 86150
 city: Augsburg
-street: Schmiedgasse
+street: "Schmiedgasse"
 housenumber: 9
 phone: ""
 opening_hours: ""

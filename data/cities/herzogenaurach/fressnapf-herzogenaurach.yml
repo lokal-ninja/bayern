@@ -5,7 +5,7 @@ latitude: 49.5654923
 longitude: 10.8972435
 postcode: 91074
 city: Herzogenaurach
-street: Erlanger Straße
+street: "Erlanger Straße"
 housenumber: 64
 phone: ""
 opening_hours: ""

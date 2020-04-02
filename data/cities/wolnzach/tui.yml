@@ -5,7 +5,7 @@ latitude: 48.602830700000005
 longitude: 11.6248213
 postcode: 85283
 city: Wolnzach
-street: Schloßhof
+street: "Schloßhof"
 housenumber: 18
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"

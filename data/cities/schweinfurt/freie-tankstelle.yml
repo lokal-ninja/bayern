@@ -5,7 +5,7 @@ latitude: 50.0460842
 longitude: 10.2411556
 postcode: 97422
 city: Schweinfurt
-street: Alte Bahnhofstraße
+street: "Alte Bahnhofstraße"
 housenumber: 4a
 phone: ""
 opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-22:00"

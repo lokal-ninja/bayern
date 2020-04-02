@@ -5,7 +5,7 @@ latitude: 50.1233494
 longitude: 10.8783708
 postcode: 96274
 city: Itzgrund
-street: Gartenstraße
+street: "Gartenstraße"
 housenumber: 2
 phone: "+49 9533 9826400"
 opening_hours: ""

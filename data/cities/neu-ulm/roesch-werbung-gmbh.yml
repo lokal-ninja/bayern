@@ -5,7 +5,7 @@ latitude: 48.3861089
 longitude: 10.0016076
 postcode: 89231
 city: Neu-Ulm
-street: Baumgartenstraße
+street: "Baumgartenstraße"
 housenumber: 10
 phone: "+49 731 86405"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.137162200000006
 longitude: 11.586661600000001
 postcode: 80538
 city: München
-street: Knöbelstraße
+street: "Knöbelstraße"
 housenumber: 27
 phone: "+49 89 2193 9250"
 opening_hours: "Tu-Fr 11:00-18:00; Sa 11:00-15:00"

@@ -5,7 +5,7 @@ latitude: 48.996233000000004
 longitude: 12.232576300000002
 postcode: 93092
 city: Barbing
-street: Von-Miller-Straße
+street: "Von-Miller-Straße"
 housenumber: 2
 phone: "+49 9401 524903"
 opening_hours: "Th 08:00-19:00; Fr 08:00-18:00; Sa 08:00-13:00"

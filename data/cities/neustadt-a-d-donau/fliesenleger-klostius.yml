@@ -5,7 +5,7 @@ latitude: 48.795463100000006
 longitude: 11.762342100000001
 postcode: 93333
 city: Neustadt a.d.Donau
-street: Gewerbepark
+street: "Gewerbepark"
 housenumber: 30
 phone: "+49 9445 7926"
 opening_hours: ""

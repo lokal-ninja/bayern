@@ -5,7 +5,7 @@ latitude: 48.061959800000004
 longitude: 11.6636261
 postcode: 85521
 city: Ottobrunn
-street: Hubertusstraße
+street: "Hubertusstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

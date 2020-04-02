@@ -5,7 +5,7 @@ latitude: 49.411145600000005
 longitude: 11.119699
 postcode: 90471
 city: Nürnberg
-street: Wettersteinstraße
+street: "Wettersteinstraße"
 housenumber: 23
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

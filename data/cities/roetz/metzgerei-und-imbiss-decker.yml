@@ -5,7 +5,7 @@ latitude: 49.342402500000006
 longitude: 12.529337100000001
 postcode: 92444
 city: Rötz
-street: Rathausstraße
+street: "Rathausstraße"
 housenumber: 2
 phone: "+49 9976 1554"
 opening_hours: "Mo-Fr 6:30-18:00, Sa 6:30-12:30"

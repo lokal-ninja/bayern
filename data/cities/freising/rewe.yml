@@ -5,7 +5,7 @@ latitude: 48.407776000000005
 longitude: 11.737894
 postcode: 85354
 city: Freising
-street: Prinz-Ludwig-Straße
+street: "Prinz-Ludwig-Straße"
 housenumber: 
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

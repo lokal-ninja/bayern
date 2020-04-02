@@ -5,7 +5,7 @@ latitude: 49.099918800000005
 longitude: 10.453074800000001
 postcode: 91731
 city: Langfurth
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 26
 phone: "+49 (0)9856 921155"
 opening_hours: ""

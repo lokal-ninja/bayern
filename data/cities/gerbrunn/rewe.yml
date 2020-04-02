@@ -5,7 +5,7 @@ latitude: 49.787350700000005
 longitude: 9.9844153
 postcode: 97218
 city: Gerbrunn
-street: Am Kirschberg
+street: "Am Kirschberg"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00, Su, PH off"

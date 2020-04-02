@@ -5,7 +5,7 @@ latitude: 50.0944026
 longitude: 9.2403863
 postcode: 63825
 city: Schöllkrippen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 3
 phone: "+49 6024 307-0"
 opening_hours: ""

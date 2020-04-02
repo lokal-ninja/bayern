@@ -5,7 +5,7 @@ latitude: 48.885808100000006
 longitude: 12.616109400000001
 postcode: 94315
 city: Straubing
-street: Ratiborstraße
+street: "Ratiborstraße"
 housenumber: 1
 phone: "+49 9421 928503"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"

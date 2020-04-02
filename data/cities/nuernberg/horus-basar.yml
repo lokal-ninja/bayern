@@ -5,7 +5,7 @@ latitude: 49.4539635
 longitude: 11.069499
 postcode: 90429
 city: Nürnberg
-street: Westtorgraben
+street: "Westtorgraben"
 housenumber: 23
 phone: "+491711524943"
 opening_hours: ""

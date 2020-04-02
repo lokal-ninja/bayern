@@ -5,7 +5,7 @@ latitude: 47.991043100000006
 longitude: 11.4508159
 postcode: 
 city: Schäftlarn
-street: Starnberger Straße
+street: "Starnberger Straße"
 housenumber: 47
 phone: ""
 opening_hours: "Mo-Fr 07:00-12:30,13:30-17:00"

@@ -5,7 +5,7 @@ latitude: 50.018801700000004
 longitude: 10.890441200000001
 postcode: 96179
 city: Rattelsdorf
-street: Amselweg
+street: "Amselweg"
 housenumber: 6
 phone: ""
 opening_hours: ""

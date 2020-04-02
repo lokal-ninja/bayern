@@ -5,7 +5,7 @@ latitude: 48.8218405
 longitude: 12.951179300000002
 postcode: 94469
 city: Deggendorf
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 27a
 phone: ""
 opening_hours: ""

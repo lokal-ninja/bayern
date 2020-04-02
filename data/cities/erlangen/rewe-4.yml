@@ -5,7 +5,7 @@ latitude: 49.575814
 longitude: 11.001374700000001
 postcode: 91058
 city: Erlangen
-street: Cumianastraße
+street: "Cumianastraße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

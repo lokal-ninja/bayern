@@ -5,7 +5,7 @@ latitude: 48.253717
 longitude: 11.649401000000001
 postcode: 85748
 city: Garching bei München
-street: Max-Planck-Straße
+street: "Max-Planck-Straße"
 housenumber: 21-23
 phone: "+49 89 3291481"
 opening_hours: ""

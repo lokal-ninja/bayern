@@ -5,7 +5,7 @@ latitude: 50.043700300000005
 longitude: 10.3112239
 postcode: 97453
 city: Schonungen
-street: Sandäcker
+street: "Sandäcker"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00; Su off"

@@ -5,7 +5,7 @@ latitude: 47.930754300000004
 longitude: 11.389501200000002
 postcode: 82335
 city: Berg
-street: Starnberger Straße
+street: "Starnberger Straße"
 housenumber: 7
 phone: "+49 8171 4812740"
 opening_hours: "Su-Fr 09:00-18:00, Sa 09:00-12:30"

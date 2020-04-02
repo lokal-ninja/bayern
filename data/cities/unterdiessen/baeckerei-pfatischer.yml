@@ -5,7 +5,7 @@ latitude: 47.979259500000005
 longitude: 10.827812300000001
 postcode: 86944
 city: Unterdießen
-street: Am Wiesbach
+street: "Am Wiesbach"
 housenumber: 17
 phone: "+49 8243 1825"
 opening_hours: "Mo off; Tu-Fr 05:30-12:00, 14:00-18:00; Sa 05:30-12:00; Su off"

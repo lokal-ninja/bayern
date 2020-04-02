@@ -5,7 +5,7 @@ latitude: 48.368512700000004
 longitude: 10.896362400000001
 postcode: 86150
 city: Augsburg
-street: Annastraße
+street: "Annastraße"
 housenumber: 17
 phone: ""
 opening_hours: ""

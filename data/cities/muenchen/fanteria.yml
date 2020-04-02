@@ -5,7 +5,7 @@ latitude: 48.1188931
 longitude: 11.5816294
 postcode: 81541
 city: München
-street: Edelweißstraße
+street: "Edelweißstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

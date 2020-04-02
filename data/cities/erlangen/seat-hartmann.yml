@@ -5,7 +5,7 @@ latitude: 49.5824718
 longitude: 10.962062300000001
 postcode: 91056
 city: Erlangen
-street: Gundstraße
+street: "Gundstraße"
 housenumber: 11
 phone: ""
 opening_hours: ""

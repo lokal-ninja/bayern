@@ -5,7 +5,7 @@ latitude: 48.154433600000004
 longitude: 11.469860800000001
 postcode: 81245
 city: München
-street: Kaspar-Kerll-Straße
+street: "Kaspar-Kerll-Straße"
 housenumber: 47
 phone: "+49 89 82908920"
 opening_hours: "Mo-Sa 07:00-20:00"

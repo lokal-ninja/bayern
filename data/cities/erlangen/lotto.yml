@@ -5,7 +5,7 @@ latitude: 49.568514300000004
 longitude: 10.959625200000001
 postcode: 91056
 city: Erlangen
-street: Herdegenplatz
+street: "Herdegenplatz"
 housenumber: 7
 phone: ""
 opening_hours: ""

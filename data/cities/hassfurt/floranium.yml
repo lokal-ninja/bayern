@@ -5,7 +5,7 @@ latitude: 50.037779
 longitude: 10.515073600000001
 postcode: 97437
 city: Haßfurt
-street: Hofheimer Straße
+street: "Hofheimer Straße"
 housenumber: 43
 phone: "+49 9521 1386"
 opening_hours: ""

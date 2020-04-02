@@ -5,7 +5,7 @@ latitude: 48.8234366
 longitude: 12.936921600000002
 postcode: 94469
 city: Deggendorf
-street: Gstocketwiesenstraße
+street: "Gstocketwiesenstraße"
 housenumber: 12
 phone: "+49 991 38310430"
 opening_hours: ""

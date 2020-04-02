@@ -5,7 +5,7 @@ latitude: 48.8016135
 longitude: 11.367156600000001
 postcode: 85080
 city: Gaimersheim
-street: Römerstraße
+street: "Römerstraße"
 housenumber: 21a
 phone: "+49 458 346605,+49 1572 3620574"
 opening_hours: "nach Vereinbarung"

@@ -5,7 +5,7 @@ latitude: 48.091321
 longitude: 11.563096300000002
 postcode: 81545
 city: München
-street: Autharistraße
+street: "Autharistraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

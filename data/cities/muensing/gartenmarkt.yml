@@ -5,7 +5,7 @@ latitude: 47.894592800000005
 longitude: 11.373457100000001
 postcode: 82541
 city: Münsing
-street: Degerndorfer Straße
+street: "Degerndorfer Straße"
 housenumber: 38
 phone: ""
 opening_hours: ""

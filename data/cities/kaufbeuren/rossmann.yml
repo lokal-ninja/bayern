@@ -5,7 +5,7 @@ latitude: 47.8997502
 longitude: 10.6429462
 postcode: 87600
 city: Kaufbeuren
-street: Sudetenstraße
+street: "Sudetenstraße"
 housenumber: 12
 phone: ""
 opening_hours: "Mo-Fr 08:30-19:00; Sa 08:30-19:00; PH off"

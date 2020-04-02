@@ -5,7 +5,7 @@ latitude: 49.025697
 longitude: 12.1750038
 postcode: 93105
 city: Tegernheim
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 60
 phone: ""
 opening_hours: ""

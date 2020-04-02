@@ -5,7 +5,7 @@ latitude: 48.5635848
 longitude: 11.263848900000001
 postcode: 86529
 city: Schrobenhausen
-street: Regensburger Straße
+street: "Regensburger Straße"
 housenumber: 3
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.5413695
 longitude: 10.2308091
 postcode: 97215
 city: Uffenheim
-street: Rothenburger Straße
+street: "Rothenburger Straße"
 housenumber: 35
 phone: ""
 opening_hours: "Mo-Fr 08:00-12:00,13:00-18:00; Sa 08:00-12:00"

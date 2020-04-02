@@ -5,7 +5,7 @@ latitude: 47.885836700000006
 longitude: 11.6894311
 postcode: 83607
 city: Holzkirchen
-street: Münchner Straße
+street: "Münchner Straße"
 housenumber: 105
 phone: ""
 opening_hours: ""

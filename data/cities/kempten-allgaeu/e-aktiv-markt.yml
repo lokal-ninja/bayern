@@ -5,7 +5,7 @@ latitude: 47.729097800000005
 longitude: 10.340374200000001
 postcode: 87437
 city: Kempten (Allgäu)
-street: Wettmannsberger Weg
+street: "Wettmannsberger Weg"
 housenumber: 1
 phone: ""
 opening_hours: ""

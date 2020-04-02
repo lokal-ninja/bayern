@@ -5,7 +5,7 @@ latitude: 49.9438387
 longitude: 12.2356583
 postcode: 95666
 city: Mitterteich
-street: Wiesauer Straße
+street: "Wiesauer Straße"
 housenumber: 29
 phone: "+49 9633 923000"
 opening_hours: ""

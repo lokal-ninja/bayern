@@ -5,7 +5,7 @@ latitude: 48.527169300000004
 longitude: 11.517392000000001
 postcode: 85276
 city: Pfaffenhofen a.d. Ilm
-street: Schlichtstraße
+street: "Schlichtstraße"
 housenumber: 11
 phone: "+49 179 2958387"
 opening_hours: ""

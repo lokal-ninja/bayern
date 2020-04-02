@@ -5,7 +5,7 @@ latitude: 49.718537000000005
 longitude: 11.0603314
 postcode: 91301
 city: Forchheim
-street: Burgerhofstraße
+street: "Burgerhofstraße"
 housenumber: 10
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.48103690000001
 longitude: 11.2320869
 postcode: 90552
 city: Röthenbach a.d.Pegnitz
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 16
 phone: "+49 911 95339739"
 opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-20:00"

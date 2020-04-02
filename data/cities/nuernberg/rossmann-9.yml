@@ -5,7 +5,7 @@ latitude: 49.4497755
 longitude: 11.0792318
 postcode: 90402
 city: Nürnberg
-street: Königstraße
+street: "Königstraße"
 housenumber: 41
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off"

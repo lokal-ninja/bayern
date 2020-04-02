@@ -5,7 +5,7 @@ latitude: 48.4036662
 longitude: 12.761002000000001
 postcode: 84307
 city: Eggenfelden
-street: Fischbrunnenplatz
+street: "Fischbrunnenplatz"
 housenumber: 7
 phone: ""
 opening_hours: ""

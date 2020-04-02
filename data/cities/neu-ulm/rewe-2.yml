@@ -5,7 +5,7 @@ latitude: 48.4056854
 longitude: 10.0371319
 postcode: 89233
 city: Neu-Ulm
-street: Leipheimer Straße
+street: "Leipheimer Straße"
 housenumber: 55
 phone: "+49 731 / 7110215"
 opening_hours: "Mo-Sa 07:00-20:00"

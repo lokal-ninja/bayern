@@ -5,7 +5,7 @@ latitude: 49.4485023
 longitude: 11.0379529
 postcode: 90431
 city: Nürnberg
-street: Witschelstraße
+street: "Witschelstraße"
 housenumber: 102
 phone: ""
 opening_hours: ""

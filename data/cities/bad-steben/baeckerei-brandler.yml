@@ -5,7 +5,7 @@ latitude: 50.366827400000005
 longitude: 11.6439055
 postcode: 95138
 city: Bad Steben
-street: Pfaffensteig
+street: "Pfaffensteig"
 housenumber: 5
 phone: ""
 opening_hours: ""

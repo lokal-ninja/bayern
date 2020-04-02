@@ -5,7 +5,7 @@ latitude: 48.0933865
 longitude: 11.4664918
 postcode: 82061
 city: Neuried
-street: Münchner Straße
+street: "Münchner Straße"
 housenumber: 2c
 phone: ""
 opening_hours: ""

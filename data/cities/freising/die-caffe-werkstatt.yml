@@ -5,7 +5,7 @@ latitude: 48.387196100000004
 longitude: 11.762075900000001
 postcode: 85356
 city: Freising
-street: Am Lohmühlbach
+street: "Am Lohmühlbach"
 housenumber: 16
 phone: ""
 opening_hours: "Th-Fr 09:00-18:00; Sa 09:00-13:00"

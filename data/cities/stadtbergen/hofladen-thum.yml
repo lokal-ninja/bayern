@@ -5,7 +5,7 @@ latitude: 48.3661662
 longitude: 10.844162
 postcode: 86391
 city: Stadtbergen
-street: Bauernstraße
+street: "Bauernstraße"
 housenumber: 21
 phone: "+49 821 431 771"
 opening_hours: ""

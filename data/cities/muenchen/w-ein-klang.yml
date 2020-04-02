@@ -5,7 +5,7 @@ latitude: 48.186632200000005
 longitude: 11.4723191
 postcode: 80997
 city: München
-street: Angerlohstraße
+street: "Angerlohstraße"
 housenumber: 38
 phone: ""
 opening_hours: ""

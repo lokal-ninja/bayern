@@ -5,7 +5,7 @@ latitude: 49.4818731
 longitude: 10.715669100000001
 postcode: 91452
 city: Wilhermsdorf
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 37
 phone: ""
 opening_hours: ""

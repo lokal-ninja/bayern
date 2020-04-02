@@ -5,7 +5,7 @@ latitude: 48.811512300000004
 longitude: 13.547927300000001
 postcode: 94078
 city: Freyung
-street: Waldvereinsweg
+street: "Waldvereinsweg"
 housenumber: 21
 phone: "+49 8551 911295"
 opening_hours: "Mo-Fr 07:00-18:00, Sa 07:00-12:00"

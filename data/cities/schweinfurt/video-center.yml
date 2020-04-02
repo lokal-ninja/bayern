@@ -5,7 +5,7 @@ latitude: 50.056952700000004
 longitude: 10.230222600000001
 postcode: 97422
 city: Schweinfurt
-street: Dittelbrunner Straße
+street: "Dittelbrunner Straße"
 housenumber: 37-39
 phone: ""
 opening_hours: ""

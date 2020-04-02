@@ -5,7 +5,7 @@ latitude: 48.999298800000005
 longitude: 12.1484579
 postcode: 93055
 city: Regensburg
-street: Robert-Bosch-Straße
+street: "Robert-Bosch-Straße"
 housenumber: 2
 phone: "+49 941 6080 680"
 opening_hours: ""

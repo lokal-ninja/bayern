@@ -5,7 +5,7 @@ latitude: 48.6704664
 longitude: 11.438268
 postcode: 85123
 city: Karlskron
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 151
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 08:00-13:00"

@@ -5,7 +5,7 @@ latitude: 49.579479600000006
 longitude: 10.602116
 postcode: 91413
 city: Neustadt an der Aisch
-street: Riedweg
+street: "Riedweg"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00; PH off"

@@ -5,7 +5,7 @@ latitude: 48.3543954
 longitude: 10.915221
 postcode: 86161
 city: Augsburg
-street: Siebentischstraße
+street: "Siebentischstraße"
 housenumber: 16a
 phone: "+49 821 560800"
 opening_hours: "Mo-Fr 07:00-18:30; Sa 08:00-12:30"

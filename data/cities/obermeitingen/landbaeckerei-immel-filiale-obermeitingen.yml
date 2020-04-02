@@ -5,7 +5,7 @@ latitude: 48.146870400000005
 longitude: 10.807949800000001
 postcode: 86836
 city: Obermeitingen
-street: Lechfelder Straße
+street: "Lechfelder Straße"
 housenumber: 6
 phone: "+49 8232 959130"
 opening_hours: ""

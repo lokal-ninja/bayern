@@ -5,7 +5,7 @@ latitude: 47.875261900000005
 longitude: 12.958514500000001
 postcode: 83416
 city: Saaldorf-Surheim
-street: Schulstraße
+street: "Schulstraße"
 housenumber: 1 a
 phone: ""
 opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-16:00"

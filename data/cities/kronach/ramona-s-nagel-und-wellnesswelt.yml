@@ -5,7 +5,7 @@ latitude: 50.2391146
 longitude: 11.321134200000001
 postcode: 96317
 city: Kronach
-street: Bahnhofsplatz
+street: "Bahnhofsplatz"
 housenumber: 2
 phone: ""
 opening_hours: ""

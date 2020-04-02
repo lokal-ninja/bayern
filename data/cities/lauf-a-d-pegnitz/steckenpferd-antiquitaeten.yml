@@ -5,7 +5,7 @@ latitude: 49.5105489
 longitude: 11.280828300000001
 postcode: 91207
 city: Lauf a.d.Pegnitz
-street: Johannisstraße
+street: "Johannisstraße"
 housenumber: 23
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.9080731
 longitude: 10.901521
 postcode: 96052
 city: Bamberg
-street: Villachstraße
+street: "Villachstraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

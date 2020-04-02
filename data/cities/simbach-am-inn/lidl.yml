@@ -5,7 +5,7 @@ latitude: 48.2618969
 longitude: 13.0088664
 postcode: 84359
 city: Simbach am Inn
-street: Münchner Straße
+street: "Münchner Straße"
 housenumber: 82
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

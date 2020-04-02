@@ -5,7 +5,7 @@ latitude: 48.136269000000006
 longitude: 11.5834115
 postcode: 80539
 city: München
-street: Thomas-Wimmer-Ring
+street: "Thomas-Wimmer-Ring"
 housenumber: 9
 phone: "+49 89 24212894"
 opening_hours: ""

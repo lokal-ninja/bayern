@@ -5,7 +5,7 @@ latitude: 48.455953300000004
 longitude: 11.128428300000001
 postcode: 86551
 city: Aichach
-street: Münchener Straße
+street: "Münchener Straße"
 housenumber: 2
 phone: "+49 8251 3702"
 opening_hours: ""

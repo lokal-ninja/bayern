@@ -5,7 +5,7 @@ latitude: 48.135649400000005
 longitude: 11.569236
 postcode: 80331
 city: München
-street: Sendlinger Straße
+street: "Sendlinger Straße"
 housenumber: 28
 phone: "+49 89 2809941"
 opening_hours: "Mo-Fr 10:00-14:00,14:30-19:00; Sa 10:00-16:00"

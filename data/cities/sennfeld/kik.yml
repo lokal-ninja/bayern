@@ -5,7 +5,7 @@ latitude: 50.0368853
 longitude: 10.250002400000001
 postcode: 97526
 city: Sennfeld
-street: August-Borsig-Straße
+street: "August-Borsig-Straße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00; Su off"

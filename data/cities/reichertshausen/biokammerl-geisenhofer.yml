@@ -5,7 +5,7 @@ latitude: 48.466882000000005
 longitude: 11.508878300000001
 postcode: 85293
 city: Reichertshausen
-street: Angerhofstraße
+street: "Angerhofstraße"
 housenumber: 1
 phone: ""
 opening_hours: "Fr 08:00-18:00; Sa 08:00-12:00"

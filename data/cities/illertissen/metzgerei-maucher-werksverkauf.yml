@@ -5,7 +5,7 @@ latitude: 48.2346998
 longitude: 10.1011354
 postcode: 89257
 city: Illertissen
-street: Von-Helmholtz-Straße
+street: "Von-Helmholtz-Straße"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00; Sa 07:30-13:00"

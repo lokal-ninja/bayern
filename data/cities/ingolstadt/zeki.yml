@@ -5,7 +5,7 @@ latitude: 48.7798273
 longitude: 11.3627769
 postcode: 85049
 city: Ingolstadt
-street: Ochsenmühlstraße
+street: "Ochsenmühlstraße"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00"

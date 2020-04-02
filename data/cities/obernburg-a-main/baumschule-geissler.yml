@@ -5,7 +5,7 @@ latitude: 49.8410382
 longitude: 9.094956400000001
 postcode: 63785
 city: Obernburg a.Main
-street: Wiesentalstraße
+street: "Wiesentalstraße"
 housenumber: 49
 phone: "+49 6022 3328"
 opening_hours: "Mo-Fr 09:00-12:00,13:00-18:00; Sa 09:00-14:00; PH off"

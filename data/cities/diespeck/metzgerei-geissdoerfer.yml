@@ -5,7 +5,7 @@ latitude: 49.598113500000004
 longitude: 10.626983300000001
 postcode: 91456
 city: Diespeck
-street: Dettendorfer Straße
+street: "Dettendorfer Straße"
 housenumber: 1
 phone: "+49 9161 3674"
 opening_hours: ""

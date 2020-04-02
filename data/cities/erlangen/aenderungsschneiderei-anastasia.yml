@@ -5,7 +5,7 @@ latitude: 49.5956625
 longitude: 10.9625071
 postcode: 91056
 city: Erlangen
-street: Odenwaldallee
+street: "Odenwaldallee"
 housenumber: 31
 phone: ""
 opening_hours: "Tu-Fr 09:00-12:00,14:00-18:00; Sa 10:00-13:00; Mo,Su,PH off"

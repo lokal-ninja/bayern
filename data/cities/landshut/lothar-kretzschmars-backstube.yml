@@ -5,7 +5,7 @@ latitude: 48.5452202
 longitude: 12.148828600000002
 postcode: 84034
 city: Landshut
-street: Schwestergasse
+street: "Schwestergasse"
 housenumber: 2
 phone: ""
 opening_hours: ""

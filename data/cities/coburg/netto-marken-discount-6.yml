@@ -5,7 +5,7 @@ latitude: 50.249167500000006
 longitude: 10.9458626
 postcode: 96450
 city: Coburg
-street: Wirtsgrund
+street: "Wirtsgrund"
 housenumber: 24
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00; PH off"

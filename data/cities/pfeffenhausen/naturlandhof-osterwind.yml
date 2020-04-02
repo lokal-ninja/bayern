@@ -5,7 +5,7 @@ latitude: 48.65278360000001
 longitude: 12.0030639
 postcode: 84076
 city: Pfeffenhausen
-street: Osterwind
+street: "Osterwind"
 housenumber: 1
 phone: ""
 opening_hours: ""

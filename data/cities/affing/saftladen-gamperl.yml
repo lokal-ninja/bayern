@@ -5,7 +5,7 @@ latitude: 48.453659
 longitude: 11.0046478
 postcode: 86444
 city: Affing
-street: Dorfstraße
+street: "Dorfstraße"
 housenumber: 14
 phone: ""
 opening_hours: "nach telefonischer Vereinbarung"

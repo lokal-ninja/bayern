@@ -5,7 +5,7 @@ latitude: 48.3847693
 longitude: 10.0033299
 postcode: 89231
 city: Neu-Ulm
-street: Memminger Straße
+street: "Memminger Straße"
 housenumber: 61-67
 phone: ""
 opening_hours: "Mo-Fr 07:00-19:00; Sa 09:00-16:00"

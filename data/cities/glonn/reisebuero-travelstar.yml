@@ -5,7 +5,7 @@ latitude: 47.988387800000005
 longitude: 11.866324
 postcode: 85625
 city: Glonn
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 10
 phone: ""
 opening_hours: ""

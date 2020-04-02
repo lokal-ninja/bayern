@@ -5,7 +5,7 @@ latitude: 48.129192700000004
 longitude: 11.6049904
 postcode: 81667
 city: München
-street: Orleansstraße
+street: "Orleansstraße"
 housenumber: 55
 phone: "+49 89 44234888"
 opening_hours: "Mo-Fr 09:00-13:00, 14:00-18:00"

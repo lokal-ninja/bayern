@@ -5,7 +5,7 @@ latitude: 48.129518600000004
 longitude: 11.569657900000001
 postcode: 80469
 city: München
-street: Hans-Sachs-Straße
+street: "Hans-Sachs-Straße"
 housenumber: 12
 phone: ""
 opening_hours: "Mo-Su 08:00-19:00"

@@ -5,7 +5,7 @@ latitude: 49.2313915
 longitude: 10.500036000000001
 postcode: 91567
 city: Herrieden
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

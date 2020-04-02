@@ -5,7 +5,7 @@ latitude: 48.051456800000004
 longitude: 11.6554392
 postcode: 82024
 city: Taufkirchen
-street: Willy-Messerschmitt-Straße
+street: "Willy-Messerschmitt-Straße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-We 08:30-11:00,11:30-15:30; Fr 08:30-11:00,11:30-14:30; PH off"

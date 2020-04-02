@@ -5,7 +5,7 @@ latitude: 48.9886612
 longitude: 12.198737900000001
 postcode: 93073
 city: Neutraubling
-street: Neudeker Straße
+street: "Neudeker Straße"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

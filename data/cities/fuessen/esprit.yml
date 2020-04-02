@@ -5,7 +5,7 @@ latitude: 47.567568200000004
 longitude: 10.699493400000001
 postcode: 87629
 city: Füssen
-street: Reichenstraße
+street: "Reichenstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

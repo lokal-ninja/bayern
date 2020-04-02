@@ -5,7 +5,7 @@ latitude: 48.4246306
 longitude: 10.8802953
 postcode: 86368
 city: Gersthofen
-street: Bauernstraße
+street: "Bauernstraße"
 housenumber: 3
 phone: ""
 opening_hours: ""

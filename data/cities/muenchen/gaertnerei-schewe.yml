@@ -5,7 +5,7 @@ latitude: 48.1806483
 longitude: 11.6030485
 postcode: 80805
 city: München
-street: Garchinger Straße
+street: "Garchinger Straße"
 housenumber: 31
 phone: ""
 opening_hours: ""

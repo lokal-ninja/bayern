@@ -5,7 +5,7 @@ latitude: 48.0720965
 longitude: 11.519899
 postcode: 81479
 city: München
-street: Wolfratshauser Straße
+street: "Wolfratshauser Straße"
 housenumber: 215
 phone: "+49 89 79199210"
 opening_hours: "Mo-Sa 07:00-20:00"

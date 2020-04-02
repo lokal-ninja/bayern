@@ -5,7 +5,7 @@ latitude: 47.757291900000006
 longitude: 11.369118100000001
 postcode: 82377
 city: Penzberg
-street: Fischhaberstraße
+street: "Fischhaberstraße"
 housenumber: 12
 phone: ""
 opening_hours: "Tu-Fr 08:00-12:00; Sa 08:30-12:00; Mo,Su,PH off"

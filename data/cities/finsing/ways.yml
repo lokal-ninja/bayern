@@ -5,7 +5,7 @@ latitude: 48.246154700000005
 longitude: 11.780076000000001
 postcode: 85464
 city: Finsing
-street: Torfstraße
+street: "Torfstraße"
 housenumber: 6
 phone: "+49 8123  889619"
 opening_hours: "Mo-Fr 06:00-10:00; Sa 06:00-11:00"

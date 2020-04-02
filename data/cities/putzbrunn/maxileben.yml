@@ -5,7 +5,7 @@ latitude: 48.0775292
 longitude: 11.715121900000002
 postcode: 85640
 city: Putzbrunn
-street: Glonner Straße
+street: "Glonner Straße"
 housenumber: 15
 phone: "+49 89 416177590"
 opening_hours: ""

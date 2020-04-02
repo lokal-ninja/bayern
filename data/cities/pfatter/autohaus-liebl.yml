@@ -5,7 +5,7 @@ latitude: 48.9642622
 longitude: 12.386781800000001
 postcode: 93102
 city: Pfatter
-street: Flurweg
+street: "Flurweg"
 housenumber: 1
 phone: "+49 9481 349"
 opening_hours: ""

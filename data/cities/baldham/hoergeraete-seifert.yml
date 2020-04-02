@@ -5,7 +5,7 @@ latitude: 48.0976091
 longitude: 11.7858374
 postcode: 85598
 city: Baldham
-street: Bahnhofplatz
+street: "Bahnhofplatz"
 housenumber: 5
 phone: ""
 opening_hours: "Tu-Fr 08:30-12:30, 13:30-17:30; We 08:30-12:30"

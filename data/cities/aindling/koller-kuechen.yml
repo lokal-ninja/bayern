@@ -5,7 +5,7 @@ latitude: 48.483586900000006
 longitude: 10.981681400000001
 postcode: 86447
 city: Aindling
-street: Schloßstraße
+street: "Schloßstraße"
 housenumber: 15
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.135543000000006
 longitude: 11.5405903
 postcode: 80339
 city: München
-street: Gollierstraße
+street: "Gollierstraße"
 housenumber: 39
 phone: ""
 opening_hours: ""

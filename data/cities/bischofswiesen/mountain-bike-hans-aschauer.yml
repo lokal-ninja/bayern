@@ -5,7 +5,7 @@ latitude: 47.647895000000005
 longitude: 12.971947100000001
 postcode: 83483
 city: Bischofswiesen
-street: Aschauerweiherstraße
+street: "Aschauerweiherstraße"
 housenumber: 23
 phone: ""
 opening_hours: ""

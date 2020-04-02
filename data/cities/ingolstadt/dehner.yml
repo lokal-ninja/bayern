@@ -5,7 +5,7 @@ latitude: 48.769193200000004
 longitude: 11.394055600000002
 postcode: 
 city: Ingolstadt
-street: Degenhartstraße
+street: "Degenhartstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

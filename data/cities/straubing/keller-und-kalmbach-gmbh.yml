@@ -5,7 +5,7 @@ latitude: 48.888299
 longitude: 12.6246769
 postcode: 94315
 city: Straubing
-street: Borsigstraße
+street: "Borsigstraße"
 housenumber: 19
 phone: "+49 9421 7811 0"
 opening_hours: "Mo-Th 07:00-17:00; Fr 07:00-14:00"

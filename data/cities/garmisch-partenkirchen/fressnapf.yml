@@ -5,7 +5,7 @@ latitude: 47.4977243
 longitude: 11.1011349
 postcode: 82467
 city: Garmisch-Partenkirchen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 38
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 47.854579900000004
 longitude: 12.623447500000001
 postcode: 83278
 city: Traunstein
-street: Sonntagshornstraße
+street: "Sonntagshornstraße"
 housenumber: 
 phone: "+49 861 166210"
 opening_hours: ""

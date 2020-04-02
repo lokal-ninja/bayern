@@ -5,7 +5,7 @@ latitude: 49.4886199
 longitude: 10.9215403
 postcode: 90768
 city: Fürth
-street: Hirschgartenweg
+street: "Hirschgartenweg"
 housenumber: 10
 phone: "+49 911 75 10 50"
 opening_hours: ""

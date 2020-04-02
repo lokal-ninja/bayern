@@ -5,7 +5,7 @@ latitude: 48.400420600000004
 longitude: 12.7535123
 postcode: 84307
 city: Eggenfelden
-street: Schellenbruckplatz
+street: "Schellenbruckplatz"
 housenumber: 16
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00; Su, PH off"

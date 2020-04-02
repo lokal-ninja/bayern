@@ -5,7 +5,7 @@ latitude: 47.780243600000006
 longitude: 11.839085
 postcode: 83714
 city: Miesbach
-street: Rosenweg
+street: "Rosenweg"
 housenumber: 11
 phone: ""
 opening_hours: ""

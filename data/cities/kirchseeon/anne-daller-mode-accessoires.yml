@@ -5,7 +5,7 @@ latitude: 48.071137900000004
 longitude: 11.8892334
 postcode: 85614
 city: Kirchseeon
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 9
 phone: "+49 8091 5390055"
 opening_hours: ""

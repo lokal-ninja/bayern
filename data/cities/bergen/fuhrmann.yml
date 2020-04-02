@@ -5,7 +5,7 @@ latitude: 47.8289157
 longitude: 12.593671700000002
 postcode: 83346
 city: Bergen
-street: Gewerbestraße
+street: "Gewerbestraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

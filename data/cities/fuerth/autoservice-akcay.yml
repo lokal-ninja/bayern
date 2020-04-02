@@ -5,7 +5,7 @@ latitude: 49.455268800000006
 longitude: 11.0080352
 postcode: 90763
 city: Fürth
-street: Höfener Straße
+street: "Höfener Straße"
 housenumber: 100
 phone: ""
 opening_hours: ""

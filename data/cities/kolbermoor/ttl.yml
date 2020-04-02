@@ -5,7 +5,7 @@ latitude: 47.842070500000005
 longitude: 12.0446706
 postcode: 83059
 city: Kolbermoor
-street: Spitzsteinstraße
+street: "Spitzsteinstraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

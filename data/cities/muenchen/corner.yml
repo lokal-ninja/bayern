@@ -5,7 +5,7 @@ latitude: 48.1158385
 longitude: 11.602931400000001
 postcode: 81669
 city: München
-street: Claudius-Keller-Straße
+street: "Claudius-Keller-Straße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 06:00-20:00; Sa 11:00-18:00"

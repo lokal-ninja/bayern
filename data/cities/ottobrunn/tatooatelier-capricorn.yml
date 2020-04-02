@@ -5,7 +5,7 @@ latitude: 48.064046000000005
 longitude: 11.662912400000002
 postcode: 85521
 city: Ottobrunn
-street: Laurinweg
+street: "Laurinweg"
 housenumber: 5
 phone: ""
 opening_hours: ""

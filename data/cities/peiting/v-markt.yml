@@ -5,7 +5,7 @@ latitude: 47.787866300000005
 longitude: 10.9254412
 postcode: 86971
 city: Peiting
-street: Ammergauer Straße
+street: "Ammergauer Straße"
 housenumber: 60
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

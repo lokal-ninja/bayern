@@ -5,7 +5,7 @@ latitude: 49.98161270000001
 longitude: 9.146408000000001
 postcode: 63741
 city: Aschaffenburg
-street: Lange Straße
+street: "Lange Straße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

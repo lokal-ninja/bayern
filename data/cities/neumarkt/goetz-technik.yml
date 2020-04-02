@@ -5,7 +5,7 @@ latitude: 49.299170100000005
 longitude: 11.4725262
 postcode: 92318
 city: Neumarkt
-street: Am Berliner Ring
+street: "Am Berliner Ring"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:30;Sa 08:00-13:00"

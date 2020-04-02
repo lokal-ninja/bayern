@@ -5,7 +5,7 @@ latitude: 48.7695316
 longitude: 11.6297552
 postcode: 85088
 city: Vohburg a.d.Donau
-street: Gewerbestraße
+street: "Gewerbestraße"
 housenumber: 7
 phone: "+49 8457 2387"
 opening_hours: "Mo-Sa 07:00-20:00"

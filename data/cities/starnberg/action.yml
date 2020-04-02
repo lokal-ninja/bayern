@@ -5,7 +5,7 @@ latitude: 47.9921075
 longitude: 11.331490800000001
 postcode: 82319
 city: Starnberg
-street: Emslanderstraße
+street: "Emslanderstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

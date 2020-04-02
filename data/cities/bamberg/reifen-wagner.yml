@@ -5,7 +5,7 @@ latitude: 49.8834165
 longitude: 10.9234647
 postcode: 96050
 city: Bamberg
-street: Gutenbergstraße
+street: "Gutenbergstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"

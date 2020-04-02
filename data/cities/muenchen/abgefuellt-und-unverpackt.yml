@@ -5,7 +5,7 @@ latitude: 48.1297128
 longitude: 11.573954500000001
 postcode: 
 city: München
-street: Fraunhoferstraße
+street: "Fraunhoferstraße"
 housenumber: 23
 phone: ""
 opening_hours: "Mo-Fr 11:30-19:00; Sa 11:30-15:00"

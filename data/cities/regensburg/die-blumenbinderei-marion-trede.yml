@@ -5,7 +5,7 @@ latitude: 48.99459
 longitude: 12.1363345
 postcode: 93055
 city: Regensburg
-street: Obertraublinger Straße
+street: "Obertraublinger Straße"
 housenumber: 1
 phone: "+49 941 71523"
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-16:00"

@@ -5,7 +5,7 @@ latitude: 49.9985999
 longitude: 9.581413300000001
 postcode: 97816
 city: Lohr a. Main
-street: Jahnstraße
+street: "Jahnstraße"
 housenumber: 23
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.146748
 longitude: 11.454197200000001
 postcode: 81241
 city: München
-street: Hillernstraße
+street: "Hillernstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.244089300000006
 longitude: 11.4482952
 postcode: 85221
 city: Dachau
-street: Wettersteinring
+street: "Wettersteinring"
 housenumber: 7
 phone: "+49 8131 2722134"
 opening_hours: "Mo-Sa 08:00-20:00"

@@ -5,7 +5,7 @@ latitude: 47.510682800000005
 longitude: 10.274964200000001
 postcode: 
 city: Sonthofen
-street: Immenstädter Straße
+street: "Immenstädter Straße"
 housenumber: 11
 phone: "+49 8321 60772200"
 opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-16:00"

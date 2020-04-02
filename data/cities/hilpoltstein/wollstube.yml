@@ -5,7 +5,7 @@ latitude: 49.1891015
 longitude: 11.1927105
 postcode: 91161
 city: Hilpoltstein
-street: Kirchenstraße
+street: "Kirchenstraße"
 housenumber: 4
 phone: "+49 9174 1366"
 opening_hours: "Mo-Fr 09:00-12:30"

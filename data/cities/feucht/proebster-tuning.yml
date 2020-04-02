@@ -5,7 +5,7 @@ latitude: 49.375207100000004
 longitude: 11.2097116
 postcode: 90537
 city: Feucht
-street: Schloßweg
+street: "Schloßweg"
 housenumber: 3
 phone: "+49 9128 724 795"
 opening_hours: "Tu-Fr 08:30-17:00, sowie nach Vereinbarung"

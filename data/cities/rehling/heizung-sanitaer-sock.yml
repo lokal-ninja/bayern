@@ -5,7 +5,7 @@ latitude: 48.4881472
 longitude: 10.933283900000001
 postcode: 86508
 city: Rehling
-street: Baumweg
+street: "Baumweg"
 housenumber: 5
 phone: ""
 opening_hours: ""

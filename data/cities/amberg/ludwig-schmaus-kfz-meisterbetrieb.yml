@@ -5,7 +5,7 @@ latitude: 49.487182100000005
 longitude: 11.8791179
 postcode: 92224
 city: Amberg
-street: Max-Planck-Straße
+street: "Max-Planck-Straße"
 housenumber: 19
 phone: "+49 9621 71689"
 opening_hours: "Mo-Fr 07:45-12:00,13:00-16:30"

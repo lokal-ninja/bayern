@@ -5,7 +5,7 @@ latitude: 48.702342300000005
 longitude: 13.0198812
 postcode: 94486
 city: Osterhofen
-street: Stadtplatz
+street: "Stadtplatz"
 housenumber: 10
 phone: ""
 opening_hours: ""

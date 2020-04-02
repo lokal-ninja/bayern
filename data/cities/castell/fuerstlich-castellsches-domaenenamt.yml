@@ -5,7 +5,7 @@ latitude: 49.741429800000006
 longitude: 10.3525784
 postcode: 97355
 city: Castell
-street: Schlossplatz
+street: "Schlossplatz"
 housenumber: 5
 phone: ""
 opening_hours: ""

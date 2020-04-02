@@ -5,7 +5,7 @@ latitude: 48.186240000000005
 longitude: 11.573004500000001
 postcode: 80807
 city: München
-street: Königsteinstraße
+street: "Königsteinstraße"
 housenumber: 3
 phone: "+49 89 3507682"
 opening_hours: "Mo-Fr 08:00-18:30; Sa 07:30-13:00"

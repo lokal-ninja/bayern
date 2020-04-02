@@ -5,7 +5,7 @@ latitude: 50.0368525
 longitude: 10.208930500000001
 postcode: 97424
 city: Schweinfurt
-street: Johann-Georg-Gademann-Straße
+street: "Johann-Georg-Gademann-Straße"
 housenumber: 11
 phone: ""
 opening_hours: ""

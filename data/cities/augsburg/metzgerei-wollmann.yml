@@ -5,7 +5,7 @@ latitude: 48.4028548
 longitude: 10.8963002
 postcode: 86169
 city: Augsburg
-street: Hammerschmiedweg
+street: "Hammerschmiedweg"
 housenumber: 85
 phone: ""
 opening_hours: "Mo-Th 07:30-13:00, 15:00-18:00; Fr 07:30-18:00; Sa 07:30-12:00"

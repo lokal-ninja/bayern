@@ -5,7 +5,7 @@ latitude: 48.8087548
 longitude: 11.7634019
 postcode: 93333
 city: Neustadt a.d.Donau
-street: Herzog-Ludwig-Straße
+street: "Herzog-Ludwig-Straße"
 housenumber: 13
 phone: ""
 opening_hours: ""

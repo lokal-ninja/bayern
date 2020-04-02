@@ -5,7 +5,7 @@ latitude: 48.2028837
 longitude: 11.5449186
 postcode: 80935
 city: München
-street: Tagetesstraße
+street: "Tagetesstraße"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Sa 08:00-12:00, 13:00-19:00"

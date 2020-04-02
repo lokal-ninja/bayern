@@ -5,7 +5,7 @@ latitude: 48.061645500000004
 longitude: 10.636769800000001
 postcode: 86842
 city: Türkheim
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 15
 phone: "+49 8245 1632"
 opening_hours: "Mo-Fr 08:00-12:30,14:00-18:00; We 08:00-12:30; Sa 08:30-12:00"

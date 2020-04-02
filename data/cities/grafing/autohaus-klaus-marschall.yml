@@ -5,7 +5,7 @@ latitude: 48.0358755
 longitude: 11.941467600000001
 postcode: 85567
 city: Grafing
-street: Am Schammacher Feld
+street: "Am Schammacher Feld"
 housenumber: 45
 phone: "+49 8092 2320238"
 opening_hours: "Mo-Fr 08:00-18:00"

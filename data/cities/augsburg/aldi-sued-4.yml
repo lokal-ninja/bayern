@@ -5,7 +5,7 @@ latitude: 48.35567330000001
 longitude: 10.910449400000001
 postcode: 86161
 city: Augsburg
-street: Hofrat-Röhrer-Straße
+street: "Hofrat-Röhrer-Straße"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

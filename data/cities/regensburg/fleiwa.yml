@@ -5,7 +5,7 @@ latitude: 49.0345382
 longitude: 12.116184700000002
 postcode: 93057
 city: Regensburg
-street: Sudetendeutsche Straße
+street: "Sudetendeutsche Straße"
 housenumber: 1c
 phone: "+49 941 41410"
 opening_hours: "Tu-Th 07:00-12:30,14:30-18:00; Fr 07:00-18:00; Sa 07:00-12:00"

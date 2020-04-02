@@ -5,7 +5,7 @@ latitude: 48.371923300000006
 longitude: 10.9107499
 postcode: 86153
 city: Augsburg
-street: Lechhauser Straße
+street: "Lechhauser Straße"
 housenumber: 10
 phone: "+49 821 4540717"
 opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"

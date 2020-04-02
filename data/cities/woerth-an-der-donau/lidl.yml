@@ -5,7 +5,7 @@ latitude: 49.0030445
 longitude: 12.386994900000001
 postcode: 93086
 city: Wörth an der Donau
-street: Regensburger Straße
+street: "Regensburger Straße"
 housenumber: 47
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

@@ -5,7 +5,7 @@ latitude: 48.5633482
 longitude: 11.2644807
 postcode: 86529
 city: Schrobenhausen
-street: Perger Platz
+street: "Perger Platz"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:30; Sa 09:30-16:00; PH off"

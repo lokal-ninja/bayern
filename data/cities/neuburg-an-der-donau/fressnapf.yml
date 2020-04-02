@@ -5,7 +5,7 @@ latitude: 48.719041000000004
 longitude: 11.172644100000001
 postcode: 86633
 city: Neuburg an der Donau
-street: Am Südpark
+street: "Am Südpark"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 08:30-18:00"

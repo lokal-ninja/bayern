@@ -5,7 +5,7 @@ latitude: 48.2551459
 longitude: 11.3616229
 postcode: 85232
 city: Bergkirchen
-street: Mühlstraße
+street: "Mühlstraße"
 housenumber: 8
 phone: ""
 opening_hours: "Fr 14:00-18:00; Sa 08:00-12:00"

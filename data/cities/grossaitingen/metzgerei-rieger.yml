@@ -5,7 +5,7 @@ latitude: 48.2293736
 longitude: 10.7819482
 postcode: 86845
 city: Großaitingen
-street: Augsburger Straße
+street: "Augsburger Straße"
 housenumber: 8
 phone: "+49 8203 219"
 opening_hours: ""

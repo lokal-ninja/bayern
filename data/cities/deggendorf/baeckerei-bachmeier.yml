@@ -5,7 +5,7 @@ latitude: 48.833850500000004
 longitude: 12.9623685
 postcode: 94469
 city: Deggendorf
-street: Oberer Stadtplatz
+street: "Oberer Stadtplatz"
 housenumber: 4
 phone: "+49-991-4409"
 opening_hours: ""

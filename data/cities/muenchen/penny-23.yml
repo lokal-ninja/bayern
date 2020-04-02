@@ -5,7 +5,7 @@ latitude: 48.0858312
 longitude: 11.505002600000001
 postcode: 
 city: München
-street: Kandinskystraße
+street: "Kandinskystraße"
 housenumber: 16
 phone: ""
 opening_hours: "Mo-Sa 07:30-20:00"

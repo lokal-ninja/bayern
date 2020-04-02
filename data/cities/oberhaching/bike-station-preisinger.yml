@@ -5,7 +5,7 @@ latitude: 48.0292413
 longitude: 11.601692
 postcode: 82041
 city: Oberhaching
-street: Holzstraße
+street: "Holzstraße"
 housenumber: 17
 phone: ""
 opening_hours: ""

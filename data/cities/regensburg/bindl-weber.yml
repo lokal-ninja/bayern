@@ -5,7 +5,7 @@ latitude: 49.0390834
 longitude: 12.1567618
 postcode: 93055
 city: Regensburg
-street: Keilberger Hauptstraße
+street: "Keilberger Hauptstraße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo 06:00-12:00; Tu-Fr 06:00-12:00,14:30-18:00; Sa 06:00-12:00; Su 08:00-11:00"

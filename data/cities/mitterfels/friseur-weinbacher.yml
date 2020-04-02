@@ -5,7 +5,7 @@ latitude: 48.971388600000004
 longitude: 12.679934900000001
 postcode: 94360
 city: Mitterfels
-street: Burgstraße
+street: "Burgstraße"
 housenumber: 23
 phone: "+49 99616405"
 opening_hours: ""

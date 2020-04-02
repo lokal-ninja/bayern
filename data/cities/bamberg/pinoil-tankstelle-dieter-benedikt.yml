@@ -5,7 +5,7 @@ latitude: 49.880023800000004
 longitude: 10.883533400000001
 postcode: 96049
 city: Bamberg
-street: Würzburger Straße
+street: "Würzburger Straße"
 housenumber: 29
 phone: ""
 opening_hours: ""

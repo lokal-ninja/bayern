@@ -5,7 +5,7 @@ latitude: 50.1860477
 longitude: 11.842883800000001
 postcode: 95237
 city: Weißdorf
-street: Birkenweg
+street: "Birkenweg"
 housenumber: 8
 phone: "+49 9251 6244"
 opening_hours: ""

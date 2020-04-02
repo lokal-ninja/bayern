@@ -5,7 +5,7 @@ latitude: 47.909690700000006
 longitude: 11.675493300000001
 postcode: 83624
 city: Otterfing
-street: Münchner Straße
+street: "Münchner Straße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00; Sa 07:00-13:00"

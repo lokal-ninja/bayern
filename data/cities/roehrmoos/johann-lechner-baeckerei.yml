@@ -5,7 +5,7 @@ latitude: 48.347112200000005
 longitude: 11.4926607
 postcode: 85244
 city: Röhrmoos
-street: Schulstraße
+street: "Schulstraße"
 housenumber: 28
 phone: ""
 opening_hours: ""

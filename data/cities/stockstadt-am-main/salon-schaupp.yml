@@ -5,7 +5,7 @@ latitude: 49.978342100000006
 longitude: 9.0646447
 postcode: 63811
 city: Stockstadt am Main
-street: Friedrich-Ebert-Straße
+street: "Friedrich-Ebert-Straße"
 housenumber: 2a
 phone: ""
 opening_hours: ""

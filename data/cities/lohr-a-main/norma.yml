@@ -5,7 +5,7 @@ latitude: 50.003095200000004
 longitude: 9.5811696
 postcode: 97816
 city: Lohr a. Main
-street: Walter-Senger-Straße
+street: "Walter-Senger-Straße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

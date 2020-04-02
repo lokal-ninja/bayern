@@ -5,7 +5,7 @@ latitude: 48.1837068
 longitude: 11.609771100000001
 postcode: 80805
 city: München
-street: Christoph-Probst-Straße
+street: "Christoph-Probst-Straße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Su 19:00-20:00"

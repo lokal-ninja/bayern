@@ -5,7 +5,7 @@ latitude: 48.3647458
 longitude: 10.8639594
 postcode: 86157
 city: Augsburg
-street: Stadtberger Straße
+street: "Stadtberger Straße"
 housenumber: 56
 phone: "+49 176 70 73 51 74"
 opening_hours: "Mo-Sa 10:00-15:00"

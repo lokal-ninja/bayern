@@ -5,7 +5,7 @@ latitude: 49.456071800000004
 longitude: 11.064357600000001
 postcode: 90419
 city: Nürnberg
-street: Kleinweidenmühle
+street: "Kleinweidenmühle"
 housenumber: 8
 phone: "+49 911 1321661"
 opening_hours: "Tu-Fr 13:00-19:00; Sa 10:00-15:00; Mo off"

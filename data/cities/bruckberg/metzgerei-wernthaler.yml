@@ -5,7 +5,7 @@ latitude: 48.533459400000005
 longitude: 12.0282289
 postcode: 84079
 city: Bruckberg
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 11
 phone: "+49 8765 479"
 opening_hours: ""

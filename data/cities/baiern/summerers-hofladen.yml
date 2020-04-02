@@ -5,7 +5,7 @@ latitude: 47.9585146
 longitude: 11.9180398
 postcode: 85625
 city: Baiern
-street: Sonnenfeldstraße
+street: "Sonnenfeldstraße"
 housenumber: 1
 phone: "+49 8093 904201"
 opening_hours: "Tu-Fr 08:00-12:00; Sa 07:30-12:00 || nach Vereinbarung; PH off"

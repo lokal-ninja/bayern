@@ -5,7 +5,7 @@ latitude: 49.2035561
 longitude: 12.657094800000001
 postcode: 93413
 city: Cham
-street: Rodinger Straße
+street: "Rodinger Straße"
 housenumber: 22
 phone: "+49 9971 801030"
 opening_hours: ""

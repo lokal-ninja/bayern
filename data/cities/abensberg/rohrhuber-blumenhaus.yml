@@ -5,7 +5,7 @@ latitude: 48.8179414
 longitude: 11.8399616
 postcode: 93326
 city: Abensberg
-street: Friedhofweg
+street: "Friedhofweg"
 housenumber: 2
 phone: "+49 9443 9129-0"
 opening_hours: ""

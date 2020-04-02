@@ -5,7 +5,7 @@ latitude: 48.1335871
 longitude: 11.5449897
 postcode: 80339
 city: München
-street: Theresienhöhe
+street: "Theresienhöhe"
 housenumber: 12
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

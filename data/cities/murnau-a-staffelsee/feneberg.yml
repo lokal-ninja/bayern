@@ -5,7 +5,7 @@ latitude: 47.675192100000004
 longitude: 11.2000648
 postcode: 
 city: Murnau a.Staffelsee
-street: Burggraben
+street: "Burggraben"
 housenumber: 49
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

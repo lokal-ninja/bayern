@@ -5,7 +5,7 @@ latitude: 48.441703200000006
 longitude: 11.113240000000001
 postcode: 86551
 city: Aichach
-street: Maxstraße
+street: "Maxstraße"
 housenumber: 2-4
 phone: "+49 8251 871706"
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-14:00"

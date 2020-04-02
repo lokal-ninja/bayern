@@ -5,7 +5,7 @@ latitude: 48.141109400000005
 longitude: 11.5616996
 postcode: 80335
 city: München
-street: Prielmayerstraße
+street: "Prielmayerstraße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

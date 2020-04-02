@@ -5,7 +5,7 @@ latitude: 48.093787400000004
 longitude: 11.5689753
 postcode: 81545
 city: München
-street: Sankt-Magnus-Straße
+street: "Sankt-Magnus-Straße"
 housenumber: 32
 phone: "+49 89 64270372"
 opening_hours: "Mo-Sa 07:00-20:00"

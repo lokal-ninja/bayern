@@ -5,7 +5,7 @@ latitude: 47.719540300000006
 longitude: 11.412336300000002
 postcode: 83673
 city: Bichl
-street: Kocheler Straße
+street: "Kocheler Straße"
 housenumber: 10
 phone: ""
 opening_hours: ""

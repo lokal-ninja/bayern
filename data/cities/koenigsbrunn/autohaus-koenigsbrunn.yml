@@ -5,7 +5,7 @@ latitude: 48.2539248
 longitude: 10.8712549
 postcode: 86343
 city: Königsbrunn
-street: Dornierstraße
+street: "Dornierstraße"
 housenumber: 10
 phone: "+49 8231 304590"
 opening_hours: ""

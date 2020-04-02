@@ -5,7 +5,7 @@ latitude: 48.370895100000006
 longitude: 10.900761000000001
 postcode: 86150
 city: Augsburg
-street: Leonhardsberg
+street: "Leonhardsberg"
 housenumber: 17
 phone: ""
 opening_hours: ""

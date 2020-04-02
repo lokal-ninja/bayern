@@ -5,7 +5,7 @@ latitude: 48.358151400000004
 longitude: 11.382001200000001
 postcode: 85229
 city: Markt Indersdorf
-street: Ludwig-Thoma-Straße
+street: "Ludwig-Thoma-Straße"
 housenumber: 32
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.4686457
 longitude: 11.0902907
 postcode: 90409
 city: Nürnberg
-street: Tellstraße
+street: "Tellstraße"
 housenumber: 16
 phone: ""
 opening_hours: "Mo 08:00-13:00;Tu 08:00-18:00;We 08:00-13:00;Th 08:00-18:00;Fr 08:00-20:00;Sa 08:00-13:00"

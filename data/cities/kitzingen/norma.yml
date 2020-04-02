@@ -5,7 +5,7 @@ latitude: 49.725928200000006
 longitude: 10.155464700000001
 postcode: 97318
 city: Kitzingen
-street: Äußere Sulzfelder Straße
+street: "Äußere Sulzfelder Straße"
 housenumber: 35
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

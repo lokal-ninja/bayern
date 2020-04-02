@@ -5,7 +5,7 @@ latitude: 49.2825019
 longitude: 11.458050400000001
 postcode: 92318
 city: Neumarkt in der Oberpfalz
-street: Mühlstraße
+street: "Mühlstraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

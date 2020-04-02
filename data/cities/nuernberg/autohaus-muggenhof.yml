@@ -5,7 +5,7 @@ latitude: 49.4592256
 longitude: 11.0384005
 postcode: 90429
 city: Nürnberg
-street: Muggenhofer Straße
+street: "Muggenhofer Straße"
 housenumber: 69
 phone: "+49 911 329999"
 opening_hours: ""

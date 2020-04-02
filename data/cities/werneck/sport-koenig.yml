@@ -5,7 +5,7 @@ latitude: 49.981846700000006
 longitude: 10.0969651
 postcode: 97440
 city: Werneck
-street: Rudolf-Diesel-Straße
+street: "Rudolf-Diesel-Straße"
 housenumber: 
 phone: "+49 9722 6120"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"

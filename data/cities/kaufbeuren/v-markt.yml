@@ -5,7 +5,7 @@ latitude: 47.874579000000004
 longitude: 10.6405721
 postcode: 87600
 city: Kaufbeuren
-street: Frankenrieder Straße
+street: "Frankenrieder Straße"
 housenumber: 20
 phone: ""
 opening_hours: ""

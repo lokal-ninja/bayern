@@ -5,7 +5,7 @@ latitude: 50.033168200000006
 longitude: 10.526000400000001
 postcode: 97437
 city: Haßfurt
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 36
 phone: ""
 opening_hours: ""

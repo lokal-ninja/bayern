@@ -5,7 +5,7 @@ latitude: 49.5795607
 longitude: 10.885674700000001
 postcode: 91074
 city: Herzogenaurach
-street: Ohmstraße
+street: "Ohmstraße"
 housenumber: 12
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00; PH off"

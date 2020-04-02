@@ -5,7 +5,7 @@ latitude: 47.734908700000005
 longitude: 10.3096232
 postcode: 87439
 city: Kempten (Allgäu)
-street: Memminger Straße
+street: "Memminger Straße"
 housenumber: 75
 phone: ""
 opening_hours: ""

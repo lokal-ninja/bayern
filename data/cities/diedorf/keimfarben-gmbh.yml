@@ -5,7 +5,7 @@ latitude: 48.361375900000006
 longitude: 10.786062900000001
 postcode: 86420
 city: Diedorf
-street: Keimstraße
+street: "Keimstraße"
 housenumber: 16
 phone: "+49 821 48020"
 opening_hours: ""

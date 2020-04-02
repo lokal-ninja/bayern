@@ -5,7 +5,7 @@ latitude: 48.764328600000006
 longitude: 11.42163
 postcode: 85049
 city: Ingolstadt
-street: Theresienstraße
+street: "Theresienstraße"
 housenumber: 29
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.128179900000006
 longitude: 11.6318546
 postcode: 81673
 city: München
-street: Kreillerstraße
+street: "Kreillerstraße"
 housenumber: 7
 phone: ""
 opening_hours: "Nov-Mar: Mo off; Apr-Oct: Mo 12:00-19:00; Tu-Fr 10:00-19:00; Sa 10:00-14:00"

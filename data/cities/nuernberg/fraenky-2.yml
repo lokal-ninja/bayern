@@ -5,7 +5,7 @@ latitude: 49.4700022
 longitude: 11.072198100000001
 postcode: 90408
 city: Nürnberg
-street: Nordring
+street: "Nordring"
 housenumber: 33
 phone: ""
 opening_hours: ""

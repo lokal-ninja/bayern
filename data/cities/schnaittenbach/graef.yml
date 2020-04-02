@@ -5,7 +5,7 @@ latitude: 49.546424900000005
 longitude: 12.001439300000001
 postcode: 92253
 city: Schnaittenbach
-street: Rosenbühlstraße
+street: "Rosenbühlstraße"
 housenumber: 16
 phone: ""
 opening_hours: "nur nach Vereinbarung"

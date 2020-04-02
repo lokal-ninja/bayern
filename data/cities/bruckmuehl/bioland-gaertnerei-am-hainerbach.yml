@@ -5,7 +5,7 @@ latitude: 47.869154900000005
 longitude: 11.900172300000001
 postcode: 83052
 city: Bruckmühl
-street: Forellenweg
+street: "Forellenweg"
 housenumber: 21
 phone: ""
 opening_hours: "Tu 09:00-13:00, Tu 14:00-18:00, Fr 09:00-13:00, Fr 14:00-18:00, Sa 09:00-13:00"

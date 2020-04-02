@@ -5,7 +5,7 @@ latitude: 48.307048800000004
 longitude: 10.157712700000001
 postcode: 89264
 city: Weißenhorn
-street: Günzburger Straße
+street: "Günzburger Straße"
 housenumber: 8
 phone: ""
 opening_hours: ""

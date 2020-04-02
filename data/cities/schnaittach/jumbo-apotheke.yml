@@ -5,7 +5,7 @@ latitude: 49.559478000000006
 longitude: 11.340683400000001
 postcode: 91220
 city: Schnaittach
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 14
 phone: "+49 9153 216"
 opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-13:30"

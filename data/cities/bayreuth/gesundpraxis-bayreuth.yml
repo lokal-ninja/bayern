@@ -5,7 +5,7 @@ latitude: 49.936590100000004
 longitude: 11.5763277
 postcode: 95444
 city: Bayreuth
-street: Wittelsbacherring
+street: "Wittelsbacherring"
 housenumber: 42
 phone: ""
 opening_hours: ""

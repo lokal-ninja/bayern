@@ -5,7 +5,7 @@ latitude: 48.0041803
 longitude: 10.166053600000001
 postcode: 87700
 city: Memmingen
-street: Fraunhoferstraße
+street: "Fraunhoferstraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

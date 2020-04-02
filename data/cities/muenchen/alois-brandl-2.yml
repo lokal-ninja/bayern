@@ -5,7 +5,7 @@ latitude: 48.168544100000005
 longitude: 11.5260669
 postcode: 80637
 city: München
-street: Baldurstraße
+street: "Baldurstraße"
 housenumber: 35
 phone: "+49 89 15 98 47 51"
 opening_hours: "Mo 08:00-18:00; Tu-Fr 08:30-18:00; Sa 09:00-15:00"

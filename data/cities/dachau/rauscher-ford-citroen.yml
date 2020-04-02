@@ -5,7 +5,7 @@ latitude: 48.2583526
 longitude: 11.474128100000001
 postcode: 85221
 city: Dachau
-street: Siemensstraße
+street: "Siemensstraße"
 housenumber: 13
 phone: ""
 opening_hours: ""

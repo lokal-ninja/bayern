@@ -5,7 +5,7 @@ latitude: 48.2531388
 longitude: 11.624763600000001
 postcode: 85748
 city: Garching bei München
-street: Dieselstraße
+street: "Dieselstraße"
 housenumber: 13
 phone: ""
 opening_hours: ""

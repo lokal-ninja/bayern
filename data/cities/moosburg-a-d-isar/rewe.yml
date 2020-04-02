@@ -5,7 +5,7 @@ latitude: 48.475991500000006
 longitude: 11.9429903
 postcode: 85368
 city: Moosburg a.d. Isar
-street: Neue Industriestraße
+street: "Neue Industriestraße"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

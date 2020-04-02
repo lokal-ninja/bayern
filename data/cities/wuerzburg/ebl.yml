@@ -5,7 +5,7 @@ latitude: 49.790844400000005
 longitude: 9.966679000000001
 postcode: 97074
 city: Würzburg
-street: Rottendorfer Straße
+street: "Rottendorfer Straße"
 housenumber: 65
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

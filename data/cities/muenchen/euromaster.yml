@@ -5,7 +5,7 @@ latitude: 48.1062195
 longitude: 11.5990418
 postcode: 81549
 city: München
-street: Aschauer Straße
+street: "Aschauer Straße"
 housenumber: 6
 phone: "+49 89 8682825"
 opening_hours: ""

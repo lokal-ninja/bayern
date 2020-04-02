@@ -5,7 +5,7 @@ latitude: 49.860885800000005
 longitude: 9.9411916
 postcode: 97222
 city: Rimpar
-street: Günterslebener Straße
+street: "Günterslebener Straße"
 housenumber: 51
 phone: "+49 09365 9549"
 opening_hours: ""

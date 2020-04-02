@@ -5,7 +5,7 @@ latitude: 48.4744006
 longitude: 12.2571536
 postcode: 84144
 city: Geisenhausen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 1
 phone: "+49 8743 91307"
 opening_hours: ""

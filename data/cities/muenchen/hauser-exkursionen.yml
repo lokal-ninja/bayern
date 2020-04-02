@@ -5,7 +5,7 @@ latitude: 48.148331500000005
 longitude: 11.459797
 postcode: 81241
 city: München
-street: Spiegelstraße
+street: "Spiegelstraße"
 housenumber: 9
 phone: "+49 89 2350060"
 opening_hours: ""

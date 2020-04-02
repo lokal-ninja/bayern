@@ -5,7 +5,7 @@ latitude: 49.40063060000001
 longitude: 11.016646600000001
 postcode: 90547
 city: Stein
-street: Schillerstraße
+street: "Schillerstraße"
 housenumber: 33-37
 phone: ""
 opening_hours: "Mo-Sa 8:00-20:00"

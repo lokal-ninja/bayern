@@ -5,7 +5,7 @@ latitude: 49.198820500000004
 longitude: 13.004065800000001
 postcode: 93474
 city: Arrach
-street: Regenhäuser Straße
+street: "Regenhäuser Straße"
 housenumber: 18
 phone: "+49 9943 905102"
 opening_hours: "Mo-Fr 07:30-20:00; Sa 07:00-19:00"

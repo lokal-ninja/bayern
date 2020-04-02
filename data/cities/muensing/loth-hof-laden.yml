@@ -5,7 +5,7 @@ latitude: 47.9040377
 longitude: 11.3759619
 postcode: 82541
 city: Münsing
-street: Biberweg
+street: "Biberweg"
 housenumber: 1
 phone: "+49 8177 8783"
 opening_hours: ""

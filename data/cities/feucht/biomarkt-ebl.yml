@@ -5,7 +5,7 @@ latitude: 49.3766983
 longitude: 11.212190900000001
 postcode: 90537
 city: Feucht
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 15-17
 phone: "+49 9128 739406"
 opening_hours: "Mo-Fr 09:00-19:00;Sa 08:00-18:00"

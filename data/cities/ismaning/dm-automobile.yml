@@ -5,7 +5,7 @@ latitude: 48.2297172
 longitude: 11.713439900000001
 postcode: 85737
 city: Ismaning
-street: Mayerbacherstraße
+street: "Mayerbacherstraße"
 housenumber: 108
 phone: ""
 opening_hours: "Mo-Fr 08:00-19:30; Sa 8:00-15:00"

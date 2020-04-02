@@ -5,7 +5,7 @@ latitude: 49.9784445
 longitude: 11.0399183
 postcode: 96110
 city: Scheßlitz
-street: Oberend
+street: "Oberend"
 housenumber: 34
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

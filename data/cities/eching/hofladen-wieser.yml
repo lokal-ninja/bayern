@@ -5,7 +5,7 @@ latitude: 48.509708100000005
 longitude: 12.079408
 postcode: 84174
 city: Eching
-street: Isarstraße
+street: "Isarstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

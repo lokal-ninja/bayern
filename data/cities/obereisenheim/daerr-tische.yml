@@ -5,7 +5,7 @@ latitude: 49.889568000000004
 longitude: 10.178865
 postcode: 97247
 city: Obereisenheim
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 10
 phone: "+49-9386-230"
 opening_hours: "Mo-Fr 07:00-18:00; Sa 09:00-14:00"

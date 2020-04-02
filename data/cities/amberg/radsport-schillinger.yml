@@ -5,7 +5,7 @@ latitude: 49.4315432
 longitude: 11.870413200000002
 postcode: 92224
 city: Amberg
-street: Drahthammerstraße
+street: "Drahthammerstraße"
 housenumber: 38a
 phone: ""
 opening_hours: ""

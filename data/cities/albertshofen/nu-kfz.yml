@@ -5,7 +5,7 @@ latitude: 49.7736749
 longitude: 10.160043100000001
 postcode: 97320
 city: Albertshofen
-street: Am Herrgottsweg
+street: "Am Herrgottsweg"
 housenumber: 6
 phone: ""
 opening_hours: ""

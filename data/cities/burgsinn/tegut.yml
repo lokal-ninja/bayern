@@ -5,7 +5,7 @@ latitude: 50.1520729
 longitude: 9.6538508
 postcode: 97775
 city: Burgsinn
-street: Birkenweg
+street: "Birkenweg"
 housenumber: 14
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

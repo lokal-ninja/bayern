@@ -5,7 +5,7 @@ latitude: 49.3960043
 longitude: 10.884251200000001
 postcode: 90574
 city: Roßtal
-street: Felsenstraße
+street: "Felsenstraße"
 housenumber: 33
 phone: "+49 9127 579495"
 opening_hours: "Tu-Fr 07:30-18:00, Sa 07:30-12:30"

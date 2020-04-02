@@ -5,7 +5,7 @@ latitude: 47.677191400000005
 longitude: 12.469464400000001
 postcode: 83242
 city: Reit im Winkl
-street: Rathausplatz
+street: "Rathausplatz"
 housenumber: 6
 phone: "+49 8640 797700"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:30"

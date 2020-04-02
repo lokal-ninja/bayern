@@ -5,7 +5,7 @@ latitude: 48.1809273
 longitude: 11.254088000000001
 postcode: 82256
 city: Fürstenfeldbruck
-street: Augsburger Straße
+street: "Augsburger Straße"
 housenumber: 7
 phone: "+49 8141 27427"
 opening_hours: "Mo-Fr 14:00-19:00"

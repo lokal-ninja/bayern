@@ -5,7 +5,7 @@ latitude: 50.05951
 longitude: 10.1804316
 postcode: 97464
 city: Niederwerrn
-street: Schweinfurter Straße
+street: "Schweinfurter Straße"
 housenumber: 74
 phone: ""
 opening_hours: ""

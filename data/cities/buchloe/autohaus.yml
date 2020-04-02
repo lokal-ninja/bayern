@@ -5,7 +5,7 @@ latitude: 48.036559200000006
 longitude: 10.7200348
 postcode: 86807
 city: Buchloe
-street: König-Rudolf-Straße
+street: "König-Rudolf-Straße"
 housenumber: 24
 phone: "+49 8241 800600"
 opening_hours: ""

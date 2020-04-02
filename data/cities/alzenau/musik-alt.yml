@@ -5,7 +5,7 @@ latitude: 50.0855905
 longitude: 9.0753874
 postcode: 63755
 city: Alzenau
-street: Märkerstraße
+street: "Märkerstraße"
 housenumber: 10
 phone: "+4960231873"
 opening_hours: ""

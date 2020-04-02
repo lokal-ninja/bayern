@@ -5,7 +5,7 @@ latitude: 50.0607163
 longitude: 10.196600400000001
 postcode: 97424
 city: Schweinfurt
-street: Alois-Türk-Straße
+street: "Alois-Türk-Straße"
 housenumber: 30
 phone: ""
 opening_hours: ""

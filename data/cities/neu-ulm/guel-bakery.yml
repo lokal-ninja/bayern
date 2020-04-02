@@ -5,7 +5,7 @@ latitude: 48.3936166
 longitude: 9.9999409
 postcode: 89231
 city: Neu-Ulm
-street: Friedenstraße
+street: "Friedenstraße"
 housenumber: 22
 phone: ""
 opening_hours: "Mo-Fr 05:30-16:30; Sa,Su 06:00-12:00; PH off"

@@ -5,7 +5,7 @@ latitude: 49.476780100000006
 longitude: 10.8667151
 postcode: 90556
 city: Cadolzburg
-street: Am Farrnbach
+street: "Am Farrnbach"
 housenumber: 8
 phone: "+49 9103 713320"
 opening_hours: "Mo-Fr 08:00-18:00;Sa 09:00-13:00"

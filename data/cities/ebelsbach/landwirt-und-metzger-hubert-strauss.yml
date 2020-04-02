@@ -5,7 +5,7 @@ latitude: 50.0010321
 longitude: 10.7456884
 postcode: 97500
 city: Ebelsbach
-street: Priegendorfer Straße
+street: "Priegendorfer Straße"
 housenumber: 2
 phone: "+49 9522 7781"
 opening_hours: "Sa 6:30-12:00"

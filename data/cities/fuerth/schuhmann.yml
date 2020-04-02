@@ -5,7 +5,7 @@ latitude: 49.4660279
 longitude: 10.991050300000001
 postcode: 90763
 city: Fürth
-street: Fichtenstraße
+street: "Fichtenstraße"
 housenumber: 62
 phone: ""
 opening_hours: "Mo-We 06:15-13:30; We-Fr 06:15-13:30, 15:30-18:00; Sa 06:30-12:00"

@@ -5,7 +5,7 @@ latitude: 47.5029726
 longitude: 10.3843349
 postcode: 87541
 city: Bad Hindelang
-street: Buchäckergasse
+street: "Buchäckergasse"
 housenumber: 5
 phone: ""
 opening_hours: "Mo, Tu, Th, Fr 07:30-12:30, 14:00-18:00; We 07:30-12:30; Sa 07:30-12:00"

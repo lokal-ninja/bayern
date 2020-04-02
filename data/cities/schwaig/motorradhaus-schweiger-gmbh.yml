@@ -5,7 +5,7 @@ latitude: 48.772606200000006
 longitude: 11.7063199
 postcode: 93333
 city: Schwaig
-street: Grasiger Weg
+street: "Grasiger Weg"
 housenumber: 20-22
 phone: "+49(0)8402 / 552"
 opening_hours: ""

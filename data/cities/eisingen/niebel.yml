@@ -5,7 +5,7 @@ latitude: 49.75955870000001
 longitude: 9.8303404
 postcode: 97249
 city: Eisingen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 46
 phone: ""
 opening_hours: ""

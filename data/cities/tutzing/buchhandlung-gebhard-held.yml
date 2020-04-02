@@ -5,7 +5,7 @@ latitude: 47.911757900000005
 longitude: 11.281353500000002
 postcode: 82327
 city: Tutzing
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 70
 phone: "+4981588388"
 opening_hours: "Mo-Fr 09:00-13:00,14:30-19:00; Sa 09:00-13:00"

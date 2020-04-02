@@ -5,7 +5,7 @@ latitude: 48.733065100000005
 longitude: 11.182415
 postcode: 86633
 city: Neuburg an der Donau
-street: Gärtnerstraße
+street: "Gärtnerstraße"
 housenumber: 102
 phone: ""
 opening_hours: ""

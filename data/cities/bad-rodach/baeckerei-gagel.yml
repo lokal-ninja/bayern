@@ -5,7 +5,7 @@ latitude: 50.3429694
 longitude: 10.7679004
 postcode: 96476
 city: Bad Rodach
-street: Schleusinger Straße
+street: "Schleusinger Straße"
 housenumber: 2
 phone: "+499564 8044466"
 opening_hours: ""

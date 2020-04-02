@@ -5,7 +5,7 @@ latitude: 47.841260600000005
 longitude: 12.2053653
 postcode: 83083
 city: Riedering
-street: Rosenheimer Straße
+street: "Rosenheimer Straße"
 housenumber: 26
 phone: "+49 8036 2355"
 opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00; Sa 08:00-13:00"

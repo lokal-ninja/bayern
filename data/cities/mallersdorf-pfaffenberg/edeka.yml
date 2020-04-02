@@ -5,7 +5,7 @@ latitude: 48.7704238
 longitude: 12.2354652
 postcode: 84066
 city: Mallersdorf-Pfaffenberg
-street: Straubinger Straße
+street: "Straubinger Straße"
 housenumber: 34
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

@@ -5,7 +5,7 @@ latitude: 48.3696051
 longitude: 10.896970900000001
 postcode: 86150
 city: Augsburg
-street: Steingasse
+street: "Steingasse"
 housenumber: 9
 phone: ""
 opening_hours: ""

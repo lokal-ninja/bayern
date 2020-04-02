@@ -5,7 +5,7 @@ latitude: 48.151742500000005
 longitude: 11.5382999
 postcode: 80636
 city: München
-street: Nymphenburger Straße
+street: "Nymphenburger Straße"
 housenumber: 134
 phone: "+49 89 45470203"
 opening_hours: ""

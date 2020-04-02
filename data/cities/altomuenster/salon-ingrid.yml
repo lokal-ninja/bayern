@@ -5,7 +5,7 @@ latitude: 48.3874044
 longitude: 11.256670600000001
 postcode: 85250
 city: Altomünster
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 8
 phone: ""
 opening_hours: "Tu,Th,Fr 09:00-18:00; Sa 08:00-13:00"

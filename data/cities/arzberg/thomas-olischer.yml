@@ -5,7 +5,7 @@ latitude: 50.055859000000005
 longitude: 12.190113400000001
 postcode: 95659
 city: Arzberg
-street: Hammerweg
+street: "Hammerweg"
 housenumber: 1
 phone: ""
 opening_hours: ""

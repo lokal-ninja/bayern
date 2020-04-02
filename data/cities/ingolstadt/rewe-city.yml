@@ -5,7 +5,7 @@ latitude: 48.767205800000006
 longitude: 11.422592700000001
 postcode: 85049
 city: Ingolstadt
-street: Harderstraße
+street: "Harderstraße"
 housenumber: 24
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

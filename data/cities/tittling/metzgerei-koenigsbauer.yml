@@ -5,7 +5,7 @@ latitude: 48.7265146
 longitude: 13.382627200000002
 postcode: 94104
 city: Tittling
-street: Passauer Straße
+street: "Passauer Straße"
 housenumber: 16
 phone: ""
 opening_hours: ""

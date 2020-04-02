@@ -5,7 +5,7 @@ latitude: 50.027362700000005
 longitude: 10.2020037
 postcode: 97424
 city: Schweinfurt
-street: Bürgergasse
+street: "Bürgergasse"
 housenumber: 
 phone: ""
 opening_hours: ""

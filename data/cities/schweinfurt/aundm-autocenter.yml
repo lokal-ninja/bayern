@@ -5,7 +5,7 @@ latitude: 50.048553600000005
 longitude: 10.208023500000001
 postcode: 97421
 city: Schweinfurt
-street: Niederwerrner Straße
+street: "Niederwerrner Straße"
 housenumber: 97
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.4719162
 longitude: 10.987455800000001
 postcode: 90762
 city: Fürth
-street: Maxstraße
+street: "Maxstraße"
 housenumber: 28
 phone: ""
 opening_hours: ""

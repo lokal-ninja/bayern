@@ -5,7 +5,7 @@ latitude: 49.77190280000001
 longitude: 9.870974700000001
 postcode: 97204
 city: Höchberg
-street: Heisenbergstraße
+street: "Heisenbergstraße"
 housenumber: 3
 phone: "+49 931 4048630"
 opening_hours: ""

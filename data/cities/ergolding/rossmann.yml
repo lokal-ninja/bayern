@@ -5,7 +5,7 @@ latitude: 48.5498841
 longitude: 12.1599532
 postcode: 84030
 city: Ergolding
-street: Alte Regensburger Straße
+street: "Alte Regensburger Straße"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off"

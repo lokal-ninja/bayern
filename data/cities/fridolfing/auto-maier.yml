@@ -5,7 +5,7 @@ latitude: 48.01174940000001
 longitude: 12.813303600000001
 postcode: 83413
 city: Fridolfing
-street: Brunn
+street: "Brunn"
 housenumber: 2
 phone: "+49 86841361"
 opening_hours: ""

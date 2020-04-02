@@ -5,7 +5,7 @@ latitude: 49.4899822
 longitude: 11.476355700000001
 postcode: 91230
 city: Happurg
-street: Höhenweg
+street: "Höhenweg"
 housenumber: 29
 phone: "+49 9151 4423"
 opening_hours: ""

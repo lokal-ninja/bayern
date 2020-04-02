@@ -5,7 +5,7 @@ latitude: 49.3298591
 longitude: 10.9919159
 postcode: 91126
 city: Schwabach
-street: Markgrafenstraße
+street: "Markgrafenstraße"
 housenumber: 17
 phone: ""
 opening_hours: ""

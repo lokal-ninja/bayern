@@ -5,7 +5,7 @@ latitude: 48.791816000000004
 longitude: 11.7619754
 postcode: 93333
 city: Neustadt a.d.Donau
-street: Zeiletwiesen
+street: "Zeiletwiesen"
 housenumber: 3
 phone: "+49 9445 970097"
 opening_hours: "Mo-Fr 08:00-12:00, 13:00-17:00"

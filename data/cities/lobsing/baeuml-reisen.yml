@@ -5,7 +5,7 @@ latitude: 48.855648900000006
 longitude: 11.686669100000001
 postcode: 85104
 city: Lobsing
-street: Am Westring
+street: "Am Westring"
 housenumber: 1
 phone: "+49 8403 92900"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.4711202
 longitude: 11.830269300000001
 postcode: 92284
 city: Poppenricht
-street: Zum Sinterbühl
+street: "Zum Sinterbühl"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

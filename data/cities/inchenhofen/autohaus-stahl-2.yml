@@ -5,7 +5,7 @@ latitude: 48.514433200000006
 longitude: 11.111624800000001
 postcode: 86570
 city: Inchenhofen
-street: Pöttmeser Straße
+street: "Pöttmeser Straße"
 housenumber: 25
 phone: "+49 8257 1205"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.1929558
 longitude: 11.4656424
 postcode: 80999
 city: München
-street: Georg-Reismüller-Straße
+street: "Georg-Reismüller-Straße"
 housenumber: 18
 phone: ""
 opening_hours: ""

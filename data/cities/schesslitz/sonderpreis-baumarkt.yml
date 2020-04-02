@@ -5,7 +5,7 @@ latitude: 49.971749100000004
 longitude: 11.026456000000001
 postcode: 96110
 city: Scheßlitz
-street: Bamberger Straße
+street: "Bamberger Straße"
 housenumber: 12
 phone: ""
 opening_hours: ""

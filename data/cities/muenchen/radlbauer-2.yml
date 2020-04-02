@@ -5,7 +5,7 @@ latitude: 48.1462051
 longitude: 11.5511075
 postcode: 80335
 city: München
-street: Marsstraße
+street: "Marsstraße"
 housenumber: 54
 phone: ""
 opening_hours: ""

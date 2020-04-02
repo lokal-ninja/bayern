@@ -5,7 +5,7 @@ latitude: 50.102549800000006
 longitude: 9.1033076
 postcode: 63755
 city: Alzenau
-street: Schloßstraße
+street: "Schloßstraße"
 housenumber: 7
 phone: ""
 opening_hours: ""

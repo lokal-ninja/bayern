@@ -5,7 +5,7 @@ latitude: 50.069948700000005
 longitude: 10.9618192
 postcode: 96250
 city: Ebensfeld
-street: Rinnigstraße
+street: "Rinnigstraße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

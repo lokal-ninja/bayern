@@ -5,7 +5,7 @@ latitude: 49.6227097
 longitude: 10.8257024
 postcode: 91085
 city: Weisendorf
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 2
 phone: "+49 9135 7355486"
 opening_hours: ""

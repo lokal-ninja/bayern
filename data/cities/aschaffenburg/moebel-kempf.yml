@@ -5,7 +5,7 @@ latitude: 49.9449927
 longitude: 9.101216200000001
 postcode: 63741
 city: Aschaffenburg
-street: Niedernberger Straße
+street: "Niedernberger Straße"
 housenumber: 8
 phone: ""
 opening_hours: ""

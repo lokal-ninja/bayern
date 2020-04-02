@@ -5,7 +5,7 @@ latitude: 49.0639319
 longitude: 12.130680100000001
 postcode: 93057
 city: Regensburg
-street: Lichtenfelser Straße
+street: "Lichtenfelser Straße"
 housenumber: 8
 phone: ""
 opening_hours: ""

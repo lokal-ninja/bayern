@@ -5,7 +5,7 @@ latitude: 50.039834000000006
 longitude: 12.0087629
 postcode: 95632
 city: Wunsiedel
-street: Egerstraße
+street: "Egerstraße"
 housenumber: 40
 phone: ""
 opening_hours: ""

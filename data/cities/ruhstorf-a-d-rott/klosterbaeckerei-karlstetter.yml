@@ -5,7 +5,7 @@ latitude: 48.435893
 longitude: 13.337297300000001
 postcode: 94099
 city: Ruhstorf a.d. Rott
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 16
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

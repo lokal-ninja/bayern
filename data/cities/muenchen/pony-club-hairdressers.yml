@@ -5,7 +5,7 @@ latitude: 48.1603913
 longitude: 11.575494500000001
 postcode: 80801
 city: München
-street: Hohenzollernstraße
+street: "Hohenzollernstraße"
 housenumber: 82
 phone: "+49 89 330 19 991"
 opening_hours: "Mo 08:00-22:00; Tu 08:00-22:00; We 08:00-22:00; Th 08:00-22:00; Fr 08:00-22:00; Sa 08:00-19:00"

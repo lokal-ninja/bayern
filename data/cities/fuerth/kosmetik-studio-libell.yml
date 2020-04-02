@@ -5,7 +5,7 @@ latitude: 49.4930691
 longitude: 10.912859200000002
 postcode: 90768
 city: Fürth
-street: Narzissenstraße
+street: "Narzissenstraße"
 housenumber: 42
 phone: ""
 opening_hours: "Nach Vereinbarung"

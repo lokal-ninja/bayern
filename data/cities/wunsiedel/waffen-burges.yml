@@ -5,7 +5,7 @@ latitude: 50.0386838
 longitude: 12.003367500000001
 postcode: 95632
 city: Wunsiedel
-street: Sigmund-Wann-Straße
+street: "Sigmund-Wann-Straße"
 housenumber: 32
 phone: ""
 opening_hours: ""

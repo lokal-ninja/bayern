@@ -5,7 +5,7 @@ latitude: 50.3203067
 longitude: 10.207424000000001
 postcode: 97616
 city: Bad Neustadt an der Saale
-street: Schweinfurter Straße
+street: "Schweinfurter Straße"
 housenumber: 28
 phone: ""
 opening_hours: ""

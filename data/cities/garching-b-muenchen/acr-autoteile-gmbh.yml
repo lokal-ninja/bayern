@@ -5,7 +5,7 @@ latitude: 48.244726
 longitude: 11.6466796
 postcode: 85748
 city: Garching b. München
-street: Münchener Straße
+street: "Münchener Straße"
 housenumber: 46
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00"

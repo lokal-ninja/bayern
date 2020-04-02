@@ -5,7 +5,7 @@ latitude: 49.0235283
 longitude: 12.164109600000002
 postcode: 93105
 city: Tegernheim
-street: Von-Heyden-Straße
+street: "Von-Heyden-Straße"
 housenumber: 1
 phone: "+49 9403 96760 0"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 47.9087017
 longitude: 10.636740000000001
 postcode: 87600
 city: Kaufbeuren
-street: Fichtenweg
+street: "Fichtenweg"
 housenumber: 5
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 50.329498
 longitude: 11.709183300000001
 postcode: 95119
 city: Naila
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 14
 phone: ""
 opening_hours: ""

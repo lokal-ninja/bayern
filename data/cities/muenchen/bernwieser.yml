@@ -5,7 +5,7 @@ latitude: 48.1343923
 longitude: 11.586053000000001
 postcode: 80538
 city: München
-street: Thierschstraße
+street: "Thierschstraße"
 housenumber: 22
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00,on appointment; Sa off"

@@ -5,7 +5,7 @@ latitude: 49.667826700000006
 longitude: 10.920801500000001
 postcode: 91341
 city: Röttenbach
-street: Klebheimer Straße
+street: "Klebheimer Straße"
 housenumber: 14
 phone: ""
 opening_hours: ""

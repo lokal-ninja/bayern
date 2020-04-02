@@ -5,7 +5,7 @@ latitude: 48.367321100000005
 longitude: 10.9161242
 postcode: 86153
 city: Augsburg
-street: Böheimstraße
+street: "Böheimstraße"
 housenumber: 6a
 phone: ""
 opening_hours: ""

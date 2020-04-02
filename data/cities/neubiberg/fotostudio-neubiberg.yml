@@ -5,7 +5,7 @@ latitude: 48.0790038
 longitude: 11.657722300000001
 postcode: 85579
 city: Neubiberg
-street: Mainstraße
+street: "Mainstraße"
 housenumber: 35
 phone: ""
 opening_hours: ""

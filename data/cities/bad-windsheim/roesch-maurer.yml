@@ -5,7 +5,7 @@ latitude: 49.4972755
 longitude: 10.4081501
 postcode: 91438
 city: Bad Windsheim
-street: Burgbernheimer Straße
+street: "Burgbernheimer Straße"
 housenumber: 2
 phone: "+49 9841 66330"
 opening_hours: "Mo-Fr 09:00-18:00 open Verkauf und Service;Sa-Su 09:00-12:00 open Verkauf und Service|| Mo-Fr 07:30-09:00 open Service; Sa-Su 08:00-09:00 open Service||Sa-Su 12:00-14:00 open Verkauf"

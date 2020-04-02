@@ -5,7 +5,7 @@ latitude: 49.7950682
 longitude: 9.8960633
 postcode: 
 city: Würzburg
-street: Frankfurter Straße
+street: "Frankfurter Straße"
 housenumber: 94
 phone: ""
 opening_hours: "Mo-Fr 09:00-20:00; Sa 08:30-20:00; Su, PH off; 2019 Nov 02-2019 Nov 15: off"

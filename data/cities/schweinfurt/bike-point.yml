@@ -5,7 +5,7 @@ latitude: 50.0282021
 longitude: 10.203628
 postcode: 97424
 city: Schweinfurt
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 7
 phone: "+49 9721 9446604"
 opening_hours: "Mo-Fr 9:30-19:00; Sa 9:30-14:00"

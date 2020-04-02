@@ -5,7 +5,7 @@ latitude: 49.7961985
 longitude: 9.9303735
 postcode: 97070
 city: Würzburg
-street: Bronnbachergasse
+street: "Bronnbachergasse"
 housenumber: 43
 phone: ""
 opening_hours: "Mo,Tu,Th,Fr 09:00-18:30; We 11:00-18:30; Sa 09:00-16:00; PH off"

@@ -5,7 +5,7 @@ latitude: 50.333540600000006
 longitude: 10.221996800000001
 postcode: 97616
 city: Bad Neustadt an der Saale
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 10
 phone: ""
 opening_hours: ""

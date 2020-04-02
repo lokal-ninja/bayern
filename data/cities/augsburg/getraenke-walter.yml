@@ -5,7 +5,7 @@ latitude: 48.376211000000005
 longitude: 10.871508500000001
 postcode: 86156
 city: Augsburg
-street: Offinger Straße
+street: "Offinger Straße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Fr 08:30-12:00,13:30-17:00, Sa 08:30-12:00"

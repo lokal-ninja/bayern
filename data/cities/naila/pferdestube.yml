@@ -5,7 +5,7 @@ latitude: 50.3277798
 longitude: 11.710708400000001
 postcode: 95119
 city: Naila
-street: Hofer Straße
+street: "Hofer Straße"
 housenumber: 10
 phone: ""
 opening_hours: ""

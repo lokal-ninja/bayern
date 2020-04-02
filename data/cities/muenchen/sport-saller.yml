@@ -5,7 +5,7 @@ latitude: 48.1351098
 longitude: 11.609603600000002
 postcode: 81675
 city: München
-street: Grillparzerstraße
+street: "Grillparzerstraße"
 housenumber: 25
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; We off; Sa 09:00-12:30"

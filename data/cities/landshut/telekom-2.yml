@@ -5,7 +5,7 @@ latitude: 48.539239800000004
 longitude: 12.156361200000001
 postcode: 84028
 city: Landshut
-street: Am Alten Viehmarkt
+street: "Am Alten Viehmarkt"
 housenumber: 5
 phone: "+49 871 43041328"
 opening_hours: "Mo-Sa 09:30-20:00"

@@ -5,7 +5,7 @@ latitude: 48.042691600000005
 longitude: 10.5053604
 postcode: 87719
 city: Mindelheim
-street: Allgäuer Straße
+street: "Allgäuer Straße"
 housenumber: 22
 phone: ""
 opening_hours: ""

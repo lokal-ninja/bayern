@@ -5,7 +5,7 @@ latitude: 49.6188172
 longitude: 12.346748000000002
 postcode: 92648
 city: Vohenstrauß
-street: Waidhauser Straße
+street: "Waidhauser Straße"
 housenumber: 26
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00; Su, PH Off"

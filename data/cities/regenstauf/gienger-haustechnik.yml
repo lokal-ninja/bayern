@@ -5,7 +5,7 @@ latitude: 49.1057203
 longitude: 12.117576000000001
 postcode: 93128
 city: Regenstauf
-street: Gutenbergstraße
+street: "Gutenbergstraße"
 housenumber: 26
 phone: "+49 9402 505-0"
 opening_hours: ""

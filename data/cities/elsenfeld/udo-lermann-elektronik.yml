@@ -5,7 +5,7 @@ latitude: 49.8516636
 longitude: 9.1637613
 postcode: 63820
 city: Elsenfeld
-street: Goethestraße
+street: "Goethestraße"
 housenumber: 42
 phone: "+49 6022 61780"
 opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00; PH off"

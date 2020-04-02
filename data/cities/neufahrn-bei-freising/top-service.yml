@@ -5,7 +5,7 @@ latitude: 48.315706500000005
 longitude: 11.6880612
 postcode: 85375
 city: Neufahrn bei Freising
-street: Neufahrner Straße
+street: "Neufahrner Straße"
 housenumber: 12
 phone: "+49 8165 7197"
 opening_hours: ""

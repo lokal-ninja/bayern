@@ -5,7 +5,7 @@ latitude: 48.833448800000006
 longitude: 12.961719200000001
 postcode: 94469
 city: Deggendorf
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 7-9;1
 phone: "+49 991 372020"
 opening_hours: "Mo-Fr 08:00-18:15; Sa 08:00-12:30"

@@ -5,7 +5,7 @@ latitude: 50.226825600000005
 longitude: 10.8048591
 postcode: 96145
 city: Seßlach
-street: Am Roten Hügel
+street: "Am Roten Hügel"
 housenumber: 9
 phone: "+49 9567 209"
 opening_hours: ""

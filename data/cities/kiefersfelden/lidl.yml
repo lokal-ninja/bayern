@@ -5,7 +5,7 @@ latitude: 47.6191824
 longitude: 12.1937349
 postcode: 83088
 city: Kiefersfelden
-street: Zubringer-Autobahn
+street: "Zubringer-Autobahn"
 housenumber: 31
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"

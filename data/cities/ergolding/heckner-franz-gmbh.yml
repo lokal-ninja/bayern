@@ -5,7 +5,7 @@ latitude: 48.562269
 longitude: 12.1659392
 postcode: 
 city: Ergolding
-street: Festplatzstraße
+street: "Festplatzstraße"
 housenumber: 8
 phone: "+49 871 71197"
 opening_hours: ""

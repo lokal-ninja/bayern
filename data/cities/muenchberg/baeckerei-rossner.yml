@@ -5,7 +5,7 @@ latitude: 50.193104000000005
 longitude: 11.7721295
 postcode: 95213
 city: Münchberg
-street: Kulmbacher Straße
+street: "Kulmbacher Straße"
 housenumber: 165
 phone: ""
 opening_hours: ""

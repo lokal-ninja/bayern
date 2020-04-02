@@ -5,7 +5,7 @@ latitude: 48.8733306
 longitude: 10.722292300000001
 postcode: 86650
 city: Wemding
-street: Nördlinger Straße
+street: "Nördlinger Straße"
 housenumber: 14
 phone: ""
 opening_hours: ""

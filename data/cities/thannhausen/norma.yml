@@ -5,7 +5,7 @@ latitude: 48.2827667
 longitude: 10.459603900000001
 postcode: 86470
 city: Thannhausen
-street: Bürgermeister-Raab-Straße
+street: "Bürgermeister-Raab-Straße"
 housenumber: 25
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

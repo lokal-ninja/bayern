@@ -5,7 +5,7 @@ latitude: 50.074749600000004
 longitude: 9.7980778
 postcode: 97783
 city: Karsbach
-street: Weyersfelder Straße
+street: "Weyersfelder Straße"
 housenumber: 3
 phone: ""
 opening_hours: ""

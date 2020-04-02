@@ -5,7 +5,7 @@ latitude: 49.857555700000006
 longitude: 9.0781763
 postcode: 63853
 city: Mömlingen
-street: Mittelstraße
+street: "Mittelstraße"
 housenumber: 7
 phone: ""
 opening_hours: ""

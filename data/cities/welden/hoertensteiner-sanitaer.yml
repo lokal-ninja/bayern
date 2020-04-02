@@ -5,7 +5,7 @@ latitude: 48.459299400000006
 longitude: 10.6618473
 postcode: 86465
 city: Welden
-street: Hofstetterstraße
+street: "Hofstetterstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

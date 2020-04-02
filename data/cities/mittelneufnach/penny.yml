@@ -5,7 +5,7 @@ latitude: 48.1815463
 longitude: 10.5961365
 postcode: 86868
 city: Mittelneufnach
-street: Zum Neufnachtal
+street: "Zum Neufnachtal"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 07:30-20:00; Su off"

@@ -5,7 +5,7 @@ latitude: 50.0582943
 longitude: 10.1970264
 postcode: 97424
 city: Schweinfurt
-street: Karl-Götz-Straße
+street: "Karl-Götz-Straße"
 housenumber: 9
 phone: "+49 9721 87153"
 opening_hours: ""

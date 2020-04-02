@@ -5,7 +5,7 @@ latitude: 48.604327500000004
 longitude: 10.726403000000001
 postcode: 86647
 city: Buttenwiesen
-street: Buttstraße
+street: "Buttstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-We 09:00-18:00; Th,Fr 09:00-19:00; Sa 09:00-16:00; PH off"

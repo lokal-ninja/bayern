@@ -5,7 +5,7 @@ latitude: 50.0791191
 longitude: 9.244774000000001
 postcode: 63825
 city: Schöllkrippen
-street: Aschaffenburger Straße
+street: "Aschaffenburger Straße"
 housenumber: 78
 phone: "+49 6024 630680"
 opening_hours: ""

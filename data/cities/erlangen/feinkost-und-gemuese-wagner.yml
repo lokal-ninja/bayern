@@ -5,7 +5,7 @@ latitude: 49.5999415
 longitude: 11.040956600000001
 postcode: 91054
 city: Erlangen
-street: Lange Zeile
+street: "Lange Zeile"
 housenumber: 79a
 phone: ""
 opening_hours: ""

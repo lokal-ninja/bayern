@@ -5,7 +5,7 @@ latitude: 49.6638724
 longitude: 10.0658606
 postcode: 97199
 city: Ochsenfurt
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 41
 phone: ""
 opening_hours: ""

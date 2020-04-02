@@ -5,7 +5,7 @@ latitude: 49.50426950000001
 longitude: 11.7382629
 postcode: 92237
 city: Sulzbach-Rosenberg
-street: Bergstraße
+street: "Bergstraße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Fr 9:00-12:00, 14:30-18:00; Sa 9:00-12:00"

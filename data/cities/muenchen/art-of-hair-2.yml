@@ -5,7 +5,7 @@ latitude: 48.1520839
 longitude: 11.5304874
 postcode: 80634
 city: München
-street: Gudrunstraße
+street: "Gudrunstraße"
 housenumber: 10
 phone: ""
 opening_hours: "Mo 13:00-19:00; Tu-Fr 09:00-19:00; Th 09:00-20:00; Sa by appointment"

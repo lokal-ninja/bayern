@@ -5,7 +5,7 @@ latitude: 49.9889153
 longitude: 9.6839794
 postcode: 97753
 city: Karlstadt
-street: Hallgartenstraße
+street: "Hallgartenstraße"
 housenumber: 12
 phone: "+49 9359 633"
 opening_hours: ""

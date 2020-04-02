@@ -5,7 +5,7 @@ latitude: 48.3943409
 longitude: 10.0191649
 postcode: 89231
 city: Neu-Ulm
-street: Borsigstraße
+street: "Borsigstraße"
 housenumber: 8
 phone: "+49 731 1760-0"
 opening_hours: "Mo-Fr 07:00-21:00; Sa 07:00-20:00"

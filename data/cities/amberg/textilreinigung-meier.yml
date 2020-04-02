@@ -5,7 +5,7 @@ latitude: 49.443460900000005
 longitude: 11.874322600000001
 postcode: 92224
 city: Amberg
-street: Dreifaltigkeitsstraße
+street: "Dreifaltigkeitsstraße"
 housenumber: 15
 phone: "+49 9621 82289"
 opening_hours: "Mo-Fr 08:00-12:00, Mo-Fr 14:00-18:00,"

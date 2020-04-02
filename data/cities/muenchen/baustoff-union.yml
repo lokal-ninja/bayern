@@ -5,7 +5,7 @@ latitude: 48.190475500000005
 longitude: 11.5438852
 postcode: 80935
 city: München
-street: Wilhelmine-Reichard-Straße
+street: "Wilhelmine-Reichard-Straße"
 housenumber: 22
 phone: "+49 89 / 1 30 66 -0"
 opening_hours: "Mo-Th 06:30-17:00; Fr 06:30-15:00"

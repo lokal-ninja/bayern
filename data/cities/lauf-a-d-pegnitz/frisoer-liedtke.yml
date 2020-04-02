@@ -5,7 +5,7 @@ latitude: 49.5109927
 longitude: 11.281049300000001
 postcode: 91207
 city: Lauf a.d.Pegnitz
-street: Burggasse
+street: "Burggasse"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"

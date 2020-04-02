@@ -5,7 +5,7 @@ latitude: 48.116255300000006
 longitude: 11.4372769
 postcode: 82166
 city: Gräfelfing
-street: Pasinger Straße
+street: "Pasinger Straße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-12:30; Su 07:30-11:00; PH off"

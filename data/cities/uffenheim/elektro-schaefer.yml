@@ -5,7 +5,7 @@ latitude: 49.5442897
 longitude: 10.230655800000001
 postcode: 97215
 city: Uffenheim
-street: Friedrich-Ebert-Straße
+street: "Friedrich-Ebert-Straße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Fr 08:30-12:30,13:30-18:00; Sa 08:30-12:00"

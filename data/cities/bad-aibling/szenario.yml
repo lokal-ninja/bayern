@@ -5,7 +5,7 @@ latitude: 47.8636817
 longitude: 12.0095077
 postcode: 83043
 city: Bad Aibling
-street: Marienplatz
+street: "Marienplatz"
 housenumber: 11
 phone: "+49 8061 4318"
 opening_hours: "Mo-Fr 10:00-13:00,14:00-18:00;Sa 10:00-13:00;PH off"

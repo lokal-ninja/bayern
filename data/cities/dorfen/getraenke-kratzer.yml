@@ -5,7 +5,7 @@ latitude: 48.267081100000006
 longitude: 12.1573325
 postcode: 84405
 city: Dorfen
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 4
 phone: "+49 8081 955805"
 opening_hours: "Mo-Sa 08:00-19:00"

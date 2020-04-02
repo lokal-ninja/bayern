@@ -5,7 +5,7 @@ latitude: 49.6742525
 longitude: 10.711728200000001
 postcode: 91486
 city: Uehlfeld
-street: An der Rosengasse
+street: "An der Rosengasse"
 housenumber: 18
 phone: ""
 opening_hours: ""

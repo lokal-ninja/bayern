@@ -5,7 +5,7 @@ latitude: 50.0071492
 longitude: 10.597796800000001
 postcode: 97475
 city: Zeil am Main
-street: Bamberger Straße
+street: "Bamberger Straße"
 housenumber: 30
 phone: ""
 opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-14:00"

@@ -5,7 +5,7 @@ latitude: 48.5456446
 longitude: 10.853755900000001
 postcode: 86405
 city: Meitingen
-street: Römerstraße
+street: "Römerstraße"
 housenumber: 6
 phone: "+49 171 3343612"
 opening_hours: "We-Fr 14:30-18:00; Sa 10:00-13:00"

@@ -5,7 +5,7 @@ latitude: 48.833478400000004
 longitude: 12.9602996
 postcode: 94469
 city: Deggendorf
-street: Westliche Zwingergasse
+street: "Westliche Zwingergasse"
 housenumber: 7
 phone: "+49 991 6180"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.007097
 longitude: 12.061861500000001
 postcode: 93051
 city: Regensburg
-street: Doktor-Gessler-Straße
+street: "Doktor-Gessler-Straße"
 housenumber: 45
 phone: "+49 941 9 50 80"
 opening_hours: "Mo-Sa 9:00-20:00"

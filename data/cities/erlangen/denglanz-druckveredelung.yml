@@ -5,7 +5,7 @@ latitude: 49.5538365
 longitude: 11.0000558
 postcode: 91058
 city: Erlangen
-street: Weinstraße
+street: "Weinstraße"
 housenumber: 27
 phone: "+49 9131 7508560"
 opening_hours: "Mo-Fr 07:30-16:30"

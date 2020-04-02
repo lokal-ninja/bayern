@@ -5,7 +5,7 @@ latitude: 49.6150814
 longitude: 10.631208800000001
 postcode: 91468
 city: Gutenstetten
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

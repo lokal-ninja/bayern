@@ -5,7 +5,7 @@ latitude: 50.262103800000006
 longitude: 10.9602196
 postcode: 96450
 city: Coburg
-street: Mohrenstraße
+street: "Mohrenstraße"
 housenumber: 8
 phone: ""
 opening_hours: "Tu-Th 09:00-19:00; Fr 09:00-20:00; Sa 08:00-16:00"

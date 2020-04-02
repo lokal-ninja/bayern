@@ -5,7 +5,7 @@ latitude: 48.0645788
 longitude: 11.6494327
 postcode: 85521
 city: Ottobrunn
-street: Siemensstraße
+street: "Siemensstraße"
 housenumber: 24
 phone: ""
 opening_hours: ""

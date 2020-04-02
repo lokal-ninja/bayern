@@ -5,7 +5,7 @@ latitude: 48.3565413
 longitude: 10.1528758
 postcode: 89284
 city: Pfaffenhofen a.d.Roth
-street: Rudolf-Diesel-Straße
+street: "Rudolf-Diesel-Straße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Th 13:00-18:00, Mo-Fr 07:30-12:15, Fr 13:00-17:00; Sa 09:00-13:00"

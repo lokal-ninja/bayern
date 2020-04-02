@@ -5,7 +5,7 @@ latitude: 48.1758687
 longitude: 11.255606400000001
 postcode: 82256
 city: Fürstenfeldbruck
-street: Fürstenfelder Straße
+street: "Fürstenfelder Straße"
 housenumber: 4
 phone: "+49 8105 7777205"
 opening_hours: ""

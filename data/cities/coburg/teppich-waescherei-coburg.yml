@@ -5,7 +5,7 @@ latitude: 50.263952100000004
 longitude: 10.9647903
 postcode: 96450
 city: Coburg
-street: Hintere Kreuzgasse
+street: "Hintere Kreuzgasse"
 housenumber: 1
 phone: "+49 9221 9660086"
 opening_hours: "nach Vereinbarung"

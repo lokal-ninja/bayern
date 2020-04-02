@@ -5,7 +5,7 @@ latitude: 49.596867800000005
 longitude: 11.005767200000001
 postcode: 91054
 city: Erlangen
-street: Universitätsstraße
+street: "Universitätsstraße"
 housenumber: 9
 phone: "+49 9131 6302939"
 opening_hours: "Mo-Sa 09:00-20:00"

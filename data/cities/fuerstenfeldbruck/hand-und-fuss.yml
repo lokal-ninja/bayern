@@ -5,7 +5,7 @@ latitude: 48.1760103
 longitude: 11.2571358
 postcode: 82256
 city: Fürstenfeldbruck
-street: Münchner Straße
+street: "Münchner Straße"
 housenumber: 4
 phone: "+49 8141 5302080"
 opening_hours: "Mo,We-Fr 09:00-12:00, Mo-Fr 14:00-17:00"

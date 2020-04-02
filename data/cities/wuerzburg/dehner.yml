@@ -5,7 +5,7 @@ latitude: 49.794871
 longitude: 9.8974539
 postcode: 97082
 city: Würzburg
-street: Frankfurter Straße
+street: "Frankfurter Straße"
 housenumber: 92a
 phone: "+49 931 4501730"
 opening_hours: "Jul-Feb Mo-Fr 09:00-19:00, Jul-Feb Sa 08:30-18:00; Mar-Jun Mo-Fr 09:00-20:00, Mar-Jun Sa 08:30-20:00"

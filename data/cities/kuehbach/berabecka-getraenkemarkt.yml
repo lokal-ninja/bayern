@@ -5,7 +5,7 @@ latitude: 48.5302373
 longitude: 11.172996900000001
 postcode: 86556
 city: Kühbach
-street: Mühlenstraße
+street: "Mühlenstraße"
 housenumber: 6
 phone: "+49 171 6189311"
 opening_hours: ""

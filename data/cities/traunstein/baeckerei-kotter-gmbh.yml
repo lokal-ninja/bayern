@@ -5,7 +5,7 @@ latitude: 47.8560134
 longitude: 12.626035600000002
 postcode: 83278
 city: Traunstein
-street: Falkensteinstraße
+street: "Falkensteinstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

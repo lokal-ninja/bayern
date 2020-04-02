@@ -5,7 +5,7 @@ latitude: 48.5393556
 longitude: 10.9954932
 postcode: 86574
 city: Petersdorf
-street: Brunnenstraße
+street: "Brunnenstraße"
 housenumber: 10
 phone: ""
 opening_hours: "Th-Sa"

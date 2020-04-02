@@ -5,7 +5,7 @@ latitude: 48.456759500000004
 longitude: 10.659188100000001
 postcode: 86465
 city: Welden
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

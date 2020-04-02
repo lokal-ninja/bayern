@@ -5,7 +5,7 @@ latitude: 49.640669900000006
 longitude: 10.5937952
 postcode: 91481
 city: Münchsteinach
-street: Steigerwaldstraße
+street: "Steigerwaldstraße"
 housenumber: 28
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"

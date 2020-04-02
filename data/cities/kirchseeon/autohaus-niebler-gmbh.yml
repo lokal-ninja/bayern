@@ -5,7 +5,7 @@ latitude: 48.0840668
 longitude: 11.852830800000001
 postcode: 85614
 city: Kirchseeon
-street: Siriusstraße
+street: "Siriusstraße"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Fr 07:00-12:00,13:00-18:00, Sa 09:00-13:00"

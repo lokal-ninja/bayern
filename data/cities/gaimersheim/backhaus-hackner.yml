@@ -5,7 +5,7 @@ latitude: 48.808703
 longitude: 11.370449800000001
 postcode: 85080
 city: Gaimersheim
-street: Obere Marktstraße
+street: "Obere Marktstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-13:00; Su 07:00-17:00; PH closed"

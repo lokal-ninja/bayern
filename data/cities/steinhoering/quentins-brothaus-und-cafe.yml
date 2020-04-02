@@ -5,7 +5,7 @@ latitude: 48.086830000000006
 longitude: 12.031034100000001
 postcode: 85643
 city: Steinhöring
-street: Münchener Straße
+street: "Münchener Straße"
 housenumber: 26
 phone: ""
 opening_hours: "Mo-Fr 05:30-18:00, Sa 05:30-12:00, Su 07:30-11:00"

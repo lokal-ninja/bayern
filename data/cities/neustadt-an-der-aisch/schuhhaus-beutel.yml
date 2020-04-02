@@ -5,7 +5,7 @@ latitude: 49.578935900000005
 longitude: 10.605730000000001
 postcode: 91413
 city: Neustadt an der Aisch
-street: Wilhelmstraße
+street: "Wilhelmstraße"
 housenumber: 28
 phone: ""
 opening_hours: ""

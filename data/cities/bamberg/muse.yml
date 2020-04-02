@@ -5,7 +5,7 @@ latitude: 49.8918672
 longitude: 10.8877605
 postcode: 96047
 city: Bamberg
-street: Obere Brücke
+street: "Obere Brücke"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Th 10:00-18:00; Fr-Sa 10:00-19:00"

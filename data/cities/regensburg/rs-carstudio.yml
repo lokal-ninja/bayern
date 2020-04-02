@@ -5,7 +5,7 @@ latitude: 49.037658
 longitude: 12.134715100000001
 postcode: 
 city: Regensburg
-street: Grünthaler Straße
+street: "Grünthaler Straße"
 housenumber: 4
 phone: ""
 opening_hours: ""

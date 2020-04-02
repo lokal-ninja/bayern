@@ -5,7 +5,7 @@ latitude: 48.0315789
 longitude: 10.7303692
 postcode: 86807
 city: Buchloe
-street: Alpenstraße
+street: "Alpenstraße"
 housenumber: 37
 phone: ""
 opening_hours: ""

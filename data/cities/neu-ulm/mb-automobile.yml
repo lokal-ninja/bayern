@@ -5,7 +5,7 @@ latitude: 48.3845905
 longitude: 10.029766
 postcode: 89231
 city: Neu-Ulm
-street: Lise-Meitner-Ring
+street: "Lise-Meitner-Ring"
 housenumber: 2
 phone: "+49 171 5404296"
 opening_hours: ""

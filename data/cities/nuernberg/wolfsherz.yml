@@ -5,7 +5,7 @@ latitude: 49.4516604
 longitude: 11.054801600000001
 postcode: 90429
 city: Nürnberg
-street: Willstraße
+street: "Willstraße"
 housenumber: 1
 phone: ""
 opening_hours: "Th-Fr 14:00-20:00; Sa 12:00-18:00"

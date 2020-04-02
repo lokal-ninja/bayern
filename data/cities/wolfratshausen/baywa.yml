@@ -5,7 +5,7 @@ latitude: 47.9044259
 longitude: 11.4271326
 postcode: 82515
 city: Wolfratshausen
-street: Pfaffenrieder Straße
+street: "Pfaffenrieder Straße"
 housenumber: 8
 phone: "+49 8171 2191-0"
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"

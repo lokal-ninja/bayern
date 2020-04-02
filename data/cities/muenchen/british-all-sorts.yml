@@ -5,7 +5,7 @@ latitude: 48.119613300000005
 longitude: 11.608423100000001
 postcode: 81671
 city: München
-street: Rosenheimer Straße
+street: "Rosenheimer Straße"
 housenumber: 161
 phone: ""
 opening_hours: ""

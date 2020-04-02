@@ -5,7 +5,7 @@ latitude: 49.704169900000004
 longitude: 9.237640500000001
 postcode: 63897
 city: Miltenberg
-street: Mainzer Straße
+street: "Mainzer Straße"
 housenumber: 40
 phone: "+49 9371 6680475"
 opening_hours: "Mo-Sa 08:00-20:00; PH off"

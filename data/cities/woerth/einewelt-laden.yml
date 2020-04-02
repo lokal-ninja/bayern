@@ -5,7 +5,7 @@ latitude: 48.244830500000006
 longitude: 11.9024192
 postcode: 85457
 city: Wörth
-street: Pfarrer-Ostermayr-Straße
+street: "Pfarrer-Ostermayr-Straße"
 housenumber: 4
 phone: "+49 8122 2276389"
 opening_hours: "Fr 16:00-17:00; Su 10:30-12:00"

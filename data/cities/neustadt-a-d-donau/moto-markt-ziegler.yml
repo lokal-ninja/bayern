@@ -5,7 +5,7 @@ latitude: 48.781966600000004
 longitude: 11.767021000000002
 postcode: 93333
 city: Neustadt a.d.Donau
-street: Raffineriestraße
+street: "Raffineriestraße"
 housenumber: 101
 phone: "+49 9445 97140"
 opening_hours: ""

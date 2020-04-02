@@ -5,7 +5,7 @@ latitude: 49.045326100000004
 longitude: 11.349984200000002
 postcode: 91171
 city: Greding
-street: Hausener Straße
+street: "Hausener Straße"
 housenumber: 2
 phone: "+4984636029945"
 opening_hours: "Mo-Sa 08:00-20:00"

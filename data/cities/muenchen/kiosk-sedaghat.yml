@@ -5,7 +5,7 @@ latitude: 48.1122728
 longitude: 11.502736800000001
 postcode: 81377
 city: München
-street: Waldfriedhofstraße
+street: "Waldfriedhofstraße"
 housenumber: 200
 phone: ""
 opening_hours: ""

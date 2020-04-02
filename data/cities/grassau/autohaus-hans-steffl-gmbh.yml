@@ -5,7 +5,7 @@ latitude: 47.778752000000004
 longitude: 12.45146
 postcode: 83224
 city: Grassau
-street: Ortenburger Straße
+street: "Ortenburger Straße"
 housenumber: 6
 phone: ""
 opening_hours: ""

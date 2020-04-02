@@ -5,7 +5,7 @@ latitude: 48.563171000000004
 longitude: 13.417572700000001
 postcode: 94036
 city: Passau
-street: Königsberger Straße
+street: "Königsberger Straße"
 housenumber: 6
 phone: ""
 opening_hours: ""

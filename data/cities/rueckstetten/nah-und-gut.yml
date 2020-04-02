@@ -5,7 +5,7 @@ latitude: 47.873123
 longitude: 12.780887900000002
 postcode: 83317
 city: Rückstetten
-street: Raiffeisenstraße
+street: "Raiffeisenstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

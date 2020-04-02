@@ -5,7 +5,7 @@ latitude: 48.3505795
 longitude: 10.8482664
 postcode: 86391
 city: Stadtbergen
-street: Augsburger Straße
+street: "Augsburger Straße"
 housenumber: 19
 phone: "+49 821 432001"
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"

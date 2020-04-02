@@ -5,7 +5,7 @@ latitude: 49.675531500000005
 longitude: 12.1602589
 postcode: 92637
 city: Weiden i.d.OPf.
-street: Sedanstraße
+street: "Sedanstraße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Fr 08:30-19:00; Sa 08:30-18:00"

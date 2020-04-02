@@ -5,7 +5,7 @@ latitude: 48.0748771
 longitude: 11.9663292
 postcode: 85560
 city: Ebersberg
-street: Dr.-Wintrich-Straße
+street: "Dr.-Wintrich-Straße"
 housenumber: 3
 phone: ""
 opening_hours: ""

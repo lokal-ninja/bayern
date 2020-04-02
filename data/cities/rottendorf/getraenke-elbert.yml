@@ -5,7 +5,7 @@ latitude: 49.7937905
 longitude: 10.023041500000001
 postcode: 97228
 city: Rottendorf
-street: Untertorstraße
+street: "Untertorstraße"
 housenumber: 2
 phone: "+49 9302 9889895"
 opening_hours: "Mo-Fr 09:00-12:00,14:00-18:00; Sa 08:00-13:00"

@@ -5,7 +5,7 @@ latitude: 48.4736926
 longitude: 12.257107900000001
 postcode: 84144
 city: Geisenhausen
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 12
 phone: "+49 8743 969401"
 opening_hours: ""

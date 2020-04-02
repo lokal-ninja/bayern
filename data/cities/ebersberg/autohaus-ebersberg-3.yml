@@ -5,7 +5,7 @@ latitude: 48.096348000000006
 longitude: 11.9645869
 postcode: 85560
 city: Ebersberg
-street: Gewerbepark Nord-Ost
+street: "Gewerbepark Nord-Ost"
 housenumber: 1
 phone: "+49-8092-8291-60"
 opening_hours: ""

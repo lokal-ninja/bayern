@@ -5,7 +5,7 @@ latitude: 49.7915033
 longitude: 10.0262346
 postcode: 97228
 city: Rottendorf
-street: Am Rathaus
+street: "Am Rathaus"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 10:00-17:00"

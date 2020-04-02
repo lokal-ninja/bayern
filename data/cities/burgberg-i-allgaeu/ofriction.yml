@@ -5,7 +5,7 @@ latitude: 47.5375315
 longitude: 10.285496400000001
 postcode: 87545
 city: Burgberg i.Allgäu
-street: Sonthofener Straße
+street: "Sonthofener Straße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Fr 08:00-17:00"

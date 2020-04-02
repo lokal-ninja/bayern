@@ -5,7 +5,7 @@ latitude: 49.671371
 longitude: 10.1434826
 postcode: 
 city: Segnitz
-street: Hans-Kesenbrod-Straße
+street: "Hans-Kesenbrod-Straße"
 housenumber: 22
 phone: "+4993329996"
 opening_hours: ""

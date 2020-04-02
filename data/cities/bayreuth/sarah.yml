@@ -5,7 +5,7 @@ latitude: 49.9475896
 longitude: 11.5780796
 postcode: 95444
 city: Bayreuth
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

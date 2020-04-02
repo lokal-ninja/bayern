@@ -5,7 +5,7 @@ latitude: 47.574690000000004
 longitude: 9.6580445
 postcode: 88131
 city: Bodolz
-street: Grundstraße
+street: "Grundstraße"
 housenumber: 29
 phone: ""
 opening_hours: ""

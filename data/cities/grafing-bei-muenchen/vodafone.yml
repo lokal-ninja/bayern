@@ -5,7 +5,7 @@ latitude: 48.0448029
 longitude: 11.965446100000001
 postcode: 85567
 city: Grafing bei München
-street: Am Urtelbach
+street: "Am Urtelbach"
 housenumber: 2
 phone: "+49 8092 857801"
 opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-14:00; PH off"

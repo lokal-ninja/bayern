@@ -5,7 +5,7 @@ latitude: 48.7643174
 longitude: 11.424741500000001
 postcode: 85049
 city: Ingolstadt
-street: Ludwigstraße
+street: "Ludwigstraße"
 housenumber: 3
 phone: ""
 opening_hours: ""

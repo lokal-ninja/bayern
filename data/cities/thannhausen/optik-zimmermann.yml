@@ -5,7 +5,7 @@ latitude: 48.282604600000006
 longitude: 10.470175300000001
 postcode: 86470
 city: Thannhausen
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 2
 phone: "+49 8281 3021"
 opening_hours: "Mo-Tu 08:30-12:15,14:00-18:00; We 08:30-12:15; Th-Fr 08:30-12:15,14:00-18:00; Sa 09:00-12:00"

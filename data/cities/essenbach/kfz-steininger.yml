@@ -5,7 +5,7 @@ latitude: 48.609684400000006
 longitude: 12.224021400000002
 postcode: 84051
 city: Essenbach
-street: Moosfeldstraße
+street: "Moosfeldstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

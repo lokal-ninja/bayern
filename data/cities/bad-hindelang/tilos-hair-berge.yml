@@ -5,7 +5,7 @@ latitude: 47.5150653
 longitude: 10.4049852
 postcode: 87541
 city: Bad Hindelang
-street: Paßstraße
+street: "Paßstraße"
 housenumber: 16
 phone: ""
 opening_hours: ""

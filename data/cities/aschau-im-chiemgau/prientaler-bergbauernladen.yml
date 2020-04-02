@@ -5,7 +5,7 @@ latitude: 47.7789542
 longitude: 12.324868500000001
 postcode: 83229
 city: Aschau im Chiemgau
-street: Hans-Clarin-Platz
+street: "Hans-Clarin-Platz"
 housenumber: 5
 phone: "+49 8052 958917"
 opening_hours: ""

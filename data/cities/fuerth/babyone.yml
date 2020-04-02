@@ -5,7 +5,7 @@ latitude: 49.4955152
 longitude: 11.0014024
 postcode: 90765
 city: Fürth
-street: Fritz-Gastreich-Straße
+street: "Fritz-Gastreich-Straße"
 housenumber: 3
 phone: "+49 911 9719090"
 opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"

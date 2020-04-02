@@ -5,7 +5,7 @@ latitude: 50.1367204
 longitude: 11.061459600000001
 postcode: 96215
 city: Lichtenfels
-street: Grünewaldstraße
+street: "Grünewaldstraße"
 housenumber: 1
 phone: ""
 opening_hours: "24/7"

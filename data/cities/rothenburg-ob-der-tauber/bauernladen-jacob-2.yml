@@ -5,7 +5,7 @@ latitude: 49.377666700000006
 longitude: 10.190519400000001
 postcode: 91541
 city: Rothenburg ob der Tauber
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 15
 phone: "+49-9861-8736853"
 opening_hours: "Mo-Sa 07:00-20:00; Su off"

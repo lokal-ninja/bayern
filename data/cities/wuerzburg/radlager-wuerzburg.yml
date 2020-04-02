@@ -5,7 +5,7 @@ latitude: 49.8015387
 longitude: 9.897307900000001
 postcode: 97080
 city: Würzburg
-street: Veitshöchheimer Straße
+street: "Veitshöchheimer Straße"
 housenumber: 7c
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 50.096416100000006
 longitude: 11.002601400000001
 postcode: 96231
 city: Bad Staffelstein
-street: Horsdorfer Straße
+street: "Horsdorfer Straße"
 housenumber: 52
 phone: "+49 9573 5142"
 opening_hours: ""

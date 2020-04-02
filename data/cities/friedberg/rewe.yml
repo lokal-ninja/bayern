@@ -5,7 +5,7 @@ latitude: 48.356858200000005
 longitude: 10.974385900000001
 postcode: 86316
 city: Friedberg
-street: Augsburger Straße
+street: "Augsburger Straße"
 housenumber: 12
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

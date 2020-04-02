@@ -5,7 +5,7 @@ latitude: 47.8806402
 longitude: 11.702349600000002
 postcode: 83607
 city: Holzkirchen
-street: Lechlweg
+street: "Lechlweg"
 housenumber: 1
 phone: ""
 opening_hours: ""

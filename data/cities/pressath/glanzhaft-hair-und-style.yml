@@ -5,7 +5,7 @@ latitude: 49.7679084
 longitude: 11.932322600000001
 postcode: 92690
 city: Pressath
-street: Grafenwöhrer Straße
+street: "Grafenwöhrer Straße"
 housenumber: 3
 phone: "+49 9644 - 91 88 0 66"
 opening_hours: "Mo 08:00-18:00, Tu,Th,Fr 08:00-18:00, We 08:00-19:00, Sa 08:00-12:00"

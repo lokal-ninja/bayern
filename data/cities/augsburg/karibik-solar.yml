@@ -5,7 +5,7 @@ latitude: 48.370572700000004
 longitude: 10.895871000000001
 postcode: 86152
 city: Augsburg
-street: Obstmarkt
+street: "Obstmarkt"
 housenumber: 11
 phone: "+49 821 50877668"
 opening_hours: "09:00-23:00"

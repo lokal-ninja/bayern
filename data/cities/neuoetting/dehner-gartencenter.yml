@@ -5,7 +5,7 @@ latitude: 48.243900000000004
 longitude: 12.707282000000001
 postcode: 84524
 city: Neuötting
-street: Zunftstraße
+street: "Zunftstraße"
 housenumber: 3
 phone: "+49 8671 97690"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su off; PH off"

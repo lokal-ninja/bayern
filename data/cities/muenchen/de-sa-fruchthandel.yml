@@ -5,7 +5,7 @@ latitude: 48.120307100000005
 longitude: 11.5505992
 postcode: 81371
 city: München
-street: Oberländerstraße
+street: "Oberländerstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Sa 07:00-18:00"

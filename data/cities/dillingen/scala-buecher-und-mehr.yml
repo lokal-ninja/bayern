@@ -5,7 +5,7 @@ latitude: 48.578591100000004
 longitude: 10.495628700000001
 postcode: 89407
 city: Dillingen
-street: Kapuzinerstraße
+street: "Kapuzinerstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

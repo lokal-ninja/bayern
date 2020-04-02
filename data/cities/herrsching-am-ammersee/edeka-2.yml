@@ -5,7 +5,7 @@ latitude: 47.9963421
 longitude: 11.1748533
 postcode: 82211
 city: Herrsching am Ammersee
-street: Seestraße
+street: "Seestraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00;PH,Su closed"

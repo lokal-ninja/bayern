@@ -5,7 +5,7 @@ latitude: 49.8037902
 longitude: 9.995744400000001
 postcode: 97076
 city: Würzburg
-street: Friedrich-Bergius-Ring
+street: "Friedrich-Bergius-Ring"
 housenumber: 11
 phone: ""
 opening_hours: ""

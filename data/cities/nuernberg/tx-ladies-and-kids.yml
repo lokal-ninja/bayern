@@ -5,7 +5,7 @@ latitude: 49.447864200000005
 longitude: 11.0783395
 postcode: 90402
 city: Nürnberg
-street: Vordere Sterngasse
+street: "Vordere Sterngasse"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Th 10:00-19:00; Fr,Sa 10:00-19:30"

@@ -5,7 +5,7 @@ latitude: 49.0132582
 longitude: 12.1312277
 postcode: 93055
 city: Regensburg
-street: Straubinger Straße
+street: "Straubinger Straße"
 housenumber: 53
 phone: "+49 941 6909900"
 opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00"

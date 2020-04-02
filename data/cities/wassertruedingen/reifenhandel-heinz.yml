@@ -5,7 +5,7 @@ latitude: 49.0422148
 longitude: 10.5948618
 postcode: 91717
 city: Wassertrüdingen
-street: Wiesenstraße
+street: "Wiesenstraße"
 housenumber: 1
 phone: "+4998 3273 22"
 opening_hours: ""

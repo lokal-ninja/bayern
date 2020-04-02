@@ -5,7 +5,7 @@ latitude: 49.72250390000001
 longitude: 11.0595955
 postcode: 91301
 city: Forchheim
-street: Bamberger Straße
+street: "Bamberger Straße"
 housenumber: 24
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.763136300000006
 longitude: 11.4207278
 postcode: 85049
 city: Ingolstadt
-street: Griesmühlstraße
+street: "Griesmühlstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

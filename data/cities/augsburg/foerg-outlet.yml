@@ -5,7 +5,7 @@ latitude: 48.363828000000005
 longitude: 10.926882
 postcode: 86153
 city: Augsburg
-street: Proviantbachstraße
+street: "Proviantbachstraße"
 housenumber: 30
 phone: ""
 opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-19:00; PH off"

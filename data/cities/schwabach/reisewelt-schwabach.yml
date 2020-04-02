@@ -5,7 +5,7 @@ latitude: 49.3277955
 longitude: 11.0216176
 postcode: 91126
 city: Schwabach
-street: Rathausgasse
+street: "Rathausgasse"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Fr 09:30-18:00, Sa 09:30-12:30"

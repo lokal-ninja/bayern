@@ -5,7 +5,7 @@ latitude: 49.484917900000006
 longitude: 11.0595733
 postcode: 90427
 city: Nürnberg
-street: Erlanger Straße
+street: "Erlanger Straße"
 housenumber: 150
 phone: ""
 opening_hours: ""

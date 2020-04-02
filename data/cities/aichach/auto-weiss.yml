@@ -5,7 +5,7 @@ latitude: 48.4445167
 longitude: 11.139576900000002
 postcode: 86551
 city: Aichach
-street: Werner-von-Siemens-Straße
+street: "Werner-von-Siemens-Straße"
 housenumber: 2
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.3732345
 longitude: 10.892516
 postcode: 86152
 city: Augsburg
-street: Alte Gasse
+street: "Alte Gasse"
 housenumber: 11
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.508073700000004
 longitude: 11.287124500000001
 postcode: 91207
 city: Lauf an der Pegnitz
-street: Weigmannstraße
+street: "Weigmannstraße"
 housenumber: 35
 phone: ""
 opening_hours: ""

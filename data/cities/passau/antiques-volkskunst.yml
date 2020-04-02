@@ -5,7 +5,7 @@ latitude: 48.5728688
 longitude: 13.4619672
 postcode: 
 city: Passau
-street: Oberer Sand
+street: "Oberer Sand"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00"

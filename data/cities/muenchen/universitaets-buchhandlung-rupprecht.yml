@@ -5,7 +5,7 @@ latitude: 48.151048700000004
 longitude: 11.5786884
 postcode: 
 city: München
-street: Amalienstraße
+street: "Amalienstraße"
 housenumber: 
 phone: ""
 opening_hours: ""

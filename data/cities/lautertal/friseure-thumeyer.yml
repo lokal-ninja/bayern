@@ -5,7 +5,7 @@ latitude: 50.3002617
 longitude: 10.9777465
 postcode: 96486
 city: Lautertal
-street: Coburger Straße
+street: "Coburger Straße"
 housenumber: 7
 phone: "+49 (9561) 60616"
 opening_hours: "Tu-Fr 08:00-18:00, Sa 08:00-13:00"

@@ -5,7 +5,7 @@ latitude: 48.3201723
 longitude: 11.7470488
 postcode: 85399
 city: Hallbergmoos
-street: Theresienstraße
+street: "Theresienstraße"
 housenumber: 57
 phone: "+49 811 55280"
 opening_hours: "Mo-Sa 08:00-18:00, Su off"

@@ -5,7 +5,7 @@ latitude: 49.469763900000004
 longitude: 11.100902900000001
 postcode: 90491
 city: Nürnberg
-street: Äußere Bayreuther Straße
+street: "Äußere Bayreuther Straße"
 housenumber: 80
 phone: ""
 opening_hours: "Mo-Sa 09:30-20:00"

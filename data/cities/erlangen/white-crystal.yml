@@ -5,7 +5,7 @@ latitude: 49.598002
 longitude: 11.002678900000001
 postcode: 91054
 city: Erlangen
-street: Paulistraße
+street: "Paulistraße"
 housenumber: 4
 phone: "+49 9131 4000938"
 opening_hours: "Mo-Fr 13:00-19:00; Sa 12:00-16:00"

@@ -5,7 +5,7 @@ latitude: 50.258549
 longitude: 10.9634744
 postcode: 96450
 city: Coburg
-street: Judengasse
+street: "Judengasse"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Fr 08:30-18:00; Sa 08:00-14:00"

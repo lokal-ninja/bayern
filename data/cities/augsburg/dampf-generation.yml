@@ -5,7 +5,7 @@ latitude: 48.3670411
 longitude: 10.8969065
 postcode: 86150
 city: Augsburg
-street: Bürgermeister-Fischer-Straße
+street: "Bürgermeister-Fischer-Straße"
 housenumber: 2
 phone: "+49 821 44 97 77 39"
 opening_hours: "Mo-Sa 09:00-10:00; Su off"

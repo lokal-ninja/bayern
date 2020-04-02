@@ -5,7 +5,7 @@ latitude: 48.743533500000005
 longitude: 11.4318404
 postcode: 
 city: Ingolstadt
-street: Am Pulverl
+street: "Am Pulverl"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

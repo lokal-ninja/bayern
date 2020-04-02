@@ -5,7 +5,7 @@ latitude: 48.152398000000005
 longitude: 11.531205900000002
 postcode: 80634
 city: München
-street: Wendl-Dietrich-Straße
+street: "Wendl-Dietrich-Straße"
 housenumber: 7
 phone: "+49 89 13 93 75 88"
 opening_hours: "Mo-Fr 06:00-19:00; Sa 06:00-16:00; Su 07:00-12:00"

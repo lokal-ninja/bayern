@@ -5,7 +5,7 @@ latitude: 49.441454300000004
 longitude: 10.363308400000001
 postcode: 91613
 city: Marktbergel
-street: Kirchstraße
+street: "Kirchstraße"
 housenumber: 3
 phone: ""
 opening_hours: ""

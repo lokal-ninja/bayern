@@ -5,7 +5,7 @@ latitude: 48.6525861
 longitude: 13.6161296
 postcode: 
 city: Hauzenberg - Fürsetzing
-street: Steinbergstraße
+street: "Steinbergstraße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

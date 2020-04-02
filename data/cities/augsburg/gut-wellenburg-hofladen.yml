@@ -5,7 +5,7 @@ latitude: 48.334797900000005
 longitude: 10.826742600000001
 postcode: 86199
 city: Augsburg
-street: Wellenburg
+street: "Wellenburg"
 housenumber: 6
 phone: ""
 opening_hours: ""

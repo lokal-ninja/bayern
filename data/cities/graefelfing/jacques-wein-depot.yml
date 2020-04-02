@@ -5,7 +5,7 @@ latitude: 48.1237452
 longitude: 11.442457000000001
 postcode: 82166
 city: Gräfelfing
-street: Würmstraße
+street: "Würmstraße"
 housenumber: 53a
 phone: "+49 89 85 31 88"
 opening_hours: "Mo-Th 15:00-19:00; Fr 13:00-20:00; Sa 10:00-15:00; PH off"

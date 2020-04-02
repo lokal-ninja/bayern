@@ -5,7 +5,7 @@ latitude: 47.564280600000004
 longitude: 11.1339097
 postcode: 82496
 city: Oberau
-street: Triftstraße
+street: "Triftstraße"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Fr 08:00-12:00,13:30-18:00; Sa 08:00-12:30"

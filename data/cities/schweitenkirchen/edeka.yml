@@ -5,7 +5,7 @@ latitude: 48.5010872
 longitude: 11.602061500000001
 postcode: 85301
 city: Schweitenkirchen
-street: Flurstraße
+street: "Flurstraße"
 housenumber: 35
 phone: "+49 8444 917869"
 opening_hours: "Mo-Fr 08:00-20:00; Sa 07:00-18:00"

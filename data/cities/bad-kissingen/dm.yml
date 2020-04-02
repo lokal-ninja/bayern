@@ -5,7 +5,7 @@ latitude: 50.2026156
 longitude: 10.0856578
 postcode: 97688
 city: Bad Kissingen
-street: Hartmannstraße
+street: "Hartmannstraße"
 housenumber: 30a
 phone: ""
 opening_hours: ""

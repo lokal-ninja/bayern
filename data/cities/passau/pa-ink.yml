@@ -5,7 +5,7 @@ latitude: 48.5731108
 longitude: 13.4627738
 postcode: 94032
 city: Passau
-street: Theresienstraße
+street: "Theresienstraße"
 housenumber: 42
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.8021204
 longitude: 12.155463500000002
 postcode: 92670
 city: Windisch
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 14
 phone: ""
 opening_hours: ""

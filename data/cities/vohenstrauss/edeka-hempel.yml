@@ -5,7 +5,7 @@ latitude: 49.6174788
 longitude: 12.348327300000001
 postcode: 92648
 city: Vohenstrauß
-street: Böhmischbrucker Straße
+street: "Böhmischbrucker Straße"
 housenumber: 3
 phone: ""
 opening_hours: ""

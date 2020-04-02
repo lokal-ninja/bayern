@@ -5,7 +5,7 @@ latitude: 48.063050600000004
 longitude: 11.6796424
 postcode: 85521
 city: Ottobrunn
-street: Bahnhofsplatz
+street: "Bahnhofsplatz"
 housenumber: 2
 phone: ""
 opening_hours: ""

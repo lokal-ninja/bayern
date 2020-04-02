@@ -5,7 +5,7 @@ latitude: 50.3181541
 longitude: 10.2065667
 postcode: 97616
 city: Bad Neustadt an der Saale
-street: Saalestraße
+street: "Saalestraße"
 housenumber: 19
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"

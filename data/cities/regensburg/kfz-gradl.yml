@@ -5,7 +5,7 @@ latitude: 48.9844379
 longitude: 12.1480452
 postcode: 93055
 city: Regensburg
-street: Ohmstraße
+street: "Ohmstraße"
 housenumber: 6
 phone: "+49 941 703250"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.307119900000004
 longitude: 11.9082103
 postcode: 85435
 city: Erding
-street: Bräuhausgasse
+street: "Bräuhausgasse"
 housenumber: 6
 phone: "+49 8122 187191"
 opening_hours: "Mo-Sa 09:00-19:00"

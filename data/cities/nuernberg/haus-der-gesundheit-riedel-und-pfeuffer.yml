@@ -5,7 +5,7 @@ latitude: 49.459323600000005
 longitude: 11.0597179
 postcode: 90419
 city: Nürnberg
-street: Brückenstraße
+street: "Brückenstraße"
 housenumber: 6
 phone: "+49 911 338306"
 opening_hours: ""

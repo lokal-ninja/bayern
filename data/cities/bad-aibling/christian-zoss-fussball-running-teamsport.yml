@@ -5,7 +5,7 @@ latitude: 47.8649244
 longitude: 12.008941400000001
 postcode: 83043
 city: Bad Aibling
-street: Schmiedgasse
+street: "Schmiedgasse"
 housenumber: 2
 phone: ""
 opening_hours: "Th 14:00-18:00;Fr 09:00-12:00,14:00-18:00;Sa 09:00-12:00"

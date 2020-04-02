@@ -5,7 +5,7 @@ latitude: 48.157821600000005
 longitude: 11.574151500000001
 postcode: 80796
 city: München
-street: Elisabethplatz
+street: "Elisabethplatz"
 housenumber: 2
 phone: "+49 89 2717512"
 opening_hours: "Tu-Fr 09:00-18:30; Sa 09:00-13:00"

@@ -5,7 +5,7 @@ latitude: 49.466168800000005
 longitude: 11.0696843
 postcode: 90408
 city: Nürnberg
-street: Bucher Straße
+street: "Bucher Straße"
 housenumber: 86
 phone: "+49 911 9345954"
 opening_hours: "Mo-Sa 07:00-20:00"

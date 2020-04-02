@@ -5,7 +5,7 @@ latitude: 48.137218700000005
 longitude: 11.3633883
 postcode: 82110
 city: Germering
-street: Augsburger Straße
+street: "Augsburger Straße"
 housenumber: 16a
 phone: ""
 opening_hours: ""

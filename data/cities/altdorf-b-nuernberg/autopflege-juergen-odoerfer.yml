@@ -5,7 +5,7 @@ latitude: 49.37999670000001
 longitude: 11.3559102
 postcode: 90518
 city: Altdorf b. Nürnberg
-street: Weidentalstraße
+street: "Weidentalstraße"
 housenumber: 19
 phone: "+49 9187 901875"
 opening_hours: "Mo-Th 08:00-12:00,13:00-18:00, Fr 08:00-12:00,13:00-17:00"

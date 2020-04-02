@@ -5,7 +5,7 @@ latitude: 49.5992855
 longitude: 11.0019071
 postcode: 91054
 city: Erlangen
-street: Kuttlerstraße
+street: "Kuttlerstraße"
 housenumber: 4
 phone: "+49 9131 23897"
 opening_hours: "Tu-Fr 09:00-18:00"

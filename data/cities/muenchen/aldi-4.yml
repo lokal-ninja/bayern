@@ -5,7 +5,7 @@ latitude: 48.106466000000005
 longitude: 11.645601000000001
 postcode: 81735
 city: München
-street: Albert-Schweitzer-Straße
+street: "Albert-Schweitzer-Straße"
 housenumber: 78
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

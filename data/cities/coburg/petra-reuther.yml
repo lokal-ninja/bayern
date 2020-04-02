@@ -5,7 +5,7 @@ latitude: 50.25861990000001
 longitude: 10.9654153
 postcode: 96450
 city: Coburg
-street: Herrngasse
+street: "Herrngasse"
 housenumber: 3-5
 phone: "+49 9561 95124"
 opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-15:00"

@@ -5,7 +5,7 @@ latitude: 50.065976000000006
 longitude: 12.198385100000001
 postcode: 95659
 city: Arzberg
-street: Ringstraße
+street: "Ringstraße"
 housenumber: 38
 phone: ""
 opening_hours: ""

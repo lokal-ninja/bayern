@@ -5,7 +5,7 @@ latitude: 49.659724700000005
 longitude: 10.927045300000001
 postcode: 91341
 city: Röttenbach
-street: Weiherstraße
+street: "Weiherstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

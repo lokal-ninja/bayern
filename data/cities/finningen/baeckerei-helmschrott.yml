@@ -5,7 +5,7 @@ latitude: 48.624294600000006
 longitude: 10.5127775
 postcode: 89435
 city: Finningen
-street: Ringstraße
+street: "Ringstraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.110156100000005
 longitude: 11.429931900000001
 postcode: 82152
 city: Planegg
-street: Behringstraße
+street: "Behringstraße"
 housenumber: 2b
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00; PH off"

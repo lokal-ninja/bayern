@@ -5,7 +5,7 @@ latitude: 48.19008040000001
 longitude: 11.8588763
 postcode: 85570
 city: Markt Schwaben
-street: Geltinger Straße
+street: "Geltinger Straße"
 housenumber: 2
 phone: "+49 8121 4768450"
 opening_hours: "Mo-Do 07:00-17:30; Fr 07:00-15:30"

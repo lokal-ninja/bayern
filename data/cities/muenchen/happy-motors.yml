@@ -5,7 +5,7 @@ latitude: 48.1019511
 longitude: 11.5993005
 postcode: 81549
 city: München
-street: Herbert-Quandt-Straße
+street: "Herbert-Quandt-Straße"
 housenumber: 4
 phone: ""
 opening_hours: ""

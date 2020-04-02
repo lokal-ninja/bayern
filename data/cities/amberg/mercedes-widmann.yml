@@ -5,7 +5,7 @@ latitude: 49.4316222
 longitude: 11.859909400000001
 postcode: 92224
 city: Amberg
-street: Heinrich-Hertz-Straße
+street: "Heinrich-Hertz-Straße"
 housenumber: 2
 phone: ""
 opening_hours: ""

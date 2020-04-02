@@ -5,7 +5,7 @@ latitude: 49.961822500000004
 longitude: 11.597835700000001
 postcode: 95448
 city: Bayreuth
-street: Ottostraße
+street: "Ottostraße"
 housenumber: 1a
 phone: "+499211500677"
 opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-14:00"

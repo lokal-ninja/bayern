@@ -5,7 +5,7 @@ latitude: 49.9908037
 longitude: 10.2487078
 postcode: 97525
 city: Schwebheim
-street: Kirchplatz
+street: "Kirchplatz"
 housenumber: 3
 phone: "+49 9723 2417"
 opening_hours: "Apr-Aug: Mo-Sa 8:00-19:00; Apr-Aug: Su 8:00-18:00; Sep-Mar: Fr, Sa 8:00-13:00; PH off"

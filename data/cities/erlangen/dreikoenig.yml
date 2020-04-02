@@ -5,7 +5,7 @@ latitude: 49.59498060000001
 longitude: 11.005408000000001
 postcode: 91054
 city: Erlangen
-street: Kammererstraße
+street: "Kammererstraße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Fr 11:00-18:00; Sa 11:00-16:00"

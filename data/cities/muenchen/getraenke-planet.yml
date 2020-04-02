@@ -5,7 +5,7 @@ latitude: 48.076481300000005
 longitude: 11.5261096
 postcode: 81479
 city: München
-street: Herterichstraße
+street: "Herterichstraße"
 housenumber: 8
 phone: "+49 89 74949991"
 opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00"

@@ -5,7 +5,7 @@ latitude: 48.1258143
 longitude: 11.5788221
 postcode: 81541
 city: München
-street: Ohlmüllerstraße
+street: "Ohlmüllerstraße"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Sa 09:00-20:00"

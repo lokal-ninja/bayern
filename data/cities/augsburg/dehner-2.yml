@@ -5,7 +5,7 @@ latitude: 48.372443200000006
 longitude: 10.870891
 postcode: 86156
 city: Augsburg
-street: Bürgermeister-Ackermann-Straße
+street: "Bürgermeister-Ackermann-Straße"
 housenumber: 1
 phone: "+49 (821) 4401990"
 opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-19:00"

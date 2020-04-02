@@ -5,7 +5,7 @@ latitude: 49.97682330000001
 longitude: 9.145209600000001
 postcode: 63739
 city: Aschaffenburg
-street: Luitpoldstraße
+street: "Luitpoldstraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

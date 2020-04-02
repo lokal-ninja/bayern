@@ -5,7 +5,7 @@ latitude: 47.4903625
 longitude: 11.0994103
 postcode: 82467
 city: Garmisch-Partenkirchen
-street: Lagerhausstraße
+street: "Lagerhausstraße"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Fr 07:00-17:00; Sa 09:00-12:00"

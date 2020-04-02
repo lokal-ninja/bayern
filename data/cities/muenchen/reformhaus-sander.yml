@@ -5,7 +5,7 @@ latitude: 48.081285
 longitude: 11.527965
 postcode: 81479
 city: München
-street: Friedastraße
+street: "Friedastraße"
 housenumber: 24
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-13:00"
