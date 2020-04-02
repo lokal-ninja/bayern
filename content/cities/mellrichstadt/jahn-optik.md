@@ -1,4 +1,4 @@
 ---
 title: "Jahn Optik"
-url: /mellrichstadt/jahn-optik-2/
+url: /mellrichstadt/jahn-optik/
 ---

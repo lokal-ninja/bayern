@@ -1,4 +1,4 @@
 ---
 title: "Gillmeier Fleischwaren"
-url: /deggendorf/gillmeier-fleischwaren-2/
+url: /deggendorf/gillmeier-fleischwaren/
 ---

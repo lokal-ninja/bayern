@@ -1,4 +1,4 @@
 ---
 title: "Bäckerei Kleeberger"
-url: /gunzenhausen/baeckerei-kleeberger-2/
+url: /gunzenhausen/baeckerei-kleeberger/
 ---

@@ -1,4 +1,4 @@
 ---
 title: "TEZ"
-url: /hemau/tez-2/
+url: /hemau/tez/
 ---

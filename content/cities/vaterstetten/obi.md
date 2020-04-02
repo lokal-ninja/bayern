@@ -1,4 +1,4 @@
 ---
 title: "OBI"
-url: /vaterstetten/obi-2/
+url: /vaterstetten/obi/
 ---

@@ -1,4 +1,4 @@
 ---
 title: "Baustoff Union"
-url: /muenchen/baustoff-union-2/
+url: /muenchen/baustoff-union/
 ---

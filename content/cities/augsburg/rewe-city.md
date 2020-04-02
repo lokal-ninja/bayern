@@ -1,4 +1,4 @@
 ---
 title: "Rewe City"
-url: /augsburg/rewe-city-2/
+url: /augsburg/rewe-city/
 ---

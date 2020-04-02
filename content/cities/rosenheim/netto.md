@@ -1,4 +1,4 @@
 ---
 title: "Netto"
-url: /rosenheim/netto-2/
+url: /rosenheim/netto/
 ---

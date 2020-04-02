@@ -1,4 +1,4 @@
 ---
 title: "Hofpfisterei"
-url: /augsburg/hofpfisterei-2/
+url: /augsburg/hofpfisterei/
 ---

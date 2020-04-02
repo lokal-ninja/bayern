@@ -1,12 +1,12 @@
-id: 432736850
-type: way
+id: 351490742
+type: node
 shop: Supermarkt
-latitude: 49.446389
-longitude: 11.081600600000002
-postcode: 90443
+latitude: 49.4479782
+longitude: 11.0578029
+postcode: 90429
 city: Nürnberg
-street: Bahnhofsplatz
-housenumber: 9
+street: Rohrmannstraße
+housenumber: 11
 phone: ""
-opening_hours: "Mo-Su 06:00-22:00"
+opening_hours: "Mo-Sa 07:00-20:00"
 website: ""

@@ -1,4 +1,4 @@
 ---
 title: "Vollkornbäckerei Köhler"
-url: /wuerzburg/vollkornbaeckerei-koehler-2/
+url: /wuerzburg/vollkornbaeckerei-koehler/
 ---

@@ -1,4 +1,4 @@
 ---
 title: "Netto Marken-Discount"
-url: /marktoberdorf/netto-marken-discount-2/
+url: /marktoberdorf/netto-marken-discount/
 ---

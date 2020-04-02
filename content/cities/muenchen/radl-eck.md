@@ -1,4 +1,4 @@
 ---
 title: "Radl-Eck"
-url: /muenchen/radl-eck-2/
+url: /muenchen/radl-eck/
 ---

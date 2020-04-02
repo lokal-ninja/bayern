@@ -1,12 +1,12 @@
-id: 339526215
-type: way
+id: 263831639
+type: node
 shop: Supermarkt
-latitude: 48.13002
-longitude: 11.590728100000002
-postcode: 81669
+latitude: 48.1279107
+longitude: 11.6025045
+postcode: 81667
 city: München
-street: Rosenheimer Straße
-housenumber: 30
+street: Orleansplatz
+housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"
 website: "https://www.aldi-sued.de/"

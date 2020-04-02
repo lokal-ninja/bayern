@@ -1,4 +1,4 @@
 ---
 title: "dm"
-url: /amberg/dm-2/
+url: /amberg/dm/
 ---

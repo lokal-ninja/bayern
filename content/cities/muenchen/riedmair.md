@@ -1,4 +1,4 @@
 ---
 title: "Riedmair"
-url: /muenchen/riedmair-2/
+url: /muenchen/riedmair/
 ---

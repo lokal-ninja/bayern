@@ -1,4 +1,4 @@
 ---
 title: "Juwelier Schwahn"
-url: /coburg/juwelier-schwahn-2/
+url: /coburg/juwelier-schwahn/
 ---

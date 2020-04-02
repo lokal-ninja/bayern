@@ -1,4 +1,4 @@
 ---
 title: "Penny"
-url: /geretsried/penny-2/
+url: /geretsried/penny/
 ---

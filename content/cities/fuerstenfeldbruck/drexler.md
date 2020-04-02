@@ -1,4 +1,4 @@
 ---
 title: "Drexler"
-url: /fuerstenfeldbruck/drexler-2/
+url: /fuerstenfeldbruck/drexler/
 ---

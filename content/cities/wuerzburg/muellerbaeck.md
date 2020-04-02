@@ -1,4 +1,4 @@
 ---
 title: "Müllerbäck"
-url: /wuerzburg/muellerbaeck-2/
+url: /wuerzburg/muellerbaeck/
 ---

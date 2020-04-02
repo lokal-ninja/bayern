@@ -1,4 +1,4 @@
 ---
 title: "Porsche Zentrum Ingolstadt"
-url: /ingolstadt/porsche-zentrum-ingolstadt-2/
+url: /ingolstadt/porsche-zentrum-ingolstadt/
 ---

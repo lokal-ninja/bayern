@@ -1,4 +1,4 @@
 ---
 title: "Brillen Winkler"
-url: /muenchen/brillen-winkler-2/
+url: /muenchen/brillen-winkler/
 ---

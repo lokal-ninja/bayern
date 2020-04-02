@@ -1,4 +1,4 @@
 ---
 title: "Englschalk"
-url: /fuerstenfeldbruck/englschalk-2/
+url: /fuerstenfeldbruck/englschalk/
 ---

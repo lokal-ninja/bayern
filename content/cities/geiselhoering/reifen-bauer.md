@@ -1,4 +1,4 @@
 ---
 title: "Reifen Bauer"
-url: /geiselhoering/reifen-bauer-2/
+url: /geiselhoering/reifen-bauer/
 ---

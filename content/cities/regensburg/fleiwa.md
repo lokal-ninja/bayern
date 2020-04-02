@@ -1,4 +1,4 @@
 ---
 title: "FleiWa"
-url: /regensburg/fleiwa-2/
+url: /regensburg/fleiwa/
 ---

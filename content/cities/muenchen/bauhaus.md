@@ -1,4 +1,4 @@
 ---
 title: "Bauhaus"
-url: /muenchen/bauhaus-2/
+url: /muenchen/bauhaus/
 ---

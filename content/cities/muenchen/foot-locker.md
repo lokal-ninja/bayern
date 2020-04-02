@@ -1,4 +1,4 @@
 ---
 title: "Foot Locker"
-url: /muenchen/foot-locker-2/
+url: /muenchen/foot-locker/
 ---

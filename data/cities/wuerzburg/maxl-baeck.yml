@@ -1,12 +1,12 @@
-id: 4730333246
+id: 295710228
 type: node
 shop: Bäckerei
-latitude: 49.803625800000006
-longitude: 9.8960188
-postcode: 97080
+latitude: 49.794660400000005
+longitude: 9.9153023
+postcode: 97082
 city: Würzburg
-street: Unterdürrbacher Straße
-housenumber: 4
-phone: "+49 931 46054435"
-opening_hours: "Mo-Fr 06:00-18:30, Su 08:00-17:00; Sa 06:00-17:30"
-website: "https://maxlbaeck.de/"
+street: Frankfurter Straße
+housenumber: 10
+phone: ""
+opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-17:00; Su 08:00-17:00"
+website: "https://www.maxlbaeck.de/"

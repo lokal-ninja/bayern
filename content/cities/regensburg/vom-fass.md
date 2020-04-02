@@ -1,4 +1,4 @@
 ---
-title: "Vom Fass"
-url: /regensburg/vom-fass-2/
+title: "vom FASS"
+url: /regensburg/vom-fass/
 ---

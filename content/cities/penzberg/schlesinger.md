@@ -1,4 +1,4 @@
 ---
 title: "Schlesinger"
-url: /penzberg/schlesinger-2/
+url: /penzberg/schlesinger/
 ---

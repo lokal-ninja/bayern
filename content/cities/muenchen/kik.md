@@ -1,4 +1,4 @@
 ---
 title: "KiK"
-url: /muenchen/kik-2/
+url: /muenchen/kik/
 ---

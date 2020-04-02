@@ -1,4 +1,4 @@
 ---
 title: "Radldiscount"
-url: /muenchen/radldiscount-2/
+url: /muenchen/radldiscount/
 ---

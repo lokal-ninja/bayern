@@ -1,12 +1,12 @@
-id: 627751877
-type: way
+id: 703480790
+type: node
 shop: Kleidung
-latitude: 48.3673629
-longitude: 10.897510700000002
+latitude: 48.367390900000004
+longitude: 10.897503500000001
 postcode: 86150
 city: Augsburg
 street: Moritzplatz
 housenumber: 4
-phone: "+49 821 45566440"
-opening_hours: "Mo-Mi 11:00-18:00; Do-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "https://www.manomama.de"
+phone: ""
+opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
+website: "https://www.manomama.de/shop/manomama-laden"

@@ -1,4 +1,4 @@
 ---
-title: "ALLGUTH"
-url: /muenchen/allguth-2/
+title: "Allguth"
+url: /muenchen/allguth/
 ---

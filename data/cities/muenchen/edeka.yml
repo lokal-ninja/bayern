@@ -1,12 +1,12 @@
-id: 292199751
-type: way
+id: 26603836
+type: node
 shop: Supermarkt
-latitude: 48.1336151
-longitude: 11.583833400000001
-postcode: 80331
+latitude: 48.124950000000005
+longitude: 11.6548507
+postcode: 81825
 city: München
-street: Zweibrückenstraße
-housenumber: 5
+street: Kreillerstraße
+housenumber: 151
 phone: ""
-opening_hours: "Mo-Fr 07:00-20:00, Sa 07:30-20:00"
-website: "https://www.edeka.de/"
+opening_hours: "Mo-Sa 07:00-20:00"
+website: ""

@@ -1,12 +1,12 @@
-id: 709588162
-type: way
+id: 308656338
+type: node
 shop: Supermarkt
-latitude: 48.7957625
-longitude: 11.4450658
-postcode: 85055
+latitude: 48.773456700000004
+longitude: 11.390038500000001
+postcode: 85057
 city: Ingolstadt
-street: Beilngrieser Straße
-housenumber: 169
+street: Am Westpark
+housenumber: 6
 phone: ""
 opening_hours: ""
-website: ""
+website: "https://www.edeka.de/"

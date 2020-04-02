@@ -1,4 +1,4 @@
 ---
 title: "Bio-Hofladen"
-url: /aholming/bio-hofladen-2/
+url: /aholming/bio-hofladen/
 ---

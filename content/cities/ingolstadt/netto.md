@@ -1,4 +1,4 @@
 ---
-title: "Netto"
-url: /ingolstadt/netto-2/
+title: "netto"
+url: /ingolstadt/netto/
 ---

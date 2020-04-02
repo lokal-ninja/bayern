@@ -1,4 +1,4 @@
 ---
 title: "Alpenstrand"
-url: /landshut/alpenstrand-2/
+url: /landshut/alpenstrand/
 ---

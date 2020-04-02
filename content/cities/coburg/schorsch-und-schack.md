@@ -1,4 +1,4 @@
 ---
 title: "Schorsch & Schack"
-url: /coburg/schorsch-und-schack-2/
+url: /coburg/schorsch-und-schack/
 ---

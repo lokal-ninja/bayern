@@ -1,4 +1,4 @@
 ---
 title: "Kneipp"
-url: /rottendorf/kneipp-2/
+url: /rottendorf/kneipp/
 ---

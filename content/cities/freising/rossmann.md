@@ -1,4 +1,4 @@
 ---
 title: "Rossmann"
-url: /freising/rossmann-2/
+url: /freising/rossmann/
 ---

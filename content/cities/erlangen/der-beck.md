@@ -1,4 +1,4 @@
 ---
 title: "Der Beck"
-url: /erlangen/der-beck-2/
+url: /erlangen/der-beck/
 ---

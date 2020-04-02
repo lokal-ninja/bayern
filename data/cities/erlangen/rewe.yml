@@ -1,12 +1,12 @@
-id: 32611633
-type: way
+id: 346953364
+type: node
 shop: Supermarkt
-latitude: 49.575814
-longitude: 11.001374700000001
-postcode: 91058
+latitude: 49.5832313
+longitude: 11.0046663
+postcode: 91052
 city: Erlangen
-street: Cumianastraße
-housenumber: 4
-phone: ""
+street: Karl-Zucker-Straße
+housenumber: 10
+phone: "+49 9131 533590"
 opening_hours: "Mo-Sa 07:00-20:00"
-website: ""
+website: "https://www.rewe.de"

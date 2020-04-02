@@ -1,4 +1,4 @@
 ---
 title: "nah & gut"
-url: /nuernberg/nah-und-gut-2/
+url: /nuernberg/nah-und-gut/
 ---

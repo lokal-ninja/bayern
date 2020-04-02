@@ -1,12 +1,12 @@
-id: 196663334
-type: way
+id: 268664668
+type: node
 shop: Supermarkt
-latitude: 49.9379593
-longitude: 11.5540356
-postcode: 95445
+latitude: 49.936823000000004
+longitude: 11.577303800000001
+postcode: 95444
 city: Bayreuth
-street: Bamberger Straße
-housenumber: 32
+street: Friedrichstraße
+housenumber: 53
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: ""
 website: ""

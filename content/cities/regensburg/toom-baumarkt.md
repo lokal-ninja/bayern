@@ -1,4 +1,4 @@
 ---
 title: "Toom Baumarkt"
-url: /regensburg/toom-baumarkt-2/
+url: /regensburg/toom-baumarkt/
 ---

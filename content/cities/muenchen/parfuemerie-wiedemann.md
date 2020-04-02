@@ -1,4 +1,4 @@
 ---
 title: "Parfümerie Wiedemann"
-url: /muenchen/parfuemerie-wiedemann-2/
+url: /muenchen/parfuemerie-wiedemann/
 ---

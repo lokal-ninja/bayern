@@ -1,4 +1,4 @@
 ---
-title: "Za-Ra Markt"
-url: /nuernberg/za-ra-markt-2/
+title: "ZA-RA MARKT"
+url: /nuernberg/za-ra-markt/
 ---

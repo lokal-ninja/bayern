@@ -1,4 +1,4 @@
 ---
 title: "Schwab"
-url: /friedberg/schwab-2/
+url: /friedberg/schwab/
 ---

@@ -1,4 +1,4 @@
 ---
 title: "Höfer"
-url: /erlangen/hoefer-2/
+url: /erlangen/hoefer/
 ---

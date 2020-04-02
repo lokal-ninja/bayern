@@ -1,12 +1,12 @@
-id: 3710798350
+id: 3703653927
 type: node
 shop: Friseur
-latitude: 49.470641
-longitude: 11.095794600000001
-postcode: 90409
+latitude: 49.4616732
+longitude: 11.0929567
+postcode: 90489
 city: Nürnberg
-street: Nordring
-housenumber: 169
-phone: "+49 911 511186"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 08:00-13:00"
+street: Bayreuther Straße
+housenumber: 30
+phone: "+49 911 555765"
+opening_hours: "Mo-Fr 08:30-19:00; Sa 08:00-16:00"
 website: "http://www.friseur-sarris.de/"

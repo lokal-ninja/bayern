@@ -1,4 +1,4 @@
 ---
 title: "Esprit"
-url: /muenchen/esprit-2/
+url: /muenchen/esprit/
 ---

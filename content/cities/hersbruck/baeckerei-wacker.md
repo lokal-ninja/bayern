@@ -1,4 +1,4 @@
 ---
 title: "Bäckerei Wacker"
-url: /hersbruck/baeckerei-wacker-2/
+url: /hersbruck/baeckerei-wacker/
 ---

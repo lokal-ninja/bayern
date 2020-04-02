@@ -1,4 +1,4 @@
 ---
 title: "Bäckerei Schmidt"
-url: /schwabach/baeckerei-schmidt-2/
+url: /schwabach/baeckerei-schmidt/
 ---

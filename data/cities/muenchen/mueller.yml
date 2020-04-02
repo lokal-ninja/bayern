@@ -1,12 +1,12 @@
-id: 6387386981
+id: 318294552
 type: node
 shop: Bäckerei
-latitude: 48.150443700000004
-longitude: 11.5450795
-postcode: 80636
+latitude: 48.1176796
+longitude: 11.548176000000002
+postcode: 
 city: München
-street: Nymphenburger Straße
-housenumber: 92
-phone: "+49 89 16 78 39 51"
-opening_hours: "Mo-Fr 09:30-20:00; Sa 09:00-20:00; Su,PH off"
-website: "http://www.hm-gmbh.de"
+street: 
+housenumber: 
+phone: ""
+opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-12:30; Su 08:00-11:00"
+website: ""

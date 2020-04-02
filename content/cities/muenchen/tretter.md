@@ -1,4 +1,4 @@
 ---
 title: "Tretter"
-url: /muenchen/tretter-2/
+url: /muenchen/tretter/
 ---

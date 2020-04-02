@@ -1,4 +1,4 @@
 ---
 title: "Kalchreuther Bäcker"
-url: /nuernberg/kalchreuther-baecker-2/
+url: /nuernberg/kalchreuther-baecker/
 ---

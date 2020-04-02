@@ -1,4 +1,4 @@
 ---
 title: "Hunkemöller"
-url: /erlangen/hunkemoeller-2/
+url: /erlangen/hunkemoeller/
 ---

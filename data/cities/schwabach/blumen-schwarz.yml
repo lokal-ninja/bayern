@@ -1,12 +1,12 @@
-id: 198906625
-type: way
-shop: Blumen
-latitude: 49.336036400000005
-longitude: 11.033204300000001
+id: 2089824182
+type: node
+shop: Garten-Center
+latitude: 49.335965200000004
+longitude: 11.033170400000001
 postcode: 91126
 city: Schwabach
 street: Limbacher Straße
 housenumber: 60
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-13:00"
-website: ""
+opening_hours: "Mo-Fr 07:00-18:00, Sa 07:00-13:00"
+website: "https://www.blumen-schwarz.de/"

@@ -1,4 +1,4 @@
 ---
 title: "Deichmann"
-url: /ingolstadt/deichmann-2/
+url: /ingolstadt/deichmann/
 ---

@@ -1,4 +1,4 @@
 ---
 title: "ebl"
-url: /nuernberg/ebl-2/
+url: /nuernberg/ebl/
 ---

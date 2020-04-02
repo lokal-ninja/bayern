@@ -1,4 +1,4 @@
 ---
 title: "Autohaus Lotspeich"
-url: /muenchen/autohaus-lotspeich-2/
+url: /muenchen/autohaus-lotspeich/
 ---

@@ -1,4 +1,4 @@
 ---
 title: "Möbel Wanninger"
-url: /bad-koetzting/moebel-wanninger-2/
+url: /bad-koetzting/moebel-wanninger/
 ---

@@ -1,4 +1,4 @@
 ---
 title: "Buntstift"
-url: /wuerzburg/buntstift-2/
+url: /wuerzburg/buntstift/
 ---

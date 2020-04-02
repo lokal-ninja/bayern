@@ -1,4 +1,4 @@
 ---
-title: "Akzente Reisen"
-url: /wunsiedel/akzente-reisen-2/
+title: "AKZENTE Reisen"
+url: /wunsiedel/akzente-reisen/
 ---

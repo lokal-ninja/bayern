@@ -1,4 +1,4 @@
 ---
 title: "Petra Fuetsch Haarstudio"
-url: /zorneding/petra-fuetsch-haarstudio-2/
+url: /zorneding/petra-fuetsch-haarstudio/
 ---

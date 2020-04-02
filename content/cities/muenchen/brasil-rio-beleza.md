@@ -1,4 +1,4 @@
 ---
 title: "Brasil Rio Beleza"
-url: /muenchen/brasil-rio-beleza-2/
+url: /muenchen/brasil-rio-beleza/
 ---

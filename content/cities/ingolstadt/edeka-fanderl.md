@@ -1,4 +1,4 @@
 ---
-title: "Edeka Fanderl"
-url: /ingolstadt/edeka-fanderl-2/
+title: "EDEKA Fanderl"
+url: /ingolstadt/edeka-fanderl/
 ---

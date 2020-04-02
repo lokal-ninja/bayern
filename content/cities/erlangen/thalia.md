@@ -1,4 +1,4 @@
 ---
 title: "Thalia"
-url: /erlangen/thalia-2/
+url: /erlangen/thalia/
 ---

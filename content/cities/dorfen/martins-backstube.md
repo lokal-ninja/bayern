@@ -1,4 +1,4 @@
 ---
-title: "Martin's Backstube"
-url: /dorfen/martins-backstube-2/
+title: "Martins Backstube"
+url: /dorfen/martins-backstube/
 ---

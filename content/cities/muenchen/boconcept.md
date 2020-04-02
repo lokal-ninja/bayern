@@ -1,4 +1,4 @@
 ---
 title: "BoConcept"
-url: /muenchen/boconcept-2/
+url: /muenchen/boconcept/
 ---

@@ -1,4 +1,4 @@
 ---
 title: "Deichmann"
-url: /muenchen/deichmann-2/
+url: /muenchen/deichmann/
 ---

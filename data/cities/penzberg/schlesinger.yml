@@ -1,12 +1,12 @@
-id: 4784510623
+id: 4329226584
 type: node
-shop: Raumausstattung
-latitude: 47.750294200000006
-longitude: 11.3744133
+shop: Haushaltsartikel
+latitude: 47.750272800000005
+longitude: 11.374127600000001
 postcode: 82377
 city: Penzberg
 street: Bahnhofstraße
 housenumber: 17
-phone: ""
-opening_hours: "Feb-Oct: Mo-Fr 09:30-18:30, Feb-Oct: Sa 09:30-14:00, Nov-Jan: Mo-Fr 09:30-18:30, Nov-Jan: Sa 09:30-16:00; PH off"
-website: ""
+phone: "+49 8856 935540"
+opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-14:00"
+website: "https://www.schlesinger-shop.de/"

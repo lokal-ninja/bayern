@@ -1,4 +1,4 @@
 ---
 title: "Webers"
-url: /wuerzburg/webers-2/
+url: /wuerzburg/webers/
 ---

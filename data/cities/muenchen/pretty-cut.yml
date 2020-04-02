@@ -1,12 +1,12 @@
-id: 6475541718
+id: 2696442722
 type: node
 shop: Friseur
-latitude: 48.149494600000004
-longitude: 11.5341758
-postcode: 80634
+latitude: 48.160197100000005
+longitude: 11.578210700000001
+postcode: 80801
 city: München
-street: Donnersbergerstraße
-housenumber: 24
-phone: "+49 (0)89 23719426"
-opening_hours: ""
-website: ""
+street: Hohenzollernstraße
+housenumber: 58
+phone: ""
+opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-19:00"
+website: "http://www.prettycut.de/"

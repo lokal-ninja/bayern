@@ -1,4 +1,4 @@
 ---
 title: "Ziegler"
-url: /muenchen/ziegler-2/
+url: /muenchen/ziegler/
 ---

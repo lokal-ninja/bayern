@@ -1,4 +1,4 @@
 ---
 title: "Lotto Bayern"
-url: /muenchen/lotto-bayern-2/
+url: /muenchen/lotto-bayern/
 ---

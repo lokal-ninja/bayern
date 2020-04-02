@@ -1,12 +1,12 @@
-id: 4748940753
+id: 2524783445
 type: node
 shop: Tickets
-latitude: 48.1745341
-longitude: 11.558007400000001
-postcode: 80809
+latitude: 48.131167000000005
+longitude: 11.591789400000001
+postcode: 81667
 city: München
-street: Spiridon-Louis-Ring
-housenumber: 7
+street: Rosenheimer Straße
+housenumber: 5
 phone: "+49 89 54818181"
-opening_hours: "Mo-Sa 11:00-19:00"
+opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-16:00"
 website: "https://www.muenchenticket.de/"

@@ -1,4 +1,4 @@
 ---
-title: "Euromaster"
-url: /neu-ulm/euromaster-2/
+title: "EUROMASTER"
+url: /neu-ulm/euromaster/
 ---

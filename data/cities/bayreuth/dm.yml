@@ -1,12 +1,12 @@
-id: 154357638
-type: way
+id: 1639769301
+type: node
 shop: Drogerie
-latitude: 49.9351294
-longitude: 11.592368500000001
-postcode: 95448
+latitude: 49.943091
+longitude: 11.578518200000001
+postcode: 95444
 city: Bayreuth
-street: Nürnberger Straße
-housenumber: 3b
+street: Richard-Wagner-Straße
+housenumber: 4-6
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: "Mo-Sa 08:00-20:00; PH off"
 website: ""

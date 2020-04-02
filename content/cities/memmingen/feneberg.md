@@ -1,4 +1,4 @@
 ---
 title: "Feneberg"
-url: /memmingen/feneberg-2/
+url: /memmingen/feneberg/
 ---

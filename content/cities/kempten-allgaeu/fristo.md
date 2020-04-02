@@ -1,4 +1,4 @@
 ---
 title: "Fristo"
-url: /kempten-allgaeu/fristo-2/
+url: /kempten-allgaeu/fristo/
 ---

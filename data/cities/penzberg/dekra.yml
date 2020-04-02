@@ -1,12 +1,12 @@
-id: 368963158
-type: way
+id: 3605019904
+type: node
 shop: Autowerkstatt
-latitude: 47.7570454
-longitude: 11.379633
+latitude: 47.757106500000006
+longitude: 11.3798498
 postcode: 82377
 city: Penzberg
 street: Grube
 housenumber: 51a
-phone: ""
-opening_hours: ""
-website: ""
+phone: "+49 8856 92970"
+opening_hours: "Mo-Fr 8:00-17:30; Sa 9:00-12:00"
+website: "http://www.dekra.de/penzberg/portal.html"

@@ -1,4 +1,4 @@
 ---
 title: "PROBIER"
-url: /landshut/probier-2/
+url: /landshut/probier/
 ---

@@ -1,4 +1,4 @@
 ---
-title: "Auto-Scholz"
-url: /forchheim/auto-scholz-2/
+title: "Auto Scholz"
+url: /forchheim/auto-scholz/
 ---

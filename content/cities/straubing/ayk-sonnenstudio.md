@@ -1,4 +1,4 @@
 ---
-title: "Ayk Sonnenstudio"
-url: /straubing/ayk-sonnenstudio-2/
+title: "AYK SonnenStudio"
+url: /straubing/ayk-sonnenstudio/
 ---

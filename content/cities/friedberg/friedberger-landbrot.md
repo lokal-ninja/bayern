@@ -1,4 +1,4 @@
 ---
 title: "Friedberger Landbrot"
-url: /friedberg/friedberger-landbrot-2/
+url: /friedberg/friedberger-landbrot/
 ---

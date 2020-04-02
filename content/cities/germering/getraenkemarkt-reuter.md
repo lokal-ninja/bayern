@@ -1,4 +1,4 @@
 ---
 title: "Getränkemarkt Reuter"
-url: /germering/getraenkemarkt-reuter-2/
+url: /germering/getraenkemarkt-reuter/
 ---

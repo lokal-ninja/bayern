@@ -1,4 +1,4 @@
 ---
 title: "Ernsting's family"
-url: /muenchen/ernstings-family-2/
+url: /muenchen/ernstings-family/
 ---

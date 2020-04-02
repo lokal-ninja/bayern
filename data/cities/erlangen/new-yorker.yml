@@ -1,12 +1,12 @@
-id: 187423255
-type: way
+id: 1208116320
+type: node
 shop: Kleidung
-latitude: 49.594005700000004
-longitude: 11.003941000000001
+latitude: 49.592878400000004
+longitude: 11.0040116
 postcode: 91052
 city: Erlangen
 street: Nürnberger Straße
 housenumber: 7
 phone: "+49 9131 9703950"
 opening_hours: "Mo-Sa 09:30-20:00"
-website: "www.newyorker.de"
+website: "http://www.newyorker.de/"

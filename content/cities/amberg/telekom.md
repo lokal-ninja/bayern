@@ -1,4 +1,4 @@
 ---
 title: "Telekom"
-url: /amberg/telekom-2/
+url: /amberg/telekom/
 ---

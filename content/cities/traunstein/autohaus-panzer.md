@@ -1,4 +1,4 @@
 ---
 title: "Autohaus Panzer"
-url: /traunstein/autohaus-panzer-2/
+url: /traunstein/autohaus-panzer/
 ---

@@ -1,4 +1,4 @@
 ---
 title: "Traublinger"
-url: /muenchen/traublinger-2/
+url: /muenchen/traublinger/
 ---

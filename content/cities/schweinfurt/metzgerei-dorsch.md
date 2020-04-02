@@ -1,4 +1,4 @@
 ---
 title: "Metzgerei Dorsch"
-url: /schweinfurt/metzgerei-dorsch-2/
+url: /schweinfurt/metzgerei-dorsch/
 ---

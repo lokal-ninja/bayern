@@ -1,4 +1,4 @@
 ---
 title: "Top Hair"
-url: /augsburg/top-hair-2/
+url: /augsburg/top-hair/
 ---

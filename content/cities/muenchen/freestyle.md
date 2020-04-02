@@ -1,4 +1,4 @@
 ---
-title: "Freestyle"
-url: /muenchen/freestyle-2/
+title: "freestyle"
+url: /muenchen/freestyle/
 ---

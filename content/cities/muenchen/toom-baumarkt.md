@@ -1,4 +1,4 @@
 ---
 title: "Toom Baumarkt"
-url: /muenchen/toom-baumarkt-2/
+url: /muenchen/toom-baumarkt/
 ---

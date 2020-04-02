@@ -1,4 +1,4 @@
 ---
 title: "M. Fritsch Autovertragshändler"
-url: /iffeldorf/m-fritsch-autovertragshaendler-2/
+url: /iffeldorf/m-fritsch-autovertragshaendler/
 ---

@@ -1,4 +1,4 @@
 ---
 title: "Herrmannsdorfer Landwerkstätten"
-url: /muenchen/herrmannsdorfer-landwerkstaetten-2/
+url: /muenchen/herrmannsdorfer-landwerkstaetten/
 ---

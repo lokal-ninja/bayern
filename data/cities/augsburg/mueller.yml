@@ -1,12 +1,12 @@
-id: 166262215
-type: way
+id: 650087562
+type: node
 shop: Drogerie
-latitude: 48.3892576
-longitude: 10.882881900000001
-postcode: 86154
+latitude: 48.354874200000005
+longitude: 10.9448855
+postcode: 
 city: Augsburg
-street: Donauwörther Straße
-housenumber: 110b
+street: Friedberger Straße
+housenumber: 140
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-14:00; Su,PH off"
+website: "https://www.mueller.de/"

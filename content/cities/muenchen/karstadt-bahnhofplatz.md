@@ -1,4 +1,4 @@
 ---
 title: "Karstadt Bahnhofplatz"
-url: /muenchen/karstadt-bahnhofplatz-2/
+url: /muenchen/karstadt-bahnhofplatz/
 ---

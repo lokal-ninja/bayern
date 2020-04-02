@@ -1,4 +1,4 @@
 ---
 title: "Freizeitwelt Nagel"
-url: /ansbach/freizeitwelt-nagel-2/
+url: /ansbach/freizeitwelt-nagel/
 ---

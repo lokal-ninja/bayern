@@ -1,12 +1,12 @@
-id: 305439339
+id: 305133822
 type: node
 shop: Bäckerei
-latitude: 47.8677501
-longitude: 12.0004225
+latitude: 47.863425500000005
+longitude: 12.007779600000001
 postcode: 83043
 city: Bad Aibling
-street: Ebersberger Straße
-housenumber: 1
-phone: "+49 8061 57 91"
-opening_hours: "Mo-Fr 08:00-20:00;Sa 07:30-20:00;Su 07:30-10:30"
+street: Bahnhofstraße
+housenumber: 12
+phone: ""
+opening_hours: "Mo-Fr 06:30-18:00;Sa 06:30-12:30;Su 07:30-10:30"
 website: ""

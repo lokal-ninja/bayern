@@ -1,4 +1,4 @@
 ---
 title: "Vieracker"
-url: /amberg/vieracker-2/
+url: /amberg/vieracker/
 ---

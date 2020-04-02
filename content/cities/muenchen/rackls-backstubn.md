@@ -1,4 +1,4 @@
 ---
-title: "Rackls Backstubn"
-url: /muenchen/rackls-backstubn-2/
+title: "Rackl's Backstub'n"
+url: /muenchen/rackls-backstubn/
 ---

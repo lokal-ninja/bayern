@@ -1,4 +1,4 @@
 ---
-title: "VollCorner"
-url: /muenchen/vollcorner-2/
+title: "Vollcorner"
+url: /muenchen/vollcorner/
 ---

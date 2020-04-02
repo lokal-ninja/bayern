@@ -1,12 +1,12 @@
-id: 2468049304
+id: 701444314
 type: node
 shop: Friseur
-latitude: 48.1600303
-longitude: 11.577786900000001
-postcode: 80801
+latitude: 48.134985400000005
+longitude: 11.569874800000001
+postcode: 80331
 city: München
-street: Hohenzollernstraße
-housenumber: 39
-phone: ""
-opening_hours: "Mo,Th,Fr 09:00-20:00; Tu,We 09:00-22:00; Sa 09:00-18:00"
-website: "http://www.new-hair.de/friseur-m%C3%BCnchen-hohenzollernstra%C3%9Fe.html"
+street: Sendlinger Straße
+housenumber: 29
+phone: "+49 89 267147"
+opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
+website: ""

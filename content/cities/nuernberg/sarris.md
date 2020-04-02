@@ -1,4 +1,4 @@
 ---
 title: "Sarris"
-url: /nuernberg/sarris-2/
+url: /nuernberg/sarris/
 ---

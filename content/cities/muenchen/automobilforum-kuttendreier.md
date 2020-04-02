@@ -1,4 +1,4 @@
 ---
 title: "Automobilforum Kuttendreier"
-url: /muenchen/automobilforum-kuttendreier-2/
+url: /muenchen/automobilforum-kuttendreier/
 ---

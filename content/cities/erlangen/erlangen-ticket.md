@@ -1,4 +1,4 @@
 ---
-title: "Erlangen Ticket"
-url: /erlangen/erlangen-ticket-2/
+title: "erlangen ticket"
+url: /erlangen/erlangen-ticket/
 ---

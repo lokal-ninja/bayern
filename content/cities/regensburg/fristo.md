@@ -1,4 +1,4 @@
 ---
 title: "Fristo"
-url: /regensburg/fristo-2/
+url: /regensburg/fristo/
 ---

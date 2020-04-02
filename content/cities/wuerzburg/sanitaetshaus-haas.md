@@ -1,4 +1,4 @@
 ---
 title: "Sanitätshaus Haas"
-url: /wuerzburg/sanitaetshaus-haas-2/
+url: /wuerzburg/sanitaetshaus-haas/
 ---

@@ -1,4 +1,4 @@
 ---
 title: "Markthalle"
-url: /fuessen/markthalle-2/
+url: /fuessen/markthalle/
 ---

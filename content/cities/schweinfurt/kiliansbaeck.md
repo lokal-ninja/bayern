@@ -1,4 +1,4 @@
 ---
 title: "Kiliansbäck"
-url: /schweinfurt/kiliansbaeck-2/
+url: /schweinfurt/kiliansbaeck/
 ---

@@ -1,4 +1,4 @@
 ---
 title: "Netto"
-url: /muenchen/netto-2/
+url: /muenchen/netto/
 ---

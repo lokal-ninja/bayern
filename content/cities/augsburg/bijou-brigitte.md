@@ -1,4 +1,4 @@
 ---
 title: "Bijou Brigitte"
-url: /augsburg/bijou-brigitte-2/
+url: /augsburg/bijou-brigitte/
 ---

@@ -1,4 +1,4 @@
 ---
 title: "Bäckerei Ziegler"
-url: /muenchen/baeckerei-ziegler-2/
+url: /muenchen/baeckerei-ziegler/
 ---

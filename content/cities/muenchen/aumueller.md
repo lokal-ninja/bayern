@@ -1,4 +1,4 @@
 ---
 title: "Aumüller"
-url: /muenchen/aumueller-2/
+url: /muenchen/aumueller/
 ---

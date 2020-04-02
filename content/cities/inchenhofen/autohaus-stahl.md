@@ -1,4 +1,4 @@
 ---
 title: "Autohaus Stahl"
-url: /inchenhofen/autohaus-stahl-2/
+url: /inchenhofen/autohaus-stahl/
 ---

@@ -1,12 +1,12 @@
-id: 4475140960
+id: 3129735166
 type: node
-shop: Computer
-latitude: 48.1354582
-longitude: 11.5807237
-postcode: 80331
+shop: Elektronik
+latitude: 48.159801800000004
+longitude: 11.583268400000001
+postcode: 80801
 city: München
-street: Tal
-housenumber: 38
+street: Wilhelmstraße
+housenumber: 10
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.gravis.de/filialen/muenchen/muenchen/"
+opening_hours: "Mo-Sa 10:00-19:00"
+website: ""

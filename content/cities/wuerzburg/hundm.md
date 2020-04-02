@@ -1,4 +1,4 @@
 ---
 title: "H&M"
-url: /wuerzburg/hundm-2/
+url: /wuerzburg/hundm/
 ---

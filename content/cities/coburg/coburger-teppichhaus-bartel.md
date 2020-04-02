@@ -1,4 +1,4 @@
 ---
 title: "Coburger Teppichhaus Bartel"
-url: /coburg/coburger-teppichhaus-bartel-2/
+url: /coburg/coburger-teppichhaus-bartel/
 ---

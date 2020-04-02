@@ -1,4 +1,4 @@
 ---
 title: "Metzgerei Koller"
-url: /bad-hindelang/metzgerei-koller-2/
+url: /bad-hindelang/metzgerei-koller/
 ---

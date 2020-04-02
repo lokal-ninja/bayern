@@ -1,4 +1,4 @@
 ---
 title: "dm"
-url: /fuerth/dm-2/
+url: /fuerth/dm/
 ---

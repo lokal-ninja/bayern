@@ -1,4 +1,4 @@
 ---
 title: "Höflinger"
-url: /muenchen/hoeflinger-2/
+url: /muenchen/hoeflinger/
 ---

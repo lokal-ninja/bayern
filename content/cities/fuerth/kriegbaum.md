@@ -1,4 +1,4 @@
 ---
 title: "Kriegbaum"
-url: /fuerth/kriegbaum-2/
+url: /fuerth/kriegbaum/
 ---

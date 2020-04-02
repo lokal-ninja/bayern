@@ -1,4 +1,4 @@
 ---
 title: "Lotto"
-url: /erlangen/lotto-2/
+url: /erlangen/lotto/
 ---

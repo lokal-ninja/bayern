@@ -1,4 +1,4 @@
 ---
 title: "TEDi"
-url: /augsburg/tedi-2/
+url: /augsburg/tedi/
 ---

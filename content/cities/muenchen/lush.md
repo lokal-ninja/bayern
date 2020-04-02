@@ -1,4 +1,4 @@
 ---
 title: "Lush"
-url: /muenchen/lush-2/
+url: /muenchen/lush/
 ---

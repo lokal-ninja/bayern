@@ -1,4 +1,4 @@
 ---
 title: "Mix Markt"
-url: /augsburg/mix-markt-2/
+url: /augsburg/mix-markt/
 ---

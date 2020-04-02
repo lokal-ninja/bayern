@@ -1,4 +1,4 @@
 ---
 title: "Apollo-Optik"
-url: /augsburg/apollo-optik-2/
+url: /augsburg/apollo-optik/
 ---

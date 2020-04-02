@@ -1,4 +1,4 @@
 ---
 title: "BACK.BUDE"
-url: /nuernberg/back-bude-2/
+url: /nuernberg/back-bude/
 ---

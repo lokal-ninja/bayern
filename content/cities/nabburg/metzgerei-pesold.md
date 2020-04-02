@@ -1,4 +1,4 @@
 ---
 title: "Metzgerei Pesold"
-url: /nabburg/metzgerei-pesold-2/
+url: /nabburg/metzgerei-pesold/
 ---

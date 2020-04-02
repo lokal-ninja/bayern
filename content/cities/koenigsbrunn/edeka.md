@@ -1,4 +1,4 @@
 ---
 title: "Edeka"
-url: /koenigsbrunn/edeka-2/
+url: /koenigsbrunn/edeka/
 ---

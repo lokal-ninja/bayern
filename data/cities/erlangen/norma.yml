@@ -1,12 +1,12 @@
-id: 439643389
-type: way
+id: 350561655
+type: node
 shop: Supermarkt
-latitude: 49.5449867
-longitude: 11.0284671
-postcode: 91058
+latitude: 49.584597900000006
+longitude: 11.0056066
+postcode: 91052
 city: Erlangen
-street: Wetterkreuz
-housenumber: 8
+street: Karl-Zucker-Straße
+housenumber: 7-9
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"
-website: ""
+website: "https://www.norma-online.de/de/angebote/"

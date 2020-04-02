@@ -1,4 +1,4 @@
 ---
-title: "pit stop"
-url: /muenchen/pit-stop-2/
+title: "Pit Stop"
+url: /muenchen/pit-stop/
 ---

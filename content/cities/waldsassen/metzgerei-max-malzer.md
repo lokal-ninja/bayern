@@ -1,4 +1,4 @@
 ---
 title: "Metzgerei Max Malzer"
-url: /waldsassen/metzgerei-max-malzer-2/
+url: /waldsassen/metzgerei-max-malzer/
 ---

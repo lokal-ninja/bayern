@@ -1,4 +1,4 @@
 ---
 title: "Happy Motors"
-url: /muenchen/happy-motors-2/
+url: /muenchen/happy-motors/
 ---

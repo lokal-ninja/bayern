@@ -1,4 +1,4 @@
 ---
 title: "OBI"
-url: /nuernberg/obi-2/
+url: /nuernberg/obi/
 ---

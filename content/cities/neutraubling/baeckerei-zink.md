@@ -1,4 +1,4 @@
 ---
 title: "Bäckerei Zink"
-url: /neutraubling/baeckerei-zink-2/
+url: /neutraubling/baeckerei-zink/
 ---

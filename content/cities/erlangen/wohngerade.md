@@ -1,4 +1,4 @@
 ---
 title: "Wohngerade"
-url: /erlangen/wohngerade-2/
+url: /erlangen/wohngerade/
 ---

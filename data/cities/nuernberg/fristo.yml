@@ -1,12 +1,12 @@
-id: 222193570
-type: way
+id: 1530718173
+type: node
 shop: Getränke
-latitude: 49.4076006
-longitude: 11.0369278
-postcode: 90451
+latitude: 49.47115
+longitude: 11.024705500000001
+postcode: 90427
 city: Nürnberg
-street: Hafenstraße
-housenumber: 10
+street: Brettergartenstraße
+housenumber: 86
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: ""
 website: ""

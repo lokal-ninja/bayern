@@ -1,4 +1,4 @@
 ---
 title: "VW Rausch"
-url: /siegsdorf/vw-rausch-2/
+url: /siegsdorf/vw-rausch/
 ---

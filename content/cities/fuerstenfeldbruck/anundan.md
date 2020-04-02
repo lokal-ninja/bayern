@@ -1,4 +1,4 @@
 ---
 title: "AN&AN"
-url: /fuerstenfeldbruck/anundan-2/
+url: /fuerstenfeldbruck/anundan/
 ---

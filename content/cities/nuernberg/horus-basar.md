@@ -1,4 +1,4 @@
 ---
 title: "Horus Basar"
-url: /nuernberg/horus-basar-2/
+url: /nuernberg/horus-basar/
 ---

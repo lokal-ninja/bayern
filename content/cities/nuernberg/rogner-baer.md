@@ -1,4 +1,4 @@
 ---
-title: "Rogner - Bär"
-url: /nuernberg/rogner-baer-2/
+title: "Rogner-Bär"
+url: /nuernberg/rogner-baer/
 ---

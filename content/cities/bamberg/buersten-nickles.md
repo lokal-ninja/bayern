@@ -1,4 +1,4 @@
 ---
 title: "Bürsten Nickles"
-url: /bamberg/buersten-nickles-2/
+url: /bamberg/buersten-nickles/
 ---

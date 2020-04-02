@@ -1,4 +1,4 @@
 ---
 title: "Autohaus Feicht"
-url: /haar/autohaus-feicht-2/
+url: /haar/autohaus-feicht/
 ---

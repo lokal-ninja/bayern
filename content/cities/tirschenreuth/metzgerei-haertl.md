@@ -1,4 +1,4 @@
 ---
 title: "Metzgerei Härtl"
-url: /tirschenreuth/metzgerei-haertl-2/
+url: /tirschenreuth/metzgerei-haertl/
 ---

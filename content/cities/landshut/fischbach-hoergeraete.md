@@ -1,4 +1,4 @@
 ---
 title: "Fischbach Hörgeräte"
-url: /landshut/fischbach-hoergeraete-2/
+url: /landshut/fischbach-hoergeraete/
 ---

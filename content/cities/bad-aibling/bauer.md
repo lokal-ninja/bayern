@@ -1,4 +1,4 @@
 ---
 title: "Bauer"
-url: /bad-aibling/bauer-2/
+url: /bad-aibling/bauer/
 ---

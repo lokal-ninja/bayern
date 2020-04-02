@@ -1,4 +1,4 @@
 ---
 title: "KiK"
-url: /amberg/kik-2/
+url: /amberg/kik/
 ---

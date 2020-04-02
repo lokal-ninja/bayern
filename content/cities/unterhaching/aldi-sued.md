@@ -1,4 +1,4 @@
 ---
-title: "ALDI SÜD"
-url: /unterhaching/aldi-sued-2/
+title: "Aldi Süd"
+url: /unterhaching/aldi-sued/
 ---

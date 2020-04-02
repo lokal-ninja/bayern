@@ -1,4 +1,4 @@
 ---
 title: "Norma"
-url: /fuerth/norma-2/
+url: /fuerth/norma/
 ---

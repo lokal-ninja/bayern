@@ -1,4 +1,4 @@
 ---
 title: "NKD"
-url: /fuerstenfeldbruck/nkd-2/
+url: /fuerstenfeldbruck/nkd/
 ---

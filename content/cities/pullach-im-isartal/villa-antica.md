@@ -1,4 +1,4 @@
 ---
 title: "Villa Antica"
-url: /pullach-im-isartal/villa-antica-2/
+url: /pullach-im-isartal/villa-antica/
 ---

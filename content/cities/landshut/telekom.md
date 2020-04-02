@@ -1,4 +1,4 @@
 ---
 title: "Telekom"
-url: /landshut/telekom-2/
+url: /landshut/telekom/
 ---

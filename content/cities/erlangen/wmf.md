@@ -1,4 +1,4 @@
 ---
 title: "WMF"
-url: /erlangen/wmf-2/
+url: /erlangen/wmf/
 ---

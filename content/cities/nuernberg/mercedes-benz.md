@@ -1,4 +1,4 @@
 ---
 title: "Mercedes-Benz"
-url: /nuernberg/mercedes-benz-2/
+url: /nuernberg/mercedes-benz/
 ---

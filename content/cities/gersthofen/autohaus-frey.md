@@ -1,4 +1,4 @@
 ---
 title: "Autohaus Frey"
-url: /gersthofen/autohaus-frey-2/
+url: /gersthofen/autohaus-frey/
 ---

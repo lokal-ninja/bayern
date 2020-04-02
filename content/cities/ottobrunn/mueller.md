@@ -1,4 +1,4 @@
 ---
 title: "Müller"
-url: /ottobrunn/mueller-2/
+url: /ottobrunn/mueller/
 ---

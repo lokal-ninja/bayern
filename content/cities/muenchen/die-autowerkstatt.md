@@ -1,4 +1,4 @@
 ---
-title: "Die Autowerkstatt"
-url: /muenchen/die-autowerkstatt-2/
+title: "die Autowerkstatt"
+url: /muenchen/die-autowerkstatt/
 ---

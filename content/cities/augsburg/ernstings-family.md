@@ -1,4 +1,4 @@
 ---
-title: "Ernsting's family"
-url: /augsburg/ernstings-family-2/
+title: "Ernsting's Family"
+url: /augsburg/ernstings-family/
 ---

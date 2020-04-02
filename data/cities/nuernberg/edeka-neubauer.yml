@@ -1,12 +1,12 @@
-id: 229226944
-type: way
+id: 3000944296
+type: node
 shop: Supermarkt
-latitude: 49.4392471
-longitude: 11.0954996
-postcode: 
+latitude: 49.4643287
+longitude: 11.086699600000001
+postcode: 90409
 city: Nürnberg
-street: Holzgartenstraße
-housenumber: 24
+street: Löbleinstraße
+housenumber: 38
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: "Mo-Sa 08:00-20:00"
 website: ""

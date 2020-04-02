@@ -1,4 +1,4 @@
 ---
 title: "Getränke City"
-url: /muenchen/getraenke-city-2/
+url: /muenchen/getraenke-city/
 ---

@@ -1,4 +1,4 @@
 ---
 title: "Intimissimi"
-url: /muenchen/intimissimi-2/
+url: /muenchen/intimissimi/
 ---

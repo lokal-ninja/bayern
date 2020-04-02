@@ -1,12 +1,12 @@
-id: 6362889333
+id: 6362889332
 type: node
 shop: Möbel
-latitude: 49.4539406
-longitude: 11.075854300000001
-postcode: 90403
+latitude: 49.4469465
+longitude: 11.058158800000001
+postcode: 90443
 city: Nürnberg
-street: Winklerstraße
-housenumber: 13
+street: Rothenburger Straße
+housenumber: 30b
 phone: "+49 911 260513"
-opening_hours: "Mo 11:00-18:30, Tu 14:00-18:30, We-Fr 11:00-18:30, Sa 10:00-15:00"
+opening_hours: ""
 website: "http://atelier-urban.com/"

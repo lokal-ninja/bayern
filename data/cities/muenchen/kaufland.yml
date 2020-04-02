@@ -1,12 +1,12 @@
-id: 363807424
-type: way
+id: 1202332995
+type: node
 shop: Supermarkt
-latitude: 48.1294684
-longitude: 11.625646000000001
-postcode: 81673
+latitude: 48.099766100000004
+longitude: 11.6436753
+postcode: 81737
 city: München
-street: Berg-am-Laim-Straße
-housenumber: 117
-phone: "+49 89 437079970"
+street: Ollenhauerstraße
+housenumber: 4
+phone: "+49 89 6736920"
 opening_hours: "Mo-Sa 07:00-20:00"
-website: ""
+website: "https://www.kaufland.de/"

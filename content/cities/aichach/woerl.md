@@ -1,4 +1,4 @@
 ---
 title: "Wörl"
-url: /aichach/woerl-2/
+url: /aichach/woerl/
 ---

@@ -1,12 +1,12 @@
-id: 466091460
-type: way
+id: 620855953
+type: node
 shop: Bäckerei
-latitude: 48.3653199
-longitude: 10.894409000000001
-postcode: 86150
+latitude: 48.338092200000006
+longitude: 10.8682397
+postcode: 86199
 city: Augsburg
-street: Königsplatz
-housenumber: 1
-phone: "+49 821 155332"
-opening_hours: "Mo-Fr 06:00-19:30; Sa 06:30-18:00; Su 09:00-14:00"
-website: "https://www.baeckerei-wolf.de/"
+street: Bürgermeister-Aurnhammer-Straße
+housenumber: 37
+phone: "+49 821 98556"
+opening_hours: "Mo-Fr 06:30-18:30; Sa 06:30-18:00; Su 08:00-17:00"
+website: "https://www.baeckerei-wolf.de"

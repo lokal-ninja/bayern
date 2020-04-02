@@ -1,12 +1,12 @@
-id: 741558348
+id: 288794199
 type: node
 shop: Wäscherei
-latitude: 48.1796523
-longitude: 11.5145874
-postcode: 80992
+latitude: 48.139777800000005
+longitude: 11.517996400000001
+postcode: 80687
 city: München
-street: Dachauer Straße
-housenumber: 258
+street: Lautensackstraße
+housenumber: 2a
 phone: ""
-opening_hours: "Mo-Fr 07:00-08:00 open Wäscherei, 08:00-19:00 open Wäscherei und Reinigung, 19:00-23:00 open Wäscherei; Sa 07:00-08:00 open Wäscherei, 08:00-13:00 open Wäscherei und Reinigung, 13:00-23:00 open Wäscherei; Su, PH 07:00-23:00 open Wäscherei"
-website: ""
+opening_hours: "07:00-23:00"
+website: "http://waschsalon-muenchen.de/laim/"

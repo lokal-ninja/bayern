@@ -1,4 +1,4 @@
 ---
 title: "NKD"
-url: /augsburg/nkd-2/
+url: /augsburg/nkd/
 ---

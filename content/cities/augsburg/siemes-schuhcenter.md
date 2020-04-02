@@ -1,4 +1,4 @@
 ---
 title: "Siemes Schuhcenter"
-url: /augsburg/siemes-schuhcenter-2/
+url: /augsburg/siemes-schuhcenter/
 ---

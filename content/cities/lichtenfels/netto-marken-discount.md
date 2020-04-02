@@ -1,4 +1,4 @@
 ---
 title: "Netto Marken-Discount"
-url: /lichtenfels/netto-marken-discount-2/
+url: /lichtenfels/netto-marken-discount/
 ---

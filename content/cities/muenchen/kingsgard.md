@@ -1,4 +1,4 @@
 ---
 title: "Kingsgard"
-url: /muenchen/kingsgard-2/
+url: /muenchen/kingsgard/
 ---

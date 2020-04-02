@@ -1,4 +1,4 @@
 ---
 title: "Sanitätshaus Burgkart"
-url: /muenchen/sanitaetshaus-burgkart-2/
+url: /muenchen/sanitaetshaus-burgkart/
 ---

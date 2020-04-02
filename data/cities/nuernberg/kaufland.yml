@@ -1,12 +1,12 @@
-id: 1558272714
+id: 1107878302
 type: node
 shop: Supermarkt
-latitude: 49.4275079
-longitude: 11.066262400000001
-postcode: 90443
+latitude: 49.456592900000004
+longitude: 11.036576700000001
+postcode: 90429
 city: Nürnberg
-street: Dianaplatz
-housenumber: 23-25
-phone: "+49 911 941710"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.kaufland.de/service/filiale.storeName"
+street: Fürther Straße
+housenumber: 187
+phone: ""
+opening_hours: "Mo-Sa 08:00-20:00"
+website: ""

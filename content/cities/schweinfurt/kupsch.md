@@ -1,4 +1,4 @@
 ---
 title: "Kupsch"
-url: /schweinfurt/kupsch-2/
+url: /schweinfurt/kupsch/
 ---

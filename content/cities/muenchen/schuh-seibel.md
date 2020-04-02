@@ -1,4 +1,4 @@
 ---
 title: "Schuh Seibel"
-url: /muenchen/schuh-seibel-2/
+url: /muenchen/schuh-seibel/
 ---

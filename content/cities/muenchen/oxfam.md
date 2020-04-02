@@ -1,4 +1,4 @@
 ---
-title: "Oxfam"
-url: /muenchen/oxfam-2/
+title: "OXFAM"
+url: /muenchen/oxfam/
 ---

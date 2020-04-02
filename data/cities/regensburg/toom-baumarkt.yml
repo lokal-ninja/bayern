@@ -1,12 +1,12 @@
-id: 42750456
-type: way
+id: 281128231
+type: node
 shop: Baumarkt
-latitude: 49.0283972
-longitude: 12.113672900000001
-postcode: 93059
+latitude: 49.007753300000005
+longitude: 12.0623927
+postcode: 93051
 city: Regensburg
-street: Frankenstraße
-housenumber: 2c
-phone: "+49 941 4671091 0"
+street: Doktor-Gessler-Straße
+housenumber: 47
+phone: "+49 941 630804-10"
 opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.toom-baumarkt.de/mein-markt/details/regensburg-frankenstrasse"
+website: "http://www.toom-baumarkt.de"

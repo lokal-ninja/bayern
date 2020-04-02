@@ -1,4 +1,4 @@
 ---
 title: "Blumen Schwarz"
-url: /schwabach/blumen-schwarz-2/
+url: /schwabach/blumen-schwarz/
 ---

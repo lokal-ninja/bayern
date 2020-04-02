@@ -1,4 +1,4 @@
 ---
 title: "Matratzen Concord"
-url: /muenchen/matratzen-concord-2/
+url: /muenchen/matratzen-concord/
 ---

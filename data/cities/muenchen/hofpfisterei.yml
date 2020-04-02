@@ -1,12 +1,12 @@
-id: 346567417
-type: way
+id: 291103871
+type: node
 shop: Bäckerei
-latitude: 48.139732800000004
-longitude: 11.5608055
-postcode: 80335
+latitude: 48.140922100000004
+longitude: 11.588670400000002
+postcode: 80538
 city: München
-street: 
-housenumber: 
-phone: "+49 89 51657855"
-opening_hours: "Mo-Fr 06:30-20:00; Sa 07:30-20:00"
-website: "https://www.hofpfisterei.de"
+street: Liebigstraße
+housenumber: 10a
+phone: "+49 89 21031475"
+opening_hours: "Mo-Fr 07:15-18:30; Sa 07:15-13:00"
+website: "https://www.hofpfisterei.de/"

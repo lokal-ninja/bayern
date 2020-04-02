@@ -1,4 +1,4 @@
 ---
 title: "Hulinsky"
-url: /bayreuth/hulinsky-2/
+url: /bayreuth/hulinsky/
 ---

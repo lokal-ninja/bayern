@@ -1,4 +1,4 @@
 ---
 title: "Fiegert"
-url: /ottobrunn/fiegert-2/
+url: /ottobrunn/fiegert/
 ---

@@ -1,4 +1,4 @@
 ---
 title: "dm"
-url: /burghausen/dm-2/
+url: /burghausen/dm/
 ---

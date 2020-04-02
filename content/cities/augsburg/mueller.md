@@ -1,4 +1,4 @@
 ---
 title: "Müller"
-url: /augsburg/mueller-2/
+url: /augsburg/mueller/
 ---

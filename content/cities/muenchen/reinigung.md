@@ -1,4 +1,4 @@
 ---
 title: "Reinigung"
-url: /muenchen/reinigung-2/
+url: /muenchen/reinigung/
 ---

@@ -1,4 +1,4 @@
 ---
 title: "Wohnorama Möbel Kuch"
-url: /fuerth/wohnorama-moebel-kuch-2/
+url: /fuerth/wohnorama-moebel-kuch/
 ---

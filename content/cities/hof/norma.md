@@ -1,4 +1,4 @@
 ---
 title: "Norma"
-url: /hof/norma-2/
+url: /hof/norma/
 ---

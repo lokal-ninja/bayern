@@ -1,4 +1,4 @@
 ---
 title: "Lidl"
-url: /gauting/lidl-2/
+url: /gauting/lidl/
 ---

@@ -1,12 +1,12 @@
-id: 1786809220
+id: 1786709363
 type: node
-shop: Tante Emma
-latitude: 48.365635000000005
-longitude: 11.459338800000001
+shop: Bäckerei
+latitude: 48.3656348
+longitude: 11.4592478
 postcode: 85256
 city: Vierkirchen
 street: Gröbmaierstraße
 housenumber: 3
-phone: ""
-opening_hours: ""
-website: ""
+phone: "+49 8139 430"
+opening_hours: "Mo-Fr. 5:30-18:00, Sa 5:30-12:00, Su 7:30-11:00"
+website: "https://baeckerei-woermann.de/"

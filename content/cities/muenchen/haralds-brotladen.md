@@ -1,4 +1,4 @@
 ---
 title: "Harald's Brotladen"
-url: /muenchen/haralds-brotladen-2/
+url: /muenchen/haralds-brotladen/
 ---

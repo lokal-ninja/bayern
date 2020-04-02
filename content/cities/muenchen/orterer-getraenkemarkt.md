@@ -1,4 +1,4 @@
 ---
 title: "Orterer Getränkemarkt"
-url: /muenchen/orterer-getraenkemarkt-2/
+url: /muenchen/orterer-getraenkemarkt/
 ---

@@ -1,4 +1,4 @@
 ---
 title: "New Yorker"
-url: /erlangen/new-yorker-2/
+url: /erlangen/new-yorker/
 ---

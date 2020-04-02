@@ -1,4 +1,4 @@
 ---
 title: "Shell"
-url: /hersbruck/shell-2/
+url: /hersbruck/shell/
 ---

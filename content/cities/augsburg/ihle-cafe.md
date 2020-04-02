@@ -1,4 +1,4 @@
 ---
 title: "Ihle-Café"
-url: /augsburg/ihle-cafe-2/
+url: /augsburg/ihle-cafe/
 ---

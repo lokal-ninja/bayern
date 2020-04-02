@@ -1,4 +1,4 @@
 ---
 title: "Rimowa"
-url: /muenchen/rimowa-2/
+url: /muenchen/rimowa/
 ---

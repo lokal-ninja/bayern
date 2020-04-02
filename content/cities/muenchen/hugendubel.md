@@ -1,4 +1,4 @@
 ---
 title: "Hugendubel"
-url: /muenchen/hugendubel-2/
+url: /muenchen/hugendubel/
 ---

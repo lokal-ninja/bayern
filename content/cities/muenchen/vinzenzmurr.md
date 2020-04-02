@@ -1,4 +1,4 @@
 ---
 title: "Vinzenzmurr"
-url: /muenchen/vinzenzmurr-2/
+url: /muenchen/vinzenzmurr/
 ---

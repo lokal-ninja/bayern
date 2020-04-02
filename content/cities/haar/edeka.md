@@ -1,4 +1,4 @@
 ---
 title: "Edeka"
-url: /haar/edeka-2/
+url: /haar/edeka/
 ---

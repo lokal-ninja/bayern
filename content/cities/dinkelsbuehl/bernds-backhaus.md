@@ -1,4 +1,4 @@
 ---
 title: "Bernd's Backhaus"
-url: /dinkelsbuehl/bernds-backhaus-2/
+url: /dinkelsbuehl/bernds-backhaus/
 ---

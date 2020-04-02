@@ -1,4 +1,4 @@
 ---
 title: "Vitalia Reformhaus"
-url: /muenchen/vitalia-reformhaus-2/
+url: /muenchen/vitalia-reformhaus/
 ---

@@ -1,4 +1,4 @@
 ---
 title: "Bäckerei Roßner"
-url: /muenchberg/baeckerei-rossner-2/
+url: /muenchberg/baeckerei-rossner/
 ---

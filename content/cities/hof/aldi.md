@@ -1,4 +1,4 @@
 ---
-title: "ALDI"
-url: /hof/aldi-2/
+title: "Aldi"
+url: /hof/aldi/
 ---

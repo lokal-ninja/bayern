@@ -1,12 +1,12 @@
-id: 336674972
-type: way
+id: 2807538137
+type: node
 shop: Supermarkt
-latitude: 50.056240300000006
-longitude: 10.227742000000001
-postcode: 97422
+latitude: 50.0446681
+longitude: 10.227824100000001
+postcode: 97421
 city: Schweinfurt
-street: Heckenweg
-housenumber: 4
+street: Hadergasse
+housenumber: 31a
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su off"
+opening_hours: "Mo-Sa 07:00-20:00"
 website: ""

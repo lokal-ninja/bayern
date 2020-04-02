@@ -1,12 +1,12 @@
-id: 52569221
-type: way
+id: 792616492
+type: node
 shop: Bäckerei
-latitude: 48.763862
-longitude: 11.4241287
-postcode: 85049
+latitude: 48.766207900000005
+longitude: 11.439191800000001
+postcode: 85055
 city: Ingolstadt
-street: Moritzstraße
-housenumber: 1
-phone: ""
-opening_hours: ""
+street: Schillerstraße
+housenumber: 59
+phone: "+49 841 56800"
+opening_hours: "Mo-Fr 05:45-18:00; Sa 05:30-13:00; Su 07:00-11:00"
 website: ""

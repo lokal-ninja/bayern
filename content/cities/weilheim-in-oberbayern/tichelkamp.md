@@ -1,4 +1,4 @@
 ---
 title: "Tichelkamp"
-url: /weilheim-in-oberbayern/tichelkamp-2/
+url: /weilheim-in-oberbayern/tichelkamp/
 ---

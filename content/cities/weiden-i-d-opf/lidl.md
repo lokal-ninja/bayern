@@ -1,4 +1,4 @@
 ---
 title: "Lidl"
-url: /weiden-i-d-opf/lidl-2/
+url: /weiden-i-d-opf/lidl/
 ---

@@ -1,4 +1,4 @@
 ---
 title: "Reiter"
-url: /augsburg/reiter-2/
+url: /augsburg/reiter/
 ---

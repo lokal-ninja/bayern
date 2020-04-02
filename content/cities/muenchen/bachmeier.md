@@ -1,4 +1,4 @@
 ---
 title: "Bachmeier"
-url: /muenchen/bachmeier-2/
+url: /muenchen/bachmeier/
 ---

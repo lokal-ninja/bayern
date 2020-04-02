@@ -1,4 +1,4 @@
 ---
 title: "Woolworth"
-url: /muenchen/woolworth-2/
+url: /muenchen/woolworth/
 ---

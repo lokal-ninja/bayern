@@ -1,12 +1,12 @@
-id: 6389528124
+id: 2821833747
 type: node
 shop: Wettbüro
-latitude: 48.145075600000006
-longitude: 11.559329100000001
-postcode: 80333
+latitude: 48.1802981
+longitude: 11.5132364
+postcode: 80992
 city: München
-street: Karlstraße
-housenumber: 49
+street: Dachauer Straße
+housenumber: 264
 phone: ""
-opening_hours: "Mo-Sa 10:00-23:00; Su 11:00-23:00; PH closed"
-website: "https://www.tipico.de/"
+opening_hours: "Mo-So 10:00-20:00"
+website: ""

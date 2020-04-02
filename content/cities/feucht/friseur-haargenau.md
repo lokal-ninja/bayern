@@ -1,4 +1,4 @@
 ---
 title: "Friseur Haargenau"
-url: /feucht/friseur-haargenau-2/
+url: /feucht/friseur-haargenau/
 ---

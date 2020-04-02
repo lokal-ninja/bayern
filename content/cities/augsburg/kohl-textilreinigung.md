@@ -1,4 +1,4 @@
 ---
 title: "Kohl Textilreinigung"
-url: /augsburg/kohl-textilreinigung-2/
+url: /augsburg/kohl-textilreinigung/
 ---

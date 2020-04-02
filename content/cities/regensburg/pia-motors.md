@@ -1,4 +1,4 @@
 ---
 title: "PIA Motors"
-url: /regensburg/pia-motors-2/
+url: /regensburg/pia-motors/
 ---

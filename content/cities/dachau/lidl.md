@@ -1,4 +1,4 @@
 ---
 title: "Lidl"
-url: /dachau/lidl-2/
+url: /dachau/lidl/
 ---

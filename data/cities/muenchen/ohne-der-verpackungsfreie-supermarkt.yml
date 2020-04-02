@@ -1,12 +1,12 @@
-id: 1573738322
+id: 1313604297
 type: node
 shop: Supermarkt
-latitude: 48.1507737
-longitude: 11.5745763
-postcode: 80799
+latitude: 48.1273713
+longitude: 11.596255600000001
+postcode: 
 city: München
-street: Schellingstraße
-housenumber: 42
+street: Rosenheimer Straße
+housenumber: 85
 phone: ""
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00"
-website: "http://www.ohne-laden.de/"
+opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su,PH off"
+website: ""

@@ -1,4 +1,4 @@
 ---
 title: "Backhaus Müller"
-url: /kronach/backhaus-mueller-2/
+url: /kronach/backhaus-mueller/
 ---

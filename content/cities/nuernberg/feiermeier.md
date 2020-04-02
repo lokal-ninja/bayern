@@ -1,4 +1,4 @@
 ---
-title: "feiermeier"
-url: /nuernberg/feiermeier-2/
+title: "Feiermeier"
+url: /nuernberg/feiermeier/
 ---

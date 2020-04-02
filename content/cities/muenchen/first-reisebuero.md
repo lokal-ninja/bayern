@@ -1,4 +1,4 @@
 ---
 title: "First Reisebüro"
-url: /muenchen/first-reisebuero-2/
+url: /muenchen/first-reisebuero/
 ---

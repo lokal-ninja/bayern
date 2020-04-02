@@ -1,4 +1,4 @@
 ---
 title: "OBI"
-url: /muenchen/obi-2/
+url: /muenchen/obi/
 ---

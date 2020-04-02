@@ -1,12 +1,12 @@
-id: 48067588
-type: way
-shop: Autohaus
-latitude: 48.3481066
-longitude: 10.8858019
+id: 2418576207
+type: node
+shop: Autowerkstatt
+latitude: 48.348664400000004
+longitude: 10.8855933
 postcode: 86199
 city: Augsburg
 street: Eichleitnerstraße
 housenumber: 11
-phone: ""
-opening_hours: ""
-website: ""
+phone: "+49 821 5 70 47-0"
+opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00"
+website: "http://www.audi-partner.de/de_partner/p_27944/de.html"

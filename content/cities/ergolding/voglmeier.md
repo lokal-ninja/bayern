@@ -1,4 +1,4 @@
 ---
 title: "Voglmeier"
-url: /ergolding/voglmeier-2/
+url: /ergolding/voglmeier/
 ---

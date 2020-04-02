@@ -1,4 +1,4 @@
 ---
 title: "Gerstberger"
-url: /kempten-allgaeu/gerstberger-2/
+url: /kempten-allgaeu/gerstberger/
 ---

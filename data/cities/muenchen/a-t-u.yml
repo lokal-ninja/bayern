@@ -1,12 +1,12 @@
-id: 593110845
-type: way
+id: 279876587
+type: node
 shop: Autowerkstatt
-latitude: 48.1461842
-longitude: 11.4424708
-postcode: 81243
+latitude: 48.122559700000004
+longitude: 11.6627349
+postcode: 81825
 city: München
-street: Bodenseestraße
-housenumber: 100
+street: Kreillerstraße
+housenumber: 215
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 07:30-20:00; Sa 08:00-16:00"
 website: ""

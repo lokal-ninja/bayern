@@ -1,4 +1,4 @@
 ---
 title: "Autohaus Angerer"
-url: /schierling/autohaus-angerer-2/
+url: /schierling/autohaus-angerer/
 ---

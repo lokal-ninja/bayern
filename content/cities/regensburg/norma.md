@@ -1,4 +1,4 @@
 ---
 title: "Norma"
-url: /regensburg/norma-2/
+url: /regensburg/norma/
 ---

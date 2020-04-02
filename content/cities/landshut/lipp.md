@@ -1,4 +1,4 @@
 ---
 title: "Lipp"
-url: /landshut/lipp-2/
+url: /landshut/lipp/
 ---

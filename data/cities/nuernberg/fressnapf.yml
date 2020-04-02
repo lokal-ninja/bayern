@@ -1,12 +1,12 @@
-id: 144838666
-type: way
+id: 1808146046
+type: node
 shop: Tiere
-latitude: 49.44032240000001
-longitude: 11.015015
-postcode: 90431
+latitude: 49.462645300000005
+longitude: 11.1483419
+postcode: 90482
 city: Nürnberg
-street: Rothenburger Straße
-housenumber: 451
-phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: ""
+street: Eslarner Straße
+housenumber: 2
+phone: "+49 911 5063825"
+opening_hours: ""
+website: "https://www.fressnapf.de/marktfinder"

@@ -1,4 +1,4 @@
 ---
 title: "Bäckerei Konditorei Wolf"
-url: /augsburg/baeckerei-konditorei-wolf-2/
+url: /augsburg/baeckerei-konditorei-wolf/
 ---

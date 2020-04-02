@@ -1,4 +1,4 @@
 ---
 title: "Sickinger"
-url: /graefelfing/sickinger-2/
+url: /graefelfing/sickinger/
 ---

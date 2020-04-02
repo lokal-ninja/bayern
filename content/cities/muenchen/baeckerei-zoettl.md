@@ -1,4 +1,4 @@
 ---
 title: "Bäckerei Zöttl"
-url: /muenchen/baeckerei-zoettl-2/
+url: /muenchen/baeckerei-zoettl/
 ---

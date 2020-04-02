@@ -1,4 +1,4 @@
 ---
 title: "Sagasser Getränkefachmarkt"
-url: /wuerzburg/sagasser-getraenkefachmarkt-2/
+url: /wuerzburg/sagasser-getraenkefachmarkt/
 ---

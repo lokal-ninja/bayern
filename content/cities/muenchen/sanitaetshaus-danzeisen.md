@@ -1,4 +1,4 @@
 ---
 title: "Sanitätshaus Danzeisen"
-url: /muenchen/sanitaetshaus-danzeisen-2/
+url: /muenchen/sanitaetshaus-danzeisen/
 ---

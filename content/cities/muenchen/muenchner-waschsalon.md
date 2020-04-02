@@ -1,4 +1,4 @@
 ---
 title: "Münchner Waschsalon"
-url: /muenchen/muenchner-waschsalon-2/
+url: /muenchen/muenchner-waschsalon/
 ---

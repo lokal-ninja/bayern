@@ -1,4 +1,4 @@
 ---
 title: "Lehner"
-url: /treuchtlingen/lehner-2/
+url: /treuchtlingen/lehner/
 ---

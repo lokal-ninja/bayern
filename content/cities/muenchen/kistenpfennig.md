@@ -1,4 +1,4 @@
 ---
 title: "Kistenpfennig"
-url: /muenchen/kistenpfennig-2/
+url: /muenchen/kistenpfennig/
 ---

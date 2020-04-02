@@ -1,4 +1,4 @@
 ---
 title: "Dänisches Bettenlager"
-url: /muenchen/daenisches-bettenlager-2/
+url: /muenchen/daenisches-bettenlager/
 ---

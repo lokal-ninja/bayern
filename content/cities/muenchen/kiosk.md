@@ -1,4 +1,4 @@
 ---
 title: "Kiosk"
-url: /muenchen/kiosk-2/
+url: /muenchen/kiosk/
 ---

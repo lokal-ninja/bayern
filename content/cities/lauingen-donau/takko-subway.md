@@ -1,4 +1,4 @@
 ---
 title: "Takko;Subway"
-url: /lauingen-donau/takko-subway-2/
+url: /lauingen-donau/takko-subway/
 ---

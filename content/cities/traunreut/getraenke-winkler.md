@@ -1,4 +1,4 @@
 ---
 title: "Getränke Winkler"
-url: /traunreut/getraenke-winkler-2/
+url: /traunreut/getraenke-winkler/
 ---

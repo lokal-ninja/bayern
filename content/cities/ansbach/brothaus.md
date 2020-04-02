@@ -1,4 +1,4 @@
 ---
 title: "Brothaus"
-url: /ansbach/brothaus-2/
+url: /ansbach/brothaus/
 ---

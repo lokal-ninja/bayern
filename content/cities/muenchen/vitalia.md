@@ -1,4 +1,4 @@
 ---
 title: "Vitalia"
-url: /muenchen/vitalia-2/
+url: /muenchen/vitalia/
 ---

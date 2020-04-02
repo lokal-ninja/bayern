@@ -1,4 +1,4 @@
 ---
 title: "Brössler"
-url: /stockstadt-am-main/broessler-2/
+url: /stockstadt-am-main/broessler/
 ---

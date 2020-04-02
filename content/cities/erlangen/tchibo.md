@@ -1,4 +1,4 @@
 ---
 title: "Tchibo"
-url: /erlangen/tchibo-2/
+url: /erlangen/tchibo/
 ---

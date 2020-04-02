@@ -1,4 +1,4 @@
 ---
 title: "Autohaus Gerhard"
-url: /muenchen/autohaus-gerhard-2/
+url: /muenchen/autohaus-gerhard/
 ---

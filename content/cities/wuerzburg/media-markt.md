@@ -1,4 +1,4 @@
 ---
 title: "Media Markt"
-url: /wuerzburg/media-markt-2/
+url: /wuerzburg/media-markt/
 ---

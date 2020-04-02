@@ -1,12 +1,12 @@
-id: 37300577
-type: way
+id: 349237633
+type: node
 shop: Bäckerei
-latitude: 49.588621
-longitude: 10.9741196
-postcode: 91056
+latitude: 49.596604000000006
+longitude: 11.0220365
+postcode: 91052
 city: Erlangen
-street: Schallershofer Straße
-housenumber: 72
-phone: "+49 9131 42271"
-opening_hours: "Mo-Sa 05:30-12:00"
-website: ""
+street: Luitpoldstraße
+housenumber: 71
+phone: "+49 9131 4001133"
+opening_hours: "06:00-18:00"
+website: "https://www.baeckerei-trapper.de/"

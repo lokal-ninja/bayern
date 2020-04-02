@@ -1,4 +1,4 @@
 ---
 title: "EuroShop"
-url: /nuernberg/euroshop-2/
+url: /nuernberg/euroshop/
 ---

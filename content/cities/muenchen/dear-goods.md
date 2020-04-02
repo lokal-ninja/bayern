@@ -1,4 +1,4 @@
 ---
 title: "Dear Goods"
-url: /muenchen/dear-goods-2/
+url: /muenchen/dear-goods/
 ---

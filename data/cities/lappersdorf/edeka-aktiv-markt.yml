@@ -1,12 +1,12 @@
-id: 116980164
-type: way
+id: 889277035
+type: node
 shop: Supermarkt
-latitude: 49.072903100000005
-longitude: 12.047296600000001
+latitude: 49.059016
+longitude: 12.091064800000002
 postcode: 93138
 city: Lappersdorf
-street: Turlweg
-housenumber: 69
-phone: "+49 941 8703250"
-opening_hours: "Mo-Sa 08:00-20:00"
+street: Regendorfer Straße
+housenumber: 5
+phone: ""
+opening_hours: "Mo-Fr 08:15-20:00; Sa 07:00-18:00"
 website: ""

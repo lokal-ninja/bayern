@@ -1,4 +1,4 @@
 ---
-title: "REWE"
-url: /neunkirchen-a-sand/rewe-2/
+title: "Rewe"
+url: /neunkirchen-a-sand/rewe/
 ---

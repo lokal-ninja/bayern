@@ -1,12 +1,12 @@
-id: 3686217063
+id: 3686194884
 type: node
 shop: Supermarkt
-latitude: 49.3776566
-longitude: 12.697653500000001
+latitude: 49.3772305
+longitude: 12.706013500000001
 postcode: 93449
 city: Waldmünchen
-street: Heinrich-Eiber-Straße
-housenumber: 7-9
+street: Marktplatz
+housenumber: 8
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.edeka.de/"
+opening_hours: ""
+website: ""

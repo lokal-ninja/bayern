@@ -1,4 +1,4 @@
 ---
 title: "Tante Emma"
-url: /augsburg/tante-emma-2/
+url: /augsburg/tante-emma/
 ---

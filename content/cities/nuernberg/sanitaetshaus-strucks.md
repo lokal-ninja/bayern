@@ -1,4 +1,4 @@
 ---
 title: "Sanitätshaus Strucks"
-url: /nuernberg/sanitaetshaus-strucks-2/
+url: /nuernberg/sanitaetshaus-strucks/
 ---

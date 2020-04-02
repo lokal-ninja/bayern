@@ -1,4 +1,4 @@
 ---
 title: "Raiffeisen-Markt"
-url: /hilpoltstein/raiffeisen-markt-2/
+url: /hilpoltstein/raiffeisen-markt/
 ---

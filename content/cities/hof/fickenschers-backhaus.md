@@ -1,4 +1,4 @@
 ---
 title: "Fickenschers Backhaus"
-url: /hof/fickenschers-backhaus-2/
+url: /hof/fickenschers-backhaus/
 ---

@@ -1,4 +1,4 @@
 ---
 title: "Norma"
-url: /ansbach/norma-2/
+url: /ansbach/norma/
 ---

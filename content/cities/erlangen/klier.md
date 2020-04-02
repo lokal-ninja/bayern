@@ -1,4 +1,4 @@
 ---
 title: "Klier"
-url: /erlangen/klier-2/
+url: /erlangen/klier/
 ---

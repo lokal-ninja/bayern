@@ -1,12 +1,12 @@
-id: 28725107
-type: way
+id: 310552455
+type: node
 shop: Supermarkt
-latitude: 49.36535000000001
-longitude: 11.048873400000002
-postcode: 90453
+latitude: 49.465630000000004
+longitude: 11.10065
+postcode: 90489
 city: Nürnberg
-street: Katzwanger Hauptstraße
-housenumber: 102
+street: Welserstraße
+housenumber: 70
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"
 website: ""

@@ -1,4 +1,4 @@
 ---
 title: "Bäckerei Seitz"
-url: /schrobenhausen/baeckerei-seitz-2/
+url: /schrobenhausen/baeckerei-seitz/
 ---

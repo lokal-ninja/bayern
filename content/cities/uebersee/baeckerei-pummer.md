@@ -1,4 +1,4 @@
 ---
 title: "Bäckerei Pummer"
-url: /uebersee/baeckerei-pummer-2/
+url: /uebersee/baeckerei-pummer/
 ---

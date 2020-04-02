@@ -1,4 +1,4 @@
 ---
 title: "Konditorei Markus"
-url: /muenchen/konditorei-markus-2/
+url: /muenchen/konditorei-markus/
 ---

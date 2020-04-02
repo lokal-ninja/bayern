@@ -1,4 +1,4 @@
 ---
 title: "Niebler"
-url: /gersthofen/niebler-2/
+url: /gersthofen/niebler/
 ---

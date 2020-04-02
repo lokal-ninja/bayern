@@ -1,4 +1,4 @@
 ---
 title: "Getränke Planet"
-url: /muenchen/getraenke-planet-2/
+url: /muenchen/getraenke-planet/
 ---

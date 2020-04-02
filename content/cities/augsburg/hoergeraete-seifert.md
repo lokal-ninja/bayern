@@ -1,4 +1,4 @@
 ---
 title: "Hörgeräte Seifert"
-url: /augsburg/hoergeraete-seifert-2/
+url: /augsburg/hoergeraete-seifert/
 ---

@@ -1,4 +1,4 @@
 ---
 title: "Edeka"
-url: /garmisch-partenkirchen/edeka-2/
+url: /garmisch-partenkirchen/edeka/
 ---

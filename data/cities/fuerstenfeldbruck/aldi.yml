@@ -1,12 +1,12 @@
-id: 1226842043
+id: 417233304
 type: node
 shop: Supermarkt
-latitude: 48.162354900000004
-longitude: 11.2227329
+latitude: 48.1929066
+longitude: 11.2556902
 postcode: 82256
 city: Fürstenfeldbruck
-street: Industriestraße
-housenumber: 1
+street: Maisacher Straße
+housenumber: 123
 phone: ""
-opening_hours: ""
-website: "https://www.aldi-sued.de/"
+opening_hours: "Mo-Sa 08:00-20:00"
+website: ""

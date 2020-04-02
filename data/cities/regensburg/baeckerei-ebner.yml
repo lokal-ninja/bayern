@@ -1,12 +1,12 @@
-id: 120129708
-type: way
+id: 602173129
+type: node
 shop: Bäckerei
-latitude: 48.9898497
-longitude: 12.1418069
-postcode: 93055
+latitude: 49.0302688
+longitude: 12.124755500000001
+postcode: 93059
 city: Regensburg
-street: Hartinger Straße
-housenumber: 9
-phone: ""
-opening_hours: "Mo-Fr 05:30-18:30; Sa 05:30-13:00; Su,PH 07:30-10:30"
+street: Im Gewerbepark
+housenumber: C7
+phone: "+49 941 78 71 - 0"
+opening_hours: "Mo-Fr 6:30-18:30, Sa 6:30-14:00"
 website: ""

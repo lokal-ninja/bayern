@@ -1,4 +1,4 @@
 ---
 title: "Norma"
-url: /weiden-i-d-opf/norma-2/
+url: /weiden-i-d-opf/norma/
 ---

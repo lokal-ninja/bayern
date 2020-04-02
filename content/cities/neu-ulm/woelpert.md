@@ -1,4 +1,4 @@
 ---
 title: "Wölpert"
-url: /neu-ulm/woelpert-2/
+url: /neu-ulm/woelpert/
 ---

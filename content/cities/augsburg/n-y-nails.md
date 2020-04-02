@@ -1,4 +1,4 @@
 ---
 title: "N.Y. Nails"
-url: /augsburg/n-y-nails-2/
+url: /augsburg/n-y-nails/
 ---

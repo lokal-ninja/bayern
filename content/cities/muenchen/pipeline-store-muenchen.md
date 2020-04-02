@@ -1,4 +1,4 @@
 ---
 title: "Pipeline Store München"
-url: /muenchen/pipeline-store-muenchen-2/
+url: /muenchen/pipeline-store-muenchen/
 ---

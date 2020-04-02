@@ -1,4 +1,4 @@
 ---
 title: "Feneberg"
-url: /kempten-allgaeu/feneberg-2/
+url: /kempten-allgaeu/feneberg/
 ---

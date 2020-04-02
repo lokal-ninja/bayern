@@ -1,4 +1,4 @@
 ---
 title: "nah & gut Hartl"
-url: /innernzell/nah-und-gut-hartl-2/
+url: /innernzell/nah-und-gut-hartl/
 ---

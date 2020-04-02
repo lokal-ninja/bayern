@@ -1,4 +1,4 @@
 ---
 title: "Der Radlmarkt"
-url: /muenchen/der-radlmarkt-2/
+url: /muenchen/der-radlmarkt/
 ---

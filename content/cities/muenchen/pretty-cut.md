@@ -1,4 +1,4 @@
 ---
-title: "PRETTY CUT"
-url: /muenchen/pretty-cut-2/
+title: "Pretty Cut"
+url: /muenchen/pretty-cut/
 ---

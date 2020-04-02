@@ -1,4 +1,4 @@
 ---
 title: "Anders"
-url: /bad-aibling/anders-2/
+url: /bad-aibling/anders/
 ---

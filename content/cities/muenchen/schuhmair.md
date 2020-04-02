@@ -1,4 +1,4 @@
 ---
 title: "Schuhmair"
-url: /muenchen/schuhmair-2/
+url: /muenchen/schuhmair/
 ---

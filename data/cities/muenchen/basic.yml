@@ -1,12 +1,12 @@
-id: 499338957
-type: way
+id: 433909625
+type: node
 shop: Supermarkt
-latitude: 48.122852
-longitude: 11.670407200000001
-postcode: 81825
+latitude: 48.162584300000006
+longitude: 11.5642385
+postcode: 80797
 city: München
-street: Hafelhofweg
-housenumber: 5
+street: Schleißheimer Straße
+housenumber: 158
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH closed"
-website: "https://basicbio.de"
+opening_hours: "Mo-Sa 08:00-20:00"
+website: ""

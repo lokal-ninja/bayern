@@ -1,4 +1,4 @@
 ---
-title: "OBI"
-url: /erlangen/obi-2/
+title: "Obi"
+url: /erlangen/obi/
 ---

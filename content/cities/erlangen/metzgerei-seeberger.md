@@ -1,4 +1,4 @@
 ---
 title: "Metzgerei Seeberger"
-url: /erlangen/metzgerei-seeberger-2/
+url: /erlangen/metzgerei-seeberger/
 ---

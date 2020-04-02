@@ -1,4 +1,4 @@
 ---
 title: "Trapper"
-url: /erlangen/trapper-2/
+url: /erlangen/trapper/
 ---

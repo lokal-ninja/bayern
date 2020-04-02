@@ -1,12 +1,12 @@
-id: 234589446
-type: way
+id: 567548452
+type: node
 shop: Supermarkt
-latitude: 49.595094100000004
-longitude: 10.9494717
+latitude: 49.587654300000004
+longitude: 10.9770014
 postcode: 91056
 city: Erlangen
-street: Mönaustraße
-housenumber: 75
+street: Neumühle
+housenumber: 4
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: "Mo-Sa 07:00-20:00"
 website: "https://www.lidl.de/"

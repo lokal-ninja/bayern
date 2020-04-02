@@ -1,4 +1,4 @@
 ---
 title: "Feihl"
-url: /nuernberg/feihl-2/
+url: /nuernberg/feihl/
 ---

@@ -1,4 +1,4 @@
 ---
 title: "Markgrafen Getränkemarkt"
-url: /nuernberg/markgrafen-getraenkemarkt-2/
+url: /nuernberg/markgrafen-getraenkemarkt/
 ---

@@ -1,4 +1,4 @@
 ---
 title: "Confiserie Micksch"
-url: /muenchen/confiserie-micksch-2/
+url: /muenchen/confiserie-micksch/
 ---

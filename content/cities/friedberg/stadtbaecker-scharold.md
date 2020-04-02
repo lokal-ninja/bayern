@@ -1,4 +1,4 @@
 ---
 title: "Stadtbäcker Scharold"
-url: /friedberg/stadtbaecker-scharold-2/
+url: /friedberg/stadtbaecker-scharold/
 ---

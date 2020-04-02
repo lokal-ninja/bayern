@@ -1,4 +1,4 @@
 ---
-title: "Lotto"
-url: /muenchen/lotto-2/
+title: "LOTTO"
+url: /muenchen/lotto/
 ---

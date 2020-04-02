@@ -1,4 +1,4 @@
 ---
 title: "Der Beck"
-url: /nuernberg/der-beck-2/
+url: /nuernberg/der-beck/
 ---

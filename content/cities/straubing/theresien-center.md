@@ -1,4 +1,4 @@
 ---
 title: "Theresien Center"
-url: /straubing/theresien-center-2/
+url: /straubing/theresien-center/
 ---

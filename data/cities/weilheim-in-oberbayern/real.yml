@@ -1,12 +1,12 @@
-id: 87867336
-type: way
-shop: Supermarkt
-latitude: 47.842869400000005
-longitude: 11.1488788
+id: 286673704
+type: node
+shop: Andere
+latitude: 47.842951500000005
+longitude: 11.148888300000001
 postcode: 82362
 city: Weilheim in Oberbayern
 street: Kaltenmoserstraße
 housenumber: 28
 phone: ""
-opening_hours: "Mo-Sa 7:00-20:00"
-website: "https://www.real.de/markt-weilheim"
+opening_hours: "Mo-Sa 07:00-20:00"
+website: ""

@@ -1,4 +1,4 @@
 ---
 title: "Metzgerei Walk"
-url: /nuernberg/metzgerei-walk-2/
+url: /nuernberg/metzgerei-walk/
 ---

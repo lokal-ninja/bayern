@@ -1,4 +1,4 @@
 ---
 title: "Auto Albrecht"
-url: /straubing/auto-albrecht-2/
+url: /straubing/auto-albrecht/
 ---

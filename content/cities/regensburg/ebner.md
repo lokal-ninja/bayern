@@ -1,4 +1,4 @@
 ---
 title: "Ebner"
-url: /regensburg/ebner-2/
+url: /regensburg/ebner/
 ---

@@ -1,4 +1,4 @@
 ---
 title: "Reiselust"
-url: /erlangen/reiselust-2/
+url: /erlangen/reiselust/
 ---

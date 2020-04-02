@@ -1,4 +1,4 @@
 ---
 title: "Bäckerei Lang"
-url: /koeditz/baeckerei-lang-2/
+url: /koeditz/baeckerei-lang/
 ---

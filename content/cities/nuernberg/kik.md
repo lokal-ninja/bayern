@@ -1,4 +1,4 @@
 ---
 title: "KiK"
-url: /nuernberg/kik-2/
+url: /nuernberg/kik/
 ---

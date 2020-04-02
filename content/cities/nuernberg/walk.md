@@ -1,4 +1,4 @@
 ---
 title: "Walk"
-url: /nuernberg/walk-2/
+url: /nuernberg/walk/
 ---

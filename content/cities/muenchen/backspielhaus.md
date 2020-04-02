@@ -1,4 +1,4 @@
 ---
-title: "Backspielhaus"
-url: /muenchen/backspielhaus-2/
+title: "BackSpielHaus"
+url: /muenchen/backspielhaus/
 ---

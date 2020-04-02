@@ -1,4 +1,4 @@
 ---
 title: "King Bazar"
-url: /deggendorf/king-bazar-2/
+url: /deggendorf/king-bazar/
 ---

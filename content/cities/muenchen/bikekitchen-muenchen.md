@@ -1,4 +1,4 @@
 ---
 title: "Bikekitchen München"
-url: /muenchen/bikekitchen-muenchen-2/
+url: /muenchen/bikekitchen-muenchen/
 ---

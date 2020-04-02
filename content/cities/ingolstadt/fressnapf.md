@@ -1,4 +1,4 @@
 ---
 title: "Fressnapf"
-url: /ingolstadt/fressnapf-2/
+url: /ingolstadt/fressnapf/
 ---

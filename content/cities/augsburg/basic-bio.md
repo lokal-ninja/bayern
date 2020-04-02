@@ -1,4 +1,4 @@
 ---
-title: "basic bio"
-url: /augsburg/basic-bio-2/
+title: "Basic Bio"
+url: /augsburg/basic-bio/
 ---

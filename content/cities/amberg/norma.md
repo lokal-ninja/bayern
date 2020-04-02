@@ -1,4 +1,4 @@
 ---
 title: "Norma"
-url: /amberg/norma-2/
+url: /amberg/norma/
 ---

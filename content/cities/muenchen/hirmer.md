@@ -1,4 +1,4 @@
 ---
 title: "Hirmer"
-url: /muenchen/hirmer-2/
+url: /muenchen/hirmer/
 ---

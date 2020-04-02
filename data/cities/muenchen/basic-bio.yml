@@ -1,12 +1,12 @@
-id: 117372544
-type: way
+id: 2400224957
+type: node
 shop: Supermarkt
-latitude: 48.164901900000004
-longitude: 11.4903779
-postcode: 81247
+latitude: 48.103262900000004
+longitude: 11.530792100000001
+postcode: 81379
 city: München
-street: Amalienburgstraße
-housenumber: 6
+street: Passauerstraße
+housenumber: 183
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
-website: "https://basicbio.de/de-DE/Maerkte"
+opening_hours: ""
+website: ""

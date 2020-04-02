@@ -1,4 +1,4 @@
 ---
 title: "Hackner"
-url: /ingolstadt/hackner-2/
+url: /ingolstadt/hackner/
 ---

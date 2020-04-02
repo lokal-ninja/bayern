@@ -1,4 +1,4 @@
 ---
 title: "Netto"
-url: /memmingen/netto-2/
+url: /memmingen/netto/
 ---

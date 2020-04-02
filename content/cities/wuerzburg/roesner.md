@@ -1,4 +1,4 @@
 ---
 title: "Rösner"
-url: /wuerzburg/roesner-2/
+url: /wuerzburg/roesner/
 ---

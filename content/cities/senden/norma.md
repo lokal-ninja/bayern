@@ -1,4 +1,4 @@
 ---
 title: "Norma"
-url: /senden/norma-2/
+url: /senden/norma/
 ---

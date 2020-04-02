@@ -1,4 +1,4 @@
 ---
 title: "Auto Till"
-url: /hoehenkirchen-siegertsbrunn/auto-till-2/
+url: /hoehenkirchen-siegertsbrunn/auto-till/
 ---

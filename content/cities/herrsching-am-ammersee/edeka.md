@@ -1,4 +1,4 @@
 ---
 title: "Edeka"
-url: /herrsching-am-ammersee/edeka-2/
+url: /herrsching-am-ammersee/edeka/
 ---

@@ -1,4 +1,4 @@
 ---
 title: "Modehaus Kirner"
-url: /hohenthann/modehaus-kirner-2/
+url: /hohenthann/modehaus-kirner/
 ---

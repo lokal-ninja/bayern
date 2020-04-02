@@ -1,4 +1,4 @@
 ---
 title: "Rösner Backstube"
-url: /wuerzburg/roesner-backstube-2/
+url: /wuerzburg/roesner-backstube/
 ---

@@ -1,4 +1,4 @@
 ---
 title: "Dehner"
-url: /nuernberg/dehner-2/
+url: /nuernberg/dehner/
 ---

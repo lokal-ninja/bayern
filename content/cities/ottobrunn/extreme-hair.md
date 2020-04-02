@@ -1,4 +1,4 @@
 ---
 title: "Extreme hair"
-url: /ottobrunn/extreme-hair-2/
+url: /ottobrunn/extreme-hair/
 ---

@@ -1,4 +1,4 @@
 ---
-title: "Lidl"
-url: /augsburg/lidl-2/
+title: "LIDL"
+url: /augsburg/lidl/
 ---

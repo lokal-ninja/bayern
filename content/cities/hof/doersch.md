@@ -1,4 +1,4 @@
 ---
 title: "Dörsch"
-url: /hof/doersch-2/
+url: /hof/doersch/
 ---

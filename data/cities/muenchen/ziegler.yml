@@ -1,12 +1,12 @@
-id: 2396218484
+id: 1209459212
 type: node
 shop: Bäckerei
-latitude: 48.0922889
-longitude: 11.530784500000001
-postcode: 81379
+latitude: 48.1786061
+longitude: 11.532454600000001
+postcode: 80992
 city: München
-street: Baierbrunner Straße
-housenumber: 75
+street: Gneisenaustraße
+housenumber: 20
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: ""
+opening_hours: "Mo-Fr 05:30-18:30; Sa 05:30-16:00; Su 08:00-16:00"
+website: "http://www.baeckerei-ziegler.de/"

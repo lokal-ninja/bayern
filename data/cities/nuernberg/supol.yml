@@ -1,12 +1,12 @@
-id: 1529570386
+id: 130561436
 type: node
-shop: Kiosk
-latitude: 49.4454234
-longitude: 11.0682905
-postcode: 90443
+shop: Allgemein
+latitude: 49.480698000000004
+longitude: 11.117271500000001
+postcode: 90411
 city: Nürnberg
-street: Schanzäckerstraße
-housenumber: 7-9
-phone: "+49 911 224490"
-opening_hours: "Mo-Fr 07:00-23:00; Sa 08:00-23:00; PH,Su 09:15-22:00"
-website: ""
+street: Schafhofstraße
+housenumber: 9
+phone: "+49 911 525712"
+opening_hours: "Mo-Fr 06:00-23:00; Sa-Su 08:00-23:00"
+website: "http://www.supol.de"

@@ -1,4 +1,4 @@
 ---
 title: "Dorfbackhaus"
-url: /regensburg/dorfbackhaus-2/
+url: /regensburg/dorfbackhaus/
 ---

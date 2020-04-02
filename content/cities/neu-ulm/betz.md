@@ -1,4 +1,4 @@
 ---
 title: "Betz"
-url: /neu-ulm/betz-2/
+url: /neu-ulm/betz/
 ---

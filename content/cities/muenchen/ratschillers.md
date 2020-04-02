@@ -1,4 +1,4 @@
 ---
 title: "Ratschiller's"
-url: /muenchen/ratschillers-2/
+url: /muenchen/ratschillers/
 ---

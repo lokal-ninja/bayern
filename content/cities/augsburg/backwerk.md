@@ -1,4 +1,4 @@
 ---
 title: "Backwerk"
-url: /augsburg/backwerk-2/
+url: /augsburg/backwerk/
 ---

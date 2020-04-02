@@ -1,4 +1,4 @@
 ---
 title: "Real"
-url: /weilheim-in-oberbayern/real-2/
+url: /weilheim-in-oberbayern/real/
 ---

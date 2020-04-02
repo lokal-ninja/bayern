@@ -1,4 +1,4 @@
 ---
 title: "GD Friseure"
-url: /nuernberg/gd-friseure-2/
+url: /nuernberg/gd-friseure/
 ---

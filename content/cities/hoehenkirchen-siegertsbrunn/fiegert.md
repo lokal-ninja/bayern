@@ -1,4 +1,4 @@
 ---
 title: "Fiegert"
-url: /hoehenkirchen-siegertsbrunn/fiegert-2/
+url: /hoehenkirchen-siegertsbrunn/fiegert/
 ---

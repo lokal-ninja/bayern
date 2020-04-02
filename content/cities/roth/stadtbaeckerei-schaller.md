@@ -1,4 +1,4 @@
 ---
 title: "Stadtbäckerei Schaller"
-url: /roth/stadtbaeckerei-schaller-2/
+url: /roth/stadtbaeckerei-schaller/
 ---

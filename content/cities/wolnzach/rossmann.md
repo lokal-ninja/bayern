@@ -1,4 +1,4 @@
 ---
-title: "Rossmann"
-url: /wolnzach/rossmann-2/
+title: "Roßmann"
+url: /wolnzach/rossmann/
 ---

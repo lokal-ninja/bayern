@@ -1,4 +1,4 @@
 ---
 title: "Der Kinderschuh"
-url: /muenchen/der-kinderschuh-2/
+url: /muenchen/der-kinderschuh/
 ---

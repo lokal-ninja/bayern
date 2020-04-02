@@ -1,4 +1,4 @@
 ---
-title: "VinzenzMurr"
-url: /haar/vinzenzmurr-2/
+title: "Vinzenzmurr"
+url: /haar/vinzenzmurr/
 ---

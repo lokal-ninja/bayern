@@ -1,4 +1,4 @@
 ---
 title: "Reformhaus Wohlgemuth"
-url: /augsburg/reformhaus-wohlgemuth-2/
+url: /augsburg/reformhaus-wohlgemuth/
 ---

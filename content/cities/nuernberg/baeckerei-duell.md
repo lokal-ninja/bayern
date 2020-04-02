@@ -1,4 +1,4 @@
 ---
 title: "Bäckerei Düll"
-url: /nuernberg/baeckerei-duell-2/
+url: /nuernberg/baeckerei-duell/
 ---

@@ -1,4 +1,4 @@
 ---
 title: "Der Beck GmbH"
-url: /forchheim/der-beck-gmbh-2/
+url: /forchheim/der-beck-gmbh/
 ---

@@ -1,4 +1,4 @@
 ---
 title: "Orion"
-url: /augsburg/orion-2/
+url: /augsburg/orion/
 ---

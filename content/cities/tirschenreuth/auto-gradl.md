@@ -1,4 +1,4 @@
 ---
 title: "Auto Gradl"
-url: /tirschenreuth/auto-gradl-2/
+url: /tirschenreuth/auto-gradl/
 ---

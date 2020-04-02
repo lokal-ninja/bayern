@@ -1,4 +1,4 @@
 ---
 title: "Ihr Dorflädle Jost"
-url: /wiggensbach/ihr-dorflaedle-jost-2/
+url: /wiggensbach/ihr-dorflaedle-jost/
 ---

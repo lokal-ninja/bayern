@@ -1,4 +1,4 @@
 ---
 title: "Pecht"
-url: /bad-neustadt-an-der-saale/pecht-2/
+url: /bad-neustadt-an-der-saale/pecht/
 ---

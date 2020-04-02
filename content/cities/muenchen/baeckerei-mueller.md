@@ -1,4 +1,4 @@
 ---
 title: "Bäckerei Müller"
-url: /muenchen/baeckerei-mueller-2/
+url: /muenchen/baeckerei-mueller/
 ---

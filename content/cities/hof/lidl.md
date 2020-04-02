@@ -1,4 +1,4 @@
 ---
-title: "Lidl"
-url: /hof/lidl-2/
+title: "LIDL"
+url: /hof/lidl/
 ---

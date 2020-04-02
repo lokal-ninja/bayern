@@ -1,12 +1,12 @@
-id: 224833423
-type: way
+id: 603208085
+type: node
 shop: Supermarkt
-latitude: 48.3473003
-longitude: 10.869976600000001
-postcode: 86199
+latitude: 48.364566200000006
+longitude: 10.9000064
+postcode: 86150
 city: Augsburg
-street: Gabelsbergerstraße
-housenumber: 7a
+street: Maximilianstraße
+housenumber: 71
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.norma-online.de/"
+website: ""

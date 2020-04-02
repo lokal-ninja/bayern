@@ -1,4 +1,4 @@
 ---
 title: "Mengin"
-url: /erlangen/mengin-2/
+url: /erlangen/mengin/
 ---

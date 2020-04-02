@@ -1,4 +1,4 @@
 ---
 title: "Grünzeug"
-url: /muenchen/gruenzeug-2/
+url: /muenchen/gruenzeug/
 ---

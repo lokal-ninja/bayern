@@ -1,12 +1,12 @@
-id: 5908187953
+id: 299139422
 type: node
 shop: Supermarkt
-latitude: 48.338198600000005
-longitude: 10.8678621
-postcode: 86199
+latitude: 48.3630513
+longitude: 10.871057400000002
+postcode: 86157
 city: Augsburg
-street: Bürgermeister-Aurnhammer-Straße
-housenumber: 32
-phone: "+49 821 99851715"
-opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-20:00"
-website: ""
+street: Augsburger Straße
+housenumber: 26
+phone: "+49 821 22 90 265"
+opening_hours: "Mo-Sa 07:00-20:00"
+website: "https://www.edeka.de"

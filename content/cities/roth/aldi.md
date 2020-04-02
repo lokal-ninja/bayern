@@ -1,4 +1,4 @@
 ---
-title: "ALDI"
-url: /roth/aldi-2/
+title: "Aldi"
+url: /roth/aldi/
 ---

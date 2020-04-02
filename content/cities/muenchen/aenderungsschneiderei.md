@@ -1,4 +1,4 @@
 ---
 title: "Änderungsschneiderei"
-url: /muenchen/aenderungsschneiderei-2/
+url: /muenchen/aenderungsschneiderei/
 ---

@@ -1,4 +1,4 @@
 ---
 title: "Auto Kölbl"
-url: /unterschleissheim/auto-koelbl-2/
+url: /unterschleissheim/auto-koelbl/
 ---

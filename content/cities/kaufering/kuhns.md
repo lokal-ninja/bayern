@@ -1,4 +1,4 @@
 ---
 title: "Kuhn's"
-url: /kaufering/kuhns-2/
+url: /kaufering/kuhns/
 ---

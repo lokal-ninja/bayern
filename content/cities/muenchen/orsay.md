@@ -1,4 +1,4 @@
 ---
 title: "Orsay"
-url: /muenchen/orsay-2/
+url: /muenchen/orsay/
 ---

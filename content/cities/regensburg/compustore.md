@@ -1,4 +1,4 @@
 ---
 title: "compustore"
-url: /regensburg/compustore-2/
+url: /regensburg/compustore/
 ---

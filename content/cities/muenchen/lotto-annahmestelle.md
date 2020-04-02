@@ -1,4 +1,4 @@
 ---
-title: "LOTTO-Annahmestelle"
-url: /muenchen/lotto-annahmestelle-2/
+title: "Lotto Annahmestelle"
+url: /muenchen/lotto-annahmestelle/
 ---

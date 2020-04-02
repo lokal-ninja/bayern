@@ -1,4 +1,4 @@
 ---
 title: "Kaufland"
-url: /erlangen/kaufland-2/
+url: /erlangen/kaufland/
 ---

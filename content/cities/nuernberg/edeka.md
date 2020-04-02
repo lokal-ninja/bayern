@@ -1,4 +1,4 @@
 ---
 title: "Edeka"
-url: /nuernberg/edeka-2/
+url: /nuernberg/edeka/
 ---

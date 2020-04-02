@@ -1,12 +1,12 @@
-id: 154357635
-type: way
+id: 30049062
+type: node
 shop: Supermarkt
-latitude: 49.935973000000004
-longitude: 11.591473200000001
+latitude: 49.953971200000005
+longitude: 11.5962922
 postcode: 95448
 city: Bayreuth
-street: Nürnberger Straße
-housenumber: 3 a
+street: Bernecker Straße
+housenumber: 26
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: ""
 website: ""

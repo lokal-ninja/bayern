@@ -1,4 +1,4 @@
 ---
 title: "Metzgerei Wilhelm"
-url: /teublitz/metzgerei-wilhelm-2/
+url: /teublitz/metzgerei-wilhelm/
 ---

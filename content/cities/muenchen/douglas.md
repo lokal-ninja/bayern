@@ -1,4 +1,4 @@
 ---
 title: "Douglas"
-url: /muenchen/douglas-2/
+url: /muenchen/douglas/
 ---

@@ -1,12 +1,12 @@
-id: 88507913
-type: way
+id: 27495332
+type: node
 shop: Supermarkt
-latitude: 49.7226859
-longitude: 9.964343900000001
-postcode: 97084
+latitude: 49.785193400000004
+longitude: 9.931910400000001
+postcode: 97072
 city: Würzburg
-street: Schleifweg
-housenumber: 9
+street: Virchowstraße
+housenumber: 2
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: "Mo-Fr 08:00-20:00;Sa 07:00-20:00;Su,PH off"
 website: ""

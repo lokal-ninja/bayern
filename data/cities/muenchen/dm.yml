@@ -1,12 +1,12 @@
-id: 732600286
-type: way
+id: 266698131
+type: node
 shop: Drogerie
-latitude: 48.1414507
-longitude: 11.5605846
-postcode: 80335
+latitude: 48.1341462
+longitude: 11.5968532
+postcode: 81667
 city: München
-street: Arnulfstraße
-housenumber: 2
-phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: ""
+street: Innere Wiener Straße
+housenumber: 50
+phone: "+49 89 48950171"
+opening_hours: ""
+website: "https://www.dm.de"

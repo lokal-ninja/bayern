@@ -1,4 +1,4 @@
 ---
 title: "Fielmann"
-url: /muenchen/fielmann-2/
+url: /muenchen/fielmann/
 ---

@@ -1,4 +1,4 @@
 ---
 title: "Alnatura"
-url: /regensburg/alnatura-2/
+url: /regensburg/alnatura/
 ---

@@ -1,4 +1,4 @@
 ---
 title: "Netto"
-url: /neutraubling/netto-2/
+url: /neutraubling/netto/
 ---

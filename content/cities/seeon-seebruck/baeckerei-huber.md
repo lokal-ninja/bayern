@@ -1,4 +1,4 @@
 ---
 title: "Bäckerei Huber"
-url: /seeon-seebruck/baeckerei-huber-2/
+url: /seeon-seebruck/baeckerei-huber/
 ---

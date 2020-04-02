@@ -1,4 +1,4 @@
 ---
 title: "Brillen Schneider"
-url: /muenchen/brillen-schneider-2/
+url: /muenchen/brillen-schneider/
 ---

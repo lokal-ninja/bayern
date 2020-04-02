@@ -1,12 +1,12 @@
-id: 239343213
+id: 31526894
 type: way
 shop: Baumarkt
-latitude: 49.4787308
-longitude: 11.110477900000001
-postcode: 90411
+latitude: 49.4361041
+longitude: 11.120850800000001
+postcode: 90480
 city: Nürnberg
-street: Äußere Bayreuther Straße
-housenumber: 220
-phone: "+49 911 567900"
+street: Regensburger Straße
+housenumber: 250
+phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.obi.de/baumarkt/nuernberg-aeussere-bayreutherstrasse/"
+website: "https://www.obi.de/"

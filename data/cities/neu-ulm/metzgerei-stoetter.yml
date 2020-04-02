@@ -1,12 +1,12 @@
-id: 359025063
-type: way
+id: 1080818744
+type: node
 shop: Metzgerei
-latitude: 48.3430819
-longitude: 10.0388395
-postcode: 89233
+latitude: 48.368205100000004
+longitude: 10.008830300000001
+postcode: 89231
 city: Neu-Ulm
-street: St.-Wolfgang-Straße
-housenumber: 18
-phone: ""
-opening_hours: ""
-website: ""
+street: Memminger Straße
+housenumber: 167
+phone: "+49 731 82273"
+opening_hours: "Mo-Fr 06:30-13:00, 14:30-18:00; Sa 06:30-12:30"
+website: "https://www.metzgerei-stoetter.de/"

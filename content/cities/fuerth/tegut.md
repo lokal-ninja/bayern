@@ -1,4 +1,4 @@
 ---
 title: "Tegut"
-url: /fuerth/tegut-2/
+url: /fuerth/tegut/
 ---

@@ -1,12 +1,12 @@
-id: 167105205
-type: way
+id: 304782063
+type: node
 shop: Supermarkt
-latitude: 49.7679879
-longitude: 9.9413532
-postcode: 97084
+latitude: 49.802863
+longitude: 9.944392
+postcode: 97080
 city: Würzburg
-street: Mergentheimer Straße
-housenumber: 35
+street: Matterstockstraße
+housenumber: 29
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: "Mo-Sa 08:00-20:00"
 website: ""

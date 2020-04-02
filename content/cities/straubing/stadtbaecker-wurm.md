@@ -1,4 +1,4 @@
 ---
 title: "Stadtbäcker Wurm"
-url: /straubing/stadtbaecker-wurm-2/
+url: /straubing/stadtbaecker-wurm/
 ---

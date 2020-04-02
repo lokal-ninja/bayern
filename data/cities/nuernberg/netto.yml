@@ -1,12 +1,12 @@
-id: 64200069
-type: way
+id: 507505815
+type: node
 shop: Supermarkt
-latitude: 49.411145600000005
-longitude: 11.119699
-postcode: 90471
+latitude: 49.462971100000004
+longitude: 11.156381600000001
+postcode: 90482
 city: Nürnberg
-street: Wettersteinstraße
-housenumber: 23
+street: Happurger Straße
+housenumber: 64
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de/home/home.php"
+website: ""

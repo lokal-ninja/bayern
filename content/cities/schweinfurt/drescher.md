@@ -1,4 +1,4 @@
 ---
 title: "Drescher"
-url: /schweinfurt/drescher-2/
+url: /schweinfurt/drescher/
 ---

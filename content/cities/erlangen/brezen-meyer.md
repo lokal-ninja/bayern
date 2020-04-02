@@ -1,4 +1,4 @@
 ---
 title: "Brezen Meyer"
-url: /erlangen/brezen-meyer-2/
+url: /erlangen/brezen-meyer/
 ---

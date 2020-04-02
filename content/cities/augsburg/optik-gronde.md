@@ -1,4 +1,4 @@
 ---
 title: "Optik Gronde"
-url: /augsburg/optik-gronde-2/
+url: /augsburg/optik-gronde/
 ---

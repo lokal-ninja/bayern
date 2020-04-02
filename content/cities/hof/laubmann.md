@@ -1,4 +1,4 @@
 ---
 title: "Laubmann"
-url: /hof/laubmann-2/
+url: /hof/laubmann/
 ---

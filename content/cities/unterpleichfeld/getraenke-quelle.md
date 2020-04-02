@@ -1,4 +1,4 @@
 ---
 title: "Getränke Quelle"
-url: /unterpleichfeld/getraenke-quelle-2/
+url: /unterpleichfeld/getraenke-quelle/
 ---

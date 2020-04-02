@@ -1,4 +1,4 @@
 ---
 title: "Brothaus Cafe"
-url: /nuernberg/brothaus-cafe-2/
+url: /nuernberg/brothaus-cafe/
 ---

@@ -1,4 +1,4 @@
 ---
 title: "Mobilcom Debitel"
-url: /augsburg/mobilcom-debitel-2/
+url: /augsburg/mobilcom-debitel/
 ---

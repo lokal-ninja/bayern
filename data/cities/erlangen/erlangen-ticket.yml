@@ -1,12 +1,12 @@
-id: 5909559916
+id: 605339869
 type: node
 shop: Tickets
-latitude: 49.60058840000001
-longitude: 11.0019405
-postcode: 91054
+latitude: 49.5914803
+longitude: 11.007193500000001
+postcode: 91052
 city: Erlangen
-street: Fuchsengarten
-housenumber: 1
+street: Rathausplatz
+housenumber: 5
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-14:00"
-website: "https://www.e-werk.de/mehr/erlangen-ticket.html"
+opening_hours: "Mo-Fr 10:00-14:00, 15:00-18:00; Sa 10:00-14:00"
+website: ""

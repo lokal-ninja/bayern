@@ -1,4 +1,4 @@
 ---
 title: "Apple Store"
-url: /muenchen/apple-store-2/
+url: /muenchen/apple-store/
 ---

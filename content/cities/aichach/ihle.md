@@ -1,4 +1,4 @@
 ---
 title: "Ihle"
-url: /aichach/ihle-2/
+url: /aichach/ihle/
 ---

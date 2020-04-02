@@ -1,4 +1,4 @@
 ---
 title: "Dompierre"
-url: /muenchen/dompierre-2/
+url: /muenchen/dompierre/
 ---

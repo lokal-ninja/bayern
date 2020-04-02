@@ -1,4 +1,4 @@
 ---
-title: "goldjunge"
-url: /fuerth/goldjunge-2/
+title: "Goldjunge"
+url: /fuerth/goldjunge/
 ---

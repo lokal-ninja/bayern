@@ -1,4 +1,4 @@
 ---
 title: "Bäckerei Rager"
-url: /koenigsbrunn/baeckerei-rager-2/
+url: /koenigsbrunn/baeckerei-rager/
 ---

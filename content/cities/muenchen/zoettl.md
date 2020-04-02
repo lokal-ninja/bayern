@@ -1,4 +1,4 @@
 ---
 title: "Zöttl"
-url: /muenchen/zoettl-2/
+url: /muenchen/zoettl/
 ---

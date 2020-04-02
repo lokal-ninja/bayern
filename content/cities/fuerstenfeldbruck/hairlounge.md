@@ -1,4 +1,4 @@
 ---
-title: "hairlounge"
-url: /fuerstenfeldbruck/hairlounge-2/
+title: "Hairlounge"
+url: /fuerstenfeldbruck/hairlounge/
 ---

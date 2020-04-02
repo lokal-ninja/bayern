@@ -1,12 +1,12 @@
-id: 358797438
-type: way
+id: 677157601
+type: node
 shop: Autowerkstatt
-latitude: 49.594494600000004
-longitude: 10.999463800000001
-postcode: 91054
+latitude: 49.5553802
+longitude: 10.988871900000001
+postcode: 91058
 city: Erlangen
-street: Münchener Straße
-housenumber: 12
-phone: "+49 9131 21319"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00"
-website: "https://lang-kfz.de/"
+street: Eltersdorfer Straße
+housenumber: 11
+phone: ""
+opening_hours: ""
+website: ""

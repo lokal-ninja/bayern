@@ -1,4 +1,4 @@
 ---
 title: "DIT München GmbH"
-url: /muenchen/dit-muenchen-gmbh-2/
+url: /muenchen/dit-muenchen-gmbh/
 ---

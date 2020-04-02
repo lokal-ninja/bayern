@@ -1,4 +1,4 @@
 ---
 title: "Metzgerei Brunner"
-url: /erlangen/metzgerei-brunner-2/
+url: /erlangen/metzgerei-brunner/
 ---

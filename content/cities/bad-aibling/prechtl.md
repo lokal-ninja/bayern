@@ -1,4 +1,4 @@
 ---
 title: "Prechtl"
-url: /bad-aibling/prechtl-2/
+url: /bad-aibling/prechtl/
 ---

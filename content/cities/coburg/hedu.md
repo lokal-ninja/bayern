@@ -1,4 +1,4 @@
 ---
 title: "Hedu"
-url: /coburg/hedu-2/
+url: /coburg/hedu/
 ---

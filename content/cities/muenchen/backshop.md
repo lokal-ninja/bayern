@@ -1,4 +1,4 @@
 ---
 title: "Backshop"
-url: /muenchen/backshop-2/
+url: /muenchen/backshop/
 ---

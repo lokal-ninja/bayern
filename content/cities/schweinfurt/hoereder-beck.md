@@ -1,4 +1,4 @@
 ---
 title: "Höreder Beck"
-url: /schweinfurt/hoereder-beck-2/
+url: /schweinfurt/hoereder-beck/
 ---

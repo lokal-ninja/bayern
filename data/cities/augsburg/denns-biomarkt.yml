@@ -1,12 +1,12 @@
-id: 7205533527
+id: 5275262361
 type: node
 shop: Supermarkt
-latitude: 48.3557422
-longitude: 10.9517684
-postcode: 86163
+latitude: 48.3643512
+longitude: 10.9110019
+postcode: 86153
 city: Augsburg
-street: Friedberger Straße
-housenumber: 165
-phone: "+49 821 26235990"
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
-website: "https://www.denns-biomarkt.de/augsburg-friedberger-str-165/marktseite/"
+street: Oberbürgermeister-Hohner-Straße
+housenumber: 1a
+phone: ""
+opening_hours: "Mo-Sa 08:00-20:00"
+website: ""

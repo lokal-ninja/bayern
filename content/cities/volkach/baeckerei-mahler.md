@@ -1,4 +1,4 @@
 ---
 title: "Bäckerei Mahler"
-url: /volkach/baeckerei-mahler-2/
+url: /volkach/baeckerei-mahler/
 ---

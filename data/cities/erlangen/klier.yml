@@ -1,12 +1,12 @@
-id: 1976870513
+id: 1212481258
 type: node
 shop: Friseur
-latitude: 49.594460000000005
-longitude: 10.949807100000001
-postcode: 91056
+latitude: 49.5996541
+longitude: 11.0023877
+postcode: 91054
 city: Erlangen
-street: Rudeltplatz
-housenumber: 2-4
+street: Westliche Stadtmauerstraße
+housenumber: 27
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:00; Su,PH off"
-website: ""
+opening_hours: "Mo-Fr 09:00-20:00; Sa 08:00-16:00"
+website: "https://www.klier.de/"

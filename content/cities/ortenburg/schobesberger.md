@@ -1,4 +1,4 @@
 ---
 title: "Schobesberger"
-url: /ortenburg/schobesberger-2/
+url: /ortenburg/schobesberger/
 ---

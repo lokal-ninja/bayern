@@ -1,4 +1,4 @@
 ---
 title: "TEDi"
-url: /amberg/tedi-2/
+url: /amberg/tedi/
 ---

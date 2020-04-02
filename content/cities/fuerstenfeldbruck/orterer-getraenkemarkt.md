@@ -1,4 +1,4 @@
 ---
 title: "Orterer Getränkemarkt"
-url: /fuerstenfeldbruck/orterer-getraenkemarkt-2/
+url: /fuerstenfeldbruck/orterer-getraenkemarkt/
 ---

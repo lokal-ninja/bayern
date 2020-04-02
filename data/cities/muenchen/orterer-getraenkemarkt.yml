@@ -1,12 +1,12 @@
-id: 243097147
-type: way
+id: 290528187
+type: node
 shop: Getränke
-latitude: 48.2149219
-longitude: 11.5445911
-postcode: 80995
+latitude: 48.125579800000004
+longitude: 11.6365168
+postcode: 81673
 city: München
-street: Dülferstraße
-housenumber: 62
-phone: "+49 89 313 95 28"
-opening_hours: "Mo 14:00-18:30; Tu-Fr 09:00-12:30,13:30-18:30; Sa 08:00-13:00"
+street: Josephsburgstraße
+housenumber: 69
+phone: "+49 89 433457"
+opening_hours: "Mo 14:00-18:30; Tu-Fr 09:00-12:30,13:30-18:30; Sa 08:00-13:00; PH off"
 website: "https://www.orterer.de/"

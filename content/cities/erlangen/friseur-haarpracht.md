@@ -1,4 +1,4 @@
 ---
 title: "Friseur Haarpracht"
-url: /erlangen/friseur-haarpracht-2/
+url: /erlangen/friseur-haarpracht/
 ---

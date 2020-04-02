@@ -1,4 +1,4 @@
 ---
 title: "Müller"
-url: /senden/mueller-2/
+url: /senden/mueller/
 ---

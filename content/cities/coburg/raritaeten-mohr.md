@@ -1,4 +1,4 @@
 ---
 title: "Raritäten Mohr"
-url: /coburg/raritaeten-mohr-2/
+url: /coburg/raritaeten-mohr/
 ---

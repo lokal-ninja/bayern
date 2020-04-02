@@ -1,4 +1,4 @@
 ---
 title: "Bäckerei Kuhn"
-url: /muenchen/baeckerei-kuhn-2/
+url: /muenchen/baeckerei-kuhn/
 ---

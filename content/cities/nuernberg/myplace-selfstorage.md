@@ -1,4 +1,4 @@
 ---
-title: "MYPLACE Selfstorage"
-url: /nuernberg/myplace-selfstorage-2/
+title: "MyPlace-SelfStorage"
+url: /nuernberg/myplace-selfstorage/
 ---

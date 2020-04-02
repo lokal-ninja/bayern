@@ -1,4 +1,4 @@
 ---
 title: "Netto City"
-url: /muenchen/netto-city-2/
+url: /muenchen/netto-city/
 ---

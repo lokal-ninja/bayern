@@ -1,4 +1,4 @@
 ---
 title: "Galeria Kaufhof"
-url: /muenchen/galeria-kaufhof-2/
+url: /muenchen/galeria-kaufhof/
 ---

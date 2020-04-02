@@ -1,4 +1,4 @@
 ---
 title: "Christ"
-url: /muenchen/christ-2/
+url: /muenchen/christ/
 ---

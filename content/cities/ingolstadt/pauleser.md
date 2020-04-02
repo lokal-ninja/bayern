@@ -1,4 +1,4 @@
 ---
 title: "Pauleser"
-url: /ingolstadt/pauleser-2/
+url: /ingolstadt/pauleser/
 ---

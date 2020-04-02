@@ -1,4 +1,4 @@
 ---
 title: "Antiquitäten"
-url: /muenchen/antiquitaeten-2/
+url: /muenchen/antiquitaeten/
 ---

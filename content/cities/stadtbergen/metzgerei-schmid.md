@@ -1,4 +1,4 @@
 ---
 title: "Metzgerei Schmid"
-url: /stadtbergen/metzgerei-schmid-2/
+url: /stadtbergen/metzgerei-schmid/
 ---

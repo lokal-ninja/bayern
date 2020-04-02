@@ -1,4 +1,4 @@
 ---
 title: "Gabelsberger"
-url: /abensberg/gabelsberger-2/
+url: /abensberg/gabelsberger/
 ---

@@ -1,4 +1,4 @@
 ---
 title: "Smart Shop"
-url: /wuerzburg/smart-shop-2/
+url: /wuerzburg/smart-shop/
 ---

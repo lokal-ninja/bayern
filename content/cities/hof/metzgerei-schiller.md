@@ -1,4 +1,4 @@
 ---
 title: "Metzgerei Schiller"
-url: /hof/metzgerei-schiller-2/
+url: /hof/metzgerei-schiller/
 ---

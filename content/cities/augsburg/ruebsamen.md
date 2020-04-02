@@ -1,4 +1,4 @@
 ---
 title: "Rübsamen"
-url: /augsburg/ruebsamen-2/
+url: /augsburg/ruebsamen/
 ---

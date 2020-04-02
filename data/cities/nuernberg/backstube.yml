@@ -1,12 +1,12 @@
-id: 4892428883
+id: 4243316062
 type: node
 shop: Bäckerei
-latitude: 49.4556564
-longitude: 11.0794727
-postcode: 90403
+latitude: 49.449167100000004
+longitude: 11.0638558
+postcode: 90429
 city: Nürnberg
-street: Theresienstraße
-housenumber: 22
+street: Am Plärrer
+housenumber: 10
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00, Sa 06:00-13:00"
-website: ""
+opening_hours: "Mo-Fr 05:30-18:00; Sa 05:30-13:00"
+website: "https://back-stube.de/"

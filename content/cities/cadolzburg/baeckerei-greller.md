@@ -1,4 +1,4 @@
 ---
 title: "Bäckerei Greller"
-url: /cadolzburg/baeckerei-greller-2/
+url: /cadolzburg/baeckerei-greller/
 ---

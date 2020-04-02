@@ -1,4 +1,4 @@
 ---
 title: "Aldi Süd"
-url: /nuernberg/aldi-sued-2/
+url: /nuernberg/aldi-sued/
 ---

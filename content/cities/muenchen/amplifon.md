@@ -1,4 +1,4 @@
 ---
 title: "Amplifon"
-url: /muenchen/amplifon-2/
+url: /muenchen/amplifon/
 ---

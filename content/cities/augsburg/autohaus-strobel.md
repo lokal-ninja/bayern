@@ -1,4 +1,4 @@
 ---
 title: "Autohaus Strobel"
-url: /augsburg/autohaus-strobel-2/
+url: /augsburg/autohaus-strobel/
 ---

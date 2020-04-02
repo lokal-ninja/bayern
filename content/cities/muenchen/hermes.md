@@ -1,4 +1,4 @@
 ---
 title: "Hermès"
-url: /muenchen/hermes-2/
+url: /muenchen/hermes/
 ---

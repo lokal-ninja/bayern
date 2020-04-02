@@ -1,12 +1,12 @@
-id: 222779381
-type: way
+id: 449112065
+type: node
 shop: Supermarkt
-latitude: 49.8064186
-longitude: 9.9795691
-postcode: 97076
+latitude: 49.7932092
+longitude: 9.945772400000001
+postcode: 97072
 city: Würzburg
-street: Werner-von-Siemens-Straße
-housenumber: 60
+street: Sartoriusstraße
+housenumber: 6
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: "Mo-Sa 08:00-20:00; Su off"
 website: ""

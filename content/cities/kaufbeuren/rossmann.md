@@ -1,4 +1,4 @@
 ---
 title: "Rossmann"
-url: /kaufbeuren/rossmann-2/
+url: /kaufbeuren/rossmann/
 ---

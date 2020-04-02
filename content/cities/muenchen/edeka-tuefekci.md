@@ -1,4 +1,4 @@
 ---
 title: "Edeka Tüfekci"
-url: /muenchen/edeka-tuefekci-2/
+url: /muenchen/edeka-tuefekci/
 ---

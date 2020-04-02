@@ -1,12 +1,12 @@
-id: 286853119
-type: way
+id: 912208026
+type: node
 shop: Supermarkt
-latitude: 49.467741600000004
-longitude: 10.9575487
-postcode: 90768
+latitude: 49.4654535
+longitude: 11.0008183
+postcode: 90763
 city: Fürth
-street: Kurt-Scherzer-Straße
-housenumber: 2
+street: Kaiserstraße
+housenumber: 173
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: ""
+opening_hours: "Mo-Sa 08:00-20:00"
+website: "https://www.norma-online.de/de/angebote/"

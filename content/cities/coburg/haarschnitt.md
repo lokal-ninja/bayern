@@ -1,4 +1,4 @@
 ---
 title: "Haarschnitt"
-url: /coburg/haarschnitt-2/
+url: /coburg/haarschnitt/
 ---

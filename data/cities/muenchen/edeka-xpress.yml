@@ -1,12 +1,12 @@
-id: 123420331
-type: way
+id: 329092744
+type: node
 shop: Supermarkt
-latitude: 48.1223875
-longitude: 11.577473600000001
-postcode: 81541
+latitude: 48.1510927
+longitude: 11.573495000000001
+postcode: 80799
 city: München
-street: Entenbachstraße
-housenumber: 28
-phone: "+49 89 62509007"
+street: Schellingstraße
+housenumber: 52
+phone: "+49 89 27817710"
 opening_hours: "Mo-Sa 07:00-20:00"
-website: "http://kaisers-tengelmann.de"
+website: "https://www.edeka.de"

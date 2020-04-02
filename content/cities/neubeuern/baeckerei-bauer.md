@@ -1,4 +1,4 @@
 ---
 title: "Bäckerei Bauer"
-url: /neubeuern/baeckerei-bauer-2/
+url: /neubeuern/baeckerei-bauer/
 ---

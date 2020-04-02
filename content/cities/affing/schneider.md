@@ -1,4 +1,4 @@
 ---
 title: "Schneider"
-url: /affing/schneider-2/
+url: /affing/schneider/
 ---

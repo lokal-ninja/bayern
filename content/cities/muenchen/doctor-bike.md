@@ -1,4 +1,4 @@
 ---
 title: "doctor bike"
-url: /muenchen/doctor-bike-2/
+url: /muenchen/doctor-bike/
 ---

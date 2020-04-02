@@ -1,4 +1,4 @@
 ---
-title: "hagebaumarkt"
-url: /muenchen/hagebaumarkt-2/
+title: "Hagebaumarkt"
+url: /muenchen/hagebaumarkt/
 ---

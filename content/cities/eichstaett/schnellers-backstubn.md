@@ -1,4 +1,4 @@
 ---
 title: "Schnellers Backstub'n"
-url: /eichstaett/schnellers-backstubn-2/
+url: /eichstaett/schnellers-backstubn/
 ---

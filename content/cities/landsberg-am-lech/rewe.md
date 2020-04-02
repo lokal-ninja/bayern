@@ -1,4 +1,4 @@
 ---
 title: "Rewe"
-url: /landsberg-am-lech/rewe-2/
+url: /landsberg-am-lech/rewe/
 ---

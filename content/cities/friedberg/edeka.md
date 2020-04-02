@@ -1,4 +1,4 @@
 ---
-title: "Edeka"
-url: /friedberg/edeka-2/
+title: "EDEKA"
+url: /friedberg/edeka/
 ---

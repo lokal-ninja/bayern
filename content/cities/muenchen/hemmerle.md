@@ -1,4 +1,4 @@
 ---
 title: "Hemmerle"
-url: /muenchen/hemmerle-2/
+url: /muenchen/hemmerle/
 ---

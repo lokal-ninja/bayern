@@ -1,4 +1,4 @@
 ---
 title: "Schaffler"
-url: /traunstein/schaffler-2/
+url: /traunstein/schaffler/
 ---

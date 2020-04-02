@@ -1,4 +1,4 @@
 ---
 title: "Maximum"
-url: /alzenau/maximum-2/
+url: /alzenau/maximum/
 ---

@@ -1,12 +1,12 @@
-id: 206435582
-type: way
+id: 1215168632
+type: node
 shop: Kosmetik
-latitude: 49.5969083
-longitude: 11.0038134
-postcode: 91054
+latitude: 49.5918958
+longitude: 11.006817100000001
+postcode: 91052
 city: Erlangen
-street: Hauptstraße
-housenumber: 25
-phone: ""
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00"
-website: ""
+street: Rathausplatz
+housenumber: 5
+phone: "+49 9131 204231"
+opening_hours: "Mo-Fr 09:30-19:00; Sa 09:00-18:00"
+website: "http://www.hoefer-parfuemerien.de/"

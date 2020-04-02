@@ -1,4 +1,4 @@
 ---
 title: "Mermaid's"
-url: /muenchen/mermaids-2/
+url: /muenchen/mermaids/
 ---

@@ -1,4 +1,4 @@
 ---
 title: "basic"
-url: /muenchen/basic-2/
+url: /muenchen/basic/
 ---

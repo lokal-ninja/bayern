@@ -1,4 +1,4 @@
 ---
 title: "Alois Brandl"
-url: /muenchen/alois-brandl-2/
+url: /muenchen/alois-brandl/
 ---

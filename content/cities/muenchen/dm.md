@@ -1,4 +1,4 @@
 ---
 title: "dm"
-url: /muenchen/dm-2/
+url: /muenchen/dm/
 ---

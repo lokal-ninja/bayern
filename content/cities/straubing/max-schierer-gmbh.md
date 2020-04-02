@@ -1,4 +1,4 @@
 ---
 title: "Max Schierer GmbH"
-url: /straubing/max-schierer-gmbh-2/
+url: /straubing/max-schierer-gmbh/
 ---

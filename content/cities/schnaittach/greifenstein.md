@@ -1,4 +1,4 @@
 ---
 title: "Greifenstein"
-url: /schnaittach/greifenstein-2/
+url: /schnaittach/greifenstein/
 ---

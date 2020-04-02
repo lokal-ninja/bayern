@@ -1,4 +1,4 @@
 ---
 title: "Second Handy"
-url: /muenchen/second-handy-2/
+url: /muenchen/second-handy/
 ---

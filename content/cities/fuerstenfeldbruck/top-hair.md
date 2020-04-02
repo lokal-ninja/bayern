@@ -1,4 +1,4 @@
 ---
 title: "Top Hair"
-url: /fuerstenfeldbruck/top-hair-2/
+url: /fuerstenfeldbruck/top-hair/
 ---

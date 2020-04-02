@@ -1,4 +1,4 @@
 ---
-title: "Tedi"
-url: /wuerzburg/tedi-2/
+title: "TEDi"
+url: /wuerzburg/tedi/
 ---

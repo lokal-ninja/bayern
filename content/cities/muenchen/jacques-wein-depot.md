@@ -1,4 +1,4 @@
 ---
 title: "Jacques’ Wein-Depot"
-url: /muenchen/jacques-wein-depot-2/
+url: /muenchen/jacques-wein-depot/
 ---

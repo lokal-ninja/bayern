@@ -1,4 +1,4 @@
 ---
 title: "Kistenpfennig"
-url: /unterschleissheim/kistenpfennig-2/
+url: /unterschleissheim/kistenpfennig/
 ---

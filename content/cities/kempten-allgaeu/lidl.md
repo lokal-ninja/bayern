@@ -1,4 +1,4 @@
 ---
 title: "Lidl"
-url: /kempten-allgaeu/lidl-2/
+url: /kempten-allgaeu/lidl/
 ---

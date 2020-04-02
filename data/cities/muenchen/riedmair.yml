@@ -1,12 +1,12 @@
-id: 97108553
-type: way
+id: 5161584340
+type: node
 shop: Bäckerei
-latitude: 48.1821582
-longitude: 11.517787
-postcode: 80992
+latitude: 48.155539000000005
+longitude: 11.5318605
+postcode: 80639
 city: München
-street: Pelkovenstraße
-housenumber: 63
+street: Aldringenstraße
+housenumber: 1
 phone: ""
-opening_hours: "Mo-Fr 06:30-19:00; Sa 06:30-17:00; Su 07:00-17:00; PH off"
+opening_hours: "Mo-Fr 06:30-19:00"
 website: ""

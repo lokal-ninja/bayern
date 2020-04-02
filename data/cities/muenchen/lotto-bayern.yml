@@ -1,12 +1,12 @@
-id: 6433211157
+id: 1813638198
 type: node
 shop: Kiosk
-latitude: 48.123667700000006
-longitude: 11.5667615
-postcode: 80469
+latitude: 48.162873700000006
+longitude: 11.587360700000001
+postcode: 80802
 city: München
-street: Kapuzinerstraße
-housenumber: 45
+street: Münchner Freiheit
+housenumber: 14
 phone: ""
-opening_hours: "Mo-Fr 07:00-12:30,14:30-18:00; Sa 08:00-12:00; Su,PH closed"
-website: "https://www.lotto-bayern.de/service/vor-ort-details?rtid=16187"
+opening_hours: ""
+website: ""

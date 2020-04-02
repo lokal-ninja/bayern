@@ -1,4 +1,4 @@
 ---
-title: "ohne – Der verpackungsfreie Supermarkt"
-url: /muenchen/ohne-der-verpackungsfreie-supermarkt-2/
+title: "Ohne - Der verpackungsfreie Supermarkt"
+url: /muenchen/ohne-der-verpackungsfreie-supermarkt/
 ---

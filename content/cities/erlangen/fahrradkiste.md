@@ -1,4 +1,4 @@
 ---
 title: "Fahrradkiste"
-url: /erlangen/fahrradkiste-2/
+url: /erlangen/fahrradkiste/
 ---

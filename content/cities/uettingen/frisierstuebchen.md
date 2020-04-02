@@ -1,4 +1,4 @@
 ---
 title: "Frisierstübchen"
-url: /uettingen/frisierstuebchen-2/
+url: /uettingen/frisierstuebchen/
 ---

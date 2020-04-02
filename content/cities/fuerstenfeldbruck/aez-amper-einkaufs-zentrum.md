@@ -1,4 +1,4 @@
 ---
 title: "AEZ Amper Einkaufs Zentrum"
-url: /fuerstenfeldbruck/aez-amper-einkaufs-zentrum-2/
+url: /fuerstenfeldbruck/aez-amper-einkaufs-zentrum/
 ---

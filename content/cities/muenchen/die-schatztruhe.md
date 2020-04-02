@@ -1,4 +1,4 @@
 ---
 title: "Die Schatztruhe"
-url: /muenchen/die-schatztruhe-2/
+url: /muenchen/die-schatztruhe/
 ---

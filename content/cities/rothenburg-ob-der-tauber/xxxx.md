@@ -1,4 +1,4 @@
 ---
 title: "xxxx"
-url: /rothenburg-ob-der-tauber/xxxx-2/
+url: /rothenburg-ob-der-tauber/xxxx/
 ---

@@ -1,4 +1,4 @@
 ---
 title: "Autohaus Ebersberg"
-url: /ebersberg/autohaus-ebersberg-2/
+url: /ebersberg/autohaus-ebersberg/
 ---

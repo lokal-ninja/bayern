@@ -1,12 +1,12 @@
-id: 7057213668
+id: 7057213667
 type: node
 shop: Friseur
-latitude: 50.2593788
-longitude: 10.9639431
+latitude: 50.281006600000005
+longitude: 10.9708679
 postcode: 96450
 city: Coburg
-street: Mauer
-housenumber: 12c
-phone: "+49 9561 90520"
-opening_hours: "Mo 09:00-16:00; Tu-Th 08:00-17:30; Fr 08:00-18:00; Sa 08:00-14:00; Su,PH off"
+street: Max-Böhme-Ring
+housenumber: 7
+phone: "+49 9561 238903"
+opening_hours: "Mo-Fr 08:30-13:30; Sa,Su,PH off"
 website: "https://www.salon-haarschnitt.de/"

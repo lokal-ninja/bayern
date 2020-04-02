@@ -1,4 +1,4 @@
 ---
-title: "Maxl Bäck"
-url: /wuerzburg/maxl-baeck-2/
+title: "Maxl-Bäck"
+url: /wuerzburg/maxl-baeck/
 ---

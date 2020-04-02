@@ -1,4 +1,4 @@
 ---
 title: "Fressnapf"
-url: /nuernberg/fressnapf-2/
+url: /nuernberg/fressnapf/
 ---

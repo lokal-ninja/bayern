@@ -1,4 +1,4 @@
 ---
 title: "München Ticket"
-url: /muenchen/muenchen-ticket-2/
+url: /muenchen/muenchen-ticket/
 ---

@@ -1,12 +1,12 @@
-id: 258205225
-type: way
+id: 268835891
+type: node
 shop: Supermarkt
-latitude: 48.2021968
-longitude: 11.542433500000001
-postcode: 80995
+latitude: 48.112447200000005
+longitude: 11.676385300000002
+postcode: 81827
 city: München
-street: Lerchenstraße
-housenumber: 7
+street: Hugo-Weiss-Straße
+housenumber: 2-4
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"
-website: ""
+website: "https://www.rewe.de/"

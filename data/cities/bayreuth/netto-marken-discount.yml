@@ -1,12 +1,12 @@
-id: 42899799
-type: way
+id: 392702169
+type: node
 shop: Supermarkt
-latitude: 49.9370697
-longitude: 11.5533897
+latitude: 49.9523305
+longitude: 11.5715471
 postcode: 95445
 city: Bayreuth
-street: Bamberger Straße
-housenumber: 38
+street: Spinnereistraße
+housenumber: 7
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: ""
 website: ""

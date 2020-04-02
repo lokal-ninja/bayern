@@ -1,4 +1,4 @@
 ---
 title: "Aldi"
-url: /memmingen/aldi-2/
+url: /memmingen/aldi/
 ---

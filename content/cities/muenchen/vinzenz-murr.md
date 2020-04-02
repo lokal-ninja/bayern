@@ -1,4 +1,4 @@
 ---
 title: "Vinzenz Murr"
-url: /muenchen/vinzenz-murr-2/
+url: /muenchen/vinzenz-murr/
 ---

@@ -1,4 +1,4 @@
 ---
 title: "Autohaus Platzer GmbH"
-url: /regensburg/autohaus-platzer-gmbh-2/
+url: /regensburg/autohaus-platzer-gmbh/
 ---

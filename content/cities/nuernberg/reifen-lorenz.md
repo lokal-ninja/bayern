@@ -1,4 +1,4 @@
 ---
 title: "Reifen Lorenz"
-url: /nuernberg/reifen-lorenz-2/
+url: /nuernberg/reifen-lorenz/
 ---

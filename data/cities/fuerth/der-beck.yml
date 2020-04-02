@@ -1,12 +1,12 @@
-id: 208784035
-type: way
+id: 1128053589
+type: node
 shop: Bäckerei
-latitude: 49.4792713
-longitude: 11.011520500000001
+latitude: 49.4847807
+longitude: 11.000366300000001
 postcode: 90765
 city: Fürth
-street: Hans-Vogel-Straße
-housenumber: 30
+street: Laubenweg
+housenumber: 32a
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Fr 05:30-18:00, Tu-Su 07:00-16:00; Sa 08:00-17:00"
+website: "https://www.der-beck.de/"

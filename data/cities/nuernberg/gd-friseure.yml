@@ -1,12 +1,12 @@
-id: 6427591628
+id: 1668797839
 type: node
 shop: Friseur
-latitude: 49.4608402
-longitude: 11.081086200000001
-postcode: 90408
+latitude: 49.455932600000004
+longitude: 11.080718200000002
+postcode: 90403
 city: Nürnberg
-street: Pirckheimerstraße
-housenumber: 52
-phone: "+49 911 47880672"
-opening_hours: "Tu-We,Fr 09:00-18:30; Sa 08:30-15:00; Th 09:15-19:00"
-website: ""
+street: Egidienplatz
+housenumber: 1
+phone: "+49 911 2377240"
+opening_hours: "Tu,We,Fr 09:00-18:30; Th 09:00-19:00; Sa 08:30-15:00"
+website: "http://www.gd-friseure.de"

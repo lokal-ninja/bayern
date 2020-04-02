@@ -1,4 +1,4 @@
 ---
 title: "Sipl"
-url: /ingolstadt/sipl-2/
+url: /ingolstadt/sipl/
 ---

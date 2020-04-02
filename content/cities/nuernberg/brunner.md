@@ -1,4 +1,4 @@
 ---
 title: "Brunner"
-url: /nuernberg/brunner-2/
+url: /nuernberg/brunner/
 ---

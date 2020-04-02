@@ -1,4 +1,4 @@
 ---
 title: "Jet"
-url: /muenchen/jet-2/
+url: /muenchen/jet/
 ---

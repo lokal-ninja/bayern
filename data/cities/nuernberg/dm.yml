@@ -1,12 +1,12 @@
-id: 732972458
-type: way
+id: 581806806
+type: node
 shop: Drogerie
-latitude: 49.435185000000004
-longitude: 11.040394800000001
-postcode: 90439
+latitude: 49.462602100000005
+longitude: 11.143585300000002
+postcode: 90482
 city: Nürnberg
-street: Konstanzenstraße
-housenumber: 90
+street: Laufamholzstraße
+housenumber: 100
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: ""
 website: ""

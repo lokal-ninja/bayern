@@ -1,4 +1,4 @@
 ---
 title: "Balletshofer"
-url: /augsburg/balletshofer-2/
+url: /augsburg/balletshofer/
 ---

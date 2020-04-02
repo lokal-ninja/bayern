@@ -1,4 +1,4 @@
 ---
-title: "REWE City"
-url: /muenchen/rewe-city-2/
+title: "Rewe City"
+url: /muenchen/rewe-city/
 ---

@@ -1,4 +1,4 @@
 ---
-title: "Backstube"
-url: /nuernberg/backstube-2/
+title: "backstube"
+url: /nuernberg/backstube/
 ---

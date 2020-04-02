@@ -1,4 +1,4 @@
 ---
-title: "paradiso"
-url: /muenchen/paradiso-2/
+title: "Paradiso"
+url: /muenchen/paradiso/
 ---

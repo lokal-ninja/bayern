@@ -1,4 +1,4 @@
 ---
 title: "Nur Travel"
-url: /neu-ulm/nur-travel-2/
+url: /neu-ulm/nur-travel/
 ---

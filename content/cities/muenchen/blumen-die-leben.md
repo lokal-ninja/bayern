@@ -1,4 +1,4 @@
 ---
-title: "Blumen die leben"
-url: /muenchen/blumen-die-leben-2/
+title: "Blumen, die leben"
+url: /muenchen/blumen-die-leben/
 ---

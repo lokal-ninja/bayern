@@ -1,4 +1,4 @@
 ---
 title: "Möbel Krug"
-url: /kolbermoor/moebel-krug-2/
+url: /kolbermoor/moebel-krug/
 ---

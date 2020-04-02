@@ -1,4 +1,4 @@
 ---
 title: "Vodafone"
-url: /fuerstenfeldbruck/vodafone-2/
+url: /fuerstenfeldbruck/vodafone/
 ---

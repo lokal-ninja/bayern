@@ -1,4 +1,4 @@
 ---
 title: "Metro"
-url: /muenchen/metro-2/
+url: /muenchen/metro/
 ---

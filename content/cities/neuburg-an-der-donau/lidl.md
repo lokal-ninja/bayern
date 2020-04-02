@@ -1,4 +1,4 @@
 ---
 title: "Lidl"
-url: /neuburg-an-der-donau/lidl-2/
+url: /neuburg-an-der-donau/lidl/
 ---

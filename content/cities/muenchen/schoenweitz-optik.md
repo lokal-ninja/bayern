@@ -1,4 +1,4 @@
 ---
 title: "Schönweitz Optik"
-url: /muenchen/schoenweitz-optik-2/
+url: /muenchen/schoenweitz-optik/
 ---

@@ -1,4 +1,4 @@
 ---
-title: "manomama"
-url: /augsburg/manomama-2/
+title: "Manomama"
+url: /augsburg/manomama/
 ---

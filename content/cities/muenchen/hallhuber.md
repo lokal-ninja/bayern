@@ -1,4 +1,4 @@
 ---
 title: "Hallhuber"
-url: /muenchen/hallhuber-2/
+url: /muenchen/hallhuber/
 ---

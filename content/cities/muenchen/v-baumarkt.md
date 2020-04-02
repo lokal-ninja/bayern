@@ -1,4 +1,4 @@
 ---
 title: "V-Baumarkt"
-url: /muenchen/v-baumarkt-2/
+url: /muenchen/v-baumarkt/
 ---

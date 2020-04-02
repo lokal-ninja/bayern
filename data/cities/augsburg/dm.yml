@@ -1,12 +1,12 @@
-id: 366930523
-type: way
+id: 622354240
+type: node
 shop: Drogerie
-latitude: 48.3728953
-longitude: 10.9106351
-postcode: 86153
+latitude: 48.3665937
+longitude: 10.896387500000001
+postcode: 86150
 city: Augsburg
-street: Lechhauser Straße
-housenumber: 15
+street: Bürgermeister-Fischer-Straße
+housenumber: 3
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
+opening_hours: "Mo-Sa 07:00-20:00; PH off"
 website: "https://www.dm.de/"

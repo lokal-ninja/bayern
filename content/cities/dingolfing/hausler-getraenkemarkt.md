@@ -1,4 +1,4 @@
 ---
 title: "Hausler Getränkemarkt"
-url: /dingolfing/hausler-getraenkemarkt-2/
+url: /dingolfing/hausler-getraenkemarkt/
 ---

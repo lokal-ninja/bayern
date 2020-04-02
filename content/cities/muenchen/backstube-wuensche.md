@@ -1,4 +1,4 @@
 ---
 title: "Backstube Wünsche"
-url: /muenchen/backstube-wuensche-2/
+url: /muenchen/backstube-wuensche/
 ---
