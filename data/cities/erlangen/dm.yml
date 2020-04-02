@@ -1,12 +1,12 @@
-id: 2598716352
-type: node
+id: 193934834
+type: way
 shop: Drogerie
-latitude: 49.59233690000001
-longitude: 11.0276692
+latitude: 49.5926312
+longitude: 11.004222500000001
 postcode: 91052
 city: Erlangen
-street: Allee am Röthelheimpark
-housenumber: 11
-phone: "+49 9131 4010046"
-opening_hours: "Mo-Fr 08:00-20:00"
-website: ""
+street: Nürnberger Straße
+housenumber: 7
+phone: "+49 9131 5302710"
+opening_hours: "Mo-Sa 08:00-20:00"
+website: "https://www.dm.de/"

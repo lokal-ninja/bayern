@@ -1,4 +1,4 @@
 ---
 title: "Wöhrl"
-url: /wuerzburg/woehrl/
+url: /wuerzburg/woehrl-2/
 ---

@@ -1,4 +1,4 @@
 ---
 title: "Kotter"
-url: /traunstein/kotter/
+url: /traunstein/kotter-2/
 ---

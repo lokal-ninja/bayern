@@ -1,12 +1,12 @@
-id: 6992495795
-type: node
+id: 154664461
+type: way
 shop: Supermarkt
-latitude: 49.93279020000001
-longitude: 11.5780382
-postcode: 95447
+latitude: 49.958421300000005
+longitude: 11.5828719
+postcode: 95445
 city: Bayreuth
-street: Eichendorffring
-housenumber: 1
+street: Gravenreutherstraße
+housenumber: 19
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:00; Sa 07:00-16:00"
+opening_hours: "Mo-Sa 06:00-20:00"
 website: ""

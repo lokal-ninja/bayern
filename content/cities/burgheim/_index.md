@@ -1,0 +1,4 @@
+---
+title: Burgheim
+url: /burgheim/
+---

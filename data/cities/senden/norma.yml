@@ -1,12 +1,12 @@
-id: 3337992848
-type: node
+id: 441390639
+type: way
 shop: Supermarkt
-latitude: 48.3239602
-longitude: 10.0450534
+latitude: 48.3339361
+longitude: 10.0383297
 postcode: 89250
 city: Senden
-street: Hauptstraße
-housenumber: 37
+street: Berliner Straße
+housenumber: 17
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"
-website: ""
+website: "http://www.norma-online.de/"

@@ -1,4 +1,4 @@
 ---
 title: "dm"
-url: /wuerzburg/dm/
+url: /wuerzburg/dm-2/
 ---

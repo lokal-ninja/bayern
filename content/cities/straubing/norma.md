@@ -1,4 +1,4 @@
 ---
-title: "NORMA"
-url: /straubing/norma/
+title: "Norma"
+url: /straubing/norma-2/
 ---

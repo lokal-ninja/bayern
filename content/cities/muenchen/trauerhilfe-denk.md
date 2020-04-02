@@ -1,4 +1,4 @@
 ---
-title: "Trauerhilfe Denk"
-url: /muenchen/trauerhilfe-denk/
+title: "TrauerHilfe DENK"
+url: /muenchen/trauerhilfe-denk-2/
 ---

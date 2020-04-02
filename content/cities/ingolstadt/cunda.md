@@ -1,4 +1,4 @@
 ---
 title: "C&A"
-url: /ingolstadt/cunda/
+url: /ingolstadt/cunda-2/
 ---

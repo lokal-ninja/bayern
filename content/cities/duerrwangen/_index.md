@@ -1,0 +1,4 @@
+---
+title: Dürrwangen
+url: /duerrwangen/
+---

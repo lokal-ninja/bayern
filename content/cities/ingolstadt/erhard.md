@@ -1,4 +1,4 @@
 ---
 title: "Erhard"
-url: /ingolstadt/erhard/
+url: /ingolstadt/erhard-2/
 ---

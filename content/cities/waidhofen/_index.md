@@ -1,0 +1,4 @@
+---
+title: Waidhofen
+url: /waidhofen/
+---

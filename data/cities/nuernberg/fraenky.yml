@@ -1,12 +1,12 @@
-id: 313422870
-type: node
+id: 155263511
+type: way
 shop: Getränke
-latitude: 49.4343512
-longitude: 11.044345100000001
-postcode: 90439
+latitude: 49.435024500000004
+longitude: 11.1234678
+postcode: 90480
 city: Nürnberg
-street: Geisseestraße
-housenumber: 41
-phone: ""
-opening_hours: ""
+street: Regensburger Straße
+housenumber: 270
+phone: "+49 911 4007815"
+opening_hours: "Mo-Sa 08:00-20:00"
 website: ""

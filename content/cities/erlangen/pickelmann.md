@@ -1,4 +1,4 @@
 ---
 title: "Pickelmann"
-url: /erlangen/pickelmann/
+url: /erlangen/pickelmann-2/
 ---

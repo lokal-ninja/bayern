@@ -1,0 +1,4 @@
+---
+title: Mauerstetten
+url: /mauerstetten/
+---

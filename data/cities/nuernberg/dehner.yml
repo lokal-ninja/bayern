@@ -1,12 +1,12 @@
-id: 1573753970
-type: node
+id: 34853189
+type: way
 shop: Garten-Center
-latitude: 49.4325647
-longitude: 11.128704500000001
-postcode: 90480
+latitude: 49.46475220000001
+longitude: 11.1513015
+postcode: 90482
 city: Nürnberg
-street: Regensburger Straße
-housenumber: 330
-phone: "+49 911 40089940"
-opening_hours: "Mo-Sa 08:00-20:00"
+street: Happurger Straße
+housenumber: 2
+phone: "+49 911 9508590"
+opening_hours: "Mo-Sa 09:00-20:00"
 website: "https://www.dehner.de/"

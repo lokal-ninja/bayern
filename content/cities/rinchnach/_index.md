@@ -1,0 +1,4 @@
+---
+title: Rinchnach
+url: /rinchnach/
+---

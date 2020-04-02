@@ -1,4 +1,4 @@
 ---
-title: "hairkiller"
+title: "Hairkiller"
 url: /aichach/hairkiller/
 ---

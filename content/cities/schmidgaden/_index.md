@@ -1,0 +1,4 @@
+---
+title: Schmidgaden
+url: /schmidgaden/
+---

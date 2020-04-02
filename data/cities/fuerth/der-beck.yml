@@ -1,12 +1,12 @@
-id: 1928590768
-type: node
+id: 208784035
+type: way
 shop: Bäckerei
-latitude: 49.4761863
-longitude: 10.9886745
-postcode: 90762
+latitude: 49.4792713
+longitude: 11.011520500000001
+postcode: 90765
 city: Fürth
-street: Hirschenstraße
-housenumber: 3
+street: Hans-Vogel-Straße
+housenumber: 30
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00"
-website: "https://www.der-beck.de/"
+opening_hours: ""
+website: ""

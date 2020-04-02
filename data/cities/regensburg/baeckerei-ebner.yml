@@ -1,12 +1,12 @@
-id: 5890526222
-type: node
+id: 120129708
+type: way
 shop: Bäckerei
-latitude: 49.0159649
-longitude: 12.1182209
+latitude: 48.9898497
+longitude: 12.1418069
 postcode: 93055
 city: Regensburg
-street: Am alten Schlachthof
-housenumber: 1
+street: Hartinger Straße
+housenumber: 9
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00; Sa 07:00-17:00; Su 07:30-17:00"
+opening_hours: "Mo-Fr 05:30-18:30; Sa 05:30-13:00; Su,PH 07:30-10:30"
 website: ""

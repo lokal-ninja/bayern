@@ -1,12 +1,12 @@
-id: 6195558086
-type: node
+id: 227002240
+type: way
 shop: Bäckerei
-latitude: 49.0200307
-longitude: 12.089684700000001
-postcode: 93047
+latitude: 49.0008113
+longitude: 12.117251600000001
+postcode: 93053
 city: Regensburg
-street: Zur Schönen Gelegenheit
-housenumber: 7
-phone: "+49 941 53739"
-opening_hours: "Mo-Fr 6:30-19:00; Sa 6:30-18:00; Su,PH 8:00-11:00"
-website: "https://www.ebner-brot.de"
+street: Schwabenstraße
+housenumber: 6
+phone: "+49 941 78497640"
+opening_hours: "Mo-Sa 06:00-18:00; Su 07:30-18:00"
+website: "https://www.ebner-brot.de/"

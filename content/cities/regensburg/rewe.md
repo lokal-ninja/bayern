@@ -1,4 +1,4 @@
 ---
 title: "Rewe"
-url: /regensburg/rewe/
+url: /regensburg/rewe-2/
 ---

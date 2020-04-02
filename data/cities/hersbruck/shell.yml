@@ -1,12 +1,12 @@
-id: 1591593529
-type: node
+id: 83432118
+type: way
 shop: Kiosk
-latitude: 49.508548700000006
-longitude: 11.4199976
+latitude: 49.508307
+longitude: 11.416609300000001
 postcode: 91217
 city: Hersbruck
 street: Nürnberger Straße
-housenumber: 60
-phone: "+49 9151 2662"
-opening_hours: "Mo-Su 06:00-21:30"
+housenumber: 83
+phone: "+49 9151 9084706"
+opening_hours: "Mo-Fr 06:00-22:00; Sa 06:00-22:00; Su 08:00-22:00"
 website: ""

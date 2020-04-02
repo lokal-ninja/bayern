@@ -1,0 +1,4 @@
+---
+title: Fichtelberg
+url: /fichtelberg/
+---

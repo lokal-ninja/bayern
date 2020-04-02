@@ -1,0 +1,4 @@
+---
+title: Bischofsmais
+url: /bischofsmais/
+---

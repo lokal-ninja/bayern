@@ -1,4 +1,4 @@
 ---
-title: "BIOS Naturmarkt"
-url: /augsburg/bios-naturmarkt/
+title: "bios Naturmarkt"
+url: /augsburg/bios-naturmarkt-2/
 ---

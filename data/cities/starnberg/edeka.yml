@@ -1,12 +1,12 @@
-id: 3078710797
-type: node
+id: 18876892
+type: way
 shop: Supermarkt
-latitude: 47.998249400000006
-longitude: 11.343991800000001
+latitude: 48.0057594
+longitude: 11.3482883
 postcode: 82319
 city: Starnberg
-street: Maximilianstraße
-housenumber: 10
+street: Leutstettener Straße
+housenumber: 17
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.edeka.de/"
+opening_hours: ""
+website: ""

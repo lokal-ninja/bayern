@@ -1,12 +1,12 @@
-id: 800907819
-type: node
+id: 222779381
+type: way
 shop: Supermarkt
-latitude: 49.7968751
-longitude: 9.936518900000001
-postcode: 97070
+latitude: 49.8064186
+longitude: 9.9795691
+postcode: 97076
 city: Würzburg
-street: Semmelstraße
-housenumber: 20-22
+street: Werner-von-Siemens-Straße
+housenumber: 60
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00;Su,PH off"
+opening_hours: "Mo-Sa 08:00-20:00"
 website: ""

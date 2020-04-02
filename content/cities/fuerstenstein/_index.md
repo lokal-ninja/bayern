@@ -1,0 +1,4 @@
+---
+title: Fürstenstein
+url: /fuerstenstein/
+---

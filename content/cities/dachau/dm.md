@@ -1,4 +1,4 @@
 ---
 title: "dm"
-url: /dachau/dm/
+url: /dachau/dm-2/
 ---

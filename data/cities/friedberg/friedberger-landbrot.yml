@@ -1,12 +1,12 @@
-id: 1368706477
-type: node
+id: 108966449
+type: way
 shop: Bäckerei
-latitude: 48.350424100000005
-longitude: 10.9874687
+latitude: 48.3516728
+longitude: 10.954728600000001
 postcode: 86316
 city: Friedberg
-street: Mergenthauer Weg
-housenumber: 12
-phone: ""
-opening_hours: "Mo-Fr 06:00-12:30,14:30-18:00; Sa 06:00-12:00"
-website: ""
+street: Metzstraße
+housenumber: 7
+phone: "+49 821 261910"
+opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-12:30"
+website: "http://www.friedberger-landbrot.de/"

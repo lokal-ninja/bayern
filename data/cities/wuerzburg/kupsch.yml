@@ -1,12 +1,12 @@
-id: 2598157006
-type: node
+id: 167105205
+type: way
 shop: Supermarkt
-latitude: 49.79818950000001
-longitude: 9.933538800000001
-postcode: 97070
+latitude: 49.7679879
+longitude: 9.9413532
+postcode: 97084
 city: Würzburg
-street: Kaiserstraße
-housenumber: 5
+street: Mergentheimer Straße
+housenumber: 35
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00;Su,PH off"
+opening_hours: "Mo-Sa 07:00-20:00"
 website: ""

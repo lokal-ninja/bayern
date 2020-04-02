@@ -1,12 +1,12 @@
-id: 3725658292
-type: node
+id: 37300577
+type: way
 shop: Bäckerei
-latitude: 49.5807426
-longitude: 11.0108978
-postcode: 91052
+latitude: 49.588621
+longitude: 10.9741196
+postcode: 91056
 city: Erlangen
-street: Hans-Geiger-Straße
-housenumber: 1b
-phone: ""
-opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-13:00"
+street: Schallershofer Straße
+housenumber: 72
+phone: "+49 9131 42271"
+opening_hours: "Mo-Sa 05:30-12:00"
 website: ""

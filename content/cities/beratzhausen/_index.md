@@ -1,0 +1,4 @@
+---
+title: Beratzhausen
+url: /beratzhausen/
+---

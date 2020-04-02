@@ -1,0 +1,4 @@
+---
+title: Gottfrieding
+url: /gottfrieding/
+---

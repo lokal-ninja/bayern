@@ -1,12 +1,12 @@
-id: 1482183638
-type: node
+id: 205131340
+type: way
 shop: Elektronik
-latitude: 48.100039100000004
-longitude: 11.643754300000001
-postcode: 81737
+latitude: 48.183728200000004
+longitude: 11.5294846
+postcode: 80993
 city: München
-street: Ollenhauerstraße
-housenumber: 6
+street: Hanauer Straße
+housenumber: 77
 phone: ""
-opening_hours: "Mo-Sa 09:30-20:00"
+opening_hours: "Mo-Sa 09:00-20:00"
 website: "https://www.saturn.de/"

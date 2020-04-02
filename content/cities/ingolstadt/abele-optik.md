@@ -1,4 +1,4 @@
 ---
 title: "Abele Optik"
-url: /ingolstadt/abele-optik/
+url: /ingolstadt/abele-optik-2/
 ---

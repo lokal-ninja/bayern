@@ -1,12 +1,12 @@
-id: 3717381400
-type: node
+id: 32611633
+type: way
 shop: Supermarkt
-latitude: 49.589910700000004
-longitude: 10.999508800000001
-postcode: 91052
+latitude: 49.575814
+longitude: 11.001374700000001
+postcode: 91058
 city: Erlangen
-street: Michael-Vogel-Straße
-housenumber: 1a
+street: Cumianastraße
+housenumber: 4
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
-website: "https://www.rewe.de/marktseite/?wwident=431070"
+opening_hours: "Mo-Sa 07:00-20:00"
+website: ""

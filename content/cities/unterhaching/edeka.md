@@ -1,4 +1,4 @@
 ---
 title: "Edeka"
-url: /unterhaching/edeka/
+url: /unterhaching/edeka-2/
 ---

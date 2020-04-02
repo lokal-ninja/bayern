@@ -1,12 +1,12 @@
-id: 1212271251
-type: node
+id: 428921932
+type: way
 shop: Handy
-latitude: 49.5956503
-longitude: 11.0044477
-postcode: 91054
+latitude: 49.5926156
+longitude: 11.004771700000001
+postcode: 91052
 city: Erlangen
-street: Hauptstraße
-housenumber: 15
-phone: "+49 9131 898844"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-16:00"
-website: ""
+street: Nürnberger Straße
+housenumber: 7
+phone: "+49 9131 9733230"
+opening_hours: "Mo-Sa 09:30-20:00"
+website: "https://www.o2online.de/"

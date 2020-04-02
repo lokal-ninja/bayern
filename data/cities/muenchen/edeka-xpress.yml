@@ -1,12 +1,12 @@
-id: 2166082206
-type: node
+id: 123420331
+type: way
 shop: Supermarkt
-latitude: 48.153395
-longitude: 11.522785200000001
-postcode: 80639
+latitude: 48.1223875
+longitude: 11.577473600000001
+postcode: 81541
 city: München
-street: Nibelungenstraße
-housenumber: 32
-phone: ""
+street: Entenbachstraße
+housenumber: 28
+phone: "+49 89 62509007"
 opening_hours: "Mo-Sa 07:00-20:00"
-website: ""
+website: "http://kaisers-tengelmann.de"

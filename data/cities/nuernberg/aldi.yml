@@ -1,12 +1,12 @@
-id: 1582440711
-type: node
+id: 320783963
+type: way
 shop: Supermarkt
-latitude: 49.448177400000006
-longitude: 11.0811171
-postcode: 90402
+latitude: 49.4630218
+longitude: 11.1458937
+postcode: 90482
 city: Nürnberg
-street: Königstraße
-housenumber: 83 - 87
+street: Laufamholzstraße
+housenumber: 112
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
+opening_hours: "Mo-Sa 08:00-20:00"
 website: ""

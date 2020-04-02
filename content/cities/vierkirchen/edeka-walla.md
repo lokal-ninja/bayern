@@ -1,4 +1,4 @@
 ---
-title: "Edeka Walla"
-url: /vierkirchen/edeka-walla/
+title: "EDEKA Walla"
+url: /vierkirchen/edeka-walla-2/
 ---

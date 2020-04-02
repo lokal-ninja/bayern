@@ -1,0 +1,4 @@
+---
+title: Mittelneufnach
+url: /mittelneufnach/
+---

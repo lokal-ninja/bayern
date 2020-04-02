@@ -1,4 +1,4 @@
 ---
 title: "Hornbach"
-url: /fuerth/hornbach/
+url: /fuerth/hornbach-2/
 ---

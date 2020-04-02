@@ -1,4 +1,4 @@
 ---
 title: "Karl Brosi"
-url: /regensburg/karl-brosi/
+url: /regensburg/karl-brosi-2/
 ---

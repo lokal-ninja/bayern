@@ -1,4 +1,4 @@
 ---
 title: "Heiglbeck"
-url: /ingolstadt/heiglbeck/
+url: /ingolstadt/heiglbeck-2/
 ---

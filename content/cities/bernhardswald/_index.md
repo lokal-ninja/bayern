@@ -1,0 +1,4 @@
+---
+title: Bernhardswald
+url: /bernhardswald/
+---

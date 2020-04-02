@@ -1,4 +1,4 @@
 ---
 title: "Edeka"
-url: /germering/edeka/
+url: /germering/edeka-2/
 ---

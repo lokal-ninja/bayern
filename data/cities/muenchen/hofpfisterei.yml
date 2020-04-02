@@ -1,12 +1,12 @@
-id: 6652649038
-type: node
+id: 346567417
+type: way
 shop: Bäckerei
-latitude: 48.166605600000004
-longitude: 11.577711
-postcode: 80803
+latitude: 48.139732800000004
+longitude: 11.5608055
+postcode: 80335
 city: München
-street: Karl-Theodor-Straße
-housenumber: 55
-phone: ""
-opening_hours: ""
-website: "https://www.hofpfisterei.de/"
+street: 
+housenumber: 
+phone: "+49 89 51657855"
+opening_hours: "Mo-Fr 06:30-20:00; Sa 07:30-20:00"
+website: "https://www.hofpfisterei.de"

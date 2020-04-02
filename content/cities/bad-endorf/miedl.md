@@ -1,4 +1,4 @@
 ---
 title: "Miedl"
-url: /bad-endorf/miedl/
+url: /bad-endorf/miedl-2/
 ---

@@ -1,0 +1,4 @@
+---
+title: Adelsdorf
+url: /adelsdorf/
+---

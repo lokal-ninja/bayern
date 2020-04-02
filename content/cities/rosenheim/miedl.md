@@ -1,4 +1,4 @@
 ---
 title: "Miedl"
-url: /rosenheim/miedl/
+url: /rosenheim/miedl-2/
 ---

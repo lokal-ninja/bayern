@@ -1,12 +1,12 @@
-id: 759726475
-type: node
+id: 115717600
+type: way
 shop: Supermarkt
-latitude: 48.392470800000005
-longitude: 10.012232800000001
+latitude: 48.397913700000004
+longitude: 10.011818100000001
 postcode: 89231
 city: Neu-Ulm
-street: Reuttier Straße
-housenumber: 56
-phone: ""
-opening_hours: "Mo-Fr 8:00-20:00; Sa 07:00-20:00"
+street: Bahnhofstraße
+housenumber: 91
+phone: "+49 731 / 7253497"
+opening_hours: "Mo-Sa 08:00-20:00"
 website: "https://www.penny.de/"

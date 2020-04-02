@@ -1,12 +1,12 @@
-id: 521910989
-type: node
+id: 162802732
+type: way
 shop: Bäckerei
-latitude: 47.862454
-longitude: 12.0056794
+latitude: 47.868874500000004
+longitude: 12.014814900000001
 postcode: 83043
 city: Bad Aibling
-street: Bahnhofstraße
-housenumber: 32
-phone: "+49 8061 939 17 71"
-opening_hours: "Mo-Fr 07:00-18:00;Sa 07:00-13:00;Su 07:30-10:30"
-website: "https://www.baeckerei-anders.de"
+street: Ellmosener Straße
+housenumber: 22
+phone: "+49 8061-39 15 49"
+opening_hours: "Mo-Sa 06:00-20:00; Su 07:30-10:30"
+website: ""

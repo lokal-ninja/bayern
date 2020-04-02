@@ -1,12 +1,12 @@
-id: 5035308019
-type: node
+id: 61329283
+type: way
 shop: Supermarkt
-latitude: 47.495519900000005
-longitude: 11.093918400000002
+latitude: 47.491035800000006
+longitude: 11.078105800000001
 postcode: 82467
 city: Garmisch-Partenkirchen
-street: Von-Brug-Straße
-housenumber: 7
+street: Zugspitzstraße
+housenumber: 36
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: ""
 website: ""

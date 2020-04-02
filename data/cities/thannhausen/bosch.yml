@@ -1,12 +1,12 @@
-id: 2127479468
-type: node
+id: 198985598
+type: way
 shop: Bäckerei
-latitude: 48.2920795
-longitude: 10.462492800000001
-postcode: 86470
+latitude: 48.2799327
+longitude: 10.4654485
+postcode: 
 city: Thannhausen
-street: Bahnhofstraße
-housenumber: 75
-phone: "+49 8281 9997600"
-opening_hours: "Mo-Fr 05:30-19:00; Sa 05:30-18:00; Su 06:30-17:30; PH 06:30-17:30"
+street: Ursberger Straße
+housenumber: 17
+phone: "+49 8281 999085"
+opening_hours: "Mo-Fr 06:00-18:30; Sa 06:00-14:00; Su 07:30-10:30"
 website: "http://www.baeckerei-bosch.de/"

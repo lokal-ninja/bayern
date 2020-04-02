@@ -1,12 +1,12 @@
-id: 364333040
-type: node
-shop: Autoteile
-latitude: 48.100216800000005
-longitude: 11.531696100000001
-postcode: 81379
+id: 593110845
+type: way
+shop: Autowerkstatt
+latitude: 48.1461842
+longitude: 11.4424708
+postcode: 81243
 city: München
-street: Boschetsrieder Straße
-housenumber: 54
+street: Bodenseestraße
+housenumber: 100
 phone: ""
 opening_hours: ""
-website: "https://www.atu.de/"
+website: ""

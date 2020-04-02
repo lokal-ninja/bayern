@@ -1,12 +1,12 @@
-id: 4957143955
-type: node
+id: 339526221
+type: way
 shop: Supermarkt
-latitude: 48.0933663
-longitude: 11.605030600000001
-postcode: 81549
+latitude: 48.130455700000006
+longitude: 11.589524500000001
+postcode: 81669
 city: München
-street: Auguste-Kent-Platz
-housenumber: 2
-phone: ""
+street: Rosenheimer Straße
+housenumber: 30
+phone: "+49 89 4808860"
 opening_hours: "Mo-Sa 07:00-20:00"
 website: ""

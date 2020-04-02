@@ -1,0 +1,4 @@
+---
+title: Lupburg
+url: /lupburg/
+---

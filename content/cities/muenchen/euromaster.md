@@ -1,4 +1,4 @@
 ---
 title: "Euromaster"
-url: /muenchen/euromaster/
+url: /muenchen/euromaster-2/
 ---

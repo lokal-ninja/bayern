@@ -1,12 +1,12 @@
-id: 800602802
-type: node
+id: 209249781
+type: way
 shop: Schuhe
-latitude: 48.34605010000001
-longitude: 10.885337100000001
-postcode: 86199
+latitude: 48.385555000000004
+longitude: 10.881897100000002
+postcode: 86154
 city: Augsburg
-street: Eichleitnerstraße
-housenumber: 3
+street: Dieselstraße
+housenumber: 6
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
+opening_hours: ""
 website: ""

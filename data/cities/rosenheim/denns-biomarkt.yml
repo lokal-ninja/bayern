@@ -1,12 +1,12 @@
-id: 1177465346
-type: node
+id: 426396122
+type: way
 shop: Supermarkt
-latitude: 47.8403842
-longitude: 12.1133036
+latitude: 47.845439500000005
+longitude: 12.1250972
 postcode: 83026
 city: Rosenheim
-street: Mangfallstraße
-housenumber: 35
-phone: ""
+street: Kufsteiner Straße
+housenumber: 79
+phone: "+49 8031 4086082"
 opening_hours: "Mo-Sa 08:00-20:00"
-website: ""
+website: "https://www.denns-biomarkt.de/"

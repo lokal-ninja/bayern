@@ -1,12 +1,12 @@
-id: 357909303
-type: node
+id: 100018904
+type: way
 shop: Drogerie
-latitude: 49.795520100000005
-longitude: 9.9332305
-postcode: 97070
+latitude: 49.784038100000004
+longitude: 9.946452500000001
+postcode: 97074
 city: Würzburg
-street: Eichhornstraße
-housenumber: 13
-phone: "+49-931-40470999"
-opening_hours: "Mo-Sa 08:00-20:00"
+street: Erthalstraße
+housenumber: 32b
+phone: ""
+opening_hours: ""
 website: ""

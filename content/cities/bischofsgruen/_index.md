@@ -1,0 +1,4 @@
+---
+title: Bischofsgrün
+url: /bischofsgruen/
+---

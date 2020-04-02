@@ -1,0 +1,4 @@
+---
+title: Waldetzenberg
+url: /waldetzenberg/
+---

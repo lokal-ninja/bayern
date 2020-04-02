@@ -1,12 +1,12 @@
-id: 2531482688
-type: node
+id: 125088717
+type: way
 shop: Bäckerei
-latitude: 48.380260500000006
-longitude: 10.9896659
+latitude: 48.3660006
+longitude: 10.990541100000002
 postcode: 86316
 city: Friedberg
-street: Radegundisstraße
-housenumber: 1
+street: Am Haferfeld
+housenumber: 2
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-12:00; Su 08:00-12:00; PH off"
-website: "https://www.genussbaeckerei-schwab.de/hier-sind-wir-zu-finden/"
+opening_hours: ""
+website: ""

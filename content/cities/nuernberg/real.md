@@ -1,4 +1,4 @@
 ---
 title: "Real"
-url: /nuernberg/real/
+url: /nuernberg/real-2/
 ---

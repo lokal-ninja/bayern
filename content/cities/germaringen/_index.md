@@ -1,0 +1,4 @@
+---
+title: Germaringen
+url: /germaringen/
+---

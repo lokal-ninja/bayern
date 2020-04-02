@@ -1,0 +1,4 @@
+---
+title: Stegaurach
+url: /stegaurach/
+---

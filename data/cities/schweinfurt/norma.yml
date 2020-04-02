@@ -1,12 +1,12 @@
-id: 271039101
-type: node
+id: 97729709
+type: way
 shop: Supermarkt
-latitude: 50.0408914
-longitude: 10.1973187
-postcode: 97424
+latitude: 50.056307100000005
+longitude: 10.2289828
+postcode: 97422
 city: Schweinfurt
-street: Oskar-von-Miller-Straße
-housenumber: 60
+street: Heckenweg
+housenumber: 2 A
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 08:00-20:00"
 website: ""

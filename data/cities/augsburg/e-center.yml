@@ -1,12 +1,12 @@
-id: 1207183356
-type: node
+id: 21149432
+type: way
 shop: Supermarkt
-latitude: 48.3555756
-longitude: 10.9263743
-postcode: 86161
+latitude: 48.2974248
+longitude: 10.8988387
+postcode: 86179
 city: Augsburg
-street: Wilhelm-Hauff-Straße
-housenumber: 38
-phone: "+49 821 560890"
+street: Brahmsstraße
+housenumber: 2
+phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.edeka.de/"
+website: ""

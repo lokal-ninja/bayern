@@ -1,12 +1,12 @@
-id: 2245000879
-type: node
+id: 64200069
+type: way
 shop: Supermarkt
-latitude: 49.47057220000001
-longitude: 11.023255200000001
-postcode: 90427
+latitude: 49.411145600000005
+longitude: 11.119699
+postcode: 90471
 city: Nürnberg
-street: Knebelstraße
-housenumber: 1
+street: Wettersteinstraße
+housenumber: 23
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
-website: ""
+opening_hours: "Mo-Sa 07:00-20:00"
+website: "https://www.netto-online.de/home/home.php"

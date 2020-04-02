@@ -1,0 +1,4 @@
+---
+title: Ehingen
+url: /ehingen/
+---

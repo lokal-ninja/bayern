@@ -1,12 +1,12 @@
-id: 1160893065
-type: node
+id: 239356660
+type: way
 shop: Supermarkt
-latitude: 48.3702382
-longitude: 10.8956253
-postcode: 86152
+latitude: 48.3480113
+longitude: 10.8862527
+postcode: 86199
 city: Augsburg
-street: Ludwigstraße
-housenumber: 2
-phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
-website: ""
+street: Eichleitnerstraße
+housenumber: 14
+phone: "+49 821 2628940"
+opening_hours: "Mo-Sa 08:00-20:00"
+website: "http://www.basic-bio-genuss-fuer-alle.de/maerkte/maerkte-de.html"

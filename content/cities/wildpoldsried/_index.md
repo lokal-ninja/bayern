@@ -1,0 +1,4 @@
+---
+title: Wildpoldsried
+url: /wildpoldsried/
+---

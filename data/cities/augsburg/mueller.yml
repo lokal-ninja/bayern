@@ -1,12 +1,12 @@
-id: 794727052
-type: node
+id: 166262215
+type: way
 shop: Drogerie
-latitude: 48.3691188
-longitude: 10.8962511
-postcode: 86150
+latitude: 48.3892576
+longitude: 10.882881900000001
+postcode: 86154
 city: Augsburg
-street: Annastraße
-housenumber: 8-10
+street: Donauwörther Straße
+housenumber: 110b
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
+opening_hours: ""
 website: ""

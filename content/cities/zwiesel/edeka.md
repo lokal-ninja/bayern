@@ -1,4 +1,4 @@
 ---
 title: "EDEKA"
-url: /zwiesel/edeka/
+url: /zwiesel/edeka-2/
 ---

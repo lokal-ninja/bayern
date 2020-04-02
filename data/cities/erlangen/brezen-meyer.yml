@@ -1,12 +1,12 @@
-id: 2377981315
-type: node
+id: 232234397
+type: way
 shop: Bäckerei
-latitude: 49.5991962
-longitude: 11.0173137
-postcode: 91054
+latitude: 49.628413300000005
+longitude: 10.939758300000001
+postcode: 91056
 city: Erlangen
-street: Schillerstraße
-housenumber: 5
-phone: "+49 9131 9295960"
-opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-12:00; Su 08:00-11:00"
-website: "https://www.brezen-meyer.de/wo-wir-sind/index.html"
+street: Naturbadstraße
+housenumber: 3
+phone: ""
+opening_hours: "Sa 06:00-17:00; Mo-Fr 06:00-18:00; Su 08:00-17:00"
+website: ""

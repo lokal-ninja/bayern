@@ -1,12 +1,12 @@
-id: 320935096
-type: node
+id: 113120297
+type: way
 shop: Supermarkt
-latitude: 49.0248119
-longitude: 12.061400500000001
-postcode: 93049
+latitude: 49.028801300000005
+longitude: 12.1045569
+postcode: 93059
 city: Regensburg
-street: Agnesstraße
-housenumber: 24
+street: Holzgartenstraße
+housenumber: 15
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"
-website: "http://www.netto-online.de"
+website: ""

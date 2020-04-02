@@ -1,4 +1,4 @@
 ---
 title: "Marktkauf"
-url: /nuernberg/marktkauf/
+url: /nuernberg/marktkauf-2/
 ---

@@ -1,12 +1,12 @@
-id: 3952505336
-type: node
+id: 111699784
+type: way
 shop: Supermarkt
-latitude: 49.0329096
-longitude: 12.114625
-postcode: 93059
+latitude: 49.0140966
+longitude: 12.1475503
+postcode: 93055
 city: Regensburg
-street: Altmühlstraße
-housenumber: 11
+street: Bukarester Straße
+housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"
-website: ""
+website: "http://norma-online.de/"

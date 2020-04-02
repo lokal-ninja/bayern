@@ -1,0 +1,4 @@
+---
+title: Bernbeuren
+url: /bernbeuren/
+---

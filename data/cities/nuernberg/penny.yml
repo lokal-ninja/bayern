@@ -1,12 +1,12 @@
-id: 1528865691
-type: node
+id: 37610465
+type: way
 shop: Supermarkt
-latitude: 49.456967000000006
-longitude: 11.088004300000001
-postcode: 90403
+latitude: 49.469145600000004
+longitude: 11.080009800000001
+postcode: 90408
 city: Nürnberg
-street: Äußerer Laufer Platz
-housenumber: 24
+street: Rollnerstraße
+housenumber: 121
 phone: ""
-opening_hours: "Mo-Fr 07:00-20:00"
+opening_hours: "Mo-Sa 07:00-20:00"
 website: ""

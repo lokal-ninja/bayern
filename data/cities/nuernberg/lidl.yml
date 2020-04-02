@@ -1,12 +1,12 @@
-id: 1573822423
-type: node
+id: 432736850
+type: way
 shop: Supermarkt
-latitude: 49.4353381
-longitude: 11.0910037
-postcode: 90461
+latitude: 49.446389
+longitude: 11.081600600000002
+postcode: 90443
 city: Nürnberg
-street: Allersberger Straße
-housenumber: 130a
+street: Bahnhofsplatz
+housenumber: 9
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: "Mo-Su 06:00-22:00"
 website: ""

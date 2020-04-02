@@ -1,0 +1,4 @@
+---
+title: Rettenberg
+url: /rettenberg/
+---

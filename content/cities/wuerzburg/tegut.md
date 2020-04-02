@@ -1,4 +1,4 @@
 ---
-title: "Tegut"
-url: /wuerzburg/tegut/
+title: "tegut"
+url: /wuerzburg/tegut-2/
 ---

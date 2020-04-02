@@ -1,12 +1,12 @@
-id: 4294027200
-type: node
+id: 165407200
+type: way
 shop: Bestattungen
-latitude: 48.1009918
-longitude: 11.630266200000001
-postcode: 81737
+latitude: 48.0879325
+longitude: 11.557437100000001
+postcode: 
 city: München
-street: Ottobrunner Straße
-housenumber: 145
-phone: ""
+street: Seybothstraße
+housenumber: 66
+phone: "+49 89 64280642"
 opening_hours: ""
-website: ""
+website: "https://www.trauerhilfe-denk.de/"

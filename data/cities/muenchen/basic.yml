@@ -1,12 +1,12 @@
-id: 3506657511
-type: node
+id: 499338957
+type: way
 shop: Supermarkt
-latitude: 48.1660848
-longitude: 11.5737231
-postcode: 80796
+latitude: 48.122852
+longitude: 11.670407200000001
+postcode: 81825
 city: München
-street: Belgradstraße
-housenumber: 59
+street: Hafelhofweg
+housenumber: 5
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: ""
+opening_hours: "Mo-Sa 07:00-20:00; PH closed"
+website: "https://basicbio.de"

@@ -1,12 +1,12 @@
-id: 4454583195
-type: node
+id: 739110341
+type: way
 shop: Supermarkt
-latitude: 48.359334700000005
-longitude: 10.8668942
-postcode: 86157
+latitude: 48.3975318
+longitude: 10.856126100000001
+postcode: 86156
 city: Augsburg
-street: Brunnenbachstraße
-housenumber: 21
+street: Zaunkönigweg
+housenumber: 4
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: ""
 website: ""

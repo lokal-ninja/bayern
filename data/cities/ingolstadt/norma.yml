@@ -1,12 +1,12 @@
-id: 6011133451
-type: node
+id: 206286611
+type: way
 shop: Supermarkt
-latitude: 48.7664155
-longitude: 11.4226685
-postcode: 85049
+latitude: 48.7770778
+longitude: 11.4048698
+postcode: 85057
 city: Ingolstadt
-street: Harderstraße
-housenumber: 13
+street: Gaimersheimer Straße
+housenumber: 57
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Sa 07:00-20:00"
+website: "http://www.norma-online.de/"

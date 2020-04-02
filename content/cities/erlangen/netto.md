@@ -1,4 +1,4 @@
 ---
 title: "Netto"
-url: /erlangen/netto/
+url: /erlangen/netto-2/
 ---

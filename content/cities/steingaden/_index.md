@@ -1,0 +1,4 @@
+---
+title: Steingaden
+url: /steingaden/
+---

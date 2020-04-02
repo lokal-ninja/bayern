@@ -1,4 +1,4 @@
 ---
 title: "Greiner"
-url: /erlangen/greiner/
+url: /erlangen/greiner-2/
 ---

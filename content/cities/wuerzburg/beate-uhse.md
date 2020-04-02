@@ -1,4 +1,4 @@
 ---
 title: "Beate Uhse"
-url: /wuerzburg/beate-uhse/
+url: /wuerzburg/beate-uhse-2/
 ---

@@ -1,0 +1,4 @@
+---
+title: Etzelwang
+url: /etzelwang/
+---

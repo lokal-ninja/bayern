@@ -1,4 +1,4 @@
 ---
-title: "EDEKA"
-url: /unterschleissheim/edeka/
+title: "Edeka"
+url: /unterschleissheim/edeka-2/
 ---

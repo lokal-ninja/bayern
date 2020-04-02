@@ -1,12 +1,12 @@
-id: 1403059380
-type: node
-shop: Bäckerei
-latitude: 48.065990500000005
-longitude: 11.383566
+id: 111411685
+type: way
+shop: Supermarkt
+latitude: 48.064263100000005
+longitude: 11.374835500000001
 postcode: 82131
 city: Gauting
-street: August-Hörmann-Platz
-housenumber: 2
-phone: "+49 89 8509260"
-opening_hours: ""
-website: "http://lidl-baeckerei.de"
+street: Starnberger Straße
+housenumber: 38
+phone: ""
+opening_hours: "Mo-Sa 08:00-20:00"
+website: "https://www.lidl.de/"

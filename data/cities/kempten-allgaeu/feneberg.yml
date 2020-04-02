@@ -1,12 +1,12 @@
-id: 6139282814
-type: node
+id: 95954744
+type: way
 shop: Supermarkt
-latitude: 47.720416300000004
-longitude: 10.316053
+latitude: 47.7131793
+longitude: 10.2953139
 postcode: 87435
 city: Kempten (Allgäu)
-street: August-Fischer-Platz
-housenumber: 1
+street: Im Allmey
+housenumber: 25
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.feneberg.de/"
+opening_hours: ""
+website: ""

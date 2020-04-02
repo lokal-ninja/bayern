@@ -1,12 +1,12 @@
-id: 1151802204
-type: node
+id: 32881020
+type: way
 shop: Supermarkt
-latitude: 49.251073700000006
-longitude: 11.087090400000001
+latitude: 49.2470541
+longitude: 11.120231500000001
 postcode: 91154
 city: Roth
-street: Von-Vollmar-Straße
-housenumber: 1
+street: Bortenmacherstraße
+housenumber: 4
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: ""
 website: ""

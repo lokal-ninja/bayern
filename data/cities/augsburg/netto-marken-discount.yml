@@ -1,12 +1,12 @@
-id: 1686777473
-type: node
+id: 393349205
+type: way
 shop: Supermarkt
-latitude: 48.3686949
-longitude: 10.9326007
-postcode: 86165
+latitude: 48.313270300000006
+longitude: 10.8889998
+postcode: 86179
 city: Augsburg
-street: Zugspitzstraße
-housenumber: 183a
+street: Unterer Talweg
+housenumber: 115
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su off"
-website: ""
+opening_hours: "Mo-Sa 07:00-20:00"
+website: "https://www.netto-online.de/"

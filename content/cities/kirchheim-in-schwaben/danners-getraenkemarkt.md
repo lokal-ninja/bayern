@@ -1,4 +1,4 @@
 ---
 title: "Danner's Getränkemarkt"
-url: /kirchheim-in-schwaben/danners-getraenkemarkt/
+url: /kirchheim-in-schwaben/danners-getraenkemarkt-2/
 ---

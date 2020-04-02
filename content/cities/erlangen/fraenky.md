@@ -1,4 +1,4 @@
 ---
 title: "Fränky"
-url: /erlangen/fraenky/
+url: /erlangen/fraenky-2/
 ---

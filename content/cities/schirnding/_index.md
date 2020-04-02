@@ -1,0 +1,4 @@
+---
+title: Schirnding
+url: /schirnding/
+---

@@ -1,0 +1,4 @@
+---
+title: Schillingsfürst
+url: /schillingsfuerst/
+---

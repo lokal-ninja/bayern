@@ -1,12 +1,12 @@
-id: 6806584052
-type: node
+id: 292199751
+type: way
 shop: Supermarkt
-latitude: 48.087285400000006
-longitude: 11.6001165
-postcode: 81549
+latitude: 48.1336151
+longitude: 11.583833400000001
+postcode: 80331
 city: München
-street: Minnewitstraße
-housenumber: 37
-phone: "+49 89 693 86 735"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.edeka.de/eh/südbayern/e-xpress-türkyilmaz-minnewitstraße-37/index.jsp"
+street: Zweibrückenstraße
+housenumber: 5
+phone: ""
+opening_hours: "Mo-Fr 07:00-20:00, Sa 07:30-20:00"
+website: "https://www.edeka.de/"

@@ -1,12 +1,12 @@
-id: 6414912313
-type: node
+id: 29463780
+type: way
 shop: Supermarkt
-latitude: 48.1458529
-longitude: 11.519402300000001
-postcode: 80639
+latitude: 48.168568400000005
+longitude: 11.633429600000001
+postcode: 81925
 city: München
-street: Friedenheimer Brücke
-housenumber: 23
+street: Hochstiftsweg
+housenumber: 4
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00"
 website: ""

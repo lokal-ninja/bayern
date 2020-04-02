@@ -1,12 +1,12 @@
-id: 2407704216
-type: node
+id: 149933458
+type: way
 shop: Metzgerei
-latitude: 49.5508718
-longitude: 11.026346700000001
-postcode: 91058
+latitude: 49.602422700000005
+longitude: 11.005436600000001
+postcode: 91054
 city: Erlangen
-street: Lachnerstraße
-housenumber: 2
+street: Vierzigmannstraße
+housenumber: 11
 phone: "+49 9131 21900"
-opening_hours: "Mo. - Fr. 7.30 - 13.30 und 14.30 - 18.00 Uhr, Sa. 8.00 - 13.00 Uhr"
+opening_hours: "Mo-Fr 08:00-13:00,14:30-18:00; Sa 08:00-13:00"
 website: "http://www.metzgerei-brunner.org/"

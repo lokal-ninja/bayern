@@ -1,12 +1,12 @@
-id: 7042354594
-type: node
-shop: Andere
-latitude: 49.450983
-longitude: 11.000994400000002
+id: 89220973
+type: way
+shop: Baumarkt
+latitude: 49.4501958
+longitude: 11.002455000000001
 postcode: 90763
 city: Fürth
 street: Magazinstraße
 housenumber: 90
-phone: ""
-opening_hours: ""
-website: ""
+phone: "+49 911 93774 0"
+opening_hours: "Mo-Sa 07:00-20:00"
+website: "https://www.hornbach.de/"

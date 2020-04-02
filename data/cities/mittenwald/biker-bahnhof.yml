@@ -1,12 +1,12 @@
-id: 683061059
-type: node
+id: 484318624
+type: way
 shop: Fahrrad
-latitude: 47.440028600000005
-longitude: 11.2654755
+latitude: 47.440100400000006
+longitude: 11.2652753
 postcode: 82481
 city: Mittenwald
 street: Bahnhofplatz
 housenumber: 12
-phone: "+49 8823 2764"
-opening_hours: "Mo-Tu 09:00-13:00,15:00-18:00; We 09:00-13:00; Th-Fr 09:00-13:00,15:00-18:00; Sa 09:00-13:00; Su 09:00-12:00"
-website: "https://www.bikerbahnhof.com/"
+phone: ""
+opening_hours: ""
+website: ""

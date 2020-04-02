@@ -1,0 +1,4 @@
+---
+title: Kinsau
+url: /kinsau/
+---

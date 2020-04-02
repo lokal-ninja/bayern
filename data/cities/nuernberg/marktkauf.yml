@@ -1,12 +1,12 @@
-id: 288951657
-type: node
+id: 55377847
+type: way
 shop: Supermarkt
-latitude: 49.421638800000004
-longitude: 11.031095200000001
-postcode: 90449
+latitude: 49.4802971
+longitude: 11.0625821
+postcode: 90425
 city: Nürnberg
-street: Dombühler Straße
-housenumber: 9
-phone: ""
+street: Wilhelmshavener Straße
+housenumber: 15
+phone: "+49 911 9346-0"
 opening_hours: "Mo-Sa 07:00-20:00"
 website: ""

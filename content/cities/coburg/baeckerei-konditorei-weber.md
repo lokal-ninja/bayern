@@ -1,4 +1,4 @@
 ---
 title: "Bäckerei-Konditorei Weber"
-url: /coburg/baeckerei-konditorei-weber/
+url: /coburg/baeckerei-konditorei-weber-2/
 ---

@@ -1,4 +1,4 @@
 ---
 title: "Penny"
-url: /wuerzburg/penny/
+url: /wuerzburg/penny-2/
 ---

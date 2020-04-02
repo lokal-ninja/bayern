@@ -1,12 +1,12 @@
-id: 2614097019
-type: node
+id: 439643389
+type: way
 shop: Supermarkt
-latitude: 49.5958082
-longitude: 10.9624875
-postcode: 91056
+latitude: 49.5449867
+longitude: 11.0284671
+postcode: 91058
 city: Erlangen
-street: Odenwaldallee
-housenumber: 31
+street: Wetterkreuz
+housenumber: 8
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: "Mo-Sa 07:00-20:00"
 website: ""

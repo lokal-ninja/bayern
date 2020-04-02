@@ -1,0 +1,4 @@
+---
+title: Denklingen
+url: /denklingen/
+---

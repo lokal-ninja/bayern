@@ -1,4 +1,4 @@
 ---
 title: "pitstop"
-url: /nuernberg/pitstop/
+url: /nuernberg/pitstop-2/
 ---

@@ -1,0 +1,4 @@
+---
+title: Wessobrunn
+url: /wessobrunn/
+---

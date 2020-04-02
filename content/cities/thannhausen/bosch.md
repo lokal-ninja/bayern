@@ -1,4 +1,4 @@
 ---
 title: "Bosch"
-url: /thannhausen/bosch/
+url: /thannhausen/bosch-2/
 ---

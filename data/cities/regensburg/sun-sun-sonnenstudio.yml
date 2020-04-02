@@ -1,12 +1,12 @@
-id: 1372015087
-type: node
+id: 89138058
+type: way
 shop: Kosmetik
-latitude: 49.013396
-longitude: 12.052684000000001
-postcode: 93049
+latitude: 49.0053368
+longitude: 12.064534700000001
+postcode: 93051
 city: Regensburg
-street: Stromerstraße
-housenumber: 3
+street: Doktor-Gessler-Straße
+housenumber: 12 b
 phone: ""
-opening_hours: "Mo-Su 9:00-21:00"
-website: "http://www.rennplatzzentrum.de/dienstleistungen/sun-sun-sonnenstudio/"
+opening_hours: ""
+website: ""

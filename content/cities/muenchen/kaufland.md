@@ -1,4 +1,4 @@
 ---
 title: "Kaufland"
-url: /muenchen/kaufland/
+url: /muenchen/kaufland-2/
 ---

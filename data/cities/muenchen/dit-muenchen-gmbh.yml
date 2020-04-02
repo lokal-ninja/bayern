@@ -1,12 +1,12 @@
-id: 1221450382
-type: node
+id: 54060018
+type: way
 shop: Autohaus
-latitude: 48.1874112
-longitude: 11.5902817
-postcode: 80807
+latitude: 48.142557100000005
+longitude: 11.514514700000001
+postcode: 80687
 city: München
-street: Frankfurter Ring
-housenumber: 166
-phone: ""
+street: Landsberger Straße
+housenumber: 222
+phone: "+49 89 5471770"
 opening_hours: ""
-website: ""
+website: "https://www.dit-muenchen.de/"

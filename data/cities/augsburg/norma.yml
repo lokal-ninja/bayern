@@ -1,12 +1,12 @@
-id: 6182186452
-type: node
+id: 224833423
+type: way
 shop: Supermarkt
-latitude: 48.398798000000006
-longitude: 10.8809669
-postcode: 86154
+latitude: 48.3473003
+longitude: 10.869976600000001
+postcode: 86199
 city: Augsburg
-street: Donauwörther Straße
-housenumber: 219
+street: Gabelsbergerstraße
+housenumber: 7a
 phone: ""
-opening_hours: "Mo-Su 07:00-20:00"
-website: ""
+opening_hours: "Mo-Sa 07:00-20:00"
+website: "https://www.norma-online.de/"

@@ -1,4 +1,4 @@
 ---
-title: "DEKRA"
-url: /penzberg/dekra/
+title: "Dekra"
+url: /penzberg/dekra-2/
 ---

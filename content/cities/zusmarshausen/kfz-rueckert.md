@@ -1,0 +1,4 @@
+---
+title: "KFZ Rückert"
+url: /zusmarshausen/kfz-rueckert/
+---

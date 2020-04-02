@@ -1,4 +1,4 @@
 ---
 title: "Netto Marken-Discount"
-url: /coburg/netto-marken-discount/
+url: /coburg/netto-marken-discount-2/
 ---

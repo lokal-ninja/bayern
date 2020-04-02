@@ -1,4 +1,4 @@
 ---
 title: "Leberl"
-url: /thannhausen/leberl/
+url: /thannhausen/leberl-2/
 ---

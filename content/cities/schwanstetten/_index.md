@@ -1,0 +1,4 @@
+---
+title: Schwanstetten
+url: /schwanstetten/
+---

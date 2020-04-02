@@ -1,12 +1,12 @@
-id: 2989338049
-type: node
-shop: Süßwaren
-latitude: 47.493167400000004
-longitude: 11.111795
+id: 57393653
+type: way
+shop: Schokolade
+latitude: 47.494541700000006
+longitude: 11.091974500000001
 postcode: 82467
 city: Garmisch-Partenkirchen
-street: Ludwigstraße
-housenumber: 37
-phone: "+49 8821 1842202"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00"
-website: "www.chocolaterie-gap.de"
+street: Am Kurpark
+housenumber: 3
+phone: ""
+opening_hours: "Mo-Sa 09:30-18:30"
+website: "http://www.chocolaterie-gap.de/"

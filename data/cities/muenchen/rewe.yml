@@ -1,12 +1,12 @@
-id: 7009749744
-type: node
+id: 258205225
+type: way
 shop: Supermarkt
-latitude: 48.1254332
-longitude: 11.610672800000001
-postcode: 81671
+latitude: 48.2021968
+longitude: 11.542433500000001
+postcode: 80995
 city: München
-street: August-Everding-Straße
-housenumber: 20
-phone: "+49 89 99829498-1"
-opening_hours: "Mo-Sa 07:00-20:00; Su off"
+street: Lerchenstraße
+housenumber: 7
+phone: ""
+opening_hours: "Mo-Sa 07:00-20:00"
 website: ""

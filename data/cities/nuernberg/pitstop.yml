@@ -1,12 +1,12 @@
-id: 693412614
-type: node
+id: 58526953
+type: way
 shop: Autowerkstatt
-latitude: 49.4538645
-longitude: 11.0478377
-postcode: 90429
+latitude: 49.426222
+longitude: 11.040213600000001
+postcode: 90441
 city: Nürnberg
-street: Fürther Straße
-housenumber: 104
+street: Schweinauer Hauptstraße
+housenumber: 150
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00"
+opening_hours: ""
 website: ""

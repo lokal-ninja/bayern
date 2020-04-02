@@ -1,4 +1,4 @@
 ---
 title: "dm"
-url: /erlangen/dm/
+url: /erlangen/dm-2/
 ---

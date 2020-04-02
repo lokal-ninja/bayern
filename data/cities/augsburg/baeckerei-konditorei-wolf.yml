@@ -1,12 +1,12 @@
-id: 6102819563
-type: node
+id: 466091460
+type: way
 shop: Bäckerei
-latitude: 48.3695662
-longitude: 10.897299400000001
+latitude: 48.3653199
+longitude: 10.894409000000001
 postcode: 86150
 city: Augsburg
-street: Steingasse
-housenumber: 8
-phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su 08:00-18:00"
-website: "https://www.baeckerei-wolf.de"
+street: Königsplatz
+housenumber: 1
+phone: "+49 821 155332"
+opening_hours: "Mo-Fr 06:00-19:30; Sa 06:30-18:00; Su 09:00-14:00"
+website: "https://www.baeckerei-wolf.de/"

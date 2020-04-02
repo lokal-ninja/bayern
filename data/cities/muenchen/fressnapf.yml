@@ -1,12 +1,12 @@
-id: 4291723998
-type: node
+id: 37208016
+type: way
 shop: Tiere
-latitude: 48.0948349
-longitude: 11.511625800000001
-postcode: 81379
+latitude: 48.1916413
+longitude: 11.501829200000001
+postcode: 80993
 city: München
-street: Kistlerhofstraße
-housenumber: 168
+street: Dachauer Straße
+housenumber: 539
 phone: ""
 opening_hours: "Mo-Sa 09:00-20:00"
-website: ""
+website: "https://www.fressnapf.de/"

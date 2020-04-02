@@ -1,0 +1,4 @@
+---
+title: Blaichach
+url: /blaichach/
+---

@@ -1,4 +1,4 @@
 ---
 title: "Netto Marken-Discount"
-url: /hof/netto-marken-discount/
+url: /hof/netto-marken-discount-2/
 ---

@@ -1,0 +1,4 @@
+---
+title: Schlachters
+url: /schlachters/
+---

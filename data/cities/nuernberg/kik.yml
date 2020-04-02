@@ -1,12 +1,12 @@
-id: 3761266437
-type: node
+id: 68741797
+type: way
 shop: Kleidung
-latitude: 49.471552800000005
-longitude: 11.103672300000001
-postcode: 90491
+latitude: 49.4703402
+longitude: 11.0722357
+postcode: 90408
 city: Nürnberg
-street: Leipziger Platz
-housenumber: 7
+street: Obermaierstraße
+housenumber: 1
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00; Su,PH off"
+opening_hours: ""
 website: ""

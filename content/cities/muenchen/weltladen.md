@@ -1,4 +1,4 @@
 ---
 title: "Weltladen"
-url: /muenchen/weltladen/
+url: /muenchen/weltladen-2/
 ---

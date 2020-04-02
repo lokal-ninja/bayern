@@ -1,12 +1,12 @@
-id: 6983546046
-type: node
+id: 106274936
+type: way
 shop: Supermarkt
-latitude: 48.177347000000005
-longitude: 11.521315600000001
-postcode: 80992
+latitude: 48.093787400000004
+longitude: 11.5689753
+postcode: 81545
 city: München
-street: Feldmochinger Straße
-housenumber: 4
-phone: ""
-opening_hours: ""
-website: ""
+street: Sankt-Magnus-Straße
+housenumber: 32
+phone: "+49 89 64270372"
+opening_hours: "Mo-Sa 07:00-20:00"
+website: "https://www.rewe.de/"

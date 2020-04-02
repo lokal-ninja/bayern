@@ -1,0 +1,4 @@
+---
+title: "Autohaus Kny"
+url: /zirndorf/autohaus-kny/
+---

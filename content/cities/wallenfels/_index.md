@@ -1,0 +1,4 @@
+---
+title: Wallenfels
+url: /wallenfels/
+---

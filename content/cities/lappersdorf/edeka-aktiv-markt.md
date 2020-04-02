@@ -1,4 +1,4 @@
 ---
-title: "Edeka Aktiv Markt"
-url: /lappersdorf/edeka-aktiv-markt/
+title: "Edeka aktiv markt"
+url: /lappersdorf/edeka-aktiv-markt-2/
 ---

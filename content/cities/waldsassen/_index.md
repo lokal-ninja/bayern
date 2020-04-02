@@ -1,0 +1,4 @@
+---
+title: Waldsassen
+url: /waldsassen/
+---

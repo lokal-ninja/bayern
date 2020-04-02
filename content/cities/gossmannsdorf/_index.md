@@ -1,0 +1,4 @@
+---
+title: Goßmannsdorf
+url: /gossmannsdorf/
+---

@@ -1,4 +1,4 @@
 ---
 title: "Chocolaterie Amelie"
-url: /garmisch-partenkirchen/chocolaterie-amelie/
+url: /garmisch-partenkirchen/chocolaterie-amelie-2/
 ---

@@ -1,4 +1,4 @@
 ---
 title: "Der Beck"
-url: /roettenbach/der-beck/
+url: /roettenbach/der-beck-2/
 ---

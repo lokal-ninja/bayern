@@ -1,0 +1,4 @@
+---
+title: Deiningen
+url: /deiningen/
+---

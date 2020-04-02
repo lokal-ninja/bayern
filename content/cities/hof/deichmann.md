@@ -1,4 +1,4 @@
 ---
 title: "Deichmann"
-url: /hof/deichmann/
+url: /hof/deichmann-2/
 ---

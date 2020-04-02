@@ -1,12 +1,12 @@
-id: 288588563
-type: node
+id: 253827545
+type: way
 shop: Supermarkt
-latitude: 48.739364800000004
-longitude: 11.409219
-postcode: 85051
+latitude: 48.760189800000006
+longitude: 11.4421464
+postcode: 85053
 city: Ingolstadt
-street: Berliner Straße
-housenumber: 17
-phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
-website: ""
+street: Liegnitzer Straße
+housenumber: 2
+phone: "+49 841 93159912"
+opening_hours: "Mo-Sa 07:00-20:00"
+website: "https://www.edeka-fanderl.de/"

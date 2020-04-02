@@ -1,4 +1,4 @@
 ---
 title: "Sobi Getränkemarkt"
-url: /augsburg/sobi-getraenkemarkt/
+url: /augsburg/sobi-getraenkemarkt-2/
 ---

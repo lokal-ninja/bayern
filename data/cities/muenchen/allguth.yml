@@ -1,12 +1,12 @@
-id: 411633519
-type: node
+id: 107612127
+type: way
 shop: Allgemeine
-latitude: 48.1425896
-longitude: 11.425087000000001
-postcode: 81243
+latitude: 48.187234700000005
+longitude: 11.5342912
+postcode: 80993
 city: München
-street: Bodenseestraße
-housenumber: 231
-phone: ""
-opening_hours: ""
-website: ""
+street: Triebstraße
+housenumber: 35
+phone: "+49 89 12177730"
+opening_hours: "24/7"
+website: "https://www.allguth.de/"

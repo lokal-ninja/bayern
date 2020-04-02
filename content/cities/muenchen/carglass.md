@@ -1,4 +1,4 @@
 ---
 title: "Carglass"
-url: /muenchen/carglass/
+url: /muenchen/carglass-2/
 ---

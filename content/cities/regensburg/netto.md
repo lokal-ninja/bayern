@@ -1,4 +1,4 @@
 ---
 title: "Netto"
-url: /regensburg/netto/
+url: /regensburg/netto-2/
 ---
