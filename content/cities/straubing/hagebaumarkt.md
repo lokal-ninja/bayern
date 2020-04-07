@@ -1,4 +1,4 @@
 ---
-title: "hagebaumarkt"
+title: "Hagebaumarkt"
 url: /straubing/hagebaumarkt/
 ---

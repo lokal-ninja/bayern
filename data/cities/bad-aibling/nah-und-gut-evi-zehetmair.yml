@@ -1,6 +1,6 @@
 id: 308237520
 type: node
-shop: Tante Emma
+shop: Lebensmittel
 latitude: 47.858674
 longitude: 11.999238700000001
 postcode: 83043
@@ -8,5 +8,5 @@ city: Bad Aibling
 street: "Breitensteinstraße"
 housenumber: 2
 phone: "+49 8061 85 34"
-opening_hours: "Mo-Fr 07:30-12:30,14:00-18:00;Th 14:00-18:00 off;Sa 07:00-12:00;Su,PH off"
+opening_hours: "Mo-Fr 07:30-12:30,14:00-18:00; Th 14:00-18:00 off; Sa 07:00-12:00; PH,Su off"
 website: ""

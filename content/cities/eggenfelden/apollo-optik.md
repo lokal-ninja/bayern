@@ -1,4 +1,4 @@
 ---
-title: "Apollo Optik"
+title: "Apollo-Optik"
 url: /eggenfelden/apollo-optik/
 ---

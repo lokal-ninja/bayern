@@ -1,4 +1,4 @@
 ---
-title: "United colors of Benetton"
+title: "United Colors of Benetton"
 url: /straubing/united-colors-of-benetton/
 ---
