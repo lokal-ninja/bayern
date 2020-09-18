@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.148815500000005
 longitude: 11.5773091
-postcode: 80799
+postcode: "80799"
 city: München
 street: "Amalienstraße"
 housenumber: 39

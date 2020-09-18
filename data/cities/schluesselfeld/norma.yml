@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.7491391
 longitude: 10.632794800000001
-postcode: 96132
+postcode: "96132"
 city: Schlüsselfeld
 street: ""
 housenumber: 24

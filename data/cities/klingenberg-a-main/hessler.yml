@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.782307100000004
 longitude: 9.182186900000001
-postcode: 63911
+postcode: "63911"
 city: Klingenberg a.Main
 street: "In der Altstadt"
 housenumber: 12

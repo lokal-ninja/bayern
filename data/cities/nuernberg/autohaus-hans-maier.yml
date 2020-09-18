@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.4001448
 longitude: 11.086022700000001
-postcode: 90469
+postcode: "90469"
 city: Nürnberg
 street: "Saarbrückener Straße"
 housenumber: 68

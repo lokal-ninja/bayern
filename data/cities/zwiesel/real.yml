@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.0104734
 longitude: 13.217418
-postcode: 
+postcode: ""
 city: Zwiesel
 street: "Alte Langdorfer Straße"
 housenumber: 15

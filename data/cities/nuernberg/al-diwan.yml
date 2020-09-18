@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 49.4346874
 longitude: 11.068318900000001
-postcode: 90443
+postcode: "90443"
 city: Nürnberg
 street: "Gibitzenhofstraße"
 housenumber: 107

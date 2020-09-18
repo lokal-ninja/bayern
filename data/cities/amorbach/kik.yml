@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 49.647861400000004
 longitude: 9.219079800000001
-postcode: 63916
+postcode: "63916"
 city: Amorbach
 street: ""
 housenumber: 

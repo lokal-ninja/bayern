@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.5601628
 longitude: 10.684146700000001
-postcode: 86637
+postcode: "86637"
 city: Wertingen
 street: "Augsburger Straße"
 housenumber: 3

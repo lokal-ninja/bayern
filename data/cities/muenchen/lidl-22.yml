@@ -1,12 +1,12 @@
-id: 38847255
+id: 37918642
 type: way
 shop: Supermarkt
-latitude: 48.1473857
-longitude: 11.443618800000001
-postcode: 81243
+latitude: 48.1883436
+longitude: 11.567935400000001
+postcode: "80807"
 city: München
-street: "Heimburgstraße"
-housenumber: 9
+street: "Frankfurter Ring"
+housenumber: 5
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.lidl.de/"
+opening_hours: "Mo-Sa 07:00-20:00"
+website: ""

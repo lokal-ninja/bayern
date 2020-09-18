@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 47.797417700000004
 longitude: 12.120612300000001
-postcode: 83064
+postcode: "83064"
 city: Raubling
 street: "Rosenheimer Straße"
 housenumber: 42

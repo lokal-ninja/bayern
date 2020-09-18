@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.385671300000006
 longitude: 10.8768081
-postcode: 86154
+postcode: "86154"
 city: Augsburg
 street: "Mennwarthstraße"
 housenumber: 2

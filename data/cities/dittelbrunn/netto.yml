@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.0669459
 longitude: 10.2251071
-postcode: 97456
+postcode: "97456"
 city: Dittelbrunn
 street: "Am Steingraben"
 housenumber: 1

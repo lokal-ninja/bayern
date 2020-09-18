@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.9438139
 longitude: 11.5759892
-postcode: 95444
+postcode: "95444"
 city: Bayreuth
 street: "Maximilianstraße"
 housenumber: 17

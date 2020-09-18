@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 49.9508225
 longitude: 12.243609900000001
-postcode: 95666
+postcode: "95666"
 city: Mitterteich
 street: "Unterer Marktplatz"
 housenumber: 3

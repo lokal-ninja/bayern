@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.630445400000006
 longitude: 12.337317200000001
-postcode: 92648
+postcode: "92648"
 city: Vohenstrauß
 street: "Altenstadter Straße"
 housenumber: 20

@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 49.19814220000001
 longitude: 12.502216800000001
-postcode: 93426
+postcode: "93426"
 city: Roding
 street: "Heilbrünnlstraße"
 housenumber: 21

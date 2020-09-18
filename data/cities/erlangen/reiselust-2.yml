@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 49.5973358
 longitude: 11.002897800000001
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Helmstraße"
 housenumber: 2

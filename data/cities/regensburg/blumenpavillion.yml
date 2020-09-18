@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 49.0471505
 longitude: 12.1045137
-postcode: 93057
+postcode: "93057"
 city: Regensburg
 street: "Chamer Straße"
 housenumber: 13

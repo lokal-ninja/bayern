@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.8472165
 longitude: 11.151611
-postcode: 82362
+postcode: "82362"
 city: Weilheim in Oberbayern
 street: "Narbonner Ring"
 housenumber: 2

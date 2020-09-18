@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.1953462
 longitude: 11.2744824
-postcode: 96328
+postcode: "96328"
 city: Küps
 street: "Weinbergstraße"
 housenumber: 1a

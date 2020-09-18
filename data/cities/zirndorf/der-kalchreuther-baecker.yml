@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.434694500000006
 longitude: 10.958460800000001
-postcode: 90513
+postcode: "90513"
 city: Zirndorf
 street: "Rothenburger Straße"
 housenumber: 28

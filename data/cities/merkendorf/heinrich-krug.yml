@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 49.2052672
 longitude: 10.702272800000001
-postcode: 91732
+postcode: "91732"
 city: Merkendorf
 street: "Hauptstraße"
 housenumber: 2

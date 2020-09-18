@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 49.8176514
 longitude: 10.3512768
-postcode: 97357
+postcode: "97357"
 city: Prichsenstadt
 street: "Luitpoldstraße"
 housenumber: 17

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.3948661
 longitude: 12.1362149
-postcode: 92521
+postcode: "92521"
 city: Schwarzenfeld
 street: "Nabburger Straße"
 housenumber: 40

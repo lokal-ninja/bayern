@@ -3,7 +3,7 @@ type: node
 shop: Mehl
 latitude: 48.2431576
 longitude: 10.3663722
-postcode: 86381
+postcode: "86381"
 city: Krumbach
 street: "Schlachthausstraße"
 housenumber: 20

@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 49.4524441
 longitude: 11.073565100000001
-postcode: 90403
+postcode: "90403"
 city: Nürnberg
 street: "Obere Wörthstraße"
 housenumber: 14

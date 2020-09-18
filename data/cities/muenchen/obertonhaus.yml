@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 48.129955200000005
 longitude: 11.5671028
-postcode: 80469
+postcode: "80469"
 city: München
 street: "Pestalozzistraße"
 housenumber: 30

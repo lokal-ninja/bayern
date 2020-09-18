@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.833716100000004
 longitude: 12.9604697
-postcode: 94469
+postcode: "94469"
 city: Deggendorf
 street: "Bahnhofstraße"
 housenumber: 20

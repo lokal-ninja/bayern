@@ -3,7 +3,7 @@ type: node
 shop: Jalousien
 latitude: 48.388600600000004
 longitude: 10.930915500000001
-postcode: 86167
+postcode: "86167"
 city: Augsburg
 street: "Mühlmahdweg"
 housenumber: 6

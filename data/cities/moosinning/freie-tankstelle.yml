@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.276841000000005
 longitude: 11.844456300000001
-postcode: 85452
+postcode: "85452"
 city: Moosinning
 street: "Erdinger Straße"
 housenumber: 38

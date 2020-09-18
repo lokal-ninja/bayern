@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 48.0646885
 longitude: 11.6642121
-postcode: 85521
+postcode: "85521"
 city: Ottobrunn
 street: "Naupliaallee"
 housenumber: 22

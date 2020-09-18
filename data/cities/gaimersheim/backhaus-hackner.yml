@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.808703
 longitude: 11.370449800000001
-postcode: 85080
+postcode: "85080"
 city: Gaimersheim
 street: "Obere Marktstraße"
 housenumber: 2

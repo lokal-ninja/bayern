@@ -1,12 +1,12 @@
 id: 4204411589
 type: node
 shop: Supermarkt
-latitude: 48.3950892
-longitude: 11.758140500000001
-postcode: 85356
+latitude: 48.3951009
+longitude: 11.758182000000001
+postcode: "85356"
 city: Freising
 street: "Erdinger Straße"
 housenumber: 45
-phone: ""
-opening_hours: ""
+phone: "+49-8161-50871"
+opening_hours: "Mo-Fr 07:30-19:00; Sa 07:00-19:00"
 website: ""

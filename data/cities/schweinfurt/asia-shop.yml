@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.0405535
 longitude: 10.2236635
-postcode: 97421
+postcode: "97421"
 city: Schweinfurt
 street: "Cramerstraße"
 housenumber: 5

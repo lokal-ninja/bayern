@@ -3,10 +3,10 @@ type: way
 shop: Getränke
 latitude: 50.3401585
 longitude: 11.5927153
-postcode: 95179
+postcode: "95179"
 city: Geroldsgrün
 street: "Keyßerstraße"
 housenumber: 38
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-18:00; Sa 08:00-13:00; PH off"
 website: ""

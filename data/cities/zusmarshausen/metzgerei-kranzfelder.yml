@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.435976800000006
 longitude: 10.5985492
-postcode: 86441
+postcode: "86441"
 city: Zusmarshausen
 street: "Obere Hauptstraße"
 housenumber: 6

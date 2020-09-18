@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 49.935263500000005
 longitude: 12.2214132
-postcode: 95666
+postcode: "95666"
 city: Mitterteich
 street: "Ludwig-Erhard-Straße"
 housenumber: 11

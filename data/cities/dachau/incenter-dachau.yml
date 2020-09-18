@@ -3,7 +3,7 @@ type: node
 shop: Einkaufszentrum
 latitude: 48.2620665
 longitude: 11.475313100000001
-postcode: 85221
+postcode: "85221"
 city: Dachau
 street: "Kopernikusstraße"
 housenumber: 2

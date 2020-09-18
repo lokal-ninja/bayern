@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.8627167
 longitude: 12.011562000000001
-postcode: 83043
+postcode: "83043"
 city: Bad Aibling
 street: "Rosenheimer Straße"
 housenumber: 14

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.804459300000005
 longitude: 11.7724218
-postcode: 93333
+postcode: "93333"
 city: Neustadt a.d.Donau
 street: "Herderstraße"
 housenumber: 7

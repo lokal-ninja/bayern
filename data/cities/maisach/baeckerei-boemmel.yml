@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.2114625
 longitude: 11.2972604
-postcode: 82216
+postcode: "82216"
 city: Maisach
 street: "Brucker Straße"
 housenumber: 3

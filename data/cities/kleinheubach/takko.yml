@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.7145598
 longitude: 9.2160621
-postcode: 63924
+postcode: "63924"
 city: Kleinheubach
 street: "In der Seehecke"
 housenumber: 8

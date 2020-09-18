@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.890278900000006
 longitude: 12.5359002
-postcode: 83339
+postcode: "83339"
 city: Chieming
 street: "Hauptstraße"
 housenumber: 27

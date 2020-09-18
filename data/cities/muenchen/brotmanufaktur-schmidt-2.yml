@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.140402900000005
 longitude: 11.588823900000001
-postcode: 80538
+postcode: "80538"
 city: München
 street: "Triftstraße"
 housenumber: 4

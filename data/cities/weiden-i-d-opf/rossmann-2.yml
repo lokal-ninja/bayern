@@ -3,10 +3,10 @@ type: node
 shop: Drogerie
 latitude: 49.663037700000004
 longitude: 12.148709
-postcode: 92637
+postcode: "92637"
 city: Weiden i.d.OPf.
 street: "Robert-Bosch-Straße"
 housenumber: 3
-phone: ""
+phone: "+49 961 47059403"
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off"
-website: ""
+website: "https://www.rossmann.de"

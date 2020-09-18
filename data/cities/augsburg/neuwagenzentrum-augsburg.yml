@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.3978787
 longitude: 10.8800597
-postcode: 86154
+postcode: "86154"
 city: Augsburg
 street: "Eschenhofstraße"
 housenumber: 73

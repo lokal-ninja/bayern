@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 50.0949559
 longitude: 9.238626400000001
-postcode: 63825
+postcode: "63825"
 city: Schöllkrippen
 street: "Hauptstraße"
 housenumber: 3

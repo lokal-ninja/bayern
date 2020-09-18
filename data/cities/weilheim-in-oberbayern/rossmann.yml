@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.8393455
 longitude: 11.1427919
-postcode: 82362
+postcode: "82362"
 city: Weilheim in Oberbayern
 street: "Admiral-Hipper-Straße"
 housenumber: 1

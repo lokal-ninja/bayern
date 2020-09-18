@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.408637500000005
 longitude: 10.871972600000001
-postcode: 86368
+postcode: "86368"
 city: Gersthofen
 street: "Porschestraße"
 housenumber: 3

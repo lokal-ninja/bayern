@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.100445
 longitude: 11.4153707
-postcode: 82152
+postcode: "82152"
 city: Krailling
 street: "Elisenstraße"
 housenumber: 14

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.3970191
 longitude: 10.7987309
-postcode: 90613
+postcode: "90613"
 city: Großhabersdorf
 street: "Am Galgenbuck"
 housenumber: 13

@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 50.145251300000005
 longitude: 10.151355800000001
-postcode: 97714
+postcode: "97714"
 city: Oerlenbach
 street: "An der Heide"
 housenumber: 2

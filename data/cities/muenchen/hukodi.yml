@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 48.118830200000005
 longitude: 11.5716981
-postcode: 81543
+postcode: "81543"
 city: München
 street: "Untere Weidenstraße"
 housenumber: 14

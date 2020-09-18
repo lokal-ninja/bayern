@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.6169481
 longitude: 10.635336
-postcode: 91468
+postcode: "91468"
 city: Gutenstetten
 street: "Reinhardshöfer Straße"
 housenumber: 14

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.2309527
 longitude: 11.6716479
-postcode: 85737
+postcode: "85737"
 city: Ismaning
 street: "Schloßstraße"
 housenumber: 23

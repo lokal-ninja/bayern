@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.7840013
 longitude: 9.9349111
-postcode: 97072
+postcode: "97072"
 city: Würzburg
 street: "Weingartenstraße"
 housenumber: 24

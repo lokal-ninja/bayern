@@ -3,7 +3,7 @@ type: way
 shop: Tabak
 latitude: 50.1086636
 longitude: 11.456362
-postcode: 95326
+postcode: "95326"
 city: Kulmbach
 street: "Webergasse"
 housenumber: 10

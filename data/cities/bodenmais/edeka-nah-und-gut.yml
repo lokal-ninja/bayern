@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.0630584
 longitude: 13.101992500000001
-postcode: 94249
+postcode: "94249"
 city: Bodenmais
 street: "Jahnstraße"
 housenumber: 13

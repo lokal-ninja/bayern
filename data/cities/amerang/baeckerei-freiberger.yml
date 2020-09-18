@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.991303
 longitude: 12.3077296
-postcode: 83123
+postcode: "83123"
 city: Amerang
 street: "Wasserburger Straße"
 housenumber: 6

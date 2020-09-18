@@ -3,7 +3,7 @@ type: node
 shop: Mieten
 latitude: 48.036441700000005
 longitude: 12.0479097
-postcode: 83553
+postcode: "83553"
 city: Frauenneuharting
 street: "Buchenweg"
 housenumber: 10

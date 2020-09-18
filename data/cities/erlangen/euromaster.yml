@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.5880717
 longitude: 10.9736244
-postcode: 91056
+postcode: "91056"
 city: Erlangen
 street: "Ulrich-Schalk-Straße"
 housenumber: 7

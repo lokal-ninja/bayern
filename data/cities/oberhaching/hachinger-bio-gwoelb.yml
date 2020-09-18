@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.026412400000005
 longitude: 11.595808600000002
-postcode: 82041
+postcode: "82041"
 city: Oberhaching
 street: "Hahilingastraße"
 housenumber: 1

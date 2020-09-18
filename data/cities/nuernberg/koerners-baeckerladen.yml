@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.4093949
 longitude: 11.1684728
-postcode: 90475
+postcode: "90475"
 city: Nürnberg
 street: "Löwenberger Straße"
 housenumber: 14

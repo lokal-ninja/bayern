@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 49.1606535
 longitude: 11.709317100000002
-postcode: 92331
+postcode: "92331"
 city: Parsberg
 street: "Adalbert-Stifter-Straße"
 housenumber: 4

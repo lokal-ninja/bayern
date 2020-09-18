@@ -3,7 +3,7 @@ type: way
 shop: Andenken
 latitude: 47.5549905
 longitude: 10.7383317
-postcode: 87645
+postcode: "87645"
 city: Schwangau
 street: "Alpseestraße"
 housenumber: 14

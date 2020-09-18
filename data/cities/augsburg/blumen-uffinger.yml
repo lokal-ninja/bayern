@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.386185600000005
 longitude: 10.8752065
-postcode: 86154
+postcode: "86154"
 city: Augsburg
 street: "Nordfriedhofstraße"
 housenumber: 1

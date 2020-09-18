@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 48.1918056
 longitude: 11.590931900000001
-postcode: 80939
+postcode: "80939"
 city: München
 street: "Schwarzhauptstraße"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.161232500000004
 longitude: 11.6623395
-postcode: 81929
+postcode: "81929"
 city: München
 street: "Glücksburger Straße"
 housenumber: 79

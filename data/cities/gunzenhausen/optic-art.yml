@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.117868400000006
 longitude: 10.754354000000001
-postcode: 91710
+postcode: "91710"
 city: Gunzenhausen
 street: "Osianderstraße"
 housenumber: 25

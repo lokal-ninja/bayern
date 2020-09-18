@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.972052000000005
 longitude: 10.184959800000001
-postcode: 87700
+postcode: "87700"
 city: Memmingen
 street: "Oberbrühlstraße"
 housenumber: 2

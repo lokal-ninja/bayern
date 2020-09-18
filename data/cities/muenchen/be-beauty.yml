@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.196695500000004
 longitude: 11.6147641
-postcode: 80939
+postcode: "80939"
 city: München
 street: "Leutkircher Straße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.2255897
 longitude: 12.6696459
-postcode: 93413
+postcode: "93413"
 city: Cham
 street: "Nunstinger Straße"
 housenumber: 7

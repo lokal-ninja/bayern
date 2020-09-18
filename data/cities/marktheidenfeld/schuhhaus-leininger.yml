@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 49.8444809
 longitude: 9.600458
-postcode: 97828
+postcode: "97828"
 city: Marktheidenfeld
 street: "Marktplatz"
 housenumber: 18

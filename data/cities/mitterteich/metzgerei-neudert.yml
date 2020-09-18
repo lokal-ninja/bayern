@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 49.951602900000005
 longitude: 12.2439891
-postcode: 95666
+postcode: "95666"
 city: Mitterteich
 street: "Oberer Marktplatz"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.1662192
 longitude: 11.580971900000002
-postcode: 80803
+postcode: "80803"
 city: München
 street: "Karl-Theodor-Straße"
 housenumber: 33

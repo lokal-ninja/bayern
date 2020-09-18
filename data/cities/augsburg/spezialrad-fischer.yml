@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.3679228
 longitude: 10.912840000000001
-postcode: 86153
+postcode: "86153"
 city: Augsburg
 street: "Schäfflerbachstraße"
 housenumber: 1 1/2

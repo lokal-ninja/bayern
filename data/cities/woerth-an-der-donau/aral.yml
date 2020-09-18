@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 49.001612200000004
 longitude: 12.364885300000001
-postcode: 93086
+postcode: "93086"
 city: Wörth an der Donau
 street: "Gewerbepark"
 housenumber: B 3

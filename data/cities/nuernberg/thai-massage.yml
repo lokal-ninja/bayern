@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 49.4656984
 longitude: 11.071427700000001
-postcode: 90408
+postcode: "90408"
 city: Nürnberg
 street: "Innerer Kleinreuther Weg"
 housenumber: 28

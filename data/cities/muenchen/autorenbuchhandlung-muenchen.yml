@@ -1,12 +1,12 @@
 id: 338176741
 type: node
 shop: Bücher
-latitude: 48.163012800000004
-longitude: 11.583707200000001
-postcode: 80801
+latitude: 48.162995800000004
+longitude: 11.5837132
+postcode: "80801"
 city: München
 street: "Wilhelmstraße"
 housenumber: 41
 phone: "+49 89 331241"
 opening_hours: ""
-website: ""
+website: "http://www.autorenbuchhandlung.de/bestellservice.php"

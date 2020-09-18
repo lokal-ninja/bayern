@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.396789000000005
 longitude: 10.8274934
-postcode: 86356
+postcode: "86356"
 city: Neusäß
 street: "Benzstraße"
 housenumber: 1

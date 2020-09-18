@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.377256
 longitude: 10.827682000000001
-postcode: 86356
+postcode: "86356"
 city: Neusäß
 street: "Ulmer Straße"
 housenumber: 30

@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 48.886538800000004
 longitude: 12.597799
-postcode: 94315
+postcode: "94315"
 city: Straubing
 street: "Schlesische Straße"
 housenumber: 32

@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 47.8649519
 longitude: 12.630395700000001
-postcode: 83278
+postcode: "83278"
 city: Traunstein
 street: "Rupertistraße"
 housenumber: 40-42

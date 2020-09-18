@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.450002100000006
 longitude: 11.061500800000001
-postcode: 90429
+postcode: "90429"
 city: Nürnberg
 street: "Bleichstraße"
 housenumber: 26

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.004449
 longitude: 12.0627419
-postcode: 93051
+postcode: "93051"
 city: Regensburg
 street: "Doktor-Gessler-Straße"
 housenumber: 33

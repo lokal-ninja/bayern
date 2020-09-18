@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.0379833
 longitude: 11.354374400000001
-postcode: 95359
+postcode: "95359"
 city: Kasendorf
 street: "Kulmbacher Straße"
 housenumber: 26

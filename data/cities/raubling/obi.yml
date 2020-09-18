@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 47.8142251
 longitude: 12.115772100000001
-postcode: 83064
+postcode: "83064"
 city: Raubling
 street: "Hochstraß"
 housenumber: 5

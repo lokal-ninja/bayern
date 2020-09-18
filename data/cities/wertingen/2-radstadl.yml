@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.5610944
 longitude: 10.6813482
-postcode: 86637
+postcode: "86637"
 city: Wertingen
 street: "Schmiedgasse"
 housenumber: 3

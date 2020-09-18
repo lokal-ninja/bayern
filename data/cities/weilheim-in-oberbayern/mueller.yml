@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.8404085
 longitude: 11.141793900000001
-postcode: 82362
+postcode: "82362"
 city: Weilheim in Oberbayern
 street: "Schmiedstraße"
 housenumber: 16

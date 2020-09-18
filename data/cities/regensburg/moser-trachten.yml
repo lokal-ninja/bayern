@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 49.028792
 longitude: 12.1253668
-postcode: 93059
+postcode: "93059"
 city: Regensburg
 street: "Donaustaufer Straße"
 housenumber: 152

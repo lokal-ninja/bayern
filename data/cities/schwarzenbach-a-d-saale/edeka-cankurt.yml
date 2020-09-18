@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.220561100000005
 longitude: 11.936665300000001
-postcode: 95126
+postcode: "95126"
 city: Schwarzenbach a.d.Saale
 street: "Kirchenlamitzer Straße"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 48.129058
 longitude: 11.5558844
-postcode: 80336
+postcode: "80336"
 city: München
 street: "Herzog-Heinrich-Straße"
 housenumber: 37

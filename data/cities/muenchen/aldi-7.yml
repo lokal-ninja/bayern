@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.088115200000004
 longitude: 11.6391139
-postcode: 81739
+postcode: "81739"
 city: München
 street: "Maximilian-Kolbe-Allee"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 48.3890449
 longitude: 10.044637600000001
-postcode: 89231
+postcode: "89231"
 city: Neu-Ulm
 street: "Böttgerstraße"
 housenumber: 16

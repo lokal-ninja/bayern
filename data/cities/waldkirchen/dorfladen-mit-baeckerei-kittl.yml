@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.763385400000004
 longitude: 13.628044000000001
-postcode: 94065
+postcode: "94065"
 city: Waldkirchen
 street: "Böhmzwiesel"
 housenumber: 3

@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 47.8508781
 longitude: 12.1290682
-postcode: 83022
+postcode: "83022"
 city: Rosenheim
 street: "Brianconstraße"
 housenumber: 5

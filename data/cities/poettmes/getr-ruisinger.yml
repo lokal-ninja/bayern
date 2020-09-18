@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 48.537006100000006
 longitude: 11.0460627
-postcode: 86554
+postcode: "86554"
 city: Pöttmes
 street: "Bürgermeister-Mörtl-Straße"
 housenumber: 55

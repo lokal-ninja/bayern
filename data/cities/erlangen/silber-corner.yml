@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 49.595680300000005
 longitude: 11.027648500000002
-postcode: 91052
+postcode: "91052"
 city: Erlangen
 street: "Artilleriestraße"
 housenumber: 54

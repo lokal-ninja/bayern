@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.0431382
 longitude: 10.9166925
-postcode: 86899
+postcode: "86899"
 city: Landsberg am Lech
 street: "Thalerseestraße"
 housenumber: 2

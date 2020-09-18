@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.423084
 longitude: 11.0738258
-postcode: 86573
+postcode: "86573"
 city: Obergriesbach
 street: "Am Aichberg"
 housenumber: 4

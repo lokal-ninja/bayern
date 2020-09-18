@@ -3,7 +3,7 @@ type: node
 shop: Schokolade
 latitude: 48.4388045
 longitude: 12.4262557
-postcode: 84155
+postcode: "84155"
 city: Bodenkirchen
 street: "Pfistershamer Straße"
 housenumber: 1

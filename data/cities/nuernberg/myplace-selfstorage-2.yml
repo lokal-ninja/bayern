@@ -3,7 +3,7 @@ type: node
 shop: Mieten
 latitude: 49.4307449
 longitude: 11.044717100000002
-postcode: 90441
+postcode: "90441"
 city: Nürnberg
 street: "Schweinauer Hauptstraße"
 housenumber: 72

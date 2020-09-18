@@ -3,7 +3,7 @@ type: node
 shop: Autoservice
 latitude: 49.029240800000004
 longitude: 12.1353427
-postcode: 93055
+postcode: "93055"
 city: Regensburg
 street: "Donaustaufer Straße"
 housenumber: 216

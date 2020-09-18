@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 48.1245964
 longitude: 11.672903400000001
-postcode: 81829
+postcode: "81829"
 city: München
 street: "Kirchtruderinger Straße"
 housenumber: 20

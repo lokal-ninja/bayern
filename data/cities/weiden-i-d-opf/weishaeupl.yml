@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.6748556
 longitude: 12.161894700000001
-postcode: 92637
+postcode: "92637"
 city: Weiden i.d.OPf.
 street: "Oberer Markt"
 housenumber: 27

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.2903901
 longitude: 11.572995800000001
-postcode: 85716
+postcode: "85716"
 city: Unterschleißheim
 street: "Morsestraße"
 housenumber: 4

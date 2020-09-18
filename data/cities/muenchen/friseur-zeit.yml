@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.1327883
 longitude: 11.5851196
-postcode: 80538
+postcode: "80538"
 city: München
 street: "Steinsdorfstraße"
 housenumber: 20

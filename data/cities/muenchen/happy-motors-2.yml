@@ -3,10 +3,10 @@ type: node
 shop: Autohaus
 latitude: 48.102043800000004
 longitude: 11.5994855
-postcode: 81549
+postcode: "81549"
 city: München
 street: "Herbert-Quandt-Straße"
 housenumber: 4
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
 website: ""

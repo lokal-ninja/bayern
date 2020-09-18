@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.906294
 longitude: 10.8851597
-postcode: 96052
+postcode: "96052"
 city: Bamberg
 street: "Hallstadter Straße"
 housenumber: 37

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.310044500000004
 longitude: 10.889329100000001
-postcode: 86179
+postcode: "86179"
 city: Augsburg
 street: "Unterer Talweg"
 housenumber: 133

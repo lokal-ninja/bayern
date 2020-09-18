@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.8514106
 longitude: 11.495754900000001
-postcode: 82538
+postcode: "82538"
 city: Geretsried
 street: "Wöhlerweg"
 housenumber: 8

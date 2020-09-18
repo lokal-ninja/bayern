@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.4703218
 longitude: 11.0713098
-postcode: 90408
+postcode: "90408"
 city: Nürnberg
 street: "Kleinreuther Weg"
 housenumber: 80a

@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 49.5049958
 longitude: 10.414932100000001
-postcode: 91438
+postcode: "91438"
 city: Bad Windsheim
 street: "Johanniterstraße"
 housenumber: 27

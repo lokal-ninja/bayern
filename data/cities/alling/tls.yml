@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.1413444
 longitude: 11.300195700000002
-postcode: 82239
+postcode: "82239"
 city: Alling
 street: "Pfarrgasse"
 housenumber: 1

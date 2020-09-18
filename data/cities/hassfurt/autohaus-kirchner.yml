@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.029418400000004
 longitude: 10.529590500000001
-postcode: 97437
+postcode: "97437"
 city: Haßfurt
 street: "Augsfelder Straße"
 housenumber: 18

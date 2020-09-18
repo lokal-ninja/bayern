@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.3555756
 longitude: 10.9263743
-postcode: 86161
+postcode: "86161"
 city: Augsburg
 street: "Wilhelm-Hauff-Straße"
 housenumber: 38

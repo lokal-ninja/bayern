@@ -1,4 +1,4 @@
 ---
-title: "K.Kleiner"
+title: "K. Kleiner"
 url: /kaufbeuren/k-kleiner/
 ---

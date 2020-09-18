@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.4449284
 longitude: 11.1092303
-postcode: 90478
+postcode: "90478"
 city: Nürnberg
 street: "Zerzabelshofstraße"
 housenumber: 25

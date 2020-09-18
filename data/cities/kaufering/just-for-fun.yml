@@ -3,7 +3,7 @@ type: node
 shop: Erotik
 latitude: 48.082041100000005
 longitude: 10.8538913
-postcode: 86916
+postcode: "86916"
 city: Kaufering
 street: "Blumenweg"
 housenumber: 5

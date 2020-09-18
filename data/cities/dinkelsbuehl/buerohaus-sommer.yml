@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 49.0703334
 longitude: 10.3188793
-postcode: 91550
+postcode: "91550"
 city: Dinkelsbühl
 street: "Weinmarkt"
 housenumber: 16

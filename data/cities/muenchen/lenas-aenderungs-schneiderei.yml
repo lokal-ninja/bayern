@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 48.196027400000006
 longitude: 11.5831038
-postcode: 80937
+postcode: "80937"
 city: München
 street: "Sudetendeutschestraße"
 housenumber: 8a

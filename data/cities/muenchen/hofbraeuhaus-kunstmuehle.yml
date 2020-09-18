@@ -3,7 +3,7 @@ type: node
 shop: Mehl
 latitude: 48.1376155
 longitude: 11.5809859
-postcode: 
+postcode: ""
 city: München
 street: "Neuturmstraße"
 housenumber: 3

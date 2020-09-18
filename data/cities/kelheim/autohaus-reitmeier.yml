@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.9181674
 longitude: 11.888995300000001
-postcode: 
+postcode: ""
 city: Kelheim
 street: "Kelheimwinzerstraße"
 housenumber: 113

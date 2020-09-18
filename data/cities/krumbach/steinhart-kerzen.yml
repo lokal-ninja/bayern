@@ -3,7 +3,7 @@ type: node
 shop: Kerzen
 latitude: 48.240193700000006
 longitude: 10.3574819
-postcode: 86381
+postcode: "86381"
 city: Krumbach
 street: "Buchstraße"
 housenumber: 20

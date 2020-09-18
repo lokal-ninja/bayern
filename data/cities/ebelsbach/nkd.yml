@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 49.9833907
 longitude: 10.6703185
-postcode: 97500
+postcode: "97500"
 city: Ebelsbach
 street: "Bahnhofstraße"
 housenumber: 4a

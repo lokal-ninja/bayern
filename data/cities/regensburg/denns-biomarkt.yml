@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.0131364
 longitude: 12.0880743
-postcode: 93047
+postcode: "93047"
 city: Regensburg
 street: "Kumpfmühler Straße"
 housenumber: 8

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.850020300000004
 longitude: 12.959788300000001
-postcode: 94469
+postcode: "94469"
 city: Deggendorf
 street: "Graflinger Straße"
 housenumber: 174

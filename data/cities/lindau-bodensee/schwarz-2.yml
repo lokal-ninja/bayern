@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.5564839
 longitude: 9.6901413
-postcode: 88131
+postcode: "88131"
 city: Lindau (Bodensee)
 street: "Ludwig-Kick-Straße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.2408883
 longitude: 12.6852131
-postcode: 84524
+postcode: "84524"
 city: Neuötting
 street: "Ludwigstraße"
 housenumber: 38

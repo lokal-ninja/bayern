@@ -3,7 +3,7 @@ type: node
 shop: Tee
 latitude: 47.856431900000004
 longitude: 12.129212800000001
-postcode: 83022
+postcode: "83022"
 city: Rosenheim
 street: "Ludwigsplatz"
 housenumber: 9

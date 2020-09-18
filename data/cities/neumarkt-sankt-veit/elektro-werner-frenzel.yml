@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.360334200000004
 longitude: 12.509501
-postcode: 84494
+postcode: "84494"
 city: Neumarkt-Sankt Veit
 street: "Johannesplatz"
 housenumber: 5

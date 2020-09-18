@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 49.450220300000005
 longitude: 11.0616082
-postcode: 90429
+postcode: "90429"
 city: Nürnberg
 street: "Bleichstraße"
 housenumber: 24

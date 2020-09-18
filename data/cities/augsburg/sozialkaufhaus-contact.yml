@@ -3,7 +3,7 @@ type: way
 shop: Gebrauchtwaren
 latitude: 48.315440900000006
 longitude: 10.8933883
-postcode: 86179
+postcode: "86179"
 city: Augsburg
 street: "Im Tal"
 housenumber: 8

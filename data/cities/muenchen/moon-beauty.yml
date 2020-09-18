@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.0991075
 longitude: 11.653322300000001
-postcode: 81737
+postcode: "81737"
 city: München
 street: "Sudermannallee"
 housenumber: 22

@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.305011
 longitude: 11.204905100000001
-postcode: 85235
+postcode: "85235"
 city: Odelzhausen
 street: "Robert-Bosch-Straße"
 housenumber: 10

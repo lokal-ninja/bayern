@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.0946914
 longitude: 11.832903400000001
-postcode: 85604
+postcode: "85604"
 city: Zorneding
 street: "Burgstraße"
 housenumber: 21

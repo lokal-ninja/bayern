@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.997027800000005
 longitude: 11.3436319
-postcode: 82319
+postcode: "82319"
 city: Starnberg
 street: "Maximilianstraße"
 housenumber: 2

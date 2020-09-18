@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.9443476
 longitude: 11.5755662
-postcode: 95444
+postcode: "95444"
 city: Bayreuth
 street: "Maximilianstraße"
 housenumber: 18

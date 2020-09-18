@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 47.8430624
 longitude: 12.9691539
-postcode: 83395
+postcode: "83395"
 city: Freilassing
 street: "Münchener Straße"
 housenumber: 67

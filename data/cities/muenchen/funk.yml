@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.149937900000005
 longitude: 11.577518600000001
-postcode: 
+postcode: ""
 city: München
 street: "Schellingstraße"
 housenumber: 18

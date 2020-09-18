@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.457877100000005
 longitude: 11.018608500000001
-postcode: 90431
+postcode: "90431"
 city: Nürnberg
 street: "Sigmundstraße"
 housenumber: 41

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.31746750000001
 longitude: 10.9080904
-postcode: 86179
+postcode: "86179"
 city: Augsburg
 street: "Kopernikusstraße"
 housenumber: 1a

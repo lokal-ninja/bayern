@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 48.2357999
 longitude: 12.536616200000001
-postcode: 84453
+postcode: "84453"
 city: Mühldorf am Inn
 street: "Oderstraße"
 housenumber: 3

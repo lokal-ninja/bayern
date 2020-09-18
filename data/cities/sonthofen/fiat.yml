@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.5189019
 longitude: 10.272486800000001
-postcode: 87527
+postcode: "87527"
 city: Sonthofen
 street: "Eichendorffstraße"
 housenumber: 13

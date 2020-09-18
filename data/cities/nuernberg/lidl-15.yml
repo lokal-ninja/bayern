@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.446389
 longitude: 11.081600600000002
-postcode: 90443
+postcode: "90443"
 city: Nürnberg
 street: "Bahnhofsplatz"
 housenumber: 9

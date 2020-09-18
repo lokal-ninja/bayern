@@ -3,10 +3,10 @@ type: node
 shop: Sanitätshaus
 latitude: 48.227954100000005
 longitude: 12.6186579
-postcode: 84576
+postcode: "84576"
 city: Teising
 street: "Gewerbering"
-housenumber: 
+housenumber: 6
 phone: ""
 opening_hours: ""
 website: ""

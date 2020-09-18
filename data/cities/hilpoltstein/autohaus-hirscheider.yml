@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.1819277
 longitude: 11.1855063
-postcode: 91161
+postcode: "91161"
 city: Hilpoltstein
 street: "Siemensstraße"
 housenumber: 1

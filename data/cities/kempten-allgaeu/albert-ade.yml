@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 47.724481700000005
 longitude: 10.3156292
-postcode: 87435
+postcode: "87435"
 city: Kempten (Allgäu)
 street: ""
 housenumber: 

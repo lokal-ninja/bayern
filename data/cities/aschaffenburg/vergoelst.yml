@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 49.982581200000006
 longitude: 9.1429375
-postcode: 63741
+postcode: "63741"
 city: Aschaffenburg
 street: "Lange Straße"
 housenumber: 40

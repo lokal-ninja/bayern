@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 49.7151062
 longitude: 9.2156379
-postcode: 63924
+postcode: "63924"
 city: Kleinheubach
 street: "Pfarrer-Frömel-Ring"
 housenumber: 45

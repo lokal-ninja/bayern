@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 48.1512055
 longitude: 11.572242800000001
-postcode: 80799
+postcode: "80799"
 city: München
 street: "Schellingstraße"
 housenumber: 63

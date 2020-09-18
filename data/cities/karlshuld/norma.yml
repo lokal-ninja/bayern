@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.680812100000004
 longitude: 11.2846984
-postcode: 86668
+postcode: "86668"
 city: Karlshuld
 street: "Augsburger Straße"
 housenumber: 13

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.8933789
 longitude: 10.8926111
-postcode: 96047
+postcode: "96047"
 city: Bamberg
 street: "Franz-Ludwig-Straße"
 housenumber: 7a

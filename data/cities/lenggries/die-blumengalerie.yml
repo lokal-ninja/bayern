@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 47.6817049
 longitude: 11.573572700000001
-postcode: 83661
+postcode: "83661"
 city: Lenggries
 street: "Schützenstraße"
 housenumber: 5

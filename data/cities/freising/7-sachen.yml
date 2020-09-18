@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 48.3994037
 longitude: 11.741850600000001
-postcode: 85354
+postcode: "85354"
 city: Freising
 street: "Obere Hauptstraße"
 housenumber: 27

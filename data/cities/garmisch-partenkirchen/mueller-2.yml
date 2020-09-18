@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.494279600000006
 longitude: 11.1058733
-postcode: 82467
+postcode: "82467"
 city: Garmisch-Partenkirchen
 street: "Rathausplatz"
 housenumber: 10

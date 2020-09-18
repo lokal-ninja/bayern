@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 49.445412000000005
 longitude: 11.859664700000002
-postcode: 92224
+postcode: "92224"
 city: Amberg
 street: "Untere Nabburger Straße"
 housenumber: 2

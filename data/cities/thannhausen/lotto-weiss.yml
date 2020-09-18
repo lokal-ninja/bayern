@@ -3,10 +3,10 @@ type: node
 shop: Lotterie
 latitude: 48.281513600000004
 longitude: 10.4673785
-postcode: 86470
+postcode: "86470"
 city: Thannhausen
 street: "Christoph-von-Schmid-Straße"
 housenumber: 20
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Th 09:00-12:00,14:00-18:00; Fr 08:00-12:00,14:00-18:00; Sa 08:00-12:30"
 website: ""

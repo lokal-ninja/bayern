@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.964772800000006
 longitude: 12.586197
-postcode: 83301
+postcode: "83301"
 city: Traunreut
 street: "Traunring"
 housenumber: 4

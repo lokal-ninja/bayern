@@ -3,7 +3,7 @@ type: node
 shop: Käse
 latitude: 47.869795100000005
 longitude: 12.002865900000002
-postcode: 83043
+postcode: "83043"
 city: Bad Aibling
 street: "Maxlrainer Straße"
 housenumber: 18

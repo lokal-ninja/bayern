@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 49.070495
 longitude: 12.1845884
-postcode: 93173
+postcode: "93173"
 city: Wenzenbach
 street: "Raiffeisenstraße"
 housenumber: 6

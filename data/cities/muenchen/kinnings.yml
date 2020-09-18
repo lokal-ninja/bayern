@@ -3,7 +3,7 @@ type: way
 shop: Babysachen
 latitude: 48.11233
 longitude: 11.616772800000001
-postcode: 81737
+postcode: "81737"
 city: München
 street: "Ottobrunner Straße"
 housenumber: 6

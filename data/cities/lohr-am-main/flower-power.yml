@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 49.990947600000005
 longitude: 9.5837956
-postcode: 97816
+postcode: "97816"
 city: Lohr am Main
 street: "Sendelbacher Straße"
 housenumber: 18

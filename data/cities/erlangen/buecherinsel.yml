@@ -3,7 +3,7 @@ type: way
 shop: Bücher
 latitude: 49.5679139
 longitude: 10.9614993
-postcode: 91056
+postcode: "91056"
 city: Erlangen
 street: "Wallenrodstraße"
 housenumber: 1

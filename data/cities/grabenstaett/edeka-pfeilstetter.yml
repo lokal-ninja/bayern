@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.845613500000006
 longitude: 12.5433698
-postcode: 83355
+postcode: "83355"
 city: Grabenstätt
 street: "Erlstätter Straße"
 housenumber: 1

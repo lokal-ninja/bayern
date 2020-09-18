@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.2992561
 longitude: 10.9005477
-postcode: 86179
+postcode: "86179"
 city: Augsburg
 street: "Albert-Leidl-Straße"
 housenumber: 2

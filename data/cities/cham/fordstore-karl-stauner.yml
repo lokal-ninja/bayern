@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.1993534
 longitude: 12.6622725
-postcode: 93413
+postcode: "93413"
 city: Cham
 street: "Am Taschinger Berg"
 housenumber: 5

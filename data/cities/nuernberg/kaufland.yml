@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.456592900000004
 longitude: 11.036576700000001
-postcode: 90429
+postcode: "90429"
 city: Nürnberg
 street: "Fürther Straße"
 housenumber: 187

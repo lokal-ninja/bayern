@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 49.4655111
 longitude: 11.005870700000001
-postcode: 90763
+postcode: "90763"
 city: Fürth
 street: "Karolinenstraße"
 housenumber: 146

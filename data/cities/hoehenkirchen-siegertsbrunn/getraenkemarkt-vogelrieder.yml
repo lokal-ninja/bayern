@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.021651500000004
 longitude: 11.7301108
-postcode: 85635
+postcode: "85635"
 city: Höhenkirchen-Siegertsbrunn
 street: "Bogenhauser Straße"
 housenumber: 8

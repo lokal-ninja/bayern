@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.5481689
 longitude: 10.716922
-postcode: 91448
+postcode: "91448"
 city: Emskirchen
 street: "Nürnberger Straße"
 housenumber: 27

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.727917500000004
 longitude: 13.382551300000001
-postcode: 94104
+postcode: "94104"
 city: Tittling
 street: "Lederergasse"
 housenumber: 15

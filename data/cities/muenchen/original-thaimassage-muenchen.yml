@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 48.130537700000005
 longitude: 11.6229274
-postcode: 81673
+postcode: "81673"
 city: München
 street: "Weihenstephaner Straße"
 housenumber: 3

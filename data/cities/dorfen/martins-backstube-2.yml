@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.2685127
 longitude: 12.165464700000001
-postcode: 84405
+postcode: "84405"
 city: Dorfen
 street: "Paul-Huber-Straße"
 housenumber: 4

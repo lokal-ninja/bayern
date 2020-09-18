@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.3702382
 longitude: 10.8956253
-postcode: 86152
+postcode: "86152"
 city: Augsburg
 street: "Ludwigstraße"
 housenumber: 2

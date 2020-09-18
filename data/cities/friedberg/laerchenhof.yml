@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 48.345713800000006
 longitude: 11.054189200000001
-postcode: 86316
+postcode: "86316"
 city: Friedberg
 street: "Aretinstraße"
 housenumber: 27

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.7335946
 longitude: 13.608023000000001
-postcode: 94065
+postcode: "94065"
 city: Waldkirchen
 street: "Bannholzstraße"
 housenumber: 35

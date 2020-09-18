@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.6160355
 longitude: 10.565920400000001
-postcode: 89420
+postcode: "89420"
 city: Höchstädt a.d.Donau
 street: "Lutzinger Straße"
 housenumber: 4

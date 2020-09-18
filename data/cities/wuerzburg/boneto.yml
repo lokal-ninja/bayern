@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.796851700000005
 longitude: 9.9342004
-postcode: 97070
+postcode: "97070"
 city: Würzburg
 street: "Theaterstraße"
 housenumber: 5

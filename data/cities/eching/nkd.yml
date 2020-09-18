@@ -3,7 +3,7 @@ type: node
 shop: Einkaufszentrum
 latitude: 48.296949700000006
 longitude: 11.6224266
-postcode: 85386
+postcode: "85386"
 city: Eching
 street: "Untere Hauptstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.0028962
 longitude: 12.2982074
-postcode: 95652
+postcode: "95652"
 city: Waldsassen
 street: "An der Tongrube"
 housenumber: 1

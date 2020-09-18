@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.2735798
 longitude: 10.9758042
-postcode: 86415
+postcode: "86415"
 city: Mering
 street: "Holzgartenstraße"
 housenumber: 13a

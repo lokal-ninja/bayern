@@ -3,7 +3,7 @@ type: node
 shop: Reifen
 latitude: 49.455110000000005
 longitude: 11.041228700000001
-postcode: 90429
+postcode: "90429"
 city: Nürnberg
 street: "Maximilianstraße"
 housenumber: 43 A

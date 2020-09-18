@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.716875
 longitude: 10.778344200000001
-postcode: 86609
+postcode: "86609"
 city: Donauwörth
 street: "Hindenburgstraße"
 housenumber: 25

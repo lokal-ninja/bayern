@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.2466127
 longitude: 11.6478598
-postcode: 85748
+postcode: "85748"
 city: Garching bei München
 street: "Münchener Straße"
 housenumber: 34

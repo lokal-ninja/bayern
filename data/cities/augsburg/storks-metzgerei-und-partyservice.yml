@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.315074100000004
 longitude: 10.8203051
-postcode: 86199
+postcode: "86199"
 city: Augsburg
 street: "Hauptstraße"
 housenumber: 38

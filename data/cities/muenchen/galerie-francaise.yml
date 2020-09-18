@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 48.144437100000005
 longitude: 11.5772121
-postcode: 80333
+postcode: "80333"
 city: München
 street: "Kardinal-Döpfner-Straße"
 housenumber: 4

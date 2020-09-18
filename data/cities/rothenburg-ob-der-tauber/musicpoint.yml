@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 49.3791895
 longitude: 10.1834085
-postcode: 91541
+postcode: "91541"
 city: Rothenburg ob der Tauber
 street: "Galgengasse"
 housenumber: 48

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.5415615
 longitude: 10.853029300000001
-postcode: 86405
+postcode: "86405"
 city: Meitingen
 street: "Schloßstraße"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 49.600505500000004
 longitude: 11.0035545
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Engelstraße"
 housenumber: 16

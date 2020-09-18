@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.1307995
 longitude: 11.5747826
-postcode: 80469
+postcode: "80469"
 city: München
 street: "Klenzestraße"
 housenumber: 37

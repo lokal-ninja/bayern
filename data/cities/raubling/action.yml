@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 47.787393900000005
 longitude: 12.110379700000001
-postcode: 83064
+postcode: "83064"
 city: Raubling
 street: "Kufsteiner Straße"
 housenumber: 27

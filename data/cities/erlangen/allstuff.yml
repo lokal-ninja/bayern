@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 49.595053300000004
 longitude: 11.0067056
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Rückertstraße"
 housenumber: 2

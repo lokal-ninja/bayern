@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.599921900000005
 longitude: 11.003110600000001
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Hauptstraße"
 housenumber: 60

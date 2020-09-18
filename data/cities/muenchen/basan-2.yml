@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.162334900000005
 longitude: 11.582112700000001
-postcode: 80803
+postcode: "80803"
 city: München
 street: "Herzogstraße"
 housenumber: 23

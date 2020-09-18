@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.2632011
 longitude: 10.8392348
-postcode: 86399
+postcode: "86399"
 city: Bobingen
 street: "Ziegeleistraße"
 housenumber: 24

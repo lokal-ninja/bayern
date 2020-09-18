@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.7925203
 longitude: 9.9311909
-postcode: 97070
+postcode: "97070"
 city: Würzburg
 street: "Plattnerstraße"
 housenumber: 14

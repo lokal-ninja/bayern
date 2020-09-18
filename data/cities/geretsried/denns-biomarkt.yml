@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.857340300000004
 longitude: 11.486455900000001
-postcode: 82538
+postcode: "82538"
 city: Geretsried
 street: "Sudetenstraße"
 housenumber: 29c

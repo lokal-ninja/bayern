@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.4508999
 longitude: 11.765658400000001
-postcode: 85406
+postcode: "85406"
 city: Zolling
 street: "Birkenweg"
 housenumber: 42

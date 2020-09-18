@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.135015700000004
 longitude: 11.5693996
-postcode: 80331
+postcode: "80331"
 city: München
 street: "Sendlinger Straße"
 housenumber: 36

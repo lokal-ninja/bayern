@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.9813087
 longitude: 12.1498012
-postcode: 93055
+postcode: "93055"
 city: Regensburg
 street: "Obertraublinger Straße"
 housenumber: 101

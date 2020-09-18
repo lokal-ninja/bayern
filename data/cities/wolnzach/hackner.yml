@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.6027761
 longitude: 11.624630900000001
-postcode: 85283
+postcode: "85283"
 city: Wolnzach
 street: "Schloßhof"
 housenumber: 20

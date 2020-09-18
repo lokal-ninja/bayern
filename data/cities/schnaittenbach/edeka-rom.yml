@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.547974800000006
 longitude: 12.000972500000001
-postcode: 92253
+postcode: "92253"
 city: Schnaittenbach
 street: "Hauptstraße"
 housenumber: 17

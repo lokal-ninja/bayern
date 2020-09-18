@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.8388003
 longitude: 11.141148900000001
-postcode: 82362
+postcode: "82362"
 city: Weilheim in Oberbayern
 street: "Ledererstraße"
 housenumber: 7

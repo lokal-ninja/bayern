@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 48.39680490000001
 longitude: 10.9262086
-postcode: 86167
+postcode: "86167"
 city: Augsburg
 street: "Bürgermeister-Wegele-Straße"
 housenumber: 10

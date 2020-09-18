@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 47.839308300000006
 longitude: 11.1430588
-postcode: 82362
+postcode: "82362"
 city: Weilheim in Oberbayern
 street: "Admiral-Hipper-Straße"
 housenumber: 5

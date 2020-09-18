@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 49.4643488
 longitude: 12.266224800000002
-postcode: 92543
+postcode: "92543"
 city: Guteneck
 street: "Oberaich"
 housenumber: 1

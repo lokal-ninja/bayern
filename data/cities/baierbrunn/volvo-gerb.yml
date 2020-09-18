@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.0181551
 longitude: 11.4847354
-postcode: 82065
+postcode: "82065"
 city: Baierbrunn
 street: "Wolfratshauser Straße"
 housenumber: 62

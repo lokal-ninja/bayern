@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.8026793
 longitude: 12.880469000000002
-postcode: 94469
+postcode: "94469"
 city: Deggendorf
 street: "Kreuzäcker"
 housenumber: 7

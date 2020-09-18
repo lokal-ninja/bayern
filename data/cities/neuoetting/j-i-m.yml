@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 48.2403057
 longitude: 12.687251700000001
-postcode: 84524
+postcode: "84524"
 city: Neuötting
 street: "Ludwigstraße"
 housenumber: 72

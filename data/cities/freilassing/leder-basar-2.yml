@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 47.8391056
 longitude: 12.981648300000002
-postcode: 83395
+postcode: "83395"
 city: Freilassing
 street: "Hauptstraße"
 housenumber: 18

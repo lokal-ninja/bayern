@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 47.8549689
 longitude: 12.3459798
-postcode: 83209
+postcode: "83209"
 city: Prien am Chiemsee
 street: "Bahnhofstraße"
 housenumber: 4

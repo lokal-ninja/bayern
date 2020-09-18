@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 49.9489353
 longitude: 12.2404253
-postcode: 95666
+postcode: "95666"
 city: Mitterteich
 street: "Bahnhofstraße"
 housenumber: 24

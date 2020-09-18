@@ -3,10 +3,10 @@ type: node
 shop: Autohaus
 latitude: 48.19008040000001
 longitude: 11.8588763
-postcode: 85570
+postcode: "85570"
 city: Markt Schwaben
 street: "Geltinger Straße"
 housenumber: 2
 phone: "+49 8121 4768450"
-opening_hours: "Mo-Do 07:00-17:30; Fr 07:00-15:30"
+opening_hours: "Mo-Th 07:00-17:30; Fr 07:00-15:30"
 website: "http://www.autohausbaeuerle.de"

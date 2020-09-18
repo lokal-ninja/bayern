@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.018259400000005
 longitude: 11.5906841
-postcode: 82041
+postcode: "82041"
 city: Oberhaching
 street: "Stefanienstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.152398000000005
 longitude: 11.531205900000002
-postcode: 80634
+postcode: "80634"
 city: München
 street: "Wendl-Dietrich-Straße"
 housenumber: 7

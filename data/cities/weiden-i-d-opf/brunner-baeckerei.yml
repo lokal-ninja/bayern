@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.6839212
 longitude: 12.1625358
-postcode: 92637
+postcode: "92637"
 city: Weiden i.d.OPf.
 street: "Zur Centralwerkstätte"
 housenumber: 22

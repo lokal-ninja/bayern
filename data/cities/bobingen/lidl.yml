@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.2636467
 longitude: 10.839639400000001
-postcode: 86399
+postcode: "86399"
 city: Bobingen
 street: "Ziegeleistraße"
 housenumber: 13

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.33167
 longitude: 10.7380884
-postcode: 86459
+postcode: "86459"
 city: Gessertshausen
 street: "Augsburger Straße"
 housenumber: 3

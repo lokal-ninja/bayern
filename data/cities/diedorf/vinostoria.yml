@@ -3,7 +3,7 @@ type: way
 shop: Spirituosen
 latitude: 48.354460700000004
 longitude: 10.7790794
-postcode: 86420
+postcode: "86420"
 city: Diedorf
 street: "Frühlingstraße"
 housenumber: 1

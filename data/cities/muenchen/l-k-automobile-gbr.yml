@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.161669
 longitude: 11.413675900000001
-postcode: 81245
+postcode: "81245"
 city: München
 street: "Ubostraße"
 housenumber: 50

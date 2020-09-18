@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.585480700000005
 longitude: 13.4887566
-postcode: 94034
+postcode: "94034"
 city: Passau
 street: "Schulbergstraße"
 housenumber: 63

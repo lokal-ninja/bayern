@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 49.443460900000005
 longitude: 11.874322600000001
-postcode: 92224
+postcode: "92224"
 city: Amberg
 street: "Dreifaltigkeitsstraße"
 housenumber: 15

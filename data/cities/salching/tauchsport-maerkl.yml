@@ -3,7 +3,7 @@ type: node
 shop: Tauchen
 latitude: 48.809974700000005
 longitude: 12.5652059
-postcode: 94330
+postcode: "94330"
 city: Salching
 street: "Landshuter Straße"
 housenumber: 13

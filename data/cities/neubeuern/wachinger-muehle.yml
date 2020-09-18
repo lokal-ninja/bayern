@@ -3,7 +3,7 @@ type: way
 shop: Feinkost
 latitude: 47.7970144
 longitude: 12.1478391
-postcode: 83115
+postcode: "83115"
 city: Neubeuern
 street: "Winkl"
 housenumber: 22

@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 49.7901316
 longitude: 9.9349591
-postcode: 97070
+postcode: "97070"
 city: Würzburg
 street: "Stephanstraße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 47.5814834
 longitude: 10.5565347
-postcode: 87459
+postcode: "87459"
 city: Pfronten
 street: "Vilstalstraße"
 housenumber: 6

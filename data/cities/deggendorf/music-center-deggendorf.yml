@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 48.8380297
 longitude: 12.957611100000001
-postcode: 94469
+postcode: "94469"
 city: Deggendorf
 street: "Hindenburgstraße"
 housenumber: 33

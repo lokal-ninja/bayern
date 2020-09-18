@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.1219307
 longitude: 9.741003000000001
-postcode: 97782
+postcode: "97782"
 city: Gräfendorf
 street: "Hauptstraße"
 housenumber: 27

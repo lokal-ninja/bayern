@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.296935600000005
 longitude: 11.928847300000001
-postcode: 95032
+postcode: "95032"
 city: Hof
 street: "Flurweg"
 housenumber: 3

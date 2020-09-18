@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.451222800000004
 longitude: 11.0276455
-postcode: 90431
+postcode: "90431"
 city: Nürnberg
 street: "Leyher Straße"
 housenumber: 64

@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 48.0660803
 longitude: 11.664123100000001
-postcode: 85521
+postcode: "85521"
 city: Ottobrunn
 street: "Putzbrunner Straße"
 housenumber: 16

@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.5014492
 longitude: 11.278766800000001
-postcode: 91207
+postcode: "91207"
 city: Lauf a.d.Pegnitz
 street: "Oskar-Sembach-Ring"
 housenumber: 11

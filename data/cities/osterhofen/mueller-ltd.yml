@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.702287500000004
 longitude: 13.0203644
-postcode: 94486
+postcode: "94486"
 city: Osterhofen
 street: "Stadtplatz"
 housenumber: 16

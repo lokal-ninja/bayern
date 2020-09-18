@@ -3,10 +3,10 @@ type: node
 shop: Schmuck
 latitude: 48.370330200000005
 longitude: 10.906371700000001
-postcode: 86152
+postcode: "86152"
 city: Augsburg
 street: "Jakoberstraße"
 housenumber: 51
 phone: "+49 821 159021"
-opening_hours: "Tu-Sa 10:00-18:00"
+opening_hours: "Tu-Fr 11:00-19:00; Sa 11:00-18:00"
 website: "https://www.designer-diamonds.de/"

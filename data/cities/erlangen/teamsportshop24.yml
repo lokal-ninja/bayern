@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 49.589583600000005
 longitude: 10.968013500000001
-postcode: 91056
+postcode: "91056"
 city: Erlangen
 street: "Dorfstraße"
 housenumber: 4a

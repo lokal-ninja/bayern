@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 49.794133900000006
 longitude: 9.7367045
-postcode: 97292
+postcode: "97292"
 city: Uettingen
 street: "Mühlweg"
 housenumber: 3

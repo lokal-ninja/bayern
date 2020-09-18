@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.316710500000006
 longitude: 11.690918900000002
-postcode: 85375
+postcode: "85375"
 city: Neufahrn bei Freising
 street: "Münchner Straße"
 housenumber: 17

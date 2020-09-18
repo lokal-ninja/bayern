@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.737681200000004
 longitude: 10.2387374
-postcode: 87487
+postcode: "87487"
 city: Wiggensbach
 street: "Autohaus Engstler"
 housenumber: 4

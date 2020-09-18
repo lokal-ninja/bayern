@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.153197500000005
 longitude: 11.532136600000001
-postcode: 80634
+postcode: "80634"
 city: München
 street: "Rotkreuzplatz"
 housenumber: 8

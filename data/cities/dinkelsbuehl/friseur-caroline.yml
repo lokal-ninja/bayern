@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.0690025
 longitude: 10.321290900000001
-postcode: 91550
+postcode: "91550"
 city: Dinkelsbühl
 street: "Altrathausplatz"
 housenumber: 13

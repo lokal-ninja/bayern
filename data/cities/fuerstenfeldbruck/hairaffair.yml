@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.177469800000004
 longitude: 11.2523856
-postcode: 82256
+postcode: "82256"
 city: Fürstenfeldbruck
 street: "Viehmarktstraße"
 housenumber: 5

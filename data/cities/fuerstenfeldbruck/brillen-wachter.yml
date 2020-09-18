@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.179194200000005
 longitude: 11.254337300000001
-postcode: 82256
+postcode: "82256"
 city: Fürstenfeldbruck
 street: "Hauptstraße"
 housenumber: 29

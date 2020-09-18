@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.04815970000001
 longitude: 10.8766463
-postcode: 86899
+postcode: "86899"
 city: Landsberg am Lech
 street: "Hubert-von-Herkomer-Straße"
 housenumber: 88

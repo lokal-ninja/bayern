@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.4107496
 longitude: 10.2692528
-postcode: 87561
+postcode: "87561"
 city: Oberstdorf
 street: "Fellhornstraße"
 housenumber: 1

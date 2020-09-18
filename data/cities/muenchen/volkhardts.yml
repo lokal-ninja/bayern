@@ -3,7 +3,7 @@ type: way
 shop: Spirituosen
 latitude: 48.1494757
 longitude: 11.457839400000001
-postcode: 81241
+postcode: "81241"
 city: München
 street: "Kaflerstraße"
 housenumber: 15

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 47.5810765
 longitude: 10.5556737
-postcode: 87459
+postcode: "87459"
 city: Pfronten
 street: "Vilstalstraße"
 housenumber: 3

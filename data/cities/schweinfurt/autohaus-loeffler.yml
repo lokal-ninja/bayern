@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.0370411
 longitude: 10.236456700000002
-postcode: 97424
+postcode: "97424"
 city: Schweinfurt
 street: "Carl-Zeiss-Straße"
 housenumber: 11

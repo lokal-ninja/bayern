@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.486050000000006
 longitude: 10.9620121
-postcode: 90766
+postcode: "90766"
 city: Fürth
 street: "Dr.-Wild-Straße"
 housenumber: 9

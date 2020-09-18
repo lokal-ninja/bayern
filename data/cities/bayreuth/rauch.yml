@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.9507844
 longitude: 11.5725251
-postcode: 95444
+postcode: "95444"
 city: Bayreuth
 street: "Munckerstraße"
 housenumber: 3

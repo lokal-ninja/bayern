@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.365926
 longitude: 10.9061736
-postcode: 86153
+postcode: "86153"
 city: Augsburg
 street: "Willy-Brandt-Platz"
 housenumber: 1

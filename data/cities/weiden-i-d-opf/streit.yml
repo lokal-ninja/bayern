@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.6752334
 longitude: 12.163651100000001
-postcode: 92637
+postcode: "92637"
 city: Weiden i.d.OPf.
 street: "Oberer Markt"
 housenumber: 3

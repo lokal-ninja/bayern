@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 49.462341
 longitude: 11.2820873
-postcode: 91227
+postcode: "91227"
 city: Leinburg
 street: "Schwaiger Straße"
 housenumber: 14

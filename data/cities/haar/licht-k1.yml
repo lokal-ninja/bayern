@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 48.1085567
 longitude: 11.726383
-postcode: 85540
+postcode: "85540"
 city: Haar
 street: "Salzgasse"
 housenumber: 3-5

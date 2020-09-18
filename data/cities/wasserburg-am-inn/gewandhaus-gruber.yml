@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.060565000000004
 longitude: 12.231852
-postcode: 83512
+postcode: "83512"
 city: Wasserburg am Inn
 street: ""
 housenumber: 

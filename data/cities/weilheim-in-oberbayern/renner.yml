@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 47.8335056
 longitude: 11.162379900000001
-postcode: 82362
+postcode: "82362"
 city: Weilheim in Oberbayern
 street: "Jakob-Steigenberger-Straße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 48.0785126
 longitude: 11.9702804
-postcode: 85560
+postcode: "85560"
 city: Ebersberg
 street: ""
 housenumber: 

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.138854900000005
 longitude: 11.510899
-postcode: 80686
+postcode: "80686"
 city: München
 street: "Friedenheimer Straße"
 housenumber: 33

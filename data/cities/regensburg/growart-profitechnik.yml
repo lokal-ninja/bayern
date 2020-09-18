@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 49.015782800000004
 longitude: 12.131639400000001
-postcode: 93055
+postcode: "93055"
 city: Regensburg
 street: "Auweg"
 housenumber: 42 a

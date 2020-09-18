@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.3650134
 longitude: 11.0491007
-postcode: 90453
+postcode: "90453"
 city: Nürnberg
 street: "Katzwanger Hauptstraße"
 housenumber: 102

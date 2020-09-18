@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.06323140000001
 longitude: 11.6494788
-postcode: 85521
+postcode: "85521"
 city: Ottobrunn
 street: "Unterhachinger Straße"
 housenumber: 28

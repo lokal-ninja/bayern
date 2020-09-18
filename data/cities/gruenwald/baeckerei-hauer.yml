@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.039355500000006
 longitude: 11.521575100000002
-postcode: 82031
+postcode: "82031"
 city: Grünwald
 street: "Marktplatz"
 housenumber: 7

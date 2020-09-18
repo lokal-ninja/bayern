@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.189249800000006
 longitude: 11.780049700000001
-postcode: 85652
+postcode: "85652"
 city: Pliening
 street: "Am Moosrain"
 housenumber: 5

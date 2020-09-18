@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 48.120307100000005
 longitude: 11.5505992
-postcode: 81371
+postcode: "81371"
 city: München
 street: "Oberländerstraße"
 housenumber: 2

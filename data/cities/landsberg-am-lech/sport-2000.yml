@@ -3,10 +3,10 @@ type: node
 shop: Sport
 latitude: 48.055632200000005
 longitude: 10.8914296
-postcode: 86899
+postcode: "86899"
 city: Landsberg am Lech
 street: "Am Penzinger Feld"
 housenumber: 21
-phone: "+49  8191 91510-0"
+phone: "+49 8191 91510-0"
 opening_hours: "Mo-Fr 09:30-20:00; Sa 09:30-18:00"
 website: "https://www.sport2000-landsberg.de"

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.367642000000004
 longitude: 10.8659648
-postcode: 86157
+postcode: "86157"
 city: Augsburg
 street: "Deutschenbaurstraße"
 housenumber: 21

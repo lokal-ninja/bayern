@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.124166100000004
 longitude: 12.5728082
-postcode: 84518
+postcode: "84518"
 city: Garching an der Alz
 street: "Am Binderfeld"
 housenumber: 14

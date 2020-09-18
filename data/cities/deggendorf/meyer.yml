@@ -3,7 +3,7 @@ type: node
 shop: Uhren
 latitude: 48.831982
 longitude: 12.961784600000001
-postcode: 94469
+postcode: "94469"
 city: Deggendorf
 street: "Luitpoldplatz"
 housenumber: 18

@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 47.838329800000004
 longitude: 11.1409081
-postcode: 82362
+postcode: "82362"
 city: Weilheim in Oberbayern
 street: "Herzog-Albrecht-Platz"
 housenumber: 11

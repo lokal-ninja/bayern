@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 50.1463468
 longitude: 11.0622261
-postcode: 96215
+postcode: "96215"
 city: Lichtenfels
 street: "Judengasse"
 housenumber: 4

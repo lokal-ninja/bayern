@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.1049086
 longitude: 11.0081897
-postcode: 96231
+postcode: "96231"
 city: Bad Staffelstein
 street: "Lichtenfelser Straße"
 housenumber: 44

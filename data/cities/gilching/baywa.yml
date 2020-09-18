@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 48.1045711
 longitude: 11.3065019
-postcode: 82205
+postcode: "82205"
 city: Gilching
 street: "Am Römerstein"
 housenumber: 30

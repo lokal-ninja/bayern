@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.104180400000004
 longitude: 10.654188000000001
-postcode: 86833
+postcode: "86833"
 city: Ettringen
 street: "Hauptstraße"
 housenumber: 8

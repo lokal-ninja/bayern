@@ -3,10 +3,10 @@ type: node
 shop: Garten-Center
 latitude: 49.4495231
 longitude: 11.0499338
-postcode: 90429
+postcode: "90429"
 city: Nürnberg
 street: "Austraße"
 housenumber: 71
 phone: "+49 911 2473525"
-opening_hours: ""
+opening_hours: "Mo-Fr 10:30-18:30; Sa 10:30-15:30"
 website: "https://urban-gardencenter.de/"

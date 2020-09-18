@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 47.984945800000006
 longitude: 11.8632659
-postcode: 85625
+postcode: "85625"
 city: Glonn
 street: "Hans-Ernst-Straße"
 housenumber: 13

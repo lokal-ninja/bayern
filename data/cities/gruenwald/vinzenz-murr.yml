@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.0402153
 longitude: 11.522710400000001
-postcode: 82031
+postcode: "82031"
 city: Grünwald
 street: "Marktplatz"
 housenumber: 12

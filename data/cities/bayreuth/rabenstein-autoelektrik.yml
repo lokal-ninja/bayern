@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.9356543
 longitude: 11.5911404
-postcode: 95444
+postcode: "95444"
 city: Bayreuth
 street: "Prieserstraße"
 housenumber: 17

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.6630836
 longitude: 12.149566
-postcode: 92637
+postcode: "92637"
 city: Weiden i.d.OPf.
 street: "Robert-Bosch-Straße"
 housenumber: 1

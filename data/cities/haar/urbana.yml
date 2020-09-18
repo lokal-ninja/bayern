@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.110345200000005
 longitude: 11.7157041
-postcode: 85540
+postcode: "85540"
 city: Haar
 street: "Hans-Pinsel-Straße"
 housenumber: 1

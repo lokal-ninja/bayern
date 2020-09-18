@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.5730347
 longitude: 13.6824685
-postcode: 94107
+postcode: "94107"
 city: Untergriesbach
 street: "Mairau"
 housenumber: 4

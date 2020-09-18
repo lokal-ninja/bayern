@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.133679
 longitude: 11.5651407
-postcode: 80336
+postcode: "80336"
 city: München
 street: "Sendlinger-Tor-Platz"
 housenumber: 7

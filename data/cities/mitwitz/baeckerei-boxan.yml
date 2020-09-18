@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.248511500000006
 longitude: 11.2105862
-postcode: 96268
+postcode: "96268"
 city: Mitwitz
 street: "Kronacher Straße"
 housenumber: 7

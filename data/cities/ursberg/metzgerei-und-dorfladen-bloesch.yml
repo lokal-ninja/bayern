@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 48.2294228
 longitude: 10.447367900000001
-postcode: 86513
+postcode: "86513"
 city: Ursberg
 street: "Dorfstraße"
 housenumber: 13

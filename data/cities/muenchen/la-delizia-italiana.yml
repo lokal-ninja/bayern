@@ -3,10 +3,10 @@ type: node
 shop: Lebensmittel
 latitude: 48.1130882
 longitude: 11.702258
-postcode: 81827
+postcode: "81827"
 city: München
 street: "Phantasiestraße"
 housenumber: 2
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 07:30-19:00; Sa 07:00-14:00"
 website: ""

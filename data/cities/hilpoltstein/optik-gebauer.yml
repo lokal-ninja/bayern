@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.1866228
 longitude: 11.187280900000001
-postcode: 91161
+postcode: "91161"
 city: Hilpoltstein
 street: "Industriestraße"
 housenumber: 10

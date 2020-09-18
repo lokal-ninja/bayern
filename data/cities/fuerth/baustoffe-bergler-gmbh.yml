@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 49.5248586
 longitude: 10.9777398
-postcode: 90765
+postcode: "90765"
 city: Fürth
 street: "Stadelner Hauptstraße"
 housenumber: 182

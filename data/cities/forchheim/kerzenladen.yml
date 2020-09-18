@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 49.7198061
 longitude: 11.056891100000001
-postcode: 91301
+postcode: "91301"
 city: Forchheim
 street: "St.-Martin-Straße"
 housenumber: 11

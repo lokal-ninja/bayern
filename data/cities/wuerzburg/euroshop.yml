@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 49.795379200000006
 longitude: 9.9328432
-postcode: 97070
+postcode: "97070"
 city: Würzburg
 street: "Eichhornstraße"
 housenumber: 11

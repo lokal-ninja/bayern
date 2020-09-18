@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 49.8751769
 longitude: 9.7972968
-postcode: 97274
+postcode: "97274"
 city: Leinach
 street: "Zellinger Straße"
 housenumber: 

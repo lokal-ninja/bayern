@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 48.558832100000004
 longitude: 12.1173073
-postcode: 84032
+postcode: "84032"
 city: Altdorf
 street: "Hauptstraße"
 housenumber: 74

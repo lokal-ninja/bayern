@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.6727307
 longitude: 12.1493125
-postcode: 92637
+postcode: "92637"
 city: Weiden i.d.OPf.
 street: "Galgenbergstraße"
 housenumber: 2

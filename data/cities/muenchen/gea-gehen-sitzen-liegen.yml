@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsartikel
 latitude: 48.1504868
 longitude: 11.578342500000002
-postcode: 80799
+postcode: "80799"
 city: München
 street: "Amalienstraße"
 housenumber: 71

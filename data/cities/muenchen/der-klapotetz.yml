@@ -3,7 +3,7 @@ type: way
 shop: Spirituosen
 latitude: 48.1498842
 longitude: 11.466991700000001
-postcode: 81245
+postcode: "81245"
 city: München
 street: "Nusselstraße"
 housenumber: 55

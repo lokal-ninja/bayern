@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.675192100000004
 longitude: 11.2000648
-postcode: 
+postcode: ""
 city: Murnau a.Staffelsee
 street: "Burggraben"
 housenumber: 49

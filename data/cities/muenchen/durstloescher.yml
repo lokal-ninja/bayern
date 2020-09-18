@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.117380700000005
 longitude: 11.5382862
-postcode: 81373
+postcode: "81373"
 city: München
 street: "Meindlstraße"
 housenumber: 25

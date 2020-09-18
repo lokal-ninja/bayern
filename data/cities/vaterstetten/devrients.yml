@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.1049633
 longitude: 11.7699908
-postcode: 85591
+postcode: "85591"
 city: Vaterstetten
 street: "Wendelsteinstraße"
 housenumber: 10

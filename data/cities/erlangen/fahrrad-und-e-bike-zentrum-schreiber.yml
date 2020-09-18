@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 49.5891936
 longitude: 10.960332900000001
-postcode: 91056
+postcode: "91056"
 city: Erlangen
 street: "Alter Markt"
 housenumber: 2a

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.487022
 longitude: 11.068634900000001
-postcode: 86568
+postcode: "86568"
 city: Hollenbach
 street: "Hauptstraße"
 housenumber: 71

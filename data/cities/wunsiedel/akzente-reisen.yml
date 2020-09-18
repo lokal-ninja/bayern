@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 50.037647400000004
 longitude: 12.0025727
-postcode: 95632
+postcode: "95632"
 city: Wunsiedel
 street: "Marktplatz"
 housenumber: 2

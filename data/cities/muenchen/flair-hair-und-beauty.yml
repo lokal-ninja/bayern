@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.139819
 longitude: 11.582835900000001
-postcode: 80539
+postcode: "80539"
 city: München
 street: "Wurzerstraße"
 housenumber: 12

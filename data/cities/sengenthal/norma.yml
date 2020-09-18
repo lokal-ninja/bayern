@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.2254458
 longitude: 11.457489
-postcode: 92369
+postcode: "92369"
 city: Sengenthal
 street: "Schlierfer Holz"
 housenumber: 1

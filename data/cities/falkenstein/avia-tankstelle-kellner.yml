@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.096657300000004
 longitude: 12.483913800000002
-postcode: 93167
+postcode: "93167"
 city: Falkenstein
 street: "Doktor-Josef-Kiener-Straße"
 housenumber: 1

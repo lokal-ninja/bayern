@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.134689200000004
 longitude: 11.5687402
-postcode: 80331
+postcode: "80331"
 city: München
 street: "Sendlinger Straße"
 housenumber: 50

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.126329600000005
 longitude: 11.6445428
-postcode: 81673
+postcode: "81673"
 city: München
 street: "Kreillerstraße"
 housenumber: 77

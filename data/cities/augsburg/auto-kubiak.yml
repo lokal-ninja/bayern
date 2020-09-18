@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 48.3548404
 longitude: 10.9406157
-postcode: 86163
+postcode: "86163"
 city: Augsburg
 street: "Friedberger Straße"
 housenumber: 112

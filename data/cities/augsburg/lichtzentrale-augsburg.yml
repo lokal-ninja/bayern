@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.396371200000004
 longitude: 10.8788181
-postcode: 86154
+postcode: "86154"
 city: Augsburg
 street: "Zirbelstraße"
 housenumber: 58

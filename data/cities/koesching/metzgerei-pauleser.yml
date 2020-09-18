@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 48.8329025
 longitude: 11.545379500000001
-postcode: 85092
+postcode: "85092"
 city: Kösching
 street: "Köschinger Straße"
 housenumber: 2

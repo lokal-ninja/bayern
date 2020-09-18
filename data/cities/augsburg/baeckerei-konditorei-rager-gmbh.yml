@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.315259600000005
 longitude: 10.8893217
-postcode: 86179
+postcode: "86179"
 city: Augsburg
 street: "Auf dem Nol"
 housenumber: 4

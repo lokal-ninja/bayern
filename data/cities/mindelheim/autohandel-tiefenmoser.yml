@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.0374673
 longitude: 10.497915
-postcode: 87719
+postcode: "87719"
 city: Mindelheim
 street: "Säulingstraße"
 housenumber: 7

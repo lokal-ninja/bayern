@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 47.7291363
 longitude: 10.3100655
-postcode: 87439
+postcode: "87439"
 city: Kempten (Allgäu)
 street: "Großer Kornhausplatz"
 housenumber: 3

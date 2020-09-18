@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.1130167
 longitude: 11.581555000000002
-postcode: 81539
+postcode: "81539"
 city: München
 street: "Herzogstandstraße"
 housenumber: 24

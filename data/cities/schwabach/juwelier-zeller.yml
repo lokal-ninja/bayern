@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 49.3290437
 longitude: 11.023306300000002
-postcode: 91126
+postcode: "91126"
 city: Schwabach
 street: "Ludwigstraße"
 housenumber: 3

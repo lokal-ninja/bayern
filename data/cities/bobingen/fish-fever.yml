@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 48.2681413
 longitude: 10.846920500000001
-postcode: 86399
+postcode: "86399"
 city: Bobingen
 street: "Hans-Sachs-Straße"
 housenumber: 15

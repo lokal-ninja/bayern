@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.8683856
 longitude: 11.8787374
-postcode: 95478
+postcode: "95478"
 city: Kemnath
 street: "Bayreuther Straße"
 housenumber: 34

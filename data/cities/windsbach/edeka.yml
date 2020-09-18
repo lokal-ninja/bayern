@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.249610200000006
 longitude: 10.8395919
-postcode: 91575
+postcode: "91575"
 city: Windsbach
 street: "Fohlenhof"
 housenumber: 9

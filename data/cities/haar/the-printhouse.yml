@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 48.110104400000004
 longitude: 11.7331461
-postcode: 85540
+postcode: "85540"
 city: Haar
 street: "Leibstraße"
 housenumber: 40

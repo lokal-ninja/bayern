@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.2249363
 longitude: 12.658359
-postcode: 84503
+postcode: "84503"
 city: Altötting
 street: "Tüßlinger Straße"
 housenumber: 1

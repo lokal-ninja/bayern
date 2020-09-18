@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.3305559
 longitude: 10.731480900000001
-postcode: 86459
+postcode: "86459"
 city: Gessertshausen
 street: "Hauptstraße"
 housenumber: 25

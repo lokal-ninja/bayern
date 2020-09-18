@@ -1,12 +1,12 @@
-id: 28162439
-type: way
+id: 6325843377
+type: node
 shop: Supermarkt
-latitude: 48.7634461
-longitude: 11.3896659
-postcode: 85049
+latitude: 48.771060600000006
+longitude: 11.3819329
+postcode: "85049"
 city: Ingolstadt
-street: "Gerolfinger Straße"
-housenumber: 125
-phone: ""
-opening_hours: ""
-website: ""
+street: "Krumenauerstraße"
+housenumber: 58
+phone: "+49 841 44646"
+opening_hours: "Mo-Sa 07:00-20:00"
+website: "https://www.edeka.de/eh/s%C3%BCdbayern/edeka-yesilbas-krumenauerstra%C3%9Fe-58/index.jsp"

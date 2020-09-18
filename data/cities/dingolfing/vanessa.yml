@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.6298389
 longitude: 12.4956697
-postcode: 84130
+postcode: "84130"
 city: Dingolfing
 street: "Bruckstraße"
 housenumber: 38

@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.061959800000004
 longitude: 11.6636261
-postcode: 85521
+postcode: "85521"
 city: Ottobrunn
 street: "Hubertusstraße"
 housenumber: 2

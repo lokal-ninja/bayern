@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.240192400000005
 longitude: 11.088787400000001
-postcode: 91154
+postcode: "91154"
 city: Roth
 street: "Münchener Straße"
 housenumber: 48-50

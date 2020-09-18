@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 48.0211642
 longitude: 11.5806567
-postcode: 82041
+postcode: "82041"
 city: Oberhaching
 street: "Gartenstraße"
 housenumber: 35

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.1721967
 longitude: 11.807176400000001
-postcode: 85586
+postcode: "85586"
 city: Poing
 street: "Bürgerstraße"
 housenumber: 2

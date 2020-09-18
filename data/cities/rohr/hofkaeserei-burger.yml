@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 49.3424405
 longitude: 10.884105
-postcode: 91189
+postcode: "91189"
 city: Rohr
 street: "Zum Flecken"
 housenumber: 18

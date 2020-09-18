@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.2739296
 longitude: 12.674384100000001
-postcode: 93494
+postcode: "93494"
 city: Waffenbrunn
 street: ""
 housenumber: 4a

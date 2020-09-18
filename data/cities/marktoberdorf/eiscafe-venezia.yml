@@ -3,7 +3,7 @@ type: node
 shop: Eisprodukte
 latitude: 47.779796000000005
 longitude: 10.6183501
-postcode: 87616
+postcode: "87616"
 city: Marktoberdorf
 street: "Kaufbeurener Straße"
 housenumber: 1

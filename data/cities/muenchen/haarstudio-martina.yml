@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.133872100000005
 longitude: 11.575585700000001
-postcode: 80469
+postcode: "80469"
 city: München
 street: "Utzschneiderstraße"
 housenumber: 8

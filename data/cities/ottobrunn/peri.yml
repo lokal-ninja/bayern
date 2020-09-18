@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 48.066830800000005
 longitude: 11.6662643
-postcode: 85521
+postcode: "85521"
 city: Ottobrunn
 street: "Putzbrunner Straße"
 housenumber: 28

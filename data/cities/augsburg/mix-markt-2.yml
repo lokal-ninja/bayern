@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.3395335
 longitude: 10.9007281
-postcode: 86159
+postcode: "86159"
 city: Augsburg
 street: "Alter Postweg"
 housenumber: 97b

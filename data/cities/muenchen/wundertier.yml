@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 48.1777012
 longitude: 11.600707100000001
-postcode: 80805
+postcode: "80805"
 city: München
 street: "Garchinger Straße"
 housenumber: 36

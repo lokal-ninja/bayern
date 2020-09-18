@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 47.816645300000005
 longitude: 10.9020173
-postcode: 86956
+postcode: "86956"
 city: Schongau
 street: "An der Leithe"
 housenumber: 5

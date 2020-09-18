@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.0029534
 longitude: 10.6459899
-postcode: 86825
+postcode: "86825"
 city: Bad Wörishofen
 street: "Dorfstraße"
 housenumber: 9

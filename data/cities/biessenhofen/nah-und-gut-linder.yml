@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.8291881
 longitude: 10.640588300000001
-postcode: 87640
+postcode: "87640"
 city: Biessenhofen
 street: "Ebenhofener Straße"
 housenumber: 1

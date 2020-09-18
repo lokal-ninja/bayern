@@ -3,7 +3,7 @@ type: node
 shop: Beschriftungen
 latitude: 49.5985415
 longitude: 11.0028536
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Dreikönigstraße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 47.948202300000005
 longitude: 12.182543200000001
-postcode: 83569
+postcode: "83569"
 city: Vogtareuth
 street: "Krankenhausstraße"
 housenumber: 4

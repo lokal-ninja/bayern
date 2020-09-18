@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.7881608
 longitude: 11.831977100000001
-postcode: 83714
+postcode: "83714"
 city: Miesbach
 street: "Marktplatz"
 housenumber: 7

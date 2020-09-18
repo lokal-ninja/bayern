@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.2498433
 longitude: 11.650392700000001
-postcode: 85748
+postcode: "85748"
 city: Garching bei München
 street: "Bürgerplatz"
 housenumber: 7

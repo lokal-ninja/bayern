@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.2818036
 longitude: 10.2638557
-postcode: 91583
+postcode: "91583"
 city: Schillingsfürst
 street: "Fischhausweg"
 housenumber: 22

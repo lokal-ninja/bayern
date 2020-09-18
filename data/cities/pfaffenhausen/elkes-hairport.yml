@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 48.119759
 longitude: 10.4611668
-postcode: 87772
+postcode: "87772"
 city: Pfaffenhausen
 street: "Frühlingstraße"
 housenumber: 16

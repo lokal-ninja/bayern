@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.596370400000005
 longitude: 11.007139700000002
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Untere Karlstraße"
 housenumber: 17

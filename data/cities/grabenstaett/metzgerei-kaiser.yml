@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 47.8436539
 longitude: 12.5424267
-postcode: 83355
+postcode: "83355"
 city: Grabenstätt
 street: "Marktplatz"
 housenumber: 6

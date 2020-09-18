@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.5495746
 longitude: 11.0295938
-postcode: 91058
+postcode: "91058"
 city: Erlangen
 street: "Im Gäßla"
 housenumber: 2

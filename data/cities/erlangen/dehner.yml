@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 49.5757227
 longitude: 10.9988826
-postcode: 91058
+postcode: "91058"
 city: Erlangen
 street: "Cumianastraße"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.1235482
 longitude: 11.5669473
-postcode: 
+postcode: ""
 city: München
 street: "Baldeplatz"
 housenumber: 1a

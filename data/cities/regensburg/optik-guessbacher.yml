@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.0169997
 longitude: 12.096381500000001
-postcode: 93047
+postcode: "93047"
 city: Regensburg
 street: "Malergasse"
 housenumber: 8

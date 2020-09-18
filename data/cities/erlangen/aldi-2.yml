@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.593413000000005
 longitude: 11.0189255
-postcode: 91052
+postcode: "91052"
 city: Erlangen
 street: "Henkestraße"
 housenumber: 92

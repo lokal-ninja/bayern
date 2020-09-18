@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 49.881827
 longitude: 12.3423618
-postcode: 95643
+postcode: "95643"
 city: Tirschenreuth
 street: "Johannisstraße"
 housenumber: 11

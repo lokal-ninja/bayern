@@ -3,7 +3,7 @@ type: way
 shop: Farben
 latitude: 48.4461961
 longitude: 11.141228700000001
-postcode: 86551
+postcode: "86551"
 city: Aichach
 street: "Werner-von-Siemens-Straße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.5619997
 longitude: 12.8184822
-postcode: 94424
+postcode: "94424"
 city: Arnstorf
 street: "Mariakirchener Straße"
 housenumber: 3

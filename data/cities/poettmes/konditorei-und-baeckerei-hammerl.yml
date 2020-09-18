@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.582276300000004
 longitude: 11.0893913
-postcode: 86554
+postcode: "86554"
 city: Pöttmes
 street: "Marktplatz"
 housenumber: 10

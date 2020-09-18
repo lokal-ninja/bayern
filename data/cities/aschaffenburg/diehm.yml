@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 49.9726792
 longitude: 9.1492801
-postcode: 63739
+postcode: "63739"
 city: Aschaffenburg
 street: "Wermbachstraße"
 housenumber: 38

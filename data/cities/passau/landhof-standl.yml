@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 48.5733466
 longitude: 13.457252800000001
-postcode: 94032
+postcode: "94032"
 city: Passau
 street: "Dr.-Hans-Kapfinger-Straße"
 housenumber: 1

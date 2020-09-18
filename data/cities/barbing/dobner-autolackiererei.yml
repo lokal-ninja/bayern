@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.003245500000006
 longitude: 12.2227797
-postcode: 93092
+postcode: "93092"
 city: Barbing
 street: "Gerstenweg"
 housenumber: 16

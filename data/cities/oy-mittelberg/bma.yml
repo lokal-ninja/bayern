@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 47.6295407
 longitude: 10.4632547
-postcode: 87466
+postcode: "87466"
 city: Oy-Mittelberg
 street: "Dorfstraße"
 housenumber: 23

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.2592124
 longitude: 10.235547200000001
-postcode: 91637
+postcode: "91637"
 city: Wörnitz
 street: "Bastenauer Straße"
 housenumber: 12

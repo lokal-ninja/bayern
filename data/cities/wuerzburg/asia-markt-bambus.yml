@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.797315600000005
 longitude: 9.9377058
-postcode: 97070
+postcode: "97070"
 city: Würzburg
 street: "Semmelstraße"
 housenumber: 36

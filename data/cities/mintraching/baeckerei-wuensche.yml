@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.9333132
 longitude: 12.2027145
-postcode: 93096
+postcode: "93096"
 city: Mintraching
 street: "Straßäcker"
 housenumber: 4

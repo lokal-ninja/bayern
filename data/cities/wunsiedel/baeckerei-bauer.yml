@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.0362779
 longitude: 12.0018609
-postcode: 95632
+postcode: "95632"
 city: Wunsiedel
 street: "Koppetentorstraße"
 housenumber: 14

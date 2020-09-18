@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 49.5622978
 longitude: 10.2991949
-postcode: 91478
+postcode: "91478"
 city: Markt Nordheim
 street: "Ulsenheim"
 housenumber: 120

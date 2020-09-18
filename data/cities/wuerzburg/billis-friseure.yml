@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.795992500000004
 longitude: 9.9272466
-postcode: 97070
+postcode: "97070"
 city: Würzburg
 street: "Karmelitenstraße"
 housenumber: 40

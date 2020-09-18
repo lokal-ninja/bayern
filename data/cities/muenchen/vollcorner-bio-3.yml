@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.1595091
 longitude: 11.544118500000002
-postcode: 80637
+postcode: "80637"
 city: München
 street: "Dom-Pedro-Straße"
 housenumber: 9b

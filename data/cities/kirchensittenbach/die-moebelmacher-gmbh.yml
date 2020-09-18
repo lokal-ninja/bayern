@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 49.5316459
 longitude: 11.4245946
-postcode: 91241
+postcode: "91241"
 city: Kirchensittenbach
 street: ""
 housenumber: 39

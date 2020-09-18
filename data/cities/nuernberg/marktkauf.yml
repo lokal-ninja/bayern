@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.421638800000004
 longitude: 11.031095200000001
-postcode: 90449
+postcode: "90449"
 city: Nürnberg
 street: "Dombühler Straße"
 housenumber: 9

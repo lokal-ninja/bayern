@@ -1,12 +1,12 @@
 id: 2343168267
 type: node
 shop: Lebensmittel
-latitude: 49.2037312
-longitude: 11.848810700000001
-postcode: 92366
+latitude: 49.2037575
+longitude: 11.848842900000001
+postcode: "92366"
 city: Hohenfels
 street: "Turmgasse"
 housenumber: 5
 phone: ""
-opening_hours: "06:45 - 12:00; 14:00 - 18:00"
+opening_hours: "Mo,Tu 06:45-12:00,14:00-18:00; We 06:45-12:00; Th,Fr 06:45-12:00,14:00-17:45; Sa 07:00-12:00"
 website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 47.875737300000004
 longitude: 11.710186
-postcode: 83607
+postcode: "83607"
 city: Holzkirchen
 street: "Miesbacher Straße"
 housenumber: 33

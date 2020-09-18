@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 49.9490399
 longitude: 12.2450013
-postcode: 95666
+postcode: "95666"
 city: Mitterteich
 street: "Martin-Zehendner-Straße"
 housenumber: 29

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.8623793
 longitude: 12.0061499
-postcode: 83043
+postcode: "83043"
 city: Bad Aibling
 street: "Bahnhofstraße"
 housenumber: 9

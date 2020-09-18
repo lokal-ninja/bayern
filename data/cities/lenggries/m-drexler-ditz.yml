@@ -3,7 +3,7 @@ type: way
 shop: Schreibwaren
 latitude: 47.6822584
 longitude: 11.576624800000001
-postcode: 83661
+postcode: "83661"
 city: Lenggries
 street: "Marktstraße"
 housenumber: 10

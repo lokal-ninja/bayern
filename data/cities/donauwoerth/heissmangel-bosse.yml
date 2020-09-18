@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 48.7153604
 longitude: 10.7510809
-postcode: 86609
+postcode: "86609"
 city: Donauwörth
 street: "Anemonenweg"
 housenumber: 2

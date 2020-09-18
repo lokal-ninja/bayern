@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.338932
 longitude: 10.8679211
-postcode: 86199
+postcode: "86199"
 city: Augsburg
 street: "Bürgermeister-Aurnhammer-Straße"
 housenumber: 28

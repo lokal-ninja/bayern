@@ -3,10 +3,10 @@ type: node
 shop: Fahrrad
 latitude: 47.911697700000005
 longitude: 11.281268
-postcode: 82327
+postcode: "82327"
 city: Tutzing
 street: "Hauptstraße"
-housenumber: 
+housenumber: 68
 phone: ""
 opening_hours: "Tu-Fr 08:30-12:30; Tu-Fr 14:30-18:00; Sa 09:00-12:30"
 website: ""

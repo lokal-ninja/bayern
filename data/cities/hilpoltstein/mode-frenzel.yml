@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 49.1880472
 longitude: 11.1928713
-postcode: 91161
+postcode: "91161"
 city: Hilpoltstein
 street: "Kolpingstraße"
 housenumber: 11

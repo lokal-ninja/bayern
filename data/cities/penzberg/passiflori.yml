@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.750035200000006
 longitude: 11.3745776
-postcode: 82377
+postcode: "82377"
 city: Penzberg
 street: "Bahnhofstraße"
 housenumber: 18

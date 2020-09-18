@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 50.199772100000004
 longitude: 10.075876000000001
-postcode: 97688
+postcode: "97688"
 city: Bad Kissingen
 street: "Marktplatz"
 housenumber: 3

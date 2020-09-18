@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.1623687
 longitude: 11.587456600000001
-postcode: 
+postcode: ""
 city: München
 street: "Haimhauserstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.4046402
 longitude: 10.598898700000001
-postcode: 86441
+postcode: "86441"
 city: Zusmarshausen
 street: "Römerstraße"
 housenumber: 1

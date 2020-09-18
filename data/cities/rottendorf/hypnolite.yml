@@ -3,7 +3,7 @@ type: node
 shop: Hypnose
 latitude: 49.7976681
 longitude: 10.0265178
-postcode: 97228
+postcode: "97228"
 city: Rottendorf
 street: "Am Pilzberg"
 housenumber: 1

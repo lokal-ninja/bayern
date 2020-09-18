@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 49.2033475
 longitude: 10.701723300000001
-postcode: 91732
+postcode: "91732"
 city: Merkendorf
 street: "Marktplatz"
 housenumber: 

@@ -3,7 +3,7 @@ type: way
 shop: Teppiche
 latitude: 47.8947932
 longitude: 10.640976
-postcode: 87600
+postcode: "87600"
 city: Kaufbeuren
 street: "Moosmangstraße"
 housenumber: 2

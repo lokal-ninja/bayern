@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.0310362
 longitude: 10.5416266
-postcode: 97437
+postcode: "97437"
 city: Haßfurt
 street: "Godelstatt"
 housenumber: 2

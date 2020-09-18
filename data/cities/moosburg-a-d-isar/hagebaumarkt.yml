@@ -3,9 +3,9 @@ type: node
 shop: Baumarkt
 latitude: 48.4723161
 longitude: 11.9665104
-postcode: 85368
+postcode: "85368"
 city: Moosburg a.d. Isar
-street: "Degernpoint"
+street: ""
 housenumber: C 1
 phone: ""
 opening_hours: ""

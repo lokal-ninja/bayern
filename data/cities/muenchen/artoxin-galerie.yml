@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 48.1340215
 longitude: 11.6012033
-postcode: 81675
+postcode: "81675"
 city: München
 street: "Kirchenstraße"
 housenumber: 23

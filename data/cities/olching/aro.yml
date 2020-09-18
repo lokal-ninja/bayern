@@ -3,7 +3,7 @@ type: node
 shop: Teppiche
 latitude: 48.1978225
 longitude: 11.326839000000001
-postcode: 82140
+postcode: "82140"
 city: Olching
 street: "Johann-G.-Gutenberg-Straße"
 housenumber: 37

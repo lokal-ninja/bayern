@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.8756457
 longitude: 12.5748981
-postcode: 94315
+postcode: "94315"
 city: Straubing
 street: "Hebbelstraße"
 housenumber: 14

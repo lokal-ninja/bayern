@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 48.539689100000004
 longitude: 12.1516569
-postcode: 84028
+postcode: "84028"
 city: Landshut
 street: "Isargestade"
 housenumber: 728

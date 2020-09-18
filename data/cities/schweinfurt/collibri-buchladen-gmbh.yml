@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 50.044750300000004
 longitude: 10.233945100000001
-postcode: 97421
+postcode: "97421"
 city: Schweinfurt
 street: "Markt"
 housenumber: 19

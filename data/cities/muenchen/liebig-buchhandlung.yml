@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.1407772
 longitude: 11.5920435
-postcode: 80538
+postcode: "80538"
 city: München
 street: "Liebigstraße"
 housenumber: 37

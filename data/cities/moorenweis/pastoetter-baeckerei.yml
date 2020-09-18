@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.165257200000006
 longitude: 11.0212587
-postcode: 82272
+postcode: "82272"
 city: Moorenweis
 street: "Sankt-Nikolaus-Straße"
 housenumber: 60

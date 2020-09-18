@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.8505253
 longitude: 12.092432800000001
-postcode: 83026
+postcode: "83026"
 city: Rosenheim
 street: "Grubholzer Straße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.5578592
 longitude: 10.850304600000001
-postcode: 86707
+postcode: "86707"
 city: Westendorf
 street: "Am Oberfeld"
 housenumber: 3

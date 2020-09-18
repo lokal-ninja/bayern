@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.1501613
 longitude: 11.5394713
-postcode: 80636
+postcode: "80636"
 city: München
 street: "Blutenburgstraße"
 housenumber: 98

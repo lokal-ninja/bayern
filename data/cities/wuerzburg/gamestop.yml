@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 49.798463500000004
 longitude: 9.934081800000001
-postcode: 97070
+postcode: "97070"
 city: Würzburg
 street: "Kaiserstraße"
 housenumber: 10

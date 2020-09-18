@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 50.480713300000005
 longitude: 10.180454600000001
-postcode: 97647
+postcode: "97647"
 city: Nordheim v.d. Rhön
 street: "Torwiesen"
 housenumber: 1

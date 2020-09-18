@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 48.1312143
 longitude: 11.627378700000001
-postcode: 81673
+postcode: "81673"
 city: München
 street: "Neumarkter Straße"
 housenumber: 74

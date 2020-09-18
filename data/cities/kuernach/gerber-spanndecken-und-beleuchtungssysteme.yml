@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 49.8455408
 longitude: 10.0450572
-postcode: 97273
+postcode: "97273"
 city: Kürnach
 street: "Friedrich-Ebert-Straße"
 housenumber: 16

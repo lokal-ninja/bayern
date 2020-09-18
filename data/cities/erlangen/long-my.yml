@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.5948317
 longitude: 11.0056718
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Südliche Stadtmauerstraße"
 housenumber: 16

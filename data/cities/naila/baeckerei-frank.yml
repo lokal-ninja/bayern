@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.3293399
 longitude: 11.7060993
-postcode: 95119
+postcode: "95119"
 city: Naila
 street: "Weststraße"
 housenumber: 14

@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 49.4402028
 longitude: 10.961484
-postcode: 90513
+postcode: "90513"
 city: Zirndorf
 street: "Nürnberger Straße"
 housenumber: 31

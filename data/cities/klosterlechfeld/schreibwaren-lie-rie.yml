@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 48.1585466
 longitude: 10.832101600000001
-postcode: 86836
+postcode: "86836"
 city: Klosterlechfeld
 street: "Bayernstraße"
 housenumber: 3

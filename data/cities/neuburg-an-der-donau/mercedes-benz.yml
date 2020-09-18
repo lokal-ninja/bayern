@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.727603200000004
 longitude: 11.200590100000001
-postcode: 86633
+postcode: "86633"
 city: Neuburg an der Donau
 street: "Münchener Straße"
 housenumber: 134

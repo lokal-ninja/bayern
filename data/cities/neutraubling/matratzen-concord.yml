@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 48.9927441
 longitude: 12.1973762
-postcode: 93073
+postcode: "93073"
 city: Neutraubling
 street: "Schlesische Straße"
 housenumber: 43

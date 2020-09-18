@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 49.956972300000004
 longitude: 11.602725900000001
-postcode: 95448
+postcode: "95448"
 city: Bayreuth
 street: "Sophian-Kolb-Straße"
 housenumber: 12

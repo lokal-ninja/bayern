@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 49.7950048
 longitude: 9.913178
-postcode: 97082
+postcode: "97082"
 city: Würzburg
 street: "Frankfurter Straße"
 housenumber: 22

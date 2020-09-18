@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.089375600000004
 longitude: 11.299459500000001
-postcode: 91171
+postcode: "91171"
 city: Greding
 street: "Zum Sommerkeller"
 housenumber: 2

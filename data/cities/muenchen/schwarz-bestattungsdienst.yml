@@ -3,10 +3,10 @@ type: node
 shop: Bestattungen
 latitude: 48.101395000000004
 longitude: 11.630352400000001
-postcode: 81737
+postcode: "81737"
 city: München
 street: "Pfanzeltplatz"
 housenumber: 17
 phone: ""
-opening_hours: ""
+opening_hours: "Dieses Büro ist zur Zeit nicht besetzt"
 website: ""

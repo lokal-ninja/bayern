@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.1754376
 longitude: 10.7506544
-postcode: 86830
+postcode: "86830"
 city: Schwabmünchen
 street: "Mindelheimer Straße"
 housenumber: 43

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.0956878
 longitude: 11.4955601
-postcode: 
+postcode: ""
 city: München
 street: "Winterthurer Straße"
 housenumber: 3

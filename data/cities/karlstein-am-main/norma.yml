@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.0445794
 longitude: 9.026399300000001
-postcode: 63791
+postcode: "63791"
 city: Karlstein am Main
 street: "Schubertstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.998975400000006
 longitude: 11.1807507
-postcode: 82211
+postcode: "82211"
 city: Herrsching am Ammersee
 street: "Luitpoldstraße"
 housenumber: 20

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.1466756
 longitude: 11.594475200000002
-postcode: 80538
+postcode: "80538"
 city: München
 street: "Emil-Riedel-Straße"
 housenumber: 9

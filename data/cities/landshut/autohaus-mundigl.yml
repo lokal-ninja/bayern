@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.550444600000006
 longitude: 12.1526692
-postcode: 84030
+postcode: "84030"
 city: Landshut
 street: "Ottostraße"
 housenumber: 15

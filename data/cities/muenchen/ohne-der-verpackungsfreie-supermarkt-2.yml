@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.1507737
 longitude: 11.5745763
-postcode: 80799
+postcode: "80799"
 city: München
 street: "Schellingstraße"
 housenumber: 42

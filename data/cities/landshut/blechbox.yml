@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 48.5385926
 longitude: 12.1539826
-postcode: 84028
+postcode: "84028"
 city: Landshut
 street: "Heilig-Geist-Gasse"
 housenumber: 416

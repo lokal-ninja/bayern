@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 49.058260800000006
 longitude: 12.1312981
-postcode: 93057
+postcode: "93057"
 city: Regensburg
 street: "Kulmbacher Straße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 48.5586956
 longitude: 11.2650021
-postcode: 86529
+postcode: "86529"
 city: Schrobenhausen
 street: "Bürgermeister-Stocker-Ring"
 housenumber: 51

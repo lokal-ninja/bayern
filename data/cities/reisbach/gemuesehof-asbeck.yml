@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.5624848
 longitude: 12.681224400000001
-postcode: 94419
+postcode: "94419"
 city: Reisbach
 street: ""
 housenumber: 18

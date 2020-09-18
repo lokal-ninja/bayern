@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 49.1827333
 longitude: 11.1816124
-postcode: 91161
+postcode: "91161"
 city: Hilpoltstein
 street: "Dieselstraße"
 housenumber: 10

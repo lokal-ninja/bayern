@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.4361205
 longitude: 10.0523586
-postcode: 89275
+postcode: "89275"
 city: Elchingen
 street: "Donaustraße"
 housenumber: 10

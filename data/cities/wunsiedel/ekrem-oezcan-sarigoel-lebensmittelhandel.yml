@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 50.0375816
 longitude: 12.0011492
-postcode: 95632
+postcode: "95632"
 city: Wunsiedel
 street: "Maximilianstraße"
 housenumber: 18

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.193043800000005
 longitude: 11.6185215
-postcode: 80939
+postcode: "80939"
 city: München
 street: "Situlistraße"
 housenumber: 56

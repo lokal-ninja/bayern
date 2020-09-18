@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 48.1207058
 longitude: 11.599802700000001
-postcode: 81541
+postcode: "81541"
 city: München
 street: "Balanstraße"
 housenumber: 69

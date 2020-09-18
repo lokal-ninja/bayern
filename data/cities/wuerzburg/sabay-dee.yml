@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 49.802407
 longitude: 9.9441789
-postcode: 97080
+postcode: "97080"
 city: Würzburg
 street: "Brücknerstraße"
 housenumber: 8a

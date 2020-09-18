@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 49.501400700000005
 longitude: 11.279027500000002
-postcode: 91207
+postcode: "91207"
 city: Lauf a.d.Pegnitz
 street: "Oskar-Sembach-Ring"
 housenumber: 11

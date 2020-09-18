@@ -3,7 +3,7 @@ type: node
 shop: Hüte
 latitude: 50.047835000000006
 longitude: 10.232049100000001
-postcode: 97421
+postcode: "97421"
 city: Schweinfurt
 street: "Kornmarkt"
 housenumber: 11

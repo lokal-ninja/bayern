@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.9790099
 longitude: 11.4580172
-postcode: 82067
+postcode: "82067"
 city: Schäftlarn
 street: "Rodelweg"
 housenumber: 7b

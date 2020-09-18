@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.648321700000004
 longitude: 10.2978273
-postcode: 89428
+postcode: "89428"
 city: Syrgenstein
 street: "Taläcker"
 housenumber: 2

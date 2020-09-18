@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 48.3554444
 longitude: 10.9233548
-postcode: 86161
+postcode: "86161"
 city: Augsburg
 street: "Wilhelm-Hauff-Straße"
 housenumber: 28

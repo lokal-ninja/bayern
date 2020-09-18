@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.3999413
 longitude: 12.7642187
-postcode: 84307
+postcode: "84307"
 city: Eggenfelden
 street: "Öttinger Straße"
 housenumber: 23

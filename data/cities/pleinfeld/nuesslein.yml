@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 49.1051731
 longitude: 10.9856815
-postcode: 91785
+postcode: "91785"
 city: Pleinfeld
 street: "Marktplatz"
 housenumber: 3

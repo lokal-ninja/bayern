@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 48.367788700000006
 longitude: 12.514014900000001
-postcode: 84494
+postcode: "84494"
 city: Neumarkt-Sankt Veit
 street: "Ludwig-Ganghofer-Straße"
 housenumber: 18

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.2592243
 longitude: 12.5837508
-postcode: 84513
+postcode: "84513"
 city: Töging a. Inn
 street: "Erhartinger Straße"
 housenumber: 27

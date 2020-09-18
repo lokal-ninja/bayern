@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 49.935779200000006
 longitude: 11.412742600000001
-postcode: 95488
+postcode: "95488"
 city: Eckersdorf
 street: ""
 housenumber: 1b

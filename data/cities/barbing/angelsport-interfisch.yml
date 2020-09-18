@@ -3,7 +3,7 @@ type: way
 shop: Outdoor
 latitude: 49.001329000000005
 longitude: 12.220236100000001
-postcode: 93092
+postcode: "93092"
 city: Barbing
 street: "Dinkelweg"
 housenumber: 4

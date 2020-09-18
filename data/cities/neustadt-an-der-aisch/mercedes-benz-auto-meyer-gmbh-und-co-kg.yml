@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.5788225
 longitude: 10.588795900000001
-postcode: 91413
+postcode: "91413"
 city: Neustadt an der Aisch
 street: "Karl-Eibl-Straße"
 housenumber: 30

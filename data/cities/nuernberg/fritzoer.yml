@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.450302
 longitude: 11.0673782
-postcode: 90402
+postcode: "90402"
 city: Nürnberg
 street: "Schlotfegergasse"
 housenumber: 12

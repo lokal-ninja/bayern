@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.162858400000005
 longitude: 11.574833100000001
-postcode: 
+postcode: ""
 city: München
 street: "Belgradstraße"
 housenumber: 18

@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.113527700000006
 longitude: 11.4761015
-postcode: 81377
+postcode: "81377"
 city: München
 street: "Sauerbruchstraße"
 housenumber: 10

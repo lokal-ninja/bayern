@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 47.8494089
 longitude: 11.595319
-postcode: 83623
+postcode: "83623"
 city: Dietramszell
 street: "Am Richteranger"
 housenumber: 2

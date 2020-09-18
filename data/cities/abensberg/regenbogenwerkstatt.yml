@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 48.8153195
 longitude: 11.845392
-postcode: 93326
+postcode: "93326"
 city: Abensberg
 street: "Babostraße"
 housenumber: 2

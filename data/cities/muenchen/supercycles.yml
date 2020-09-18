@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.126442600000004
 longitude: 11.6739034
-postcode: 81829
+postcode: "81829"
 city: München
 street: "Am Mitterfeld"
 housenumber: 3

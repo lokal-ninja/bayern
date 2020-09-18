@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.3191398
 longitude: 10.206976300000001
-postcode: 97616
+postcode: "97616"
 city: Bad Neustadt an der Saale
 street: "Saalestraße"
 housenumber: 54

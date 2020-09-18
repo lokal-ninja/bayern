@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 48.527169300000004
 longitude: 11.517392000000001
-postcode: 85276
+postcode: "85276"
 city: Pfaffenhofen a.d. Ilm
 street: "Schlichtstraße"
 housenumber: 11

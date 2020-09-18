@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.5642876
 longitude: 12.1657569
-postcode: 84030
+postcode: "84030"
 city: Ergolding
 street: "Industriestraße"
 housenumber: 9

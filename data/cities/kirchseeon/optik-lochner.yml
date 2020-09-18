@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.0700805
 longitude: 11.890097
-postcode: 85614
+postcode: "85614"
 city: Kirchseeon
 street: "Marktplatz"
 housenumber: 23

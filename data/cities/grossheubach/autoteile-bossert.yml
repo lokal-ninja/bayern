@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 49.7141716
 longitude: 9.239929400000001
-postcode: 63920
+postcode: "63920"
 city: Großheubach
 street: "Auweg"
 housenumber: 23c

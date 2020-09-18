@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 48.2113208
 longitude: 11.334404600000001
-postcode: 82140
+postcode: "82140"
 city: Olching
 street: "Feursstraße"
 housenumber: 13d

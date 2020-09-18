@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.6934825
 longitude: 12.2036777
-postcode: 84061
+postcode: "84061"
 city: Ergoldsbach
 street: "Hauptstraße"
 housenumber: 46

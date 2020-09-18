@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.440536300000005
 longitude: 11.053757500000001
-postcode: 90439
+postcode: "90439"
 city: Nürnberg
 street: "Schwabacher Straße"
 housenumber: 42

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.9617863
 longitude: 12.593353700000002
-postcode: 83301
+postcode: "83301"
 city: Traunreut
 street: "Rathausplatz"
 housenumber: 9

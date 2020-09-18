@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.9971576
 longitude: 11.511041
-postcode: 82064
+postcode: "82064"
 city: Straßlach-Dingharting
 street: "Gewerbestraße"
 housenumber: 1

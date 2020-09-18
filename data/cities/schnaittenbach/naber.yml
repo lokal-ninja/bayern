@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.5455856
 longitude: 12.0081097
-postcode: 92253
+postcode: "92253"
 city: Schnaittenbach
 street: "Dr.-Martin-Winkler-Straße"
 housenumber: 14

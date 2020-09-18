@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.840575400000006
 longitude: 13.3369794
-postcode: 94513
+postcode: "94513"
 city: Schönberg
 street: "Marktplatz"
 housenumber: 1

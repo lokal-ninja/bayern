@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 47.5505622
 longitude: 9.7210149
-postcode: 88131
+postcode: "88131"
 city: Lindau (Bodensee)
 street: "Von-Behring-Straße"
 housenumber: 1

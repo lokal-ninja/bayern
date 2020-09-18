@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.2516527
 longitude: 11.6225553
-postcode: 92355
+postcode: "92355"
 city: Velburg
 street: "Lengenfelder Straße"
 housenumber: 8

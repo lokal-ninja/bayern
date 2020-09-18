@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.1568963
 longitude: 11.584811
-postcode: 
+postcode: ""
 city: München
 street: "Leopoldstraße"
 housenumber: 42

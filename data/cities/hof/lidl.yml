@@ -1,12 +1,12 @@
-id: 6601897131
-type: node
+id: 30670142
+type: way
 shop: Supermarkt
-latitude: 50.3257604
-longitude: 11.900691100000001
-postcode: 95030
+latitude: 50.3044372
+longitude: 11.917965200000001
+postcode: "95032"
 city: Hof
-street: "Leopoldstraße"
-housenumber: 14
+street: "Wunsiedler Straße"
+housenumber: 4
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 08:00-20:00"
 website: ""

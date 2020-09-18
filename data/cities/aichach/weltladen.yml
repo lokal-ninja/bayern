@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 48.458583700000005
 longitude: 11.1294214
-postcode: 86551
+postcode: "86551"
 city: Aichach
 street: "Schloßplatz"
 housenumber: 1

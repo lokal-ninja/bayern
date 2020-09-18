@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.189824
 longitude: 11.1916533
-postcode: 91161
+postcode: "91161"
 city: Hilpoltstein
 street: "Zwingerstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.982440100000005
 longitude: 11.6978577
-postcode: 85649
+postcode: "85649"
 city: Brunnthal
 street: "An der Weindl-Wiesn"
 housenumber: 2

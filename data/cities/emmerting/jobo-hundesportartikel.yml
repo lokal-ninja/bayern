@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 48.197766200000004
 longitude: 12.7631276
-postcode: 84547
+postcode: "84547"
 city: Emmerting
 street: "Obere Dorfstraße"
 housenumber: 7

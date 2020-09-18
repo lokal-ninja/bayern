@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.125482500000004
 longitude: 11.445327800000001
-postcode: 82166
+postcode: "82166"
 city: Gräfelfing
 street: "Lochhamer Straße"
 housenumber: 6

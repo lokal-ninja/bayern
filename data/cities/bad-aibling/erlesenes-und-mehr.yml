@@ -3,7 +3,7 @@ type: node
 shop: Tee
 latitude: 47.864213400000004
 longitude: 12.0111789
-postcode: 83043
+postcode: "83043"
 city: Bad Aibling
 street: "Kirchzeile"
 housenumber: 6

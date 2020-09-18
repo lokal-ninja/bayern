@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 50.03645890000001
 longitude: 10.2347772
-postcode: 97424
+postcode: "97424"
 city: Schweinfurt
 street: "Carl-Zeiss-Straße"
 housenumber: 16

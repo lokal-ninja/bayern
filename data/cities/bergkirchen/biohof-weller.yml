@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.2551459
 longitude: 11.3616229
-postcode: 85232
+postcode: "85232"
 city: Bergkirchen
 street: "Mühlstraße"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.5095899
 longitude: 11.428637100000001
-postcode: 91217
+postcode: "91217"
 city: Hersbruck
 street: "Oberer Markt"
 housenumber: 12

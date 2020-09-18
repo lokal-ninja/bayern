@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 48.1338895
 longitude: 11.658352200000001
-postcode: 81829
+postcode: "81829"
 city: München
 street: "Am Moosfeld"
 housenumber: 18a

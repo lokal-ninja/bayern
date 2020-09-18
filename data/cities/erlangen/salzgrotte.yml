@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.595601300000006
 longitude: 11.0106453
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Südliche Stadtmauerstraße"
 housenumber: 56

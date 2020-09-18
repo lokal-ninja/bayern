@@ -3,9 +3,9 @@ type: node
 shop: Autoteile
 latitude: 48.471767400000004
 longitude: 11.9653012
-postcode: 85368
+postcode: "85368"
 city: Moosburg a.d. Isar
-street: "Degernpoint"
+street: ""
 housenumber: B 2
 phone: ""
 opening_hours: ""

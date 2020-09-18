@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 48.4619316
 longitude: 11.279539900000001
-postcode: 86576
+postcode: "86576"
 city: Schiltberg
 street: "Rutmarstraße"
 housenumber: 16

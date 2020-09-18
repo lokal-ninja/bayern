@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.8727498
 longitude: 12.954998900000001
-postcode: 83416
+postcode: "83416"
 city: Saaldorf-Surheim
 street: "Helfau"
 housenumber: 4

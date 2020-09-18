@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.4412827
 longitude: 11.010021400000001
-postcode: 90431
+postcode: "90431"
 city: Nürnberg
 street: "Rothenburger Straße"
 housenumber: 482a

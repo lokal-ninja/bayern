@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.2812428
 longitude: 12.145092
-postcode: 84405
+postcode: "84405"
 city: Dorfen
 street: "Ludwig-Mertl-Straße"
 housenumber: 1

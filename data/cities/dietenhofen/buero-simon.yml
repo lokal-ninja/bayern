@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 49.4006412
 longitude: 10.688995400000001
-postcode: 90599
+postcode: "90599"
 city: Dietenhofen
 street: "Herrenstraße"
 housenumber: 17

@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 49.3029537
 longitude: 10.5685043
-postcode: 91522
+postcode: "91522"
 city: Ansbach
 street: "Martin-Luther-Platz"
 housenumber: 48

@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.1282732
 longitude: 11.365594900000001
-postcode: 82110
+postcode: "82110"
 city: Germering
 street: "Untere Bahnhofstraße"
 housenumber: 52

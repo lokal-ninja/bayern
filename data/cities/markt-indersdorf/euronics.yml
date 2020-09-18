@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 48.3493092
 longitude: 11.371430700000001
-postcode: 85229
+postcode: "85229"
 city: Markt Indersdorf
 street: "Lorenz-Braren-Straße"
 housenumber: 30

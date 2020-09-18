@@ -3,7 +3,7 @@ type: node
 shop: Schreinerei
 latitude: 49.602718900000006
 longitude: 11.002805500000001
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Lazarettstraße"
 housenumber: 8

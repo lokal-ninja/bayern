@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 47.842791500000004
 longitude: 12.9669427
-postcode: 83395
+postcode: "83395"
 city: Freilassing
 street: "Sägewerkstraße"
 housenumber: 18

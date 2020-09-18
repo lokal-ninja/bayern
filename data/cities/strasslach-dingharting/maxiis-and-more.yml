@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 48.005033000000005
 longitude: 11.5140317
-postcode: 82064
+postcode: "82064"
 city: Straßlach-Dingharting
 street: "Grünwalder Straße"
 housenumber: 3

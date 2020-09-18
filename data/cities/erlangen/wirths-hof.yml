@@ -3,10 +3,10 @@ type: node
 shop: Hofladen
 latitude: 49.626983100000004
 longitude: 10.9378276
-postcode: 91056
+postcode: "91056"
 city: Erlangen
 street: "Brühl"
 housenumber: 2
 phone: ""
 opening_hours: "09:00-20:00"
-website: ""
+website: "www.wirths-hof.de"

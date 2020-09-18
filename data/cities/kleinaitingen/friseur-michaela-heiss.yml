@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.220890700000005
 longitude: 10.8430586
-postcode: 86507
+postcode: "86507"
 city: Kleinaitingen
 street: "Frühlingstraße"
 housenumber: 53

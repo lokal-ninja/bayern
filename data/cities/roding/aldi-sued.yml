@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.202020700000006
 longitude: 12.525924300000002
-postcode: 93426
+postcode: "93426"
 city: Roding
 street: "Kagerstraße"
 housenumber: 2

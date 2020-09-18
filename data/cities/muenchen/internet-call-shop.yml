@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 48.1523963
 longitude: 11.565259000000001
-postcode: 
+postcode: ""
 city: München
 street: "Augustenstraße"
 housenumber: 96

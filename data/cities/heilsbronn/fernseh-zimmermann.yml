@@ -3,7 +3,7 @@ type: way
 shop: Hifi
 latitude: 49.3378444
 longitude: 10.7893249
-postcode: 91560
+postcode: "91560"
 city: Heilsbronn
 street: "Spitalgasse"
 housenumber: 1

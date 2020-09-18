@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.4116804
 longitude: 11.171544
-postcode: 90475
+postcode: "90475"
 city: Nürnberg
 street: "Löwenberger Straße"
 housenumber: 143

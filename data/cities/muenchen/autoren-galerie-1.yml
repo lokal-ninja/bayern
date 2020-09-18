@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 48.16332370000001
 longitude: 11.5777359
-postcode: 80803
+postcode: "80803"
 city: München
 street: "Pündterplatz"
 housenumber: 6

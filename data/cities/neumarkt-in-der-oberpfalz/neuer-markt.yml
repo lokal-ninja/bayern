@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 49.283154200000006
 longitude: 11.4559701
-postcode: 92318
+postcode: "92318"
 city: Neumarkt in der Oberpfalz
 street: "Dammstraße"
 housenumber: 1

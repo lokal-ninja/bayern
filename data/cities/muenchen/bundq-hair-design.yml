@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.156672400000005
 longitude: 11.5660264
-postcode: 80798
+postcode: "80798"
 city: München
 street: "Hiltenspergerstraße"
 housenumber: 8

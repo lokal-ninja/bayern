@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.672727200000004
 longitude: 10.151207000000001
-postcode: 97340
+postcode: "97340"
 city: Marktbreit
 street: "Mainleite"
 housenumber: 1

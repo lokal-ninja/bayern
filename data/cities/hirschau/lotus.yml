@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 49.542999900000005
 longitude: 11.9477367
-postcode: 92242
+postcode: "92242"
 city: Hirschau
 street: "Georg-Schiffer-Straße"
 housenumber: 18

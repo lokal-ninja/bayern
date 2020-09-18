@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 49.9762063
 longitude: 11.615596400000001
-postcode: 95463
+postcode: "95463"
 city: Bindlach
 street: "Lehengraben"
 housenumber: 20

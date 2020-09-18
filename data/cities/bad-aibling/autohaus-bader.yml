@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.8669602
 longitude: 11.9997442
-postcode: 83043
+postcode: "83043"
 city: Bad Aibling
 street: "Westendstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 50.255178
 longitude: 11.3956722
-postcode: 96364
+postcode: "96364"
 city: Marktrodach
 street: "Im Gries"
 housenumber: 2

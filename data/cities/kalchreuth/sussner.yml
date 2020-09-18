@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.5569209
 longitude: 11.1317255
-postcode: 90562
+postcode: "90562"
 city: Kalchreuth
 street: "Erlanger Straße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.5867232
 longitude: 10.5154008
-postcode: 89407
+postcode: "89407"
 city: Dillingen a.d.Donau
 street: "Rudolf-Diesel-Straße"
 housenumber: 10

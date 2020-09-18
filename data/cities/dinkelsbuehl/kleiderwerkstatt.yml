@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.069560800000005
 longitude: 10.321116700000001
-postcode: 91550
+postcode: "91550"
 city: Dinkelsbühl
 street: "Altrathausplatz"
 housenumber: 5

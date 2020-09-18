@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 49.3013096
 longitude: 10.5721307
-postcode: 91522
+postcode: "91522"
 city: Ansbach
 street: "Neustadt"
 housenumber: 5

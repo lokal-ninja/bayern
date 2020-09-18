@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 49.5091113
 longitude: 11.4285133
-postcode: 91217
+postcode: "91217"
 city: Hersbruck
 street: "Oberer Markt"
 housenumber: 9

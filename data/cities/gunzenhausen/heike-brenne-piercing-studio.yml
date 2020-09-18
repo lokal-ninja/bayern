@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 49.1134958
 longitude: 10.756488300000001
-postcode: 91710
+postcode: "91710"
 city: Gunzenhausen
 street: "Hafnermarkt"
 housenumber: 16a

@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.7172466
 longitude: 10.7814516
-postcode: 86609
+postcode: "86609"
 city: Donauwörth
 street: "Kapellstraße"
 housenumber: 5

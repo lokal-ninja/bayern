@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 49.5984252
 longitude: 11.0028953
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Dreikönigstraße"
 housenumber: 3

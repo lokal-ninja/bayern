@@ -3,7 +3,7 @@ type: node
 shop: Gartenmaschinen
 latitude: 49.0568893
 longitude: 12.9674467
-postcode: 94244
+postcode: "94244"
 city: Geiersthal
 street: "Geiersthaler Straße"
 housenumber: 9

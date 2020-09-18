@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.0760317
 longitude: 11.6626115
-postcode: 85579
+postcode: "85579"
 city: Neubiberg
 street: "Hauptstraße"
 housenumber: 8

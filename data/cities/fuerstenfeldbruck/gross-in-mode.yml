@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.1773607
 longitude: 11.252814800000001
-postcode: 82256
+postcode: "82256"
 city: Fürstenfeldbruck
 street: "Viehmarktstraße"
 housenumber: 1

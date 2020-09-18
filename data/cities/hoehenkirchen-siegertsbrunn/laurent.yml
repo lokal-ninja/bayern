@@ -3,7 +3,7 @@ type: node
 shop: Farben
 latitude: 48.020053700000005
 longitude: 11.722894700000001
-postcode: 85635
+postcode: "85635"
 city: Höhenkirchen-Siegertsbrunn
 street: "Ahornstraße"
 housenumber: 1

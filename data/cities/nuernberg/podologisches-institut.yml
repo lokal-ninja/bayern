@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.4668513
 longitude: 11.161121600000001
-postcode: 90482
+postcode: "90482"
 city: Nürnberg
 street: "Winner Zeile"
 housenumber: 24

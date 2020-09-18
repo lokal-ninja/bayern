@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.3935613
 longitude: 10.694942600000001
-postcode: 86497
+postcode: "86497"
 city: Horgau
 street: "Augsburger Straße"
 housenumber: 16

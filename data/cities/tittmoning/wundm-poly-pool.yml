@@ -3,7 +3,7 @@ type: way
 shop: Pool
 latitude: 48.0232095
 longitude: 12.7708829
-postcode: 84529
+postcode: "84529"
 city: Tittmoning
 street: "Am Brüstfeld"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.258527900000004
 longitude: 10.9642526
-postcode: 96450
+postcode: "96450"
 city: Coburg
 street: "Markt"
 housenumber: 8

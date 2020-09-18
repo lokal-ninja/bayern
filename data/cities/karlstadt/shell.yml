@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.9533459
 longitude: 9.7746562
-postcode: 97753
+postcode: "97753"
 city: Karlstadt
 street: "Würzburger Straße"
 housenumber: 22

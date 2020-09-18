@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 47.8651634
 longitude: 12.009806000000001
-postcode: 83043
+postcode: "83043"
 city: Bad Aibling
 street: "Färbergasse"
 housenumber: 8

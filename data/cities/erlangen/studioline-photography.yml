@@ -3,7 +3,7 @@ type: way
 shop: Foto
 latitude: 49.593120400000004
 longitude: 11.0037179
-postcode: 91052
+postcode: "91052"
 city: Erlangen
 street: "Nürnberger Straße"
 housenumber: 7

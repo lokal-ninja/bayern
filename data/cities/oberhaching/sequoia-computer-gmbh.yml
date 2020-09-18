@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 48.019945400000005
 longitude: 11.5902849
-postcode: 82041
+postcode: "82041"
 city: Oberhaching
 street: "Karlstraße"
 housenumber: 8a

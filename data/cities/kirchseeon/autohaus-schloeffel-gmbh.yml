@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.0821886
 longitude: 11.854643600000001
-postcode: 85614
+postcode: "85614"
 city: Kirchseeon
 street: "Westring"
 housenumber: 2

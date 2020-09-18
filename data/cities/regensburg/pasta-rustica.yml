@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 49.0181824
 longitude: 12.0914167
-postcode: 93047
+postcode: "93047"
 city: Regensburg
 street: "Am Ölberg"
 housenumber: 5

@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 48.582419
 longitude: 11.0899721
-postcode: 86554
+postcode: "86554"
 city: Pöttmes
 street: "Marktplatz"
 housenumber: 8

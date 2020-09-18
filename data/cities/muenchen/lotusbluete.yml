@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.1516882
 longitude: 11.561869600000001
-postcode: 80333
+postcode: "80333"
 city: München
 street: "Theresienstraße"
 housenumber: 81

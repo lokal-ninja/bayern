@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.0652771
 longitude: 11.3786196
-postcode: 82131
+postcode: "82131"
 city: Gauting
 street: "Starnberger Straße"
 housenumber: 18

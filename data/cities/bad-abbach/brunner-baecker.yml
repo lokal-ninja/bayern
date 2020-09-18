@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.934859
 longitude: 12.0397061
-postcode: 93077
+postcode: "93077"
 city: Bad Abbach
 street: "Am Markt"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.302781
 longitude: 10.1603493
-postcode: 89264
+postcode: "89264"
 city: Weißenhorn
 street: "Memminger Straße"
 housenumber: 11

@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 48.1169664
 longitude: 11.5302939
-postcode: 81369
+postcode: "81369"
 city: München
 street: "Albert-Roßhaupter-Straße"
 housenumber: 64

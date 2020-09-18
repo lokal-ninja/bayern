@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.69584690000001
 longitude: 10.9306786
-postcode: 86641
+postcode: "86641"
 city: Rain
 street: "Mittelstetter Straße"
 housenumber: 1

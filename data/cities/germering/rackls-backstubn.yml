@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.129950300000004
 longitude: 11.3604371
-postcode: 82110
+postcode: "82110"
 city: Germering
 street: "Obere Bahnhofstraße"
 housenumber: 43

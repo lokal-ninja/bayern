@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 49.8134517
 longitude: 9.9801395
-postcode: 97076
+postcode: "97076"
 city: Würzburg
 street: "Industriestraße"
 housenumber: 13

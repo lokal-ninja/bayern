@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 48.714672
 longitude: 11.4773922
-postcode: 85077
+postcode: "85077"
 city: Manching
 street: "Mitterstraße"
 housenumber: 12

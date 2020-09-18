@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 47.560642300000005
 longitude: 9.7034195
-postcode: 88131
+postcode: "88131"
 city: Lindau (Bodensee)
 street: "Kemptener Straße"
 housenumber: 72

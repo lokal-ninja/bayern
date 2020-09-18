@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.915124500000005
 longitude: 12.4370835
-postcode: 83257
+postcode: "83257"
 city: Gstadt am Chiemsee
 street: "Kirchplatz"
 housenumber: 7

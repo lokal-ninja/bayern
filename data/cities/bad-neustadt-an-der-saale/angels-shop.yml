@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 50.322878100000004
 longitude: 10.215649
-postcode: 97616
+postcode: "97616"
 city: Bad Neustadt an der Saale
 street: "Marktplatz"
 housenumber: 25

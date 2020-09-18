@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 49.3456388
 longitude: 11.1257119
-postcode: 90530
+postcode: "90530"
 city: Wendelstein
 street: "Bierweg"
 housenumber: 29

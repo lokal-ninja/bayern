@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.6634011
 longitude: 11.024919800000001
-postcode: 82442
+postcode: "82442"
 city: Saulgrub
 street: "Ammergauer Straße"
 housenumber: 34

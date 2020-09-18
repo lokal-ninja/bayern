@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 50.347834600000006
 longitude: 10.0076155
-postcode: 97657
+postcode: "97657"
 city: Sandberg
 street: "Kreuzbergstraße"
 housenumber: 43

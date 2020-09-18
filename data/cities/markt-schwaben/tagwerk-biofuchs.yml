@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.1901559
 longitude: 11.8517553
-postcode: 85570
+postcode: "85570"
 city: Markt Schwaben
 street: "Wiegenfeldring"
 housenumber: 7

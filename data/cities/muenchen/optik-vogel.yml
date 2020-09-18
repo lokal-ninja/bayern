@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.142020200000005
 longitude: 11.614983500000001
-postcode: 81677
+postcode: "81677"
 city: München
 street: "Richard-Strauss-Straße"
 housenumber: 33

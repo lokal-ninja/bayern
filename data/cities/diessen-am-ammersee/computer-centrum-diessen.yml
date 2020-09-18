@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 47.948123700000004
 longitude: 11.1053095
-postcode: 86911
+postcode: "86911"
 city: Dießen am Ammersee
 street: "Fischerei"
 housenumber: 13

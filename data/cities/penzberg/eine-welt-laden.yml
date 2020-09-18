@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.753079400000004
 longitude: 11.377386000000001
-postcode: 82377
+postcode: "82377"
 city: Penzberg
 street: "Sigmundstraße"
 housenumber: 16

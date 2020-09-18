@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.2416454
 longitude: 12.683671400000001
-postcode: 84524
+postcode: "84524"
 city: Neuötting
 street: "Ludwigstraße"
 housenumber: 13

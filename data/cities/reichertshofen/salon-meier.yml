@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.6594921
 longitude: 11.4668688
-postcode: 85084
+postcode: "85084"
 city: Reichertshofen
 street: "Herzog-Heinrich-Platz"
 housenumber: 2

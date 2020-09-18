@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.507220000000004
 longitude: 11.2740378
-postcode: 91207
+postcode: "91207"
 city: Lauf a.d.Pegnitz
 street: "Kupfergartenstraße"
 housenumber: 12

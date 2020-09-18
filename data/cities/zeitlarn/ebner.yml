@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.0766876
 longitude: 12.1079752
-postcode: 93197
+postcode: "93197"
 city: Zeitlarn
 street: "Hauptstraße"
 housenumber: 21

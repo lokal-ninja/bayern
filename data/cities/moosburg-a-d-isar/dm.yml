@@ -3,9 +3,9 @@ type: node
 shop: Drogerie
 latitude: 48.470339800000005
 longitude: 11.963188500000001
-postcode: 85368
+postcode: "85368"
 city: Moosburg a.d. Isar
-street: "Degernpoint"
+street: ""
 housenumber: S 2
 phone: ""
 opening_hours: ""

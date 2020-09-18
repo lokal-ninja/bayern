@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 48.307810700000005
 longitude: 11.9125507
-postcode: 85435
+postcode: "85435"
 city: Erding
 street: "Landshuter Straße"
 housenumber: 45

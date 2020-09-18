@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 48.1295081
 longitude: 11.5676606
-postcode: 80469
+postcode: "80469"
 city: München
 street: "Holzstraße"
 housenumber: 22

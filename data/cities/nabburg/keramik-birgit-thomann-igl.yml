@@ -3,7 +3,7 @@ type: node
 shop: Töpferei
 latitude: 49.4547492
 longitude: 12.180631400000001
-postcode: 92507
+postcode: "92507"
 city: Nabburg
 street: "Oberer Markt"
 housenumber: 22

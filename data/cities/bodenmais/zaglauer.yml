@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.0645497
 longitude: 13.1034795
-postcode: 94249
+postcode: "94249"
 city: Bodenmais
 street: "Regener Straße"
 housenumber: 1

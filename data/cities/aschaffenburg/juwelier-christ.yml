@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 49.9779648
 longitude: 9.1508716
-postcode: 63739
+postcode: "63739"
 city: Aschaffenburg
 street: "Goldbacher Straße"
 housenumber: 2

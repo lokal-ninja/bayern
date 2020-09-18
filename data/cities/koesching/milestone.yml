@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 48.809580700000005
 longitude: 11.487226300000001
-postcode: 85092
+postcode: "85092"
 city: Kösching
 street: "August-Bebel-Straße"
 housenumber: 3

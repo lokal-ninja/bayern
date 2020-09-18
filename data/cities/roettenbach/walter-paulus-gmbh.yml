@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 49.6630151
 longitude: 10.9219556
-postcode: 91341
+postcode: "91341"
 city: Röttenbach
 street: "Lohmühlweg"
 housenumber: 5

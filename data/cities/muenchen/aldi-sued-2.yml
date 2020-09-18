@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.1483962
 longitude: 11.617703800000001
-postcode: 81679
+postcode: "81679"
 city: München
 street: "Richard-Strauss-Straße"
 housenumber: 82

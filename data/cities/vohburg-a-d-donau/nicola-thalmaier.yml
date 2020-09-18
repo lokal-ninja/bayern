@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.7707635
 longitude: 11.618440300000001
-postcode: 85088
+postcode: "85088"
 city: Vohburg a.d.Donau
 street: "Ulrich-Steinberger-Platz"
 housenumber: 10

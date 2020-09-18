@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.43673750000001
 longitude: 10.305966000000002
-postcode: 97638
+postcode: "97638"
 city: Mellrichstadt
 street: "Lohstraße"
 housenumber: 2

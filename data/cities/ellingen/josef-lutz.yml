@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.0717684
 longitude: 10.8897052
-postcode: 91792
+postcode: "91792"
 city: Ellingen
 street: "Ellinger Straße"
 housenumber: 1

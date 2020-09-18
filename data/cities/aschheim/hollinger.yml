@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.1681602
 longitude: 11.7185615
-postcode: 85609
+postcode: "85609"
 city: Aschheim
 street: "Alpenstraße"
 housenumber: 3

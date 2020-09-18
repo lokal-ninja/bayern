@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.037793400000005
 longitude: 10.1999554
-postcode: 97424
+postcode: "97424"
 city: Schweinfurt
 street: "Breslaustraße"
 housenumber: 14

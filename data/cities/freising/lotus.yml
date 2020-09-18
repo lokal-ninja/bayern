@@ -1,12 +1,12 @@
 id: 4706496894
 type: node
 shop: Lebensmittel
-latitude: 48.4004497
-longitude: 11.7425957
-postcode: 85354
+latitude: 48.4004234
+longitude: 11.742643500000002
+postcode: "85354"
 city: Freising
 street: "Kirchgasse"
 housenumber: 2A
-phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:00"
-website: ""
+phone: "+49-8161-9892498"
+opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:00; PH off"
+website: "https://facebook.com/asiamarktlotus/"

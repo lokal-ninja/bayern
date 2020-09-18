@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.029162400000004
 longitude: 12.1047018
-postcode: 93059
+postcode: "93059"
 city: Regensburg
 street: "Holzgartenstraße"
 housenumber: 13

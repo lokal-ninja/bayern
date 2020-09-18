@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.367420700000004
 longitude: 10.8991422
-postcode: 86150
+postcode: "86150"
 city: Augsburg
 street: "Judenberg"
 housenumber: 9

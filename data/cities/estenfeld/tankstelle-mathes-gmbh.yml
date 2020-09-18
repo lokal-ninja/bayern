@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.8287557
 longitude: 9.999067400000001
-postcode: 97230
+postcode: "97230"
 city: Estenfeld
 street: "Würzburger Straße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 49.590488400000005
 longitude: 10.9644382
-postcode: 91056
+postcode: "91056"
 city: Erlangen
 street: "Dorfstraße"
 housenumber: 23a

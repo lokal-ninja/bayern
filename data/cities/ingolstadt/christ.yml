@@ -3,7 +3,7 @@ type: way
 shop: Schmuck
 latitude: 48.764220300000005
 longitude: 11.426558700000001
-postcode: 85049
+postcode: "85049"
 city: Ingolstadt
 street: "Mauthstraße"
 housenumber: 2

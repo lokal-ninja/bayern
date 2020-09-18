@@ -3,7 +3,7 @@ type: node
 shop: Farben
 latitude: 49.58384
 longitude: 10.99943
-postcode: 91052
+postcode: "91052"
 city: Erlangen
 street: "Am Anger"
 housenumber: 38

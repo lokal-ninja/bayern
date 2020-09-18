@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 50.0907707
 longitude: 9.2530588
-postcode: 63825
+postcode: "63825"
 city: Schöllkrippen
 street: "Industriestraße"
 housenumber: 15

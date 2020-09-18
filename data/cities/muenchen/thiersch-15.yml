@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.134483200000005
 longitude: 11.5854593
-postcode: 80538
+postcode: "80538"
 city: München
 street: "Thierschstraße"
 housenumber: 15

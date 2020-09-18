@@ -3,7 +3,7 @@ type: node
 shop: Leder
 latitude: 48.1283983
 longitude: 11.570511400000001
-postcode: 80469
+postcode: "80469"
 city: München
 street: "Klenzestraße"
 housenumber: 56

@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 49.7910443
 longitude: 9.9446578
-postcode: 97072
+postcode: "97072"
 city: Würzburg
 street: "Kliebertstraße"
 housenumber: 3

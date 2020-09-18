@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.3747575
 longitude: 10.8488503
-postcode: 86156
+postcode: "86156"
 city: Augsburg
 street: "Kriegshaberstraße"
 housenumber: 58

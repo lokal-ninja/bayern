@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.1269944
 longitude: 11.5530319
-postcode: 95364
+postcode: "95364"
 city: Ludwigschorgast
 street: "An der Arnitz"
 housenumber: 22

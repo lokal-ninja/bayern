@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 49.59902760000001
 longitude: 11.0041592
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Wasserturmstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 47.874202200000006
 longitude: 10.222624900000001
-postcode: 87730
+postcode: "87730"
 city: Bad Grönenbach
 street: "Kemptener Straße"
 housenumber: 1

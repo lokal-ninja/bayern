@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.9580799
 longitude: 11.6236806
-postcode: 95448
+postcode: "95448"
 city: Bayreuth
 street: "Rodersberg"
 housenumber: 4

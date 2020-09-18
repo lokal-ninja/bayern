@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 49.4467579
 longitude: 11.071882700000002
-postcode: 90443
+postcode: "90443"
 city: Nürnberg
 street: "Zeltnerstraße"
 housenumber: 1-3

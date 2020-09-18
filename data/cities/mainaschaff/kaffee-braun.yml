@@ -3,7 +3,7 @@ type: way
 shop: Kaffee
 latitude: 49.9907186
 longitude: 9.0825048
-postcode: 63814
+postcode: "63814"
 city: Mainaschaff
 street: "Im Trauenloh"
 housenumber: 1

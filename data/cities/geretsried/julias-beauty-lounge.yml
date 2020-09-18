@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 47.858865
 longitude: 11.480063600000001
-postcode: 82538
+postcode: "82538"
 city: Geretsried
 street: "Carl-Maria-von-Weber-Weg"
 housenumber: 34

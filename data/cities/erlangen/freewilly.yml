@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 49.6010317
 longitude: 11.0029404
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Hauptstraße"
 housenumber: 84

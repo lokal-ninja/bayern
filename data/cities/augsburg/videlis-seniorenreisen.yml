@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.357044900000005
 longitude: 10.861197
-postcode: 86157
+postcode: "86157"
 city: Augsburg
 street: "Bürgermeister-Bohl-Straße"
 housenumber: 56

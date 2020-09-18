@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.953161800000004
 longitude: 10.60425
-postcode: 86732
+postcode: "86732"
 city: Oettingen i.Bay.
 street: "Schloßstraße"
 housenumber: 21

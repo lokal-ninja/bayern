@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.1516978
 longitude: 11.504141500000001
-postcode: 80639
+postcode: "80639"
 city: München
 street: "Wotanstraße"
 housenumber: 37

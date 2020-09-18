@@ -3,7 +3,7 @@ type: node
 shop: Rahmen
 latitude: 50.259564000000005
 longitude: 10.962891
-postcode: 96450
+postcode: "96450"
 city: Coburg
 street: "Webergasse"
 housenumber: 13/15

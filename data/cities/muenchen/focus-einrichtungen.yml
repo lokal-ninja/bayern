@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.164063500000005
 longitude: 11.5861446
-postcode: 80802
+postcode: "80802"
 city: München
 street: "Leopoldstraße"
 housenumber: 87

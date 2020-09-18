@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 48.1475024
 longitude: 11.5597986
-postcode: 80333
+postcode: "80333"
 city: München
 street: "Brienner Straße"
 housenumber: 52

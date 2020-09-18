@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.3875351
 longitude: 10.0203085
-postcode: 89231
+postcode: "89231"
 city: Neu-Ulm
 street: "Lilienthalstraße"
 housenumber: 2

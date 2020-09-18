@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.1142144
 longitude: 11.4529104
-postcode: 82152
+postcode: "82152"
 city: Planegg
 street: "Lena-Christ-Straße"
 housenumber: 54

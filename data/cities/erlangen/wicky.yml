@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 49.5949005
 longitude: 11.0047203
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Hauptstraße"
 housenumber: 5

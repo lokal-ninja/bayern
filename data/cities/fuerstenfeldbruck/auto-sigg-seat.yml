@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.1877828
 longitude: 11.2481094
-postcode: 82256
+postcode: "82256"
 city: Fürstenfeldbruck
 street: "Malchinger Straße"
 housenumber: 4b

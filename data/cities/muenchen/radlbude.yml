@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.11691870000001
 longitude: 11.529264000000001
-postcode: 81369
+postcode: "81369"
 city: München
 street: "Albert-Roßhaupter-Straße"
 housenumber: 72

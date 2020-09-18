@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.015237500000005
 longitude: 11.9550313
-postcode: 95709
+postcode: "95709"
 city: Tröstau
 street: "Fichtelgebirgsstraße"
 housenumber: 10

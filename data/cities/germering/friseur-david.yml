@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.1277521
 longitude: 11.370015100000002
-postcode: 82110
+postcode: "82110"
 city: Germering
 street: "Hartstraße"
 housenumber: 25

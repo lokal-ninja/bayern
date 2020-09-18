@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 49.474855500000004
 longitude: 11.7913957
-postcode: 92284
+postcode: "92284"
 city: Poppenricht
 street: "Häringloher Straße"
 housenumber: 55a

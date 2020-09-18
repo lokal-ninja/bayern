@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 49.482230300000005
 longitude: 11.1199572
-postcode: 90411
+postcode: "90411"
 city: Nürnberg
 street: "Neumeyerstraße"
 housenumber: 21

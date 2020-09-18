@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.1429166
 longitude: 11.558747
-postcode: 80335
+postcode: "80335"
 city: München
 street: "Marsstraße"
 housenumber: 13

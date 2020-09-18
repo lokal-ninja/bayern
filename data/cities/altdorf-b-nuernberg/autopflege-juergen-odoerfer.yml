@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.37999670000001
 longitude: 11.3559102
-postcode: 90518
+postcode: "90518"
 city: Altdorf b. Nürnberg
 street: "Weidentalstraße"
 housenumber: 19

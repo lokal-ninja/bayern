@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.6612425
 longitude: 10.9186581
-postcode: 91341
+postcode: "91341"
 city: Röttenbach
 street: "Lohmühlweg"
 housenumber: 14

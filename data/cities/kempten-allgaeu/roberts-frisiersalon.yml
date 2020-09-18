@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.7183676
 longitude: 10.3006858
-postcode: 87439
+postcode: "87439"
 city: Kempten (Allgäu)
 street: "Lindauer Straße"
 housenumber: 86

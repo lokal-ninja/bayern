@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.2850516
 longitude: 10.468766
-postcode: 86470
+postcode: "86470"
 city: Thannhausen
 street: "Bahnhofstraße"
 housenumber: 42

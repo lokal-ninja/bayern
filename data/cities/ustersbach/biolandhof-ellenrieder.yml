@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.3160892
 longitude: 10.6423556
-postcode: 86514
+postcode: "86514"
 city: Ustersbach
 street: "Hauptstraße"
 housenumber: 36

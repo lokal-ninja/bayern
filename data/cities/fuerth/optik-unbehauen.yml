@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 49.474140600000005
 longitude: 10.990530900000001
-postcode: 90762
+postcode: "90762"
 city: Fürth
 street: "Hallstraße"
 housenumber: 5

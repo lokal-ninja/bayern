@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.3554973
 longitude: 10.949003300000001
-postcode: 86163
+postcode: "86163"
 city: Augsburg
 street: "Friedberger Straße"
 housenumber: 157

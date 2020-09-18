@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.424228400000004
 longitude: 10.840970700000002
-postcode: 90614
+postcode: "90614"
 city: Ammerndorf
 street: "Lärchenweg"
 housenumber: 8

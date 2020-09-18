@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.1645398
 longitude: 10.898030200000001
-postcode: 86937
+postcode: "86937"
 city: Scheuring
 street: "Hauptstraße"
 housenumber: 2

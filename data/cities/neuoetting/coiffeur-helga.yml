@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.2404292
 longitude: 12.688354700000001
-postcode: 84524
+postcode: "84524"
 city: Neuötting
 street: "Ludwigstraße"
 housenumber: 105

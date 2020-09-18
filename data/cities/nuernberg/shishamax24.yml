@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 49.4474972
 longitude: 11.0617411
-postcode: 90443
+postcode: "90443"
 city: Nürnberg
 street: "Rothenburger Straße"
 housenumber: 14

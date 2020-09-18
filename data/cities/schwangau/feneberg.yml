@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.5765595
 longitude: 10.7358268
-postcode: 87645
+postcode: "87645"
 city: Schwangau
 street: "Füssener Straße"
 housenumber: 6

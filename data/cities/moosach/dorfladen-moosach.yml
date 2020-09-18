@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.0332748
 longitude: 11.874882300000001
-postcode: 85665
+postcode: "85665"
 city: Moosach
 street: "Taubenstraße"
 housenumber: 1

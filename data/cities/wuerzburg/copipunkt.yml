@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 49.78514860000001
 longitude: 9.9355344
-postcode: 97072
+postcode: "97072"
 city: Würzburg
 street: "Weingartenstraße"
 housenumber: 22

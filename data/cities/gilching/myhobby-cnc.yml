@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.111668800000004
 longitude: 11.295232200000001
-postcode: 82205
+postcode: "82205"
 city: Gilching
 street: "Römerstraße"
 housenumber: 67

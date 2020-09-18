@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 48.7338248
 longitude: 11.1791423
-postcode: 86633
+postcode: "86633"
 city: Neuburg an der Donau
 street: "Franziskanerstraße"
 housenumber: B 227

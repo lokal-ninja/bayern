@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.392783300000005
 longitude: 10.834633100000001
-postcode: 86356
+postcode: "86356"
 city: Neusäß
 street: "Hauptstraße"
 housenumber: 19a

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.2208654
 longitude: 10.7273026
-postcode: 91639
+postcode: "91639"
 city: Wolframs-Eschenbach
 street: "Biederbacher Straße"
 housenumber: 27

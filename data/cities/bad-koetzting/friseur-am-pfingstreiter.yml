@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.1718077
 longitude: 12.867155
-postcode: 93444
+postcode: "93444"
 city: Bad Kötzting
 street: "Pfingstreiterstraße"
 housenumber: 28

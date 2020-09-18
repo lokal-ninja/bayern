@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.029781400000005
 longitude: 12.1276972
-postcode: 93059
+postcode: "93059"
 city: Regensburg
 street: "Im Gewerbepark"
 housenumber: C73

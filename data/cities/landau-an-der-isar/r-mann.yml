@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 48.6726607
 longitude: 12.6943072
-postcode: 94405
+postcode: "94405"
 city: Landau an der Isar
 street: "Hauptstraße"
 housenumber: 90

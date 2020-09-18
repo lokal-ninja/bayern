@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 49.58826680000001
 longitude: 10.9760355
-postcode: 91056
+postcode: "91056"
 city: Erlangen
 street: "Neumühle"
 housenumber: 2

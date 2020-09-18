@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 49.692768300000004
 longitude: 11.6305651
-postcode: 91275
+postcode: "91275"
 city: Auerbach i.d.OPf.
 street: "Oberer Marktplatz"
 housenumber: 9

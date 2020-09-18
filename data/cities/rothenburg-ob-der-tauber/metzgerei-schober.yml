@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.385125800000004
 longitude: 10.181998100000001
-postcode: 91541
+postcode: "91541"
 city: Rothenburg ob der Tauber
 street: "Rückerstraße"
 housenumber: 9

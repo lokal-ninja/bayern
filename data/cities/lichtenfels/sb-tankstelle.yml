@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.1367204
 longitude: 11.061459600000001
-postcode: 96215
+postcode: "96215"
 city: Lichtenfels
 street: "Grünewaldstraße"
 housenumber: 1

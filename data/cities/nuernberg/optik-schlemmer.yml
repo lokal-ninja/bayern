@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.36231110000001
 longitude: 11.050337
-postcode: 90453
+postcode: "90453"
 city: Nürnberg
 street: "Katzwanger Hauptstraße"
 housenumber: 74

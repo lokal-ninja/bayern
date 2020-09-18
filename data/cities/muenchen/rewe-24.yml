@@ -1,12 +1,12 @@
-id: 122148636
+id: 249871416
 type: way
 shop: Supermarkt
-latitude: 48.1787508
-longitude: 11.571948200000001
-postcode: 80807
+latitude: 48.149140700000004
+longitude: 11.537588900000001
+postcode: "80637"
 city: München
-street: "Petuelring"
-housenumber: 92
+street: "Landshuter Allee"
+housenumber: 30
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"
-website: ""
+website: "https://www.rewe.de/"

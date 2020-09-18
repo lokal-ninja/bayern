@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.2505162
 longitude: 11.6457089
-postcode: 85748
+postcode: "85748"
 city: Garching bei München
 street: "Schleißheimer Straße"
 housenumber: 30b

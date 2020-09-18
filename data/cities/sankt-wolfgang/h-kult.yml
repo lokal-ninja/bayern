@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.248070500000004
 longitude: 12.1634078
-postcode: 84427
+postcode: "84427"
 city: Sankt Wolfgang
 street: "Mayerhofer Straße"
 housenumber: 25

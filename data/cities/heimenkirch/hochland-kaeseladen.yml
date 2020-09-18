@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.6282833
 longitude: 9.905909300000001
-postcode: 88178
+postcode: "88178"
 city: Heimenkirch
 street: "Kemptener Straße"
 housenumber: 17

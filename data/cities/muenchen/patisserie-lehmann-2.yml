@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 48.115568700000004
 longitude: 11.5726467
-postcode: 81543
+postcode: "81543"
 city: München
 street: "Pilgersheimer Straße"
 housenumber: 48

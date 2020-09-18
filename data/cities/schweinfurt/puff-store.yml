@@ -3,7 +3,7 @@ type: node
 shop: E-Zigaretten
 latitude: 50.0456142
 longitude: 10.2303952
-postcode: 97421
+postcode: "97421"
 city: Schweinfurt
 street: "Zehntstraße"
 housenumber: 28

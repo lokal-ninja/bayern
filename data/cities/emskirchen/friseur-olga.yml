@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.545179600000004
 longitude: 10.725753800000001
-postcode: 91448
+postcode: "91448"
 city: Emskirchen
 street: "Am Einspann"
 housenumber: 20

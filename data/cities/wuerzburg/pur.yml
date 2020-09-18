@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.794199500000005
 longitude: 9.927391700000001
-postcode: 97070
+postcode: "97070"
 city: Würzburg
 street: "Karmelitenstraße"
 housenumber: 21

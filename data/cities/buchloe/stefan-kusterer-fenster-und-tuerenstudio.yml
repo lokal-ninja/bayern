@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.042410700000005
 longitude: 10.709564100000001
-postcode: 86807
+postcode: "86807"
 city: Buchloe
 street: "Rudolf-Diesel-Straße"
 housenumber: 7

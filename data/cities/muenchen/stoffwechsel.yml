@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.1487837
 longitude: 11.534598500000001
-postcode: 80634
+postcode: "80634"
 city: München
 street: "Donnersbergerstraße"
 housenumber: 32

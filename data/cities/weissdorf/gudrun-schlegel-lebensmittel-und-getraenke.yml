@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 50.185605
 longitude: 11.8491044
-postcode: 95237
+postcode: "95237"
 city: Weißdorf
 street: "Am Schloß"
 housenumber: 10

@@ -3,7 +3,7 @@ type: way
 shop: Computer
 latitude: 50.3343466
 longitude: 10.227662500000001
-postcode: 97616
+postcode: "97616"
 city: Bad Neustadt an der Saale
 street: "Rudolf-Diesel-Ring"
 housenumber: 22

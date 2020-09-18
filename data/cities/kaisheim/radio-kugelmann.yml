@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 48.770872100000005
 longitude: 10.792050300000001
-postcode: 86687
+postcode: "86687"
 city: Kaisheim
 street: "Stamser Straße"
 housenumber: 12

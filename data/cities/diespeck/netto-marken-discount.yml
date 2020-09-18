@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 49.5896533
 longitude: 10.623306000000001
-postcode: 91456
+postcode: "91456"
 city: Diespeck
 street: "Neustädter Straße"
 housenumber: 52
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 07:00-20:00; PH off"
 website: ""

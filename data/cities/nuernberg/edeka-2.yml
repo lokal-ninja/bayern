@@ -1,12 +1,12 @@
-id: 39694312
-type: way
+id: 1490812261
+type: node
 shop: Supermarkt
-latitude: 49.4120622
-longitude: 11.1732834
-postcode: 90475
+latitude: 49.4596135
+longitude: 11.098528700000001
+postcode: "90489"
 city: Nürnberg
-street: "Löwenberger Straße"
-housenumber: 52
+street: "Sulzbacher Straße"
+housenumber: 77
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 07:00-20:00"
 website: ""

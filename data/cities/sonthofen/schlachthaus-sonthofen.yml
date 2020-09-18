@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 47.5080779
 longitude: 10.2711445
-postcode: 87527
+postcode: "87527"
 city: Sonthofen
 street: "Festplatz"
 housenumber: 4

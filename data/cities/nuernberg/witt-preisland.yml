@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.442855800000004
 longitude: 11.075955500000001
-postcode: 90443
+postcode: "90443"
 city: Nürnberg
 street: "Tafelfeldstraße"
 housenumber: 13

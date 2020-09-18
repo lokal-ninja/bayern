@@ -3,7 +3,7 @@ type: node
 shop: Zeitungen
 latitude: 48.1038123
 longitude: 11.6242923
-postcode: 81737
+postcode: "81737"
 city: München
 street: "Ottobrunner Straße"
 housenumber: 

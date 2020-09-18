@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 49.4788476
 longitude: 10.9890551
-postcode: 90762
+postcode: "90762"
 city: Fürth
 street: "Gustavstraße"
 housenumber: 29

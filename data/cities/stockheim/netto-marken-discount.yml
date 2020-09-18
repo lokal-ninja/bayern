@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.2986073
 longitude: 11.287740900000001
-postcode: 96342
+postcode: "96342"
 city: Stockheim
 street: "Kronacher Straße"
 housenumber: 77

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.139128400000004
 longitude: 11.5805998
-postcode: 80539
+postcode: "80539"
 city: München
 street: "Maximilianstraße"
 housenumber: 11

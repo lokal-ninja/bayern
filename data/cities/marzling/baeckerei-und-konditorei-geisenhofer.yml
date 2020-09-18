@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.4100387
 longitude: 11.793606800000001
-postcode: 85417
+postcode: "85417"
 city: Marzling
 street: "Freisinger Straße"
 housenumber: 16

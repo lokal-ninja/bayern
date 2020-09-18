@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 49.553456100000005
 longitude: 11.0215631
-postcode: 91058
+postcode: "91058"
 city: Erlangen
 street: "Böhmlach"
 housenumber: 2b

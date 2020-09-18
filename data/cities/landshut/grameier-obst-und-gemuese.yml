@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.538637
 longitude: 12.1258859
-postcode: 84034
+postcode: "84034"
 city: Landshut
 street: "Rennweg"
 housenumber: 115

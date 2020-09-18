@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 49.65979170000001
 longitude: 12.1460754
-postcode: 92637
+postcode: "92637"
 city: Weiden i.d.OPf.
 street: "Leimbergerstraße"
 housenumber: 88

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.7969717
 longitude: 9.9361878
-postcode: 97070
+postcode: "97070"
 city: Würzburg
 street: "Semmelstraße"
 housenumber: 21

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.738343900000004
 longitude: 11.4249443
-postcode: 85051
+postcode: "85051"
 city: Ingolstadt
 street: "Fauststraße"
 housenumber: 53

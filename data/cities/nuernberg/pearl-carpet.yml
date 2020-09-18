@@ -3,7 +3,7 @@ type: node
 shop: Teppiche
 latitude: 49.437781400000006
 longitude: 11.0513451
-postcode: 90439
+postcode: "90439"
 city: Nürnberg
 street: "Schwabacher Straße"
 housenumber: 85

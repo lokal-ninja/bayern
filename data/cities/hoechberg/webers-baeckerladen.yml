@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.7831338
 longitude: 9.8796765
-postcode: 97204
+postcode: "97204"
 city: Höchberg
 street: "Hauptstraße"
 housenumber: 37

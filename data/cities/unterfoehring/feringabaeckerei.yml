@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.196973400000005
 longitude: 11.646900200000001
-postcode: 85774
+postcode: "85774"
 city: Unterföhring
 street: "Ahornstraße"
 housenumber: 2

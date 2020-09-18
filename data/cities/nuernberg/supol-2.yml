@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 49.4620034
 longitude: 11.1120336
-postcode: 90491
+postcode: "90491"
 city: Nürnberg
 street: "Äußere Sulzbacher Straße"
 housenumber: 68

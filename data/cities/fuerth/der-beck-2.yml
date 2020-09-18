@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.4761863
 longitude: 10.9886745
-postcode: 90762
+postcode: "90762"
 city: Fürth
 street: "Hirschenstraße"
 housenumber: 3

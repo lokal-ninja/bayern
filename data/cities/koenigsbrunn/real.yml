@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.2916248
 longitude: 10.888628500000001
-postcode: 86343
+postcode: "86343"
 city: Königsbrunn
 street: "Föllstraße"
 housenumber: 20

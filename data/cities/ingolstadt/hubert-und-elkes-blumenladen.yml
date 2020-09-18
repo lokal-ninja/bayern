@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.7726374
 longitude: 11.4313868
-postcode: 85049
+postcode: "85049"
 city: Ingolstadt
 street: "Am Nordbahnhof"
 housenumber: 1

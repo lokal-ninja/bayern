@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.1146515
 longitude: 11.4660192
-postcode: 95326
+postcode: "95326"
 city: Kulmbach
 street: "Caspar-Fischer-Straße"
 housenumber: 13

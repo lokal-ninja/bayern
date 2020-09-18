@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.8677501
 longitude: 12.0004225
-postcode: 83043
+postcode: "83043"
 city: Bad Aibling
 street: "Ebersberger Straße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 49.0152523
 longitude: 12.100316300000001
-postcode: 93047
+postcode: "93047"
 city: Regensburg
 street: "Maximilianstraße"
 housenumber: 27

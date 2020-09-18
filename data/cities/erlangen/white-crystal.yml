@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 49.598002
 longitude: 11.002678900000001
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Paulistraße"
 housenumber: 4

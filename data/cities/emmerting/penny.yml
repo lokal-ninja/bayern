@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.1961932
 longitude: 12.7652879
-postcode: 84547
+postcode: "84547"
 city: Emmerting
 street: "Guglweiterstraße"
 housenumber: 12

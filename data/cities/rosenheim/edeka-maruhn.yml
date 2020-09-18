@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.8685156
 longitude: 12.1245141
-postcode: 83024
+postcode: "83024"
 city: Rosenheim
 street: "Austraße"
 housenumber: 46

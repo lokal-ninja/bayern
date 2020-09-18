@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 48.554343900000006
 longitude: 11.740054
-postcode: 84072
+postcode: "84072"
 city: Au in der Hallertau
 street: "Hochfeldstraße"
 housenumber: 28

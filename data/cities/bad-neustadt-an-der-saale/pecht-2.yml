@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.327181700000004
 longitude: 10.220821500000001
-postcode: 97616
+postcode: "97616"
 city: Bad Neustadt an der Saale
 street: "Meininger Straße"
 housenumber: 28

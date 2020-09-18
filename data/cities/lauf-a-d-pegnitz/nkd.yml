@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.511986300000004
 longitude: 11.2812119
-postcode: 91207
+postcode: "91207"
 city: Lauf a.d.Pegnitz
 street: "Marktplatz"
 housenumber: 15

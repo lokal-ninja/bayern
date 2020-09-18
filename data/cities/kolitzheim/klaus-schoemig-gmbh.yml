@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.9090696
 longitude: 10.193097900000001
-postcode: 97509
+postcode: "97509"
 city: Kolitzheim
 street: "Am Lerchenberg"
 housenumber: 2

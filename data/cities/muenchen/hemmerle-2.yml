@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.1342421
 longitude: 11.6612956
-postcode: 81829
+postcode: "81829"
 city: München
 street: "Martin-Kollar-Straße"
 housenumber: 1

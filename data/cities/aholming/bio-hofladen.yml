@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 48.7282713
 longitude: 12.902535
-postcode: 94527
+postcode: "94527"
 city: Aholming
 street: "Obere Römerstraße"
 housenumber: 40

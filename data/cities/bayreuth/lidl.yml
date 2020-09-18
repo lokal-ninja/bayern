@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.953971200000005
 longitude: 11.5962922
-postcode: 95448
+postcode: "95448"
 city: Bayreuth
 street: "Bernecker Straße"
 housenumber: 26

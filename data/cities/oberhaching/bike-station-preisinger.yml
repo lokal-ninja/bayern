@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.0292413
 longitude: 11.601692
-postcode: 82041
+postcode: "82041"
 city: Oberhaching
 street: "Holzstraße"
 housenumber: 17

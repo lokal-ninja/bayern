@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.1090369
 longitude: 11.4500323
-postcode: 82152
+postcode: "82152"
 city: Planegg
 street: "Röntgenstraße"
 housenumber: 5

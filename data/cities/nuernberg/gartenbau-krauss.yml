@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 49.4734114
 longitude: 11.0369106
-postcode: 90427
+postcode: "90427"
 city: Nürnberg
 street: "Frauentaler Weg"
 housenumber: 86

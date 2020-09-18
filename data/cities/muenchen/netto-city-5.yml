@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.088386
 longitude: 11.519744600000001
-postcode: 81479
+postcode: "81479"
 city: München
 street: "Aidenbachstraße"
 housenumber: 142

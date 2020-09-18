@@ -3,7 +3,7 @@ type: way
 shop: Kosmetik
 latitude: 48.3647458
 longitude: 10.8639594
-postcode: 86157
+postcode: "86157"
 city: Augsburg
 street: "Stadtberger Straße"
 housenumber: 56

@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 48.0622832
 longitude: 12.2309619
-postcode: 83512
+postcode: "83512"
 city: Wasserburg am Inn
 street: "Ledererzeile"
 housenumber: 16

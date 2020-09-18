@@ -3,7 +3,7 @@ type: node
 shop: Wolle
 latitude: 50.248651200000005
 longitude: 10.1955814
-postcode: 97702
+postcode: "97702"
 city: Münnerstadt
 street: "Anger"
 housenumber: 1

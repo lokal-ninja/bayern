@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.12088
 longitude: 12.158425000000001
-postcode: 83562
+postcode: "83562"
 city: Rechtmehring
 street: "Am Kornfeld"
 housenumber: 4

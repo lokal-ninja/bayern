@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 48.031182300000005
 longitude: 11.5819127
-postcode: 82041
+postcode: "82041"
 city: Oberhaching
 street: "Raiffeisenallee"
 housenumber: 3

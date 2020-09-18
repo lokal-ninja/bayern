@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.8160223
 longitude: 11.8464357
-postcode: 93326
+postcode: "93326"
 city: Abensberg
 street: "Lusteckstraße"
 housenumber: 1

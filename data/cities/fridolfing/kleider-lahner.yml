@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.998107000000005
 longitude: 12.824814900000002
-postcode: 83413
+postcode: "83413"
 city: Fridolfing
 street: "Rupertistraße"
 housenumber: 8

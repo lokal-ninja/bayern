@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.057227600000004
 longitude: 10.488230600000001
-postcode: 87719
+postcode: "87719"
 city: Mindelheim
 street: "Nordendstraße"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.1374489
 longitude: 11.5772715
-postcode: 80331
+postcode: "80331"
 city: München
 street: "Burgstraße"
 housenumber: 3

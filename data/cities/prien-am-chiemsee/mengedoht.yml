@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 47.854479000000005
 longitude: 12.344755000000001
-postcode: 83209
+postcode: "83209"
 city: Prien am Chiemsee
 street: "Bernauer Straße"
 housenumber: 12

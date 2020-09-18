@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.953690200000004
 longitude: 12.2407055
-postcode: 93098
+postcode: "93098"
 city: Mintraching
 street: "Hauptstraße"
 housenumber: 17

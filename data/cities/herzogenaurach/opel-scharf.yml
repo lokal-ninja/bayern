@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.57580170000001
 longitude: 10.887995400000001
-postcode: 91074
+postcode: "91074"
 city: Herzogenaurach
 street: "Ringstraße"
 housenumber: 40

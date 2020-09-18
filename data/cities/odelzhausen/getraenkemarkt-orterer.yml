@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.310254300000004
 longitude: 11.195825800000001
-postcode: 85235
+postcode: "85235"
 city: Odelzhausen
 street: "Marktstraße"
 housenumber: 8

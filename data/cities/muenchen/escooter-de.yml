@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.1293366
 longitude: 11.5345635
-postcode: 81373
+postcode: "81373"
 city: München
 street: "Adi-Maislinger-Straße"
 housenumber: 7

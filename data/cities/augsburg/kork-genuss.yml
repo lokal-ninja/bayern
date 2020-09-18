@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 48.3756399
 longitude: 10.894668600000001
-postcode: 86152
+postcode: "86152"
 city: Augsburg
 street: "Auf dem Kreuz"
 housenumber: 8

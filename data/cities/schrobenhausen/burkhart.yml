@@ -3,7 +3,7 @@ type: way
 shop: Gemüse & Obst
 latitude: 48.5626693
 longitude: 11.2641712
-postcode: 86529
+postcode: "86529"
 city: Schrobenhausen
 street: "Lenbachstraße"
 housenumber: 10

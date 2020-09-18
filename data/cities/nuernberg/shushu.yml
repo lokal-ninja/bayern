@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 49.4551965
 longitude: 11.0749391
-postcode: 90403
+postcode: "90403"
 city: Nürnberg
 street: "Weinmarkt"
 housenumber: 1

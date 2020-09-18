@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.1939672
 longitude: 11.2727003
-postcode: 96328
+postcode: "96328"
 city: Küps
 street: "Kronacher Straße"
 housenumber: 3

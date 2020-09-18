@@ -3,7 +3,7 @@ type: node
 shop: Holz
 latitude: 48.1112806
 longitude: 11.598461
-postcode: 81539
+postcode: "81539"
 city: München
 street: "Pfälzer-Wald-Straße"
 housenumber: 34

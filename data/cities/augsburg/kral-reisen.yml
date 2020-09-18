@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.3646143
 longitude: 10.8937775
-postcode: 86150
+postcode: "86150"
 city: Augsburg
 street: "Hermanstraße"
 housenumber: 3

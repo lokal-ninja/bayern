@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 47.854914300000004
 longitude: 12.3445824
-postcode: 83209
+postcode: "83209"
 city: Prien am Chiemsee
 street: "Bernauer Straße"
 housenumber: 4-6

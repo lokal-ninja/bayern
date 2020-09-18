@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 49.437392200000005
 longitude: 11.8790071
-postcode: 92224
+postcode: "92224"
 city: Amberg
 street: "Regensburger Straße"
 housenumber: 72

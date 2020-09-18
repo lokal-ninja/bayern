@@ -3,7 +3,7 @@ type: node
 shop: Parfümerie
 latitude: 48.137328700000005
 longitude: 11.5808695
-postcode: 80331
+postcode: "80331"
 city: München
 street: "Neuturmstraße"
 housenumber: 1

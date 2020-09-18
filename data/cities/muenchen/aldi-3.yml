@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.1165955
 longitude: 11.572988200000001
-postcode: 81543
+postcode: "81543"
 city: München
 street: "Pilgersheimer Straße"
 housenumber: 38

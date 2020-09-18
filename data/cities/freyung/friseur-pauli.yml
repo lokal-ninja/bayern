@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.806406200000005
 longitude: 13.545709800000001
-postcode: 94078
+postcode: "94078"
 city: Freyung
 street: "Geyersberger Straße"
 housenumber: 3

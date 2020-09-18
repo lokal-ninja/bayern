@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 50.249417
 longitude: 12.035389
-postcode: 95111
+postcode: "95111"
 city: Rehau
 street: "Bahnhofstraße"
 housenumber: 10

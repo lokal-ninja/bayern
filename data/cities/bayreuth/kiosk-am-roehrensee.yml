@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 49.932344300000004
 longitude: 11.572114800000001
-postcode: 95447
+postcode: "95447"
 city: Bayreuth
 street: "Pottensteiner Straße"
 housenumber: 7

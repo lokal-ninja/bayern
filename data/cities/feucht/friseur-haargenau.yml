@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.3755205
 longitude: 11.212727200000002
-postcode: 90537
+postcode: "90537"
 city: Feucht
 street: "Pfinzingstraße"
 housenumber: 1a

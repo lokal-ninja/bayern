@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.793303
 longitude: 9.927492200000001
-postcode: 97070
+postcode: "97070"
 city: Würzburg
 street: "Karmelitenstraße"
 housenumber: 1

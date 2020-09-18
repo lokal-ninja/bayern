@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 48.085275700000004
 longitude: 11.4951369
-postcode: 81476
+postcode: "81476"
 city: München
 street: "Forstenrieder Allee"
 housenumber: 181

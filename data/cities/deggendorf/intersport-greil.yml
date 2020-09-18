@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 48.833478400000004
 longitude: 12.9602996
-postcode: 94469
+postcode: "94469"
 city: Deggendorf
 street: "Westliche Zwingergasse"
 housenumber: 7

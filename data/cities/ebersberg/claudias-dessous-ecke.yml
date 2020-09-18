@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.0786882
 longitude: 11.969009000000002
-postcode: 85560
+postcode: "85560"
 city: Ebersberg
 street: "Sieghartstraße"
 housenumber: 1

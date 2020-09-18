@@ -3,7 +3,7 @@ type: node
 shop: Fliesen
 latitude: 48.071100900000005
 longitude: 10.8620066
-postcode: 86899
+postcode: "86899"
 city: Landsberg am Lech
 street: "Graf-Zeppelin-Straße"
 housenumber: 11a

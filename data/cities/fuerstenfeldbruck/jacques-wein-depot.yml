@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 48.179563
 longitude: 11.2558919
-postcode: 82256
+postcode: "82256"
 city: Fürstenfeldbruck
 street: "Dachauer Straße"
 housenumber: 6

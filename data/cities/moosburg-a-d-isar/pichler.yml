@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 48.467131900000005
 longitude: 11.935361700000001
-postcode: 85368
+postcode: "85368"
 city: Moosburg a.d. Isar
 street: "Stadtplatz"
 housenumber: 17

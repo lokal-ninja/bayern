@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 47.492783700000004
 longitude: 11.0900301
-postcode: 82467
+postcode: "82467"
 city: Garmisch-Partenkirchen
 street: "Klammstraße"
 housenumber: 7

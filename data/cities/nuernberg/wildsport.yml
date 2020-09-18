@@ -3,7 +3,7 @@ type: node
 shop: Waffen
 latitude: 49.465265800000005
 longitude: 11.0679174
-postcode: 90419
+postcode: "90419"
 city: Nürnberg
 street: "Juvenellstraße"
 housenumber: 27

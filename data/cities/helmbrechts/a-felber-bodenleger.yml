@@ -3,7 +3,7 @@ type: way
 shop: Teppiche
 latitude: 50.2391346
 longitude: 11.720017100000002
-postcode: 95233
+postcode: "95233"
 city: Helmbrechts
 street: "Bürgerstraße"
 housenumber: 10

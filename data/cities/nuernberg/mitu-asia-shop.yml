@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.439432700000005
 longitude: 11.0688638
-postcode: 90443
+postcode: "90443"
 city: Nürnberg
 street: "Melanchthonplatz"
 housenumber: 10

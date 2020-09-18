@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 48.3701817
 longitude: 10.8948342
-postcode: 86152
+postcode: "86152"
 city: Augsburg
 street: "Ludwigstraße"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.698329400000006
 longitude: 10.765062
-postcode: 91475
+postcode: "91475"
 city: Lonnerstadt
 street: "Hauptstraße"
 housenumber: 20

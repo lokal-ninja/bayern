@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.0815507
 longitude: 11.528982800000001
-postcode: 81479
+postcode: "81479"
 city: München
 street: "Wolfratshauser Straße"
 housenumber: 204

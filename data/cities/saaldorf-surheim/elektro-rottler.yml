@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 47.8728521
 longitude: 12.955175700000002
-postcode: 83416
+postcode: "83416"
 city: Saaldorf-Surheim
 street: "Helfau"
 housenumber: 2

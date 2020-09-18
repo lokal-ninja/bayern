@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.753780400000004
 longitude: 11.348381
-postcode: 85049
+postcode: "85049"
 city: Ingolstadt
 street: "Eichenwaldstraße"
 housenumber: 55

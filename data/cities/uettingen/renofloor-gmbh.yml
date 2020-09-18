@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 49.795985300000005
 longitude: 9.7172034
-postcode: 97292
+postcode: "97292"
 city: Uettingen
 street: "Mittlere Stämmig"
 housenumber: 2

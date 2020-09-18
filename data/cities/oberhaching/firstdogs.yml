@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 48.018784000000004
 longitude: 11.591177
-postcode: 82041
+postcode: "82041"
 city: Oberhaching
 street: "Tisinstraße"
 housenumber: 15

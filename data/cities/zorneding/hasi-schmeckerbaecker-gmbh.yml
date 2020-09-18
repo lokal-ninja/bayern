@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.086786700000005
 longitude: 11.8274553
-postcode: 85604
+postcode: "85604"
 city: Zorneding
 street: "Birkenstraße"
 housenumber: 2

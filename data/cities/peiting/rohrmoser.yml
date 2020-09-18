@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 47.797209900000006
 longitude: 10.9229754
-postcode: 86971
+postcode: "86971"
 city: Peiting
 street: "Müllerstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 48.399624800000005
 longitude: 11.7424552
-postcode: 85354
+postcode: "85354"
 city: Freising
 street: "Bahnhofstraße"
 housenumber: 1

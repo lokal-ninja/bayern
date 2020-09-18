@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.3657224
 longitude: 11.256767700000001
-postcode: 85250
+postcode: "85250"
 city: Altomünster
 street: "Hauptstraße"
 housenumber: 2

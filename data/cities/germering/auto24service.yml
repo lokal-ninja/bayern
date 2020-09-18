@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.1319012
 longitude: 11.378800100000001
-postcode: 82110
+postcode: "82110"
 city: Germering
 street: "Industriestraße"
 housenumber: 22

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.2837583
 longitude: 10.8854138
-postcode: 86343
+postcode: "86343"
 city: Königsbrunn
 street: "Guldenstraße"
 housenumber: 33 1/3

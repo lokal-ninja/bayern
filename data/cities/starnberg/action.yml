@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 47.9921075
 longitude: 11.331490800000001
-postcode: 82319
+postcode: "82319"
 city: Starnberg
 street: "Emslanderstraße"
 housenumber: 2

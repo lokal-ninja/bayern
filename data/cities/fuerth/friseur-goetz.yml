@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.462898200000005
 longitude: 11.0029337
-postcode: 90763
+postcode: "90763"
 city: Fürth
 street: "Balbiererstraße"
 housenumber: 20

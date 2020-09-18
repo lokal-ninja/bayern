@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 48.3061341
 longitude: 11.618929600000001
-postcode: 85386
+postcode: "85386"
 city: Eching
 street: "Gleiwitzer Straße"
 housenumber: 2

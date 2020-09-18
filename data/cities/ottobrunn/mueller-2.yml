@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.062999000000005
 longitude: 11.6495034
-postcode: 85521
+postcode: "85521"
 city: Ottobrunn
 street: "Unterhachinger Straße"
 housenumber: 28

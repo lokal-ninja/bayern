@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.7670918
 longitude: 13.043507400000001
-postcode: 94491
+postcode: "94491"
 city: Hengersberg
 street: "Donaustraße"
 housenumber: 4

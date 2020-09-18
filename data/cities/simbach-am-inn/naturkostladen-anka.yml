@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 48.264589300000004
 longitude: 13.023909300000001
-postcode: 84359
+postcode: "84359"
 city: Simbach am Inn
 street: "Maximilianstraße"
 housenumber: 22
-phone: ""
+phone: "+49 8571 8252"
 opening_hours: "Mo-Fr 08:30-18:00, Sa 08:30-13:00; PH off"
 website: ""

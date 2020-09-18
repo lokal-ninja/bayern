@@ -3,7 +3,7 @@ type: way
 shop: Basteln
 latitude: 49.0898551
 longitude: 11.2311642
-postcode: 91177
+postcode: "91177"
 city: Thalmässing
 street: "Blumenstraße"
 housenumber: 22

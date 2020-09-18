@@ -3,7 +3,7 @@ type: way
 shop: Gemüse & Obst
 latitude: 49.4415628
 longitude: 11.8799638
-postcode: 92224
+postcode: "92224"
 city: Amberg
 street: "Mosacherweg"
 housenumber: 19

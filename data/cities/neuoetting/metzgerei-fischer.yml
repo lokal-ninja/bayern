@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.239203700000004
 longitude: 12.6909018
-postcode: 84524
+postcode: "84524"
 city: Neuötting
 street: "Altöttinger Straße"
 housenumber: 1b

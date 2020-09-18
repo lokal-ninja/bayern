@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 48.1811267
 longitude: 11.5527583
-postcode: 80809
+postcode: "80809"
 city: München
 street: "Helene-Mayer-Ring"
 housenumber: 15

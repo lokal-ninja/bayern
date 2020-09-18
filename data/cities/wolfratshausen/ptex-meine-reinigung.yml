@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 47.9151322
 longitude: 11.4238152
-postcode: 82515
+postcode: "82515"
 city: Wolfratshausen
 street: "Bahnhofstraße"
 housenumber: 16

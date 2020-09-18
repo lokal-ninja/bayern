@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.151379000000006
 longitude: 11.2551924
-postcode: 82239
+postcode: "82239"
 city: Alling
 street: "Ammerseestraße"
 housenumber: 15

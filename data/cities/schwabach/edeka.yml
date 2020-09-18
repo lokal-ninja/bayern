@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.3265748
 longitude: 11.0176906
-postcode: 91126
+postcode: "91126"
 city: Schwabach
 street: "Wittelsbacherstraße"
 housenumber: 7

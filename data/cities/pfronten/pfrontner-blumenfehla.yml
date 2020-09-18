@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.5847283
 longitude: 10.559748
-postcode: 87459
+postcode: "87459"
 city: Pfronten
 street: "Allgäuer Straße"
 housenumber: 36

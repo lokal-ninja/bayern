@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 49.590169800000005
 longitude: 11.0066643
-postcode: 91052
+postcode: "91052"
 city: Erlangen
 street: "Rathausplatz"
 housenumber: 3

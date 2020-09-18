@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.2982098
 longitude: 11.6242967
-postcode: 85386
+postcode: "85386"
 city: Eching
 street: "Danziger Straße"
 housenumber: 2

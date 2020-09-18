@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 49.5952957
 longitude: 11.0027808
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Goethestraße"
 housenumber: 54

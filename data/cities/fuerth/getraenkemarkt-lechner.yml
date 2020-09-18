@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 49.4780329
 longitude: 10.9875688
-postcode: 90762
+postcode: "90762"
 city: Fürth
 street: "Mohrenstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.432675100000004
 longitude: 11.030016400000001
-postcode: 90431
+postcode: "90431"
 city: Nürnberg
 street: "Edisonstraße"
 housenumber: 16

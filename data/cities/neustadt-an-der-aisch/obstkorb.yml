@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 49.5802861
 longitude: 10.6091808
-postcode: 91413
+postcode: "91413"
 city: Neustadt an der Aisch
 street: "Bamberger Straße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 49.5469572
 longitude: 11.0310238
-postcode: 91058
+postcode: "91058"
 city: Erlangen
 street: "Sebastianstraße"
 housenumber: 15

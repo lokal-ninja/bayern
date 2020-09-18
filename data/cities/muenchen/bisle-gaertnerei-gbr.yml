@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 48.094512400000006
 longitude: 11.571534300000001
-postcode: 81545
+postcode: "81545"
 city: München
 street: "Widdersteinstraße"
 housenumber: 19

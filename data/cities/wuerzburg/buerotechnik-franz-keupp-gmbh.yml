@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 49.7975848
 longitude: 9.9297345
-postcode: 97070
+postcode: "97070"
 city: Würzburg
 street: "Koellikerstraße"
 housenumber: 3

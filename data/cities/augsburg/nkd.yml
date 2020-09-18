@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.364191000000005
 longitude: 10.875104700000001
-postcode: 86157
+postcode: "86157"
 city: Augsburg
 street: "Eberlestraße"
 housenumber: 1

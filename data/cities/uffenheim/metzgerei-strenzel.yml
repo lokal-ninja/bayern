@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.5445081
 longitude: 10.229726600000001
-postcode: 97215
+postcode: "97215"
 city: Uffenheim
 street: "Schmiedsgasse"
 housenumber: 8

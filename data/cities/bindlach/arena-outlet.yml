@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.9800647
 longitude: 11.602631200000001
-postcode: 95463
+postcode: "95463"
 city: Bindlach
 street: "Stöckigstraße"
 housenumber: 2

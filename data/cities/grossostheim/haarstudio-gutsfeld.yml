@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.892646500000005
 longitude: 9.0396654
-postcode: 63762
+postcode: "63762"
 city: Großostheim
 street: "Sandweg"
 housenumber: 1

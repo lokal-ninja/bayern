@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 48.403421200000004
 longitude: 10.8799656
-postcode: 86154
+postcode: "86154"
 city: Augsburg
 street: "Donauwörther Straße"
 housenumber: 286

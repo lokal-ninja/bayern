@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.7229168
 longitude: 11.0592628
-postcode: 91301
+postcode: "91301"
 city: Forchheim
 street: "Bamberger Straße"
 housenumber: 27

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.98366660000001
 longitude: 10.1820752
-postcode: 87700
+postcode: "87700"
 city: Memmingen
 street: "Kramerstraße"
 housenumber: 43

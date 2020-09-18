@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.3761784
 longitude: 10.8367907
-postcode: 86391
+postcode: "86391"
 city: Stadtbergen
 street: "Ulmer Landstraße"
 housenumber: 350

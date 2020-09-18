@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.8017416
 longitude: 10.3419416
-postcode: 87490
+postcode: "87490"
 city: Haldenwang
 street: "Schafgasse"
 housenumber: 13

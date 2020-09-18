@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.595762300000004
 longitude: 11.0073603
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Friedrichstraße"
 housenumber: 10

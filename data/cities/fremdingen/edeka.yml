@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.9715678
 longitude: 10.4634326
-postcode: 86742
+postcode: "86742"
 city: Fremdingen
 street: "Oettinger Straße"
 housenumber: 

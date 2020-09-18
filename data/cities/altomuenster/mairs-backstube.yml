@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.3881688
 longitude: 11.2558618
-postcode: 85250
+postcode: "85250"
 city: Altomünster
 street: "Herzog-Georg-Straße"
 housenumber: 6

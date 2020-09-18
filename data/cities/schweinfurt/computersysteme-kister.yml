@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 50.0439212
 longitude: 10.2355073
-postcode: 97421
+postcode: "97421"
 city: Schweinfurt
 street: "Judengasse"
 housenumber: 9

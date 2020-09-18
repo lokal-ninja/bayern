@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 48.3612461
 longitude: 11.376297200000002
-postcode: 85229
+postcode: "85229"
 city: Markt Indersdorf
 street: "Dachauer Straße"
 housenumber: 10

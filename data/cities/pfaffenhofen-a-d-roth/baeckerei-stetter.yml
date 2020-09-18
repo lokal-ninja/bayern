@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.355520500000004
 longitude: 10.1605039
-postcode: 89284
+postcode: "89284"
 city: Pfaffenhofen a.d.Roth
 street: "Hauptstraße"
 housenumber: 36

@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 49.4529368
 longitude: 11.0928593
-postcode: 90489
+postcode: "90489"
 city: Nürnberg
 street: "Keßlerplatz"
 housenumber: 12

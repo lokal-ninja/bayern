@@ -3,10 +3,10 @@ type: node
 shop: Fahrrad
 latitude: 47.7585367
 longitude: 12.4638854
-postcode: 83250
+postcode: "83250"
 city: Marquartstein
-street: ""
-housenumber: 
+street: "Staudacher Straße"
+housenumber: 8
 phone: ""
 opening_hours: "Mo-Fr 11:00-18:00; We 14:00-18:00; Sa 09:00-13:00"
 website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.7995372
 longitude: 9.934706100000001
-postcode: 97070
+postcode: "97070"
 city: Würzburg
 street: "Kaiserstraße"
 housenumber: 26

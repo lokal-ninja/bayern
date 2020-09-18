@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.224631
 longitude: 11.67618
-postcode: 85737
+postcode: "85737"
 city: Ismaning
 street: "Bahnhofstraße"
 housenumber: 9

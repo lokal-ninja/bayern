@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.1971774
 longitude: 11.459303100000001
-postcode: 80999
+postcode: "80999"
 city: München
 street: "Ludwigsfelder Straße"
 housenumber: 1

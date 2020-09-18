@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.4338812
 longitude: 11.0483004
-postcode: 90441
+postcode: "90441"
 city: Nürnberg
 street: "Schweinauer Hauptstraße"
 housenumber: 27

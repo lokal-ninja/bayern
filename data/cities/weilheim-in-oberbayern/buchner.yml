@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 47.838953200000006
 longitude: 11.1427937
-postcode: 82362
+postcode: "82362"
 city: Weilheim in Oberbayern
 street: "Hofstraße"
 housenumber: 1

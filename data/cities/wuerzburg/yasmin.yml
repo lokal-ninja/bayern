@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 49.7942436
 longitude: 9.911692
-postcode: 97082
+postcode: "97082"
 city: Würzburg
 street: "Frankfurter Straße"
 housenumber: 33

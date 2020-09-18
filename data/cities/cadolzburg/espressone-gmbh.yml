@@ -3,7 +3,7 @@ type: way
 shop: Kaffee
 latitude: 49.476780100000006
 longitude: 10.8667151
-postcode: 90556
+postcode: "90556"
 city: Cadolzburg
 street: "Am Farrnbach"
 housenumber: 8

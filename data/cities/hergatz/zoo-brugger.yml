@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.6589839
 longitude: 9.853526
-postcode: 88145
+postcode: "88145"
 city: Hergatz
 street: "Wangener Straße"
 housenumber: 7

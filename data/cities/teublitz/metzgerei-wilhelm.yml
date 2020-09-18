@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.2237504
 longitude: 12.0851327
-postcode: 93158
+postcode: "93158"
 city: Teublitz
 street: "Münchshofener Straße"
 housenumber: 2

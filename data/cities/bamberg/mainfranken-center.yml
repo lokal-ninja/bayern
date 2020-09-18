@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 49.9122726
 longitude: 10.9121397
-postcode: 96052
+postcode: "96052"
 city: Bamberg
 street: "An der Breitenau"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 49.8459154
 longitude: 10.965107900000001
-postcode: 96129
+postcode: "96129"
 city: Strullendorf
 street: "Bahnhofstraße"
 housenumber: 14

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.1223394
 longitude: 11.368621300000001
-postcode: 82110
+postcode: "82110"
 city: Germering
 street: "Friedenstraße"
 housenumber: 19a

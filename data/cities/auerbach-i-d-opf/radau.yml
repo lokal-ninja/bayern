@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 49.6945065
 longitude: 11.6291936
-postcode: 91275
+postcode: "91275"
 city: Auerbach i.d.OPf.
 street: "Degelsdorfer Straße"
 housenumber: 4b

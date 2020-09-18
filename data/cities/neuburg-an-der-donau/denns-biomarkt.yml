@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.7256189
 longitude: 11.1934176
-postcode: 86633
+postcode: "86633"
 city: Neuburg an der Donau
 street: "Längenmühlweg"
 housenumber: 30

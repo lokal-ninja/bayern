@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.140062400000005
 longitude: 11.5883052
-postcode: 80538
+postcode: "80538"
 city: München
 street: "Triftstraße"
 housenumber: 1

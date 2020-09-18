@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 49.677122700000005
 longitude: 12.1670364
-postcode: 92637
+postcode: "92637"
 city: Weiden i.d.OPf.
 street: "Schlörplatz"
 housenumber: 6

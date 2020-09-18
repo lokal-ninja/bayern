@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.270746900000006
 longitude: 10.834017000000001
-postcode: 86399
+postcode: "86399"
 city: Bobingen
 street: "Hochstraße"
 housenumber: 15

@@ -3,10 +3,10 @@ type: node
 shop: Autohaus
 latitude: 48.1271034
 longitude: 11.6073614
-postcode: 81671
+postcode: "81671"
 city: München
 street: "Friedenstraße"
 housenumber: 18a
 phone: "+49 89 88949460"
-opening_hours: ""
+opening_hours: "Mo-Fr 08:00-17:00; Sa 09:00-13:00"
 website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.52188760000001
 longitude: 11.4951351
-postcode: 85276
+postcode: "85276"
 city: Pfaffenhofen a.d. Ilm
 street: "Martin-Binder-Ring"
 housenumber: 8

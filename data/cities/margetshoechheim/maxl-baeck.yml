@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.8360065
 longitude: 9.8664611
-postcode: 97276
+postcode: "97276"
 city: Margetshöchheim
 street: "Zur Mainfähre"
 housenumber: 1

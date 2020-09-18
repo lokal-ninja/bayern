@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 49.6005066
 longitude: 11.0035892
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Engelstraße"
 housenumber: 16

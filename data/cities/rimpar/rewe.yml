@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.849330900000005
 longitude: 9.9648964
-postcode: 97222
+postcode: "97222"
 city: Rimpar
 street: "Kettelerstraße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.1122194
 longitude: 11.5780236
-postcode: 81539
+postcode: "81539"
 city: München
 street: "Herzogstandstraße"
 housenumber: 26

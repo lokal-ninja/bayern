@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.1378296
 longitude: 11.5667212
-postcode: 80331
+postcode: "80331"
 city: München
 street: "Herzogspitalstraße"
 housenumber: 13

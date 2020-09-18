@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 49.5767152
 longitude: 10.8982614
-postcode: 91074
+postcode: "91074"
 city: Herzogenaurach
 street: "Zeppelinstraße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 47.9912265
 longitude: 12.3086952
-postcode: 83123
+postcode: "83123"
 city: Amerang
 street: "Frabertshamer Straße"
 housenumber: 1

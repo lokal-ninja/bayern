@@ -1,12 +1,12 @@
 id: 699778377
 type: node
 shop: Raumausstattung
-latitude: 48.0607951
-longitude: 12.2337874
-postcode: 83512
+latitude: 48.060838200000006
+longitude: 12.2338114
+postcode: "83512"
 city: Wasserburg am Inn
 street: "Marienplatz"
 housenumber: 3
 phone: ""
 opening_hours: "Tu-Fr 09:30-18:00; Sa 9:30-16:00; Su,PH off"
-website: ""
+website: "https://pfeiffer-am-rathaus.de/"

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.1469802
 longitude: 11.5764569
-postcode: 80333
+postcode: "80333"
 city: München
 street: "Amalienstraße"
 housenumber: 22

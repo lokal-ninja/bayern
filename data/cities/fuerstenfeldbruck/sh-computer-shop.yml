@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 48.1766567
 longitude: 11.2594504
-postcode: 82256
+postcode: "82256"
 city: Fürstenfeldbruck
 street: "Münchner Straße"
 housenumber: 27

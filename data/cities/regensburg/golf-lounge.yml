@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 49.0269259
 longitude: 12.1113841
-postcode: 93059
+postcode: "93059"
 city: Regensburg
 street: "Abensstraße"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Konditorei
 latitude: 48.176974900000005
 longitude: 11.2524707
-postcode: 82256
+postcode: "82256"
 city: Fürstenfeldbruck
 street: "Schöngeisinger Straße"
 housenumber: 28

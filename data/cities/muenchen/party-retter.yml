@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.1865235
 longitude: 11.562656200000001
-postcode: 80809
+postcode: "80809"
 city: München
 street: "Riesenfeldstraße"
 housenumber: 96

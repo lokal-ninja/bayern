@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 47.5214852
 longitude: 11.2814207
-postcode: 82499
+postcode: "82499"
 city: Wallgau
 street: "Dorfplatz"
 housenumber: 5

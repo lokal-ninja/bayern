@@ -3,7 +3,7 @@ type: way
 shop: Raumausstattung
 latitude: 48.0453264
 longitude: 10.5079667
-postcode: 87719
+postcode: "87719"
 city: Mindelheim
 street: "Allgäuer Straße"
 housenumber: 32a

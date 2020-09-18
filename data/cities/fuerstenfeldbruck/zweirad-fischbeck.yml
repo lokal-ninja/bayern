@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.1763069
 longitude: 11.247337100000001
-postcode: 82256
+postcode: "82256"
 city: Fürstenfeldbruck
 street: "Schöngeisinger Straße"
 housenumber: 76

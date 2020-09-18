@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.0097193
 longitude: 12.377611100000001
-postcode: 93109
+postcode: "93109"
 city: Wiesent
 street: "Frauenzeller Straße"
 housenumber: 8

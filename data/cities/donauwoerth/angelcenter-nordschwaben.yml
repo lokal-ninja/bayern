@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 48.709229300000004
 longitude: 10.752893100000001
-postcode: 86609
+postcode: "86609"
 city: Donauwörth
 street: "Joseph-Gänsler-Straße"
 housenumber: 10

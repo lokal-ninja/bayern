@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 47.676323000000004
 longitude: 12.470103400000001
-postcode: 83242
+postcode: "83242"
 city: Reit im Winkl
 street: "Gartenstraße"
 housenumber: 9

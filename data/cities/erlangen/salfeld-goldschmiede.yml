@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 49.5951773
 longitude: 11.003352300000001
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Innere Brucker Straße"
 housenumber: 16

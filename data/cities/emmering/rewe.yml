@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.181509000000005
 longitude: 11.291819100000001
-postcode: 82275
+postcode: "82275"
 city: Emmering
 street: "Untere Au"
 housenumber: 7

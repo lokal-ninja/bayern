@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.896565700000004
 longitude: 11.1750387
-postcode: 85072
+postcode: "85072"
 city: Eichstätt
 street: "Weißenburger Straße"
 housenumber: 43

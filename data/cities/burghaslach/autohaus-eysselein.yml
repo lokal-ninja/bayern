@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.733268
 longitude: 10.594577500000002
-postcode: 96152
+postcode: "96152"
 city: Burghaslach
 street: "Würzburger Straße"
 housenumber: 36

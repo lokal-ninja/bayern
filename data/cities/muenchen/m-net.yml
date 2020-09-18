@@ -3,7 +3,7 @@ type: node
 shop: Internetanbieter
 latitude: 48.129192700000004
 longitude: 11.6049904
-postcode: 81667
+postcode: "81667"
 city: München
 street: "Orleansstraße"
 housenumber: 55

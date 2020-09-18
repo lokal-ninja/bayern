@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.346609
 longitude: 11.3799393
-postcode: 85229
+postcode: "85229"
 city: Markt Indersdorf
 street: "Gewerbestraße"
 housenumber: 16

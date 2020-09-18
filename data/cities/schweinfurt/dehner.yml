@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 50.0286558
 longitude: 10.2362891
-postcode: 97424
+postcode: "97424"
 city: Schweinfurt
 street: "Friedrich-Rätzer-Straße"
 housenumber: 5

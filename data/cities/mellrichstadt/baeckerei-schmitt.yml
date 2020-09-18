@@ -1,12 +1,14 @@
 id: 672777944
 type: node
 shop: Bäckerei
-latitude: 50.42612930000001
-longitude: 10.296965400000001
-postcode: 97638
+latitude: 50.423417300000004
+longitude: 10.296319800000001
+postcode: "97638"
 city: Mellrichstadt
-street: "Hainhofer Straße"
-housenumber: 1
+street: "Beethovenweg"
+housenumber: 12
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 05:00-13:00, 14:00-18:00,
+Sa 05:00-13:00,
+Su 07:30-10:30"
 website: ""

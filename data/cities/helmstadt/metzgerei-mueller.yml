@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.7603736
 longitude: 9.710278800000001
-postcode: 97264
+postcode: "97264"
 city: Helmstadt
 street: "Würzburger Straße"
 housenumber: 21

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.4556429
 longitude: 11.073173800000001
-postcode: 90403
+postcode: "90403"
 city: Nürnberg
 street: "Irrerstraße"
 housenumber: 14

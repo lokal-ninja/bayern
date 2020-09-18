@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.3941065
 longitude: 10.8214723
-postcode: 86356
+postcode: "86356"
 city: Neusäß
 street: "Georg-Odemer-Straße"
 housenumber: 2a

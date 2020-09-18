@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.3753487
 longitude: 10.8241618
-postcode: 86356
+postcode: "86356"
 city: Neusäß
 street: "Ulmer Straße"
 housenumber: 45

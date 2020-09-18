@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 49.693871800000004
 longitude: 12.164404800000002
-postcode: 92637
+postcode: "92637"
 city: Weiden i.d.OPf.
 street: "Liebigstraße"
 housenumber: 11

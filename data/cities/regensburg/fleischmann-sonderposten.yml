@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 49.032304700000005
 longitude: 12.1317711
-postcode: 93059
+postcode: "93059"
 city: Regensburg
 street: "Im Gewerbepark"
 housenumber: B69

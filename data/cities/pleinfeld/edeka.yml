@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.101998300000005
 longitude: 10.9737571
-postcode: 91785
+postcode: "91785"
 city: Pleinfeld
 street: "Dieselstraße"
 housenumber: 1c

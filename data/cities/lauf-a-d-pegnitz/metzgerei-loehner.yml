@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.554692900000006
 longitude: 11.2293155
-postcode: 91207
+postcode: "91207"
 city: Lauf a.d.Pegnitz
 street: "Neunhofer Hauptstraße"
 housenumber: 2

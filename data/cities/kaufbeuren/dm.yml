@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 47.884073
 longitude: 10.6165119
-postcode: 87600
+postcode: "87600"
 city: Kaufbeuren
 street: "Mindelheimer Straße"
 housenumber: 19

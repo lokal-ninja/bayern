@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.9506869
 longitude: 10.3930889
-postcode: 87733
+postcode: "87733"
 city: Markt Rettenbach
 street: "Gewerbestraße"
 housenumber: 23

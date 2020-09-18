@@ -3,7 +3,7 @@ type: way
 shop: Autoservice
 latitude: 50.034809700000004
 longitude: 10.2323945
-postcode: 97424
+postcode: "97424"
 city: Schweinfurt
 street: "Rudolf-Diesel-Straße"
 housenumber: 29

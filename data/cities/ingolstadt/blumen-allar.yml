@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.71235
 longitude: 11.4037901
-postcode: 85051
+postcode: "85051"
 city: Ingolstadt
 street: "Wallmeisterstraße"
 housenumber: 5

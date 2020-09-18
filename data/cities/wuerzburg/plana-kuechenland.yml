@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 49.799207200000005
 longitude: 9.9932753
-postcode: 97076
+postcode: "97076"
 city: Würzburg
 street: "Nürnberger Straße"
 housenumber: 111

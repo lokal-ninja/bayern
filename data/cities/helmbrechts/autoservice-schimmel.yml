@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.2449359
 longitude: 11.706293500000001
-postcode: 95233
+postcode: "95233"
 city: Helmbrechts
 street: "Zur Grönbachquelle"
 housenumber: 4

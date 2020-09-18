@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.8095749
 longitude: 10.874649100000001
-postcode: 86956
+postcode: "86956"
 city: Schongau
 street: "Ingenrieder Straße"
 housenumber: 7

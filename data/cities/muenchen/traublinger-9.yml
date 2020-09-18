@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.148704
 longitude: 11.6408997
-postcode: 81929
+postcode: "81929"
 city: München
 street: "Posener Platz"
 housenumber: 1

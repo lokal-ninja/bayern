@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 50.090102200000004
 longitude: 9.248328
-postcode: 63825
+postcode: "63825"
 city: Schöllkrippen
 street: "Laudenbacher Straße"
 housenumber: 44

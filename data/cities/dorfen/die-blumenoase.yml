@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.267161300000005
 longitude: 12.1580832
-postcode: 84405
+postcode: "84405"
 city: Dorfen
 street: "Bahnhofstraße"
 housenumber: 4

@@ -3,10 +3,10 @@ type: node
 shop: Kleidung
 latitude: 49.5921828
 longitude: 11.027509
-postcode: 91052
+postcode: "91052"
 city: Erlangen
 street: "Allee am Röthelheimpark"
 housenumber: 11
-phone: ""
-opening_hours: "Mo-Fr 09:00-20:00, Sa 08:00-20:00"
-website: ""
+phone: "+49 9131-530 17 14"
+opening_hours: "Mo-Sa 08:00-20:00"
+website: "https://www.beautyandnature.de/de/filialen/erlangen/"

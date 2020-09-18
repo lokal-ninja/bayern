@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 47.963118
 longitude: 12.6106637
-postcode: 83301
+postcode: "83301"
 city: Traunreut
 street: "Trostberger Straße"
 housenumber: 15

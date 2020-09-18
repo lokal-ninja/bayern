@@ -3,10 +3,10 @@ type: node
 shop: Bäckerei
 latitude: 50.0422385
 longitude: 10.155490700000001
-postcode: 97505
+postcode: "97505"
 city: Geldersheim
 street: "Oberdorf"
 housenumber: 2
 phone: ""
-opening_hours: ""
+opening_hours: "closed"
 website: ""

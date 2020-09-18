@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.4493608
 longitude: 11.0686277
-postcode: 90402
+postcode: "90402"
 city: Nürnberg
 street: "Jakobsplatz"
 housenumber: 3

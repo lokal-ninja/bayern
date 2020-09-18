@@ -3,7 +3,7 @@ type: way
 shop: Großhandel
 latitude: 48.3665511
 longitude: 10.9561734
-postcode: 86316
+postcode: "86316"
 city: Friedberg
 street: "Paul-Lenz-Straße"
 housenumber: 6

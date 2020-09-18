@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.783343
 longitude: 9.9302942
-postcode: 97072
+postcode: "97072"
 city: Würzburg
 street: "Eichendorffstraße"
 housenumber: 12a

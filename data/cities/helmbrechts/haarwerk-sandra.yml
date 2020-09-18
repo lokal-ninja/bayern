@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.2381547
 longitude: 11.7160737
-postcode: 95233
+postcode: "95233"
 city: Helmbrechts
 street: "Kulmbacher Straße"
 housenumber: 2

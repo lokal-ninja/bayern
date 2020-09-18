@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.3551754
 longitude: 10.861177600000001
-postcode: 86157
+postcode: "86157"
 city: Augsburg
 street: "Philipp-Häring-Straße"
 housenumber: 1

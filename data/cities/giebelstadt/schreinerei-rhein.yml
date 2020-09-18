@@ -3,7 +3,7 @@ type: way
 shop: Schreinerei
 latitude: 49.649356000000004
 longitude: 9.8972069
-postcode: 97232
+postcode: "97232"
 city: Giebelstadt
 street: "Kirschenweg"
 housenumber: 3

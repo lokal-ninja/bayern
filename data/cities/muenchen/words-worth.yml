@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.1492025
 longitude: 11.579376
-postcode: 80799
+postcode: "80799"
 city: München
 street: "Schellingstraße"
 housenumber: 3

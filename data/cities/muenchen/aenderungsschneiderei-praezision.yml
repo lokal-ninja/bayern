@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 48.1148096
 longitude: 11.578949300000001
-postcode: 81539
+postcode: "81539"
 city: München
 street: "Kistlerstraße"
 housenumber: 1

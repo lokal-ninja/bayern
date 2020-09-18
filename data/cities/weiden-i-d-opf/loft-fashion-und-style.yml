@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.675040200000005
 longitude: 12.1607017
-postcode: 92637
+postcode: "92637"
 city: Weiden i.d.OPf.
 street: "Sedanstraße"
 housenumber: 2-4

@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 47.8693583
 longitude: 12.6363078
-postcode: 83278
+postcode: "83278"
 city: Traunstein
 street: "Gabelsbergerstraße"
 housenumber: 1

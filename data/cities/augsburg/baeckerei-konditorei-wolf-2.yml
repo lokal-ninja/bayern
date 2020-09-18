@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.3720609
 longitude: 10.8622384
-postcode: 86156
+postcode: "86156"
 city: Augsburg
 street: "Luther-King-Straße"
 housenumber: 4

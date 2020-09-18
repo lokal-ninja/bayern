@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.070241800000005
 longitude: 11.890225800000001
-postcode: 85614
+postcode: "85614"
 city: Kirchseeon
 street: "Marktplatz"
 housenumber: 21a

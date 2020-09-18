@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.443239000000005
 longitude: 11.855373100000001
-postcode: 92224
+postcode: "92224"
 city: Amberg
 street: "Steinhofgasse"
 housenumber: 9

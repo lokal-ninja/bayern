@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 49.626905900000004
 longitude: 10.9258463
-postcode: 91093
+postcode: "91093"
 city: Heßdorf
 street: "Im Gewerbepark"
 housenumber: 7

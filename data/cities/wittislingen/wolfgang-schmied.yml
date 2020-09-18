@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.6168124
 longitude: 10.426619500000001
-postcode: 89426
+postcode: "89426"
 city: Wittislingen
 street: "Zöschlingsweilerstraße"
 housenumber: 76

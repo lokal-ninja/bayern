@@ -3,7 +3,7 @@ type: node
 shop: Käse
 latitude: 47.5190445
 longitude: 10.2700657
-postcode: 87527
+postcode: "87527"
 city: Sonthofen
 street: "Theodor-Aufsberg-Straße"
 housenumber: 10

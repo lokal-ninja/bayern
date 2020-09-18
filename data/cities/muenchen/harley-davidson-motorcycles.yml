@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 48.1373094
 longitude: 11.629042100000001
-postcode: 81677
+postcode: "81677"
 city: München
 street: "Zamdorfer Straße"
 housenumber: 20

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.792075800000006
 longitude: 9.9536973
-postcode: 97074
+postcode: "97074"
 city: Würzburg
 street: "Salvatorstraße"
 housenumber: 21

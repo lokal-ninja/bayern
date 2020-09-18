@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.390081900000006
 longitude: 10.881739000000001
-postcode: 86154
+postcode: "86154"
 city: Augsburg
 street: "Donauwörther Straße"
 housenumber: 110

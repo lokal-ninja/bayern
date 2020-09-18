@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.058500200000005
 longitude: 11.3784098
-postcode: 82131
+postcode: "82131"
 city: Gauting
 street: "Berengariastraße"
 housenumber: 5

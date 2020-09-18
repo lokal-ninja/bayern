@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.2845713
 longitude: 9.9849165
-postcode: 97705
+postcode: "97705"
 city: Stangenroth
 street: "Kreuzbergstraße"
 housenumber: 

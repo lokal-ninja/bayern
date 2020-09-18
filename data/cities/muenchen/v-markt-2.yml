@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.1218889
 longitude: 11.5977414
-postcode: 81541
+postcode: "81541"
 city: München
 street: "Balanstraße"
 housenumber: 50

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.417303100000005
 longitude: 12.9382213
-postcode: 84347
+postcode: "84347"
 city: Pfarrkirchen
 street: "Arno-Jacoby-Straße"
 housenumber: 8

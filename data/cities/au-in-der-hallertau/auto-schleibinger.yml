@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.5801049
 longitude: 11.7177784
-postcode: 84072
+postcode: "84072"
 city: Au in der Hallertau
 street: "Ortsstraße"
 housenumber: 15

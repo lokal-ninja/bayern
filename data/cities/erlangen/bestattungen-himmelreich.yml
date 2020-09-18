@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 49.6065983
 longitude: 10.9839911
-postcode: 91056
+postcode: "91056"
 city: Erlangen
 street: "Sankt Johann"
 housenumber: 17

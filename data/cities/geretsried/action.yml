@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 47.851316100000005
 longitude: 11.490795
-postcode: 82538
+postcode: "82538"
 city: Geretsried
 street: "Bunsenweg"
 housenumber: 3

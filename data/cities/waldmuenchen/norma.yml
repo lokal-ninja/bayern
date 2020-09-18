@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.377520700000005
 longitude: 12.6987825
-postcode: 93449
+postcode: "93449"
 city: Waldmünchen
 street: "Heinrich-Eiber-Straße"
 housenumber: 5

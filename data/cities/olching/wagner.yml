@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 48.208712600000005
 longitude: 11.330081100000001
-postcode: 82140
+postcode: "82140"
 city: Olching
 street: "Hauptstraße"
 housenumber: 20

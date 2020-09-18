@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 47.999278200000006
 longitude: 11.341893800000001
-postcode: 82319
+postcode: "82319"
 city: Starnberg
 street: "Hauptstraße"
 housenumber: 6

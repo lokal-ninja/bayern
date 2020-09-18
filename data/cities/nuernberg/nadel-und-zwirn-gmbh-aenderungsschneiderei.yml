@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 49.452304600000005
 longitude: 11.071216600000001
-postcode: 90402
+postcode: "90402"
 city: Nürnberg
 street: "Karl-Grillenberger-Straße"
 housenumber: 1a

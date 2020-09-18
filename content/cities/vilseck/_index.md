@@ -1,6 +1,6 @@
 ---
 title: Vilseck
 url: /vilseck/
-latitude: 
-longitude: 
+latitude: 48.3188224
+longitude: 12.7707134
 ---

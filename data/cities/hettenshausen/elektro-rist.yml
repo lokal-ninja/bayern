@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.514212400000005
 longitude: 11.5064153
-postcode: 85276
+postcode: "85276"
 city: Hettenshausen
 street: "Mühlweg"
 housenumber: 1

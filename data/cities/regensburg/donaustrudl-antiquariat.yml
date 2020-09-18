@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 49.0145561
 longitude: 12.1117795
-postcode: 93055
+postcode: "93055"
 city: Regensburg
 street: "Doktor-Theobald-Schrems-Straße"
 housenumber: 4

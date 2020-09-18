@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 48.129681700000006
 longitude: 11.600831600000001
-postcode: 81667
+postcode: "81667"
 city: München
 street: "Wörthstraße"
 housenumber: 30

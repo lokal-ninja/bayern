@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.4120812
 longitude: 11.4692103
-postcode: 85238
+postcode: "85238"
 city: Petershausen
 street: "Lagerhausstraße"
 housenumber: 4

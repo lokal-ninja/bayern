@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 49.377856200000004
 longitude: 10.1907692
-postcode: 91541
+postcode: "91541"
 city: Rothenburg ob der Tauber
 street: "Bahnhofstraße"
 housenumber: 15

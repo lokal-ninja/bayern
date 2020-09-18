@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.1108058
 longitude: 11.730515400000002
-postcode: 85540
+postcode: "85540"
 city: Haar
 street: "Bahnhofplatz"
 housenumber: 4b

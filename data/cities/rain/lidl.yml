@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.7034603
 longitude: 10.9278609
-postcode: 86641
+postcode: "86641"
 city: Rain
 street: "Neuhofweg"
 housenumber: 5

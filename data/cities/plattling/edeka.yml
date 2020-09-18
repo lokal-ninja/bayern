@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.7768311
 longitude: 12.8716459
-postcode: 94447
+postcode: "94447"
 city: Plattling
 street: "Sterngasse"
 housenumber: 1

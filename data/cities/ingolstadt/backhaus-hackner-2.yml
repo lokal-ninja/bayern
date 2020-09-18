@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.774613200000005
 longitude: 11.437425600000001
-postcode: 
+postcode: ""
 city: Ingolstadt
 street: "Schillerstraße"
 housenumber: 65

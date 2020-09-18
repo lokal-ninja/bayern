@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.4660279
 longitude: 10.991050300000001
-postcode: 90763
+postcode: "90763"
 city: Fürth
 street: "Fichtenstraße"
 housenumber: 62

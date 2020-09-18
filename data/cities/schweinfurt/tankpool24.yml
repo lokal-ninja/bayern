@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 50.0203478
 longitude: 10.214057700000001
-postcode: 97424
+postcode: "97424"
 city: Schweinfurt
 street: "Straßburgstraße"
 housenumber: 9

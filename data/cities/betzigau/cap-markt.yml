@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.7376602
 longitude: 10.3828592
-postcode: 87488
+postcode: "87488"
 city: Betzigau
 street: "Hans-Böge-Straße"
 housenumber: 1

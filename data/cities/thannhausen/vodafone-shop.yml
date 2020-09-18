@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.285360600000004
 longitude: 10.4682566
-postcode: 86470
+postcode: "86470"
 city: Thannhausen
 street: "Bahnhofstraße"
 housenumber: 41

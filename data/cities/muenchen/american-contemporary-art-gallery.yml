@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 48.138606100000004
 longitude: 11.583510100000002
-postcode: 80539
+postcode: "80539"
 city: München
 street: "Maximilianstraße"
 housenumber: 29

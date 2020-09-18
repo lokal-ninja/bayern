@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 49.242954600000004
 longitude: 12.673242700000001
-postcode: 93497
+postcode: "93497"
 city: Willmering
 street: "Boierhof"
 housenumber: 1

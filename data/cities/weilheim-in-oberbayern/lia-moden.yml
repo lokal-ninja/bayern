@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.838213100000004
 longitude: 11.141919300000001
-postcode: 82362
+postcode: "82362"
 city: Weilheim in Oberbayern
 street: "Pöltnerstraße"
 housenumber: 11

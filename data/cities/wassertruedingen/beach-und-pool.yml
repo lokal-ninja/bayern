@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 49.0425465
 longitude: 10.5885456
-postcode: 91717
+postcode: "91717"
 city: Wassertrüdingen
 street: "Am Krautgarten"
 housenumber: 4

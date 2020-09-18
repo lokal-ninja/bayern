@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.0462202
 longitude: 11.3574616
-postcode: 91171
+postcode: "91171"
 city: Greding
 street: "Kindinger Straße"
 housenumber: 17

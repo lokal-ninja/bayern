@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 49.033304400000006
 longitude: 12.115500200000001
-postcode: 93057
+postcode: "93057"
 city: Regensburg
 street: "Isarstraße"
 housenumber: 8

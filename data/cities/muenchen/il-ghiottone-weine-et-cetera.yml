@@ -3,10 +3,10 @@ type: node
 shop: Spirituosen
 latitude: 48.116829700000004
 longitude: 11.590701000000001
-postcode: 81541
+postcode: "81541"
 city: München
 street: "Eintrachtstraße"
 housenumber: 3
 phone: ""
-opening_hours: ""
+opening_hours: "Tu-Th 17:00-20:00; Fr 15:00-20:00; Sa 10:00-14:00"
 website: ""

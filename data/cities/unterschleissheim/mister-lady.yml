@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.290832300000005
 longitude: 11.570148000000001
-postcode: 85716
+postcode: "85716"
 city: Unterschleißheim
 street: "Morsestraße"
 housenumber: 1

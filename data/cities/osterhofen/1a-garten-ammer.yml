@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.7038293
 longitude: 13.0171697
-postcode: 94486
+postcode: "94486"
 city: Osterhofen
 street: "Plattlinger Straße"
 housenumber: 28

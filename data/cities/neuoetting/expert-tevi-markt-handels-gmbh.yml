@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.243032
 longitude: 12.707665700000002
-postcode: 84524
+postcode: "84524"
 city: Neuötting
 street: "Lohgerberstraße"
 housenumber: 15

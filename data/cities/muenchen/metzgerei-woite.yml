@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 48.2172141
 longitude: 11.529129500000002
-postcode: 80995
+postcode: "80995"
 city: München
 street: "Feldmochinger Straße"
 housenumber: 413

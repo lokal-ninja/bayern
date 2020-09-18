@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 48.38555160000001
 longitude: 10.8498026
-postcode: 86156
+postcode: "86156"
 city: Augsburg
 street: "Kobelweg"
 housenumber: 91

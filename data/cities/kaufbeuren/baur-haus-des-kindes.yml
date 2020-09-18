@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.879235200000004
 longitude: 10.6225073
-postcode: 87600
+postcode: "87600"
 city: Kaufbeuren
 street: "Ludwigstraße"
 housenumber: 4

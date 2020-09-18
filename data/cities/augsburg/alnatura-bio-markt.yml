@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.310053
 longitude: 10.891056800000001
-postcode: 86179
+postcode: "86179"
 city: Augsburg
 street: "Inninger Straße"
 housenumber: 97c

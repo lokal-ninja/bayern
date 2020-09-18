@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 49.177114700000004
 longitude: 11.0109402
-postcode: 91166
+postcode: "91166"
 city: Georgensgmünd
 street: "Pleinfelder Straße"
 housenumber: 66b

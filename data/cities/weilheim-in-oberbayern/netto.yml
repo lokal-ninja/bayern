@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.840624600000005
 longitude: 11.138567100000001
-postcode: 82362
+postcode: "82362"
 city: Weilheim in Oberbayern
 street: "Lohgasse"
 housenumber: 4

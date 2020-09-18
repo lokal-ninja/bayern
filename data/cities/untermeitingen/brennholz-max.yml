@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 48.1674554
 longitude: 10.8263104
-postcode: 86836
+postcode: "86836"
 city: Untermeitingen
 street: "Brünnerstraße"
 housenumber: 6

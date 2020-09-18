@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.453449400000004
 longitude: 11.077594600000001
-postcode: 90403
+postcode: "90403"
 city: Nürnberg
 street: "Hauptmarkt"
 housenumber: 10

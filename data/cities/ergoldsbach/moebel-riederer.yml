@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.6946705
 longitude: 12.2032272
-postcode: 84061
+postcode: "84061"
 city: Ergoldsbach
 street: "Hauptstraße"
 housenumber: 57

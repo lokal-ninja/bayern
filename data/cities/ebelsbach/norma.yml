@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.984207600000005
 longitude: 10.6693087
-postcode: 97500
+postcode: "97500"
 city: Ebelsbach
 street: "Bahnhofstraße"
 housenumber: 6

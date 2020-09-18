@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 49.674807300000005
 longitude: 12.1610887
-postcode: 92637
+postcode: "92637"
 city: Weiden i.d.OPf.
 street: "Wörthstraße"
 housenumber: 3

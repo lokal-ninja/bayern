@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.129570300000005
 longitude: 11.631054200000001
-postcode: 81673
+postcode: "81673"
 city: München
 street: "Baumkirchner Straße"
 housenumber: 25

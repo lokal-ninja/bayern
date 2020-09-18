@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.0824061
 longitude: 11.4852015
-postcode: 81475
+postcode: "81475"
 city: München
 street: "Königswieser Straße"
 housenumber: 5

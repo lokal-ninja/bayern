@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.0844168
 longitude: 9.245328
-postcode: 63825
+postcode: "63825"
 city: Schöllkrippen
 street: "Aschaffenburger Straße"
 housenumber: 14

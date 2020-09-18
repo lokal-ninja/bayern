@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 48.466328700000005
 longitude: 11.143551500000001
-postcode: 86551
+postcode: "86551"
 city: Aichach
 street: "Schrobenhausener Straße"
 housenumber: 46

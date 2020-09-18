@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.481624100000005
 longitude: 11.116421800000001
-postcode: 90411
+postcode: "90411"
 city: Nürnberg
 street: "Neumeyerstraße"
 housenumber: 7-11

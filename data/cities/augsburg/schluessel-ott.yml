@@ -3,7 +3,7 @@ type: node
 shop: Schlüsseldienst
 latitude: 48.3790356
 longitude: 10.921187300000001
-postcode: 86165
+postcode: "86165"
 city: Augsburg
 street: "Wartenburger Straße"
 housenumber: 6

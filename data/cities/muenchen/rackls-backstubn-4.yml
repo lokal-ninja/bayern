@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.188608900000006
 longitude: 11.4608751
-postcode: 80999
+postcode: "80999"
 city: München
 street: "Vesaliusstraße"
 housenumber: 33

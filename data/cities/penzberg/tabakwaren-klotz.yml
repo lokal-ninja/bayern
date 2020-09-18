@@ -1,12 +1,12 @@
 id: 4784607025
 type: node
 shop: Tabak
-latitude: 47.750116500000004
-longitude: 11.3725109
-postcode: 82377
+latitude: 47.7500913
+longitude: 11.3725605
+postcode: "82377"
 city: Penzberg
 street: "Philippstraße"
 housenumber: 31
-phone: ""
-opening_hours: ""
-website: ""
+phone: "+49 8856 5530"
+opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-16:00"
+website: "https://www.tabakwaren-klotz.de/"

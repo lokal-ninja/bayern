@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 49.4423356
 longitude: 11.0484539
-postcode: 90439
+postcode: "90439"
 city: Nürnberg
 street: "Rothenburger Straße"
 housenumber: 166

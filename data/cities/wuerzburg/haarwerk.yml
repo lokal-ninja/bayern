@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.79722760000001
 longitude: 9.9347577
-postcode: 97070
+postcode: "97070"
 city: Würzburg
 street: "Textorstraße"
 housenumber: 13

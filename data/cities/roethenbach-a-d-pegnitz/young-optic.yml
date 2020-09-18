@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.486298500000004
 longitude: 11.246595300000001
-postcode: 90552
+postcode: "90552"
 city: Röthenbach a.d.Pegnitz
 street: "Rückersdorfer Straße"
 housenumber: 44

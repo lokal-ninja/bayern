@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.5095474
 longitude: 11.4283833
-postcode: 91217
+postcode: "91217"
 city: Hersbruck
 street: "Oberer Markt"
 housenumber: 16

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.948043000000006
 longitude: 11.7919832
-postcode: 85653
+postcode: "85653"
 city: Aying
 street: "Römerstraße"
 housenumber: 16

@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 50.008172800000004
 longitude: 9.2012926
-postcode: 63768
+postcode: "63768"
 city: Hösbach
 street: "Schubertstraße"
 housenumber: 1

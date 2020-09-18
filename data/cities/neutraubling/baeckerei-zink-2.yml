@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.98172640000001
 longitude: 12.191264
-postcode: 93073
+postcode: "93073"
 city: Neutraubling
 street: "Pommernstraße"
 housenumber: 4

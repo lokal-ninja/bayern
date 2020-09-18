@@ -3,7 +3,7 @@ type: way
 shop: Schlüsseldienst
 latitude: 50.136221000000006
 longitude: 11.812936
-postcode: 95239
+postcode: "95239"
 city: Zell im Fichtelgebirge
 street: "Friedmannsdorfer Straße"
 housenumber: 9

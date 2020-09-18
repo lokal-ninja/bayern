@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 49.949492500000005
 longitude: 12.2399514
-postcode: 95666
+postcode: "95666"
 city: Mitterteich
 street: "Vorstadt"
 housenumber: 25

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.365958400000004
 longitude: 10.8901337
-postcode: 86150
+postcode: "86150"
 city: Augsburg
 street: "Bahnhofstraße"
 housenumber: 17

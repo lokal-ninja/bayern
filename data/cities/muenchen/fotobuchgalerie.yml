@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.1634479
 longitude: 11.5754769
-postcode: 80803
+postcode: "80803"
 city: München
 street: "Clemensstraße"
 housenumber: 61

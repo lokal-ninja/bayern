@@ -3,7 +3,7 @@ type: node
 shop: Reifen
 latitude: 48.251630500000005
 longitude: 12.397645500000001
-postcode: 84539
+postcode: "84539"
 city: Ampfing
 street: "Herzog-Heinrich-Straße"
 housenumber: 16

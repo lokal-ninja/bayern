@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 49.4953019
 longitude: 10.916874
-postcode: 90768
+postcode: "90768"
 city: Fürth
 street: "Breiter Steig"
 housenumber: 25

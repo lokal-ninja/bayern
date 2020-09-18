@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 49.672790500000005
 longitude: 11.1710373
-postcode: 91358
+postcode: "91358"
 city: Kunreuth
 street: ""
 housenumber: 20

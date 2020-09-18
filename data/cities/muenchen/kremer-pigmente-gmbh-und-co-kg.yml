@@ -3,7 +3,7 @@ type: node
 shop: Farben
 latitude: 48.1494665
 longitude: 11.5724426
-postcode: 80799
+postcode: "80799"
 city: München
 street: "Barer Straße"
 housenumber: 46

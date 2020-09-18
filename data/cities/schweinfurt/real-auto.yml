@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.0300723
 longitude: 10.235506500000001
-postcode: 97424
+postcode: "97424"
 city: Schweinfurt
 street: "Friedrich-Rätzer-Straße"
 housenumber: 7-9

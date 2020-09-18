@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 49.0289191
 longitude: 12.208568000000001
-postcode: 93093
+postcode: "93093"
 city: Donaustauf
 street: "Maxstraße"
 housenumber: 24

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.44523
 longitude: 11.857000900000001
-postcode: 92224
+postcode: "92224"
 city: Amberg
 street: "Georgenstraße"
 housenumber: 4

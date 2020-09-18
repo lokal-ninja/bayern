@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 49.7184663
 longitude: 11.0615775
-postcode: 91301
+postcode: "91301"
 city: Forchheim
 street: "Marktplatz"
 housenumber: 1a

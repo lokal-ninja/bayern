@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 49.4539406
 longitude: 11.075854300000001
-postcode: 90403
+postcode: "90403"
 city: Nürnberg
 street: "Winklerstraße"
 housenumber: 13

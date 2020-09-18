@@ -3,7 +3,7 @@ type: way
 shop: Outdoor
 latitude: 48.5356454
 longitude: 12.153533600000001
-postcode: 84028
+postcode: "84028"
 city: Landshut
 street: "Neustadt"
 housenumber: 464

@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 49.4610179
 longitude: 11.068994100000001
-postcode: 90419
+postcode: "90419"
 city: Nürnberg
 street: "Jagdstraße"
 housenumber: 26

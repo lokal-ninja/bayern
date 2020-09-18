@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.020677500000005
 longitude: 11.584383
-postcode: 82041
+postcode: "82041"
 city: Oberhaching
 street: "Bahnhofplatz"
 housenumber: 3

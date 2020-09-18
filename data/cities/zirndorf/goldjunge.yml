@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.4566809
 longitude: 10.9222464
-postcode: 90513
+postcode: "90513"
 city: Zirndorf
 street: "Weiherhofer Hauptstraße"
 housenumber: 7

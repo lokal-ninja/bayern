@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.171635900000005
 longitude: 12.8330269
-postcode: 84489
+postcode: "84489"
 city: Burghausen
 street: "Robert-Koch-Straße"
 housenumber: 11

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.716094500000004
 longitude: 10.309660000000001
-postcode: 87435
+postcode: "87435"
 city: Kempten (Allgäu)
 street: "Schellenbergstraße"
 housenumber: 4b

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.5828897
 longitude: 11.0929526
-postcode: 86554
+postcode: "86554"
 city: Pöttmes
 street: "Schrobenhausener Straße"
 housenumber: 5

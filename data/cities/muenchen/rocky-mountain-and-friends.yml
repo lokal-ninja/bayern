@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.1261036
 longitude: 11.5677347
-postcode: 80469
+postcode: "80469"
 city: München
 street: "Am Glockenbach"
 housenumber: 10

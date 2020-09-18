@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 48.0560143
 longitude: 10.8892048
-postcode: 86899
+postcode: "86899"
 city: Landsberg am Lech
 street: "Am Penzinger Feld"
 housenumber: 21

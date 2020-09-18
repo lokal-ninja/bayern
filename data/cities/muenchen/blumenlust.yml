@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.0941647
 longitude: 11.4982673
-postcode: 81476
+postcode: "81476"
 city: München
 street: "Forstenrieder Allee"
 housenumber: 63

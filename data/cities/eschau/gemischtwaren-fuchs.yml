@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.8522502
 longitude: 9.2788895
-postcode: 63863
+postcode: "63863"
 city: Eschau
 street: "Dorfstraße"
 housenumber: 19

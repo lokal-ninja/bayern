@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 48.1487624
 longitude: 11.573718600000001
-postcode: 80333
+postcode: "80333"
 city: München
 street: "Theresienstraße"
 housenumber: 56

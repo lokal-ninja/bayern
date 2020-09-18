@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 49.511156400000004
 longitude: 11.2803187
-postcode: 91207
+postcode: "91207"
 city: Lauf a.d.Pegnitz
 street: "Johannisstraße"
 housenumber: 1

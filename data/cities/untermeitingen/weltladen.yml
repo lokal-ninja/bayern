@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.1634577
 longitude: 10.805446
-postcode: 86836
+postcode: "86836"
 city: Untermeitingen
 street: "Schloßberg"
 housenumber: 12

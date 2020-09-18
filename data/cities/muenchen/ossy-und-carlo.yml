@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.160141
 longitude: 11.576382200000001
-postcode: 
+postcode: ""
 city: München
 street: "Hohenzollernstraße"
 housenumber: 45

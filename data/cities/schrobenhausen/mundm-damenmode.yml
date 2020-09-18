@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 48.560134000000005
 longitude: 11.2646671
-postcode: 86529
+postcode: "86529"
 city: Schrobenhausen
 street: "Lenbachstraße"
 housenumber: 56

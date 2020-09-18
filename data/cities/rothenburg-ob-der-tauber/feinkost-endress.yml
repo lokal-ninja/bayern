@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.3770186
 longitude: 10.181660200000001
-postcode: 91541
+postcode: "91541"
 city: Rothenburg ob der Tauber
 street: "Rödergasse"
 housenumber: 6

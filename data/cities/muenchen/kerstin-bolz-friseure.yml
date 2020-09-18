@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.1292746
 longitude: 11.5118778
-postcode: 80686
+postcode: "80686"
 city: München
 street: "Steinbeisplatz"
 housenumber: 6

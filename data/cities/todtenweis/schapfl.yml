@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.515256400000005
 longitude: 10.9136839
-postcode: 86447
+postcode: "86447"
 city: Todtenweis
 street: "Langweider Straße"
 housenumber: 22

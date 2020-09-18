@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.154922000000006
 longitude: 11.5755893
-postcode: 80799
+postcode: "80799"
 city: München
 street: "Georgenstraße"
 housenumber: 39

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.461533200000005
 longitude: 11.0549364
-postcode: 90419
+postcode: "90419"
 city: Nürnberg
 street: "Schnieglinger Straße"
 housenumber: 25

@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 49.745986
 longitude: 10.634122300000001
-postcode: 96132
+postcode: "96132"
 city: Schlüsselfeld
 street: ""
 housenumber: 19

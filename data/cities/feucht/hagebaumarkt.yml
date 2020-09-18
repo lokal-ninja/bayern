@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.3656857
 longitude: 11.2046623
-postcode: 90537
+postcode: "90537"
 city: Feucht
 street: "Schwarzenbrucker Straße"
 housenumber: 1

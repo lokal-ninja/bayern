@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.019648000000004
 longitude: 9.780932400000001
-postcode: 97780
+postcode: "97780"
 city: Gössenheim
 street: "Hauptstraße"
 housenumber: 28

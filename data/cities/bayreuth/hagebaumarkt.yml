@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.9523152
 longitude: 11.5670687
-postcode: 95445
+postcode: "95445"
 city: Bayreuth
 street: "Spinnereistraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.9479873
 longitude: 11.1002258
-postcode: 86911
+postcode: "86911"
 city: Dießen am Ammersee
 street: "Herrenstraße"
 housenumber: 20

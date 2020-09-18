@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.0357848
 longitude: 10.2129302
-postcode: 97424
+postcode: "97424"
 city: Schweinfurt
 street: "Hauptbahnhofstraße"
 housenumber: 9

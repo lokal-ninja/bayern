@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 49.507727900000006
 longitude: 11.415510900000001
-postcode: 91217
+postcode: "91217"
 city: Hersbruck
 street: "Ringstraße"
 housenumber: 1

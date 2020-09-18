@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.254681000000005
 longitude: 10.6042802
-postcode: 86863
+postcode: "86863"
 city: Langenneufnach
 street: "Hummelweg"
 housenumber: 5

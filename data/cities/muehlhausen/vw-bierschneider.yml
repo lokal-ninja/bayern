@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.1623365
 longitude: 11.447386600000002
-postcode: 92360
+postcode: "92360"
 city: Mühlhausen
 street: "Sulzweg"
 housenumber: 2

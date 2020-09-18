@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.4606318
 longitude: 11.105413800000001
-postcode: 90489
+postcode: "90489"
 city: Nürnberg
 street: "Welserstraße"
 housenumber: 1-5

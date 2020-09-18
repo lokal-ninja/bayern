@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 48.1905857
 longitude: 11.545747800000001
-postcode: 80935
+postcode: "80935"
 city: München
 street: "Wilhelmine-Reichard-Straße"
 housenumber: 14

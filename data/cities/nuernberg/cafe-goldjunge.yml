@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.3515474
 longitude: 11.0557405
-postcode: 90455
+postcode: "90455"
 city: Nürnberg
 street: "Lindenplatz"
 housenumber: 5

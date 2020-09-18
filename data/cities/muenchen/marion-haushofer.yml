@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.1516225
 longitude: 11.536571100000002
-postcode: 80634
+postcode: "80634"
 city: München
 street: "Nymphenburger Straße"
 housenumber: 147

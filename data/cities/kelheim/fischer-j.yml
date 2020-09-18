@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.918112400000005
 longitude: 11.8738618
-postcode: 93309
+postcode: "93309"
 city: Kelheim
 street: "Ludwigsplatz"
 housenumber: 8

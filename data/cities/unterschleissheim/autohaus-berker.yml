@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.281412100000004
 longitude: 11.565736600000001
-postcode: 85716
+postcode: "85716"
 city: Unterschleißheim
 street: "Landshuter Straße"
 housenumber: 23

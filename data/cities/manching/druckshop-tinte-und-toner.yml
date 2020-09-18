@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.7154054
 longitude: 11.493908900000001
-postcode: 85077
+postcode: "85077"
 city: Manching
 street: "Bergstraße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: way
 shop: Wein
 latitude: 47.9655737
 longitude: 10.118807400000001
-postcode: 87740
+postcode: "87740"
 city: Buxheim
 street: "Westerhart"
 housenumber: 1a

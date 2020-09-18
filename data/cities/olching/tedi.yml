@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 48.216226400000004
 longitude: 11.3472884
-postcode: 82140
+postcode: "82140"
 city: Olching
 street: "Feursstraße"
 housenumber: 56

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.054572
 longitude: 9.6554068
-postcode: 97737
+postcode: "97737"
 city: Gemünden am Main
 street: "Lohrer Straße"
 housenumber: 22

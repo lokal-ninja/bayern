@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.374295700000005
 longitude: 11.780348
-postcode: 95180
+postcode: "95180"
 city: Berg
 street: "Hofer Straße"
 housenumber: 16

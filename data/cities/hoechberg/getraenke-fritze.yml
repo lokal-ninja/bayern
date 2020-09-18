@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 49.771755500000005
 longitude: 9.8679007
-postcode: 97204
+postcode: "97204"
 city: Höchberg
 street: "Leibnizstraße"
 housenumber: 2

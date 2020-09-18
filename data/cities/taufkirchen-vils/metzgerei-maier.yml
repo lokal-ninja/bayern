@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.344065400000005
 longitude: 12.1302763
-postcode: 84416
+postcode: "84416"
 city: Taufkirchen (Vils)
 street: "Landshuter Straße"
 housenumber: 5

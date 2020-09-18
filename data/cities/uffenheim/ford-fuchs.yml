@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.5413695
 longitude: 10.2308091
-postcode: 97215
+postcode: "97215"
 city: Uffenheim
 street: "Rothenburger Straße"
 housenumber: 35

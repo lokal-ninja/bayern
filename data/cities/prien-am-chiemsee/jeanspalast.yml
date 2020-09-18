@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.854742800000004
 longitude: 12.3460011
-postcode: 83209
+postcode: "83209"
 city: Prien am Chiemsee
 street: "Postweg"
 housenumber: 3

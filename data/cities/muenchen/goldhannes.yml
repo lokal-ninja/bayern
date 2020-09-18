@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.1629548
 longitude: 11.571951700000001
-postcode: 80796
+postcode: "80796"
 city: München
 street: "Herzogstraße"
 housenumber: 86

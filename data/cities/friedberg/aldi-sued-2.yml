@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.4062938
 longitude: 10.9510409
-postcode: 86316
+postcode: "86316"
 city: Friedberg
 street: "Winterbruckenweg"
 housenumber: 62

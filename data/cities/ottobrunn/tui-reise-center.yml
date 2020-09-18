@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.063537600000004
 longitude: 11.6794533
-postcode: 85521
+postcode: "85521"
 city: Ottobrunn
 street: "Roseggerstraße"
 housenumber: 34

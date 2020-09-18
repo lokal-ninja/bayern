@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 48.0643736
 longitude: 11.6631405
-postcode: 85521
+postcode: "85521"
 city: Ottobrunn
 street: "Naupliaallee"
 housenumber: 10

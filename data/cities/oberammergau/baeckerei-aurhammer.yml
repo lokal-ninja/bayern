@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.5968134
 longitude: 11.0657703
-postcode: 82487
+postcode: "82487"
 city: Oberammergau
 street: "Schnitzlergasse"
 housenumber: 11

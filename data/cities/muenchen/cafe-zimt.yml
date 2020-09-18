@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.1213132
 longitude: 11.559993500000001
-postcode: 80469
+postcode: "80469"
 city: München
 street: "Ehrengutstraße"
 housenumber: 9

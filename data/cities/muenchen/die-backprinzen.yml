@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.1624764
 longitude: 11.5415822
-postcode: 80637
+postcode: "80637"
 city: München
 street: "Heideckstraße"
 housenumber: 4

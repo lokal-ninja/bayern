@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.839117300000005
 longitude: 12.124463400000002
-postcode: 84069
+postcode: "84069"
 city: Schierling
 street: "Leierndorfer Straße"
 housenumber: 38

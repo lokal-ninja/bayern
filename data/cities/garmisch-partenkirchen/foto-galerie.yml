@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 47.4932803
 longitude: 11.088125400000001
-postcode: 82467
+postcode: "82467"
 city: Garmisch-Partenkirchen
 street: "Am Kurpark"
 housenumber: 29

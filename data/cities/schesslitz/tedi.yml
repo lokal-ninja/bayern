@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 49.9704245
 longitude: 11.024545
-postcode: 96110
+postcode: "96110"
 city: Scheßlitz
 street: "Bamberger Straße"
 housenumber: 26

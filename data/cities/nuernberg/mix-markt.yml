@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.430024
 longitude: 11.087675500000001
-postcode: 90461
+postcode: "90461"
 city: Nürnberg
 street: "Neulichtenhofstraße"
 housenumber: 16

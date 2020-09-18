@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.453512800000006
 longitude: 11.0125132
-postcode: 90431
+postcode: "90431"
 city: Nürnberg
 street: "Leyher Straße"
 housenumber: 135b

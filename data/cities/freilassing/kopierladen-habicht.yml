@@ -3,7 +3,7 @@ type: way
 shop: Kopieren
 latitude: 47.84282210000001
 longitude: 12.9745434
-postcode: 83395
+postcode: "83395"
 city: Freilassing
 street: "Münchener Straße"
 housenumber: 52

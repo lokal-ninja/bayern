@@ -3,7 +3,7 @@ type: way
 shop: Schmuck
 latitude: 48.3626743
 longitude: 11.376078900000001
-postcode: 85229
+postcode: "85229"
 city: Markt Indersdorf
 street: "Freisinger Straße"
 housenumber: 17

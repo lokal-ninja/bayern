@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.5778138
 longitude: 10.496825000000001
-postcode: 89407
+postcode: "89407"
 city: Dillingen
 street: "Am Stadtberg"
 housenumber: 1

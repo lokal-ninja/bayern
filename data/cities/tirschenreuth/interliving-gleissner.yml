@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 49.8678022
 longitude: 12.3414585
-postcode: 95643
+postcode: "95643"
 city: Tirschenreuth
 street: "Einsteinstraße"
 housenumber: 2

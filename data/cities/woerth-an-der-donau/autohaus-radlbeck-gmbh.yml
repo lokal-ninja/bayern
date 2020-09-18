@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.9976045
 longitude: 12.3902084
-postcode: 93086
+postcode: "93086"
 city: Wörth an der Donau
 street: "Birkenstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.850014300000005
 longitude: 12.137587
-postcode: 83022
+postcode: "83022"
 city: Rosenheim
 street: "Chiemseestraße"
 housenumber: 37a

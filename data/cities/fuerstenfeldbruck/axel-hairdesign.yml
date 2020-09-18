@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.1735193
 longitude: 11.264025700000001
-postcode: 82256
+postcode: "82256"
 city: Fürstenfeldbruck
 street: "Oskar-von-Miller-Straße"
 housenumber: 2

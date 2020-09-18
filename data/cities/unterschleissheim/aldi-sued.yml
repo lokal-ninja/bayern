@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.2821761
 longitude: 11.5676596
-postcode: 85716
+postcode: "85716"
 city: Unterschleißheim
 street: "Keplerstraße"
 housenumber: 36

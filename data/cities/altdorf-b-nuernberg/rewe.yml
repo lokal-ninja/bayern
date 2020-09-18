@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.38172470000001
 longitude: 11.3430724
-postcode: 90518
+postcode: "90518"
 city: Altdorf b.Nürnberg
 street: "Prackenfelser Straße"
 housenumber: 8

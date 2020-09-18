@@ -3,7 +3,7 @@ type: node
 shop: Angeln
 latitude: 49.197952400000005
 longitude: 10.6995109
-postcode: 91732
+postcode: "91732"
 city: Merkendorf
 street: "Am Sportplatz"
 housenumber: 4

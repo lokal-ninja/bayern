@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.5449867
 longitude: 11.0284671
-postcode: 91058
+postcode: "91058"
 city: Erlangen
 street: "Wetterkreuz"
 housenumber: 8

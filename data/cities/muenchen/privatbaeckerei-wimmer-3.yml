@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.1955608
 longitude: 11.583707
-postcode: 80939
+postcode: "80939"
 city: München
 street: "Ingolstädter Straße"
 housenumber: 101

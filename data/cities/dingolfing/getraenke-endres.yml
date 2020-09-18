@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 48.637996300000005
 longitude: 12.4949404
-postcode: 84130
+postcode: "84130"
 city: Dingolfing
 street: "Bahnhofstraße"
 housenumber: 33

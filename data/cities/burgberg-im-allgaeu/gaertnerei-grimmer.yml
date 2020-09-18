@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 47.5260192
 longitude: 10.2805309
-postcode: 87545
+postcode: "87545"
 city: Burgberg im Allgäu
 street: "An der Ostrach"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.0678926
 longitude: 10.3223506
-postcode: 91550
+postcode: "91550"
 city: Dinkelsbühl
 street: "Drysatz"
 housenumber: 4

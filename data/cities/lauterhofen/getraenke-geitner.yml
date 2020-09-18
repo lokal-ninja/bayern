@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 49.368307800000004
 longitude: 11.604644700000001
-postcode: 92283
+postcode: "92283"
 city: Lauterhofen
 street: "Michelsberg"
 housenumber: 4a

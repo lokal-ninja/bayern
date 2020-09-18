@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 49.718153300000004
 longitude: 11.1058205
-postcode: 91301
+postcode: "91301"
 city: Forchheim
 street: "Reuther Straße"
 housenumber: 52

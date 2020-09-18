@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.8756294
 longitude: 12.9586731
-postcode: 83416
+postcode: "83416"
 city: Saaldorf-Surheim
 street: "Schulstraße"
 housenumber: 1A

@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 48.1200435
 longitude: 11.5463789
-postcode: 81371
+postcode: "81371"
 city: München
 street: "Danklstraße"
 housenumber: 8

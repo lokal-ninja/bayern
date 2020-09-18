@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 47.960891100000005
 longitude: 11.5894858
-postcode: 82054
+postcode: "82054"
 city: Sauerlach
 street: "Oberbiberger Straße"
 housenumber: 12

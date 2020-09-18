@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.58350170000001
 longitude: 13.4357722
-postcode: 94034
+postcode: "94034"
 city: Passau
 street: "Stephanstraße"
 housenumber: 61

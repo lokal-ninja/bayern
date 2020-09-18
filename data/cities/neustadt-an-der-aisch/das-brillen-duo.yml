@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.5806818
 longitude: 10.609375700000001
-postcode: 91413
+postcode: "91413"
 city: Neustadt an der Aisch
 street: "Bamberger Straße"
 housenumber: 10

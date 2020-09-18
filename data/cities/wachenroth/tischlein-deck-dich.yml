@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 49.751752
 longitude: 10.7205428
-postcode: 96193
+postcode: "96193"
 city: Wachenroth
 street: "An der Leite"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.2599443
 longitude: 10.2410821
-postcode: 91637
+postcode: "91637"
 city: Wörnitz
 street: "Am Kreisel"
 housenumber: 3

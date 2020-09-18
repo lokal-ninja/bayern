@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 49.4533032
 longitude: 11.121651100000001
-postcode: 90480
+postcode: "90480"
 city: Nürnberg
 street: "Gleißhammerstraße"
 housenumber: 111

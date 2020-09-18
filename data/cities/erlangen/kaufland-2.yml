@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.59959610000001
 longitude: 11.0012767
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Westliche Stadtmauerstraße"
 housenumber: 27

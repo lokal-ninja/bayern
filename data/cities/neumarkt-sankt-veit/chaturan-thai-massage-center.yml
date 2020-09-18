@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 48.3595939
 longitude: 12.5089587
-postcode: 84494
+postcode: "84494"
 city: Neumarkt-Sankt Veit
 street: "Birkenstraße"
 housenumber: 5a

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.998249400000006
 longitude: 11.343991800000001
-postcode: 82319
+postcode: "82319"
 city: Starnberg
 street: "Maximilianstraße"
 housenumber: 10

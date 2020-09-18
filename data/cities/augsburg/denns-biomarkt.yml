@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.3643512
 longitude: 10.9110019
-postcode: 86153
+postcode: "86153"
 city: Augsburg
 street: "Oberbürgermeister-Hohner-Straße"
 housenumber: 1a

@@ -3,10 +3,10 @@ type: way
 shop: Friseur
 latitude: 50.296618
 longitude: 10.9772149
-postcode: 96486
+postcode: "96486"
 city: Lautertal
 street: "Stetsambach"
 housenumber: 2a
-phone: "+49 (9561) 50463"
-opening_hours: ""
-website: ""
+phone: "+49 9561 50463"
+opening_hours: "Tu,Th 08:30-20:00; We,Fr 08:30-18:00; Su 08:00-14:00"
+website: "https://www.haarstudio-topline.de/"

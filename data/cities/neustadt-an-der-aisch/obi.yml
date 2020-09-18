@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.5780722
 longitude: 10.598988700000001
-postcode: 91413
+postcode: "91413"
 city: Neustadt an der Aisch
 street: "Riedweg"
 housenumber: 11

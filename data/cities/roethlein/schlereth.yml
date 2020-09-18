@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.987803400000004
 longitude: 10.221689300000001
-postcode: 97520
+postcode: "97520"
 city: Röthlein
 street: "Mühlbach"
 housenumber: 1

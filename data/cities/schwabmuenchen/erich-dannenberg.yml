@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.177123400000006
 longitude: 10.7543612
-postcode: 86830
+postcode: "86830"
 city: Schwabmünchen
 street: "Mindelheimer Straße"
 housenumber: 18

@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 48.538622600000004
 longitude: 12.1535481
-postcode: 84028
+postcode: "84028"
 city: Landshut
 street: "Heilig-Geist-Gasse"
 housenumber: 406

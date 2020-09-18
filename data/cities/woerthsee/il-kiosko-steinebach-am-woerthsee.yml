@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 48.064834000000005
 longitude: 11.196406000000001
-postcode: 82237
+postcode: "82237"
 city: Wörthsee
 street: "Seepromenade"
 housenumber: 18

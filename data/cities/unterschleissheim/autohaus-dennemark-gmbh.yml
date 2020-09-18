@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.2833295
 longitude: 11.5858845
-postcode: 85716
+postcode: "85716"
 city: Unterschleißheim
 street: "Sportplatzstraße"
 housenumber: 1

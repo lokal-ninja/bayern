@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.3475252
 longitude: 12.130191
-postcode: 84416
+postcode: "84416"
 city: Taufkirchen (Vils)
 street: "Landshuter Straße"
 housenumber: 30

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.136664200000006
 longitude: 11.5478573
-postcode: 80339
+postcode: "80339"
 city: München
 street: "Theresienhöhe"
 housenumber: 5

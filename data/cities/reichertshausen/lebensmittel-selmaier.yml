@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.435591900000006
 longitude: 11.4585346
-postcode: 
+postcode: ""
 city: Reichertshausen
 street: "Hauptstraße"
 housenumber: 23

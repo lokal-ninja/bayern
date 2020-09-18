@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.457424200000005
 longitude: 11.1284462
-postcode: 86551
+postcode: "86551"
 city: Aichach
 street: "Sudetenstraße"
 housenumber: 1

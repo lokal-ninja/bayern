@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.572660000000006
 longitude: 13.4611864
-postcode: 94032
+postcode: "94032"
 city: Passau
 street: "Heiliggeistgasse"
 housenumber: 19

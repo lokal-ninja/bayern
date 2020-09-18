@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 47.849183100000005
 longitude: 12.0718338
-postcode: 83059
+postcode: "83059"
 city: Kolbermoor
 street: "Rosenheimer Straße"
 housenumber: 42

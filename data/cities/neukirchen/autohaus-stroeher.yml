@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.9740806
 longitude: 12.7528707
-postcode: 94362
+postcode: "94362"
 city: Neukirchen
 street: "Bayerwaldstraße"
 housenumber: 2

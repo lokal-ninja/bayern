@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.1094183
 longitude: 11.190154000000001
-postcode: 91177
+postcode: "91177"
 city: Thalmässing
 street: "Alfershausen"
 housenumber: 126

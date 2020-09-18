@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.1417876
 longitude: 11.560660400000002
-postcode: 80335
+postcode: "80335"
 city: München
 street: "Dachauer Straße"
 housenumber: 2

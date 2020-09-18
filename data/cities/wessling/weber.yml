@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 48.0765897
 longitude: 11.252122
-postcode: 82234
+postcode: "82234"
 city: Weßling
 street: "Hauptstraße"
 housenumber: 23

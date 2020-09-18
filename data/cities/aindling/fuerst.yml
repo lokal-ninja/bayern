@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.511208
 longitude: 10.9545911
-postcode: 86447
+postcode: "86447"
 city: Aindling
 street: "Schulstraße"
 housenumber: 8

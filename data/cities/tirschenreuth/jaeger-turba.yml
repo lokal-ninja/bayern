@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 49.877507200000004
 longitude: 12.3376347
-postcode: 95643
+postcode: "95643"
 city: Tirschenreuth
 street: "Maximilianplatz"
 housenumber: 16-18

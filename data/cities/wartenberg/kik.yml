@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.4057849
 longitude: 11.9864654
-postcode: 85456
+postcode: "85456"
 city: Wartenberg
 street: "Strogenstraße"
 housenumber: 41

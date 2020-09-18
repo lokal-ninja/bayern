@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 48.809754000000005
 longitude: 11.471213500000001
-postcode: 85101
+postcode: "85101"
 city: Lenting
 street: "Industriestraße"
 housenumber: 1

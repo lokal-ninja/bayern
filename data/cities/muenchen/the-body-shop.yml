@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.135310600000004
 longitude: 11.570688
-postcode: 80331
+postcode: "80331"
 city: München
 street: "Sendlinger Straße"
 housenumber: 21

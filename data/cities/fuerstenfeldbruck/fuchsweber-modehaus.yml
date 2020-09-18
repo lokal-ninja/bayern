@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.1772361
 longitude: 11.254106
-postcode: 82256
+postcode: "82256"
 city: Fürstenfeldbruck
 street: "Schöngeisinger Straße"
 housenumber: 7

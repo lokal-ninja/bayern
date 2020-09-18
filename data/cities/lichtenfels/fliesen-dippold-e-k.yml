@@ -3,7 +3,7 @@ type: node
 shop: Fliesen
 latitude: 50.1486432
 longitude: 11.0817454
-postcode: 96215
+postcode: "96215"
 city: Lichtenfels
 street: "Birkenweg"
 housenumber: 6

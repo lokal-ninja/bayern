@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.1308391
 longitude: 12.12513
-postcode: 93128
+postcode: "93128"
 city: Regenstauf
 street: "Straßäcker"
 housenumber: 2

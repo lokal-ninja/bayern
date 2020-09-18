@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.8401021
 longitude: 11.141638
-postcode: 82362
+postcode: "82362"
 city: Weilheim in Oberbayern
 street: "Schmiedstraße"
 housenumber: 10

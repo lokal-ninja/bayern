@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.148621500000004
 longitude: 10.0231987
-postcode: 97717
+postcode: "97717"
 city: Euerdorf
 street: "Schweinfurter Straße"
 housenumber: 4

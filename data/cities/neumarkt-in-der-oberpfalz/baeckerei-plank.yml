@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.283323200000005
 longitude: 11.464379300000001
-postcode: 92318
+postcode: "92318"
 city: Neumarkt in der Oberpfalz
 street: "EFA-Straße"
 housenumber: 6

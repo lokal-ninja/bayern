@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 48.4751884
 longitude: 11.9330964
-postcode: 85368
+postcode: "85368"
 city: Moosburg a.d. Isar
 street: "Driescherstraße"
 housenumber: 1
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: "Mo-Sa 07:00-20:00; PH off"
 website: ""

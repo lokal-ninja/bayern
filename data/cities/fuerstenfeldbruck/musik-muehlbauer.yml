@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 48.1762122
 longitude: 11.2508967
-postcode: 82256
+postcode: "82256"
 city: Fürstenfeldbruck
 street: "Schöngeisinger Straße"
 housenumber: 55

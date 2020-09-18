@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 47.946092400000005
 longitude: 12.182220500000001
-postcode: 83569
+postcode: "83569"
 city: Vogtareuth
 street: "Vogteistraße"
 housenumber: 1

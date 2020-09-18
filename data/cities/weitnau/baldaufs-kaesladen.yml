@@ -3,7 +3,7 @@ type: node
 shop: Käse
 latitude: 47.6410154
 longitude: 10.1247954
-postcode: 87480
+postcode: "87480"
 city: Weitnau
 street: "Hoheneggstraße"
 housenumber: 25

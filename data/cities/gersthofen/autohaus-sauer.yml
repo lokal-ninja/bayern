@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.4215633
 longitude: 10.867247
-postcode: 86368
+postcode: "86368"
 city: Gersthofen
 street: "Flotowstraße"
 housenumber: 13

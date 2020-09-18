@@ -3,7 +3,7 @@ type: way
 shop: Gemüse & Obst
 latitude: 49.409798300000006
 longitude: 11.169186300000002
-postcode: 90475
+postcode: "90475"
 city: Nürnberg
 street: "Löwenberger Straße"
 housenumber: 18a

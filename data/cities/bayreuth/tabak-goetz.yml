@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 49.944603900000004
 longitude: 11.5777318
-postcode: 95444
+postcode: "95444"
 city: Bayreuth
 street: "Opernstraße"
 housenumber: 9

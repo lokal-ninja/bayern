@@ -1,12 +1,12 @@
-id: 47945763
+id: 814965045
 type: way
 shop: Baumarkt
-latitude: 49.5870674
-longitude: 10.9766402
-postcode: 91056
+latitude: 49.587231900000006
+longitude: 10.9751007
+postcode: "91056"
 city: Erlangen
 street: "Neumühle"
-housenumber: 3
+housenumber: 1
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
 website: ""

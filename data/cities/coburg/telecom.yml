@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 50.268268000000006
 longitude: 10.9654831
-postcode: 96450
+postcode: "96450"
 city: Coburg
 street: "Kasernenstraße"
 housenumber: 26

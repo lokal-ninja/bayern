@@ -3,7 +3,7 @@ type: node
 shop: Basteln
 latitude: 48.1244067
 longitude: 11.568169600000001
-postcode: 80469
+postcode: "80469"
 city: München
 street: "Auenstraße"
 housenumber: 72

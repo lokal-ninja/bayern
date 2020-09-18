@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.1609125
 longitude: 11.414302500000002
-postcode: 81245
+postcode: "81245"
 city: München
 street: "Altostraße"
 housenumber: 46

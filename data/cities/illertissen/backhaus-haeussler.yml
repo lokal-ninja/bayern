@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.2231213
 longitude: 10.1068055
-postcode: 89257
+postcode: "89257"
 city: Illertissen
 street: "Hauptstraße"
 housenumber: 12

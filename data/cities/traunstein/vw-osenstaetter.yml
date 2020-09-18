@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.8680457
 longitude: 12.631523300000001
-postcode: 83278
+postcode: "83278"
 city: Traunstein
 street: "Jahnstraße"
 housenumber: 42

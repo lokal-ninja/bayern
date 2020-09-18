@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.251471300000006
 longitude: 12.977386200000002
-postcode: 93453
+postcode: "93453"
 city: Neukirchen b. Hl. Blut
 street: "Lamer Straße"
 housenumber: 35

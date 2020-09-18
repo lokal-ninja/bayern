@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.087158800000005
 longitude: 10.8608484
-postcode: 86916
+postcode: "86916"
 city: Kaufering
 street: "Bayernstraße"
 housenumber: 3

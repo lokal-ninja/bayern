@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 49.97777850000001
 longitude: 12.062341
-postcode: 95679
+postcode: "95679"
 city: Waldershof
 street: "Markt"
 housenumber: 19

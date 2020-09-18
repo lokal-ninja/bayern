@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.7986634
 longitude: 9.9522662
-postcode: 97076
+postcode: "97076"
 city: Würzburg
 street: "Nürnberger Straße"
 housenumber: 12

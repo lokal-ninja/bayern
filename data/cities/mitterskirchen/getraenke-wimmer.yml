@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 48.3522752
 longitude: 12.7298258
-postcode: 84335
+postcode: "84335"
 city: Mitterskirchen
 street: "Am Gewerbegebiet"
 housenumber: 2

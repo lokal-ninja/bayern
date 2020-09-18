@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.1464257
 longitude: 11.570446500000001
-postcode: 80333
+postcode: "80333"
 city: München
 street: "Barer Straße"
 housenumber: 36

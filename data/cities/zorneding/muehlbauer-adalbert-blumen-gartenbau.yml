@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 48.089834
 longitude: 11.8437053
-postcode: 85604
+postcode: "85604"
 city: Zorneding
 street: "Eglhartinger Straße"
 housenumber: 46

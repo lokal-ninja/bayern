@@ -3,7 +3,7 @@ type: way
 shop: Kaffee
 latitude: 48.5436865
 longitude: 10.8496843
-postcode: 86405
+postcode: "86405"
 city: Meitingen
 street: "Hauptstraße"
 housenumber: 30

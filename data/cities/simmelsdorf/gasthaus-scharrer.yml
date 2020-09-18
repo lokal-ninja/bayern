@@ -1,12 +1,12 @@
-id: 26192100
-type: way
+id: 7566873627
+type: node
 shop: Metzgerei
-latitude: 49.638244
-longitude: 11.3559192
-postcode: 91245
+latitude: 49.63835
+longitude: 11.355751900000001
+postcode: "91245"
 city: Simmelsdorf
 street: "Wintersteiner Straße"
 housenumber: 2
 phone: "+49 9155 407"
 opening_hours: "Tu off"
-website: "http://www.gasthaus-scharrer.de/index.html"
+website: "http://www.gasthaus-scharrer.de"

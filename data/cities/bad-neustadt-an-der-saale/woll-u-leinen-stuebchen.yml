@@ -3,7 +3,7 @@ type: node
 shop: Wolle
 latitude: 50.321379400000005
 longitude: 10.214645
-postcode: 97616
+postcode: "97616"
 city: Bad Neustadt an der Saale
 street: "Hohnstraße"
 housenumber: 30

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.1549751
 longitude: 11.5860868
-postcode: 80802
+postcode: "80802"
 city: München
 street: "Giselastraße"
 housenumber: 12

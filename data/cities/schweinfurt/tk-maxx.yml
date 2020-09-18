@@ -3,10 +3,10 @@ type: node
 shop: Warenhaus
 latitude: 50.043055900000006
 longitude: 10.2285199
-postcode: 97421
+postcode: "97421"
 city: Schweinfurt
 street: "Jägersbrunnen"
-housenumber: 
-phone: ""
-opening_hours: ""
-website: ""
+housenumber: 9
+phone: "+49 9721 474290"
+opening_hours: "Mo-Sa 9:30-19:00; Su,PH off"
+website: "https://www.tkmaxx.de/filialen/TK_Maxx_Schweinfurt"

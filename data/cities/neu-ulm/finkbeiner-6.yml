@@ -3,9 +3,9 @@ type: way
 shop: Getränke
 latitude: 48.3993546
 longitude: 10.019743700000001
-postcode: 89231
+postcode: "89231"
 city: Neu-Ulm
-street: "Schwabentraße"
+street: "Schwabenstraße"
 housenumber: 60
 phone: ""
 opening_hours: "Mo-Fr 09:00-12:30, 14:00-19:00; Sa 08:00-14:00"

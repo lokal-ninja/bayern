@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.7593144
 longitude: 11.6164679
-postcode: 85088
+postcode: "85088"
 city: Vohburg a.d.Donau
 street: "Mühlweg"
 housenumber: 3

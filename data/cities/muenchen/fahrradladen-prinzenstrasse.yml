@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.1574146
 longitude: 11.511827100000001
-postcode: 80639
+postcode: "80639"
 city: München
 street: "Prinzenstraße"
 housenumber: 83

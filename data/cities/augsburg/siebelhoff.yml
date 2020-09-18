@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.311911800000004
 longitude: 10.889857800000001
-postcode: 86179
+postcode: "86179"
 city: Augsburg
 street: "Unterer Talweg"
 housenumber: 121

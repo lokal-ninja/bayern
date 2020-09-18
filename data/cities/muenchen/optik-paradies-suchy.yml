@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.1343638
 longitude: 11.568173100000001
-postcode: 80331
+postcode: "80331"
 city: München
 street: "Sendlinger Straße"
 housenumber: 60

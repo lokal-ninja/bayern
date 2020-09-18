@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.4012126
 longitude: 11.744972800000001
-postcode: 85354
+postcode: "85354"
 city: Freising
 street: "Untere Hauptstraße"
 housenumber: 3

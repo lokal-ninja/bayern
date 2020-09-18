@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 48.1107518
 longitude: 11.595936100000001
-postcode: 81539
+postcode: "81539"
 city: München
 street: "Giesinger Bahnhofplatz"
 housenumber: 9

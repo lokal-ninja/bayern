@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.446610500000006
 longitude: 11.8721654
-postcode: 92224
+postcode: "92224"
 city: Amberg
 street: "Baumannstraße"
 housenumber: 6

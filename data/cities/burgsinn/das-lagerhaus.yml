@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.149354
 longitude: 9.6555032
-postcode: 97775
+postcode: "97775"
 city: Burgsinn
 street: "Bahnhofstraße"
 housenumber: 12

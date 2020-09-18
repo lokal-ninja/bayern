@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.1866646
 longitude: 11.5442312
-postcode: 80809
+postcode: "80809"
 city: München
 street: "Moosacher Straße"
 housenumber: 84

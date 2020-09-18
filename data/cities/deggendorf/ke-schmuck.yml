@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.833309500000006
 longitude: 12.9647254
-postcode: 94469
+postcode: "94469"
 city: Deggendorf
 street: "Pfleggasse"
 housenumber: 30

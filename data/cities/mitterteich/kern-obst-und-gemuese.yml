@@ -3,7 +3,7 @@ type: way
 shop: Gemüse & Obst
 latitude: 49.9487626
 longitude: 12.241937700000001
-postcode: 95666
+postcode: "95666"
 city: Mitterteich
 street: "Martin-Zehendner-Straße"
 housenumber: 8a-b

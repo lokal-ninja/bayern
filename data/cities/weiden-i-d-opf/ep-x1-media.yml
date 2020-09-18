@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 49.6636523
 longitude: 12.1506308
-postcode: 92637
+postcode: "92637"
 city: Weiden i.d.OPf.
 street: "Nikolaus-Otto-Straße"
 housenumber: 8

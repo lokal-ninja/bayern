@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.9673481
 longitude: 12.589998600000001
-postcode: 83301
+postcode: "83301"
 city: Traunreut
 street: "Sankt-Georgs-Platz"
 housenumber: 12

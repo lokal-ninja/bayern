@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 49.7003885
 longitude: 9.255922100000001
-postcode: 63897
+postcode: "63897"
 city: Miltenberg
 street: "Hauptstraße"
 housenumber: 90

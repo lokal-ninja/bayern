@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 48.5576662
 longitude: 10.8520693
-postcode: 86707
+postcode: "86707"
 city: Westendorf
 street: "Am Oberfeld"
 housenumber: 3a

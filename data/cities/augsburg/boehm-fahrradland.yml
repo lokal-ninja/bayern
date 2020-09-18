@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 48.3101561
 longitude: 10.888354600000001
-postcode: 86179
+postcode: "86179"
 city: Augsburg
 street: "Inninger Straße"
 housenumber: 105

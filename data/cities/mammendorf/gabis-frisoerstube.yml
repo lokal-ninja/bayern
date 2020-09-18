@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.208921000000004
 longitude: 11.1471722
-postcode: 82291
+postcode: "82291"
 city: Mammendorf
 street: "Am Haldenberg"
 housenumber: 15

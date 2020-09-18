@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.0882328
 longitude: 11.479424700000001
-postcode: 81475
+postcode: "81475"
 city: München
 street: "Steinkirchner Straße"
 housenumber: 28

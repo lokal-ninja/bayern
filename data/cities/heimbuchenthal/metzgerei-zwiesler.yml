@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.881855200000004
 longitude: 9.2934585
-postcode: 63872
+postcode: "63872"
 city: Heimbuchenthal
 street: "Hauptstraße"
 housenumber: 185

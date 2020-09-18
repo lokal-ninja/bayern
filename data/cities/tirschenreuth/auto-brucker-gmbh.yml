@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.873868200000004
 longitude: 12.3399643
-postcode: 95643
+postcode: "95643"
 city: Tirschenreuth
 street: "Äußere Regensburger Straße"
 housenumber: 42

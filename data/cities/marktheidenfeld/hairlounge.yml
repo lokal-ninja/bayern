@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.8433927
 longitude: 9.6022988
-postcode: 97828
+postcode: "97828"
 city: Marktheidenfeld
 street: "Mitteltorstraße"
 housenumber: 30

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.9778974
 longitude: 11.6105169
-postcode: 95463
+postcode: "95463"
 city: Bindlach
 street: "Leuschnitzstraße"
 housenumber: 2a

@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 48.0818699
 longitude: 12.090891000000001
-postcode: 83539
+postcode: "83539"
 city: Pfaffing
 street: "Albachinger Straße"
 housenumber: 2a

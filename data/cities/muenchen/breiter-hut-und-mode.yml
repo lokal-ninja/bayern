@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.133491400000004
 longitude: 11.5833989
-postcode: 80331
+postcode: "80331"
 city: München
 street: "Zweibrückenstraße"
 housenumber: 5

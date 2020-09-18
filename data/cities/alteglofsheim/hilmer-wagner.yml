@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.920324
 longitude: 12.210737900000002
-postcode: 93087
+postcode: "93087"
 city: Alteglofsheim
 street: "Sudetenstraße"
 housenumber: 5a

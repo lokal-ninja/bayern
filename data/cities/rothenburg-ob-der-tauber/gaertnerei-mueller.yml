@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.3760023
 longitude: 10.182073500000001
-postcode: 91541
+postcode: "91541"
 city: Rothenburg ob der Tauber
 street: "Wenggasse"
 housenumber: 29

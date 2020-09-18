@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.091681200000004
 longitude: 11.5617306
-postcode: 81545
+postcode: "81545"
 city: München
 street: "Authariplatz"
 housenumber: 8

@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 50.0039114
 longitude: 9.2057409
-postcode: 63768
+postcode: "63768"
 city: Hösbach
 street: "Hauptstraße"
 housenumber: 144

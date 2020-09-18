@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 48.190445100000005
 longitude: 11.638273
-postcode: 85774
+postcode: "85774"
 city: Unterföhring
 street: "Alte Münchner Straße"
 housenumber: 61

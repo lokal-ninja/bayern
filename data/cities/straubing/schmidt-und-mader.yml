@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.888153200000005
 longitude: 12.623227400000001
-postcode: 94315
+postcode: "94315"
 city: Straubing
 street: "Senefelderstraße"
 housenumber: 33

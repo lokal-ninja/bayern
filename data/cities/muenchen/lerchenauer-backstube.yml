@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.1958296
 longitude: 11.5465009
-postcode: 80935
+postcode: "80935"
 city: München
 street: "Lerchenauer Straße"
 housenumber: 190

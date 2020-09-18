@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.820751900000005
 longitude: 11.853164000000001
-postcode: 93326
+postcode: "93326"
 city: Abensberg
 street: "Regensburger Straße"
 housenumber: 39

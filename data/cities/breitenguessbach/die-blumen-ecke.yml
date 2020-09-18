@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.971006900000006
 longitude: 10.890179600000002
-postcode: 96149
+postcode: "96149"
 city: Breitengüßbach
 street: "Erlein"
 housenumber: 2

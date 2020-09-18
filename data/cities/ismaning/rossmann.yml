@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.2292349
 longitude: 11.6720409
-postcode: 85737
+postcode: "85737"
 city: Ismaning
 street: "Münchener Straße"
 housenumber: 14

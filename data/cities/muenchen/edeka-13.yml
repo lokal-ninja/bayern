@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.159678400000004
 longitude: 11.585268300000001
-postcode: 80802
+postcode: "80802"
 city: München
 street: "Leopoldstraße"
 housenumber: 41

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.3814301
 longitude: 10.937231200000001
-postcode: 86165
+postcode: "86165"
 city: Augsburg
 street: "Südtiroler Straße"
 housenumber: 4

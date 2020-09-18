@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.1311655
 longitude: 11.5995763
-postcode: 81667
+postcode: "81667"
 city: München
 street: "Wörthstraße"
 housenumber: 17

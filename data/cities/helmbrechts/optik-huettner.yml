@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 50.240540900000006
 longitude: 11.718111200000001
-postcode: 95233
+postcode: "95233"
 city: Helmbrechts
 street: "Schwarzenbacher Straße"
 housenumber: 5

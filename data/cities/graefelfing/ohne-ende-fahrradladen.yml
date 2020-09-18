@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.1190742
 longitude: 11.428983
-postcode: 82166
+postcode: "82166"
 city: Gräfelfing
 street: "Bahnhofstraße"
 housenumber: 98 a

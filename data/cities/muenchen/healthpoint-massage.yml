@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 48.0877745
 longitude: 11.479028600000001
-postcode: 81475
+postcode: "81475"
 city: München
 street: "Maxhofstraße"
 housenumber: 9a

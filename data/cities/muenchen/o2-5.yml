@@ -3,7 +3,7 @@ type: way
 shop: Handy
 latitude: 48.1398385
 longitude: 11.5608254
-postcode: 80335
+postcode: "80335"
 city: München
 street: ""
 housenumber: 

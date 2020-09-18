@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.155686100000004
 longitude: 11.5730702
-postcode: 80799
+postcode: "80799"
 city: München
 street: "Arcisstraße"
 housenumber: 59

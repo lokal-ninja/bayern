@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 48.240711000000005
 longitude: 12.5259666
-postcode: 84453
+postcode: "84453"
 city: Mühldorf a. Inn
 street: "Stadtplatz"
 housenumber: 65

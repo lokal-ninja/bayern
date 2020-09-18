@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.410139300000004
 longitude: 10.880071800000001
-postcode: 86368
+postcode: "86368"
 city: Gersthofen
 street: "Augsburger Straße"
 housenumber: 162

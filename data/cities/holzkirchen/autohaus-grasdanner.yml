@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.8807516
 longitude: 11.7175495
-postcode: 83607
+postcode: "83607"
 city: Holzkirchen
 street: "Gewerbering"
 housenumber: 12a

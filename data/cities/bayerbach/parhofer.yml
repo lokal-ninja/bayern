@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.410209
 longitude: 13.1437393
-postcode: 94137
+postcode: "94137"
 city: Bayerbach
 street: "Ringstraße"
 housenumber: 1

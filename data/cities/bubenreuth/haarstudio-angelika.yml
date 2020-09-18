@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 49.6249934
 longitude: 11.0143318
-postcode: 91088
+postcode: "91088"
 city: Bubenreuth
 street: "Birkenallee"
 housenumber: 32

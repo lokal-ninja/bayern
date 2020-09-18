@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.3116555
 longitude: 11.3513715
-postcode: 92353
+postcode: "92353"
 city: Postbauer-Heng
 street: "Pyrbaumer Straße"
 housenumber: 1

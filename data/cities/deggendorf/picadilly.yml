@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.833665200000006
 longitude: 12.9630895
-postcode: 94469
+postcode: "94469"
 city: Deggendorf
 street: "Pfleggasse"
 housenumber: 9

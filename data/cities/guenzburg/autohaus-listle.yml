@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.4530904
 longitude: 10.288261700000001
-postcode: 89312
+postcode: "89312"
 city: Günzburg
 street: "Augsburger Straße"
 housenumber: 57

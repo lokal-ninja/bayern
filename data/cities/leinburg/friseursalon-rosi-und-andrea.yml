@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.4529962
 longitude: 11.300196300000001
-postcode: 91227
+postcode: "91227"
 city: Leinburg
 street: "Hauptstraße"
 housenumber: 37

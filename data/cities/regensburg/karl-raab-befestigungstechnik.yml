@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.0120267
 longitude: 12.129989100000001
-postcode: 93055
+postcode: "93055"
 city: Regensburg
 street: "An der Irler Höhe"
 housenumber: 4 a

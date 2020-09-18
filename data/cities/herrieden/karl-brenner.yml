@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.2318299
 longitude: 10.5003977
-postcode: 91567
+postcode: "91567"
 city: Herrieden
 street: "Bahnhofstraße"
 housenumber: 5

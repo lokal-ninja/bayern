@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.3369002
 longitude: 10.867848400000002
-postcode: 86199
+postcode: "86199"
 city: Augsburg
 street: "Bürgermeister-Aurnhammer-Straße"
 housenumber: 53

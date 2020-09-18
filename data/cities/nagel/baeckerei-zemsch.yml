@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.9826022
 longitude: 11.9435455
-postcode: 95697
+postcode: "95697"
 city: Nagel
 street: "Kösseinestraße"
 housenumber: 4a

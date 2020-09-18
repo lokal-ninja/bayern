@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.112673
 longitude: 11.521985
-postcode: 81369
+postcode: "81369"
 city: München
 street: "Johann-Clanze-Straße"
 housenumber: 92

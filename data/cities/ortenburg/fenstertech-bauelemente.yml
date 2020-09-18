@@ -3,7 +3,7 @@ type: way
 shop: Jalousien
 latitude: 48.539712200000004
 longitude: 13.214618900000001
-postcode: 94496
+postcode: "94496"
 city: Ortenburg
 street: "Raiffeisenstraße"
 housenumber: 7

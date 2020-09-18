@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 49.4437439
 longitude: 11.0833619
-postcode: 90459
+postcode: "90459"
 city: Nürnberg
 street: "Nelson-Mandela-Platz"
 housenumber: 18

@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 49.7952385
 longitude: 9.931234100000001
-postcode: 97070
+postcode: "97070"
 city: Würzburg
 street: "Schönbornstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.1184031
 longitude: 11.4292095
-postcode: 82166
+postcode: "82166"
 city: Gräfelfing
 street: "Bahnhofstraße"
 housenumber: 79-81

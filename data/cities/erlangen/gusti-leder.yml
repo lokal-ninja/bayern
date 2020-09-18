@@ -3,7 +3,7 @@ type: node
 shop: Leder
 latitude: 49.5965208
 longitude: 11.0033127
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Richard-Wagner-Straße"
 housenumber: 4

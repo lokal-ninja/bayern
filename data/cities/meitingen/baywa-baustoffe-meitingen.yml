@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.560595500000005
 longitude: 10.861898100000001
-postcode: 86405
+postcode: "86405"
 city: Meitingen
 street: "Thierhauptener Straße"
 housenumber: 10

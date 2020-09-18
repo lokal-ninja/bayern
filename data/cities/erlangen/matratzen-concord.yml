@@ -3,7 +3,7 @@ type: way
 shop: Betten
 latitude: 49.5784394
 longitude: 11.0030088
-postcode: 91052
+postcode: "91052"
 city: Erlangen
 street: "Paul-Gossen-Straße"
 housenumber: 73

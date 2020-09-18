@@ -1,12 +1,12 @@
-id: 2821761160
+id: 2429991632
 type: node
 shop: Bäckerei
-latitude: 48.109801000000004
-longitude: 11.5026129
-postcode: 81377
+latitude: 48.1491987
+longitude: 11.5375232
+postcode: "80637"
 city: München
-street: "Fürstenrieder Straße"
-housenumber: 273
-phone: "+49 89 71000450"
-opening_hours: "Mo-Fr 06:00-20:00; Sa 06:00-20:00; Su 08:00-12:00"
+street: "Landshuter Allee"
+housenumber: 30
+phone: ""
+opening_hours: "Mo-Sa 06:00-20:00"
 website: "http://www.ihle.de/"

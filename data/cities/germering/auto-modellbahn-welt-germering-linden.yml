@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 48.1288448
 longitude: 11.365306700000001
-postcode: 82110
+postcode: "82110"
 city: Germering
 street: "Untere Bahnhofstraße"
 housenumber: 50

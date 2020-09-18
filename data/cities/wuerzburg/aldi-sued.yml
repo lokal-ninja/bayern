@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 49.7563924
 longitude: 9.9430204
-postcode: 97084
+postcode: "97084"
 city: Würzburg
 street: "Stuttgarter Straße"
 housenumber: 28
 phone: ""
-opening_hours: "Mo.-Sa. 8:00-20:00"
+opening_hours: "Mo-Sa 08:00-20:00"
 website: ""

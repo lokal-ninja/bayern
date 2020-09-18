@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 48.0707436
 longitude: 11.889270900000001
-postcode: 85614
+postcode: "85614"
 city: Kirchseeon
 street: "Marktplatz"
 housenumber: 10

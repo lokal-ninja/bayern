@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 49.4597873
 longitude: 11.0885441
-postcode: 90409
+postcode: "90409"
 city: Nürnberg
 street: "Veillodterstraße"
 housenumber: 11a

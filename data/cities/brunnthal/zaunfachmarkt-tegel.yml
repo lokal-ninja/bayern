@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 47.9842614
 longitude: 11.7080499
-postcode: 85649
+postcode: "85649"
 city: Brunnthal
 street: "Ottostraße"
 housenumber: 1

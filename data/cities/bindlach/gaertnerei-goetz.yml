@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 49.976409200000006
 longitude: 11.6135186
-postcode: 95463
+postcode: "95463"
 city: Bindlach
 street: "Lehengraben"
 housenumber: 12

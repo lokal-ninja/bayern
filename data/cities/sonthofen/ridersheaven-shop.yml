@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 47.5107149
 longitude: 10.2755375
-postcode: 87527
+postcode: "87527"
 city: Sonthofen
 street: "Immenstädter Straße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.888744
 longitude: 12.399297
-postcode: 83254
+postcode: "83254"
 city: Breitbrunn am Chiemsee
 street: "Rimstinger Straße"
 housenumber: 9

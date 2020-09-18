@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 48.1856291
 longitude: 11.589426300000001
-postcode: 80807
+postcode: "80807"
 city: München
 street: "Frankfurter Ring"
 housenumber: 176

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.872085000000006
 longitude: 12.2741518
-postcode: 93089
+postcode: "93089"
 city: Aufhausen
 street: "Seidenbuschstraße"
 housenumber: 78

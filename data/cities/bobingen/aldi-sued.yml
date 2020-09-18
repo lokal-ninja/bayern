@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.2616974
 longitude: 10.8221884
-postcode: 86399
+postcode: "86399"
 city: Bobingen
 street: "Lindauer Straße"
 housenumber: 41

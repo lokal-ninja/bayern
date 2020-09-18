@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.193263200000004
 longitude: 11.369277400000001
-postcode: 
+postcode: ""
 city: Gröbenzell
 street: "Augsburger Straße"
 housenumber: 15-17

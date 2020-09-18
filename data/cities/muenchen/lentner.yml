@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.0854632
 longitude: 11.6604153
-postcode: 81739
+postcode: "81739"
 city: München
 street: "Maria-Wimmer-Straße"
 housenumber: 3

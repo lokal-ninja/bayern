@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.8150388
 longitude: 11.844188800000001
-postcode: 93326
+postcode: "93326"
 city: Abensberg
 street: "Von-Hazzi-Straße"
 housenumber: 50

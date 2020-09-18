@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 47.998818
 longitude: 10.1350493
-postcode: 87740
+postcode: "87740"
 city: Buxheim
 street: "An der Kartause"
 housenumber: 4

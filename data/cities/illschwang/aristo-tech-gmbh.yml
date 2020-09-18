@@ -3,7 +3,7 @@ type: node
 shop: Großhandel
 latitude: 49.4567653
 longitude: 11.6696968
-postcode: 92278
+postcode: "92278"
 city: Illschwang
 street: "Gewerbepark"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 47.5792652
 longitude: 9.8438219
-postcode: 88175
+postcode: "88175"
 city: Scheidegg
 street: "Am Hammerbach"
 housenumber: 8

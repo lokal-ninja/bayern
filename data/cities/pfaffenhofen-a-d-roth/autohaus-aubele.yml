@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.3565413
 longitude: 10.1528758
-postcode: 89284
+postcode: "89284"
 city: Pfaffenhofen a.d.Roth
 street: "Rudolf-Diesel-Straße"
 housenumber: 2

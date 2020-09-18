@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 47.762493500000005
 longitude: 11.8305196
-postcode: 83734
+postcode: "83734"
 city: Hausham
 street: "Obere Tiefenbachstraße"
 housenumber: 15a

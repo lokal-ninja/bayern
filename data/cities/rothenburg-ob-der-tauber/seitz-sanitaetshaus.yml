@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 49.379512500000004
 longitude: 10.1835886
-postcode: 91541
+postcode: "91541"
 city: Rothenburg ob der Tauber
 street: "Galgengasse"
 housenumber: 53

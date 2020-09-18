@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.174937400000005
 longitude: 11.0115935
-postcode: 91166
+postcode: "91166"
 city: Georgensgmünd
 street: "Pleinfelder Straße"
 housenumber: 68b

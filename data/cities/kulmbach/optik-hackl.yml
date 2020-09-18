@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.106965100000004
 longitude: 11.450964
-postcode: 95326
+postcode: "95326"
 city: Kulmbach
 street: "Pestalozzistraße"
 housenumber: 2

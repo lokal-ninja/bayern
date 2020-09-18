@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.3639669
 longitude: 10.9018476
-postcode: 86150
+postcode: "86150"
 city: Augsburg
 street: "Bäckergasse"
 housenumber: 4

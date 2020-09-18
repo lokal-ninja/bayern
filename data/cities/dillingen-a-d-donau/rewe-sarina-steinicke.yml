@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.5812084
 longitude: 10.4905817
-postcode: 89407
+postcode: "89407"
 city: Dillingen a.d.Donau
 street: "Große Allee"
 housenumber: 29

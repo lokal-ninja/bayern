@@ -3,7 +3,7 @@ type: node
 shop: Zeitungen
 latitude: 48.3586468
 longitude: 10.8696573
-postcode: 86157
+postcode: "86157"
 city: Augsburg
 street: "Uhlandstraße"
 housenumber: 38

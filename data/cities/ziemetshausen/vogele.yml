@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.2932004
 longitude: 10.5322762
-postcode: 86473
+postcode: "86473"
 city: Ziemetshausen
 street: "Bürgermeister-Haide-Straße"
 housenumber: 32

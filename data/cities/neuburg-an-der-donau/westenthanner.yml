@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.736559
 longitude: 11.188960400000001
-postcode: 86633
+postcode: "86633"
 city: Neuburg an der Donau
 street: "Rohrenfelder Straße"
 housenumber: 14

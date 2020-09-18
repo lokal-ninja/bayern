@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.508697600000005
 longitude: 11.427692700000001
-postcode: 91217
+postcode: "91217"
 city: Hersbruck
 street: "Poststraße"
 housenumber: 6

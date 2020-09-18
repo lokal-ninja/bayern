@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.3703519
 longitude: 10.897705700000001
-postcode: 86150
+postcode: "86150"
 city: Augsburg
 street: "Karolinenstraße"
 housenumber: 21

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.289230800000006
 longitude: 11.4419714
-postcode: 92318
+postcode: "92318"
 city: Neumarkt
 street: "Nürnberger Straße"
 housenumber: 48

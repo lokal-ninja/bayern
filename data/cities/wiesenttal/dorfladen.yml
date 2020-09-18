@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 49.8106919
 longitude: 11.2198826
-postcode: 91346
+postcode: "91346"
 city: Wiesenttal
 street: "Streitberger Berg"
 housenumber: 8

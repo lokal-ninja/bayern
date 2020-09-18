@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 48.488156100000005
 longitude: 11.0724017
-postcode: 86568
+postcode: "86568"
 city: Hollenbach
 street: "Hauptstraße"
 housenumber: 42

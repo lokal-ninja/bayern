@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.857593
 longitude: 11.994282
-postcode: 83043
+postcode: "83043"
 city: Bad Aibling
 street: "Kampenwandstraße"
 housenumber: 5

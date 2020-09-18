@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.5538333
 longitude: 9.703004
-postcode: 88131
+postcode: "88131"
 city: Lindau (Bodensee)
 street: "Kemptener Straße"
 housenumber: 1

@@ -3,10 +3,10 @@ type: node
 shop: Kleidung
 latitude: 48.050053500000004
 longitude: 10.8764144
-postcode: 86899
+postcode: "86899"
 city: Landsberg am Lech
 street: "Hauptplatz"
 housenumber: 155
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00"
 website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.5740598
 longitude: 13.447734
-postcode: 94032
+postcode: "94032"
 city: Passau
 street: "Bahnhofstraße"
 housenumber: 33

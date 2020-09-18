@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 49.019008500000005
 longitude: 12.1045885
-postcode: 93047
+postcode: "93047"
 city: Regensburg
 street: "Ostengasse"
 housenumber: 15

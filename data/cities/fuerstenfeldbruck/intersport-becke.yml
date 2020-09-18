@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 48.178932800000005
 longitude: 11.2532776
-postcode: 82256
+postcode: "82256"
 city: Fürstenfeldbruck
 street: "Pucher Straße"
 housenumber: 7

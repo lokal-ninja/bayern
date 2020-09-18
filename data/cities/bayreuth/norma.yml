@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.935220300000005
 longitude: 11.6192528
-postcode: 95448
+postcode: "95448"
 city: Bayreuth
 street: "Kemnather Straße"
 housenumber: 27

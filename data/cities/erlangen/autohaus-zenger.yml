@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.5725646
 longitude: 10.9984839
-postcode: 91058
+postcode: "91058"
 city: Erlangen
 street: "Felix-Klein-Straße"
 housenumber: 74

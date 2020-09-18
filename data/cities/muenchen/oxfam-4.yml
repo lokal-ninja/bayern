@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.1368504
 longitude: 11.572859800000002
-postcode: 80331
+postcode: "80331"
 city: München
 street: "Fürstenfelder Straße"
 housenumber: 7

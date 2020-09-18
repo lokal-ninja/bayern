@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.135302
 longitude: 11.570154700000002
-postcode: 
+postcode: ""
 city: München
 street: "Sendlinger Straße"
 housenumber: 24

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.152961600000005
 longitude: 11.8546264
-postcode: 85646
+postcode: "85646"
 city: Anzing
 street: "Hirnerstraße"
 housenumber: 3

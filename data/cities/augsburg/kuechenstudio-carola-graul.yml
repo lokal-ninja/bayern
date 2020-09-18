@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 48.3598383
 longitude: 10.852406700000001
-postcode: 86157
+postcode: "86157"
 city: Augsburg
 street: "Max-Josef-Metzger-Straße"
 housenumber: 21

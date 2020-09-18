@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.9631909
 longitude: 9.1746136
-postcode: 63743
+postcode: "63743"
 city: Aschaffenburg
 street: "Würzburger Straße"
 housenumber: 180

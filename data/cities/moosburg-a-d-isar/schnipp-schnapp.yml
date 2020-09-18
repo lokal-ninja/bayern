@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.469854100000006
 longitude: 11.937709600000002
-postcode: 85368
+postcode: "85368"
 city: Moosburg a.d. Isar
 street: "Steinbockstraße"
 housenumber: 1

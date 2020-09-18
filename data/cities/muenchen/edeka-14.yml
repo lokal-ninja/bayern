@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 48.129356200000004
 longitude: 11.568239700000001
-postcode: 80469
+postcode: "80469"
 city: München
 street: "Holzstraße"
 housenumber: 25
 phone: "+49 89 26022660"
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Sa 7:00-20:00"
+website: "https://www.edeka.de/"

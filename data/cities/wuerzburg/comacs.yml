@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 49.7958067
 longitude: 9.9317919
-postcode: 97070
+postcode: "97070"
 city: Würzburg
 street: "Herzogenstraße"
 housenumber: 3

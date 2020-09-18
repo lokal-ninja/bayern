@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.762411900000004
 longitude: 11.82868
-postcode: 83734
+postcode: "83734"
 city: Hausham
 street: "Obere Tiefenbachstraße"
 housenumber: 4

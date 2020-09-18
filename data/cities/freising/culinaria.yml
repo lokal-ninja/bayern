@@ -3,10 +3,10 @@ type: node
 shop: Feinkost
 latitude: 48.4018748
 longitude: 11.7495668
-postcode: 85354
+postcode: "85354"
 city: Freising
 street: "Angerbadergasse"
 housenumber: 6
-phone: "+49 8161 83606"
+phone: "+49-8161-83606"
 opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00"
 website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 50.0406713
 longitude: 10.2082569
-postcode: 97424
+postcode: "97424"
 city: Schweinfurt
 street: "Peter-Krammer-Straße"
 housenumber: 1

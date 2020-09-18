@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 49.3769526
 longitude: 10.1762055
-postcode: 91541
+postcode: "91541"
 city: Rothenburg ob der Tauber
 street: "Herrngasse"
 housenumber: 22

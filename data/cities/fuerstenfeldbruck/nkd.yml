@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.179591200000004
 longitude: 11.254767600000001
-postcode: 82256
+postcode: "82256"
 city: Fürstenfeldbruck
 street: "Hauptstraße"
 housenumber: 33

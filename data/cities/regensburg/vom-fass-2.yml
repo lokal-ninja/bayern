@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 49.016156800000005
 longitude: 12.0981296
-postcode: 93047
+postcode: "93047"
 city: Regensburg
 street: "Fröhliche-Türken-Straße"
 housenumber: 5

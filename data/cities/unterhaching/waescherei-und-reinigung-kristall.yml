@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 48.0746429
 longitude: 11.6043331
-postcode: 82008
+postcode: "82008"
 city: Unterhaching
 street: "Münchner Straße"
 housenumber: 68

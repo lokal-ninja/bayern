@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 47.757180600000005
 longitude: 11.376778400000001
-postcode: 82377
+postcode: "82377"
 city: Penzberg
 street: "Grube"
 housenumber: 39a

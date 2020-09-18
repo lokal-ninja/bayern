@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.2403568
 longitude: 12.6868499
-postcode: 84524
+postcode: "84524"
 city: Neuötting
 street: "Ludwigstraße"
 housenumber: 64

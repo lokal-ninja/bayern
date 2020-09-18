@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.001777600000004
 longitude: 12.087895900000001
-postcode: 95615
+postcode: "95615"
 city: Marktredwitz
 street: "Markt"
 housenumber: 53

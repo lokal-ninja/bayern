@@ -3,7 +3,7 @@ type: way
 shop: Videothek
 latitude: 48.7696467
 longitude: 11.434356600000001
-postcode: 85049
+postcode: "85049"
 city: Ingolstadt
 street: "Heydeckstraße"
 housenumber: 7

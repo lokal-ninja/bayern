@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 48.1489915
 longitude: 11.5415214
-postcode: 80636
+postcode: "80636"
 city: München
 street: "Birkerstraße"
 housenumber: 7

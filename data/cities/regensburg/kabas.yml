@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 49.0391508
 longitude: 12.1218886
-postcode: 93057
+postcode: "93057"
 city: Regensburg
 street: "Reichenberger Straße"
 housenumber: 12

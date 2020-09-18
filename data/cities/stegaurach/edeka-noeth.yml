@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.8636776
 longitude: 10.8453712
-postcode: 96135
+postcode: "96135"
 city: Stegaurach
 street: "Bamberger Straße"
 housenumber: 13

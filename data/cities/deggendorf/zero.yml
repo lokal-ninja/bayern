@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 48.834641700000006
 longitude: 12.9617819
-postcode: 94469
+postcode: "94469"
 city: Deggendorf
 street: "Oberer Stadtplatz"
 housenumber: 15

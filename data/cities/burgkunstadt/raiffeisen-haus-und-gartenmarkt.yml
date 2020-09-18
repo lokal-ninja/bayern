@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.135521000000004
 longitude: 11.2429439
-postcode: 96224
+postcode: "96224"
 city: Burgkunstadt
 street: "Bahnhofstraße"
 housenumber: 54

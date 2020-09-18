@@ -3,7 +3,7 @@ type: node
 shop: Tee
 latitude: 49.598217000000005
 longitude: 11.00371
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Schloßplatz"
 housenumber: 7

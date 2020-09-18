@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 49.9427376
 longitude: 11.574224500000001
-postcode: 95444
+postcode: "95444"
 city: Bayreuth
 street: "Kanzleistraße"
 housenumber: 13

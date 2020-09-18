@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 48.57987910000001
 longitude: 11.1774714
-postcode: 86529
+postcode: "86529"
 city: Schrobenhausen
 street: "Sankt-Peter-Straße"
 housenumber: 1

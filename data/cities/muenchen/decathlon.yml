@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 48.136515200000005
 longitude: 11.5478097
-postcode: 80339
+postcode: "80339"
 city: München
 street: "Theresienhöhe"
 housenumber: 5

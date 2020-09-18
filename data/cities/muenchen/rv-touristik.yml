@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.146510500000005
 longitude: 11.5758471
-postcode: 80333
+postcode: "80333"
 city: München
 street: "Amalienstraße"
 housenumber: 9b-11

@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 49.6154
 longitude: 10.510064
-postcode: 91474
+postcode: "91474"
 city: Langenfeld
 street: "Uhlstädter Straße"
 housenumber: 8

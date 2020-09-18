@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.0096762
 longitude: 12.0926218
-postcode: 93051
+postcode: "93051"
 city: Regensburg
 street: "Friedenstraße"
 housenumber: 8

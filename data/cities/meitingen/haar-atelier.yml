@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.529344200000004
 longitude: 10.851243700000001
-postcode: 86405
+postcode: "86405"
 city: Meitingen
 street: "Klemensstraße"
 housenumber: 20

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.401350300000004
 longitude: 10.017597700000001
-postcode: 97653
+postcode: "97653"
 city: Bischofsheim i.d.Rhön
 street: "Bahnhofstraße"
 housenumber: 18

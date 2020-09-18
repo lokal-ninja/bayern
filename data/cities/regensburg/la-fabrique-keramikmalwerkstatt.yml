@@ -3,7 +3,7 @@ type: way
 shop: Basteln
 latitude: 49.016348400000005
 longitude: 12.0717888
-postcode: 93049
+postcode: "93049"
 city: Regensburg
 street: "Lessingstraße"
 housenumber: 20

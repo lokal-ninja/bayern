@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 47.864098600000005
 longitude: 12.0111035
-postcode: 83043
+postcode: "83043"
 city: Bad Aibling
 street: "Kirchzeile"
 housenumber: 4

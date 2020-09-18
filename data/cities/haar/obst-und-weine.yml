@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 48.1093436
 longitude: 11.7328141
-postcode: 85540
+postcode: "85540"
 city: Haar
 street: "Leibstraße"
 housenumber: 30

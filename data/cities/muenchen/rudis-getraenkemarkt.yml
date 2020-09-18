@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 48.1566757
 longitude: 11.546037
-postcode: 80636
+postcode: "80636"
 city: München
 street: "Hilblestraße"
 housenumber: 26

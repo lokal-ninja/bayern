@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 48.2552461
 longitude: 11.5518143
-postcode: 85764
+postcode: "85764"
 city: Oberschleißheim
 street: "Am Stutenanger"
 housenumber: 6

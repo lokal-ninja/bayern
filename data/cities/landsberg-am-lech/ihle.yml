@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.0497802
 longitude: 10.856971900000001
-postcode: 86899
+postcode: "86899"
 city: Landsberg am Lech
 street: "Breslauer Straße"
 housenumber: 27

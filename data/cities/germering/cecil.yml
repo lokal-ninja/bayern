@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.1269961
 longitude: 11.365747
-postcode: 82110
+postcode: "82110"
 city: Germering
 street: "Otto-Wagner-Straße"
 housenumber: 2a

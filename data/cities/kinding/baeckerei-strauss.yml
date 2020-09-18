@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.0004131
 longitude: 11.3825731
-postcode: 85125
+postcode: "85125"
 city: Kinding
 street: "Marktplatz"
 housenumber: 6

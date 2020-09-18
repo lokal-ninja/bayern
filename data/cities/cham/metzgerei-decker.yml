@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.2086449
 longitude: 12.6668955
-postcode: 93413
+postcode: "93413"
 city: Cham
 street: "Hans-Eder-Straße"
 housenumber: 30

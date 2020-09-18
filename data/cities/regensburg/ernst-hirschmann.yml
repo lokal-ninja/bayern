@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 49.0407206
 longitude: 12.123641200000002
-postcode: 93057
+postcode: "93057"
 city: Regensburg
 street: "Aussiger Straße"
 housenumber: 5

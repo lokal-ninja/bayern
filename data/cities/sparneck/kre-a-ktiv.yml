@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 50.161439200000004
 longitude: 11.8414572
-postcode: 95234
+postcode: "95234"
 city: Sparneck
 street: "Münchberger Straße"
 housenumber: 18

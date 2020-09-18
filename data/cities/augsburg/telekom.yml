@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 48.366649100000004
 longitude: 10.895014100000001
-postcode: 86150
+postcode: "86150"
 city: Augsburg
 street: "Bürgermeister-Fischer-Straße"
 housenumber: 12

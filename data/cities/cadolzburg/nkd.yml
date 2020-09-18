@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 49.4631471
 longitude: 10.8591794
-postcode: 90556
+postcode: "90556"
 city: Cadolzburg
 street: "Nürnberger Straße"
 housenumber: 39

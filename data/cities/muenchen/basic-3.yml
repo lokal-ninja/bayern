@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.1660848
 longitude: 11.5737231
-postcode: 80796
+postcode: "80796"
 city: München
 street: "Belgradstraße"
 housenumber: 59

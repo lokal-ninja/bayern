@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 48.400609200000005
 longitude: 13.310581
-postcode: 94060
+postcode: "94060"
 city: Pocking
 street: "Simbacher Straße"
 housenumber: 1a

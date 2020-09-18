@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.6141705
 longitude: 9.90499
-postcode: 88161
+postcode: "88161"
 city: Lindenberg im Allgäu
 street: "Goßholz"
 housenumber: 5

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.5505347
 longitude: 11.2596149
-postcode: 86529
+postcode: "86529"
 city: Schrobenhausen
 street: "Augsburger Straße"
 housenumber: 47

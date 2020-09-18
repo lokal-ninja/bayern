@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.112954300000006
 longitude: 11.533484300000001
-postcode: 81369
+postcode: "81369"
 city: München
 street: "Johann-Clanze-Straße"
 housenumber: 24

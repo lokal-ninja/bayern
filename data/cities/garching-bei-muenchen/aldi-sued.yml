@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.2511163
 longitude: 11.6137794
-postcode: 85748
+postcode: "85748"
 city: Garching bei München
 street: "Schleißheimer Straße"
 housenumber: 108

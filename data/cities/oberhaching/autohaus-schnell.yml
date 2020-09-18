@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 48.0209063
 longitude: 11.592554900000001
-postcode: 82041
+postcode: "82041"
 city: Oberhaching
 street: "Tisinstraße"
 housenumber: 42

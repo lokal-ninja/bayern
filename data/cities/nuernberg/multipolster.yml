@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 49.451546300000004
 longitude: 11.0137725
-postcode: 90431
+postcode: "90431"
 city: Nürnberg
 street: "Sigmundstraße"
 housenumber: 110

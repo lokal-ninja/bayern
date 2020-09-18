@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 48.376112400000004
 longitude: 10.006212600000001
-postcode: 89231
+postcode: "89231"
 city: Neu-Ulm
 street: "Wegenerstraße"
 housenumber: 7

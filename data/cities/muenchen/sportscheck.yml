@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 48.1382613
 longitude: 11.5697278
-postcode: 80331
+postcode: "80331"
 city: München
 street: "Neuhauser Straße"
 housenumber: 21

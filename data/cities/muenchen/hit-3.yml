@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.1246005
 longitude: 11.6646438
-postcode: 81825
+postcode: "81825"
 city: München
 street: "Truderinger Straße"
 housenumber: 272

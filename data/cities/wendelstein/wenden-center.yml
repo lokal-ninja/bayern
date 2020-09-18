@@ -3,7 +3,7 @@ type: node
 shop: Einkaufszentrum
 latitude: 49.3507392
 longitude: 11.1599298
-postcode: 90530
+postcode: "90530"
 city: Wendelstein
 street: "Richtwiese"
 housenumber: 4

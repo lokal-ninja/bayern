@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 48.3595729
 longitude: 10.7851025
-postcode: 86420
+postcode: "86420"
 city: Diedorf
 street: "Hauptstraße"
 housenumber: 5b

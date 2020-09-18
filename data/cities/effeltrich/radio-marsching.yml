@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 49.657064600000005
 longitude: 11.089690300000001
-postcode: 91090
+postcode: "91090"
 city: Effeltrich
 street: "Zur Zeile"
 housenumber: 6

@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 48.822773500000004
 longitude: 12.940277700000001
-postcode: 94469
+postcode: "94469"
 city: Deggendorf
 street: "Hauptstraße"
 housenumber: 37a

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.0331465
 longitude: 10.237872600000001
-postcode: 97424
+postcode: "97424"
 city: Schweinfurt
 street: "Carl-Benz-Straße"
 housenumber: 18

@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 49.419397700000005
 longitude: 11.2001934
-postcode: 90475
+postcode: "90475"
 city: Nürnberg
 street: "Fischbacher Hauptstraße"
 housenumber: 228

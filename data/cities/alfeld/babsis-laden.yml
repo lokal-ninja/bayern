@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 49.427868600000004
 longitude: 11.544268800000001
-postcode: 91236
+postcode: "91236"
 city: Alfeld
 street: "Hauptstraße"
 housenumber: 37

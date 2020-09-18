@@ -3,7 +3,7 @@ type: node
 shop: Fanshop
 latitude: 49.7950449
 longitude: 9.9321008
-postcode: 97070
+postcode: "97070"
 city: Würzburg
 street: "Eichhornstraße"
 housenumber: 2a

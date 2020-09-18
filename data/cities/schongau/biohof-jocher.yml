@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 47.803223
 longitude: 10.870168300000001
-postcode: 86956
+postcode: "86956"
 city: Schongau
 street: "Römerstraße"
 housenumber: 20

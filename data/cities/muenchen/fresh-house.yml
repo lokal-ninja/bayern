@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.1279258
 longitude: 11.599251800000001
-postcode: 81667
+postcode: "81667"
 city: München
 street: "Pariser Straße"
 housenumber: 27

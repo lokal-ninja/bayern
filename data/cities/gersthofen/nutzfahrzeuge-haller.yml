@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.4202616
 longitude: 10.866781600000001
-postcode: 86368
+postcode: "86368"
 city: Gersthofen
 street: "Flotowstraße"
 housenumber: 14

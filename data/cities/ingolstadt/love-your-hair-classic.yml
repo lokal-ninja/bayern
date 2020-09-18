@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.739567300000004
 longitude: 11.4097133
-postcode: 85051
+postcode: "85051"
 city: Ingolstadt
 street: "Berliner Straße"
 housenumber: 17

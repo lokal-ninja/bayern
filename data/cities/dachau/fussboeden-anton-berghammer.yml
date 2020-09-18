@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 48.267206
 longitude: 11.4404883
-postcode: 85221
+postcode: "85221"
 city: Dachau
 street: "Freisinger Straße"
 housenumber: 64

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.3979586
 longitude: 11.676493500000001
-postcode: 85354
+postcode: "85354"
 city: Freising
 street: "Hallberg Straße"
 housenumber: 3

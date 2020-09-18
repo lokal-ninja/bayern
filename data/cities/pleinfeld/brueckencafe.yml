@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.1051519
 longitude: 10.985984
-postcode: 91785
+postcode: "91785"
 city: Pleinfeld
 street: "Marktplatz"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 49.430407
 longitude: 11.092522200000001
-postcode: 90461
+postcode: "90461"
 city: Nürnberg
 street: "Frankenstraße"
 housenumber: 195

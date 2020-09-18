@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.5263056
 longitude: 11.587100000000001
-postcode: 92268
+postcode: "92268"
 city: Etzelwang
 street: "Hauptstr."
 housenumber: 8

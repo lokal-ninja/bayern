@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.5370344
 longitude: 11.8743856
-postcode: 92274
+postcode: "92274"
 city: Gebenbach
 street: "Hauptstraße"
 housenumber: 7

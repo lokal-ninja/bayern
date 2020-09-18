@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.791553300000004
 longitude: 9.9451344
-postcode: 97072
+postcode: "97072"
 city: Würzburg
 street: "Sankt-Benedikt-Straße"
 housenumber: 10

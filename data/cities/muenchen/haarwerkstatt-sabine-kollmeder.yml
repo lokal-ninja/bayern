@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.151183700000004
 longitude: 11.555511500000001
-postcode: 
+postcode: ""
 city: München
 street: "Kreittmayrstraße"
 housenumber: 18

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.40063060000001
 longitude: 11.016646600000001
-postcode: 90547
+postcode: "90547"
 city: Stein
 street: "Schillerstraße"
 housenumber: 33-37

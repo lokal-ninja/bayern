@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 49.8193762
 longitude: 9.9627634
-postcode: 97078
+postcode: "97078"
 city: Würzburg
 street: "Versbacher Straße"
 housenumber: 185

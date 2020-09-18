@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 49.79127870000001
 longitude: 9.161809100000001
-postcode: 63939
+postcode: "63939"
 city: Wörth am Main
 street: "Presentstraße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Babysachen
 latitude: 49.4512629
 longitude: 11.0708932
-postcode: 90403
+postcode: "90403"
 city: Nürnberg
 street: "Vordere Ledergasse"
 housenumber: 16-20

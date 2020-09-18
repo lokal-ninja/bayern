@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 48.705719800000004
 longitude: 11.425584
-postcode: 85051
+postcode: "85051"
 city: Ingolstadt
 street: "Am Hochfeldweg"
 housenumber: 15

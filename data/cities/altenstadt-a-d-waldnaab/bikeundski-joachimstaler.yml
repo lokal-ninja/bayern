@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.71379760000001
 longitude: 12.1621254
-postcode: 92665
+postcode: "92665"
 city: Altenstadt a.d.Waldnaab
 street: "Egerländerstraße"
 housenumber: 25

@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 48.1388642
 longitude: 11.5667422
-postcode: 80331
+postcode: "80331"
 city: München
 street: "Neuhauser Straße"
 housenumber: 47

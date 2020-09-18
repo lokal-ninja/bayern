@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.896395000000005
 longitude: 10.6257883
-postcode: 87600
+postcode: "87600"
 city: Kaufbeuren
 street: "Buronstraße"
 housenumber: 71

@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 47.702586200000006
 longitude: 11.8847833
-postcode: 83727
+postcode: "83727"
 city: Schliersee
 street: "Bayrischzeller Straße"
 housenumber: 11

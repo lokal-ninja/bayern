@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 49.854189500000004
 longitude: 9.087722000000001
-postcode: 63853
+postcode: "63853"
 city: Mömlingen
 street: "Obernburger Straße"
 housenumber: 13

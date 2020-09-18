@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.7771041
 longitude: 11.376585700000001
-postcode: 85049
+postcode: "85049"
 city: Ingolstadt
 street: "Schultheißstraße"
 housenumber: 72a

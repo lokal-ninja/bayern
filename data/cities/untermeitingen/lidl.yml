@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.1590095
 longitude: 10.8197547
-postcode: 86836
+postcode: "86836"
 city: Untermeitingen
 street: "Donauring"
 housenumber: 1

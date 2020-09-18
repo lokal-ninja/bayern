@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.8194427
 longitude: 11.8372545
-postcode: 93326
+postcode: "93326"
 city: Abensberg
 street: "Bacchusweg"
 housenumber: 1

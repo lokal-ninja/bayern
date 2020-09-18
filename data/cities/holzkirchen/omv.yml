@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.8883893
 longitude: 11.684734
-postcode: 83607
+postcode: "83607"
 city: Holzkirchen
 street: "Maitz"
 housenumber: 3

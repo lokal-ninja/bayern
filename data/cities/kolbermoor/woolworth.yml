@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 47.8439716
 longitude: 12.063854800000001
-postcode: 83059
+postcode: "83059"
 city: Kolbermoor
 street: "Carl-Jordan-Straße"
 housenumber: 18

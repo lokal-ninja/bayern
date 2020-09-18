@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.1787902
 longitude: 11.2551419
-postcode: 82256
+postcode: "82256"
 city: Fürstenfeldbruck
 street: "Hauptstraße"
 housenumber: 24

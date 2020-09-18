@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.4539065
 longitude: 10.2806782
-postcode: 89312
+postcode: "89312"
 city: Günzburg
 street: "Sedanstraße"
 housenumber: 10

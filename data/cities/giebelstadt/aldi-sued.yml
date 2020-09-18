@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.65901950000001
 longitude: 9.9466523
-postcode: 97232
+postcode: "97232"
 city: Giebelstadt
 street: "Langenwiesengraben"
 housenumber: 3

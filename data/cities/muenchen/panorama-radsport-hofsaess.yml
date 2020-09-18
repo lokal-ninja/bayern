@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.1582907
 longitude: 11.5425339
-postcode: 80636
+postcode: "80636"
 city: München
 street: "Fasaneriestraße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.832832
 longitude: 12.533727500000001
-postcode: 94351
+postcode: "94351"
 city: Feldkirchen
 street: "Am Müllerberg"
 housenumber: 3

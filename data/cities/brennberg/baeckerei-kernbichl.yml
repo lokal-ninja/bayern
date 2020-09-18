@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.0717682
 longitude: 12.3960337
-postcode: 93179
+postcode: "93179"
 city: Brennberg
 street: "Reimarstraße"
 housenumber: 14

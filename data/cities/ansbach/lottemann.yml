@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 49.313669000000004
 longitude: 10.5687127
-postcode: 91522
+postcode: "91522"
 city: Ansbach
 street: "Rettistraße"
 housenumber: 3

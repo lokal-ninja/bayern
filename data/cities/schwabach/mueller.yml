@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 49.3290578
 longitude: 11.023861
-postcode: 91126
+postcode: "91126"
 city: Schwabach
 street: "Ludwigstraße"
 housenumber: 9

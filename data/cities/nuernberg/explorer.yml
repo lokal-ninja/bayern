@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 49.4479902
 longitude: 11.071773100000001
-postcode: 90402
+postcode: "90402"
 city: Nürnberg
 street: "Färberstraße"
 housenumber: 52

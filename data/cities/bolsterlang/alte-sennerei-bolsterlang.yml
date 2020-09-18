@@ -3,7 +3,7 @@ type: way
 shop: Käse
 latitude: 47.4593435
 longitude: 10.2330152
-postcode: 87538
+postcode: "87538"
 city: Bolsterlang
 street: "Bolgenstraße"
 housenumber: 10

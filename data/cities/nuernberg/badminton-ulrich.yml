@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 49.4566254
 longitude: 11.0915944
-postcode: 90489
+postcode: "90489"
 city: Nürnberg
 street: "Nunnenbeckstraße"
 housenumber: 18

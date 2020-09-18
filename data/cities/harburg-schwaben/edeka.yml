@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.7875558
 longitude: 10.692830500000001
-postcode: 86655
+postcode: "86655"
 city: Harburg (Schwaben)
 street: "Wemdinger Straße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.076703200000004
 longitude: 12.198194
-postcode: 93173
+postcode: "93173"
 city: Wenzenbach
 street: "Hauptstraße"
 housenumber: 19

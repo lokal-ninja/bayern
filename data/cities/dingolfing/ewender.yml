@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 48.643427700000004
 longitude: 12.4910884
-postcode: 84130
+postcode: "84130"
 city: Dingolfing
 street: "Kreuzstraße"
 housenumber: 18

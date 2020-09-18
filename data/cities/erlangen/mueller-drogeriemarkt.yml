@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 49.593969400000006
 longitude: 11.005290800000001
-postcode: 91052
+postcode: "91052"
 city: Erlangen
 street: "Nürnberger Straße"
 housenumber: 10

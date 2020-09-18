@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.2476762
 longitude: 11.6474706
-postcode: 85748
+postcode: "85748"
 city: Garching bei München
 street: "Poststraße"
 housenumber: 7

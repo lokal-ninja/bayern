@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.1051342
 longitude: 11.593254
-postcode: 
+postcode: ""
 city: München
 street: "Scharfreiterplatz"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.5508718
 longitude: 11.026346700000001
-postcode: 91058
+postcode: "91058"
 city: Erlangen
 street: "Lachnerstraße"
 housenumber: 2

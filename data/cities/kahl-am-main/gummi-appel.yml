@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 50.076676400000004
 longitude: 9.0109525
-postcode: 63796
+postcode: "63796"
 city: Kahl am Main
 street: "Am Christnersee"
 housenumber: 2

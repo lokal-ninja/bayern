@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.064171200000004
 longitude: 11.6646383
-postcode: 85521
+postcode: "85521"
 city: Ottobrunn
 street: "Am Bogen"
 housenumber: 13

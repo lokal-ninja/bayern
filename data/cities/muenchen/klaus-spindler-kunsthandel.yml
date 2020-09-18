@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 48.1293402
 longitude: 11.577248800000001
-postcode: 80469
+postcode: "80469"
 city: München
 street: "Baaderstraße"
 housenumber: 45

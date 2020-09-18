@@ -3,7 +3,7 @@ type: node
 shop: Tickets
 latitude: 49.60058840000001
 longitude: 11.0019405
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Fuchsengarten"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 49.5617223
 longitude: 10.351018600000002
-postcode: 91478
+postcode: "91478"
 city: Markt Nordheim
 street: ""
 housenumber: 55

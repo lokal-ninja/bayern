@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 48.4742346
 longitude: 11.568282400000001
-postcode: 85307
+postcode: "85307"
 city: Paunzhausen
 street: "Freisinger Straße"
 housenumber: 8

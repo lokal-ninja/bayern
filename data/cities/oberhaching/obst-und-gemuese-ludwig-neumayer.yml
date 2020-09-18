@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 48.0195311
 longitude: 11.586601
-postcode: 82041
+postcode: "82041"
 city: Oberhaching
 street: "Bahnhofstraße"
 housenumber: 28

@@ -3,10 +3,10 @@ type: node
 shop: Kleidung
 latitude: 49.8917142
 longitude: 10.887799600000001
-postcode: 96047
+postcode: "96047"
 city: Bamberg
 street: "Obere Brücke"
 housenumber: 6
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 10:15-18:00"
 website: "https://www.catwalk-fashion-styles.com/"

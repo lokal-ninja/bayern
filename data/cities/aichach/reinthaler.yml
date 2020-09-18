@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.45929
 longitude: 11.1299241
-postcode: 86551
+postcode: "86551"
 city: Aichach
 street: "Hubmannstraße"
 housenumber: 3

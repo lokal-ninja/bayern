@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 49.1968108
 longitude: 11.1880764
-postcode: 91161
+postcode: "91161"
 city: Hilpoltstein
 street: "Neuburger Straße"
 housenumber: 1a

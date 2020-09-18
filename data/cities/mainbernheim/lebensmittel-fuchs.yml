@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.70916750000001
 longitude: 10.2187107
-postcode: 97350
+postcode: "97350"
 city: Mainbernheim
 street: "Herrnstraße"
 housenumber: 46

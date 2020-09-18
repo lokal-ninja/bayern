@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.094960500000006
 longitude: 11.654800100000001
-postcode: 95509
+postcode: "95509"
 city: Marktschorgast
 street: "Marktplatz"
 housenumber: 36

@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 48.176924
 longitude: 11.2546247
-postcode: 82256
+postcode: "82256"
 city: Fürstenfeldbruck
 street: "Ledererstraße"
 housenumber: 10

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.25354960000001
 longitude: 10.838233800000001
-postcode: 91575
+postcode: "91575"
 city: Windsbach
 street: "Wilhelm-Spaeth-Straße"
 housenumber: 3

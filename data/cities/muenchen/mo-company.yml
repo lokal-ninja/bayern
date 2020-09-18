@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 48.1520784
 longitude: 11.5349836
-postcode: 80634
+postcode: "80634"
 city: München
 street: "Blutenburgstraße"
 housenumber: 93

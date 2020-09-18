@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.2827661
 longitude: 11.5793689
-postcode: 85716
+postcode: "85716"
 city: Unterschleißheim
 street: "Bezirksstraße"
 housenumber: 24

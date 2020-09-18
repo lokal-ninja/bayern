@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.365631
 longitude: 11.162887600000001
-postcode: 90530
+postcode: "90530"
 city: Wendelstein
 street: "In der Lach"
 housenumber: 68

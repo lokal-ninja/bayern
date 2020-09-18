@@ -3,10 +3,10 @@ type: way
 shop: Fahrrad
 latitude: 49.431950400000005
 longitude: 10.9361219
-postcode: 90513
+postcode: "90513"
 city: Zirndorf
 street: "Rudolf-Diesel-Straße"
 housenumber: 3
 phone: "+49 911 89624007"
-opening_hours: ""
+opening_hours: "Tu,Fr 10:00-19:00; We,Th 12:00-19:00; Sa 10:00-16:00"
 website: "https://www.bikedevilz.de"

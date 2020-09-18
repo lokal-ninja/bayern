@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.732955100000005
 longitude: 10.5989316
-postcode: 96152
+postcode: "96152"
 city: Burghaslach
 street: "Kirchplatz"
 housenumber: 3

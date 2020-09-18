@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.5489334
 longitude: 12.2619354
-postcode: 84166
+postcode: "84166"
 city: Adlkofen
 street: "Frauenberger Straße"
 housenumber: 12

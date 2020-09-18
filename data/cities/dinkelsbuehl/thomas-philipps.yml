@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.0658511
 longitude: 10.3303949
-postcode: 91550
+postcode: "91550"
 city: Dinkelsbühl
 street: "Alte Neustädtleiner Straße"
 housenumber: 4

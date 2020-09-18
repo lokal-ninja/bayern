@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 49.2458326
 longitude: 11.0920929
-postcode: 91154
+postcode: "91154"
 city: Roth
 street: "Kugelbühlstraße"
 housenumber: 20

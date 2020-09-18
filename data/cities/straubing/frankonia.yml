@@ -3,7 +3,7 @@ type: way
 shop: Outdoor
 latitude: 48.857485700000005
 longitude: 12.576092800000001
-postcode: 94315
+postcode: "94315"
 city: Straubing
 street: "Landshuter Straße"
 housenumber: 211a

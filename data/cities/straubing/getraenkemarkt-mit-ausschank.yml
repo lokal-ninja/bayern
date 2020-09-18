@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.8838056
 longitude: 12.5694344
-postcode: 94315
+postcode: "94315"
 city: Straubing
 street: "Am Spitalthor"
 housenumber: 2

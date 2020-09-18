@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 48.1518181
 longitude: 11.556516400000001
-postcode: 80335
+postcode: "80335"
 city: München
 street: "Dachauer Straße"
 housenumber: 111

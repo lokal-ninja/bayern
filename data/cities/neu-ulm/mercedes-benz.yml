@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.3859866
 longitude: 10.0334365
-postcode: 89231
+postcode: "89231"
 city: Neu-Ulm
 street: "Von-Liebig-Straße"
 housenumber: 10

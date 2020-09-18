@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 48.244726
 longitude: 11.6466796
-postcode: 85748
+postcode: "85748"
 city: Garching b. München
 street: "Münchener Straße"
 housenumber: 46

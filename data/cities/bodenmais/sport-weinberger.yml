@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 49.066622200000005
 longitude: 13.1036669
-postcode: 94249
+postcode: "94249"
 city: Bodenmais
 street: "Bahnhofstraße"
 housenumber: 13

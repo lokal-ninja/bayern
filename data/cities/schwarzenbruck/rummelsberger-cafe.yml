@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.364830500000004
 longitude: 11.269898600000001
-postcode: 90592
+postcode: "90592"
 city: Schwarzenbruck
 street: "Rummelsberg"
 housenumber: 49

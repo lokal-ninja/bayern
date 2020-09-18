@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.4995838
 longitude: 11.4347636
-postcode: 91217
+postcode: "91217"
 city: Hersbruck
 street: "Leutenbachstraße"
 housenumber: 33

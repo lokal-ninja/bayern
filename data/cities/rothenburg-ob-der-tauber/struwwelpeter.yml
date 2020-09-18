@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.3787777
 longitude: 10.182182800000001
-postcode: 91541
+postcode: "91541"
 city: Rothenburg ob der Tauber
 street: "Galgengasse"
 housenumber: 28

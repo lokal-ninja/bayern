@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.003883800000004
 longitude: 11.1739824
-postcode: 82211
+postcode: "82211"
 city: Herrsching am Ammersee
 street: "Gewerbestraße"
 housenumber: 58

@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 49.9850495
 longitude: 11.512250100000001
-postcode: 95500
+postcode: "95500"
 city: Heinersreuth
 street: "Am Ängerlein"
 housenumber: 1

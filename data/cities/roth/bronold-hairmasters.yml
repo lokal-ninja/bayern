@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.2452259
 longitude: 11.0930535
-postcode: 91154
+postcode: "91154"
 city: Roth
 street: "Hilpoltsteiner Straße"
 housenumber: 6

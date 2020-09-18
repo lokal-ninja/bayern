@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.6795915
 longitude: 11.419647300000001
-postcode: 91282
+postcode: "91282"
 city: Betzenstein
 street: "Bayreuther Straße"
 housenumber: 22

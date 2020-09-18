@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 50.151674
 longitude: 11.0678994
-postcode: 96215
+postcode: "96215"
 city: Lichtenfels
 street: "Mainau"
 housenumber: 14

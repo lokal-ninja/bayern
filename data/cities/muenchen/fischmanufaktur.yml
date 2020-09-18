@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 48.0761915
 longitude: 11.518068900000001
-postcode: 81479
+postcode: "81479"
 city: München
 street: "Herterichstraße"
 housenumber: 45

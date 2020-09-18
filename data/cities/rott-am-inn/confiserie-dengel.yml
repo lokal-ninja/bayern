@@ -3,7 +3,7 @@ type: way
 shop: Süßwaren
 latitude: 47.991432100000004
 longitude: 12.145896100000002
-postcode: 83543
+postcode: "83543"
 city: Rott am Inn
 street: ""
 housenumber: 15

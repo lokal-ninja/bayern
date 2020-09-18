@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.6514079
 longitude: 12.173072900000001
-postcode: 83080
+postcode: "83080"
 city: Oberaudorf
 street: "Rosenheimer Straße"
 housenumber: 30

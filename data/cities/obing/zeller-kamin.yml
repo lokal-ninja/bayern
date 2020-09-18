@@ -3,7 +3,7 @@ type: node
 shop: Kamine & Öfen
 latitude: 48.006108600000005
 longitude: 12.4090032
-postcode: 83119
+postcode: "83119"
 city: Obing
 street: "Kienberger Straße"
 housenumber: 42

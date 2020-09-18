@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.253717
 longitude: 11.649401000000001
-postcode: 85748
+postcode: "85748"
 city: Garching bei München
 street: "Max-Planck-Straße"
 housenumber: 21-23

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.4686457
 longitude: 11.0902907
-postcode: 90409
+postcode: "90409"
 city: Nürnberg
 street: "Tellstraße"
 housenumber: 16

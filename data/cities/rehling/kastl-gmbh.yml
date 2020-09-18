@@ -3,7 +3,7 @@ type: way
 shop: Computer
 latitude: 48.4879076
 longitude: 10.917013500000001
-postcode: 86508
+postcode: "86508"
 city: Rehling
 street: "Langweider Straße"
 housenumber: 22

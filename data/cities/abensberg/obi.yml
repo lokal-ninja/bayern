@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 48.8097689
 longitude: 11.860410400000001
-postcode: 93326
+postcode: "93326"
 city: Abensberg
 street: "Straubinger Straße"
 housenumber: 42

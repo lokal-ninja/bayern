@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.441507300000005
 longitude: 11.0827921
-postcode: 90459
+postcode: "90459"
 city: Nürnberg
 street: "Breitscheidstraße"
 housenumber: 19

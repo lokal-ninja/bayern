@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.247242400000005
 longitude: 10.3602117
-postcode: 86381
+postcode: "86381"
 city: Krumbach
 street: "Bahnhofstraße"
 housenumber: 64

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.5757685
 longitude: 10.291525700000001
-postcode: 87549
+postcode: "87549"
 city: Rettenberg
 street: "Kirchbichl"
 housenumber: 1

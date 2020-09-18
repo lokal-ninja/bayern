@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.7636331
 longitude: 11.4265509
-postcode: 85049
+postcode: "85049"
 city: Ingolstadt
 street: "Mauthstraße"
 housenumber: 9

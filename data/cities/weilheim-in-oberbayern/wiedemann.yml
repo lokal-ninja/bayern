@@ -3,7 +3,7 @@ type: node
 shop: Parfümerie
 latitude: 47.8393047
 longitude: 11.1419168
-postcode: 82362
+postcode: "82362"
 city: Weilheim in Oberbayern
 street: "Marienplatz"
 housenumber: 5

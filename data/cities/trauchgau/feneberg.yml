@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.6440156
 longitude: 10.828121900000001
-postcode: 87642
+postcode: "87642"
 city: Trauchgau
 street: "Steingadener Straße"
 housenumber: 2

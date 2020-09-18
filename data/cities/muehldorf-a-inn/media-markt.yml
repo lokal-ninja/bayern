@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 48.2494893
 longitude: 12.5020389
-postcode: 84453
+postcode: "84453"
 city: Mühldorf a. Inn
 street: "Siemensstraße"
 housenumber: 4

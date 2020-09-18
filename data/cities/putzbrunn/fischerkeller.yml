@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.073376100000004
 longitude: 11.6930429
-postcode: 85640
+postcode: "85640"
 city: Putzbrunn
 street: "Ottobrunner Straße"
 housenumber: 37

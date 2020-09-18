@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 50.093816800000006
 longitude: 9.0613837
-postcode: 63755
+postcode: "63755"
 city: Alzenau
 street: "Rodenbacher Straße"
 housenumber: 38

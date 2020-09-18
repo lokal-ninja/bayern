@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.4573845
 longitude: 12.419477700000002
-postcode: 92526
+postcode: "92526"
 city: Oberviechtach
 street: "Nunzenrieder Straße"
 housenumber: 6

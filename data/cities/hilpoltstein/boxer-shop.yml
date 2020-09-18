@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 49.1958363
 longitude: 11.202487600000001
-postcode: 91161
+postcode: "91161"
 city: Hilpoltstein
 street: "Lohbachstraße"
 housenumber: 33

@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 49.4451947
 longitude: 11.8572985
-postcode: 92224
+postcode: "92224"
 city: Amberg
 street: "Marktplatz"
 housenumber: 3

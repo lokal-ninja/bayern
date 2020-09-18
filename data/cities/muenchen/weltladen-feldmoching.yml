@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.215486600000006
 longitude: 11.530249000000001
-postcode: 80995
+postcode: "80995"
 city: München
 street: "Josef-Frankl-Straße"
 housenumber: 58

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.8697869
 longitude: 12.0087773
-postcode: 83043
+postcode: "83043"
 city: Bad Aibling
 street: "Hofmühlstraße"
 housenumber: 7

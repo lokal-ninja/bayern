@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 49.434719300000005
 longitude: 11.0838569
-postcode: 90459
+postcode: "90459"
 city: Nürnberg
 street: "Ajtoschstraße"
 housenumber: 1

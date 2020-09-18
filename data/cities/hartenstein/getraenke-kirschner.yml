@@ -3,10 +3,10 @@ type: node
 shop: Getränke
 latitude: 49.6150948
 longitude: 11.5435844
-postcode: 91235
+postcode: "91235"
 city: Hartenstein
 street: "Engenthal"
 housenumber: 
 phone: ""
-opening_hours: "Mo-Tu,Th-Fr 08:00-12:30,14:00-18:00, We,Th 08:00-13:00"
+opening_hours: "Mo-Tu,Th-Fr 08:00-12:30,14:00-18:00, We,Sa 08:00-13:00"
 website: ""

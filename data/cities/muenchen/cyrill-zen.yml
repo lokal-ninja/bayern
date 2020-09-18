@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.129898100000005
 longitude: 11.569756400000001
-postcode: 80469
+postcode: "80469"
 city: München
 street: "Hans-Sachs-Straße"
 housenumber: 10

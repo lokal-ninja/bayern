@@ -3,7 +3,7 @@ type: way
 shop: Großhandel
 latitude: 48.5688425
 longitude: 12.1534893
-postcode: 84030
+postcode: "84030"
 city: Ergolding
 street: "Keplerring"
 housenumber: 6

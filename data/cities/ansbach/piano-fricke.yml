@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 49.302820800000006
 longitude: 10.571186500000001
-postcode: 91522
+postcode: "91522"
 city: Ansbach
 street: "Martin-Luther-Platz"
 housenumber: 19

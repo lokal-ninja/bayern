@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 47.9044259
 longitude: 11.4271326
-postcode: 82515
+postcode: "82515"
 city: Wolfratshausen
 street: "Pfaffenrieder Straße"
 housenumber: 8

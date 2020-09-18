@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 48.449730200000005
 longitude: 11.7643737
-postcode: 85406
+postcode: "85406"
 city: Zolling
 street: "Mathias-Mayr-Straße"
 housenumber: 8

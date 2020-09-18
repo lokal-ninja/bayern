@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 48.159708200000004
 longitude: 11.5826942
-postcode: 80801
+postcode: "80801"
 city: München
 street: "Wilhelmstraße"
 housenumber: 13

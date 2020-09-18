@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.1629123
 longitude: 11.5702052
-postcode: 80796
+postcode: "80796"
 city: München
 street: "Herzogstraße"
 housenumber: 99

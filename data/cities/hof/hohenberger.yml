@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 50.317656500000005
 longitude: 11.915632800000001
-postcode: 95028
+postcode: "95028"
 city: Hof
 street: "Altstadt"
 housenumber: 23

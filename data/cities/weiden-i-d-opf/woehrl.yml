@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.675881100000005
 longitude: 12.164789800000001
-postcode: 92637
+postcode: "92637"
 city: Weiden i.d.OPf.
 street: "Unterer Markt"
 housenumber: 12-14

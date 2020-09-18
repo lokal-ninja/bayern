@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.441158800000004
 longitude: 11.088038500000001
-postcode: 90459
+postcode: "90459"
 city: Nürnberg
 street: "Wölckernstraße"
 housenumber: 68

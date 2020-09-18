@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 48.975015400000004
 longitude: 12.189913800000001
-postcode: 93073
+postcode: "93073"
 city: Neutraubling
 street: "Geretsrieder Straße"
 housenumber: 11

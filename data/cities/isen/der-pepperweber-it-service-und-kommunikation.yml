@@ -3,10 +3,10 @@ type: node
 shop: Handy
 latitude: 48.211558100000005
 longitude: 12.0573554
-postcode: 84424
+postcode: "84424"
 city: Isen
 street: "Bischof-Josef-Straße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Fr 09:00-12:00,14:00-18:00, Sa 09:00-12:00"
-website: ""
+website: "https://www.pepperweber.de/"

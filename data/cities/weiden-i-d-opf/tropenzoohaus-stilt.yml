@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 49.694305500000006
 longitude: 12.1710811
-postcode: 92637
+postcode: "92637"
 city: Weiden i.d.OPf.
 street: "Hammerweg"
 housenumber: 104

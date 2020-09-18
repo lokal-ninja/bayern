@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 48.1411713
 longitude: 11.5840058
-postcode: 80538
+postcode: "80538"
 city: München
 street: "Christophstraße"
 housenumber: 4

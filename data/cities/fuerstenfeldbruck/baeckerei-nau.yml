@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.1766658
 longitude: 11.243435
-postcode: 82256
+postcode: "82256"
 city: Fürstenfeldbruck
 street: "Landsberger Straße"
 housenumber: 22

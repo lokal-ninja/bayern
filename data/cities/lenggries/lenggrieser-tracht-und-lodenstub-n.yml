@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.6804847
 longitude: 11.5774209
-postcode: 83661
+postcode: "83661"
 city: Lenggries
 street: "Karwendelstraße"
 housenumber: 5

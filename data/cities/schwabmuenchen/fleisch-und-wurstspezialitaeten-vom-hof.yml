@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.1950512
 longitude: 10.7237948
-postcode: 86830
+postcode: "86830"
 city: Schwabmünchen
 street: "Krumbacher Straße"
 housenumber: 80

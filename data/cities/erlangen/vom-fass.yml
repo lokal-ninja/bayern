@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 49.599034
 longitude: 11.0035427
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Hauptstraße"
 housenumber: 40a

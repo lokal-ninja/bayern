@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.2559477
 longitude: 11.4375116
-postcode: 85221
+postcode: "85221"
 city: Dachau
 street: "Münchner Straße"
 housenumber: 11

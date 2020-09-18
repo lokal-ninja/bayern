@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 48.5663555
 longitude: 11.2564241
-postcode: 86529
+postcode: "86529"
 city: Schrobenhausen
 street: "Steingriffer Straße"
 housenumber: 17

@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 49.3725632
 longitude: 10.221268700000001
-postcode: 91616
+postcode: "91616"
 city: Neusitz
 street: "Im Dorf"
 housenumber: 28

@@ -3,7 +3,7 @@ type: node
 shop: Reifen
 latitude: 50.0933786
 longitude: 9.0588791
-postcode: 63755
+postcode: "63755"
 city: Alzenau
 street: "Merkurstraße"
 housenumber: 5

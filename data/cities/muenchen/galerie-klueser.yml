@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 48.1544709
 longitude: 11.579833200000001
-postcode: 80799
+postcode: "80799"
 city: München
 street: "Georgenstraße"
 housenumber: 15

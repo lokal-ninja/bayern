@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.2510886
 longitude: 12.044488000000001
-postcode: 95111
+postcode: "95111"
 city: Rehau
 street: "Unlitzstraße"
 housenumber: 10

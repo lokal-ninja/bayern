@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.090705400000004
 longitude: 11.2376751
-postcode: 96260
+postcode: "96260"
 city: Weismain
 street: "Burgkunstadter Straße"
 housenumber: 65

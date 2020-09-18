@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 48.102806300000005
 longitude: 11.5462398
-postcode: 
+postcode: ""
 city: München
 street: "Alfred-Schmidt-Straße"
 housenumber: 34

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.545565800000006
 longitude: 10.2296636
-postcode: 97215
+postcode: "97215"
 city: Uffenheim
 street: "Marktplatz"
 housenumber: 12

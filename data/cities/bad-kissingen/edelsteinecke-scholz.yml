@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 50.1954812
 longitude: 10.0776049
-postcode: 97688
+postcode: "97688"
 city: Bad Kissingen
 street: "Lindesmühlpromenade"
 housenumber: 2

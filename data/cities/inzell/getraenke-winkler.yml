@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 47.766479100000005
 longitude: 12.7469145
-postcode: 83334
+postcode: "83334"
 city: Inzell
 street: "Traunsteiner Straße"
 housenumber: 39

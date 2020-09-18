@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.6451439
 longitude: 11.519832000000001
-postcode: 85084
+postcode: "85084"
 city: Reichertshofen
 street: "Am Auer Bach"
 housenumber: 3

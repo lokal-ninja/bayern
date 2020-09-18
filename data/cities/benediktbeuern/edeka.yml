@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.708668
 longitude: 11.411751500000001
-postcode: 83671
+postcode: "83671"
 city: Benediktbeuern
 street: "Münchener Straße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 49.468791
 longitude: 11.175077
-postcode: 90482
+postcode: "90482"
 city: Nürnberg
 street: "Laufamholzstraße"
 housenumber: 350

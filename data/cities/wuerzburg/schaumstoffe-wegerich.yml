@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 49.802078900000005
 longitude: 9.9798592
-postcode: 97076
+postcode: "97076"
 city: Würzburg
 street: "Werner-von-Siemens-Straße"
 housenumber: 44

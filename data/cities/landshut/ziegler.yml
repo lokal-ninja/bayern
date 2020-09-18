@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.549598
 longitude: 12.1265139
-postcode: 84032
+postcode: "84032"
 city: Landshut
 street: "Eichenstraße"
 housenumber: 23

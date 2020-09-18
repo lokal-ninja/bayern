@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 48.320294600000004
 longitude: 10.892721600000002
-postcode: 86179
+postcode: "86179"
 city: Augsburg
 street: "Unterer Talweg"
 housenumber: 38

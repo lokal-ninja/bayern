@@ -3,10 +3,10 @@ type: way
 shop: Schmuck
 latitude: 49.458030400000005
 longitude: 10.854809300000001
-postcode: 90556
+postcode: "90556"
 city: Cadolzburg
 street: "Hindenburgstraße"
 housenumber: 11
 phone: ""
-opening_hours: ""
+opening_hours: "Mo,Tu,Th,Fr 09:00-12:30,14:30-18:30; Sa 09:00-13:00"
 website: "https://juwelier-hoefler.de/"

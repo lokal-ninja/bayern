@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.38609
 longitude: 11.3569341
-postcode: 90518
+postcode: "90518"
 city: Altdorf b.Nürnberg
 street: "Untere Badgasse"
 housenumber: 1

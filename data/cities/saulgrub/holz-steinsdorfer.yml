@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 47.6501509
 longitude: 10.998445700000001
-postcode: 82442
+postcode: "82442"
 city: Saulgrub
 street: "Unternoggstraße"
 housenumber: 15

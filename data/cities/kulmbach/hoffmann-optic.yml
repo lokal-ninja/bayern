@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.1078125
 longitude: 11.4543239
-postcode: 95326
+postcode: "95326"
 city: Kulmbach
 street: "Kressenstein"
 housenumber: 6

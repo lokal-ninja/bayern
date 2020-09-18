@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 47.750294200000006
 longitude: 11.3744133
-postcode: 82377
+postcode: "82377"
 city: Penzberg
 street: "Bahnhofstraße"
 housenumber: 17

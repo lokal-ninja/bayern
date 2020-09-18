@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.822979200000006
 longitude: 11.2914828
-postcode: 82402
+postcode: "82402"
 city: Seeshaupt
 street: "Bahnhofstraße"
 housenumber: 40

@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 49.823733000000004
 longitude: 9.8732641
-postcode: 97209
+postcode: "97209"
 city: Veitshöchheim
 street: "Pont-l'Evêque-Allee"
 housenumber: 1

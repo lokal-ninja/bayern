@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.8439415
 longitude: 12.3464664
-postcode: 83209
+postcode: "83209"
 city: Prien am Chiemsee
 street: "Am Reitbach"
 housenumber: 2

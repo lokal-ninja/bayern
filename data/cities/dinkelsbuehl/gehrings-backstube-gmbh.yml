@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.0690764
 longitude: 10.3177467
-postcode: 91550
+postcode: "91550"
 city: Dinkelsbühl
 street: "Segringer Straße"
 housenumber: 19

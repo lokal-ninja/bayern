@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.984804000000004
 longitude: 9.07722
-postcode: 63814
+postcode: "63814"
 city: Mainaschaff
 street: "Behringstraße"
 housenumber: 4

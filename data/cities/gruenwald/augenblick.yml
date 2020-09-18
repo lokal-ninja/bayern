@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.0412144
 longitude: 11.5240419
-postcode: 82031
+postcode: "82031"
 city: Grünwald
 street: "Schloßstraße"
 housenumber: 14a

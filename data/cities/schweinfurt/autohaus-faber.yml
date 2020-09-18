@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.032109000000005
 longitude: 10.242509400000001
-postcode: 97424
+postcode: "97424"
 city: Schweinfurt
 street: "Porschestraße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 48.866799900000004
 longitude: 12.563819400000002
-postcode: 94315
+postcode: "94315"
 city: Straubing
 street: "Roseggerstraße"
 housenumber: 10

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.3407441
 longitude: 10.9000377
-postcode: 86159
+postcode: "86159"
 city: Augsburg
 street: "Werner-von-Siemens-Straße"
 housenumber: 5

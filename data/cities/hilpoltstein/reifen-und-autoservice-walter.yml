@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 49.161057400000004
 longitude: 11.2585849
-postcode: 91161
+postcode: "91161"
 city: Hilpoltstein
 street: "An der Autobahn"
 housenumber: N 15

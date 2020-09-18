@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 48.4319214
 longitude: 10.4063361
-postcode: 89331
+postcode: "89331"
 city: Burgau
 street: "Stadtstraße"
 housenumber: 1

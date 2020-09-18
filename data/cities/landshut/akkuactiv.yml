@@ -3,10 +3,10 @@ type: node
 shop: Elektronik
 latitude: 48.548994900000004
 longitude: 12.1596463
-postcode: 84030
+postcode: "84030"
 city: Landshut
 street: "Alte Regensburger Straße"
 housenumber: 60
 phone: "+49 871 1439281"
-opening_hours: "Mo-Sa 12:00-18:00"
+opening_hours: "Mo-Fr 08:00-17:00; Sa 10:00-13:00"
 website: ""

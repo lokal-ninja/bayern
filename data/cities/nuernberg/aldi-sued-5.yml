@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.466488000000005
 longitude: 11.0762522
-postcode: 90408
+postcode: "90408"
 city: Nürnberg
 street: "Grolandstraße"
 housenumber: 43

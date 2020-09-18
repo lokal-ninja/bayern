@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.3557259
 longitude: 10.984741600000001
-postcode: 
+postcode: ""
 city: Friedberg
 street: "Herrgottsruhstraße"
 housenumber: 2

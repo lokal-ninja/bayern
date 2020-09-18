@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.4711202
 longitude: 11.830269300000001
-postcode: 92284
+postcode: "92284"
 city: Poppenricht
 street: "Zum Sinterbühl"
 housenumber: 2

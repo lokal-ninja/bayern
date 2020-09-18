@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 48.0643874
 longitude: 11.664072800000001
-postcode: 85521
+postcode: "85521"
 city: Ottobrunn
 street: "Unter den Lauben"
 housenumber: 6

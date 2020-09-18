@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 49.435074400000005
 longitude: 11.037279900000001
-postcode: 90431
+postcode: "90431"
 city: Nürnberg
 street: "Tillypark"
 housenumber: 12

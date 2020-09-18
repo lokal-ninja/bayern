@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.000836400000004
 longitude: 12.085891700000001
-postcode: 95615
+postcode: "95615"
 city: Marktredwitz
 street: "Markt"
 housenumber: 32

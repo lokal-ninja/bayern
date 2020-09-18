@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.092650400000004
 longitude: 11.465323600000001
-postcode: 82061
+postcode: "82061"
 city: Neuried
 street: "Hauserweg"
 housenumber: 6

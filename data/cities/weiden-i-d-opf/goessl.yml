@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 49.6806099
 longitude: 12.165029200000001
-postcode: 92637
+postcode: "92637"
 city: Weiden i.d.OPf.
 street: "Bismarckstraße"
 housenumber: 24

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.8956521
 longitude: 10.6420784
-postcode: 87600
+postcode: "87600"
 city: Kaufbeuren
 street: "Innovapark"
 housenumber: 23

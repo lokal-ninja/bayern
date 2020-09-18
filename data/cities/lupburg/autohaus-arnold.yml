@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.1768365
 longitude: 11.7310373
-postcode: 92331
+postcode: "92331"
 city: Lupburg
 street: "Eichenbühl"
 housenumber: 1

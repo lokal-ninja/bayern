@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 47.9849596
 longitude: 12.548213200000001
-postcode: 83371
+postcode: "83371"
 city: Traunreut
 street: "Hauptstraße"
 housenumber: 18

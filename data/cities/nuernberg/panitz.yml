@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 49.467126400000005
 longitude: 11.0813035
-postcode: 90408
+postcode: "90408"
 city: Nürnberg
 street: "Rollnerstraße"
 housenumber: 87-89

@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 49.030237
 longitude: 10.9721133
-postcode: 91781
+postcode: "91781"
 city: Weißenburg i. Bay.
 street: "Marktplatz"
 housenumber: 11

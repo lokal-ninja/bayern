@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.856451400000005
 longitude: 10.234401400000001
-postcode: 97332
+postcode: "97332"
 city: Volkach
 street: "Im Seelein"
 housenumber: 40

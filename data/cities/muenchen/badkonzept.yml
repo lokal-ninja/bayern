@@ -3,7 +3,7 @@ type: node
 shop: Badezimmer
 latitude: 48.1298442
 longitude: 11.6308986
-postcode: 81673
+postcode: "81673"
 city: München
 street: "Baumkirchner Straße"
 housenumber: 29a

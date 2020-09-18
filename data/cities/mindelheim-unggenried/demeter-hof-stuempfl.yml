@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.0304118
 longitude: 10.475409800000001
-postcode: 87719
+postcode: "87719"
 city: Mindelheim-Unggenried
 street: "Talstraße"
 housenumber: 13

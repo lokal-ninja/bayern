@@ -3,7 +3,7 @@ type: node
 shop: Dorfladen
 latitude: 48.2428742
 longitude: 12.5228193
-postcode: 84453
+postcode: "84453"
 city: Mühldorf am Inn
 street: "Stadtplatz"
 housenumber: 7-9

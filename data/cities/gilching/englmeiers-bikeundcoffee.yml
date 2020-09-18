@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.1168672
 longitude: 11.292284
-postcode: 82205
+postcode: "82205"
 city: Gilching
 street: "Brucker Straße"
 housenumber: 30

@@ -3,7 +3,7 @@ type: node
 shop: Zeitungen
 latitude: 48.196067400000004
 longitude: 11.582693800000001
-postcode: 80937
+postcode: "80937"
 city: München
 street: "Sudetendeutschestraße"
 housenumber: 8a

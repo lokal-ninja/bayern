@@ -3,7 +3,7 @@ type: node
 shop: Videothek
 latitude: 48.1401264
 longitude: 11.5909042
-postcode: 80538
+postcode: "80538"
 city: München
 street: "Sternstraße"
 housenumber: 17

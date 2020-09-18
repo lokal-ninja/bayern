@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.6653668
 longitude: 10.155422300000001
-postcode: 97340
+postcode: "97340"
 city: Marktbreit
 street: "Friedlandstraße"
 housenumber: 14

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.136184500000006
 longitude: 11.3854603
-postcode: 82110
+postcode: "82110"
 city: Germering
 street: "Münchener Straße"
 housenumber: 34

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.2400406
 longitude: 12.6890982
-postcode: 84524
+postcode: "84524"
 city: Neuötting
 street: "Ludwigstraße"
 housenumber: 98/100

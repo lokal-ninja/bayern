@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 49.5088694
 longitude: 10.4921416
-postcode: 91472
+postcode: "91472"
 city: Ipsheim
 street: "Mailheim"
 housenumber: 1

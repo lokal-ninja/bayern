@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.1133718
 longitude: 11.5484305
-postcode: 
+postcode: ""
 city: München
 street: "Implerstraße"
 housenumber: 86

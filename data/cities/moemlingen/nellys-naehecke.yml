@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 49.857730200000006
 longitude: 9.0850387
-postcode: 63853
+postcode: "63853"
 city: Mömlingen
 street: "Hauptstraße"
 housenumber: 54

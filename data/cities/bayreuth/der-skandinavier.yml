@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 49.9429012
 longitude: 11.565711700000001
-postcode: 95445
+postcode: "95445"
 city: Bayreuth
 street: "Carl-Burger-Straße"
 housenumber: 2

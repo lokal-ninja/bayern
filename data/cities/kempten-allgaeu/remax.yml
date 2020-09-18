@@ -3,7 +3,7 @@ type: node
 shop: Immobilien
 latitude: 47.7278515
 longitude: 10.310343000000001
-postcode: 87435
+postcode: "87435"
 city: Kempten (Allgäu)
 street: "Salzstraße"
 housenumber: 34

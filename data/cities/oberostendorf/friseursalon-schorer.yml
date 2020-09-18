@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 47.9439812
 longitude: 10.744038100000001
-postcode: 86869
+postcode: "86869"
 city: Oberostendorf
 street: "Lengenfelder Straße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Babysachen
 latitude: 50.233766
 longitude: 11.3223401
-postcode: 96317
+postcode: "96317"
 city: Kronach
 street: "Paul-Keller-Straße"
 housenumber: 6

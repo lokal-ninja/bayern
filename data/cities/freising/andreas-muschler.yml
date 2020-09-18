@@ -3,7 +3,7 @@ type: node
 shop: Schokolade
 latitude: 48.3990079
 longitude: 11.7407236
-postcode: 85354
+postcode: "85354"
 city: Freising
 street: "Obere Hauptstraße"
 housenumber: 43

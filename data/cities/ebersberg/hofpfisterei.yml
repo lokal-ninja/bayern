@@ -1,12 +1,12 @@
 id: 2121087793
 type: node
 shop: Bäckerei
-latitude: 48.0785215
-longitude: 11.969224
-postcode: 85560
+latitude: 48.0784949
+longitude: 11.969288
+postcode: "85560"
 city: Ebersberg
 street: "Marienplatz"
 housenumber: 5
-phone: ""
-opening_hours: ""
-website: ""
+phone: "+49 8092 2509602"
+opening_hours: "Mo-Fr 07:30-18:00; Sa 07:30-13:00; PH off"
+website: "https://www.hofpfisterei.de"

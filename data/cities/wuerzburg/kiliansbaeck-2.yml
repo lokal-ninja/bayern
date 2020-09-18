@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.7956914
 longitude: 9.9309086
-postcode: 97070
+postcode: "97070"
 city: Würzburg
 street: "Maulhardgasse"
 housenumber: 

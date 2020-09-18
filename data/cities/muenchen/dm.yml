@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.1341462
 longitude: 11.5968532
-postcode: 81667
+postcode: "81667"
 city: München
 street: "Innere Wiener Straße"
 housenumber: 50

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.138074800000005
 longitude: 11.565617300000001
-postcode: 80331
+postcode: "80331"
 city: München
 street: "Sonnenstraße"
 housenumber: 9

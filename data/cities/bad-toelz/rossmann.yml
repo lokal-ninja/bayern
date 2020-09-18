@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.758899
 longitude: 11.585712000000001
-postcode: 83646
+postcode: "83646"
 city: Bad Tölz
 street: "Albert-Schäffenacker-Straße"
 housenumber: 3a

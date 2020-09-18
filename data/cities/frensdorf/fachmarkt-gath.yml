@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.794651
 longitude: 10.8841575
-postcode: 96158
+postcode: "96158"
 city: Frensdorf
 street: "Kirchäcker"
 housenumber: 1

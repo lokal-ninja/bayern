@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.4523348
 longitude: 11.074710900000001
-postcode: 90403
+postcode: "90403"
 city: Nürnberg
 street: "Kaiserstraße"
 housenumber: 36

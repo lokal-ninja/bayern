@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 48.393533500000004
 longitude: 11.0561257
-postcode: 86453
+postcode: "86453"
 city: Dasing
 street: "Taitinger Straße"
 housenumber: 64

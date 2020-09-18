@@ -3,7 +3,7 @@ type: way
 shop: Foto
 latitude: 49.952819000000005
 longitude: 12.245770100000001
-postcode: 95666
+postcode: "95666"
 city: Mitterteich
 street: "Waldsassener Straße"
 housenumber: 1

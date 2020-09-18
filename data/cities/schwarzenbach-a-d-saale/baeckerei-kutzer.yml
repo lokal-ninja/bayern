@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.223291800000005
 longitude: 11.939496100000001
-postcode: 95126
+postcode: "95126"
 city: Schwarzenbach a.d.Saale
 street: "Lohbachstraße"
 housenumber: 3

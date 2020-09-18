@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.4658184
 longitude: 11.0692793
-postcode: 90419
+postcode: "90419"
 city: Nürnberg
 street: "Bucher Straße"
 housenumber: 99

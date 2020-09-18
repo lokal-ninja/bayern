@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.244830500000006
 longitude: 11.9024192
-postcode: 85457
+postcode: "85457"
 city: Wörth
 street: "Pfarrer-Ostermayr-Straße"
 housenumber: 4

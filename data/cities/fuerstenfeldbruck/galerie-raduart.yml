@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 48.177225500000006
 longitude: 11.254631600000002
-postcode: 82256
+postcode: "82256"
 city: Fürstenfeldbruck
 street: "Ledererstraße"
 housenumber: 12

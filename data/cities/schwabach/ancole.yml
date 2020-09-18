@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 49.3296994
 longitude: 11.0199738
-postcode: 91126
+postcode: "91126"
 city: Schwabach
 street: "Höllgasse"
 housenumber: 3

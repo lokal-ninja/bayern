@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.349852000000006
 longitude: 11.001035400000001
-postcode: 86316
+postcode: "86316"
 city: Friedberg
 street: "Engelschalkstraße"
 housenumber: 38

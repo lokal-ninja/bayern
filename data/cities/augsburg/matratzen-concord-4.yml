@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 48.3824757
 longitude: 10.8802309
-postcode: 86154
+postcode: "86154"
 city: Augsburg
 street: "Donauwörther Straße"
 housenumber: 25

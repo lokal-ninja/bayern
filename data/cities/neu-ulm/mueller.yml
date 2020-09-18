@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 48.394938800000006
 longitude: 9.999274900000001
-postcode: 89231
+postcode: "89231"
 city: Neu-Ulm
 street: "Augsburger Straße"
 housenumber: 4-6

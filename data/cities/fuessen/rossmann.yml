@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.569591700000004
 longitude: 10.702458700000001
-postcode: 87629
+postcode: "87629"
 city: Füssen
 street: "Kaiser-Maximilian-Platz"
 housenumber: 5

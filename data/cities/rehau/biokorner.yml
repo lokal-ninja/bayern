@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.248443800000004
 longitude: 12.037661
-postcode: 95111
+postcode: "95111"
 city: Rehau
 street: "Ludwigstraße"
 housenumber: 22

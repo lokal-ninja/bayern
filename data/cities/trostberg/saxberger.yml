@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 48.0321392
 longitude: 12.5671195
-postcode: 83308
+postcode: "83308"
 city: Trostberg
 street: "Tittmoninger Straße"
 housenumber: 51

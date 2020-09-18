@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.1386484
 longitude: 11.6427437
-postcode: 81677
+postcode: "81677"
 city: München
 street: "Zamdorfer Straße"
 housenumber: 90

@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 49.6574079
 longitude: 11.0418354
-postcode: 91083
+postcode: "91083"
 city: Baiersdorf
 street: "Fritz-Hartmann-Straße"
 housenumber: 4

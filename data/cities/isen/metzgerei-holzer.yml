@@ -3,10 +3,10 @@ type: node
 shop: Metzgerei
 latitude: 48.211749100000006
 longitude: 12.056924200000001
-postcode: 84424
+postcode: "84424"
 city: Isen
 street: "Marktplatz"
 housenumber: 6
 phone: ""
-opening_hours: "Mo-Th 07:00-12:30,14:30-18:00;Fr 07:00-18:00;Sa 07:00-12:00"
-website: ""
+opening_hours: "Mo-Th 07:00-12:30,14:30-18:00; Fr 07:00-18:00; Sa 07:00-12:00"
+website: "https://www.metzgerei-holzer.de"

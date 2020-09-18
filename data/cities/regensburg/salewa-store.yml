@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 49.0188135
 longitude: 12.0937023
-postcode: 93047
+postcode: "93047"
 city: Regensburg
 street: "Rote-Hahnen-Gasse"
 housenumber: 5

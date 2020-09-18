@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.9775483
 longitude: 11.600840900000001
-postcode: 95463
+postcode: "95463"
 city: Bindlach
 street: "Eichenstraße"
 housenumber: 7

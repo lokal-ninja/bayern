@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.068977600000004
 longitude: 10.319583000000002
-postcode: 91550
+postcode: "91550"
 city: Dinkelsbühl
 street: "Marktplatz"
 housenumber: 3

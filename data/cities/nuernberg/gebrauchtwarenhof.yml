@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 49.451243600000005
 longitude: 11.0172112
-postcode: 90431
+postcode: "90431"
 city: Nürnberg
 street: "Burgbernheimer Straße"
 housenumber: 12

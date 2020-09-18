@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.535478000000005
 longitude: 11.5129234
-postcode: 85276
+postcode: "85276"
 city: Pfaffenhofen a.d. Ilm
 street: "Joseph-Fraunhofer-Straße"
 housenumber: 17

@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 48.1152498
 longitude: 11.5799891
-postcode: 81541
+postcode: "81541"
 city: München
 street: "Tegernseer Platz"
 housenumber: 7

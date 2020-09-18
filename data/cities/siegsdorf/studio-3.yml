@@ -3,10 +3,10 @@ type: node
 shop: Friseur
 latitude: 47.8217724
 longitude: 12.641735800000001
-postcode: 83313
+postcode: "83313"
 city: Siegsdorf
 street: "Traunsteiner Straße"
 housenumber: 3
 phone: "+49 8662 409218"
-opening_hours: ""
+opening_hours: "Tu-Th 08:00-17:00; Fr 08:00-18:00; Sa 08:00-12:30"
 website: "https://www.friseur-studio3.de/"

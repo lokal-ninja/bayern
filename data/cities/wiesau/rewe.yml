@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.9099725
 longitude: 12.1841693
-postcode: 95676
+postcode: "95676"
 city: Wiesau
 street: "Marktplatz"
 housenumber: 10

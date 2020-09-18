@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.7988554
 longitude: 9.9473278
-postcode: 97080
+postcode: "97080"
 city: Würzburg
 street: "Schweinfurter Straße"
 housenumber: 8

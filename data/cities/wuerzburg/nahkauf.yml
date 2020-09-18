@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.8176235
 longitude: 9.9665513
-postcode: 97078
+postcode: "97078"
 city: Würzburg
 street: "Sankt-Rochus-Straße"
 housenumber: 36

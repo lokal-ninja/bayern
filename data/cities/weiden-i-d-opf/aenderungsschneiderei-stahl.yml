@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 49.672274
 longitude: 12.1472821
-postcode: 92637
+postcode: "92637"
 city: Weiden i.d.OPf.
 street: "Frauenrichter Straße"
 housenumber: 70

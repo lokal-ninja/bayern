@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 48.1572503
 longitude: 11.5112606
-postcode: 80639
+postcode: "80639"
 city: München
 street: "Notburgastraße"
 housenumber: 4a

@@ -3,7 +3,7 @@ type: way
 shop: Handy
 latitude: 47.9997975
 longitude: 10.1692213
-postcode: 87700
+postcode: "87700"
 city: Memmingen
 street: "Goldhoferstraße"
 housenumber: 9

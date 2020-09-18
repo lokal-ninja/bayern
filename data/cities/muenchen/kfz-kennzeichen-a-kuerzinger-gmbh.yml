@@ -3,7 +3,7 @@ type: node
 shop: Beschriftungen
 latitude: 48.1468494
 longitude: 11.4631048
-postcode: 
+postcode: ""
 city: München
 street: "Rathausgasse"
 housenumber: 2

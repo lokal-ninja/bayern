@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.0435803
 longitude: 11.963415600000001
-postcode: 85567
+postcode: "85567"
 city: Grafing bei München
 street: "Glonner Straße"
 housenumber: 14

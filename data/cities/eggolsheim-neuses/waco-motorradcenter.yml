@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 49.769921700000005
 longitude: 11.030855200000001
-postcode: 91330
+postcode: "91330"
 city: Eggolsheim-Neuses
 street: "Fährstraße"
 housenumber: 3

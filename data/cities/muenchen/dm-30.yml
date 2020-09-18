@@ -1,12 +1,12 @@
-id: 112601066
-type: way
+id: 7417488417
+type: node
 shop: Drogerie
-latitude: 48.1056697
-longitude: 11.6026495
-postcode: 81549
+latitude: 48.1636619
+longitude: 11.630392700000002
+postcode: "81927"
 city: München
-street: "Balanstraße"
-housenumber: 190
-phone: "+49 89 60062265"
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
-website: "https://www.dm.de/"
+street: "Maria-Nindl-Platz"
+housenumber: 2
+phone: ""
+opening_hours: ""
+website: ""

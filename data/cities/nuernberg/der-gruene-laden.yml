@@ -1,9 +1,9 @@
 id: 2238018487
 type: node
-shop: Gemüse & Obst
+shop: Supermarkt
 latitude: 49.464213300000004
 longitude: 11.0762275
-postcode: 90408
+postcode: "90408"
 city: Nürnberg
 street: "Uhlandstraße"
 housenumber: 30

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.321697500000006
 longitude: 11.747720600000001
-postcode: 85399
+postcode: "85399"
 city: Hallbergmoos
 street: "Theresienstraße"
 housenumber: 52

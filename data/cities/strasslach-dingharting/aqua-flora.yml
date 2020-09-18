@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 47.9974951
 longitude: 11.5135024
-postcode: 82064
+postcode: "82064"
 city: Straßlach-Dingharting
 street: "Am Straßlacher Feld"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 49.4499463
 longitude: 11.0758188
-postcode: 90402
+postcode: "90402"
 city: Nürnberg
 street: "Breite Gasse"
 housenumber: 31

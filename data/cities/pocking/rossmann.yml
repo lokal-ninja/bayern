@@ -3,10 +3,10 @@ type: node
 shop: Drogerie
 latitude: 48.3935289
 longitude: 13.3114921
-postcode: 94060
+postcode: "94060"
 city: Pocking
 street: "Bürgermeister-Wenig-Straße"
 housenumber: 5
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-20:00; Su off; PH off"
 website: ""

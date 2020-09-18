@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.5128106
 longitude: 11.1141932
-postcode: 86570
+postcode: "86570"
 city: Inchenhofen
 street: "Kabisstraße"
 housenumber: 2

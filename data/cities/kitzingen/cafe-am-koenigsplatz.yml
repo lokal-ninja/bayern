@@ -3,7 +3,7 @@ type: node
 shop: Leerstehend
 latitude: 49.7382031
 longitude: 10.1598334
-postcode: 97318
+postcode: "97318"
 city: Kitzingen
 street: "Kaiserstraße"
 housenumber: 26

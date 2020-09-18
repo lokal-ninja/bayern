@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 48.2227502
 longitude: 11.6678475
-postcode: 85737
+postcode: "85737"
 city: Ismaning
 street: "Münchener Straße"
 housenumber: 70

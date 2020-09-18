@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 48.9950161
 longitude: 12.193969300000001
-postcode: 93073
+postcode: "93073"
 city: Neutraubling
 street: "Rainstallweg"
 housenumber: 1

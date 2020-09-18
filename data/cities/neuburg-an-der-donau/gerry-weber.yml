@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.734603
 longitude: 11.182523000000002
-postcode: 86633
+postcode: "86633"
 city: Neuburg an der Donau
 street: "Färberstraße"
 housenumber: D 4

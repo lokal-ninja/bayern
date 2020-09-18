@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.3131774
 longitude: 12.149215600000002
-postcode: 92421
+postcode: "92421"
 city: Schwandorf
 street: "Am Brunnfeld"
 housenumber: 

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.0011303
 longitude: 12.079539200000001
-postcode: 93051
+postcode: "93051"
 city: Regensburg
 street: "Boelckestraße"
 housenumber: 2

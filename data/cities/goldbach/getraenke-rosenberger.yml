@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 49.998178800000005
 longitude: 9.1872263
-postcode: 63773
+postcode: "63773"
 city: Goldbach
 street: "Aschaffenburger Straße"
 housenumber: 114

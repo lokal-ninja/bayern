@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.5541106
 longitude: 12.1536326
-postcode: 84030
+postcode: "84030"
 city: Landshut
 street: "Neidenburger Straße"
 housenumber: 1

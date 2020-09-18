@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 48.1126707
 longitude: 11.5218682
-postcode: 81369
+postcode: "81369"
 city: München
 street: "Johann-Clanze-Straße"
 housenumber: 92

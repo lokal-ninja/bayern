@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.5713894
 longitude: 11.0003337
-postcode: 91058
+postcode: "91058"
 city: Erlangen
 street: "Bunsenstraße"
 housenumber: 72

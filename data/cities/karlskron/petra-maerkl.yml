@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.6704664
 longitude: 11.438268
-postcode: 85123
+postcode: "85123"
 city: Karlskron
 street: "Hauptstraße"
 housenumber: 151

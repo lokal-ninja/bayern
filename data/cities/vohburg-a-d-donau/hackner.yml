@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.769699900000006
 longitude: 11.618137
-postcode: 85088
+postcode: "85088"
 city: Vohburg a.d.Donau
 street: "Donaustraße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 49.721108400000006
 longitude: 9.2299146
-postcode: 63920
+postcode: "63920"
 city: Großheubach
 street: "Miltenberger Straße"
 housenumber: 56

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.014070600000004
 longitude: 13.2323029
-postcode: 94227
+postcode: "94227"
 city: Zwiesel
 street: "Stadtplatz"
 housenumber: 41

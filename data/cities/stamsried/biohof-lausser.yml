@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 49.2696297
 longitude: 12.5735199
-postcode: 93491
+postcode: "93491"
 city: Stamsried
 street: ""
 housenumber: 1

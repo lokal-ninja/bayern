@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 48.675373300000004
 longitude: 11.419500900000001
-postcode: 85123
+postcode: "85123"
 city: Karlskron
 street: "Hauptstraße"
 housenumber: 92

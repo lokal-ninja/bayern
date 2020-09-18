@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.993001
 longitude: 9.575057000000001
-postcode: 97816
+postcode: "97816"
 city: Lohr am Main
 street: "Kaplan-Höfling-Straße"
 housenumber: 12

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.225571800000004
 longitude: 12.6769309
-postcode: 84503
+postcode: "84503"
 city: Altötting
 street: "Tillyplatz"
 housenumber: 1

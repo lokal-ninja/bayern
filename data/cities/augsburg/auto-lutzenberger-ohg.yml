@@ -1,12 +1,12 @@
 id: 187623084
 type: way
 shop: Autohaus
-latitude: 48.3229765
-longitude: 10.899788800000001
-postcode: 86179
+latitude: 48.322957800000005
+longitude: 10.899829700000002
+postcode: "86179"
 city: Augsburg
 street: "Bischofsackerweg"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Fr 07:30-17:30, Sa 09:00-13:00"
-website: ""
+website: "https://auto-lutzenberger.de/"

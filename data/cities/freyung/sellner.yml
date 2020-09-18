@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.807593100000005
 longitude: 13.547648
-postcode: 94078
+postcode: "94078"
 city: Freyung
 street: "Stadtplatz"
 housenumber: 12

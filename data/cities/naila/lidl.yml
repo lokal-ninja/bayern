@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.3242722
 longitude: 11.6945897
-postcode: 95119
+postcode: "95119"
 city: Naila
 street: "Kronacher Straße"
 housenumber: 38

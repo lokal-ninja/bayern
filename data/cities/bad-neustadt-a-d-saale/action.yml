@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 50.3264146
 longitude: 10.223707500000002
-postcode: 97616
+postcode: "97616"
 city: Bad Neustadt a.d. Saale
 street: "Rederstraße"
 housenumber: 20

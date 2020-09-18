@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsartikel
 latitude: 47.840089600000006
 longitude: 11.1487301
-postcode: 82362
+postcode: "82362"
 city: Weilheim in Oberbayern
 street: "Sondermayerstraße"
 housenumber: 2

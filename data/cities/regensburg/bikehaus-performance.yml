@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.01435540000001
 longitude: 12.1075157
-postcode: 93047
+postcode: "93047"
 city: Regensburg
 street: "Landshuter Straße"
 housenumber: 19

@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 50.309141100000005
 longitude: 10.2083929
-postcode: 97616
+postcode: "97616"
 city: Salz
 street: "Hauptstraße"
 housenumber: 31

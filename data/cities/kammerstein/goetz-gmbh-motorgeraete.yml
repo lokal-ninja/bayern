@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.3039524
 longitude: 10.991064100000001
-postcode: 91126
+postcode: "91126"
 city: Kammerstein
 street: "Schwabacher Straße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.843622700000004
 longitude: 13.1621146
-postcode: 94551
+postcode: "94551"
 city: Hunding
 street: "Am Südhang"
 housenumber: 1

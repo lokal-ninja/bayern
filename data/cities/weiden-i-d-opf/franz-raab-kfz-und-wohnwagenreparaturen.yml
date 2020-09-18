@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.6772934
 longitude: 12.175635600000001
-postcode: 92637
+postcode: "92637"
 city: Weiden i.d.OPf.
 street: "Friedrich-Ebert-Straße"
 housenumber: 40

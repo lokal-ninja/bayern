@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.842869400000005
 longitude: 11.1488788
-postcode: 82362
+postcode: "82362"
 city: Weilheim in Oberbayern
 street: "Kaltenmoserstraße"
 housenumber: 28

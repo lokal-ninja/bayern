@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.801569
 longitude: 9.935830900000001
-postcode: 97070
+postcode: "97070"
 city: Würzburg
 street: "Bahnhofplatz"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 48.2492869
 longitude: 11.649939700000001
-postcode: 85748
+postcode: "85748"
 city: Garching bei München
 street: "Schleißheimer Straße"
 housenumber: 9

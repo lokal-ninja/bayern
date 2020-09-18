@@ -1,4 +1,4 @@
 ---
-title: "vinzenzmurr"
+title: "Vinzenzmurr"
 url: /baldham/vinzenzmurr/
 ---

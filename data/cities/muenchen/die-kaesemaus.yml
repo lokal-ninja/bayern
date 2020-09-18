@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.149383
 longitude: 11.535020900000001
-postcode: 80634
+postcode: "80634"
 city: München
 street: "Schulstraße"
 housenumber: 23

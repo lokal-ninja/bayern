@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 48.3015145
 longitude: 10.4636986
-postcode: 86505
+postcode: "86505"
 city: Münsterhausen
 street: ""
 housenumber: 

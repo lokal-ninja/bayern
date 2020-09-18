@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.3080161
 longitude: 10.9038777
-postcode: 86179
+postcode: "86179"
 city: Augsburg
 street: "Inninger Straße"
 housenumber: 6

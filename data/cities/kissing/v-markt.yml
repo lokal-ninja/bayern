@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.304767500000004
 longitude: 10.961429
-postcode: 86438
+postcode: "86438"
 city: Kissing
 street: "Grünzweigstraße"
 housenumber: 1

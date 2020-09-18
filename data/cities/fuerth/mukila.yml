@@ -3,7 +3,7 @@ type: node
 shop: Babysachen
 latitude: 49.4707075
 longitude: 10.9920521
-postcode: 90762
+postcode: "90762"
 city: Fürth
 street: "Bahnhofplatz"
 housenumber: 6

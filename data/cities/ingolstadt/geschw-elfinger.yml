@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.7647946
 longitude: 11.4290923
-postcode: 85049
+postcode: "85049"
 city: Ingolstadt
 street: "Ludwigstraße"
 housenumber: 43

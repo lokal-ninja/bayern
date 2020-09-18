@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.9097323
 longitude: 9.1573861
-postcode: 63834
+postcode: "63834"
 city: Sulzbach am Main
 street: "Spessartstraße"
 housenumber: 63

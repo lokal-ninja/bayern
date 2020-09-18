@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 49.976877900000005
 longitude: 9.0659337
-postcode: 63811
+postcode: "63811"
 city: Stockstadt am Main
 street: "Obernburger Straße"
 housenumber: 8

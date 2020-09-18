@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 49.1086887
 longitude: 12.5015484
-postcode: 93167
+postcode: "93167"
 city: Falkenstein
 street: "Kastanienweg"
 housenumber: 4

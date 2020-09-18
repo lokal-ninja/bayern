@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 49.6696589
 longitude: 11.0704744
-postcode: 91099
+postcode: "91099"
 city: Poxdorf
 street: "Kersbacher Straße"
 housenumber: 2

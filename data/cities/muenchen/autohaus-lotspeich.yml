@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.0894452
 longitude: 11.6118451
-postcode: 81549
+postcode: "81549"
 city: München
 street: "Fasangartenstraße"
 housenumber: 97

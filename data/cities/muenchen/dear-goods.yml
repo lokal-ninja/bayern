@@ -3,7 +3,7 @@ type: node
 shop: Taschen & Koffer
 latitude: 48.135618300000004
 longitude: 11.5708929
-postcode: 80331
+postcode: "80331"
 city: München
 street: "Hackenstraße"
 housenumber: 1

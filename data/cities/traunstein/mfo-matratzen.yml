@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 47.8658586
 longitude: 12.648070800000001
-postcode: 83278
+postcode: "83278"
 city: Traunstein
 street: "Bürgerwaldstraße"
 housenumber: 1

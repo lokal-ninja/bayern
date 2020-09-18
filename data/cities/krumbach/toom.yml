@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.2537661
 longitude: 10.354254800000001
-postcode: 86381
+postcode: "86381"
 city: Krumbach
 street: "Höllgehau"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 48.133348600000005
 longitude: 11.5451511
-postcode: 80339
+postcode: "80339"
 city: München
 street: "Franziska-Bilek-Weg"
 housenumber: 9

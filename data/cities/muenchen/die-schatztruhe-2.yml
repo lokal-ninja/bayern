@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.137190000000004
 longitude: 11.579102200000001
-postcode: 80331
+postcode: "80331"
 city: München
 street: "Orlandostraße"
 housenumber: 1

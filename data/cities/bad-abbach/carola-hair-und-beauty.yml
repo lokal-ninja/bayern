@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.938488
 longitude: 12.0510715
-postcode: 93077
+postcode: "93077"
 city: Bad Abbach
 street: "Raiffeisenstraße"
 housenumber: 19

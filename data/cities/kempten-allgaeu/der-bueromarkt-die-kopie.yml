@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 47.727841600000005
 longitude: 10.3168868
-postcode: 87435
+postcode: "87435"
 city: Kempten (Allgäu)
 street: "Kronenstraße"
 housenumber: 36

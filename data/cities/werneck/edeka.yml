@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.97952840000001
 longitude: 10.0893286
-postcode: 97440
+postcode: "97440"
 city: Werneck
 street: ""
 housenumber: 

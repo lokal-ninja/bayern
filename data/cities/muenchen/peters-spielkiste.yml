@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 48.164671500000004
 longitude: 11.4742122
-postcode: 81247
+postcode: "81247"
 city: München
 street: "Gebhardweg"
 housenumber: 1

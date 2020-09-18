@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.138812300000005
 longitude: 11.565964000000001
-postcode: 80335
+postcode: "80335"
 city: München
 street: "Karlsplatz"
 housenumber: 12

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.457817000000006
 longitude: 11.124743500000001
-postcode: 90482
+postcode: "90482"
 city: Nürnberg
 street: "Ostendstraße"
 housenumber: 173

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.4602401
 longitude: 11.1306323
-postcode: 90482
+postcode: "90482"
 city: Nürnberg
 street: "Mögeldorfer Hauptstraße"
 housenumber: 40

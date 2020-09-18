@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 48.3826138
 longitude: 10.9882942
-postcode: 86316
+postcode: "86316"
 city: Friedberg
 street: "Oberer Dorfweg"
 housenumber: 17

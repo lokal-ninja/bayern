@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.168844500000006
 longitude: 11.913245100000001
-postcode: 85661
+postcode: "85661"
 city: Forstinning
 street: "Mühldorfer Straße"
 housenumber: 20

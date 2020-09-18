@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 49.865689700000004
 longitude: 10.227281900000001
-postcode: 97332
+postcode: "97332"
 city: Volkach
 street: "Spitalstraße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: way
 shop: Schmuck
 latitude: 48.908010700000005
 longitude: 12.6923933
-postcode: 94327
+postcode: "94327"
 city: Bogen
 street: "Stadtplatz"
 housenumber: 18

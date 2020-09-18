@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 47.986843400000005
 longitude: 12.7940248
-postcode: 83413
+postcode: "83413"
 city: Fridolfing
 street: ""
 housenumber: 7a

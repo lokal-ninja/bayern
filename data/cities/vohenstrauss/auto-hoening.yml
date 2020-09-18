@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.5758554
 longitude: 12.3619094
-postcode: 92648
+postcode: "92648"
 city: Vohenstrauß
 street: "Moosbacher Straße"
 housenumber: 31

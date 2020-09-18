@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.883078600000005
 longitude: 12.6081123
-postcode: 94315
+postcode: "94315"
 city: Straubing
 street: "Hirschberger Ring"
 housenumber: 29

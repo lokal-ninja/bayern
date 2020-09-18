@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.597204000000005
 longitude: 11.008663700000001
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Universitätsstraße"
 housenumber: 12

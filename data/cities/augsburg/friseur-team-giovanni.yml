@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.3489298
 longitude: 10.9443436
-postcode: 86163
+postcode: "86163"
 city: Augsburg
 street: "Trettachstraße"
 housenumber: 34

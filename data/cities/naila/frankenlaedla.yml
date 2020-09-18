@@ -3,7 +3,7 @@ type: way
 shop: Feinkost
 latitude: 50.328462800000004
 longitude: 11.7087274
-postcode: 95119
+postcode: "95119"
 city: Naila
 street: "Kronacher Straße"
 housenumber: 17

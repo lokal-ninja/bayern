@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 49.5974948
 longitude: 11.003227500000001
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Marktplatz"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.3593118
 longitude: 11.443704100000001
-postcode: 85256
+postcode: "85256"
 city: Vierkirchen
 street: "Unterfeldring"
 housenumber: 29

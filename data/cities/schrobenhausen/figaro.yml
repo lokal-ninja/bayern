@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 48.5567226
 longitude: 11.265381000000001
-postcode: 86529
+postcode: "86529"
 city: Schrobenhausen
 street: "Aichacher Straße"
 housenumber: 14

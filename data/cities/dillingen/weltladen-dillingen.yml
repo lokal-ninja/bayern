@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.5775608
 longitude: 10.495051
-postcode: 89407
+postcode: "89407"
 city: Dillingen
 street: "Königstraße"
 housenumber: 20

@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.1787744
 longitude: 11.2522731
-postcode: 82256
+postcode: "82256"
 city: Fürstenfeldbruck
 street: "Pucher Straße"
 housenumber: 32

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.0753162
 longitude: 11.247478000000001
-postcode: 82234
+postcode: "82234"
 city: Weßling
 street: "Grünsinker Straße"
 housenumber: 6a

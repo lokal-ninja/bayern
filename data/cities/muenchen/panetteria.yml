@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.139839800000004
 longitude: 11.5180102
-postcode: 80687
+postcode: "80687"
 city: München
 street: "Lautensackstraße"
 housenumber: 2

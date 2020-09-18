@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.4869391
 longitude: 11.1031996
-postcode: 90411
+postcode: "90411"
 city: Nürnberg
 street: "Rathsbergstraße"
 housenumber: 19

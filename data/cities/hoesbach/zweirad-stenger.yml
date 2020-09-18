@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.010262600000004
 longitude: 9.220173200000001
-postcode: 63768
+postcode: "63768"
 city: Hösbach
 street: "Frohnradstraße"
 housenumber: 19

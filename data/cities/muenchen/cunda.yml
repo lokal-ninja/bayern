@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.1377736
 longitude: 11.5723088
-postcode: 80331
+postcode: "80331"
 city: München
 street: "Kaufingerstraße"
 housenumber: 13

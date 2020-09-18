@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.4638701
 longitude: 11.126853500000001
-postcode: 90491
+postcode: "90491"
 city: Nürnberg
 street: "Thumenberger Weg"
 housenumber: 10

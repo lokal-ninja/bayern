@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 47.8438305
 longitude: 12.101840500000002
-postcode: 83026
+postcode: "83026"
 city: Rosenheim
 street: "Turnerweg"
 housenumber: 16

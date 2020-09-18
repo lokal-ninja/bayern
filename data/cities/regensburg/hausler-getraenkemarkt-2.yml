@@ -1,12 +1,12 @@
 id: 6341292918
 type: node
 shop: Getränke
-latitude: 48.988457000000004
-longitude: 12.14227
-postcode: 93055
+latitude: 48.9884452
+longitude: 12.142284700000001
+postcode: "93055"
 city: Regensburg
 street: "Friedrich-Viehbacher-Allee"
-housenumber: 
+housenumber: 7
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-14:00"
 website: "https://www.hausler-getraenke.de/"

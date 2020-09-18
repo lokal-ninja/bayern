@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 49.4886649
 longitude: 11.0991122
-postcode: 90411
+postcode: "90411"
 city: Nürnberg
 street: "Xantener Straße"
 housenumber: 1

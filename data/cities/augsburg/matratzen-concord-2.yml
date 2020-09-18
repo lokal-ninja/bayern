@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 48.3167914
 longitude: 10.8930658
-postcode: 86179
+postcode: "86179"
 city: Augsburg
 street: "Im Tal"
 housenumber: 5b

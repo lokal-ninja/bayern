@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.3407172
 longitude: 11.934988800000001
-postcode: 92266
+postcode: "92266"
 city: Ensdorf
 street: "Hauptstraße"
 housenumber: 10

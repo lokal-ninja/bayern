@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.239466500000006
 longitude: 11.620532500000001
-postcode: 95233
+postcode: "95233"
 city: Helmbrechts
 street: "Am Pfarrgrund"
 housenumber: 4

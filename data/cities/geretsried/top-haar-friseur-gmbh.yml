@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.8748871
 longitude: 11.4663871
-postcode: 82538
+postcode: "82538"
 city: Geretsried
 street: "Lenauweg"
 housenumber: 24

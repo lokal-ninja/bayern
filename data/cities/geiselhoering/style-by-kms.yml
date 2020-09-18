@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.825912
 longitude: 12.393540100000001
-postcode: 94333
+postcode: "94333"
 city: Geiselhöring
 street: "Stadtplatz"
 housenumber: 9

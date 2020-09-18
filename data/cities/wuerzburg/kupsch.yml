@@ -1,12 +1,12 @@
-id: 304782063
+id: 319882710
 type: node
 shop: Supermarkt
-latitude: 49.802863
-longitude: 9.944392
-postcode: 97080
+latitude: 49.814423100000006
+longitude: 9.9628201
+postcode: "97078"
 city: Würzburg
-street: "Matterstockstraße"
-housenumber: 29
+street: "Frankenstraße"
+housenumber: 207
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: ""
+opening_hours: "Mo-Sa 07:00-20:00"
+website: "https://www.kupsch.de/markt/kupsch-markt-wehnert-2/"

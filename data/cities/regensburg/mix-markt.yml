@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.994736200000006
 longitude: 12.1145185
-postcode: 93053
+postcode: "93053"
 city: Regensburg
 street: "Langobardenstraße"
 housenumber: 2

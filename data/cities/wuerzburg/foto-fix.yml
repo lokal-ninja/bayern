@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 49.7967859
 longitude: 9.936281800000001
-postcode: 97070
+postcode: "97070"
 city: Würzburg
 street: "Semmelstraße"
 housenumber: 18

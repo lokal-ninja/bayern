@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.196578800000005
 longitude: 11.325955200000001
-postcode: 82140
+postcode: "82140"
 city: Olching
 street: "Werner-von-Siemens-Straße"
 housenumber: 14

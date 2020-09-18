@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 47.727363700000005
 longitude: 10.3139482
-postcode: 87435
+postcode: "87435"
 city: Kempten (Allgäu)
 street: "Klostersteige"
 housenumber: 36

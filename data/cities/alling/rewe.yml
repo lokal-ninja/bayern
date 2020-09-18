@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.1344324
 longitude: 11.2989815
-postcode: 82239
+postcode: "82239"
 city: Alling
 street: "Gilchinger Straße"
 housenumber: 33

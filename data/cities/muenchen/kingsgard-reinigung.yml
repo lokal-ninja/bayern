@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 48.1612178
 longitude: 11.566885500000001
-postcode: 80796
+postcode: "80796"
 city: München
 street: "Hohenzollernstraße"
 housenumber: 130

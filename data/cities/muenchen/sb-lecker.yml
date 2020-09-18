@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.179957
 longitude: 11.600038300000001
-postcode: 80805
+postcode: "80805"
 city: München
 street: "Marchgrabenplatz"
 housenumber: 1

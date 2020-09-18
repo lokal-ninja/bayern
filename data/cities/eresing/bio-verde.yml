@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 48.0935396
 longitude: 11.0249623
-postcode: 86922
+postcode: "86922"
 city: Eresing
 street: "Gewerbering"
 housenumber: 22

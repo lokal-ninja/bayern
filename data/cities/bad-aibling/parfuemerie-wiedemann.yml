@@ -3,7 +3,7 @@ type: node
 shop: Parfümerie
 latitude: 47.863812300000006
 longitude: 12.0095109
-postcode: 83043
+postcode: "83043"
 city: Bad Aibling
 street: "Marienplatz"
 housenumber: 12

@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 49.508199600000005
 longitude: 11.4316834
-postcode: 91217
+postcode: "91217"
 city: Hersbruck
 street: "Martin-Luther-Straße"
 housenumber: 25

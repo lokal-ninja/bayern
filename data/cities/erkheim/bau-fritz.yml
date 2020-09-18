@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.031190200000005
 longitude: 10.3354359
-postcode: 87746
+postcode: "87746"
 city: Erkheim
 street: "Alpenweg"
 housenumber: 25

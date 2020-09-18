@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.152993
 longitude: 12.646154000000001
-postcode: 93455
+postcode: "93455"
 city: Traitsching
 street: "Bachstraße"
 housenumber: 1

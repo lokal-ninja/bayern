@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 47.7415018
 longitude: 12.104399
-postcode: 83098
+postcode: "83098"
 city: Brannenburg
 street: "Bahnhofstraße"
 housenumber: 82

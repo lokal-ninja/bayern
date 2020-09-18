@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.9407477
 longitude: 12.4789299
-postcode: 83358
+postcode: "83358"
 city: Seebruck
 street: "Pullacher Straße"
 housenumber: 14

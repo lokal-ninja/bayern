@@ -3,7 +3,7 @@ type: node
 shop: Töpferei
 latitude: 48.128534800000004
 longitude: 11.5984683
-postcode: 81667
+postcode: "81667"
 city: München
 street: "Weißenburger Straße"
 housenumber: 23

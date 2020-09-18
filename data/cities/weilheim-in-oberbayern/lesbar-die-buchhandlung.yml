@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 47.839164700000005
 longitude: 11.142804900000002
-postcode: 82362
+postcode: "82362"
 city: Weilheim in Oberbayern
 street: "Admiral-Hipper-Straße"
 housenumber: 2

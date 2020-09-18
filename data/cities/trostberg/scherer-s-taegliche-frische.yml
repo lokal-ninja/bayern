@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.024540800000004
 longitude: 12.5407954
-postcode: 83308
+postcode: "83308"
 city: Trostberg
 street: "Herzog-Otto-Straße"
 housenumber: 11

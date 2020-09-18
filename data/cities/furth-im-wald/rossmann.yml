@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 49.3104232
 longitude: 12.8297725
-postcode: 93437
+postcode: "93437"
 city: Furth im Wald
 street: "Glashüttenweg"
 housenumber: 27

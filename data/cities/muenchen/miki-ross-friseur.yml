@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.163775900000005
 longitude: 11.5880583
-postcode: 80802
+postcode: "80802"
 city: München
 street: "Marschallstraße"
 housenumber: 1

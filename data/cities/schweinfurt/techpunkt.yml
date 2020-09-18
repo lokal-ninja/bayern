@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 50.048233
 longitude: 10.2258467
-postcode: 97421
+postcode: "97421"
 city: Schweinfurt
 street: "Niederwerrner Straße"
 housenumber: 14 1/2

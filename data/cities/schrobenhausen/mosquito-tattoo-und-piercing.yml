@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 48.560900000000004
 longitude: 11.264818
-postcode: 86529
+postcode: "86529"
 city: Schrobenhausen
 street: "Lenbachstraße"
 housenumber: 25

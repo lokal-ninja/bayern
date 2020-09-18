@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.839823200000005
 longitude: 10.9746413
-postcode: 96129
+postcode: "96129"
 city: Strullendorf
 street: "Martin-Luther-Straße"
 housenumber: 49

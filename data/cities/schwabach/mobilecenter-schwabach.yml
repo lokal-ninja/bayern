@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 49.3277185
 longitude: 11.0216363
-postcode: 91126
+postcode: "91126"
 city: Schwabach
 street: "Rathausgasse"
 housenumber: 6

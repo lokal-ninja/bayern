@@ -3,9 +3,9 @@ type: node
 shop: Getränke
 latitude: 50.308179100000004
 longitude: 10.2111319
-postcode: 97616
+postcode: "97616"
 city: Salz
-street: "Hohe Marktstraße"
+street: "Hohe Markstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 09:00-19:00"

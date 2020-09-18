@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.8191562
 longitude: 10.9874875
-postcode: 96114
+postcode: "96114"
 city: Hirschaid
 street: "Bamberger Straße"
 housenumber: 30

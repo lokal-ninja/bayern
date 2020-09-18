@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.888836500000004
 longitude: 11.9143307
-postcode: 83052
+postcode: "83052"
 city: Bruckmühl
 street: "Kirchdorfer Straße"
 housenumber: 41

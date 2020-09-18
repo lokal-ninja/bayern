@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 49.0682909
 longitude: 10.316472800000001
-postcode: 91550
+postcode: "91550"
 city: Dinkelsbühl
 street: "Schreinersgasse"
 housenumber: 11

@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 49.0669814
 longitude: 10.333110000000001
-postcode: 91550
+postcode: "91550"
 city: Dinkelsbühl
 street: "Rudolf-Schmidt-Straße"
 housenumber: 7a

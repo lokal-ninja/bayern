@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.0561073
 longitude: 11.6077673
-postcode: 82008
+postcode: "82008"
 city: Unterhaching
 street: "Grünwalder Weg"
 housenumber: 17

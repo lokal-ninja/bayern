@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.1312744
 longitude: 11.625480000000001
-postcode: 81673
+postcode: "81673"
 city: München
 street: "Neumarkter Straße"
 housenumber: 64

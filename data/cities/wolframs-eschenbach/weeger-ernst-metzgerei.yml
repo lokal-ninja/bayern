@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.226665000000004
 longitude: 10.7236062
-postcode: 91639
+postcode: "91639"
 city: Wolframs-Eschenbach
 street: "Hauptstraße"
 housenumber: 2

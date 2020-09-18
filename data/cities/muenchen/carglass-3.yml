@@ -1,12 +1,12 @@
-id: 544525253
+id: 311013471
 type: way
 shop: Autowerkstatt
-latitude: 48.1923122
-longitude: 11.5916482
-postcode: 80939
+latitude: 48.114885400000006
+longitude: 11.616906100000001
+postcode: "81669"
 city: München
-street: "Maria-Probst-Straße"
-housenumber: 10
+street: "Innsbrucker Ring"
+housenumber: 144
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00; Sa 09:00-16:00"
-website: ""
+opening_hours: "Mo-Fr 07:30-17:00; Sa 09:00-13:00"
+website: "https://standorte.carglass.de/standorte/muenchen/innsbrucker-ring-144.html"

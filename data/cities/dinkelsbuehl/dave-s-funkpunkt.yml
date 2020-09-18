@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 49.0692078
 longitude: 10.3182465
-postcode: 91550
+postcode: "91550"
 city: Dinkelsbühl
 street: "Segringer Straße"
 housenumber: 6

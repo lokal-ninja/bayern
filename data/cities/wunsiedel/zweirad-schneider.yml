@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 50.0351147
 longitude: 11.9949568
-postcode: 95632
+postcode: "95632"
 city: Wunsiedel
 street: "Kemnather Straße"
 housenumber: 62

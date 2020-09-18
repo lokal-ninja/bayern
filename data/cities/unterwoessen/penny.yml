@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.72645300000001
 longitude: 12.4669346
-postcode: 83246
+postcode: "83246"
 city: Unterwössen
 street: "Kruchenhausener Straße"
 housenumber: 46

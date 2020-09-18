@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.1874102
 longitude: 11.5747142
-postcode: 80807
+postcode: "80807"
 city: München
 street: "Frankfurter Ring"
 housenumber: 36

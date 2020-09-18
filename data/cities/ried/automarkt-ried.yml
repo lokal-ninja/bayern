@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.2879707
 longitude: 11.0357087
-postcode: 86510
+postcode: "86510"
 city: Ried
 street: "Gewerbering"
 housenumber: 7

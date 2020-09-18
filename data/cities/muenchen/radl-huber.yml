@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.10897000000001
 longitude: 11.5388496
-postcode: 81369
+postcode: "81369"
 city: München
 street: "Fallstraße"
 housenumber: 18

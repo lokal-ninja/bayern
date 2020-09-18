@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.4323708
 longitude: 12.9391435
-postcode: 84347
+postcode: "84347"
 city: Pfarrkirchen
 street: "Stadtplatz"
 housenumber: 19

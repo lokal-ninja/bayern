@@ -3,10 +3,10 @@ type: node
 shop: Wäscherei
 latitude: 48.393421100000005
 longitude: 9.9987297
-postcode: 89231
+postcode: "89231"
 city: Neu-Ulm
 street: "Hermann-Köhl-Straße"
 housenumber: 15
 phone: ""
-opening_hours: "Mo-Sa 06:00-23:00"
+opening_hours: "Mo-Sa 06:00-23:00; Su 11:30-18:15"
 website: "https://www.waschsalon.de/"

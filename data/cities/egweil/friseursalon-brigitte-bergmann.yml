@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.7886759
 longitude: 11.2292097
-postcode: 85116
+postcode: "85116"
 city: Egweil
 street: "Untere Straße"
 housenumber: 3

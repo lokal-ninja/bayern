@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 49.017441000000005
 longitude: 12.100695900000002
-postcode: 93047
+postcode: "93047"
 city: Regensburg
 street: "Maximilianstraße"
 housenumber: 3

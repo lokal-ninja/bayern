@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.197990100000005
 longitude: 11.3735978
-postcode: 82194
+postcode: "82194"
 city: Gröbenzell
 street: "Bahnhofstraße"
 housenumber: 18

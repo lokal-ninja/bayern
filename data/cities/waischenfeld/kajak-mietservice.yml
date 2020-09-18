@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 49.810847
 longitude: 11.2948993
-postcode: 91344
+postcode: "91344"
 city: Waischenfeld
 street: ""
 housenumber: 17

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.99459
 longitude: 12.1363345
-postcode: 93055
+postcode: "93055"
 city: Regensburg
 street: "Obertraublinger Straße"
 housenumber: 1

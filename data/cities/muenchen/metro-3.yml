@@ -3,7 +3,7 @@ type: way
 shop: Großhandel
 latitude: 48.139709700000004
 longitude: 11.4322584
-postcode: 81243
+postcode: "81243"
 city: München
 street: "Am Gleisdreieck"
 housenumber: 15

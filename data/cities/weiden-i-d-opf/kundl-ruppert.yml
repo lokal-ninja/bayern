@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.6740519
 longitude: 12.161034500000001
-postcode: 92637
+postcode: "92637"
 city: Weiden i.d.OPf.
 street: "Dr.-Pfleger-Straße"
 housenumber: 9

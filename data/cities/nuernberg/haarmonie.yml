@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.4172249
 longitude: 11.032098300000001
-postcode: 90449
+postcode: "90449"
 city: Nürnberg
 street: "Röthenbacher Hauptstraße"
 housenumber: 50

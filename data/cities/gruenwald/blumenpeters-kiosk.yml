@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 48.0389646
 longitude: 11.5217231
-postcode: 82031
+postcode: "82031"
 city: Grünwald
 street: "Auf der Eierwiese"
 housenumber: 1

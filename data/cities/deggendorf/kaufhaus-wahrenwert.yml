@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.849485200000004
 longitude: 12.9859483
-postcode: 94469
+postcode: "94469"
 city: Deggendorf
 street: "Ruselstraße"
 housenumber: 80

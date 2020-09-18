@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.725362600000004
 longitude: 10.3161065
-postcode: 87435
+postcode: "87435"
 city: Kempten (Allgäu)
 street: "An der Sutt"
 housenumber: 10

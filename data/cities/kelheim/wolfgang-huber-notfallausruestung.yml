@@ -3,7 +3,7 @@ type: way
 shop: Sanitätshaus
 latitude: 48.910596600000005
 longitude: 11.8764172
-postcode: 93309
+postcode: "93309"
 city: Kelheim
 street: "Regensburger Straße"
 housenumber: 32

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.144804400000005
 longitude: 11.6932801
-postcode: 95236
+postcode: "95236"
 city: Stammbach
 street: "Rathausstraße"
 housenumber: 4

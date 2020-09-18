@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.4094466
 longitude: 11.470163300000001
-postcode: 85238
+postcode: "85238"
 city: Petershausen
 street: "Münchner Straße"
 housenumber: 5

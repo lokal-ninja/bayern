@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.3606768
 longitude: 12.508159500000001
-postcode: 84494
+postcode: "84494"
 city: Neumarkt-Sankt Veit
 street: ""
 housenumber: 

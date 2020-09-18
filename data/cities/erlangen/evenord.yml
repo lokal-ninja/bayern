@@ -3,7 +3,7 @@ type: node
 shop: Großhandel
 latitude: 49.6044032
 longitude: 10.9972697
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Dechsendorfer Straße"
 housenumber: 14

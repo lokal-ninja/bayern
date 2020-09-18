@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.3199551
 longitude: 11.385856100000002
-postcode: 85229
+postcode: "85229"
 city: Markt Indersdorf
 street: "Münchner Straße"
 housenumber: 40

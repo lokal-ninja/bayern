@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.4592497
 longitude: 11.097949
-postcode: 90489
+postcode: "90489"
 city: Nürnberg
 street: "Sulzbacher Straße"
 housenumber: 69

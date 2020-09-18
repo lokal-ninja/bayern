@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 48.0767382
 longitude: 11.5502982
-postcode: 
+postcode: ""
 city: München
 street: "Geiselgasteigstraße"
 housenumber: 245

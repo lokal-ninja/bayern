@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.919066400000006
 longitude: 9.149052000000001
-postcode: 63834
+postcode: "63834"
 city: Sulzbach am Main
 street: "Bahnhofstraße"
 housenumber: 78

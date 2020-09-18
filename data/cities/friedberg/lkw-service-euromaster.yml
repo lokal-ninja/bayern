@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.4082687
 longitude: 10.950354500000001
-postcode: 86316
+postcode: "86316"
 city: Friedberg
 street: "Siebenbrünnelstraße"
 housenumber: 1

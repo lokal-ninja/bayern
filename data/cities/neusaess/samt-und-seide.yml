@@ -3,7 +3,7 @@ type: way
 shop: Andenken
 latitude: 48.3928275
 longitude: 10.8274646
-postcode: 86356
+postcode: "86356"
 city: Neusäß
 street: "Daimlerstraße"
 housenumber: 7

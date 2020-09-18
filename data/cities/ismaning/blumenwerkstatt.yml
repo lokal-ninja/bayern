@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.2244624
 longitude: 11.668306600000001
-postcode: 85737
+postcode: "85737"
 city: Ismaning
 street: "Korbinianstraße"
 housenumber: 12

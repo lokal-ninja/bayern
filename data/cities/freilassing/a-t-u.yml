@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.8437977
 longitude: 12.9663508
-postcode: 83395
+postcode: "83395"
 city: Freilassing
 street: "Münchener Straße"
 housenumber: 110

@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 49.38105
 longitude: 11.3460155
-postcode: 90518
+postcode: "90518"
 city: Altdorf b. Nürnberg
 street: "Burgthanner Weg"
 housenumber: 2a

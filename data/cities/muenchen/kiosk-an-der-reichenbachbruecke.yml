@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 48.127657400000004
 longitude: 11.5761306
-postcode: 80469
+postcode: "80469"
 city: München
 street: "Fraunhoferstraße"
 housenumber: 46

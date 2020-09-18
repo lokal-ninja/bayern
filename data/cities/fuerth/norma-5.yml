@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.4835992
 longitude: 10.998397800000001
-postcode: 90765
+postcode: "90765"
 city: Fürth
 street: "Erlanger Straße"
 housenumber: 52

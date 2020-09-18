@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.674348
 longitude: 12.1612173
-postcode: 92637
+postcode: "92637"
 city: Weiden i.d.OPf.
 street: "Stadtmühlweg"
 housenumber: 7

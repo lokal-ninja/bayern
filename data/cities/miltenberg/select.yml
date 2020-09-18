@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.70159030000001
 longitude: 9.2583096
-postcode: 63897
+postcode: "63897"
 city: Miltenberg
 street: "Hauptstraße"
 housenumber: 55

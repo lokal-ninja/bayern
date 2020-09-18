@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 49.4708297
 longitude: 11.1125532
-postcode: 90491
+postcode: "90491"
 city: Nürnberg
 street: "Leipziger Straße"
 housenumber: 53

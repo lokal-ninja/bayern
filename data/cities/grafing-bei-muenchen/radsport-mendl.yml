@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.043059400000004
 longitude: 11.9682752
-postcode: 85567
+postcode: "85567"
 city: Grafing bei München
 street: "Griesstraße"
 housenumber: 18

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.173677700000006
 longitude: 10.767165400000001
-postcode: 86830
+postcode: "86830"
 city: Schwabmünchen
 street: "Franz-Kleinhans-Straße"
 housenumber: 10

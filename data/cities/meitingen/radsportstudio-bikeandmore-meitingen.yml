@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.5456446
 longitude: 10.853755900000001
-postcode: 86405
+postcode: "86405"
 city: Meitingen
 street: "Römerstraße"
 housenumber: 6

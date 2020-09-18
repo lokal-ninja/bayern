@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.5902472
 longitude: 12.0259155
-postcode: 
+postcode: ""
 city: Furth
 street: "Am Rathaus"
 housenumber: 14

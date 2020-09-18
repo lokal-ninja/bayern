@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.246079800000004
 longitude: 12.520366500000002
-postcode: 84453
+postcode: "84453"
 city: Mühldorf am Inn
 street: "Bahnhofstraße"
 housenumber: 8

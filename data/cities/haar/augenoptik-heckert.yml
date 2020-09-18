@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.1102246
 longitude: 11.732645600000001
-postcode: 85540
+postcode: "85540"
 city: Haar
 street: "Leibstraße"
 housenumber: 29

@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 49.4067291
 longitude: 10.681981500000001
-postcode: 90599
+postcode: "90599"
 city: Dietenhofen
 street: "Industriestraße"
 housenumber: 1

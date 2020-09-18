@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.321659800000006
 longitude: 11.8996747
-postcode: 95030
+postcode: "95030"
 city: Hof
 street: "Am Bürgerheim"
 housenumber: 18

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.595336100000004
 longitude: 11.0051191
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Friedrichstraße"
 housenumber: 1a

@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 48.9813101
 longitude: 12.1925618
-postcode: 93073
+postcode: "93073"
 city: Neutraubling
 street: "Pommernstraße"
 housenumber: 4

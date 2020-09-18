@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 47.9846042
 longitude: 10.188634700000001
-postcode: 87700
+postcode: "87700"
 city: Memmingen
 street: "Gaswerkstraße"
 housenumber: 1

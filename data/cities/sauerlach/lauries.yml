@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 47.9771189
 longitude: 11.65165
-postcode: 82054
+postcode: "82054"
 city: Sauerlach
 street: "Münchener Straße"
 housenumber: 37

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.438545000000005
 longitude: 11.0667673
-postcode: 90443
+postcode: "90443"
 city: Nürnberg
 street: "Gibitzenhofstraße"
 housenumber: 56

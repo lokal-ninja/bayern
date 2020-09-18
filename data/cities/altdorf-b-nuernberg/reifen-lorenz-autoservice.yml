@@ -3,7 +3,7 @@ type: node
 shop: Reifen
 latitude: 49.3845156
 longitude: 11.3481479
-postcode: 90518
+postcode: "90518"
 city: Altdorf b.Nürnberg
 street: "Nürnberger Straße"
 housenumber: 30

@@ -3,10 +3,10 @@ type: node
 shop: Schmuck
 latitude: 49.5443909
 longitude: 10.2290106
-postcode: 97215
+postcode: "97215"
 city: Uffenheim
 street: "Schweinemarkt"
 housenumber: 5
 phone: ""
-opening_hours: ""
+opening_hours: "We 10:00-12:00,14:00-18:00; Th,Fr 14:00-18:00; Sa 10:00-12:00"
 website: ""

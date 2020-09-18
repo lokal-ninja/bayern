@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.682296400000006
 longitude: 10.8149835
-postcode: 86663
+postcode: "86663"
 city: Asbach-Bäumenheim
 street: "Raiffeisenstraße"
 housenumber: 30

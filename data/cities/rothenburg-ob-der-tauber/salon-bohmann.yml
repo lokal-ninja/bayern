@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.3775939
 longitude: 10.180616800000001
-postcode: 91541
+postcode: "91541"
 city: Rothenburg ob der Tauber
 street: "Milchmarkt"
 housenumber: 15

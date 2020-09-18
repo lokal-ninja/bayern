@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.162812800000005
 longitude: 11.730061500000001
-postcode: 85609
+postcode: "85609"
 city: Aschheim
 street: "Theodor-Fontane-Straße"
 housenumber: 12

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.884342800000006
 longitude: 12.595356800000001
-postcode: 94315
+postcode: "94315"
 city: Straubing
 street: "Ittlinger Straße"
 housenumber: 51-53

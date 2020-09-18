@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.517851300000004
 longitude: 10.8093412
-postcode: 86485
+postcode: "86485"
 city: Biberbach
 street: "Hauptstraße"
 housenumber: 11

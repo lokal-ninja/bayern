@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.3695219
 longitude: 11.384770000000001
-postcode: 85229
+postcode: "85229"
 city: Markt Indersdorf
 street: "Glonntalstraße"
 housenumber: 29

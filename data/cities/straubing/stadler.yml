@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 48.8916423
 longitude: 12.575628100000001
-postcode: 94315
+postcode: "94315"
 city: Straubing
 street: "Chamer Straße"
 housenumber: 47

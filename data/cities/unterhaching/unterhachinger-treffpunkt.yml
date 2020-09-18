@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.0665252
 longitude: 11.610022200000001
-postcode: 82008
+postcode: "82008"
 city: Unterhaching
 street: "Hofmarkweg"
 housenumber: 12

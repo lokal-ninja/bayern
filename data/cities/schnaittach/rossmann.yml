@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.552025300000004
 longitude: 11.3330529
-postcode: 91220
+postcode: "91220"
 city: Schnaittach
 street: "Nürnberger Straße"
 housenumber: 95

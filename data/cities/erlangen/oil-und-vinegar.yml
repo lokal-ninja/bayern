@@ -3,7 +3,7 @@ type: way
 shop: Feinkost
 latitude: 49.592945300000004
 longitude: 11.004000000000001
-postcode: 91052
+postcode: "91052"
 city: Erlangen
 street: "Nürnberger Straße"
 housenumber: 7

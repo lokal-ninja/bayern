@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 49.8818963
 longitude: 9.1391106
-postcode: 63868
+postcode: "63868"
 city: Großwallstadt
 street: "Flurbereinigungsweg"
 housenumber: 3

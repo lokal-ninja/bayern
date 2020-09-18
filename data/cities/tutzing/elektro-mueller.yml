@@ -3,7 +3,7 @@ type: way
 shop: Elektrisch
 latitude: 47.912746000000006
 longitude: 11.2816796
-postcode: 82327
+postcode: "82327"
 city: Tutzing
 street: "Hauptstraße"
 housenumber: 61

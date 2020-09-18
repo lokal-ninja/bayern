@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.3686303
 longitude: 10.014304000000001
-postcode: 89231
+postcode: "89231"
 city: Neu-Ulm
 street: "Reichenberger Straße"
 housenumber: 9

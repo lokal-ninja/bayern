@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.779848300000005
 longitude: 11.3636452
-postcode: 85049
+postcode: "85049"
 city: Ingolstadt
 street: "Ochsenmühlstraße"
 housenumber: 1A

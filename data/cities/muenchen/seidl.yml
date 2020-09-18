@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.204244
 longitude: 11.5587306
-postcode: 80935
+postcode: "80935"
 city: München
 street: "Gundermannstraße"
 housenumber: 5

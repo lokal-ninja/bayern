@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.3130668
 longitude: 11.651461900000001
-postcode: 85375
+postcode: "85375"
 city: Neufahrn
 street: "Ludwig-Erhard-Straße"
 housenumber: 2

@@ -3,10 +3,10 @@ type: node
 shop: Metzgerei
 latitude: 50.521880900000006
 longitude: 10.1455306
-postcode: 97650
+postcode: "97650"
 city: Fladungen
 street: "Ludwigstraße"
 housenumber: 32
-phone: "+49 09778) 215"
+phone: "+49 9778 215"
 opening_hours: ""
 website: ""

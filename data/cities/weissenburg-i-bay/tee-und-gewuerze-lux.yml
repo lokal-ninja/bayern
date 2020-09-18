@@ -3,7 +3,7 @@ type: node
 shop: Tee
 latitude: 49.029806300000004
 longitude: 10.972565600000001
-postcode: 91781
+postcode: "91781"
 city: Weißenburg i. Bay.
 street: "Rosenbühl"
 housenumber: 1

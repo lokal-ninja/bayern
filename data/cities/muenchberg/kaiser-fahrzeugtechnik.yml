@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.1758697
 longitude: 11.809239900000001
-postcode: 95213
+postcode: "95213"
 city: Münchberg
 street: "Mechlenreuth"
 housenumber: 89

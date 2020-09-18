@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.5798627
 longitude: 10.617545300000002
-postcode: 91413
+postcode: "91413"
 city: Neustadt a.d.Aisch
 street: "Nürnberger Straße"
 housenumber: 51

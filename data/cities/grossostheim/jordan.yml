@@ -3,10 +3,10 @@ type: node
 shop: Metzgerei
 latitude: 49.909398700000004
 longitude: 9.0597024
-postcode: 63762
+postcode: "63762"
 city: Großostheim
 street: "Rathausstraße"
 housenumber: 8
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-12:00"
 website: ""

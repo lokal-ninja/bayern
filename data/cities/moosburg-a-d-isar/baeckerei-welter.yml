@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.4669557
 longitude: 11.9347957
-postcode: 85368
+postcode: "85368"
 city: Moosburg a.d. Isar
 street: "Münchener Straße"
 housenumber: 2

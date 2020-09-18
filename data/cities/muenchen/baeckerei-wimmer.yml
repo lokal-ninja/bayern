@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.0927517
 longitude: 11.569305900000002
-postcode: 81545
+postcode: "81545"
 city: München
 street: "Naupliastraße"
 housenumber: 105

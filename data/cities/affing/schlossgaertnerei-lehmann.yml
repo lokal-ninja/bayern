@@ -3,7 +3,7 @@ type: way
 shop: Gemüse & Obst
 latitude: 48.4574483
 longitude: 10.981950900000001
-postcode: 86444
+postcode: "86444"
 city: Affing
 street: "Friedhofstraße"
 housenumber: 1

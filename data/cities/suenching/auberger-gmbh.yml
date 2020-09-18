@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 48.884886800000004
 longitude: 12.3589151
-postcode: 93104
+postcode: "93104"
 city: Sünching
 street: "Straubinger Straße"
 housenumber: 7

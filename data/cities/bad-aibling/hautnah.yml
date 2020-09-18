@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 47.862871500000004
 longitude: 12.005781
-postcode: 83043
+postcode: "83043"
 city: Bad Aibling
 street: "Sedanstraße"
 housenumber: 3

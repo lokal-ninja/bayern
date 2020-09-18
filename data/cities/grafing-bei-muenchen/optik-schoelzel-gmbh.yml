@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.0436932
 longitude: 11.967210900000001
-postcode: 85567
+postcode: "85567"
 city: Grafing bei München
 street: "Griesstraße"
 housenumber: 13

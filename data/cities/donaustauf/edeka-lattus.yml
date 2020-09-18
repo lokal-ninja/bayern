@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.028415100000004
 longitude: 12.202092200000001
-postcode: 93093
+postcode: "93093"
 city: Donaustauf
 street: "Regensburger Straße"
 housenumber: 11

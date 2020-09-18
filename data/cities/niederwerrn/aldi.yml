@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.058494
 longitude: 10.187982
-postcode: 97464
+postcode: "97464"
 city: Niederwerrn
 street: "Schweinfurter Straße"
 housenumber: 122

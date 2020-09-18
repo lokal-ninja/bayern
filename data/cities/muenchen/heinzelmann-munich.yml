@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.1381681
 longitude: 11.5798924
-postcode: 80331
+postcode: "80331"
 city: München
 street: "Pfisterstraße"
 housenumber: 10

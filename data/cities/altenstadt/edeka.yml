@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.156771600000006
 longitude: 10.1154802
-postcode: 89281
+postcode: "89281"
 city: Altenstadt
 street: "Wiener Straße"
 housenumber: 2

@@ -1,12 +1,12 @@
-id: 166263630
-type: way
+id: 7653539889
+type: node
 shop: Fahrrad
-latitude: 48.3910883
-longitude: 10.8817575
-postcode: 86154
+latitude: 48.3895132
+longitude: 10.8811283
+postcode: "86154"
 city: Augsburg
 street: "Donauwörther Straße"
-housenumber: 126
+housenumber: 101
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00,13:00-18:00; Sa 09:00-13:00; Oct-Feb Mo off; PH off"
+opening_hours: "Mo-Fr 09:00-18:00; We 09:00-12:00; Sa 09:00-13:00; PH off"
 website: ""

@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 49.3424561
 longitude: 11.047813900000001
-postcode: 91126
+postcode: "91126"
 city: Schwabach
 street: "Katzwanger Straße"
 housenumber: 22

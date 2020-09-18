@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 47.869149
 longitude: 12.6362552
-postcode: 83278
+postcode: "83278"
 city: Traunstein
 street: "Güterhallenstraße"
 housenumber: 16

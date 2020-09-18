@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.240500700000005
 longitude: 12.687830700000001
-postcode: 84524
+postcode: "84524"
 city: Neuötting
 street: "Ludwigstraße"
 housenumber: 97

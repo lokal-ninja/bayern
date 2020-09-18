@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.255597
 longitude: 10.642074800000001
-postcode: 86850
+postcode: "86850"
 city: Fischach
 street: "Mickhauser Straße"
 housenumber: 4

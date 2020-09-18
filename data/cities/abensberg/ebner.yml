@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.8194919
 longitude: 11.8371343
-postcode: 
+postcode: ""
 city: Abensberg
 street: "Bacchusweg"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.0137914
 longitude: 12.127937600000001
-postcode: 93055
+postcode: "93055"
 city: Regensburg
 street: "Kastenmaierstraße"
 housenumber: 2

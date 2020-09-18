@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.8632702
 longitude: 12.02806
-postcode: 83043
+postcode: "83043"
 city: Bad Aibling
 street: "Harthauser Straße"
 housenumber: 70

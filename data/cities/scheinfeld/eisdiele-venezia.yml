@@ -3,7 +3,7 @@ type: way
 shop: Eisprodukte
 latitude: 49.6651572
 longitude: 10.4625853
-postcode: 91443
+postcode: "91443"
 city: Scheinfeld
 street: "Würzburger Straße"
 housenumber: 1

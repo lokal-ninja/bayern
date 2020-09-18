@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.783028200000004
 longitude: 12.8802854
-postcode: 94447
+postcode: "94447"
 city: Plattling
 street: "Deggendorfer Straße"
 housenumber: 61a

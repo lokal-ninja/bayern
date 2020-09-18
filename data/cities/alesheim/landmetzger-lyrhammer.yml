@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.026026300000005
 longitude: 10.8658765
-postcode: 91793
+postcode: "91793"
 city: Alesheim
 street: "Im Unteren Dorf"
 housenumber: 18

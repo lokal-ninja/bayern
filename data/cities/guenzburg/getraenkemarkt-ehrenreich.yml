@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 48.450841600000004
 longitude: 10.294043100000001
-postcode: 89312
+postcode: "89312"
 city: Günzburg
 street: "Tulpenstraße"
 housenumber: 5

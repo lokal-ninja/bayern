@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.377993200000006
 longitude: 10.1904742
-postcode: 91541
+postcode: "91541"
 city: Rothenburg ob der Tauber
 street: "Bahnhofstraße"
 housenumber: 15

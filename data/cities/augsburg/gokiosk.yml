@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 48.308546400000004
 longitude: 10.9015886
-postcode: 86179
+postcode: "86179"
 city: Augsburg
 street: "Inninger Straße"
 housenumber: 19

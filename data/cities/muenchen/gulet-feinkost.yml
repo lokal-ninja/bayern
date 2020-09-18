@@ -3,7 +3,7 @@ type: way
 shop: Feinkost
 latitude: 48.1505018
 longitude: 11.461874700000001
-postcode: 81241
+postcode: "81241"
 city: München
 street: "Pasinger Bahnhofsplatz"
 housenumber: 8

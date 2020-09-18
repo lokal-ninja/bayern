@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.119549400000004
 longitude: 11.5455611
-postcode: 
+postcode: ""
 city: München
 street: "Oberländerstraße"
 housenumber: 24

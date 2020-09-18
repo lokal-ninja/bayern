@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.111408000000004
 longitude: 11.5952059
-postcode: 81539
+postcode: "81539"
 city: München
 street: "Schlierseestraße"
 housenumber: 

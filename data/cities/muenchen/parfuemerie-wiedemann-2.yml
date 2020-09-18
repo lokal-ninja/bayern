@@ -3,7 +3,7 @@ type: node
 shop: Parfümerie
 latitude: 48.1337594
 longitude: 11.5965199
-postcode: 81667
+postcode: "81667"
 city: München
 street: "Steinstraße"
 housenumber: 9

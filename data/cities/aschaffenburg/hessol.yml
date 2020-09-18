@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 49.9870639
 longitude: 9.1598626
-postcode: 63741
+postcode: "63741"
 city: Aschaffenburg
 street: "Schönbornstraße"
 housenumber: 11

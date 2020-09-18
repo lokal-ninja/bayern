@@ -3,7 +3,7 @@ type: way
 shop: Kosmetik
 latitude: 48.7162486
 longitude: 11.4922529
-postcode: 85077
+postcode: "85077"
 city: Manching
 street: "Georg-Mathes-Straße"
 housenumber: 6 1/2

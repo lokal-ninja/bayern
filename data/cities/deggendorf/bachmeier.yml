@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.8349789
 longitude: 12.961816800000001
-postcode: 94469
+postcode: "94469"
 city: Deggendorf
 street: "Oberer Stadtplatz"
 housenumber: 23

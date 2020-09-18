@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.318583100000005
 longitude: 11.6619699
-postcode: 85375
+postcode: "85375"
 city: Neufahrn b. Freising
 street: "Bahnhofstraße"
 housenumber: 42

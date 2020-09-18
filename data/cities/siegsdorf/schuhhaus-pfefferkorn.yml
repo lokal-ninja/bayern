@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 47.823142100000005
 longitude: 12.6465949
-postcode: 83313
+postcode: "83313"
 city: Siegsdorf
 street: "Hauptstraße"
 housenumber: 32

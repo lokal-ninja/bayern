@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.2487763
 longitude: 11.6523245
-postcode: 85748
+postcode: "85748"
 city: Garching bei München
 street: "Bürgermeister-Amon-Straße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.5963361
 longitude: 11.0172486
-postcode: 91052
+postcode: "91052"
 city: Erlangen
 street: "Werner-von-Siemens-Straße"
 housenumber: 3

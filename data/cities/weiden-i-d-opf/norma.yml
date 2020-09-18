@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.685409400000005
 longitude: 12.130649
-postcode: 92637
+postcode: "92637"
 city: Weiden i.d.OPf.
 street: "Pressather Straße"
 housenumber: 51

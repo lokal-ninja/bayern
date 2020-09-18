@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 48.0734129
 longitude: 12.4881977
-postcode: 83342
+postcode: "83342"
 city: Tacherting
 street: "Kolpingweg"
 housenumber: 2

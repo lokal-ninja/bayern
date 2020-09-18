@@ -3,10 +3,10 @@ type: way
 shop: Getränke
 latitude: 50.031415200000005
 longitude: 10.531852500000001
-postcode: 97437
+postcode: "97437"
 city: Haßfurt
 street: "Am Sterzelbach"
-housenumber: 5
+housenumber: 6
 phone: ""
 opening_hours: ""
 website: ""

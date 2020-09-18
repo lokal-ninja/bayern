@@ -3,7 +3,7 @@ type: node
 shop: Nähzubehör
 latitude: 47.8405896
 longitude: 11.1418868
-postcode: 82362
+postcode: "82362"
 city: Weilheim in Oberbayern
 street: "Schmiedstraße"
 housenumber: 22

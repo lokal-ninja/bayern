@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.800253000000005
 longitude: 9.9978786
-postcode: 97076
+postcode: "97076"
 city: Würzburg
 street: "Sandäcker"
 housenumber: 3

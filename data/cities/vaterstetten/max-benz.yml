@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.1263291
 longitude: 11.7900595
-postcode: 85599
+postcode: "85599"
 city: Vaterstetten
 street: "Parsdorfer Straße"
 housenumber: 21

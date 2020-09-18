@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.1241469
 longitude: 11.580299400000001
-postcode: 81541
+postcode: "81541"
 city: München
 street: "Falkenstraße"
 housenumber: 2a

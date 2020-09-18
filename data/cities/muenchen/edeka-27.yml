@@ -1,12 +1,12 @@
-id: 3752426383
+id: 2976965824
 type: node
 shop: Supermarkt
-latitude: 48.1642525
-longitude: 11.5565973
-postcode: 80797
+latitude: 48.1299453
+longitude: 11.4865346
+postcode: "80689"
 city: München
-street: "Georg-Birk-Straße"
-housenumber: 13
+street: "Senftenauerstraße"
+housenumber: 101
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: "Mo-Sa 07:00-20:00"
 website: ""

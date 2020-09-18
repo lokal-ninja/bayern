@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 48.08222
 longitude: 11.5044737
-postcode: 81477
+postcode: "81477"
 city: München
 street: "Drygalski-Allee"
 housenumber: 117

@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 48.839442500000004
 longitude: 10.852426900000001
-postcode: 86653
+postcode: "86653"
 city: Monheim
 street: "Donauwörther Straße"
 housenumber: 34

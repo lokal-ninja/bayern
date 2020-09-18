@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 49.4468187
 longitude: 11.0641811
-postcode: 90443
+postcode: "90443"
 city: Nürnberg
 street: "Gostenhofer Hauptstraße"
 housenumber: 28

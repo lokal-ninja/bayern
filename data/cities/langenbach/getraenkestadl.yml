@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.4429875
 longitude: 11.850059100000001
-postcode: 85416
+postcode: "85416"
 city: Langenbach
 street: "Oftlfinger Straße"
 housenumber: 9

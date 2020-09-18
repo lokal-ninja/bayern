@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.146320100000004
 longitude: 11.593391400000002
-postcode: 80538
+postcode: "80538"
 city: München
 street: "Oettingenstraße"
 housenumber: 44

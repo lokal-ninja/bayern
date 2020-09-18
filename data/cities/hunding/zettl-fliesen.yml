@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.8384833
 longitude: 13.151340500000002
-postcode: 94551
+postcode: "94551"
 city: Hunding
 street: "Gewerbedorf"
 housenumber: 4

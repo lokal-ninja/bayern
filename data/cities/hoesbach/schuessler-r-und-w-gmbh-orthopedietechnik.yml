@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 50.003495900000004
 longitude: 9.2047217
-postcode: 63768
+postcode: "63768"
 city: Hösbach
 street: "Brunnenstraße"
 housenumber: 126

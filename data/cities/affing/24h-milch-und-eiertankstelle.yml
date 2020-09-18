@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 48.4377744
 longitude: 10.9497946
-postcode: 86444
+postcode: "86444"
 city: Affing
 street: "Pfaffensteig"
 housenumber: 2a

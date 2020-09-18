@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 49.4583115
 longitude: 10.8890343
-postcode: 90556
+postcode: "90556"
 city: Cadolzburg
 street: "Bahnhofstraße"
 housenumber: 45

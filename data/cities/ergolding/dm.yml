@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.5582094
 longitude: 12.1546532
-postcode: 
+postcode: ""
 city: Ergolding
 street: "Industriestraße"
 housenumber: 42

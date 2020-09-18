@@ -3,7 +3,7 @@ type: node
 shop: Teppiche
 latitude: 48.12346
 longitude: 11.5795562
-postcode: 81541
+postcode: "81541"
 city: München
 street: "Falkenstraße"
 housenumber: 8a

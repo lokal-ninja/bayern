@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.9969763
 longitude: 11.342612200000001
-postcode: 82319
+postcode: "82319"
 city: Starnberg
 street: "Wittelsbacherstraße"
 housenumber: 2 A

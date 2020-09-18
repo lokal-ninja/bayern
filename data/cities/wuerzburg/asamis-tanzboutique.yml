@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.7965175
 longitude: 9.935568400000001
-postcode: 97070
+postcode: "97070"
 city: Würzburg
 street: "Semmelstraße"
 housenumber: 6

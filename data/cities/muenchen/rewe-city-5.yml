@@ -1,12 +1,12 @@
-id: 1166953324
+id: 767482729
 type: node
 shop: Supermarkt
-latitude: 48.1399082
-longitude: 11.5616423
-postcode: 80335
+latitude: 48.129166600000005
+longitude: 11.5110901
+postcode: "80686"
 city: München
-street: "Bahnhofplatz"
-housenumber: 1
+street: "Endelhauserstraße"
+housenumber: 15a
 phone: ""
-opening_hours: "Mo-Sa 06:00-20:00"
-website: "https://www.rewe.de"
+opening_hours: "Mo-Sa 07:00-20:00"
+website: ""

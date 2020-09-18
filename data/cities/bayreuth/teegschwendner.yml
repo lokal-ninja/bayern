@@ -3,7 +3,7 @@ type: node
 shop: Tee
 latitude: 49.944668500000006
 longitude: 11.5718797
-postcode: 95444
+postcode: "95444"
 city: Bayreuth
 street: "Maximilianstraße"
 housenumber: 75

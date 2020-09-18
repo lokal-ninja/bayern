@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.52329
 longitude: 11.0137149
-postcode: 90427
+postcode: "90427"
 city: Nürnberg
 street: "Schweinfurter Straße"
 housenumber: 26

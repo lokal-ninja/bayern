@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.3239462
 longitude: 11.919470800000001
-postcode: 95028
+postcode: "95028"
 city: Hof
 street: "Unteres Tor"
 housenumber: 2

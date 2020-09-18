@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.8831555
 longitude: 12.356209100000001
-postcode: 93104
+postcode: "93104"
 city: Sünching
 street: "Bahnhofstraße"
 housenumber: 31

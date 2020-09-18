@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 48.128699000000005
 longitude: 11.5714669
-postcode: 80469
+postcode: "80469"
 city: München
 street: "Klenzestraße"
 housenumber: 65

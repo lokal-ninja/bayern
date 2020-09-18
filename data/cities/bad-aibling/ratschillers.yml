@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.8577935
 longitude: 12.015144900000001
-postcode: 83043
+postcode: "83043"
 city: Bad Aibling
 street: "Rosenheimer Straße"
 housenumber: 59

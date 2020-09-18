@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 49.5799912
 longitude: 10.809936400000002
-postcode: 91086
+postcode: "91086"
 city: Aurachtal
 street: "Dorfäcker"
 housenumber: 14

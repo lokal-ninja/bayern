@@ -1,12 +1,12 @@
-id: 29374053
-type: way
+id: 1741677591
+type: node
 shop: Supermarkt
-latitude: 48.147769100000005
-longitude: 11.4207668
-postcode: 81249
+latitude: 48.082527600000006
+longitude: 11.4845749
+postcode: "81475"
 city: München
-street: "Wiesentfelser Straße"
-housenumber: 2
+street: "Königswieser Straße"
+housenumber: 5
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: "Mo-Sa 08:00-20:00; PH off"
 website: ""

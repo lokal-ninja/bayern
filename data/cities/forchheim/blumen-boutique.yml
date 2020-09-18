@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.724254
 longitude: 11.059042600000001
-postcode: 91301
+postcode: "91301"
 city: Forchheim
 street: "Bamberger Straße"
 housenumber: 44

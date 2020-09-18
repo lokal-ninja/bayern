@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 49.0396153
 longitude: 12.080765600000001
-postcode: 93138
+postcode: "93138"
 city: Lappersdorf
 street: "Keltenstraße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 49.783100600000004
 longitude: 9.1818574
-postcode: 63911
+postcode: "63911"
 city: Klingenberg a.Main
 street: "Rathausstraße"
 housenumber: 13

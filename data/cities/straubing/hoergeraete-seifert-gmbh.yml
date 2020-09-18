@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 48.878608400000005
 longitude: 12.5713369
-postcode: 94315
+postcode: "94315"
 city: Straubing
 street: "Bahnhofstraße"
 housenumber: 15

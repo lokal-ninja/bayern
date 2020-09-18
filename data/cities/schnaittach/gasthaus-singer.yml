@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 49.612380400000006
 longitude: 11.4069713
-postcode: 91220
+postcode: "91220"
 city: Schnaittach
 street: "Parkstraße"
 housenumber: 5

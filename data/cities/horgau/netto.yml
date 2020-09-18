@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.3937438
 longitude: 10.6936099
-postcode: 86497
+postcode: "86497"
 city: Horgau
 street: "Augsburger Straße"
 housenumber: 14

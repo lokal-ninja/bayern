@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 48.5907434
 longitude: 12.022713900000001
-postcode: 84095
+postcode: "84095"
 city: Furth
 street: "Siedlungsstraße"
 housenumber: 6

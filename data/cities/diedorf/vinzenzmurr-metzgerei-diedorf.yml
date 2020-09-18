@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.3590655
 longitude: 10.7841985
-postcode: 86420
+postcode: "86420"
 city: Diedorf
 street: "Gewerbestraße"
 housenumber: 5

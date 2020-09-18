@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 49.474744900000005
 longitude: 10.989206600000001
-postcode: 90762
+postcode: "90762"
 city: Fürth
 street: "Moststraße"
 housenumber: 3

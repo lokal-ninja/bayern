@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.5558929
 longitude: 11.2678574
-postcode: 86529
+postcode: "86529"
 city: Schrobenhausen
 street: "Georg-Leinfelder-Straße"
 housenumber: 1

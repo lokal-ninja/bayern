@@ -3,10 +3,10 @@ type: node
 shop: Sanitätshaus
 latitude: 49.0256368
 longitude: 12.1156454
-postcode: 93059
+postcode: "93059"
 city: Regensburg
 street: "Weichser Weg"
 housenumber: 5
 phone: "+49 941 59409200"
-opening_hours: ""
+opening_hours: "Mo-Sa 09:30-20:00"
 website: "https://www.reiss.info/"

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.505204500000005
 longitude: 11.2718488
-postcode: 91207
+postcode: "91207"
 city: Lauf a.d.Pegnitz
 street: "Pegnitzstraße"
 housenumber: 11

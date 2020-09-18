@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 48.573056
 longitude: 12.1748653
-postcode: 84030
+postcode: "84030"
 city: Ergolding
 street: "Rottenburger Straße"
 housenumber: 39

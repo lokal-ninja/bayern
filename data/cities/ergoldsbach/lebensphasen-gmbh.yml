@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 48.691061600000005
 longitude: 12.2111943
-postcode: 84061
+postcode: "84061"
 city: Ergoldsbach
 street: "Meisenweg"
 housenumber: 14

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.0052923
 longitude: 11.976116500000002
-postcode: 93161
+postcode: "93161"
 city: Sinzing
 street: "Röhrl-Bräu-Straße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 49.659224
 longitude: 10.9147488
-postcode: 91341
+postcode: "91341"
 city: Röttenbach
 street: "Gewerbering"
 housenumber: 7

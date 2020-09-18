@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.0255651
 longitude: 11.5964466
-postcode: 82041
+postcode: "82041"
 city: Oberhaching
 street: "Kirchplatz"
 housenumber: 8b

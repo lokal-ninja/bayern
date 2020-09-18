@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.3188934
 longitude: 11.7461591
-postcode: 85399
+postcode: "85399"
 city: Hallbergmoos
 street: "Theresienstraße"
 housenumber: 67

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.2451164
 longitude: 11.9033704
-postcode: 85457
+postcode: "85457"
 city: Wörth
 street: "Am Platzl"
 housenumber: 1

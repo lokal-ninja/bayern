@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.5879325
 longitude: 10.977087200000001
-postcode: 91056
+postcode: "91056"
 city: Erlangen
 street: "Neumühle"
 housenumber: 4

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.7686245
 longitude: 11.4021921
-postcode: 85057
+postcode: "85057"
 city: Ingolstadt
 street: "Neuburger Straße"
 housenumber: 59

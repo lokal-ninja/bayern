@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 48.888299
 longitude: 12.6246769
-postcode: 94315
+postcode: "94315"
 city: Straubing
 street: "Borsigstraße"
 housenumber: 19

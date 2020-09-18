@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.6922203
 longitude: 10.798064400000001
-postcode: 91315
+postcode: "91315"
 city: Höchstadt a.d.Aisch
 street: "Lappacher Weg"
 housenumber: 27

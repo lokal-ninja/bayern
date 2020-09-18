@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.202870100000005
 longitude: 11.962404300000001
-postcode: 85669
+postcode: "85669"
 city: Pastetten
 street: "Erdinger Straße"
 housenumber: 18

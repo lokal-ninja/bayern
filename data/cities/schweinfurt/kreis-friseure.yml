@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.044929100000004
 longitude: 10.22789
-postcode: 97421
+postcode: "97421"
 city: Schweinfurt
 street: "Hadergasse"
 housenumber: 33c

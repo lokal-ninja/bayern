@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 47.9863299
 longitude: 10.1822587
-postcode: 87700
+postcode: "87700"
 city: Memmingen
 street: "Kalchstraße"
 housenumber: 9

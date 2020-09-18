@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.260196
 longitude: 10.6130583
-postcode: 91522
+postcode: "91522"
 city: Ansbach
 street: "Rudolf-Diesel-Straße"
 housenumber: 2

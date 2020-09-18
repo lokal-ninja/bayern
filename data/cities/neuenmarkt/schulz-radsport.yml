@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 50.09209370000001
 longitude: 11.585978500000001
-postcode: 95339
+postcode: "95339"
 city: Neuenmarkt
 street: "Laubenstraße"
 housenumber: 5

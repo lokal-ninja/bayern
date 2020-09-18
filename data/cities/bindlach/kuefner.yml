@@ -3,7 +3,7 @@ type: node
 shop: Zeitungen
 latitude: 49.980333200000004
 longitude: 11.6092955
-postcode: 95463
+postcode: "95463"
 city: Bindlach
 street: "Bahnhofstraße"
 housenumber: 11

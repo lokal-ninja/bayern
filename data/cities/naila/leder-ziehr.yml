@@ -3,7 +3,7 @@ type: node
 shop: Taschen & Koffer
 latitude: 50.32999220000001
 longitude: 11.7074668
-postcode: 95119
+postcode: "95119"
 city: Naila
 street: "Hauptstraße"
 housenumber: 9

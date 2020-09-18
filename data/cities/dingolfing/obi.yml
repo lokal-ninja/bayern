@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.6375438
 longitude: 12.4861877
-postcode: 84130
+postcode: "84130"
 city: Dingolfing
 street: "Aitrachstraße"
 housenumber: 9

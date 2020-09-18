@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.487171700000005
 longitude: 10.9575931
-postcode: 90766
+postcode: "90766"
 city: Fürth
 street: "Hansastraße"
 housenumber: 24

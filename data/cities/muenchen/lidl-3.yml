@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.1285486
 longitude: 11.604779
-postcode: 81667
+postcode: "81667"
 city: München
 street: "Orleansplatz"
 housenumber: 7

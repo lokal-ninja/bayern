@@ -3,7 +3,7 @@ type: way
 shop: Käse
 latitude: 47.8811303
 longitude: 10.750005100000001
-postcode: 87662
+postcode: "87662"
 city: Kaltental
 street: "Hauptstraße"
 housenumber: 65

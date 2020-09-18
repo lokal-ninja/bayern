@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 48.16362
 longitude: 12.8059971
-postcode: 84489
+postcode: "84489"
 city: Burghausen
 street: "Burgkirchener Straße"
 housenumber: 149

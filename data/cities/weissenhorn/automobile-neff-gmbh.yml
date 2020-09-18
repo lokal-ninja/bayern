@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.295577900000005
 longitude: 10.1369305
-postcode: 89264
+postcode: "89264"
 city: Weißenhorn
 street: "Röntgenstraße"
 housenumber: 10

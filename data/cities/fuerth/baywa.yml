@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.4420863
 longitude: 10.9943088
-postcode: 90763
+postcode: "90763"
 city: Fürth
 street: "Tucherstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.6020636
 longitude: 10.413547900000001
-postcode: 87497
+postcode: "87497"
 city: Wertach
 street: "Grüntenseestraße"
 housenumber: 16

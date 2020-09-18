@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.5111805
 longitude: 11.281808300000002
-postcode: 91207
+postcode: "91207"
 city: Lauf a.d.Pegnitz
 street: "Lukasgasse"
 housenumber: 10

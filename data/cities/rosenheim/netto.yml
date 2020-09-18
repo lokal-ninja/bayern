@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.8639536
 longitude: 12.106155800000002
-postcode: 83024
+postcode: "83024"
 city: Rosenheim
 street: "Prinzregentenstraße"
 housenumber: 109

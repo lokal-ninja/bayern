@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.2990523
 longitude: 10.468086300000001
-postcode: 97631
+postcode: "97631"
 city: Bad Königshofen im Grabfeld
 street: "Marktplatz"
 housenumber: 8

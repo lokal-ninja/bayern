@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.4370508
 longitude: 11.0505341
-postcode: 90439
+postcode: "90439"
 city: Nürnberg
 street: "Schwabacher Straße"
 housenumber: 94

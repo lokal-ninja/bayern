@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.4048377
 longitude: 10.8799826
-postcode: 86154
+postcode: "86154"
 city: Augsburg
 street: "Schönbachstraße"
 housenumber: 192

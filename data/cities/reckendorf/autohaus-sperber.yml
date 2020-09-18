@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.0222977
 longitude: 10.826853600000002
-postcode: 96182
+postcode: "96182"
 city: Reckendorf
 street: "Hauptstraße"
 housenumber: 62

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.268003300000004
 longitude: 10.8870462
-postcode: 86343
+postcode: "86343"
 city: Königsbrunn
 street: "Bürgermeister-Wohlfarth-Straße"
 housenumber: 72 b

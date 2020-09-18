@@ -3,7 +3,7 @@ type: node
 shop: Teppiche
 latitude: 49.5882665
 longitude: 10.9761792
-postcode: 91056
+postcode: "91056"
 city: Erlangen
 street: "Neumühle"
 housenumber: 2

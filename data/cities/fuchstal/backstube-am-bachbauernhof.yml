@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.952755100000005
 longitude: 10.815161600000001
-postcode: 86925
+postcode: "86925"
 city: Fuchstal
 street: ""
 housenumber: 1

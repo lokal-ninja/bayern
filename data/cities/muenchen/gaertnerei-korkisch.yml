@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 48.193395200000005
 longitude: 11.4235165
-postcode: 81249
+postcode: "81249"
 city: München
 street: "Goteboldstraße"
 housenumber: 154

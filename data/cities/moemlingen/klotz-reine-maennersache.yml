@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.8517224
 longitude: 9.080227
-postcode: 63853
+postcode: "63853"
 city: Mömlingen
 street: "Odenwaldstraße"
 housenumber: 24

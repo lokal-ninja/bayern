@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 48.5498817
 longitude: 10.370687
-postcode: 89423
+postcode: "89423"
 city: Gundelfingen a.d.Donau
 street: "Bahnhofstraße"
 housenumber: 20

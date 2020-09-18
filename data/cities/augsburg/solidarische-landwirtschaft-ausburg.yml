@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 48.369105700000006
 longitude: 10.9019755
-postcode: 86152
+postcode: "86152"
 city: Augsburg
 street: "Oberer Graben"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.3805296
 longitude: 10.920187400000001
-postcode: 86165
+postcode: "86165"
 city: Augsburg
 street: "Feuerhausstraße"
 housenumber: 1

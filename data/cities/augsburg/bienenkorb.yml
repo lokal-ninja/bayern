@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.367541700000004
 longitude: 10.9011884
-postcode: 86150
+postcode: "86150"
 city: Augsburg
 street: "Maximilianstraße"
 housenumber: 30

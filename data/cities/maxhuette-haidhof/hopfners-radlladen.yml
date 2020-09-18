@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.183194900000004
 longitude: 12.1135371
-postcode: 93142
+postcode: "93142"
 city: Maxhütte-Haidhof
 street: "Schloßplatz"
 housenumber: 3

@@ -3,7 +3,7 @@ type: way
 shop: Schreibwaren
 latitude: 48.0424421
 longitude: 10.505039400000001
-postcode: 87719
+postcode: "87719"
 city: Mindelheim
 street: "Allgäuer Straße"
 housenumber: 20

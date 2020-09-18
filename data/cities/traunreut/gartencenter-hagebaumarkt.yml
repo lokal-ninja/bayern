@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 47.963949500000005
 longitude: 12.5854826
-postcode: 83301
+postcode: "83301"
 city: Traunreut
 street: "Traunring"
 housenumber: 

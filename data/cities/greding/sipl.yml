@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.0458245
 longitude: 11.3538052
-postcode: 91171
+postcode: "91171"
 city: Greding
 street: "Marktplatz"
 housenumber: 20

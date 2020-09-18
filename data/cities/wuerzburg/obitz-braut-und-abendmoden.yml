@@ -3,7 +3,7 @@ type: node
 shop: Brautkleider
 latitude: 49.7942496
 longitude: 9.9369375
-postcode: 97070
+postcode: "97070"
 city: Würzburg
 street: "Theaterstraße"
 housenumber: 25

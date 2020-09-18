@@ -3,7 +3,7 @@ type: way
 shop: Waffen
 latitude: 50.0386838
 longitude: 12.003367500000001
-postcode: 95632
+postcode: "95632"
 city: Wunsiedel
 street: "Sigmund-Wann-Straße"
 housenumber: 32

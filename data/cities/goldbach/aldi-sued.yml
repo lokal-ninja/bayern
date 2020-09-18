@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.997579200000004
 longitude: 9.190420900000001
-postcode: 63773
+postcode: "63773"
 city: Goldbach
 street: "Erlengrund"
 housenumber: 3

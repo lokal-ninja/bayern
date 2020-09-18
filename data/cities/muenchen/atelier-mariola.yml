@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 48.0956368
 longitude: 11.495635
-postcode: 81476
+postcode: "81476"
 city: München
 street: "Winterthurer Straße"
 housenumber: 3

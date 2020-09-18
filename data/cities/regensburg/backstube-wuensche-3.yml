@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.001136800000005
 longitude: 12.0793608
-postcode: 93051
+postcode: "93051"
 city: Regensburg
 street: "Boelckestraße"
 housenumber: 2

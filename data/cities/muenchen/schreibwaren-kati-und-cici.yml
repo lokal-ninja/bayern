@@ -3,7 +3,7 @@ type: way
 shop: Schreibwaren
 latitude: 48.076442
 longitude: 11.5224436
-postcode: 81479
+postcode: "81479"
 city: München
 street: "Herterichstraße"
 housenumber: 24

@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.1715443
 longitude: 11.716597
-postcode: 85609
+postcode: "85609"
 city: Aschheim
 street: "Ismaninger Straße"
 housenumber: 2

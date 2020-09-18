@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.172795900000004
 longitude: 11.478522100000001
-postcode: 81247
+postcode: "81247"
 city: München
 street: "Stöcklstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 48.158385300000006
 longitude: 11.574756800000001
-postcode: 80801
+postcode: "80801"
 city: München
 street: "Nordendstraße"
 housenumber: 45

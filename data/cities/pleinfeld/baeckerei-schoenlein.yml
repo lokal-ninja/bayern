@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.104181200000006
 longitude: 10.9882989
-postcode: 91785
+postcode: "91785"
 city: Pleinfeld
 street: "Nürnberger Straße"
 housenumber: 1

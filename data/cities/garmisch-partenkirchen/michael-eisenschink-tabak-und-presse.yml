@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 47.492874400000005
 longitude: 11.087344100000001
-postcode: 82467
+postcode: "82467"
 city: Garmisch-Partenkirchen
 street: "Marienplatz"
 housenumber: 7

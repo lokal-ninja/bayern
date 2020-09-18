@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.892312200000006
 longitude: 12.621768300000001
-postcode: 94315
+postcode: "94315"
 city: Straubing
 street: "Hofstettener Weg"
 housenumber: 7

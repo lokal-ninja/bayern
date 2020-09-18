@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 50.001736900000004
 longitude: 12.299305100000002
-postcode: 95652
+postcode: "95652"
 city: Waldsassen
 street: "Mitterteicher Straße"
 housenumber: 1

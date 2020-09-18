@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.712884800000005
 longitude: 10.3309814
-postcode: 87437
+postcode: "87437"
 city: Kempten (Allgäu)
 street: "Schelldorfer Straße"
 housenumber: 4

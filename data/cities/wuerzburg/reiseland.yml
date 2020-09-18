@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 49.7952698
 longitude: 9.9340484
-postcode: 97070
+postcode: "97070"
 city: Würzburg
 street: "Spiegelstraße"
 housenumber: 9

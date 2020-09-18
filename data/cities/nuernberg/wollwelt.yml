@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 49.4367238
 longitude: 11.0924922
-postcode: 90461
+postcode: "90461"
 city: Nürnberg
 street: "Wodanstraße"
 housenumber: 9

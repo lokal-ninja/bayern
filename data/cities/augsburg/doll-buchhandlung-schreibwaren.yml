@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.3959947
 longitude: 10.9124988
-postcode: 86169
+postcode: "86169"
 city: Augsburg
 street: "Karlsbader Straße"
 housenumber: 19

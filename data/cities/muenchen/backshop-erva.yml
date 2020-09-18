@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.146966400000004
 longitude: 11.538864
-postcode: 80636
+postcode: "80636"
 city: München
 street: "Therese-Danner-Platz"
 housenumber: 2

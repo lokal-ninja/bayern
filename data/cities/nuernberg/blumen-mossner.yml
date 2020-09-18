@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.4637971
 longitude: 11.089018300000001
-postcode: 90409
+postcode: "90409"
 city: Nürnberg
 street: "Berckhauserstraße"
 housenumber: 7

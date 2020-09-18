@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.655407100000005
 longitude: 9.9584098
-postcode: 97232
+postcode: "97232"
 city: Giebelstadt
 street: "Kilian-Keller-Straße"
 housenumber: 8

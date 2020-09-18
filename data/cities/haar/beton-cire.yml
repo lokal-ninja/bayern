@@ -3,7 +3,7 @@ type: way
 shop: Raumausstattung
 latitude: 48.106228800000004
 longitude: 11.7457992
-postcode: 85540
+postcode: "85540"
 city: Haar
 street: "Zunftstraße"
 housenumber: 28

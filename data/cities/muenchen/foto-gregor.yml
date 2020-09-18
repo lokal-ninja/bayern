@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 48.1330031
 longitude: 11.584073
-postcode: 80331
+postcode: "80331"
 city: München
 street: "Zweibrückenstraße"
 housenumber: 13

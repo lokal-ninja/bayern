@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.9925301
 longitude: 9.5784611
-postcode: 97816
+postcode: "97816"
 city: Lohr am Main
 street: "Untere Brückenstraße"
 housenumber: 24

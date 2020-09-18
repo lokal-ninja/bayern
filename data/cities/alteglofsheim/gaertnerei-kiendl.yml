@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 48.9164979
 longitude: 12.205296500000001
-postcode: 93087
+postcode: "93087"
 city: Alteglofsheim
 street: "Schützenweg"
 housenumber: 7a

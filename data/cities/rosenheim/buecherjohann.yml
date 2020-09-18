@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 47.854556200000005
 longitude: 12.124005
-postcode: 83022
+postcode: "83022"
 city: Rosenheim
 street: "Gillitzerstraße"
 housenumber: 14

@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 49.7164469
 longitude: 11.0673255
-postcode: 91301
+postcode: "91301"
 city: Forchheim
 street: "Schönbornstraße"
 housenumber: 29

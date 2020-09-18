@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 48.0647351
 longitude: 11.3787996
-postcode: 82131
+postcode: "82131"
 city: Gauting
 street: "Starnberger Straße"
 housenumber: 17

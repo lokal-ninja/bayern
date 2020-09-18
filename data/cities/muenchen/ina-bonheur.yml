@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.123359400000005
 longitude: 11.5794498
-postcode: 81541
+postcode: "81541"
 city: München
 street: "Albanistraße"
 housenumber: 19

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.0926063
 longitude: 9.179804200000001
-postcode: 63776
+postcode: "63776"
 city: Mömbris
 street: "Waldweg"
 housenumber: 11

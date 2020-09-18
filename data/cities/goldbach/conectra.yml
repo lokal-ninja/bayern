@@ -3,7 +3,7 @@ type: way
 shop: Handy
 latitude: 49.998462100000005
 longitude: 9.188078500000001
-postcode: 63773
+postcode: "63773"
 city: Goldbach
 street: "Aschaffenburger Straße"
 housenumber: 124

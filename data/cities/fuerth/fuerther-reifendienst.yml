@@ -3,7 +3,7 @@ type: node
 shop: Reifen
 latitude: 49.4793187
 longitude: 10.976876
-postcode: 90766
+postcode: "90766"
 city: Fürth
 street: "Cadolzburger Straße"
 housenumber: 12

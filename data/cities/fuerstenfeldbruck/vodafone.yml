@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 48.1798908
 longitude: 11.2546672
-postcode: 82256
+postcode: "82256"
 city: Fürstenfeldbruck
 street: "Augsburger Straße"
 housenumber: 1a

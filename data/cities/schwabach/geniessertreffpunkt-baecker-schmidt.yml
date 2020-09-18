@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.3230397
 longitude: 11.0418023
-postcode: 91126
+postcode: "91126"
 city: Schwabach
 street: "Wendelsteiner Straße"
 housenumber: 2a

@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 49.5093581
 longitude: 11.427943200000001
-postcode: 91217
+postcode: "91217"
 city: Hersbruck
 street: "Oberer Markt"
 housenumber: 17

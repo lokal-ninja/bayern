@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 48.6815104
 longitude: 12.0169797
-postcode: 84056
+postcode: "84056"
 city: Rottenburg a. d. Laaber
 street: "Viehhausen"
 housenumber: 2

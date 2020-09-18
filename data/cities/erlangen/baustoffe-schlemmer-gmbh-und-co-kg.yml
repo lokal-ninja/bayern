@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 49.5806265
 longitude: 11.0033648
-postcode: 91052
+postcode: "91052"
 city: Erlangen
 street: "Stintzingstraße"
 housenumber: 31-33

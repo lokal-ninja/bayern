@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.984323800000006
 longitude: 9.1345116
-postcode: 63741
+postcode: "63741"
 city: Aschaffenburg
 street: "Mühlstraße"
 housenumber: 18

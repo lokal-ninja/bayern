@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.071929700000005
 longitude: 11.375188000000001
-postcode: 82131
+postcode: "82131"
 city: Gauting
 street: "Pippinplatz"
 housenumber: 1

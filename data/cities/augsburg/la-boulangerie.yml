@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.3546825
 longitude: 10.9220632
-postcode: 86161
+postcode: "86161"
 city: Augsburg
 street: "Elsenbornstraße"
 housenumber: 3

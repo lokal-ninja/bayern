@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.2947403
 longitude: 10.5599323
-postcode: 91522
+postcode: "91522"
 city: Ansbach
 street: "Feuchtwanger Straße"
 housenumber: 36

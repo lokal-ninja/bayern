@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 49.518882600000005
 longitude: 11.333744900000001
-postcode: 91242
+postcode: "91242"
 city: Ottensoos
 street: "Bräunleinsberg"
 housenumber: 2

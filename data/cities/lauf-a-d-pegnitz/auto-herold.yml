@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.5162105
 longitude: 11.2893232
-postcode: 91207
+postcode: "91207"
 city: Lauf a.d.Pegnitz
 street: "Hersbrucker Straße"
 housenumber: 53

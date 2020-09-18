@@ -1,12 +1,12 @@
-id: 1741677591
+id: 1714857834
 type: node
 shop: Supermarkt
-latitude: 48.082527600000006
-longitude: 11.4845749
-postcode: 81475
+latitude: 48.1180382
+longitude: 11.5168376
+postcode: "81377"
 city: München
-street: "Königswieser Straße"
-housenumber: 5
+street: "Ehrwalder Straße"
+housenumber: 2
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
-website: ""
+opening_hours: "Mo-Sa 08:00-20:00"
+website: "https://www.norma-online.de"

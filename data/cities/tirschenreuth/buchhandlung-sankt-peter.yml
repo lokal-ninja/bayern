@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 49.8860274
 longitude: 12.3331648
-postcode: 95643
+postcode: "95643"
 city: Tirschenreuth
 street: "St.-Peter-Straße"
 housenumber: 38

@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 49.3880792
 longitude: 11.3019046
-postcode: 90610
+postcode: "90610"
 city: Winkelhaid
 street: "Hauptstraße"
 housenumber: 1

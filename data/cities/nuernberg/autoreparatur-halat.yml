@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 49.437923500000004
 longitude: 11.0376844
-postcode: 90439
+postcode: "90439"
 city: Nürnberg
 street: "Gustav-Adolf-Straße"
 housenumber: 15

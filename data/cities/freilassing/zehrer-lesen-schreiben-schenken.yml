@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 47.8353843
 longitude: 12.978271000000001
-postcode: 83395
+postcode: "83395"
 city: Freilassing
 street: "Reichenhaller Straße"
 housenumber: 17

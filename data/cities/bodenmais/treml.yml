@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.066588
 longitude: 13.1020783
-postcode: 94249
+postcode: "94249"
 city: Bodenmais
 street: "Bergknappenstraße"
 housenumber: 12

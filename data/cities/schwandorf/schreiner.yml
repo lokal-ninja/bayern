@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 49.328271300000004
 longitude: 12.107927400000001
-postcode: 92421
+postcode: "92421"
 city: Schwandorf
 street: "Bahnhofstraße"
 housenumber: 24

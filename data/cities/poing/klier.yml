@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.1809379
 longitude: 11.798070000000001
-postcode: 85586
+postcode: "85586"
 city: Poing
 street: "Schwanenstraße"
 housenumber: 1

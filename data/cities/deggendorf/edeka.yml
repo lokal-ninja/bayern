@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.827988500000004
 longitude: 12.960143400000002
-postcode: 94469
+postcode: "94469"
 city: Deggendorf
 street: "Werftstraße"
 housenumber: 15

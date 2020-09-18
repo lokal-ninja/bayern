@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.9100309
 longitude: 11.4238181
-postcode: 82515
+postcode: "82515"
 city: Wolfratshausen
 street: "Königsdorfer Straße"
 housenumber: 33

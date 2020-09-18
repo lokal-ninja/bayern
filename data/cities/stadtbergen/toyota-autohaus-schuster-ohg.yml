@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.3765348
 longitude: 10.8453938
-postcode: 86391
+postcode: "86391"
 city: Stadtbergen
 street: "Benzstraße"
 housenumber: 3

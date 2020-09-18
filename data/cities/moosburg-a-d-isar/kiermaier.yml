@@ -3,7 +3,7 @@ type: node
 shop: Zeitungen
 latitude: 48.4648964
 longitude: 11.962608900000001
-postcode: 85368
+postcode: "85368"
 city: Moosburg a.d. Isar
 street: "Degernpoint"
 housenumber: M 1

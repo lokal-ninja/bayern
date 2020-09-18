@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.311399
 longitude: 11.1963813
-postcode: 85235
+postcode: "85235"
 city: Odelzhausen
 street: "Marktstraße"
 housenumber: 23

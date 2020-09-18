@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.9447404
 longitude: 11.2875545
-postcode: 82340
+postcode: "82340"
 city: Feldafing
 street: "Eugen-Friedl-Straße"
 housenumber: 6

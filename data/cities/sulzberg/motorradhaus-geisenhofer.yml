@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 47.6641002
 longitude: 10.3509647
-postcode: 87477
+postcode: "87477"
 city: Sulzberg
 street: "Bahnhofstraße"
 housenumber: 20

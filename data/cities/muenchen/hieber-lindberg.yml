@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 48.137076900000004
 longitude: 11.565429400000001
-postcode: 80331
+postcode: "80331"
 city: München
 street: "Sonnenstraße"
 housenumber: 15

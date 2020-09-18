@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 50.0575503
 longitude: 9.4838539
-postcode: 97833
+postcode: "97833"
 city: Frammersbach
 street: "Herbertshainer Straße"
 housenumber: 50

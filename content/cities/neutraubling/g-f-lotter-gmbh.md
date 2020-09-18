@@ -1,4 +1,4 @@
 ---
-title: "G.F.Lotter GmbH"
+title: "G.F. Lotter GmbH"
 url: /neutraubling/g-f-lotter-gmbh/
 ---

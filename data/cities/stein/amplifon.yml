@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 49.4143696
 longitude: 11.0160169
-postcode: 90547
+postcode: "90547"
 city: Stein
 street: "Hauptstraße"
 housenumber: 21

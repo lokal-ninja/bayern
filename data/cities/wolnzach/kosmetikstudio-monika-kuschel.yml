@@ -3,7 +3,7 @@ type: way
 shop: Kosmetik
 latitude: 48.605833100000005
 longitude: 11.6344791
-postcode: 85283
+postcode: "85283"
 city: Wolnzach
 street: "Lug ins Land"
 housenumber: 10

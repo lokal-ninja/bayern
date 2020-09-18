@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 49.5765703
 longitude: 10.8882153
-postcode: 91074
+postcode: "91074"
 city: Herzogenaurach
 street: "Röntgenstraße"
 housenumber: 5

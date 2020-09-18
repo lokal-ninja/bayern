@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 49.0145903
 longitude: 12.0354176
-postcode: 93049
+postcode: "93049"
 city: Regensburg
 street: "Am Pflanzgarten"
 housenumber: 18

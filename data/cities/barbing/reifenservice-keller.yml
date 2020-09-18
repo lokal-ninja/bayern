@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 49.0027689
 longitude: 12.220770300000002
-postcode: 93092
+postcode: "93092"
 city: Barbing
 street: "Gerstenweg"
 housenumber: 8

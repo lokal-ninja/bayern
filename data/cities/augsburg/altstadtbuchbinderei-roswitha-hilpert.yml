@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.3701262
 longitude: 10.900244200000001
-postcode: 86150
+postcode: "86150"
 city: Augsburg
 street: "Schmiedgasse"
 housenumber: 15

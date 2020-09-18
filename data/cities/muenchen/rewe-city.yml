@@ -1,12 +1,12 @@
-id: 281389436
+id: 279343777
 type: node
 shop: Supermarkt
-latitude: 48.126568000000006
-longitude: 11.631638
-postcode: 81673
+latitude: 48.120762500000005
+longitude: 11.534557300000001
+postcode: "81373"
 city: München
-street: "Josephsburgstraße"
-housenumber: 37
-phone: "+49 89 43589147"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.rewe.de/marktseite/rewe-city-markt-münchen-josephsburgstr.-37/"
+street: "Hansastraße"
+housenumber: 134
+phone: "+4989 74373863"
+opening_hours: "7:00-20:00"
+website: "https://www.rewe.de/"

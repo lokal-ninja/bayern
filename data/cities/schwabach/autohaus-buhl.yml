@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.320145100000005
 longitude: 11.053612800000002
-postcode: 91126
+postcode: "91126"
 city: Schwabach
 street: "Am Falbenholzweg"
 housenumber: 34

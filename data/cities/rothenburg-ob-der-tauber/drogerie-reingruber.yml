@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.3779613
 longitude: 10.179389
-postcode: 91541
+postcode: "91541"
 city: Rothenburg ob der Tauber
 street: "Georgengasse"
 housenumber: 5

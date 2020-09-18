@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.0145543
 longitude: 12.1244554
-postcode: 93055
+postcode: "93055"
 city: Regensburg
 street: "Straubinger Straße"
 housenumber: 25

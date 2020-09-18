@@ -1,12 +1,12 @@
-id: 292199751
+id: 146626035
 type: way
 shop: Supermarkt
-latitude: 48.1336151
-longitude: 11.583833400000001
-postcode: 80331
+latitude: 48.1818813
+longitude: 11.4760269
+postcode: "80997"
 city: München
-street: "Zweibrückenstraße"
-housenumber: 5
+street: "Von-Reuter-Straße"
+housenumber: 196
 phone: ""
-opening_hours: "Mo-Fr 07:00-20:00, Sa 07:30-20:00"
-website: "https://www.edeka.de/"
+opening_hours: "Mo-Sa 07:00-20:00"
+website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.97456510000001
 longitude: 9.1475642
-postcode: 63739
+postcode: "63739"
 city: Aschaffenburg
 street: "Sandgasse"
 housenumber: 12

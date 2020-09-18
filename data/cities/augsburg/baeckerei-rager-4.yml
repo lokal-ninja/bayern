@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.360546600000006
 longitude: 10.8621906
-postcode: 86157
+postcode: "86157"
 city: Augsburg
 street: "Bürgermeister-Bohl-Straße"
 housenumber: 26

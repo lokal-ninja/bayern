@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.509041700000004
 longitude: 11.278003400000001
-postcode: 82494
+postcode: "82494"
 city: Krün
 street: "Walchenseestraße"
 housenumber: 27

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.450983
 longitude: 11.000994400000002
-postcode: 90763
+postcode: "90763"
 city: Fürth
 street: "Magazinstraße"
 housenumber: 90

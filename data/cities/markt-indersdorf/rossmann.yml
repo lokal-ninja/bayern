@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.345521500000004
 longitude: 11.3791632
-postcode: 85229
+postcode: "85229"
 city: Markt Indersdorf
 street: "Gewerbestraße"
 housenumber: 19

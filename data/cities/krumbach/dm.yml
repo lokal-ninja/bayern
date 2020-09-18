@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 48.2536228
 longitude: 10.3551465
-postcode: 86381
+postcode: "86381"
 city: Krumbach
 street: "Höllgehau"
 housenumber: a2b

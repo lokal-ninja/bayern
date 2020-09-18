@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 48.8755687
 longitude: 12.5503815
-postcode: 94315
+postcode: "94315"
 city: Straubing
 street: "Otto-von-Dandl-Ring"
 housenumber: 10

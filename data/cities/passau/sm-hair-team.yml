@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.571349600000005
 longitude: 13.451277800000002
-postcode: 94032
+postcode: "94032"
 city: Passau
 street: "Neuburger Straße"
 housenumber: 32

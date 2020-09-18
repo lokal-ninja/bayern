@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.1849902
 longitude: 11.5730365
-postcode: 
+postcode: ""
 city: München
 street: "Knorrstraße"
 housenumber: 64

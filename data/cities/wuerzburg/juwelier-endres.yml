@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 49.793221100000004
 longitude: 9.9308297
-postcode: 97070
+postcode: "97070"
 city: Würzburg
 street: "Domstraße"
 housenumber: 34

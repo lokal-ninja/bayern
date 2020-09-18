@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.156098
 longitude: 12.7289002
-postcode: 93499
+postcode: "93499"
 city: Zandt
 street: "Kötztinger Straße"
 housenumber: 16

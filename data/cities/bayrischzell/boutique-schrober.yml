@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.673441100000005
 longitude: 12.0132913
-postcode: 83735
+postcode: "83735"
 city: Bayrischzell
 street: "Schulstraße"
 housenumber: 8

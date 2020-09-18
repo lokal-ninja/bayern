@@ -1,12 +1,12 @@
 id: 848935016
 type: node
-shop: Gemüse & Obst
+shop: Hofladen
 latitude: 49.547448
 longitude: 10.9611537
-postcode: 91056
+postcode: "91056"
 city: Erlangen
 street: "Hüttendorfer Straße"
 housenumber: 100
 phone: "+49 911 763651"
-opening_hours: "Th-Sa"
-website: ""
+opening_hours: "Do 10–12 Uhr und 16–18 Uhr Fr 10–18 Uhr, Sa 9–12 Uhr"
+website: "www.dorfladenebersberger.de"

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.1757183
 longitude: 11.7294008
-postcode: 92331
+postcode: "92331"
 city: Parsberg
 street: "Im Grund"
 housenumber: 1

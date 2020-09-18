@@ -3,7 +3,7 @@ type: way
 shop: Spirituosen
 latitude: 48.28322420000001
 longitude: 11.5564952
-postcode: 85716
+postcode: "85716"
 city: Unterschleißheim
 street: "Andreas-Danzer-Weg"
 housenumber: 30

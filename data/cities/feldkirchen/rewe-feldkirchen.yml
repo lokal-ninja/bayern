@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.1476478
 longitude: 11.7453971
-postcode: 85622
+postcode: "85622"
 city: Feldkirchen
 street: "Kapellenstraße"
 housenumber: 16

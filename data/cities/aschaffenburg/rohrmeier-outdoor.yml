@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 49.983342900000004
 longitude: 9.115136600000001
-postcode: 63741
+postcode: "63741"
 city: Aschaffenburg
 street: "Boschweg"
 housenumber: 12

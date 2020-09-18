@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 49.5362829
 longitude: 11.157885
-postcode: 90562
+postcode: "90562"
 city: Heroldsberg
 street: ""
 housenumber: 

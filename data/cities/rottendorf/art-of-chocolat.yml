@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 49.7862822
 longitude: 10.0312403
-postcode: 97228
+postcode: "97228"
 city: Rottendorf
 street: "Am Moritzberg"
 housenumber: 7

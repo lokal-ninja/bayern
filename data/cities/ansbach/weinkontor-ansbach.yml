@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 49.303393400000004
 longitude: 10.572185800000002
-postcode: 91522
+postcode: "91522"
 city: Ansbach
 street: "Pfarrstraße"
 housenumber: 12

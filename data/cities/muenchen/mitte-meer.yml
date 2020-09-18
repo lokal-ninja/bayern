@@ -1,12 +1,12 @@
 id: 5705291393
 type: node
 shop: Feinkost
-latitude: 48.1244735
-longitude: 11.6060701
-postcode: 81671
+latitude: 48.124932400000006
+longitude: 11.6064685
+postcode: "81671"
 city: München
 street: "Atelierstraße"
-housenumber: 16
+housenumber: 7
 phone: ""
 opening_hours: "Mo-Th 10:00-20:00; Fr-Sa 09:00-20:00"
 website: "http://www.mitte-meer.de/"

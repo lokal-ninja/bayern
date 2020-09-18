@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.991267300000004
 longitude: 12.199855000000001
-postcode: 93073
+postcode: "93073"
 city: Neutraubling
 street: "Waldenburger Straße"
 housenumber: 5

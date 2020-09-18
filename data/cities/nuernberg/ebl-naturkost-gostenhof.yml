@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.446302800000005
 longitude: 11.0624154
-postcode: 90443
+postcode: "90443"
 city: Nürnberg
 street: "Gostenhofer Hauptstraße"
 housenumber: 44

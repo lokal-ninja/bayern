@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 49.739169100000005
 longitude: 10.161974200000001
-postcode: 97318
+postcode: "97318"
 city: Kitzingen
 street: "Marktstraße"
 housenumber: 28

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.1090073
 longitude: 11.450198
-postcode: 82152
+postcode: "82152"
 city: Planegg
 street: "Röntgenstraße"
 housenumber: 5

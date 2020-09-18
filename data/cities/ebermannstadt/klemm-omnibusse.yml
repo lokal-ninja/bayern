@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 49.7855184
 longitude: 11.188358000000001
-postcode: 
+postcode: ""
 city: Ebermannstadt
 street: "Friedhofstraße"
 housenumber: 21

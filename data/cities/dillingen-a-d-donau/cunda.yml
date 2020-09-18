@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 48.579683300000006
 longitude: 10.4957431
-postcode: 89407
+postcode: "89407"
 city: Dillingen a.d.Donau
 street: "Kapuzinerstraße"
 housenumber: 26

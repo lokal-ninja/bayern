@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.0739201
 longitude: 12.099010100000001
-postcode: 95707
+postcode: "95707"
 city: Thiersheim
 street: "Wampener Straße"
 housenumber: 1

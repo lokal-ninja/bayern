@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.9427925
 longitude: 11.5736377
-postcode: 95444
+postcode: "95444"
 city: Bayreuth
 street: "Sophienstraße"
 housenumber: 32

@@ -3,7 +3,7 @@ type: node
 shop: Konditorei
 latitude: 48.1155479
 longitude: 11.5726393
-postcode: 81543
+postcode: "81543"
 city: München
 street: "Pilgersheimer Straße"
 housenumber: 48

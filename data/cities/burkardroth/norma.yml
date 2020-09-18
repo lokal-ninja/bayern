@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.260139
 longitude: 9.997778
-postcode: 97705
+postcode: "97705"
 city: Burkardroth
 street: "Zum Mühlengrund"
 housenumber: 10

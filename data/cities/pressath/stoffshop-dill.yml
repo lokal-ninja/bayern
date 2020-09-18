@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 49.768551200000005
 longitude: 11.9344286
-postcode: 92690
+postcode: "92690"
 city: Pressath
 street: "Bachstraße"
 housenumber: 23

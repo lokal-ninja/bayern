@@ -3,7 +3,7 @@ type: way
 shop: Großhandel
 latitude: 48.36765320000001
 longitude: 10.957028600000001
-postcode: 86316
+postcode: "86316"
 city: Friedberg
 street: "Sebastian-Mayr-Straße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.987509
 longitude: 11.8681636
-postcode: 85625
+postcode: "85625"
 city: Glonn
 street: "Wolfgang-Wagner-Straße"
 housenumber: 15

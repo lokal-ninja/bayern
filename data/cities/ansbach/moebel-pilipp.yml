@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 49.2970369
 longitude: 10.591789200000001
-postcode: 91522
+postcode: "91522"
 city: Ansbach
 street: "Adalbert-Pilipp-Straße"
 housenumber: 21

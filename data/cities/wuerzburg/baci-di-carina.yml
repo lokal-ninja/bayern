@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 49.8021259
 longitude: 9.9442689
-postcode: 97080
+postcode: "97080"
 city: Würzburg
 street: "Brücknerstraße"
 housenumber: 6

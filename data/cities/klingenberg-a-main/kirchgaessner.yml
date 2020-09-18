@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.7770127
 longitude: 9.173849200000001
-postcode: 63911
+postcode: "63911"
 city: Klingenberg a.Main
 street: "Schulstraße"
 housenumber: 1

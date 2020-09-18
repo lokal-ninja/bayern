@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.3441853
 longitude: 10.9444902
-postcode: 86163
+postcode: "86163"
 city: Augsburg
 street: "Münchner Straße"
 housenumber: 18

@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 48.881605400000005
 longitude: 12.5664549
-postcode: 94315
+postcode: "94315"
 city: Straubing
 street: "Theresienplatz"
 housenumber: 40

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.1166825
 longitude: 11.5808985
-postcode: 81541
+postcode: "81541"
 city: München
 street: "Tegernseer Landstraße"
 housenumber: 46

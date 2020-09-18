@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 48.150756300000005
 longitude: 11.560109500000001
-postcode: 80333
+postcode: "80333"
 city: München
 street: "Schleißheimer Straße"
 housenumber: 42

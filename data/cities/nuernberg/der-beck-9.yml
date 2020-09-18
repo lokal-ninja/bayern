@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.459032
 longitude: 11.0970475
-postcode: 90489
+postcode: "90489"
 city: Nürnberg
 street: "Sulzbacher Straße"
 housenumber: 63

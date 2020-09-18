@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 49.4497817
 longitude: 11.0540255
-postcode: 90429
+postcode: "90429"
 city: Nürnberg
 street: "Kernstraße"
 housenumber: 24

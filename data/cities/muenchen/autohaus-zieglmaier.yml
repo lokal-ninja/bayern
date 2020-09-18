@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.186570700000004
 longitude: 11.503471600000001
-postcode: 80993
+postcode: "80993"
 city: München
 street: "Dachauer Straße"
 housenumber: 489

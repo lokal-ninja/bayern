@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.710118400000006
 longitude: 11.7242394
-postcode: 83707
+postcode: "83707"
 city: Bad Wiessee
 street: "Rathausweg"
 housenumber: 

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.373977100000005
 longitude: 10.91003
-postcode: 86153
+postcode: "86153"
 city: Augsburg
 street: "Lechhauser Straße"
 housenumber: 15a

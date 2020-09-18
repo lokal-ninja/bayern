@@ -3,7 +3,7 @@ type: way
 shop: Käse
 latitude: 47.663569100000004
 longitude: 10.532710400000001
-postcode: 87494
+postcode: "87494"
 city: Rückholz
 street: "Stelle"
 housenumber: 1

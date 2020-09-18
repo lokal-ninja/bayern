@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.116881400000004
 longitude: 11.571856200000001
-postcode: 81543
+postcode: "81543"
 city: München
 street: "Kühbachstraße"
 housenumber: 1

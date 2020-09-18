@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 48.711979500000005
 longitude: 10.75575
-postcode: 86609
+postcode: "86609"
 city: Donauwörth
 street: "Kaiser-Karl-Straße"
 housenumber: 6

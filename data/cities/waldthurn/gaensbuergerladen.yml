@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.672682300000005
 longitude: 12.3311294
-postcode: 92727
+postcode: "92727"
 city: Waldthurn
 street: "Vohenstraußer Straße"
 housenumber: 1

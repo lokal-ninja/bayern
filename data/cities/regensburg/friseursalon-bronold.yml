@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.0340434
 longitude: 12.1185931
-postcode: 93057
+postcode: "93057"
 city: Regensburg
 street: "Isarstraße"
 housenumber: 19 a

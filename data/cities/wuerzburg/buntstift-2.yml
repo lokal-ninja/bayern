@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 49.7946176
 longitude: 9.9124367
-postcode: 97082
+postcode: "97082"
 city: Würzburg
 street: "Frankfurter Straße"
 housenumber: 

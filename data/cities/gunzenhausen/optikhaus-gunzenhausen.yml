@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 49.11297080000001
 longitude: 10.754475300000001
-postcode: 91710
+postcode: "91710"
 city: Gunzenhausen
 street: "Marktplatz"
 housenumber: 54

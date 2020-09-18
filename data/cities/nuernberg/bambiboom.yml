@@ -3,10 +3,10 @@ type: node
 shop: Kleidung
 latitude: 49.4508238
 longitude: 11.0513028
-postcode: 90429
+postcode: "90429"
 city: Nürnberg
 street: "Glockendonstraße"
 housenumber: 18
 phone: ""
-opening_hours: ""
+opening_hours: "We-Fr 12:00-18:00; Sa 11:00-14:00"
 website: "https://www.bambiboom.de/"

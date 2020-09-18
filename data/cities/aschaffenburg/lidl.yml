@@ -1,12 +1,12 @@
-id: 24662835
-type: way
+id: 7548685587
+type: node
 shop: Supermarkt
-latitude: 49.9792221
-longitude: 9.1531152
-postcode: 63739
+latitude: 49.9656305
+longitude: 9.1542176
+postcode: "63743"
 city: Aschaffenburg
-street: "Ernsthofstraße"
-housenumber: 24
+street: "Spessartstraße"
+housenumber: 40
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
-website: "https://www.lidl.de/"
+opening_hours: "Mo-Sa 07:00-20:00"
+website: ""

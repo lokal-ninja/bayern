@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.2249562
 longitude: 10.0979808
-postcode: 89257
+postcode: "89257"
 city: Illertissen
 street: "Färberstraße"
 housenumber: 1

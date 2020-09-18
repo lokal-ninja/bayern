@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 49.459372800000004
 longitude: 11.1012758
-postcode: 90489
+postcode: "90489"
 city: Nürnberg
 street: "Deichslerstraße"
 housenumber: 27

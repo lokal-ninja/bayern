@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.281625000000005
 longitude: 10.468244700000001
-postcode: 86470
+postcode: "86470"
 city: Thannhausen
 street: "Christoph-von-Schmid-Straße"
 housenumber: 15

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.400172500000004
 longitude: 10.0065176
-postcode: 97653
+postcode: "97653"
 city: Bischofsheim i.d.Rhön
 street: "Löwenstraße"
 housenumber: 12

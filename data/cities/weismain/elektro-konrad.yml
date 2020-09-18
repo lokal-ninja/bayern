@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 50.0837659
 longitude: 11.2388496
-postcode: 96260
+postcode: "96260"
 city: Weismain
 street: "Am Markt"
 housenumber: 45

@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 49.1459035
 longitude: 10.926169100000001
-postcode: 91174
+postcode: "91174"
 city: Spalt
 street: ""
 housenumber: 12

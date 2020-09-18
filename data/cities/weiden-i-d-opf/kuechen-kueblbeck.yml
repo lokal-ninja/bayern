@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 49.6873273
 longitude: 12.164264800000002
-postcode: 92637
+postcode: "92637"
 city: Weiden i.d.OPf.
 street: "Dr.-Martin-Luther-Straße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.8225114
 longitude: 13.601051100000001
-postcode: 94146
+postcode: "94146"
 city: Hinterschmiding
 street: "Sonnenstraße"
 housenumber: 2

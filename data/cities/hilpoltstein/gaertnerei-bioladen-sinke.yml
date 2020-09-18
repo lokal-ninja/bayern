@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.1466555
 longitude: 11.2605222
-postcode: 91161
+postcode: "91161"
 city: Hilpoltstein
 street: ""
 housenumber: A 3

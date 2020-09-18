@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.378444
 longitude: 11.2094915
-postcode: 90537
+postcode: "90537"
 city: Feucht
 street: "Bahnhofstraße"
 housenumber: 7

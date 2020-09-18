@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 49.971144100000004
 longitude: 11.0251487
-postcode: 96110
+postcode: "96110"
 city: Scheßlitz
 street: "Bamberger Straße"
 housenumber: 20

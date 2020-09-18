@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 49.6998216
 longitude: 10.7747691
-postcode: 91475
+postcode: "91475"
 city: Lonnerstadt
 street: "Höchstadter Straße"
 housenumber: 5

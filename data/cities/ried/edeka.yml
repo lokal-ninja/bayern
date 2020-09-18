@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.2914109
 longitude: 11.0435443
-postcode: 86510
+postcode: "86510"
 city: Ried
 street: "Hauptstraße"
 housenumber: 1

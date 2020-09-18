@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 47.8384717
 longitude: 11.1416765
-postcode: 82362
+postcode: "82362"
 city: Weilheim in Oberbayern
 street: "Pöltnerstraße"
 housenumber: 8

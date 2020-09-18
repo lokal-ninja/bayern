@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.7381158
 longitude: 11.213023900000001
-postcode: 86633
+postcode: "86633"
 city: Neuburg an der Donau
 street: "Nördliche Grünauer Straße"
 housenumber: 4

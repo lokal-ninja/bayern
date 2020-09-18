@@ -1,12 +1,12 @@
 id: 235547101
 type: way
-shop: Autohaus
+shop: Autowerkstatt
 latitude: 48.933863800000005
 longitude: 11.3216987
-postcode: 85137
+postcode: "85137"
 city: Walting
 street: "Obere Au"
 housenumber: 11
 phone: ""
 opening_hours: ""
-website: ""
+website: "http://www.jliepold.de/"

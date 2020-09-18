@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 48.980356
 longitude: 12.191870600000001
-postcode: 93073
+postcode: "93073"
 city: Neutraubling
 street: "Stettiner Straße"
 housenumber: 5

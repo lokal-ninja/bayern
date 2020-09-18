@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 50.0439324
 longitude: 10.230567500000001
-postcode: 97421
+postcode: "97421"
 city: Schweinfurt
 street: "Roßmarkt"
 housenumber: 3

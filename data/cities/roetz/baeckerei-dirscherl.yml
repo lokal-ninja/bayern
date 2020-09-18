@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.34198000000001
 longitude: 12.526348400000002
-postcode: 92444
+postcode: "92444"
 city: Rötz
 street: "Brückenstraße"
 housenumber: 2

@@ -1,4 +1,4 @@
 ---
-title: "G.Sakalidu"
+title: "G. Sakalidu"
 url: /muenchen/g-sakalidu/
 ---

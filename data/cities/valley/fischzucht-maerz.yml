@@ -3,7 +3,7 @@ type: way
 shop: Fisch
 latitude: 47.9096078
 longitude: 11.7840659
-postcode: 83626
+postcode: "83626"
 city: Valley
 street: "Anderlmühle"
 housenumber: 12a

@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 49.9980472
 longitude: 10.245184
-postcode: 97525
+postcode: "97525"
 city: Schwebheim
 street: "Heideweg"
 housenumber: 4

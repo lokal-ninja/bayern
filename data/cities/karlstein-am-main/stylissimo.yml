@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.05162970000001
 longitude: 9.013821
-postcode: 63791
+postcode: "63791"
 city: Karlstein am Main
 street: "Kahler Straße"
 housenumber: 19

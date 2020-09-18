@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.822715
 longitude: 12.4834355
-postcode: 83236
+postcode: "83236"
 city: Übersee
 street: "Feldwieser Straße"
 housenumber: 16

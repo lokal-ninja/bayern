@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.6281235
 longitude: 10.925220900000001
-postcode: 91093
+postcode: "91093"
 city: Heßdorf
 street: "Im Gewerbepark"
 housenumber: 1

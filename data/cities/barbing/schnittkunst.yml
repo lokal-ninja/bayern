@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.000232700000005
 longitude: 12.1950564
-postcode: 93092
+postcode: "93092"
 city: Barbing
 street: ""
 housenumber: 

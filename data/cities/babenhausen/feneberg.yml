@@ -1,12 +1,12 @@
 id: 1764266954
 type: node
 shop: Supermarkt
-latitude: 48.146437000000006
-longitude: 10.2569943
-postcode: 87727
+latitude: 48.146340900000006
+longitude: 10.2568084
+postcode: "87727"
 city: Babenhausen
 street: "Krumbacher Straße"
 housenumber: 15
 phone: ""
 opening_hours: "Mo-Fr 08:00-19:00, Sa 07:30-16:00"
-website: ""
+website: "http://www.feneberg.de/"

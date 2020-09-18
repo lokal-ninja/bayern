@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 50.0917929
 longitude: 11.2388244
-postcode: 96260
+postcode: "96260"
 city: Weismain
 street: "Neudeckerstraße"
 housenumber: 1

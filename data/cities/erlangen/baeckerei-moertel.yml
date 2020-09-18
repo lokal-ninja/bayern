@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.5685981
 longitude: 10.959509800000001
-postcode: 91056
+postcode: "91056"
 city: Erlangen
 street: "Herdegenplatz"
 housenumber: 7

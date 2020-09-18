@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 48.12207110000001
 longitude: 10.924733300000002
-postcode: 86947
+postcode: "86947"
 city: Weil
 street: "Beuerbacher Straße"
 housenumber: 16

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.1343912
 longitude: 11.5354504
-postcode: 80339
+postcode: "80339"
 city: München
 street: "Anglerstraße"
 housenumber: 3

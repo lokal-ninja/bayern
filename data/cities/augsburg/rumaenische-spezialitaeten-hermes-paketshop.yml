@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.3842957
 longitude: 10.9106498
-postcode: 86167
+postcode: "86167"
 city: Augsburg
 street: "Elisabethstraße"
 housenumber: 55

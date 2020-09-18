@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.4642484
 longitude: 10.9871456
-postcode: 90763
+postcode: "90763"
 city: Fürth
 street: "Schwabacher Straße"
 housenumber: 137

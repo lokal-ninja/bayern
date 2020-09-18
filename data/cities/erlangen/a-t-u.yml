@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.574579400000005
 longitude: 11.0009464
-postcode: 91058
+postcode: "91058"
 city: Erlangen
 street: "Günther-Scharowsky-Straße"
 housenumber: 4

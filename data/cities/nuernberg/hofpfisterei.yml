@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.4601824
 longitude: 11.130698500000001
-postcode: 90482
+postcode: "90482"
 city: Nürnberg
 street: "Mögeldorfer Hauptstraße"
 housenumber: 40

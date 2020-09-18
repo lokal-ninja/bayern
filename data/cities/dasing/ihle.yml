@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.383870400000006
 longitude: 11.051622
-postcode: 86453
+postcode: "86453"
 city: Dasing
 street: "Aichacher Straße"
 housenumber: 3

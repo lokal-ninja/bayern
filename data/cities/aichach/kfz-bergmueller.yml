@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.448473
 longitude: 11.1114356
-postcode: 86551
+postcode: "86551"
 city: Aichach
 street: "Raimund-Veith-Straße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.1094591
 longitude: 11.5919606
-postcode: 81539
+postcode: "81539"
 city: München
 street: "Perlacher Straße"
 housenumber: 122a

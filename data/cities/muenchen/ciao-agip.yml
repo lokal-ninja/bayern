@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.1219479
 longitude: 11.548865800000002
-postcode: 81371
+postcode: "81371"
 city: München
 street: "Implerstraße"
 housenumber: 21

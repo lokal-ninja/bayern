@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.4500788
 longitude: 11.099332
-postcode: 90402
+postcode: "90402"
 city: Nürnberg
 street: "Kressengartenstraße"
 housenumber: 14

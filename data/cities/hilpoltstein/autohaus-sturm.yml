@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.179912800000004
 longitude: 11.178179100000001
-postcode: 91161
+postcode: "91161"
 city: Hilpoltstein
 street: "Boschring"
 housenumber: 1

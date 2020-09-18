@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.187695600000005
 longitude: 11.946104100000001
-postcode: 85669
+postcode: "85669"
 city: Pastetten
 street: ""
 housenumber: 1

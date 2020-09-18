@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.9374187
 longitude: 11.576161800000001
-postcode: 95444
+postcode: "95444"
 city: Bayreuth
 street: "Friedrichstraße"
 housenumber: 40

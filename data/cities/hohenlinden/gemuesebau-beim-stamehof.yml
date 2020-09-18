@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.143368800000005
 longitude: 12.0132022
-postcode: 85664
+postcode: "85664"
 city: Hohenlinden
 street: "Kreith"
 housenumber: 19

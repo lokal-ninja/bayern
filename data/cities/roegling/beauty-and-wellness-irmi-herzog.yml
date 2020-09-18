@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.8454594
 longitude: 10.9502018
-postcode: 86703
+postcode: "86703"
 city: Rögling
 street: "Perlenspitzstraße"
 housenumber: 33

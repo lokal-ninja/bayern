@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.985913800000006
 longitude: 9.1510092
-postcode: 63741
+postcode: "63741"
 city: Aschaffenburg
 street: "Neue Glattbacher Straße"
 housenumber: 2

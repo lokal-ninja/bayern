@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.850155
 longitude: 10.490648
-postcode: 86720
+postcode: "86720"
 city: Nördlingen
 street: "Drehergasse"
 housenumber: 12

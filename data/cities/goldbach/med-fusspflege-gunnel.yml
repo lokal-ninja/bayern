@@ -3,7 +3,7 @@ type: way
 shop: Kosmetik
 latitude: 49.997414600000006
 longitude: 9.184907
-postcode: 63773
+postcode: "63773"
 city: Goldbach
 street: "Hauptstraße"
 housenumber: 84

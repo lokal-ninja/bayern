@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.1773679
 longitude: 10.7626776
-postcode: 86830
+postcode: "86830"
 city: Schwabmünchen
 street: "Bahnhofstraße"
 housenumber: 13

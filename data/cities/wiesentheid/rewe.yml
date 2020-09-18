@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.7856625
 longitude: 10.3417422
-postcode: 97353
+postcode: "97353"
 city: Wiesentheid
 street: "Korbacher Straße"
 housenumber: 

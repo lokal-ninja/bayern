@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.509007100000005
 longitude: 11.406273200000001
-postcode: 91217
+postcode: "91217"
 city: Hersbruck
 street: "Nürnberger Straße"
 housenumber: 143

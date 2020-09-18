@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.749438600000005
 longitude: 11.4725783
-postcode: 85053
+postcode: "85053"
 city: Ingolstadt
 street: "Eriagstraße"
 housenumber: 19-21

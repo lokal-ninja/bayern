@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 48.2361621
 longitude: 11.3512365
-postcode: 85232
+postcode: "85232"
 city: Bergkirchen
 street: "Gadastraße"
 housenumber: 9

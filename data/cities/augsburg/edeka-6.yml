@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.359334700000005
 longitude: 10.8668942
-postcode: 86157
+postcode: "86157"
 city: Augsburg
 street: "Brunnenbachstraße"
 housenumber: 21

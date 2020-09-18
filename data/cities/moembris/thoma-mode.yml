@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.0693214
 longitude: 9.1645876
-postcode: 63776
+postcode: "63776"
 city: Mömbris
 street: "Hauptstraße"
 housenumber: 4

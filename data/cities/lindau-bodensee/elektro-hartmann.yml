@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 47.545174200000005
 longitude: 9.682826500000001
-postcode: 88131
+postcode: "88131"
 city: Lindau (Bodensee)
 street: "Hintere Metzgergasse"
 housenumber: 22

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.7330265
 longitude: 12.8804277
-postcode: 94527
+postcode: "94527"
 city: Aholming
 street: "Plattlinger Straße"
 housenumber: 10

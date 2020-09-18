@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.7112695
 longitude: 10.756594600000001
-postcode: 86609
+postcode: "86609"
 city: Donauwörth
 street: "Kaiser-Karl-Straße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.358307
 longitude: 10.781233400000001
-postcode: 86420
+postcode: "86420"
 city: Diedorf
 street: "Industriestraße"
 housenumber: 1

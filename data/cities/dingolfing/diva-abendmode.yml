@@ -3,7 +3,7 @@ type: way
 shop: Modehaus
 latitude: 48.6437121
 longitude: 12.4904211
-postcode: 84130
+postcode: "84130"
 city: Dingolfing
 street: "Kreuzstraße"
 housenumber: 15

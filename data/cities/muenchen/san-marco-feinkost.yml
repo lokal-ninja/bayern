@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 48.116188900000004
 longitude: 11.607448000000002
-postcode: 81669
+postcode: "81669"
 city: München
 street: "Triester Straße"
 housenumber: 12a

@@ -3,7 +3,7 @@ type: node
 shop: Motorrad
 latitude: 48.1352373
 longitude: 11.661013
-postcode: 81829
+postcode: "81829"
 city: München
 street: "Wamslerstraße"
 housenumber: 2

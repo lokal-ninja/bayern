@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 49.466549
 longitude: 11.1237442
-postcode: 90491
+postcode: "90491"
 city: Nürnberg
 street: "Äußere Sulzbacher Straße"
 housenumber: 161

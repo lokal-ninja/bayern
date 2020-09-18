@@ -3,7 +3,7 @@ type: way
 shop: Raumausstattung
 latitude: 50.1502963
 longitude: 11.0842728
-postcode: 96215
+postcode: "96215"
 city: Lichtenfels
 street: "Krappenrother Straße"
 housenumber: 8

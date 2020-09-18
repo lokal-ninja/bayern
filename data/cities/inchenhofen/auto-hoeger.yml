@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.508308
 longitude: 11.097441700000001
-postcode: 86570
+postcode: "86570"
 city: Inchenhofen
 street: "Hauptstraße"
 housenumber: 32

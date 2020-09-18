@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.875829700000004
 longitude: 12.631512200000001
-postcode: 83278
+postcode: "83278"
 city: Traunstein
 street: "Wolkersdorfer Straße"
 housenumber: 19

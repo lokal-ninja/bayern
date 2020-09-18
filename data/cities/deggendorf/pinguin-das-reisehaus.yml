@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 48.8312879
 longitude: 12.961971700000001
-postcode: 94469
+postcode: "94469"
 city: Deggendorf
 street: "Michael-Fischer-Platz"
 housenumber: 10-12

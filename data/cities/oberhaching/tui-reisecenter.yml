@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.0256185
 longitude: 11.5966049
-postcode: 82041
+postcode: "82041"
 city: Oberhaching
 street: "Kirchplatz"
 housenumber: 8

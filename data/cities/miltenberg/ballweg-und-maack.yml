@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.6993858
 longitude: 9.2525023
-postcode: 63897
+postcode: "63897"
 city: Miltenberg
 street: "Hauptstraße"
 housenumber: 156

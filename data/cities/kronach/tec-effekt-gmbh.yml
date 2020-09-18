@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.232407200000004
 longitude: 11.324845300000002
-postcode: 96317
+postcode: "96317"
 city: Kronach
 street: "Hammermühlweg"
 housenumber: 2

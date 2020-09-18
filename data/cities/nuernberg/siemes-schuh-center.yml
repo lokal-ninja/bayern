@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 49.4282362
 longitude: 11.064781700000001
-postcode: 90443
+postcode: "90443"
 city: Nürnberg
 street: "Gibitzenhofstraße"
 housenumber: 200

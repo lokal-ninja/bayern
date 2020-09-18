@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.019868
 longitude: 11.585742100000001
-postcode: 82041
+postcode: "82041"
 city: Oberhaching
 street: "Bahnhofstraße"
 housenumber: 32

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.1477956
 longitude: 11.552040300000002
-postcode: 80335
+postcode: "80335"
 city: München
 street: "Pappenheimstraße"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.9229068
 longitude: 12.0058102
-postcode: 93077
+postcode: "93077"
 city: Bad Abbach
 street: "Industriestraße"
 housenumber: 1

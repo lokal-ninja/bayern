@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 49.234801600000004
 longitude: 10.501084200000001
-postcode: 91567
+postcode: "91567"
 city: Herrieden
 street: "Münchener Straße"
 housenumber: 

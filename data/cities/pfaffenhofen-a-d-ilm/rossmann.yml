@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.530644
 longitude: 11.531570400000001
-postcode: 85276
+postcode: "85276"
 city: Pfaffenhofen a.d. Ilm
 street: "Max-Weinberger-Straße"
 housenumber: 7

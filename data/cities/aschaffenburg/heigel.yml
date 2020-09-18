@@ -3,7 +3,7 @@ type: node
 shop: Kamine & Öfen
 latitude: 49.9725887
 longitude: 9.149378500000001
-postcode: 63739
+postcode: "63739"
 city: Aschaffenburg
 street: "Wermbachstraße"
 housenumber: 46

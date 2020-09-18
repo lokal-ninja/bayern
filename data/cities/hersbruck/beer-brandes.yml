@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.507624
 longitude: 11.4313395
-postcode: 91217
+postcode: "91217"
 city: Hersbruck
 street: "Hintere Schulgasse"
 housenumber: 19

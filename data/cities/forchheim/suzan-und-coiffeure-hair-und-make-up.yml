@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.721000800000006
 longitude: 11.0588926
-postcode: 91301
+postcode: "91301"
 city: Forchheim
 street: "Hauptstraße"
 housenumber: 1

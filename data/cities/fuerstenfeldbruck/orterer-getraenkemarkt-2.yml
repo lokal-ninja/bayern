@@ -1,12 +1,12 @@
-id: 5921596634
-type: node
+id: 32009442
+type: way
 shop: Getränke
-latitude: 48.1665593
-longitude: 11.2294815
-postcode: 82256
+latitude: 48.195067800000004
+longitude: 11.2504009
+postcode: "82256"
 city: Fürstenfeldbruck
-street: "Am Sulzbogen"
-housenumber: 25
-phone: "+49 8141 204 42"
-opening_hours: "Mo-Fr 08:30-19:00; Sa 08:00-16:00"
+street: "Hasenheide"
+housenumber: 6
+phone: "+49 8141 3573579"
+opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"
 website: "https://www.orterer.de/"

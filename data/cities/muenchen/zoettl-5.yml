@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.094685000000005
 longitude: 11.4977704
-postcode: 81476
+postcode: "81476"
 city: München
 street: "Knöpflerstraße"
 housenumber: 1

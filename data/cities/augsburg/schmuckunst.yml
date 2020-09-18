@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.371185700000005
 longitude: 10.897940400000001
-postcode: 86152
+postcode: "86152"
 city: Augsburg
 street: "Am Schwalbeneck"
 housenumber: 2

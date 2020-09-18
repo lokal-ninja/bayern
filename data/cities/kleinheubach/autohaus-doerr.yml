@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.7141559
 longitude: 9.2181152
-postcode: 63924
+postcode: "63924"
 city: Kleinheubach
 street: "Im Mittelgewann"
 housenumber: 2

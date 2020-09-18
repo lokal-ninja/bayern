@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.1280426
 longitude: 11.3660745
-postcode: 82110
+postcode: "82110"
 city: Germering
 street: "Untere Bahnhofstraße"
 housenumber: 53a

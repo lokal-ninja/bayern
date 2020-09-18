@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.56438
 longitude: 10.738817500000001
-postcode: 91489
+postcode: "91489"
 city: Wilhelmsdorf
 street: "Gartenstraße"
 housenumber: 7

@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 49.104947200000005
 longitude: 10.9851431
-postcode: 91785
+postcode: "91785"
 city: Pleinfeld
 street: "Obere Torstraße"
 housenumber: 4

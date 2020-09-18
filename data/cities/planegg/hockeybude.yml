@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 48.1052113
 longitude: 11.4295904
-postcode: 82152
+postcode: "82152"
 city: Planegg
 street: "Rudolfstraße"
 housenumber: 112

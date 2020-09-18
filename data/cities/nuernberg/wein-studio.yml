@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 49.4355788
 longitude: 11.1124351
-postcode: 90478
+postcode: "90478"
 city: Nürnberg
 street: "Schultheißallee"
 housenumber: 39

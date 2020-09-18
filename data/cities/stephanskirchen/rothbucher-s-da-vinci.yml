@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 47.860298
 longitude: 12.1753411
-postcode: 83071
+postcode: "83071"
 city: Stephanskirchen
 street: "Haidenholzstraße"
 housenumber: 60a

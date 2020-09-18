@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.679850900000005
 longitude: 12.160991000000001
-postcode: 92637
+postcode: "92637"
 city: Weiden i.d.OPf.
 street: "Zur Centralwerkstätte"
 housenumber: 2

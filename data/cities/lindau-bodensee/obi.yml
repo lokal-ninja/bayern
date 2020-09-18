@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 47.549329500000006
 longitude: 9.7230392
-postcode: 88131
+postcode: "88131"
 city: Lindau (Bodensee)
 street: "Bregenzer Straße"
 housenumber: 105

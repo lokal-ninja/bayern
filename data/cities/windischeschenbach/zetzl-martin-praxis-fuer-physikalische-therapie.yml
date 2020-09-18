@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.7978455
 longitude: 12.1702223
-postcode: 92670
+postcode: "92670"
 city: Windischeschenbach
 street: "Schulplatz"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.8271261
 longitude: 12.9644641
-postcode: 94469
+postcode: "94469"
 city: Deggendorf
 street: "Hengstbergerstr."
 housenumber: 21

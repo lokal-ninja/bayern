@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.125604200000005
 longitude: 11.6106151
-postcode: 81671
+postcode: "81671"
 city: München
 street: "August-Everding-Straße"
 housenumber: 20

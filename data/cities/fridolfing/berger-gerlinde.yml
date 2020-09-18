@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 47.967890800000006
 longitude: 12.858888400000001
-postcode: 83413
+postcode: "83413"
 city: Fridolfing
 street: "Seebach"
 housenumber: 1

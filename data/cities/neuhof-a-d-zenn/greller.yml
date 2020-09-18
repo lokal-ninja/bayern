@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.4571083
 longitude: 10.643758
-postcode: 90616
+postcode: "90616"
 city: Neuhof a.d.Zenn
 street: "Marktplatz"
 housenumber: 9

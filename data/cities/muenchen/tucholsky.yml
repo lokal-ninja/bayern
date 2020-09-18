@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.155291000000005
 longitude: 11.5666264
-postcode: 80798
+postcode: "80798"
 city: München
 street: "Augustenstraße"
 housenumber: 123

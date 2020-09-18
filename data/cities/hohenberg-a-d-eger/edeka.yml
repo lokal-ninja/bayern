@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.0933259
 longitude: 12.2205416
-postcode: 95691
+postcode: "95691"
 city: Hohenberg a.d.Eger
 street: "Schirndinger Straße"
 housenumber: 41

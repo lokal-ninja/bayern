@@ -3,7 +3,7 @@ type: way
 shop: Farben
 latitude: 49.0462234
 longitude: 10.5892183
-postcode: 91717
+postcode: "91717"
 city: Wassertrüdingen
 street: "Erlenweg"
 housenumber: 1

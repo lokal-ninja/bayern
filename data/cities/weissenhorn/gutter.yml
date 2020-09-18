@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.2987339
 longitude: 10.1599862
-postcode: 89264
+postcode: "89264"
 city: Weißenhorn
 street: "Memminger Straße"
 housenumber: 54

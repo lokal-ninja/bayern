@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.1677273
 longitude: 10.825605300000001
-postcode: 86836
+postcode: "86836"
 city: Untermeitingen
 street: "Brünnerstraße"
 housenumber: 12

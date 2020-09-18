@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.0907829
 longitude: 10.856706800000001
-postcode: 86916
+postcode: "86916"
 city: Kaufering
 street: "Kolpingstraße"
 housenumber: 10

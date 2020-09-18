@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.050082
 longitude: 9.0045806
-postcode: 63791
+postcode: "63791"
 city: Karlstein am Main
 street: "Lerchenbergstraße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.882917600000006
 longitude: 10.920523600000001
-postcode: 96050
+postcode: "96050"
 city: Bamberg
 street: "Nürnberger Straße"
 housenumber: 164

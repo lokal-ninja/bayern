@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.4432217
 longitude: 11.1175596
-postcode: 90480
+postcode: "90480"
 city: Nürnberg
 street: "Pastoriusstraße"
 housenumber: 51

@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.098002
 longitude: 11.523328800000002
-postcode: 81379
+postcode: "81379"
 city: München
 street: "Aidenbachstraße"
 housenumber: 40

@@ -1,4 +1,4 @@
 ---
-title: "EDEKA"
+title: "Edeka"
 url: /ingolstadt/edeka-6/
 ---

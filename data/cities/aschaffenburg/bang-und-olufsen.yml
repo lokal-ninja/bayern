@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 49.9726301
 longitude: 9.1493303
-postcode: 63739
+postcode: "63739"
 city: Aschaffenburg
 street: "Wermbachstraße"
 housenumber: 44

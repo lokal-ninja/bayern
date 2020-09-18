@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.1322284
 longitude: 11.693509200000001
-postcode: 81829
+postcode: "81829"
 city: München
 street: "Willy-Brandt-Platz"
 housenumber: 3

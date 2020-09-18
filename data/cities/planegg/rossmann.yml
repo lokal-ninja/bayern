@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.1050539
 longitude: 11.415132900000001
-postcode: 82152
+postcode: "82152"
 city: Planegg
 street: "Bahnhofstraße"
 housenumber: 42

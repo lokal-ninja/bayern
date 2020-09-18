@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.1606309
 longitude: 11.588340200000001
-postcode: 80802
+postcode: "80802"
 city: München
 street: "Siegesstraße"
 housenumber: 24

@@ -3,7 +3,7 @@ type: way
 shop: Fisch
 latitude: 47.70631
 longitude: 11.758344000000001
-postcode: 83684
+postcode: "83684"
 city: Tegernsee
 street: "Seestraße"
 housenumber: 42

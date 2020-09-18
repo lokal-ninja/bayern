@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 49.598900500000006
 longitude: 11.0026612
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Heuwaagstraße"
 housenumber: 6

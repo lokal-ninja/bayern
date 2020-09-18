@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.8867734
 longitude: 11.199001500000001
-postcode: 85072
+postcode: "85072"
 city: Eichstätt
 street: "Römerstraße"
 housenumber: 42b

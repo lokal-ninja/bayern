@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 49.994013800000005
 longitude: 10.8521546
-postcode: 96148
+postcode: "96148"
 city: Baunach
 street: "Am Eichenhügel"
 housenumber: 13

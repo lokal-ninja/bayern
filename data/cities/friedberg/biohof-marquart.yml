@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.3472275
 longitude: 11.0363264
-postcode: 86316
+postcode: "86316"
 city: Friedberg
 street: ""
 housenumber: 2

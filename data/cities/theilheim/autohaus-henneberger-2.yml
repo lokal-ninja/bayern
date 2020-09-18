@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.7529708
 longitude: 10.0156513
-postcode: 97288
+postcode: "97288"
 city: Theilheim
 street: "Randersackerer Straße"
 housenumber: 21

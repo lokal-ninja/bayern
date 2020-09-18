@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 47.5051731
 longitude: 11.278405900000001
-postcode: 82494
+postcode: "82494"
 city: Krün
 street: "Karwendelstraße"
 housenumber: 2

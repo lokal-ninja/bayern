@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 48.1492577
 longitude: 11.562541000000001
-postcode: 80333
+postcode: "80333"
 city: München
 street: "Gabelsbergerstraße"
 housenumber: 40

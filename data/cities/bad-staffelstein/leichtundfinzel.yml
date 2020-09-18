@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 50.1013826
 longitude: 10.9940291
-postcode: 96231
+postcode: "96231"
 city: Bad Staffelstein
 street: "Goethestraße"
 housenumber: 40

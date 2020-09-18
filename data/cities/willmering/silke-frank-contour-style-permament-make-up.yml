@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.2496695
 longitude: 12.6672352
-postcode: 93497
+postcode: "93497"
 city: Willmering
 street: "Am Brücklfeld"
 housenumber: 28

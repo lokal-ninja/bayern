@@ -3,7 +3,7 @@ type: way
 shop: Schreibwaren
 latitude: 49.9678763
 longitude: 11.531348000000001
-postcode: 95500
+postcode: "95500"
 city: Heinersreuth
 street: "Dörnhofer Straße"
 housenumber: 3a

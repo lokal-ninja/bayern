@@ -3,10 +3,10 @@ type: node
 shop: Blumen
 latitude: 50.263263800000004
 longitude: 11.931906300000001
-postcode: 95145
+postcode: "95145"
 city: Oberkotzau
 street: "Hofer Straße"
-housenumber: 
+housenumber: 8
 phone: ""
 opening_hours: ""
 website: ""

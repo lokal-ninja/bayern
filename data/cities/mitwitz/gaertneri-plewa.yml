@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 50.251945600000006
 longitude: 11.2062799
-postcode: 96268
+postcode: "96268"
 city: Mitwitz
 street: "Sonneberger Straße"
 housenumber: 36

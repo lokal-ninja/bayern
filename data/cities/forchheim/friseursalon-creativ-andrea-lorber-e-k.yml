@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.720666200000004
 longitude: 11.056316
-postcode: 91301
+postcode: "91301"
 city: Forchheim
 street: "Krottental"
 housenumber: 1

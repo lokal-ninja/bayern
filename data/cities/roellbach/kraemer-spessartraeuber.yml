@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 49.7695104
 longitude: 9.2523885
-postcode: 63934
+postcode: "63934"
 city: Röllbach
 street: "Am Wasen"
 housenumber: 13

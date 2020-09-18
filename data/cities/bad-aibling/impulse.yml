@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 47.8617094
 longitude: 12.0064238
-postcode: 83043
+postcode: "83043"
 city: Bad Aibling
 street: "Lindenstraße"
 housenumber: 10

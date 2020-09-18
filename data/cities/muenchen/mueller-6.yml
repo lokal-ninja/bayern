@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.1328386
 longitude: 11.565914000000001
-postcode: 80337
+postcode: "80337"
 city: München
 street: "Lindwurmstraße"
 housenumber: 1

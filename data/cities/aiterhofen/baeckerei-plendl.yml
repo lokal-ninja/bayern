@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.8452136
 longitude: 12.6189008
-postcode: 94330
+postcode: "94330"
 city: Aiterhofen
 street: "Obere Dorfstraße"
 housenumber: 1

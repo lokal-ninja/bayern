@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 49.6683144
 longitude: 12.155131200000001
-postcode: 92637
+postcode: "92637"
 city: Weiden i.d.OPf.
 street: "Bahnhofstraße"
 housenumber: 43

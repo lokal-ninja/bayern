@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 50.3054749
 longitude: 11.9198558
-postcode: 95032
+postcode: "95032"
 city: Hof
 street: "Wunsiedler Straße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 48.1408375
 longitude: 11.5915744
-postcode: 80538
+postcode: "80538"
 city: München
 street: "Oettingenstraße"
 housenumber: 2

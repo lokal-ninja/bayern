@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.822149700000004
 longitude: 13.543711
-postcode: 94078
+postcode: "94078"
 city: Freyung
 street: "Speltenbach"
 housenumber: 60

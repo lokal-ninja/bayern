@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.5792091
 longitude: 10.8864962
-postcode: 91074
+postcode: "91074"
 city: Herzogenaurach
 street: "Ohmstraße"
 housenumber: 12

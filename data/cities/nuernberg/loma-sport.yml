@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 49.466361600000006
 longitude: 11.1619454
-postcode: 90482
+postcode: "90482"
 city: Nürnberg
 street: "Moritzbergstraße"
 housenumber: 40

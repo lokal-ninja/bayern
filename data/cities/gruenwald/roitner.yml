@@ -3,10 +3,10 @@ type: node
 shop: Fisch
 latitude: 48.040956
 longitude: 11.5230923
-postcode: 82031
+postcode: "82031"
 city: Grünwald
 street: "Schloßstraße"
 housenumber: 14c
 phone: "+49 89 6413941"
 opening_hours: ""
-website: "www.fisch-roitner.de"
+website: "https://www.fisch-roitner.de"

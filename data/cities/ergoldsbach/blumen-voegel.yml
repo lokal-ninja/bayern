@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.695725700000004
 longitude: 12.2029375
-postcode: 84061
+postcode: "84061"
 city: Ergoldsbach
 street: "Hauptstraße"
 housenumber: 

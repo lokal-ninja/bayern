@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.5363148
 longitude: 10.2857141
-postcode: 87545
+postcode: "87545"
 city: Burgberg i.Allgäu
 street: "Sonthofener Straße"
 housenumber: 13

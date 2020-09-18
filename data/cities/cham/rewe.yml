@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.206695
 longitude: 12.6657691
-postcode: 93413
+postcode: "93413"
 city: Cham
 street: "Werner-von-Siemens-Straße"
 housenumber: 18

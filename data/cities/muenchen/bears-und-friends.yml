@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 48.135339900000005
 longitude: 11.5707625
-postcode: 80331
+postcode: "80331"
 city: München
 street: "Sendlinger Straße"
 housenumber: 19

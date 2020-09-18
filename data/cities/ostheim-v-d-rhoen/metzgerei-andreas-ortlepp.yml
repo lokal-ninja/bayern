@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 50.457993900000005
 longitude: 10.2334058
-postcode: 97645
+postcode: "97645"
 city: Ostheim v.d.Rhön
 street: "Marktstraße"
 housenumber: 16

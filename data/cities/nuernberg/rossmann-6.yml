@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.4648601
 longitude: 11.0823683
-postcode: 90409
+postcode: "90409"
 city: Nürnberg
 street: "Rollnerstraße"
 housenumber: 68

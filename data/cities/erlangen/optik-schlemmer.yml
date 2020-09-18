@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.598533100000004
 longitude: 11.0036257
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Hauptstraße"
 housenumber: 34

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.0895804
 longitude: 10.786793300000001
-postcode: 96106
+postcode: "96106"
 city: Ebern
 street: "Carl-Benz-Straße"
 housenumber: 2

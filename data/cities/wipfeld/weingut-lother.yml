@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 49.921173200000005
 longitude: 10.1700652
-postcode: 97537
+postcode: "97537"
 city: Wipfeld
 street: "Birkenstraße"
 housenumber: 3

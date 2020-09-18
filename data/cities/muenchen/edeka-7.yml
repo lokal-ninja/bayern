@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.1438095
 longitude: 11.5357228
-postcode: 80636
+postcode: "80636"
 city: München
 street: "Erika-Mann-Straße"
 housenumber: 68

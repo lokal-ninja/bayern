@@ -1,12 +1,12 @@
-id: 1783749684
-type: node
+id: 230234159
+type: way
 shop: Bäckerei
-latitude: 48.523535100000004
-longitude: 11.9946374
-postcode: 84079
+latitude: 48.523548700000006
+longitude: 11.9945781
+postcode: "84079"
 city: Bruckberg
 street: "Dorfstraße"
 housenumber: 6
 phone: "+49 8765 225"
-opening_hours: ""
+opening_hours: "Mo,Tu,Th,Fr 05:30-12:00, 14:00-18:00; We,Sa 05:30-12:00; Su 07:30-10:30"
 website: "https://www.baeckerei-guenthner.de/"

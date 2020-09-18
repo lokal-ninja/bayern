@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.1496112
 longitude: 12.659782600000002
-postcode: 84508
+postcode: "84508"
 city: Burgkirchen an der Alz
 street: "Pilgramstraße"
 housenumber: 6a

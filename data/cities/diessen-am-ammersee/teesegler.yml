@@ -3,7 +3,7 @@ type: node
 shop: Tee
 latitude: 47.949571500000005
 longitude: 11.1077002
-postcode: 86911
+postcode: "86911"
 city: Dießen am Ammersee
 street: "Bahnhofstraße"
 housenumber: 8

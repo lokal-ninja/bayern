@@ -3,9 +3,9 @@ type: way
 shop: Autohaus
 latitude: 50.0123394
 longitude: 10.2122977
-postcode: 97424
+postcode: "97424"
 city: Schweinfurt
-street: "Lissabonnstraße"
+street: "Lissabonstraße"
 housenumber: 3
 phone: ""
 opening_hours: ""

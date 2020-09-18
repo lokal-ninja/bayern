@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.0933007
 longitude: 11.5693575
-postcode: 81545
+postcode: "81545"
 city: München
 street: "Sankt-Magnus-Straße"
 housenumber: 34

@@ -3,7 +3,7 @@ type: way
 shop: Ski
 latitude: 50.035172200000005
 longitude: 10.2257846
-postcode: 97424
+postcode: "97424"
 city: Schweinfurt
 street: "Rudolf-Diesel-Straße"
 housenumber: 2

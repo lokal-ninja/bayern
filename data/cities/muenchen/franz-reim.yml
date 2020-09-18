@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 48.1540088
 longitude: 11.6584573
-postcode: 81929
+postcode: "81929"
 city: München
 street: "Glücksburger Straße"
 housenumber: 1

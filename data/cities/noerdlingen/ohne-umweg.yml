@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.8503715
 longitude: 10.4896446
-postcode: 86720
+postcode: "86720"
 city: Nördlingen
 street: "Schäfflesmarkt"
 housenumber: 1

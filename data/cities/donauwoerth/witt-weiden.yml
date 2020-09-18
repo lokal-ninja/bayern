@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.7165181
 longitude: 10.7843467
-postcode: 86609
+postcode: "86609"
 city: Donauwörth
 street: "Kapellstraße"
 housenumber: 38

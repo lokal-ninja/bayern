@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 48.3183421
 longitude: 11.6906417
-postcode: 85375
+postcode: "85375"
 city: Neufahrn bei Freising
 street: "Münchner Straße"
 housenumber: 6a

@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 47.5444509
 longitude: 9.678142300000001
-postcode: 88131
+postcode: "88131"
 city: Lindau (Bodensee)
 street: "Dreierstraße"
 housenumber: 7-9

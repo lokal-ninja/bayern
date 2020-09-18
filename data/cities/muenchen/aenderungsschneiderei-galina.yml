@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 48.113866800000004
 longitude: 11.6510501
-postcode: 81825
+postcode: "81825"
 city: München
 street: "Bajuwarenstraße"
 housenumber: 9

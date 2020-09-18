@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.315572800000005
 longitude: 12.891348
-postcode: 84367
+postcode: "84367"
 city: Tann
 street: "Martin-Grainer-Platz"
 housenumber: 1

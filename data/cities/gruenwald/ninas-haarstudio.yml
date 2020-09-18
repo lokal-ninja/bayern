@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.0413038
 longitude: 11.5236792
-postcode: 82031
+postcode: "82031"
 city: Grünwald
 street: "Schloßstraße"
 housenumber: 14a

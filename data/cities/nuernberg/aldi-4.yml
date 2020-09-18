@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.4557804
 longitude: 11.1219284
-postcode: 90482
+postcode: "90482"
 city: Nürnberg
 street: "Ostendstraße"
 housenumber: 144

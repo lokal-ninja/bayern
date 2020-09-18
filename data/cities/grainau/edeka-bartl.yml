@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.4787429
 longitude: 11.0551426
-postcode: 82491
+postcode: "82491"
 city: Grainau
 street: "An der Zugspitze"
 housenumber: 4

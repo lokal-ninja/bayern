@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.039850300000005
 longitude: 11.660107
-postcode: 85649
+postcode: "85649"
 city: Brunnthal
 street: "Zusestraße"
 housenumber: 2

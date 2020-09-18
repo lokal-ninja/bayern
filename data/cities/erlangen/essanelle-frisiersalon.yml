@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.5920719
 longitude: 11.0059771
-postcode: 91052
+postcode: "91052"
 city: Erlangen
 street: "Nürnberger Straße"
 housenumber: 30

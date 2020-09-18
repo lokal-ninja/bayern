@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.061114
 longitude: 12.171437300000001
-postcode: 83512
+postcode: "83512"
 city: Edling
 street: "Staudhamer Feld"
 housenumber: 6

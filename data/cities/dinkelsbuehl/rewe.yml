@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.0671964
 longitude: 10.329908900000001
-postcode: 91550
+postcode: "91550"
 city: Dinkelsbühl
 street: "Luitpoldstraße"
 housenumber: 27

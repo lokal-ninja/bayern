@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 47.8230439
 longitude: 11.297184300000001
-postcode: 82402
+postcode: "82402"
 city: Seeshaupt
 street: "Bahnhofstraße"
 housenumber: 18

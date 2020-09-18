@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 48.240991900000004
 longitude: 12.684812
-postcode: 84524
+postcode: "84524"
 city: Neuötting
 street: "Ludwigstraße"
 housenumber: 28

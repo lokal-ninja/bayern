@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.8325353
 longitude: 12.962385800000002
-postcode: 94469
+postcode: "94469"
 city: Deggendorf
 street: "Luitpoldplatz"
 housenumber: 17

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.3330288
 longitude: 10.9010558
-postcode: 86159
+postcode: "86159"
 city: Augsburg
 street: "Salomon-Idler-Straße"
 housenumber: 22

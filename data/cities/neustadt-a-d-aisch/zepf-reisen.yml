@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 49.5970554
 longitude: 10.553833800000001
-postcode: 91413
+postcode: "91413"
 city: Neustadt a.d.Aisch
 street: ""
 housenumber: 67

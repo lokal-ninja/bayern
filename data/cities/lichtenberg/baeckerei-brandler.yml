@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.383681700000004
 longitude: 11.6757766
-postcode: 95192
+postcode: "95192"
 city: Lichtenberg
 street: "Henri-Marteau-Platz"
 housenumber: 4

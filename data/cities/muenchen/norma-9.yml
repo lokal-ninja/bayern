@@ -1,12 +1,12 @@
-id: 141425585
+id: 29374053
 type: way
 shop: Supermarkt
-latitude: 48.151201300000004
-longitude: 11.472006700000001
-postcode: 81245
+latitude: 48.147769100000005
+longitude: 11.4207668
+postcode: "81249"
 city: München
-street: "Josef-Lang-Straße"
-housenumber: 12
+street: "Wiesentfelser Straße"
+housenumber: 2
 phone: ""
-opening_hours: ""
-website: "http://www.norma-online.de"
+opening_hours: "Mo-Sa 08:00-20:00"
+website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.2340693
 longitude: 10.505509700000001
-postcode: 91567
+postcode: "91567"
 city: Herrieden
 street: "Industriestraße"
 housenumber: 5

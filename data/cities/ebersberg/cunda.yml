@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.0770825
 longitude: 11.969899400000001
-postcode: 85560
+postcode: "85560"
 city: Ebersberg
 street: "Altstadtpassage"
 housenumber: 6

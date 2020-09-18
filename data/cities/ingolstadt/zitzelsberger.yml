@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.764213500000004
 longitude: 11.407482700000001
-postcode: 85049
+postcode: "85049"
 city: Ingolstadt
 street: "Mühlweg"
 housenumber: 13

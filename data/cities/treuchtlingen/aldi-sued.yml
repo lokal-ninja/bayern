@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.9674946
 longitude: 10.9082095
-postcode: 91757
+postcode: "91757"
 city: Treuchtlingen
 street: "Ansbacher Straße"
 housenumber: 48

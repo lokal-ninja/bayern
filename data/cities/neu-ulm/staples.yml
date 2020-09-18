@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 48.395357100000005
 longitude: 10.0133229
-postcode: 89231
+postcode: "89231"
 city: Neu-Ulm
 street: "Im Starkfeld"
 housenumber: 1

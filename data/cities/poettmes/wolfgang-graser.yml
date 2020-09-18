@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 48.5597721
 longitude: 11.064664
-postcode: 86554
+postcode: "86554"
 city: Pöttmes
 street: "Talstraße"
 housenumber: 1

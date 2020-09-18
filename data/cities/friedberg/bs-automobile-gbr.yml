@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.340861700000005
 longitude: 11.018754000000001
-postcode: 86316
+postcode: "86316"
 city: Friedberg
 street: "Nikolausweg"
 housenumber: 1a

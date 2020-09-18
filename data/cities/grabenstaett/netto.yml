@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.8503984
 longitude: 12.5421121
-postcode: 83355
+postcode: "83355"
 city: Grabenstätt
 street: "Gewerbestraße"
 housenumber: 2

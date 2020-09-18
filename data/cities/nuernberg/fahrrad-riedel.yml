@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.463430200000005
 longitude: 11.0851267
-postcode: 90409
+postcode: "90409"
 city: Nürnberg
 street: "Goethestraße"
 housenumber: 25

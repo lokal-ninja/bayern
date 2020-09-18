@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.735060000000004
 longitude: 11.182471600000001
-postcode: 86633
+postcode: "86633"
 city: Neuburg an der Donau
 street: "Rosenstraße"
 housenumber: 111

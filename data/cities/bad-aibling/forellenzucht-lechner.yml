@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 47.8559703
 longitude: 11.98873
-postcode: 83043
+postcode: "83043"
 city: Bad Aibling
 street: "Binderweg"
 housenumber: 1

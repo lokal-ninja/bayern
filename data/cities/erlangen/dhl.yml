@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 49.5515398
 longitude: 10.988188500000001
-postcode: 91058
+postcode: "91058"
 city: Erlangen
 street: "Eltersdorfer Straße"
 housenumber: 58

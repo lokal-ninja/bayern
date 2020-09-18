@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.4461639
 longitude: 10.282471800000001
-postcode: 89312
+postcode: "89312"
 city: Günzburg
 street: "Geschwister-Scholl-Straße"
 housenumber: 1C

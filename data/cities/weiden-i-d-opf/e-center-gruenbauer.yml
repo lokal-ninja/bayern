@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.668614700000006
 longitude: 12.1744572
-postcode: 92637
+postcode: "92637"
 city: Weiden i.d.OPf.
 street: "Bürgermeister-Probst-Straße"
 housenumber: 3

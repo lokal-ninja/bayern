@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.5707299
 longitude: 13.4798665
-postcode: 94032
+postcode: "94032"
 city: Passau
 street: "Kapuzinerstraße"
 housenumber: 42

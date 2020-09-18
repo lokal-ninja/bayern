@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.8835208
 longitude: 11.6965515
-postcode: 83607
+postcode: "83607"
 city: Holzkirchen
 street: "Münchner Straße"
 housenumber: 61

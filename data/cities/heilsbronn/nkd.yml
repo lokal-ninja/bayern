@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.334690200000004
 longitude: 10.7834891
-postcode: 91560
+postcode: "91560"
 city: Heilsbronn
 street: "Ansbacher Straße"
 housenumber: 34

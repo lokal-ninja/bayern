@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.4717277
 longitude: 11.023113400000002
-postcode: 90427
+postcode: "90427"
 city: Nürnberg
 street: "Brettergartenstraße"
 housenumber: 90

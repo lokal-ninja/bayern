@@ -1,4 +1,4 @@
 ---
-title: "TEDI"
+title: "TEDi"
 url: /muenchberg/tedi/
 ---

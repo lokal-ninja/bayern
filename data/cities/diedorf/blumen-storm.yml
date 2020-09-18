@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.35480930000001
 longitude: 10.7854194
-postcode: 86420
+postcode: "86420"
 city: Diedorf
 street: "Rathausplatz"
 housenumber: 13

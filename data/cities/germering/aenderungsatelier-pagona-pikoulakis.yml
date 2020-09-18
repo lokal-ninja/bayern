@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 48.1259073
 longitude: 11.3664457
-postcode: 82110
+postcode: "82110"
 city: Germering
 street: "Otto-Wagner-Straße"
 housenumber: 3c

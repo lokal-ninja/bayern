@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 48.0464471
 longitude: 11.613267700000002
-postcode: 82024
+postcode: "82024"
 city: Taufkirchen
 street: "Pater-Rupert-Mayer-Weg"
 housenumber: 1-3

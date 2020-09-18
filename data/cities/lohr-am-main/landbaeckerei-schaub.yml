@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.007470500000004
 longitude: 9.605709800000001
-postcode: 97816
+postcode: "97816"
 city: Lohr am Main
 street: "Steinbacher Straße"
 housenumber: 23

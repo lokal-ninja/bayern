@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.118709700000004
 longitude: 10.8123701
-postcode: 86857
+postcode: "86857"
 city: Hurlach
 street: "Poststraße"
 housenumber: 2B

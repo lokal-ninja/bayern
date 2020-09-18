@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 49.8151443
 longitude: 9.9801604
-postcode: 
+postcode: ""
 city: Würzburg
 street: "Am Handelshof"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 50.008554600000004
 longitude: 9.216065
-postcode: 63768
+postcode: "63768"
 city: Hösbach
 street: "Daimlerstraße"
 housenumber: 6

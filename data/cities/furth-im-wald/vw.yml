@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.3117031
 longitude: 12.834756400000002
-postcode: 93437
+postcode: "93437"
 city: Furth im Wald
 street: "Glaserstraße"
 housenumber: 24

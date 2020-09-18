@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.349414800000005
 longitude: 10.8973568
-postcode: 86159
+postcode: "86159"
 city: Augsburg
 street: "Hochfeldstraße"
 housenumber: 71

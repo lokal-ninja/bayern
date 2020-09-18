@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.1518086
 longitude: 11.5739443
-postcode: 80799
+postcode: "80799"
 city: München
 street: "Barer Straße"
 housenumber: 70

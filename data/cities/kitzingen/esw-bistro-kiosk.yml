@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 49.730869600000005
 longitude: 10.147752500000001
-postcode: 97318
+postcode: "97318"
 city: Kitzingen
 street: "Steigweg"
 housenumber: 24

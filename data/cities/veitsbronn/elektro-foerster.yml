@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 49.5077074
 longitude: 10.880822700000001
-postcode: 90587
+postcode: "90587"
 city: Veitsbronn
 street: "Fürther Straße"
 housenumber: 14

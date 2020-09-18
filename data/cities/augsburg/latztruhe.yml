@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.369628500000005
 longitude: 10.899708400000002
-postcode: 86150
+postcode: "86150"
 city: Augsburg
 street: "Metzgplatz"
 housenumber: 3

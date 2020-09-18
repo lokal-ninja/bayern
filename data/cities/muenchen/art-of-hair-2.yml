@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.1520839
 longitude: 11.5304874
-postcode: 80634
+postcode: "80634"
 city: München
 street: "Gudrunstraße"
 housenumber: 10

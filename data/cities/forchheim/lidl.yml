@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.7328698
 longitude: 11.056520200000001
-postcode: 91301
+postcode: "91301"
 city: Forchheim
 street: "Bügstraße"
 housenumber: 80

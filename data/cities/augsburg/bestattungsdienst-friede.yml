@@ -3,7 +3,7 @@ type: way
 shop: Bestattungen
 latitude: 48.380824700000005
 longitude: 10.848035300000001
-postcode: 86156
+postcode: "86156"
 city: Augsburg
 street: "Neusässer Straße"
 housenumber: 15

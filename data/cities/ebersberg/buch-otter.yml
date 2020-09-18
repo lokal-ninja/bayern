@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.0783259
 longitude: 11.970195700000001
-postcode: 85560
+postcode: "85560"
 city: Ebersberg
 street: "Marienplatz"
 housenumber: 13

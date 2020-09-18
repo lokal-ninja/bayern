@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 48.0975898
 longitude: 11.581760500000001
-postcode: 81547
+postcode: "81547"
 city: München
 street: "Mangfallplatz"
 housenumber: 8

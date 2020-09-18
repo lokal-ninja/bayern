@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.2534116
 longitude: 11.245820100000001
-postcode: 90584
+postcode: "90584"
 city: Allersberg
 street: "Neumarkter Straße"
 housenumber: 28-30

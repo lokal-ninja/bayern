@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 47.8395415
 longitude: 11.142050900000001
-postcode: 82362
+postcode: "82362"
 city: Weilheim in Oberbayern
 street: "Marienplatz"
 housenumber: 12

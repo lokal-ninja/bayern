@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.6923807
 longitude: 12.200236400000001
-postcode: 84061
+postcode: "84061"
 city: Ergoldsbach
 street: "Am Alten Sägewerk"
 housenumber: 1

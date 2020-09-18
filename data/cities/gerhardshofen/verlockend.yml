@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.6307819
 longitude: 10.694416100000002
-postcode: 91466
+postcode: "91466"
 city: Gerhardshofen
 street: "Birnbaumer Straße"
 housenumber: 9

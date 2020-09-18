@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 50.1954678
 longitude: 10.0642185
-postcode: 97688
+postcode: "97688"
 city: Bad Kissingen
 street: "Schönbornstraße"
 housenumber: 42

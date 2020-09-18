@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 48.1616019
 longitude: 11.586812100000001
-postcode: 80802
+postcode: "80802"
 city: München
 street: "Leopoldstraße"
 housenumber: 82

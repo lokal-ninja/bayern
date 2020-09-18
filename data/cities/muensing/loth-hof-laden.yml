@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.9040377
 longitude: 11.3759619
-postcode: 82541
+postcode: "82541"
 city: Münsing
 street: "Biberweg"
 housenumber: 1

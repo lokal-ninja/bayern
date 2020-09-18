@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.120465
 longitude: 11.5732657
-postcode: 81543
+postcode: "81543"
 city: München
 street: "Humboldtstraße"
 housenumber: 15

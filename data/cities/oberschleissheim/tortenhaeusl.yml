@@ -3,7 +3,7 @@ type: node
 shop: Konditorei
 latitude: 48.2603713
 longitude: 11.568111100000001
-postcode: 85764
+postcode: "85764"
 city: Oberschleißheim
 street: "Bergl"
 housenumber: 1

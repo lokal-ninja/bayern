@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 49.5766087
 longitude: 11.2019585
-postcode: 90542
+postcode: "90542"
 city: Eckental
 street: "Dr.-Otto-Leich-Straße"
 housenumber: 6

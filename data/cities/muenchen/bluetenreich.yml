@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.161152
 longitude: 11.5238309
-postcode: 80638
+postcode: "80638"
 city: München
 street: "Gerner Straße"
 housenumber: 17

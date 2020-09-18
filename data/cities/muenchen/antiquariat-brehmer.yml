@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 48.146555400000004
 longitude: 11.576158000000001
-postcode: 80333
+postcode: "80333"
 city: München
 street: "Amalienstraße"
 housenumber: 14a-16

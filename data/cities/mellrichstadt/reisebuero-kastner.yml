@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 50.4281215
 longitude: 10.302473500000001
-postcode: 97638
+postcode: "97638"
 city: Mellrichstadt
 street: "Hauptstraße"
 housenumber: 41

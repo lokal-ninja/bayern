@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.451615100000005
 longitude: 11.073266100000001
-postcode: 90403
+postcode: "90403"
 city: Nürnberg
 street: "Josephsplatz"
 housenumber: 12

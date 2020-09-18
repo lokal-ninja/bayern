@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.5311426
 longitude: 11.509102700000001
-postcode: 85276
+postcode: "85276"
 city: Pfaffenhofen a.d. Ilm
 street: "Riederweg"
 housenumber: 13

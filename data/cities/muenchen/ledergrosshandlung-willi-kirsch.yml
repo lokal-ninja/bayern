@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.1190616
 longitude: 11.574155300000001
-postcode: 81543
+postcode: "81543"
 city: München
 street: "Freibadstraße"
 housenumber: 15

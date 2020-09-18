@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 50.1075778
 longitude: 11.453484300000001
-postcode: 95326
+postcode: "95326"
 city: Kulmbach
 street: "Kressenstein"
 housenumber: 13

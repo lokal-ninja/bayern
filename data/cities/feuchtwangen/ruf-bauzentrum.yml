@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.155151700000005
 longitude: 10.328159000000001
-postcode: 91555
+postcode: "91555"
 city: Feuchtwangen
 street: "Schopflocher Straße"
 housenumber: 6

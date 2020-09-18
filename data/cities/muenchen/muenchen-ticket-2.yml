@@ -3,7 +3,7 @@ type: node
 shop: Tickets
 latitude: 48.137827400000006
 longitude: 11.5766834
-postcode: 80331
+postcode: "80331"
 city: München
 street: "Dienerstraße"
 housenumber: 

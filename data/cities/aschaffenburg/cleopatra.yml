@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.975917100000004
 longitude: 9.1447134
-postcode: 63739
+postcode: "63739"
 city: Aschaffenburg
 street: "Steingasse"
 housenumber: 39

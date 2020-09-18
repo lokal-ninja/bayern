@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.5992855
 longitude: 11.0019071
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Kuttlerstraße"
 housenumber: 4

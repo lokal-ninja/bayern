@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.0022681
 longitude: 11.3478315
-postcode: 82319
+postcode: "82319"
 city: Starnberg
 street: "Münchner Straße"
 housenumber: 14

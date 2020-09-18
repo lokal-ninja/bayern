@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.3394271
 longitude: 11.9373403
-postcode: 92266
+postcode: "92266"
 city: Ensdorf
 street: "Hauptstraße"
 housenumber: 23

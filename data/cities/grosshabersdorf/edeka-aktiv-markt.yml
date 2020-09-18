@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.402852700000004
 longitude: 10.7914179
-postcode: 90613
+postcode: "90613"
 city: Großhabersdorf
 street: "Fernabrünster Straße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.5795607
 longitude: 10.885674700000001
-postcode: 91074
+postcode: "91074"
 city: Herzogenaurach
 street: "Ohmstraße"
 housenumber: 12

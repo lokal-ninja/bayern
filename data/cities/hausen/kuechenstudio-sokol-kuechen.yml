@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 49.6906138
 longitude: 11.0405286
-postcode: 91353
+postcode: "91353"
 city: Hausen
 street: "Industriestraße"
 housenumber: 33

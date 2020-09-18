@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 50.033289
 longitude: 10.5437369
-postcode: 97437
+postcode: "97437"
 city: Haßfurt
 street: "Robert-Bosch-Straße"
-housenumber: 3
+housenumber: 3a
 phone: "+49 9521 619130"
 opening_hours: ""
 website: "https://www.edeka.de/"

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.376048100000006
 longitude: 10.3168565
-postcode: 89335
+postcode: "89335"
 city: Ichenhausen
 street: "Weiler Weg"
 housenumber: 7

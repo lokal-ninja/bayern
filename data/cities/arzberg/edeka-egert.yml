@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.0552338
 longitude: 12.1765252
-postcode: 95659
+postcode: "95659"
 city: Arzberg
 street: "Marktredwitzer Straße"
 housenumber: 38

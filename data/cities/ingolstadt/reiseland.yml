@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.7594262
 longitude: 11.4409538
-postcode: 85053
+postcode: "85053"
 city: Ingolstadt
 street: "Liegnitzer Straße"
 housenumber: 2

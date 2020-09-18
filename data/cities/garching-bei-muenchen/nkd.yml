@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.250243000000005
 longitude: 11.6512057
-postcode: 85748
+postcode: "85748"
 city: Garching bei München
 street: "Bürgerplatz"
 housenumber: 12

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 47.856630700000004
 longitude: 12.346765600000001
-postcode: 83209
+postcode: "83209"
 city: Prien a. Chiemsee
 street: "Hallwanger Straße"
 housenumber: 2

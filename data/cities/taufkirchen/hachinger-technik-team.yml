@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.043661900000004
 longitude: 11.617766900000001
-postcode: 82024
+postcode: "82024"
 city: Taufkirchen
 street: "Hohenbrunner Weg"
 housenumber: 3

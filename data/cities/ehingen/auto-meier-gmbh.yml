@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.0860563
 longitude: 10.5386409
-postcode: 91725
+postcode: "91725"
 city: Ehingen
 street: "Wittelshofener Straße"
 housenumber: 16

@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 49.5947663
 longitude: 11.0049477
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Hauptstraße"
 housenumber: 2

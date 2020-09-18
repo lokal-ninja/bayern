@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 48.133958400000004
 longitude: 11.385589300000001
-postcode: 82110
+postcode: "82110"
 city: Germering
 street: "Sankt-Cäcilia-Straße"
 housenumber: 14

@@ -1,4 +1,4 @@
 ---
-title: "Bio Bäckerei Gürtner"
+title: "Bio-Bäckerei Gürtner"
 url: /schwabhausen/bio-baeckerei-guertner/
 ---

@@ -1,12 +1,12 @@
-id: 5520290193
+id: 5912441289
 type: node
 shop: Bäckerei
-latitude: 48.2659515
-longitude: 10.8917868
-postcode: 86343
+latitude: 48.2686944
+longitude: 10.8873311
+postcode: "86343"
 city: Königsbrunn
-street: "St.-Johannes-Straße"
-housenumber: 25
-phone: "+49 8231 4610"
-opening_hours: "Mo-Sa 06:00-12:00"
-website: "https://baeckerei-rager.de/"
+street: "Bürgermeister-Wohlfarth-Straße"
+housenumber: 70
+phone: ""
+opening_hours: ""
+website: "https://www.baeckerei-rager.de/"

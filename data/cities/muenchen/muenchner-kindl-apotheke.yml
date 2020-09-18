@@ -3,7 +3,7 @@ type: node
 shop: Solarium
 latitude: 48.143796300000005
 longitude: 11.4235988
-postcode: 81243
+postcode: "81243"
 city: München
 street: "Limesstraße"
 housenumber: 111

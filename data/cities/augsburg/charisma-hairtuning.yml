@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.396108100000006
 longitude: 10.8598899
-postcode: 86156
+postcode: "86156"
 city: Augsburg
 street: "Wertinger Straße"
 housenumber: 100

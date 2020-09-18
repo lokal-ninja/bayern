@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.410921900000005
 longitude: 10.952817900000001
-postcode: 86316
+postcode: "86316"
 city: Friedberg
 street: "Winterbruckenweg"
 housenumber: 27

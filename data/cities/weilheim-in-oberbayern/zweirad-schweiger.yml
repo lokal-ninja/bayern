@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.8385374
 longitude: 11.148663500000001
-postcode: 82362
+postcode: "82362"
 city: Weilheim in Oberbayern
 street: "Obere Stadt"
 housenumber: 63

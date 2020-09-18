@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.1318367
 longitude: 11.5766433
-postcode: 
+postcode: ""
 city: München
 street: "Gärtnerplatz"
 housenumber: 1

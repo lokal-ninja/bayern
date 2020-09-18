@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.478954900000005
 longitude: 10.9888469
-postcode: 90762
+postcode: "90762"
 city: Fürth
 street: "Gustavstraße"
 housenumber: 31

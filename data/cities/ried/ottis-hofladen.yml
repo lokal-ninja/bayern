@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.304345500000004
 longitude: 11.117634
-postcode: 86510
+postcode: "86510"
 city: Ried
 street: ""
 housenumber: 1

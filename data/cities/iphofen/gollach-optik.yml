@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.7033919
 longitude: 10.2585423
-postcode: 97346
+postcode: "97346"
 city: Iphofen
 street: "Maxstraße"
 housenumber: 2a

@@ -3,7 +3,7 @@ type: way
 shop: Sanitätshaus
 latitude: 49.596304
 longitude: 11.0301649
-postcode: 91052
+postcode: "91052"
 city: Erlangen
 street: "Drausnickstraße"
 housenumber: 5a

@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 47.838922100000005
 longitude: 11.1413434
-postcode: 82362
+postcode: "82362"
 city: Weilheim in Oberbayern
 street: "Ledererstraße"
 housenumber: 6

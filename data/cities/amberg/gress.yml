@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 49.4411064
 longitude: 11.8781861
-postcode: 92224
+postcode: "92224"
 city: Amberg
 street: "Mosacherweg"
 housenumber: 8

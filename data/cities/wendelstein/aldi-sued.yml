@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.349010500000006
 longitude: 11.101705500000001
-postcode: 90530
+postcode: "90530"
 city: Wendelstein
 street: "Heinrich-Wich-Straße"
 housenumber: 1

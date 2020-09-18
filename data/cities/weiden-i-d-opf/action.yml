@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 49.6764335
 longitude: 12.1714189
-postcode: 92637
+postcode: "92637"
 city: Weiden i.d.OPf.
 street: "Friedrich-Ebert-Straße"
 housenumber: 12

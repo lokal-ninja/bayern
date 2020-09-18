@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.134503900000006
 longitude: 11.580842200000001
-postcode: 80469
+postcode: "80469"
 city: München
 street: "Frauenstraße"
 housenumber: 40

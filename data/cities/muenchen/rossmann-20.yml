@@ -1,12 +1,12 @@
-id: 1309259027
+id: 1309259087
 type: node
 shop: Drogerie
-latitude: 48.180204
-longitude: 11.512504700000001
-postcode: 80992
+latitude: 48.1271585
+longitude: 11.6342466
+postcode: "81673"
 city: München
-street: "Dachauer Straße"
-housenumber: 419
+street: "Kreillerstraße"
+housenumber: 28
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
+opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off"
 website: ""

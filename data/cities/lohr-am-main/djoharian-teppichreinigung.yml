@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 49.995072900000004
 longitude: 9.5693625
-postcode: 97816
+postcode: "97816"
 city: Lohr am Main
 street: "Ludwigstraße"
 housenumber: 21

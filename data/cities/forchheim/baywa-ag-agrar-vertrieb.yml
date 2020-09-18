@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 49.704343800000004
 longitude: 11.0555023
-postcode: 91301
+postcode: "91301"
 city: Forchheim
 street: "An der Lände"
 housenumber: 3

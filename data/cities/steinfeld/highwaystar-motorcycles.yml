@@ -3,7 +3,7 @@ type: node
 shop: Motorrad
 latitude: 49.95149
 longitude: 9.6712
-postcode: 97854
+postcode: "97854"
 city: Steinfeld
 street: "Brauereistraße"
 housenumber: 2

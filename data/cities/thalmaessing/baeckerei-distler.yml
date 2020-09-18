@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.1224592
 longitude: 11.2703897
-postcode: 91177
+postcode: "91177"
 city: Thalmässing
 street: ""
 housenumber: 17

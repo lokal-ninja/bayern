@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 49.4454234
 longitude: 11.0682905
-postcode: 90443
+postcode: "90443"
 city: Nürnberg
 street: "Schanzäckerstraße"
 housenumber: 7-9

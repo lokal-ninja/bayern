@@ -3,7 +3,7 @@ type: way
 shop: Warenhaus
 latitude: 47.8203831
 longitude: 12.953118400000001
-postcode: 83404
+postcode: "83404"
 city: Ainring
 street: "Industriestraße"
 housenumber: 1

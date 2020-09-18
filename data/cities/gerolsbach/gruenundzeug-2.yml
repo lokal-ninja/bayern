@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.494167000000004
 longitude: 11.3610231
-postcode: 85302
+postcode: "85302"
 city: Gerolsbach
 street: "Pfaffenhofener Straße"
 housenumber: 4

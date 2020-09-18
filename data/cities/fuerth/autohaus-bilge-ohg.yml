@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.4426877
 longitude: 10.9948905
-postcode: 90763
+postcode: "90763"
 city: Fürth
 street: "Benno-Strauß-Straße"
 housenumber: 55

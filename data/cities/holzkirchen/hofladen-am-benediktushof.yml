@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.7804781
 longitude: 9.6816534
-postcode: 97292
+postcode: "97292"
 city: Holzkirchen
 street: "Klosterstraße"
 housenumber: 10

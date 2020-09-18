@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.367956500000005
 longitude: 10.870924200000001
-postcode: 86157
+postcode: "86157"
 city: Augsburg
 street: "Eberlestraße"
 housenumber: 29

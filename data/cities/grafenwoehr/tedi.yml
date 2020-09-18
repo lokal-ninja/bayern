@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 49.7295152
 longitude: 11.9051492
-postcode: 92655
+postcode: "92655"
 city: Grafenwöhr
 street: "Bahnhofstraße"
 housenumber: 60

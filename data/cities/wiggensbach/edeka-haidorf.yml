@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.744578800000006
 longitude: 10.2326893
-postcode: 87487
+postcode: "87487"
 city: Wiggensbach
 street: "Sonnenstraße"
 housenumber: 1

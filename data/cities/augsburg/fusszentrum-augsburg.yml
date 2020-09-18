@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 48.3652218
 longitude: 10.896257700000001
-postcode: 86150
+postcode: "86150"
 city: Augsburg
 street: "Katharinengasse"
 housenumber: 24

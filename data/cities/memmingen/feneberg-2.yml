@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.998708500000006
 longitude: 10.1755464
-postcode: 87700
+postcode: "87700"
 city: Memmingen
 street: "Dr.-Karl-Lenz-Straße"
 housenumber: 4

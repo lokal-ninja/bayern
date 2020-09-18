@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.651599100000006
 longitude: 12.042852600000002
-postcode: 92708
+postcode: "92708"
 city: Mantel
 street: "Etzenrichter Straße"
 housenumber: 3

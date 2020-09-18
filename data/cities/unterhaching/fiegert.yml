@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.071819700000006
 longitude: 11.605814
-postcode: 82008
+postcode: "82008"
 city: Unterhaching
 street: "Münchner Straße"
 housenumber: 107

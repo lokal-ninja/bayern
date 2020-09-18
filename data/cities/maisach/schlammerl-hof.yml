@@ -3,10 +3,10 @@ type: node
 shop: Hofladen
 latitude: 48.216984700000005
 longitude: 11.271349200000001
-postcode: 82216
+postcode: "82216"
 city: Maisach
 street: "Estinger Straße"
 housenumber: 25
 phone: "+49 8141 94896"
-opening_hours: ""
+opening_hours: "Di 8-13 Uhr, Mi-Fr 8-18 Uhr, Sa 9-14 Uhr"
 website: "https://schlammerl-hof.de"

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.9393832
 longitude: 11.595524500000002
-postcode: 95448
+postcode: "95448"
 city: Bayreuth
 street: "Königsallee"
 housenumber: 46

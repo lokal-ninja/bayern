@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 49.1891015
 longitude: 11.1927105
-postcode: 91161
+postcode: "91161"
 city: Hilpoltstein
 street: "Kirchenstraße"
 housenumber: 4

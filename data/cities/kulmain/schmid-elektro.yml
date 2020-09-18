@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 49.8923411
 longitude: 11.898892
-postcode: 95508
+postcode: "95508"
 city: Kulmain
 street: "Kemnather Straße"
 housenumber: 2

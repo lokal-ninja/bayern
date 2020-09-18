@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.9318104
 longitude: 10.8251392
-postcode: 96173
+postcode: "96173"
 city: Oberhaid
 street: "Grabensee"
 housenumber: 5

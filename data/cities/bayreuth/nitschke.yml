@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.9542353
 longitude: 11.597292600000001
-postcode: 95448
+postcode: "95448"
 city: Bayreuth
 street: "Bernecker Straße"
 housenumber: 34

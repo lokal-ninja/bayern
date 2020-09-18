@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 47.4426919
 longitude: 11.269689300000001
-postcode: 82481
+postcode: "82481"
 city: Mittenwald
 street: "Dammkarstraße"
 housenumber: 39

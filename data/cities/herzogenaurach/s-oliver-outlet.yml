@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 49.5771589
 longitude: 10.901201400000001
-postcode: 91074
+postcode: "91074"
 city: Herzogenaurach
 street: "Zeppelinstraße"
 housenumber: 2

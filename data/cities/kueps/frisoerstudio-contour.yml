@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 50.193536
 longitude: 11.2657392
-postcode: 96328
+postcode: "96328"
 city: Küps
 street: "Lessingstraße"
 housenumber: 12a

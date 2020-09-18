@@ -3,7 +3,7 @@ type: node
 shop: Töpferei
 latitude: 48.1235426
 longitude: 11.6677002
-postcode: 81825
+postcode: "81825"
 city: München
 street: "Truderinger Straße"
 housenumber: 277

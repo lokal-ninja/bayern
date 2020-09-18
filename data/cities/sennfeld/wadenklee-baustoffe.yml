@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 50.0387156
 longitude: 10.2422248
-postcode: 97526
+postcode: "97526"
 city: Sennfeld
 street: "Schweinfurter Straße"
 housenumber: 4

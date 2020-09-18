@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.1382172
 longitude: 11.5804278
-postcode: 80331
+postcode: "80331"
 city: München
 street: "Platzl"
 housenumber: 4a

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.251975200000004
 longitude: 11.2403005
-postcode: 90584
+postcode: "90584"
 city: Allersberg
 street: "Neumarkter Straße"
 housenumber: 14a

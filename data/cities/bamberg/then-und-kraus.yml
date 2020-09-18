@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.8959509
 longitude: 10.9186867
-postcode: 96050
+postcode: "96050"
 city: Bamberg
 street: "Ohmstraße"
 housenumber: 10

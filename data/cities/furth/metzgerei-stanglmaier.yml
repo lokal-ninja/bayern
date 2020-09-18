@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 48.5881531
 longitude: 12.021925000000001
-postcode: 84095
+postcode: "84095"
 city: Furth
 street: "Hauptstraße"
 housenumber: 10

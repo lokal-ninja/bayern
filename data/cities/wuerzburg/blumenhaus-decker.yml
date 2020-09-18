@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.794457900000005
 longitude: 9.914466000000001
-postcode: 97082
+postcode: "97082"
 city: Würzburg
 street: "Frankfurter Straße"
 housenumber: 19

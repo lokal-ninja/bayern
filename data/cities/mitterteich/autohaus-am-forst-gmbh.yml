@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.9438387
 longitude: 12.2356583
-postcode: 95666
+postcode: "95666"
 city: Mitterteich
 street: "Wiesauer Straße"
 housenumber: 29

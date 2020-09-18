@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.1577974
 longitude: 11.6411932
-postcode: 81927
+postcode: "81927"
 city: München
 street: "Freischützstraße"
 housenumber: 13

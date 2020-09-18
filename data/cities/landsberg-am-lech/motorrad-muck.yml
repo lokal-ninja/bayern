@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 48.062081400000004
 longitude: 10.855399
-postcode: 86899
+postcode: "86899"
 city: Landsberg am Lech
 street: "Max-Planck-Straße"
 housenumber: 15

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.004482
 longitude: 12.1009226
-postcode: 95615
+postcode: "95615"
 city: Marktredwitz
 street: "Wölsauer Straße"
 housenumber: 14

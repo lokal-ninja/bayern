@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.155440600000006
 longitude: 10.4350666
-postcode: 97491
+postcode: "97491"
 city: Aidhausen
 street: "Am Haag"
 housenumber: 17

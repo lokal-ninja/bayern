@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.329348
 longitude: 11.0206993
-postcode: 91126
+postcode: "91126"
 city: Schwabach
 street: "Königsplatz"
 housenumber: 8

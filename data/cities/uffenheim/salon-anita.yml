@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.546509
 longitude: 10.2337244
-postcode: 
+postcode: ""
 city: Uffenheim
 street: "Bahnhofstraße"
 housenumber: 14

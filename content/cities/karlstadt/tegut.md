@@ -1,4 +1,4 @@
 ---
-title: "tegut"
+title: "Tegut"
 url: /karlstadt/tegut/
 ---

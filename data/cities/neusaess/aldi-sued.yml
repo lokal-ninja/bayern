@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.3977439
 longitude: 10.824656200000002
-postcode: 86356
+postcode: "86356"
 city: Neusäß
 street: "Lohwaldstraße"
 housenumber: 62

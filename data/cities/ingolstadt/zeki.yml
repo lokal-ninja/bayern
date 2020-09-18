@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.7798273
 longitude: 11.3627769
-postcode: 85049
+postcode: "85049"
 city: Ingolstadt
 street: "Ochsenmühlstraße"
 housenumber: 11

@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 48.1195231
 longitude: 11.6520702
-postcode: 81825
+postcode: "81825"
 city: München
 street: "Groschenweg"
 housenumber: 1

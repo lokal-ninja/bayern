@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.714924100000005
 longitude: 10.748057800000002
-postcode: 86609
+postcode: "86609"
 city: Donauwörth
 street: "Schulstraße"
 housenumber: 9

@@ -1,12 +1,12 @@
-id: 7009749744
-type: node
+id: 116134583
+type: way
 shop: Supermarkt
-latitude: 48.1254332
-longitude: 11.610672800000001
-postcode: 81671
+latitude: 48.1780952
+longitude: 11.4969874
+postcode: "80997"
 city: München
-street: "August-Everding-Straße"
-housenumber: 20
-phone: "+49 89 99829498-1"
-opening_hours: "Mo-Sa 07:00-20:00; Su off"
+street: "Untermenzinger Straße"
+housenumber: 71
+phone: ""
+opening_hours: ""
 website: ""

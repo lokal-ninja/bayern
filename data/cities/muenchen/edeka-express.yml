@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.1101058
 longitude: 11.594650000000001
-postcode: 81539
+postcode: "81539"
 city: München
 street: "Giesinger Bahnhofplatz"
 housenumber: 3

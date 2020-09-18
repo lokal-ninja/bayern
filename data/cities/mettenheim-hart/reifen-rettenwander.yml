@@ -3,7 +3,7 @@ type: node
 shop: Reifen
 latitude: 48.252899400000004
 longitude: 12.4562837
-postcode: 84562
+postcode: "84562"
 city: Mettenheim-Hart
 street: "Rosenstraße"
 housenumber: 6

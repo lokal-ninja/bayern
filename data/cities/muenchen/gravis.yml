@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.159801800000004
 longitude: 11.583268400000001
-postcode: 80801
+postcode: "80801"
 city: München
 street: "Wilhelmstraße"
 housenumber: 10

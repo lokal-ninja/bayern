@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 48.1617503
 longitude: 11.587428000000001
-postcode: 80802
+postcode: "80802"
 city: München
 street: "Feilitzschstraße"
 housenumber: 1

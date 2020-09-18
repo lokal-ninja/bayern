@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.0434215
 longitude: 10.228454800000002
-postcode: 97421
+postcode: "97421"
 city: Schweinfurt
 street: "Jägersbrunnen"
 housenumber: 2

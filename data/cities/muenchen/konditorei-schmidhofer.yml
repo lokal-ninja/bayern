@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.1322039
 longitude: 11.502537700000001
-postcode: 80686
+postcode: "80686"
 city: München
 street: "Fürstenrieder Straße"
 housenumber: 92

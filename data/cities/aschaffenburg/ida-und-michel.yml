@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 49.9691406
 longitude: 9.1657627
-postcode: 63739
+postcode: "63739"
 city: Aschaffenburg
 street: "Beckerstraße"
 housenumber: 26

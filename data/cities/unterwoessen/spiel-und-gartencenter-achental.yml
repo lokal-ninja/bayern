@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 47.737571800000005
 longitude: 12.4564328
-postcode: 83246
+postcode: "83246"
 city: Unterwössen
 street: "Alte Schulstraße"
 housenumber: 2a

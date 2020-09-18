@@ -3,7 +3,7 @@ type: node
 shop: Gardinen
 latitude: 50.331545000000006
 longitude: 11.9134446
-postcode: 95028
+postcode: "95028"
 city: Hof
 street: "Schleizer Straße"
 housenumber: 56

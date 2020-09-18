@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.1460741
 longitude: 11.5406803
-postcode: 80636
+postcode: "80636"
 city: München
 street: "Weiglstraße"
 housenumber: 5

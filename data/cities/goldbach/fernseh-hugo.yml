@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 49.9951221
 longitude: 9.176600200000001
-postcode: 63773
+postcode: "63773"
 city: Goldbach
 street: "Aschaffenburger Straße"
 housenumber: 16a

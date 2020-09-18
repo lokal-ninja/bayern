@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 48.7293583
 longitude: 11.4090489
-postcode: 85051
+postcode: "85051"
 city: Ingolstadt
 street: "Kirchstraße"
 housenumber: 13

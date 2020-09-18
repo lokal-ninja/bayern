@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.219747500000004
 longitude: 11.0754637
-postcode: 96237
+postcode: "96237"
 city: Ebersdorf b. Coburg
 street: "Frohnlacher Straße"
 housenumber: 13

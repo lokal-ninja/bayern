@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.605464600000005
 longitude: 9.899083500000001
-postcode: 88161
+postcode: "88161"
 city: Lindenberg im Allgäu
 street: "Glasbühlstraße"
 housenumber: 22

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.7173068
 longitude: 11.0715395
-postcode: 91301
+postcode: "91301"
 city: Forchheim
 street: "Konrad-Ott-Straße"
 housenumber: 1

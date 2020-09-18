@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 48.53546720000001
 longitude: 12.153259700000001
-postcode: 84028
+postcode: "84028"
 city: Landshut
 street: "Steckengasse"
 housenumber: 305

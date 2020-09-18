@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.461911
 longitude: 11.896684200000001
-postcode: 92224
+postcode: "92224"
 city: Amberg
 street: "Immenstetter Straße"
 housenumber: 18

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.379145
 longitude: 10.933164900000001
-postcode: 86165
+postcode: "86165"
 city: Augsburg
 street: "Brixener Straße"
 housenumber: 1

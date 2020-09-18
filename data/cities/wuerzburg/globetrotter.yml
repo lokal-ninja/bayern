@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 49.7928779
 longitude: 9.928739
-postcode: 97070
+postcode: "97070"
 city: Würzburg
 street: "Beim Grafeneckart"
 housenumber: 13

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.446198100000004
 longitude: 11.8589275
-postcode: 92224
+postcode: "92224"
 city: Amberg
 street: "Eglseer Straße"
 housenumber: 13

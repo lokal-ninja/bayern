@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 49.9622614
 longitude: 9.1761418
-postcode: 63743
+postcode: "63743"
 city: Aschaffenburg
 street: "Würzburger Straße"
 housenumber: 188

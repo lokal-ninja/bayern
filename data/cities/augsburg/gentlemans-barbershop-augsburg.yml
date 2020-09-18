@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.345495400000004
 longitude: 10.895576
-postcode: 86159
+postcode: "86159"
 city: Augsburg
 street: "Von-Richthofen-Straße"
 housenumber: 38

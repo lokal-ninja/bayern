@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.800080400000006
 longitude: 9.9750423
-postcode: 97076
+postcode: "97076"
 city: Würzburg
 street: "Hertzstraße"
 housenumber: 10

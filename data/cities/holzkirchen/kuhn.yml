@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.8806402
 longitude: 11.702349600000002
-postcode: 83607
+postcode: "83607"
 city: Holzkirchen
 street: "Lechlweg"
 housenumber: 1

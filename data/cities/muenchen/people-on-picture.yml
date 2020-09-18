@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 48.141320400000005
 longitude: 11.583977800000001
-postcode: 80538
+postcode: "80538"
 city: München
 street: "Christophstraße"
 housenumber: 3

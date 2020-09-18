@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.3718882
 longitude: 10.866872200000001
-postcode: 86156
+postcode: "86156"
 city: Augsburg
 street: "Pearl-S.-Buck-Straße"
 housenumber: 10

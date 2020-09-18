@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.750134300000006
 longitude: 11.3745574
-postcode: 82377
+postcode: "82377"
 city: Penzberg
 street: "Bahnhofstraße"
 housenumber: 18

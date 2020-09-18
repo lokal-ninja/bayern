@@ -3,7 +3,7 @@ type: node
 shop: Lotterie
 latitude: 49.5948149
 longitude: 11.0055607
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Südliche Stadtmauerstraße"
 housenumber: 14

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.250216400000006
 longitude: 10.1952029
-postcode: 97702
+postcode: "97702"
 city: Münnerstadt
 street: "Riemenschneiderstraße"
 housenumber: 22

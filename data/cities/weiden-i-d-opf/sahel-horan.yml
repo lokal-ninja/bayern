@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.6726541
 longitude: 12.155343400000001
-postcode: 92637
+postcode: "92637"
 city: Weiden i.d.OPf.
 street: "Frauenrichter Straße"
 housenumber: 3

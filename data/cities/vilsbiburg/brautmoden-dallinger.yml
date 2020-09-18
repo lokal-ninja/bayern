@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.447426300000004
 longitude: 12.358163500000002
-postcode: 84137
+postcode: "84137"
 city: Vilsbiburg
 street: "Bergstraße"
 housenumber: 1

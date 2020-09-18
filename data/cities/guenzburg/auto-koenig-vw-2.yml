@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.464709600000006
 longitude: 10.267099100000001
-postcode: 89312
+postcode: "89312"
 city: Günzburg
 street: "Heidenheimer Straße"
 housenumber: 11

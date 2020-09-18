@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 47.4942792
 longitude: 11.1070981
-postcode: 82467
+postcode: "82467"
 city: Garmisch-Partenkirchen
 street: "Ludwigstraße"
 housenumber: 101

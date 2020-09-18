@@ -1,12 +1,12 @@
-id: 1565104670
+id: 1552521433
 type: node
 shop: Supermarkt
-latitude: 49.4043805
-longitude: 11.1333526
-postcode: 90473
+latitude: 49.39793400000001
+longitude: 11.1755125
+postcode: "90475"
 city: Nürnberg
-street: "Glogauer Straße"
-housenumber: 30
+street: "Bregenzer Straße"
+housenumber: 15
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 07:00-20:00; PH off"
 website: ""

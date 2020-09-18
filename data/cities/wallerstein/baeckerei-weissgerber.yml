@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.886521200000004
 longitude: 10.4702196
-postcode: 86757
+postcode: "86757"
 city: Wallerstein
 street: "Hauptstraße"
 housenumber: 27

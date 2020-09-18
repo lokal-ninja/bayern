@@ -3,7 +3,7 @@ type: way
 shop: Kosmetik
 latitude: 49.742120400000005
 longitude: 11.534831200000001
-postcode: 91257
+postcode: "91257"
 city: Pegnitz
 street: "Föhrenbühl"
 housenumber: 9

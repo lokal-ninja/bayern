@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 48.2249221
 longitude: 12.879372900000002
-postcode: 84533
+postcode: "84533"
 city: Haiming
 street: "Unterviehhausen"
 housenumber: 10

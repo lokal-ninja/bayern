@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.0384121
 longitude: 10.2174358
-postcode: 97424
+postcode: "97424"
 city: Schweinfurt
 street: "Hauptbahnhofstraße"
 housenumber: 4

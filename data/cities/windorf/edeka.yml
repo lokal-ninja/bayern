@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.631522600000004
 longitude: 13.3059925
-postcode: 94575
+postcode: "94575"
 city: Windorf
 street: "Turmstraße"
 housenumber: 2a

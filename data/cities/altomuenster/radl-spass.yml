@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.3885732
 longitude: 11.255601500000001
-postcode: 85250
+postcode: "85250"
 city: Altomünster
 street: "Herzog-Georg-Straße"
 housenumber: 14

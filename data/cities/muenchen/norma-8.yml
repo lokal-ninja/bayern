@@ -1,12 +1,12 @@
-id: 114127659
-type: way
+id: 2080044322
+type: node
 shop: Supermarkt
-latitude: 48.183568300000005
-longitude: 11.4787
-postcode: 80997
+latitude: 48.1247631
+longitude: 11.476663100000001
+postcode: "80689"
 city: München
-street: "Manzostraße"
-housenumber: 37a
+street: "Terofalstraße"
+housenumber: 19
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: ""
+opening_hours: "Mo-Sa 7:00-20:00; PH off"
+website: "https://www.norma-online.de/"

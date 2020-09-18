@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.091909300000005
 longitude: 11.563997800000001
-postcode: 81545
+postcode: "81545"
 city: München
 street: "Langobardenstraße"
 housenumber: 6

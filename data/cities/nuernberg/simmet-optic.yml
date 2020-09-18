@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.460732300000004
 longitude: 11.072266200000001
-postcode: 90419
+postcode: "90419"
 city: Nürnberg
 street: "Jagdstraße"
 housenumber: 1

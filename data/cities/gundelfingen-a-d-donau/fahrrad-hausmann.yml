@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 48.5541885
 longitude: 10.3693086
-postcode: 89423
+postcode: "89423"
 city: Gundelfingen a.d.Donau
 street: "Schulstraße"
 housenumber: 7

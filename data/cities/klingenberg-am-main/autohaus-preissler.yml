@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.7596636
 longitude: 9.181956600000001
-postcode: 63911
+postcode: "63911"
 city: Klingenberg am Main
 street: "Rosenbergstraße"
 housenumber: 48

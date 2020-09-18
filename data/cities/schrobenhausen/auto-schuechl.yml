@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.602267000000005
 longitude: 11.2775043
-postcode: 86529
+postcode: "86529"
 city: Schrobenhausen
 street: "In der Scherau"
 housenumber: 6b

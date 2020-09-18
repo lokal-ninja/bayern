@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 49.8587901
 longitude: 10.2277517
-postcode: 97332
+postcode: "97332"
 city: Volkach
 street: "Industriestraße"
 housenumber: 2

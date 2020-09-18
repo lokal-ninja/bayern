@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.377878200000005
 longitude: 10.189452900000001
-postcode: 91541
+postcode: "91541"
 city: Rothenburg ob der Tauber
 street: "Bahnhofstraße"
 housenumber: 15

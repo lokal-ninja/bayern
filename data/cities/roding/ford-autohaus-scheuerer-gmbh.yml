@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.188297600000006
 longitude: 12.5356283
-postcode: 93426
+postcode: "93426"
 city: Roding
 street: "Schorndorfer Straße"
 housenumber: 77

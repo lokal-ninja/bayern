@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.133473800000004
 longitude: 11.3584162
-postcode: 82110
+postcode: "82110"
 city: Germering
 street: "Josef-Kistler-Straße"
 housenumber: 16

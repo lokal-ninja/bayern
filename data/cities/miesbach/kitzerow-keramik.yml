@@ -3,7 +3,7 @@ type: way
 shop: Fliesen
 latitude: 47.790597000000005
 longitude: 11.842861300000001
-postcode: 83714
+postcode: "83714"
 city: Miesbach
 street: "Bodenschneidstraße"
 housenumber: 7

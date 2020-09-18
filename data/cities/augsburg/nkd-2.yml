@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.355632
 longitude: 10.923263700000001
-postcode: 86161
+postcode: "86161"
 city: Augsburg
 street: "Wilhelm-Hauff-Straße"
 housenumber: 28

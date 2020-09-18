@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.4207551
 longitude: 10.8565441
-postcode: 90614
+postcode: "90614"
 city: Ammerndorf
 street: "Rothenburger Straße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Motorrad
 latitude: 49.321046
 longitude: 11.3334101
-postcode: 90559
+postcode: "90559"
 city: Burgthann
 street: "Am Espen"
 housenumber: 27

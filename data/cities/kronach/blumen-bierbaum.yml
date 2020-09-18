@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.2380907
 longitude: 11.3293481
-postcode: 96317
+postcode: "96317"
 city: Kronach
 street: "Friedhofstraße"
 housenumber: 14

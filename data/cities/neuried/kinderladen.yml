@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 48.0933865
 longitude: 11.4664918
-postcode: 82061
+postcode: "82061"
 city: Neuried
 street: "Münchner Straße"
 housenumber: 2c

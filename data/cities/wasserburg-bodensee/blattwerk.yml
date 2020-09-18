@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 47.5701607
 longitude: 9.6388452
-postcode: 88142
+postcode: "88142"
 city: Wasserburg (Bodensee)
 street: "Lindenplatz"
 housenumber: 5

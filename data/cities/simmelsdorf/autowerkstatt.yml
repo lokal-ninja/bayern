@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.6098136
 longitude: 11.3301552
-postcode: 91245
+postcode: "91245"
 city: Simmelsdorf
 street: "Haunachstraße"
 housenumber: 55

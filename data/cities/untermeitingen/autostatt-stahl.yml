@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.166129500000004
 longitude: 10.824989500000001
-postcode: 86836
+postcode: "86836"
 city: Untermeitingen
 street: "Industriestraße"
 housenumber: 1

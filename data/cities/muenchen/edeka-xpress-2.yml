@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.1614987
 longitude: 11.5407943
-postcode: 80637
+postcode: "80637"
 city: München
 street: "Heideckstraße"
 housenumber: 27

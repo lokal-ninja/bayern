@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.149494600000004
 longitude: 11.5341758
-postcode: 80634
+postcode: "80634"
 city: München
 street: "Donnersbergerstraße"
 housenumber: 24

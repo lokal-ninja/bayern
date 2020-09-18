@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.1242445
 longitude: 11.5805804
-postcode: 81541
+postcode: "81541"
 city: München
 street: "Falkenstraße"
 housenumber: 2

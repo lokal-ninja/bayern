@@ -3,7 +3,7 @@ type: node
 shop: Tee
 latitude: 48.0965366
 longitude: 11.5634709
-postcode: 81545
+postcode: "81545"
 city: München
 street: "Grünwalder Straße"
 housenumber: 188

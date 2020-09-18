@@ -3,10 +3,10 @@ type: way
 shop: Fahrrad
 latitude: 49.853584500000004
 longitude: 9.278149500000001
-postcode: 63863
+postcode: "63863"
 city: Eschau
 street: "Wiesenweg"
 housenumber: 5
-phone: ""
-opening_hours: "Mo-Fr 16:30-18:30, Sa 09:00-13:00"
+phone: "+49 9374 99804"
+opening_hours: "Mo-Fr 16:30-18:30, Sa 09:00-13:00; PH off"
 website: ""

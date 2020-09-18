@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 49.596436100000005
 longitude: 11.002714800000001
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Richard-Wagner-Straße"
 housenumber: 12

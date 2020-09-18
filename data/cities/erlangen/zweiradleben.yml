@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.5969424
 longitude: 11.0087734
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Fahrstraße"
 housenumber: 8

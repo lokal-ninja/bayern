@@ -1,4 +1,4 @@
 ---
-title: "Kupsch"
+title: "kupsch"
 url: /wuerzburg/kupsch/
 ---

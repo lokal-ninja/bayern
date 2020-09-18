@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.2948535
 longitude: 12.9956411
-postcode: 84359
+postcode: "84359"
 city: Simbach am Inn
 street: "Matzenhof"
 housenumber: 2

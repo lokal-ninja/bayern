@@ -1,4 +1,4 @@
 ---
-title: "Metzgerei  Schimmel"
+title: "Metzgerei Schimmel"
 url: /marktschorgast/metzgerei-schimmel/
 ---

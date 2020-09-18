@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 48.393875300000005
 longitude: 9.999813600000001
-postcode: 89231
+postcode: "89231"
 city: Neu-Ulm
 street: "Petrusplatz"
 housenumber: 15

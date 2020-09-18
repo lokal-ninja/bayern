@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.214839000000005
 longitude: 10.303544
-postcode: 91555
+postcode: "91555"
 city: Feuchtwangen
 street: "Dorfgütingen"
 housenumber: 21

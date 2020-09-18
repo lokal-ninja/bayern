@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 48.3792777
 longitude: 10.9150124
-postcode: 86167
+postcode: "86167"
 city: Augsburg
 street: "Neuburger Straße"
 housenumber: 24

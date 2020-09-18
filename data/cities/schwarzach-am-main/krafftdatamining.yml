@@ -3,7 +3,7 @@ type: way
 shop: Computer
 latitude: 49.797169600000004
 longitude: 10.229766600000001
-postcode: 97359
+postcode: "97359"
 city: Schwarzach am Main
 street: "Kolpingstraße"
 housenumber: 10

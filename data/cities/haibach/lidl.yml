@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.9647723
 longitude: 9.190676
-postcode: 63808
+postcode: "63808"
 city: Haibach
 street: "Würzburger Straße"
 housenumber: 59

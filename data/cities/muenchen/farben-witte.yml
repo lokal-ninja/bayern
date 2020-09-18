@@ -3,7 +3,7 @@ type: node
 shop: Farben
 latitude: 48.183700800000004
 longitude: 11.5731453
-postcode: 80807
+postcode: "80807"
 city: München
 street: "Pfitznerstraße"
 housenumber: 1

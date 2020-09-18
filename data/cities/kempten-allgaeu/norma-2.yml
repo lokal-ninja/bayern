@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.739312500000004
 longitude: 10.307057100000002
-postcode: 87439
+postcode: "87439"
 city: Kempten (Allgäu)
 street: "Oberwanger Straße"
 housenumber: 1

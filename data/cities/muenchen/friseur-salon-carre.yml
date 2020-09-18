@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.1072895
 longitude: 11.603869600000001
-postcode: 81549
+postcode: "81549"
 city: München
 street: "Balanstraße"
 housenumber: 174

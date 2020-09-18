@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.9643863
 longitude: 9.1720605
-postcode: 63743
+postcode: "63743"
 city: Aschaffenburg
 street: "Würzburger Straße"
 housenumber: 170

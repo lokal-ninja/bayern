@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 48.406114800000005
 longitude: 11.7557925
-postcode: 85356
+postcode: "85356"
 city: Freising
 street: "Alte Poststraße"
 housenumber: 75

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.0346722
 longitude: 11.9339601
-postcode: 93152
+postcode: "93152"
 city: Nittendorf
 street: "An der Steinbuchse"
 housenumber: 2

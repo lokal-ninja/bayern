@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.8041123
 longitude: 10.935108600000001
-postcode: 86971
+postcode: "86971"
 city: Peiting
 street: "Münchener Straße"
 housenumber: 66

@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.6929078
 longitude: 12.2038936
-postcode: 84061
+postcode: "84061"
 city: Ergoldsbach
 street: "Hauptstraße"
 housenumber: 36

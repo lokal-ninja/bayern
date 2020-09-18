@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 47.901121700000004
 longitude: 12.5502175
-postcode: 83339
+postcode: "83339"
 city: Chieming
 street: "Laimgrub"
 housenumber: 9

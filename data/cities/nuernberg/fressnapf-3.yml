@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 49.518763400000005
 longitude: 11.032959400000001
-postcode: 90427
+postcode: "90427"
 city: Nürnberg
 street: "Lichtenfelser Straße"
 housenumber: 10

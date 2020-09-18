@@ -3,7 +3,7 @@ type: node
 shop: Fliesen
 latitude: 47.8422447
 longitude: 11.1393252
-postcode: 82362
+postcode: "82362"
 city: Weilheim in Oberbayern
 street: "Schützenstraße"
 housenumber: 15

@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 47.682223300000004
 longitude: 11.1999539
-postcode: 82418
+postcode: "82418"
 city: Murnau a.Staffelsee
 street: "Kemmelallee"
 housenumber: 1

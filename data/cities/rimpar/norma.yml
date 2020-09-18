@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.8606883
 longitude: 9.9669737
-postcode: 97222
+postcode: "97222"
 city: Rimpar
 street: "Burggrumbacher Straße"
 housenumber: 1

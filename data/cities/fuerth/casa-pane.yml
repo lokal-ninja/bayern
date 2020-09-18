@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.4730343
 longitude: 10.9905261
-postcode: 90762
+postcode: "90762"
 city: Fürth
 street: "Rudolf-Breitscheid-Straße"
 housenumber: 16

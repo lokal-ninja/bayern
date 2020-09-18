@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.9428847
 longitude: 11.5799719
-postcode: 95444
+postcode: "95444"
 city: Bayreuth
 street: "Richard-Wagner-Straße"
 housenumber: 17

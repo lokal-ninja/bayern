@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.466693500000005
 longitude: 11.161777500000001
-postcode: 90482
+postcode: "90482"
 city: Nürnberg
 street: "Moritzbergstraße"
 housenumber: 37

@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 47.9361447
 longitude: 10.834399300000001
-postcode: 86925
+postcode: "86925"
 city: Fuchstal
 street: "Bahnhofstraße"
 housenumber: 30

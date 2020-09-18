@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.0944094
 longitude: 11.6421034
-postcode: 81739
+postcode: "81739"
 city: München
 street: "Therese-Giehse-Allee"
 housenumber: 26

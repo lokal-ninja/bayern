@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.4543966
 longitude: 10.9794046
-postcode: 86444
+postcode: "86444"
 city: Affing
 street: "Von-Gravenreuth-Straße"
 housenumber: 24

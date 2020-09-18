@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.741757400000004
 longitude: 11.4096598
-postcode: 85051
+postcode: "85051"
 city: Ingolstadt
 street: "Oberringstraße"
 housenumber: 16

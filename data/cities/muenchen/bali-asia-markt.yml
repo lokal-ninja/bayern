@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.0985652
 longitude: 11.582999800000001
-postcode: 81547
+postcode: "81547"
 city: München
 street: "Peter-Auzinger-Straße"
 housenumber: 13

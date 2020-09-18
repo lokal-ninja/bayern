@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 49.8410382
 longitude: 9.094956400000001
-postcode: 63785
+postcode: "63785"
 city: Obernburg a.Main
 street: "Wiesentalstraße"
 housenumber: 49

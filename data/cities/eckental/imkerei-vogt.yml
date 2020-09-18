@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 49.577623800000005
 longitude: 11.1872945
-postcode: 90542
+postcode: "90542"
 city: Eckental
 street: "Brander Hauptstraße"
 housenumber: 48

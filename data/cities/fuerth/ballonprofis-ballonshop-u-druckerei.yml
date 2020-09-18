@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 49.500820600000004
 longitude: 11.0117071
-postcode: 90765
+postcode: "90765"
 city: Fürth
 street: "Sacker Hauptstraße"
 housenumber: 18

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.4989768
 longitude: 11.426260500000001
-postcode: 91217
+postcode: "91217"
 city: Hersbruck
 street: "Ostbahnstraße"
 housenumber: 130

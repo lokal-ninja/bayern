@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 47.545898300000005
 longitude: 9.681768700000001
-postcode: 88131
+postcode: "88131"
 city: Lindau (Bodensee)
 street: "Maximilianstraße"
 housenumber: 48

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.099711600000006
 longitude: 10.555637
-postcode: 86874
+postcode: "86874"
 city: Tussenhausen
 street: "Obere Viehweide"
 housenumber: 2

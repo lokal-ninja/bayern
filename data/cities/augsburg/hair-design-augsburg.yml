@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.3651502
 longitude: 10.8997752
-postcode: 86150
+postcode: "86150"
 city: Augsburg
 street: "Maximilianstraße"
 housenumber: 65

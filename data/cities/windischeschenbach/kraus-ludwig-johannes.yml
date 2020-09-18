@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 49.7987879
 longitude: 12.155186500000001
-postcode: 92670
+postcode: "92670"
 city: Windischeschenbach
 street: "Neustädter Straße"
 housenumber: 47

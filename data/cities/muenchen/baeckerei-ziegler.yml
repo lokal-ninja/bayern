@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.151692000000004
 longitude: 11.5735212
-postcode: 80799
+postcode: "80799"
 city: München
 street: "Barer Straße"
 housenumber: 47

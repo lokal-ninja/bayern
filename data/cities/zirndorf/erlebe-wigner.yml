@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 49.4349544
 longitude: 10.9615031
-postcode: 90513
+postcode: "90513"
 city: Zirndorf
 street: "Albrecht-Dürer-Straße"
 housenumber: 66

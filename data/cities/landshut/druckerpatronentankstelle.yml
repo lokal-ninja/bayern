@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.5401703
 longitude: 12.153139300000001
-postcode: 84028
+postcode: "84028"
 city: Landshut
 street: "Isargestade"
 housenumber: 738

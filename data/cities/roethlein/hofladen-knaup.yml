@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 49.9868012
 longitude: 10.2172725
-postcode: 97520
+postcode: "97520"
 city: Röthlein
 street: "Hauptstraße"
 housenumber: 25

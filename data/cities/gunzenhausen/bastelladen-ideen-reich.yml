@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 49.1160944
 longitude: 10.7524575
-postcode: 91710
+postcode: "91710"
 city: Gunzenhausen
 street: "Spitalstraße"
 housenumber: 7

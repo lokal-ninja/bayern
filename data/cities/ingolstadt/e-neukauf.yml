@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.7657917
 longitude: 11.4380837
-postcode: 85055
+postcode: "85055"
 city: Ingolstadt
 street: "Frühlingstraße"
 housenumber: 35

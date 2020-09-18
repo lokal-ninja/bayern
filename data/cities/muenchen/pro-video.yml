@@ -3,7 +3,7 @@ type: node
 shop: Videothek
 latitude: 48.13268780000001
 longitude: 11.582959200000001
-postcode: 80469
+postcode: "80469"
 city: München
 street: "Morassistraße"
 housenumber: 4

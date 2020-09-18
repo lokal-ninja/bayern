@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.599109500000004
 longitude: 11.0421572
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Lange Zeile"
 housenumber: 87

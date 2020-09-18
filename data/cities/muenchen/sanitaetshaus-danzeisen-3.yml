@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 48.152153500000004
 longitude: 11.534868000000001
-postcode: 80634
+postcode: "80634"
 city: München
 street: "Nymphenburger Straße"
 housenumber: 153

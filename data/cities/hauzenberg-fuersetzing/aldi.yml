@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.6525861
 longitude: 13.6161296
-postcode: 
+postcode: ""
 city: Hauzenberg - Fürsetzing
 street: "Steinbergstraße"
 housenumber: 4

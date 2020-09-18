@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 48.162328300000006
 longitude: 11.414217
-postcode: 81245
+postcode: "81245"
 city: München
 street: "Altostraße"
 housenumber: 58

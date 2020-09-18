@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.690379300000004
 longitude: 10.92108
-postcode: 86641
+postcode: "86641"
 city: Rain
 street: "Münchner Straße"
 housenumber: 2

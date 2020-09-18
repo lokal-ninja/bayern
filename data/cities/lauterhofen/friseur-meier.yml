@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.3664259
 longitude: 11.602459900000001
-postcode: 92283
+postcode: "92283"
 city: Lauterhofen
 street: "Neumarkter Straße"
 housenumber: 17

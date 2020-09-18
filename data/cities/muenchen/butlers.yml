@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.1357586
 longitude: 11.5798173
-postcode: 80331
+postcode: "80331"
 city: München
 street: "Tal"
 housenumber: 26

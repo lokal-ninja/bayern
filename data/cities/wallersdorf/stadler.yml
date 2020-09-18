@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.7385363
 longitude: 12.7471309
-postcode: 94522
+postcode: "94522"
 city: Wallersdorf
 street: "Marktplatz"
 housenumber: 17

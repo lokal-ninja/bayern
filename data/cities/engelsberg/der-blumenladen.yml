@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 48.1171784
 longitude: 12.5429715
-postcode: 84549
+postcode: "84549"
 city: Engelsberg
 street: "Garchinger Straße"
 housenumber: 5

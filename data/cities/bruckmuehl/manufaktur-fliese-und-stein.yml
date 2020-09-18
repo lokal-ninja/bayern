@@ -3,7 +3,7 @@ type: way
 shop: Fliesen
 latitude: 47.8799172
 longitude: 11.933071900000002
-postcode: 83052
+postcode: "83052"
 city: Bruckmühl
 street: "Siemensstraße"
 housenumber: 15

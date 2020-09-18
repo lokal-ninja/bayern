@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 49.860885800000005
 longitude: 9.9411916
-postcode: 97222
+postcode: "97222"
 city: Rimpar
 street: "Günterslebener Straße"
 housenumber: 51

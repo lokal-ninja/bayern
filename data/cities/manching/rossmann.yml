@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.715375300000005
 longitude: 11.5040964
-postcode: 85077
+postcode: "85077"
 city: Manching
 street: "Geisenfelder Straße"
 housenumber: 72

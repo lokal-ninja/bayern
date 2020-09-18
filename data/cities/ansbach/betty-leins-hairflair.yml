@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.3087377
 longitude: 10.5714422
-postcode: 91522
+postcode: "91522"
 city: Ansbach
 street: "Brünnleinswiese"
 housenumber: 18

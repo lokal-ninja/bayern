@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 47.945654600000005
 longitude: 10.827000400000001
-postcode: 86925
+postcode: "86925"
 city: Fuchstal
 street: "Stockstraße"
 housenumber: 1

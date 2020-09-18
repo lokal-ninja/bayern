@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 48.304177900000006
 longitude: 11.1158955
-postcode: 86510
+postcode: "86510"
 city: Ried
 street: ""
 housenumber: 2

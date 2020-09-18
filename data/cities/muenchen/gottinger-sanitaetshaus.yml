@@ -1,12 +1,12 @@
 id: 1241535481
 type: node
 shop: Sanitätshaus
-latitude: 48.1355342
-longitude: 11.6014747
-postcode: 81675
+latitude: 48.135540500000005
+longitude: 11.6018422
+postcode: "81675"
 city: München
 street: "Einsteinstraße"
 housenumber: 46
 phone: ""
-opening_hours: "Mo-Fr 10:00-13:00; 14:00-18:00; Sa 10:00-13:00"
+opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-14:00"
 website: ""

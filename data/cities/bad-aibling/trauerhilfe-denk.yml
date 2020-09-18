@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 47.870257
 longitude: 12.015492700000001
-postcode: 83043
+postcode: "83043"
 city: Bad Aibling
 street: "Ellmosener Straße"
 housenumber: 26a

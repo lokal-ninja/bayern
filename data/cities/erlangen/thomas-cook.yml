@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 49.58938860000001
 longitude: 11.0065589
-postcode: 91052
+postcode: "91052"
 city: Erlangen
 street: "Nürnberger Straße"
 housenumber: 65

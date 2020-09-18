@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.814119500000004
 longitude: 12.1195187
-postcode: 83064
+postcode: "83064"
 city: Raubling
 street: "Rosenheimer Straße"
 housenumber: 110

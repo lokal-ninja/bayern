@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 49.449164800000005
 longitude: 11.0712983
-postcode: 90402
+postcode: "90402"
 city: Nürnberg
 street: "Jakobstraße"
 housenumber: 46

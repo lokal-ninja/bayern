@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.378979900000004
 longitude: 11.029624700000001
-postcode: 90453
+postcode: "90453"
 city: Nürnberg
 street: "Reichelsdorfer Hauptstraße"
 housenumber: 171

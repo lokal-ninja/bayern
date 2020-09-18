@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.013708300000005
 longitude: 10.1847233
-postcode: 97493
+postcode: "97493"
 city: Bergrheinfeld
 street: "Schweinfurter Straße"
 housenumber: 65

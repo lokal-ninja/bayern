@@ -1,12 +1,12 @@
-id: 6418521090
+id: 6144480085
 type: node
 shop: Supermarkt
-latitude: 48.136813200000006
-longitude: 11.5479049
-postcode: 80339
+latitude: 48.1451191
+longitude: 11.489233700000002
+postcode: "80687"
 city: München
-street: "Theresienhöhe"
-housenumber: 5
-phone: "+49 89 939 219 30"
-opening_hours: "Jun 06 2019+: Mo-Sa 07:30-20:00; Su,PH off"
-website: "https://www.lidl.de/filialen/muenchen/"
+street: "Landsberger Straße"
+housenumber: 378
+phone: ""
+opening_hours: "Mo-Sa 07:00-20:00"
+website: "https://www.lidl.de"

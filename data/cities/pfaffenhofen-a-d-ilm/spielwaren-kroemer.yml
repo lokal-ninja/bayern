@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 48.5221822
 longitude: 11.496174
-postcode: 85276
+postcode: "85276"
 city: Pfaffenhofen a.d. Ilm
 street: "Adolf-Rebl-Straße"
 housenumber: 31

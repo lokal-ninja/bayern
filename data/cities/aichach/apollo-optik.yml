@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.4591701
 longitude: 11.131780500000001
-postcode: 86551
+postcode: "86551"
 city: Aichach
 street: "Tandlmarkt"
 housenumber: 5

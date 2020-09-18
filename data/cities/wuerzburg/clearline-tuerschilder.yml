@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 49.756759100000004
 longitude: 9.9740134
-postcode: 97084
+postcode: "97084"
 city: Würzburg
 street: "Winterhäuser Straße"
 housenumber: 89

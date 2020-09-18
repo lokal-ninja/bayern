@@ -1,12 +1,12 @@
 id: 300986973
 type: way
 shop: Supermarkt
-latitude: 50.386303500000004
-longitude: 11.877519600000001
-postcode: 95183
+latitude: 50.386321900000006
+longitude: 11.877483100000001
+postcode: "95183"
 city: Töpen
-street: ""
-housenumber: 
+street: "Hofer Straße"
+housenumber: 12
 phone: "+49 9295 185000"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
+opening_hours: "Mo-Fr 07:30-19:00; Sa 08:00-16:00; PH off"
 website: ""

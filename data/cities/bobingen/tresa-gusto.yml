@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.267499900000004
 longitude: 10.841631600000001
-postcode: 86399
+postcode: "86399"
 city: Bobingen
 street: "Peter-Henlein-Straße"
 housenumber: 4b

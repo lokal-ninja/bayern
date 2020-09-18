@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.177192500000004
 longitude: 11.253784600000001
-postcode: 82256
+postcode: "82256"
 city: Fürstenfeldbruck
 street: "Schöngeisinger Straße"
 housenumber: 13

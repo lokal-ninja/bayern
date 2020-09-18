@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.842632
 longitude: 10.966951900000002
-postcode: 96129
+postcode: "96129"
 city: Strullendorf
 street: "Stockweg"
 housenumber: 10

@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 48.397657200000005
 longitude: 12.7506631
-postcode: 84307
+postcode: "84307"
 city: Eggenfelden
 street: "Lauterbachstraße"
 housenumber: 43

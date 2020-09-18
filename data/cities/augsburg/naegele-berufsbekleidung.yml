@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.3564128
 longitude: 10.9029843
-postcode: 86161
+postcode: "86161"
 city: Augsburg
 street: "Haunstetter Straße"
 housenumber: 19 1/2

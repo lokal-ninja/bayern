@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.712597
 longitude: 11.403645500000001
-postcode: 85051
+postcode: "85051"
 city: Ingolstadt
 street: "Wallmeisterstraße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 48.9960092
 longitude: 11.210476
-postcode: 85135
+postcode: "85135"
 city: Titting
 street: "Marktplatz"
 housenumber: 1

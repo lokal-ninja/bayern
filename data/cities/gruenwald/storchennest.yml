@@ -3,7 +3,7 @@ type: node
 shop: Babysachen
 latitude: 48.0413532
 longitude: 11.5258304
-postcode: 82031
+postcode: "82031"
 city: Grünwald
 street: "Südliche Münchner Straße"
 housenumber: 8a

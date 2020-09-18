@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 49.3771344
 longitude: 10.1822586
-postcode: 91541
+postcode: "91541"
 city: Rothenburg ob der Tauber
 street: "Rödergasse"
 housenumber: 11

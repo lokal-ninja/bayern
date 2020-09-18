@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.0801084
 longitude: 10.8664588
-postcode: 96179
+postcode: "96179"
 city: Rattelsdorf
 street: ""
 housenumber: 41

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.4025854
 longitude: 13.3106649
-postcode: 94060
+postcode: "94060"
 city: Pocking
 street: "Klosterstraße"
 housenumber: 11

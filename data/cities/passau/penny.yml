@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.57040730000001
 longitude: 13.4296632
-postcode: 94032
+postcode: "94032"
 city: Passau
 street: "Spitalhofstraße"
 housenumber: 76

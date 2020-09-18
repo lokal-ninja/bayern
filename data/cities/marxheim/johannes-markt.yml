@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.7542771
 longitude: 10.950377300000001
-postcode: 86688
+postcode: "86688"
 city: Marxheim
 street: "Diepoldstraße"
 housenumber: 32

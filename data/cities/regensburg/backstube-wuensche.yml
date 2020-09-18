@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.005291
 longitude: 12.115378100000001
-postcode: 93053
+postcode: "93053"
 city: Regensburg
 street: "Hornstraße"
 housenumber: 6

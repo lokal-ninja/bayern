@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.9588612
 longitude: 12.5005828
-postcode: 83376
+postcode: "83376"
 city: Seeon-Seebruck
 street: "Chiemseestraße"
 housenumber: 7

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.989034100000005
 longitude: 12.542746600000001
-postcode: 83352
+postcode: "83352"
 city: Altenmarkt a.d. Alz
 street: "Traunsteiner Straße"
 housenumber: 80

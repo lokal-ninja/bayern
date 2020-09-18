@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.178619000000005
 longitude: 11.2513623
-postcode: 82256
+postcode: "82256"
 city: Fürstenfeldbruck
 street: "Aumillerstraße"
 housenumber: 31

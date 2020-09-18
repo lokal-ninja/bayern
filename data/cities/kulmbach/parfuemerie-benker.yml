@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.107686300000005
 longitude: 11.4545039
-postcode: 95326
+postcode: "95326"
 city: Kulmbach
 street: "Kressenstein"
 housenumber: 3

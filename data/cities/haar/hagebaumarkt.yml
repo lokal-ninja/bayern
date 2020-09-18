@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 48.1085987
 longitude: 11.721378000000001
-postcode: 85540
+postcode: "85540"
 city: Haar
 street: "Münchener Straße"
 housenumber: 18

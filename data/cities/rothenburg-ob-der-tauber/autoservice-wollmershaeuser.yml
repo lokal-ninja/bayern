@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 49.3809843
 longitude: 10.1857936
-postcode: 91541
+postcode: "91541"
 city: Rothenburg ob der Tauber
 street: "Würzburger Straße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.0295361
 longitude: 12.210167400000001
-postcode: 93093
+postcode: "93093"
 city: Donaustauf
 street: "Maxstraße"
 housenumber: 4

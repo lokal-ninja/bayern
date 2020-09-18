@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 49.3086573
 longitude: 12.167772800000002
-postcode: 92442
+postcode: "92442"
 city: Wackersdorf
 street: "Rosenstraße"
 housenumber: 10

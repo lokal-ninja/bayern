@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.0767582
 longitude: 11.660545200000001
-postcode: 85579
+postcode: "85579"
 city: Neubiberg
 street: "Hauptstraße"
 housenumber: 5

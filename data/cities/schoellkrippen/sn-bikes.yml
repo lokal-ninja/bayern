@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.084121
 longitude: 9.246886400000001
-postcode: 63825
+postcode: "63825"
 city: Schöllkrippen
 street: "Lindenstraße"
 housenumber: 37

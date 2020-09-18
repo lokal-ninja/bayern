@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.5945376
 longitude: 10.948823
-postcode: 91056
+postcode: "91056"
 city: Erlangen
 street: "Rudeltplatz"
 housenumber: 2

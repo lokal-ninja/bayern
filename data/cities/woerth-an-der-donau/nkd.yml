@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 49.0008889
 longitude: 12.400270800000001
-postcode: 93086
+postcode: "93086"
 city: Wörth an der Donau
 street: "Marktplatz"
 housenumber: 8

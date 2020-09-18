@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.89553170000001
 longitude: 12.2141335
-postcode: 93095
+postcode: "93095"
 city: Hagelstadt
 street: "Regensburger Straße"
 housenumber: 1

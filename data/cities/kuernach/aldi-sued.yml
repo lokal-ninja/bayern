@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.8415279
 longitude: 10.0181182
-postcode: 97273
+postcode: "97273"
 city: Kürnach
 street: "Wachtelberg"
 housenumber: 1

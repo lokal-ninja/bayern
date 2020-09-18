@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.1756782
 longitude: 11.250220800000001
-postcode: 82256
+postcode: "82256"
 city: Fürstenfeldbruck
 street: "Auf der Lände"
 housenumber: 3

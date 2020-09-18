@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.0410964
 longitude: 11.523446400000001
-postcode: 82031
+postcode: "82031"
 city: Grünwald
 street: "Schloßstraße"
 housenumber: 14b

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.862621600000004
 longitude: 9.0804905
-postcode: 63853
+postcode: "63853"
 city: Mömlingen
 street: "Im Paradies"
 housenumber: 31

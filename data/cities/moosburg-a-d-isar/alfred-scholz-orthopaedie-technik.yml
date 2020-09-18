@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 48.4679306
 longitude: 11.9373492
-postcode: 85368
+postcode: "85368"
 city: Moosburg a.d. Isar
 street: "Herrnstraße"
 housenumber: 21

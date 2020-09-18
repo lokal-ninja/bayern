@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.705066
 longitude: 11.065877400000002
-postcode: 91301
+postcode: "91301"
 city: Forchheim
 street: "Hans-Böckler-Straße"
 housenumber: 1

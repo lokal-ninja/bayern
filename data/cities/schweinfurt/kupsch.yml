@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 50.0445086
 longitude: 10.2318859
-postcode: 97421
+postcode: "97421"
 city: Schweinfurt
 street: "Keßlergasse"
 housenumber: 26
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 7:00-20:00; Su,PH off"
 website: ""

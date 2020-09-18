@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 49.384914200000004
 longitude: 11.3602974
-postcode: 90518
+postcode: "90518"
 city: Altdorf b.Nürnberg
 street: "Neumarkter Straße"
 housenumber: 12

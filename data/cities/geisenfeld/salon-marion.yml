@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 48.6821726
 longitude: 11.609152600000002
-postcode: 85290
+postcode: "85290"
 city: Geisenfeld
 street: "Forstamtstraße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 48.146525600000004
 longitude: 11.577238900000001
-postcode: 80333
+postcode: "80333"
 city: München
 street: "Fürstenstraße"
 housenumber: 6

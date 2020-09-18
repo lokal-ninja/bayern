@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.051408800000004
 longitude: 11.6073819
-postcode: 82024
+postcode: "82024"
 city: Taufkirchen
 street: "Eschenstraße"
 housenumber: 38

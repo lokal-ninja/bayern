@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.565091
 longitude: 10.9628701
-postcode: 91056
+postcode: "91056"
 city: Erlangen
 street: "Albertusstraße"
 housenumber: 9

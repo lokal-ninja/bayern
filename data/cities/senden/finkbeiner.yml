@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 48.333768400000004
 longitude: 10.038520100000001
-postcode: 89250
+postcode: "89250"
 city: Senden
 street: "Berliner Straße"
 housenumber: 17

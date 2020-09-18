@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 49.6069782
 longitude: 11.121814200000001
-postcode: 91077
+postcode: "91077"
 city: Neunkirchen a.Brand
 street: "Zum Neuntagwerk"
 housenumber: 12

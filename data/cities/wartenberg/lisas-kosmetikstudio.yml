@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.4044942
 longitude: 11.987939500000001
-postcode: 85456
+postcode: "85456"
 city: Wartenberg
 street: "Marktplatz"
 housenumber: 16

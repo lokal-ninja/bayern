@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.72457
 longitude: 10.3156116
-postcode: 87435
+postcode: "87435"
 city: Kempten (Allgäu)
 street: "Fischerstraße"
 housenumber: 3

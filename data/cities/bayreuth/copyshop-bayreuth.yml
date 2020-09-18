@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 49.931421400000005
 longitude: 11.5951591
-postcode: 95448
+postcode: "95448"
 city: Bayreuth
 street: "Nürnberger Straße"
 housenumber: 54

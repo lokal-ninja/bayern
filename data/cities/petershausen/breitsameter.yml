@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 48.4086693
 longitude: 11.468970800000001
-postcode: 85238
+postcode: "85238"
 city: Petershausen
 street: "Indersdorfer Straße"
 housenumber: 1e

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.3121609
 longitude: 10.9032982
-postcode: 86179
+postcode: "86179"
 city: Augsburg
 street: "Hofackerstraße"
 housenumber: 21

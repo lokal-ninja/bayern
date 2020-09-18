@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 49.0817405
 longitude: 12.8830536
-postcode: 94234
+postcode: "94234"
 city: Viechtach
 street: "Paul-Maurer-Straße"
 housenumber: 1a

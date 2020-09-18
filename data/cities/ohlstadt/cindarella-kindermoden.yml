@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.632846400000005
 longitude: 11.231264600000001
-postcode: 82441
+postcode: "82441"
 city: Ohlstadt
 street: "von-Kaulbach-Straße"
 housenumber: 14a

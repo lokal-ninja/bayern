@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.5642786
 longitude: 12.8247519
-postcode: 94424
+postcode: "94424"
 city: Arnstorf
 street: "Mariakirchener Straße"
 housenumber: 34

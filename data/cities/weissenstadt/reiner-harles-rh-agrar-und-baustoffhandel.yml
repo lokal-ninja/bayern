@@ -3,7 +3,7 @@ type: node
 shop: Landwirtschaftlich
 latitude: 50.1020337
 longitude: 11.9280115
-postcode: 95163
+postcode: "95163"
 city: Weißenstadt
 street: "Grub"
 housenumber: 8

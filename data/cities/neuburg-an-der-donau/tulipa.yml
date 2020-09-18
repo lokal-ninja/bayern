@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.73716760000001
 longitude: 11.1943219
-postcode: 86633
+postcode: "86633"
 city: Neuburg an der Donau
 street: "Grünauer Straße"
 housenumber: 40

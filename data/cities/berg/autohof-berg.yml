@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.371399600000004
 longitude: 11.789396400000001
-postcode: 95180
+postcode: "95180"
 city: Berg
 street: "Sieggrubenstraße"
 housenumber: 5

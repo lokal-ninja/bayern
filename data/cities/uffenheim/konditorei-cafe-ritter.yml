@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.544865200000004
 longitude: 10.230683
-postcode: 97215
+postcode: "97215"
 city: Uffenheim
 street: "Spitalplatz"
 housenumber: 10

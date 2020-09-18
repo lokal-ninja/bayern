@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.760172600000004
 longitude: 11.555451300000001
-postcode: 83646
+postcode: "83646"
 city: Bad Tölz
 street: "Badstraße"
 housenumber: 3

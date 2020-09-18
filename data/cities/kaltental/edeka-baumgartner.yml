@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.890628500000005
 longitude: 10.751083600000001
-postcode: 87662
+postcode: "87662"
 city: Kaltental
 street: "Hauptstraße"
 housenumber: 8

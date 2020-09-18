@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.4629568
 longitude: 11.143006300000001
-postcode: 90482
+postcode: "90482"
 city: Nürnberg
 street: "Laufamholzstraße"
 housenumber: 100

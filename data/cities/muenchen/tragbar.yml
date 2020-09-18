@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.125337200000004
 longitude: 11.5541695
-postcode: 80337
+postcode: "80337"
 city: München
 street: "Zenettistraße"
 housenumber: 33

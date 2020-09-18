@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.0530527
 longitude: 10.877759600000001
-postcode: 86899
+postcode: "86899"
 city: Landsberg am Lech
 street: "Hinterer Anger"
 housenumber: 326

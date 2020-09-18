@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.1830159
 longitude: 11.6125717
-postcode: 80805
+postcode: "80805"
 city: München
 street: "Willi-Graf-Straße"
 housenumber: 15

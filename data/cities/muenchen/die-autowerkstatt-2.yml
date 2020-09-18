@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.1603596
 longitude: 11.5873649
-postcode: 80802
+postcode: "80802"
 city: München
 street: "Knollerstraße"
 housenumber: 4

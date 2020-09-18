@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.2732407
 longitude: 10.9774784
-postcode: 86415
+postcode: "86415"
 city: Mering
 street: "Hertzstraße"
 housenumber: 5

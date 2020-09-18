@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.1059932
 longitude: 11.4420423
-postcode: 92334
+postcode: "92334"
 city: Berching
 street: "Pettenkoferplatz"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.05744970000001
 longitude: 12.229151100000001
-postcode: 83512
+postcode: "83512"
 city: Wasserburg am Inn
 street: "Rosenheimer Straße"
 housenumber: 13

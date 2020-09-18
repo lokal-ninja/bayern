@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.4021679
 longitude: 10.2027658
-postcode: 97654
+postcode: "97654"
 city: Bastheim
 street: "Hauptstraße"
 housenumber: 19

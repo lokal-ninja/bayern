@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 48.554637
 longitude: 12.1510148
-postcode: 84030
+postcode: "84030"
 city: Landshut
 street: "Siemensstraße"
 housenumber: 12

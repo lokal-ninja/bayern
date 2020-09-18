@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.745815
 longitude: 12.00248
-postcode: 84056
+postcode: "84056"
 city: Niedereulenbach
 street: "Schollenweg"
 housenumber: 12

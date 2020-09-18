@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.5294225
 longitude: 11.5066553
-postcode: 85276
+postcode: "85276"
 city: Pfaffenhofen a.d. Ilm
 street: "Sonnenstraße"
 housenumber: 2

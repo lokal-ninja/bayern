@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.3036815
 longitude: 10.3598589
-postcode: 86476
+postcode: "86476"
 city: Neuburg a.d.Kammel
 street: "Marktplatz"
 housenumber: 4

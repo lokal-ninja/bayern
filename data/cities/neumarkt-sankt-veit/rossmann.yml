@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.3555896
 longitude: 12.495736
-postcode: 84494
+postcode: "84494"
 city: Neumarkt-Sankt Veit
 street: "Ampfinger Straße"
 housenumber: 2

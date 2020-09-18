@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.3689181
 longitude: 10.89396
-postcode: 86150
+postcode: "86150"
 city: Augsburg
 street: "Fuggerstraße"
 housenumber: 16

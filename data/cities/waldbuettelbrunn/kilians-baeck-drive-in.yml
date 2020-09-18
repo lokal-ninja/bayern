@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.7969121
 longitude: 9.848408200000002
-postcode: 97297
+postcode: "97297"
 city: Waldbüttelbrunn
 street: "Industriestraße"
 housenumber: 2

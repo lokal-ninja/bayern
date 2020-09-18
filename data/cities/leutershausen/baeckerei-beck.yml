@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.2999227
 longitude: 10.408727800000001
-postcode: 91578
+postcode: "91578"
 city: Leutershausen
 street: "Am Markt"
 housenumber: 15

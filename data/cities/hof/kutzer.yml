@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.320680700000004
 longitude: 11.9178429
-postcode: 95028
+postcode: "95028"
 city: Hof
 street: "Ludwigstraße"
 housenumber: 40

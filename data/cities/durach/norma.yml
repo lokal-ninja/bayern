@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.695444300000005
 longitude: 10.3482368
-postcode: 87471
+postcode: "87471"
 city: Durach
 street: "Füssener Straße"
 housenumber: 45

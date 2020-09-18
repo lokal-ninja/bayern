@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.791977900000006
 longitude: 12.1130093
-postcode: 83064
+postcode: "83064"
 city: Raubling
 street: "Friedrich-Fuckel-Straße"
 housenumber: 20

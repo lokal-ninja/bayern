@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.6697198
 longitude: 11.4394463
-postcode: 85123
+postcode: "85123"
 city: Karlskron
 street: "Hauptstraße"
 housenumber: 194

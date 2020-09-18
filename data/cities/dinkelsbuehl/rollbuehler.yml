@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.071183700000006
 longitude: 10.3184745
-postcode: 91550
+postcode: "91550"
 city: Dinkelsbühl
 street: "Dr.-Martin-Luther-Straße"
 housenumber: 15

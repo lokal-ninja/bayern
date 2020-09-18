@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.416228100000005
 longitude: 11.0139396
-postcode: 90547
+postcode: "90547"
 city: Stein
 street: "Rolandstraße"
 housenumber: 6

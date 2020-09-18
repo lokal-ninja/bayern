@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 47.8427243
 longitude: 12.0635115
-postcode: 83059
+postcode: "83059"
 city: Kolbermoor
 street: "Am Rothbachl"
 housenumber: 2

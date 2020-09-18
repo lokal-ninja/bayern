@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 49.6830146
 longitude: 12.170948000000001
-postcode: 92637
+postcode: "92637"
 city: Weiden i.d.OPf.
 street: "Am Langen Steg"
 housenumber: 15

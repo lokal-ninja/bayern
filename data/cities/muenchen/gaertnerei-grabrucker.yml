@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.086586700000005
 longitude: 11.607947000000001
-postcode: 81549
+postcode: "81549"
 city: München
 street: "Landrichterstraße"
 housenumber: 30

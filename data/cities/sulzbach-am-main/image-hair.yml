@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 49.9096549
 longitude: 9.1509476
-postcode: 63834
+postcode: "63834"
 city: Sulzbach am Main
 street: "Hauptstraße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 48.019682700000004
 longitude: 11.5854385
-postcode: 82041
+postcode: "82041"
 city: Oberhaching
 street: "Bahnhofstraße"
 housenumber: 37

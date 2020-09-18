@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.3630513
 longitude: 10.871057400000002
-postcode: 86157
+postcode: "86157"
 city: Augsburg
 street: "Augsburger Straße"
 housenumber: 26

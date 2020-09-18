@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.081101700000005
 longitude: 11.266021400000001
-postcode: 82234
+postcode: "82234"
 city: Weßling
 street: "Argelsrieder Feld"
 housenumber: 40

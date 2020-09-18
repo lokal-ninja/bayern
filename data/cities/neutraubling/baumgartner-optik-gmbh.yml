@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.992268100000004
 longitude: 12.200163400000001
-postcode: 93073
+postcode: "93073"
 city: Neutraubling
 street: "Anton-Günther-Straße"
 housenumber: 2

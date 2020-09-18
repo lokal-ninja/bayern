@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.129187400000006
 longitude: 11.602496
-postcode: 81667
+postcode: "81667"
 city: München
 street: "Wörthstraße"
 housenumber: 47

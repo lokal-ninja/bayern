@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 48.14924490000001
 longitude: 11.542807300000002
-postcode: 80636
+postcode: "80636"
 city: München
 street: "Elvirastraße"
 housenumber: 10

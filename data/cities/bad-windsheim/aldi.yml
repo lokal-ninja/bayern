@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.4963269
 longitude: 10.4079552
-postcode: 91438
+postcode: "91438"
 city: Bad Windsheim
 street: "Illesheimer Straße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: way
 shop: Feinkost
 latitude: 48.2874014
 longitude: 11.5725236
-postcode: 85716
+postcode: "85716"
 city: Unterschleißheim
 street: "Wiesenweg"
 housenumber: 19

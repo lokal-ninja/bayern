@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 49.3014391
 longitude: 10.5737615
-postcode: 91522
+postcode: "91522"
 city: Ansbach
 street: "Neustadt"
 housenumber: 20

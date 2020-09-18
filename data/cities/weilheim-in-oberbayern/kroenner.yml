@@ -3,7 +3,7 @@ type: node
 shop: Konditorei
 latitude: 47.839601200000004
 longitude: 11.1412569
-postcode: 82362
+postcode: "82362"
 city: Weilheim in Oberbayern
 street: "Marienplatz"
 housenumber: 23

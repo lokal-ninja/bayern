@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.8688706
 longitude: 12.0135567
-postcode: 83043
+postcode: "83043"
 city: Bad Aibling
 street: "Ellmosener Straße"
 housenumber: 19a

@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 48.041788000000004
 longitude: 10.504725200000001
-postcode: 87719
+postcode: "87719"
 city: Mindelheim
 street: "Aggensteinstraße"
 housenumber: 2

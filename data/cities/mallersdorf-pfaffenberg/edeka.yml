@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.7704238
 longitude: 12.2354652
-postcode: 84066
+postcode: "84066"
 city: Mallersdorf-Pfaffenberg
 street: "Straubinger Straße"
 housenumber: 34

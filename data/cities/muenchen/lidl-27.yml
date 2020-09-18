@@ -1,12 +1,12 @@
-id: 97856639
+id: 62817565
 type: way
 shop: Supermarkt
-latitude: 48.1203981
-longitude: 11.556545400000001
-postcode: 81371
+latitude: 48.132730900000006
+longitude: 11.525402300000001
+postcode: "80686"
 city: München
-street: "Dreimühlenstraße"
-housenumber: 42
+street: "Tübinger Straße"
+housenumber: 9
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su off"
+opening_hours: "Mo-Sa 07:00-20:00"
 website: ""

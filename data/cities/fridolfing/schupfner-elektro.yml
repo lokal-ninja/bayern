@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 47.9974247
 longitude: 12.8267909
-postcode: 83413
+postcode: "83413"
 city: Fridolfing
 street: "St. Johann Straße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 49.420973700000005
 longitude: 10.8520255
-postcode: 90614
+postcode: "90614"
 city: Ammerndorf
 street: "Rothenburger Straße"
 housenumber: 26

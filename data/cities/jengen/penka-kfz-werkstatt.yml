@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.0010409
 longitude: 10.723222400000001
-postcode: 86860
+postcode: "86860"
 city: Jengen
 street: "Alleestraße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.590376600000006
 longitude: 11.0065937
-postcode: 91052
+postcode: "91052"
 city: Erlangen
 street: "Rathausplatz"
 housenumber: 3

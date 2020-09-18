@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 49.4046304
 longitude: 11.1333135
-postcode: 90473
+postcode: "90473"
 city: Nürnberg
 street: "Glogauer Straße"
 housenumber: 30-38

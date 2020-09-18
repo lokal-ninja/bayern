@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.138846
 longitude: 11.583463100000001
-postcode: 80539
+postcode: "80539"
 city: München
 street: "Herzog-Rudolf-Straße"
 housenumber: 2

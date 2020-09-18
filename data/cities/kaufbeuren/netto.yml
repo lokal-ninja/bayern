@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.894211500000004
 longitude: 10.640467300000001
-postcode: 87600
+postcode: "87600"
 city: Kaufbeuren
 street: "Moosmangstraße"
 housenumber: 1

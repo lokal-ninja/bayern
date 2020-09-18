@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 49.9824659
 longitude: 10.0983923
-postcode: 97440
+postcode: "97440"
 city: Werneck
 street: "Julius-Echter-Straße"
 housenumber: 7

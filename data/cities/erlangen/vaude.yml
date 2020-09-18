@@ -3,10 +3,10 @@ type: node
 shop: Outdoor
 latitude: 49.5986234
 longitude: 11.0033732
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Hauptstraße"
 housenumber: 41
-phone: ""
+phone: "09131 9701420"
 opening_hours: "Mo-Th 10:00-13:00,14:00-19:00; Fr 10:00-19:00; Sa 10:00-18:00; PH off"
-website: ""
+website: "www.vaude.com"

@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 48.2839873
 longitude: 10.8853007
-postcode: 86343
+postcode: "86343"
 city: Königsbrunn
 street: "Guldenstraße"
 housenumber: 31

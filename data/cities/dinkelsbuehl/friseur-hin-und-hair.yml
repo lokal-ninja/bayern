@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.061516000000005
 longitude: 10.3186158
-postcode: 91550
+postcode: "91550"
 city: Dinkelsbühl
 street: "Edenkobener Straße"
 housenumber: 4

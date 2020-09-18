@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 48.611006
 longitude: 10.568268300000002
-postcode: 89420
+postcode: "89420"
 city: Höchstädt a.d.Donau
 street: "Bachgasse"
 housenumber: 8

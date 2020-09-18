@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.155458100000004
 longitude: 11.573226
-postcode: 80799
+postcode: "80799"
 city: München
 street: "Arcisstraße"
 housenumber: 66

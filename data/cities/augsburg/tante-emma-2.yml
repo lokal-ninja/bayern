@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.3767343
 longitude: 10.8949271
-postcode: 86152
+postcode: "86152"
 city: Augsburg
 street: "Am Fischertor"
 housenumber: 2

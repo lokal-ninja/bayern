@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.1520109
 longitude: 11.5740458
-postcode: 80799
+postcode: "80799"
 city: München
 street: "Barer Straße"
 housenumber: 74

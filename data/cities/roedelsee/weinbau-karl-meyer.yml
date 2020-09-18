@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 49.727273600000004
 longitude: 10.247065800000001
-postcode: 97348
+postcode: "97348"
 city: Rödelsee
 street: "Alte Iphöfer Straße"
 housenumber: 15b

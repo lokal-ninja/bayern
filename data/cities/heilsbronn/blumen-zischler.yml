@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.338277100000006
 longitude: 10.7887088
-postcode: 91560
+postcode: "91560"
 city: Heilsbronn
 street: "Lindenplatz"
 housenumber: 6

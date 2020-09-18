@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 49.578439100000004
 longitude: 10.600435000000001
-postcode: 91413
+postcode: "91413"
 city: Neustadt an der Aisch
 street: "Riedweg"
 housenumber: 9

@@ -3,10 +3,10 @@ type: node
 shop: Fahrrad
 latitude: 48.3631897
 longitude: 10.8637276
-postcode: 86157
+postcode: "86157"
 city: Augsburg
 street: "Stadtberger Straße"
 housenumber: 32
-phone: ""
+phone: "+49 821 542212"
 opening_hours: "Th-Fr 17:30-20:00; Sa 09:30-12:30"
-website: ""
+website: "https://www.tricondition.de"

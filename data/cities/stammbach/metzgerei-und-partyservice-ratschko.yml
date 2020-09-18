@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.1455951
 longitude: 11.6881613
-postcode: 95236
+postcode: "95236"
 city: Stammbach
 street: "Kulmbacher Straße"
 housenumber: 20a

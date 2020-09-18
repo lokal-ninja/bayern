@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.1289713
 longitude: 11.603296400000001
-postcode: 81667
+postcode: "81667"
 city: München
 street: "Orleansplatz"
 housenumber: 6

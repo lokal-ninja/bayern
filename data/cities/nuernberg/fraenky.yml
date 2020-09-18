@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 49.4343512
 longitude: 11.044345100000001
-postcode: 90439
+postcode: "90439"
 city: Nürnberg
 street: "Geisseestraße"
 housenumber: 41

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.8561604
 longitude: 9.9570781
-postcode: 97222
+postcode: "97222"
 city: Rimpar
 street: "Niederhoferstraße"
 housenumber: 11

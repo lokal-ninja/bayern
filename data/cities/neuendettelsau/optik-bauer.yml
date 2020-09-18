@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.2856371
 longitude: 10.7903287
-postcode: 91564
+postcode: "91564"
 city: Neuendettelsau
 street: "Friedrich-Bauer-Straße"
 housenumber: 19

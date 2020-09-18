@@ -3,7 +3,7 @@ type: node
 shop: Motorrad
 latitude: 49.6456097
 longitude: 10.6961882
-postcode: 91462
+postcode: "91462"
 city: Dachsbach
 street: "Kreisstraße"
 housenumber: 8

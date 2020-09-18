@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.0047725
 longitude: 11.6857489
-postcode: 85649
+postcode: "85649"
 city: Brunnthal
 street: "Hofoldinger Straße"
 housenumber: 13-15

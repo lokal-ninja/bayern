@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.6290904
 longitude: 11.0095559
-postcode: 91088
+postcode: "91088"
 city: Bubenreuth
 street: "Bruckwiesen"
 housenumber: 8

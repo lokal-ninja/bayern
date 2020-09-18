@@ -3,10 +3,10 @@ type: node
 shop: Autohaus
 latitude: 48.14040180000001
 longitude: 11.5684605
-postcode: 80333
+postcode: "80333"
 city: München
 street: "Lenbachplatz"
 housenumber: 7a
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 11:00-19:00; Sa 11:00-18:00"
 website: ""

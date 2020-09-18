@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 49.8199551
 longitude: 9.2579355
-postcode: 63863
+postcode: "63863"
 city: Eschau
 street: "Wildenseer Straße"
 housenumber: 14

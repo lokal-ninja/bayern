@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.975857700000006
 longitude: 9.1448952
-postcode: 63739
+postcode: "63739"
 city: Aschaffenburg
 street: "Steingasse"
 housenumber: 35

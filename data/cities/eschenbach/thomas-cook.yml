@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 49.7531778
 longitude: 11.8293228
-postcode: 92678
+postcode: "92678"
 city: Eschenbach
 street: "Karlsplatz"
 housenumber: 12

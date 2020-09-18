@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.109763300000004
 longitude: 11.595354200000001
-postcode: 81539
+postcode: "81539"
 city: München
 street: "Schwanseestraße"
 housenumber: 3

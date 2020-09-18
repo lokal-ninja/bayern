@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 48.457227100000004
 longitude: 11.1289227
-postcode: 86551
+postcode: "86551"
 city: Aichach
 street: "Werlbergerstraße"
 housenumber: 16

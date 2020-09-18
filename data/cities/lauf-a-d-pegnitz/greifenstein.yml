@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.513939400000005
 longitude: 11.283310100000001
-postcode: 91207
+postcode: "91207"
 city: Lauf a.d.Pegnitz
 street: "Simonshofer Straße"
 housenumber: 8;10

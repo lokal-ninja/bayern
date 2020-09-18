@@ -3,7 +3,7 @@ type: node
 shop: Motorrad
 latitude: 48.2508386
 longitude: 12.4732546
-postcode: 84562
+postcode: "84562"
 city: Mettenheim-Hart
 street: "Kiefernweg"
 housenumber: 1

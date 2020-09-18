@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.3543954
 longitude: 10.915221
-postcode: 86161
+postcode: "86161"
 city: Augsburg
 street: "Siebentischstraße"
 housenumber: 16a

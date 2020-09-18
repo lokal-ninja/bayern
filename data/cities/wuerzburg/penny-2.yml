@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.816124
 longitude: 9.9810998
-postcode: 97076
+postcode: "97076"
 city: Würzburg
 street: "Am Handelshof"
 housenumber: 5

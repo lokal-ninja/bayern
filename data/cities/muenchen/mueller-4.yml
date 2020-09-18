@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.131891200000005
 longitude: 11.5677325
-postcode: 80469
+postcode: "80469"
 city: München
 street: "Pestalozzistraße"
 housenumber: 3a

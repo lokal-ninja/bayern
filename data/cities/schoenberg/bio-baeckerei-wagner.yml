@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.839063900000006
 longitude: 13.328136200000001
-postcode: 94513
+postcode: "94513"
 city: Schönberg
 street: "Deggendorfer Straße"
 housenumber: 37

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.5287481
 longitude: 10.2575234
-postcode: 87544
+postcode: "87544"
 city: Blaichach
 street: "Im Wasen"
 housenumber: 5

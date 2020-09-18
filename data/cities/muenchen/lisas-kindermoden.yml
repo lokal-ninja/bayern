@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 48.0729355
 longitude: 11.5206368
-postcode: 81479
+postcode: "81479"
 city: München
 street: "Wolfratshauser Straße"
 housenumber: 207

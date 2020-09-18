@@ -3,7 +3,7 @@ type: node
 shop: Landwirtschaftlich
 latitude: 48.574476600000004
 longitude: 10.417306400000001
-postcode: 89415
+postcode: "89415"
 city: Lauingen (Donau)
 street: ""
 housenumber: 

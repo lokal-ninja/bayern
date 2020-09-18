@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.4057468
 longitude: 11.138751000000001
-postcode: 90473
+postcode: "90473"
 city: Nürnberg
 street: "Neusalzer Straße"
 housenumber: 21

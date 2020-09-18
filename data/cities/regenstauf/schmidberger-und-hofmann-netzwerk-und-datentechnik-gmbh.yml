@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 49.1177143
 longitude: 12.1439093
-postcode: 93128
+postcode: "93128"
 city: Regenstauf
 street: "Lönsstraße"
 housenumber: 10

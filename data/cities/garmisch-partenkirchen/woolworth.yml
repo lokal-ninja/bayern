@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 47.4935746
 longitude: 11.0962476
-postcode: 82467
+postcode: "82467"
 city: Garmisch-Partenkirchen
 street: "Bahnhofstraße"
 housenumber: 41

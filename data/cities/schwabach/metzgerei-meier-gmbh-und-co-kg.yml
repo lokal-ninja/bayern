@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.3289393
 longitude: 11.0229374
-postcode: 91126
+postcode: "91126"
 city: Schwabach
 street: "Ludwigstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 49.6000522
 longitude: 11.0040373
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Schiffstraße"
 housenumber: 9

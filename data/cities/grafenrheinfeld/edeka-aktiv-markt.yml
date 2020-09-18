@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.0031174
 longitude: 10.2005423
-postcode: 97506
+postcode: "97506"
 city: Grafenrheinfeld
 street: "An der Haak"
 housenumber: 1

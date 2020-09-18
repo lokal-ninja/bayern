@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 47.8747988
 longitude: 12.5870405
-postcode: 83355
+postcode: "83355"
 city: Grabenstätt
 street: "Raiffeisenstraße"
 housenumber: 10a

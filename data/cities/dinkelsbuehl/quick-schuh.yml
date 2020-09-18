@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 49.068767
 longitude: 10.3284167
-postcode: 91550
+postcode: "91550"
 city: Dinkelsbühl
 street: "Bahnhofsplatz"
 housenumber: 1

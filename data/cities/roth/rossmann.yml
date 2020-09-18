@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.2495616
 longitude: 11.1058939
-postcode: 91154
+postcode: "91154"
 city: Roth
 street: "Ostring"
 housenumber: 12

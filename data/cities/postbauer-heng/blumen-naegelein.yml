@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.3038521
 longitude: 11.3543132
-postcode: 92353
+postcode: "92353"
 city: Postbauer-Heng
 street: "Centrum"
 housenumber: 2

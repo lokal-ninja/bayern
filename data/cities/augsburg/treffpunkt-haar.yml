@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.3141212
 longitude: 10.908188200000001
-postcode: 86179
+postcode: "86179"
 city: Augsburg
 street: "Landsberger Straße"
 housenumber: 19

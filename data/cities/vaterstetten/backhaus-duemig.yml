@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.105133
 longitude: 11.7697631
-postcode: 85591
+postcode: "85591"
 city: Vaterstetten
 street: "Wendelsteinstraße"
 housenumber: 10

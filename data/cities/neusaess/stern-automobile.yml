@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.393257500000004
 longitude: 10.8340236
-postcode: 86356
+postcode: "86356"
 city: Neusäß
 street: "Hauptstraße"
 housenumber: 21

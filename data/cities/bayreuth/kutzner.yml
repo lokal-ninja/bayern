@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.938285
 longitude: 11.5739941
-postcode: 95447
+postcode: "95447"
 city: Bayreuth
 street: "Moritzhöfen"
 housenumber: 6

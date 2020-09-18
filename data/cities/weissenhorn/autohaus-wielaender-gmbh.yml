@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.3119656
 longitude: 10.158953
-postcode: 89264
+postcode: "89264"
 city: Weißenhorn
 street: "Günzburger Straße"
 housenumber: 54

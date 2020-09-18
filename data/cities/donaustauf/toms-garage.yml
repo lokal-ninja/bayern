@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.0296965
 longitude: 12.1978079
-postcode: 93093
+postcode: "93093"
 city: Donaustauf
 street: "Egelseestraße"
 housenumber: 6

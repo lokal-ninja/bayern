@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.138871400000006
 longitude: 10.584931000000001
-postcode: 86865
+postcode: "86865"
 city: Markt Wald
 street: "Fuggerstraße"
 housenumber: 2

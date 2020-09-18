@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.3426454
 longitude: 10.8050596
-postcode: 91560
+postcode: "91560"
 city: Heilsbronn
 street: "Bauhofstraße"
 housenumber: 16

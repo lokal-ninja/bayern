@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 47.739887
 longitude: 10.3261482
-postcode: 87437
+postcode: "87437"
 city: Kempten (Allgäu)
 street: "Bleicherstraße"
 housenumber: 18

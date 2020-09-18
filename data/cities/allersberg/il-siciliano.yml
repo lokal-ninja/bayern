@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.2515506
 longitude: 11.2364043
-postcode: 90584
+postcode: "90584"
 city: Allersberg
 street: "Marktplatz"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.058545200000005
 longitude: 10.2299051
-postcode: 97422
+postcode: "97422"
 city: Schweinfurt
 street: "Theuerbrünnleinsweg"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 49.5074735
 longitude: 12.062302
-postcode: 92253
+postcode: "92253"
 city: Schnaittenbach
 street: "Kemnath am Buchberg"
 housenumber: 32

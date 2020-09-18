@@ -1,4 +1,4 @@
 ---
-title: "METRO"
+title: "Metro"
 url: /hof/metro/
 ---

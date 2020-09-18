@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 48.1336616
 longitude: 11.583262300000001
-postcode: 80331
+postcode: "80331"
 city: München
 street: "Zweibrückenstraße"
 housenumber: 3

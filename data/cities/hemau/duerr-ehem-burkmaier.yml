@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.051417300000004
 longitude: 11.782737800000001
-postcode: 93155
+postcode: "93155"
 city: Hemau
 street: "Stadtplatz"
 housenumber: 12

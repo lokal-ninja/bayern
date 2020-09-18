@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.4767851
 longitude: 11.7976728
-postcode: 92284
+postcode: "92284"
 city: Poppenricht
 street: "Talstraße"
 housenumber: 18

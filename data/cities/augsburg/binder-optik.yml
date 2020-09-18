@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.367334500000005
 longitude: 10.8980273
-postcode: 86150
+postcode: "86150"
 city: Augsburg
 street: "Moritzplatz"
 housenumber: 2

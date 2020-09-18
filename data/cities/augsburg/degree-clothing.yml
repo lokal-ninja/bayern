@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.3680074
 longitude: 10.900932300000001
-postcode: 
+postcode: ""
 city: Augsburg
 street: "Mittlerer Lech"
 housenumber: 18

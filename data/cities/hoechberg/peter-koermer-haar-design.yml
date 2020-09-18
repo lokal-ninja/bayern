@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.7829794
 longitude: 9.8796412
-postcode: 97204
+postcode: "97204"
 city: Höchberg
 street: "Hauptstraße"
 housenumber: 87

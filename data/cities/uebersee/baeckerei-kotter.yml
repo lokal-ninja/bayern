@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.8196184
 longitude: 12.4960755
-postcode: 83236
+postcode: "83236"
 city: Übersee
 street: "Bahnhofstraße"
 housenumber: 85

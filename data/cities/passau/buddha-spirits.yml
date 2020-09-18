@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.573002900000006
 longitude: 13.462501600000001
-postcode: 94032
+postcode: "94032"
 city: Passau
 street: "Oberer Sand"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.162219500000006
 longitude: 12.8001795
-postcode: 84489
+postcode: "84489"
 city: Burghausen
 street: "Gewerbepark Lindach D"
 housenumber: 5

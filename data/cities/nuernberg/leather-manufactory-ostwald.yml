@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.4384947
 longitude: 11.1011691
-postcode: 90461
+postcode: "90461"
 city: Nürnberg
 street: "Parsifalstraße"
 housenumber: 2

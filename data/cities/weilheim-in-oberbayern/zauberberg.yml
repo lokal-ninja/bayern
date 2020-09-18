@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 47.839227900000004
 longitude: 11.1408149
-postcode: 82362
+postcode: "82362"
 city: Weilheim in Oberbayern
 street: "Kreuzgasse"
 housenumber: 3

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.8498748
 longitude: 9.966533700000001
-postcode: 97222
+postcode: "97222"
 city: Rimpar
 street: "Engelbert-Kraus-Straße"
 housenumber: 4

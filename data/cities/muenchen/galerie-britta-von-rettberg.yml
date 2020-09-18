@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 48.147982000000006
 longitude: 11.5660928
-postcode: 80333
+postcode: "80333"
 city: München
 street: "Gabelsbergerstraße"
 housenumber: 51

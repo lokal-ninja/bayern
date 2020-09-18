@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.441703200000006
 longitude: 11.113240000000001
-postcode: 86551
+postcode: "86551"
 city: Aichach
 street: "Maxstraße"
 housenumber: 2-4

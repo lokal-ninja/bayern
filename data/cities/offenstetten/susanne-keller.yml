@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 48.808346
 longitude: 11.8991065
-postcode: 93326
+postcode: "93326"
 city: Offenstetten
 street: "Kreittmayrstraße"
 housenumber: 18

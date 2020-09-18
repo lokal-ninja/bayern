@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 49.2805915
 longitude: 10.651569700000001
-postcode: 91623
+postcode: "91623"
 city: Sachsen bei Ansbach
 street: "Rutzendorf"
 housenumber: 28

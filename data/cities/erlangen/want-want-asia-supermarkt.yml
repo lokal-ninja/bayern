@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.5897737
 longitude: 11.0064195
-postcode: 91052
+postcode: "91052"
 city: Erlangen
 street: "Nürnberger Straße"
 housenumber: 57

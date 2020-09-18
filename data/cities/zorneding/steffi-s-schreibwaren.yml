@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 48.0876309
 longitude: 11.830601300000001
-postcode: 85604
+postcode: "85604"
 city: Zorneding
 street: "Obere Bahnhofstraße"
 housenumber: 13

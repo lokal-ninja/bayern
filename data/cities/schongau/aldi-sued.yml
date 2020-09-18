@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.8071551
 longitude: 10.8721951
-postcode: 86956
+postcode: "86956"
 city: Schongau
 street: "Am Lerchenfeld"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.778977600000005
 longitude: 11.3229202
-postcode: 85049
+postcode: "85049"
 city: Ingolstadt
 street: "Bergfeldweg"
 housenumber: 4

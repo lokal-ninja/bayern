@@ -3,7 +3,7 @@ type: way
 shop: Beschriftungen
 latitude: 50.3272173
 longitude: 10.2241555
-postcode: 97616
+postcode: "97616"
 city: Bad Neustadt an der Saale
 street: "Siemensstraße"
 housenumber: 10 1/4

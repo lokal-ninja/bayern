@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 47.8050086
 longitude: 10.213587200000001
-postcode: 87452
+postcode: "87452"
 city: Altusried
 street: ""
 housenumber: 

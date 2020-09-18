@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.9785884
 longitude: 12.066963600000001
-postcode: 93080
+postcode: "93080"
 city: Pentling
 street: "Hohengebrachinger Straße"
 housenumber: 18

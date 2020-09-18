@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.0596686
 longitude: 12.1715861
-postcode: 83533
+postcode: "83533"
 city: Edling
 street: "Staudhamer Straße"
 housenumber: 29d

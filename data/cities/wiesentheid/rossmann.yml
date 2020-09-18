@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.7852541
 longitude: 10.341341
-postcode: 97353
+postcode: "97353"
 city: Wiesentheid
 street: "Korbacher Straße"
 housenumber: 5a

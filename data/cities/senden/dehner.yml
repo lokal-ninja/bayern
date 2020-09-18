@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 48.328784500000005
 longitude: 10.040835900000001
-postcode: 89250
+postcode: "89250"
 city: Senden
 street: "Berliner Straße"
 housenumber: 3

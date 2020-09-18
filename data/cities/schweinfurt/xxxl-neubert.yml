@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 50.021019700000004
 longitude: 10.2238732
-postcode: 97424
+postcode: "97424"
 city: Schweinfurt
 street: "Amsterdamstraße"
 housenumber: 7

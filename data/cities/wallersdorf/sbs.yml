@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.740285300000004
 longitude: 12.7469116
-postcode: 94522
+postcode: "94522"
 city: Wallersdorf
 street: "Deggendorfer Straße"
 housenumber: 8

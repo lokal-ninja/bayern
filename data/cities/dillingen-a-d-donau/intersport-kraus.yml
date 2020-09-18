@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 48.581107200000005
 longitude: 10.4929193
-postcode: 89407
+postcode: "89407"
 city: Dillingen a.d.Donau
 street: "Große Allee"
 housenumber: 39

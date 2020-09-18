@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 48.1748855
 longitude: 11.2343679
-postcode: 82256
+postcode: "82256"
 city: Fürstenfeldbruck
 street: "Siedlerplatz"
 housenumber: 26

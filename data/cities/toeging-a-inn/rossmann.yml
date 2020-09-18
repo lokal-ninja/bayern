@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.2624287
 longitude: 12.579848
-postcode: 84513
+postcode: "84513"
 city: Töging a. Inn
 street: "Harter Weg"
 housenumber: 11

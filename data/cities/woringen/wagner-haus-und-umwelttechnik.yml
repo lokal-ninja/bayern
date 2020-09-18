@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 47.9235969
 longitude: 10.208743700000001
-postcode: 87789
+postcode: "87789"
 city: Woringen
 street: "Bahnhofstraße"
 housenumber: 12

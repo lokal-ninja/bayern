@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 49.7972059
 longitude: 9.933936600000001
-postcode: 97070
+postcode: "97070"
 city: Würzburg
 street: "Theaterstraße"
 housenumber: 1-3

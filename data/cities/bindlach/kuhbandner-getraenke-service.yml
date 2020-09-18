@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 49.981631900000004
 longitude: 11.612097200000001
-postcode: 95463
+postcode: "95463"
 city: Bindlach
 street: "Am Rathaus"
 housenumber: 6

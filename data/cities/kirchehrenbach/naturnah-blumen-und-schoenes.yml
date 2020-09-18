@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.734408
 longitude: 11.146548600000001
-postcode: 91356
+postcode: "91356"
 city: Kirchehrenbach
 street: "Hauptstraße"
 housenumber: 41

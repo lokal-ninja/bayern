@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.035453100000005
 longitude: 10.2387648
-postcode: 97424
+postcode: "97424"
 city: Schweinfurt
 street: "Carl-Benz-Straße"
 housenumber: 7

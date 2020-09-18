@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 50.248958800000004
 longitude: 12.035469500000001
-postcode: 95111
+postcode: "95111"
 city: Rehau
 street: "Bahnhofstraße"
 housenumber: 4

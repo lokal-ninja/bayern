@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.521787100000005
 longitude: 10.857850000000001
-postcode: 86405
+postcode: "86405"
 city: Meitingen
 street: "Ulrichstraße"
 housenumber: 24

@@ -3,7 +3,7 @@ type: way
 shop: Bestattungen
 latitude: 50.331691000000006
 longitude: 11.701366
-postcode: 95119
+postcode: "95119"
 city: Naila
 street: "Albin-Klöber-Straße"
 housenumber: 17

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.162584300000006
 longitude: 11.5642385
-postcode: 80797
+postcode: "80797"
 city: München
 street: "Schleißheimer Straße"
 housenumber: 158

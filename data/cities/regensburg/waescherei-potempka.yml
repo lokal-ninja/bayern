@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 49.0345828
 longitude: 12.1160054
-postcode: 93057
+postcode: "93057"
 city: Regensburg
 street: "Sudetendeutsche Straße"
 housenumber: 1c

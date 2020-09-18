@@ -3,7 +3,7 @@ type: way
 shop: Wäscherei
 latitude: 48.538212300000005
 longitude: 12.1539742
-postcode: 84028
+postcode: "84028"
 city: Landshut
 street: "Herrngasse"
 housenumber: 379

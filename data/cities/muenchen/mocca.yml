@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.118987700000005
 longitude: 11.5481186
-postcode: 81371
+postcode: "81371"
 city: München
 street: "Implerstraße"
 housenumber: 40

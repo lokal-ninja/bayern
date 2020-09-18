@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.307698300000006
 longitude: 10.908687200000001
-postcode: 86179
+postcode: "86179"
 city: Augsburg
 street: "Tattenbachstraße"
 housenumber: 6

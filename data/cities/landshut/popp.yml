@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 48.5612561
 longitude: 12.127107700000002
-postcode: 84032
+postcode: "84032"
 city: Landshut
 street: "Am Hascherkeller"
 housenumber: 25

@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 49.4652338
 longitude: 11.069653800000001
-postcode: 90419
+postcode: "90419"
 city: Nürnberg
 street: "Bucher Straße"
 housenumber: 93

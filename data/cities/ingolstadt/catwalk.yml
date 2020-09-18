@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.726767200000005
 longitude: 11.4423882
-postcode: 85051
+postcode: "85051"
 city: Ingolstadt
 street: "Münchener Straße"
 housenumber: 247

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.0492068
 longitude: 12.220793700000002
-postcode: 83512
+postcode: "83512"
 city: Wasserburg am Inn
 street: "Molkerei-Bauer-Straße"
 housenumber: 14

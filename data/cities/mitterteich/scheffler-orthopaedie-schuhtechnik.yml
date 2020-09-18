@@ -3,7 +3,7 @@ type: way
 shop: Sanitätshaus
 latitude: 49.94897580000001
 longitude: 12.2415301
-postcode: 95666
+postcode: "95666"
 city: Mitterteich
 street: "Martin-Zehendner-Straße"
 housenumber: 5

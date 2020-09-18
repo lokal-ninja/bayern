@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.3549857
 longitude: 10.9117721
-postcode: 86161
+postcode: "86161"
 city: Augsburg
 street: "Hofrat-Röhrer-Straße"
 housenumber: 11

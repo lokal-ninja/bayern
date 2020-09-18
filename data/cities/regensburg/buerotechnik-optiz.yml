@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 49.006831000000005
 longitude: 12.091032700000001
-postcode: 93051
+postcode: "93051"
 city: Regensburg
 street: "Bischof-Konrad-Straße"
 housenumber: 16

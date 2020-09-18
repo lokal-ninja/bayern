@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 49.619937400000005
 longitude: 11.233889000000001
-postcode: 91338
+postcode: "91338"
 city: Igensdorf
 street: "Forchheimer Straße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.2403412
 longitude: 12.526530000000001
-postcode: 84453
+postcode: "84453"
 city: Mühldorf a. Inn
 street: "Stadtplatz"
 housenumber: 79

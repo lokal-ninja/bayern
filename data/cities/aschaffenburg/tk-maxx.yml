@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.9762981
 longitude: 9.1478293
-postcode: 63739
+postcode: "63739"
 city: Aschaffenburg
 street: "Herstallstraße"
 housenumber: 38

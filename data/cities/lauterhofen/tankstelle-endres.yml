@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.4131876
 longitude: 11.478621100000002
-postcode: 92283
+postcode: "92283"
 city: Lauterhofen
 street: "Hersbrucker Straße"
 housenumber: 1

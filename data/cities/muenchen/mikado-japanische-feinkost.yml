@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 48.132691300000005
 longitude: 11.580505700000002
-postcode: 80469
+postcode: "80469"
 city: München
 street: "Baaderstraße"
 housenumber: 12

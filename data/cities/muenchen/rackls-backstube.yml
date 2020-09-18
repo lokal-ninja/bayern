@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.126013500000006
 longitude: 11.5406318
-postcode: 81373
+postcode: "81373"
 city: München
 street: "Pfeuferstraße"
 housenumber: 9

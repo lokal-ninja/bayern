@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.0190579
 longitude: 11.5882435
-postcode: 82041
+postcode: "82041"
 city: Oberhaching
 street: "Bahnhofstraße"
 housenumber: 20

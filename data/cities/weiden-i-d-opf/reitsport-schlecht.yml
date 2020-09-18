@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 49.6611442
 longitude: 12.158689200000001
-postcode: 92637
+postcode: "92637"
 city: Weiden i.d.OPf.
 street: "Reiterweg"
 housenumber: 16

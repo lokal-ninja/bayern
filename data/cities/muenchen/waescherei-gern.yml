@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 48.1547824
 longitude: 11.506376600000001
-postcode: 80639
+postcode: "80639"
 city: München
 street: "Hirschgartenallee"
 housenumber: 48

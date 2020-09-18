@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.135290000000005
 longitude: 12.010483500000001
-postcode: 95168
+postcode: "95168"
 city: Marktleuthen
 street: "Siemensstraße"
 housenumber: 7

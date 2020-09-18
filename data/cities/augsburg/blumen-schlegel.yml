@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.389308400000004
 longitude: 10.873726300000001
-postcode: 86154
+postcode: "86154"
 city: Augsburg
 street: "Talweg"
 housenumber: 7

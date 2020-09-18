@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.2650481
 longitude: 10.9854743
-postcode: 86415
+postcode: "86415"
 city: Mering
 street: "Münchener Straße"
 housenumber: 38

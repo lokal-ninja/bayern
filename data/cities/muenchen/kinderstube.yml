@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.1364747
 longitude: 11.5750975
-postcode: 80331
+postcode: "80331"
 city: München
 street: "Rindermarkt"
 housenumber: 16

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.3853926
 longitude: 11.3536766
-postcode: 90518
+postcode: "90518"
 city: Altdorf bei Nürnberg
 street: "Wehrmauer"
 housenumber: 1

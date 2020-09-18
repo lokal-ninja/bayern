@@ -3,7 +3,7 @@ type: node
 shop: Tiersalon
 latitude: 48.1011576
 longitude: 11.5803148
-postcode: 81547
+postcode: "81547"
 city: München
 street: "Resedenweg"
 housenumber: 6

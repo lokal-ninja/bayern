@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 49.575793000000004
 longitude: 10.9859972
-postcode: 91058
+postcode: "91058"
 city: Erlangen
 street: "Fürther Straße"
 housenumber: 3

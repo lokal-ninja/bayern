@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.07193
 longitude: 11.888739900000001
-postcode: 85614
+postcode: "85614"
 city: Kirchseeon
 street: "Kirchenweg"
 housenumber: 2

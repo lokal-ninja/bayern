@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.875210900000006
 longitude: 12.569030600000001
-postcode: 94315
+postcode: "94315"
 city: Straubing
 street: "Dr.-Otto-Höchtl-Straße"
 housenumber: 28

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.71998910000001
 longitude: 11.0562278
-postcode: 91301
+postcode: "91301"
 city: Forchheim
 street: "Sattlertorstraße"
 housenumber: 19

@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 50.0332037
 longitude: 12.004573800000001
-postcode: 95632
+postcode: "95632"
 city: Wunsiedel
 street: "Marktredwitzer Straße"
 housenumber: 40

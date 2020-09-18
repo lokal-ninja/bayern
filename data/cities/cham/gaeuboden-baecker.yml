@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.208718600000005
 longitude: 12.6668786
-postcode: 93413
+postcode: "93413"
 city: Cham
 street: "Hans-Eder-Straße"
 housenumber: 30

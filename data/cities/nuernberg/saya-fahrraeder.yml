@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.4428081
 longitude: 11.078362
-postcode: 90459
+postcode: "90459"
 city: Nürnberg
 street: "Bogenstraße"
 housenumber: 27

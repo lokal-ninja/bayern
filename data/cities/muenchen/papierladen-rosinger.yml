@@ -3,7 +3,7 @@ type: node
 shop: Basteln
 latitude: 48.1316598
 longitude: 11.6006385
-postcode: 81667
+postcode: "81667"
 city: München
 street: "Metzstraße"
 housenumber: 33

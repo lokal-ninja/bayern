@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.1165509
 longitude: 11.5258076
-postcode: 81373
+postcode: "81373"
 city: München
 street: "Partnachplatz"
 housenumber: 1

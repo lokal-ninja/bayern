@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 50.0002019
 longitude: 12.0854706
-postcode: 95615
+postcode: "95615"
 city: Marktredwitz
 street: "Ottostraße"
 housenumber: 10

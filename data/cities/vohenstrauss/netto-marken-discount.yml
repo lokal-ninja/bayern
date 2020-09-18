@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.6278675
 longitude: 12.33662
-postcode: 92648
+postcode: "92648"
 city: Vohenstrauß
 street: "Lagerhausstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Wäscherei
 latitude: 47.836738200000006
 longitude: 11.1433567
-postcode: 82362
+postcode: "82362"
 city: Weilheim in Oberbayern
 street: "Alpenstraße"
 housenumber: 10

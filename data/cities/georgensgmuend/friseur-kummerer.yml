@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 49.187352600000004
 longitude: 11.016277500000001
-postcode: 91166
+postcode: "91166"
 city: Georgensgmünd
 street: "Am Bruckespan"
 housenumber: 1

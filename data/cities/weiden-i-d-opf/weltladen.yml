@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.676352
 longitude: 12.163033400000002
-postcode: 92637
+postcode: "92637"
 city: Weiden i.d.OPf.
 street: "Türlgasse"
 housenumber: 16

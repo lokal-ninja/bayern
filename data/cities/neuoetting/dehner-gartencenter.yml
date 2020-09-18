@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 48.243900000000004
 longitude: 12.707282000000001
-postcode: 84524
+postcode: "84524"
 city: Neuötting
 street: "Zunftstraße"
 housenumber: 3

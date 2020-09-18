@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.7205225
 longitude: 11.060402700000001
-postcode: 91301
+postcode: "91301"
 city: Forchheim
 street: "Wiesentstraße"
 housenumber: 17

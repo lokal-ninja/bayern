@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.85815040000001
 longitude: 9.0792886
-postcode: 63853
+postcode: "63853"
 city: Mömlingen
 street: "Eugen-Ostheimer-Straße"
 housenumber: 3

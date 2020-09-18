@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 49.373156
 longitude: 10.1902187
-postcode: 91541
+postcode: "91541"
 city: Rothenburg ob der Tauber
 street: "Widmannstraße"
 housenumber: 5-7

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.0628534
 longitude: 11.6784932
-postcode: 85521
+postcode: "85521"
 city: Ottobrunn
 street: "Ottostraße"
 housenumber: 69a

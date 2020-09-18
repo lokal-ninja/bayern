@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.7997298
 longitude: 12.1691474
-postcode: 92670
+postcode: "92670"
 city: Windischeschenbach
 street: "Birkenweg"
 housenumber: 6

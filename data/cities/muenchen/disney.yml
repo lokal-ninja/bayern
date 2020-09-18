@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 48.138582
 longitude: 11.567845100000001
-postcode: 
+postcode: ""
 city: München
 street: "Neuhauser Straße"
 housenumber: 39

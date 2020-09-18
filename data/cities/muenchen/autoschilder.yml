@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.1323572
 longitude: 11.5195991
-postcode: 80686
+postcode: "80686"
 city: München
 street: "Westendstraße"
 housenumber: 216

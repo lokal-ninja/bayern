@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 49.9989901
 longitude: 9.189695500000001
-postcode: 63773
+postcode: "63773"
 city: Goldbach
 street: "Aschaffenburger Straße"
 housenumber: 138a

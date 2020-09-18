@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 50.322601500000005
 longitude: 10.2160393
-postcode: 97616
+postcode: "97616"
 city: Bad Neustadt an der Saale
 street: "Marktplatz"
 housenumber: 19

@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 49.9448718
 longitude: 11.5717897
-postcode: 95444
+postcode: "95444"
 city: Bayreuth
 street: "Maximilianstraße"
 housenumber: 66

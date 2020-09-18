@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 50.2580631
 longitude: 10.9666931
-postcode: 96450
+postcode: "96450"
 city: Coburg
 street: "Rückertstraße"
 housenumber: 3

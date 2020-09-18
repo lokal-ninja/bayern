@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 48.3458344
 longitude: 10.9074933
-postcode: 86161
+postcode: "86161"
 city: Augsburg
 street: "Stauffenbergstraße"
 housenumber: 5-7

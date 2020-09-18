@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 49.3293533
 longitude: 11.019560700000001
-postcode: 91126
+postcode: "91126"
 city: Schwabach
 street: "Königstraße"
 housenumber: 6

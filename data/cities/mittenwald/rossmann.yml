@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.441930000000006
 longitude: 11.2612533
-postcode: 82481
+postcode: "82481"
 city: Mittenwald
 street: "Hochstraße"
 housenumber: 15

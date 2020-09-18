@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.4482835
 longitude: 11.123121000000001
-postcode: 90480
+postcode: "90480"
 city: Nürnberg
 street: "Fallrohrstraße"
 housenumber: 63

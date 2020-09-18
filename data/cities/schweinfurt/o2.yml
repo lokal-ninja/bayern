@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 50.0445598
 longitude: 10.2325174
-postcode: 97421
+postcode: "97421"
 city: Schweinfurt
 street: "Lange Zehntstraße"
 housenumber: 11

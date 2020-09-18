@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 49.996408800000005
 longitude: 10.3605329
-postcode: 97508
+postcode: "97508"
 city: Obereuerheim
 street: "Dürrfelder Straße"
 housenumber: 28

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.767600900000005
 longitude: 11.1605278
-postcode: 82386
+postcode: "82386"
 city: Huglfing
 street: "St.-Johann-Straße"
 housenumber: 18

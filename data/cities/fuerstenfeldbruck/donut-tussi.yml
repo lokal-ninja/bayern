@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 48.17892620000001
 longitude: 11.252114
-postcode: 82256
+postcode: "82256"
 city: Fürstenfeldbruck
 street: "Pucher Straße"
 housenumber: 24

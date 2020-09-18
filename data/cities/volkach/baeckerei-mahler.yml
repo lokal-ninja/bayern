@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.8700161
 longitude: 10.223985200000001
-postcode: 97332
+postcode: "97332"
 city: Volkach
 street: "In der Röthe"
 housenumber: 9

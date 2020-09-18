@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 48.9400575
 longitude: 12.201822400000001
-postcode: 93096
+postcode: "93096"
 city: Köfering
 street: "Scheuerer Straße"
 housenumber: 1a

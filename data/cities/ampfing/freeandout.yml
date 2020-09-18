@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 48.247734300000005
 longitude: 12.410876700000001
-postcode: 84539
+postcode: "84539"
 city: Ampfing
 street: "Industriestraße"
 housenumber: 

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.155539000000005
 longitude: 11.5318605
-postcode: 80639
+postcode: "80639"
 city: München
 street: "Aldringenstraße"
 housenumber: 1

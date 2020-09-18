@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.378950700000004
 longitude: 10.9148969
-postcode: 86167
+postcode: "86167"
 city: Augsburg
 street: "Neuburger Straße"
 housenumber: 18

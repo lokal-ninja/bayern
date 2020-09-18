@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 48.122517200000004
 longitude: 11.6686454
-postcode: 81825
+postcode: "81825"
 city: München
 street: "Truderinger Straße"
 housenumber: 298

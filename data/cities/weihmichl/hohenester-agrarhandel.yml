@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.6052216
 longitude: 12.0424482
-postcode: 84107
+postcode: "84107"
 city: Weihmichl
 street: "Hauptstraße"
 housenumber: 29

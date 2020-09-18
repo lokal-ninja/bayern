@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.15625360000001
 longitude: 11.571828700000001
-postcode: 
+postcode: ""
 city: München
 street: "Georgenstraße"
 housenumber: 78

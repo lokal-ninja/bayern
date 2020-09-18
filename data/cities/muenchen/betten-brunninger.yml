@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 48.1363065
 longitude: 11.6083639
-postcode: 81675
+postcode: "81675"
 city: München
 street: "Einsteinstraße"
 housenumber: 125

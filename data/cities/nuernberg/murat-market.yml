@@ -3,10 +3,10 @@ type: node
 shop: Gemüse & Obst
 latitude: 49.452062100000006
 longitude: 11.0467486
-postcode: 90429
+postcode: "90429"
 city: Nürnberg
 street: "Adam-Klein-Straße"
 housenumber: 63
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 07:00-20:00"
 website: ""

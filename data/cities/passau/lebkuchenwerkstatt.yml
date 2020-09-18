@@ -3,7 +3,7 @@ type: node
 shop: Konditorei
 latitude: 48.5748698
 longitude: 13.465665600000001
-postcode: 94032
+postcode: "94032"
 city: Passau
 street: "Steinweg"
 housenumber: 2

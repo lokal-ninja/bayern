@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.0615851
 longitude: 12.1332521
-postcode: 93057
+postcode: "93057"
 city: Regensburg
 street: "Weidener Straße"
 housenumber: 1

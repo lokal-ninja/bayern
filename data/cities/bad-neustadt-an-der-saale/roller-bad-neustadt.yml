@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 50.305630300000004
 longitude: 10.1974744
-postcode: 97616
+postcode: "97616"
 city: Bad Neustadt an der Saale
 street: "Talstraße"
 housenumber: 4

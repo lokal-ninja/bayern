@@ -3,7 +3,7 @@ type: node
 shop: Glaserei
 latitude: 49.606570500000004
 longitude: 11.0088364
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Essenbacher Straße"
 housenumber: 21b

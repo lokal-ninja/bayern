@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.2813141
 longitude: 10.886144700000001
-postcode: 86343
+postcode: "86343"
 city: Königsbrunn
 street: "Augsburger Straße"
 housenumber: 27

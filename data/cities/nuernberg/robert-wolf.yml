@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 49.4627532
 longitude: 11.1412939
-postcode: 90482
+postcode: "90482"
 city: Nürnberg
 street: "Laufamholzstraße"
 housenumber: 78

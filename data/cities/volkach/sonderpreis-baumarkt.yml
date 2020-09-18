@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.8589579
 longitude: 10.228403100000001
-postcode: 97332
+postcode: "97332"
 city: Volkach
 street: "Industriestraße"
 housenumber: 2a

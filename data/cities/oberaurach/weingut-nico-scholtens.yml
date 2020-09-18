@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 49.9207036
 longitude: 10.5994135
-postcode: 97514
+postcode: "97514"
 city: Oberaurach
 street: "Rieneckstraße"
 housenumber: 6

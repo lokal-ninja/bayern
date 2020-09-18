@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.948821200000005
 longitude: 11.103141800000001
-postcode: 86911
+postcode: "86911"
 city: Dießen am Ammersee
 street: "Prinz-Ludwig-Straße"
 housenumber: 8

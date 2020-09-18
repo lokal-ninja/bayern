@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.0371207
 longitude: 11.904576800000001
-postcode: 93180
+postcode: "93180"
 city: Deuerling
 street: "Regensburger Straße"
 housenumber: 35

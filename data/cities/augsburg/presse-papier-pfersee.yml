@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 48.362830200000005
 longitude: 10.867566700000001
-postcode: 86157
+postcode: "86157"
 city: Augsburg
 street: "Spicherer Straße"
 housenumber: 1

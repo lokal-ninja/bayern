@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 47.768219300000005
 longitude: 11.7249621
-postcode: 83703
+postcode: "83703"
 city: Gmund
 street: "Münchner Straße"
 housenumber: 192-202

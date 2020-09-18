@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.4480556
 longitude: 10.0993785
-postcode: 89275
+postcode: "89275"
 city: Elchingen
 street: "Nersinger Straße"
 housenumber: 28

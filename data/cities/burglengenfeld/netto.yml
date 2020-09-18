@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.202929000000005
 longitude: 12.047182300000001
-postcode: 93133
+postcode: "93133"
 city: Burglengenfeld
 street: "Regensburger Straße"
 housenumber: 42

@@ -3,10 +3,10 @@ type: way
 shop: Möbel
 latitude: 48.490517600000004
 longitude: 12.0227611
-postcode: 84174
+postcode: "84174"
 city: Eching
-street: "Mühlenstraße"
-housenumber: 18
+street: "Am Moos"
+housenumber: 17
 phone: "+49 8709 929-0"
-opening_hours: ""
+opening_hours: "Mo-Fr 10:00-19:00; Sa 09:30-19:00"
 website: "http://www.biller.de"

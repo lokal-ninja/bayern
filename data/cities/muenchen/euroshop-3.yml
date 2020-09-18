@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 48.1482758
 longitude: 11.461277200000001
-postcode: 81241
+postcode: "81241"
 city: München
 street: "Bäckerstraße"
 housenumber: 2

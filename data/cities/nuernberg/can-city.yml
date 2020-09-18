@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.4421076
 longitude: 11.0895405
-postcode: 90461
+postcode: "90461"
 city: Nürnberg
 street: "Allersberger Straße"
 housenumber: 57

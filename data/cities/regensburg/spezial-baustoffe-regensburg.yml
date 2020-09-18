@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.0193481
 longitude: 12.1408635
-postcode: 93055
+postcode: "93055"
 city: Regensburg
 street: "Auweg"
 housenumber: 25

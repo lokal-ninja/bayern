@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 48.148509000000004
 longitude: 11.577090700000001
-postcode: 80799
+postcode: "80799"
 city: München
 street: "Amalienstraße"
 housenumber: 37

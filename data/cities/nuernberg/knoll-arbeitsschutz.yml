@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.4331442
 longitude: 11.0351038
-postcode: 90431
+postcode: "90431"
 city: Nürnberg
 street: "Tillystraße"
 housenumber: 37

@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 49.6256002
 longitude: 10.7070328
-postcode: 91466
+postcode: "91466"
 city: Gerhardshofen
 street: "Am Steinbruch"
 housenumber: 1

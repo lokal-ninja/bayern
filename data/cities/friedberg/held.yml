@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 48.3416152
 longitude: 10.996568700000001
-postcode: 86316
+postcode: "86316"
 city: Friedberg
 street: "Steinerner Säulweg"
 housenumber: 2

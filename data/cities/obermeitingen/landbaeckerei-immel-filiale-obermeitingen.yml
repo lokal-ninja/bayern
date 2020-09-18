@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.146870400000005
 longitude: 10.807949800000001
-postcode: 86836
+postcode: "86836"
 city: Obermeitingen
 street: "Lechfelder Straße"
 housenumber: 6

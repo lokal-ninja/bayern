@@ -3,7 +3,7 @@ type: way
 shop: Basteln
 latitude: 48.119558000000005
 longitude: 10.468498
-postcode: 87775
+postcode: "87775"
 city: Salgen
 street: "Gewerbepark"
 housenumber: 9

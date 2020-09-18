@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 48.2640607
 longitude: 11.479046700000001
-postcode: 85221
+postcode: "85221"
 city: Dachau
 street: "Am Hörhammermoos"
 housenumber: 12

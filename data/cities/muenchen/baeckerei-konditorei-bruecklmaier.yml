@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.113046000000004
 longitude: 11.6509643
-postcode: 81825
+postcode: "81825"
 city: München
 street: "Zehntfeldstraße"
 housenumber: 137

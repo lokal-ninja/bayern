@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.6006499
 longitude: 11.0027307
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Hauptstraße"
 housenumber: 77

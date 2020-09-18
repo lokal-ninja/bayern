@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.740609000000006
 longitude: 11.448472500000001
-postcode: 85053
+postcode: "85053"
 city: Ingolstadt
 street: "Lenbachstraße"
 housenumber: 23

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.474269
 longitude: 12.25698
-postcode: 84144
+postcode: "84144"
 city: Geisenhausen
 street: "Hauptstraße"
 housenumber: 8

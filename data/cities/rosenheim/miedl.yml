@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.8598914
 longitude: 12.126839100000002
-postcode: 83022
+postcode: "83022"
 city: Rosenheim
 street: "Loretowiese"
 housenumber: 

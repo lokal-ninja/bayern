@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.596552100000004
 longitude: 11.0035235
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Richard-Wagner-Straße"
 housenumber: 2

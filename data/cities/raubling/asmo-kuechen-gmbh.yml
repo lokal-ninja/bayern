@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 47.809870200000006
 longitude: 12.1196335
-postcode: 83064
+postcode: "83064"
 city: Raubling
 street: "Rosenheimer Straße"
 housenumber: 105

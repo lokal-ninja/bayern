@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 48.979559800000004
 longitude: 12.191437700000002
-postcode: 93073
+postcode: "93073"
 city: Neutraubling
 street: "Stettiner Straße"
 housenumber: 8

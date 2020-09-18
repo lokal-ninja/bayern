@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.0199931
 longitude: 12.0884956
-postcode: 93047
+postcode: "93047"
 city: Regensburg
 street: "Arnulfsplatz"
 housenumber: 4 a

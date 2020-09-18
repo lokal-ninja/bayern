@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.9505509
 longitude: 11.1031831
-postcode: 86911
+postcode: "86911"
 city: Dießen am Ammersee
 street: "Lachener Straße"
 housenumber: 2

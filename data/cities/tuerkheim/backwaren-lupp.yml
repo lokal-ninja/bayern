@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.061892
 longitude: 10.6379964
-postcode: 86842
+postcode: "86842"
 city: Türkheim
 street: "Bahnhofstraße"
 housenumber: 

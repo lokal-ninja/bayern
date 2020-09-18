@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.705875500000005
 longitude: 9.2811567
-postcode: 63927
+postcode: "63927"
 city: Bürgstadt
 street: "Erfstraße"
 housenumber: 51

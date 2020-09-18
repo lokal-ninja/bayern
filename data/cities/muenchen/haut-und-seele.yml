@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.090394700000004
 longitude: 11.5642014
-postcode: 
+postcode: ""
 city: München
 street: "Seybothstraße"
 housenumber: 17

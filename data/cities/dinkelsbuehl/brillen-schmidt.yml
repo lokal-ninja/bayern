@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.067871600000004
 longitude: 10.3220291
-postcode: 91550
+postcode: "91550"
 city: Dinkelsbühl
 street: "Nördlinger Straße"
 housenumber: 21

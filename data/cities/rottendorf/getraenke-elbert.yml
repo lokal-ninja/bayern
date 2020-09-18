@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 49.7937905
 longitude: 10.023041500000001
-postcode: 97228
+postcode: "97228"
 city: Rottendorf
 street: "Untertorstraße"
 housenumber: 2

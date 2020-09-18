@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 47.869467400000005
 longitude: 12.6389434
-postcode: 83278
+postcode: "83278"
 city: Traunstein
 street: "Bahnhofplatz"
 housenumber: 6

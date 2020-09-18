@@ -3,7 +3,7 @@ type: node
 shop: Energie
 latitude: 49.9140548
 longitude: 10.902819200000001
-postcode: 96052
+postcode: "96052"
 city: Bamberg
 street: "Kirschäckerstraße"
 housenumber: 35

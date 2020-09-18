@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.1506599
 longitude: 11.2592663
-postcode: 82239
+postcode: "82239"
 city: Alling
 street: "Angerstraße"
 housenumber: 13

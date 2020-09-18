@@ -3,7 +3,7 @@ type: node
 shop: Zeitungen
 latitude: 48.097182000000004
 longitude: 11.5788398
-postcode: 81547
+postcode: "81547"
 city: München
 street: "Naupliastraße"
 housenumber: 20

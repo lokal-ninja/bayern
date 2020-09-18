@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.8644108
 longitude: 12.0088749
-postcode: 83043
+postcode: "83043"
 city: Bad Aibling
 street: "Schmiedgasse"
 housenumber: 1

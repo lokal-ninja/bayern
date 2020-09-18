@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.141037700000005
 longitude: 11.300141
-postcode: 82239
+postcode: "82239"
 city: Alling
 street: "Griesstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Warenhaus
 latitude: 47.727681000000004
 longitude: 10.314438500000001
-postcode: 87435
+postcode: "87435"
 city: Kempten (Allgäu)
 street: "Residenzplatz"
 housenumber: 2

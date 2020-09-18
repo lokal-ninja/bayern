@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.1289062
 longitude: 11.5013626
-postcode: 80689
+postcode: "80689"
 city: München
 street: "Inderstorferstraße"
 housenumber: 5

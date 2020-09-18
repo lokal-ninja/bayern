@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.8525093
 longitude: 11.9964925
-postcode: 83043
+postcode: "83043"
 city: Bad Aibling
 street: "Pullacher Straße"
 housenumber: 35

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.0723956
 longitude: 10.9241486
-postcode: 86929
+postcode: "86929"
 city: Penzing
 street: "Landsberger Straße"
 housenumber: 18

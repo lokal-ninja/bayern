@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.7798767
 longitude: 11.437090900000001
-postcode: 85055
+postcode: "85055"
 city: Ingolstadt
 street: "Lena-Christ-Straße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 49.329449100000005
 longitude: 12.1063086
-postcode: 92421
+postcode: "92421"
 city: Schwandorf
 street: "Marktplatz"
 housenumber: 29

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.8729646
 longitude: 9.1493435
-postcode: 63868
+postcode: "63868"
 city: Großwallstadt
 street: "Grundtalring"
 housenumber: 24

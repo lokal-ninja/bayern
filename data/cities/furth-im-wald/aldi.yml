@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.3057931
 longitude: 12.8248496
-postcode: 93437
+postcode: "93437"
 city: Furth im Wald
 street: "Nordgaustraße"
 housenumber: 24

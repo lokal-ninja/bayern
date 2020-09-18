@@ -1,12 +1,12 @@
-id: 1011371853
+id: 944538125
 type: node
 shop: Supermarkt
-latitude: 48.10105
-longitude: 11.5591989
-postcode: 81543
+latitude: 48.118914600000004
+longitude: 11.490909400000001
+postcode: "81375"
 city: München
-street: "Schönstraße"
-housenumber: 126
+street: "Guardinistraße"
+housenumber: 92
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: ""
+opening_hours: "Mo-Fr 7:00-20:00"
+website: "www.penny.de"

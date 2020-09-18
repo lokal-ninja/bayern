@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.3014251
 longitude: 10.5728066
-postcode: 91522
+postcode: "91522"
 city: Ansbach
 street: "Neustadt"
 housenumber: 15

@@ -3,7 +3,7 @@ type: node
 shop: Radiotechnik
 latitude: 49.768061700000004
 longitude: 11.932032000000001
-postcode: 92690
+postcode: "92690"
 city: Pressath
 street: "Grafenwöhrer Straße"
 housenumber: 4

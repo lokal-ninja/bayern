@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 48.654694000000006
 longitude: 10.6418768
-postcode: 89443
+postcode: "89443"
 city: Schwenningen
 street: "Bundesstraße"
 housenumber: 7

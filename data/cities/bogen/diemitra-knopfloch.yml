@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 48.907235
 longitude: 12.6927328
-postcode: 94327
+postcode: "94327"
 city: Bogen
 street: "Stadtplatz"
 housenumber: 29

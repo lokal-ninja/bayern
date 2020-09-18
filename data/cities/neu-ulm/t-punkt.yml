@@ -3,10 +3,10 @@ type: way
 shop: Handy
 latitude: 48.3957751
 longitude: 10.014935900000001
-postcode: 89231
+postcode: "89231"
 city: Neu-Ulm
 street: "Im Starkfeld"
 housenumber: 11
-phone: "+49 731 / 97749480"
+phone: "+49 731 97749480"
 opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-16:00"
 website: "https://www.telekom.de/"

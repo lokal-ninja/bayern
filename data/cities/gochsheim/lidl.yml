@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.026091
 longitude: 10.267484600000001
-postcode: 97469
+postcode: "97469"
 city: Gochsheim
 street: "Industriestraße"
 housenumber: 20

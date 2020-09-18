@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.0954422
 longitude: 11.4966886
-postcode: 81476
+postcode: "81476"
 city: München
 street: "Winterthurer Straße"
 housenumber: 2

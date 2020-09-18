@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 49.4450615
 longitude: 11.8584425
-postcode: 92224
+postcode: "92224"
 city: Amberg
 street: "Marktplatz"
 housenumber: 1

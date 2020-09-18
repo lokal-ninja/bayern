@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.964601
 longitude: 12.600136200000001
-postcode: 83301
+postcode: "83301"
 city: Traunreut
 street: "Werner-von-Siemens-Straße"
 housenumber: 33

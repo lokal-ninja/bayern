@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.121656800000004
 longitude: 11.6627667
-postcode: 81825
+postcode: "81825"
 city: München
 street: "Kreillerstraße"
 housenumber: 216

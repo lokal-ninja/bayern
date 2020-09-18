@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.847686100000004
 longitude: 12.5427563
-postcode: 83355
+postcode: "83355"
 city: Grabenstätt
 street: "Chieminger Straße"
 housenumber: 22

@@ -3,7 +3,7 @@ type: way
 shop: Gebrauchtwaren
 latitude: 48.189821900000005
 longitude: 11.6447468
-postcode: 85774
+postcode: "85774"
 city: Unterföhring
 street: "Föhringer Allee"
 housenumber: 23

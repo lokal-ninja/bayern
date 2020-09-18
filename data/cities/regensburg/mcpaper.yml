@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 49.006971300000004
 longitude: 12.061751200000002
-postcode: 93051
+postcode: "93051"
 city: Regensburg
 street: "Doktor-Gessler-Straße"
 housenumber: 45

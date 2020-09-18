@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.1383598
 longitude: 11.5205778
-postcode: 80687
+postcode: "80687"
 city: München
 street: "Elsenheimerstraße"
 housenumber: 28

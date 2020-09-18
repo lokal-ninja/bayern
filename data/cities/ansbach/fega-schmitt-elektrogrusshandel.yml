@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 49.3135897
 longitude: 10.5706716
-postcode: 91522
+postcode: "91522"
 city: Ansbach
 street: "Rettistraße"
 housenumber: 5

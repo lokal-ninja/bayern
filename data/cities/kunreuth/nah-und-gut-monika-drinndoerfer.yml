@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.6824342
 longitude: 11.143314700000001
-postcode: 91358
+postcode: "91358"
 city: Kunreuth
 street: "Kirchberg"
 housenumber: 2

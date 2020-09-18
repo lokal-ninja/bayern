@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.7758345
 longitude: 12.875164900000001
-postcode: 94447
+postcode: "94447"
 city: Plattling
 street: "Ludwigplatz"
 housenumber: 11

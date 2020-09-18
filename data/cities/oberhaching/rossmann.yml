@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.0182852
 longitude: 11.5901636
-postcode: 82041
+postcode: "82041"
 city: Oberhaching
 street: "Bahnhofstraße"
 housenumber: 1

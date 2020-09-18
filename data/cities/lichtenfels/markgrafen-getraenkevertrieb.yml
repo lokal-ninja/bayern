@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.138508800000004
 longitude: 11.072309800000001
-postcode: 96215
+postcode: "96215"
 city: Lichtenfels
 street: "Robert-Koch-Straße"
 housenumber: 9

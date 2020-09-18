@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 49.594900700000004
 longitude: 10.950627
-postcode: 91056
+postcode: "91056"
 city: Erlangen
 street: "Mönaustraße"
 housenumber: 65

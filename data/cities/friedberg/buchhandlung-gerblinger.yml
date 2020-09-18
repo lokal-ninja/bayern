@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.3549196
 longitude: 10.9807652
-postcode: 86316
+postcode: "86316"
 city: Friedberg
 street: "Ludwigstraße"
 housenumber: 18

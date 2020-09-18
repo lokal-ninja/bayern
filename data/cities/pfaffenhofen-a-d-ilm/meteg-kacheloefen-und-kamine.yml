@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.5280738
 longitude: 11.504964800000002
-postcode: 85276
+postcode: "85276"
 city: Pfaffenhofen a.d. Ilm
 street: "Schulstraße"
 housenumber: 21

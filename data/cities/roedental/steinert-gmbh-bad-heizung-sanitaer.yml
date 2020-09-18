@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 50.300941300000005
 longitude: 11.0539698
-postcode: 96472
+postcode: "96472"
 city: Rödental
 street: "Mönchrödener Straße"
 housenumber: 44

@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 49.6105892
 longitude: 10.6397898
-postcode: 91468
+postcode: "91468"
 city: Gutenstetten
 street: "Andreas-Deininger-Straße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.5301668
 longitude: 12.330630500000002
-postcode: 84166
+postcode: "84166"
 city: Adlkofen
 street: ""
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.0620842
 longitude: 12.1334993
-postcode: 93057
+postcode: "93057"
 city: Regensburg
 street: "Weidener Straße"
 housenumber: 3

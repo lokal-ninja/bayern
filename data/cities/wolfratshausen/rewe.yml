@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 47.908318
 longitude: 11.4273287
-postcode: 82515
+postcode: "82515"
 city: Wolfratshausen
 street: "Hans-Urmiller-Ring"
-housenumber: 4
+housenumber: 4a
 phone: "+49 8171 216035‎"
 opening_hours: "Mo-Sa 07:00-20:00"
 website: ""

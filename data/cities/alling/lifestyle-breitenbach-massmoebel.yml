@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.1420389
 longitude: 11.3026911
-postcode: 82239
+postcode: "82239"
 city: Alling
 street: "Parsbergstraße"
 housenumber: 5a

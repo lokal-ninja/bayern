@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.385544700000004
 longitude: 12.2252527
-postcode: 84181
+postcode: "84181"
 city: Neufraunhofen
 street: "Kasthal"
 housenumber: 1

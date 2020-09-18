@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.268700900000006
 longitude: 10.8872753
-postcode: 86343
+postcode: "86343"
 city: Königsbrunn
 street: "Bürgermeister-Wohlfarth-Straße"
 housenumber: 70

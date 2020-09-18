@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.4604731
 longitude: 11.057643200000001
-postcode: 90419
+postcode: "90419"
 city: Nürnberg
 street: "Johannisstraße"
 housenumber: 90-94

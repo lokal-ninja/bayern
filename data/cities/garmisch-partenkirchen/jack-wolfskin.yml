@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 47.494251500000004
 longitude: 11.090778
-postcode: 82467
+postcode: "82467"
 city: Garmisch-Partenkirchen
 street: "Am Kurpark"
 housenumber: 6

@@ -3,7 +3,7 @@ type: way
 shop: Haushaltsartikel
 latitude: 49.3893891
 longitude: 12.1385818
-postcode: 92521
+postcode: "92521"
 city: Schwarzenfeld
 street: "Hauptstraße"
 housenumber: 16

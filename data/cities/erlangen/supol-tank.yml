@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 49.5866829
 longitude: 11.012967300000001
-postcode: 91052
+postcode: "91052"
 city: Erlangen
 street: "Schenkstraße"
 housenumber: 39

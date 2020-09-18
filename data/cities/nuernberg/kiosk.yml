@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.4386815
 longitude: 11.048807100000001
-postcode: 90439
+postcode: "90439"
 city: Nürnberg
 street: "Kreutzerstraße"
 housenumber: 43

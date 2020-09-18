@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.2252615
 longitude: 11.6714479
-postcode: 85737
+postcode: "85737"
 city: Ismaning
 street: "Schloßgartenweg"
 housenumber: 5

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.875458200000004
 longitude: 12.3413424
-postcode: 95643
+postcode: "95643"
 city: Tirschenreuth
 street: "Äußere Regensburger Straße"
 housenumber: 81

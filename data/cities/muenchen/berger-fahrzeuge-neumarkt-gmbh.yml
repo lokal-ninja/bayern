@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.1040222
 longitude: 11.603846
-postcode: 81549
+postcode: "81549"
 city: München
 street: "Ständlerstraße"
 housenumber: 38

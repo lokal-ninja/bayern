@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.5821869
 longitude: 10.7136872
-postcode: 86647
+postcode: "86647"
 city: Buttenwiesen
 street: "Mühlanger"
 housenumber: 3

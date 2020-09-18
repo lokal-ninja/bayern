@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.7183299
 longitude: 11.718480900000001
-postcode: 83707
+postcode: "83707"
 city: Bad Wiessee
 street: "Münchner Straße"
 housenumber: 47

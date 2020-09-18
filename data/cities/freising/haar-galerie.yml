@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.4082262
 longitude: 11.739893700000001
-postcode: 85354
+postcode: "85354"
 city: Freising
 street: "Düwellstraße"
 housenumber: 16

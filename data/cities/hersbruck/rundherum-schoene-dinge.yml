@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 49.5088172
 longitude: 11.4308726
-postcode: 91217
+postcode: "91217"
 city: Hersbruck
 street: "Prager Straße"
 housenumber: 18

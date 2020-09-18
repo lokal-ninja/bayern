@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 47.546466800000005
 longitude: 9.6885115
-postcode: 88131
+postcode: "88131"
 city: Lindau (Bodensee)
 street: "Fischergasse"
 housenumber: 13

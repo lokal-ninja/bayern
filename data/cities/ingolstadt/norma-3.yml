@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.7770778
 longitude: 11.4048698
-postcode: 85057
+postcode: "85057"
 city: Ingolstadt
 street: "Gaimersheimer Straße"
 housenumber: 57

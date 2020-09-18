@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 48.8178612
 longitude: 12.3906843
-postcode: 94333
+postcode: "94333"
 city: Geiselhöring
 street: "Fraunhoferstraße"
 housenumber: 2

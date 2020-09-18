@@ -3,10 +3,10 @@ type: way
 shop: Metzgerei
 latitude: 48.161649000000004
 longitude: 10.110327100000001
-postcode: 89281
+postcode: "89281"
 city: Altenstadt
 street: "Bahnhofstraße"
 housenumber: 6
 phone: "+49 8337 302"
-opening_hours: ""
+opening_hours: "Mo-Th 07:30-12:30,14:00-18:00; Fr 07:30-18:00; Sa 07:30-12:30"
 website: "https://www.metzgerei-schoellhorn.de/"

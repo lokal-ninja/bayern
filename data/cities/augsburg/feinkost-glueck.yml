@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 48.333662600000004
 longitude: 10.8996712
-postcode: 86159
+postcode: "86159"
 city: Augsburg
 street: "Salomon-Idler-Straße"
 housenumber: 22E

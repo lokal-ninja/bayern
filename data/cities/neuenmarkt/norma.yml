@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.0991652
 longitude: 11.591715800000001
-postcode: 95339
+postcode: "95339"
 city: Neuenmarkt
 street: "Auf der Höh"
 housenumber: 2

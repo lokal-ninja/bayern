@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 50.267711600000005
 longitude: 9.810387500000001
-postcode: 97789
+postcode: "97789"
 city: Oberleichtersbach
 street: "Kapellenstraße"
 housenumber: 20

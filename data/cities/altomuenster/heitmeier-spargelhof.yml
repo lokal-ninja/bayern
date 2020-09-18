@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 48.3606533
 longitude: 11.187141200000001
-postcode: 85250
+postcode: "85250"
 city: Altomünster
 street: ""
 housenumber: 2

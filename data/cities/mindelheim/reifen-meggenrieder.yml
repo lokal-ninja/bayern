@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 48.048484300000005
 longitude: 10.4866794
-postcode: 87719
+postcode: "87719"
 city: Mindelheim
 street: "Rechbergstraße"
 housenumber: 27

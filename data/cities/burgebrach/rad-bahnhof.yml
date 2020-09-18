@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 49.825666000000005
 longitude: 10.7408052
-postcode: 96138
+postcode: "96138"
 city: Burgebrach
 street: "Lagerhausstraße"
 housenumber: 10a

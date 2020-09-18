@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 49.5100393
 longitude: 11.431314500000001
-postcode: 91217
+postcode: "91217"
 city: Hersbruck
 street: "Grabenstraße"
 housenumber: 10

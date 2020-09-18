@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.0140966
 longitude: 12.1475503
-postcode: 93055
+postcode: "93055"
 city: Regensburg
 street: "Bukarester Straße"
 housenumber: 2

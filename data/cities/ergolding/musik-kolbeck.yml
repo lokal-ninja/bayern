@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 48.5599639
 longitude: 12.155132400000001
-postcode: 84030
+postcode: "84030"
 city: Ergolding
 street: "Meisenstraße"
 housenumber: 30

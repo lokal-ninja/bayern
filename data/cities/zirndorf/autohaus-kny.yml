@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.4330377
 longitude: 10.9499657
-postcode: 90513
+postcode: "90513"
 city: Zirndorf
 street: "Plauener Straße"
 housenumber: 38

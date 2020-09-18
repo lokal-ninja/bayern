@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 49.3268099
 longitude: 11.932199500000001
-postcode: 92286
+postcode: "92286"
 city: Rieden
 street: "Hirschwalder Straße"
 housenumber: 41

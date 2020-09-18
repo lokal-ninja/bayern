@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 48.5484329
 longitude: 11.1955796
-postcode: 86529
+postcode: "86529"
 city: Schrobenhausen
 street: "Bernbacher Straße"
 housenumber: 7

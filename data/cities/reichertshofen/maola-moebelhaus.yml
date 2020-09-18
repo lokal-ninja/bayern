@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.6603818
 longitude: 11.463673700000001
-postcode: 85084
+postcode: "85084"
 city: Reichertshofen
 street: "Ingolstädter Straße"
 housenumber: 23

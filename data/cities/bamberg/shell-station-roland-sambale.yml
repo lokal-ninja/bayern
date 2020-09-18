@@ -3,10 +3,10 @@ type: way
 shop: Kiosk
 latitude: 49.9065688
 longitude: 10.8920546
-postcode: 96052
+postcode: "96052"
 city: Bamberg
 street: "Coburger Straße"
 housenumber: 8
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 06:00-22:00; Sa,Su 08:00-22:00"
 website: ""

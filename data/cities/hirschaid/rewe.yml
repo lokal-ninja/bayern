@@ -1,12 +1,12 @@
-id: 134884262
-type: way
+id: 7551561246
+type: node
 shop: Supermarkt
-latitude: 49.8060678
-longitude: 10.9707901
-postcode: 96114
+latitude: 49.8048687
+longitude: 10.969772200000001
+postcode: "96114"
 city: Hirschaid
 street: "Sassanfahrter Hauptstraße"
-housenumber: 81
+housenumber: 82
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Sa 06:00-20:00"
+website: "https://www.rewe.de/angebote/hirschaid-m/562389/rewe-markt-sassanfahrter-hauptstrasse-82/"

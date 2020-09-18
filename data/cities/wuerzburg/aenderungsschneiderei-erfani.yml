@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 49.7988038
 longitude: 9.9343649
-postcode: 97070
+postcode: "97070"
 city: Würzburg
 street: "Kaiserstraße"
 housenumber: 16

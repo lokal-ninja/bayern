@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.5588782
 longitude: 10.2100057
-postcode: 87509
+postcode: "87509"
 city: Immenstadt i.Allgäu
 street: "Im Engelfeld"
 housenumber: 5

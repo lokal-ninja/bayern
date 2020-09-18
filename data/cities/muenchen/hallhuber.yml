@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.157778300000004
 longitude: 11.5843863
-postcode: 80802
+postcode: "80802"
 city: München
 street: "Leopoldstraße"
 housenumber: 23

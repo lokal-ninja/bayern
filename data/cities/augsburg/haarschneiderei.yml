@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.2989806
 longitude: 10.8999535
-postcode: 86179
+postcode: "86179"
 city: Augsburg
 street: "Albert-Leidl-Straße"
 housenumber: 4

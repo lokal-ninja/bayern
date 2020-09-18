@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 49.2838755
 longitude: 10.7849076
-postcode: 91564
+postcode: "91564"
 city: Neuendettelsau
 street: "Bahnhofstraße"
 housenumber: 22

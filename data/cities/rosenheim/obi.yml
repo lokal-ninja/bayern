@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 47.8487492
 longitude: 12.086187500000001
-postcode: 83026
+postcode: "83026"
 city: Rosenheim
 street: "Georg-Aicher-Straße"
 housenumber: 18

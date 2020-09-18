@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.841356100000006
 longitude: 11.144938000000002
-postcode: 82362
+postcode: "82362"
 city: Weilheim in Oberbayern
 street: "Krumpperstraße"
 housenumber: 12

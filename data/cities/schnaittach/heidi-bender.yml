@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 49.5591911
 longitude: 11.3410893
-postcode: 91220
+postcode: "91220"
 city: Schnaittach
 street: "Festungsstraße"
 housenumber: 7

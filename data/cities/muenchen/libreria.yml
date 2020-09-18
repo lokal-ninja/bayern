@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.1551276
 longitude: 11.575021000000001
-postcode: 80799
+postcode: "80799"
 city: München
 street: "Georgenstraße"
 housenumber: 43

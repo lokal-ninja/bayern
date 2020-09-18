@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.5461619
 longitude: 12.5260181
-postcode: 84160
+postcode: "84160"
 city: Frontenhausen
 street: "Marienplatz"
 housenumber: 14

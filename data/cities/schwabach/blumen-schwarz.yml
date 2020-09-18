@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 49.335965200000004
 longitude: 11.033170400000001
-postcode: 91126
+postcode: "91126"
 city: Schwabach
 street: "Limbacher Straße"
 housenumber: 60

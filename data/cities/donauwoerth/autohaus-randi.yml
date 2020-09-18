@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.7118787
 longitude: 10.7582555
-postcode: 86609
+postcode: "86609"
 city: Donauwörth
 street: "Joseph-Gänsler-Straße"
 housenumber: 5

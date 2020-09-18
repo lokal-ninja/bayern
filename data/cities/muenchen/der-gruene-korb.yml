@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.1705831
 longitude: 11.625092700000001
-postcode: 81925
+postcode: "81925"
 city: München
 street: "Oberföhringer Straße"
 housenumber: 212

@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 48.1119147
 longitude: 11.5781541
-postcode: 81539
+postcode: "81539"
 city: München
 street: "Wirtstraße"
 housenumber: 30a

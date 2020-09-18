@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.1708725
 longitude: 12.826404
-postcode: 84489
+postcode: "84489"
 city: Burghausen
 street: "Robert-Koch-Straße"
 housenumber: 56

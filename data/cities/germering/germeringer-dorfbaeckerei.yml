@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.1276803
 longitude: 11.353513000000001
-postcode: 82110
+postcode: "82110"
 city: Germering
 street: "Salzstraße"
 housenumber: 15

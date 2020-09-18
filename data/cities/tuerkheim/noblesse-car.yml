@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.0573989
 longitude: 10.6395289
-postcode: 86842
+postcode: "86842"
 city: Türkheim
 street: "Wörishofer Straße"
 housenumber: 11

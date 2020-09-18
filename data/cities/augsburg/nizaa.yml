@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.3755236
 longitude: 10.894415400000002
-postcode: 86152
+postcode: "86152"
 city: Augsburg
 street: "Auf dem Kreuz"
 housenumber: 10

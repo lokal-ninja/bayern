@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 48.7446885
 longitude: 11.2203055
-postcode: 86633
+postcode: "86633"
 city: Neuburg an der Donau
 street: "Donaustraße"
 housenumber: 40

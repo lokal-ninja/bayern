@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 47.8814828
 longitude: 11.6776473
-postcode: 83607
+postcode: "83607"
 city: Holzkirchen
 street: "Roggersdorfer Straße"
 housenumber: 87

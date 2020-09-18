@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 48.1789052
 longitude: 10.757808
-postcode: 86830
+postcode: "86830"
 city: Schwabmünchen
 street: "Luitpoldstraße"
 housenumber: 1a

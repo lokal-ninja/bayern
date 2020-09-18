@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.0872358
 longitude: 11.4044466
-postcode: 82131
+postcode: "82131"
 city: Gauting
 street: "Gautinger Straße"
 housenumber: 25

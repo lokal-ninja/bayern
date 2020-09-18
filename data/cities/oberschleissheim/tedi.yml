@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 48.243559000000005
 longitude: 11.5496893
-postcode: 85764
+postcode: "85764"
 city: Oberschleißheim
 street: "Sonnenstraße"
 housenumber: 15

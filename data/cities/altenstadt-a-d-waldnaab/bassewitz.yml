@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 49.7160239
 longitude: 12.1548438
-postcode: 92665
+postcode: "92665"
 city: Altenstadt a.d.Waldnaab
 street: "Jahnstraße"
 housenumber: 15

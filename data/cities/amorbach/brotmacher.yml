@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.647989300000006
 longitude: 9.2192273
-postcode: 63916
+postcode: "63916"
 city: Amorbach
 street: "Krummwiese"
 housenumber: 4

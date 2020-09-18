@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.016012100000005
 longitude: 12.098120100000001
-postcode: 93047
+postcode: "93047"
 city: Regensburg
 street: "Fröhliche-Türken-Straße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 49.4618612
 longitude: 11.089160000000001
-postcode: 90409
+postcode: "90409"
 city: Nürnberg
 street: "Wurzelbauerstraße"
 housenumber: 29

@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 49.4520393
 longitude: 11.0801417
-postcode: 90402
+postcode: "90402"
 city: Nürnberg
 street: "Oberer Bergauerplatz"
 housenumber: 1

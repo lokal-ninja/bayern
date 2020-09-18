@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 49.004787
 longitude: 12.078734
-postcode: 93051
+postcode: "93051"
 city: Regensburg
 street: "Erzbischof-Buchberger-Allee"
 housenumber: 12

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.2306875
 longitude: 11.731466800000002
-postcode: 95233
+postcode: "95233"
 city: Helmbrechts
 street: "Gunterstraße"
 housenumber: 36

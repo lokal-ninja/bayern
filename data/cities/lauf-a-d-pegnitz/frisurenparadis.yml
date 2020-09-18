@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.5108114
 longitude: 11.280098800000001
-postcode: 91207
+postcode: "91207"
 city: Lauf a.d.Pegnitz
 street: "Leßnergasse"
 housenumber: 2

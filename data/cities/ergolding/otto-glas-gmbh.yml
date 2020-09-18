@@ -3,7 +3,7 @@ type: way
 shop: Großhandel
 latitude: 48.5641371
 longitude: 12.1603689
-postcode: 84030
+postcode: "84030"
 city: Ergolding
 street: "Mühlenstraße"
 housenumber: 2

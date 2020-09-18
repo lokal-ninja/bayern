@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 49.1975289
 longitude: 12.5208844
-postcode: 93426
+postcode: "93426"
 city: Roding
 street: "Gabelsbergerstraße"
 housenumber: 1

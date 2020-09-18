@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.766155600000005
 longitude: 11.4392212
-postcode: 85055
+postcode: "85055"
 city: Ingolstadt
 street: "Schillerstraße"
 housenumber: 63

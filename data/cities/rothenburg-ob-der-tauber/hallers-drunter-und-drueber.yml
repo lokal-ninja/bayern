@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.377028100000004
 longitude: 10.1801101
-postcode: 91541
+postcode: "91541"
 city: Rothenburg ob der Tauber
 street: "Hafengasse"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 47.739409900000005
 longitude: 12.4604662
-postcode: 83246
+postcode: "83246"
 city: Unterwössen
 street: "Hauptstraße"
 housenumber: 28

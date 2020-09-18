@@ -3,7 +3,7 @@ type: node
 shop: Leiher
 latitude: 48.1350458
 longitude: 11.577900900000001
-postcode: 80331
+postcode: "80331"
 city: München
 street: "Westenriederstraße"
 housenumber: 17

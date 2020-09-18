@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 48.1025088
 longitude: 11.5614258
-postcode: 81543
+postcode: "81543"
 city: München
 street: "Schönstraße"
 housenumber: 99

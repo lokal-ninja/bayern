@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.7094984
 longitude: 9.2678846
-postcode: 63927
+postcode: "63927"
 city: Bürgstadt
 street: "Sandweg"
 housenumber: 2

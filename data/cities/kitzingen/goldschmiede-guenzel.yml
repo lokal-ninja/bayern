@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.737236
 longitude: 10.158430800000001
-postcode: 97318
+postcode: "97318"
 city: Kitzingen
 street: "Krainberg"
 housenumber: 9

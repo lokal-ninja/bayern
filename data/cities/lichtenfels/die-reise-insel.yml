@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 50.1488038
 longitude: 11.0617832
-postcode: 96215
+postcode: "96215"
 city: Lichtenfels
 street: "Coburger Straße"
 housenumber: 34

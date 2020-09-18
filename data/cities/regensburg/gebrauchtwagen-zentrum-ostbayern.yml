@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.9861815
 longitude: 12.154584700000001
-postcode: 93055
+postcode: "93055"
 city: Regensburg
 street: "Junkersstraße"
 housenumber: 17

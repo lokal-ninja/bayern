@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.833604900000005
 longitude: 12.963704100000001
-postcode: 94469
+postcode: "94469"
 city: Deggendorf
 street: "Pfleggasse"
 housenumber: 17

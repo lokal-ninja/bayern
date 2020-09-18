@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 47.849065700000004
 longitude: 12.172883200000001
-postcode: 83071
+postcode: "83071"
 city: Stephanskirchen
 street: "Hofmühlstraße"
 housenumber: 203

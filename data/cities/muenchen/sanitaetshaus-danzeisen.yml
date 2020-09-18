@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 48.1479663
 longitude: 11.4609251
-postcode: 81241
+postcode: "81241"
 city: München
 street: "Am Schützeneck"
 housenumber: 8

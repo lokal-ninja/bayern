@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 49.41595
 longitude: 11.164244400000001
-postcode: 90475
+postcode: "90475"
 city: Nürnberg
 street: "Sprottauer Straße"
 housenumber: 8

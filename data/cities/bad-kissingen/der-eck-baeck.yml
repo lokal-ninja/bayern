@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.1989013
 longitude: 10.0763023
-postcode: 
+postcode: ""
 city: Bad Kissingen
 street: "Untere Marktstraße"
 housenumber: 7

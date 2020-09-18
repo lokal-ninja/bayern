@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.9322723
 longitude: 12.729398400000001
-postcode: 83329
+postcode: "83329"
 city: Waging a. See
 street: "Traunsteiner Straße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.1342481
 longitude: 11.6592161
-postcode: 81829
+postcode: "81829"
 city: München
 street: "Am Moosfeld"
 housenumber: 19

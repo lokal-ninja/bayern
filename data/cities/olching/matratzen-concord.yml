@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 48.204754900000005
 longitude: 11.325549500000001
-postcode: 82140
+postcode: "82140"
 city: Olching
 street: "Hauptstraße"
 housenumber: 69

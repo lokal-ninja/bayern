@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 48.457930100000006
 longitude: 10.2798876
-postcode: 89312
+postcode: "89312"
 city: Günzburg
 street: "Bahnhofstraße"
 housenumber: 1

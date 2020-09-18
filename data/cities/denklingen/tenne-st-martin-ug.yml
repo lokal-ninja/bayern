@@ -3,7 +3,7 @@ type: way
 shop: Gebrauchtwaren
 latitude: 47.931707800000005
 longitude: 10.8673044
-postcode: 86920
+postcode: "86920"
 city: Denklingen
 street: "Mühlstraße"
 housenumber: 11

@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 50.0347961
 longitude: 10.2294712
-postcode: 97424
+postcode: "97424"
 city: Schweinfurt
 street: "Rudolf-Diesel-Straße"
 housenumber: 12

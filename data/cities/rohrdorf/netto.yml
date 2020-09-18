@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.821402400000004
 longitude: 12.155605300000001
-postcode: 83101
+postcode: "83101"
 city: Rohrdorf
 street: "Fabrikstraße"
 housenumber: 1

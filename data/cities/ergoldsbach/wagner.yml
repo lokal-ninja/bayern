@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.686045
 longitude: 12.205687200000002
-postcode: 84061
+postcode: "84061"
 city: Ergoldsbach
 street: "Landshuter Straße"
 housenumber: 18

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.035543000000004
 longitude: 12.1210971
-postcode: 93057
+postcode: "93057"
 city: Regensburg
 street: "Brandlberger Straße"
 housenumber: 105

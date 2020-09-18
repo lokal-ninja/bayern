@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 48.164193600000004
 longitude: 12.169414100000001
-postcode: 83527
+postcode: "83527"
 city: Haag in Oberbayern
 street: "Schäfflerstraße"
 housenumber: 8

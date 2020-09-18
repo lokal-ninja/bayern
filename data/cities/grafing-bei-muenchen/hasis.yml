@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.044450700000006
 longitude: 11.9665739
-postcode: 85567
+postcode: "85567"
 city: Grafing bei München
 street: "Griesstraße"
 housenumber: 26

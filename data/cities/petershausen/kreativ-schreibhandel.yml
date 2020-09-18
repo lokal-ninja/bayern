@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 48.4093941
 longitude: 11.467905700000001
-postcode: 85238
+postcode: "85238"
 city: Petershausen
 street: "Jetzendorfer Straße"
 housenumber: 4

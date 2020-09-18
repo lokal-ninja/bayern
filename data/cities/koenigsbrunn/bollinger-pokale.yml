@@ -3,7 +3,7 @@ type: node
 shop: Pokal
 latitude: 48.282710200000004
 longitude: 10.8850075
-postcode: 86343
+postcode: "86343"
 city: Königsbrunn
 street: "Guldenstraße"
 housenumber: 33

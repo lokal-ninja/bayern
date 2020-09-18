@@ -3,7 +3,7 @@ type: way
 shop: Spirituosen
 latitude: 48.7649928
 longitude: 11.4271008
-postcode: 85049
+postcode: "85049"
 city: Ingolstadt
 street: "Ziegelbräustraße"
 housenumber: 4

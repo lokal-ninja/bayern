@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.6724642
 longitude: 13.2909678
-postcode: 94529
+postcode: "94529"
 city: Aicha vorm Wald
 street: "Am Kirchplatz"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.307592500000005
 longitude: 11.899438400000001
-postcode: 85435
+postcode: "85435"
 city: Erding
 street: "Luitpoldstraße"
 housenumber: 12

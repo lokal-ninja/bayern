@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.076859400000004
 longitude: 10.195913000000001
-postcode: 87737
+postcode: "87737"
 city: Boos
 street: "An der Molkereischule"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.575547
 longitude: 13.4090164
-postcode: 94036
+postcode: "94036"
 city: Passau
 street: "Regensburger Straße"
 housenumber: 55

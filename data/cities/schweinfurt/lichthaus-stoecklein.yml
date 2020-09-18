@@ -3,7 +3,7 @@ type: way
 shop: Lampen
 latitude: 50.0314035
 longitude: 10.236915
-postcode: 97424
+postcode: "97424"
 city: Schweinfurt
 street: "Friedrich-Gauß-Straße"
 housenumber: 3

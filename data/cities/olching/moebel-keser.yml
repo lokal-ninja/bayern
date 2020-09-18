@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.1976329
 longitude: 11.326220300000001
-postcode: 82140
+postcode: "82140"
 city: Olching
 street: "Johann-G.-Gutenberg-Straße"
 housenumber: 39

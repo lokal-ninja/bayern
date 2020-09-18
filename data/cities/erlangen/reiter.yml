@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 49.580927900000006
 longitude: 11.010864100000001
-postcode: 91052
+postcode: "91052"
 city: Erlangen
 street: "Hans-Geiger-Straße"
 housenumber: 1a

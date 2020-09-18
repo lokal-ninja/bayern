@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.3211511
 longitude: 11.669223200000001
-postcode: 85375
+postcode: "85375"
 city: Neufahrn bei Freising
 street: "Kurt-Kittel-Ring"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 49.3855979
 longitude: 10.178945500000001
-postcode: 91541
+postcode: "91541"
 city: Rothenburg ob der Tauber
 street: "Reimerweg"
 housenumber: 5

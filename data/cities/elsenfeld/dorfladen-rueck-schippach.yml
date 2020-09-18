@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.830603700000005
 longitude: 9.207813900000001
-postcode: 63820
+postcode: "63820"
 city: Elsenfeld
 street: "Elsavatalstraße"
 housenumber: 76

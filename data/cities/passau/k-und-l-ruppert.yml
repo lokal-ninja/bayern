@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.5746953
 longitude: 13.4601798
-postcode: 94032
+postcode: "94032"
 city: Passau
 street: "Ludwigstraße"
 housenumber: 5

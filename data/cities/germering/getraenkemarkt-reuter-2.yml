@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 48.1303264
 longitude: 11.3875513
-postcode: 82110
+postcode: "82110"
 city: Germering
 street: "Hartstraße"
 housenumber: 140

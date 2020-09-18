@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.079031300000004
 longitude: 11.986001
-postcode: 85560
+postcode: "85560"
 city: Ebersberg
 street: "Langwied"
 housenumber: 2

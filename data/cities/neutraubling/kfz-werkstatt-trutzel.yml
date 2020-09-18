@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.978175400000005
 longitude: 12.1895252
-postcode: 93073
+postcode: "93073"
 city: Neutraubling
 street: "Podersamer Straße"
 housenumber: 8

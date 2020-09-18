@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 50.0052071
 longitude: 9.199594600000001
-postcode: 63768
+postcode: "63768"
 city: Hösbach
 street: "Talstraße"
 housenumber: 5a

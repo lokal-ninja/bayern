@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 49.961822500000004
 longitude: 11.597835700000001
-postcode: 95448
+postcode: "95448"
 city: Bayreuth
 street: "Ottostraße"
 housenumber: 1a

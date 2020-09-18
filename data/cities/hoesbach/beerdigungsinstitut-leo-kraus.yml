@@ -3,7 +3,7 @@ type: way
 shop: Bestattungen
 latitude: 50.0038945
 longitude: 9.205747500000001
-postcode: 63768
+postcode: "63768"
 city: Hösbach
 street: "Hauptstraße"
 housenumber: 142½

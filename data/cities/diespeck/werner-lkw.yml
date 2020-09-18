@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.6086523
 longitude: 10.594405700000001
-postcode: 91456
+postcode: "91456"
 city: Diespeck
 street: "Fabrikstraße"
 housenumber: 15

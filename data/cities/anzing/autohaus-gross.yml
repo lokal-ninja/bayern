@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.1544121
 longitude: 11.854607600000001
-postcode: 85646
+postcode: "85646"
 city: Anzing
 street: "Högerstraße"
 housenumber: 3

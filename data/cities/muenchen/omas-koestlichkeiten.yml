@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 48.1339796
 longitude: 11.5678972
-postcode: 80331
+postcode: "80331"
 city: München
 street: "Sendlinger Straße"
 housenumber: 49

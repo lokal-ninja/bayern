@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.392225100000005
 longitude: 10.8350747
-postcode: 86356
+postcode: "86356"
 city: Neusäß
 street: "Hauptstraße"
 housenumber: 15A

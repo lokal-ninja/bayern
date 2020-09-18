@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.4364099
 longitude: 11.883428700000001
-postcode: 85416
+postcode: "85416"
 city: Langenbach
 street: "Ortsstraße"
 housenumber: 2

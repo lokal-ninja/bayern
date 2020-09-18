@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 49.9382737
 longitude: 12.227351400000002
-postcode: 95666
+postcode: "95666"
 city: Mitterteich
 street: "Gottlieb-Daimler-Straße"
 housenumber: 2

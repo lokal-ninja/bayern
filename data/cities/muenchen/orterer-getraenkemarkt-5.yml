@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.114920600000005
 longitude: 11.548252300000001
-postcode: 
+postcode: ""
 city: München
 street: "Implerstraße"
 housenumber: 66

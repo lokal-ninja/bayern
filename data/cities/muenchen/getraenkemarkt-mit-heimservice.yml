@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.1140331
 longitude: 11.6594636
-postcode: 81825
+postcode: "81825"
 city: München
 street: "Bergerwaldstraße"
 housenumber: 46

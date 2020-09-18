@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.8931831
 longitude: 10.6116437
-postcode: 87600
+postcode: "87600"
 city: Kaufbeuren
 street: "Türkheimer Straße"
 housenumber: 1

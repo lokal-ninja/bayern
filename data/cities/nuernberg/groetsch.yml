@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.439386000000006
 longitude: 11.0357771
-postcode: 90439
+postcode: "90439"
 city: Nürnberg
 street: "Von-der-Tann-Straße"
 housenumber: 156

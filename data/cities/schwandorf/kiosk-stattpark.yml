@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 49.3311037
 longitude: 12.1054417
-postcode: 92421
+postcode: "92421"
 city: Schwandorf
 street: "Hubmannwöhrl"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 49.4512477
 longitude: 11.073426900000001
-postcode: 90402
+postcode: "90402"
 city: Nürnberg
 street: "Karolinenstraße"
 housenumber: 44

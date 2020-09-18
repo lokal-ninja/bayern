@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.240093800000004
 longitude: 12.6921747
-postcode: 84524
+postcode: "84524"
 city: Neuötting
 street: "Burghauser Straße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.5981892
 longitude: 10.982330000000001
-postcode: 91056
+postcode: "91056"
 city: Erlangen
 street: "Pappelgasse"
 housenumber: 6

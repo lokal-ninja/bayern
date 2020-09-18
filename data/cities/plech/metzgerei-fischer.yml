@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.6626466
 longitude: 11.4710306
-postcode: 91287
+postcode: "91287"
 city: Plech
 street: "Gewerbepark Schönthal"
 housenumber: 4

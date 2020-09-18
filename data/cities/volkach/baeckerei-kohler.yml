@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.8637979
 longitude: 10.2268203
-postcode: 97332
+postcode: "97332"
 city: Volkach
 street: "Oberer Markt"
 housenumber: 8

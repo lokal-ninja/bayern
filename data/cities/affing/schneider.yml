@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.4412329
 longitude: 10.936013500000001
-postcode: 86444
+postcode: "86444"
 city: Affing
 street: "Augsburger Straße"
 housenumber: 26

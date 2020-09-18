@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.4710526
 longitude: 11.1022128
-postcode: 90491
+postcode: "90491"
 city: Nürnberg
 street: "Äußere Bayreuther Straße"
 housenumber: 100

@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.0945933
 longitude: 10.547080000000001
-postcode: 86874
+postcode: "86874"
 city: Mattsies
 street: "Lettenbachstraße"
 housenumber: 1a

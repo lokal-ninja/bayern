@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 48.096343000000005
 longitude: 11.785897
-postcode: 85598
+postcode: "85598"
 city: Baldham
 street: "Karl-Böhm-Straße"
 housenumber: 80

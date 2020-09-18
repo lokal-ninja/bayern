@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 49.4586898
 longitude: 11.039007000000002
-postcode: 90429
+postcode: "90429"
 city: Nürnberg
 street: "Pestalozzistraße"
 housenumber: 21

@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 49.4686992
 longitude: 11.0903285
-postcode: 90409
+postcode: "90409"
 city: Nürnberg
 street: "Tellstraße"
 housenumber: 14

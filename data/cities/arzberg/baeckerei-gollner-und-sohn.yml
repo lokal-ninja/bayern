@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.057884300000005
 longitude: 12.1849146
-postcode: 
+postcode: ""
 city: Arzberg
 street: "Thiersheimer Straße"
 housenumber: 13

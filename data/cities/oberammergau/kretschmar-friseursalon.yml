@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.596819
 longitude: 11.064866700000001
-postcode: 82487
+postcode: "82487"
 city: Oberammergau
 street: "Dorfstraße"
 housenumber: 41b

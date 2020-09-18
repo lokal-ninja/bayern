@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.7152156
 longitude: 11.0608939
-postcode: 91301
+postcode: "91301"
 city: Forchheim
 street: "Kolpingsplatz"
 housenumber: 3

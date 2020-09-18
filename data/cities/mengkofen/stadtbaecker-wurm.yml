@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.7231972
 longitude: 12.4451695
-postcode: 84152
+postcode: "84152"
 city: Mengkofen
 street: "Hauptstraße"
 housenumber: 2

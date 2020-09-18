@@ -3,7 +3,7 @@ type: node
 shop: Klempner
 latitude: 49.647776300000004
 longitude: 10.4312956
-postcode: 91477
+postcode: "91477"
 city: Markt Bibart
 street: "Mühlstraße"
 housenumber: 1

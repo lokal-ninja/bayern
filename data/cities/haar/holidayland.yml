@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.108948500000004
 longitude: 11.720266200000001
-postcode: 85540
+postcode: "85540"
 city: Haar
 street: "Jagdfeldring"
 housenumber: 3

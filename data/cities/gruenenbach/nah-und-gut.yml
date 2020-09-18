@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.618552900000005
 longitude: 10.036921900000001
-postcode: 88167
+postcode: "88167"
 city: Grünenbach
 street: "Ebratshofen"
 housenumber: 33

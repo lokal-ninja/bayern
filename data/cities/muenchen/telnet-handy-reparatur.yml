@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 48.1420314
 longitude: 11.5602335
-postcode: 80335
+postcode: "80335"
 city: München
 street: "Dachauer Straße"
 housenumber: 5

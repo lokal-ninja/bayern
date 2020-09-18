@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.5391373
 longitude: 12.155678
-postcode: 
+postcode: ""
 city: Landshut
 street: "Kapuzinerweg"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 47.813187500000005
 longitude: 12.3885383
-postcode: 83233
+postcode: "83233"
 city: Bernau am Chiemsee
 street: "Am Anger"
 housenumber: 36

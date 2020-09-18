@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 47.760581900000005
 longitude: 11.559018400000001
-postcode: 83646
+postcode: "83646"
 city: Bad Tölz
 street: "Lenggrieser Straße"
 housenumber: 

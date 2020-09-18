@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.446358700000005
 longitude: 12.0372705
-postcode: 84172
+postcode: "84172"
 city: Buch am Erlbach
 street: "Kirchgasse"
 housenumber: 

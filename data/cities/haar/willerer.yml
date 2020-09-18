@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 48.1086255
 longitude: 11.7324677
-postcode: 85540
+postcode: "85540"
 city: Haar
 street: "Leibstraße"
 housenumber: 24

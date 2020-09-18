@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.640753600000004
 longitude: 11.1913415
-postcode: 91077
+postcode: "91077"
 city: Neunkirchen a. Brand
 street: "Marktplatz"
 housenumber: 1

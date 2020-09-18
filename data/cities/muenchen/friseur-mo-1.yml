@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.1297696
 longitude: 11.557544100000001
-postcode: 80336
+postcode: "80336"
 city: München
 street: "Mozartstraße"
 housenumber: 1

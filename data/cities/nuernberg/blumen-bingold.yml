@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.468724800000004
 longitude: 11.024651400000002
-postcode: 90427
+postcode: "90427"
 city: Nürnberg
 street: "Schnieglinger Straße"
 housenumber: 272

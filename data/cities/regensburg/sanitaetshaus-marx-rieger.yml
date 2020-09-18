@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 49.0133525
 longitude: 12.1029285
-postcode: 93047
+postcode: "93047"
 city: Regensburg
 street: "Hemauerstraße"
 housenumber: 5

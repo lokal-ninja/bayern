@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.677254000000005
 longitude: 12.1647435
-postcode: 92637
+postcode: "92637"
 city: Weiden i.d.OPf.
 street: "Bürgermeister-Prechtl-Straße"
 housenumber: 44

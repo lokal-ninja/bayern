@@ -3,7 +3,7 @@ type: node
 shop: Boot
 latitude: 50.235100800000005
 longitude: 11.723434000000001
-postcode: 95233
+postcode: "95233"
 city: Helmbrechts
 street: "Karlstraße"
 housenumber: 11

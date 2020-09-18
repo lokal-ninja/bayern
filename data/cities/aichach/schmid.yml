@@ -3,7 +3,7 @@ type: way
 shop: Großhandel
 latitude: 48.437668300000006
 longitude: 11.1095612
-postcode: 86551
+postcode: "86551"
 city: Aichach
 street: "Karl-Schiller-Straße"
 housenumber: 5

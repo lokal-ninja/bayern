@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.853505600000005
 longitude: 12.122078700000001
-postcode: 83022
+postcode: "83022"
 city: Rosenheim
 street: "Münchener Straße"
 housenumber: 34

@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 48.823849
 longitude: 12.952431800000001
-postcode: 94469
+postcode: "94469"
 city: Deggendorf
 street: "Donaustraße"
 housenumber: 20

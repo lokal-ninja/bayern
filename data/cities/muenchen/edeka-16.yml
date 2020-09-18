@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.113182800000004
 longitude: 11.549109900000001
-postcode: 81371
+postcode: "81371"
 city: München
 street: "Thalkirchner Straße"
 housenumber: 190

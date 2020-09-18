@@ -3,7 +3,7 @@ type: way
 shop: Andenken
 latitude: 48.3879041
 longitude: 11.2569049
-postcode: 85250
+postcode: "85250"
 city: Altomünster
 street: "Sankt-Altohof"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.140922100000004
 longitude: 11.588670400000002
-postcode: 80538
+postcode: "80538"
 city: München
 street: "Liebigstraße"
 housenumber: 10a

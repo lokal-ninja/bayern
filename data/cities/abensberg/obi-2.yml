@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 48.810006200000004
 longitude: 11.860634800000001
-postcode: 93326
+postcode: "93326"
 city: Abensberg
 street: "Straubinger Straße"
 housenumber: 42

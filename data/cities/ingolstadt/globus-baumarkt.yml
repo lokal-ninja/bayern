@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.7041582
 longitude: 11.4233378
-postcode: 85051
+postcode: "85051"
 city: Ingolstadt
 street: "Am Hochfeldweg"
 housenumber: 4

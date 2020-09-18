@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.465066300000004
 longitude: 11.9626569
-postcode: 85368
+postcode: "85368"
 city: Moosburg a.d. Isar
 street: "Degernpoint"
 housenumber: M 1

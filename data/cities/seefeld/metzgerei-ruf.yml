@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.036306100000004
 longitude: 11.2185769
-postcode: 82229
+postcode: "82229"
 city: Seefeld
 street: "Marienplatz"
 housenumber: 2

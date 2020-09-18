@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 47.57065
 longitude: 9.639570200000001
-postcode: 88142
+postcode: "88142"
 city: Wasserburg (Bodensee)
 street: "Dorfstraße"
 housenumber: 5

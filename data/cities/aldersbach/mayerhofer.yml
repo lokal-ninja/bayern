@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.589055
 longitude: 13.0853014
-postcode: 94501
+postcode: "94501"
 city: Aldersbach
 street: "Ritter-Tuschl-Straße"
 housenumber: 2

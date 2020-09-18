@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 47.8481107
 longitude: 12.9666879
-postcode: 83395
+postcode: "83395"
 city: Freilassing
 street: "Jägerndorferstraße"
 housenumber: 1

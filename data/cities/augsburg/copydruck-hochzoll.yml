@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 48.3623344
 longitude: 10.9385832
-postcode: 86163
+postcode: "86163"
 city: Augsburg
 street: "Zugspitzstraße"
 housenumber: 79

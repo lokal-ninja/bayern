@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.010449
 longitude: 10.4646868
-postcode: 97539
+postcode: "97539"
 city: Wonfurt
 street: "Von-Seckendorff-Platz"
 housenumber: 7

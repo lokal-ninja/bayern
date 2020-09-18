@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 47.7507413
 longitude: 11.3786267
-postcode: 82377
+postcode: "82377"
 city: Penzberg
 street: "Karlstraße"
 housenumber: 15

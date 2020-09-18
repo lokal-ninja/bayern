@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 48.2655083
 longitude: 10.839379500000001
-postcode: 86399
+postcode: "86399"
 city: Bobingen
 street: "Königsbrunner Straße"
 housenumber: 7

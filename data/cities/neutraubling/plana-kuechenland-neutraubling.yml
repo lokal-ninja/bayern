@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 48.9736953
 longitude: 12.178416200000001
-postcode: 93073
+postcode: "93073"
 city: Neutraubling
 street: "Komotauer Straße"
 housenumber: 3

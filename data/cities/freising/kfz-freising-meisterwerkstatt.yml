@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 48.399117600000004
 longitude: 11.770886
-postcode: 85356
+postcode: "85356"
 city: Freising
 street: "Falkenstraße"
 housenumber: 5

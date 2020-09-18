@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.149118900000005
 longitude: 11.575371500000001
-postcode: 80799
+postcode: "80799"
 city: München
 street: "Türkenstraße"
 housenumber: 48

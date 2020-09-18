@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.2672029
 longitude: 10.8357358
-postcode: 86399
+postcode: "86399"
 city: Bobingen
 street: "Jahnstraße"
 housenumber: 2

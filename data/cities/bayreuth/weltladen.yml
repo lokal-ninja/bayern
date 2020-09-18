@@ -3,7 +3,7 @@ type: node
 shop: Weltladen
 latitude: 49.942937400000005
 longitude: 11.577685
-postcode: 95444
+postcode: "95444"
 city: Bayreuth
 street: "Ludwigstraße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 48.128825600000006
 longitude: 11.3653613
-postcode: 82110
+postcode: "82110"
 city: Germering
 street: "Untere Bahnhofstraße"
 housenumber: 50

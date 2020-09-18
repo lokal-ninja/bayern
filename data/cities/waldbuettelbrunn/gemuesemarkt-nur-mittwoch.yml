@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 49.790040700000006
 longitude: 9.848664000000001
-postcode: 97297
+postcode: "97297"
 city: Waldbüttelbrunn
 street: "Würzburger Straße"
 housenumber: 

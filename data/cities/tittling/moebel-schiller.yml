@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.727283
 longitude: 13.383494200000001
-postcode: 94104
+postcode: "94104"
 city: Tittling
 street: "Muggenthaler Straße"
 housenumber: 7

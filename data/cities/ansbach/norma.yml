@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.311350700000006
 longitude: 10.5594043
-postcode: 91522
+postcode: "91522"
 city: Ansbach
 street: "Rothenburger Straße"
 housenumber: 10

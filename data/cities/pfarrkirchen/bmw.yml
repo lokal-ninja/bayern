@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.418056
 longitude: 12.938757
-postcode: 84347
+postcode: "84347"
 city: Pfarrkirchen
 street: "Franz-Stelzenberger-Straße"
 housenumber: 5

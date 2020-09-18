@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.056675000000006
 longitude: 9.6901309
-postcode: 97737
+postcode: "97737"
 city: Gemünden am Main
 street: "Marktplatz"
 housenumber: 1

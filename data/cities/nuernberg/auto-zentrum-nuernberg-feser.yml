@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.4277255
 longitude: 11.061116400000001
-postcode: 90441
+postcode: "90441"
 city: Nürnberg
 street: "Heisterstraße"
 housenumber: 6-10

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.119829800000005
 longitude: 11.5716392
-postcode: 81543
+postcode: "81543"
 city: München
 street: "Schyrenstraße"
 housenumber: 16

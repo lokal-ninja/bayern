@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.0008605
 longitude: 12.084770500000001
-postcode: 95615
+postcode: "95615"
 city: Marktredwitz
 street: "Markt"
 housenumber: 20

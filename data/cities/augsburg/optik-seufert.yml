@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.3640836
 longitude: 10.8747407
-postcode: 86157
+postcode: "86157"
 city: Augsburg
 street: "Augsburger Straße"
 housenumber: 6

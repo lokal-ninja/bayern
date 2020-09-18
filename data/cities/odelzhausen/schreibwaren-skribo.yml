@@ -3,7 +3,7 @@ type: way
 shop: Schreibwaren
 latitude: 48.3104036
 longitude: 11.1987325
-postcode: 85235
+postcode: "85235"
 city: Odelzhausen
 street: "Schloßstraße"
 housenumber: 9

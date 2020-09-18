@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.837140600000005
 longitude: 12.9452656
-postcode: 94469
+postcode: "94469"
 city: Deggendorf
 street: "Auf der Windschnur"
 housenumber: 20

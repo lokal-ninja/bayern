@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.695021200000006
 longitude: 12.162253900000001
-postcode: 92637
+postcode: "92637"
 city: Weiden i.d.OPf.
 street: "Neustädter Straße"
 housenumber: 22

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.1378962
 longitude: 11.531270500000002
-postcode: 80339
+postcode: "80339"
 city: München
 street: "Westendstraße"
 housenumber: 140

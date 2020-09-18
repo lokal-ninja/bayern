@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 49.0557201
 longitude: 11.776592500000001
-postcode: 93155
+postcode: "93155"
 city: Hemau
 street: "Nürnberger Straße"
 housenumber: 23

@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 49.6273999
 longitude: 10.922730600000001
-postcode: 91093
+postcode: "91093"
 city: Heßdorf
 street: "Im Gewerbepark"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.104991500000004
 longitude: 11.5450233
-postcode: 
+postcode: ""
 city: München
 street: "Pognerstraße"
 housenumber: 4

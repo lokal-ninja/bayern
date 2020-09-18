@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.3633583
 longitude: 10.872211
-postcode: 86157
+postcode: "86157"
 city: Augsburg
 street: "Kirchbergstraße"
 housenumber: 2

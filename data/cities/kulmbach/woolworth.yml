@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 50.1073297
 longitude: 11.4570995
-postcode: 95326
+postcode: "95326"
 city: Kulmbach
 street: "Langgasse"
 housenumber: 6

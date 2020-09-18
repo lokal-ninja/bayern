@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.0756596
 longitude: 11.665726300000001
-postcode: 85579
+postcode: "85579"
 city: Neubiberg
 street: "Hauptstraße"
 housenumber: 25

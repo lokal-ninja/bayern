@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.402633800000004
 longitude: 10.7901416
-postcode: 90613
+postcode: "90613"
 city: Großhabersdorf
 street: "Bahnhofstraße"
 housenumber: 19

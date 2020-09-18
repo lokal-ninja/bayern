@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.343516400000006
 longitude: 10.995894600000002
-postcode: 86316
+postcode: "86316"
 city: Friedberg
 street: "Pallottiweg"
 housenumber: 5

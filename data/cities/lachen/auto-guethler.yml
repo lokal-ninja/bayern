@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.9273528
 longitude: 10.2381433
-postcode: 87760
+postcode: "87760"
 city: Lachen
 street: "Ziegelei"
 housenumber: 2

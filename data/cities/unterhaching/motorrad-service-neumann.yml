@@ -3,7 +3,7 @@ type: node
 shop: Motorrad
 latitude: 48.073259900000004
 longitude: 11.604386
-postcode: 82008
+postcode: "82008"
 city: Unterhaching
 street: "Münchner Straße"
 housenumber: 119a

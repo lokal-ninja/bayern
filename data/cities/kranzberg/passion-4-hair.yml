@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.410692000000004
 longitude: 11.601583000000002
-postcode: 85402
+postcode: "85402"
 city: Kranzberg
 street: "Flurstraße"
 housenumber: 38

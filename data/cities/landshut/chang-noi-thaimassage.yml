@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 48.5451453
 longitude: 12.142265700000001
-postcode: 84034
+postcode: "84034"
 city: Landshut
 street: "Seligenthaler Straße"
 housenumber: 33

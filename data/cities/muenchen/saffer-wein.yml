@@ -3,7 +3,7 @@ type: way
 shop: Wein
 latitude: 48.1357871
 longitude: 11.659251900000001
-postcode: 81829
+postcode: "81829"
 city: München
 street: "Martin-Kollar-Straße"
 housenumber: 11

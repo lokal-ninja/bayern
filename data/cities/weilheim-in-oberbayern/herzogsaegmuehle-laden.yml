@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 47.839729000000005
 longitude: 11.1406568
-postcode: 82362
+postcode: "82362"
 city: Weilheim in Oberbayern
 street: "Herzog-Christoph-Straße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 49.260172600000004
 longitude: 12.9701593
-postcode: 93453
+postcode: "93453"
 city: Neukirchen b. Hl. Blut
 street: "Marktstraße"
 housenumber: 15

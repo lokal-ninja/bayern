@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 49.718537000000005
 longitude: 11.0603314
-postcode: 91301
+postcode: "91301"
 city: Forchheim
 street: "Burgerhofstraße"
 housenumber: 10

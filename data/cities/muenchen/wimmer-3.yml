@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.1482704
 longitude: 11.574867300000001
-postcode: 
+postcode: ""
 city: München
 street: "Türkenstraße"
 housenumber: 36

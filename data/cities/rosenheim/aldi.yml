@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.879045500000004
 longitude: 12.1112409
-postcode: 83024
+postcode: "83024"
 city: Rosenheim
 street: "Möslstraße"
 housenumber: 28

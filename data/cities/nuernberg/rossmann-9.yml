@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.4497755
 longitude: 11.0792318
-postcode: 90402
+postcode: "90402"
 city: Nürnberg
 street: "Königstraße"
 housenumber: 41

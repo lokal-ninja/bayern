@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.873101500000004
 longitude: 12.5892876
-postcode: 83355
+postcode: "83355"
 city: Grabenstätt
 street: "Römerstraße"
 housenumber: 3

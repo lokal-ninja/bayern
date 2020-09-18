@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 50.011045100000004
 longitude: 9.3131085
-postcode: 63846
+postcode: "63846"
 city: Laufach
 street: "Im Gewerbegebiet"
 housenumber: 9

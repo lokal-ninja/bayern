@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 47.4082184
 longitude: 10.278435700000001
-postcode: 87561
+postcode: "87561"
 city: Oberstdorf
 street: "Kirchstraße"
 housenumber: 6

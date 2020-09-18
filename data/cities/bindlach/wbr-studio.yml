@@ -3,7 +3,7 @@ type: node
 shop: Basteln
 latitude: 49.978211900000005
 longitude: 11.6350878
-postcode: 95463
+postcode: "95463"
 city: Bindlach
 street: "Allersdorf"
 housenumber: 57

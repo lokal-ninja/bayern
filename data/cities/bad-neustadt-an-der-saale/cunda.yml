@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 50.323548100000004
 longitude: 10.2153138
-postcode: 97616
+postcode: "97616"
 city: Bad Neustadt an der Saale
 street: "Marktplatz"
 housenumber: 22-28

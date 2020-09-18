@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.2019285
 longitude: 12.668141700000001
-postcode: 93413
+postcode: "93413"
 city: Cham
 street: "Bergfeldstraße"
 housenumber: 7

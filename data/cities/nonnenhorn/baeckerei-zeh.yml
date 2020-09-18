@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.576127400000004
 longitude: 9.6121169
-postcode: 88149
+postcode: "88149"
 city: Nonnenhorn
 street: "Seehalde"
 housenumber: 15

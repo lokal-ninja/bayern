@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.996922700000006
 longitude: 11.341099900000001
-postcode: 82319
+postcode: "82319"
 city: Starnberg
 street: "Theresienstraße"
 housenumber: 5

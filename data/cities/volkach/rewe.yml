@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.8593751
 longitude: 10.231893300000001
-postcode: 97332
+postcode: "97332"
 city: Volkach
 street: "Dimbacher Straße"
 housenumber: 40

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.997934400000005
 longitude: 11.343605
-postcode: 82319
+postcode: "82319"
 city: Starnberg
 street: "Maximilianstraße"
 housenumber: 9a

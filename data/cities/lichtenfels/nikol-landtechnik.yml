@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.0518027
 longitude: 11.141432700000001
-postcode: 96215
+postcode: "96215"
 city: Lichtenfels
 street: "Zum Hohenberg"
 housenumber: 10

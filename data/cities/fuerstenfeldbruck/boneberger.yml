@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.1783719
 longitude: 11.2553661
-postcode: 82256
+postcode: "82256"
 city: Fürstenfeldbruck
 street: "Hauptstraße"
 housenumber: 16

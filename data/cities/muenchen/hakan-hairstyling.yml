@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.1347936
 longitude: 11.541298600000001
-postcode: 80339
+postcode: "80339"
 city: München
 street: "Kazmairstraße"
 housenumber: 30

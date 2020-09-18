@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.243804700000005
 longitude: 12.671033900000001
-postcode: 93497
+postcode: "93497"
 city: Willmering
 street: "Chamer Straße"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 47.493442200000004
 longitude: 11.1033296
-postcode: 82467
+postcode: "82467"
 city: Garmisch-Partenkirchen
 street: "Bahnhofstraße"
 housenumber: 8

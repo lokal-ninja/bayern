@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.4323196
 longitude: 12.940293500000001
-postcode: 84347
+postcode: "84347"
 city: Pfarrkirchen
 street: "Stadtplatz"
 housenumber: 34

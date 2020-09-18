@@ -3,7 +3,7 @@ type: way
 shop: Wein
 latitude: 49.755849600000005
 longitude: 9.996959400000001
-postcode: 97236
+postcode: "97236"
 city: Randersacker
 street: "Am Marsberg"
 housenumber: 16

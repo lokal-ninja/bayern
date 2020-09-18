@@ -1,12 +1,12 @@
-id: 1756025742
+id: 1709161482
 type: node
 shop: Bäckerei
-latitude: 48.144442700000006
-longitude: 11.5625932
-postcode: 80333
+latitude: 48.1263826
+longitude: 11.4762251
+postcode: "80689"
 city: München
-street: "Luisenstraße"
-housenumber: 25
+street: ""
+housenumber: 
 phone: ""
-opening_hours: "Mo-Fr 06:00-20:00; Sa 06:00-18:00; Su 08:00-17:00"
+opening_hours: "Mo-Sa 07:00-20:00; Su 08:00-12:00"
 website: ""

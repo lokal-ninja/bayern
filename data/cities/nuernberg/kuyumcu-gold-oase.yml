@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 49.4491181
 longitude: 11.068063800000001
-postcode: 90402
+postcode: "90402"
 city: Nürnberg
 street: "Ludwigstraße"
 housenumber: 52

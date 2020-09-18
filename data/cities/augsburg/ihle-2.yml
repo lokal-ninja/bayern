@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.3550419
 longitude: 10.9115067
-postcode: 86161
+postcode: "86161"
 city: Augsburg
 street: "Hofrat-Röhrer-Straße"
 housenumber: 11

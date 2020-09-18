@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 49.6447639
 longitude: 9.2196417
-postcode: 63916
+postcode: "63916"
 city: Amorbach
 street: "Marktplatz"
 housenumber: 9

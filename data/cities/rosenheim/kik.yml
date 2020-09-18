@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.840385600000005
 longitude: 12.1134809
-postcode: 83026
+postcode: "83026"
 city: Rosenheim
 street: "Mangfallstraße"
 housenumber: 35

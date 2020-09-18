@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.4629163
 longitude: 11.143232900000001
-postcode: 90482
+postcode: "90482"
 city: Nürnberg
 street: "Laufamholzstraße"
 housenumber: 100

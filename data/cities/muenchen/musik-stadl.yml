@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 48.201897900000006
 longitude: 11.563736500000001
-postcode: 80935
+postcode: "80935"
 city: München
 street: "Schleißheimer Straße"
 housenumber: 399

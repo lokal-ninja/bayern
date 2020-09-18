@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.4432442
 longitude: 11.087197100000001
-postcode: 90459
+postcode: "90459"
 city: Nürnberg
 street: "Galgenhofstraße"
 housenumber: 49

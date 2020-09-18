@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.072323000000004
 longitude: 12.053225000000001
-postcode: 93138
+postcode: "93138"
 city: Lappersdorf
 street: "Einhauser Straße"
 housenumber: 10

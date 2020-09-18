@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.650638400000005
 longitude: 11.2646356
-postcode: 91322
+postcode: "91322"
 city: Gräfenberg
 street: "Am Schönfeld"
 housenumber: 2

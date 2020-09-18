@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.1403308
 longitude: 11.4891754
-postcode: 80689
+postcode: "80689"
 city: München
 street: "Reutterstraße"
 housenumber: 50

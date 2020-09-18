@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 49.678349700000005
 longitude: 12.154420400000001
-postcode: 92637
+postcode: "92637"
 city: Weiden i.d.OPf.
 street: "Sintzelstraße"
 housenumber: 12

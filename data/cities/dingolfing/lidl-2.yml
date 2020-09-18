@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.636894600000005
 longitude: 12.4843571
-postcode: 84130
+postcode: "84130"
 city: Dingolfing
 street: "Aitrachstraße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 47.5656126
 longitude: 11.141087500000001
-postcode: 82496
+postcode: "82496"
 city: Oberau
 street: "Münchner Straße"
 housenumber: 10

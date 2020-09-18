@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.439787700000004
 longitude: 12.9360566
-postcode: 84347
+postcode: "84347"
 city: Pfarrkirchen
 street: "Arnstorfer Straße"
 housenumber: 34

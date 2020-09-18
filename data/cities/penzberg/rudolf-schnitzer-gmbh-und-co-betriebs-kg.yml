@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.750133000000005
 longitude: 11.3830007
-postcode: 82377
+postcode: "82377"
 city: Penzberg
 street: "Bichler Straße"
 housenumber: 13

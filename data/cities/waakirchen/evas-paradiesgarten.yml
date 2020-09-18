@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 47.779661100000006
 longitude: 11.6702627
-postcode: 83666
+postcode: "83666"
 city: Waakirchen
 street: "Allgaustraße"
 housenumber: 50

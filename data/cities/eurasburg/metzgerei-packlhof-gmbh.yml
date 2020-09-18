@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.8514849
 longitude: 11.4055218
-postcode: 82547
+postcode: "82547"
 city: Eurasburg
 street: "Am Mühlbach"
 housenumber: 3

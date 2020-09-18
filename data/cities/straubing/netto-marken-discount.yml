@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.8686528
 longitude: 12.5728994
-postcode: 94315
+postcode: "94315"
 city: Straubing
 street: "Landshuter Straße"
 housenumber: 90

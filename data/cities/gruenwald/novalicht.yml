@@ -3,10 +3,10 @@ type: node
 shop: Lampen
 latitude: 48.0418229
 longitude: 11.525896900000001
-postcode: 82031
+postcode: "82031"
 city: Grünwald
 street: "Südliche Münchner Straße"
 housenumber: 15
 phone: "+49 89 38905001"
 opening_hours: ""
-website: "www.novalicht.de"
+website: "https://www.novalicht.de"

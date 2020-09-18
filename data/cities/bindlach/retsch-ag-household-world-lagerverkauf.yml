@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsartikel
 latitude: 49.9739846
 longitude: 11.619112300000001
-postcode: 95463
+postcode: "95463"
 city: Bindlach
 street: "Esbachgraben"
 housenumber: 9

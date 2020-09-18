@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 48.3511493
 longitude: 11.5631023
-postcode: 85777
+postcode: "85777"
 city: Fahrenzhausen
 street: "Hauptstraße"
 housenumber: 2

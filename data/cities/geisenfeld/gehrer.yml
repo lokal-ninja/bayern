@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.650373900000005
 longitude: 11.6663593
-postcode: 85290
+postcode: "85290"
 city: Geisenfeld
 street: "Dorfstraße"
 housenumber: 6

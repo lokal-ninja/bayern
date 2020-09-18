@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.4573259
 longitude: 11.088022
-postcode: 90403
+postcode: "90403"
 city: Nürnberg
 street: "Äußerer Laufer Platz"
 housenumber: 24

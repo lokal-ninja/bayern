@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.932625400000006
 longitude: 11.5943742
-postcode: 95448
+postcode: "95448"
 city: Bayreuth
 street: "Nürnberger Straße"
 housenumber: 48

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.404974200000005
 longitude: 11.7558284
-postcode: 85356
+postcode: "85356"
 city: Freising
 street: "Landshuter Straße"
 housenumber: 52

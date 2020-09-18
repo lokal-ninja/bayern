@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.150277700000004
 longitude: 11.5762067
-postcode: 
+postcode: ""
 city: München
 street: "Schellingstraße"
 housenumber: 28a

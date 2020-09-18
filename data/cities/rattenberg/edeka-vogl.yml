@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.0851581
 longitude: 12.753152
-postcode: 94371
+postcode: "94371"
 city: Rattenberg
 street: "Amselstraße"
 housenumber: 1

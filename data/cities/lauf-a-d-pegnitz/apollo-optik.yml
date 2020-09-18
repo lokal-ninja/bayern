@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.511456
 longitude: 11.280967500000001
-postcode: 91207
+postcode: "91207"
 city: Lauf a.d.Pegnitz
 street: "Marktplatz"
 housenumber: 49

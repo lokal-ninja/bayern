@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.2841163
 longitude: 10.785579100000001
-postcode: 91564
+postcode: "91564"
 city: Neuendettelsau
 street: "Bahnhofstraße"
 housenumber: 18

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.435104900000006
 longitude: 10.9587442
-postcode: 90513
+postcode: "90513"
 city: Zirndorf
 street: "Rothenburger Straße"
 housenumber: 24

@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 47.8625393
 longitude: 12.006009200000001
-postcode: 83043
+postcode: "83043"
 city: Bad Aibling
 street: "Bahnhofstraße"
 housenumber: 28

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.107432700000004
 longitude: 11.457813300000002
-postcode: 95326
+postcode: "95326"
 city: Kulmbach
 street: "Marktplatz"
 housenumber: 7-8

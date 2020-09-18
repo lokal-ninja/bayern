@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 48.1384928
 longitude: 11.4452411
-postcode: 81243
+postcode: "81243"
 city: München
 street: "Maria-Eich-Straße"
 housenumber: 71

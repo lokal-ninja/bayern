@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 48.5328633
 longitude: 11.298040400000001
-postcode: 86561
+postcode: "86561"
 city: Aresing
 street: "Sankt-Martin-Straße"
 housenumber: 17

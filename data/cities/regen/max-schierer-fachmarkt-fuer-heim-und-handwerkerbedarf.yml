@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 48.96980670000001
 longitude: 13.1304297
-postcode: 
+postcode: ""
 city: Regen
 street: "Voglweg"
 housenumber: 1

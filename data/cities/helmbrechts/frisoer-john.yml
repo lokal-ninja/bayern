@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.244252700000004
 longitude: 11.720015
-postcode: 95233
+postcode: "95233"
 city: Helmbrechts
 street: "Ludwig-Thoma-Straße"
 housenumber: 8

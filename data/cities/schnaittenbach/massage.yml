@@ -3,7 +3,7 @@ type: way
 shop: Massage
 latitude: 49.556105200000005
 longitude: 12.0012764
-postcode: 92253
+postcode: "92253"
 city: Schnaittenbach
 street: "Buchenweg"
 housenumber: 3

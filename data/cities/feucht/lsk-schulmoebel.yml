@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 49.377793600000004
 longitude: 11.221560400000001
-postcode: 90537
+postcode: "90537"
 city: Feucht
 street: "Grillenweg"
 housenumber: 23

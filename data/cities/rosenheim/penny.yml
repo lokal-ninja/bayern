@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.8407246
 longitude: 12.1242198
-postcode: 83026
+postcode: "83026"
 city: Rosenheim
 street: "Isarstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 49.482154400000006
 longitude: 10.894292400000001
-postcode: 90556
+postcode: "90556"
 city: Cadolzburg
 street: "Alte Dorfstraße"
 housenumber: 18

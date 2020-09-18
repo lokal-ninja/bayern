@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.657702500000006
 longitude: 11.4676135
-postcode: 85084
+postcode: "85084"
 city: Reichertshofen
 street: "Marktstraße"
 housenumber: 5

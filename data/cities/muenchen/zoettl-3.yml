@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.081096
 longitude: 11.528517500000001
-postcode: 81479
+postcode: "81479"
 city: München
 street: "Wolfratshauser Straße"
 housenumber: 208

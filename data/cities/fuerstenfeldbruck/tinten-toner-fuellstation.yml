@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 48.180450400000005
 longitude: 11.2547779
-postcode: 82256
+postcode: "82256"
 city: Fürstenfeldbruck
 street: "Augsburger Straße"
 housenumber: 10

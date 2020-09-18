@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 48.631558500000004
 longitude: 12.494225
-postcode: 84130
+postcode: "84130"
 city: Dingolfing
 street: "Rennweg"
 housenumber: 2

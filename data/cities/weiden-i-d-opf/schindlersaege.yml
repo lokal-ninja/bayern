@@ -3,7 +3,7 @@ type: node
 shop: Basteln
 latitude: 49.692059400000005
 longitude: 12.136422300000001
-postcode: 92637
+postcode: "92637"
 city: Weiden i.d.OPf.
 street: "Dr.-Johann-Stark-Straße"
 housenumber: 5

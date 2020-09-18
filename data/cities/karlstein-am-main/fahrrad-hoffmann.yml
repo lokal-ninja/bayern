@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.0481196
 longitude: 9.009811000000001
-postcode: 63791
+postcode: "63791"
 city: Karlstein am Main
 street: "Hauptstraße"
 housenumber: 7

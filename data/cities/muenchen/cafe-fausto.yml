@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 48.105931000000005
 longitude: 11.5669211
-postcode: 81543
+postcode: "81543"
 city: München
 street: "Birkenleiten"
 housenumber: 41

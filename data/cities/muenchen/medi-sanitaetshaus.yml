@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 48.1863668
 longitude: 11.5729997
-postcode: 80807
+postcode: "80807"
 city: München
 street: "Illungshofstraße"
 housenumber: 19

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.2244377
 longitude: 12.0878177
-postcode: 93158
+postcode: "93158"
 city: Teublitz
 street: "Regensburger Straße"
 housenumber: 31

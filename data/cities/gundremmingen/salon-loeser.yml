@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.497831600000005
 longitude: 10.4009012
-postcode: 89355
+postcode: "89355"
 city: Gundremmingen
 street: "Eichbrunnenstraße"
 housenumber: 18

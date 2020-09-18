@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.1112515
 longitude: 11.036312200000001
-postcode: 82269
+postcode: "82269"
 city: Geltendorf
 street: "Bahnhofstraße"
 housenumber: 117

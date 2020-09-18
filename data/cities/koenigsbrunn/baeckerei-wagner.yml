@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.2555234
 longitude: 10.8962971
-postcode: 86343
+postcode: "86343"
 city: Königsbrunn
 street: "Eichenplatz"
 housenumber: 3

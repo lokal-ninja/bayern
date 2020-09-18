@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 48.074365500000006
 longitude: 11.6038686
-postcode: 82008
+postcode: "82008"
 city: Unterhaching
 street: "Münchner Straße"
 housenumber: 123a

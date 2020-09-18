@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 49.174707000000005
 longitude: 10.933000700000001
-postcode: 91174
+postcode: "91174"
 city: Spalt
 street: "Rother Straße"
 housenumber: 8

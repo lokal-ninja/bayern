@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 49.964472300000004
 longitude: 9.1300124
-postcode: 63741
+postcode: "63741"
 city: Aschaffenburg
 street: "Magnolienweg"
 housenumber: 3

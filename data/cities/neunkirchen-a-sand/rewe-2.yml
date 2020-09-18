@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 49.5209643
 longitude: 11.3357349
-postcode: 91233
+postcode: "91233"
 city: Neunkirchen a.Sand
 street: "Seeäckerstraße"
 housenumber: 4

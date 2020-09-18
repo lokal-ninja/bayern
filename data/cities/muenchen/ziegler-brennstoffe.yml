@@ -3,7 +3,7 @@ type: node
 shop: Gasflaschen
 latitude: 48.1266827
 longitude: 11.6303549
-postcode: 81673
+postcode: "81673"
 city: München
 street: "Josephsburgstraße"
 housenumber: 28

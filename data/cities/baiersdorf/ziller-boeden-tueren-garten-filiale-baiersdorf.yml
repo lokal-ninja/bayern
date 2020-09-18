@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 49.6708124
 longitude: 11.044961200000001
-postcode: 91083
+postcode: "91083"
 city: Baiersdorf
 street: "Am Kreuzbach"
 housenumber: 6

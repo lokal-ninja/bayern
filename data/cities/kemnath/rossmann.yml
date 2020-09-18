@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 49.867743600000004
 longitude: 11.881248800000002
-postcode: 95478
+postcode: "95478"
 city: Kemnath
 street: "Röntgenstraße"
 housenumber: 7

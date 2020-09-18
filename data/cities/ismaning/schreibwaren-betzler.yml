@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 48.2261808
 longitude: 11.678313600000001
-postcode: 85737
+postcode: "85737"
 city: Ismaning
 street: "Bahnhofplatz"
 housenumber: 5

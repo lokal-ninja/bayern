@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 49.0059874
 longitude: 11.9764441
-postcode: 93161
+postcode: "93161"
 city: Sinzing
 street: "Röhrl-Bräu-Straße"
 housenumber: 6

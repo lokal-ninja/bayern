@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.9528911
 longitude: 10.6066234
-postcode: 86732
+postcode: "86732"
 city: Oettingen i.Bay.
 street: "Zwinger"
 housenumber: 1

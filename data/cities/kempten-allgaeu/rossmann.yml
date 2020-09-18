@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.706743
 longitude: 10.325470800000002
-postcode: 87437
+postcode: "87437"
 city: Kempten (Allgäu)
 street: "Friedrich-Ebert-Straße"
 housenumber: 1

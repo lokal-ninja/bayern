@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.312626200000004
 longitude: 12.158126900000001
-postcode: 92442
+postcode: "92442"
 city: Wackersdorf
 street: "Gewerbepark"
 housenumber: 2

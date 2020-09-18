@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.5626283
 longitude: 11.2643033
-postcode: 86529
+postcode: "86529"
 city: Schrobenhausen
 street: "Lenbachstraße"
 housenumber: 12

@@ -1,4 +1,4 @@
 ---
-title: "Hobbygeschäft  Bernd Steiner"
+title: "Hobbygeschäft Bernd Steiner"
 url: /diespeck/hobbygeschaeft-bernd-steiner/
 ---

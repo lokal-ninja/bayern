@@ -1,12 +1,12 @@
-id: 147521970
+id: 97856639
 type: way
 shop: Supermarkt
-latitude: 48.1653881
-longitude: 11.488999000000002
-postcode: 80992
+latitude: 48.1203981
+longitude: 11.556545400000001
+postcode: "81371"
 city: München
-street: "Menzinger Straße"
-housenumber: 85
+street: "Dreimühlenstraße"
+housenumber: 42
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: ""
+opening_hours: "Mo-Sa 08:00-20:00; Su off"
+website: "https://www.lidl.de"

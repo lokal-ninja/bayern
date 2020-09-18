@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.961692400000004
 longitude: 9.2178812
-postcode: 63808
+postcode: "63808"
 city: Grünmorsbach
 street: "Würzburger Straße"
 housenumber: 285

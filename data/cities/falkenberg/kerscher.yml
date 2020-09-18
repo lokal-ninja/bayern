@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 48.464585500000005
 longitude: 12.7308482
-postcode: 84326
+postcode: "84326"
 city: Falkenberg
 street: "Eggenfeldener Straße"
 housenumber: 46a, 46b

@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 50.004791600000004
 longitude: 9.203112800000001
-postcode: 63768
+postcode: "63768"
 city: Hösbach
 street: "Schöllkrippener Straße"
 housenumber: 13

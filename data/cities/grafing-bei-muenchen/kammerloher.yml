@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.046907700000006
 longitude: 11.967243600000002
-postcode: 85567
+postcode: "85567"
 city: Grafing bei München
 street: "Münchener Straße"
 housenumber: 11

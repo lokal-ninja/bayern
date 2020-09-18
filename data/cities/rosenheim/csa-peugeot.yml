@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.851326900000004
 longitude: 12.1371988
-postcode: 83022
+postcode: "83022"
 city: Rosenheim
 street: "Chiemseestraße"
 housenumber: 27

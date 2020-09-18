@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.366939200000004
 longitude: 10.8947999
-postcode: 86150
+postcode: "86150"
 city: Augsburg
 street: "Annastraße"
 housenumber: 34

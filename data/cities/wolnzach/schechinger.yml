@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 48.6051245
 longitude: 11.628419500000001
-postcode: 85283
+postcode: "85283"
 city: Wolnzach
 street: "Kellerstraße"
 housenumber: 12

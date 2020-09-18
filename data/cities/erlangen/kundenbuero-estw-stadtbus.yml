@@ -3,7 +3,7 @@ type: node
 shop: Tickets
 latitude: 49.5966505
 longitude: 11.002547600000002
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Goethestraße"
 housenumber: 21a

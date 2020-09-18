@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 48.364038
 longitude: 10.8745854
-postcode: 86157
+postcode: "86157"
 city: Augsburg
 street: "Augsburger Straße"
 housenumber: 8

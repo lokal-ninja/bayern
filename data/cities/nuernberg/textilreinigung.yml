@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 49.46673740000001
 longitude: 11.1616548
-postcode: 90482
+postcode: "90482"
 city: Nürnberg
 street: "Moritzbergstraße"
 housenumber: 35

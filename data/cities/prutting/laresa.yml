@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.891700400000005
 longitude: 12.1981824
-postcode: 83134
+postcode: "83134"
 city: Prutting
 street: "Rosenheimer Straße"
 housenumber: 32

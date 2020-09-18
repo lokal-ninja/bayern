@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.542197900000005
 longitude: 13.2248491
-postcode: 94496
+postcode: "94496"
 city: Ortenburg
 street: "Fürstenzeller Straße"
 housenumber: 14

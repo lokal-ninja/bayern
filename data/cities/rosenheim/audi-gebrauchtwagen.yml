@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.8552833
 longitude: 12.1395941
-postcode: 83022
+postcode: "83022"
 city: Rosenheim
 street: "Innstraße"
 housenumber: 67

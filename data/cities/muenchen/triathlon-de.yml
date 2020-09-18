@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 48.136367500000006
 longitude: 11.5675191
-postcode: 80331
+postcode: "80331"
 city: München
 street: "Josephspitalstraße"
 housenumber: 9

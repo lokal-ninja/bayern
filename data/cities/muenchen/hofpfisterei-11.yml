@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.1166004
 longitude: 11.580793900000002
-postcode: 81541
+postcode: "81541"
 city: München
 street: "Tegernseer Landstraße"
 housenumber: 48

@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 48.1609941
 longitude: 12.7949976
-postcode: 84489
+postcode: "84489"
 city: Burghausen
 street: "Burgkirchener Straße"
 housenumber: 175

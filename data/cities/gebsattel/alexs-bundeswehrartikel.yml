@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.330938700000004
 longitude: 10.1973559
-postcode: 91607
+postcode: "91607"
 city: Gebsattel
 street: "Bockenfeld"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 48.1493119
 longitude: 11.541379000000001
-postcode: 80636
+postcode: "80636"
 city: München
 street: "Birkerstraße"
 housenumber: 2

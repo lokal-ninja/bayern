@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 50.328508400000004
 longitude: 11.708688
-postcode: 95119
+postcode: "95119"
 city: Naila
 street: "Kronacher Straße"
 housenumber: 19

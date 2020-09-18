@@ -3,7 +3,7 @@ type: way
 shop: Dorfladen
 latitude: 49.8234579
 longitude: 9.2415195
-postcode: 63863
+postcode: "63863"
 city: Eschau
 street: "Aussiedlerhof"
 housenumber: 1

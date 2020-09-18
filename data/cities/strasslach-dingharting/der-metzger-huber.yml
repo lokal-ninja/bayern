@@ -3,9 +3,9 @@ type: node
 shop: Metzgerei
 latitude: 47.980676100000004
 longitude: 11.5208138
-postcode: 82064
+postcode: "82064"
 city: Straßlach-Dingharting
-street: "Am Weiher"
+street: "Gleißentalstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

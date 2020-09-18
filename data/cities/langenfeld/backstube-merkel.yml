@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.6152194
 longitude: 10.5095509
-postcode: 91474
+postcode: "91474"
 city: Langenfeld
 street: "Uhlstädter Straße"
 housenumber: 8

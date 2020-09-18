@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.9655944
 longitude: 12.3823925
-postcode: 93102
+postcode: "93102"
 city: Pfatter
 street: "Bramstraße"
 housenumber: 1

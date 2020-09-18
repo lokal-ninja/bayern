@@ -1,12 +1,12 @@
-id: 1309258480
+id: 1309258551
 type: node
 shop: Drogerie
-latitude: 48.130556000000006
-longitude: 11.572356800000001
-postcode: 80469
+latitude: 48.1404877
+longitude: 11.489519300000001
+postcode: "80687"
 city: München
-street: "Fraunhoferstraße"
-housenumber: 10
+street: "Agnes-Bernauer-Straße"
+housenumber: 151
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off"
 website: ""

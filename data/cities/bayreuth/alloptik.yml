@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.9436138
 longitude: 11.5774308
-postcode: 95444
+postcode: "95444"
 city: Bayreuth
 street: "Maximilianstraße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.0650904
 longitude: 9.230839600000001
-postcode: 63825
+postcode: "63825"
 city: Blankenbach
 street: "Bahnhofstraße"
 housenumber: 25

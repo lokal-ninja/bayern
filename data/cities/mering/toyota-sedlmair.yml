@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.257181
 longitude: 10.9870164
-postcode: 86415
+postcode: "86415"
 city: Mering
 street: "Alpspitzstraße"
 housenumber: 3

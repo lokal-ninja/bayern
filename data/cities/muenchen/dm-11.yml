@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.1514028
 longitude: 11.5583214
-postcode: 80335
+postcode: "80335"
 city: München
 street: "Dachauer Straße"
 housenumber: 92

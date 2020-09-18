@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.765378500000004
 longitude: 11.4264943
-postcode: 
+postcode: ""
 city: Ingolstadt
 street: "Ziegelbräustraße"
 housenumber: 9

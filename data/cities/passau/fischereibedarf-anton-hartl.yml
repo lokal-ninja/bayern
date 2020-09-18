@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.574120900000004
 longitude: 13.4734131
-postcode: 94032
+postcode: "94032"
 city: Passau
 street: "Bräugasse"
 housenumber: 18

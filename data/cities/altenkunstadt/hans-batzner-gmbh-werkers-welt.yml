@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 50.1339017
 longitude: 11.243740200000001
-postcode: 96264
+postcode: "96264"
 city: Altenkunstadt
 street: "Mainbrücke"
 housenumber: 6

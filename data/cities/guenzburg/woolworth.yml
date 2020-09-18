@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.456943700000004
 longitude: 10.279074600000001
-postcode: 89312
+postcode: "89312"
 city: Günzburg
 street: "Dillinger Straße"
 housenumber: 

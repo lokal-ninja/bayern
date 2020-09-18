@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.5984485
 longitude: 11.0029768
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Dreikönigstraße"
 housenumber: 6-8

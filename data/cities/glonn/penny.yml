@@ -1,12 +1,12 @@
-id: 25879227
-type: way
+id: 7903082411
+type: node
 shop: Supermarkt
-latitude: 47.987642
-longitude: 11.862300300000001
-postcode: 85625
+latitude: 47.9875064
+longitude: 11.862030800000001
+postcode: "85625"
 city: Glonn
 street: "Pfarrer-Winhart-Straße"
 housenumber: 3
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: "Mo-Sa 07:00-20:00; PH off"
 website: ""

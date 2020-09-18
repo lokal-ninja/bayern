@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.8872994
 longitude: 10.3136661
-postcode: 97447
+postcode: "97447"
 city: Frankenwinheim
 street: "Gerolzhöfer Straße"
 housenumber: 3

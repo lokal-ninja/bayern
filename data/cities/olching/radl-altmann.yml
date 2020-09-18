@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.2093793
 longitude: 11.330521000000001
-postcode: 82140
+postcode: "82140"
 city: Olching
 street: "Hauptstraße"
 housenumber: 14

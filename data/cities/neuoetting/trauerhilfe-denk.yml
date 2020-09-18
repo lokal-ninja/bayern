@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 48.2384435
 longitude: 12.6888126
-postcode: 84524
+postcode: "84524"
 city: Neuötting
 street: "Altöttinger Straße"
 housenumber: 

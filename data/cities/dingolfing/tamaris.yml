@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 48.629375200000005
 longitude: 12.4971429
-postcode: 84130
+postcode: "84130"
 city: Dingolfing
 street: "Bruckstraße"
 housenumber: 14

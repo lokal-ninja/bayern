@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.4819637
 longitude: 11.009487
-postcode: 90765
+postcode: "90765"
 city: Fürth
 street: "Hans-Vogel-Straße"
 housenumber: 54

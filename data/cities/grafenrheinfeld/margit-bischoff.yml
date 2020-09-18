@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 49.9995525
 longitude: 10.1977578
-postcode: 97506
+postcode: "97506"
 city: Grafenrheinfeld
 street: "Hauptstraße"
 housenumber: 40

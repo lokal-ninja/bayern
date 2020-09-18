@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.4581378
 longitude: 10.2781274
-postcode: 89312
+postcode: "89312"
 city: Günzburg
 street: "Maria-Theresia-Straße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.01863710000001
 longitude: 11.4752522
-postcode: 82065
+postcode: "82065"
 city: Baierbrunn
 street: "Schorner Straße"
 housenumber: 

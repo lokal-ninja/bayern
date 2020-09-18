@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.8192369
 longitude: 10.592103700000001
-postcode: 87674
+postcode: "87674"
 city: Ruderatshofen
 street: "Hauptstraße"
 housenumber: 2

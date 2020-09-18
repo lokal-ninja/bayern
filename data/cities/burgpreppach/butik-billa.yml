@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 50.1404319
 longitude: 10.6528899
-postcode: 97496
+postcode: "97496"
 city: Burgpreppach
 street: "Hauptstraße"
 housenumber: 33

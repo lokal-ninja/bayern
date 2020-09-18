@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.151021500000006
 longitude: 11.748485
-postcode: 85551
+postcode: "85551"
 city: Kirchheim bei München
 street: "Ammerthalstraße"
 housenumber: 24

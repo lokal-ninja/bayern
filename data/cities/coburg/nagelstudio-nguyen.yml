@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.2634387
 longitude: 10.9658765
-postcode: 96450
+postcode: "96450"
 city: Coburg
 street: "Heiligkreuzstraße"
 housenumber: 9

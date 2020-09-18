@@ -3,7 +3,7 @@ type: way
 shop: Kopieren
 latitude: 48.0951407
 longitude: 11.557805
-postcode: 81545
+postcode: "81545"
 city: München
 street: "Karolingerallee"
 housenumber: 35

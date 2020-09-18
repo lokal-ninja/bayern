@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.7885056
 longitude: 10.030504800000001
-postcode: 97228
+postcode: "97228"
 city: Rottendorf
 street: "Kitzinger Straße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.6841671
 longitude: 12.162722800000001
-postcode: 92637
+postcode: "92637"
 city: Weiden i.d.OPf.
 street: "Zur Centralwerkstätte"
 housenumber: 22

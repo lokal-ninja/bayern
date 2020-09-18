@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 49.704004600000005
 longitude: 10.2602905
-postcode: 97346
+postcode: "97346"
 city: Iphofen
 street: "Pfarrgasse"
 housenumber: 24

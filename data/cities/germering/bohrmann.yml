@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.137393700000004
 longitude: 11.3725834
-postcode: 82110
+postcode: "82110"
 city: Germering
 street: "Stettiner Straße"
 housenumber: 1

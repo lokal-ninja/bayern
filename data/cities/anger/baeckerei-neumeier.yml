@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.8053292
 longitude: 12.849107700000001
-postcode: 83454
+postcode: "83454"
 city: Anger
 street: "Haslauerstraße"
 housenumber: 8

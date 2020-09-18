@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.014214
 longitude: 12.101870100000001
-postcode: 93047
+postcode: "93047"
 city: Regensburg
 street: "Luitpoldstraße"
 housenumber: 2

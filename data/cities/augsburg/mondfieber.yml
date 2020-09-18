@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.369891300000006
 longitude: 10.8968342
-postcode: 86150
+postcode: "86150"
 city: Augsburg
 street: "Steingasse"
 housenumber: 12

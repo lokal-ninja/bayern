@@ -3,7 +3,7 @@ type: way
 shop: Kaffee
 latitude: 48.562890700000004
 longitude: 11.2648524
-postcode: 86529
+postcode: "86529"
 city: Schrobenhausen
 street: "Lenbachstraße"
 housenumber: 5

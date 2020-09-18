@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.920599300000006
 longitude: 10.1359919
-postcode: 97523
+postcode: "97523"
 city: Schwanfeld
 street: "Hauptstraße"
 housenumber: 35

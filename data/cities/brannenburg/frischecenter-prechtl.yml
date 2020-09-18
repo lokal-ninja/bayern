@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.7361282
 longitude: 12.1126771
-postcode: 83098
+postcode: "83098"
 city: Brannenburg
 street: "Nußdorfer Straße"
 housenumber: 35

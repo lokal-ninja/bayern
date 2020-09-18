@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.1528203
 longitude: 11.5742504
-postcode: 80799
+postcode: "80799"
 city: München
 street: "Barer Straße"
 housenumber: 63

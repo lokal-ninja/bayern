@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.6610688
 longitude: 10.957039400000001
-postcode: 86641
+postcode: "86641"
 city: Rain
 street: "Sallacher Straße"
 housenumber: 24

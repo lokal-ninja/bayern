@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.094479
 longitude: 11.5193407
-postcode: 81379
+postcode: "81379"
 city: München
 street: "Kistlerhofstraße"
 housenumber: 111

@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 49.436936
 longitude: 11.067573900000001
-postcode: 90443
+postcode: "90443"
 city: Nürnberg
 street: "Gibitzenhofstraße"
 housenumber: 74

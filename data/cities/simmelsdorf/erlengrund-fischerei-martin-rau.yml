@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 49.612274400000004
 longitude: 11.361326400000001
-postcode: 91245
+postcode: "91245"
 city: Simmelsdorf
 street: "Achtelstraße"
 housenumber: 39

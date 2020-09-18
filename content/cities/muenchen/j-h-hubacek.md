@@ -1,4 +1,4 @@
 ---
-title: "J.H.Hubacek"
+title: "J.H. Hubacek"
 url: /muenchen/j-h-hubacek/
 ---

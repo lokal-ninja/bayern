@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 48.110185200000004
 longitude: 11.5675802
-postcode: 81543
+postcode: "81543"
 city: München
 street: "Ludmillastraße"
 housenumber: 49a

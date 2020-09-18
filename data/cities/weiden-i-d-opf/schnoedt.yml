@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 49.668629300000006
 longitude: 12.154845
-postcode: 92637
+postcode: "92637"
 city: Weiden i.d.OPf.
 street: "Bahnhofstraße"
 housenumber: 40-44

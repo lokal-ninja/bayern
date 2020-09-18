@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 48.1356261
 longitude: 11.3066467
-postcode: 82239
+postcode: "82239"
 city: Alling
 street: "Schabweg"
 housenumber: 4a

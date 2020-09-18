@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.1290308
 longitude: 11.3599674
-postcode: 82110
+postcode: "82110"
 city: Germering
 street: "Landsberger Straße"
 housenumber: 61

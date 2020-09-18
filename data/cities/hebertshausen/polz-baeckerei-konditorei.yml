@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.303722900000004
 longitude: 11.4877965
-postcode: 85241
+postcode: "85241"
 city: Hebertshausen
 street: "Dachauer Straße"
 housenumber: 9

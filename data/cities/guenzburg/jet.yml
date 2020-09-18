@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.4532309
 longitude: 10.2864188
-postcode: 89312
+postcode: "89312"
 city: Günzburg
 street: "Augsburger Straße"
 housenumber: 35

@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 49.954789600000005
 longitude: 12.242764000000001
-postcode: 95666
+postcode: "95666"
 city: Mitterteich
 street: "Kohllohstraße"
 housenumber: 18

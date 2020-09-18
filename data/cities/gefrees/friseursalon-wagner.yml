@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.0948191
 longitude: 11.737449400000001
-postcode: 95482
+postcode: "95482"
 city: Gefrees
 street: "Hauptstraße"
 housenumber: 34

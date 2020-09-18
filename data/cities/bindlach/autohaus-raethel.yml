@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.9771766
 longitude: 11.6100857
-postcode: 95463
+postcode: "95463"
 city: Bindlach
 street: "Leuschnitzstraße"
 housenumber: 3

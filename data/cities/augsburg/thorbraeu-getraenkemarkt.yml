@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.3760659
 longitude: 10.8889552
-postcode: 86152
+postcode: "86152"
 city: Augsburg
 street: "Wertachbrucker-Tor-Straße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.1866356
 longitude: 11.554560700000001
-postcode: 
+postcode: ""
 city: München
 street: "Moosacher Straße"
 housenumber: 40

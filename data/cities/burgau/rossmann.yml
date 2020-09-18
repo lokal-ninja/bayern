@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.4404933
 longitude: 10.4122675
-postcode: 89331
+postcode: "89331"
 city: Burgau
 street: "Robert-Bosch-Straße"
 housenumber: 7

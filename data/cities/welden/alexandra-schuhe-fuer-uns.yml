@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 48.456759500000004
 longitude: 10.659188100000001
-postcode: 86465
+postcode: "86465"
 city: Welden
 street: "Bahnhofstraße"
 housenumber: 2

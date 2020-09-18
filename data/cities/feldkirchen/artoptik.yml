@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.1478241
 longitude: 11.728813
-postcode: 85622
+postcode: "85622"
 city: Feldkirchen
 street: "Aschheimer Straße"
 housenumber: 7

@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 49.464210200000004
 longitude: 11.049139700000001
-postcode: 90419
+postcode: "90419"
 city: Nürnberg
 street: "Schnieglinger Straße"
 housenumber: 74

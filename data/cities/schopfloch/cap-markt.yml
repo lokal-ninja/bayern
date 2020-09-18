@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.1155472
 longitude: 10.3078669
-postcode: 91626
+postcode: "91626"
 city: Schopfloch
 street: "Industriestraße"
 housenumber: 1

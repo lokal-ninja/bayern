@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.1805651
 longitude: 11.553253600000001
-postcode: 80809
+postcode: "80809"
 city: München
 street: "Helene-Mayer-Ring"
 housenumber: 7a

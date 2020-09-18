@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 48.1351339
 longitude: 11.5747321
-postcode: 80331
+postcode: "80331"
 city: München
 street: "Prälat-Zistl-Straße"
 housenumber: 4

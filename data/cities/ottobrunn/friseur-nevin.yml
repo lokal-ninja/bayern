@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.0594387
 longitude: 11.667009
-postcode: 85521
+postcode: "85521"
 city: Ottobrunn
 street: "Friedrich-Ebert-Platz"
 housenumber: 1

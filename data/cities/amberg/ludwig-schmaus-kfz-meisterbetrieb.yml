@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.487182100000005
 longitude: 11.8791179
-postcode: 92224
+postcode: "92224"
 city: Amberg
 street: "Max-Planck-Straße"
 housenumber: 19

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.6690733
 longitude: 10.719163400000001
-postcode: 91486
+postcode: "91486"
 city: Uehlfeld
 street: "Bahnhofstraße"
 housenumber: 16

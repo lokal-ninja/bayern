@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.770923700000004
 longitude: 11.3819529
-postcode: 85049
+postcode: "85049"
 city: Ingolstadt
 street: "Krumenauerstraße"
 housenumber: 54

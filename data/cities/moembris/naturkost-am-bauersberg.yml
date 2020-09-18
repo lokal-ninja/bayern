@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 50.0743537
 longitude: 9.1552734
-postcode: 63776
+postcode: "63776"
 city: Mömbris
 street: "Am Bauersberg"
 housenumber: 2
-phone: "+49 06 0291498"
+phone: "+49 60291498"
 opening_hours: "Tu-Th 08:30-13:00, 14:00-18:00; Fr 08:30-19:00; Sa 08:30-13:00"
 website: "https://www.naturkost-am-bauersberg.de/"

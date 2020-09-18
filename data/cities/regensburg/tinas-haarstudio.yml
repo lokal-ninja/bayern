@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.9945296
 longitude: 12.083639600000001
-postcode: 93051
+postcode: "93051"
 city: Regensburg
 street: "Karl-Stieler-Straße"
 housenumber: 56

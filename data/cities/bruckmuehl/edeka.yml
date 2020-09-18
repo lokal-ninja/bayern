@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.884793800000004
 longitude: 11.9321322
-postcode: 83052
+postcode: "83052"
 city: Bruckmühl
 street: "Wernher-von-Braun-Straße"
 housenumber: 2

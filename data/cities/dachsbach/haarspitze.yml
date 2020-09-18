@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.6394603
 longitude: 10.7055679
-postcode: 91462
+postcode: "91462"
 city: Dachsbach
 street: "Marktplatz"
 housenumber: 20

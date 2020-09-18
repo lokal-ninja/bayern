@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.136577
 longitude: 11.6144567
-postcode: 
+postcode: ""
 city: München
 street: "Einsteinstraße"
 housenumber: 130

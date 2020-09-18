@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.7137666
 longitude: 11.135737800000001
-postcode: 91369
+postcode: "91369"
 city: Wiesenthau
 street: "Hauptstraße"
 housenumber: 3

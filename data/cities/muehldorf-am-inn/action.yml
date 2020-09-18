@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 48.2349717
 longitude: 12.542969600000001
-postcode: 84453
+postcode: "84453"
 city: Mühldorf am Inn
 street: "Oderstraße"
 housenumber: 27

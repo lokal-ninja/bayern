@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.1722344
 longitude: 12.726654900000002
-postcode: 84508
+postcode: "84508"
 city: Burgkirchen an der Alz
 street: "Jahnstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.4720425
 longitude: 11.062896400000001
-postcode: 90425
+postcode: "90425"
 city: Nürnberg
 street: "Pretzfelder Straße"
 housenumber: 5

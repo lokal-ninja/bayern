@@ -3,7 +3,7 @@ type: node
 shop: Beschriftungen
 latitude: 49.3808725
 longitude: 10.1802378
-postcode: 91541
+postcode: "91541"
 city: Rothenburg ob der Tauber
 street: "Kreuzerstraße"
 housenumber: 1

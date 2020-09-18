@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.445986500000004
 longitude: 11.0896884
-postcode: 90478
+postcode: "90478"
 city: Nürnberg
 street: "Köhnstraße"
 housenumber: 38

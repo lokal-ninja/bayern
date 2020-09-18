@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.859774300000005
 longitude: 9.0798816
-postcode: 63853
+postcode: "63853"
 city: Mömlingen
 street: "Gartenstraße"
 housenumber: 12

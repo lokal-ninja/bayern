@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.446126500000005
 longitude: 11.0091145
-postcode: 90431
+postcode: "90431"
 city: Nürnberg
 street: "Sigmundstraße"
 housenumber: 155

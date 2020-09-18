@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.765235600000004
 longitude: 11.532876900000002
-postcode: 85098
+postcode: "85098"
 city: Großmehring
 street: "Marienplatz"
 housenumber: 11

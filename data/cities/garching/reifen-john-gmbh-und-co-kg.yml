@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 48.253349
 longitude: 11.6169124
-postcode: 85748
+postcode: "85748"
 city: Garching
 street: "Zeppelinstraße"
 housenumber: 26

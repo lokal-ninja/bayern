@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 47.9481933
 longitude: 11.1044429
-postcode: 86911
+postcode: "86911"
 city: Dießen am Ammersee
 street: "Mühlstraße"
 housenumber: 6

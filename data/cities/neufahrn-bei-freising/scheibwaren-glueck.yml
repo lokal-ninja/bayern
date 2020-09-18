@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 48.3173359
 longitude: 11.6619186
-postcode: 85375
+postcode: "85375"
 city: Neufahrn bei Freising
 street: "Bahnhofstraße"
 housenumber: 31

@@ -1,12 +1,12 @@
-id: 1509552316
+id: 5739781584
 type: node
 shop: Fahrrad
-latitude: 49.7296993
-longitude: 12.1685198
-postcode: 92660
+latitude: 49.731104200000004
+longitude: 12.172126
+postcode: "92660"
 city: Neustadt a.d.Waldnaab
-street: "Freyung"
-housenumber: 5
-phone: ""
+street: "Stadtplatz"
+housenumber: 37
+phone: "+49 9602 1267"
 opening_hours: ""
-website: "https://www.fahrrad-fritsch.de/"
+website: "https://www.fahrrad-fritsch.de"

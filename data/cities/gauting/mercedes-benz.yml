@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.0686143
 longitude: 11.389546500000002
-postcode: 82131
+postcode: "82131"
 city: Gauting
 street: "Julius-Haerlin-Straße"
 housenumber: 39

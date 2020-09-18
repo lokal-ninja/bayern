@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.7457714
 longitude: 11.469893
-postcode: 85053
+postcode: "85053"
 city: Ingolstadt
 street: "Manchinger Straße"
 housenumber: 115a

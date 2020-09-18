@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 49.121156600000006
 longitude: 13.202860800000002
-postcode: 94252
+postcode: "94252"
 city: Bayerisch Eisenstein
 street: "Hohenzollernstraße"
 housenumber: 1

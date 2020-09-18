@@ -1,4 +1,4 @@
 ---
-title: "BAYWA Moosburg - Agrar"
+title: "BayWa Moosburg - Agrar"
 url: /moosburg-a-d-isar/baywa-moosburg-agrar/
 ---

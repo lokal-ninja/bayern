@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 49.587814
 longitude: 10.977034300000001
-postcode: 91056
+postcode: "91056"
 city: Erlangen
 street: "Neumühle"
 housenumber: 4

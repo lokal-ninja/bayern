@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.2546581
 longitude: 10.877086100000001
-postcode: 86343
+postcode: "86343"
 city: Königsbrunn
 street: "Messerschmittring"
 housenumber: 2

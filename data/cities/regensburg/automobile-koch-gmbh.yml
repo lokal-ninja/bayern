@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.027048300000004
 longitude: 12.131878400000002
-postcode: 93059
+postcode: "93059"
 city: Regensburg
 street: "Zimmerstraße"
 housenumber: 15

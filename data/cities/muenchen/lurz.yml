@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 48.095538600000005
 longitude: 11.526358100000001
-postcode: 81379
+postcode: "81379"
 city: München
 street: "Kistlerhofstraße"
 housenumber: 70

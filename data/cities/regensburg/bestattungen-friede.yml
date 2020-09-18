@@ -3,10 +3,10 @@ type: node
 shop: Bestattungen
 latitude: 49.015202800000004
 longitude: 12.0637095
-postcode: 93049
+postcode: "93049"
 city: Regensburg
 street: "Prüfeninger Straße"
 housenumber: 91
-phone: ""
+phone: "09418984950"
 opening_hours: ""
 website: ""

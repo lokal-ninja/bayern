@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.6116043
 longitude: 10.5671072
-postcode: 89420
+postcode: "89420"
 city: Höchstädt a.d.Donau
 street: "Marktplatz"
 housenumber: 6

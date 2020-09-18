@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 48.6073065
 longitude: 11.019747500000001
-postcode: 86554
+postcode: "86554"
 city: Pöttmes
 street: "Wallerdorfer Straße"
 housenumber: 3

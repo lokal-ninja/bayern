@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 48.542076200000004
 longitude: 12.490620000000002
-postcode: 84168
+postcode: "84168"
 city: Aham
 street: "Winzersdorf"
 housenumber: 5

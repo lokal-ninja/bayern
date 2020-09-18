@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 49.750982400000005
 longitude: 11.725765
-postcode: 91281
+postcode: "91281"
 city: Kirchenthumbach
 street: "Bayreuther Straße"
 housenumber: 12

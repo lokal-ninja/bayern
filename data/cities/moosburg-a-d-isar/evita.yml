@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.467468000000004
 longitude: 11.936534100000001
-postcode: 85368
+postcode: "85368"
 city: Moosburg a.d. Isar
 street: "Herrnstraße"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 48.1411596
 longitude: 11.583712700000001
-postcode: 80538
+postcode: "80538"
 city: München
 street: "Christophstraße"
 housenumber: 2

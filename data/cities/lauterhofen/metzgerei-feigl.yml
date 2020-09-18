@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 49.369065500000005
 longitude: 11.605036
-postcode: 92283
+postcode: "92283"
 city: Lauterhofen
 street: "Lauterachstraße"
 housenumber: 67

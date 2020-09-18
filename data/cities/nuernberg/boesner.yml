@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 49.4147204
 longitude: 11.166564900000001
-postcode: 90475
+postcode: "90475"
 city: Nürnberg
 street: "Sprottauer Straße"
 housenumber: 37

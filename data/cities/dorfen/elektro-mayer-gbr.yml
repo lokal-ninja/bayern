@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.2733104
 longitude: 12.151387300000001
-postcode: 84405
+postcode: "84405"
 city: Dorfen
 street: "Unterer Markt"
 housenumber: 6

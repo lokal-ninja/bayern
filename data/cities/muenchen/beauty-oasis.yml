@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.1206685
 longitude: 11.5286018
-postcode: 81373
+postcode: "81373"
 city: München
 street: "Hinterbärenbadstraße"
 housenumber: 14a

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.154950500000005
 longitude: 11.565420300000001
-postcode: 80798
+postcode: "80798"
 city: München
 street: "Görresstraße"
 housenumber: 15

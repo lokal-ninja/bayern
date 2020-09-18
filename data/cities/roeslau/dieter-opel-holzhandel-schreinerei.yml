@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.0988223
 longitude: 11.9610906
-postcode: 95195
+postcode: "95195"
 city: Röslau
 street: "Dürnberg"
 housenumber: 4

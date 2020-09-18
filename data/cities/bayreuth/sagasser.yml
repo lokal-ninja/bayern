@@ -3,10 +3,10 @@ type: way
 shop: Getränke
 latitude: 49.9334864
 longitude: 11.5673089
-postcode: 95447
+postcode: "95447"
 city: Bayreuth
 street: "Ludwig-Thoma-Straße"
 housenumber: 22
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00; PH off"
 website: ""

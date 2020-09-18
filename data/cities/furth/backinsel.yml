@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.590333
 longitude: 12.025754000000001
-postcode: 84095
+postcode: "84095"
 city: Furth
 street: "Am Rathaus"
 housenumber: 20

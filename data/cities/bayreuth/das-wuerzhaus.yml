@@ -3,7 +3,7 @@ type: node
 shop: Gewürze
 latitude: 49.944707300000005
 longitude: 11.5720007
-postcode: 95444
+postcode: "95444"
 city: Bayreuth
 street: "Maximilianstraße"
 housenumber: 73

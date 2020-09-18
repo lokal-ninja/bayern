@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.410518
 longitude: 11.7372587
-postcode: 85354
+postcode: "85354"
 city: Freising
 street: "Gaymannstraße"
 housenumber: 1

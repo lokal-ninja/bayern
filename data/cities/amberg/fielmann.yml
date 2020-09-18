@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.4447933
 longitude: 11.8553419
-postcode: 92224
+postcode: "92224"
 city: Amberg
 street: "Georgenstraße"
 housenumber: 22

@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 49.7198487
 longitude: 11.060749000000001
-postcode: 91301
+postcode: "91301"
 city: Forchheim
 street: "Hornschuchallee"
 housenumber: 23

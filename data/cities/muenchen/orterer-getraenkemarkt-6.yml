@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.1078376
 longitude: 11.5829172
-postcode: 81539
+postcode: "81539"
 city: München
 street: "Untersbergstraße"
 housenumber: 74

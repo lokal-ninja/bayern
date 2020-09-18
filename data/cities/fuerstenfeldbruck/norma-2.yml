@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.1780655
 longitude: 11.2336802
-postcode: 82256
+postcode: "82256"
 city: Fürstenfeldbruck
 street: "Landsberger Straße"
 housenumber: 61

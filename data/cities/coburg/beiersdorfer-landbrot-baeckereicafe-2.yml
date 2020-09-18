@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.257853700000005
 longitude: 10.9648448
-postcode: 96450
+postcode: "96450"
 city: Coburg
 street: "Ketschengasse"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.0655123
 longitude: 10.3400265
-postcode: 91550
+postcode: "91550"
 city: Dinkelsbühl
 street: "Danziger Straße"
 housenumber: 20

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.458767800000004
 longitude: 11.0977373
-postcode: 90489
+postcode: "90489"
 city: Nürnberg
 street: "Sulzbacher Straße"
 housenumber: 66

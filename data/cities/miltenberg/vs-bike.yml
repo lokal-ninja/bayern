@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.70392450000001
 longitude: 9.2466702
-postcode: 63897
+postcode: "63897"
 city: Miltenberg
 street: "Von-Hauck-Straße"
 housenumber: 12

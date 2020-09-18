@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 49.8215791
 longitude: 9.980796300000002
-postcode: 97078
+postcode: "97078"
 city: Würzburg
 street: "Mainfrankenhöhe"
 housenumber: 8

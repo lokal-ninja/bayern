@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.7028407
 longitude: 13.7931074
-postcode: 94139
+postcode: "94139"
 city: Breitenberg
 street: "Passauer Straße"
 housenumber: 5

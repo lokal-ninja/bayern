@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 49.8017814
 longitude: 9.943872
-postcode: 97080
+postcode: "97080"
 city: Würzburg
 street: "Brücknerstraße"
 housenumber: 1

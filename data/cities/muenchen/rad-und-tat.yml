@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.1776557
 longitude: 11.6008121
-postcode: 80805
+postcode: "80805"
 city: München
 street: "Echinger Straße"
 housenumber: 5

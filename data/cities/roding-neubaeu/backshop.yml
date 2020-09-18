@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.2346264
 longitude: 12.422764800000001
-postcode: 93426
+postcode: "93426"
 city: Roding-Neubäu
 street: "Singergartenweg"
 housenumber: 4

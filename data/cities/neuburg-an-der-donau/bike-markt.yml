@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.7279981
 longitude: 11.2010252
-postcode: 86633
+postcode: "86633"
 city: Neuburg an der Donau
 street: "Münchener Straße"
 housenumber: 167

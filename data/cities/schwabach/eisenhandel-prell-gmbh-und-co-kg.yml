@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 49.3403257
 longitude: 11.019209100000001
-postcode: 91126
+postcode: "91126"
 city: Schwabach
 street: "Berlichingenstraße"
 housenumber: 13

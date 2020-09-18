@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.134281
 longitude: 10.5225308
-postcode: 97461
+postcode: "97461"
 city: Hofheim in Unterfranken
 street: "Rügheimer Straße"
 housenumber: 5

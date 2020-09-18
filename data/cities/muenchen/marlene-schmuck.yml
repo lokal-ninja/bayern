@@ -3,10 +3,10 @@ type: node
 shop: Schuhe
 latitude: 48.1344422
 longitude: 11.5969698
-postcode: 81667
+postcode: "81667"
 city: München
 street: "Innere Wiener Straße"
-housenumber: 58
+housenumber: 55
 phone: "+49 89 4471005"
 opening_hours: "Mo-Fr 10:30-19:00; Sa 10:00-18:00"
 website: "http://www.marleneschmuck.de/"

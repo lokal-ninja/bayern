@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 49.303555900000006
 longitude: 10.566506
-postcode: 91522
+postcode: "91522"
 city: Ansbach
 street: "Würzburger Straße"
 housenumber: 36

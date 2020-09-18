@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.3318962
 longitude: 10.038519500000001
-postcode: 89250
+postcode: "89250"
 city: Senden
 street: "Berliner Straße"
 housenumber: 13

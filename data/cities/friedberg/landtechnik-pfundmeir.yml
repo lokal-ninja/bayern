@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 48.3483506
 longitude: 10.997687
-postcode: 86316
+postcode: "86316"
 city: Friedberg
 street: "Marquardtstraße"
 housenumber: 2a

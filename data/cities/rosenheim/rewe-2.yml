@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.8717162
 longitude: 12.115109200000001
-postcode: 83024
+postcode: "83024"
 city: Rosenheim
 street: "Ebersberger Straße"
 housenumber: 107

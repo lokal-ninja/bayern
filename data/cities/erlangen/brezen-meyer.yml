@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.5991962
 longitude: 11.0173137
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Schillerstraße"
 housenumber: 5

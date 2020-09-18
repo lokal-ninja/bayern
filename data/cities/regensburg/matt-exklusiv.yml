@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.018607
 longitude: 12.092517200000001
-postcode: 93047
+postcode: "93047"
 city: Regensburg
 street: "Gesandtenstraße"
 housenumber: 6

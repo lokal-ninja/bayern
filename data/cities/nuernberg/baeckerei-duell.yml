@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.464406100000005
 longitude: 11.082536900000001
-postcode: 90409
+postcode: "90409"
 city: Nürnberg
 street: "Schillerstraße"
 housenumber: 4

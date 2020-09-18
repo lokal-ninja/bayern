@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.971412
 longitude: 12.1684248
-postcode: 93083
+postcode: "93083"
 city: Obertraubling
 street: "Hartinger Weg"
 housenumber: 7

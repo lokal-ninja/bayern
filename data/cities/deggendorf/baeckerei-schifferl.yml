@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.8353072
 longitude: 12.9629135
-postcode: 94469
+postcode: "94469"
 city: Deggendorf
 street: "Nördlicher Stadtgraben"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.0461667
 longitude: 11.967995700000001
-postcode: 85567
+postcode: "85567"
 city: Grafing bei München
 street: "Münchener Straße"
 housenumber: 8

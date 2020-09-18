@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 48.13250540000001
 longitude: 11.57712
-postcode: 80469
+postcode: "80469"
 city: München
 street: "Klenzestraße"
 housenumber: 16

@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 48.1778357
 longitude: 11.2518078
-postcode: 82256
+postcode: "82256"
 city: Fürstenfeldbruck
 street: "Ludwigstraße"
 housenumber: 5

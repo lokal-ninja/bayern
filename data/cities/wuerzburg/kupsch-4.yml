@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.7679879
 longitude: 9.9413532
-postcode: 97084
+postcode: "97084"
 city: Würzburg
 street: "Mergentheimer Straße"
 housenumber: 35

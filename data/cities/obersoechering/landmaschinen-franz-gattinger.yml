@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 47.734824200000006
 longitude: 11.2221714
-postcode: 82395
+postcode: "82395"
 city: Obersöchering
 street: "Aidlinger Straße"
 housenumber: 1

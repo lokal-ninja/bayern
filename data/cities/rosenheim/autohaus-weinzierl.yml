@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.8497683
 longitude: 12.127654600000001
-postcode: 83022
+postcode: "83022"
 city: Rosenheim
 street: "Kufsteiner Straße"
 housenumber: 50

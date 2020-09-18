@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 48.8874888
 longitude: 11.2528728
-postcode: 85137
+postcode: "85137"
 city: Walting
 street: "Eichstätter Straße"
 housenumber: 20

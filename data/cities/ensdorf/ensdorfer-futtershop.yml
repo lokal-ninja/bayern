@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 49.3399171
 longitude: 11.936584
-postcode: 92266
+postcode: "92266"
 city: Ensdorf
 street: "Hauptstraße"
 housenumber: 17

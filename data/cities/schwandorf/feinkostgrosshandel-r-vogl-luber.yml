@@ -3,7 +3,7 @@ type: way
 shop: Feinkost
 latitude: 49.3426537
 longitude: 12.1274358
-postcode: 92421
+postcode: "92421"
 city: Schwandorf
 street: "Graf-von-Drechsel-Straße"
 housenumber: 11

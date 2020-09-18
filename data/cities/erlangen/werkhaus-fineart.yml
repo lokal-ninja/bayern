@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 49.596458500000004
 longitude: 11.0081223
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Obere Karlstraße"
 housenumber: 7

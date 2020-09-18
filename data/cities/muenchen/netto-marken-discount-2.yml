@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.15520050000001
 longitude: 11.5375973
-postcode: 80636
+postcode: "80636"
 city: München
 street: "Leonrodstraße"
 housenumber: 31

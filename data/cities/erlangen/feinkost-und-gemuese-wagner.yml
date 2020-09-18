@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.5999417
 longitude: 11.040957
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Lange Zeile"
 housenumber: 79a

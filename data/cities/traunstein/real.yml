@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.8537571
 longitude: 12.6283714
-postcode: 83278
+postcode: "83278"
 city: Traunstein
 street: "Haslacher Feld"
 housenumber: 5

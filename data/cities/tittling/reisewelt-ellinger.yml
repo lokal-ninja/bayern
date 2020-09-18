@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.7288737
 longitude: 13.380079100000001
-postcode: 94104
+postcode: "94104"
 city: Tittling
 street: "Herrenstraße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 48.3714067
 longitude: 10.870329700000001
-postcode: 86157
+postcode: "86157"
 city: Augsburg
 street: "Eberlestraße"
 housenumber: 74

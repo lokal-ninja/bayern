@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 49.2025245
 longitude: 12.6675927
-postcode: 93413
+postcode: "93413"
 city: Cham
 street: "Mittelweg"
 housenumber: 9

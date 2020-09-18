@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.6411631
 longitude: 11.777882100000001
-postcode: 84048
+postcode: "84048"
 city: Mainburg
 street: "Pinskerstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 48.455227
 longitude: 10.276930400000001
-postcode: 89312
+postcode: "89312"
 city: Günzburg
 street: "Hechtgasse"
 housenumber: 

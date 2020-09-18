@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.692317200000005
 longitude: 12.204786
-postcode: 84061
+postcode: "84061"
 city: Ergoldsbach
 street: "Hauptstraße"
 housenumber: 30

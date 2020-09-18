@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.246284700000004
 longitude: 10.177653600000001
-postcode: 89290
+postcode: "89290"
 city: Buch
 street: "Roggenburger Straße"
 housenumber: 3 a

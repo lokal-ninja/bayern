@@ -3,7 +3,7 @@ type: way
 shop: Spielzeug
 latitude: 49.474060200000004
 longitude: 10.990656900000001
-postcode: 90762
+postcode: "90762"
 city: Fürth
 street: "Moststraße"
 housenumber: 19

@@ -3,10 +3,10 @@ type: way
 shop: Hofladen
 latitude: 48.609146200000005
 longitude: 11.7874806
-postcode: 84104
+postcode: "84104"
 city: Rudelzhausen
 street: ""
 housenumber: 2
 phone: ""
 opening_hours: ""
-website: ""
+website: "https://www.biohof-kreitmair.de/"

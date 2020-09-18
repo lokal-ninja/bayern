@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.856569300000004
 longitude: 10.230676
-postcode: 97332
+postcode: "97332"
 city: Volkach
 street: "Im Seelein"
 housenumber: 

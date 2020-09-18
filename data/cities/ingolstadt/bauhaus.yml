@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.7756734
 longitude: 11.386727500000001
-postcode: 85057
+postcode: "85057"
 city: Ingolstadt
 street: "Am Westpark"
 housenumber: 5

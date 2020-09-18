@@ -3,10 +3,10 @@ type: way
 shop: Lebensmittel
 latitude: 48.3264797
 longitude: 11.5313516
-postcode: 85778
+postcode: "85778"
 city: Haimhausen
 street: "Alte Kreisstraße"
 housenumber: 29
 phone: ""
 opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "www.faire-geschenke.de"
+website: ""

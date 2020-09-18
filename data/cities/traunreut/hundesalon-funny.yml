@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 47.967316700000005
 longitude: 12.5901688
-postcode: 83301
+postcode: "83301"
 city: Traunreut
 street: "Sankt-Georgs-Platz"
 housenumber: 13

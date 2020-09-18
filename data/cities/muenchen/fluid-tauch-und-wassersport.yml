@@ -3,7 +3,7 @@ type: node
 shop: Tauchen
 latitude: 48.1359112
 longitude: 11.570359400000001
-postcode: 80331
+postcode: "80331"
 city: München
 street: "Hackenstraße"
 housenumber: 3

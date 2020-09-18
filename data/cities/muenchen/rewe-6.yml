@@ -1,12 +1,12 @@
-id: 367787550
+id: 409497588
 type: node
 shop: Supermarkt
-latitude: 48.1618635
-longitude: 11.413092800000001
-postcode: 81245
+latitude: 48.122937400000005
+longitude: 11.5650066
+postcode: "80469"
 city: München
-street: "Ubostraße"
-housenumber: 61
-phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: ""
+street: "Geyerstraße"
+housenumber: 34
+phone: "+49 89 74688117"
+opening_hours: "Mo-Sa 7:00-20:00"
+website: "https://www.rewe.de/"

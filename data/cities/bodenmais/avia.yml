@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 49.069953600000005
 longitude: 13.1000128
-postcode: 94249
+postcode: "94249"
 city: Bodenmais
 street: "Bahnhofstraße"
 housenumber: 62

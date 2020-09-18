@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 49.8016474
 longitude: 12.1527987
-postcode: 92670
+postcode: "92670"
 city: Windischeschenbach
 street: "Schloßhof"
 housenumber: 16

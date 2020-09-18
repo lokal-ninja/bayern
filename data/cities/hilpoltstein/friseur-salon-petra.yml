@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.1906143
 longitude: 11.189710400000001
-postcode: 91161
+postcode: "91161"
 city: Hilpoltstein
 street: "Zwingerstraße"
 housenumber: 21

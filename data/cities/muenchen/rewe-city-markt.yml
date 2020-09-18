@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.128247
 longitude: 11.6461062
-postcode: 81673
+postcode: "81673"
 city: München
 street: "Sankt-Veit-Straße"
 housenumber: 11

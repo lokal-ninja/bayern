@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.171879700000005
 longitude: 11.3225428
-postcode: 82223
+postcode: "82223"
 city: Eichenau
 street: "Hauptstraße"
 housenumber: 1

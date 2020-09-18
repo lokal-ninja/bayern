@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 48.813542600000005
 longitude: 11.4587409
-postcode: 85101
+postcode: "85101"
 city: Lenting
 street: "Bernd-Rosemeyer-Straße"
 housenumber: 15

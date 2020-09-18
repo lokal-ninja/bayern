@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 48.1366887
 longitude: 11.574223100000001
-postcode: 80331
+postcode: "80331"
 city: München
 street: "Rosenstraße"
 housenumber: 3-5

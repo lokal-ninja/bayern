@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 48.748474800000004
 longitude: 11.4719031
-postcode: 85053
+postcode: "85053"
 city: Ingolstadt
 street: "Eriagstraße"
 housenumber: 14

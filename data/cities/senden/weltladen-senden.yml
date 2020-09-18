@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.3265004
 longitude: 10.0394169
-postcode: 89250
+postcode: "89250"
 city: Senden
 street: "Zeisestraße"
 housenumber: 20a

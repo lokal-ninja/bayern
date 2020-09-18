@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 48.719041000000004
 longitude: 11.172644100000001
-postcode: 86633
+postcode: "86633"
 city: Neuburg an der Donau
 street: "Am Südpark"
 housenumber: 4

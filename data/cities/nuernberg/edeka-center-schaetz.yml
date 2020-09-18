@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.431758800000004
 longitude: 11.0440345
-postcode: 90441
+postcode: "90441"
 city: Nürnberg
 street: "Kurt-Triest-Straße"
 housenumber: 5

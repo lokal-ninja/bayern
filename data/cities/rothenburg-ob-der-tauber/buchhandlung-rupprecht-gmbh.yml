@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 49.376939
 longitude: 10.180318900000001
-postcode: 91541
+postcode: "91541"
 city: Rothenburg ob der Tauber
 street: "Hafengasse"
 housenumber: 12

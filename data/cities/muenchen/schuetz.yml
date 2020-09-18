@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.1377109
 longitude: 11.5319027
-postcode: 80339
+postcode: "80339"
 city: München
 street: "Westendstraße"
 housenumber: 135

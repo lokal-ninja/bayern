@@ -3,7 +3,7 @@ type: node
 shop: Nähzubehör
 latitude: 49.9496258
 longitude: 12.242037300000002
-postcode: 95666
+postcode: "95666"
 city: Mitterteich
 street: "Bahnhofstraße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.04016
 longitude: 9.518793200000001
-postcode: 97846
+postcode: "97846"
 city: Partenstein
 street: "Im See"
 housenumber: 1

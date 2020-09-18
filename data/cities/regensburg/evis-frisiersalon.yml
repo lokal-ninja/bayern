@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.008884
 longitude: 12.111794300000001
-postcode: 93053
+postcode: "93053"
 city: Regensburg
 street: "Furtmayrstraße"
 housenumber: 30 b

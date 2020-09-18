@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.332079
 longitude: 10.0411005
-postcode: 89250
+postcode: "89250"
 city: Senden
 street: "Danziger Straße"
 housenumber: 1

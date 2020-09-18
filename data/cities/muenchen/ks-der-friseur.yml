@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.0976859
 longitude: 11.581860500000001
-postcode: 81547
+postcode: "81547"
 city: München
 street: "Mangfallplatz"
 housenumber: 7

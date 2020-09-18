@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 48.137483
 longitude: 11.570523300000001
-postcode: 80331
+postcode: "80331"
 city: München
 street: "Altheimer Eck"
 housenumber: 6

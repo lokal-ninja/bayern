@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 48.4030773
 longitude: 11.7465629
-postcode: 85354
+postcode: "85354"
 city: Freising
 street: "Kammergasse"
 housenumber: 2

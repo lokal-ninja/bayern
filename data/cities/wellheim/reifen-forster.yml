@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 48.831170900000004
 longitude: 11.0990971
-postcode: 91809
+postcode: "91809"
 city: Wellheim
 street: "Aicha"
 housenumber: 21

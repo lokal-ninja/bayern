@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.599180600000004
 longitude: 11.0033715
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Hauptstraße"
 housenumber: 42-44

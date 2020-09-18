@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.45329520000001
 longitude: 11.069242200000001
-postcode: 90429
+postcode: "90429"
 city: Nürnberg
 street: "Westtorgraben"
 housenumber: 3

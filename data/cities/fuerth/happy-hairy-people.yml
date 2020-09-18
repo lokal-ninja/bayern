@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.473128700000004
 longitude: 10.9885587
-postcode: 90762
+postcode: "90762"
 city: Fürth
 street: "Schwabacher Straße"
 housenumber: 29

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.4489266
 longitude: 10.2207737
-postcode: 89340
+postcode: "89340"
 city: Leipheim
 street: "Rathausgasse"
 housenumber: 6

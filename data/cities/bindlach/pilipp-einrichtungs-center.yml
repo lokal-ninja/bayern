@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 49.973908200000004
 longitude: 11.6037481
-postcode: 95463
+postcode: "95463"
 city: Bindlach
 street: "St.-Georgen-Straße"
 housenumber: 16

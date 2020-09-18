@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 48.354733700000004
 longitude: 10.9417875
-postcode: 86163
+postcode: "86163"
 city: Augsburg
 street: "Friedberger Straße"
 housenumber: 120

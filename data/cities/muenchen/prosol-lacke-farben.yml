@@ -3,7 +3,7 @@ type: way
 shop: Farben
 latitude: 48.191032500000006
 longitude: 11.502138500000001
-postcode: 80993
+postcode: "80993"
 city: München
 street: "Dachauer Straße"
 housenumber: 533

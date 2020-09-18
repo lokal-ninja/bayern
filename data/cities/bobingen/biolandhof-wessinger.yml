@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.2774908
 longitude: 10.840513300000001
-postcode: 86399
+postcode: "86399"
 city: Bobingen
 street: "Augsburger Straße"
 housenumber: 4

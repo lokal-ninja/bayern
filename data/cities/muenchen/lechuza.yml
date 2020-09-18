@@ -3,7 +3,7 @@ type: way
 shop: Haushaltsartikel
 latitude: 48.1950718
 longitude: 11.5896453
-postcode: 80939
+postcode: "80939"
 city: München
 street: "Helene-Wessel-Bogen"
 housenumber: 15

@@ -3,7 +3,7 @@ type: way
 shop: Computer
 latitude: 48.495201200000004
 longitude: 11.1807794
-postcode: 86556
+postcode: "86556"
 city: Kühbach
 street: "Dieselstraße"
 housenumber: 3

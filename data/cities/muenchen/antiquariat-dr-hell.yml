@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.124431200000004
 longitude: 11.580728200000001
-postcode: 81541
+postcode: "81541"
 city: München
 street: "Ohlmüllerstraße"
 housenumber: 28

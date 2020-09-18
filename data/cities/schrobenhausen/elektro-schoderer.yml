@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 48.565727100000004
 longitude: 11.247927
-postcode: 86529
+postcode: "86529"
 city: Schrobenhausen
 street: "Pöttmeser Straße"
 housenumber: 33

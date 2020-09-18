@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.004664000000005
 longitude: 10.1994845
-postcode: 97506
+postcode: "97506"
 city: Grafenrheinfeld
 street: "Herrngasse"
 housenumber: 22

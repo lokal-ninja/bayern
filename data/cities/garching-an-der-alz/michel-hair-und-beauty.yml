@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.147652
 longitude: 12.618785500000001
-postcode: 84518
+postcode: "84518"
 city: Garching an der Alz
 street: "Fabrikstraße"
 housenumber: 19

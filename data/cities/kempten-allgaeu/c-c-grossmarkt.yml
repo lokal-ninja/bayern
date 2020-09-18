@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 47.746041600000005
 longitude: 10.301823
-postcode: 87439
+postcode: "87439"
 city: Kempten (Allgäu)
 street: "Memminger Straße"
 housenumber: 141

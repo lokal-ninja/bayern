@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.1212153
 longitude: 11.5617312
-postcode: 80469
+postcode: "80469"
 city: München
 street: "Ehrengutstraße"
 housenumber: 25

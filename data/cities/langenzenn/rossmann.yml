@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.4962485
 longitude: 10.8037156
-postcode: 90579
+postcode: "90579"
 city: Langenzenn
 street: "Nürnberger Straße"
 housenumber: 46

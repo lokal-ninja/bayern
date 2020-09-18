@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.3784665
 longitude: 10.1809036
-postcode: 91541
+postcode: "91541"
 city: Rothenburg ob der Tauber
 street: "Galgengasse"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.6748258
 longitude: 12.162822100000001
-postcode: 92637
+postcode: "92637"
 city: Weiden i.d.OPf.
 street: "Oberer Markt"
 housenumber: 13

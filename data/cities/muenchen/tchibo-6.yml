@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 48.1354459
 longitude: 11.5976376
-postcode: 81675
+postcode: "81675"
 city: München
 street: "Max-Weber-Platz"
 housenumber: 3

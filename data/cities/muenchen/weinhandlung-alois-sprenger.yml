@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 48.152564100000006
 longitude: 11.4285498
-postcode: 81243
+postcode: "81243"
 city: München
 street: "Aubinger Straße"
 housenumber: 122

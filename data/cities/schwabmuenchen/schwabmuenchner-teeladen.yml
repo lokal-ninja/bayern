@@ -3,7 +3,7 @@ type: node
 shop: Tee
 latitude: 48.1781048
 longitude: 10.7591602
-postcode: 86830
+postcode: "86830"
 city: Schwabmünchen
 street: "Schrannenplatz"
 housenumber: 9

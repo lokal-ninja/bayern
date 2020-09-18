@@ -3,7 +3,7 @@ type: node
 shop: Konditorei
 latitude: 48.5754576
 longitude: 13.4609264
-postcode: 94032
+postcode: "94032"
 city: Passau
 street: "Rindermarkt"
 housenumber: 16

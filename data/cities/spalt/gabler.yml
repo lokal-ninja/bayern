@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsartikel
 latitude: 49.175532000000004
 longitude: 10.924836800000001
-postcode: 91174
+postcode: "91174"
 city: Spalt
 street: "Hauptstraße"
 housenumber: 25

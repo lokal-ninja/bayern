@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 49.4663103
 longitude: 11.0694877
-postcode: 90408
+postcode: "90408"
 city: Nürnberg
 street: "Bucher Straße"
 housenumber: 90

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.4751898
 longitude: 11.1056343
-postcode: 90411
+postcode: "90411"
 city: Nürnberg
 street: "Bessemerstraße"
 housenumber: 17

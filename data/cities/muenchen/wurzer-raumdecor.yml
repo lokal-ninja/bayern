@@ -3,10 +3,10 @@ type: node
 shop: Raumausstattung
 latitude: 48.101182800000004
 longitude: 11.629573
-postcode: 81737
+postcode: "81737"
 city: München
 street: "Ottobrunner Straße"
 housenumber: 139
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 08:30-12:30,14:00-18:00"
 website: ""

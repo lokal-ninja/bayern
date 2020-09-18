@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.1335423
 longitude: 11.5820421
-postcode: 80469
+postcode: "80469"
 city: München
 street: "Rumfordstraße"
 housenumber: 46

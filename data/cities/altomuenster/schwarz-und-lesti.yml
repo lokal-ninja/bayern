@@ -3,7 +3,7 @@ type: way
 shop: Schreibwaren
 latitude: 48.387649100000004
 longitude: 11.255748500000001
-postcode: 85250
+postcode: "85250"
 city: Altomünster
 street: "Marktplatz"
 housenumber: 1

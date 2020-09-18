@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 49.007753300000005
 longitude: 12.0623927
-postcode: 93051
+postcode: "93051"
 city: Regensburg
 street: "Doktor-Gessler-Straße"
 housenumber: 47

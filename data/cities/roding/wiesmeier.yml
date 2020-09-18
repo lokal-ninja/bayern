@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.197048800000005
 longitude: 12.5210965
-postcode: 93426
+postcode: "93426"
 city: Roding
 street: "Am Seigen"
 housenumber: 2

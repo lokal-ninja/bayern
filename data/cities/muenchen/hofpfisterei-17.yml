@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.087988
 longitude: 11.639584600000001
-postcode: 81739
+postcode: "81739"
 city: München
 street: "Maximilian-Kolbe-Allee"
 housenumber: 1

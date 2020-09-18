@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 49.016570300000005
 longitude: 12.0982131
-postcode: 93047
+postcode: "93047"
 city: Regensburg
 street: "Königsstraße"
 housenumber: 2

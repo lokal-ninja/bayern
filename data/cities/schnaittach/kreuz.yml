@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 49.5529668
 longitude: 11.3334436
-postcode: 91220
+postcode: "91220"
 city: Schnaittach
 street: "Nürnberger Straße"
 housenumber: 91

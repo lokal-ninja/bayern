@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.846356300000004
 longitude: 9.6023223
-postcode: 97828
+postcode: "97828"
 city: Marktheidenfeld
 street: "Petzoltstraße"
 housenumber: 14

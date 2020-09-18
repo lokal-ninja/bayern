@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 47.7710038
 longitude: 11.3193438
-postcode: 82393
+postcode: "82393"
 city: Iffeldorf
 street: "Hofmark"
 housenumber: 7

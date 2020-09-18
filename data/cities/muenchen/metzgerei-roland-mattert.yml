@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.138721800000006
 longitude: 11.610364800000001
-postcode: 81677
+postcode: "81677"
 city: München
 street: "Prinzregentenstraße"
 housenumber: 105

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.191432600000006
 longitude: 11.644433000000001
-postcode: 85774
+postcode: "85774"
 city: Unterföhring
 street: "Föhringer Allee"
 housenumber: 6

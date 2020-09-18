@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.2491295
 longitude: 10.8748158
-postcode: 86343
+postcode: "86343"
 city: Königsbrunn
 street: "Lilienthalstraße"
 housenumber: 2

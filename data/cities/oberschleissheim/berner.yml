@@ -3,7 +3,7 @@ type: node
 shop: Großhandel
 latitude: 48.263457700000004
 longitude: 11.5576395
-postcode: 85764
+postcode: "85764"
 city: Oberschleißheim
 street: "Mittenheimer Straße"
 housenumber: 66

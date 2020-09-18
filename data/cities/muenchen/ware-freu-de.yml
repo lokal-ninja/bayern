@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 48.1378591
 longitude: 11.530878600000001
-postcode: 80339
+postcode: "80339"
 city: München
 street: "Westendstraße"
 housenumber: 142

@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.3685899
 longitude: 11.722998400000002
-postcode: 85354
+postcode: "85354"
 city: Freising
 street: ""
 housenumber: 23

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.1859813
 longitude: 11.186736300000002
-postcode: 91161
+postcode: "91161"
 city: Hilpoltstein
 street: "Industriestraße"
 housenumber: 21

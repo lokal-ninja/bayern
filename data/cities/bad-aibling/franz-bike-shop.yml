@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.8570256
 longitude: 11.9994168
-postcode: 83043
+postcode: "83043"
 city: Bad Aibling
 street: "Wendelsteinstraße"
 housenumber: 18a

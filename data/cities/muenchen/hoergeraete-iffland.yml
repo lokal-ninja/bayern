@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 48.13701450000001
 longitude: 11.5747256
-postcode: 80331
+postcode: "80331"
 city: München
 street: "Marienplatz"
 housenumber: 28

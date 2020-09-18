@@ -3,7 +3,7 @@ type: way
 shop: Gebrauchtwaren
 latitude: 47.947801000000005
 longitude: 12.180211
-postcode: 83569
+postcode: "83569"
 city: Vogtareuth
 street: "Bergstraße"
 housenumber: 5

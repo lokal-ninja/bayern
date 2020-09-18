@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 48.3700563
 longitude: 10.893172400000001
-postcode: 86152
+postcode: "86152"
 city: Augsburg
 street: "Theaterstraße"
 housenumber: 4

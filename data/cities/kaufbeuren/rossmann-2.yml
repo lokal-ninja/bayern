@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.9139062
 longitude: 10.635393200000001
-postcode: 87600
+postcode: "87600"
 city: Kaufbeuren
 street: "Gewerbestraße"
 housenumber: 8

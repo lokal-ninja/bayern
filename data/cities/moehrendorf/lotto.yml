@@ -3,7 +3,7 @@ type: way
 shop: Lotterie
 latitude: 49.636951100000005
 longitude: 10.9995442
-postcode: 91096
+postcode: "91096"
 city: Möhrendorf
 street: "Storchenstraße"
 housenumber: 6

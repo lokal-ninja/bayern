@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 47.727553300000004
 longitude: 10.3144951
-postcode: 87435
+postcode: "87435"
 city: Kempten (Allgäu)
 street: "Gerberstraße"
 housenumber: 47

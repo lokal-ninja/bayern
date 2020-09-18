@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.861108800000004
 longitude: 12.628217800000002
-postcode: 83278
+postcode: "83278"
 city: Traunstein
 street: "Rupertistraße"
 housenumber: 4

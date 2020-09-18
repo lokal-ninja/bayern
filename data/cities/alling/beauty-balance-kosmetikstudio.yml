@@ -3,7 +3,7 @@ type: way
 shop: Kosmetik
 latitude: 48.1398294
 longitude: 11.306537500000001
-postcode: 82239
+postcode: "82239"
 city: Alling
 street: "Kolpingstraße"
 housenumber: 9

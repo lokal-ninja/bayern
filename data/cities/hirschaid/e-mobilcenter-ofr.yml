@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.829017400000005
 longitude: 10.9846489
-postcode: 96114
+postcode: "96114"
 city: Hirschaid
 street: "Jägerstraße"
 housenumber: 12

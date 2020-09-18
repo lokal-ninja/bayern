@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.9200646
 longitude: 12.2019231
-postcode: 93087
+postcode: "93087"
 city: Alteglofsheim
 street: "Thalmassinger Straße"
 housenumber: 4

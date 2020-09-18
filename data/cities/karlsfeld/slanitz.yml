@@ -3,7 +3,7 @@ type: node
 shop: Konditorei
 latitude: 48.216039300000006
 longitude: 11.4629165
-postcode: 85757
+postcode: "85757"
 city: Karlsfeld
 street: "Jägerstraße"
 housenumber: 18

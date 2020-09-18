@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 49.026027000000006
 longitude: 11.957244300000001
-postcode: 93152
+postcode: "93152"
 city: Nittendorf
 street: "Regensburger Straße"
 housenumber: 3 a

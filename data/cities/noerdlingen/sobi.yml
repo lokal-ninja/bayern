@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.857865600000004
 longitude: 10.5048185
-postcode: 86720
+postcode: "86720"
 city: Nördlingen
 street: "Hofer Straße"
 housenumber: 12

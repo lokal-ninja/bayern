@@ -3,7 +3,7 @@ type: node
 shop: Töpferei
 latitude: 50.243
 longitude: 11.2562163
-postcode: 96268
+postcode: "96268"
 city: Mitwitz
 street: ""
 housenumber: 16

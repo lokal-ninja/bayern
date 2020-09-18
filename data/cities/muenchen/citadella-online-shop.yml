@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 48.1182846
 longitude: 11.553138500000001
-postcode: 81371
+postcode: "81371"
 city: München
 street: "Schäftlarnstraße"
 housenumber: 10

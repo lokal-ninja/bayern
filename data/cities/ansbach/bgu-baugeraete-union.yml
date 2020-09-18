@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 49.2637913
 longitude: 10.5930996
-postcode: 91522
+postcode: "91522"
 city: Ansbach
 street: "Hardtstraße"
 housenumber: 9

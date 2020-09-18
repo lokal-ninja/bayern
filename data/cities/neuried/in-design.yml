@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 48.0931537
 longitude: 11.4651122
-postcode: 82061
+postcode: "82061"
 city: Neuried
 street: "Gautinger Straße"
 housenumber: 2

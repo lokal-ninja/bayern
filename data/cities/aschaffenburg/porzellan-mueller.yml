@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsartikel
 latitude: 49.9756371
 longitude: 9.1491822
-postcode: 63739
+postcode: "63739"
 city: Aschaffenburg
 street: "Roßmarkt"
 housenumber: 14

@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 48.09577
 longitude: 11.4954598
-postcode: 81476
+postcode: "81476"
 city: München
 street: "Winterthurer Straße"
 housenumber: 3

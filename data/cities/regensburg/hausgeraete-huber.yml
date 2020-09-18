@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 49.0039474
 longitude: 12.084814000000001
-postcode: 93051
+postcode: "93051"
 city: Regensburg
 street: "Karthauser Straße"
 housenumber: 8

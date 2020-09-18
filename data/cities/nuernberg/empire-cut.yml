@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.4496953
 longitude: 11.05869
-postcode: 90429
+postcode: "90429"
 city: Nürnberg
 street: "Fürther Straße"
 housenumber: 35

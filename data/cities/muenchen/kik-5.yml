@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.1454638
 longitude: 11.466324400000001
-postcode: 81241
+postcode: "81241"
 city: München
 street: "Landsberger Straße"
 housenumber: 475

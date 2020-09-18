@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.843136300000005
 longitude: 11.1427876
-postcode: 82362
+postcode: "82362"
 city: Weilheim in Oberbayern
 street: "Bahnhofstraße"
 housenumber: 5

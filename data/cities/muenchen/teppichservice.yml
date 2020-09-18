@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 48.1509774
 longitude: 11.539537800000002
-postcode: 80636
+postcode: "80636"
 city: München
 street: "Nymphenburger Straße"
 housenumber: 131

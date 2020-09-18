@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 47.8809565
 longitude: 10.9159945
-postcode: 86981
+postcode: "86981"
 city: Kinsau
 street: "Bachstraße"
 housenumber: 9

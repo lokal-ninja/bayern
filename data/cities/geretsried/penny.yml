@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.8478271
 longitude: 11.474323
-postcode: 82538
+postcode: "82538"
 city: Geretsried
 street: "Steiner Ring"
 housenumber: 3

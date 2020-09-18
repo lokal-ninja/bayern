@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 49.563216100000005
 longitude: 10.9580625
-postcode: 91056
+postcode: "91056"
 city: Erlangen
 street: "Willi-Grasser-Straße"
 housenumber: 13a

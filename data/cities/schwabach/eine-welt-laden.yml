@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.3273474
 longitude: 11.017203
-postcode: 91126
+postcode: "91126"
 city: Schwabach
 street: "Wittelsbacherstraße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.0304002
 longitude: 12.105889900000001
-postcode: 93059
+postcode: "93059"
 city: Regensburg
 street: "Donaustaufer Straße"
 housenumber: 20

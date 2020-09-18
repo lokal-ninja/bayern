@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.6282713
 longitude: 11.012855
-postcode: 91088
+postcode: "91088"
 city: Bubenreuth
 street: "Frankenstraße"
 housenumber: 75

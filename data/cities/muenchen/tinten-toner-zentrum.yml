@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 48.1520129
 longitude: 11.5350523
-postcode: 80634
+postcode: "80634"
 city: München
 street: "Blutenburgstraße"
 housenumber: 91

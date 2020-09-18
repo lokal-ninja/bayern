@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.580334400000005
 longitude: 9.844725
-postcode: 88175
+postcode: "88175"
 city: Scheidegg
 street: "Zollstraße"
 housenumber: 26

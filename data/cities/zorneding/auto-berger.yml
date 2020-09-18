@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.09223
 longitude: 11.823674200000001
-postcode: 85604
+postcode: "85604"
 city: Zorneding
 street: "Georg-Wimmer-Ring"
 housenumber: 8a

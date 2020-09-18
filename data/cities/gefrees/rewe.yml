@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 50.094165600000004
 longitude: 11.729324700000001
-postcode: 95482
+postcode: "95482"
 city: Gefrees
 street: "Bayreuther Straße"
-housenumber: 
+housenumber: 4
 phone: ""
 opening_hours: ""
 website: ""

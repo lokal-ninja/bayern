@@ -3,7 +3,7 @@ type: node
 shop: Reifen
 latitude: 48.3962749
 longitude: 10.8803122
-postcode: 86154
+postcode: "86154"
 city: Augsburg
 street: "Eschenhofstraße"
 housenumber: 61

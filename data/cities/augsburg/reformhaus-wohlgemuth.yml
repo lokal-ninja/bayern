@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.3119353
 longitude: 10.9024696
-postcode: 86179
+postcode: "86179"
 city: Augsburg
 street: "Neue Straße"
 housenumber: 27

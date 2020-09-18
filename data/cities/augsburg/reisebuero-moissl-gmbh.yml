@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.311686400000006
 longitude: 10.9020983
-postcode: 86179
+postcode: "86179"
 city: Augsburg
 street: "Neue Straße"
 housenumber: 30

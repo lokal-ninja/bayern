@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.393926500000006
 longitude: 12.7483903
-postcode: 84307
+postcode: "84307"
 city: Eggenfelden
 street: "Gewerbegebiet Mitterhof"
 housenumber: 21

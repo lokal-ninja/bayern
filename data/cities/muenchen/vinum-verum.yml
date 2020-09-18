@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.100127500000006
 longitude: 11.544260000000001
-postcode: 
+postcode: ""
 city: München
 street: "Fraunbergplatz"
 housenumber: 6

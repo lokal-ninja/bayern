@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 49.659724700000005
 longitude: 10.927045300000001
-postcode: 91341
+postcode: "91341"
 city: Röttenbach
 street: "Weiherstraße"
 housenumber: 6

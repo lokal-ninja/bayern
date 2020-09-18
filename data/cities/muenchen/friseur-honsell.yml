@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.139549900000006
 longitude: 11.5824885
-postcode: 80539
+postcode: "80539"
 city: München
 street: "Maximilianstraße"
 housenumber: 17

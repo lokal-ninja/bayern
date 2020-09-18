@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.2483937
 longitude: 10.593082800000001
-postcode: 91522
+postcode: "91522"
 city: Ansbach
 street: "Claffheim"
 housenumber: 35

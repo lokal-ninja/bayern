@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.1397977
 longitude: 11.5867143
-postcode: 80538
+postcode: "80538"
 city: München
 street: "Sankt-Anna-Straße"
 housenumber: 15

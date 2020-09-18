@@ -3,10 +3,10 @@ type: node
 shop: Bäckerei
 latitude: 48.2906355
 longitude: 12.7273565
-postcode: 84571
+postcode: "84571"
 city: Reischach
 street: "Erlbacher Straße"
 housenumber: 5
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Th 06:00-14:30; Fr 06:00-17:30; Sa 06:00-12:00; Su 07:30-10:30"
 website: ""

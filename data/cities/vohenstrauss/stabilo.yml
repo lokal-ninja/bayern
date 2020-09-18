@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.6207915
 longitude: 12.3567785
-postcode: 92648
+postcode: "92648"
 city: Vohenstrauß
 street: "Zum Beckenkeller"
 housenumber: 1

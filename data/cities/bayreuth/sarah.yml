@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.9475896
 longitude: 11.5780796
-postcode: 95444
+postcode: "95444"
 city: Bayreuth
 street: "Bahnhofstraße"
 housenumber: 2

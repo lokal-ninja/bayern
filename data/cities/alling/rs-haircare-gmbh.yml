@@ -3,7 +3,7 @@ type: node
 shop: Friseurbedarf
 latitude: 48.1527474
 longitude: 11.260176300000001
-postcode: 82239
+postcode: "82239"
 city: Alling
 street: "Münchner Straße"
 housenumber: 4

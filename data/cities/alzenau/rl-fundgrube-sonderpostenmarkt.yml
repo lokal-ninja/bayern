@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 50.0905063
 longitude: 9.047857800000001
-postcode: 63755
+postcode: "63755"
 city: Alzenau
 street: "Industriestraße"
 housenumber: 3

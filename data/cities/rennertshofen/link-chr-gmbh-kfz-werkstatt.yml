@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.7466838
 longitude: 11.0168985
-postcode: 86643
+postcode: "86643"
 city: Rennertshofen
 street: "Am Berg"
 housenumber: 3a

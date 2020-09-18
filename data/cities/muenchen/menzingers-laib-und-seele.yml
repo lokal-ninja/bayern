@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.1682975
 longitude: 11.465954
-postcode: 81247
+postcode: "81247"
 city: München
 street: "Georg-Hann-Straße"
 housenumber: 5

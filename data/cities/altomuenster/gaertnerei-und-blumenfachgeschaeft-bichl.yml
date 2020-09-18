@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 48.3730096
 longitude: 11.2325657
-postcode: 85250
+postcode: "85250"
 city: Altomünster
 street: "Dachauer Straße"
 housenumber: 

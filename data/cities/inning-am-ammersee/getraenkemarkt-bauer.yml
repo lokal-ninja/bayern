@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.074553300000005
 longitude: 11.1499517
-postcode: 82266
+postcode: "82266"
 city: Inning am Ammersee
 street: "Herrschinger Straße"
 housenumber: 24

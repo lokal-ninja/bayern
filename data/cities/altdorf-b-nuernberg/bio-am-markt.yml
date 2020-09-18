@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.386090800000005
 longitude: 11.3573237
-postcode: 90518
+postcode: "90518"
 city: Altdorf b.Nürnberg
 street: "Unterer Markt"
 housenumber: 7

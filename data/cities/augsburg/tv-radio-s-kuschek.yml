@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.334278000000005
 longitude: 10.903914700000001
-postcode: 86159
+postcode: "86159"
 city: Augsburg
 street: "Hermann-Köhl-Straße"
 housenumber: 20 1/6

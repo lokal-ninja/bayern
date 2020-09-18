@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 48.222604100000005
 longitude: 11.3325671
-postcode: 82140
+postcode: "82140"
 city: Olching
 street: "Hermann-Böcker-Straße"
 housenumber: 2b

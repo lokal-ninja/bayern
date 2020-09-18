@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 47.559594600000004
 longitude: 10.2188941
-postcode: 87509
+postcode: "87509"
 city: Immenstadt i.Allgäu
 street: "Marienplatz"
 housenumber: 15

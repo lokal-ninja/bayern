@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 49.5568619
 longitude: 11.338850800000001
-postcode: 91220
+postcode: "91220"
 city: Schnaittach
 street: "Nürnberger Straße"
 housenumber: 51

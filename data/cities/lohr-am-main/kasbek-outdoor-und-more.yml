@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 49.9942647
 longitude: 9.572063700000001
-postcode: 97816
+postcode: "97816"
 city: Lohr am Main
 street: "Gerbergasse"
 housenumber: 19

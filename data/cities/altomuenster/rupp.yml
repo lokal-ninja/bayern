@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 48.3873127
 longitude: 11.2572037
-postcode: 85250
+postcode: "85250"
 city: Altomünster
 street: "Nerbstraße"
 housenumber: 4

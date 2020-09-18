@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.3697998
 longitude: 10.8471138
-postcode: 86391
+postcode: "86391"
 city: Stadtbergen
 street: "Hagenmähderstraße"
 housenumber: 10

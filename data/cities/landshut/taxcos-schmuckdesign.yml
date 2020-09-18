@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.5345475
 longitude: 12.1493996
-postcode: 84028
+postcode: "84028"
 city: Landshut
 street: "Ländgasse"
 housenumber: 50

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.044898100000005
 longitude: 10.2338216
-postcode: 97421
+postcode: "97421"
 city: Schweinfurt
 street: "Markt"
 housenumber: 21

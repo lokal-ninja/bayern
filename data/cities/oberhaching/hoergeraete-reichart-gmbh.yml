@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 48.0190436
 longitude: 11.5911585
-postcode: 82041
+postcode: "82041"
 city: Oberhaching
 street: "Tisinstraße"
 housenumber: 54

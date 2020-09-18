@@ -3,10 +3,10 @@ type: way
 shop: Allgemein
 latitude: 47.790913
 longitude: 11.8319351
-postcode: 83714
+postcode: "83714"
 city: Miesbach
 street: "Wallenburger Straße"
 housenumber: 5
 phone: "+49 8025 4204"
-opening_hours: "Mo-Fr 8:00-12:00, 14:00-18:00; Sa 14:00-18:00"
+opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00; Sa 14:00-18:00"
 website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.1618057
 longitude: 11.586866800000001
-postcode: 80802
+postcode: "80802"
 city: München
 street: "Münchner Freiheit"
 housenumber: 2

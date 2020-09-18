@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 49.9755285
 longitude: 11.618143100000001
-postcode: 95463
+postcode: "95463"
 city: Bindlach
 street: "Esbachgraben"
 housenumber: 

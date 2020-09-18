@@ -3,7 +3,7 @@ type: way
 shop: Betten
 latitude: 48.350427
 longitude: 10.7702884
-postcode: 86420
+postcode: "86420"
 city: Diedorf
 street: "Hauptstraße"
 housenumber: 66

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.590313
 longitude: 10.9661755
-postcode: 91056
+postcode: "91056"
 city: Erlangen
 street: "Dorfstraße"
 housenumber: 31

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.2524956
 longitude: 12.519858200000002
-postcode: 84453
+postcode: "84453"
 city: Mühldorf a. Inn
 street: "Wolfgang-Perger-Straße"
 housenumber: 3

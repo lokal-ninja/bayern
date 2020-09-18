@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.4041244
 longitude: 12.7611603
-postcode: 84307
+postcode: "84307"
 city: Eggenfelden
 street: "Hafnergasse"
 housenumber: 1

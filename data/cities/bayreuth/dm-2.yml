@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.952088
 longitude: 11.5724158
-postcode: 95444
+postcode: "95444"
 city: Bayreuth
 street: "Friedrich-von-Schiller-Straße"
 housenumber: 35

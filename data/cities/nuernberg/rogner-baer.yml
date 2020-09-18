@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.462177100000005
 longitude: 11.0496175
-postcode: 90419
+postcode: "90419"
 city: Nürnberg
 street: "Nordwestring"
 housenumber: 77

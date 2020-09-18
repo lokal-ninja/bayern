@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.071935
 longitude: 11.6066037
-postcode: 82008
+postcode: "82008"
 city: Unterhaching
 street: "Münchner Straße"
 housenumber: 42

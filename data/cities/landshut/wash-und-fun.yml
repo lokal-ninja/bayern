@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 48.536213000000004
 longitude: 12.1449832
-postcode: 84034
+postcode: "84034"
 city: Landshut
 street: "Luitpoldstraße"
 housenumber: 7

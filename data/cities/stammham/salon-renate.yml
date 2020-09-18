@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.8507127
 longitude: 11.4555658
-postcode: 85134
+postcode: "85134"
 city: Stammham
 street: "Stadtweg"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.3013897
 longitude: 10.018953400000001
-postcode: 97705
+postcode: "97705"
 city: Burkardroth
 street: "Steinbergstraße"
 housenumber: 33

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.980602700000006
 longitude: 12.190928000000001
-postcode: 93073
+postcode: "93073"
 city: Neutraubling
 street: "Stettiner Straße"
 housenumber: 3

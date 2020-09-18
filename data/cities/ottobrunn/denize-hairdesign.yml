@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.0648612
 longitude: 11.660817300000001
-postcode: 85521
+postcode: "85521"
 city: Ottobrunn
 street: "Unterhachinger Straße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.596541900000005
 longitude: 11.009204200000001
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Obere Karlstraße"
 housenumber: 19

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.5094469
 longitude: 11.405694200000001
-postcode: 91217
+postcode: "91217"
 city: Hersbruck
 street: "Nürnberger Straße"
 housenumber: 143

@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.0721429
 longitude: 11.6543883
-postcode: 85521
+postcode: "85521"
 city: Ottobrunn
 street: "Alte Landstraße"
 housenumber: 9

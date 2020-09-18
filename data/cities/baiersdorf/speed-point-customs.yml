@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.6570795
 longitude: 11.0389003
-postcode: 91083
+postcode: "91083"
 city: Baiersdorf
 street: "Ahornweg"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.8205134
 longitude: 9.9620297
-postcode: 97078
+postcode: "97078"
 city: Würzburg
 street: "Versbacher Straße"
 housenumber: 180

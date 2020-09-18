@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.879077900000006
 longitude: 12.570694600000001
-postcode: 94315
+postcode: "94315"
 city: Straubing
 street: "Bahnhofstraße"
 housenumber: 14

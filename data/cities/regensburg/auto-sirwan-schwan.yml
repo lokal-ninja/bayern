@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.029387400000005
 longitude: 12.1343303
-postcode: 93055
+postcode: "93055"
 city: Regensburg
 street: "Donaustaufer Straße"
 housenumber: 214 a

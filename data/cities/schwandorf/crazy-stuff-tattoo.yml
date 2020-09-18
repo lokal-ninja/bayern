@@ -3,7 +3,7 @@ type: way
 shop: Tattoo
 latitude: 49.338402900000006
 longitude: 12.120640300000002
-postcode: 92421
+postcode: "92421"
 city: Schwandorf
 street: "Fronberger Straße"
 housenumber: 26

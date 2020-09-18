@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.036729400000006
 longitude: 12.000255000000001
-postcode: 95632
+postcode: "95632"
 city: Wunsiedel
 street: "Ludwigstraße"
 housenumber: 53

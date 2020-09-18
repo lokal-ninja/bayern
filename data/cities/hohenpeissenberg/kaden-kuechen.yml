@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 47.8009251
 longitude: 11.0136439
-postcode: 82383
+postcode: "82383"
 city: Hohenpeißenberg
 street: "Matthäus-Günther-Platz"
 housenumber: 7a

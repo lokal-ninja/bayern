@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 49.548899000000006
 longitude: 10.222326200000001
-postcode: 97215
+postcode: "97215"
 city: Uffenheim
 street: "Gollachweg"
 housenumber: 4

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.5506614
 longitude: 10.7183328
-postcode: 91448
+postcode: "91448"
 city: Emskirchen
 street: "Marktstraße"
 housenumber: 7

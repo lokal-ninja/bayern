@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.382294200000004
 longitude: 10.9362163
-postcode: 86165
+postcode: "86165"
 city: Augsburg
 street: "Meraner Straße"
 housenumber: 20

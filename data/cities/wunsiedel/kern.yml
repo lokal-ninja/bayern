@@ -3,7 +3,7 @@ type: way
 shop: Gemüse & Obst
 latitude: 50.0370976
 longitude: 12.003180700000001
-postcode: 95632
+postcode: "95632"
 city: Wunsiedel
 street: "Ludwigstraße"
 housenumber: 38

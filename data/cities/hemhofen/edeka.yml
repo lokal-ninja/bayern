@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.6788839
 longitude: 10.934583
-postcode: 91334
+postcode: "91334"
 city: Hemhofen
 street: "Wolfenäckerstraße"
 housenumber: 1

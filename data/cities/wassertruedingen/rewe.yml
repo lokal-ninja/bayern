@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.0425424
 longitude: 10.5964156
-postcode: 91717
+postcode: "91717"
 city: Wassertrüdingen
 street: "Weinbergweg"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.316526200000006
 longitude: 10.891701000000001
-postcode: 86179
+postcode: "86179"
 city: Augsburg
 street: "Unterer Talweg"
 housenumber: 60

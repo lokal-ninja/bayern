@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.037992800000005
 longitude: 10.4486713
-postcode: 91744
+postcode: "91744"
 city: Weiltingen
 street: "Badstraße"
 housenumber: 5

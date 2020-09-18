@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 49.6759782
 longitude: 12.1640796
-postcode: 92637
+postcode: "92637"
 city: Weiden i.d.OPf.
 street: "Fleischgasse"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.5589847
 longitude: 9.7093223
-postcode: 88131
+postcode: "88131"
 city: Lindau (Bodensee)
 street: "Schulstraße"
 housenumber: 28

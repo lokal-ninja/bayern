@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.7958489
 longitude: 9.847744
-postcode: 97297
+postcode: "97297"
 city: Waldbüttelbrunn
 street: "Merowingerstraße"
 housenumber: 1

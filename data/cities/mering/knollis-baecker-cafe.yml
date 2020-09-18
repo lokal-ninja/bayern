@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.265046100000006
 longitude: 10.986070900000001
-postcode: 86415
+postcode: "86415"
 city: Mering
 street: "Münchener Straße"
 housenumber: 36

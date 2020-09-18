@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 48.137067
 longitude: 11.579284900000001
-postcode: 80331
+postcode: "80331"
 city: München
 street: "Ledererstraße"
 housenumber: 17

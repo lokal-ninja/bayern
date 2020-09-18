@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.161627800000005
 longitude: 11.5687479
-postcode: 80796
+postcode: "80796"
 city: München
 street: "Hohenzollernplatz"
 housenumber: 7

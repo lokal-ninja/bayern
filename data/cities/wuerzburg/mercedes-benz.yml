@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.7755324
 longitude: 9.9396368
-postcode: 97072
+postcode: "97072"
 city: Würzburg
 street: "Randersackerer Straße"
 housenumber: 54

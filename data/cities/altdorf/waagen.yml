@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.5735967
 longitude: 12.0780226
-postcode: 84032
+postcode: "84032"
 city: Altdorf
 street: "Pfeffenhausener Straße"
 housenumber: 17

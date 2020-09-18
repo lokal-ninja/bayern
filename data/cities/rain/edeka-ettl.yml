@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.9076037
 longitude: 12.4719995
-postcode: 94369
+postcode: "94369"
 city: Rain
 street: "Wiesengrund"
 housenumber: 1

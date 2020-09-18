@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.2227583
 longitude: 11.6735094
-postcode: 85737
+postcode: "85737"
 city: Ismaning
 street: "Dorfstraße"
 housenumber: 12

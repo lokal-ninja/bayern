@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.355657
 longitude: 10.9253154
-postcode: 86161
+postcode: "86161"
 city: Augsburg
 street: "Wilhelm-Hauff-Straße"
 housenumber: 34

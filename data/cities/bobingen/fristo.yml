@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.2637531
 longitude: 10.8392801
-postcode: 86399
+postcode: "86399"
 city: Bobingen
 street: "Ziegeleistraße"
 housenumber: 11

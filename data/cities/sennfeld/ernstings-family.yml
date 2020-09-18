@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.0367869
 longitude: 10.2499476
-postcode: 97526
+postcode: "97526"
 city: Sennfeld
 street: "August-Borsig-Straße"
 housenumber: 2a

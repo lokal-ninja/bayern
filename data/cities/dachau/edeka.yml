@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.2577313
 longitude: 11.4389924
-postcode: 85221
+postcode: "85221"
 city: Dachau
 street: "Schleißheimer Straße"
 housenumber: 19

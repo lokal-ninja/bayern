@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.1664279
 longitude: 11.229344000000001
-postcode: 82256
+postcode: "82256"
 city: Fürstenfeldbruck
 street: "Am Sulzbogen"
 housenumber: 27

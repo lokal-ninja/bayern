@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.1732753
 longitude: 12.864865
-postcode: 93444
+postcode: "93444"
 city: Bad Kötzting
 street: "Lehmgasse"
 housenumber: 14

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.342112400000005
 longitude: 10.7339059
-postcode: 86459
+postcode: "86459"
 city: Gessertshausen
 street: "Sankt-Gallus-Straße"
 housenumber: 22a

@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.3691029
 longitude: 10.8986684
-postcode: 86150
+postcode: "86150"
 city: Augsburg
 street: "Fischmarkt"
 housenumber: 1

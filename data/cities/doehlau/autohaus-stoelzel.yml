@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.289368100000004
 longitude: 11.9438571
-postcode: 95182
+postcode: "95182"
 city: Döhlau
 street: "Hofer Straße"
 housenumber: 2a

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.325493800000004
 longitude: 11.0237297
-postcode: 91126
+postcode: "91126"
 city: Schwabach
 street: "Stadtparkstraße"
 housenumber: 36

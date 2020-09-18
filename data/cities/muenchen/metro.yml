@@ -3,7 +3,7 @@ type: way
 shop: Großhandel
 latitude: 48.1937961
 longitude: 11.600428200000001
-postcode: 80939
+postcode: "80939"
 city: München
 street: "Helene-Wessel-Bogen"
 housenumber: 39

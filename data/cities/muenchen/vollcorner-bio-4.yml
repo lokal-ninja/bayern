@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.1147204
 longitude: 11.4814676
-postcode: 81375
+postcode: "81375"
 city: München
 street: "Würmtalstraße"
 housenumber: 95

@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 48.077031000000005
 longitude: 11.7257789
-postcode: 85640
+postcode: "85640"
 city: Putzbrunn
 street: "Hermann-Oberth-Straße"
 housenumber: 33

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.8633882
 longitude: 10.0392878
-postcode: 97294
+postcode: "97294"
 city: Unterpleichfeld
 street: "An der Spielleite"
 housenumber: 3

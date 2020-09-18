@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.3106632
 longitude: 12.8942952
-postcode: 84367
+postcode: "84367"
 city: Tann
 street: "Simbacher Straße"
 housenumber: 35

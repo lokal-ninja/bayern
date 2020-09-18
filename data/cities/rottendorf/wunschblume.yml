@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.7906083
 longitude: 10.022712
-postcode: 97228
+postcode: "97228"
 city: Rottendorf
 street: "Würzburger Straße"
 housenumber: 20b

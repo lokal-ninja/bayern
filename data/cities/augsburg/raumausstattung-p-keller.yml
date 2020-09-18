@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 48.398756500000005
 longitude: 10.8474641
-postcode: 86156
+postcode: "86156"
 city: Augsburg
 street: "Am Roggenfeld"
 housenumber: 46

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.6901668
 longitude: 10.920684900000001
-postcode: 86641
+postcode: "86641"
 city: Rain
 street: "Hauptstraße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.4417333
 longitude: 10.3644899
-postcode: 91613
+postcode: "91613"
 city: Marktbergel
 street: "Ansbacher Straße"
 housenumber: 3

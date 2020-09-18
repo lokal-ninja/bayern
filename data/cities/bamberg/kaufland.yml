@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.8791248
 longitude: 10.920046000000001
-postcode: 96050
+postcode: "96050"
 city: Bamberg
 street: "Forchheimer Straße"
 housenumber: 15

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.2605944
 longitude: 11.4690572
-postcode: 85221
+postcode: "85221"
 city: Dachau
 street: "Alte Römerstraße"
 housenumber: 35

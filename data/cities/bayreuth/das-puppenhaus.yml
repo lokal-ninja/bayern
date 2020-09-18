@@ -3,7 +3,7 @@ type: way
 shop: Antiquitäten
 latitude: 49.943261
 longitude: 11.575228300000001
-postcode: 95444
+postcode: "95444"
 city: Bayreuth
 street: "Kämmereigasse"
 housenumber: 1

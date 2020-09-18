@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.1682331
 longitude: 12.822838500000001
-postcode: 84489
+postcode: "84489"
 city: Burghausen
 street: "Unghauser Straße"
 housenumber: 23

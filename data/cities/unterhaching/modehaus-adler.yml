@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.0555771
 longitude: 11.604412100000001
-postcode: 82008
+postcode: "82008"
 city: Unterhaching
 street: "Grünwalder Weg"
 housenumber: 31

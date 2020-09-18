@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.1280081
 longitude: 11.5385986
-postcode: 81373
+postcode: "81373"
 city: München
 street: "Ganghoferstraße"
 housenumber: 80

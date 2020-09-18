@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.60684800000001
 longitude: 10.9830647
-postcode: 91056
+postcode: "91056"
 city: Erlangen
 street: "Möhrendorfer Weg"
 housenumber: 21

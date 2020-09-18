@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.2227601
 longitude: 10.108316400000001
-postcode: 89257
+postcode: "89257"
 city: Illertissen
 street: "Auf der Spöck"
 housenumber: 1

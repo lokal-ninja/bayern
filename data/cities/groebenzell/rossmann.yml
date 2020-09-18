@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.1943372
 longitude: 11.372286800000001
-postcode: 82194
+postcode: "82194"
 city: Gröbenzell
 street: "Kirchenstraße"
 housenumber: 12

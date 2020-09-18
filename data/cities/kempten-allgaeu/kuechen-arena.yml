@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 47.7163751
 longitude: 10.316972100000001
-postcode: 87435
+postcode: "87435"
 city: Kempten (Allgäu)
 street: "Wiesstraße"
 housenumber: 17

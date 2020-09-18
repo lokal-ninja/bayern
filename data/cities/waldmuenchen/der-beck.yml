@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.377394900000006
 longitude: 12.698892500000001
-postcode: 93449
+postcode: "93449"
 city: Waldmünchen
 street: "Heinrich-Eiber-Straße"
 housenumber: 7

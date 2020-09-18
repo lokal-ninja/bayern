@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.685917
 longitude: 10.939425100000001
-postcode: 91334
+postcode: "91334"
 city: Hemhofen
 street: "Hauptstraße"
 housenumber: 36

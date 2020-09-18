@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.4369327
 longitude: 10.307858300000001
-postcode: 97638
+postcode: "97638"
 city: Mellrichstadt
 street: "Weimarer Straße"
 housenumber: 1

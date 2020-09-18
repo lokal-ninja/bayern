@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.8326361
 longitude: 10.0066889
-postcode: 97230
+postcode: "97230"
 city: Estenfeld
 street: "Am Zehnthügel"
 housenumber: 2

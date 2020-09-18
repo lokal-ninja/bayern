@@ -3,10 +3,10 @@ type: way
 shop: Autowerkstatt
 latitude: 49.0269173
 longitude: 12.122504000000001
-postcode: 93059
+postcode: "93059"
 city: Regensburg
 street: "Innstraße"
 housenumber: 17
 phone: "+49 941 46437 0"
-opening_hours: ""
+opening_hours: "Mo-Fr 07:30-12:00,13:00-17:00"
 website: "https://zollner-karosserie.de/"

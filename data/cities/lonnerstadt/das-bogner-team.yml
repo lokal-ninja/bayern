@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 49.702718100000006
 longitude: 10.7608219
-postcode: 91475
+postcode: "91475"
 city: Lonnerstadt
 street: "Roter Bergweg"
 housenumber: 29b

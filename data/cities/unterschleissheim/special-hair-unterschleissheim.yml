@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.2762643
 longitude: 11.5729267
-postcode: 85716
+postcode: "85716"
 city: Unterschleißheim
 street: "Raiffeisenstraße"
 housenumber: 60

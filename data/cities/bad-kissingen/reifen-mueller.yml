@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 50.182808300000005
 longitude: 10.078836500000001
-postcode: 97688
+postcode: "97688"
 city: Bad Kissingen
 street: "Würzburger Straße"
 housenumber: 31

@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 49.6012635
 longitude: 11.0028713
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Hauptstraße"
 housenumber: 88

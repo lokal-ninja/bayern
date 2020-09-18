@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.0597067
 longitude: 11.6660021
-postcode: 85521
+postcode: "85521"
 city: Ottobrunn
 street: "Ottostraße"
 housenumber: 3

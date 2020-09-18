@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 48.1062195
 longitude: 11.5990418
-postcode: 81549
+postcode: "81549"
 city: München
 street: "Aschauer Straße"
 housenumber: 6

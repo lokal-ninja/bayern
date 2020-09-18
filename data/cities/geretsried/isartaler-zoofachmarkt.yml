@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 47.8560882
 longitude: 11.4897253
-postcode: 82538
+postcode: "82538"
 city: Geretsried
 street: "Sudetenstraße"
 housenumber: 47a

@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 49.943235800000004
 longitude: 11.5776871
-postcode: 95444
+postcode: "95444"
 city: Bayreuth
 street: "Ludwigstraße"
 housenumber: 2

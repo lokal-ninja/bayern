@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.45570480000001
 longitude: 11.0808928
-postcode: 90403
+postcode: "90403"
 city: Nürnberg
 street: "Theresienplatz"
 housenumber: 8

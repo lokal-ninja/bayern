@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.4454038
 longitude: 11.8670662
-postcode: 92224
+postcode: "92224"
 city: Amberg
 street: "Marienstraße"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 49.4718613
 longitude: 10.989175600000001
-postcode: 90762
+postcode: "90762"
 city: Fürth
 street: "Friedrichstraße"
 housenumber: 19

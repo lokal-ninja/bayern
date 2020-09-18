@@ -3,7 +3,7 @@ type: way
 shop: Badezimmer
 latitude: 48.4645135
 longitude: 11.141218100000001
-postcode: 86551
+postcode: "86551"
 city: Aichach
 street: "Wittelsbacher Weg"
 housenumber: 7

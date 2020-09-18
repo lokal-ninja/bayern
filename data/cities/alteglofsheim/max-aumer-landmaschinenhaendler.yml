@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.918707000000005
 longitude: 12.2083138
-postcode: 93087
+postcode: "93087"
 city: Alteglofsheim
 street: "Landshuter Straße"
 housenumber: 27

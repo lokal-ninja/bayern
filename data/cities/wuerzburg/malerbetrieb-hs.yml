@@ -3,7 +3,7 @@ type: node
 shop: Farben
 latitude: 49.794813700000006
 longitude: 9.9635494
-postcode: 97074
+postcode: "97074"
 city: Würzburg
 street: "Zweierweg"
 housenumber: 5

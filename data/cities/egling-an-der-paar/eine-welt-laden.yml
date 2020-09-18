@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.185024600000006
 longitude: 10.9787093
-postcode: 86492
+postcode: "86492"
 city: Egling an der Paar
 street: "Hauptstraße"
 housenumber: 33

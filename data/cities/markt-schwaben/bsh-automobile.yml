@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 48.194797400000006
 longitude: 11.8646285
-postcode: 85570
+postcode: "85570"
 city: Markt Schwaben
 street: "Schweigerweg"
 housenumber: 3

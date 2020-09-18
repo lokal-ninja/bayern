@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.356268400000005
 longitude: 11.6840645
-postcode: 95119
+postcode: "95119"
 city: Naila
 street: "Nailaer Straße"
 housenumber: 4

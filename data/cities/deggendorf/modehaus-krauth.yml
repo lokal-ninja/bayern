@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.833448800000006
 longitude: 12.961719200000001
-postcode: 94469
+postcode: "94469"
 city: Deggendorf
 street: "Bahnhofstraße"
 housenumber: 7-9;1

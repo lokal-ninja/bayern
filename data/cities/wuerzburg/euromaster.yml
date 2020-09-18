@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 49.7944522
 longitude: 9.9903318
-postcode: 97076
+postcode: "97076"
 city: Würzburg
 street: "Gattingerstraße"
 housenumber: 16

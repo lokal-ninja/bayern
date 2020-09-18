@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.0046819
 longitude: 9.591025700000001
-postcode: 97816
+postcode: "97816"
 city: Lohr a. Main
 street: "Sackenbacher Straße"
 housenumber: 32

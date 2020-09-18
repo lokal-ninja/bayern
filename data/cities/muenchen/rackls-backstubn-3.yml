@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.0881929
 longitude: 11.479392200000001
-postcode: 81475
+postcode: "81475"
 city: München
 street: "Steinkirchner Straße"
 housenumber: 28

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.051449600000005
 longitude: 11.6063249
-postcode: 82024
+postcode: "82024"
 city: Taufkirchen
 street: "Eschenstraße"
 housenumber: 54

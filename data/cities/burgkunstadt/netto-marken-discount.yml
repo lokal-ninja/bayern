@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.138242000000005
 longitude: 11.2498746
-postcode: 96224
+postcode: "96224"
 city: Burgkunstadt
 street: "Auwiese"
 housenumber: 6

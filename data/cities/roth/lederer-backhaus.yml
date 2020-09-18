@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.240471500000005
 longitude: 11.089340400000001
-postcode: 91154
+postcode: "91154"
 city: Roth
 street: "Münchener Straße"
 housenumber: 45

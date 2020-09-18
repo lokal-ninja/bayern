@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.817264200000004
 longitude: 11.8442
-postcode: 93326
+postcode: "93326"
 city: Abensberg
 street: "Schulhausplatz"
 housenumber: 2a

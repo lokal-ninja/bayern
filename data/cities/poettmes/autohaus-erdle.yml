@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.5859229
 longitude: 11.1107773
-postcode: 86554
+postcode: "86554"
 city: Pöttmes
 street: "Rudolf-Diesel-Straße"
 housenumber: 31

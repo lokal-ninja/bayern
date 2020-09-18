@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.5024597
 longitude: 12.100140000000001
-postcode: 84184
+postcode: "84184"
 city: Tiefenbach
 street: "Hauptstraße"
 housenumber: 44

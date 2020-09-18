@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.134525700000005
 longitude: 11.3858452
-postcode: 82110
+postcode: "82110"
 city: Germering
 street: "Landsberger Straße"
 housenumber: 7

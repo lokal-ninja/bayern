@@ -3,10 +3,10 @@ type: way
 shop: Drogerie
 latitude: 48.3069696
 longitude: 11.2051362
-postcode: 85235
+postcode: "85235"
 city: Odelzhausen
 street: "Rudolf-Diesel-Straße"
 housenumber: 1
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off"
 website: ""

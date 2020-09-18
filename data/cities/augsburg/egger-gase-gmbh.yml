@@ -3,7 +3,7 @@ type: way
 shop: Gasflaschen
 latitude: 48.3476154
 longitude: 10.9531699
-postcode: 86163
+postcode: "86163"
 city: Augsburg
 street: "Meringer Straße"
 housenumber: 86

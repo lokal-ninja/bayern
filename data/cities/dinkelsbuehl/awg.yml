@@ -3,7 +3,7 @@ type: way
 shop: Modehaus
 latitude: 49.0675594
 longitude: 10.331230000000001
-postcode: 91550
+postcode: "91550"
 city: Dinkelsbühl
 street: "Von-Raumer-Straße"
 housenumber: 5

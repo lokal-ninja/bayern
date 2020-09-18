@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.434898000000004
 longitude: 10.9583793
-postcode: 90513
+postcode: "90513"
 city: Zirndorf
 street: "Rothenburger Straße"
 housenumber: 28

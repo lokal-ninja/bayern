@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.7985489
 longitude: 9.9417142
-postcode: 97080
+postcode: "97080"
 city: Würzburg
 street: "Berliner Platz"
 housenumber: 2

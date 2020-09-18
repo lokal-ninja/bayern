@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.3735024
 longitude: 10.187151400000001
-postcode: 91541
+postcode: "91541"
 city: Rothenburg ob der Tauber
 street: "Erlbacher Straße"
 housenumber: 48

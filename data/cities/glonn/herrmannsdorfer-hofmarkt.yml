@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.992404500000006
 longitude: 11.8982156
-postcode: 85625
+postcode: "85625"
 city: Glonn
 street: ""
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.5225073
 longitude: 11.3417106
-postcode: 91233
+postcode: "91233"
 city: Neunkirchen a. Sand
 street: "Industriestraße"
 housenumber: 12

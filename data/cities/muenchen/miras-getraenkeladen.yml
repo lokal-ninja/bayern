@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.216542100000005
 longitude: 11.5285776
-postcode: 80995
+postcode: "80995"
 city: München
 street: "Feldmochinger Straße"
 housenumber: 104

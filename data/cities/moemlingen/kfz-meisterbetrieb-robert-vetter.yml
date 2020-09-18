@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 49.856046400000004
 longitude: 9.1139059
-postcode: 63853
+postcode: "63853"
 city: Mömlingen
 street: "Pflaumheimerweg"
 housenumber: 99

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.365447100000004
 longitude: 11.642186200000001
-postcode: 95138
+postcode: "95138"
 city: Bad Steben
 street: "Kirchgasse"
 housenumber: 7

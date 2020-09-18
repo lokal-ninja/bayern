@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.7958009
 longitude: 9.933859400000001
-postcode: 97070
+postcode: "97070"
 city: Würzburg
 street: "Eichhornstraße"
 housenumber: 21

@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 49.707613900000005
 longitude: 11.0595441
-postcode: 91301
+postcode: "91301"
 city: Forchheim
 street: "Boschstraße"
 housenumber: 2

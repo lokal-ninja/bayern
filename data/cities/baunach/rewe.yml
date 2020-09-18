@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.9910452
 longitude: 10.843722600000001
-postcode: 96148
+postcode: "96148"
 city: Baunach
 street: "Haßbergstraße"
 housenumber: 40

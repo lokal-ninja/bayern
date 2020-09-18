@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 48.138517300000004
 longitude: 11.5027808
-postcode: 80686
+postcode: "80686"
 city: München
 street: "Fürstenrieder Straße"
 housenumber: 34

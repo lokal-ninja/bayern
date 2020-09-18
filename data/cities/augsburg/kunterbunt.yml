@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.3741521
 longitude: 10.8961982
-postcode: 86152
+postcode: "86152"
 city: Augsburg
 street: "Frauentorstraße"
 housenumber: 13

@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 48.1177561
 longitude: 11.5288991
-postcode: 81373
+postcode: "81373"
 city: München
 street: "Kössener Straße"
 housenumber: 29

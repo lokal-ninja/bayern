@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.3230705
 longitude: 10.2002418
-postcode: 97616
+postcode: "97616"
 city: Bad Neustadt an der Saale
 street: "Berliner Straße"
 housenumber: 38

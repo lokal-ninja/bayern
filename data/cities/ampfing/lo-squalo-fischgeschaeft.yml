@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 48.2444592
 longitude: 12.4127226
-postcode: 84539
+postcode: "84539"
 city: Ampfing
 street: "Holzheim"
 housenumber: 1

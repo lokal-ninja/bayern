@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.564799400000005
 longitude: 9.665983500000001
-postcode: 88131
+postcode: "88131"
 city: Bodolz
 street: "Untere Steig"
 housenumber: 2

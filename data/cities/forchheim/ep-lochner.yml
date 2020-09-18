@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 49.7150314
 longitude: 11.0916786
-postcode: 91301
+postcode: "91301"
 city: Forchheim
 street: "Bayreuther Straße"
 housenumber: 119

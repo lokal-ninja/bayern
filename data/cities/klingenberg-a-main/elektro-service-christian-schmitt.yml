@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.7736614
 longitude: 9.184283
-postcode: 63911
+postcode: "63911"
 city: Klingenberg a.Main
 street: "Wilhelmstraße"
 housenumber: 129

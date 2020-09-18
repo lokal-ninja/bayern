@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.121619700000004
 longitude: 11.6703039
-postcode: 
+postcode: ""
 city: München
 street: "Truderinger Straße"
 housenumber: 306a

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.8139338
 longitude: 11.459160500000001
-postcode: 85101
+postcode: "85101"
 city: Lenting
 street: "Am Pfannenstiel"
 housenumber: 2

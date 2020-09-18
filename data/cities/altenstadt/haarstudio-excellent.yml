@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.1599085
 longitude: 10.1136911
-postcode: 89281
+postcode: "89281"
 city: Altenstadt
 street: "Schillerstraße"
 housenumber: 1

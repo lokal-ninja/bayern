@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.906670000000005
 longitude: 11.8515273
-postcode: 83620
+postcode: "83620"
 city: Feldkirchen-Westerham
 street: "Frühlingsstraße"
 housenumber: 13

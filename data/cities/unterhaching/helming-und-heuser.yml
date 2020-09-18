@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.065247500000005
 longitude: 11.6137464
-postcode: 82008
+postcode: "82008"
 city: Unterhaching
 street: "Albrecht-Dürer-Straße"
 housenumber: 1

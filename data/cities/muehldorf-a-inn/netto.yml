@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.246054300000004
 longitude: 12.5059821
-postcode: 84453
+postcode: "84453"
 city: Mühldorf a. Inn
 street: "Münchener Straße"
 housenumber: 84 b

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.7873396
 longitude: 12.0733014
-postcode: 84097
+postcode: "84097"
 city: Herrngiersdorf
 street: "Bernhardstraße"
 housenumber: 58-60

@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 48.1352345
 longitude: 11.574599200000002
-postcode: 80331
+postcode: "80331"
 city: München
 street: "Rosental"
 housenumber: 9

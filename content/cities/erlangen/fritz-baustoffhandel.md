@@ -1,0 +1,4 @@
+---
+title: "Fritz Baustoffhandel"
+url: /erlangen/fritz-baustoffhandel/
+---

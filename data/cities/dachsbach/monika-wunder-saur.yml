@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.638971000000005
 longitude: 10.7057543
-postcode: 91462
+postcode: "91462"
 city: Dachsbach
 street: "Neustädter Straße"
 housenumber: 2

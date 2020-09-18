@@ -3,7 +3,7 @@ type: way
 shop: Bücher
 latitude: 50.038088200000004
 longitude: 12.003161400000002
-postcode: 95632
+postcode: "95632"
 city: Wunsiedel
 street: "Maximilianstraße"
 housenumber: 37

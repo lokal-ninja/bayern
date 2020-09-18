@@ -3,7 +3,7 @@ type: node
 shop: Reifen
 latitude: 48.071370800000004
 longitude: 11.907757100000001
-postcode: 85614
+postcode: "85614"
 city: Kirchseeon
 street: "Ebersberger Straße"
 housenumber: 10

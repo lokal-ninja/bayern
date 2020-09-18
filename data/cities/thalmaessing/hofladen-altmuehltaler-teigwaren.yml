@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 49.110887500000004
 longitude: 11.277129100000002
-postcode: 91177
+postcode: "91177"
 city: Thalmässing
 street: ""
 housenumber: 6

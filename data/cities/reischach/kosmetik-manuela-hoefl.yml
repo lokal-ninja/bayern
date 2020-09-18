@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.289139000000006
 longitude: 12.7386727
-postcode: 84571
+postcode: "84571"
 city: Reischach
 street: "Petzlberg"
 housenumber: 1

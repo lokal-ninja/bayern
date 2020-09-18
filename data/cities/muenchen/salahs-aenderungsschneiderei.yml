@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 48.153718500000004
 longitude: 11.535818800000001
-postcode: 80634
+postcode: "80634"
 city: München
 street: "Leonrodstraße"
 housenumber: 23

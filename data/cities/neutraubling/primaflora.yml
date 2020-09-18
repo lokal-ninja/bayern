@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.9812579
 longitude: 12.1927415
-postcode: 93073
+postcode: "93073"
 city: Neutraubling
 street: "Pommernstraße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.100573600000004
 longitude: 11.3907854
-postcode: 95336
+postcode: "95336"
 city: Mainleus
 street: "Tiefe Äcker"
 housenumber: 2

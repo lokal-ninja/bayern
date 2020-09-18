@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.669610500000005
 longitude: 12.154974200000002
-postcode: 92637
+postcode: "92637"
 city: Weiden i.d.OPf.
 street: "Bahnhofstraße"
 housenumber: 30

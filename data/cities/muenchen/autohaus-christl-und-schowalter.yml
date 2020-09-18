@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.087867
 longitude: 11.4984131
-postcode: 81476
+postcode: "81476"
 city: München
 street: "Filchnerstraße"
 housenumber: 86

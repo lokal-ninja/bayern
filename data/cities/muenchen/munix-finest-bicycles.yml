@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.131419900000004
 longitude: 11.5991908
-postcode: 81667
+postcode: "81667"
 city: München
 street: "Wörthstraße"
 housenumber: 11

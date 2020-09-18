@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.7311758
 longitude: 13.37662
-postcode: 94104
+postcode: "94104"
 city: Tittling
 street: "Rothauer Straße"
 housenumber: 3

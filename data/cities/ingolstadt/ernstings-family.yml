@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.739662800000005
 longitude: 11.409721300000001
-postcode: 85051
+postcode: "85051"
 city: Ingolstadt
 street: "Berliner Straße"
 housenumber: 17

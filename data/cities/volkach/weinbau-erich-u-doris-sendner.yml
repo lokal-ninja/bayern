@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 49.8768381
 longitude: 10.1661438
-postcode: 97332
+postcode: "97332"
 city: Volkach
 street: "Blütenstraße"
 housenumber: 11

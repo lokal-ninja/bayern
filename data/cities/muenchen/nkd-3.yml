@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.1280778
 longitude: 11.632209600000001
-postcode: 81673
+postcode: "81673"
 city: München
 street: "Kreillerstraße"
 housenumber: 13

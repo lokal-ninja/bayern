@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.6336305
 longitude: 11.2240018
-postcode: 82441
+postcode: "82441"
 city: Ohlstadt
 street: "Partenkirchner Straße"
 housenumber: 20

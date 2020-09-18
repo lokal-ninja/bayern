@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 47.9302737
 longitude: 12.2281071
-postcode: 83139
+postcode: "83139"
 city: Söchtenau
 street: "Spitzholzweg"
 housenumber: 1 a

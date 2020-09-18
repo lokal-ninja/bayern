@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 50.260508200000004
 longitude: 10.9665426
-postcode: 96450
+postcode: "96450"
 city: Coburg
 street: "Oberer Bürglaß"
 housenumber: 3

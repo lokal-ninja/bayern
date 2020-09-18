@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.455932600000004
 longitude: 11.080718200000002
-postcode: 90403
+postcode: "90403"
 city: Nürnberg
 street: "Egidienplatz"
 housenumber: 1

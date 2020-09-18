@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 49.613024200000005
 longitude: 11.130889400000001
-postcode: 91077
+postcode: "91077"
 city: Neunkirchen a.Brand
 street: "Gräfenberger Straße"
 housenumber: 5

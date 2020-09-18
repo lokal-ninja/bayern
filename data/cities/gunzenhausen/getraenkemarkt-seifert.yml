@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 49.1288956
 longitude: 10.7467535
-postcode: 91710
+postcode: "91710"
 city: Gunzenhausen
 street: "Brechhausstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.1590762
 longitude: 11.5408323
-postcode: 80637
+postcode: "80637"
 city: München
 street: "Hübnerstraße"
 housenumber: 26

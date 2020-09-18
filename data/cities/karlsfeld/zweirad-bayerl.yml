@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.2234576
 longitude: 11.472369500000001
-postcode: 85757
+postcode: "85757"
 city: Karlsfeld
 street: "Krenmoosstraße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.5683585
 longitude: 13.0851003
-postcode: 94501
+postcode: "94501"
 city: Aidenbach
 street: "Unterer Markt"
 housenumber: 2

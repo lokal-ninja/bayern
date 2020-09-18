@@ -3,7 +3,7 @@ type: way
 shop: Konditorei
 latitude: 47.729615100000004
 longitude: 12.41108
-postcode: 83259
+postcode: "83259"
 city: Schleching
 street: "Raitener Straße"
 housenumber: 25

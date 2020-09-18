@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 47.947390000000006
 longitude: 11.103603600000001
-postcode: 86911
+postcode: "86911"
 city: Dießen am Ammersee
 street: "Johannisstraße"
 housenumber: 8

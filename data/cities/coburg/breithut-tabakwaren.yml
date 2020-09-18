@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 50.2582686
 longitude: 10.9640603
-postcode: 96450
+postcode: "96450"
 city: Coburg
 street: "Markt"
 housenumber: 5

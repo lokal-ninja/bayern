@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 49.48783
 longitude: 11.0049373
-postcode: 90765
+postcode: "90765"
 city: Fürth
 street: "Alte Reutstraße"
 housenumber: 117

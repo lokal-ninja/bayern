@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 48.0404135
 longitude: 11.5221102
-postcode: 82031
+postcode: "82031"
 city: Grünwald
 street: "Rathausstraße"
 housenumber: 1

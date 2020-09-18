@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 48.137172
 longitude: 11.5742198
-postcode: 80331
+postcode: "80331"
 city: München
 street: "Kaufingerstraße"
 housenumber: 1

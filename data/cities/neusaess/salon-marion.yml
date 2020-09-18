@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.405515300000005
 longitude: 10.8053816
-postcode: 86356
+postcode: "86356"
 city: Neusäß
 street: "Paul-von-Stetten-Straße"
 housenumber: 1

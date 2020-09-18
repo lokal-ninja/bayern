@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 48.9113066
 longitude: 12.6833576
-postcode: 94327
+postcode: "94327"
 city: Bogen
 street: "Straubinger Straße"
 housenumber: 8

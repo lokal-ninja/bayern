@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 48.3563593
 longitude: 10.983772700000001
-postcode: 86316
+postcode: "86316"
 city: Friedberg
 street: "Aichacher Straße"
 housenumber: 1

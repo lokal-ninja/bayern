@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.2869656
 longitude: 10.8893512
-postcode: 86343
+postcode: "86343"
 city: Königsbrunn
 street: "Germanenstraße"
 housenumber: 16

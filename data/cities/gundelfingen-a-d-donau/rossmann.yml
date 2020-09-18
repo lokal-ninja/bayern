@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.554921300000004
 longitude: 10.372319500000001
-postcode: 89423
+postcode: "89423"
 city: Gundelfingen a.d.Donau
 street: "Lauinger Straße"
 housenumber: 21

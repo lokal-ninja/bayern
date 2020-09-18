@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 48.4601592
 longitude: 11.1304843
-postcode: 86551
+postcode: "86551"
 city: Aichach
 street: "Am Büchel"
 housenumber: 1

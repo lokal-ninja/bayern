@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.5123253
 longitude: 10.9666001
-postcode: 86447
+postcode: "86447"
 city: Aindling
 street: "Peter-Sengl-Straße"
 housenumber: 38

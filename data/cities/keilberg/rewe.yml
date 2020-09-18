@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.9720305
 longitude: 9.254869300000001
-postcode: 63856
+postcode: "63856"
 city: Keilberg
 street: "Hauptstraße"
 housenumber: 89

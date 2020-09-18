@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.159959900000004
 longitude: 10.816723300000001
-postcode: 86836
+postcode: "86836"
 city: Untermeitingen
 street: "Lechfelder Straße"
 housenumber: 48

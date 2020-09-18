@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 48.562418300000004
 longitude: 12.1624523
-postcode: 84030
+postcode: "84030"
 city: Ergolding
 street: "Landshuter Straße"
 housenumber: 98

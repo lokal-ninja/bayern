@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 49.596287000000004
 longitude: 11.006094000000001
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Weiße Herzstraße"
 housenumber: 1

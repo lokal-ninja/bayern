@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 49.4582537
 longitude: 11.0020351
-postcode: 90763
+postcode: "90763"
 city: Fürth
 street: "Fronmüllerstraße"
 housenumber: 78

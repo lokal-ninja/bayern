@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.9138962
 longitude: 9.1255061
-postcode: 63843
+postcode: "63843"
 city: Niedernberg
 street: "Großostheimer Straße"
 housenumber: 1

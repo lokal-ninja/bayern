@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.4690627
 longitude: 11.1009995
-postcode: 90491
+postcode: "90491"
 city: Nürnberg
 street: "Äußere Bayreuther Straße"
 housenumber: 80

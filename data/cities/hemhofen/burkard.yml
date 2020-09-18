@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.6789428
 longitude: 10.9347388
-postcode: 91334
+postcode: "91334"
 city: Hemhofen
 street: "Wolfenäckerstraße"
 housenumber: 1

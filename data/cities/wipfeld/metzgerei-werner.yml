@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.9213773
 longitude: 10.1786709
-postcode: 97537
+postcode: "97537"
 city: Wipfeld
 street: "Mainstraße"
 housenumber: 2

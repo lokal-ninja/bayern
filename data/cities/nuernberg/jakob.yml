@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 49.451067900000005
 longitude: 11.0728934
-postcode: 90402
+postcode: "90402"
 city: Nürnberg
 street: "Hefnersplatz"
 housenumber: 8

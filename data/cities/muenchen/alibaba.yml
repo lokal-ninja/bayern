@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.1516219
 longitude: 11.579157700000001
-postcode: 80799
+postcode: "80799"
 city: München
 street: "Amalienstraße"
 housenumber: 91

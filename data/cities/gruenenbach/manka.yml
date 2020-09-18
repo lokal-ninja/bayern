@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.617958200000004
 longitude: 10.0384153
-postcode: 88167
+postcode: "88167"
 city: Grünenbach
 street: "Ebratshofen"
 housenumber: 46

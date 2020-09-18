@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.2850223
 longitude: 10.8799805
-postcode: 86343
+postcode: "86343"
 city: Königsbrunn
 street: "Augsburger Straße"
 housenumber: 41

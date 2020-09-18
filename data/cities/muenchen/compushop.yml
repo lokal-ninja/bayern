@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 48.1380081
 longitude: 11.561207600000001
-postcode: 80336
+postcode: "80336"
 city: München
 street: "Schillerstraße"
 housenumber: 9

@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 48.116719100000005
 longitude: 11.581378
-postcode: 81541
+postcode: "81541"
 city: München
 street: "Tegernseer Landstraße"
 housenumber: 41
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: "Mo-Sa 09:00-20:00"
 website: "https://www.vollcorner.de/"

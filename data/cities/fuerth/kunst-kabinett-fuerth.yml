@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 49.4797364
 longitude: 10.986344200000001
-postcode: 90762
+postcode: "90762"
 city: Fürth
 street: "Marktplatz"
 housenumber: 1

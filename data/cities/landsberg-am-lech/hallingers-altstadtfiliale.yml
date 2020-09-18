@@ -3,7 +3,7 @@ type: node
 shop: Schokolade
 latitude: 48.0522104
 longitude: 10.8767238
-postcode: 86899
+postcode: "86899"
 city: Landsberg am Lech
 street: "Vorderer Anger"
 housenumber: 119

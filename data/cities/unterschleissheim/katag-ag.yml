@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 48.2871904
 longitude: 11.564176100000001
-postcode: 85716
+postcode: "85716"
 city: Unterschleißheim
 street: "Gutenbergstraße"
 housenumber: 5

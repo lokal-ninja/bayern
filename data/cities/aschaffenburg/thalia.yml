@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 49.978365100000005
 longitude: 9.1521162
-postcode: 63739
+postcode: "63739"
 city: Aschaffenburg
 street: "Goldbacher Straße"
 housenumber: 2

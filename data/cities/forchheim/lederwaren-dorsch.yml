@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.717730700000004
 longitude: 11.0607418
-postcode: 91301
+postcode: "91301"
 city: Forchheim
 street: "Paradeplatz"
 housenumber: 9

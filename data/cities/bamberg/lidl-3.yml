@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.9022146
 longitude: 10.865633800000001
-postcode: 96049
+postcode: "96049"
 city: Bamberg
 street: "Gaustadter Hauptstraße"
 housenumber: 109b

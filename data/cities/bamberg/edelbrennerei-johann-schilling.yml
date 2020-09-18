@@ -3,7 +3,7 @@ type: way
 shop: Spirituosen
 latitude: 49.878857
 longitude: 10.8926336
-postcode: 96049
+postcode: "96049"
 city: Bamberg
 street: "Schellenbergerstraße"
 housenumber: 54 a

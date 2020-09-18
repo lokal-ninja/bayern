@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.7454126
 longitude: 11.4686006
-postcode: 85053
+postcode: "85053"
 city: Ingolstadt
 street: "Manchinger Straße"
 housenumber: 126

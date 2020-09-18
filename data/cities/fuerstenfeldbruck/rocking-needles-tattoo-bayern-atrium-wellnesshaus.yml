@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 48.186577500000006
 longitude: 11.255257400000001
-postcode: 82256
+postcode: "82256"
 city: Fürstenfeldbruck
 street: "Maisacher Straße"
 housenumber: 70

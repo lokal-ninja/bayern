@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.725781000000005
 longitude: 10.7715958
-postcode: 86609
+postcode: "86609"
 city: Donauwörth
 street: "Sallingerstraße"
 housenumber: 13

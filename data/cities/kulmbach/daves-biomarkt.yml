@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.1130428
 longitude: 11.4481824
-postcode: 95326
+postcode: "95326"
 city: Kulmbach
 street: "Albert-Ruckdeschel-Straße"
 housenumber: 3

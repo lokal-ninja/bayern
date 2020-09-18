@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 49.44007250000001
 longitude: 11.0889944
-postcode: 90459
+postcode: "90459"
 city: Nürnberg
 street: "Humboldtstraße"
 housenumber: 150

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.1908824
 longitude: 11.869011200000001
-postcode: 85570
+postcode: "85570"
 city: Markt Schwaben
 street: "Marktplatz"
 housenumber: 28

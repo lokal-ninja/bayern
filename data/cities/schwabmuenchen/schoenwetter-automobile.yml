@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.1976792
 longitude: 10.7631963
-postcode: 86830
+postcode: "86830"
 city: Schwabmünchen
 street: "Robert-Bosch-Straße"
 housenumber: 3

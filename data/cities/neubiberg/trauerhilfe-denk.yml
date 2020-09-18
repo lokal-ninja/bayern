@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 48.077333700000004
 longitude: 11.6493701
-postcode: 85579
+postcode: "85579"
 city: Neubiberg
 street: "Auf der Heid"
 housenumber: 6

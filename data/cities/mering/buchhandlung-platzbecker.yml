@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.2675208
 longitude: 10.9868939
-postcode: 86415
+postcode: "86415"
 city: Mering
 street: "Marktplatz"
 housenumber: 4

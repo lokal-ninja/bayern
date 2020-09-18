@@ -3,7 +3,7 @@ type: node
 shop: Motorrad
 latitude: 48.803147
 longitude: 12.881893400000001
-postcode: 94469
+postcode: "94469"
 city: Deggendorf
 street: "Kreuzäcker"
 housenumber: 5

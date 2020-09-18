@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.2411766
 longitude: 11.0720612
-postcode: 91154
+postcode: "91154"
 city: Roth
 street: "Westring"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 47.631806600000004
 longitude: 12.999741400000001
-postcode: 83471
+postcode: "83471"
 city: Berchtesgaden
 street: "Ludwig-Ganghofer-Straße"
 housenumber: 11

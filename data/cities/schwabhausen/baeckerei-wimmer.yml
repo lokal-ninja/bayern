@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.335133400000004
 longitude: 11.3422128
-postcode: 85247
+postcode: "85247"
 city: Schwabhausen
 street: "Berghofer Straße"
 housenumber: 

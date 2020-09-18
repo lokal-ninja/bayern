@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 49.314838200000004
 longitude: 10.5649799
-postcode: 91522
+postcode: "91522"
 city: Ansbach
 street: "Rügländer Straße"
 housenumber: 5

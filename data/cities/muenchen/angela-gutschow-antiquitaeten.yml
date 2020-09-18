@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 48.1373575
 longitude: 11.581178900000001
-postcode: 80331
+postcode: "80331"
 city: München
 street: "Neuturmstraße"
 housenumber: 2

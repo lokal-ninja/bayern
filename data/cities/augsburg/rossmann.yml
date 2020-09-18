@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.3816234
 longitude: 10.8742859
-postcode: 86154
+postcode: "86154"
 city: Augsburg
 street: "Neuhäuserstraße"
 housenumber: 3a

@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 48.1516989
 longitude: 11.528577400000001
-postcode: 80634
+postcode: "80634"
 city: München
 street: "Renatastraße"
 housenumber: 38

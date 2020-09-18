@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.0740416
 longitude: 11.263726
-postcode: 82234
+postcode: "82234"
 city: Weßling
 street: "Gautinger Straße"
 housenumber: 65

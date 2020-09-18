@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.967594500000004
 longitude: 10.88495
-postcode: 96149
+postcode: "96149"
 city: Breitengüßbach
 street: "Bamberger Straße"
 housenumber: 47

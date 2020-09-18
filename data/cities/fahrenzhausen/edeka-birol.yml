@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.337496300000005
 longitude: 11.572731600000001
-postcode: 85777
+postcode: "85777"
 city: Fahrenzhausen
 street: "Straßfeld"
 housenumber: 25

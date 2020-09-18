@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.3388239
 longitude: 10.9011189
-postcode: 86159
+postcode: "86159"
 city: Augsburg
 street: "Alter Postweg"
 housenumber: 99

@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.3145783
 longitude: 11.7460325
-postcode: 95152
+postcode: "95152"
 city: Selbitz
 street: "Josef-Witt-Straße"
 housenumber: 2a

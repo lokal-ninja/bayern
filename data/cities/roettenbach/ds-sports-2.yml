@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 49.661184600000006
 longitude: 10.919114
-postcode: 91341
+postcode: "91341"
 city: Röttenbach
 street: "Lohmühlweg"
 housenumber: 14

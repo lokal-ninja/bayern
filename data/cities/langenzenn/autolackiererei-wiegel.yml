@@ -3,10 +3,10 @@ type: node
 shop: Autowerkstatt
 latitude: 49.4956648
 longitude: 10.8142463
-postcode: 90579
+postcode: "90579"
 city: Langenzenn
 street: "Am Galgenberg"
 housenumber: 5
 phone: "+49 9101 6266"
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-17:00"
 website: "https://www.wiegel-autolackiererei.de"

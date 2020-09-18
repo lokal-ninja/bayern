@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.2920795
 longitude: 10.462492800000001
-postcode: 86470
+postcode: "86470"
 city: Thannhausen
 street: "Bahnhofstraße"
 housenumber: 75

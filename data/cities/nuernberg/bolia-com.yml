@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 49.4522357
 longitude: 11.0773864
-postcode: 90402
+postcode: "90402"
 city: Nürnberg
 street: "Königstraße"
 housenumber: 4

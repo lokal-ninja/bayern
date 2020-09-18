@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 49.443932100000005
 longitude: 11.867443000000002
-postcode: 92224
+postcode: "92224"
 city: Amberg
 street: "Regensburger Straße"
 housenumber: 11

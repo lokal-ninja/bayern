@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.033963500000006
 longitude: 10.7281749
-postcode: 86807
+postcode: "86807"
 city: Buchloe
 street: "Gansbichlstraße"
 housenumber: 21a

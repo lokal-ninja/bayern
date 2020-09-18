@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.1453664
 longitude: 11.640114700000002
-postcode: 81929
+postcode: "81929"
 city: München
 street: "Friedrich-Eckart-Straße"
 housenumber: 52

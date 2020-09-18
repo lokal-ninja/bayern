@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 48.145456
 longitude: 11.559603200000002
-postcode: 80335
+postcode: "80335"
 city: München
 street: "Dachauer Straße"
 housenumber: 34

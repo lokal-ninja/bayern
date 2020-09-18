@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.6244953
 longitude: 9.9727841
-postcode: 88167
+postcode: "88167"
 city: Röthenbach (Allgäu)
 street: "Birkenweg"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.790028400000004
 longitude: 10.0368703
-postcode: 97228
+postcode: "97228"
 city: Rottendorf
 street: "Schießhausstraße"
 housenumber: 14

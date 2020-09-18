@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 48.2889617
 longitude: 10.8929849
-postcode: 86343
+postcode: "86343"
 city: Königsbrunn
 street: "Germanenstraße"
 housenumber: 13

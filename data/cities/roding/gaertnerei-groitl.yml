@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.197864100000004
 longitude: 12.522069100000001
-postcode: 93426
+postcode: "93426"
 city: Roding
 street: "Chamer Straße"
 housenumber: 34

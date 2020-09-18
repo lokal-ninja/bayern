@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.979484400000004
 longitude: 12.0911383
-postcode: 93053
+postcode: "93053"
 city: Regensburg
 street: "Brücklmaierweg"
 housenumber: 18

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.965012200000004
 longitude: 9.2086054
-postcode: 63808
+postcode: "63808"
 city: Haibach
 street: "Fischergasse"
 housenumber: 2

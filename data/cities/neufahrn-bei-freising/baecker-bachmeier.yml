@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.3211558
 longitude: 11.669023800000002
-postcode: 85375
+postcode: "85375"
 city: Neufahrn bei Freising
 street: "Kurt-Kittel-Ring"
 housenumber: 1

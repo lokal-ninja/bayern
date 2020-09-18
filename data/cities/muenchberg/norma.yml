@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.196780600000004
 longitude: 11.7913239
-postcode: 95213
+postcode: "95213"
 city: Münchberg
 street: "Helmbrechtser Straße"
 housenumber: 4

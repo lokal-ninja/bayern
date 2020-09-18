@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.1427167
 longitude: 11.5590683
-postcode: 80335
+postcode: "80335"
 city: München
 street: "Marsstraße"
 housenumber: 11

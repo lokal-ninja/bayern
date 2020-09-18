@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.052349
 longitude: 11.781874400000001
-postcode: 93155
+postcode: "93155"
 city: Hemau
 street: "Kirchengasse"
 housenumber: 2

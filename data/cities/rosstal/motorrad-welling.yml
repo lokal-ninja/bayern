@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 49.3896206
 longitude: 10.900064700000001
-postcode: 90574
+postcode: "90574"
 city: Roßtal
 street: "Gewerbering"
 housenumber: 9

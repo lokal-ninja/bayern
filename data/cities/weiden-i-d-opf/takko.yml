@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.662271100000005
 longitude: 12.15365
-postcode: 92637
+postcode: "92637"
 city: Weiden i.d.OPf.
 street: "Untere Bauscherstraße"
 housenumber: 33

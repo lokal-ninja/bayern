@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.9801963
 longitude: 10.1738145
-postcode: 87700
+postcode: "87700"
 city: Memmingen
 street: "Bodenseestraße"
 housenumber: 27

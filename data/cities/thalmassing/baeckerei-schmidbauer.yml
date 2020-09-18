@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.9117085
 longitude: 12.155474900000002
-postcode: 93107
+postcode: "93107"
 city: Thalmassing
 street: "Hauptstraße"
 housenumber: 29

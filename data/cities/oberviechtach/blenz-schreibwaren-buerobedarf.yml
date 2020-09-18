@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 49.4599987
 longitude: 12.4189027
-postcode: 92526
+postcode: "92526"
 city: Oberviechtach
 street: "Marktplatz"
 housenumber: 2

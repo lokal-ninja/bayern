@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 49.441813800000006
 longitude: 11.0913889
-postcode: 90478
+postcode: "90478"
 city: Nürnberg
 street: "Schweiggerstraße"
 housenumber: 14

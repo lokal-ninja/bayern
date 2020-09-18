@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.141816000000006
 longitude: 11.5846604
-postcode: 80538
+postcode: "80538"
 city: München
 street: "Seitzstraße"
 housenumber: 17

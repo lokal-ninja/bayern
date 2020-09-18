@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.366374400000005
 longitude: 10.7933947
-postcode: 86356
+postcode: "86356"
 city: Neusäß
 street: "Gessertshausener Straße"
 housenumber: 1

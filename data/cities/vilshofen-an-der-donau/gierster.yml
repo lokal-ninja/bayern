@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.631105600000005
 longitude: 13.189697500000001
-postcode: 94474
+postcode: "94474"
 city: Vilshofen an der Donau
 street: "Vilsvorstadt"
 housenumber: 

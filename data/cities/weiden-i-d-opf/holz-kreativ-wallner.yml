@@ -3,10 +3,10 @@ type: node
 shop: Spielzeug
 latitude: 49.6720647
 longitude: 12.1387175
-postcode: 92637
+postcode: "92637"
 city: Weiden i.d.OPf.
 street: "Frauenrichter Straße"
 housenumber: 145
 phone: ""
 opening_hours: ""
-website: ""
+website: "http://www.holzkreativ-wallner.de"

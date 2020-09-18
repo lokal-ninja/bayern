@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.074614600000004
 longitude: 10.093084600000001
-postcode: 97502
+postcode: "97502"
 city: Euerbach
 street: "Dr.-Georg-Schäfer-Straße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.3174288
 longitude: 10.0736342
-postcode: 89250
+postcode: "89250"
 city: Senden
 street: "Römerstraße"
 housenumber: 44

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.0567173
 longitude: 10.560254500000001
-postcode: 91740
+postcode: "91740"
 city: Röckingen
 street: "Kirchenweg"
 housenumber: 3

@@ -3,10 +3,10 @@ type: node
 shop: Hofladen
 latitude: 49.568961300000005
 longitude: 10.958322500000001
-postcode: 91056
+postcode: "91056"
 city: Erlangen
 street: "Herzogenauracher Straße"
 housenumber: 20
-phone: ""
-opening_hours: ""
-website: ""
+phone: "+49 9131 61 03 86 8"
+opening_hours: "Fr 10:00-13:00, 16:00-18:00; Sa 9:00-12:00"
+website: "www.nudeln-aus-erlangen.de"

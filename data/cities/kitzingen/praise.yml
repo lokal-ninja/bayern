@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 49.7380441
 longitude: 10.1592946
-postcode: 97318
+postcode: "97318"
 city: Kitzingen
 street: "Kaiserstraße"
 housenumber: 34

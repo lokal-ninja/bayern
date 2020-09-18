@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.3139194
 longitude: 11.6632463
-postcode: 85375
+postcode: "85375"
 city: Neufahrn b. Freising
 street: "Bahnhofstraße"
 housenumber: 7

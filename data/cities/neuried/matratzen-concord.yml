@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 48.0929331
 longitude: 11.4658019
-postcode: 82061
+postcode: "82061"
 city: Neuried
 street: "Forstenrieder Straße"
 housenumber: 2

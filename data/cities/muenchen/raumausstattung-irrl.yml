@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 48.131090400000005
 longitude: 11.6043646
-postcode: 81667
+postcode: "81667"
 city: München
 street: "Elsässer Straße"
 housenumber: 22

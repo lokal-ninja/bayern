@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.111223900000006
 longitude: 11.7125328
-postcode: 81827
+postcode: "81827"
 city: München
 street: "Wasserburger Landstraße"
 housenumber: 281

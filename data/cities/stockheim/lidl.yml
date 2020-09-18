@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 50.2951929
 longitude: 11.2878146
-postcode: 96342
+postcode: "96342"
 city: Stockheim
 street: "Industriestraße"
 housenumber: 17
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 07:00-20:00"
 website: ""

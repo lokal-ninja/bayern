@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.5207266
 longitude: 10.1451373
-postcode: 97650
+postcode: "97650"
 city: Fladungen
 street: "Ludwigstraße"
 housenumber: 11

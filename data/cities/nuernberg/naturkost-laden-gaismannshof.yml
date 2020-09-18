@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.447532200000005
 longitude: 11.024596200000001
-postcode: 90431
+postcode: "90431"
 city: Nürnberg
 street: "Lehrberger Straße"
 housenumber: 72

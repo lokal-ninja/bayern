@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.0631081
 longitude: 11.6496708
-postcode: 85521
+postcode: "85521"
 city: Ottobrunn
 street: "Unterhachinger Straße"
 housenumber: 28

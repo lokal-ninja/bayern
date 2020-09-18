@@ -1,12 +1,12 @@
-id: 1309258706
+id: 1309258779
 type: node
 shop: Drogerie
-latitude: 48.1841645
-longitude: 11.5726961
-postcode: 80807
+latitude: 48.116353000000004
+longitude: 11.527563
+postcode: "81369"
 city: München
-street: "Knorrstraße"
-housenumber: 59
+street: "Albert-Roßhaupter-Straße"
+housenumber: 65
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off"
 website: ""

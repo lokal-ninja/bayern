@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.38735500000001
 longitude: 11.2571186
-postcode: 85250
+postcode: "85250"
 city: Altomünster
 street: "Nerbstraße"
 housenumber: 2

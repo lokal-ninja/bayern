@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.298692200000005
 longitude: 10.585611
-postcode: 91522
+postcode: "91522"
 city: Ansbach
 street: "Bahnhofstraße"
 housenumber: 21

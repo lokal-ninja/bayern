@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.424529400000004
 longitude: 10.8791884
-postcode: 86368
+postcode: "86368"
 city: Gersthofen
 street: "Augsburger Straße"
 housenumber: 2

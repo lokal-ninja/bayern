@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.3228882
 longitude: 10.2173154
-postcode: 97616
+postcode: "97616"
 city: Bad Neustadt an der Saale
 street: "Spörleinstraße"
 housenumber: 28

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.138215200000005
 longitude: 11.5646199
-postcode: 80331
+postcode: "80331"
 city: München
 street: "Sonnenstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Lotterie
 latitude: 50.002629500000005
 longitude: 9.200286
-postcode: 63768
+postcode: "63768"
 city: Hösbach
 street: "Hauptstraße"
 housenumber: 70

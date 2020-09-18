@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.1960648
 longitude: 11.583866800000001
-postcode: 80939
+postcode: "80939"
 city: München
 street: "Ingolstädter Straße"
 housenumber: 107

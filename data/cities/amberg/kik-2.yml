@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 49.438455000000005
 longitude: 11.8790574
-postcode: 92224
+postcode: "92224"
 city: Amberg
 street: "Regensburger Straße"
 housenumber: 63a

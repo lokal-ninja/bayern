@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.298929900000005
 longitude: 10.900397900000002
-postcode: 86179
+postcode: "86179"
 city: Augsburg
 street: "Königsbrunner Straße"
 housenumber: 73

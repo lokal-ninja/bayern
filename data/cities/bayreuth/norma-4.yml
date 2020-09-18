@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.9324615
 longitude: 11.5554699
-postcode: 95447
+postcode: "95447"
 city: Bayreuth
 street: "Spitzwegstraße"
 housenumber: 59

@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 49.008189900000005
 longitude: 12.1146594
-postcode: 93053
+postcode: "93053"
 city: Regensburg
 street: "Mackensenstraße"
 housenumber: 22

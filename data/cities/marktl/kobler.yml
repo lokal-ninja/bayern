@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 48.252029900000004
 longitude: 12.8403211
-postcode: 84533
+postcode: "84533"
 city: Marktl
 street: "Innstraße"
 housenumber: 14

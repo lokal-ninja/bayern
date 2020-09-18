@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 47.752234
 longitude: 11.3772125
-postcode: 82377
+postcode: "82377"
 city: Penzberg
 street: "Bahnhofstraße"
 housenumber: 32

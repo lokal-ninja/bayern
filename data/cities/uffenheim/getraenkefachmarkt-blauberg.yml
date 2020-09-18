@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 49.541780800000005
 longitude: 10.176682300000001
-postcode: 97215
+postcode: "97215"
 city: Uffenheim
 street: ""
 housenumber: 2

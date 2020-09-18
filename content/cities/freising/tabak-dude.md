@@ -1,4 +1,4 @@
 ---
-title: "Tabak Dude"
+title: "Tabak-Dude"
 url: /freising/tabak-dude/
 ---

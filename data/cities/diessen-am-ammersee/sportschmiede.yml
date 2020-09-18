@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.955607300000004
 longitude: 11.102922300000001
-postcode: 86911
+postcode: "86911"
 city: Dießen am Ammersee
 street: "Lachener Straße"
 housenumber: 38

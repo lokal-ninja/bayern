@@ -3,7 +3,7 @@ type: node
 shop: Tee
 latitude: 49.329380400000005
 longitude: 11.018352700000001
-postcode: 91126
+postcode: "91126"
 city: Schwabach
 street: "Königstraße"
 housenumber: 19

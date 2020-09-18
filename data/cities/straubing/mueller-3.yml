@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 48.883609
 longitude: 12.6100148
-postcode: 94315
+postcode: "94315"
 city: Straubing
 street: "Ittlinger Straße"
 housenumber: 198a

@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 48.6143878
 longitude: 12.764455100000001
-postcode: 94428
+postcode: "94428"
 city: Eichendorf
 street: "Flurstraße"
 housenumber: 12

@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 48.062941800000004
 longitude: 12.767403900000001
-postcode: 84529
+postcode: "84529"
 city: Tittmoning
 street: "Stadtplatz"
 housenumber: 61

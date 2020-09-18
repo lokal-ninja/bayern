@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.2571862
 longitude: 10.9738182
-postcode: 96450
+postcode: "96450"
 city: Coburg
 street: "Johann-Strauß-Platz"
 housenumber: 1

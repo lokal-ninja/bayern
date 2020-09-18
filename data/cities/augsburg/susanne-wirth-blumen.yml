@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 48.3648667
 longitude: 10.9371153
-postcode: 86163
+postcode: "86163"
 city: Augsburg
 street: "Zugspitzstraße"
 housenumber: 102

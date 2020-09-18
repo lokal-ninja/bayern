@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 49.5805353
 longitude: 10.6090724
-postcode: 91413
+postcode: "91413"
 city: Neustadt an der Aisch
 street: "Bamberger Straße"
 housenumber: 3

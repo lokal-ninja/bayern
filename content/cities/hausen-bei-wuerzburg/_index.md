@@ -1,6 +1,6 @@
 ---
 title: Hausen bei Würzburg
 url: /hausen-bei-wuerzburg/
-latitude: 49.928137400000004
-longitude: 10.028155100000001
+latitude: 49.9270599
+longitude: 10.0264921
 ---

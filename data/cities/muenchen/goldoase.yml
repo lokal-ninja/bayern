@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.1390778
 longitude: 11.5597855
-postcode: 80335
+postcode: "80335"
 city: München
 street: "Bayerstraße"
 housenumber: 31

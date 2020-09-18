@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 49.7015997
 longitude: 9.2579679
-postcode: 63897
+postcode: "63897"
 city: Miltenberg
 street: "Hauptstraße"
 housenumber: 58

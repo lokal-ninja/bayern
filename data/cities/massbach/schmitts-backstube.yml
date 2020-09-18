@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.1833278
 longitude: 10.2764725
-postcode: 97711
+postcode: "97711"
 city: Maßbach
 street: "Neue Straße"
 housenumber: 2

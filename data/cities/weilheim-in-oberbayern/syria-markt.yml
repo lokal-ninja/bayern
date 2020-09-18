@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.8418457
 longitude: 11.141774100000001
-postcode: 82362
+postcode: "82362"
 city: Weilheim in Oberbayern
 street: "Schützenstraße"
 housenumber: 1

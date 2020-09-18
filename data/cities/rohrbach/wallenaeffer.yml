@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.6045348
 longitude: 11.5753825
-postcode: 85296
+postcode: "85296"
 city: Rohrbach
 street: "Bahnhofstraße"
 housenumber: 46

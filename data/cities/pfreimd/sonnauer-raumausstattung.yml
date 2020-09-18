@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 49.4927998
 longitude: 12.1791952
-postcode: 92536
+postcode: "92536"
 city: Pfreimd
 street: "Alte Schulgasse"
 housenumber: 4

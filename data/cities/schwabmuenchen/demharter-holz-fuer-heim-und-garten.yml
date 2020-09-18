@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 48.187094
 longitude: 10.7534364
-postcode: 86830
+postcode: "86830"
 city: Schwabmünchen
 street: "Augsburger Straße"
 housenumber: 7

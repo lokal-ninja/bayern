@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.922107000000004
 longitude: 12.5959544
-postcode: 94365
+postcode: "94365"
 city: Parkstetten
 street: "Harthofer Straße"
 housenumber: 34

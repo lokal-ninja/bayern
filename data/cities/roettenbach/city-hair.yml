@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.667894100000005
 longitude: 10.9276894
-postcode: 91341
+postcode: "91341"
 city: Röttenbach
 street: "Ringstraße"
 housenumber: 44

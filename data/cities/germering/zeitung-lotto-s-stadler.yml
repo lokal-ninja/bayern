@@ -3,7 +3,7 @@ type: way
 shop: Zeitungen
 latitude: 48.1353656
 longitude: 11.3649777
-postcode: 82110
+postcode: "82110"
 city: Germering
 street: "Hörwegstraße"
 housenumber: 23

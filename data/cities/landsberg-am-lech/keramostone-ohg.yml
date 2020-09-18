@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 48.068519
 longitude: 10.8590409
-postcode: 86899
+postcode: "86899"
 city: Landsberg am Lech
 street: "Lechwiesenstraße"
 housenumber: 9

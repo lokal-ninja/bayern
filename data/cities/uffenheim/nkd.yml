@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.5419135
 longitude: 10.2308202
-postcode: 97215
+postcode: "97215"
 city: Uffenheim
 street: "Sparkassenstraße"
 housenumber: 7

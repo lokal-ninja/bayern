@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 48.176009400000005
 longitude: 11.2572332
-postcode: 82256
+postcode: "82256"
 city: Fürstenfeldbruck
 street: "Münchner Straße"
 housenumber: 4

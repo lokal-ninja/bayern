@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.185929
 longitude: 11.2396414
-postcode: 82256
+postcode: "82256"
 city: Fürstenfeldbruck
 street: "Nicolaus-Otto-Straße"
 housenumber: 1

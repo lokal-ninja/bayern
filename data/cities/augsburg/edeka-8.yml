@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.367163500000004
 longitude: 10.868640800000001
-postcode: 86157
+postcode: "86157"
 city: Augsburg
 street: "Christian-Dierig-Straße"
 housenumber: 2

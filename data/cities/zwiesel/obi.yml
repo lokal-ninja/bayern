@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 49.009728100000004
 longitude: 13.221672100000001
-postcode: 
+postcode: ""
 city: Zwiesel
 street: "Langdorfer Straße"
 housenumber: 5

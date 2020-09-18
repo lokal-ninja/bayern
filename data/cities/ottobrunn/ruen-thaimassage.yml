@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 48.062528
 longitude: 11.6787044
-postcode: 85521
+postcode: "85521"
 city: Ottobrunn
 street: "Ottostraße"
 housenumber: 86a

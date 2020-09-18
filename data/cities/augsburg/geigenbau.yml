@@ -3,7 +3,7 @@ type: way
 shop: Instrumente
 latitude: 48.362839
 longitude: 10.9017481
-postcode: 86150
+postcode: "86150"
 city: Augsburg
 street: "Waisengäßchen"
 housenumber: 7

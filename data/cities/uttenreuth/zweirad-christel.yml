@@ -3,7 +3,7 @@ type: node
 shop: Motorrad
 latitude: 49.598419400000004
 longitude: 11.076726
-postcode: 91080
+postcode: "91080"
 city: Uttenreuth
 street: "Esperstraße"
 housenumber: 14

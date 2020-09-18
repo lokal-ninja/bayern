@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.4580524
 longitude: 11.0531892
-postcode: 90419
+postcode: "90419"
 city: Nürnberg
 street: "Kirschgartenstraße"
 housenumber: 8

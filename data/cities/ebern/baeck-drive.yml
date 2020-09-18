@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.095440700000005
 longitude: 10.8002721
-postcode: 96106
+postcode: "96106"
 city: Ebern
 street: "Gymnasiumstraße"
 housenumber: 12

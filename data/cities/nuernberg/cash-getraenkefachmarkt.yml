@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 49.3684207
 longitude: 11.0451622
-postcode: 90453
+postcode: "90453"
 city: Nürnberg
 street: "Kellerstraße"
 housenumber: 1

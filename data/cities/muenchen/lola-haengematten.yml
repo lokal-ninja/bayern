@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.151742500000005
 longitude: 11.5382999
-postcode: 80636
+postcode: "80636"
 city: München
 street: "Nymphenburger Straße"
 housenumber: 134

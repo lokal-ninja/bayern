@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.838199100000004
 longitude: 12.048591100000001
-postcode: 92681
+postcode: "92681"
 city: Erbendorf
 street: "Unterer Markt"
 housenumber: 1

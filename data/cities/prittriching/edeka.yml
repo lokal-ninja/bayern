@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.2105472
 longitude: 10.931080000000001
-postcode: 86931
+postcode: "86931"
 city: Prittriching
 street: "Gewerbering"
 housenumber: 1

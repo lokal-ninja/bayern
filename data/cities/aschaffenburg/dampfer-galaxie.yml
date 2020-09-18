@@ -3,7 +3,7 @@ type: node
 shop: E-Zigaretten
 latitude: 49.9760526
 longitude: 9.1487251
-postcode: 63739
+postcode: "63739"
 city: Aschaffenburg
 street: "Roßmarkt"
 housenumber: 13

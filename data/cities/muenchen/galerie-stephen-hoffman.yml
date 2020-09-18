@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 48.140928
 longitude: 11.5736807
-postcode: 80333
+postcode: "80333"
 city: München
 street: "Prannerstraße"
 housenumber: 5

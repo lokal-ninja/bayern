@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.0104576
 longitude: 10.9636923
-postcode: 86928
+postcode: "86928"
 city: Hofstetten
 street: "Landsberger Straße"
 housenumber: 2

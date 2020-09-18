@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 48.140307
 longitude: 11.592242200000001
-postcode: 80538
+postcode: "80538"
 city: München
 street: "Liebigstraße"
 housenumber: 24

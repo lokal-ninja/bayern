@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.398073100000005
 longitude: 11.380590600000001
-postcode: 96358
+postcode: "96358"
 city: Teuschnitz
 street: "Obere Straße"
 housenumber: 4

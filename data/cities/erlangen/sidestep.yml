@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 49.5926333
 longitude: 11.004894
-postcode: 91052
+postcode: "91052"
 city: Erlangen
 street: "Nürnberger Straße"
 housenumber: 7

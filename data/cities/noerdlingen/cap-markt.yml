@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.8470315
 longitude: 10.483443000000001
-postcode: 86720
+postcode: "86720"
 city: Nördlingen
 street: "Bößeneckerstraße"
 housenumber: 4

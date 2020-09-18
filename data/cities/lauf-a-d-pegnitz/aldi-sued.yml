@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.4966737
 longitude: 11.26219
-postcode: 91207
+postcode: "91207"
 city: Lauf a.d.Pegnitz
 street: "Karl-Büttner-Ring"
 housenumber: 11

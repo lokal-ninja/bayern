@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.092800600000004
 longitude: 11.413786100000001
-postcode: 82152
+postcode: "82152"
 city: Krailling
 street: "Muggenthalerstraße"
 housenumber: 1

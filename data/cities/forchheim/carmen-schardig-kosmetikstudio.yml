@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.7182539
 longitude: 11.063908300000001
-postcode: 91301
+postcode: "91301"
 city: Forchheim
 street: "Klosterstraße"
 housenumber: 15

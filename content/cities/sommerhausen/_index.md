@@ -1,6 +1,6 @@
 ---
 title: Sommerhausen
 url: /sommerhausen/
-latitude: 49.7059745
-longitude: 10.0251015
+latitude: 49.705466300000005
+longitude: 10.024739400000001
 ---

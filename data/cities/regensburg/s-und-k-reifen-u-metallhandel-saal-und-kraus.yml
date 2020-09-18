@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 49.0180687
 longitude: 12.145917800000001
-postcode: 93055
+postcode: "93055"
 city: Regensburg
 street: "Äußere Wiener Straße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.779894500000005
 longitude: 11.1861897
-postcode: 91320
+postcode: "91320"
 city: Ebermannstadt
 street: "Hauptstraße"
 housenumber: 23

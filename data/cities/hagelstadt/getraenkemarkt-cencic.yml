@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.8965983
 longitude: 12.213441900000001
-postcode: 93095
+postcode: "93095"
 city: Hagelstadt
 street: "Regensburger Straße"
 housenumber: 13

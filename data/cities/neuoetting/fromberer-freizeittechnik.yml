@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsartikel
 latitude: 48.243146900000006
 longitude: 12.7064783
-postcode: 84524
+postcode: "84524"
 city: Neuötting
 street: "Lohgerberstraße"
 housenumber: 13

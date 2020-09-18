@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.189526
 longitude: 11.6431889
-postcode: 85774
+postcode: "85774"
 city: Unterföhring
 street: "Firkenweg"
 housenumber: 1

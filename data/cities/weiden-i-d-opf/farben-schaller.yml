@@ -3,7 +3,7 @@ type: node
 shop: Farben
 latitude: 49.6796282
 longitude: 12.1546002
-postcode: 92637
+postcode: "92637"
 city: Weiden i.d.OPf.
 street: "Christian-Seltmann-Straße"
 housenumber: 28

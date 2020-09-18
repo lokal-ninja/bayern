@@ -3,10 +3,10 @@ type: node
 shop: Lebensmittel
 latitude: 48.1910157
 longitude: 11.620361500000001
-postcode: 80939
+postcode: "80939"
 city: München
 street: "Freisinger Landstraße"
 housenumber: 9
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Su 06:00-22:00"
 website: ""

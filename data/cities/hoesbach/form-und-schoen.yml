@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 50.0093985
 longitude: 9.2171018
-postcode: 63768
+postcode: "63768"
 city: Hösbach
 street: "Frohnradstraße"
 housenumber: 4

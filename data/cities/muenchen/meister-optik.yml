@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.129221300000005
 longitude: 11.5926737
-postcode: 81669
+postcode: "81669"
 city: München
 street: "Rosenheimer Straße"
 housenumber: 40

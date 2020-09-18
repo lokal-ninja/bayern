@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 49.5959639
 longitude: 11.1151298
-postcode: 91077
+postcode: "91077"
 city: Dormitz
 street: "Marienbader Weg"
 housenumber: 3

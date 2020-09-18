@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 48.9866356
 longitude: 12.199053500000002
-postcode: 93073
+postcode: "93073"
 city: Neutraubling
 street: "Bayerwaldstraße"
 housenumber: 1

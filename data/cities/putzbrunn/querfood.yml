@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.076252600000004
 longitude: 11.7222893
-postcode: 85640
+postcode: "85640"
 city: Putzbrunn
 street: "Wernher-von-Braun-Straße"
 housenumber: 5

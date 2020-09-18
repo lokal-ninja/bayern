@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.5750146
 longitude: 10.4496888
-postcode: 89415
+postcode: "89415"
 city: Lauingen (Donau)
 street: "Werner-von-Siemens-Straße"
 housenumber: 10

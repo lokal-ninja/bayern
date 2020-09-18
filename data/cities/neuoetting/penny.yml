@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.239302
 longitude: 12.706806
-postcode: 84524
+postcode: "84524"
 city: Neuötting
 street: "Simbacher Straße"
 housenumber: 30C

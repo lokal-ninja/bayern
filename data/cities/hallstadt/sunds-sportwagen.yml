@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.9190394
 longitude: 10.869490500000001
-postcode: 96103
+postcode: "96103"
 city: Hallstadt
 street: "Dr.-Robert-Pfleger-Straße"
 housenumber: 25

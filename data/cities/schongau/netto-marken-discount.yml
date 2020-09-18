@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.8065751
 longitude: 10.875634
-postcode: 86956
+postcode: "86956"
 city: Schongau
 street: "Karwendelring"
 housenumber: 2-4

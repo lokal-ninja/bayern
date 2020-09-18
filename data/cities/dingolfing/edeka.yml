@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.6367829
 longitude: 12.4943456
-postcode: 84130
+postcode: "84130"
 city: Dingolfing
 street: "Bahnhofstraße"
 housenumber: 31

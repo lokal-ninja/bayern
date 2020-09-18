@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.878159600000004
 longitude: 12.3071742
-postcode: 83253
+postcode: "83253"
 city: Rimsting
 street: ""
 housenumber: 1

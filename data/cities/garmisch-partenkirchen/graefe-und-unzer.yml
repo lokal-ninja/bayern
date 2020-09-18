@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 47.4935155
 longitude: 11.104693000000001
-postcode: 82467
+postcode: "82467"
 city: Garmisch-Partenkirchen
 street: "Rathausplatz"
 housenumber: 15

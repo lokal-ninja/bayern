@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 49.203073100000005
 longitude: 12.654991200000001
-postcode: 93413
+postcode: "93413"
 city: Cham
 street: "Rodinger Straße"
 housenumber: 13

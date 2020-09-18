@@ -3,10 +3,10 @@ type: node
 shop: Foto
 latitude: 48.213640500000004
 longitude: 12.0578722
-postcode: 84424
+postcode: "84424"
 city: Isen
-street: ""
-housenumber: 
+street: "Dorfner Straße"
+housenumber: 2
 phone: ""
 opening_hours: ""
-website: ""
+website: "https://www.foto-boeld.de/"

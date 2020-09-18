@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.483359400000005
 longitude: 10.947966500000001
-postcode: 90766
+postcode: "90766"
 city: Fürth
 street: "Am Grünen Weg"
 housenumber: 8

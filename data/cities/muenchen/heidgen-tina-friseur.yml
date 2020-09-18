@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.147760700000006
 longitude: 11.595445000000002
-postcode: 80538
+postcode: "80538"
 city: München
 street: "Emil-Riedel-Straße"
 housenumber: 21

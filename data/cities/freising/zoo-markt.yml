@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 48.3999225
 longitude: 11.7702208
-postcode: 85356
+postcode: "85356"
 city: Freising
 street: "Rudolf-Diesel-Straße"
 housenumber: 2

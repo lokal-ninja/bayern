@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.6173086
 longitude: 12.1976969
-postcode: 83088
+postcode: "83088"
 city: Kiefersfelden
 street: "Gewerbepark"
 housenumber: 3

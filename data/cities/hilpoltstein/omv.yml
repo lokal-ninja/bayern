@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.1936898
 longitude: 11.189005900000002
-postcode: 91161
+postcode: "91161"
 city: Hilpoltstein
 street: "Allersberger Straße"
 housenumber: 22

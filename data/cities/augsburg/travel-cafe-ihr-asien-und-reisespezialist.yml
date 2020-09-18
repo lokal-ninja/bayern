@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 48.354744200000006
 longitude: 10.928130600000001
-postcode: 86161
+postcode: "86161"
 city: Augsburg
 street: "Spickelstraße"
 housenumber: 1

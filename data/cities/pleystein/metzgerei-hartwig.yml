@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.6449896
 longitude: 12.4081563
-postcode: 92714
+postcode: "92714"
 city: Pleystein
 street: "Marktplatz"
 housenumber: 18

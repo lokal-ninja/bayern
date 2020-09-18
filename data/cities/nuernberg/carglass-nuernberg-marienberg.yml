@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.4753872
 longitude: 11.1032942
-postcode: 90411
+postcode: "90411"
 city: Nürnberg
 street: "Äußere Bayreuther Straße"
 housenumber: 143

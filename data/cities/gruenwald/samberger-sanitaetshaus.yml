@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 48.0410198
 longitude: 11.5239393
-postcode: 82031
+postcode: "82031"
 city: Grünwald
 street: "Schloßstraße"
 housenumber: 14b

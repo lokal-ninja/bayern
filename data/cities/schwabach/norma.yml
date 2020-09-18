@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.337102800000004
 longitude: 11.0232431
-postcode: 91126
+postcode: "91126"
 city: Schwabach
 street: "Fürther Straße"
 housenumber: 40

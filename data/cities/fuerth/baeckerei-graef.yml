@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.4901866
 longitude: 10.974977
-postcode: 90766
+postcode: "90766"
 city: Fürth
 street: "Friedrich-Ebert-Straße"
 housenumber: 164

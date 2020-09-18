@@ -3,7 +3,7 @@ type: node
 shop: Kerzen
 latitude: 48.1381718
 longitude: 11.574288000000001
-postcode: 80331
+postcode: "80331"
 city: München
 street: "Thiereckstraße"
 housenumber: 2

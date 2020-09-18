@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.882014000000005
 longitude: 11.9859366
-postcode: 83043
+postcode: "83043"
 city: Bad Aibling
 street: "Carl-von-Ossietzky-Straße"
 housenumber: 12

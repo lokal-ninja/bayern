@@ -3,7 +3,7 @@ type: way
 shop: Tabak
 latitude: 48.2606838
 longitude: 11.439267300000001
-postcode: 85221
+postcode: "85221"
 city: Dachau
 street: "Martin-Huber-Straße"
 housenumber: 5

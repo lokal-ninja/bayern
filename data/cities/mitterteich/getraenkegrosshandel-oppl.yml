@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 49.9473977
 longitude: 12.2525984
-postcode: 95666
+postcode: "95666"
 city: Mitterteich
 street: "Mühlenstraße"
 housenumber: 10a

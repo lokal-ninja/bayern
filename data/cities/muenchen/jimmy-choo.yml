@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 48.1387489
 longitude: 11.580940700000001
-postcode: 80539
+postcode: "80539"
 city: München
 street: "Maximilianstraße"
 housenumber: 16

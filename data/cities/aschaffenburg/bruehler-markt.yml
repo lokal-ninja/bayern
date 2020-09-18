@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.9723483
 longitude: 9.1571332
-postcode: 63739
+postcode: "63739"
 city: Aschaffenburg
 street: "Würzburger Straße"
 housenumber: 68

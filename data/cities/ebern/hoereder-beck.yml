@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.0972105
 longitude: 10.7950548
-postcode: 96106
+postcode: "96106"
 city: Ebern
 street: "Coburger Straße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.821509400000004
 longitude: 12.155493
-postcode: 83101
+postcode: "83101"
 city: Rohrdorf
 street: "Fabrikstraße"
 housenumber: 1

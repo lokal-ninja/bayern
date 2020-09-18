@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.9940337
 longitude: 12.353447300000001
-postcode: 93086
+postcode: "93086"
 city: Wörth an der Donau
 street: "Kiefenholz"
 housenumber: 15 b

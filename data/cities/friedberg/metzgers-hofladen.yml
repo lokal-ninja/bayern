@@ -3,10 +3,10 @@ type: node
 shop: Hofladen
 latitude: 48.382889500000005
 longitude: 10.9850192
-postcode: 86316
+postcode: "86316"
 city: Friedberg
 street: "Radegundisstraße"
 housenumber: 28
 phone: "+49 821 781367"
 opening_hours: ""
-website: ""
+website: "https://a3regional.de/produzenten/metzgers-hofladen/"

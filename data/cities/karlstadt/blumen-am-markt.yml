@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.9612671
 longitude: 9.7644958
-postcode: 97753
+postcode: "97753"
 city: Karlstadt
 street: "Hauptstraße"
 housenumber: 43

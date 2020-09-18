@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.542617400000005
 longitude: 10.3680254
-postcode: 89423
+postcode: "89423"
 city: Gundelfingen a.d.Donau
 street: "Günzburger Straße"
 housenumber: 63a

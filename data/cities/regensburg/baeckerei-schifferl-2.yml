@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.0209058
 longitude: 12.055754400000001
-postcode: 93049
+postcode: "93049"
 city: Regensburg
 street: "Wernerwerkstraße"
 housenumber: 2a

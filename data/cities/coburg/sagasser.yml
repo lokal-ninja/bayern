@@ -1,12 +1,12 @@
-id: 366623164
-type: way
+id: 926927398
+type: node
 shop: Getränke
-latitude: 50.265937400000006
-longitude: 10.9604575
-postcode: 96450
+latitude: 50.287414000000005
+longitude: 10.9844354
+postcode: "96450"
 city: Coburg
-street: "Callenberger Straße"
-housenumber: 16
+street: "Niorter Straße"
+housenumber: 3e
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.sagasser.de/"
+opening_hours: "Mo-Sa 08:00-20:00; PH off"
+website: ""

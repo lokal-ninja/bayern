@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 49.5039345
 longitude: 10.4163371
-postcode: 91438
+postcode: "91438"
 city: Bad Windsheim
 street: "Pastoriusstraße"
 housenumber: 15

@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 49.462429300000004
 longitude: 11.1433067
-postcode: 90482
+postcode: "90482"
 city: Nürnberg
 street: "Laufamholzstraße"
 housenumber: 84

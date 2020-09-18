@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.582847300000005
 longitude: 10.701496500000001
-postcode: 87629
+postcode: "87629"
 city: Füssen
 street: "Abt-Hafner-Straße"
 housenumber: 14

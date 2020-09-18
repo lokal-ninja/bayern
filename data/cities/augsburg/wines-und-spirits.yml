@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 48.3532998
 longitude: 10.8954278
-postcode: 86159
+postcode: "86159"
 city: Augsburg
 street: "Schertlinstraße"
 housenumber: 23

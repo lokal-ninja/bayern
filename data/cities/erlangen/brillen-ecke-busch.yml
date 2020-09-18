@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.5965131
 longitude: 11.0070879
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Untere Karlstraße"
 housenumber: 17

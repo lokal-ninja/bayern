@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.1398924
 longitude: 11.582864800000001
-postcode: 80539
+postcode: "80539"
 city: München
 street: "Wurzerstraße"
 housenumber: 11

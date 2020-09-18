@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 47.837152800000005
 longitude: 11.1422165
-postcode: 82362
+postcode: "82362"
 city: Weilheim in Oberbayern
 street: "Augsburger Straße"
 housenumber: 1

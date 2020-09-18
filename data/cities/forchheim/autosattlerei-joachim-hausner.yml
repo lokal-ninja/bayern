@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 49.7079308
 longitude: 11.055594500000002
-postcode: 91301
+postcode: "91301"
 city: Forchheim
 street: "An der Lände"
 housenumber: 15

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.196629900000005
 longitude: 11.6147354
-postcode: 80939
+postcode: "80939"
 city: München
 street: "Leutkircher Straße"
 housenumber: 1

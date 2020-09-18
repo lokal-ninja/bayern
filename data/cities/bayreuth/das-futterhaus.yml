@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 49.9553973
 longitude: 11.549689200000001
-postcode: 95445
+postcode: "95445"
 city: Bayreuth
 street: "Himmelkronstraße"
 housenumber: 1-3

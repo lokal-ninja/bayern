@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.0168157
 longitude: 12.098587400000001
-postcode: 93047
+postcode: "93047"
 city: Regensburg
 street: "Königsstraße"
 housenumber: 1

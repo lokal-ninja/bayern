@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 49.1233506
 longitude: 10.7698357
-postcode: 91710
+postcode: "91710"
 city: Gunzenhausen
 street: "Industriestraße"
 housenumber: 10

@@ -3,7 +3,7 @@ type: way
 shop: Schreibwaren
 latitude: 49.493088900000004
 longitude: 10.9903764
-postcode: 90765
+postcode: "90765"
 city: Fürth
 street: "Seeackerstraße"
 housenumber: 7

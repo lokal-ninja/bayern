@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.0382091
 longitude: 11.488930100000001
-postcode: 95512
+postcode: "95512"
 city: Neudrossenfeld
 street: "An der Autobahn"
 housenumber: 6

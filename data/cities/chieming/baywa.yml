@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 47.9266317
 longitude: 12.5518409
-postcode: 83339
+postcode: "83339"
 city: Chieming
 street: "Knesinger Straße"
 housenumber: 14

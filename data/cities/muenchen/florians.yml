@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 48.115909300000006
 longitude: 11.479511200000001
-postcode: 81375
+postcode: "81375"
 city: München
 street: "Großhaderner Straße"
 housenumber: 4

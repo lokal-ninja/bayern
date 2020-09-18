@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.763992900000005
 longitude: 11.4193587
-postcode: 85049
+postcode: "85049"
 city: Ingolstadt
 street: "Kreuzstraße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.1078288
 longitude: 11.7292752
-postcode: 85540
+postcode: "85540"
 city: Haar
 street: "Wasserburger Straße"
 housenumber: 7

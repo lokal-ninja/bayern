@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.2297172
 longitude: 11.713439900000001
-postcode: 85737
+postcode: "85737"
 city: Ismaning
 street: "Mayerbacherstraße"
 housenumber: 108

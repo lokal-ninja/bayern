@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 48.0816536
 longitude: 11.824992900000002
-postcode: 85604
+postcode: "85604"
 city: Zorneding
 street: "Ilchinger Weg"
 housenumber: 1

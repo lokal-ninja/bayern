@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 49.3292414
 longitude: 11.0198879
-postcode: 91126
+postcode: "91126"
 city: Schwabach
 street: "Königstraße"
 housenumber: 2

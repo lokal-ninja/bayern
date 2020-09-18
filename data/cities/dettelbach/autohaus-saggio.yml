@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.7779692
 longitude: 10.0670275
-postcode: 97337
+postcode: "97337"
 city: Dettelbach
 street: "Mainfrankenpark"
 housenumber: 25

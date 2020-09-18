@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.1280185
 longitude: 11.6224465
-postcode: 81673
+postcode: "81673"
 city: München
 street: "Schlüsselbergstraße"
 housenumber: 13

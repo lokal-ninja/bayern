@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.170484800000004
 longitude: 11.5863972
-postcode: 80804
+postcode: "80804"
 city: München
 street: "Leopoldstraße"
 housenumber: 158

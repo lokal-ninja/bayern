@@ -3,7 +3,7 @@ type: way
 shop: Kamine & Öfen
 latitude: 49.4792591
 longitude: 11.0110603
-postcode: 90765
+postcode: "90765"
 city: Fürth
 street: "Hans-Vogel-Straße"
 housenumber: 43

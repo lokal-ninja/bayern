@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 48.7637574
 longitude: 11.423167300000001
-postcode: 85049
+postcode: "85049"
 city: Ingolstadt
 street: "Theresienstraße"
 housenumber: 12

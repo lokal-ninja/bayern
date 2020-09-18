@@ -1,9 +1,9 @@
 id: 1533286932
 type: node
-shop: Motorrad
+shop: Kleidung
 latitude: 49.434715000000004
 longitude: 11.037129700000001
-postcode: 90431
+postcode: "90431"
 city: Nürnberg
 street: "Am Tillypark"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 48.1616979
 longitude: 12.1845979
-postcode: 83527
+postcode: "83527"
 city: Haag in Oberbayern
 street: "Hauptstraße"
 housenumber: 22

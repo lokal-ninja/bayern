@@ -1,12 +1,12 @@
-id: 1309258950
+id: 1309258963
 type: node
 shop: Drogerie
-latitude: 48.1586143
-longitude: 11.547909200000001
-postcode: 80636
+latitude: 48.149438100000005
+longitude: 11.459771
+postcode: "81241"
 city: München
-street: "Leonrodplatz"
-housenumber: 1
+street: "Kaflerstraße"
+housenumber: 2
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off"
+opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-20:00; PH off"
 website: ""

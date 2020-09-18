@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 48.1778521
 longitude: 10.7580021
-postcode: 86830
+postcode: "86830"
 city: Schwabmünchen
 street: "Luitpoldstraße"
 housenumber: 3

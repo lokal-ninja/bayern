@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.1390297
 longitude: 10.583662100000002
-postcode: 86865
+postcode: "86865"
 city: Markt Wald
 street: "Hauptstraße"
 housenumber: 36

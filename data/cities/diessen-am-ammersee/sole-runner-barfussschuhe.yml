@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 47.949887800000006
 longitude: 11.107688900000001
-postcode: 86911
+postcode: "86911"
 city: Dießen am Ammersee
 street: "Bahnhofstraße"
 housenumber: 12

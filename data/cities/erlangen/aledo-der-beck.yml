@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.5921364
 longitude: 11.0285589
-postcode: 91052
+postcode: "91052"
 city: Erlangen
 street: "Allee am Röthelheimpark"
 housenumber: 13

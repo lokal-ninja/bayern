@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 48.079027800000006
 longitude: 10.506653
-postcode: 87719
+postcode: "87719"
 city: Mindelheim
 street: "Hauptstraße"
 housenumber: 26

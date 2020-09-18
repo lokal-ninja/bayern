@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 48.5097992
 longitude: 10.9663894
-postcode: 86447
+postcode: "86447"
 city: Aindling
 street: "Marktanger"
 housenumber: 22

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.1605483
 longitude: 11.588269400000001
-postcode: 
+postcode: ""
 city: München
 street: "Siegesstraße"
 housenumber: 22a

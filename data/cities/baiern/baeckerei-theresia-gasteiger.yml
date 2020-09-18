@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.951610300000006
 longitude: 11.913165500000002
-postcode: 85625
+postcode: "85625"
 city: Baiern
 street: "Alpenstraße"
 housenumber: 4

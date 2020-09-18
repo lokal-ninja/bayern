@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.5644434
 longitude: 11.741314200000001
-postcode: 84072
+postcode: "84072"
 city: Au in der Hallertau
 street: "Mainburger Straße"
 housenumber: 34

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.6988459
 longitude: 11.060319900000001
-postcode: 91301
+postcode: "91301"
 city: Forchheim
 street: "Äußere Nürnberger Straße"
 housenumber: 77

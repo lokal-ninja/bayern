@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.81624
 longitude: 9.9819455
-postcode: 97076
+postcode: "97076"
 city: Würzburg
 street: "Am Handelshof"
 housenumber: 9

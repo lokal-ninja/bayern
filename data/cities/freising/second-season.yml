@@ -3,10 +3,10 @@ type: node
 shop: Gebrauchtwaren
 latitude: 48.4005044
 longitude: 11.7484216
-postcode: 85354
+postcode: "85354"
 city: Freising
 street: "Heiliggeistgasse"
 housenumber: 20
-phone: ""
-opening_hours: ""
+phone: "+49-8161-43784"
+opening_hours: "Mo,Tu,Th,Fr 10:00-13:00,14:00-18:00; Sa 10:00-13:00"
 website: ""

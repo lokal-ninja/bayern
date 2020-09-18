@@ -3,7 +3,7 @@ type: way
 shop: Jalousien
 latitude: 49.7984042
 longitude: 9.907973700000001
-postcode: 97082
+postcode: "97082"
 city: Würzburg
 street: "Benzstraße"
 housenumber: 14a

@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 48.1364674
 longitude: 11.576874400000001
-postcode: 80331
+postcode: "80331"
 city: München
 street: "Viktualienmarkt"
 housenumber: 2

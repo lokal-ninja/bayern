@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 47.547130700000004
 longitude: 9.6861916
-postcode: 88131
+postcode: "88131"
 city: Lindau (Bodensee)
 street: "Cramergasse"
 housenumber: 3

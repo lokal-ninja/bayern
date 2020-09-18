@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.015652700000004
 longitude: 12.0989968
-postcode: 95615
+postcode: "95615"
 city: Marktredwitz
 street: "Klepperstraße"
 housenumber: 5

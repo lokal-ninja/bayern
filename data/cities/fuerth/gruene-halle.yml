@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 49.4616697
 longitude: 10.995270900000001
-postcode: 90763
+postcode: "90763"
 city: Fürth
 street: "Krautheimerstraße"
 housenumber: 11

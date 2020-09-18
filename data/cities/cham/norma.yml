@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.208347100000005
 longitude: 12.667004
-postcode: 93413
+postcode: "93413"
 city: Cham
 street: "Hans-Eder-Straße"
 housenumber: 30

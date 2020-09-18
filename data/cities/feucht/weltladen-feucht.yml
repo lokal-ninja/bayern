@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.3768964
 longitude: 11.2116409
-postcode: 90537
+postcode: "90537"
 city: Feucht
 street: "Hauptstraße"
 housenumber: 18

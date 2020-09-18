@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 47.664554200000005
 longitude: 11.2852993
-postcode: 82444
+postcode: "82444"
 city: Schlehdorf
 street: "An der Glentleiten"
 housenumber: 1

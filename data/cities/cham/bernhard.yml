@@ -3,7 +3,7 @@ type: way
 shop: Schmuck
 latitude: 49.2190511
 longitude: 12.665067
-postcode: 93413
+postcode: "93413"
 city: Cham
 street: "Hafnerstraße"
 housenumber: 2

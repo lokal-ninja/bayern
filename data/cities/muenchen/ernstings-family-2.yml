@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.116677300000006
 longitude: 11.5316091
-postcode: 81369
+postcode: "81369"
 city: München
 street: "Albert-Roßhaupter-Straße"
 housenumber: 43

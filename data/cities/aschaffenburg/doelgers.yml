@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.9748487
 longitude: 9.1466644
-postcode: 63739
+postcode: "63739"
 city: Aschaffenburg
 street: "Herstallstraße"
 housenumber: 7

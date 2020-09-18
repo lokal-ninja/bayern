@@ -3,7 +3,7 @@ type: node
 shop: Motorrad
 latitude: 48.316200200000004
 longitude: 11.687450100000001
-postcode: 85375
+postcode: "85375"
 city: Neufahrn bei Freising
 street: "Neufahrner Straße"
 housenumber: 12

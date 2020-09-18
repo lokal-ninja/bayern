@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 50.306031600000004
 longitude: 11.916058900000001
-postcode: 95032
+postcode: "95032"
 city: Hof
 street: "Hans-Böckler-Straße"
 housenumber: 26

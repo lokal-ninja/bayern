@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 49.548771200000004
 longitude: 10.2382755
-postcode: 97215
+postcode: "97215"
 city: Uffenheim
 street: "Geckenheimer Straße"
 housenumber: 4

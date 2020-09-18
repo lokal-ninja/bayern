@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 49.379513900000006
 longitude: 10.1909414
-postcode: 91541
+postcode: "91541"
 city: Rothenburg ob der Tauber
 street: "Wolffstraße"
 housenumber: 15

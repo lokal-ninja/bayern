@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 49.509833300000004
 longitude: 11.423702500000001
-postcode: 91217
+postcode: "91217"
 city: Hersbruck
 street: "Bahngelände"
 housenumber: 2

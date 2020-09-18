@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.1429574
 longitude: 12.3351989
-postcode: 93192
+postcode: "93192"
 city: Wald
 street: "Bahnhofstraße"
 housenumber: 3A

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.778391600000006
 longitude: 12.0009384
-postcode: 83075
+postcode: "83075"
 city: Bad Feilnbach
 street: "Auer Straße"
 housenumber: 25

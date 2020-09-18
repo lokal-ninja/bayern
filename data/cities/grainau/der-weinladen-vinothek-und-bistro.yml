@@ -3,7 +3,7 @@ type: way
 shop: Spirituosen
 latitude: 47.475825300000004
 longitude: 11.0243125
-postcode: 82491
+postcode: "82491"
 city: Grainau
 street: "Waxensteinstraße"
 housenumber: 9

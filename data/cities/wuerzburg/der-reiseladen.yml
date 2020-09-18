@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 49.7798042
 longitude: 9.9391456
-postcode: 97072
+postcode: "97072"
 city: Würzburg
 street: "Scheffelstraße"
 housenumber: 13

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.854664
 longitude: 12.122890900000002
-postcode: 83022
+postcode: "83022"
 city: Rosenheim
 street: "Herzog-Otto-Straße"
 housenumber: 8a

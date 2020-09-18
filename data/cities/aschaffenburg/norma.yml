@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.9859847
 longitude: 9.1493441
-postcode: 63741
+postcode: "63741"
 city: Aschaffenburg
 street: "Schönbornstraße"
 housenumber: 1

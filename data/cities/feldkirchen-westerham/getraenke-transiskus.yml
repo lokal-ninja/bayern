@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 47.89559980000001
 longitude: 11.842323700000001
-postcode: 83620
+postcode: "83620"
 city: Feldkirchen-Westerham
 street: "Ludwig-Erhard-Straße"
 housenumber: 18

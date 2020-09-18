@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 48.349024500000006
 longitude: 10.844868100000001
-postcode: 86391
+postcode: "86391"
 city: Stadtbergen
 street: "Hauptstraße"
 housenumber: 53 a

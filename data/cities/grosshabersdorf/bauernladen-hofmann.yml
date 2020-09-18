@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 49.396155300000004
 longitude: 10.824724300000002
-postcode: 90613
+postcode: "90613"
 city: Großhabersdorf
 street: "Fernabrünster Hauptstraße"
 housenumber: 5

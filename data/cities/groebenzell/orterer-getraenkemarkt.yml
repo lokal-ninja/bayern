@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.185003200000004
 longitude: 11.387116200000001
-postcode: 82194
+postcode: "82194"
 city: Gröbenzell
 street: "Olchinger Straße"
 housenumber: 66

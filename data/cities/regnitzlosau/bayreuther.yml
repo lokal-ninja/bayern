@@ -3,9 +3,9 @@ type: node
 shop: Bäckerei
 latitude: 50.3222869
 longitude: 12.066025400000001
-postcode: 95194
+postcode: "95194"
 city: Regnitzlosau
-street: "Nentschau"
+street: ""
 housenumber: 35
 phone: ""
 opening_hours: ""

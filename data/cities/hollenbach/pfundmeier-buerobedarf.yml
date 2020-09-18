@@ -3,7 +3,7 @@ type: way
 shop: Schreibwaren
 latitude: 48.4736654
 longitude: 11.047423700000001
-postcode: 86568
+postcode: "86568"
 city: Hollenbach
 street: "Hugstraße"
 housenumber: 7

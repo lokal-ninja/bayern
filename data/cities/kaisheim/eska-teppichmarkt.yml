@@ -3,7 +3,7 @@ type: way
 shop: Textil
 latitude: 48.76309740000001
 longitude: 10.7919438
-postcode: 86687
+postcode: "86687"
 city: Kaisheim
 street: "Gewerbegebiet"
 housenumber: 1

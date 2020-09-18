@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.1654156
 longitude: 10.3254116
-postcode: 91555
+postcode: "91555"
 city: Feuchtwangen
 street: "Dinkelsbühler Straße"
 housenumber: 10

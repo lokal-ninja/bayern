@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 49.9509005
 longitude: 12.243711800000002
-postcode: 95666
+postcode: "95666"
 city: Mitterteich
 street: "Unterer Marktplatz"
 housenumber: 1

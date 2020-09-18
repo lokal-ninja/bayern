@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 49.798908000000004
 longitude: 9.9343334
-postcode: 97070
+postcode: "97070"
 city: Würzburg
 street: "Kaiserstraße"
 housenumber: 16

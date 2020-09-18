@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 49.002048900000005
 longitude: 12.3892828
-postcode: 93086
+postcode: "93086"
 city: Wörth an der Donau
 street: "Regensburger Straße"
 housenumber: 33

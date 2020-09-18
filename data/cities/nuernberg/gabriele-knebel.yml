@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 49.452871300000005
 longitude: 11.0721925
-postcode: 90403
+postcode: "90403"
 city: Nürnberg
 street: "Unschlittplatz"
 housenumber: 5

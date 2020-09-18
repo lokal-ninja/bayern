@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 49.0546652
 longitude: 12.0902179
-postcode: 93138
+postcode: "93138"
 city: Lappersdorf
 street: "Pielmühler Straße"
 housenumber: 19a
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 07:00-20:00"
 website: ""

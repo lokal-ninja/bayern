@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.6531959
 longitude: 13.408573100000002
-postcode: 94161
+postcode: "94161"
 city: Ruderting
 street: "Passauer Straße"
 housenumber: 20

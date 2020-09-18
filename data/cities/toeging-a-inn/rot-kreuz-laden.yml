@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 48.258664100000004
 longitude: 12.5911834
-postcode: 84513
+postcode: "84513"
 city: Töging a. Inn
 street: "Wolfgang-Leeb-Straße"
 housenumber: 13

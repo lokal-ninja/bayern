@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.1888433
 longitude: 11.501804900000002
-postcode: 80993
+postcode: "80993"
 city: München
 street: "Dachauer Straße"
 housenumber: 509a

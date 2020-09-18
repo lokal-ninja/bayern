@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.123738800000005
 longitude: 11.5488508
-postcode: 81371
+postcode: "81371"
 city: München
 street: "Implerstraße"
 housenumber: 7

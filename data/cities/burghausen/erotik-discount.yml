@@ -3,7 +3,7 @@ type: node
 shop: Erotik
 latitude: 48.169315000000005
 longitude: 12.8164791
-postcode: 84489
+postcode: "84489"
 city: Burghausen
 street: "Burgkirchener Straße"
 housenumber: 72

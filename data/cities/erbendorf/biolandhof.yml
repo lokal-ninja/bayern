@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 49.8815072
 longitude: 12.0668652
-postcode: 92681
+postcode: "92681"
 city: Erbendorf
 street: "Grenzmühle"
 housenumber: 8

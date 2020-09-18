@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.6013698
 longitude: 10.4072881
-postcode: 87497
+postcode: "87497"
 city: Wertach
 street: "Marktstraße"
 housenumber: 54

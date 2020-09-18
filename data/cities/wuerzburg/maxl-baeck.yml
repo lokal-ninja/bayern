@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.794660400000005
 longitude: 9.9153023
-postcode: 97082
+postcode: "97082"
 city: Würzburg
 street: "Frankfurter Straße"
 housenumber: 10

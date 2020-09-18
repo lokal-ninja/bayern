@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.0566923
 longitude: 11.6205245
-postcode: 82008
+postcode: "82008"
 city: Unterhaching
 street: "Hauptstraße"
 housenumber: 81

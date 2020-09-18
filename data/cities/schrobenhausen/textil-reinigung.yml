@@ -3,7 +3,7 @@ type: way
 shop: Wäscherei
 latitude: 48.561131
 longitude: 11.2648408
-postcode: 86529
+postcode: "86529"
 city: Schrobenhausen
 street: "Lenbachstraße"
 housenumber: 23a

@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 49.0656632
 longitude: 10.3213434
-postcode: 91550
+postcode: "91550"
 city: Dinkelsbühl
 street: "Oberer Mauerweg"
 housenumber: 38

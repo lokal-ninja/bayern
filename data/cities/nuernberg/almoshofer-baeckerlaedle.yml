@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.4911188
 longitude: 11.0613089
-postcode: 90427
+postcode: "90427"
 city: Nürnberg
 street: "Almoshofer Hauptstraße"
 housenumber: 95

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.995549800000006
 longitude: 10.776172
-postcode: 86875
+postcode: "86875"
 city: Waal
 street: "Marktplatz"
 housenumber: 3 a

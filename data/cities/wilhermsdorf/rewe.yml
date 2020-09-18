@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.483266500000006
 longitude: 10.721270500000001
-postcode: 91452
+postcode: "91452"
 city: Wilhermsdorf
 street: "Gartenstraße"
 housenumber: 1a

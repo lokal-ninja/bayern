@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.449923000000005
 longitude: 11.077123
-postcode: 90402
+postcode: "90402"
 city: Nürnberg
 street: "Breite Gasse"
 housenumber: 3

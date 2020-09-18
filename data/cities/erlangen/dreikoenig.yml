@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.59498060000001
 longitude: 11.005408000000001
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Kammererstraße"
 housenumber: 4

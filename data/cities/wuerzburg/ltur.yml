@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 49.7941221
 longitude: 9.930066700000001
-postcode: 97070
+postcode: "97070"
 city: Würzburg
 street: "Marktplatz"
 housenumber: 18

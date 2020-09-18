@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.1517381
 longitude: 11.344736000000001
-postcode: 82178
+postcode: "82178"
 city: Puchheim
 street: "Dorfstraße"
 housenumber: 45

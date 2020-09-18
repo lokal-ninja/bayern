@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.5908377
 longitude: 13.4827156
-postcode: 94034
+postcode: "94034"
 city: Passau
 street: "Alte Straße"
 housenumber: 63

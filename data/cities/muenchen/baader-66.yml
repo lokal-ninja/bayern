@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.1290769
 longitude: 11.5766193
-postcode: 80469
+postcode: "80469"
 city: München
 street: "Baaderstraße"
 housenumber: 66

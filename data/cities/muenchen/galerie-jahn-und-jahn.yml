@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 48.1299706
 longitude: 11.5768418
-postcode: 80469
+postcode: "80469"
 city: München
 street: "Baaderstraße"
 housenumber: 56b

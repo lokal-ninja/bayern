@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.3817145
 longitude: 11.2039492
-postcode: 90537
+postcode: "90537"
 city: Feucht
 street: "Bahnhofstraße"
 housenumber: 32

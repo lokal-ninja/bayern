@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.6525255
 longitude: 11.310205700000001
-postcode: 82444
+postcode: "82444"
 city: Schlehdorf
 street: "Schleißheimer Straße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.998736
 longitude: 9.1829351
-postcode: 63773
+postcode: "63773"
 city: Goldbach
 street: "Sachsenhausen"
 housenumber: 28

@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 48.042204100000006
 longitude: 10.5012073
-postcode: 87719
+postcode: "87719"
 city: Mindelheim
 street: "Industriestraße"
 housenumber: 12

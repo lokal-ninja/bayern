@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 48.055406000000005
 longitude: 11.5985946
-postcode: 82008
+postcode: "82008"
 city: Unterhaching
 street: "Parkackerstraße"
 housenumber: 2

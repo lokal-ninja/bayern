@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 48.5277022
 longitude: 11.515259700000001
-postcode: 85276
+postcode: "85276"
 city: Pfaffenhofen a.d. Ilm
 street: "Bugscharrn"
 housenumber: 7

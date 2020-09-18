@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.5402148
 longitude: 12.1440956
-postcode: 84034
+postcode: "84034"
 city: Landshut
 street: "Papiererstraße"
 housenumber: 34

@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 48.6977574
 longitude: 10.7773201
-postcode: 86609
+postcode: "86609"
 city: Donauwörth
 street: "Gewerbegebiet Auchsesheim"
 housenumber: 1

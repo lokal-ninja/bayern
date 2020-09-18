@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 49.5985263
 longitude: 11.003407500000002
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Hauptstraße"
 housenumber: 39

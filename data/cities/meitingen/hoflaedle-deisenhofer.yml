@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 48.528697900000004
 longitude: 10.8539454
-postcode: 86405
+postcode: "86405"
 city: Meitingen
 street: "Mühlstraße"
 housenumber: 10

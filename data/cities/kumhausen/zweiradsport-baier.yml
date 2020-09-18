@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.5133895
 longitude: 12.1557987
-postcode: 84036
+postcode: "84036"
 city: Kumhausen
 street: "Feldbachstraße"
 housenumber: 1

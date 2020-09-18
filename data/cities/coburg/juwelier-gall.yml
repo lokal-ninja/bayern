@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 50.2602461
 longitude: 10.964920300000001
-postcode: 96450
+postcode: "96450"
 city: Coburg
 street: "Steinweg"
 housenumber: 1

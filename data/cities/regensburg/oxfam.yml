@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 49.016761800000005
 longitude: 12.100287100000001
-postcode: 93047
+postcode: "93047"
 city: Regensburg
 street: "Maximilianstraße"
 housenumber: 12

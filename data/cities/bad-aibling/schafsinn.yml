@@ -3,7 +3,7 @@ type: node
 shop: Nähzubehör
 latitude: 47.8576107
 longitude: 12.0062692
-postcode: 83043
+postcode: "83043"
 city: Bad Aibling
 street: "Ganghoferstraße"
 housenumber: 44a

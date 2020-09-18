@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 47.9973528
 longitude: 12.8253842
-postcode: 83413
+postcode: "83413"
 city: Fridolfing
 street: "Hadrianstraße"
 housenumber: 35

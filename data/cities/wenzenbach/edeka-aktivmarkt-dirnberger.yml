@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.0760566
 longitude: 12.195412500000002
-postcode: 93173
+postcode: "93173"
 city: Wenzenbach
 street: "Bahnhofstraße"
 housenumber: 4

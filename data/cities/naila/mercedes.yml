@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.3213887
 longitude: 11.7188911
-postcode: 95119
+postcode: "95119"
 city: Naila
 street: "Selbitzer Berg"
 housenumber: 22

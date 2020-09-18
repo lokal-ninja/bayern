@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.3096514
 longitude: 10.559978500000001
-postcode: 91522
+postcode: "91522"
 city: Ansbach
 street: "Würzburger Landstraße"
 housenumber: 51

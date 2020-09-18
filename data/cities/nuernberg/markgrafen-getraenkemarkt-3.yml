@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 49.486882200000004
 longitude: 11.1111871
-postcode: 90411
+postcode: "90411"
 city: Nürnberg
 street: "Tannenbergstraße"
 housenumber: 1

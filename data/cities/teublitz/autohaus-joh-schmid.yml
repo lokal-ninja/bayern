@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.2431374
 longitude: 12.099693400000001
-postcode: 93158
+postcode: "93158"
 city: Teublitz
 street: "Zeppelinstraße"
 housenumber: 2

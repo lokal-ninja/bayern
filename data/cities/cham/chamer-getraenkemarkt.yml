@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 49.2287757
 longitude: 12.6735018
-postcode: 93413
+postcode: "93413"
 city: Cham
 street: "Waldmünchener Straße"
 housenumber: 1

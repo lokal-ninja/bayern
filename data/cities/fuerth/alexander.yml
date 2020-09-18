@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 49.4753064
 longitude: 10.9892901
-postcode: 90762
+postcode: "90762"
 city: Fürth
 street: "Alexanderstraße"
 housenumber: 5

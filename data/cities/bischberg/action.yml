@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 49.9185104
 longitude: 10.8093958
-postcode: 96120
+postcode: "96120"
 city: Bischberg
 street: "Bürgermeister-Wachter-Straße"
 housenumber: 2

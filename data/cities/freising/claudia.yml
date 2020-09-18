@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.406184
 longitude: 11.755908300000002
-postcode: 85356
+postcode: "85356"
 city: Freising
 street: "Alte Poststraße"
 housenumber: 75

@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 47.823396300000006
 longitude: 12.646440400000001
-postcode: 83313
+postcode: "83313"
 city: Siegsdorf
 street: "Kardinal-von-Faulhaber-Platz"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 48.1667865
 longitude: 11.5859991
-postcode: 80802
+postcode: "80802"
 city: München
 street: "Leopoldstraße"
 housenumber: 109

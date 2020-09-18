@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.5329197
 longitude: 12.1380754
-postcode: 92533
+postcode: "92533"
 city: Wernberg-Köblitz
 street: "Klaus-Conrad-Straße"
 housenumber: 3a

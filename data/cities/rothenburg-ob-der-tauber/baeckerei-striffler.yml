@@ -3,10 +3,10 @@ type: node
 shop: Bäckerei
 latitude: 49.37575330000001
 longitude: 10.179787300000001
-postcode: 91541
+postcode: "91541"
 city: Rothenburg ob der Tauber
 street: "Untere Schmiedgasse"
 housenumber: 1
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 07:00-17:00; Sa 06:30-17:00; Su,PH 11:00-17:00"
 website: ""

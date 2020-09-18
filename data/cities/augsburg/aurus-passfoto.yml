@@ -3,7 +3,7 @@ type: way
 shop: Kopieren
 latitude: 48.3859763
 longitude: 10.880494500000001
-postcode: 86154
+postcode: "86154"
 city: Augsburg
 street: "Donauwörther Straße"
 housenumber: 61

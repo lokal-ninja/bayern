@@ -3,7 +3,7 @@ type: way
 shop: Betten
 latitude: 47.876446
 longitude: 11.7288659
-postcode: 83626
+postcode: "83626"
 city: Valley
 street: "Fraunhoferstraße"
 housenumber: 3

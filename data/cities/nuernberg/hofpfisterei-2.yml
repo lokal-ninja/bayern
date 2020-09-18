@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.4624559
 longitude: 11.069865400000001
-postcode: 90419
+postcode: "90419"
 city: Nürnberg
 street: "Kirchenweg"
 housenumber: 4

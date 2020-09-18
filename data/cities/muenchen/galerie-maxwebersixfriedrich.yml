@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 48.149112200000005
 longitude: 11.5768678
-postcode: 80799
+postcode: "80799"
 city: München
 street: "Amalienstraße"
 housenumber: 45 Mgb.

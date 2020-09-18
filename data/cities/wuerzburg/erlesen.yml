@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 49.8025736
 longitude: 9.945799800000001
-postcode: 97080
+postcode: "97080"
 city: Würzburg
 street: "Matterstockstraße"
 housenumber: 22

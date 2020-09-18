@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 48.738067300000004
 longitude: 12.7478999
-postcode: 94522
+postcode: "94522"
 city: Wallersdorf
 street: "Marktplatz"
 housenumber: 12c

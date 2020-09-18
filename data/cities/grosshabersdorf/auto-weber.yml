@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.402518300000004
 longitude: 10.7901226
-postcode: 90613
+postcode: "90613"
 city: Großhabersdorf
 street: "Bahnhofstraße"
 housenumber: 

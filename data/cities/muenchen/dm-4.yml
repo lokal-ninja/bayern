@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.1000457
 longitude: 11.5275431
-postcode: 81379
+postcode: "81379"
 city: München
 street: "Boschetsrieder Straße"
 housenumber: 72

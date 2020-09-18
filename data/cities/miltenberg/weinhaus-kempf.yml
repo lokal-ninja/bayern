@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 49.708049
 longitude: 9.2453599
-postcode: 63897
+postcode: "63897"
 city: Miltenberg
 street: "Boschstraße"
 housenumber: 10

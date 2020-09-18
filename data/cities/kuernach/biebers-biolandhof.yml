@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 49.844979200000004
 longitude: 10.037413500000001
-postcode: 97273
+postcode: "97273"
 city: Kürnach
 street: "Semmelstraße"
 housenumber: 31

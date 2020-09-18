@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.7191629
 longitude: 11.0589504
-postcode: 91301
+postcode: "91301"
 city: Forchheim
 street: "Hauptstraße"
 housenumber: 43

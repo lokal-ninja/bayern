@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.33057590000001
 longitude: 11.0239221
-postcode: 91126
+postcode: "91126"
 city: Schwabach
 street: "Neutorstraße"
 housenumber: 8

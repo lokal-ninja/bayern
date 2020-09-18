@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 49.0174225
 longitude: 12.0973079
-postcode: 93047
+postcode: "93047"
 city: Regensburg
 street: "Sankt-Kassians-Platz"
 housenumber: 7

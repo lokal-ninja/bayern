@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 48.1453319
 longitude: 11.559227900000002
-postcode: 
+postcode: ""
 city: München
 street: "Karlstraße"
 housenumber: 54a

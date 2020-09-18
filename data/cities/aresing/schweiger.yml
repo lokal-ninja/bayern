@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 48.532361900000005
 longitude: 11.2983191
-postcode: 86561
+postcode: "86561"
 city: Aresing
 street: "Sankt-Martin-Straße"
 housenumber: 14

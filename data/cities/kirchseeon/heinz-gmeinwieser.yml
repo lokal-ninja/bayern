@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.0815223
 longitude: 11.859314300000001
-postcode: 85614
+postcode: "85614"
 city: Kirchseeon
 street: "Bucher Straße"
 housenumber: 2

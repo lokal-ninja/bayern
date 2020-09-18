@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.1938918
 longitude: 11.255604900000002
-postcode: 82256
+postcode: "82256"
 city: Fürstenfeldbruck
 street: "Maisacher Straße"
 housenumber: 129

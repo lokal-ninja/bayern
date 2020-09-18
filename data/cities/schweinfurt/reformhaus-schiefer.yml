@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.0440729
 longitude: 10.234664
-postcode: 97421
+postcode: "97421"
 city: Schweinfurt
 street: "Metzgergasse"
 housenumber: 8

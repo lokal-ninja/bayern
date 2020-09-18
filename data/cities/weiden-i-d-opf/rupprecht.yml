@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 49.6749744
 longitude: 12.1609277
-postcode: 92637
+postcode: "92637"
 city: Weiden i.d.OPf.
 street: "Wörthstraße"
 housenumber: 8

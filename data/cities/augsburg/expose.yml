@@ -3,7 +3,7 @@ type: node
 shop: Tee
 latitude: 48.3056658
 longitude: 10.9025037
-postcode: 86179
+postcode: "86179"
 city: Augsburg
 street: "Wachstuchstraße"
 housenumber: 6

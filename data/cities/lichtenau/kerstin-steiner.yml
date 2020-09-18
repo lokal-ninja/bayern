@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.280371200000005
 longitude: 10.6842156
-postcode: 91586
+postcode: "91586"
 city: Lichtenau
 street: "Ansbacher Straße"
 housenumber: 3

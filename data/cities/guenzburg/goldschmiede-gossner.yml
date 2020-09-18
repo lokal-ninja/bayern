@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.455463
 longitude: 10.2783721
-postcode: 89312
+postcode: "89312"
 city: Günzburg
 street: "Hofgasse"
 housenumber: 1

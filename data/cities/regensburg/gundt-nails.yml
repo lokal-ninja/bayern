@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.0157004
 longitude: 12.1003801
-postcode: 93047
+postcode: "93047"
 city: Regensburg
 street: "Maximilianstraße"
 housenumber: 23

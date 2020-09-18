@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.0780064
 longitude: 11.5180904
-postcode: 81479
+postcode: "81479"
 city: München
 street: "Festingstraße"
 housenumber: 4

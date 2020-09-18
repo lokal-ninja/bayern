@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.8783619
 longitude: 12.571109900000002
-postcode: 94315
+postcode: "94315"
 city: Straubing
 street: "Bahnhofstraße"
 housenumber: 22

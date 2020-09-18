@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 49.484982800000004
 longitude: 11.129023100000001
-postcode: 90411
+postcode: "90411"
 city: Nürnberg
 street: "Nordostpark"
 housenumber: 78

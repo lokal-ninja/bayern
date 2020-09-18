@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 47.840499200000004
 longitude: 12.0737786
-postcode: 83059
+postcode: "83059"
 city: Kolbermoor
 street: "Fraunhoferstraße"
 housenumber: 6

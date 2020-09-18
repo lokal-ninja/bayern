@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.086685100000004
 longitude: 11.477951000000001
-postcode: 81475
+postcode: "81475"
 city: München
 street: "Maxhofstraße"
 housenumber: 17

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.906148800000004
 longitude: 10.7117853
-postcode: 87677
+postcode: "87677"
 city: Stöttwang
 street: "Am Bahndamm"
 housenumber: 10

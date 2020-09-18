@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 49.947977900000005
 longitude: 12.2530558
-postcode: 95666
+postcode: "95666"
 city: Mitterteich
 street: "Mühlenstraße"
 housenumber: 3

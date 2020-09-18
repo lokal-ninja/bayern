@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 49.5459557
 longitude: 11.991329100000002
-postcode: 92253
+postcode: "92253"
 city: Schnaittenbach
 street: "Haidhofweg"
 housenumber: 1

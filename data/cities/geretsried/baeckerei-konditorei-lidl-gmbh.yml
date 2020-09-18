@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.870288900000006
 longitude: 11.472263400000001
-postcode: 82538
+postcode: "82538"
 city: Geretsried
 street: "Jahnstraße"
 housenumber: 2

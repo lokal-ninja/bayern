@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 48.1274199
 longitude: 11.366859
-postcode: 82110
+postcode: "82110"
 city: Germering
 street: "Hartstraße"
 housenumber: 3

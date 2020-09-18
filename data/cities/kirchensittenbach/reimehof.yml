@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 49.6046375
 longitude: 11.441164800000001
-postcode: 91241
+postcode: "91241"
 city: Kirchensittenbach
 street: ""
 housenumber: 1

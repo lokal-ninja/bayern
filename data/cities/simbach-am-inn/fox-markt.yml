@@ -3,7 +3,7 @@ type: way
 shop: Dorfladen
 latitude: 48.2667543
 longitude: 13.0240133
-postcode: 84359
+postcode: "84359"
 city: Simbach am Inn
 street: "Simon-Breu-Straße"
 housenumber: 2

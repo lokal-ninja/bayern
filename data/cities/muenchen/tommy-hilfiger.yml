@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.138026800000006
 longitude: 11.5750133
-postcode: 
+postcode: ""
 city: München
 street: "Weinstraße"
 housenumber: 5

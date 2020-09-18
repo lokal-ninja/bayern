@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.343360700000005
 longitude: 12.1306416
-postcode: 84416
+postcode: "84416"
 city: Taufkirchen (Vils)
 street: "Marktplatz"
 housenumber: 3

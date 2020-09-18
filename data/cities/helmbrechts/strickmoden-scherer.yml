@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 50.232320900000005
 longitude: 11.7078311
-postcode: 95233
+postcode: "95233"
 city: Helmbrechts
 street: "Ringstraße"
 housenumber: 121

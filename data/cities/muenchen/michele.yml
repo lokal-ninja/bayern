@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.1394401
 longitude: 11.5487298
-postcode: 
+postcode: ""
 city: München
 street: "Kurt-Haertel-Passage"
 housenumber: 3

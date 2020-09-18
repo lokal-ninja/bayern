@@ -3,7 +3,7 @@ type: way
 shop: Basteln
 latitude: 47.4945734
 longitude: 11.1063147
-postcode: 82467
+postcode: "82467"
 city: Garmisch-Partenkirchen
 street: "Ludwigstraße"
 housenumber: 94

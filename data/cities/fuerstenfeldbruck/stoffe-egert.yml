@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 48.1802105
 longitude: 11.254453
-postcode: 82256
+postcode: "82256"
 city: Fürstenfeldbruck
 street: "Augsburger Straße"
 housenumber: 1b

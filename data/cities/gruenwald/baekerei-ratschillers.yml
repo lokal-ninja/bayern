@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.041383100000004
 longitude: 11.524212200000001
-postcode: 82031
+postcode: "82031"
 city: Grünwald
 street: "Schloßstraße"
 housenumber: 19

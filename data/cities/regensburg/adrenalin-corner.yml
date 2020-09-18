@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.016863300000004
 longitude: 12.0979451
-postcode: 93047
+postcode: "93047"
 city: Regensburg
 street: "Viereimergasse"
 housenumber: 1

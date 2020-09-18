@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.5380947
 longitude: 12.1468453
-postcode: 92533
+postcode: "92533"
 city: Wernberg-Köblitz
 street: "Nürnberger Straße"
 housenumber: 114

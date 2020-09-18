@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 48.0460804
 longitude: 11.9677851
-postcode: 85567
+postcode: "85567"
 city: Grafing bei München
 street: "Münchener Straße"
 housenumber: 1

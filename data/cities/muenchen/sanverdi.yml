@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.08827530000001
 longitude: 11.640334800000002
-postcode: 81739
+postcode: "81739"
 city: München
 street: "Therese-Giehse-Allee"
 housenumber: 70

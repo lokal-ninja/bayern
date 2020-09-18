@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 49.433713600000004
 longitude: 11.1267101
-postcode: 90480
+postcode: "90480"
 city: Nürnberg
 street: "Kallmünzer Straße"
 housenumber: 20

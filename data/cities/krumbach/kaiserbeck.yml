@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.244691100000004
 longitude: 10.361611400000001
-postcode: 86381
+postcode: "86381"
 city: Krumbach
 street: "Bahnhofstraße"
 housenumber: 18

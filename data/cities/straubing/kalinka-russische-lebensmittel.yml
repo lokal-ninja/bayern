@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.886808200000004
 longitude: 12.6129011
-postcode: 94315
+postcode: "94315"
 city: Straubing
 street: "Posener Straße"
 housenumber: 20

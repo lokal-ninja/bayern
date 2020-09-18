@@ -3,7 +3,7 @@ type: node
 shop: Dorfladen
 latitude: 49.1869755
 longitude: 11.186397600000001
-postcode: 91161
+postcode: "91161"
 city: Hilpoltstein
 street: "Altstadtring"
 housenumber: 29

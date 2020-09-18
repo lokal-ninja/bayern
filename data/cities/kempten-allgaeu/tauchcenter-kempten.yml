@@ -3,7 +3,7 @@ type: node
 shop: Tauchen
 latitude: 47.7155105
 longitude: 10.2948292
-postcode: 87435
+postcode: "87435"
 city: Kempten (Allgäu)
 street: "Aybühlweg"
 housenumber: 30

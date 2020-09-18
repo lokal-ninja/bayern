@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 49.6020551
 longitude: 11.002967100000001
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Martin-Luther-Platz"
 housenumber: 6

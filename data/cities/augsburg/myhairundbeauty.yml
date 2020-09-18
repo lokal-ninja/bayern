@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.3335121
 longitude: 10.9009672
-postcode: 86159
+postcode: "86159"
 city: Augsburg
 street: "Salomon-Idler-Straße"
 housenumber: 22c

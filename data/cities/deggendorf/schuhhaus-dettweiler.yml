@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 48.8343113
 longitude: 12.9617319
-postcode: 94469
+postcode: "94469"
 city: Deggendorf
 street: "Oberer Stadtplatz"
 housenumber: 13

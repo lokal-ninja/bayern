@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 48.0766396
 longitude: 11.517326200000001
-postcode: 81479
+postcode: "81479"
 city: München
 street: "Grünbauerstraße"
 housenumber: 4a

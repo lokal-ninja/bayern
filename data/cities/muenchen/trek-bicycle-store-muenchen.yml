@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.1762935
 longitude: 11.5923552
-postcode: 80807
+postcode: "80807"
 city: München
 street: "Mies-van-der-Rohe-Straße"
 housenumber: 6

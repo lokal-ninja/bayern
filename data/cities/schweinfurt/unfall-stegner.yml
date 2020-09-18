@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.0560665
 longitude: 10.2299039
-postcode: 97422
+postcode: "97422"
 city: Schweinfurt
 street: "Dittelbrunner Straße"
 housenumber: 29

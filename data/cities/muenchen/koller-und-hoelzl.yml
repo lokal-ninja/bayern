@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.204508600000004
 longitude: 11.5633534
-postcode: 80935
+postcode: "80935"
 city: München
 street: "Schleißheimer Straße"
 housenumber: 415

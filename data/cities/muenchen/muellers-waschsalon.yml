@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 48.1336176
 longitude: 11.601832100000001
-postcode: 
+postcode: ""
 city: München
 street: "Kirchenstraße"
 housenumber: 28

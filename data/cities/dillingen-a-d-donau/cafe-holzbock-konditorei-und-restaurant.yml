@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 48.5809428
 longitude: 10.4954623
-postcode: 89407
+postcode: "89407"
 city: Dillingen a.d. Donau
 street: "Kapuzinerstraße"
 housenumber: 20

@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 48.064742700000004
 longitude: 11.660901800000001
-postcode: 85521
+postcode: "85521"
 city: Ottobrunn
 street: "Unterhachinger Straße"
 housenumber: 1

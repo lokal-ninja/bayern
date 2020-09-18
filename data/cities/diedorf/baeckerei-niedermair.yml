@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.3548708
 longitude: 10.778042600000001
-postcode: 86420
+postcode: "86420"
 city: Diedorf
 street: "Hauptstraße"
 housenumber: 23

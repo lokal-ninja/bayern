@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.1148584
 longitude: 11.572784200000001
-postcode: 81543
+postcode: "81543"
 city: München
 street: "Pilgersheimer Straße"
 housenumber: 51

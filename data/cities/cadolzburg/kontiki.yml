@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 49.4574094
 longitude: 10.8601481
-postcode: 90556
+postcode: "90556"
 city: Cadolzburg
 street: "Markgraf-Alexander-Straße"
 housenumber: 30

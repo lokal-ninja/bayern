@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.0464635
 longitude: 10.2296005
-postcode: 97421
+postcode: "97421"
 city: Schweinfurt
 street: "Neue Gasse"
 housenumber: 38

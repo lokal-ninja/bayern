@@ -3,7 +3,7 @@ type: node
 shop: Einkaufszentrum
 latitude: 48.298290300000005
 longitude: 11.6235234
-postcode: 85386
+postcode: "85386"
 city: Eching
 street: "Danziger Straße"
 housenumber: 2

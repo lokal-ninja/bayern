@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.0780049
 longitude: 9.0149563
-postcode: 63796
+postcode: "63796"
 city: Kahl am Main
 street: "Zur Sandmühle"
 housenumber: 2a

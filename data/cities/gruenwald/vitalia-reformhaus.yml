@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.040477700000004
 longitude: 11.522002
-postcode: 82031
+postcode: "82031"
 city: Grünwald
 street: "Rathausstraße"
 housenumber: 1

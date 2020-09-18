@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.565802100000006
 longitude: 10.895240300000001
-postcode: 91074
+postcode: "91074"
 city: Herzogenaurach
 street: "Erlanger Straße"
 housenumber: 58a

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.4107089
 longitude: 11.7487594
-postcode: 85356
+postcode: "85356"
 city: Freising
 street: "Weinmiller-Straße"
 housenumber: 5

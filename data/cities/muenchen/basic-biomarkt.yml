@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.131331200000005
 longitude: 11.5681197
-postcode: 80469
+postcode: "80469"
 city: München
 street: "Müllerstraße"
 housenumber: 45

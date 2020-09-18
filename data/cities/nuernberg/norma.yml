@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.4471909
 longitude: 11.0574746
-postcode: 90429
+postcode: "90429"
 city: Nürnberg
 street: "Obere Kanalstraße"
 housenumber: 30

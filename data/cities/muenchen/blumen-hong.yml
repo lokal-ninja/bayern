@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.0809055
 longitude: 11.5281696
-postcode: 81479
+postcode: "81479"
 city: München
 street: "Wolfratshauser Straße"
 housenumber: 210

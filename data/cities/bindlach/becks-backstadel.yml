@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.9804735
 longitude: 11.6163488
-postcode: 95463
+postcode: "95463"
 city: Bindlach
 street: "Lehenstraße"
 housenumber: 12

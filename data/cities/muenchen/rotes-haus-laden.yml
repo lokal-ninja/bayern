@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.1835018
 longitude: 11.6099286
-postcode: 80805
+postcode: "80805"
 city: München
 street: "Christoph-Probst-Straße"
 housenumber: 6

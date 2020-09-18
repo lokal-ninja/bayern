@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.754243200000005
 longitude: 11.3436988
-postcode: 85049
+postcode: "85049"
 city: Ingolstadt
 street: "Eichenwaldstraße"
 housenumber: 76

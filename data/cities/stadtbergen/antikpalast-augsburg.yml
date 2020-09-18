@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 48.3626823
 longitude: 10.843679400000001
-postcode: 86391
+postcode: "86391"
 city: Stadtbergen
 street: "Leitershofer Straße"
 housenumber: 12

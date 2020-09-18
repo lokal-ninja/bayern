@@ -1,12 +1,12 @@
-id: 168846656
+id: 126271840
 type: way
 shop: Supermarkt
-latitude: 48.1727287
-longitude: 11.5293899
-postcode: 80992
+latitude: 48.1812733
+longitude: 11.5344438
+postcode: "80992"
 city: München
-street: "Hanauer Straße"
-housenumber: 2
+street: "Pelkovenstraße"
+housenumber: 152
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: "Mo-Sa 07:00-20:00"
 website: ""

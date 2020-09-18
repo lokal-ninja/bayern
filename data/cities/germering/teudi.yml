@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 48.128000400000005
 longitude: 11.3655644
-postcode: 82110
+postcode: "82110"
 city: Germering
 street: "Frühlingstraße"
 housenumber: 1

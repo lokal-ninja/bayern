@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 48.128702000000004
 longitude: 11.595217100000001
-postcode: 81667
+postcode: "81667"
 city: München
 street: "Weißenburger Straße"
 housenumber: 7

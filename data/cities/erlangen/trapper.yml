@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.596604000000006
 longitude: 11.0220365
-postcode: 91052
+postcode: "91052"
 city: Erlangen
 street: "Luitpoldstraße"
 housenumber: 71

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.8844859
 longitude: 11.9128071
-postcode: 83052
+postcode: "83052"
 city: Bruckmühl
 street: "Kirchdorfer Straße"
 housenumber: 15a

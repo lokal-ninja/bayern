@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.2310718
 longitude: 11.3394691
-postcode: 96317
+postcode: "96317"
 city: Kronach
 street: "Industriestraße"
 housenumber: 34

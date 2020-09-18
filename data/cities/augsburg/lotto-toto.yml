@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 48.3703948
 longitude: 10.9072733
-postcode: 86152
+postcode: "86152"
 city: Augsburg
 street: "Jakoberstraße"
 housenumber: 65

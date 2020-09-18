@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.203638600000005
 longitude: 12.657188000000001
-postcode: 93413
+postcode: "93413"
 city: Cham
 street: "Rodinger Straße"
 housenumber: 22

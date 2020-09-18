@@ -3,10 +3,10 @@ type: way
 shop: Autowerkstatt
 latitude: 49.907690900000006
 longitude: 10.884293000000001
-postcode: 96052
+postcode: "96052"
 city: Bamberg
 street: "Hallstadter Straße"
 housenumber: 47
 phone: ""
-opening_hours: ""
+opening_hours: "Tu-Fr 08:00-17:00"
 website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsartikel
 latitude: 48.249773700000006
 longitude: 10.100063800000001
-postcode: 89287
+postcode: "89287"
 city: Bellenberg
 street: "Am Mühlholz"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.450521300000005
 longitude: 12.1795267
-postcode: 92507
+postcode: "92507"
 city: Nabburg
 street: "Regensburger Straße"
 housenumber: 15

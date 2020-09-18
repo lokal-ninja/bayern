@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.3031408
 longitude: 11.9228687
-postcode: 95032
+postcode: "95032"
 city: Hof
 street: "Wunsiedler Straße"
 housenumber: 16

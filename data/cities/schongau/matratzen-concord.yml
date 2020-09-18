@@ -3,7 +3,7 @@ type: way
 shop: Betten
 latitude: 47.8073034
 longitude: 10.8749772
-postcode: 86956
+postcode: "86956"
 city: Schongau
 street: "Tannenberger Straße"
 housenumber: 8 a

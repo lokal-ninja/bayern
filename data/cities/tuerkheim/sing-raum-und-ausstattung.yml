@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 48.061645500000004
 longitude: 10.636769800000001
-postcode: 86842
+postcode: "86842"
 city: Türkheim
 street: "Bahnhofstraße"
 housenumber: 15

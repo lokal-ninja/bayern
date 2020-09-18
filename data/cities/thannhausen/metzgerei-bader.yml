@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.2842818
 longitude: 10.4692605
-postcode: 86470
+postcode: "86470"
 city: Thannhausen
 street: "Bahnhofstraße"
 housenumber: 26

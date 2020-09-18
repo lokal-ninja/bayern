@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.405660000000005
 longitude: 11.0870688
-postcode: 90469
+postcode: "90469"
 city: Nürnberg
 street: "Saarbrückener Straße"
 housenumber: 4

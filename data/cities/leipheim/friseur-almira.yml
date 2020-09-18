@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.4464698
 longitude: 10.2249282
-postcode: 89340
+postcode: "89340"
 city: Leipheim
 street: "Günzburger Straße"
 housenumber: 28

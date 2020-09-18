@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 49.6911056
 longitude: 12.1698456
-postcode: 92637
+postcode: "92637"
 city: Weiden i.d.OPf.
 street: "Hammerweg"
 housenumber: 68

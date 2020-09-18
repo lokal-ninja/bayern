@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 49.99721520000001
 longitude: 9.1831654
-postcode: 63773
+postcode: "63773"
 city: Goldbach
 street: "Aschaffenburger Straße"
 housenumber: 77

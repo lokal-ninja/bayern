@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.9883839
 longitude: 11.865675000000001
-postcode: 85625
+postcode: "85625"
 city: Glonn
 street: "Marktplatz"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.960007000000004
 longitude: 12.3925186
-postcode: 93102
+postcode: "93102"
 city: Pfatter
 street: "Straubinger Straße"
 housenumber: 30

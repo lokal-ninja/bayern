@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.5686836
 longitude: 12.7373021
-postcode: 94436
+postcode: "94436"
 city: Simbach
 street: "Arnstorfer Straße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.5268917
 longitude: 12.162350400000001
-postcode: 84036
+postcode: "84036"
 city: Landshut
 street: "Adelmannstraße"
 housenumber: 8

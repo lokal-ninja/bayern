@@ -1,12 +1,12 @@
-id: 1710932931
+id: 1157210127
 type: node
 shop: Supermarkt
-latitude: 48.3534073
-longitude: 11.7876033
-postcode: 85356
+latitude: 48.1608492
+longitude: 11.445068200000001
+postcode: "81245"
 city: München
-street: "Terminalstraße Ost"
-housenumber: 18
-phone: ""
-opening_hours: "05:30-24:00"
+street: "An der Schäferwiese"
+housenumber: 26
+phone: "+49 89 82071351"
+opening_hours: "Mo-Sa 08:00-20:00"
 website: ""

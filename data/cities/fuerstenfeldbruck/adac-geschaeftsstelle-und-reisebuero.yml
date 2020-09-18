@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.176995100000006
 longitude: 11.253070500000002
-postcode: 82256
+postcode: "82256"
 city: Fürstenfeldbruck
 street: "Schöngeisinger Straße"
 housenumber: 21

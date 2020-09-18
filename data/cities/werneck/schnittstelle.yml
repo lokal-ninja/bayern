@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.945227
 longitude: 10.079160100000001
-postcode: 97440
+postcode: "97440"
 city: Werneck
 street: "Hauptstraße"
 housenumber: 11

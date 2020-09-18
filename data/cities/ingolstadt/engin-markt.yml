@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.7793356
 longitude: 11.409321
-postcode: 85057
+postcode: "85057"
 city: Ingolstadt
 street: "Pfitznerstraße"
 housenumber: 20

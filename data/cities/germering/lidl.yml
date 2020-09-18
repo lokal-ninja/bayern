@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.1328149
 longitude: 11.3787538
-postcode: 82110
+postcode: "82110"
 city: Germering
 street: "Industriestraße"
 housenumber: 19

@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 49.629407300000004
 longitude: 12.3367138
-postcode: 92648
+postcode: "92648"
 city: Vohenstrauß
 street: "Altenstadter Straße"
 housenumber: 21

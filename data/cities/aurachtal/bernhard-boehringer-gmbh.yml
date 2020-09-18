@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 49.5808629
 longitude: 10.8132064
-postcode: 91086
+postcode: "91086"
 city: Aurachtal
 street: "Wirtsgrund"
 housenumber: 7

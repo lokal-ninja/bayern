@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.628864
 longitude: 11.012011800000002
-postcode: 91088
+postcode: "91088"
 city: Bubenreuth
 street: ""
 housenumber: 

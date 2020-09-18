@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 47.8424394
 longitude: 12.966538400000001
-postcode: 83395
+postcode: "83395"
 city: Freilassing
 street: "Sägewerkstraße"
 housenumber: 18

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.5898794
 longitude: 10.9604376
-postcode: 91056
+postcode: "91056"
 city: Erlangen
 street: "Dorfstraße"
 housenumber: 3

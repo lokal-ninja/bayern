@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.0302688
 longitude: 12.124755500000001
-postcode: 93059
+postcode: "93059"
 city: Regensburg
 street: "Im Gewerbepark"
 housenumber: C7

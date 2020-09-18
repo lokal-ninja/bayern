@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.738886400000005
 longitude: 10.160654500000001
-postcode: 97318
+postcode: "97318"
 city: Kitzingen
 street: "Kaiserstraße"
 housenumber: 10

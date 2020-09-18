@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.032446300000004
 longitude: 12.1135654
-postcode: 93059
+postcode: "93059"
 city: Regensburg
 street: "Brennesstraße"
 housenumber: 14

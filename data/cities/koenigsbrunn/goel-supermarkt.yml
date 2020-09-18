@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.27902580000001
 longitude: 10.8923495
-postcode: 86343
+postcode: "86343"
 city: Königsbrunn
 street: "Haunstetter Straße"
 housenumber: 103

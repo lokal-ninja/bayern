@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.62264690000001
 longitude: 13.190268900000001
-postcode: 
+postcode: ""
 city: Vilshofen an der Donau
 street: "Ortenburger Straße"
 housenumber: 64

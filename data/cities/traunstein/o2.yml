@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 47.867757600000004
 longitude: 12.645207200000002
-postcode: 83278
+postcode: "83278"
 city: Traunstein
 street: "Maximilianstraße"
 housenumber: 25

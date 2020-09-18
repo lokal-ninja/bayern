@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.483080400000006
 longitude: 10.3793527
-postcode: 89362
+postcode: "89362"
 city: Offingen
 street: "Kreisstraße"
 housenumber: 1

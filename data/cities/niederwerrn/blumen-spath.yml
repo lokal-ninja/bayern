@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.0694382
 longitude: 10.150640300000001
-postcode: 97464
+postcode: "97464"
 city: Niederwerrn
 street: "Rhönstraße"
 housenumber: 68

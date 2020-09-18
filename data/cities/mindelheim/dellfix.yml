@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 48.0385283
 longitude: 10.4974351
-postcode: 87719
+postcode: "87719"
 city: Mindelheim
 street: "Säulingstraße"
 housenumber: 3

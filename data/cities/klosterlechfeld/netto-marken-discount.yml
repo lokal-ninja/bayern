@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.1569252
 longitude: 10.8356016
-postcode: 86836
+postcode: "86836"
 city: Klosterlechfeld
 street: "Am Wäldle"
 housenumber: 2

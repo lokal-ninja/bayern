@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.135318000000005
 longitude: 11.542615600000001
-postcode: 80339
+postcode: "80339"
 city: München
 street: "Ligsalzstraße"
 housenumber: 27

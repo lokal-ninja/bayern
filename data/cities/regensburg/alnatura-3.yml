@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.028488200000005
 longitude: 12.121750800000001
-postcode: 93059
+postcode: "93059"
 city: Regensburg
 street: "Donaustaufer Straße"
 housenumber: 128

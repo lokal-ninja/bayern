@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 48.593157500000004
 longitude: 10.8274719
-postcode: 86695
+postcode: "86695"
 city: Nordendorf
 street: "Schmutterstraße"
 housenumber: 5A

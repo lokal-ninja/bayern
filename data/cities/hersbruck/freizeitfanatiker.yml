@@ -3,10 +3,10 @@ type: node
 shop: Outdoor
 latitude: 49.5083666
 longitude: 11.4300145
-postcode: 91217
+postcode: "91217"
 city: Hersbruck
 street: "Martin-Luther-Straße"
 housenumber: 9
 phone: "+49 9151 9629616"
-opening_hours: ""
+opening_hours: "Tu-Th 12:00-18:00; Fr 09:00-18:00; Sa 10:00-14:00; PH off"
 website: "https://www.freizeitfanatiker.de/"

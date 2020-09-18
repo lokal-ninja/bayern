@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 48.215567300000004
 longitude: 12.609051500000001
-postcode: 84577
+postcode: "84577"
 city: Tüßling
 street: "Altöttinger Straße"
 housenumber: 19

@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 47.959420900000005
 longitude: 12.5006965
-postcode: 83376
+postcode: "83376"
 city: Seeon-Seebruck
 street: "Chiemseestraße"
 housenumber: 3

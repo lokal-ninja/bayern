@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.4438784
 longitude: 11.054699000000001
-postcode: 90439
+postcode: "90439"
 city: Nürnberg
 street: "Schlachthofstraße"
 housenumber: 19

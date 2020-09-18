@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 49.4811478
 longitude: 10.9822006
-postcode: 90762
+postcode: "90762"
 city: Fürth
 street: "Würzburger Straße"
 housenumber: 6

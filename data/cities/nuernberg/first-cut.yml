@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.452034100000006
 longitude: 11.0774792
-postcode: 90402
+postcode: "90402"
 city: Nürnberg
 street: "Königstraße"
 housenumber: 6

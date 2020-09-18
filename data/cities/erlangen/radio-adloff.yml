@@ -3,7 +3,7 @@ type: node
 shop: Radiotechnik
 latitude: 49.5967215
 longitude: 11.009274900000001
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Obere Karlstraße"
 housenumber: 16

@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 49.8232311
 longitude: 9.8739244
-postcode: 97209
+postcode: "97209"
 city: Veitshöchheim
 street: "Pont-l'Evêque-Allee"
 housenumber: 1

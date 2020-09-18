@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.3324519
 longitude: 11.1200319
-postcode: 96465
+postcode: "96465"
 city: Neustadt b. Coburg
 street: "Eisfelder Straße"
 housenumber: 22

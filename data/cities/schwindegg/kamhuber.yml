@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.2720895
 longitude: 12.2557845
-postcode: 84419
+postcode: "84419"
 city: Schwindegg
 street: "Mühldorfer Straße"
 housenumber: 11

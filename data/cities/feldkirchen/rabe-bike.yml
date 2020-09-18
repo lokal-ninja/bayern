@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.145726
 longitude: 11.726547400000001
-postcode: 85622
+postcode: "85622"
 city: Feldkirchen
 street: "Münchner Straße"
 housenumber: 14a

@@ -3,7 +3,7 @@ type: node
 shop: Reifen
 latitude: 49.464513000000004
 longitude: 12.3971973
-postcode: 92526
+postcode: "92526"
 city: Oberviechtach
 street: "Industriegebiet West"
 housenumber: 2

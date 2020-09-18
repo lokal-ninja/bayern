@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 48.881812700000005
 longitude: 12.5713041
-postcode: 94315
+postcode: "94315"
 city: Straubing
 street: "Ludwigsplatz"
 housenumber: 34

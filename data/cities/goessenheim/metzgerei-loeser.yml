@@ -3,10 +3,10 @@ type: node
 shop: Metzgerei
 latitude: 50.020893300000004
 longitude: 9.7800097
-postcode: 97780
+postcode: "97780"
 city: Gössenheim
 street: "Hauptstraße"
-housenumber: 
-phone: ""
-opening_hours: ""
+housenumber: 18
+phone: "+49 9358 1052"
+opening_hours: "Mo-We 08:00-12:30; Th-Fr 08:00-12:30, 14:00-18:00; Sa 07:30-12:30"
 website: ""

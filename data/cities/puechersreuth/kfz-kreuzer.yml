@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 49.7712602
 longitude: 12.182639900000002
-postcode: 92715
+postcode: "92715"
 city: Püchersreuth
 street: "Dorfstraße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 49.201351700000004
 longitude: 12.6667891
-postcode: 93413
+postcode: "93413"
 city: Cham
 street: "Bergfeldstraße"
 housenumber: 11

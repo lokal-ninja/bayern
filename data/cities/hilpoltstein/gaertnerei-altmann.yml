@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 49.185166100000004
 longitude: 11.188421
-postcode: 91161
+postcode: "91161"
 city: Hilpoltstein
 street: "Heidecker Straße"
 housenumber: 26

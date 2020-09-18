@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 49.583180000000006
 longitude: 11.0045924
-postcode: 91052
+postcode: "91052"
 city: Erlangen
 street: "Karl-Zucker-Straße"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.7642341
 longitude: 11.426976000000002
-postcode: 85049
+postcode: "85049"
 city: Ingolstadt
 street: "Ludwigstraße"
 housenumber: 22

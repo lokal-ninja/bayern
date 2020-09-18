@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.9241563
 longitude: 12.210543600000001
-postcode: 93087
+postcode: "93087"
 city: Alteglofsheim
 street: "Am Ziegelfeld"
 housenumber: D1

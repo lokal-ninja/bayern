@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.355649
 longitude: 10.924663
-postcode: 86161
+postcode: "86161"
 city: Augsburg
 street: "Wilhelm-Hauff-Straße"
 housenumber: 34

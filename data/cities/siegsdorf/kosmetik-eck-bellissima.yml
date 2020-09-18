@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 47.820958600000004
 longitude: 12.6430795
-postcode: 83313
+postcode: "83313"
 city: Siegsdorf
 street: "Höpflinger Weg"
 housenumber: 2

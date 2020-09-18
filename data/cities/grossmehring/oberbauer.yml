@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 48.7653345
 longitude: 11.5252318
-postcode: 85098
+postcode: "85098"
 city: Großmehring
 street: "Ingolstädter Straße"
 housenumber: 37

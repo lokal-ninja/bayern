@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.6603502
 longitude: 12.9780227
-postcode: 94486
+postcode: "94486"
 city: Osterhofen
 street: "Josefstraße"
 housenumber: 14

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.4523931
 longitude: 12.3342559
-postcode: 84137
+postcode: "84137"
 city: Vilsbiburg
 street: "Ohmstraße"
 housenumber: 8

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.848905
 longitude: 12.138465400000001
-postcode: 83022
+postcode: "83022"
 city: Rosenheim
 street: "Schlierseestraße"
 housenumber: 39

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.0203593
 longitude: 10.396680700000001
-postcode: 91634
+postcode: "91634"
 city: Wilburgstetten
 street: "Hetschenlache"
 housenumber: 1

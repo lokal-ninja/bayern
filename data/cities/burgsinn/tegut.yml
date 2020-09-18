@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.1520729
 longitude: 9.6538508
-postcode: 97775
+postcode: "97775"
 city: Burgsinn
 street: "Birkenweg"
 housenumber: 14

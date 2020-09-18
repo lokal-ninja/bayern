@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.281413
 longitude: 11.4573336
-postcode: 92318
+postcode: "92318"
 city: Neumarkt in der Oberpfalz
 street: "Untere Marktstraße"
 housenumber: 28

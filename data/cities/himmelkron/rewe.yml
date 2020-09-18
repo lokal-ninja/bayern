@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.0550573
 longitude: 11.6133217
-postcode: 95502
+postcode: "95502"
 city: Himmelkron
 street: "Kulmbacher Straße"
 housenumber: 1

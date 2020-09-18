@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.658103000000004
 longitude: 11.4647637
-postcode: 85084
+postcode: "85084"
 city: Reichertshofen
 street: "Ingolstädter Straße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Videothek
 latitude: 48.981678200000005
 longitude: 12.1935941
-postcode: 93073
+postcode: "93073"
 city: Neutraubling
 street: "Pommernstraße"
 housenumber: 4

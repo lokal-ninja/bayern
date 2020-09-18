@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.8505102
 longitude: 12.096878100000001
-postcode: 83026
+postcode: "83026"
 city: Rosenheim
 street: "Finsterwalderstraße"
 housenumber: 48

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.3590165
 longitude: 10.7843581
-postcode: 86420
+postcode: "86420"
 city: Diedorf
 street: "Gewerbestraße"
 housenumber: 5

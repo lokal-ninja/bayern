@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.2130688
 longitude: 11.2815893
-postcode: 82216
+postcode: "82216"
 city: Maisach
 street: "Max-Rappenglitz-Ring"
 housenumber: 8

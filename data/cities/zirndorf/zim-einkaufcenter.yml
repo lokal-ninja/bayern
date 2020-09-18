@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 49.4408406
 longitude: 10.9623367
-postcode: 90513
+postcode: "90513"
 city: Zirndorf
 street: "Nürnberger Straße"
 housenumber: 29a

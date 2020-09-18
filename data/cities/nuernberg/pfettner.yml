@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.4603254
 longitude: 11.0972339
-postcode: 90489
+postcode: "90489"
 city: Nürnberg
 street: "Ludwig-Feuerbach-Straße"
 housenumber: 42

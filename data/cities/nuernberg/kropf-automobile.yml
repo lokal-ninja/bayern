@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.453495100000005
 longitude: 11.06545
-postcode: 90429
+postcode: "90429"
 city: Nürnberg
 street: "Deutschherrnstraße"
 housenumber: 1-7

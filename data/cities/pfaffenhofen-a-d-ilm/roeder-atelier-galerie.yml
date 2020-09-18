@@ -3,7 +3,7 @@ type: way
 shop: Kunst
 latitude: 48.5384005
 longitude: 11.492043200000001
-postcode: 85276
+postcode: "85276"
 city: Pfaffenhofen a.d. Ilm
 street: "Derbystraße"
 housenumber: 8

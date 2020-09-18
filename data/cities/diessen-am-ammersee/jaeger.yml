@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 47.9475168
 longitude: 11.1037616
-postcode: 86911
+postcode: "86911"
 city: Dießen am Ammersee
 street: "Johannisstraße"
 housenumber: 6

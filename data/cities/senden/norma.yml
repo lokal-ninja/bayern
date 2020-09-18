@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.3239602
 longitude: 10.0450534
-postcode: 89250
+postcode: "89250"
 city: Senden
 street: "Hauptstraße"
 housenumber: 37

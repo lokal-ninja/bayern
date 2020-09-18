@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.101220000000005
 longitude: 11.580369000000001
-postcode: 81547
+postcode: "81547"
 city: München
 street: "Resedenweg"
 housenumber: 6

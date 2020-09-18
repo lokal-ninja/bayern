@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 48.3473806
 longitude: 10.9441468
-postcode: 86163
+postcode: "86163"
 city: Augsburg
 street: "Iselerstraße"
 housenumber: 18

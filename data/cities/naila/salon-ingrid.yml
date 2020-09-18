@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 50.3272917
 longitude: 11.697008400000001
-postcode: 95119
+postcode: "95119"
 city: Naila
 street: "Hubertusstraße"
 housenumber: 23

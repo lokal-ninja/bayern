@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.135246
 longitude: 11.5021661
-postcode: 80689
+postcode: "80689"
 city: München
 street: "Joergstraße"
 housenumber: 1

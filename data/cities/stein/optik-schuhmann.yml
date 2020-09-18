@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.4136764
 longitude: 11.014259800000001
-postcode: 90547
+postcode: "90547"
 city: Stein
 street: "Hauptstraße"
 housenumber: 36

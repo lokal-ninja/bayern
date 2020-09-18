@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 49.705273600000005
 longitude: 9.231793300000001
-postcode: 63897
+postcode: "63897"
 city: Miltenberg
 street: "Laurentiusstraße"
 housenumber: 21

@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 49.4829305
 longitude: 10.721839000000001
-postcode: 91452
+postcode: "91452"
 city: Wilhermsdorf
 street: "Gartenstraße"
 housenumber: 1b

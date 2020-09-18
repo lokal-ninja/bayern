@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 49.9745396
 longitude: 9.150451200000001
-postcode: 63739
+postcode: "63739"
 city: Aschaffenburg
 street: "Roßmarkt"
 housenumber: 40

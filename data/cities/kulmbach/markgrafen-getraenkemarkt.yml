@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 50.1138502
 longitude: 11.467917600000002
-postcode: 95326
+postcode: "95326"
 city: Kulmbach
 street: "Hofer Straße"
 housenumber: 20

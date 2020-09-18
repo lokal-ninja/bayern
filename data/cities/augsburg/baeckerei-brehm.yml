@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.322400800000004
 longitude: 10.9084964
-postcode: 86179
+postcode: "86179"
 city: Augsburg
 street: "Haunstetter Straße"
 housenumber: 220

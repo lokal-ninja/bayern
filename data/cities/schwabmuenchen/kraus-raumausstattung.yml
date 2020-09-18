@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 48.1777486
 longitude: 10.7558953
-postcode: 86830
+postcode: "86830"
 city: Schwabmünchen
 street: "Mindelheimer Straße"
 housenumber: 8

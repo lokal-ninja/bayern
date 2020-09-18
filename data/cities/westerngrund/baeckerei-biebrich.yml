@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.114876800000005
 longitude: 9.241378300000001
-postcode: 63825
+postcode: "63825"
 city: Westerngrund
 street: "Lindenstraße"
 housenumber: 1

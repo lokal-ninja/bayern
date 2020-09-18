@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.494759900000005
 longitude: 11.107141400000001
-postcode: 82467
+postcode: "82467"
 city: Garmisch-Partenkirchen
 street: "Ludwigstraße"
 housenumber: 90

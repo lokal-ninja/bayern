@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 48.113221
 longitude: 11.6573577
-postcode: 81825
+postcode: "81825"
 city: München
 street: "Matterhornstraße"
 housenumber: 21a

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.1247726
 longitude: 10.759635300000001
-postcode: 91710
+postcode: "91710"
 city: Gunzenhausen
 street: "Alemannenstraße"
 housenumber: 23

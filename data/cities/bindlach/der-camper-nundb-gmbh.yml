@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 49.9747709
 longitude: 11.6051038
-postcode: 95463
+postcode: "95463"
 city: Bindlach
 street: "St.-Georgen-Straße"
 housenumber: 23

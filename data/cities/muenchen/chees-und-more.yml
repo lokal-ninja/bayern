@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.1365988
 longitude: 11.5767401
-postcode: 80331
+postcode: "80331"
 city: München
 street: "Marienplatz"
 housenumber: 16

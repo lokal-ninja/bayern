@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.447863500000004
 longitude: 11.137702
-postcode: 86551
+postcode: "86551"
 city: Aichach
 street: "Rudolf-Diesel-Straße"
 housenumber: 1

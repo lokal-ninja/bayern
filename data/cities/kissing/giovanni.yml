@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.3036237
 longitude: 10.9628653
-postcode: 86438
+postcode: "86438"
 city: Kissing
 street: "Bahnhofsallee"
 housenumber: 2

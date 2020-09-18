@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 49.165511900000006
 longitude: 10.9384914
-postcode: 91174
+postcode: "91174"
 city: Spalt
 street: "Hintere Dorfstraße"
 housenumber: 1

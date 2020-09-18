@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 48.6029034
 longitude: 11.6249701
-postcode: 85283
+postcode: "85283"
 city: Wolnzach
 street: "Schloßhof"
 housenumber: 16

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.754933900000005
 longitude: 11.3825894
-postcode: 82377
+postcode: "82377"
 city: Penzberg
 street: "Henlestraße"
 housenumber: 3

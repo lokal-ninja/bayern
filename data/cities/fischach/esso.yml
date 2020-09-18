@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.292394200000004
 longitude: 10.6600029
-postcode: 86850
+postcode: "86850"
 city: Fischach
 street: "Augsburger Straße"
 housenumber: 31

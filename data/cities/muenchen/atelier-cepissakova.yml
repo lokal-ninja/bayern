@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 48.135197600000005
 longitude: 11.542616
-postcode: 80339
+postcode: "80339"
 city: München
 street: "Ligsalzstraße"
 housenumber: 29

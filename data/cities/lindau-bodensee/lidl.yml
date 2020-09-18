@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.5557576
 longitude: 9.7044675
-postcode: 88131
+postcode: "88131"
 city: Lindau (Bodensee)
 street: "Kemptener Straße"
 housenumber: 17

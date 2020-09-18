@@ -3,7 +3,7 @@ type: way
 shop: Schlüsseldienst
 latitude: 48.4561581
 longitude: 10.282230400000001
-postcode: 89312
+postcode: "89312"
 city: Günzburg
 street: "Erlenbadweg"
 housenumber: 5

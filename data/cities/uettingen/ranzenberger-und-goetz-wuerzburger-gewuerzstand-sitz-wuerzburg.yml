@@ -3,7 +3,7 @@ type: node
 shop: Gewürze
 latitude: 49.7956159
 longitude: 9.718221900000001
-postcode: 97292
+postcode: "97292"
 city: Uettingen
 street: "Remlinger Straße"
 housenumber: 8

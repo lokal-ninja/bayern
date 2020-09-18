@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 49.7201765
 longitude: 11.057050400000001
-postcode: 91301
+postcode: "91301"
 city: Forchheim
 street: "Sattlertorstraße"
 housenumber: 12

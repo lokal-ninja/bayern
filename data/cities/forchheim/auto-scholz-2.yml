@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 49.7055963
 longitude: 11.062368000000001
-postcode: 91301
+postcode: "91301"
 city: Forchheim
 street: "Daimlerstraße"
 housenumber: 2

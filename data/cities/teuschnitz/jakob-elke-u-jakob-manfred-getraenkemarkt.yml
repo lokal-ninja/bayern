@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.398979800000006
 longitude: 11.3817518
-postcode: 96358
+postcode: "96358"
 city: Teuschnitz
 street: "Reichenbacher Straße"
 housenumber: 8

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.665355000000005
 longitude: 10.350592500000001
-postcode: 87477
+postcode: "87477"
 city: Sulzberg
 street: "Bahnhofstraße"
 housenumber: 27

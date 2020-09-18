@@ -3,7 +3,7 @@ type: node
 shop: Türen
 latitude: 47.872184700000005
 longitude: 11.981887200000001
-postcode: 83043
+postcode: "83043"
 city: Bad Aibling
 street: "Gewerbepark Markfeld"
 housenumber: 1

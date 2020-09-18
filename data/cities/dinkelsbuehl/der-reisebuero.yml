@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 49.0687611
 longitude: 10.3150893
-postcode: 91550
+postcode: "91550"
 city: Dinkelsbühl
 street: "Segringer Straße"
 housenumber: 55

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.470672400000005
 longitude: 11.1134851
-postcode: 90491
+postcode: "90491"
 city: Nürnberg
 street: "Leipziger Straße"
 housenumber: 59

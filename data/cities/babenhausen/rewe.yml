@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 48.136789
 longitude: 10.2464698
-postcode: 87727
+postcode: "87727"
 city: Babenhausen
-street: ""
-housenumber: 
+street: "Bahnhofstraße"
+housenumber: 10 c
 phone: ""
 opening_hours: ""
 website: ""

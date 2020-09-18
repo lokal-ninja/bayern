@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 48.9859595
 longitude: 12.198170500000002
-postcode: 93073
+postcode: "93073"
 city: Neutraubling
 street: "Bayerwaldstraße"
 housenumber: 3

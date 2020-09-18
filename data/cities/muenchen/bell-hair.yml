@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.1216443
 longitude: 11.672424300000001
-postcode: 81825
+postcode: "81825"
 city: München
 street: "Truderinger Straße"
 housenumber: 319

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.784547
 longitude: 9.932732900000001
-postcode: 97072
+postcode: "97072"
 city: Würzburg
 street: "Wölffelstraße"
 housenumber: 1

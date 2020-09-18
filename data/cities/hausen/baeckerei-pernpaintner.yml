@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.858330200000005
 longitude: 12.0035469
-postcode: 93345
+postcode: "93345"
 city: Hausen
 street: "Hauptstraße"
 housenumber: 16

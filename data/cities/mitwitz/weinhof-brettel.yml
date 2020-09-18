@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 50.253345100000004
 longitude: 11.211819400000001
-postcode: 96268
+postcode: "96268"
 city: Mitwitz
 street: "Neundorfer Straße"
 housenumber: 41

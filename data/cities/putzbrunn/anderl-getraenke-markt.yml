@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.080276000000005
 longitude: 11.6921157
-postcode: 85640
+postcode: "85640"
 city: Putzbrunn
 street: "Innstraße"
 housenumber: 5

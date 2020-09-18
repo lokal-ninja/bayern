@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 48.1787271
 longitude: 11.251926500000001
-postcode: 82256
+postcode: "82256"
 city: Fürstenfeldbruck
 street: "Pucher Straße"
 housenumber: 21

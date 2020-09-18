@@ -3,7 +3,7 @@ type: node
 shop: Waffen
 latitude: 48.4917315
 longitude: 11.1850149
-postcode: 86556
+postcode: "86556"
 city: Kühbach
 street: "Marktplatz"
 housenumber: 1

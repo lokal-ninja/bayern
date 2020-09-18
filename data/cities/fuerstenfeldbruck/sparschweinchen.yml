@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 48.1801412
 longitude: 11.2542994
-postcode: 82256
+postcode: "82256"
 city: Fürstenfeldbruck
 street: "Augsburger Straße"
 housenumber: 1b

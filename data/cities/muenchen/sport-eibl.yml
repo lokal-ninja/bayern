@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 48.149709900000005
 longitude: 11.5341611
-postcode: 80634
+postcode: "80634"
 city: München
 street: "Hirschbergstraße"
 housenumber: 22

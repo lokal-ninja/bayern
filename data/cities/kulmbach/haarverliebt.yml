@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.1076963
 longitude: 11.454732900000002
-postcode: 95326
+postcode: "95326"
 city: Kulmbach
 street: "Langgasse"
 housenumber: 10

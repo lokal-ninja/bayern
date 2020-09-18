@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.927084
 longitude: 12.378657
-postcode: 83125
+postcode: "83125"
 city: Eggstätt
 street: "Obinger Straße"
 housenumber: 1

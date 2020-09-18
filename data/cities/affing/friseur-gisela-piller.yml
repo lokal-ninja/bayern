@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.4555736
 longitude: 10.9831271
-postcode: 86444
+postcode: "86444"
 city: Affing
 street: "Friedhofstraße"
 housenumber: 12

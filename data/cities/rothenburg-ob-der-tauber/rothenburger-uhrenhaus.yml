@@ -3,7 +3,7 @@ type: node
 shop: Uhren
 latitude: 49.3777613
 longitude: 10.178978500000001
-postcode: 91541
+postcode: "91541"
 city: Rothenburg ob der Tauber
 street: "Markt"
 housenumber: 3

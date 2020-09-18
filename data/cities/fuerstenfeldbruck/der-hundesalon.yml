@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.1789512
 longitude: 11.252251800000002
-postcode: 82256
+postcode: "82256"
 city: Fürstenfeldbruck
 street: "Pucher Straße"
 housenumber: 22

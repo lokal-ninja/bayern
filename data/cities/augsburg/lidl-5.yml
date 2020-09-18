@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.3760781
 longitude: 10.930019000000001
-postcode: 86165
+postcode: "86165"
 city: Augsburg
 street: "Donaustraße"
 housenumber: 6

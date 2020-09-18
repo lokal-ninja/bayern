@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 48.228020300000004
 longitude: 12.6825028
-postcode: 84503
+postcode: "84503"
 city: Altötting
 street: "Kardinal-Wartenberg-Straße"
 housenumber: 1

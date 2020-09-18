@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 48.3596756
 longitude: 11.446297900000001
-postcode: 85256
+postcode: "85256"
 city: Vierkirchen
 street: "Indersdorfer Straße"
 housenumber: 41

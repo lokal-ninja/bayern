@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 48.8748197
 longitude: 12.351681000000001
-postcode: 93104
+postcode: "93104"
 city: Sünching
 street: "Laberstraße"
 housenumber: 3

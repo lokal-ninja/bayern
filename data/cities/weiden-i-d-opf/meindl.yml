@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.676769300000004
 longitude: 12.1628521
-postcode: 92637
+postcode: "92637"
 city: Weiden i.d.OPf.
 street: "Bürgermeister-Prechtl-Straße"
 housenumber: 24

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.2230241
 longitude: 12.6775538
-postcode: 84503
+postcode: "84503"
 city: Altötting
 street: "Rupertusstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.0008166
 longitude: 12.0825417
-postcode: 93051
+postcode: "93051"
 city: Regensburg
 street: "Ludwig-Thoma-Straße"
 housenumber: 18

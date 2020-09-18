@@ -1,12 +1,12 @@
-id: 432617884
-type: node
+id: 712544475
+type: way
 shop: Supermarkt
-latitude: 49.162136000000004
-longitude: 11.9460502
-postcode: 93183
+latitude: 49.1622434
+longitude: 11.945849200000001
+postcode: "93183"
 city: Kallmünz
 street: "Im Vilsfeld"
 housenumber: 1
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "http://netto-online.de/"
+opening_hours: "Mo-Sa 07:00-20:00; PH off"
+website: "https://netto-online.de/"

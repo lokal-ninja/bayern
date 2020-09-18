@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 48.4066872
 longitude: 10.9486351
-postcode: 86316
+postcode: "86316"
 city: Friedberg
 street: "Winterbruckenweg"
 housenumber: 56

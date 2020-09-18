@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 49.916765700000006
 longitude: 10.871542100000001
-postcode: 96103
+postcode: "96103"
 city: Hallstadt
 street: "Emil-Kemmer-Straße"
 housenumber: 14

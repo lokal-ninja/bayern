@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.140727500000004
 longitude: 11.592285500000001
-postcode: 80538
+postcode: "80538"
 city: München
 street: "Liebigstraße"
 housenumber: 39

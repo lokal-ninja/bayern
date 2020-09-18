@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.2728132
 longitude: 10.9768834
-postcode: 86415
+postcode: "86415"
 city: Mering
 street: "Gaußring"
 housenumber: 36

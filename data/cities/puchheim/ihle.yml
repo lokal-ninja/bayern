@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.174305700000005
 longitude: 11.3592428
-postcode: 82178
+postcode: "82178"
 city: Puchheim
 street: "Lochhauser Straße"
 housenumber: 40

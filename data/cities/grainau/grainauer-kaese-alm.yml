@@ -3,7 +3,7 @@ type: way
 shop: Käse
 latitude: 47.4761941
 longitude: 11.023621200000001
-postcode: 82491
+postcode: "82491"
 city: Grainau
 street: "Waxensteinstraße"
 housenumber: 12

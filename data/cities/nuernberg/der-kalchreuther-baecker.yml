@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.4744571
 longitude: 11.1049717
-postcode: 90411
+postcode: "90411"
 city: Nürnberg
 street: "Bessemerstraße"
 housenumber: 5

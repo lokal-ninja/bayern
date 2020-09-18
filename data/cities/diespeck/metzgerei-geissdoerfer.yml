@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.598113500000004
 longitude: 10.626983300000001
-postcode: 91456
+postcode: "91456"
 city: Diespeck
 street: "Dettendorfer Straße"
 housenumber: 1

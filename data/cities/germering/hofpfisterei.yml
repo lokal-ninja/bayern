@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.12626950000001
 longitude: 11.3664064
-postcode: 82110
+postcode: "82110"
 city: Germering
 street: "Otto-Wagner-Straße"
 housenumber: 3

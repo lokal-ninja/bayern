@@ -1,12 +1,12 @@
-id: 2124787361
+id: 6390631322
 type: node
 shop: Supermarkt
-latitude: 48.171222400000005
-longitude: 11.3221944
-postcode: 82223
+latitude: 48.164686800000005
+longitude: 11.3260103
+postcode: "82223"
 city: Eichenau
 street: "Hauptstraße"
-housenumber: 8
+housenumber: 55
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: ""
 website: ""

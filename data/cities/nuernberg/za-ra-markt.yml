@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 49.4408571
 longitude: 11.086159700000001
-postcode: 90459
+postcode: "90459"
 city: Nürnberg
 street: "Wölckernstraße"
 housenumber: 50

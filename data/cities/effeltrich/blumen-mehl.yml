@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 49.661328600000004
 longitude: 11.0995516
-postcode: 91090
+postcode: "91090"
 city: Effeltrich
 street: "Hans-Sachs-Straße"
 housenumber: 5

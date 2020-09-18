@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.6493188
 longitude: 11.4805436
-postcode: 85084
+postcode: "85084"
 city: Reichertshofen
 street: "Wackerstraße"
 housenumber: 27

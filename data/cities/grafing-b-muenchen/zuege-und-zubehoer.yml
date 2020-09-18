@@ -3,7 +3,7 @@ type: node
 shop: Modellbau
 latitude: 48.045439800000004
 longitude: 11.9636089
-postcode: 85567
+postcode: "85567"
 city: Grafing b. München
 street: "Bahnhofstraße"
 housenumber: 9

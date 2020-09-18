@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.1064425
 longitude: 11.579595300000001
-postcode: 81547
+postcode: "81547"
 city: München
 street: "Waltramstraße"
 housenumber: 3

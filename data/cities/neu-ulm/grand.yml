@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.363241300000006
 longitude: 10.0118089
-postcode: 89231
+postcode: "89231"
 city: Neu-Ulm
 street: "Biberkopfweg"
 housenumber: 1

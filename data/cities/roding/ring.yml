@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.196430500000005
 longitude: 12.5155434
-postcode: 93426
+postcode: "93426"
 city: Roding
 street: "Landgerichtstraße"
 housenumber: 6

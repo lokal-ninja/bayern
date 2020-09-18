@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.2272868
 longitude: 10.5879265
-postcode: 86877
+postcode: "86877"
 city: Walkertshofen
 street: "Schörrstraße"
 housenumber: 6

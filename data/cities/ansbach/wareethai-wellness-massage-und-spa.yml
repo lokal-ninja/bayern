@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 49.304088
 longitude: 10.5751515
-postcode: 91522
+postcode: "91522"
 city: Ansbach
 street: "Fischstraße"
 housenumber: 7-9

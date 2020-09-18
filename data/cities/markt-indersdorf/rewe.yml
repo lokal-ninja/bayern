@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.3474598
 longitude: 11.382822800000001
-postcode: 85229
+postcode: "85229"
 city: Markt Indersdorf
 street: "Gewerbestraße"
 housenumber: 6

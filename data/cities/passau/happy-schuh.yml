@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 48.5645875
 longitude: 13.430139
-postcode: 94036
+postcode: "94036"
 city: Passau
 street: "Prachatitzer Straße"
 housenumber: 1

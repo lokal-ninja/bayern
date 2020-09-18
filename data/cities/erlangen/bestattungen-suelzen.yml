@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 49.5733149
 longitude: 10.9879224
-postcode: 91058
+postcode: "91058"
 city: Erlangen
 street: "Zimmermannsgasse"
 housenumber: 1a

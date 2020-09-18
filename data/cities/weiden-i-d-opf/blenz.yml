@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 49.6756359
 longitude: 12.164310700000001
-postcode: 92637
+postcode: "92637"
 city: Weiden i.d.OPf.
 street: "Unterer Markt"
 housenumber: 8

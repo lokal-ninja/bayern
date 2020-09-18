@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.121644700000004
 longitude: 12.126631600000001
-postcode: 93128
+postcode: "93128"
 city: Regenstauf
 street: "Regensburger Straße"
 housenumber: 10

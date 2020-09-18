@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.7796967
 longitude: 12.134552800000002
-postcode: 83115
+postcode: "83115"
 city: Neubeuern
 street: "Rosenheimer Straße"
 housenumber: 9

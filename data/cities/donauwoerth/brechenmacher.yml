@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 48.716903800000004
 longitude: 10.7828329
-postcode: 86609
+postcode: "86609"
 city: Donauwörth
 street: "Kapellstraße"
 housenumber: 34

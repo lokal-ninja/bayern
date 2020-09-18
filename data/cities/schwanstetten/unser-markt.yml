@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 49.3203271
 longitude: 11.1256135
-postcode: 90596
+postcode: "90596"
 city: Schwanstetten
 street: "Ringstraße"
 housenumber: 22

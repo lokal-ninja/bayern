@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.4742711
 longitude: 12.2572203
-postcode: 84144
+postcode: "84144"
 city: Geisenhausen
 street: "Hauptstraße"
 housenumber: 3

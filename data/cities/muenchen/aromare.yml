@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.1540947
 longitude: 11.5756992
-postcode: 80799
+postcode: "80799"
 city: München
 street: "Nordendstraße"
 housenumber: 16

@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 49.678151500000006
 longitude: 12.1776967
-postcode: 92637
+postcode: "92637"
 city: Weiden i.d.OPf.
 street: "Friedrich-Ebert-Straße"
 housenumber: 44

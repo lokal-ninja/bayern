@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.759578600000005
 longitude: 9.715351700000001
-postcode: 97264
+postcode: "97264"
 city: Helmstadt
 street: "Luitpoltstraße"
 housenumber: 1

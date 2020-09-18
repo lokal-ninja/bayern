@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 48.9480791
 longitude: 12.016598700000001
-postcode: 93077
+postcode: "93077"
 city: Bad Abbach
 street: "Donaustraße"
 housenumber: 56A

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.7154582
 longitude: 12.1560009
-postcode: 92665
+postcode: "92665"
 city: Altenstadt a.d. Waldnaab
 street: "Jahnstraße"
 housenumber: 9

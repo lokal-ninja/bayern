@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.065186800000006
 longitude: 11.6644752
-postcode: 85521
+postcode: "85521"
 city: Ottobrunn
 street: "Rathausstraße"
 housenumber: 1

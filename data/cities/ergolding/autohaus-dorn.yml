@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.5671255
 longitude: 12.1534417
-postcode: 84030
+postcode: "84030"
 city: Ergolding
 street: "Albert-Einstein-Straße"
 housenumber: 8

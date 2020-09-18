@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.892089600000006
 longitude: 11.635524
-postcode: 83623
+postcode: "83623"
 city: Dietramszell
 street: "Jasberg"
 housenumber: 1

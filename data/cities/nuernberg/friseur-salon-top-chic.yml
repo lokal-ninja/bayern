@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.463941600000005
 longitude: 11.0860722
-postcode: 90409
+postcode: "90409"
 city: Nürnberg
 street: "Löbleinstraße"
 housenumber: 32

@@ -3,10 +3,10 @@ type: way
 shop: Hofladen
 latitude: 47.566988900000005
 longitude: 9.704485
-postcode: 88131
+postcode: "88131"
 city: Lindau (Bodensee)
 street: "Kemptener Straße"
-housenumber: 
+housenumber: 102
 phone: ""
 opening_hours: ""
 website: ""

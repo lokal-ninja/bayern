@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.0693903
 longitude: 10.318766700000001
-postcode: 91550
+postcode: "91550"
 city: Dinkelsbühl
 street: "Weinmarkt"
 housenumber: 1

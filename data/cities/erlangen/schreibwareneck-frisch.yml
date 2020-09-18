@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 49.5778692
 longitude: 11.021944900000001
-postcode: 91058
+postcode: "91058"
 city: Erlangen
 street: "Karlsbader Straße"
 housenumber: 1

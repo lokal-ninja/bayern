@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.9331875
 longitude: 11.566207400000001
-postcode: 95447
+postcode: "95447"
 city: Bayreuth
 street: "Leuschnerstraße"
 housenumber: 80

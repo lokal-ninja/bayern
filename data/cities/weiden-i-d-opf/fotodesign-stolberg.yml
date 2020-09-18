@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 49.674100300000006
 longitude: 12.1518145
-postcode: 92637
+postcode: "92637"
 city: Weiden i.d.OPf.
 street: "Fehrstraße"
 housenumber: 2

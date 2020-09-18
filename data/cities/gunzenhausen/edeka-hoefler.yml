@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.1059083
 longitude: 10.760134500000001
-postcode: 91710
+postcode: "91710"
 city: Gunzenhausen
 street: "Weißenburger Straße"
 housenumber: 108

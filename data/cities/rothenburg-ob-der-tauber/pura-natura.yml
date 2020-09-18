@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.377361400000005
 longitude: 10.1792669
-postcode: 91541
+postcode: "91541"
 city: Rothenburg ob der Tauber
 street: "Marktplatz"
 housenumber: 3

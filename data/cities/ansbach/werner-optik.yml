@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.3012974
 longitude: 10.5728261
-postcode: 91522
+postcode: "91522"
 city: Ansbach
 street: "Neustadt"
 housenumber: 12

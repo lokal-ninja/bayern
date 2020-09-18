@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.4783151
 longitude: 10.9674253
-postcode: 90766
+postcode: "90766"
 city: Fürth
 street: "Wehlauer Straße"
 housenumber: 86

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.2560963
 longitude: 11.4548658
-postcode: 85221
+postcode: "85221"
 city: Dachau
 street: "Johann-Teufelhart-Straße"
 housenumber: 93

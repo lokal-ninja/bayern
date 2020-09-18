@@ -3,7 +3,7 @@ type: way
 shop: Dorfladen
 latitude: 49.5478139
 longitude: 12.0036213
-postcode: 92253
+postcode: "92253"
 city: Schnaittenbach
 street: "Hauptstraße"
 housenumber: 24

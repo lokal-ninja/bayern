@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.914167400000004
 longitude: 9.1409102
-postcode: 63843
+postcode: "63843"
 city: Niedernberg
 street: "Hauptstraße"
 housenumber: 60

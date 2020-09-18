@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.6213246
 longitude: 10.8114425
-postcode: 87642
+postcode: "87642"
 city: Halblech
 street: "Mühlfeld"
 housenumber: 10

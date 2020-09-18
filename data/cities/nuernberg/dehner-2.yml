@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 49.46475220000001
 longitude: 11.1513015
-postcode: 90482
+postcode: "90482"
 city: Nürnberg
 street: "Happurger Straße"
 housenumber: 2

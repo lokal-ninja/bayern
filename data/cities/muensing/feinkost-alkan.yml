@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 47.903037700000006
 longitude: 11.3664293
-postcode: 82541
+postcode: "82541"
 city: Münsing
 street: "Weipertshausener Straße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 48.9068174
 longitude: 12.455238600000001
-postcode: 94369
+postcode: "94369"
 city: Rain
 street: "Im Gewerbegebiet"
 housenumber: 2

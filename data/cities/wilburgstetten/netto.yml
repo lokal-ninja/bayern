@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.0202498
 longitude: 10.3967065
-postcode: 91634
+postcode: "91634"
 city: Wilburgstetten
 street: "Hetschenlache"
 housenumber: 1

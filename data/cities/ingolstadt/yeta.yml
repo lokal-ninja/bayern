@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.748566200000006
 longitude: 11.431425500000001
-postcode: 85051
+postcode: "85051"
 city: Ingolstadt
 street: "Mercystraße"
 housenumber: 13

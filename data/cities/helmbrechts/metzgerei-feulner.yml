@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.239981
 longitude: 11.6219053
-postcode: 95233
+postcode: "95233"
 city: Helmbrechts
 street: "Kirchplatz"
 housenumber: 7

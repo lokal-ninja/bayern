@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.0392067
 longitude: 10.7186879
-postcode: 86807
+postcode: "86807"
 city: Buchloe
 street: "Justus-von-Liebig-Straße"
 housenumber: 1

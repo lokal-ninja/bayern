@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 48.082286100000005
 longitude: 11.5040852
-postcode: 
+postcode: ""
 city: München
 street: "Drygalski-Allee"
 housenumber: 117

@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 49.5980416
 longitude: 11.0029369
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Paulistraße"
 housenumber: 2

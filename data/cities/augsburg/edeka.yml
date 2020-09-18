@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.3534212
 longitude: 10.893958000000001
-postcode: 86159
+postcode: "86159"
 city: Augsburg
 street: "Schertlinstraße"
 housenumber: 17

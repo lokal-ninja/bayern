@@ -3,7 +3,7 @@ type: way
 shop: Computer
 latitude: 49.1159206
 longitude: 10.7534658
-postcode: 91710
+postcode: "91710"
 city: Gunzenhausen
 street: "Marktplatz"
 housenumber: 5

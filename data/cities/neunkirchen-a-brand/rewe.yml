@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.6083233
 longitude: 11.1224059
-postcode: 91077
+postcode: "91077"
 city: Neunkirchen a.Brand
 street: "Zum Neuntagwerk"
 housenumber: 9

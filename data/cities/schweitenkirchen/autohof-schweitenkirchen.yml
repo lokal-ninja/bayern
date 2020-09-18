@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.5096603
 longitude: 11.582620400000001
-postcode: 85301
+postcode: "85301"
 city: Schweitenkirchen
 street: "Robert-Koch-Straße"
 housenumber: 1

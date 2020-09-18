@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.2090216
 longitude: 11.1421354
-postcode: 96279
+postcode: "96279"
 city: Weidhausen
 street: "Gewerbepark"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.7419031
 longitude: 12.1947919
-postcode: 84088
+postcode: "84088"
 city: Neufahrn in Niederbayern
 street: "Gewerbestraße"
 housenumber: 2

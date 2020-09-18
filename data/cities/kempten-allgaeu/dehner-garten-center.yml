@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 47.716767600000004
 longitude: 10.3252202
-postcode: 87437
+postcode: "87437"
 city: Kempten (Allgäu)
 street: "Füssener Straße"
 housenumber: 2

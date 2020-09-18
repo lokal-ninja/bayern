@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 49.2042232
 longitude: 12.657826700000001
-postcode: 93413
+postcode: "93413"
 city: Cham
 street: "Rodinger Straße"
 housenumber: 22

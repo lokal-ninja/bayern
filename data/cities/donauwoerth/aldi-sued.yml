@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.711838900000004
 longitude: 10.755698800000001
-postcode: 86609
+postcode: "86609"
 city: Donauwörth
 street: "Kaiser-Karl-Straße"
 housenumber: 4

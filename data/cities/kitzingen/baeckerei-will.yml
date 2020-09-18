@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.741129300000004
 longitude: 10.1512159
-postcode: 97318
+postcode: "97318"
 city: Kitzingen
 street: "Siegfried-Wilke-Straße"
 housenumber: 8

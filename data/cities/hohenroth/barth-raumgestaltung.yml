@@ -3,7 +3,7 @@ type: way
 shop: Raumausstattung
 latitude: 50.338765
 longitude: 10.1375466
-postcode: 97618
+postcode: "97618"
 city: Hohenroth
 street: "Salzforststraße"
 housenumber: 27

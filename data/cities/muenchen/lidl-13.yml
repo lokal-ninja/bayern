@@ -1,12 +1,12 @@
-id: 7056073518
+id: 6838219012
 type: node
 shop: Supermarkt
-latitude: 48.138463800000004
-longitude: 11.536273600000001
-postcode: 80339
+latitude: 48.125398100000005
+longitude: 11.6108235
+postcode: "81671"
 city: München
-street: "Westendstraße"
-housenumber: 100
+street: "August-Everding-Straße"
+housenumber: 20
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: ""
 website: ""

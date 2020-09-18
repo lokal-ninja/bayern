@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 48.724307200000005
 longitude: 10.777433100000001
-postcode: 86609
+postcode: "86609"
 city: Donauwörth
 street: "Sallingerstraße"
 housenumber: 3

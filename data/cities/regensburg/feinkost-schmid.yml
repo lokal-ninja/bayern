@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.001987
 longitude: 12.083904400000002
-postcode: 93051
+postcode: "93051"
 city: Regensburg
 street: "Theodor-Storm-Straße"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.576899000000004
 longitude: 10.736143700000001
-postcode: 87645
+postcode: "87645"
 city: Schwangau
 street: "Jakeleweg"
 housenumber: 3

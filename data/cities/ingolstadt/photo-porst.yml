@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 48.764278100000006
 longitude: 11.4241182
-postcode: 85049
+postcode: "85049"
 city: Ingolstadt
 street: "Am Stein"
 housenumber: 1

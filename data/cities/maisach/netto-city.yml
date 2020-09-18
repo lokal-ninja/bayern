@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.2115042
 longitude: 11.2967606
-postcode: 82216
+postcode: "82216"
 city: Maisach
 street: "Brucker Straße"
 housenumber: 2c

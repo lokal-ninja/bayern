@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.9647063
 longitude: 12.589560700000002
-postcode: 83301
+postcode: "83301"
 city: Traunreut
 street: "Munastraße"
 housenumber: 10a

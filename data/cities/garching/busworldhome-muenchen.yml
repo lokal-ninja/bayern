@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 48.246224000000005
 longitude: 11.6284805
-postcode: 85748
+postcode: "85748"
 city: Garching
 street: "Daimlerstraße"
 housenumber: 7

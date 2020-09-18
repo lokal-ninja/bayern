@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 48.715631300000005
 longitude: 10.7732632
-postcode: 86609
+postcode: "86609"
 city: Donauwörth
 street: "Bahnhofstraße"
 housenumber: 24

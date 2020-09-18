@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.0753265
 longitude: 11.6661414
-postcode: 85579
+postcode: "85579"
 city: Neubiberg
 street: "Hauptstraße"
 housenumber: 30

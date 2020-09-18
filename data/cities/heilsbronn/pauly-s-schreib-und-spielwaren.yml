@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 49.338207800000006
 longitude: 10.790083000000001
-postcode: 91560
+postcode: "91560"
 city: Heilsbronn
 street: "Hauptstraße"
 housenumber: 4

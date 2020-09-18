@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.4126022
 longitude: 10.2786404
-postcode: 87561
+postcode: "87561"
 city: Oberstdorf
 street: "Im Steinach"
 housenumber: 10

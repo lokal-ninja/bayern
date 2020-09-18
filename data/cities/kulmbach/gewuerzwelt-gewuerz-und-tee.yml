@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 50.107769000000005
 longitude: 11.4568426
-postcode: 95326
+postcode: "95326"
 city: Kulmbach
 street: "Grabenstraße"
 housenumber: 5

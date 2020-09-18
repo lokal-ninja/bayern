@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.4356407
 longitude: 11.844792100000001
-postcode: 85416
+postcode: "85416"
 city: Langenbach
 street: "Freisinger Straße"
 housenumber: 24

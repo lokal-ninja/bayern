@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.9589316
 longitude: 10.9063643
-postcode: 91757
+postcode: "91757"
 city: Treuchtlingen
 street: "Wettelsheimer Straße"
 housenumber: 43

@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 48.1404148
 longitude: 11.369810000000001
-postcode: 82110
+postcode: "82110"
 city: Germering
 street: "Lise-Meitner-Straße"
 housenumber: 1

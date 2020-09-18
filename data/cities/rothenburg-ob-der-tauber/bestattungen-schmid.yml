@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 49.375905100000004
 longitude: 10.1912207
-postcode: 91541
+postcode: "91541"
 city: Rothenburg ob der Tauber
 street: "Steinweg"
 housenumber: 2

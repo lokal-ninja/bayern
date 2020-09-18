@@ -3,7 +3,7 @@ type: node
 shop: Taschen & Koffer
 latitude: 48.156997700000005
 longitude: 11.5851425
-postcode: 80802
+postcode: "80802"
 city: München
 street: "Martiusstraße"
 housenumber: 1

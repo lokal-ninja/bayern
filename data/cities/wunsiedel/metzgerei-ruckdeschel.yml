@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 50.039834000000006
 longitude: 12.0087629
-postcode: 95632
+postcode: "95632"
 city: Wunsiedel
 street: "Egerstraße"
 housenumber: 40

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.949809900000005
 longitude: 11.1024021
-postcode: 86911
+postcode: "86911"
 city: Dießen am Ammersee
 street: "Prinz-Ludwig-Straße"
 housenumber: 22a

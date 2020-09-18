@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 48.1495504
 longitude: 11.572507100000001
-postcode: 80799
+postcode: "80799"
 city: München
 street: "Barer Straße"
 housenumber: 46

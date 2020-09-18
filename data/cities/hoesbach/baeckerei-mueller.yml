@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.0391874
 longitude: 9.2325979
-postcode: 63768
+postcode: "63768"
 city: Hösbach
 street: "Ringstraße"
 housenumber: 1

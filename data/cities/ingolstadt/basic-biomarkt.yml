@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.7713722
 longitude: 11.386265300000002
-postcode: 85049
+postcode: "85049"
 city: Ingolstadt
 street: "Levelingstraße"
 housenumber: 3

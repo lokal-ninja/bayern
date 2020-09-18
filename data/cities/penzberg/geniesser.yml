@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 47.750618700000004
 longitude: 11.3766963
-postcode: 82377
+postcode: "82377"
 city: Penzberg
 street: "Friedrich-Ebert-Straße"
 housenumber: 9

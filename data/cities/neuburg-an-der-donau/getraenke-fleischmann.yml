@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.7191321
 longitude: 11.172642000000002
-postcode: 86633
+postcode: "86633"
 city: Neuburg an der Donau
 street: "Am Südpark"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 47.676972600000006
 longitude: 12.4711906
-postcode: 83242
+postcode: "83242"
 city: Reit im Winkl
 street: "Dorfstraße"
 housenumber: 10

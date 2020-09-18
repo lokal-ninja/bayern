@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 49.449548400000005
 longitude: 11.0759644
-postcode: 90402
+postcode: "90402"
 city: Nürnberg
 street: "Breite Gasse"
 housenumber: 27

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.209607000000005
 longitude: 11.5536978
-postcode: 80933
+postcode: "80933"
 city: München
 street: "Rainfarnstraße"
 housenumber: 50

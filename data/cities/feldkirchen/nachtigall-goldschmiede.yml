@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.148522400000004
 longitude: 11.7289703
-postcode: 85622
+postcode: "85622"
 city: Feldkirchen
 street: "Kirchenstraße"
 housenumber: 8

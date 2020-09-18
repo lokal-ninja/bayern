@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.1124908
 longitude: 11.5335534
-postcode: 81369
+postcode: "81369"
 city: München
 street: "Johann-Clanze-Straße"
 housenumber: 27

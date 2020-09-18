@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 47.770200700000004
 longitude: 11.376330600000001
-postcode: 82377
+postcode: "82377"
 city: Penzberg
 street: "Nonnenwald"
 housenumber: 7

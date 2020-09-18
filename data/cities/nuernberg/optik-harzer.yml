@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.446561
 longitude: 11.059826800000002
-postcode: 90443
+postcode: "90443"
 city: Nürnberg
 street: "Hirtengasse"
 housenumber: 11

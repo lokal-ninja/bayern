@@ -1,12 +1,12 @@
-id: 106274936
-type: way
+id: 4875921105
+type: node
 shop: Supermarkt
-latitude: 48.093787400000004
-longitude: 11.5689753
-postcode: 81545
+latitude: 48.132912700000006
+longitude: 11.6318017
+postcode: "81673"
 city: München
-street: "Sankt-Magnus-Straße"
-housenumber: 32
-phone: "+49 89 64270372"
+street: "Hermann-Weinhauser-Straße"
+housenumber: 90
+phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.rewe.de/"
+website: ""

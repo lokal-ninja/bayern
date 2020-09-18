@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 47.6761391
 longitude: 12.4725415
-postcode: 83242
+postcode: "83242"
 city: Reit im Winkl
 street: "Dorfstraße"
 housenumber: 24

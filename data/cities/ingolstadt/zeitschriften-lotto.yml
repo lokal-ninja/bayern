@@ -1,12 +1,12 @@
-id: 216732091
-type: way
+id: 288546246
+type: node
 shop: Kiosk
-latitude: 48.7563368
-longitude: 11.349055400000001
-postcode: 85049
+latitude: 48.7553203
+longitude: 11.3481263
+postcode: "85049"
 city: Ingolstadt
 street: "Eichenwaldstraße"
-housenumber: 19
-phone: ""
+housenumber: 26
+phone: "+48 (0) 841 8 11 22"
 opening_hours: ""
 website: ""

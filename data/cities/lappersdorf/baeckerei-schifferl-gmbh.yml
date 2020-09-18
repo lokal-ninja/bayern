@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.048435600000005
 longitude: 12.0911652
-postcode: 93138
+postcode: "93138"
 city: Lappersdorf
 street: "Regensburger Straße"
 housenumber: 29

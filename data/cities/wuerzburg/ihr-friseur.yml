@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.7970126
 longitude: 9.930812000000001
-postcode: 97070
+postcode: "97070"
 city: Würzburg
 street: "Juliuspromenade"
 housenumber: 60

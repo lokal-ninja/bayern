@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.5612799
 longitude: 10.682539700000001
-postcode: 86637
+postcode: "86637"
 city: Wertingen
 street: "Hauptstraße"
 housenumber: 9

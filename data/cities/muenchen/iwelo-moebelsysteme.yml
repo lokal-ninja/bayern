@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.1243404
 longitude: 11.5644387
-postcode: 80469
+postcode: "80469"
 city: München
 street: "Kapuzinerstraße"
 housenumber: 33

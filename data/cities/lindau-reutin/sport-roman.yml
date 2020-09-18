@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 47.553062600000004
 longitude: 9.702416000000001
-postcode: 88131
+postcode: "88131"
 city: Lindau-Reutin
 street: "Bregenzer Straße"
 housenumber: 49

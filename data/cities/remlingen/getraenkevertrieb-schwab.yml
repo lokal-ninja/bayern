@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 49.802184000000004
 longitude: 9.689946
-postcode: 97280
+postcode: "97280"
 city: Remlingen
 street: "Ansbacher Weg"
 housenumber: 8

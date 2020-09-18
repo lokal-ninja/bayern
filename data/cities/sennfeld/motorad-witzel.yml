@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 50.0348288
 longitude: 10.2479773
-postcode: 97526
+postcode: "97526"
 city: Sennfeld
 street: "Gutenbergstraße"
 housenumber: 6

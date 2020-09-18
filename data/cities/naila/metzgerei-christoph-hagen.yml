@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.330736200000004
 longitude: 11.708939500000001
-postcode: 95119
+postcode: "95119"
 city: Naila
 street: "Walchstraße"
 housenumber: 15

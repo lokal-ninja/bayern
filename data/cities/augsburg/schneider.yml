@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.363298
 longitude: 10.8719892
-postcode: 86157
+postcode: "86157"
 city: Augsburg
 street: "Kirchbergstraße"
 housenumber: 2

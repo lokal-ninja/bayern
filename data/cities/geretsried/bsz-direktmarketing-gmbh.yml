@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 47.8560826
 longitude: 11.4936073
-postcode: 82538
+postcode: "82538"
 city: Geretsried
 street: "Wallensteinstraße"
 housenumber: 6b

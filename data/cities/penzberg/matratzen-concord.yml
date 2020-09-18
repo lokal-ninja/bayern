@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 47.765206500000005
 longitude: 11.3612266
-postcode: 82377
+postcode: "82377"
 city: Penzberg
 street: "Seeshaupter Straße"
 housenumber: 50

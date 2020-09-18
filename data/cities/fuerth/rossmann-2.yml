@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.4946654
 longitude: 10.976602300000001
-postcode: 90766
+postcode: "90766"
 city: Fürth
 street: "Vacher Straße"
 housenumber: 188

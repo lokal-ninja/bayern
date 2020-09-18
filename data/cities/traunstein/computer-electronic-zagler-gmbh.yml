@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 47.869616
 longitude: 12.651071100000001
-postcode: 83278
+postcode: "83278"
 city: Traunstein
 street: "Scheibenstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.495029200000005
 longitude: 11.390470800000001
-postcode: 91239
+postcode: "91239"
 city: Henfenfeld
 street: "Hauptstraße"
 housenumber: 34

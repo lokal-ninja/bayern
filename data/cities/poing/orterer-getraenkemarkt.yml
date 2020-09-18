@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 48.170047200000006
 longitude: 11.802813200000001
-postcode: 85586
+postcode: "85586"
 city: Poing
 street: "Gruber Straße"
 housenumber: 59b

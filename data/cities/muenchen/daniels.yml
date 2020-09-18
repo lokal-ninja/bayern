@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.1388436
 longitude: 11.5783517
-postcode: 80539
+postcode: "80539"
 city: München
 street: "Hofgraben"
 housenumber: 7

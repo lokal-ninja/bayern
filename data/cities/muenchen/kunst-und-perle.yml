@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 48.0826955
 longitude: 11.4846809
-postcode: 81475
+postcode: "81475"
 city: München
 street: "Königswieser Straße"
 housenumber: 5

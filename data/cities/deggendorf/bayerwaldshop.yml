@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 48.833646200000004
 longitude: 12.961729
-postcode: 94469
+postcode: "94469"
 city: Deggendorf
 street: "Bahnhofstraße"
 housenumber: 2

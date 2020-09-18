@@ -3,7 +3,7 @@ type: node
 shop: Bioladen
 latitude: 49.3288962
 longitude: 11.023336500000001
-postcode: 91126
+postcode: "91126"
 city: Schwabach
 street: "Ludwigstraße"
 housenumber: 6

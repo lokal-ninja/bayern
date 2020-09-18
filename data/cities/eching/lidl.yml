@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.311108600000004
 longitude: 11.6457511
-postcode: 85386
+postcode: "85386"
 city: Eching
 street: "Dieselstraße"
 housenumber: 35

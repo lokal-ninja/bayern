@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.7961727
 longitude: 9.7355496
-postcode: 97292
+postcode: "97292"
 city: Uettingen
 street: "Am Graben"
 housenumber: 3

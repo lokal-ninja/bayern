@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.445074000000005
 longitude: 11.8421835
-postcode: 92224
+postcode: "92224"
 city: Amberg
 street: "Infanteriestraße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.03689910000001
 longitude: 11.618938100000001
-postcode: 82024
+postcode: "82024"
 city: Taufkirchen
 street: "Hochstraße"
 housenumber: 25

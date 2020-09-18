@@ -3,7 +3,7 @@ type: way
 shop: Wein
 latitude: 50.052458800000004
 longitude: 9.0728238
-postcode: 63755
+postcode: "63755"
 city: Alzenau
 street: "Im Goldenen Ring"
 housenumber: 23

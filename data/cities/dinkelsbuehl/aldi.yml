@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.065451
 longitude: 10.341785600000001
-postcode: 91550
+postcode: "91550"
 city: Dinkelsbühl
 street: "Wassertrüdinger Straße"
 housenumber: 53

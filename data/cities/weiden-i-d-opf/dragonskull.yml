@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 49.6761277
 longitude: 12.164287100000001
-postcode: 92637
+postcode: "92637"
 city: Weiden i.d.OPf.
 street: "Unterer Markt"
 housenumber: 11

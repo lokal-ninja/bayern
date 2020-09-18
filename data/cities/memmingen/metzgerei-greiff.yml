@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 47.986161700000004
 longitude: 10.179105900000001
-postcode: 87700
+postcode: "87700"
 city: Memmingen
 street: "Zangmeisterstraße"
 housenumber: 10

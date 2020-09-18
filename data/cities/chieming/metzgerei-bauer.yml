@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 47.8934847
 longitude: 12.541719400000002
-postcode: 83339
+postcode: "83339"
 city: Chieming
 street: "Laimgruber Straße"
 housenumber: 5

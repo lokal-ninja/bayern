@@ -3,7 +3,7 @@ type: way
 shop: Feinkost
 latitude: 47.777788400000006
 longitude: 12.324570300000001
-postcode: 83229
+postcode: "83229"
 city: Aschau im Chiemgau
 street: "Kampenwandstraße"
 housenumber: 25

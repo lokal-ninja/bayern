@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.0180051
 longitude: 11.501983300000001
-postcode: 95512
+postcode: "95512"
 city: Neudrossenfeld
 street: "Kulmbacher Straße"
 housenumber: 11

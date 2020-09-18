@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 49.0036337
 longitude: 12.108355000000001
-postcode: 93053
+postcode: "93053"
 city: Regensburg
 street: "Hermann-Geib-Straße"
 housenumber: 14

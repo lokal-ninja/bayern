@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.872323
 longitude: 12.636867
-postcode: 83278
+postcode: "83278"
 city: Traunstein
 street: "Theresienstraße"
 housenumber: 2

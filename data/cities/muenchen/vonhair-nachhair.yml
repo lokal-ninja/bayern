@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.1391999
 longitude: 11.495535100000001
-postcode: 80686
+postcode: "80686"
 city: München
 street: "Von-der-Pfordten-Straße"
 housenumber: 34

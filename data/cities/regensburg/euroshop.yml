@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 49.016592200000005
 longitude: 12.100543100000001
-postcode: 93047
+postcode: "93047"
 city: Regensburg
 street: "Maximilianstraße"
 housenumber: 11

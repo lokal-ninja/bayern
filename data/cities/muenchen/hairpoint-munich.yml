@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.161527
 longitude: 11.588338100000001
-postcode: 80802
+postcode: "80802"
 city: München
 street: "Feilitzschstraße"
 housenumber: 11

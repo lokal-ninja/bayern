@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 48.0567914
 longitude: 11.667281800000001
-postcode: 85521
+postcode: "85521"
 city: Hohenbrunn
 street: "Rosenheimer Landstraße"
 housenumber: 109

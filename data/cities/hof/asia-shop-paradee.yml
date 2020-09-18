@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.318044300000004
 longitude: 11.9146631
-postcode: 95028
+postcode: "95028"
 city: Hof
 street: "Marienstraße"
 housenumber: 11

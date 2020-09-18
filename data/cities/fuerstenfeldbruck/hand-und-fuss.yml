@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.1760103
 longitude: 11.2571358
-postcode: 82256
+postcode: "82256"
 city: Fürstenfeldbruck
 street: "Münchner Straße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 48.281662600000004
 longitude: 10.885650400000001
-postcode: 86343
+postcode: "86343"
 city: Königsbrunn
 street: "Augsburger Straße"
 housenumber: 27

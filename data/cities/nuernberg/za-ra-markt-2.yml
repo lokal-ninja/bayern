@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.4716389
 longitude: 11.1031721
-postcode: 90491
+postcode: "90491"
 city: Nürnberg
 street: "Leipziger Platz"
 housenumber: 1-3

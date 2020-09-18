@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.943740600000005
 longitude: 11.5729623
-postcode: 95444
+postcode: "95444"
 city: Bayreuth
 street: "Sophienstraße"
 housenumber: 16

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.447393000000005
 longitude: 11.0651265
-postcode: 90443
+postcode: "90443"
 city: Nürnberg
 street: "Gostenhofer Hauptstraße"
 housenumber: 10

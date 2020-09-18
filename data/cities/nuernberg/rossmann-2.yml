@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.460196100000005
 longitude: 11.0584646
-postcode: 90419
+postcode: "90419"
 city: Nürnberg
 street: "Johannisstraße"
 housenumber: 84

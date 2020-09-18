@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 48.246814400000005
 longitude: 10.798222
-postcode: 86517
+postcode: "86517"
 city: Wehringen
 street: "Singoldstraße"
 housenumber: 19a

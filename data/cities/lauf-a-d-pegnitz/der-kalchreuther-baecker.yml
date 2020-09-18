@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.505242
 longitude: 11.283571700000001
-postcode: 91207
+postcode: "91207"
 city: Lauf a.d.Pegnitz
 street: "Christof-Treu-Straße"
 housenumber: 2

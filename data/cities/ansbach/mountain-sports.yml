@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 49.302352500000005
 longitude: 10.5737579
-postcode: 91522
+postcode: "91522"
 city: Ansbach
 street: "Johann-Sebastian-Bach-Platz"
 housenumber: 16

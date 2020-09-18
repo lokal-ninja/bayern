@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.3068892
 longitude: 11.917220100000002
-postcode: 95032
+postcode: "95032"
 city: Hof
 street: "Hans-Böckler-Straße"
 housenumber: 21

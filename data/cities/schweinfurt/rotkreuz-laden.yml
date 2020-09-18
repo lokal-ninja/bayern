@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.0460104
 longitude: 10.2340675
-postcode: 97421
+postcode: "97421"
 city: Schweinfurt
 street: "Obere Straße"
 housenumber: 2

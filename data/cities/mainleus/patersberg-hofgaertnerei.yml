@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 50.1198058
 longitude: 11.3888335
-postcode: 95336
+postcode: "95336"
 city: Mainleus
 street: "Veitlahm"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 49.310270800000005
 longitude: 10.5589449
-postcode: 91522
+postcode: "91522"
 city: Ansbach
 street: "Würzburger Landstraße"
 housenumber: 53

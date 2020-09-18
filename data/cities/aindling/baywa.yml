@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.5151051
 longitude: 10.948656300000001
-postcode: 86447
+postcode: "86447"
 city: Aindling
 street: "Hauptstraße"
 housenumber: 37

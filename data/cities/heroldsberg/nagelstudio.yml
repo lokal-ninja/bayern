@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.527575500000005
 longitude: 11.163902
-postcode: 90562
+postcode: "90562"
 city: Heroldsberg
 street: "Schnaittacher Straße"
 housenumber: 14b

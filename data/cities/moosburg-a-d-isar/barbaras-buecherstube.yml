@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.4673864
 longitude: 11.9380644
-postcode: 85368
+postcode: "85368"
 city: Moosburg a.d. Isar
 street: "Auf dem Gries"
 housenumber: 6

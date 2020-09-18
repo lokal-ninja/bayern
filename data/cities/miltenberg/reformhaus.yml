@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.7016421
 longitude: 9.2583689
-postcode: 
+postcode: ""
 city: Miltenberg
 street: "Hauptstraße"
 housenumber: 53

@@ -3,7 +3,7 @@ type: node
 shop: Religion
 latitude: 49.9429645
 longitude: 11.5737755
-postcode: 95444
+postcode: "95444"
 city: Bayreuth
 street: "Sophienstraße"
 housenumber: 29

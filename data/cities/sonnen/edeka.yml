@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.6844042
 longitude: 13.723710500000001
-postcode: 94164
+postcode: "94164"
 city: Sonnen
 street: "Hauptstraße"
 housenumber: 7

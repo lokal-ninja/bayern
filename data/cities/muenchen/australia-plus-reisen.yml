@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.1176821
 longitude: 11.5258623
-postcode: 81373
+postcode: "81373"
 city: München
 street: "Partnachstraße"
 housenumber: 6

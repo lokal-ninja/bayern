@@ -3,7 +3,7 @@ type: way
 shop: Feinkost
 latitude: 49.2190615
 longitude: 12.666045700000002
-postcode: 93413
+postcode: "93413"
 city: Cham
 street: "Hafnerstraße"
 housenumber: 16

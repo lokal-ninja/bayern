@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 47.6397453
 longitude: 10.457395
-postcode: 87466
+postcode: "87466"
 city: Oy-Mittelberg
 street: "Naturparadies"
 housenumber: 1

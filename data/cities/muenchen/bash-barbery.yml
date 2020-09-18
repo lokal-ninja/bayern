@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.1481738
 longitude: 11.562499200000001
-postcode: 80333
+postcode: "80333"
 city: München
 street: "Augustenstraße"
 housenumber: 50

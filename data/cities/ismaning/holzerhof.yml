@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 48.2228523
 longitude: 11.668197200000002
-postcode: 85737
+postcode: "85737"
 city: Ismaning
 street: "Münchener Straße"
 housenumber: 70

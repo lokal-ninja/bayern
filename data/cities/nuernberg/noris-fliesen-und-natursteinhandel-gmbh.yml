@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 49.480661700000006
 longitude: 11.115078800000001
-postcode: 90411
+postcode: "90411"
 city: Nürnberg
 street: "Haeberleinstraße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.355139
 longitude: 10.7785344
-postcode: 86420
+postcode: "86420"
 city: Diedorf
 street: "Hauptstraße"
 housenumber: 21

@@ -1,12 +1,12 @@
-id: 6389528124
+id: 6386896329
 type: node
 shop: Wettbüro
-latitude: 48.145075600000006
-longitude: 11.559329100000001
-postcode: 80333
+latitude: 48.1524258
+longitude: 11.531346300000001
+postcode: "80634"
 city: München
-street: "Karlstraße"
-housenumber: 49
+street: "Wendl-Dietrich-Straße"
+housenumber: 5
 phone: ""
-opening_hours: "Mo-Sa 10:00-23:00; Su 11:00-23:00; PH closed"
-website: "https://www.tipico.de/"
+opening_hours: "Mo-Sa 11:00-22:30; Su,PH off"
+website: ""

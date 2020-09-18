@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.160798500000006
 longitude: 10.807476300000001
-postcode: 86836
+postcode: "86836"
 city: Untermeitingen
 street: "Lechfelder Straße"
 housenumber: 13b

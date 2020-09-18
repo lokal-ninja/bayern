@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.8343259
 longitude: 11.144394700000001
-postcode: 82362
+postcode: "82362"
 city: Weilheim in Oberbayern
 street: "Röntgenstraße"
 housenumber: 19-21

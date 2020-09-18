@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.449711400000005
 longitude: 11.0617049
-postcode: 90429
+postcode: "90429"
 city: Nürnberg
 street: "Fürther Straße"
 housenumber: 10

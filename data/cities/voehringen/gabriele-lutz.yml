@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.2771556
 longitude: 10.0776521
-postcode: 89269
+postcode: "89269"
 city: Vöhringen
 street: "Vöhlinstraße"
 housenumber: 5

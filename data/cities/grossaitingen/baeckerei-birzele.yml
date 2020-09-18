@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.227131400000005
 longitude: 10.7788368
-postcode: 86845
+postcode: "86845"
 city: Großaitingen
 street: "Reinhartshofer Straße"
 housenumber: 4

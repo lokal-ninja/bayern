@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 48.72449
 longitude: 10.777851
-postcode: 86609
+postcode: "86609"
 city: Donauwörth
 street: "Berger Allee"
 housenumber: 2

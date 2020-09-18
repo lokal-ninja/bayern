@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.0445732
 longitude: 11.964441
-postcode: 85567
+postcode: "85567"
 city: Grafing bei München
 street: "Gartenstraße"
 housenumber: 2

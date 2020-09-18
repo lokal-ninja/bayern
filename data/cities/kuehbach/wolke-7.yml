@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 48.495009
 longitude: 11.180058200000001
-postcode: 86556
+postcode: "86556"
 city: Kühbach
 street: "Dieselstraße"
 housenumber: 5

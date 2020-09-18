@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.095722900000005
 longitude: 11.495525
-postcode: 81476
+postcode: "81476"
 city: München
 street: "Winterthurer Straße"
 housenumber: 3

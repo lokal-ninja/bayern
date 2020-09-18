@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 49.4492984
 longitude: 11.068442600000001
-postcode: 90402
+postcode: "90402"
 city: Nürnberg
 street: "Ludwigstraße"
 housenumber: 46

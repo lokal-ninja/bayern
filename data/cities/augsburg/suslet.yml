@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.3702557
 longitude: 10.894393
-postcode: 86152
+postcode: "86152"
 city: Augsburg
 street: "Ludwigstraße"
 housenumber: 16

@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 49.441520800000006
 longitude: 11.056246600000001
-postcode: 90439
+postcode: "90439"
 city: Nürnberg
 street: "Schwabacher Straße"
 housenumber: 15

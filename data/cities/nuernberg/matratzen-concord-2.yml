@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 49.443258300000004
 longitude: 11.100037200000001
-postcode: 90478
+postcode: "90478"
 city: Nürnberg
 street: "Regensburger Straße"
 housenumber: 67

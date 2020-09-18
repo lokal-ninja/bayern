@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.4126648
 longitude: 10.2761869
-postcode: 87561
+postcode: "87561"
 city: Oberstdorf
 street: "Poststraße"
 housenumber: 10

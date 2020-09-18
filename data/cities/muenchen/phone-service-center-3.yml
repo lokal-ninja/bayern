@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 48.135741
 longitude: 11.5721065
-postcode: 80331
+postcode: "80331"
 city: München
 street: "Sendlinger Straße"
 housenumber: 7

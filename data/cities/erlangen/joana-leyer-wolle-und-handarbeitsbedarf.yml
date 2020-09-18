@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 49.595701000000005
 longitude: 11.0069511
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Friedrichstraße"
 housenumber: 4

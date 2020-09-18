@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.8696818
 longitude: 11.8295192
-postcode: 83629
+postcode: "83629"
 city: Weyarn
 street: "Esterndorfer Straße"
 housenumber: 2

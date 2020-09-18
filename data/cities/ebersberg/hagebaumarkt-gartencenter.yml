@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 48.0796611
 longitude: 11.984794500000001
-postcode: 85560
+postcode: "85560"
 city: Ebersberg
 street: "Langwied"
 housenumber: 2

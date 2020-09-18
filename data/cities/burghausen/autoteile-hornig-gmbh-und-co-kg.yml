@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 48.1727246
 longitude: 12.831346
-postcode: 84489
+postcode: "84489"
 city: Burghausen
 street: "Auer-von-Welsbach-Straße"
 housenumber: 1

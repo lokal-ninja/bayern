@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.182465300000004
 longitude: 11.529684900000001
-postcode: 80993
+postcode: "80993"
 city: München
 street: "Hanauer Straße"
 housenumber: 65-67

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.451638800000005
 longitude: 11.073372200000001
-postcode: 90403
+postcode: "90403"
 city: Nürnberg
 street: "Josephsplatz"
 housenumber: 10

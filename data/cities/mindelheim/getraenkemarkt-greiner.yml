@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 48.0522274
 longitude: 10.487974900000001
-postcode: 87719
+postcode: "87719"
 city: Mindelheim
 street: "Berliner Straße"
 housenumber: 1

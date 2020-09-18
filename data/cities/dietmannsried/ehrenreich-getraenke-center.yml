@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 47.8076262
 longitude: 10.2979813
-postcode: 87463
+postcode: "87463"
 city: Dietmannsried
 street: "Fuggerstraße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 48.3746328
 longitude: 10.9111863
-postcode: 86153
+postcode: "86153"
 city: Augsburg
 street: "Lechhauser Straße"
 housenumber: 19

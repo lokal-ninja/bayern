@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.268014300000004
 longitude: 10.8303305
-postcode: 86399
+postcode: "86399"
 city: Bobingen
 street: "Kirchplatz"
 housenumber: 2

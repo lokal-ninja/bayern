@@ -1,11 +1,11 @@
 id: 7264156047
 type: node
-shop: Supermarkt
+shop: Tiere
 latitude: 49.4561804
 longitude: 11.1238053
-postcode: 90482
+postcode: "90482"
 city: Nürnberg
-street: "Breitengraserstrasse"
+street: "Breitengraserstraße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Fr 07:00-17:00"

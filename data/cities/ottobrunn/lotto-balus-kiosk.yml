@@ -3,7 +3,7 @@ type: node
 shop: Zeitungen
 latitude: 48.064401600000004
 longitude: 11.663242100000001
-postcode: 85521
+postcode: "85521"
 city: Ottobrunn
 street: "Naupliaallee"
 housenumber: 12

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.753619
 longitude: 10.0282681
-postcode: 97288
+postcode: "97288"
 city: Theilheim
 street: "Brunnenstraße"
 housenumber: 2

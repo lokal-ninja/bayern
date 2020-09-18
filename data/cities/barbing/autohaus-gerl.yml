@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.9868997
 longitude: 12.312217
-postcode: 93092
+postcode: "93092"
 city: Barbing
 street: "Am Anger"
 housenumber: 2

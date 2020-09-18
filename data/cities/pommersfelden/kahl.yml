@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 49.766598200000004
 longitude: 10.8262563
-postcode: 96178
+postcode: "96178"
 city: Pommersfelden
 street: "Am Steinbruch"
 housenumber: 1

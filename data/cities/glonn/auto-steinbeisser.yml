@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.9900311
 longitude: 11.865129300000001
-postcode: 85625
+postcode: "85625"
 city: Glonn
 street: "Bahnhofstraße"
 housenumber: 11

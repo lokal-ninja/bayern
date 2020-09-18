@@ -1,12 +1,12 @@
-id: 98287212
-type: way
+id: 7902488640
+type: node
 shop: Blumen
-latitude: 49.482848100000005
-longitude: 11.1351397
-postcode: 90491
+latitude: 49.482769100000006
+longitude: 11.135324200000001
+postcode: "90491"
 city: Nürnberg
 street: "Stadenstraße"
 housenumber: 99
-phone: ""
-opening_hours: ""
+phone: "+49 911 592460"
+opening_hours: "Mo-Th 08:30-12:00,13:30-18:00; Tu 13:30-18:00; Fr 08:30-18:00; Sa 13:00-16:00"
 website: ""

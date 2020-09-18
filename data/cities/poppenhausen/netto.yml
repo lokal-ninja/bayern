@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.1052004
 longitude: 10.1448295
-postcode: 97490
+postcode: "97490"
 city: Poppenhausen
 street: "Hauptstraße"
 housenumber: 7

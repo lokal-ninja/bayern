@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.061157
 longitude: 9.406613
-postcode: 97833
+postcode: "97833"
 city: Habichsthal
 street: "Aubachstraße"
 housenumber: 13

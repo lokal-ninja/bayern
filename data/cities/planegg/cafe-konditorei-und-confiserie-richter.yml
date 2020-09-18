@@ -3,7 +3,7 @@ type: way
 shop: Süßwaren
 latitude: 48.104719
 longitude: 11.4152152
-postcode: 82152
+postcode: "82152"
 city: Planegg
 street: "Bahnhofstraße"
 housenumber: 47

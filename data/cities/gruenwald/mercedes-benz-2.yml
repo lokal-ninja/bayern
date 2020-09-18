@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.0479568
 longitude: 11.5308758
-postcode: 82031
+postcode: "82031"
 city: Grünwald
 street: "Südliche Münchner Straße"
 housenumber: 33

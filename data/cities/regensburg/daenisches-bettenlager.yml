@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 49.0073944
 longitude: 12.0623524
-postcode: 93051
+postcode: "93051"
 city: Regensburg
 street: "Doktor-Gessler-Straße"
 housenumber: 47

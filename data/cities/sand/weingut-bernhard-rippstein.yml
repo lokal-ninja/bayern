@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 49.992195
 longitude: 10.589935
-postcode: 97522
+postcode: "97522"
 city: Sand
 street: "Anger"
 housenumber: 14

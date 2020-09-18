@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.4619073
 longitude: 11.071618200000001
-postcode: 90419
+postcode: "90419"
 city: Nürnberg
 street: "Bucher Straße"
 housenumber: 41

@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 48.154025600000004
 longitude: 11.536189700000001
-postcode: 80634
+postcode: "80634"
 city: München
 street: "Frundsbergstraße"
 housenumber: 5

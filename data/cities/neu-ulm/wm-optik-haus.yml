@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.3959984
 longitude: 10.0010551
-postcode: 89231
+postcode: "89231"
 city: Neu-Ulm
 street: "Augsburger Straße"
 housenumber: 24

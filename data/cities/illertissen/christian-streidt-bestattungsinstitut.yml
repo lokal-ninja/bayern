@@ -3,7 +3,7 @@ type: way
 shop: Bestattungen
 latitude: 48.230588600000004
 longitude: 10.103155600000001
-postcode: 89257
+postcode: "89257"
 city: Illertissen
 street: "Einsteinring"
 housenumber: 13

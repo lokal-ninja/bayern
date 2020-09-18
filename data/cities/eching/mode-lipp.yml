@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.486376500000006
 longitude: 12.013221300000001
-postcode: 84174
+postcode: "84174"
 city: Eching
 street: "Strogenweg"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 48.537196800000004
 longitude: 12.151868400000001
-postcode: 84028
+postcode: "84028"
 city: Landshut
 street: "Altstadt"
 housenumber: 92

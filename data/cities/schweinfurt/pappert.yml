@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.061601200000005
 longitude: 10.1935009
-postcode: 97424
+postcode: "97424"
 city: Schweinfurt
 street: "Gretel-Baumbach-Straße"
 housenumber: 3

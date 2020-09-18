@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 49.5959208
 longitude: 11.002954200000001
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Calvinstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 49.0686942
 longitude: 10.320987
-postcode: 91550
+postcode: "91550"
 city: Dinkelsbühl
 street: "Nördlinger Straße"
 housenumber: 7

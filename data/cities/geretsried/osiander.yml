@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 47.874629000000006
 longitude: 11.465476800000001
-postcode: 82538
+postcode: "82538"
 city: Geretsried
 street: "Karl-Lederer-Platz"
 housenumber: 3

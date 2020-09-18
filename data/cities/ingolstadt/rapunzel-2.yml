@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.712642300000006
 longitude: 11.404161700000001
-postcode: 85051
+postcode: "85051"
 city: Ingolstadt
 street: "Wallmeisterstraße"
 housenumber: 2

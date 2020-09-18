@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsartikel
 latitude: 48.368054400000005
 longitude: 10.912832
-postcode: 86153
+postcode: "86153"
 city: Augsburg
 street: "Schäfflerbachstraße"
 housenumber: 1

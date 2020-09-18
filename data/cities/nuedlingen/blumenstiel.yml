@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 50.218717700000006
 longitude: 10.117362700000001
-postcode: 97720
+postcode: "97720"
 city: Nüdlingen
 street: "Kissinger Straße"
 housenumber: 60

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.2949714
 longitude: 11.082296900000001
-postcode: 91126
+postcode: "91126"
 city: Rednitzhembach
 street: "Rother Straße"
 housenumber: 44

@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 49.4502663
 longitude: 11.081693900000001
-postcode: 90402
+postcode: "90402"
 city: Nürnberg
 street: "Lorenzer Straße"
 housenumber: 19

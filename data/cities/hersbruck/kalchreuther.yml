@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.5110243
 longitude: 11.431211600000001
-postcode: 91217
+postcode: "91217"
 city: Hersbruck
 street: "Steingasse"
 housenumber: 5

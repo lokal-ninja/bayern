@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 49.6005194
 longitude: 11.003862
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Engelstraße"
 housenumber: 14

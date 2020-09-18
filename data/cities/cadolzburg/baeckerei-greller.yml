@@ -3,10 +3,10 @@ type: node
 shop: Bäckerei
 latitude: 49.457950800000006
 longitude: 10.854765800000001
-postcode: 90556
+postcode: "90556"
 city: Cadolzburg
 street: "Hindenburgstraße"
 housenumber: 17
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 05:30-18:00; Sa 06:30-12:30"
 website: ""

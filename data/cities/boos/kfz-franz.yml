@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.0712368
 longitude: 10.1901202
-postcode: 87737
+postcode: "87737"
 city: Boos
 street: "Rothweg"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Computer
 latitude: 49.2413972
 longitude: 10.603585200000001
-postcode: 91595
+postcode: "91595"
 city: Burgoberbach
 street: "Im Herrmannshof"
 housenumber: 1

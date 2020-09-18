@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.2731823
 longitude: 12.1506539
-postcode: 84405
+postcode: "84405"
 city: Dorfen
 street: "Unterer Markt"
 housenumber: 1

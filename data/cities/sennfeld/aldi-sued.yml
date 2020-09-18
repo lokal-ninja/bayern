@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.036903200000005
 longitude: 10.2485563
-postcode: 97526
+postcode: "97526"
 city: Sennfeld
 street: "August-Borsig-Straße"
 housenumber: 2

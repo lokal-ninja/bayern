@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.595324600000005
 longitude: 11.0050416
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Friedrichstraße"
 housenumber: 1

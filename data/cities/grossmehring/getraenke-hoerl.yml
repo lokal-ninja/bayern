@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.7660969
 longitude: 11.5338782
-postcode: 85098
+postcode: "85098"
 city: Großmehring
 street: "Starkstraße"
 housenumber: 5

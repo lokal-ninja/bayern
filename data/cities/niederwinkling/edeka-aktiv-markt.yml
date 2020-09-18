@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.8867703
 longitude: 12.7958338
-postcode: 94559
+postcode: "94559"
 city: Niederwinkling
 street: "Dorfplatz"
 housenumber: 2

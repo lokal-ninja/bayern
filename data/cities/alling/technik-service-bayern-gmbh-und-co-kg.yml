@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 48.1327896
 longitude: 11.292617700000001
-postcode: 82239
+postcode: "82239"
 city: Alling
 street: "Am Hartholz"
 housenumber: 29

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.5039342
 longitude: 11.440938200000002
-postcode: 91217
+postcode: "91217"
 city: Hersbruck
 street: "Happurger Straße"
 housenumber: 31

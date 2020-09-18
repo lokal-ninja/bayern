@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.1815372
 longitude: 11.254895300000001
-postcode: 82256
+postcode: "82256"
 city: Fürstenfeldbruck
 street: "Maisacher Straße"
 housenumber: 16

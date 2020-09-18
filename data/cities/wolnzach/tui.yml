@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.602830700000005
 longitude: 11.6248213
-postcode: 85283
+postcode: "85283"
 city: Wolnzach
 street: "Schloßhof"
 housenumber: 18

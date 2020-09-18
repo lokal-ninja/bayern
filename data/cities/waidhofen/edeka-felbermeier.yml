@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.580110100000006
 longitude: 11.3451071
-postcode: 86579
+postcode: "86579"
 city: Waidhofen
 street: "Ostendstraße"
 housenumber: 2

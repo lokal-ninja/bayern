@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.945063000000005
 longitude: 10.3057251
-postcode: 87724
+postcode: "87724"
 city: Ottobeuren
 street: "Johannes-Gutenberg-Straße"
 housenumber: 3b

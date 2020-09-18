@@ -3,7 +3,7 @@ type: way
 shop: Schmuck
 latitude: 47.840456700000004
 longitude: 12.982232000000002
-postcode: 83395
+postcode: "83395"
 city: Freilassing
 street: "Hauptstraße"
 housenumber: 3

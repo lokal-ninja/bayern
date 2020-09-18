@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 49.4634269
 longitude: 11.100658800000001
-postcode: 90491
+postcode: "90491"
 city: Nürnberg
 street: "Bismarckstraße"
 housenumber: 11

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.8994432
 longitude: 10.9031175
-postcode: 96052
+postcode: "96052"
 city: Bamberg
 street: "Pödeldorfer Straße"
 housenumber: 1

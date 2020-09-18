@@ -3,10 +3,10 @@ type: node
 shop: Friseur
 latitude: 48.3611682
 longitude: 10.8985739
-postcode: 86150
+postcode: "86150"
 city: Augsburg
 street: "Kitzenmarkt"
 housenumber: 16
-phone: ""
+phone: "+49 821 37410"
 opening_hours: ""
 website: ""

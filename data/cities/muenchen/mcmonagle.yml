@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.1369368
 longitude: 11.5796892
-postcode: 80331
+postcode: "80331"
 city: München
 street: "Ledererstraße"
 housenumber: 19

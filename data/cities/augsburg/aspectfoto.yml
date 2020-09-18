@@ -3,7 +3,7 @@ type: way
 shop: Foto
 latitude: 48.3110665
 longitude: 10.9065714
-postcode: 86179
+postcode: "86179"
 city: Augsburg
 street: "Landsberger Straße"
 housenumber: 43a

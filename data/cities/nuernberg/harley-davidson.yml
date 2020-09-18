@@ -3,7 +3,7 @@ type: node
 shop: Motorrad
 latitude: 49.4114452
 longitude: 11.1416462
-postcode: 90471
+postcode: "90471"
 city: Nürnberg
 street: "Kreuzburger Straße"
 housenumber: 1

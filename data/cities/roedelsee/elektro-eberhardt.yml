@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 49.7301014
 longitude: 10.2331997
-postcode: 97348
+postcode: "97348"
 city: Rödelsee
 street: "Rödelseer Weg"
 housenumber: 2

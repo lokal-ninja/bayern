@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 48.049587800000005
 longitude: 11.9649236
-postcode: 85567
+postcode: "85567"
 city: Grafing bei München
 street: "Münchener Straße"
 housenumber: 39

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.261009800000004
 longitude: 10.9662938
-postcode: 96450
+postcode: "96450"
 city: Coburg
 street: "Unterer Bürglaß"
 housenumber: 1

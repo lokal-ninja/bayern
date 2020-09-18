@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 49.795676300000004
 longitude: 9.9381727
-postcode: 97070
+postcode: "97070"
 city: Würzburg
 street: "Rüdigerstraße"
 housenumber: 3

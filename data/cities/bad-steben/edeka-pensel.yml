@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.3643263
 longitude: 11.647048400000001
-postcode: 95138
+postcode: "95138"
 city: Bad Steben
 street: "Höller Straße"
 housenumber: 4

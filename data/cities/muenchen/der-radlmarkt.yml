@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.1082904
 longitude: 11.6032189
-postcode: 81549
+postcode: "81549"
 city: München
 street: "Chiemgaustraße"
 housenumber: 142

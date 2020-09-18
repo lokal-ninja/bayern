@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 48.9601977
 longitude: 11.224784600000001
-postcode: 85131
+postcode: "85131"
 city: Pollenfeld
 street: "Jurastraße"
 housenumber: 1

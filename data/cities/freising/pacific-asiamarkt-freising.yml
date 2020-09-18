@@ -1,12 +1,12 @@
 id: 4016203900
 type: node
-shop: Supermarkt
+shop: Lebensmittel
 latitude: 48.403399400000005
 longitude: 11.749695800000001
-postcode: 85356
+postcode: "85356"
 city: Freising
 street: "General-von-Nagel-Straße"
 housenumber: 17
-phone: ""
-opening_hours: ""
+phone: "+49-8161-8063093"
+opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
 website: ""

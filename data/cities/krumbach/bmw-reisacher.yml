@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.249070700000004
 longitude: 10.364542100000001
-postcode: 86381
+postcode: "86381"
 city: Krumbach
 street: "Lichtensteinstraße"
 housenumber: 11

@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 49.459401400000004
 longitude: 12.418878600000001
-postcode: 92526
+postcode: "92526"
 city: Oberviechtach
 street: "Bahnhofstraße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.467629
 longitude: 11.935759800000001
-postcode: 85368
+postcode: "85368"
 city: Moosburg a.d. Isar
 street: "Herrnstraße"
 housenumber: 1,3

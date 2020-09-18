@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 47.9922082
 longitude: 11.561169000000001
-postcode: 82041
+postcode: "82041"
 city: Oberhaching
 street: ""
 housenumber: 2

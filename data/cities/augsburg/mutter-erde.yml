@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.3677471
 longitude: 10.9008935
-postcode: 86150
+postcode: "86150"
 city: Augsburg
 street: "Bauerntanzgäßchen"
 housenumber: 3

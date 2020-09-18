@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.3724713
 longitude: 10.186785500000001
-postcode: 91541
+postcode: "91541"
 city: Rothenburg ob der Tauber
 street: "Bensenstraße"
 housenumber: 17

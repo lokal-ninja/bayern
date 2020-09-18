@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.731932900000004
 longitude: 12.8826245
-postcode: 83435
+postcode: "83435"
 city: Bad Reichenhall
 street: "Bahnhofplatz"
 housenumber: 4

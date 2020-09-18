@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.6344718
 longitude: 11.1297776
-postcode: 91077
+postcode: "91077"
 city: Hetzles
 street: "Hintere Dorfstraße"
 housenumber: 26

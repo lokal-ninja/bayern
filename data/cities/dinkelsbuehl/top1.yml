@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 49.070618100000004
 longitude: 10.3283778
-postcode: 91550
+postcode: "91550"
 city: Dinkelsbühl
 street: "Von-Raumer-Straße"
 housenumber: 15

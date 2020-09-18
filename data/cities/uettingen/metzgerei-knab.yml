@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.79414310000001
 longitude: 9.7292495
-postcode: 97292
+postcode: "97292"
 city: Uettingen
 street: "Am Kirchplatz"
 housenumber: 2

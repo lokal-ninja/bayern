@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 48.44733170000001
 longitude: 11.137091100000001
-postcode: 86551
+postcode: "86551"
 city: Aichach
 street: "Rudolf-Diesel-Straße"
 housenumber: 2

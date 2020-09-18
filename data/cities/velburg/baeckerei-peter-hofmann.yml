@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.2337709
 longitude: 11.6706529
-postcode: 92355
+postcode: "92355"
 city: Velburg
 street: "Neumarkter Straße"
 housenumber: 1

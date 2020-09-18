@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.5915534
 longitude: 11.0077944
-postcode: 91052
+postcode: "91052"
 city: Erlangen
 street: "Rathausplatz"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.660355300000006
 longitude: 10.071343500000001
-postcode: 97199
+postcode: "97199"
 city: Ochsenfurt
 street: "Uffenheimer Straße"
 housenumber: 18

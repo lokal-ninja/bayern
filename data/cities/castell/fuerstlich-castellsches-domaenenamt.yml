@@ -3,7 +3,7 @@ type: way
 shop: Wein
 latitude: 49.741429800000006
 longitude: 10.3525784
-postcode: 97355
+postcode: "97355"
 city: Castell
 street: "Schlossplatz"
 housenumber: 5

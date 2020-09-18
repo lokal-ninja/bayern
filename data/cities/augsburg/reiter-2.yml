@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.367505900000005
 longitude: 10.8960869
-postcode: 86150
+postcode: "86150"
 city: Augsburg
 street: "Martin-Luther-Platz"
 housenumber: 6

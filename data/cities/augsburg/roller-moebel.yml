@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 48.4002423
 longitude: 10.8791902
-postcode: 86154
+postcode: "86154"
 city: Augsburg
 street: "Diedorfer Straße"
 housenumber: 9

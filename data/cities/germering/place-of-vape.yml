@@ -3,7 +3,7 @@ type: node
 shop: E-Zigaretten
 latitude: 48.1250915
 longitude: 11.3664863
-postcode: 82110
+postcode: "82110"
 city: Germering
 street: "Otto-Wagner-Straße"
 housenumber: 5

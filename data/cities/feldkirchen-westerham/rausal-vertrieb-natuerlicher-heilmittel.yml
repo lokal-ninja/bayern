@@ -3,7 +3,7 @@ type: node
 shop: Kräuter
 latitude: 47.9080151
 longitude: 11.8414541
-postcode: 83620
+postcode: "83620"
 city: Feldkirchen-Westerham
 street: "Westermeyerstraße"
 housenumber: 10

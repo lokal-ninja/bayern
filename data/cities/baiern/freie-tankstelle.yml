@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 47.9545186
 longitude: 11.9150836
-postcode: 85625
+postcode: "85625"
 city: Baiern
 street: "Glonner Straße"
 housenumber: 25

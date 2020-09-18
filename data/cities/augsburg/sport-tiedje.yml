@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 48.3549316
 longitude: 10.885582600000001
-postcode: 86159
+postcode: "86159"
 city: Augsburg
 street: "Gögginger Straße"
 housenumber: 49

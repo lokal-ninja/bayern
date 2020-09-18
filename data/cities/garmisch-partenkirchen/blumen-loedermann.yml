@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.4950982
 longitude: 11.1090403
-postcode: 82467
+postcode: "82467"
 city: Garmisch-Partenkirchen
 street: "Ludwigstraße"
 housenumber: 79

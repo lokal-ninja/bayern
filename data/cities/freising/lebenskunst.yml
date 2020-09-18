@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 48.401164400000006
 longitude: 11.7428912
-postcode: 85354
+postcode: "85354"
 city: Freising
 street: "Rindermarkt"
 housenumber: 11
-phone: ""
+phone: "+49-8161-4965050"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
 website: "http://www.bioladen-lebenskunst.de"

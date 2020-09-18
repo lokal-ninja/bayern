@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.4120159
 longitude: 11.134111200000001
-postcode: 90471
+postcode: "90471"
 city: Nürnberg
 street: "Thomas-Mann-Straße"
 housenumber: 50

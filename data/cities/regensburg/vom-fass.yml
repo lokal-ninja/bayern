@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 49.013167
 longitude: 12.052594000000001
-postcode: 93049
+postcode: "93049"
 city: Regensburg
 street: "Rennweg"
 housenumber: 12

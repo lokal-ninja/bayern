@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.1736127
 longitude: 12.727648700000001
-postcode: 84508
+postcode: "84508"
 city: Burgkirchen an der Alz
 street: "Altöttinger Straße"
 housenumber: 4

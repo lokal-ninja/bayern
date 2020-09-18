@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.147120400000006
 longitude: 11.421833000000001
-postcode: 81243
+postcode: "81243"
 city: München
 street: "Limesstraße"
 housenumber: 69

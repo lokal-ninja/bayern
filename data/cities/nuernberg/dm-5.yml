@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.518314800000006
 longitude: 11.032854700000001
-postcode: 90427
+postcode: "90427"
 city: Nürnberg
 street: "Lichtenfelser Straße"
 housenumber: 2a

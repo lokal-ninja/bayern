@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.975824700000004
 longitude: 9.1474685
-postcode: 63739
+postcode: "63739"
 city: Aschaffenburg
 street: "Herstallstraße"
 housenumber: 30

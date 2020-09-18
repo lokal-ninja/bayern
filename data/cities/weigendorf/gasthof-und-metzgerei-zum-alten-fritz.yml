@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.4897306
 longitude: 11.584739200000001
-postcode: 91249
+postcode: "91249"
 city: Weigendorf
 street: "Hauptstraße"
 housenumber: 39-41

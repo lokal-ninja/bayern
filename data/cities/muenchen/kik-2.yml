@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.094734200000005
 longitude: 11.642286700000001
-postcode: 81739
+postcode: "81739"
 city: München
 street: "Therese-Giehse-Allee"
 housenumber: 20

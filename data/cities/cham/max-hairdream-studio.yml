@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.203436800000006
 longitude: 12.6571327
-postcode: 93413
+postcode: "93413"
 city: Cham
 street: "Rodinger Straße"
 housenumber: 22

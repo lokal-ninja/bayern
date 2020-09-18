@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.9873185
 longitude: 11.867041100000002
-postcode: 85625
+postcode: "85625"
 city: Glonn
 street: "Prof.-Lebsche-Straße"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 49.851488100000005
 longitude: 9.0899128
-postcode: 63853
+postcode: "63853"
 city: Mömlingen
 street: "Frankenstraße"
 housenumber: 3

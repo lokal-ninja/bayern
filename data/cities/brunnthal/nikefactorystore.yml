@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.040496700000006
 longitude: 11.6623874
-postcode: 85649
+postcode: "85649"
 city: Brunnthal
 street: "Zusestraße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.105090000000004
 longitude: 11.7698847
-postcode: 85591
+postcode: "85591"
 city: Vaterstetten
 street: "Wendelsteinstraße"
 housenumber: 10

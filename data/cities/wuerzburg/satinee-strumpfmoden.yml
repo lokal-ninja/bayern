@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.799288000000004
 longitude: 9.934569600000001
-postcode: 97070
+postcode: "97070"
 city: Würzburg
 street: "Kaiserstraße"
 housenumber: 22

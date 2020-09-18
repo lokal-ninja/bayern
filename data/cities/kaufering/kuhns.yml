@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.080919300000005
 longitude: 10.858881700000001
-postcode: 86916
+postcode: "86916"
 city: Kaufering
 street: "Viktor-Frankl-Straße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 48.9806888
 longitude: 12.1907048
-postcode: 93073
+postcode: "93073"
 city: Neutraubling
 street: "Stettiner Straße"
 housenumber: 1

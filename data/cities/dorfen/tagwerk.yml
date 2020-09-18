@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.2692734
 longitude: 12.1552197
-postcode: 84405
+postcode: "84405"
 city: Dorfen
 street: "Rosenstraße"
 housenumber: 1

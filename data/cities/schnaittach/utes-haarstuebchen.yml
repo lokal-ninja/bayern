@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 49.5574394
 longitude: 11.339629200000001
-postcode: 91220
+postcode: "91220"
 city: Schnaittach
 street: "Nürnberger Straße"
 housenumber: 34

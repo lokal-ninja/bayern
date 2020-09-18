@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.574902300000005
 longitude: 13.415951300000001
-postcode: 94036
+postcode: "94036"
 city: Passau
 street: "Regensburger Straße"
 housenumber: 70

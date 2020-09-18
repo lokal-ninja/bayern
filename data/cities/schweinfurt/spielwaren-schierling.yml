@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 50.043895400000004
 longitude: 10.230373
-postcode: 97421
+postcode: "97421"
 city: Schweinfurt
 street: "Roßmarkt"
 housenumber: 3

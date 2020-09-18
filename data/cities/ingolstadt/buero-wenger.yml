@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 48.7663225
 longitude: 11.4227343
-postcode: 85049
+postcode: "85049"
 city: Ingolstadt
 street: "Harderstraße"
 housenumber: 11

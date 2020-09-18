@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 48.3395061
 longitude: 10.868189300000001
-postcode: 86199
+postcode: "86199"
 city: Augsburg
 street: "Bürgermeister-Aurnhammer-Straße"
 housenumber: 25

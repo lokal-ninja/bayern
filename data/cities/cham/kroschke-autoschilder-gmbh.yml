@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.2256626
 longitude: 12.672928
-postcode: 93413
+postcode: "93413"
 city: Cham
 street: "Osserstraße"
 housenumber: 6

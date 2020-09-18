@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.131027100000004
 longitude: 11.587889200000001
-postcode: 81669
+postcode: "81669"
 city: München
 street: "Lilienstraße"
 housenumber: 3-5

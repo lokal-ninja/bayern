@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.092789700000004
 longitude: 11.569411
-postcode: 81545
+postcode: "81545"
 city: München
 street: "Naupliastraße"
 housenumber: 105

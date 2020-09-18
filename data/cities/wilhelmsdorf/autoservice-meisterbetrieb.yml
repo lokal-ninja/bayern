@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.564533100000006
 longitude: 10.7300462
-postcode: 91489
+postcode: "91489"
 city: Wilhelmsdorf
 street: "Industriestraße"
 housenumber: 14

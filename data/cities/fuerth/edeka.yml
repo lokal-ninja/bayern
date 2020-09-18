@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.508701300000006
 longitude: 10.9769859
-postcode: 90765
+postcode: "90765"
 city: Fürth
 street: "Theodor-Heuss-Straße"
 housenumber: 1

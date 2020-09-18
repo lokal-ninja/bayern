@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.0840265
 longitude: 11.6761546
-postcode: 81739
+postcode: "81739"
 city: München
 street: "Putzbrunner Straße"
 housenumber: 266

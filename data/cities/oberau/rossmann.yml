@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.5606215
 longitude: 11.1276001
-postcode: 82496
+postcode: "82496"
 city: Oberau
 street: "Ettaler Straße"
 housenumber: 18f

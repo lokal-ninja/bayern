@@ -3,10 +3,10 @@ type: way
 shop: Friseur
 latitude: 48.3658924
 longitude: 10.0100333
-postcode: 89231
+postcode: "89231"
 city: Neu-Ulm
 street: "Memminger Straße"
 housenumber: 184a
-phone: "+49 731 / 87242"
+phone: "+49 731 87242"
 opening_hours: ""
 website: ""

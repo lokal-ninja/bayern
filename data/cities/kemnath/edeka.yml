@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.8693206
 longitude: 11.879203400000002
-postcode: 95478
+postcode: "95478"
 city: Kemnath
 street: "Bayreuther Straße"
 housenumber: 32

@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.979981
 longitude: 12.0650256
-postcode: 93080
+postcode: "93080"
 city: Pentling
 street: "Hölkeringer Straße"
 housenumber: 20

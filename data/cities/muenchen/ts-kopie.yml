@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 48.146277000000005
 longitude: 11.5703726
-postcode: 
+postcode: ""
 city: München
 street: "Barer Straße"
 housenumber: 32

@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 48.363828000000005
 longitude: 10.926882
-postcode: 86153
+postcode: "86153"
 city: Augsburg
 street: "Proviantbachstraße"
 housenumber: 30

@@ -3,7 +3,7 @@ type: node
 shop: Tee
 latitude: 49.508656200000004
 longitude: 11.429558400000001
-postcode: 91217
+postcode: "91217"
 city: Hersbruck
 street: "Martin-Luther-Straße"
 housenumber: 1

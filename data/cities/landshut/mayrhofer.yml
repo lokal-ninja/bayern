@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 48.540795
 longitude: 12.1617431
-postcode: 84028
+postcode: "84028"
 city: Landshut
 street: "Friedhofstraße"
 housenumber: 2

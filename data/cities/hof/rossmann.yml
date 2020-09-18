@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.318417800000006
 longitude: 11.9156449
-postcode: 95028
+postcode: "95028"
 city: Hof
 street: "Altstadt"
 housenumber: 6-8

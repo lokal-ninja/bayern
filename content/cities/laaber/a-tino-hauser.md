@@ -1,4 +1,4 @@
 ---
-title: "A.Tino Hauser"
+title: "A. Tino Hauser"
 url: /laaber/a-tino-hauser/
 ---

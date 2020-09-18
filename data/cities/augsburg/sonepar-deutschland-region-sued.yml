@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.345748300000004
 longitude: 10.8825002
-postcode: 86199
+postcode: "86199"
 city: Augsburg
 street: "Edisonstraße"
 housenumber: 4a

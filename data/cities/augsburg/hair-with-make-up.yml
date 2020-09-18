@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.372606600000005
 longitude: 10.893372000000001
-postcode: 86152
+postcode: "86152"
 city: Augsburg
 street: "Alte Gasse"
 housenumber: 1

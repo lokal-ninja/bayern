@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.0463095
 longitude: 11.1268212
-postcode: 91790
+postcode: "91790"
 city: Nennslingen
 street: "Weißenburger Straße"
 housenumber: 24

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.7697334
 longitude: 11.969176800000001
-postcode: 93352
+postcode: "93352"
 city: Rohr
 street: "Hauptstraße"
 housenumber: 33

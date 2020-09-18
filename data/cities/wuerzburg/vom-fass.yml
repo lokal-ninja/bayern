@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 49.7951374
 longitude: 9.931552
-postcode: 97070
+postcode: "97070"
 city: Würzburg
 street: "Eichhornstraße"
 housenumber: 3

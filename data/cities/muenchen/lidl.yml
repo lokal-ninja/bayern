@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.1327878
 longitude: 11.607855500000001
-postcode: 81675
+postcode: "81675"
 city: München
 street: "Kirchenstraße"
 housenumber: 86

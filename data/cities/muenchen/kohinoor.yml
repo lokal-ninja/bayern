@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.1381676
 longitude: 11.5635331
-postcode: 80336
+postcode: "80336"
 city: München
 street: "Adolf-Kolping-Straße"
 housenumber: 10

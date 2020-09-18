@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 50.260405000000006
 longitude: 10.963829500000001
-postcode: 96450
+postcode: "96450"
 city: Coburg
 street: "Mohrenstraße"
 housenumber: 32

@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 48.240693
 longitude: 12.6870557
-postcode: 84524
+postcode: "84524"
 city: Neuötting
 street: "Ludwigstraße"
 housenumber: 81

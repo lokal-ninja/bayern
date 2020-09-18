@@ -3,7 +3,7 @@ type: node
 shop: Pferde
 latitude: 48.2597224
 longitude: 12.69927
-postcode: 84543
+postcode: "84543"
 city: Winhöring
 street: "Gewerbestraße"
 housenumber: 22

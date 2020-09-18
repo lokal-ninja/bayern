@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.0748771
 longitude: 11.9663292
-postcode: 85560
+postcode: "85560"
 city: Ebersberg
 street: "Dr.-Wintrich-Straße"
 housenumber: 3

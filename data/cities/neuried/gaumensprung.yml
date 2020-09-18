@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 48.092664400000004
 longitude: 11.4645591
-postcode: 82061
+postcode: "82061"
 city: Neuried
 street: "Josef-Hunger-Weg"
 housenumber: 3

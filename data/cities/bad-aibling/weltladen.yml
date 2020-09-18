@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.8632399
 longitude: 12.007252000000001
-postcode: 83043
+postcode: "83043"
 city: Bad Aibling
 street: "Griesgasse"
 housenumber: 1

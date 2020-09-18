@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 48.321154400000005
 longitude: 11.761500100000001
-postcode: 85399
+postcode: "85399"
 city: Hallbergmoos
 street: "Am Süßbach"
 housenumber: 1

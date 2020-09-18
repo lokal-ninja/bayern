@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 48.510375800000006
 longitude: 11.030701800000001
-postcode: 86574
+postcode: "86574"
 city: Petersdorf
 street: "Eichenstraße"
 housenumber: 3

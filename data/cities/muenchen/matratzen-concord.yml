@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 48.110652
 longitude: 11.7137177
-postcode: 81827
+postcode: "81827"
 city: München
 street: "Wasserburger Landstraße"
 housenumber: 282

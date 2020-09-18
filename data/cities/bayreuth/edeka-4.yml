@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.958421300000005
 longitude: 11.5828719
-postcode: 95445
+postcode: "95445"
 city: Bayreuth
 street: "Gravenreutherstraße"
 housenumber: 19

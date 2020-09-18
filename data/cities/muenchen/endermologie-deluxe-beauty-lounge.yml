@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.155566500000006
 longitude: 11.613868700000001
-postcode: 81925
+postcode: "81925"
 city: München
 street: "Oberföhringer Straße"
 housenumber: 44

@@ -3,9 +3,9 @@ type: way
 shop: Möbel
 latitude: 48.031106900000005
 longitude: 11.205605100000001
-postcode: 82229
+postcode: "82229"
 city: Seefeld
-street: "Graf-Toerring-Straße"
+street: "Graf-Toerring-Seefeld-Straße"
 housenumber: 13
 phone: ""
 opening_hours: "Mo-Sa 10:00-18:00"

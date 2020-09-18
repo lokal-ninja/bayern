@@ -3,7 +3,7 @@ type: way
 shop: Tauchen
 latitude: 49.4721447
 longitude: 10.9553709
-postcode: 90768
+postcode: "90768"
 city: Fürth
 street: "Unterfürberger Straße"
 housenumber: 83

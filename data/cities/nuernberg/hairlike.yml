@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.458457100000004
 longitude: 11.128119400000001
-postcode: 90482
+postcode: "90482"
 city: Nürnberg
 street: "Ostendstraße"
 housenumber: 202

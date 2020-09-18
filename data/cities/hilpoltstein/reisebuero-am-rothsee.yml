@@ -3,10 +3,10 @@ type: node
 shop: Reisebüro
 latitude: 49.187979000000006
 longitude: 11.191627700000002
-postcode: 91161
+postcode: "91161"
 city: Hilpoltstein
 street: "Christoph-Sturm-Straße"
 housenumber: 14
-phone: "+49 917 4 976750"
-opening_hours: "Mo-Fr 10:00-18:00; Sa, Su, Ph off"
+phone: "+49 917 976750"
+opening_hours: "Mo-Fr 10:00-13:00, 14:00-18:00; Sa, Su, Ph off"
 website: "https://reisebuero-am-rothsee.de/"

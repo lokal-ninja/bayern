@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 47.855416500000004
 longitude: 12.344084
-postcode: 83209
+postcode: "83209"
 city: Prien am Chiemsee
 street: "Alte Rathausstraße"
 housenumber: 1

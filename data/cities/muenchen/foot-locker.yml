@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 48.1344373
 longitude: 11.5683056
-postcode: 80331
+postcode: "80331"
 city: München
 street: "Sendlinger Straße"
 housenumber: 58

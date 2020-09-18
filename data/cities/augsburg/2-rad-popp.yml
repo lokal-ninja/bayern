@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.2992648
 longitude: 10.900498200000001
-postcode: 86179
+postcode: "86179"
 city: Augsburg
 street: "Albert-Leidl-Straße"
 housenumber: 2

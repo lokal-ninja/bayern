@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.7483537
 longitude: 11.5379906
-postcode: 91257
+postcode: "91257"
 city: Pegnitz
 street: "Nürnberger Straße"
 housenumber: 24d

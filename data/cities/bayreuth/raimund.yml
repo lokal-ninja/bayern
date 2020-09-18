@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.9410673
 longitude: 11.5879778
-postcode: 95444
+postcode: "95444"
 city: Bayreuth
 street: "Wieland-Wagner-Straße"
 housenumber: 12

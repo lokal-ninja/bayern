@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.9495901
 longitude: 11.091123600000001
-postcode: 86911
+postcode: "86911"
 city: Dießen am Ammersee
 street: "Fritz-Winter-Straße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.1429276
 longitude: 11.556905100000002
-postcode: 80335
+postcode: "80335"
 city: München
 street: "Seidlstraße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.453484200000005
 longitude: 12.190381700000001
-postcode: 92507
+postcode: "92507"
 city: Nabburg
 street: "Angerweiher"
 housenumber: 3

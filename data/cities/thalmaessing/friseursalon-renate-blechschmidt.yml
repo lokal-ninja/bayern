@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 49.0879397
 longitude: 11.2213461
-postcode: 91177
+postcode: "91177"
 city: Thalmässing
 street: "Marktplatz"
 housenumber: 18

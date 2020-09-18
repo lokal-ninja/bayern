@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.1934577
 longitude: 11.2558643
-postcode: 82256
+postcode: "82256"
 city: Fürstenfeldbruck
 street: "Maisacher Straße"
 housenumber: 127

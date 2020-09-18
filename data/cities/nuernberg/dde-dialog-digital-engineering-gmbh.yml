@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 49.454754
 longitude: 11.093554600000001
-postcode: 90489
+postcode: "90489"
 city: Nürnberg
 street: "Wöhrder Hauptstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.00032
 longitude: 11.8465995
-postcode: 95686
+postcode: "95686"
 city: Fichtelberg
 street: "Bayreuther Straße"
 housenumber: 26

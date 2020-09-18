@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 48.139961400000004
 longitude: 11.492712500000001
-postcode: 80687
+postcode: "80687"
 city: München
 street: "Agnes-Bernauer-Straße"
 housenumber: 131

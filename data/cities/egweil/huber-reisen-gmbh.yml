@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.7880041
 longitude: 11.2281276
-postcode: 85116
+postcode: "85116"
 city: Egweil
 street: "Eichstätter Straße"
 housenumber: 23

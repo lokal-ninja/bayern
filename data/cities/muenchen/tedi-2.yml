@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 48.207941600000005
 longitude: 11.551993000000001
-postcode: 80935
+postcode: "80935"
 city: München
 street: "Weitlstraße"
 housenumber: 115

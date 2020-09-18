@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 48.538352100000004
 longitude: 10.9966199
-postcode: 86574
+postcode: "86574"
 city: Petersdorf
 street: "Axtstraße"
 housenumber: 14

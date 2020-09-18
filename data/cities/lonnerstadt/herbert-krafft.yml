@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.6982731
 longitude: 10.7675254
-postcode: 91475
+postcode: "91475"
 city: Lonnerstadt
 street: "Hauptstraße"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 49.4798185
 longitude: 10.9857698
-postcode: 90762
+postcode: "90762"
 city: Fürth
 street: "Königstraße"
 housenumber: 33

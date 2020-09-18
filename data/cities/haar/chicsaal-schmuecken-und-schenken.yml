@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 48.1103791
 longitude: 11.7311206
-postcode: 85540
+postcode: "85540"
 city: Haar
 street: "Bahnhofplatz"
 housenumber: 4f

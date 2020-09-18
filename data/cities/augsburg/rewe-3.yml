@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.369335400000004
 longitude: 10.910415
-postcode: 86153
+postcode: "86153"
 city: Augsburg
 street: "Jakoberwallstraße"
 housenumber: 9-11

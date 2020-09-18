@@ -3,7 +3,7 @@ type: way
 shop: Instrumente
 latitude: 49.117623300000005
 longitude: 10.7555569
-postcode: 91710
+postcode: "91710"
 city: Gunzenhausen
 street: "Nürnberger Straße"
 housenumber: 6

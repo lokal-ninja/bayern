@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 48.904842900000006
 longitude: 13.3927834
-postcode: 94566
+postcode: "94566"
 city: Riedlhütte
 street: "Riedlhütter Schleif"
 housenumber: 12

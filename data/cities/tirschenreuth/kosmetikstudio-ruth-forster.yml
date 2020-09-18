@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.8820819
 longitude: 12.3433136
-postcode: 95643
+postcode: "95643"
 city: Tirschenreuth
 street: "Planer Straße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.5398074
 longitude: 11.516380100000001
-postcode: 85276
+postcode: "85276"
 city: Pfaffenhofen a.d. Ilm
 street: "Raiffeisenstraße"
 housenumber: 32

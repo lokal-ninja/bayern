@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.3655662
 longitude: 11.1483322
-postcode: 86559
+postcode: "86559"
 city: Adelzhausen
 street: "Gewerbepark"
 housenumber: 17

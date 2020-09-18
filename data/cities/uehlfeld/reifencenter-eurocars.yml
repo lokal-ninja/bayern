@@ -3,7 +3,7 @@ type: node
 shop: Reifen
 latitude: 49.671794000000006
 longitude: 10.7239678
-postcode: 91486
+postcode: "91486"
 city: Uehlfeld
 street: "Hauptstraße"
 housenumber: 45

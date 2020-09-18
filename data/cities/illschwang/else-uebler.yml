@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.4504223
 longitude: 11.6841168
-postcode: 92278
+postcode: "92278"
 city: Illschwang
 street: "Hauptstraße"
 housenumber: 10

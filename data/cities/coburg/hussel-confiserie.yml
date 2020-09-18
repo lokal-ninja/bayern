@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 50.259182800000005
 longitude: 10.9647889
-postcode: 96450
+postcode: "96450"
 city: Coburg
 street: "Spitalgasse"
 housenumber: 15

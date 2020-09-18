@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.838914300000006
 longitude: 12.126277100000001
-postcode: 83026
+postcode: "83026"
 city: Rosenheim
 street: "Happinger Straße"
 housenumber: 74

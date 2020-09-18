@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.290095
 longitude: 11.5683918
-postcode: 85716
+postcode: "85716"
 city: Unterschleißheim
 street: "Landshuter Straße"
 housenumber: 11

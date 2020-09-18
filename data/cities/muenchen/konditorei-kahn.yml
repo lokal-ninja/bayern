@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.1497632
 longitude: 11.541129900000001
-postcode: 80636
+postcode: "80636"
 city: München
 street: "Blutenburgstraße"
 housenumber: 84

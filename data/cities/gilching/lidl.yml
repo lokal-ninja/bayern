@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.103869200000005
 longitude: 11.2963865
-postcode: 82205
+postcode: "82205"
 city: Gilching
 street: "Landsberger Straße"
 housenumber: 16

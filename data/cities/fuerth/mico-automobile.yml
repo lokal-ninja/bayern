@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.46001630000001
 longitude: 11.009546700000001
-postcode: 90763
+postcode: "90763"
 city: Fürth
 street: "Leyher Straße"
 housenumber: 89

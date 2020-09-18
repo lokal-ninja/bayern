@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.1355498
 longitude: 11.606110300000001
-postcode: 81675
+postcode: "81675"
 city: München
 street: "Einsteinstraße"
 housenumber: 84-86

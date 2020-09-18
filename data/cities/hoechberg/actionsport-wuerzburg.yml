@@ -3,7 +3,7 @@ type: node
 shop: Tauchen
 latitude: 49.7698255
 longitude: 9.8646322
-postcode: 97204
+postcode: "97204"
 city: Höchberg
 street: "Leibnizstraße"
 housenumber: 12

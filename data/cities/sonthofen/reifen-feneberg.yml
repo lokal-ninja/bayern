@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 47.5217034
 longitude: 10.2617884
-postcode: 87527
+postcode: "87527"
 city: Sonthofen
 street: "Albert-Schweitzer-Straße"
 housenumber: 6

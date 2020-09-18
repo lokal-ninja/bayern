@@ -3,7 +3,7 @@ type: node
 shop: Mieten
 latitude: 49.720644400000005
 longitude: 11.0584983
-postcode: 91301
+postcode: "91301"
 city: Forchheim
 street: "Hauptstraße"
 housenumber: 7

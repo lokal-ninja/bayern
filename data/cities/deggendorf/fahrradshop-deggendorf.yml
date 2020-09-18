@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.828904400000006
 longitude: 12.9631533
-postcode: 94469
+postcode: "94469"
 city: Deggendorf
 street: "Untere Vorstadt"
 housenumber: 10

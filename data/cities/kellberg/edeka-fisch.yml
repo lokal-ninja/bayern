@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.5937976
 longitude: 13.5510406
-postcode: 94136
+postcode: "94136"
 city: Kellberg
 street: "Kurpromenade"
 housenumber: 1a

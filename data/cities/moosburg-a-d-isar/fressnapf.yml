@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 48.465907400000006
 longitude: 11.9635075
-postcode: 85368
+postcode: "85368"
 city: Moosburg a.d. Isar
 street: "Degernpoint"
 housenumber: M2

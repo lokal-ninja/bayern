@@ -3,7 +3,7 @@ type: way
 shop: Wäscherei
 latitude: 48.0978962
 longitude: 11.417607700000001
-postcode: 82152
+postcode: "82152"
 city: Krailling
 street: "Gautinger Straße"
 housenumber: 17

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.232724100000006
 longitude: 10.7867583
-postcode: 86845
+postcode: "86845"
 city: Großaitingen
 street: "Am Wiesherrgottle"
 housenumber: 20

@@ -3,10 +3,10 @@ type: node
 shop: Fahrrad
 latitude: 48.093149800000006
 longitude: 11.8216202
-postcode: 85604
+postcode: "85604"
 city: Zorneding
 street: "Georg-Wimmer-Ring"
 housenumber: 5
 phone: ""
-opening_hours: ""
+opening_hours: "Tu-Fr 09:00-12:30,13:30-18:00; Sa 09:00-12:30"
 website: "http://www.zweirad-hofmann.de/"

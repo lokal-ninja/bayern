@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.854503300000005
 longitude: 12.1231177
-postcode: 83022
+postcode: "83022"
 city: Rosenheim
 street: "Herzog-Otto-Straße"
 housenumber: 6

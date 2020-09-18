@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.7080284
 longitude: 11.0092393
-postcode: 86666
+postcode: "86666"
 city: Burgheim
 street: "Gewerbering"
 housenumber: 2

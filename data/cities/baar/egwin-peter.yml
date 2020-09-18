@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 48.589392600000004
 longitude: 10.9615199
-postcode: 86674
+postcode: "86674"
 city: Baar
 street: "Sonnenweg"
 housenumber: 5

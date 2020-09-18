@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.73339360000001
 longitude: 12.754036300000001
-postcode: 94522
+postcode: "94522"
 city: Wallersdorf
 street: "Grabenweg"
 housenumber: 4

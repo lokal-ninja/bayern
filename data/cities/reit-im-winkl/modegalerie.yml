@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 47.6761113
 longitude: 12.471348800000001
-postcode: 83242
+postcode: "83242"
 city: Reit im Winkl
 street: "Weitseestraße"
 housenumber: 12

@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 49.2989064
 longitude: 10.4098248
-postcode: 91578
+postcode: "91578"
 city: Leutershausen
 street: "Untere Vorstadt"
 housenumber: 9

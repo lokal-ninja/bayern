@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.517894600000005
 longitude: 10.272047800000001
-postcode: 87527
+postcode: "87527"
 city: Sonthofen
 street: "Eichendorffstraße"
 housenumber: 11

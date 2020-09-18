@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.8113424
 longitude: 9.9759103
-postcode: 97076
+postcode: "97076"
 city: Würzburg
 street: "Industriestraße"
 housenumber: 1

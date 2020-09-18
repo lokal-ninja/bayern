@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.2046816
 longitude: 11.1554801
-postcode: 82291
+postcode: "82291"
 city: Mammendorf
 street: "Jesenwanger Straße"
 housenumber: 3

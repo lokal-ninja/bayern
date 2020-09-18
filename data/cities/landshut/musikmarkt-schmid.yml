@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 48.544533
 longitude: 12.147406700000001
-postcode: 84034
+postcode: "84034"
 city: Landshut
 street: "Stethaimerstraße"
 housenumber: 1

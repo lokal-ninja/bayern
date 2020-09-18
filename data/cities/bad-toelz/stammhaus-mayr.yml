@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 47.7609167
 longitude: 11.5577641
-postcode: 83646
+postcode: "83646"
 city: Bad Tölz
 street: "Marktstraße"
 housenumber: 7

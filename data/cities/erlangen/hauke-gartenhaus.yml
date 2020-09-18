@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.596373400000004
 longitude: 11.0075651
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Obere Karlstraße"
 housenumber: 1

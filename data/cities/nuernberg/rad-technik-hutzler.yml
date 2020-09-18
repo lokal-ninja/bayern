@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.466869700000004
 longitude: 11.1250038
-postcode: 90491
+postcode: "90491"
 city: Nürnberg
 street: "Äußere Sulzbacher Straße"
 housenumber: 173

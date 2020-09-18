@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.311586000000005
 longitude: 10.9023553
-postcode: 86179
+postcode: "86179"
 city: Augsburg
 street: "Neue Straße"
 housenumber: 23

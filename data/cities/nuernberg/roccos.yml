@@ -3,7 +3,7 @@ type: node
 shop: Leerstehend
 latitude: 49.4607183
 longitude: 11.082672500000001
-postcode: 90408
+postcode: "90408"
 city: Nürnberg
 street: "Pirckheimerstraße"
 housenumber: 68

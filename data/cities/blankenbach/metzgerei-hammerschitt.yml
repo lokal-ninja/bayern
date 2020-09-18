@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.0652642
 longitude: 9.231046800000001
-postcode: 63825
+postcode: "63825"
 city: Blankenbach
 street: "Bahnhofstraße"
 housenumber: 30

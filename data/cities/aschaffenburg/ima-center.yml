@@ -3,7 +3,7 @@ type: way
 shop: Werkzeuge
 latitude: 49.9646442
 longitude: 9.1729333
-postcode: 63743
+postcode: "63743"
 city: Aschaffenburg
 street: "Würzburger Straße"
 housenumber: 155

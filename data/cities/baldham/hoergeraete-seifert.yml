@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 48.0976091
 longitude: 11.7858374
-postcode: 85598
+postcode: "85598"
 city: Baldham
 street: "Bahnhofplatz"
 housenumber: 5

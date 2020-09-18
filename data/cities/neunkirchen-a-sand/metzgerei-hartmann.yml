@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 49.520251
 longitude: 11.3347143
-postcode: 91233
+postcode: "91233"
 city: Neunkirchen a.Sand
 street: "Seeäckerstraße"
 housenumber: 6a

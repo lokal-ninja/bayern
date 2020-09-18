@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.4493997
 longitude: 11.830420400000001
-postcode: 92224
+postcode: "92224"
 city: Amberg
 street: "Katharinenfriedhofstraße"
 housenumber: 39

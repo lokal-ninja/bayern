@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.575253100000005
 longitude: 13.4646346
-postcode: 94032
+postcode: "94032"
 city: Passau
 street: "Steinweg"
 housenumber: 10

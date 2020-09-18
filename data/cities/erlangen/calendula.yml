@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.5518342
 longitude: 11.0282522
-postcode: 91058
+postcode: "91058"
 city: Erlangen
 street: "Heuweg"
 housenumber: 9a

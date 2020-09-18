@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.377488
 longitude: 10.9041171
-postcode: 86153
+postcode: "86153"
 city: Augsburg
 street: "Bleichstraße"
 housenumber: 26

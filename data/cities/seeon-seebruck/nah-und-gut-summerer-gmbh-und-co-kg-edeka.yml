@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.9775191
 longitude: 12.464784100000001
-postcode: 83370
+postcode: "83370"
 city: Seeon-Seebruck
 street: "Am Schachfeld"
 housenumber: 2

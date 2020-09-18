@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 49.259720200000004
 longitude: 12.9697192
-postcode: 93453
+postcode: "93453"
 city: Neukirchen b. Hl. Blut
 street: "Marktstraße"
 housenumber: 7

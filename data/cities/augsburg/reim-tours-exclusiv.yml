@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.3609317
 longitude: 10.940609100000001
-postcode: 86163
+postcode: "86163"
 city: Augsburg
 street: "Tannheimer Straße"
 housenumber: 4

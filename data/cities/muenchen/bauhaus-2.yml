@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.1983076
 longitude: 11.6068099
-postcode: 80939
+postcode: "80939"
 city: München
 street: "Maria-Probst-Straße"
 housenumber: 50

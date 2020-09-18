@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.024719000000005
 longitude: 12.0616888
-postcode: 93049
+postcode: "93049"
 city: Regensburg
 street: "Agnesstraße"
 housenumber: 24

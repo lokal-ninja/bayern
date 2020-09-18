@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 48.8804244
 longitude: 12.5634308
-postcode: 94315
+postcode: "94315"
 city: Straubing
 street: "Zur Wieskapelle"
 housenumber: 4

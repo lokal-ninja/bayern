@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.510939
 longitude: 11.109493800000001
-postcode: 86570
+postcode: "86570"
 city: Inchenhofen
 street: "Antoniusweg"
 housenumber: 1

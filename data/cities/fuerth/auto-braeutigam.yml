@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.4546701
 longitude: 11.004294100000001
-postcode: 90763
+postcode: "90763"
 city: Fürth
 street: "Hans-Bornkessel-Straße"
 housenumber: 41

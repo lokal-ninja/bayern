@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 48.105069900000004
 longitude: 11.769947400000001
-postcode: 85591
+postcode: "85591"
 city: Vaterstetten
 street: "Wendelsteinstraße"
 housenumber: 10

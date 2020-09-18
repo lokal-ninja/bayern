@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.123695000000005
 longitude: 11.566813600000001
-postcode: 80469
+postcode: "80469"
 city: München
 street: "Auenstraße"
 housenumber: 84

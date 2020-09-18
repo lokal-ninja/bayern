@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 48.084602600000004
 longitude: 12.6409011
-postcode: 84558
+postcode: "84558"
 city: Kirchweidach
 street: "Feichtener Straße"
 housenumber: 2

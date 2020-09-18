@@ -3,7 +3,7 @@ type: node
 shop: Angeln
 latitude: 48.3159506
 longitude: 10.9105016
-postcode: 86179
+postcode: "86179"
 city: Augsburg
 street: "Arberstraße"
 housenumber: 1

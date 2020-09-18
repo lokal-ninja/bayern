@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.1553096
 longitude: 11.5108215
-postcode: 80639
+postcode: "80639"
 city: München
 street: "Romanplatz"
 housenumber: 

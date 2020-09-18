@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 49.586336800000005
 longitude: 11.005996600000001
-postcode: 91052
+postcode: "91052"
 city: Erlangen
 street: "Hilpertstraße"
 housenumber: 15

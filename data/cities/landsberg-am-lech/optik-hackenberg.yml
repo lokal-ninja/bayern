@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.0496284
 longitude: 10.877979
-postcode: 86899
+postcode: "86899"
 city: Landsberg am Lech
 street: "Alte Bergstraße"
 housenumber: 410

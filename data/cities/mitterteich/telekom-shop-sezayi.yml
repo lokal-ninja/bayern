@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 49.949652900000004
 longitude: 12.2418276
-postcode: 95666
+postcode: "95666"
 city: Mitterteich
 street: "Bahnhofstraße"
 housenumber: 8

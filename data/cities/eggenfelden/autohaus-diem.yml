@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.395462
 longitude: 12.7673377
-postcode: 84307
+postcode: "84307"
 city: Eggenfelden
 street: "Gerner Allee"
 housenumber: 2

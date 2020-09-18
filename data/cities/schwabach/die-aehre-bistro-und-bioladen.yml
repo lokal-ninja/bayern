@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.3289696
 longitude: 11.017364
-postcode: 91126
+postcode: "91126"
 city: Schwabach
 street: "Zöllnertorstraße"
 housenumber: 8

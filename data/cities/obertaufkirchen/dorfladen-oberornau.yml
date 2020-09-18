@@ -3,7 +3,7 @@ type: node
 shop: Dorfladen
 latitude: 48.2167869
 longitude: 12.243325800000001
-postcode: 84419
+postcode: "84419"
 city: Obertaufkirchen
 street: "Hauptstraße"
 housenumber: 20a

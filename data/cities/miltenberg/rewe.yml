@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.7048226
 longitude: 9.247205300000001
-postcode: 63897
+postcode: "63897"
 city: Miltenberg
 street: "Bischoffstraße"
 housenumber: 54

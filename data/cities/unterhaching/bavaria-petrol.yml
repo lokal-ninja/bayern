@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 48.0569828
 longitude: 11.5994378
-postcode: 82008
+postcode: "82008"
 city: Unterhaching
 street: "Grünwalder Weg"
 housenumber: 42

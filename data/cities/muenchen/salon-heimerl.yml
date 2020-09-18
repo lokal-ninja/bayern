@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.1676755
 longitude: 11.574152100000001
-postcode: 80804
+postcode: "80804"
 city: München
 street: "Belgradstraße"
 housenumber: 66

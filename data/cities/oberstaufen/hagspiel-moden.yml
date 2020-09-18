@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.5535081
 longitude: 10.021054600000001
-postcode: 87534
+postcode: "87534"
 city: Oberstaufen
 street: "Schloßstraße"
 housenumber: 5

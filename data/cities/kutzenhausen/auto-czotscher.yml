@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 48.3717077
 longitude: 10.7176259
-postcode: 86500
+postcode: "86500"
 city: Kutzenhausen
 street: "Biburger Straße"
 housenumber: 26

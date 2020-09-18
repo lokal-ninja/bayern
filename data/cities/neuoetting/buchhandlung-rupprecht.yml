@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.2408493
 longitude: 12.6861882
-postcode: 84524
+postcode: "84524"
 city: Neuötting
 street: "Ludwigstraße"
 housenumber: 65-67

@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.5877544
 longitude: 10.9770111
-postcode: 91056
+postcode: "91056"
 city: Erlangen
 street: "Neumühle"
 housenumber: 4

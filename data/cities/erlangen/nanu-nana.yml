@@ -3,7 +3,7 @@ type: way
 shop: Andenken
 latitude: 49.593203200000005
 longitude: 11.004306600000001
-postcode: 91052
+postcode: "91052"
 city: Erlangen
 street: "Nürnberger Straße"
 housenumber: 7

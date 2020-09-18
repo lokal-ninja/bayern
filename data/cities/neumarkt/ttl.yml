@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 49.298621000000004
 longitude: 11.467576900000001
-postcode: 92318
+postcode: "92318"
 city: Neumarkt
 street: "Dr.-Otto-Schedl-Straße"
 housenumber: 7

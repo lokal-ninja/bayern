@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.7608916
 longitude: 11.557675000000001
-postcode: 83646
+postcode: "83646"
 city: Bad Tölz
 street: "Marktstraße"
 housenumber: 5

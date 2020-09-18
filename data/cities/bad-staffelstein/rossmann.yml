@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.104685100000005
 longitude: 11.005121500000001
-postcode: 96231
+postcode: "96231"
 city: Bad Staffelstein
 street: "Horlachenstraße"
 housenumber: 2

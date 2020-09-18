@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.9102753
 longitude: 11.840557
-postcode: 83620
+postcode: "83620"
 city: Feldkirchen-Westerham
 street: "Münchener Straße"
 housenumber: 16

@@ -3,7 +3,7 @@ type: way
 shop: Konditorei
 latitude: 49.4899822
 longitude: 11.476355700000001
-postcode: 91230
+postcode: "91230"
 city: Happurg
 street: "Höhenweg"
 housenumber: 29

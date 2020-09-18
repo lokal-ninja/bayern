@@ -3,7 +3,7 @@ type: way
 shop: Kunst
 latitude: 48.152095800000005
 longitude: 11.5682144
-postcode: 80798
+postcode: "80798"
 city: München
 street: "Luisenstraße"
 housenumber: 66

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.986186800000006
 longitude: 10.216407400000001
-postcode: 97520
+postcode: "97520"
 city: Röthlein
 street: "Bäckertorstraße"
 housenumber: 

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.3764618
 longitude: 10.8366135
-postcode: 86391
+postcode: "86391"
 city: Stadtbergen
 street: "Ulmer Landstraße"
 housenumber: 350

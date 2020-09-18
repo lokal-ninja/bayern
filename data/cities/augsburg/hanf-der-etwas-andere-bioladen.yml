@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.3670406
 longitude: 10.886174
-postcode: 86150
+postcode: "86150"
 city: Augsburg
 street: "Viktoriastraße"
 housenumber: 3

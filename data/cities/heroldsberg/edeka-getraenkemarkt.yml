@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 49.527784700000005
 longitude: 11.1503416
-postcode: 90562
+postcode: "90562"
 city: Heroldsberg
 street: "Hauptstraße"
 housenumber: 

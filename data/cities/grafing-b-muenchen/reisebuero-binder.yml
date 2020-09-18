@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.045553600000005
 longitude: 11.963655300000001
-postcode: 85567
+postcode: "85567"
 city: Grafing b. München
 street: "Bahnhofstraße"
 housenumber: 9

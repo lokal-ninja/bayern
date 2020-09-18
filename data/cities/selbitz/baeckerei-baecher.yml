@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.3128602
 longitude: 11.7426808
-postcode: 95152
+postcode: "95152"
 city: Selbitz
 street: "Dorf"
 housenumber: 1

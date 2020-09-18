@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.0233677
 longitude: 11.7028055
-postcode: 85635
+postcode: "85635"
 city: Höhenkirchen-Siegertsbrunn
 street: "Sportplatzstraße"
 housenumber: 4

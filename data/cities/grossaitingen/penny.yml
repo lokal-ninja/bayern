@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.2335013
 longitude: 10.7858987
-postcode: 86845
+postcode: "86845"
 city: Großaitingen
 street: "Augsburger Straße"
 housenumber: 45

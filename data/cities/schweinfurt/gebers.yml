@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 50.043140300000005
 longitude: 10.227909
-postcode: 97421
+postcode: "97421"
 city: Schweinfurt
 street: "Jägersbrunnen"
 housenumber: 6

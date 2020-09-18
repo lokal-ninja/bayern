@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.4014085
 longitude: 10.880715100000002
-postcode: 86154
+postcode: "86154"
 city: Augsburg
 street: "Donauwörther Straße"
 housenumber: 258

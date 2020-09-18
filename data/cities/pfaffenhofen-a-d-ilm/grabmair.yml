@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.531804
 longitude: 11.507568200000001
-postcode: 85276
+postcode: "85276"
 city: Pfaffenhofen a.d. Ilm
 street: "Ingolstädter Straße"
 housenumber: 24

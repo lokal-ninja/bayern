@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.9805688
 longitude: 9.131992700000001
-postcode: 63739
+postcode: "63739"
 city: Aschaffenburg
 street: "Hanauer Straße"
 housenumber: 64

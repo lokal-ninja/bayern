@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 48.149569
 longitude: 11.5349836
-postcode: 80634
+postcode: "80634"
 city: München
 street: "Schulstraße"
 housenumber: 21

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.7387637
 longitude: 11.2144153
-postcode: 86633
+postcode: "86633"
 city: Neuburg an der Donau
 street: "Nördliche Grünauer Straße"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.2699318
 longitude: 10.8327766
-postcode: 86399
+postcode: "86399"
 city: Bobingen
 street: "Hochstraße"
 housenumber: 5b

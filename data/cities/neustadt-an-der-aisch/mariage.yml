@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 49.5789667
 longitude: 10.6059648
-postcode: 91413
+postcode: "91413"
 city: Neustadt an der Aisch
 street: "Wilhelmstraße"
 housenumber: 26

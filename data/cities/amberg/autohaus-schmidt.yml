@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.4735141
 longitude: 11.862404100000001
-postcode: 92224
+postcode: "92224"
 city: Amberg
 street: "Oberammersrichter Weg"
 housenumber: 23

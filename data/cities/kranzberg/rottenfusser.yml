@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 48.4057789
 longitude: 11.616076600000001
-postcode: 85402
+postcode: "85402"
 city: Kranzberg
 street: "Obere Dorfstraße"
 housenumber: 30

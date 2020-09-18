@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.377020200000004
 longitude: 10.1818795
-postcode: 91541
+postcode: "91541"
 city: Rothenburg ob der Tauber
 street: "Rödergasse"
 housenumber: 10

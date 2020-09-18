@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 48.3073211
 longitude: 10.912715200000001
-postcode: 86179
+postcode: "86179"
 city: Augsburg
 street: "Krankenhausstraße"
 housenumber: 9 1/2

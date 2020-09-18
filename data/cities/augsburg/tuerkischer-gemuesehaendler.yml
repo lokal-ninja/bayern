@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 48.3701117
 longitude: 10.907302000000001
-postcode: 86152
+postcode: "86152"
 city: Augsburg
 street: "Jakoberstraße"
 housenumber: 56

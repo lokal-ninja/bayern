@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.7928593
 longitude: 10.0227594
-postcode: 97228
+postcode: "97228"
 city: Rottendorf
 street: "Am Bremig"
 housenumber: 21

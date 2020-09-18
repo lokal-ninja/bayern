@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 50.3166414
 longitude: 11.685913600000001
-postcode: 95119
+postcode: "95119"
 city: Naila
 street: "Kalkofen"
 housenumber: 7

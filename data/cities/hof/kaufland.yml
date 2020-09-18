@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.3074718
 longitude: 11.9170821
-postcode: 95032
+postcode: "95032"
 city: Hof
 street: "Hans-Böckler-Straße"
 housenumber: 19

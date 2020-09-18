@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 48.1901315
 longitude: 11.615990100000001
-postcode: 80939
+postcode: "80939"
 city: München
 street: "Situlistraße"
 housenumber: 24

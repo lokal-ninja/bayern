@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.8438048
 longitude: 12.1119734
-postcode: 83026
+postcode: "83026"
 city: Rosenheim
 street: "Mangfallstraße"
 housenumber: 15

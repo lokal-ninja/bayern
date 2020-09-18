@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.470423700000005
 longitude: 10.9944612
-postcode: 90762
+postcode: "90762"
 city: Fürth
 street: "Gabelsbergerstraße"
 housenumber: 1

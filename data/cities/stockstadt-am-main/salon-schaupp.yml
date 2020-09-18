@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 49.978342100000006
 longitude: 9.0646447
-postcode: 63811
+postcode: "63811"
 city: Stockstadt am Main
 street: "Friedrich-Ebert-Straße"
 housenumber: 2a

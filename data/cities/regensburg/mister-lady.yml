@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.025138600000005
 longitude: 12.1166257
-postcode: 93059
+postcode: "93059"
 city: Regensburg
 street: "Weichser Weg"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.1728636
 longitude: 11.352741
-postcode: 82178
+postcode: "82178"
 city: Puchheim
 street: "Obere Lagerstraße"
 housenumber: 1-3

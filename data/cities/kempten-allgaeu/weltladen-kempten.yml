@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.726295
 longitude: 10.3137735
-postcode: 87435
+postcode: "87435"
 city: Kempten (Allgäu)
 street: "Promenadestraße"
 housenumber: 1

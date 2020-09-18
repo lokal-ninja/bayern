@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.69299710000001
 longitude: 12.1703331
-postcode: 92637
+postcode: "92637"
 city: Weiden i.d.OPf.
 street: "Hammerweg"
 housenumber: 81

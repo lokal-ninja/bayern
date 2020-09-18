@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 48.404135700000005
 longitude: 11.7470358
-postcode: 85354
+postcode: "85354"
 city: Freising
 street: "Mainburger Straße"
 housenumber: 15

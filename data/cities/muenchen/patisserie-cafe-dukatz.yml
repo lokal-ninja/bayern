@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.128483200000005
 longitude: 11.571126900000001
-postcode: 80469
+postcode: "80469"
 city: München
 street: "Klenzestraße"
 housenumber: 69

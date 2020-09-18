@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 48.7753403
 longitude: 11.4174162
-postcode: 85057
+postcode: "85057"
 city: Ingolstadt
 street: "Ettinger Straße"
 housenumber: 24

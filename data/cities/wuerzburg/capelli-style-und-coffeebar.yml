@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.7867109
 longitude: 9.9313865
-postcode: 97070
+postcode: "97070"
 city: Würzburg
 street: "Sanderring"
 housenumber: 12

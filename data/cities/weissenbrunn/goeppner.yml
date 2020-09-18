@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.203515700000004
 longitude: 11.3047486
-postcode: 96369
+postcode: "96369"
 city: Weißenbrunn
 street: "Dorfplatz"
 housenumber: 2

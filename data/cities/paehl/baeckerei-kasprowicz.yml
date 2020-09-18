@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.930235200000006
 longitude: 11.1541935
-postcode: 82396
+postcode: "82396"
 city: Pähl
 street: "Herrschinger Straße"
 housenumber: 16

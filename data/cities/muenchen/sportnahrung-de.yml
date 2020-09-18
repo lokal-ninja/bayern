@@ -3,7 +3,7 @@ type: way
 shop: Nahrungsergänzung
 latitude: 48.183002200000004
 longitude: 11.5299486
-postcode: 80993
+postcode: "80993"
 city: München
 street: "Hanauer Straße"
 housenumber: 71

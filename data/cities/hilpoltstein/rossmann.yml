@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.1865947
 longitude: 11.1864354
-postcode: 91161
+postcode: "91161"
 city: Hilpoltstein
 street: "Industriestraße"
 housenumber: 10a

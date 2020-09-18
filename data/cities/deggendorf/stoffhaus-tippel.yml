@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.836388400000004
 longitude: 12.9615837
-postcode: 94469
+postcode: "94469"
 city: Deggendorf
 street: "Graflinger Straße"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 48.371923300000006
 longitude: 10.9107499
-postcode: 86153
+postcode: "86153"
 city: Augsburg
 street: "Lechhauser Straße"
 housenumber: 10

@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 50.004708400000005
 longitude: 9.203232
-postcode: 63768
+postcode: "63768"
 city: Hösbach
 street: "Schöllkrippener Straße"
 housenumber: 26

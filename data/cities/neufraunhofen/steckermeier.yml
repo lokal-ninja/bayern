@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.3937748
 longitude: 12.2210195
-postcode: 84181
+postcode: "84181"
 city: Neufraunhofen
 street: "Kobl"
 housenumber: 2

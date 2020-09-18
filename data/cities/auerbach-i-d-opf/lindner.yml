@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 49.6929414
 longitude: 11.629326500000001
-postcode: 91275
+postcode: "91275"
 city: Auerbach i.d.OPf.
 street: "Unterer Markt"
 housenumber: 3

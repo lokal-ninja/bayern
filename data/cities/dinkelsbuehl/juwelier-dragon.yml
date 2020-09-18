@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 49.069059200000005
 longitude: 10.3185994
-postcode: 91550
+postcode: "91550"
 city: Dinkelsbühl
 street: "Segringer Straße"
 housenumber: 9

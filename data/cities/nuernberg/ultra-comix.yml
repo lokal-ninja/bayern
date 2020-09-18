@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 49.448491100000005
 longitude: 11.0780238
-postcode: 90402
+postcode: "90402"
 city: Nürnberg
 street: "Vordere Sterngasse"
 housenumber: 2

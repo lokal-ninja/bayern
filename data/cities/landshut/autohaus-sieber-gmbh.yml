@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.536081100000004
 longitude: 12.1211249
-postcode: 84034
+postcode: "84034"
 city: Landshut
 street: "Watzmannstraße"
 housenumber: 54

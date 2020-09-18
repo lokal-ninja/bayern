@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 49.6715881
 longitude: 10.7282285
-postcode: 91486
+postcode: "91486"
 city: Uehlfeld
 street: "Mühlenstraße"
 housenumber: 10

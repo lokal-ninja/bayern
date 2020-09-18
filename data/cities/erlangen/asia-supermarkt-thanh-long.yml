@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.596867800000005
 longitude: 11.005767200000001
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Universitätsstraße"
 housenumber: 9

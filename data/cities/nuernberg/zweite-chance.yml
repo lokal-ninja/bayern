@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 49.4461396
 longitude: 11.0629354
-postcode: 90443
+postcode: "90443"
 city: Nürnberg
 street: "Gostenhofer Hauptstraße"
 housenumber: 53

@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 48.148992400000004
 longitude: 11.789872200000001
-postcode: 85599
+postcode: "85599"
 city: Vaterstetten
 street: "Taxetstraße"
 housenumber: 1

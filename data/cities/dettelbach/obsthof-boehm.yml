@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 49.7971936
 longitude: 10.080804800000001
-postcode: 97337
+postcode: "97337"
 city: Dettelbach
 street: "Rottendorfer Straße"
 housenumber: 6

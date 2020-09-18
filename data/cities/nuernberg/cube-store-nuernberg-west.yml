@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.4454525
 longitude: 11.006943900000001
-postcode: 90431
+postcode: "90431"
 city: Nürnberg
 street: "Sigmundstraße"
 housenumber: 180

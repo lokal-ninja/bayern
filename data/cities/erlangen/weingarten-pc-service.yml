@@ -3,7 +3,7 @@ type: way
 shop: Computer
 latitude: 49.587165500000005
 longitude: 11.0077502
-postcode: 91052
+postcode: "91052"
 city: Erlangen
 street: "Nürnberger Straße"
 housenumber: 88

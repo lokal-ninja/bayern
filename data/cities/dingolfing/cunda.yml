@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 48.6290904
 longitude: 12.4974272
-postcode: 84130
+postcode: "84130"
 city: Dingolfing
 street: "Bruckstraße"
 housenumber: 5

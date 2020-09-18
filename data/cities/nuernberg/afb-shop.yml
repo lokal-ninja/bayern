@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 49.441456
 longitude: 11.074020800000001
-postcode: 90443
+postcode: "90443"
 city: Nürnberg
 street: "Peter-Henlein-Straße"
 housenumber: 27

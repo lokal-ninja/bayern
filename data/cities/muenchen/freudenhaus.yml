@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.159475500000006
 longitude: 11.584817900000001
-postcode: 80801
+postcode: "80801"
 city: München
 street: "Hohenzollernstraße"
 housenumber: 4

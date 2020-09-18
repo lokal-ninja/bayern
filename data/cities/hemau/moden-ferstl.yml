@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.0510901
 longitude: 11.7839919
-postcode: 93155
+postcode: "93155"
 city: Hemau
 street: "Unterer Stadtplatz"
 housenumber: 5

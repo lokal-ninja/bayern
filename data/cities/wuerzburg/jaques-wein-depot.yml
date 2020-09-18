@@ -3,7 +3,7 @@ type: way
 shop: Wein
 latitude: 49.787629800000005
 longitude: 9.921756100000001
-postcode: 97082
+postcode: "97082"
 city: Würzburg
 street: "Leistenstraße"
 housenumber: 15

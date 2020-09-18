@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.359163200000005
 longitude: 10.8891504
-postcode: 86159
+postcode: "86159"
 city: Augsburg
 street: "Gögginger Straße"
 housenumber: 9 1/2

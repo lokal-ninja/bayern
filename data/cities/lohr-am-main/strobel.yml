@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.990573000000005
 longitude: 9.583938
-postcode: 97816
+postcode: "97816"
 city: Lohr am Main
 street: "Sendelbacher Straße"
 housenumber: 22

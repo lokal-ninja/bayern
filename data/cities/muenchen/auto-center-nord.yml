@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.2126024
 longitude: 11.5608774
-postcode: 80933
+postcode: "80933"
 city: München
 street: "Dülferstraße"
 housenumber: 3

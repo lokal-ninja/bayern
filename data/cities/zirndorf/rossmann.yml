@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.4415713
 longitude: 10.9619575
-postcode: 90513
+postcode: "90513"
 city: Zirndorf
 street: "Nürnberger Straße"
 housenumber: 29a

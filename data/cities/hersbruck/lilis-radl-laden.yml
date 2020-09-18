@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.5080887
 longitude: 11.431627500000001
-postcode: 91217
+postcode: "91217"
 city: Hersbruck
 street: "Martin-Luther-Straße"
 housenumber: 25

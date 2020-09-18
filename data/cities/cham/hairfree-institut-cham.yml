@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.226515500000005
 longitude: 12.671046100000002
-postcode: 93413
+postcode: "93413"
 city: Cham
 street: "Dr.-Karl-Stern-Straße"
 housenumber: 4

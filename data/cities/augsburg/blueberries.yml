@@ -3,7 +3,7 @@ type: node
 shop: Konditorei
 latitude: 48.3689258
 longitude: 10.9053912
-postcode: 86152
+postcode: "86152"
 city: Augsburg
 street: "Jakobsplatz"
 housenumber: 30

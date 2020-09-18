@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 48.1482996
 longitude: 11.5622275
-postcode: 80333
+postcode: "80333"
 city: München
 street: "Augustenstraße"
 housenumber: 39

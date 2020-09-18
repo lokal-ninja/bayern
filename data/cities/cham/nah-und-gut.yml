@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.213315
 longitude: 12.5814588
-postcode: 93413
+postcode: "93413"
 city: Cham
 street: "Untertraubenbach"
 housenumber: 32

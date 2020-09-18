@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 48.140498300000004
 longitude: 11.299379400000001
-postcode: 82239
+postcode: "82239"
 city: Alling
 street: "Gilchinger Straße"
 housenumber: 1

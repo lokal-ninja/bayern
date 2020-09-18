@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 49.5047153
 longitude: 11.741726300000002
-postcode: 92237
+postcode: "92237"
 city: Sulzbach-Rosenberg
 street: "Neutorgasse"
 housenumber: 14

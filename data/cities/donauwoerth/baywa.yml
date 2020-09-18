@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.7192093
 longitude: 10.7614172
-postcode: 86609
+postcode: "86609"
 city: Donauwörth
 street: "Neurieder Weg"
 housenumber: 30

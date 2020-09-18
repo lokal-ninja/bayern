@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.5618798
 longitude: 10.96162
-postcode: 91056
+postcode: "91056"
 city: Erlangen
 street: "Sylvaniastraße"
 housenumber: 14

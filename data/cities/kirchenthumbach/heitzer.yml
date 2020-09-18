@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.753800700000006
 longitude: 11.7269161
-postcode: 91281
+postcode: "91281"
 city: Kirchenthumbach
 street: "Bayreuther Straße"
 housenumber: 30

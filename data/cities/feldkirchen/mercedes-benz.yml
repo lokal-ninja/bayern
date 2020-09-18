@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.1416138
 longitude: 11.7361143
-postcode: 85622
+postcode: "85622"
 city: Feldkirchen
 street: "Otto-Lilienthal-Ring"
 housenumber: 18-20

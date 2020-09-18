@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 48.9953827
 longitude: 11.2108953
-postcode: 85135
+postcode: "85135"
 city: Titting
 street: "Marktstraße"
 housenumber: 10

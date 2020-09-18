@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 48.1595043
 longitude: 11.2216559
-postcode: 82256
+postcode: "82256"
 city: Fürstenfeldbruck
 street: "Industriestraße"
 housenumber: 19

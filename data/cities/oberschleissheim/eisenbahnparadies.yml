@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 48.2566331
 longitude: 11.556006
-postcode: 85764
+postcode: "85764"
 city: Oberschleißheim
 street: "Am Fohlengarten"
 housenumber: 108

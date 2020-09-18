@@ -3,7 +3,7 @@ type: way
 shop: Handy
 latitude: 49.592390800000004
 longitude: 11.0046944
-postcode: 91052
+postcode: "91052"
 city: Erlangen
 street: "Nürnberger Straße"
 housenumber: 7

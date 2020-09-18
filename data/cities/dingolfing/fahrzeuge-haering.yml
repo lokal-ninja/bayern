@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.6371522
 longitude: 12.495807300000001
-postcode: 84130
+postcode: "84130"
 city: Dingolfing
 street: "Bahnhofstraße"
 housenumber: 28

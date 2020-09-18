@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.1298809
 longitude: 11.382584300000001
-postcode: 82110
+postcode: "82110"
 city: Germering
 street: "Hartstraße"
 housenumber: 102

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.334760900000006
 longitude: 11.9112355
-postcode: 95028
+postcode: "95028"
 city: Hof
 street: "Schleizer Straße"
 housenumber: 101

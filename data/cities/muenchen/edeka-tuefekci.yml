@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.0986999
 longitude: 11.65353
-postcode: 81737
+postcode: "81737"
 city: München
 street: "Sudermannallee"
 housenumber: 8

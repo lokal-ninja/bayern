@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.2518827
 longitude: 11.4419869
-postcode: 85221
+postcode: "85221"
 city: Dachau
 street: "Münchner Straße"
 housenumber: 52-54

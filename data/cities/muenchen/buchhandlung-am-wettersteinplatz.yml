@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.1094974
 longitude: 11.5757896
-postcode: 81547
+postcode: "81547"
 city: München
 street: "Wettersteinplatz"
 housenumber: 2

@@ -3,10 +3,10 @@ type: node
 shop: Drogerie
 latitude: 48.0767469
 longitude: 11.9701658
-postcode: 85560
+postcode: "85560"
 city: Ebersberg
 street: "Altstadtpassage"
 housenumber: 6
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: "Mo-Sa 07:00-20:00; PH off"
 website: ""

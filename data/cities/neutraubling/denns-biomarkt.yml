@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.9790969
 longitude: 12.1944344
-postcode: 93073
+postcode: "93073"
 city: Neutraubling
 street: "Pommernstraße"
 housenumber: 19

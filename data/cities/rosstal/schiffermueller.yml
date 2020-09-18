@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.3823006
 longitude: 10.9319375
-postcode: 90574
+postcode: "90574"
 city: Roßtal
 street: "Roßtaler Weg"
 housenumber: 3

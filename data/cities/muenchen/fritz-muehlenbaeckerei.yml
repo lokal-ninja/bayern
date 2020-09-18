@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.126761
 longitude: 11.59355
-postcode: 81669
+postcode: "81669"
 city: München
 street: "Rablstraße"
 housenumber: 38

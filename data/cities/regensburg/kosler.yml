@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.0136805
 longitude: 12.112734600000001
-postcode: 93055
+postcode: "93055"
 city: Regensburg
 street: "Greflingerstraße"
 housenumber: 15

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.955040700000005
 longitude: 10.909195
-postcode: 91757
+postcode: "91757"
 city: Treuchtlingen
 street: "Kanalstraße"
 housenumber: 2

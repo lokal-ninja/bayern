@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.6430676
 longitude: 12.4910429
-postcode: 84130
+postcode: "84130"
 city: Dingolfing
 street: "Kreuzstraße"
 housenumber: 9

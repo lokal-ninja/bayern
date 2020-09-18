@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.5882887
 longitude: 10.974398500000001
-postcode: 91056
+postcode: "91056"
 city: Erlangen
 street: "Schallershofer Straße"
 housenumber: 78

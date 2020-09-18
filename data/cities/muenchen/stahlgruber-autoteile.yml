@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 48.193774700000006
 longitude: 11.5955223
-postcode: 80939
+postcode: "80939"
 city: München
 street: "Margot-Kalinke-Straße"
 housenumber: 3

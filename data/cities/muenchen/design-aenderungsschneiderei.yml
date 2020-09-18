@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 48.082692900000005
 longitude: 11.484907900000001
-postcode: 81475
+postcode: "81475"
 city: München
 street: "Königswieser Straße"
 housenumber: 5

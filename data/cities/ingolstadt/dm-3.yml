@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.734602
 longitude: 11.4401094
-postcode: 85051
+postcode: "85051"
 city: Ingolstadt
 street: "Münchener Straße"
 housenumber: 186

@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 48.4702737
 longitude: 11.9627312
-postcode: 85368
+postcode: "85368"
 city: Moosburg a.d. Isar
-street: "Degernpoint"
-housenumber: 3
+street: ""
+housenumber: S 3
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 07:00-20:00; PH off"
 website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 49.459092000000005
 longitude: 11.0096141
-postcode: 90763
+postcode: "90763"
 city: Fürth
 street: "Waldstraße"
 housenumber: 99-105

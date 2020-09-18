@@ -3,10 +3,10 @@ type: node
 shop: Maschinen
 latitude: 48.4754379
 longitude: 11.9338805
-postcode: 85368
+postcode: "85368"
 city: Moosburg a.d. Isar
 street: "Driescherstraße"
 housenumber: 4
-phone: ""
+phone: "+49 8761 687-58"
 opening_hours: "Mo-Fr 08:00-12:00,13:00-17:00; Sa 08:00-12:00"
 website: "https://www.baywa.de/standort/moosburg/technik/"

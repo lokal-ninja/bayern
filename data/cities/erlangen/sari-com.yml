@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 49.5922409
 longitude: 11.0059807
-postcode: 91052
+postcode: "91052"
 city: Erlangen
 street: "Nürnberger Straße"
 housenumber: 30

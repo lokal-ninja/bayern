@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.789473
 longitude: 9.953955200000001
-postcode: 97074
+postcode: "97074"
 city: Würzburg
 street: "Meyer-Olbersleben-Straße"
 housenumber: 1

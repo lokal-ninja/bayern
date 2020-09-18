@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.3132755
 longitude: 10.058382400000001
-postcode: 89250
+postcode: "89250"
 city: Senden
 street: "Ferdinand-Lassalle-Weg"
 housenumber: 5

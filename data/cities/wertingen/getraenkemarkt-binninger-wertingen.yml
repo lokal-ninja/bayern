@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.5432633
 longitude: 10.6796015
-postcode: 86637
+postcode: "86637"
 city: Wertingen
 street: "Hettlinger Straße"
 housenumber: 14

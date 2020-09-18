@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.0676402
 longitude: 10.338376700000001
-postcode: 91550
+postcode: "91550"
 city: Dinkelsbühl
 street: "Breslauer Straße"
 housenumber: 4

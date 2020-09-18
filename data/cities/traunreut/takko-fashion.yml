@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.9644308
 longitude: 12.5859333
-postcode: 83301
+postcode: "83301"
 city: Traunreut
 street: "Traunring"
 housenumber: 4

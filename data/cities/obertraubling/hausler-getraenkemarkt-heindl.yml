@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.9718795
 longitude: 12.158765800000001
-postcode: 93083
+postcode: "93083"
 city: Obertraubling
 street: "Am Bergacker"
 housenumber: 

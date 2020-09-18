@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.8119145
 longitude: 9.9765862
-postcode: 97076
+postcode: "97076"
 city: Würzburg
 street: "Industriestraße"
 housenumber: 7

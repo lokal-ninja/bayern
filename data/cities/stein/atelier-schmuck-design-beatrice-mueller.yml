@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 49.4118178
 longitude: 11.009246300000001
-postcode: 90547
+postcode: "90547"
 city: Stein
 street: "Hauptstraße"
 housenumber: 51

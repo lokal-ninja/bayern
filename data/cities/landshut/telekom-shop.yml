@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.5566225
 longitude: 12.1543287
-postcode: 84030
+postcode: "84030"
 city: Landshut
 street: "Siemensstraße"
 housenumber: 24

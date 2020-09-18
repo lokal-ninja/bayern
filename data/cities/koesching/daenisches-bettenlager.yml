@@ -3,7 +3,7 @@ type: way
 shop: Betten
 latitude: 48.810825200000004
 longitude: 11.4881706
-postcode: 85092
+postcode: "85092"
 city: Kösching
 street: "Lentinger Straße"
 housenumber: 51

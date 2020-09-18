@@ -3,7 +3,7 @@ type: node
 shop: Staubsauger
 latitude: 49.0090243
 longitude: 12.1105456
-postcode: 93053
+postcode: "93053"
 city: Regensburg
 street: "Hermann-Geib-Straße"
 housenumber: 15

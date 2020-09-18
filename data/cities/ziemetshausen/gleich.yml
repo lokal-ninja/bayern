@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.2934842
 longitude: 10.5252622
-postcode: 86473
+postcode: "86473"
 city: Ziemetshausen
 street: "Friedhofstraße"
 housenumber: 10

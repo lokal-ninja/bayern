@@ -3,7 +3,7 @@ type: way
 shop: Warenhaus
 latitude: 48.880729200000005
 longitude: 12.570473000000002
-postcode: 94315
+postcode: "94315"
 city: Straubing
 street: "Steiner-Thor-Platz"
 housenumber: 1

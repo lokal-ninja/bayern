@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.3298591
 longitude: 10.9919159
-postcode: 91126
+postcode: "91126"
 city: Schwabach
 street: "Markgrafenstraße"
 housenumber: 17

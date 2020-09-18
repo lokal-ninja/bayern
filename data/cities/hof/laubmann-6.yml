@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.3052052
 longitude: 11.9196646
-postcode: 95032
+postcode: "95032"
 city: Hof
 street: "Wunsiedler Straße"
 housenumber: 9

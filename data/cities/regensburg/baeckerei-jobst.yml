@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.033962700000004
 longitude: 12.124163300000001
-postcode: 93057
+postcode: "93057"
 city: Regensburg
 street: "Isarstraße"
 housenumber: 45

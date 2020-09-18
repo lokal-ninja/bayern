@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.4447915
 longitude: 11.861677400000001
-postcode: 92224
+postcode: "92224"
 city: Amberg
 street: "Untere Nabburger Straße"
 housenumber: 27

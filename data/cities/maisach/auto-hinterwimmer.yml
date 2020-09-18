@@ -1,12 +1,12 @@
 id: 1339623697
 type: node
 shop: Autowerkstatt
-latitude: 48.2173625
-longitude: 11.263156400000002
-postcode: 82216
+latitude: 48.217607300000004
+longitude: 11.263179200000002
+postcode: "82216"
 city: Maisach
 street: "Hauptstraße"
 housenumber: 23b
-phone: ""
+phone: "+49 8141 5272733"
 opening_hours: ""
-website: "http://www.teilegigant.de/"
+website: "https://auto-hinterwimmer.de/"

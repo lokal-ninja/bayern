@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 48.2629122
 longitude: 11.469842400000001
-postcode: 85221
+postcode: "85221"
 city: Dachau
 street: "Fraunhoferstraße"
 housenumber: 1

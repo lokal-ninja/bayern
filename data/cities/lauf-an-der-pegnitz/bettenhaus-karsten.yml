@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 49.5117818
 longitude: 11.280649700000001
-postcode: 91207
+postcode: "91207"
 city: Lauf an der Pegnitz
 street: "Marktplatz"
 housenumber: 10

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.6600983
 longitude: 11.0972977
-postcode: 91090
+postcode: "91090"
 city: Effeltrich
 street: "Hauptstraße"
 housenumber: 21

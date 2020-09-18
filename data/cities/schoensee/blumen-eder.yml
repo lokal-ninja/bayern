@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.5114521
 longitude: 12.547904800000001
-postcode: 92539
+postcode: "92539"
 city: Schönsee
 street: "Am Graben"
 housenumber: 16 b

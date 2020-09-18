@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 50.1991402
 longitude: 10.782879600000001
-postcode: 96145
+postcode: "96145"
 city: Seßlach
 street: "Dorfstraße"
 housenumber: 8

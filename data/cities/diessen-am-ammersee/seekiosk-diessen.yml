@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 47.9497506
 longitude: 11.1089196
-postcode: 86911
+postcode: "86911"
 city: Dießen am Ammersee
 street: "Seestraße"
 housenumber: 31

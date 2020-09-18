@@ -1,12 +1,12 @@
-id: 499338957
+id: 112382688
 type: way
 shop: Supermarkt
-latitude: 48.122852
-longitude: 11.670407200000001
-postcode: 81825
+latitude: 48.166956600000006
+longitude: 11.5857861
+postcode: "80802"
 city: München
-street: "Hafelhofweg"
-housenumber: 5
+street: "Rheinstraße"
+housenumber: 1
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH closed"
-website: "https://basicbio.de"
+opening_hours: "Mo-Sa 08:00-20:00"
+website: ""

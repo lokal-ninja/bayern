@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.887573100000004
 longitude: 11.1976487
-postcode: 85072
+postcode: "85072"
 city: Eichstätt
 street: "Römerstraße"
 housenumber: 49

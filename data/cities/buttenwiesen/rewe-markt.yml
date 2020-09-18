@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.6010191
 longitude: 10.717771800000001
-postcode: 86647
+postcode: "86647"
 city: Buttenwiesen
 street: "Wertinger Straße"
 housenumber: 44

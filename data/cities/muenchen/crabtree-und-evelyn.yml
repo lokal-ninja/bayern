@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.1384278
 longitude: 11.5709367
-postcode: 80331
+postcode: "80331"
 city: München
 street: "Neuhauser Straße"
 housenumber: 2

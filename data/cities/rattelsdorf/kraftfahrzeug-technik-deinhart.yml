@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.0103911
 longitude: 10.885659200000001
-postcode: 96179
+postcode: "96179"
 city: Rattelsdorf
 street: "Bamberger Straße"
 housenumber: 9

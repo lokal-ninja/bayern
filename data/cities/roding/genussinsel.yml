@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.195696500000004
 longitude: 12.516952700000001
-postcode: 93426
+postcode: "93426"
 city: Roding
 street: "Schulstraße"
 housenumber: 9

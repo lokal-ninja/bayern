@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.765414
 longitude: 10.3426785
-postcode: 97355
+postcode: "97355"
 city: Rüdenhausen
 street: "Jahnstraße"
 housenumber: 4

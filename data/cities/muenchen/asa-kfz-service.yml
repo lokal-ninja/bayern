@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.2068628
 longitude: 11.5342125
-postcode: 80995
+postcode: "80995"
 city: München
 street: "Lerchenauer Straße"
 housenumber: 271

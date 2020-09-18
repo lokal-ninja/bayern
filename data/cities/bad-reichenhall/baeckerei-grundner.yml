@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.721735
 longitude: 12.8750408
-postcode: 83435
+postcode: "83435"
 city: Bad Reichenhall
 street: "Poststraße"
 housenumber: 7

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.2821396
 longitude: 10.798926400000001
-postcode: 91564
+postcode: "91564"
 city: Neuendettelsau
 street: "Reuther Straße"
 housenumber: 20

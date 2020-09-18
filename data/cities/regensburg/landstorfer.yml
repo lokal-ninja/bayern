@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.0582824
 longitude: 12.129869900000001
-postcode: 93057
+postcode: "93057"
 city: Regensburg
 street: "Münchberger Straße"
 housenumber: 2

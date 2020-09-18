@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 49.4475804
 longitude: 11.0716471
-postcode: 90402
+postcode: "90402"
 city: Nürnberg
 street: "Färberstraße"
 housenumber: 58

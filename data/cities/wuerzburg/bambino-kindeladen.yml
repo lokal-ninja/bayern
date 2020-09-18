@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 49.7971142
 longitude: 9.935066800000001
-postcode: 97070
+postcode: "97070"
 city: Würzburg
 street: "Textorstraße"
 housenumber: 18

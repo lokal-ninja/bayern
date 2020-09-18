@@ -3,7 +3,7 @@ type: node
 shop: Käse
 latitude: 48.168579900000005
 longitude: 11.3670445
-postcode: 82178
+postcode: "82178"
 city: Puchheim
 street: "Benzstraße"
 housenumber: 2

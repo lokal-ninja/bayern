@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.589986700000004
 longitude: 10.9998296
-postcode: 91052
+postcode: "91052"
 city: Erlangen
 street: "Michael-Vogel-Straße"
 housenumber: 1A

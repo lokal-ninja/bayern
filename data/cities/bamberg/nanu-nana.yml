@@ -3,10 +3,10 @@ type: node
 shop: Andenken
 latitude: 49.894865
 longitude: 10.890347
-postcode: 96047
+postcode: "96047"
 city: Bamberg
 street: "Hauptwachstraße"
 housenumber: 7
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 10:00-18:00"
 website: ""

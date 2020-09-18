@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.8393438
 longitude: 11.1404995
-postcode: 82362
+postcode: "82362"
 city: Weilheim in Oberbayern
 street: "Kreuzgasse"
 housenumber: 10

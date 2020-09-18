@@ -3,7 +3,7 @@ type: node
 shop: Konditorei
 latitude: 48.389805900000006
 longitude: 11.0154682
-postcode: 86453
+postcode: "86453"
 city: Dasing
 street: ""
 housenumber: 2

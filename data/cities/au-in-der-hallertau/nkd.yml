@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.564672800000004
 longitude: 11.741468600000001
-postcode: 84072
+postcode: "84072"
 city: Au in der Hallertau
 street: "Mainburger Straße"
 housenumber: 38

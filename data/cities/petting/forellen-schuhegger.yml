@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 47.9118274
 longitude: 12.8041303
-postcode: 83367
+postcode: "83367"
 city: Petting
 street: ""
 housenumber: 1

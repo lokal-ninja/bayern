@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.8393335
 longitude: 11.141649800000001
-postcode: 82362
+postcode: "82362"
 city: Weilheim in Oberbayern
 street: "Marienplatz"
 housenumber: 11

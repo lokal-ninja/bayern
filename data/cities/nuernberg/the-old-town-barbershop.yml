@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.4632203
 longitude: 11.0846503
-postcode: 90409
+postcode: "90409"
 city: Nürnberg
 street: "Goethestraße"
 housenumber: 20

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.456833
 longitude: 10.5935
-postcode: 90619
+postcode: "90619"
 city: Trautskirchen
 street: "Hans-Böckler-Straße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.997220600000006
 longitude: 12.3872081
-postcode: 93086
+postcode: "93086"
 city: Wörth an der Donau
 street: "Margaretenstraße"
 housenumber: 10

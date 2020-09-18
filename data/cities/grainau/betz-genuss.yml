@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 47.4766641
 longitude: 11.0233547
-postcode: 82491
+postcode: "82491"
 city: Grainau
 street: "Waxensteinstraße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.982826
 longitude: 11.9613454
-postcode: 93161
+postcode: "93161"
 city: Sinzing
 street: "Jurastraße"
 housenumber: 18

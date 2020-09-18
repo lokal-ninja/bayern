@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.370133
 longitude: 10.8472211
-postcode: 86391
+postcode: "86391"
 city: Stadtbergen
 street: "Hagenmähderstraße"
 housenumber: 14

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.77555520000001
 longitude: 12.875527
-postcode: 94447
+postcode: "94447"
 city: Plattling
 street: "Ludwigplatz"
 housenumber: 13

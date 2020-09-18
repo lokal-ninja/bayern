@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.1510156
 longitude: 11.7319711
-postcode: 85622
+postcode: "85622"
 city: Feldkirchen
 street: "Velaskostraße"
 housenumber: 2

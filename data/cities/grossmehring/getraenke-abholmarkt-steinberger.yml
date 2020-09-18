@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.768283600000004
 longitude: 11.5382136
-postcode: 85098
+postcode: "85098"
 city: Großmehring
 street: "Regensburger Straße"
 housenumber: 25

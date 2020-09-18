@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 50.0016133
 longitude: 9.2172591
-postcode: 63768
+postcode: "63768"
 city: Hösbach
 street: "Bahnstraße"
 housenumber: 100

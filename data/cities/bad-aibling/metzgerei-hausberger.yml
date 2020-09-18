@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 47.86550930000001
 longitude: 12.0110191
-postcode: 83043
+postcode: "83043"
 city: Bad Aibling
 street: "Kirchzeile"
 housenumber: 34

@@ -1,9 +1,9 @@
 id: 1723630391
 type: node
-shop: Lebensmittel
+shop: Allgemein
 latitude: 48.4086921
 longitude: 11.7681994
-postcode: 85356
+postcode: "85356"
 city: Freising
 street: "Tuchinger Straße"
 housenumber: 21

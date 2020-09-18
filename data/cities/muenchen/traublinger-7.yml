@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.124526800000005
 longitude: 11.613559500000001
-postcode: 81671
+postcode: "81671"
 city: München
 street: "Aschheimer Straße"
 housenumber: 1

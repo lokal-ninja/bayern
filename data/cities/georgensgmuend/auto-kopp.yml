@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.1922231
 longitude: 11.0231331
-postcode: 91166
+postcode: "91166"
 city: Georgensgmünd
 street: "Rednitzstraße"
 housenumber: 9

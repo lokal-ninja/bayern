@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 49.4379384
 longitude: 11.880244000000001
-postcode: 92224
+postcode: "92224"
 city: Amberg
 street: "Regensburger Straße"
 housenumber: 65

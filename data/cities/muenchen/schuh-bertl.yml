@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 48.1319388
 longitude: 11.580705
-postcode: 80469
+postcode: "80469"
 city: München
 street: "Kohlstraße"
 housenumber: 3

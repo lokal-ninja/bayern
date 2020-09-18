@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.8634344
 longitude: 10.040028600000001
-postcode: 97294
+postcode: "97294"
 city: Unterpleichfeld
 street: "An der Spielleite"
 housenumber: 1

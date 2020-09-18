@@ -3,7 +3,7 @@ type: way
 shop: Wein
 latitude: 48.5332683
 longitude: 12.150262600000001
-postcode: 84028
+postcode: "84028"
 city: Landshut
 street: "Altstadt"
 housenumber: 194

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.9985311
 longitude: 11.176844800000001
-postcode: 82211
+postcode: "82211"
 city: Herrsching am Ammersee
 street: "Mühlfelder Straße"
 housenumber: 1

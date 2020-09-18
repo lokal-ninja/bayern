@@ -1,12 +1,12 @@
-id: 3877485746
+id: 3877485744
 type: node
 shop: Getränke
-latitude: 48.167010000000005
-longitude: 11.5621696
-postcode: 
+latitude: 48.156007800000005
+longitude: 11.5753999
+postcode: "80801"
 city: München
-street: "Winzererstraße"
-housenumber: 134b
-phone: "+49 89 300 51 36"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 08:00-16:30"
-website: "https://www.orterer.de/"
+street: "Nordendstraße"
+housenumber: 32
+phone: ""
+opening_hours: "Mo-Fr 09:00-19:00; Sa 08:00-16:00; Ph off"
+website: ""

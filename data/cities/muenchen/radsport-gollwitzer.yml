@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.124219700000005
 longitude: 11.587548700000001
-postcode: 81541
+postcode: "81541"
 city: München
 street: "Regerplatz"
 housenumber: 4

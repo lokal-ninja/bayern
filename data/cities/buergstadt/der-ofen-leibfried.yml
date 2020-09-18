@@ -3,7 +3,7 @@ type: node
 shop: Kamine & Öfen
 latitude: 49.7068287
 longitude: 9.2666137
-postcode: 63927
+postcode: "63927"
 city: Bürgstadt
 street: "Friedenstraße"
 housenumber: 14

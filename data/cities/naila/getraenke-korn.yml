@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 50.3263533
 longitude: 11.6944233
-postcode: 95119
+postcode: "95119"
 city: Naila
 street: "Gustav-Adolf-Straße"
 housenumber: 18

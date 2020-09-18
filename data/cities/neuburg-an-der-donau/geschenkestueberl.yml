@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 48.7335488
 longitude: 11.1778356
-postcode: 86633
+postcode: "86633"
 city: Neuburg an der Donau
 street: "Franziskanerstraße"
 housenumber: B 203

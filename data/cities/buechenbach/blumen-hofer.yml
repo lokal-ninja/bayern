@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.267691400000004
 longitude: 11.0589569
-postcode: 91186
+postcode: "91186"
 city: Büchenbach
 street: "Obere Bahnhofstraße"
 housenumber: 35

@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 48.0606306
 longitude: 11.664600400000001
-postcode: 85521
+postcode: "85521"
 city: Ottobrunn
 street: "Rosenheimer Landstraße"
 housenumber: 75b

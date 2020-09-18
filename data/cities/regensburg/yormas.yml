@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.0121832
 longitude: 12.0997927
-postcode: 93047
+postcode: "93047"
 city: Regensburg
 street: "Bahnhofstraße"
 housenumber: 18

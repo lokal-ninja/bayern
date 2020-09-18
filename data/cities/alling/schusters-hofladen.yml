@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.1530435
 longitude: 11.259162400000001
-postcode: 82239
+postcode: "82239"
 city: Alling
 street: "Münchner Straße"
 housenumber: 2a

@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 49.9523103
 longitude: 12.244501000000001
-postcode: 95666
+postcode: "95666"
 city: Mitterteich
 street: "Oberer Marktplatz"
 housenumber: 9

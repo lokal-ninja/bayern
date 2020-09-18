@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.882945600000006
 longitude: 12.636258000000002
-postcode: 83278
+postcode: "83278"
 city: Traunstein
 street: "Windschnur"
 housenumber: 16

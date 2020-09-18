@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 49.6654135
 longitude: 12.1586493
-postcode: 92637
+postcode: "92637"
 city: Weiden i.d.OPf.
 street: "Obere Bauscherstraße"
 housenumber: 21

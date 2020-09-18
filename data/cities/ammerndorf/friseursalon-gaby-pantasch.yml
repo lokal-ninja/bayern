@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.424396400000006
 longitude: 10.8515914
-postcode: 90614
+postcode: "90614"
 city: Ammerndorf
 street: "Eichenstraße"
 housenumber: 47

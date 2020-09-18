@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 48.160484200000006
 longitude: 10.114014300000001
-postcode: 89281
+postcode: "89281"
 city: Altenstadt
 street: "Memminger Straße"
 housenumber: 58

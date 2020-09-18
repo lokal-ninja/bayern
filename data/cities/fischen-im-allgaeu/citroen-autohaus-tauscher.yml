@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.457058100000005
 longitude: 10.269494100000001
-postcode: 87538
+postcode: "87538"
 city: Fischen im Allgäu
 street: "Am Anger"
 housenumber: 20

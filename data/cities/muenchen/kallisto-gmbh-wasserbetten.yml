@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 48.137736200000006
 longitude: 11.454241600000001
-postcode: 81241
+postcode: "81241"
 city: München
 street: "Planegger Straße"
 housenumber: 48

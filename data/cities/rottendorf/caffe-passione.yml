@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 49.790283
 longitude: 10.032269000000001
-postcode: 97228
+postcode: "97228"
 city: Rottendorf
 street: "Zeppelinstraße"
 housenumber: 3

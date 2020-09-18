@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.7730613
 longitude: 12.017598000000001
-postcode: 83075
+postcode: "83075"
 city: Bad Feilnbach
 street: "Kufsteiner Straße"
 housenumber: 82

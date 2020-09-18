@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.4043654
 longitude: 11.747951200000001
-postcode: 85356
+postcode: "85356"
 city: Freising
 street: "Mainburger Straße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.17907
 longitude: 11.631544
-postcode: 85774
+postcode: "85774"
 city: Unterföhring
 street: "Feringastraße"
 housenumber: 2

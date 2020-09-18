@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.464812
 longitude: 10.724442
-postcode: 91452
+postcode: "91452"
 city: Wilhermsdorf
 street: ""
 housenumber: 45

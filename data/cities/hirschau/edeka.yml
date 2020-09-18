@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.54393880000001
 longitude: 11.949301
-postcode: 92242
+postcode: "92242"
 city: Hirschau
 street: "Georg-Schiffer-Straße"
 housenumber: 29

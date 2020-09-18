@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.078591800000005
 longitude: 11.968850600000001
-postcode: 85560
+postcode: "85560"
 city: Ebersberg
 street: "Eberhardstraße"
 housenumber: 2

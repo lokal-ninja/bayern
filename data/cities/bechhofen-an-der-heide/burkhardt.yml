@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.160477300000004
 longitude: 10.5650317
-postcode: 91572
+postcode: "91572"
 city: Bechhofen an der Heide
 street: "Rudolf-Diesel-Straße"
 housenumber: 1

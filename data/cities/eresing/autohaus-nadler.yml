@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.0881825
 longitude: 11.021942800000001
-postcode: 86922
+postcode: "86922"
 city: Eresing
 street: "Hauptstraße"
 housenumber: 27 b

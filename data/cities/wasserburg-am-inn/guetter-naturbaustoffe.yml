@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 48.0521326
 longitude: 12.220450900000001
-postcode: 83512
+postcode: "83512"
 city: Wasserburg am Inn
 street: "Rosenheimer Straße"
 housenumber: 18

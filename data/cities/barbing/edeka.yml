@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.9999587
 longitude: 12.195795100000002
-postcode: 93092
+postcode: "93092"
 city: Barbing
 street: ""
 housenumber: 

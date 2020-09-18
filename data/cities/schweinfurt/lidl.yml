@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.060688000000006
 longitude: 10.2328586
-postcode: 97422
+postcode: "97422"
 city: Schweinfurt
 street: "An der Turngemeinde"
 housenumber: 2

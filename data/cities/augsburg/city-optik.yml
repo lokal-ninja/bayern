@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.367024400000005
 longitude: 10.8989226
-postcode: 86150
+postcode: "86150"
 city: Augsburg
 street: "Maximilianstraße"
 housenumber: 35

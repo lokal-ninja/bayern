@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.1621326
 longitude: 11.588634
-postcode: 80802
+postcode: "80802"
 city: München
 street: "Marktstraße"
 housenumber: 10

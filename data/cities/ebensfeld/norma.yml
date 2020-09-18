@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.0699247
 longitude: 10.9644224
-postcode: 96250
+postcode: "96250"
 city: Ebensfeld
 street: "Dientzenhoferstraße"
 housenumber: 1

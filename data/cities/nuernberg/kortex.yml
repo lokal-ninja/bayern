@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 49.450319
 longitude: 11.0749086
-postcode: 90402
+postcode: "90402"
 city: Nürnberg
 street: "Brunnengasse"
 housenumber: 43

@@ -3,7 +3,7 @@ type: way
 shop: Betten
 latitude: 49.795431300000004
 longitude: 9.9899003
-postcode: 97076
+postcode: "97076"
 city: Würzburg
 street: "Gattingerstraße"
 housenumber: 15a

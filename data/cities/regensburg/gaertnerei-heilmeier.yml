@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.0399995
 longitude: 12.1016163
-postcode: 93057
+postcode: "93057"
 city: Regensburg
 street: "Amberger Straße"
 housenumber: 75

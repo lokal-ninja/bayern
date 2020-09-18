@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 48.2358807
 longitude: 10.374531000000001
-postcode: 86381
+postcode: "86381"
 city: Krumbach
 street: "Erwin-Bosch-Ring"
 housenumber: 4

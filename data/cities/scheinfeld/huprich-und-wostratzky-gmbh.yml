@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 49.6643272
 longitude: 10.461530400000001
-postcode: 91443
+postcode: "91443"
 city: Scheinfeld
 street: "Würzburger Straße"
 housenumber: 11

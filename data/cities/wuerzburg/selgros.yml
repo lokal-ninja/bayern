@@ -3,7 +3,7 @@ type: way
 shop: Großhandel
 latitude: 49.798356600000005
 longitude: 9.9889924
-postcode: 97076
+postcode: "97076"
 city: Würzburg
 street: "Nürnberger Straße"
 housenumber: 105

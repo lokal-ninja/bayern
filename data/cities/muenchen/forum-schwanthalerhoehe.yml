@@ -3,7 +3,7 @@ type: node
 shop: Einkaufszentrum
 latitude: 48.136749
 longitude: 11.5467236
-postcode: 80339
+postcode: "80339"
 city: München
 street: "Theresienhöhe"
 housenumber: 5

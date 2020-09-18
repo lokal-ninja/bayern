@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.143905000000004
 longitude: 11.0589917
-postcode: 96215
+postcode: "96215"
 city: Lichtenfels
 street: "Bamberger Straße"
 housenumber: 21

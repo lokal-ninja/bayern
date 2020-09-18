@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.9820712
 longitude: 12.1915277
-postcode: 93073
+postcode: "93073"
 city: Neutraubling
 street: "Pommernstraße"
 housenumber: 4

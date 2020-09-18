@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 48.1536045
 longitude: 11.576294800000001
-postcode: 80799
+postcode: "80799"
 city: München
 street: "Kurfürstenstraße"
 housenumber: 5

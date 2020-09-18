@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.7952443
 longitude: 9.7301534
-postcode: 97292
+postcode: "97292"
 city: Uettingen
 street: "Würzburger Straße"
 housenumber: 2a

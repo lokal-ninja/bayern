@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.6066786
 longitude: 11.565733100000001
-postcode: 85296
+postcode: "85296"
 city: Rohrbach
 street: "Waaler Straße"
 housenumber: 1a

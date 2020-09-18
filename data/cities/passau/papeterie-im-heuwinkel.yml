@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 48.575340000000004
 longitude: 13.46096
-postcode: 94032
+postcode: "94032"
 city: Passau
 street: "Heuwinkel"
 housenumber: 1

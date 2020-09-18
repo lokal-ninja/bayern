@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.2725134
 longitude: 10.963583400000001
-postcode: 96450
+postcode: "96450"
 city: Coburg
 street: "Rodacher Straße"
 housenumber: 10

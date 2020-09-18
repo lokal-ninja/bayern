@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 49.3737094
 longitude: 10.1805312
-postcode: 91541
+postcode: "91541"
 city: Rothenburg ob der Tauber
 street: "Spitalgasse"
 housenumber: 3

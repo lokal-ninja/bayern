@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 50.0808941
 longitude: 10.570687000000001
-postcode: 97486
+postcode: "97486"
 city: Königsberg in Bayern
 street: "Salzmarkt"
 housenumber: 10

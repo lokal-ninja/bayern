@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 48.580019
 longitude: 11.177384100000001
-postcode: 86529
+postcode: "86529"
 city: Schrobenhausen
 street: "Sankt-Peter-Straße"
 housenumber: 3

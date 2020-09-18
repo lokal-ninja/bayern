@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.308846700000004
 longitude: 10.1434093
-postcode: 89264
+postcode: "89264"
 city: Weißenhorn
 street: "Zeissstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.3834716
 longitude: 11.929466600000001
-postcode: 85459
+postcode: "85459"
 city: Berglern
 street: "Erdinger Straße"
 housenumber: 16

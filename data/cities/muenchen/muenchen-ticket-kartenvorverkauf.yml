@@ -3,7 +3,7 @@ type: node
 shop: Tickets
 latitude: 48.1418717
 longitude: 11.5037838
-postcode: 80687
+postcode: "80687"
 city: München
 street: "Fürstenrieder Straße"
 housenumber: 9

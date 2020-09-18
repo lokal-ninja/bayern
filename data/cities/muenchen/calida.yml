@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.1382283
 longitude: 11.574592
-postcode: 80331
+postcode: "80331"
 city: München
 street: "Frauenplatz"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.002067600000004
 longitude: 12.175452
-postcode: 93055
+postcode: "93055"
 city: Regensburg
 street: "Sulzfeldstraße"
 housenumber: 3

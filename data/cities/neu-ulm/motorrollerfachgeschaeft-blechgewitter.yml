@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 48.3953834
 longitude: 10.0107741
-postcode: 89231
+postcode: "89231"
 city: Neu-Ulm
 street: "Industriestraße"
 housenumber: 4

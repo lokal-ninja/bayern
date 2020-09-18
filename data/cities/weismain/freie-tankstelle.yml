@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 50.090318100000005
 longitude: 11.2386545
-postcode: 96260
+postcode: "96260"
 city: Weismain
 street: "Burgkunstadter Straße"
 housenumber: 68

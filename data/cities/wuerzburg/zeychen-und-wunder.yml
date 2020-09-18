@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 49.7878824
 longitude: 9.9314791
-postcode: 97070
+postcode: "97070"
 city: Würzburg
 street: "Sanderstraße"
 housenumber: 31

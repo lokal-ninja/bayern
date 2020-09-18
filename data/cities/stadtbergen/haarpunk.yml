@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.3641122
 longitude: 10.850742400000001
-postcode: 86391
+postcode: "86391"
 city: Stadtbergen
 street: "Oberer Stadtweg"
 housenumber: 50

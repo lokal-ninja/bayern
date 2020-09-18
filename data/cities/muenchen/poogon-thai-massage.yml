@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 48.095510600000004
 longitude: 11.5231253
-postcode: 81379
+postcode: "81379"
 city: München
 street: "Aidenbachstraße"
 housenumber: 78

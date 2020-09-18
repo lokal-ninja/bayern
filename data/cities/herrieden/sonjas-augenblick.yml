@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 49.233451800000005
 longitude: 10.497226000000001
-postcode: 91567
+postcode: "91567"
 city: Herrieden
 street: "Hintere Gasse"
 housenumber: 20

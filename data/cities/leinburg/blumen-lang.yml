@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.4500424
 longitude: 11.3081175
-postcode: 91227
+postcode: "91227"
 city: Leinburg
 street: "Marktplatz"
 housenumber: 4

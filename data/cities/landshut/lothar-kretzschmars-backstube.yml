@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.5452202
 longitude: 12.148828600000002
-postcode: 84034
+postcode: "84034"
 city: Landshut
 street: "Schwestergasse"
 housenumber: 2

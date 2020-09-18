@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.1156963
 longitude: 11.576695800000001
-postcode: 81539
+postcode: "81539"
 city: München
 street: "Martin-Luther-Straße"
 housenumber: 2

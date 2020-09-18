@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.3150441
 longitude: 9.800728900000001
-postcode: 97769
+postcode: "97769"
 city: Bad Brückenau
 street: "Kissinger Straße"
 housenumber: 36

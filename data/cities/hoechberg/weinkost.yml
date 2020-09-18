@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 49.781235200000005
 longitude: 9.8783799
-postcode: 97204
+postcode: "97204"
 city: Höchberg
 street: "Hauptstraße"
 housenumber: 83

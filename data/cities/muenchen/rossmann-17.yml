@@ -1,12 +1,12 @@
-id: 1309258973
+id: 1309258992
 type: node
 shop: Drogerie
-latitude: 48.14320540000001
-longitude: 11.5561418
-postcode: 80335
+latitude: 48.1358946
+longitude: 11.608406400000002
+postcode: "81675"
 city: München
-street: "Seidlstraße"
-housenumber: 5
+street: "Einsteinstraße"
+housenumber: 104
 phone: ""
-opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-20:00; PH off"
+opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off"
 website: ""

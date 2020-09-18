@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 49.1138716
 longitude: 10.7542427
-postcode: 91710
+postcode: "91710"
 city: Gunzenhausen
 street: "Marktplatz"
 housenumber: 38

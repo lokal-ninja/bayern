@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.6010696
 longitude: 9.893869500000001
-postcode: 88161
+postcode: "88161"
 city: Lindenberg im Allgäu
 street: "Staufner Straße"
 housenumber: 15

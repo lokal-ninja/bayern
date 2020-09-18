@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 47.9960735
 longitude: 10.777363000000001
-postcode: 86875
+postcode: "86875"
 city: Waal
 street: "Ritter-von-Herkomer-Straße"
 housenumber: 29

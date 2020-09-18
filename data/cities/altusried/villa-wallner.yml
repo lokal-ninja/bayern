@@ -3,7 +3,7 @@ type: node
 shop: Konditorei
 latitude: 47.806549200000006
 longitude: 10.2131282
-postcode: 87452
+postcode: "87452"
 city: Altusried
 street: "Leutkircher Straße"
 housenumber: 1

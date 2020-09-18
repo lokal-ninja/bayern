@@ -3,7 +3,7 @@ type: node
 shop: Tiersalon
 latitude: 49.4646684
 longitude: 11.000788
-postcode: 90763
+postcode: "90763"
 city: Fürth
 street: "Kaiserplatz"
 housenumber: 2

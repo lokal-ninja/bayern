@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.091002
 longitude: 11.4965337
-postcode: 81476
+postcode: "81476"
 city: München
 street: "Forstenrieder Allee"
 housenumber: 120

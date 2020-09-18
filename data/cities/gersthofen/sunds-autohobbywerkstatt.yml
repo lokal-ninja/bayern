@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.4138693
 longitude: 10.874713400000001
-postcode: 86368
+postcode: "86368"
 city: Gersthofen
 street: "Tiefenbacherstraße"
 housenumber: 4

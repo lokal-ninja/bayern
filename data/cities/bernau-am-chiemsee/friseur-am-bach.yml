@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.8105988
 longitude: 12.3717866
-postcode: 83233
+postcode: "83233"
 city: Bernau am Chiemsee
 street: "Aschauer Straße"
 housenumber: 21

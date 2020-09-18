@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.0768423
 longitude: 11.518508500000001
-postcode: 81479
+postcode: "81479"
 city: München
 street: "Diefenbachstraße"
 housenumber: 49

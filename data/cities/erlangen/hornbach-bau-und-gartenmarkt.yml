@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 49.57702260000001
 longitude: 10.9647632
-postcode: 91056
+postcode: "91056"
 city: Erlangen
 street: "Frauenauracher Straße"
 housenumber: 97

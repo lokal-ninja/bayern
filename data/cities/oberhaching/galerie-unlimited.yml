@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 48.031589100000005
 longitude: 11.575443100000001
-postcode: 82041
+postcode: "82041"
 city: Oberhaching
 street: "Puppenspielerweg"
 housenumber: 5

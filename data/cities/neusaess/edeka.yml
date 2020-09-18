@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.375458300000005
 longitude: 10.824807400000001
-postcode: 86356
+postcode: "86356"
 city: Neusäß
 street: "Ulmer Straße"
 housenumber: 45

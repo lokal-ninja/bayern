@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.020963
 longitude: 12.095921500000001
-postcode: 93047
+postcode: "93047"
 city: Regensburg
 street: "Goldene-Bären-Straße"
 housenumber: 6

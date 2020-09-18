@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.1364652
 longitude: 11.613731000000001
-postcode: 81675
+postcode: "81675"
 city: München
 street: "Einsteinstraße"
 housenumber: 130

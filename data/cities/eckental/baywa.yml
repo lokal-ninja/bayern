@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.5785026
 longitude: 11.2007834
-postcode: 90542
+postcode: "90542"
 city: Eckental
 street: "Dr.-Otto-Leich-Straße"
 housenumber: 14

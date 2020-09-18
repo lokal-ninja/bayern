@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.979059400000004
 longitude: 12.0667854
-postcode: 93080
+postcode: "93080"
 city: Pentling
 street: "Hohengebrachinger Straße"
 housenumber: 22 b

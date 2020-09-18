@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.8021438
 longitude: 9.9441856
-postcode: 97080
+postcode: "97080"
 city: Würzburg
 street: "Brücknerstraße"
 housenumber: 7

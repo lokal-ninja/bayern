@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 48.538778900000004
 longitude: 10.366939
-postcode: 89423
+postcode: "89423"
 city: Gundelfingen a.d.Donau
 street: "Industriestraße"
 housenumber: 18

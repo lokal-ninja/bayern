@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 48.4045981
 longitude: 10.0392984
-postcode: 89233
+postcode: "89233"
 city: Neu-Ulm
 street: "Spielbergstraße"
 housenumber: 12

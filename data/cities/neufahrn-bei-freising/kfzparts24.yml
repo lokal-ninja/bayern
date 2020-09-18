@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 48.350820000000006
 longitude: 11.6088526
-postcode: 85376
+postcode: "85376"
 city: Neufahrn bei Freising
 street: "Hauptstraße"
 housenumber: 16

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.3906487
 longitude: 10.8380851
-postcode: 86356
+postcode: "86356"
 city: Neusäß
 street: "Hauptstraße"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 48.142786
 longitude: 11.576295
-postcode: 
+postcode: ""
 city: München
 street: "Brienner Straße"
 housenumber: 7

@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 48.5756049
 longitude: 10.448371100000001
-postcode: 89415
+postcode: "89415"
 city: Lauingen (Donau)
 street: "Werner-von-Siemens-Straße"
 housenumber: 3

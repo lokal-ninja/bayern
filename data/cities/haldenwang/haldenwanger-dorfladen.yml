@@ -3,10 +3,10 @@ type: way
 shop: Lebensmittel
 latitude: 47.8009312
 longitude: 10.347227100000001
-postcode: 87490
+postcode: "87490"
 city: Haldenwang
 street: "Hauptstraße"
 housenumber: 14
 phone: ""
 opening_hours: ""
-website: ""
+website: "https://www.facebook.com/Team.Dorfladen.Haldenwang/"

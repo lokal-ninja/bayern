@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 49.5959756
 longitude: 11.0273623
-postcode: 91052
+postcode: "91052"
 city: Erlangen
 street: "Artilleriestraße"
 housenumber: 52

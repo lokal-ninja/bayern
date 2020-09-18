@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.0596219
 longitude: 10.1920778
-postcode: 97424
+postcode: "97424"
 city: Schweinfurt
 street: "Gretel-Baumbach-Straße"
 housenumber: 8

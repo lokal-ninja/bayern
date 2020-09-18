@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 49.799190800000005
 longitude: 10.025322000000001
-postcode: 97228
+postcode: "97228"
 city: Rottendorf
 street: "Friedhofstraße"
 housenumber: 23

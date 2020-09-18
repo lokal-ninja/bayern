@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.8550605
 longitude: 11.489889900000001
-postcode: 82538
+postcode: "82538"
 city: Geretsried
 street: "Sudetenstraße"
 housenumber: 50

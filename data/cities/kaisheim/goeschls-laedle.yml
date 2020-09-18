@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 48.767192900000005
 longitude: 10.797148
-postcode: 86687
+postcode: "86687"
 city: Kaisheim
 street: "Abteistraße"
 housenumber: 11

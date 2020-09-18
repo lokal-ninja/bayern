@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.891926000000005
 longitude: 11.42125
-postcode: 82538
+postcode: "82538"
 city: Geretsried
 street: "Loisachweg"
 housenumber: 5a

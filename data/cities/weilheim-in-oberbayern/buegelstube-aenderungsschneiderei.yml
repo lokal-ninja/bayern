@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 47.837949200000004
 longitude: 11.1424195
-postcode: 82362
+postcode: "82362"
 city: Weilheim in Oberbayern
 street: "Hofstraße"
 housenumber: 12a

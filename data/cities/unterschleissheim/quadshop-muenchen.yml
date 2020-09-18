@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.2787797
 longitude: 11.5617657
-postcode: 85716
+postcode: "85716"
 city: Unterschleißheim
 street: "Furtweg"
 housenumber: 23

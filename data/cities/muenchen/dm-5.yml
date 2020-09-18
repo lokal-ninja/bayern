@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.1667612
 longitude: 11.5765954
-postcode: 
+postcode: ""
 city: München
 street: "Karl-Theodor-Straße"
 housenumber: 65

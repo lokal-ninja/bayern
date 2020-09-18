@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.112692100000004
 longitude: 11.294954500000001
-postcode: 82205
+postcode: "82205"
 city: Gilching
 street: "Römerstraße"
 housenumber: 72

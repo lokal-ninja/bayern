@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.0329752
 longitude: 12.002934000000002
-postcode: 95632
+postcode: "95632"
 city: Wunsiedel
 street: "Marktredwitzer Straße"
 housenumber: 44

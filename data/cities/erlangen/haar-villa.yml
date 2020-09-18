@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.5490622
 longitude: 11.0280532
-postcode: 91058
+postcode: "91058"
 city: Erlangen
 street: "Branderweg"
 housenumber: 19

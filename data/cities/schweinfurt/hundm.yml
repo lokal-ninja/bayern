@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.044290000000004
 longitude: 10.2310203
-postcode: 97421
+postcode: "97421"
 city: Schweinfurt
 street: "Georg-Wichtermann-Platz"
 housenumber: 16

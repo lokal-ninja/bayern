@@ -3,7 +3,7 @@ type: way
 shop: Raumausstattung
 latitude: 48.4594899
 longitude: 11.1301941
-postcode: 86551
+postcode: "86551"
 city: Aichach
 street: "Hubmannstraße"
 housenumber: 6

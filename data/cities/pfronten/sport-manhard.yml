@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 47.585485000000006
 longitude: 10.5595741
-postcode: 87459
+postcode: "87459"
 city: Pfronten
 street: "Birkenweg"
 housenumber: 1

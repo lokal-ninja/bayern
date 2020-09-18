@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 48.1338067
 longitude: 11.534994500000002
-postcode: 80339
+postcode: "80339"
 city: München
 street: "Heimeranstraße"
 housenumber: 68

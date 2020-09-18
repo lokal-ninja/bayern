@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.67397750000001
 longitude: 12.333134900000001
-postcode: 92727
+postcode: "92727"
 city: Waldthurn
 street: "Am Badeweiher"
 housenumber: 23

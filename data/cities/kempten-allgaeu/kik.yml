@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.723916900000006
 longitude: 10.3169284
-postcode: 87435
+postcode: "87435"
 city: Kempten (Allgäu)
 street: "Freudenberg"
 housenumber: 7

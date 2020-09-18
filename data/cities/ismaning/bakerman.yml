@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.2262531
 longitude: 11.6786373
-postcode: 85737
+postcode: "85737"
 city: Ismaning
 street: "Bahnhofplatz"
 housenumber: 5

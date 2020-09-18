@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 49.5265021
 longitude: 11.010463000000001
-postcode: 90427
+postcode: "90427"
 city: Nürnberg
 street: "Großgründlacher Hauptstraße"
 housenumber: 1

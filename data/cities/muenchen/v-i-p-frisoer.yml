@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.1547855
 longitude: 11.5855837
-postcode: 80802
+postcode: "80802"
 city: München
 street: "Kaulbachstraße"
 housenumber: 86

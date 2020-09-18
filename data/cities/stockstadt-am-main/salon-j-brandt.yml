@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 49.9786955
 longitude: 9.0646167
-postcode: 63811
+postcode: "63811"
 city: Stockstadt am Main
 street: "Hauptstraße"
 housenumber: 9

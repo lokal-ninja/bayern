@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 49.86232570000001
 longitude: 10.2254419
-postcode: 97332
+postcode: "97332"
 city: Volkach
 street: "Am Alten Bahnhof"
 housenumber: 3

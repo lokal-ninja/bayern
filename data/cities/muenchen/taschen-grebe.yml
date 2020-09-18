@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.135883
 longitude: 11.577791300000001
-postcode: 80331
+postcode: "80331"
 city: München
 street: "Heiliggeiststraße"
 housenumber: 1

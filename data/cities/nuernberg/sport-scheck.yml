@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 49.451136000000005
 longitude: 11.071783100000001
-postcode: 90403
+postcode: "90403"
 city: Nürnberg
 street: "Ludwigsplatz"
 housenumber: 4-10

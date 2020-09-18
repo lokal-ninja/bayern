@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.7286166
 longitude: 13.380195100000002
-postcode: 94104
+postcode: "94104"
 city: Tittling
 street: "Herrenstraße"
 housenumber: 2

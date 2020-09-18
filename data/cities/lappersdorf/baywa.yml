@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.05603
 longitude: 12.0903358
-postcode: 93138
+postcode: "93138"
 city: Lappersdorf
 street: "Regendorfer Straße"
 housenumber: 1

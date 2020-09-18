@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.255383300000005
 longitude: 10.8747164
-postcode: 86343
+postcode: "86343"
 city: Königsbrunn
 street: "Messerschmittring"
 housenumber: 8

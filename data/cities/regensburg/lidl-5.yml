@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.025614700000006
 longitude: 12.149963000000001
-postcode: 93055
+postcode: "93055"
 city: Regensburg
 street: "Metzgerweg"
 housenumber: 11

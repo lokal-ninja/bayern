@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.0334252
 longitude: 12.1252951
-postcode: 93057
+postcode: "93057"
 city: Regensburg
 street: "Isarstraße"
 housenumber: 60

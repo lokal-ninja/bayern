@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.5004258
 longitude: 11.2812736
-postcode: 91207
+postcode: "91207"
 city: Lauf a.d.Pegnitz
 street: "Oskar-Sembach-Ring"
 housenumber: 4

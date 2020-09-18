@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.9378164
 longitude: 10.9659271
-postcode: 96117
+postcode: "96117"
 city: Memmelsdorf
 street: "Josef-Fösel-Straße"
 housenumber: 7

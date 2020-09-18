@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.8393328
 longitude: 12.947913100000001
-postcode: 94469
+postcode: "94469"
 city: Deggendorf
 street: "Am Tegelberg"
 housenumber: 1

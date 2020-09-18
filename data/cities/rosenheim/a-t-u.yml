@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.8486698
 longitude: 12.08472
-postcode: 83026
+postcode: "83026"
 city: Rosenheim
 street: "Georg-Aicher-Straße"
 housenumber: 20

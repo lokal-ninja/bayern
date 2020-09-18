@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.9819447
 longitude: 9.1418669
-postcode: 63741
+postcode: "63741"
 city: Aschaffenburg
 street: "Lange Straße"
 housenumber: 19

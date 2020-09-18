@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 48.46373740000001
 longitude: 11.942495500000001
-postcode: 85368
+postcode: "85368"
 city: Moosburg a.d. Isar
 street: "Jägerstraße"
 housenumber: 1

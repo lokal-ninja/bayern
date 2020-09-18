@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.5548039
 longitude: 13.416245
-postcode: 94036
+postcode: "94036"
 city: Passau
 street: "Traminer Straße"
 housenumber: 2

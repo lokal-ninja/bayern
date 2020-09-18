@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 48.1388418
 longitude: 11.4090179
-postcode: 81249
+postcode: "81249"
 city: München
 street: "Clarita-Bernhard-Straße"
 housenumber: 18

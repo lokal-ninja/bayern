@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.6670359
 longitude: 10.1435426
-postcode: 97340
+postcode: "97340"
 city: Marktbreit
 street: "Plochmanngasse"
 housenumber: 1

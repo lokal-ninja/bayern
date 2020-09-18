@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 48.545713400000004
 longitude: 10.8497524
-postcode: 86405
+postcode: "86405"
 city: Meitingen
 street: "Hauptstraße"
 housenumber: 21

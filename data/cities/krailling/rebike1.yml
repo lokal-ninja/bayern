@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.094519000000005
 longitude: 11.4119945
-postcode: 82152
+postcode: "82152"
 city: Krailling
 street: "Gautinger Straße"
 housenumber: 51

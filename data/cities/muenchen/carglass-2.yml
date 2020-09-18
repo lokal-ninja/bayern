@@ -1,12 +1,12 @@
-id: 311013471
-type: way
+id: 7552207424
+type: node
 shop: Autowerkstatt
-latitude: 48.114885400000006
-longitude: 11.616906100000001
-postcode: 81669
+latitude: 48.164602300000006
+longitude: 11.469092900000001
+postcode: "81247"
 city: München
-street: "Innsbrucker Ring"
-housenumber: 144
+street: "Verdistraße"
+housenumber: 97
 phone: ""
-opening_hours: "Mo-Fr 07:30-17:00; Sa 09:00-13:00"
+opening_hours: ""
 website: ""

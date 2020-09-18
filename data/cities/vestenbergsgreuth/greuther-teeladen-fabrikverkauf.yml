@@ -3,7 +3,7 @@ type: node
 shop: Tee
 latitude: 49.688495800000005
 longitude: 10.6512761
-postcode: 91487
+postcode: "91487"
 city: Vestenbergsgreuth
 street: "Dutendorfer Straße"
 housenumber: 5-7

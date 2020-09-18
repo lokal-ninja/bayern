@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.4552634
 longitude: 11.0733128
-postcode: 90403
+postcode: "90403"
 city: Nürnberg
 street: "Weißgerbergasse"
 housenumber: 8

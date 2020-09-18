@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 48.563129700000005
 longitude: 11.264030700000001
-postcode: 86529
+postcode: "86529"
 city: Schrobenhausen
 street: "Perger Platz"
 housenumber: 1

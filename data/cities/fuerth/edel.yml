@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.4851651
 longitude: 10.955872600000001
-postcode: 90766
+postcode: "90766"
 city: Fürth
 street: "Hansastraße"
 housenumber: 5

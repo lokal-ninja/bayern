@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.407776000000005
 longitude: 11.737894
-postcode: 85354
+postcode: "85354"
 city: Freising
 street: "Prinz-Ludwig-Straße"
 housenumber: 

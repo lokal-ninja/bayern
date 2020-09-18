@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.9653264
 longitude: 12.3825233
-postcode: 93102
+postcode: "93102"
 city: Pfatter
 street: "Marktplatz"
 housenumber: 4

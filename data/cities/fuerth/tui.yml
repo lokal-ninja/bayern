@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 49.47502
 longitude: 10.9887966
-postcode: 90762
+postcode: "90762"
 city: Fürth
 street: "Schwabacher Straße"
 housenumber: 20

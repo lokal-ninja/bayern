@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 48.0660615
 longitude: 11.689736400000001
-postcode: 85521
+postcode: "85521"
 city: Ottobrunn
 street: "Kleiststraße"
 housenumber: 30

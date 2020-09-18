@@ -3,7 +3,7 @@ type: way
 shop: Schreibwaren
 latitude: 48.5725446
 longitude: 13.4613648
-postcode: 94032
+postcode: "94032"
 city: Passau
 street: "Oberer Sand"
 housenumber: 20

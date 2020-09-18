@@ -3,7 +3,7 @@ type: way
 shop: Modehaus
 latitude: 49.4463323
 longitude: 11.861225600000001
-postcode: 92224
+postcode: "92224"
 city: Amberg
 street: "Obere Nabburger Straße"
 housenumber: 1

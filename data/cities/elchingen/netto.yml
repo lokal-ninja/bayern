@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.436298400000005
 longitude: 10.0564437
-postcode: 89275
+postcode: "89275"
 city: Elchingen
 street: "Industriestraße"
 housenumber: 8 a

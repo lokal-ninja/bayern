@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.2374821
 longitude: 10.6379946
-postcode: 86866
+postcode: "86866"
 city: Mickhausen
 street: "Hauptstraße"
 housenumber: 49a

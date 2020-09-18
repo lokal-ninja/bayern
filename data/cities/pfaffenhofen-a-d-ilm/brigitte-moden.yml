@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.5318218
 longitude: 11.5094045
-postcode: 85276
+postcode: "85276"
 city: Pfaffenhofen a.d. Ilm
 street: "Türltorstraße"
 housenumber: 16 - 20

@@ -3,7 +3,7 @@ type: node
 shop: Milch
 latitude: 49.6266073
 longitude: 10.6283388
-postcode: 91468
+postcode: "91468"
 city: Gutenstetten
 street: ""
 housenumber: 5

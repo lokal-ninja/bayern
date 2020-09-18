@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.0323617
 longitude: 11.5943746
-postcode: 92345
+postcode: "92345"
 city: Dietfurt an der Altmühl
 street: "Hauptstraße"
 housenumber: 76

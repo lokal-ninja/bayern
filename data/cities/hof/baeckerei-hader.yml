@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.3174806
 longitude: 11.900298900000001
-postcode: 95030
+postcode: "95030"
 city: Hof
 street: "Kulmbacher Straße"
 housenumber: 41

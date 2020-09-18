@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 49.0301388
 longitude: 13.231652700000001
-postcode: 94227
+postcode: "94227"
 city: Zwiesel
 street: "Theresienthal"
 housenumber: 13

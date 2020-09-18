@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 48.126441400000004
 longitude: 11.365832900000001
-postcode: 82110
+postcode: "82110"
 city: Germering
 street: "Otto-Wagner-Straße"
 housenumber: 4-6

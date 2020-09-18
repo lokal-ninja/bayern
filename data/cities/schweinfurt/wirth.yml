@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.031143900000004
 longitude: 10.238719600000001
-postcode: 97424
+postcode: "97424"
 city: Schweinfurt
 street: "Heini-Dittmar-Straße"
 housenumber: 4

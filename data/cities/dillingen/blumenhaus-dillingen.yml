@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.581064700000006
 longitude: 10.4948992
-postcode: 89407
+postcode: "89407"
 city: Dillingen
 street: "Große Allee"
 housenumber: 42

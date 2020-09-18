@@ -3,7 +3,7 @@ type: node
 shop: Gardinen
 latitude: 49.435736000000006
 longitude: 11.0678721
-postcode: 90443
+postcode: "90443"
 city: Nürnberg
 street: "Gibitzenhofstraße"
 housenumber: 86

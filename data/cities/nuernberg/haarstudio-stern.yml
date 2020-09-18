@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.4027321
 longitude: 11.1415629
-postcode: 90473
+postcode: "90473"
 city: Nürnberg
 street: "Ratiborstraße"
 housenumber: 27

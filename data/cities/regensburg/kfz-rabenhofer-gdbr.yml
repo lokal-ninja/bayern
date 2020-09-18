@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.0119538
 longitude: 12.130351200000002
-postcode: 93055
+postcode: "93055"
 city: Regensburg
 street: "An der Irler Höhe"
 housenumber: 4

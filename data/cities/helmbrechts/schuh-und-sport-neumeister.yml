@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 50.23804620000001
 longitude: 11.720599
-postcode: 95233
+postcode: "95233"
 city: Helmbrechts
 street: "Münchberger Straße"
 housenumber: 34

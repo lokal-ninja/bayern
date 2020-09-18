@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.020037200000004
 longitude: 11.7237304
-postcode: 85635
+postcode: "85635"
 city: Höhenkirchen-Siegertsbrunn
 street: "Bahnhofstraße"
 housenumber: 32b

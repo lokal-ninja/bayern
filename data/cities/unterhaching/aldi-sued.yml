@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.067810300000005
 longitude: 11.6201033
-postcode: 82008
+postcode: "82008"
 city: Unterhaching
 street: "Biberger Straße"
 housenumber: 66

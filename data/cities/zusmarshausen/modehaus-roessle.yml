@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 48.40078260000001
 longitude: 10.594601500000001
-postcode: 86441
+postcode: "86441"
 city: Zusmarshausen
 street: "Ulmer Straße"
 housenumber: 9

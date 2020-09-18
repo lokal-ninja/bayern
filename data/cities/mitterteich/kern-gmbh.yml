@@ -3,7 +3,7 @@ type: way
 shop: Gemüse & Obst
 latitude: 49.949446200000004
 longitude: 12.2340006
-postcode: 95666
+postcode: "95666"
 city: Mitterteich
 street: "Marktredwitzer Straße"
 housenumber: 20

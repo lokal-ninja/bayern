@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 47.6487029
 longitude: 10.2936516
-postcode: 87448
+postcode: "87448"
 city: Waltenhofen
 street: ""
 housenumber: 1a

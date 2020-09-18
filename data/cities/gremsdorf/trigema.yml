@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.6978226
 longitude: 10.8530601
-postcode: 91350
+postcode: "91350"
 city: Gremsdorf
 street: "Gewerbepark"
 housenumber: 1

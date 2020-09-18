@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.537187100000004
 longitude: 12.143858600000002
-postcode: 84034
+postcode: "84034"
 city: Landshut
 street: "Luitpoldstraße"
 housenumber: 17a

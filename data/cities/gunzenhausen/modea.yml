@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 49.1133761
 longitude: 10.7545099
-postcode: 91710
+postcode: "91710"
 city: Gunzenhausen
 street: "Marktplatz"
 housenumber: 48

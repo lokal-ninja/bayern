@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.107359
 longitude: 9.2745117
-postcode: 63828
+postcode: "63828"
 city: Kleinkahl
 street: "Kahlstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.555199200000004
 longitude: 9.6903991
-postcode: 88131
+postcode: "88131"
 city: Lindau (Bodensee)
 street: "Langenweg"
 housenumber: 

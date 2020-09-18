@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 49.2459938
 longitude: 11.0914728
-postcode: 91154
+postcode: "91154"
 city: Roth
 street: "Kirchplatz"
 housenumber: 7

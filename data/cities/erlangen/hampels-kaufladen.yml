@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.6005249
 longitude: 11.039436400000001
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Sieglitzhofer Straße"
 housenumber: 18

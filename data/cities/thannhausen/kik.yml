@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.2844354
 longitude: 10.460662500000002
-postcode: 86470
+postcode: "86470"
 city: Thannhausen
 street: "Bürgermeister-Raab-Straße"
 housenumber: 

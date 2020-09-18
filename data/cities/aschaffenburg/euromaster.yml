@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.981661200000005
 longitude: 9.1513778
-postcode: 63741
+postcode: "63741"
 city: Aschaffenburg
 street: "Auhofstraße"
 housenumber: 2 b

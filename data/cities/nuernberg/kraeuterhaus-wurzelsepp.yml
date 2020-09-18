@@ -3,7 +3,7 @@ type: node
 shop: Kräuter
 latitude: 49.4532004
 longitude: 11.0766369
-postcode: 90403
+postcode: "90403"
 city: Nürnberg
 street: "Hauptmarkt"
 housenumber: 1

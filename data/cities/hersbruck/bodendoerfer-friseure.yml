@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.508290200000005
 longitude: 11.419836100000001
-postcode: 91217
+postcode: "91217"
 city: Hersbruck
 street: "Nürnberger Straße"
 housenumber: 63

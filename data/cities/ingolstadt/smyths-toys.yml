@@ -3,7 +3,7 @@ type: way
 shop: Spielzeug
 latitude: 48.7461841
 longitude: 11.4673055
-postcode: 85053
+postcode: "85053"
 city: Ingolstadt
 street: "Manchinger Straße"
 housenumber: 122

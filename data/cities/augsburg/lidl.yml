@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.3969711
 longitude: 10.9145137
-postcode: 86169
+postcode: "86169"
 city: Augsburg
 street: "Neuburger Straße"
 housenumber: 227

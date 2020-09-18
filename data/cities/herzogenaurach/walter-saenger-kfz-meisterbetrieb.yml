@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.555961800000006
 longitude: 10.8423602
-postcode: 91074
+postcode: "91074"
 city: Herzogenaurach
 street: "Dondörflein"
 housenumber: 14

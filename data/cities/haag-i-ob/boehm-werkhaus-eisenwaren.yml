@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 48.164985200000004
 longitude: 12.1756036
-postcode: 83527
+postcode: "83527"
 city: Haag i.OB
 street: "Rainbachstraße"
 housenumber: 9a

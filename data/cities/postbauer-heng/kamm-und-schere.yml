@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.2903698
 longitude: 11.3601372
-postcode: 92353
+postcode: "92353"
 city: Postbauer-Heng
 street: "Berngauer Weg"
 housenumber: 1

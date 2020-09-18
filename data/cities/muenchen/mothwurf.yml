@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.1429464
 longitude: 11.5755873
-postcode: 80333
+postcode: "80333"
 city: München
 street: "Brienner Straße"
 housenumber: 9

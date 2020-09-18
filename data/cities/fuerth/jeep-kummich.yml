@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.4654967
 longitude: 11.005439800000001
-postcode: 90763
+postcode: "90763"
 city: Fürth
 street: "Flößaustraße"
 housenumber: 190

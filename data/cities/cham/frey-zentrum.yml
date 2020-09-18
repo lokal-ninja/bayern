@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.2180419
 longitude: 12.666613900000002
-postcode: 93413
+postcode: "93413"
 city: Cham
 street: "Marktplatz"
 housenumber: 11

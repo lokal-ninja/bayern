@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 49.388036500000005
 longitude: 10.1881619
-postcode: 91541
+postcode: "91541"
 city: Rothenburg ob der Tauber
 street: "Schumannstraße"
 housenumber: 8

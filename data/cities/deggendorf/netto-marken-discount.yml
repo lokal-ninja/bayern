@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.8405512
 longitude: 12.9525912
-postcode: 94469
+postcode: "94469"
 city: Deggendorf
 street: "Stadtfeldstraße"
 housenumber: 16

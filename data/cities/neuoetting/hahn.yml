@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.2415601
 longitude: 12.6839537
-postcode: 84524
+postcode: "84524"
 city: Neuötting
 street: "Ludwigstraße"
 housenumber: 19

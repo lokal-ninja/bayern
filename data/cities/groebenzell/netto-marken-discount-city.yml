@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.1994465
 longitude: 11.3729499
-postcode: 82194
+postcode: "82194"
 city: Gröbenzell
 street: "Bahnhofstraße"
 housenumber: 31

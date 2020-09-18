@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.0891856
 longitude: 11.480509300000001
-postcode: 81475
+postcode: "81475"
 city: München
 street: "Engadiner Straße"
 housenumber: 2

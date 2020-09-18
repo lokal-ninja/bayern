@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 49.9502625
 longitude: 12.2413015
-postcode: 95666
+postcode: "95666"
 city: Mitterteich
 street: "Vorstadt"
 housenumber: 10

@@ -3,7 +3,7 @@ type: way
 shop: Kerzen
 latitude: 49.895079100000004
 longitude: 9.046426400000001
-postcode: 63762
+postcode: "63762"
 city: Großostheim
 street: "Hauptstraße"
 housenumber: 62

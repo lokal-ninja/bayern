@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 47.8571405
 longitude: 11.4860965
-postcode: 82538
+postcode: "82538"
 city: Geretsried
 street: "Sudetenstraße"
 housenumber: 29a

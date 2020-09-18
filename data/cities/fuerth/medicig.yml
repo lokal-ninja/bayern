@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 49.465821000000005
 longitude: 10.997541400000001
-postcode: 90763
+postcode: "90763"
 city: Fürth
 street: "Herrnstraße"
 housenumber: 89

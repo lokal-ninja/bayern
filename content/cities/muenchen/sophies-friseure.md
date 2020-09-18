@@ -1,0 +1,4 @@
+---
+title: "Sophies Friseure"
+url: /muenchen/sophies-friseure/
+---

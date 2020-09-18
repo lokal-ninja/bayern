@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.5857055
 longitude: 10.1754441
-postcode: 97258
+postcode: "97258"
 city: Ippesheim
 street: "Industriestraße"
 housenumber: 1

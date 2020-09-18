@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 49.241962900000004
 longitude: 11.0902884
-postcode: 91154
+postcode: "91154"
 city: Roth
 street: "Münchener Straße"
 housenumber: 39a

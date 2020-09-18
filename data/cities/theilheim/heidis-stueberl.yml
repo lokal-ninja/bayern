@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.7530495
 longitude: 10.022302100000001
-postcode: 97288
+postcode: "97288"
 city: Theilheim
 street: "Oberlehrer-Beck-Straße"
 housenumber: 1

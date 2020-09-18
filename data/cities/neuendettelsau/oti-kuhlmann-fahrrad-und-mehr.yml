@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.282819700000005
 longitude: 10.787976200000001
-postcode: 91564
+postcode: "91564"
 city: Neuendettelsau
 street: "Windsbacher Straße"
 housenumber: 10

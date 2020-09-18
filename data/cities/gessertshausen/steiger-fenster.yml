@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 48.3136602
 longitude: 10.711389
-postcode: 86459
+postcode: "86459"
 city: Gessertshausen
 street: "Fuggerstraße"
 housenumber: 20

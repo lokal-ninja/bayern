@@ -1,12 +1,12 @@
-id: 88507913
+id: 87303761
 type: way
 shop: Supermarkt
-latitude: 49.7226859
-longitude: 9.964343900000001
-postcode: 97084
+latitude: 49.7954814
+longitude: 9.9138097
+postcode: "97082"
 city: Würzburg
-street: "Schleifweg"
-housenumber: 9
+street: "Frankfurter Straße"
+housenumber: 18
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: "Mo-Sa 07:00-20:00; PH,Su off"
 website: ""

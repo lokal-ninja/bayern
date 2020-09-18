@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.400942400000005
 longitude: 12.0652097
-postcode: 92269
+postcode: "92269"
 city: Fensterbach
 street: "Sankt-Ulrich-Straße"
 housenumber: 6

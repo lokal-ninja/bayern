@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 48.125113400000004
 longitude: 11.6398735
-postcode: 81673
+postcode: "81673"
 city: München
 street: "Pachemstraße"
 housenumber: 2

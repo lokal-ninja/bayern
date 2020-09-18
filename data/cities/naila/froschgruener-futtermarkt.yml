@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 50.3281891
 longitude: 11.7056976
-postcode: 95119
+postcode: "95119"
 city: Naila
 street: "Kurze Straße"
 housenumber: 1

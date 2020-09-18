@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.6296363
 longitude: 12.4981723
-postcode: 84130
+postcode: "84130"
 city: Dingolfing
 street: "Marienplatz"
 housenumber: 9a

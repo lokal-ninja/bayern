@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.716176100000006
 longitude: 10.7502574
-postcode: 86609
+postcode: "86609"
 city: Donauwörth
 street: "Merianstraße"
 housenumber: 1

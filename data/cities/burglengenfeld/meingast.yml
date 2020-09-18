@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.1995713
 longitude: 12.0339498
-postcode: 93133
+postcode: "93133"
 city: Burglengenfeld
 street: "Amalienstraße"
 housenumber: 9

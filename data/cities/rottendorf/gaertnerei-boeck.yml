@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 49.7897532
 longitude: 10.0039637
-postcode: 97228
+postcode: "97228"
 city: Rottendorf
 street: "Gut Wöllried"
 housenumber: 15

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.4595252
 longitude: 11.1294803
-postcode: 86551
+postcode: "86551"
 city: Aichach
 street: "Steubstraße"
 housenumber: 4

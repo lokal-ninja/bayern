@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.4994929
 longitude: 11.4281436
-postcode: 91217
+postcode: "91217"
 city: Hersbruck
 street: "Ostbahnstraße"
 housenumber: 124

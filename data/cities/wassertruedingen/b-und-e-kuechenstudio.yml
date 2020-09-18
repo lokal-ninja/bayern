@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 49.0418899
 longitude: 10.5863765
-postcode: 91717
+postcode: "91717"
 city: Wassertrüdingen
 street: "Am Krautgarten"
 housenumber: 5

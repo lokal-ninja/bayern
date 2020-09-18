@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 48.4256125
 longitude: 10.863255200000001
-postcode: 86368
+postcode: "86368"
 city: Gersthofen
 street: "Hery-Park"
 housenumber: 2100

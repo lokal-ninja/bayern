@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.3643263
 longitude: 10.876512400000001
-postcode: 86157
+postcode: "86157"
 city: Augsburg
 street: "Augsburger Straße"
 housenumber: 5 1/2

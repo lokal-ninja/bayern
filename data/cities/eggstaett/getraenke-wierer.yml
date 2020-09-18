@@ -3,7 +3,7 @@ type: way
 shop: Großhandel
 latitude: 47.911234
 longitude: 12.3668133
-postcode: 83125
+postcode: "83125"
 city: Eggstätt
 street: "Gewerbegebiet Natzing"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.0294249
 longitude: 10.972407800000001
-postcode: 91781
+postcode: "91781"
 city: Weißenburg i. Bay.
 street: "Wildbadstraße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 49.444825300000005
 longitude: 11.8554659
-postcode: 92224
+postcode: "92224"
 city: Amberg
 street: "Georgenstraße"
 housenumber: 22

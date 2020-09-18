@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 49.995251
 longitude: 9.5704025
-postcode: 97816
+postcode: "97816"
 city: Lohr am Main
 street: "Ludwigstraße"
 housenumber: 12

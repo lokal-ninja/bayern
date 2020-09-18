@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.071110000000004
 longitude: 10.92431
-postcode: 86929
+postcode: "86929"
 city: Penzing
 street: ""
 housenumber: 

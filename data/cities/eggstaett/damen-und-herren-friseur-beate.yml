@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.9268548
 longitude: 12.379347300000001
-postcode: 83125
+postcode: "83125"
 city: Eggstätt
 street: "Priener Straße"
 housenumber: 2

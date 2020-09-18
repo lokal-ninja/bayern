@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.5221201
 longitude: 10.8097665
-postcode: 86485
+postcode: "86485"
 city: Biberbach
 street: "St.-Ulrich-Straße"
 housenumber: 14

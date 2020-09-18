@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.962349
 longitude: 11.9214704
-postcode: 95682
+postcode: "95682"
 city: Brand
 street: "Nageler Straße"
 housenumber: 4

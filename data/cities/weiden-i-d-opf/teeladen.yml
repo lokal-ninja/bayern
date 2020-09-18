@@ -3,7 +3,7 @@ type: node
 shop: Tee
 latitude: 49.6755055
 longitude: 12.1637824
-postcode: 92637
+postcode: "92637"
 city: Weiden i.d.OPf.
 street: "Oberer Markt"
 housenumber: 1

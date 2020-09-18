@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.764916
 longitude: 11.424052300000001
-postcode: 85049
+postcode: "85049"
 city: Ingolstadt
 street: "Milchstraße"
 housenumber: 1

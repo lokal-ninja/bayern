@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.5774455
 longitude: 10.884284500000001
-postcode: 91074
+postcode: "91074"
 city: Herzogenaurach
 street: "Einsteinstraße"
 housenumber: 2

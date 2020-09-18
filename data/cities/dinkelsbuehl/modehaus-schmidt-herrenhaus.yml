@@ -3,7 +3,7 @@ type: way
 shop: Modehaus
 latitude: 49.0690043
 longitude: 10.316192800000001
-postcode: 91550
+postcode: "91550"
 city: Dinkelsbühl
 street: "Segringer Straße"
 housenumber: 41

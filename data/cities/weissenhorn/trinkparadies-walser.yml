@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 48.305200500000005
 longitude: 10.1573475
-postcode: 89264
+postcode: "89264"
 city: Weissenhorn
 street: "Schrannenstraße"
 housenumber: 1

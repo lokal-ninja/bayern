@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.2019497
 longitude: 11.6064852
-postcode: 80939
+postcode: "80939"
 city: München
 street: "Karl-Köglsperger-Straße"
 housenumber: 25

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.0132819
 longitude: 12.144383600000001
-postcode: 93055
+postcode: "93055"
 city: Regensburg
 street: "Maxhüttenstraße"
 housenumber: 1

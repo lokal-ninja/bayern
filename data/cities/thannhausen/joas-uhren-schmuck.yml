@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.282842200000005
 longitude: 10.4696786
-postcode: 86470
+postcode: "86470"
 city: Thannhausen
 street: "Bahnhofstraße"
 housenumber: 5

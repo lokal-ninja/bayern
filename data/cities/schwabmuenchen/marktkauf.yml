@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.172716400000006
 longitude: 10.7412022
-postcode: 86830
+postcode: "86830"
 city: Schwabmünchen
 street: "Falkensteinstraße"
 housenumber: 2

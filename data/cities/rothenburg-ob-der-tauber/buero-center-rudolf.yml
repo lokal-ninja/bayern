@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.3789102
 longitude: 10.188937300000001
-postcode: 91541
+postcode: "91541"
 city: Rothenburg ob der Tauber
 street: "Schreckenbachstraße"
 housenumber: 1

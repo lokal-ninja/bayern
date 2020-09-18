@@ -3,7 +3,7 @@ type: node
 shop: Basteln
 latitude: 48.3623722
 longitude: 10.902691200000001
-postcode: 86150
+postcode: "86150"
 city: Augsburg
 street: "Bäckergasse"
 housenumber: 36

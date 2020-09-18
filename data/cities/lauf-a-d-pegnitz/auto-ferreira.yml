@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.5053077
 longitude: 11.2798517
-postcode: 91207
+postcode: "91207"
 city: Lauf a.d.Pegnitz
 street: "Röthenbacher Straße"
 housenumber: 3

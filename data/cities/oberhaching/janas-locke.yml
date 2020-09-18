@@ -3,9 +3,9 @@ type: node
 shop: Friseur
 latitude: 47.9763284
 longitude: 11.547846600000002
-postcode: 82064
+postcode: "82064"
 city: Oberhaching
-street: "Jettenhausen"
+street: ""
 housenumber: 4
 phone: ""
 opening_hours: ""

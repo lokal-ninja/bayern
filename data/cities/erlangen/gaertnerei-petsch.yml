@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 49.5851186
 longitude: 10.966211600000001
-postcode: 91056
+postcode: "91056"
 city: Erlangen
 street: "Frauenauracher Straße"
 housenumber: 60

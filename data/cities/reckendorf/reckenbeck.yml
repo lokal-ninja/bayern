@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.020656
 longitude: 10.8287878
-postcode: 96182
+postcode: "96182"
 city: Reckendorf
 street: "Schloßgasse"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.5649784
 longitude: 11.251456000000001
-postcode: 86529
+postcode: "86529"
 city: Schrobenhausen
 street: "Pöttmeser Straße"
 housenumber: 24

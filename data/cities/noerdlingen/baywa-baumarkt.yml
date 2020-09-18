@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 48.860692
 longitude: 10.504700000000001
-postcode: 86720
+postcode: "86720"
 city: Nördlingen
 street: "Hofer Straße"
 housenumber: 1

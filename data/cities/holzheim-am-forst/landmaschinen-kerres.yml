@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.1467321
 longitude: 12.000812300000002
-postcode: 93183
+postcode: "93183"
 city: Holzheim am Forst
 street: "Sonnenstraße"
 housenumber: 2

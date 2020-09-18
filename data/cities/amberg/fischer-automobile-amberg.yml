@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 49.449759500000006
 longitude: 11.826110100000001
-postcode: 92224
+postcode: "92224"
 city: Amberg
 street: "Speckmannshofer Straße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Anhänger
 latitude: 48.8538462
 longitude: 11.6387783
-postcode: 93349
+postcode: "93349"
 city: Mindelstetten
 street: "Stockauer Weg"
 housenumber: 1

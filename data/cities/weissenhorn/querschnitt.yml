@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.3038478
 longitude: 10.160939800000001
-postcode: 89264
+postcode: "89264"
 city: Weißenhorn
 street: "Hauptplatz"
 housenumber: 6

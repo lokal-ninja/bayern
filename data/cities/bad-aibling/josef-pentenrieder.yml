@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsartikel
 latitude: 47.863601900000006
 longitude: 12.0078957
-postcode: 83043
+postcode: "83043"
 city: Bad Aibling
 street: "Bahnhofstraße"
 housenumber: 10

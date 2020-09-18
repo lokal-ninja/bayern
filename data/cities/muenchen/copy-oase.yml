@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 48.1501832
 longitude: 11.577889500000001
-postcode: 80799
+postcode: "80799"
 city: München
 street: "Amalienstraße"
 housenumber: 59

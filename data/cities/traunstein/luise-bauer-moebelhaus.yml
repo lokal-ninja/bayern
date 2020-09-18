@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 47.870321100000005
 longitude: 12.6473977
-postcode: 83278
+postcode: "83278"
 city: Traunstein
 street: "Schaumburgerstraße"
 housenumber: 17

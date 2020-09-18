@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.1223783
 longitude: 10.9980062
-postcode: 82269
+postcode: "82269"
 city: Geltendorf
 street: "Mühlweg"
 housenumber: 5

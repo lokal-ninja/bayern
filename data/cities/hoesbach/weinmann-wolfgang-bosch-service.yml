@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.0412139
 longitude: 9.2024373
-postcode: 63768
+postcode: "63768"
 city: Hösbach
 street: "Schimborner Straße"
 housenumber: 93

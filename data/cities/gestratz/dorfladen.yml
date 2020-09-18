@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.6562337
 longitude: 9.9892277
-postcode: 88167
+postcode: "88167"
 city: Gestratz
 street: "Brugg"
 housenumber: 37

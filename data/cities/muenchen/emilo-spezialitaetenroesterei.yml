@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 48.132809200000004
 longitude: 11.577633700000002
-postcode: 80469
+postcode: "80469"
 city: München
 street: "Buttermelcherstraße"
 housenumber: 5

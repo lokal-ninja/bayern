@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.6510089
 longitude: 12.5268312
-postcode: 84177
+postcode: "84177"
 city: Gottfrieding
 street: "Hauptstraße"
 housenumber: 3

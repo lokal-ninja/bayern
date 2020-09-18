@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 48.3554594
 longitude: 10.9245867
-postcode: 86161
+postcode: "86161"
 city: Augsburg
 street: "Wilhelm-Hauff-Straße"
 housenumber: 28

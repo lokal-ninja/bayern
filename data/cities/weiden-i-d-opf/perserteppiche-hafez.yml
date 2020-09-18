@@ -3,7 +3,7 @@ type: node
 shop: Teppiche
 latitude: 49.6752668
 longitude: 12.1637369
-postcode: 92637
+postcode: "92637"
 city: Weiden i.d.OPf.
 street: "Obere Bachgasse"
 housenumber: 2

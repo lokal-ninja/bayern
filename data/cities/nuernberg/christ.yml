@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 49.449910700000004
 longitude: 11.0776306
-postcode: 90402
+postcode: "90402"
 city: Nürnberg
 street: "Pfannenschmiedsgasse"
 housenumber: 18

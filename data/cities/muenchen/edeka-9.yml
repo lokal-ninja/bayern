@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.1591961
 longitude: 11.5751225
-postcode: 
+postcode: ""
 city: München
 street: "Nordendstraße"
 housenumber: 62

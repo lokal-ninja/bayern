@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.6677345
 longitude: 9.215682900000001
-postcode: 63937
+postcode: "63937"
 city: Weilbach
 street: "Am Marktplatz"
 housenumber: 3

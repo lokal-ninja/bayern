@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.8989101
 longitude: 10.7305182
-postcode: 96170
+postcode: "96170"
 city: Lisberg
 street: "Weiherer Straße"
 housenumber: 28

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.0178269
 longitude: 10.1624429
-postcode: 87700
+postcode: "87700"
 city: Memmingen-Steinheim
 street: "Achstraße"
 housenumber: 1a

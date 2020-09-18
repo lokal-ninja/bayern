@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.2017387
 longitude: 11.5888934
-postcode: 80939
+postcode: "80939"
 city: München
 street: "Heidemannstraße"
 housenumber: 17

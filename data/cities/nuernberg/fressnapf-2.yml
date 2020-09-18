@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 49.474341200000005
 longitude: 11.1031306
-postcode: 90411
+postcode: "90411"
 city: Nürnberg
 street: "Äußere Bayreuther Straße"
 housenumber: 135

@@ -3,10 +3,10 @@ type: way
 shop: Fahrrad
 latitude: 48.547496
 longitude: 12.0996596
-postcode: 
+postcode: "84032"
 city: Altdorf
 street: "Moosstraße"
 housenumber: 32
 phone: "+49 871 933330"
-opening_hours: "Mar Su[-1]-Oct Su[-1] -1 day: Mo-Fr 10:00-19:00; Sa 09:00-16:00; Oct Su[-1]-Mar Su[-1] -1 day: Mo-Fr 10:00-18:00; Sa 10:00-13:00"
-website: ""
+opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00-16:00; "
+website: "https://www.radmarkt-guertner.de/"

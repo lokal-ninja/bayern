@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.2738055
 longitude: 12.1514296
-postcode: 84405
+postcode: "84405"
 city: Dorfen
 street: "Unterer Markt"
 housenumber: 30

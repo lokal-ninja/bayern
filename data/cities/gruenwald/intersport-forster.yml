@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 48.040393200000004
 longitude: 11.521616600000002
-postcode: 82031
+postcode: "82031"
 city: Grünwald
 street: "Rathausplatz"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 48.1715524
 longitude: 11.3501951
-postcode: 82178
+postcode: "82178"
 city: Puchheim
 street: "Alois-Harbeck-Platz"
 housenumber: 6

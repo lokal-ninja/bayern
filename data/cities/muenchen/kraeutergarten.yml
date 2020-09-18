@@ -3,7 +3,7 @@ type: node
 shop: Kräuter
 latitude: 48.1320427
 longitude: 11.567890400000001
-postcode: 80469
+postcode: "80469"
 city: München
 street: "Pestalozzistraße"
 housenumber: 3

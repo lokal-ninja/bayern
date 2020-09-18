@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.0501048
 longitude: 10.8565371
-postcode: 86899
+postcode: "86899"
 city: Landsberg am Lech
 street: "Breslauer Straße"
 housenumber: 27

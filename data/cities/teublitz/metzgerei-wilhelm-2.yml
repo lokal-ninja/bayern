@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.2205286
 longitude: 12.085002800000002
-postcode: 93158
+postcode: "93158"
 city: Teublitz
 street: "Maxhütter Straße"
 housenumber: 1

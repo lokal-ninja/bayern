@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 48.199805100000006
 longitude: 11.9393139
-postcode: 85669
+postcode: "85669"
 city: Pastetten
 street: "Birkenstraße"
 housenumber: 3

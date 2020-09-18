@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 47.8678837
 longitude: 12.027522000000001
-postcode: 83043
+postcode: "83043"
 city: Bad Aibling
 street: "Zeller Weg"
 housenumber: 4

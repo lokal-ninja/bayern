@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.0624934
 longitude: 12.230696
-postcode: 83512
+postcode: "83512"
 city: Wasserburg am Inn
 street: "Ledererzeile"
 housenumber: 18

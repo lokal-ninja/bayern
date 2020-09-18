@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 49.5764865
 longitude: 11.731580300000001
-postcode: 92265
+postcode: "92265"
 city: Edelsfeld
 street: ""
 housenumber: 55

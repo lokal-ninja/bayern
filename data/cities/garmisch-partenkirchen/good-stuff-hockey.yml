@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 47.4918063
 longitude: 11.0998006
-postcode: 82467
+postcode: "82467"
 city: Garmisch-Partenkirchen
 street: "Bahnhofstraße"
 housenumber: 19

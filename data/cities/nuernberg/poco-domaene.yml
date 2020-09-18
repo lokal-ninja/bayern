@@ -3,10 +3,10 @@ type: way
 shop: Möbel
 latitude: 49.4485023
 longitude: 11.0379529
-postcode: 90431
+postcode: "90431"
 city: Nürnberg
 street: "Witschelstraße"
-housenumber: 102
-phone: ""
-opening_hours: ""
+housenumber: 102-104
+phone: "+49911993750"
+opening_hours: "Mo-Fr 09:30-20:00; Sa 09:00-19:00"
 website: ""

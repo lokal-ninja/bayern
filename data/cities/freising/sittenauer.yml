@@ -3,10 +3,10 @@ type: way
 shop: Autowerkstatt
 latitude: 48.4064471
 longitude: 11.7625753
-postcode: 85356
+postcode: "85356"
 city: Freising
 street: "Landshuter Straße"
 housenumber: 102
-phone: ""
+phone: "+49-8161-62923"
 opening_hours: ""
-website: ""
+website: "http://sittenauer.autoauto.de/"

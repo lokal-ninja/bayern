@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 50.257671300000005
 longitude: 10.9661983
-postcode: 96450
+postcode: "96450"
 city: Coburg
 street: "Steingasse"
 housenumber: 10

@@ -3,7 +3,7 @@ type: way
 shop: Betten
 latitude: 48.493844100000004
 longitude: 10.3923997
-postcode: 89355
+postcode: "89355"
 city: Gundremmingen
 street: "Am Hirschbach"
 housenumber: 10

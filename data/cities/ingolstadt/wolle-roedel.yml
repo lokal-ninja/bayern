@@ -3,7 +3,7 @@ type: way
 shop: Textil
 latitude: 48.764443400000005
 longitude: 11.4244804
-postcode: 85049
+postcode: "85049"
 city: Ingolstadt
 street: "Am Stein"
 housenumber: 6

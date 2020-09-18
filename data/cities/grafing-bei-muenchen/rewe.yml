@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.0479265
 longitude: 11.9684073
-postcode: 85567
+postcode: "85567"
 city: Grafing bei München
 street: "Leonhardstraße"
 housenumber: 5a

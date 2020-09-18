@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 48.0633521
 longitude: 11.2014692
-postcode: 82237
+postcode: "82237"
 city: Wörthsee
 street: "Dorfstraße"
 housenumber: 1

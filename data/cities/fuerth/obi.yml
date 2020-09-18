@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.484619800000004
 longitude: 10.9519479
-postcode: 90766
+postcode: "90766"
 city: Fürth
 street: "Am Annaberg"
 housenumber: 3-5

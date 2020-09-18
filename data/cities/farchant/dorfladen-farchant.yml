@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.5298625
 longitude: 11.113770800000001
-postcode: 82490
+postcode: "82490"
 city: Farchant
 street: "Bahnhofstraße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.5605308
 longitude: 11.2646206
-postcode: 86529
+postcode: "86529"
 city: Schrobenhausen
 street: "Lenbachstraße"
 housenumber: 46

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.8108616
 longitude: 9.889811100000001
-postcode: 97080
+postcode: "97080"
 city: Würzburg
 street: "Wilhelm-Wien-Straße"
 housenumber: 4

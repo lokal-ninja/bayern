@@ -3,7 +3,7 @@ type: node
 shop: Tickets
 latitude: 48.2633014
 longitude: 10.988142600000002
-postcode: 86415
+postcode: "86415"
 city: Mering
 street: "Bahnhofstraße"
 housenumber: 2

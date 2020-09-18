@@ -3,7 +3,7 @@ type: way
 shop: Spirituosen
 latitude: 48.379099800000006
 longitude: 10.850929
-postcode: 86156
+postcode: "86156"
 city: Augsburg
 street: "Kriegshaberstraße"
 housenumber: 3

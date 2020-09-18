@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 48.3696483
 longitude: 10.846749
-postcode: 86391
+postcode: "86391"
 city: Stadtbergen
 street: "Hagenmähderstraße"
 housenumber: 14

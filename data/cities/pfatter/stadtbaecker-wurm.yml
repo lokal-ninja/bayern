@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.9683933
 longitude: 12.3262657
-postcode: 93102
+postcode: "93102"
 city: Pfatter
 street: "Mintrachinger Straße"
 housenumber: 10

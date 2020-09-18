@@ -3,7 +3,7 @@ type: node
 shop: Wettbüro
 latitude: 48.140601100000005
 longitude: 11.5188132
-postcode: 80687
+postcode: "80687"
 city: München
 street: "Elsenheimerstraße"
 housenumber: 3

@@ -3,10 +3,10 @@ type: way
 shop: Getränke
 latitude: 48.409828700000006
 longitude: 10.0681127
-postcode: 89233
+postcode: "89233"
 city: Neu-Ulm
 street: "Adenauerstraße"
 housenumber: 3
-phone: "+49 731 / 711852"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
+phone: "+49 731 711852"
+opening_hours: "Mo-Sa 08:00-20:00"
 website: "http://www.finkbeiner.biz/"

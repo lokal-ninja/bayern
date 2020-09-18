@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 48.124097400000004
 longitude: 11.5651328
-postcode: 80469
+postcode: "80469"
 city: München
 street: "Kapuzinerstraße"
 housenumber: 39

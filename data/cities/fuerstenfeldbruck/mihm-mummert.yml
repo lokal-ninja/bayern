@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 48.178739400000005
 longitude: 11.2510636
-postcode: 82256
+postcode: "82256"
 city: Fürstenfeldbruck
 street: "Pucher Straße"
 housenumber: 40

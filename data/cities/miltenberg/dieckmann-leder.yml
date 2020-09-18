@@ -3,7 +3,7 @@ type: node
 shop: Leder
 latitude: 49.704892
 longitude: 9.2726836
-postcode: 63897
+postcode: "63897"
 city: Miltenberg
 street: "Breslauer Straße"
 housenumber: 1

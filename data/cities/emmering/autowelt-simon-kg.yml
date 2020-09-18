@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.177872400000005
 longitude: 11.3048178
-postcode: 82275
+postcode: "82275"
 city: Emmering
 street: "Reginawerk"
 housenumber: 4

@@ -1,12 +1,12 @@
-id: 339526217
+id: 220566645
 type: way
 shop: Drogerie
-latitude: 48.1298995
-longitude: 11.591061
-postcode: 81669
+latitude: 48.148194600000004
+longitude: 11.4436794
+postcode: "81243"
 city: München
-street: "Rosenheimer Straße"
-housenumber: 30
-phone: ""
-opening_hours: ""
-website: ""
+street: "Heimburgstraße"
+housenumber: 15
+phone: "+49 89 82005622"
+opening_hours: "Mo-Sa 08:00-20:00"
+website: "https://www.dm.de/"

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.169744900000005
 longitude: 11.811602500000001
-postcode: 85586
+postcode: "85586"
 city: Poing
 street: "Neufarner Straße"
 housenumber: 12

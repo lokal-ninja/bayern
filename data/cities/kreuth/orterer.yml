@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 47.6864234
 longitude: 11.7594046
-postcode: 83700
+postcode: "83700"
 city: Kreuth
 street: "Mühlbachweg"
 housenumber: 3

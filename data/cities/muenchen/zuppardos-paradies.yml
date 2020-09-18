@@ -3,7 +3,7 @@ type: way
 shop: Feinkost
 latitude: 48.0779085
 longitude: 11.5161674
-postcode: 81479
+postcode: "81479"
 city: München
 street: "Grünbauerstraße"
 housenumber: 13

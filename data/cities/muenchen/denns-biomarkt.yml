@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.164993700000004
 longitude: 11.461583500000001
-postcode: 81247
+postcode: "81247"
 city: München
 street: "Verdistraße"
 housenumber: 130

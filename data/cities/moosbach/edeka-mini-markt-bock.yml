@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.5905531
 longitude: 12.410328400000001
-postcode: 92709
+postcode: "92709"
 city: Moosbach
 street: "Hauptstraße"
 housenumber: 24

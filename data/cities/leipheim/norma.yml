@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.447757
 longitude: 10.229263600000001
-postcode: 89340
+postcode: "89340"
 city: Leipheim
 street: "Maximilianstraße"
 housenumber: 28

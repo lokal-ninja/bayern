@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.7928974
 longitude: 11.7628742
-postcode: 93333
+postcode: "93333"
 city: Neustadt a.d.Donau
 street: "Gewerbepark"
 housenumber: 17

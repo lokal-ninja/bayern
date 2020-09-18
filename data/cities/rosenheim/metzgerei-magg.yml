@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 47.8288839
 longitude: 12.1064986
-postcode: 83026
+postcode: "83026"
 city: Rosenheim
 street: "Aisinger Straße"
 housenumber: 89

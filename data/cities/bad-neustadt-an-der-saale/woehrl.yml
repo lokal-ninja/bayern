@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 50.321670000000005
 longitude: 10.2156718
-postcode: 97616
+postcode: "97616"
 city: Bad Neustadt an der Saale
 street: "Hohnstraße"
 housenumber: 21-23

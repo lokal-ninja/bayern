@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 47.8389547
 longitude: 11.1436686
-postcode: 82362
+postcode: "82362"
 city: Weilheim in Oberbayern
 street: "Admiral-Hipper-Straße"
 housenumber: 16

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.516012700000005
 longitude: 11.031312400000001
-postcode: 86574
+postcode: "86574"
 city: Petersdorf
 street: "Sonnenstraße"
 housenumber: 17

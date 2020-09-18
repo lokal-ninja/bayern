@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.497109
 longitude: 10.3970769
-postcode: 89355
+postcode: "89355"
 city: Gundremmingen
 street: "Hauptstraße"
 housenumber: 6

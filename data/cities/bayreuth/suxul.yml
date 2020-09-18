@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.943455
 longitude: 11.5772907
-postcode: 95444
+postcode: "95444"
 city: Bayreuth
 street: "Maximilianstraße"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 48.2545719
 longitude: 12.4598615
-postcode: 84562
+postcode: "84562"
 city: Mettenheim-Hart
 street: "An der Münchener Straße"
 housenumber: 4

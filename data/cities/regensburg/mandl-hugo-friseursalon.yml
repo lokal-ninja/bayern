@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.001162300000004
 longitude: 12.0802791
-postcode: 93051
+postcode: "93051"
 city: Regensburg
 street: "Roseggerstraße"
 housenumber: 2

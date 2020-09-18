@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.557553500000004
 longitude: 11.183266000000001
-postcode: 90562
+postcode: "90562"
 city: Heroldsberg
 street: ""
 housenumber: 42

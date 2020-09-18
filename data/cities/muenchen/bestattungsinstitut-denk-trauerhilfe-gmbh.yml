@@ -3,7 +3,7 @@ type: way
 shop: Bestattungen
 latitude: 48.1689725
 longitude: 11.527766600000001
-postcode: 80637
+postcode: "80637"
 city: München
 street: "Baldurstraße"
 housenumber: 27

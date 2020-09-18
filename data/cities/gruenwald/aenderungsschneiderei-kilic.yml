@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 48.0411263
 longitude: 11.5240469
-postcode: 82031
+postcode: "82031"
 city: Grünwald
 street: "Schloßstraße"
 housenumber: 14a

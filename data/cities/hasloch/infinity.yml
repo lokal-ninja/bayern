@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.791395900000005
 longitude: 9.492226800000001
-postcode: 97907
+postcode: "97907"
 city: Hasloch
 street: "Brunngasse"
 housenumber: 5

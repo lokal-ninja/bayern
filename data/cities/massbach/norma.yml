@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.1772174
 longitude: 10.2790494
-postcode: 97711
+postcode: "97711"
 city: Maßbach
 street: "Volkershausener Straße"
 housenumber: 46

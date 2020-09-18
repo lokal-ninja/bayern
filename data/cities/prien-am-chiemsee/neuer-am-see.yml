@@ -3,7 +3,7 @@ type: node
 shop: Konditorei
 latitude: 47.8604318
 longitude: 12.363481400000001
-postcode: 83209
+postcode: "83209"
 city: Prien am Chiemsee
 street: "Seestraße"
 housenumber: 104

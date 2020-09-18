@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 48.0635022
 longitude: 10.858445900000001
-postcode: 86899
+postcode: "86899"
 city: Landsberg am Lech
 street: "Max-Planck-Straße"
 housenumber: 4

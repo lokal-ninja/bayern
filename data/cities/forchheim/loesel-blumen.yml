@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 49.7192701
 longitude: 11.1101013
-postcode: 91301
+postcode: "91301"
 city: Forchheim
 street: "Reuther Straße"
 housenumber: 27

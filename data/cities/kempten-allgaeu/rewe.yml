@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.708868200000005
 longitude: 10.3298088
-postcode: 87437
+postcode: "87437"
 city: Kempten (Allgäu)
 street: "Magnusstraße"
 housenumber: 6

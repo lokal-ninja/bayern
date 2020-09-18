@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.2711929
 longitude: 10.834540500000001
-postcode: 86399
+postcode: "86399"
 city: Bobingen
 street: "Hochstraße"
 housenumber: 19

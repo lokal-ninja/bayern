@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.8484745
 longitude: 12.136536900000001
-postcode: 83022
+postcode: "83022"
 city: Rosenheim
 street: "Gießenbachstraße"
 housenumber: 2

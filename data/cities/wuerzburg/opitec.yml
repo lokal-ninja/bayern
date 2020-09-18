@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 49.7941142
 longitude: 9.9372381
-postcode: 97070
+postcode: "97070"
 city: Würzburg
 street: "Theaterstraße"
 housenumber: 25

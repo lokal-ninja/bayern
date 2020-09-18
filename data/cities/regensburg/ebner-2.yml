@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.0200307
 longitude: 12.089684700000001
-postcode: 93047
+postcode: "93047"
 city: Regensburg
 street: "Zur Schönen Gelegenheit"
 housenumber: 7

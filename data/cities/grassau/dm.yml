@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 47.779563200000005
 longitude: 12.470888400000002
-postcode: 83224
+postcode: "83224"
 city: Grassau
 street: "Eichelreuth"
 housenumber: 21

@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 49.0703903
 longitude: 12.184912200000001
-postcode: 93173
+postcode: "93173"
 city: Wenzenbach
 street: "Raiffeisenstraße"
 housenumber: 8

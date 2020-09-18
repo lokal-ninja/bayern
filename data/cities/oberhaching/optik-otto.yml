@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.0183024
 longitude: 11.589907700000001
-postcode: 82041
+postcode: "82041"
 city: Oberhaching
 street: "Bahnhofstraße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.1878133
 longitude: 11.552309900000001
-postcode: 80809
+postcode: "80809"
 city: München
 street: "Lerchenauer Straße"
 housenumber: 134

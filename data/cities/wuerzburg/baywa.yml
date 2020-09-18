@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.793228400000004
 longitude: 10.003002200000001
-postcode: 97076
+postcode: "97076"
 city: Würzburg
 street: "Nürnberger Straße"
 housenumber: 133

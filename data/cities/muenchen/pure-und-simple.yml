@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.1308294
 longitude: 11.5698673
-postcode: 80469
+postcode: "80469"
 city: München
 street: "Müllerstraße"
 housenumber: 31

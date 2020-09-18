@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.7527525
 longitude: 11.3777928
-postcode: 82377
+postcode: "82377"
 city: Penzberg
 street: "Bahnhofstraße"
 housenumber: 38

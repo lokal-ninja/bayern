@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.472584600000005
 longitude: 10.9898301
-postcode: 90762
+postcode: "90762"
 city: Fürth
 street: "Friedrichstraße"
 housenumber: 12

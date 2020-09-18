@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 49.340447600000005
 longitude: 11.020424400000001
-postcode: 91126
+postcode: "91126"
 city: Schwabach
 street: "Berlichingenstraße"
 housenumber: 16

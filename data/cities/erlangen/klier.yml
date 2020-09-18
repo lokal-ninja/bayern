@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.5996541
 longitude: 11.0023877
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Westliche Stadtmauerstraße"
 housenumber: 27

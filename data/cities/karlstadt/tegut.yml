@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 49.967717
 longitude: 9.7768954
-postcode: 97753
+postcode: "97753"
 city: Karlstadt
 street: "Bodelschwinghstraße"
 housenumber: 1
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: "Mo-Sa 07:00-20:00; PH off"
 website: ""

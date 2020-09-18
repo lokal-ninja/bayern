@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 50.0268431
 longitude: 10.1999828
-postcode: 97424
+postcode: "97424"
 city: Schweinfurt
 street: "Am Oberndorfer Weiher"
 housenumber: 15

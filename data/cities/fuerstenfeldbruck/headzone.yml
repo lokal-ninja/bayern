@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 48.1770939
 longitude: 11.253339
-postcode: 82256
+postcode: "82256"
 city: Fürstenfeldbruck
 street: "Schöngeisinger Straße"
 housenumber: 19

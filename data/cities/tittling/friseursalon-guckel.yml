@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.727052400000005
 longitude: 13.380476700000001
-postcode: 94104
+postcode: "94104"
 city: Tittling
 street: "Färbergasse"
 housenumber: 1

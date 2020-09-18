@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 49.511180100000004
 longitude: 11.4318749
-postcode: 91217
+postcode: "91217"
 city: Hersbruck
 street: "Steingasse"
 housenumber: 5b

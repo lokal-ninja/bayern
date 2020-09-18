@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.8757838
 longitude: 12.5555406
-postcode: 94315
+postcode: "94315"
 city: Straubing
 street: "Geiselhöringer Straße"
 housenumber: 61

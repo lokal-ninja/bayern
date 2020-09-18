@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.0257091
 longitude: 11.5961847
-postcode: 82041
+postcode: "82041"
 city: Oberhaching
 street: "Kirchplatz"
 housenumber: 8

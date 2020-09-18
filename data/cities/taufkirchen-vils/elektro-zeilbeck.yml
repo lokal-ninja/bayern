@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.3413544
 longitude: 12.1303804
-postcode: 84416
+postcode: "84416"
 city: Taufkirchen (Vils)
 street: "Dorfener Straße"
 housenumber: 16

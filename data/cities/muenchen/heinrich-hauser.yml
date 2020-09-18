@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.149874000000004
 longitude: 11.5770698
-postcode: 
+postcode: ""
 city: München
 street: "Schellingstraße"
 housenumber: 17

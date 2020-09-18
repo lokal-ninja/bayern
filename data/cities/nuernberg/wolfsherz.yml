@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 49.4516604
 longitude: 11.054801600000001
-postcode: 90429
+postcode: "90429"
 city: Nürnberg
 street: "Willstraße"
 housenumber: 1

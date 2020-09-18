@@ -3,7 +3,7 @@ type: node
 shop: Farben
 latitude: 50.3055643
 longitude: 10.199736600000001
-postcode: 97616
+postcode: "97616"
 city: Salz
 street: "Talstraße"
 housenumber: 6

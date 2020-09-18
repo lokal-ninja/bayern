@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.203789400000005
 longitude: 12.65849
-postcode: 93413
+postcode: "93413"
 city: Cham
 street: "Rodinger Straße"
 housenumber: 20

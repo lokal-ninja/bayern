@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.584597900000006
 longitude: 11.0056066
-postcode: 91052
+postcode: "91052"
 city: Erlangen
 street: "Karl-Zucker-Straße"
 housenumber: 7-9

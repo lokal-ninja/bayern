@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.1894768
 longitude: 11.5032674
-postcode: 80993
+postcode: "80993"
 city: München
 street: "Dachauer Straße"
 housenumber: 362

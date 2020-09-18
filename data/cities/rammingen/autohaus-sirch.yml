@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.064022900000005
 longitude: 10.5807455
-postcode: 86871
+postcode: "86871"
 city: Rammingen
 street: "Hauptstraße"
 housenumber: 73a

@@ -3,10 +3,10 @@ type: node
 shop: Reisebüro
 latitude: 48.0413988
 longitude: 11.5262556
-postcode: 82031
+postcode: "82031"
 city: Grünwald
 street: "Südliche Münchner Straße"
 housenumber: 10
 phone: "+49 89 6419030"
 opening_hours: ""
-website: "www.reise-welt.eu"
+website: "https://www.reise-welt.eu"

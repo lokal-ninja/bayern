@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.5663563
 longitude: 12.1011436
-postcode: 84032
+postcode: "84032"
 city: Altdorf
 street: "Am Aicher Feld"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.411988900000004
 longitude: 11.012549400000001
-postcode: 90547
+postcode: "90547"
 city: Stein
 street: "Forum"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.291200200000006
 longitude: 11.5708829
-postcode: 85716
+postcode: "85716"
 city: Unterschleißheim
 street: "Morsestraße"
 housenumber: 1

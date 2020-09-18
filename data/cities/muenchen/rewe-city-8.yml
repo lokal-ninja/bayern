@@ -1,12 +1,12 @@
-id: 4451767609
+id: 2440667290
 type: node
 shop: Supermarkt
-latitude: 48.1110394
-longitude: 11.5256439
-postcode: 81369
+latitude: 48.1165591
+longitude: 11.525786400000001
+postcode: "81373"
 city: München
-street: "Konrad-Celtis-Straße"
-housenumber: 66
-phone: "+49 89 500 803 74"
-opening_hours: "Mo-Sa 08:00-20:00; Su off"
+street: "Partnachplatz"
+housenumber: 1
+phone: ""
+opening_hours: "Mo-Sa 07:00-20:00"
 website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 49.799422400000005
 longitude: 9.906725400000001
-postcode: 97082
+postcode: "97082"
 city: Würzburg
 street: "Daimlerstraße"
 housenumber: 8

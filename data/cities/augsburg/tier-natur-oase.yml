@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 48.3723503
 longitude: 10.892612000000002
-postcode: 86152
+postcode: "86152"
 city: Augsburg
 street: "Kohlergasse"
 housenumber: 10

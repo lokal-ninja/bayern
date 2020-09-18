@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.097788800000004
 longitude: 11.5802017
-postcode: 
+postcode: ""
 city: München
 street: "Naupliastraße"
 housenumber: 6

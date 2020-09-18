@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 47.821484000000005
 longitude: 12.482494800000001
-postcode: 83236
+postcode: "83236"
 city: Übersee
 street: "Wolferstraße"
 housenumber: 1a

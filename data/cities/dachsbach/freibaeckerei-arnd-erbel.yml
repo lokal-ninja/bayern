@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.6419876
 longitude: 10.706284
-postcode: 91462
+postcode: "91462"
 city: Dachsbach
 street: "Hindenburgplatz"
 housenumber: 1

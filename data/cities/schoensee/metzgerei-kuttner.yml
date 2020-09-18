@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.509871600000004
 longitude: 12.545007400000001
-postcode: 92539
+postcode: "92539"
 city: Schönsee
 street: "Hauptstraße"
 housenumber: 45

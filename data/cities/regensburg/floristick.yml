@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.0131656
 longitude: 12.051266100000001
-postcode: 93049
+postcode: "93049"
 city: Regensburg
 street: "Rennweg"
 housenumber: 14

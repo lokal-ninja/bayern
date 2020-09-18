@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.848805600000006
 longitude: 12.0749034
-postcode: 83059
+postcode: "83059"
 city: Kolbermoor
 street: "Rosenheimer Straße"
 housenumber: 52

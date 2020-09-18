@@ -3,7 +3,7 @@ type: way
 shop: Sanitätshaus
 latitude: 47.737885500000004
 longitude: 10.3081139
-postcode: 87439
+postcode: "87439"
 city: Kempten (Allgäu)
 street: "Memminger Straße"
 housenumber: 104

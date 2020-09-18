@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 48.300704800000005
 longitude: 10.9024456
-postcode: 86179
+postcode: "86179"
 city: Augsburg
 street: "Alpenrosenstraße"
 housenumber: 25

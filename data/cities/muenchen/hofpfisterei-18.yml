@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.126246800000004
 longitude: 11.475827200000001
-postcode: 80689
+postcode: "80689"
 city: München
 street: "Terofalstraße"
 housenumber: 10a

@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.037939300000005
 longitude: 11.630461700000001
-postcode: 82024
+postcode: "82024"
 city: Taufkirchen
 street: "Tegernseer Landstraße"
 housenumber: 80

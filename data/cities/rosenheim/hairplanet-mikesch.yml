@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.854663
 longitude: 12.1343657
-postcode: 83022
+postcode: "83022"
 city: Rosenheim
 street: "Innstraße"
 housenumber: 37

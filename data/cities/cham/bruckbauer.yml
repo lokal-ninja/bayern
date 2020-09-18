@@ -3,7 +3,7 @@ type: way
 shop: Glaserei
 latitude: 49.224069
 longitude: 12.673811
-postcode: 93413
+postcode: "93413"
 city: Cham
 street: "Further Straße"
 housenumber: 18

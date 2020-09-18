@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 49.651343700000005
 longitude: 12.1356923
-postcode: 92637
+postcode: "92637"
 city: Weiden i.d.OPf.
 street: "Etzenrichter Straße"
 housenumber: 33

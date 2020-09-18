@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.164908100000005
 longitude: 11.4710926
-postcode: 81247
+postcode: "81247"
 city: München
 street: "Verdistraße"
 housenumber: 74

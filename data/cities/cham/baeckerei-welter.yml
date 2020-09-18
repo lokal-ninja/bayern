@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.2254944
 longitude: 12.6698059
-postcode: 93413
+postcode: "93413"
 city: Cham
 street: "Nunstinger Straße"
 housenumber: 7

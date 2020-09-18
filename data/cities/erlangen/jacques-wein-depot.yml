@@ -3,7 +3,7 @@ type: way
 shop: Spirituosen
 latitude: 49.604454000000004
 longitude: 11.000263700000001
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Jahnstraße"
 housenumber: 5

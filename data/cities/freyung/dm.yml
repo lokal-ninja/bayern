@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 48.822521300000005
 longitude: 13.543819000000001
-postcode: 94078
+postcode: "94078"
 city: Freyung
 street: "Speltenbach"
 housenumber: 62

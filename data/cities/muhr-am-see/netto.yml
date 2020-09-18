@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.1573896
 longitude: 10.7168062
-postcode: 91735
+postcode: "91735"
 city: Muhr am See
 street: "Stadelner Straße"
 housenumber: 20a

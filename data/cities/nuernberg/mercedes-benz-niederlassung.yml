@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.458292300000004
 longitude: 11.0303333
-postcode: 90429
+postcode: "90429"
 city: Nürnberg
 street: "Fürther Straße"
 housenumber: 235

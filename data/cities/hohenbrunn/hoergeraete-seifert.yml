@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 48.0573502
 longitude: 11.666905900000001
-postcode: 85521
+postcode: "85521"
 city: Hohenbrunn
 street: "Rosenheimer Landstraße"
 housenumber: 103

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.1773146
 longitude: 11.586385
-postcode: 80805
+postcode: "80805"
 city: München
 street: "Schenkendorfstraße"
 housenumber: 96

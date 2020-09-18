@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.4499641
 longitude: 11.057261
-postcode: 90429
+postcode: "90429"
 city: Nürnberg
 street: "Eberhardshofstraße"
 housenumber: 2

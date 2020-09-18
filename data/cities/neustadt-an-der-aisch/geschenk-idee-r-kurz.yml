@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 49.580253500000005
 longitude: 10.6087293
-postcode: 91413
+postcode: "91413"
 city: Neustadt an der Aisch
 street: "Wilhelmstraße"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.848252200000005
 longitude: 11.655258100000001
-postcode: 83607
+postcode: "83607"
 city: Holzkirchen
 street: "Hackenseestraße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 48.1318562
 longitude: 11.3659963
-postcode: 82110
+postcode: "82110"
 city: Germering
 street: "Eugen-Papst-Straße"
 housenumber: 2

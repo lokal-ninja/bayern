@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 49.4445831
 longitude: 11.854962
-postcode: 92224
+postcode: "92224"
 city: Amberg
 street: "Georgenstraße"
 housenumber: 25

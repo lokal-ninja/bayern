@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.446924200000005
 longitude: 11.0649482
-postcode: 90443
+postcode: "90443"
 city: Nürnberg
 street: "Gostenhofer Hauptstraße"
 housenumber: 27

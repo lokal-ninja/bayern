@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 49.058578600000004
 longitude: 10.656288100000001
-postcode: 91717
+postcode: "91717"
 city: Wassertrüdingen
 street: "Obermögersheim"
 housenumber: 107

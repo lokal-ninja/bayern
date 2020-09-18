@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.004386100000005
 longitude: 12.0767158
-postcode: 95615
+postcode: "95615"
 city: Marktredwitz
 street: "Bayreuther Straße"
 housenumber: 5

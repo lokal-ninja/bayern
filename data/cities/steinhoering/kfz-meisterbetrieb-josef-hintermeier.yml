@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.093417
 longitude: 12.04978
-postcode: 85643
+postcode: "85643"
 city: Steinhöring
 street: "Endorf"
 housenumber: 23

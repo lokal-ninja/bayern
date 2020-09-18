@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.6114102
 longitude: 10.568858200000001
-postcode: 89420
+postcode: "89420"
 city: Höchstädt a.d.Donau
 street: "Herzogin-Anna-Straße"
 housenumber: 7

@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 48.3810537
 longitude: 10.0248881
-postcode: 89231
+postcode: "89231"
 city: Neu-Ulm
 street: "Junkersstraße"
 housenumber: 6

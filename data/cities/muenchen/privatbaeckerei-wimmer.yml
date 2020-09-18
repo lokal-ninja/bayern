@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.1420363
 longitude: 11.5883575
-postcode: 80538
+postcode: "80538"
 city: München
 street: "Wagmüllerstraße"
 housenumber: 19

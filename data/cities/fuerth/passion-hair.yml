@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.481886
 longitude: 11.0076803
-postcode: 90765
+postcode: "90765"
 city: Fürth
 street: "Poppenreuther Straße"
 housenumber: 72

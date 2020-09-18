@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 49.480213400000004
 longitude: 10.9780607
-postcode: 90766
+postcode: "90766"
 city: Fürth
 street: "Cadolzburger Straße"
 housenumber: 1

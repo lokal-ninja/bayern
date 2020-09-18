@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.994711300000006
 longitude: 9.574737800000001
-postcode: 97816
+postcode: "97816"
 city: Lohr am Main
 street: "Hauptstraße"
 housenumber: 24

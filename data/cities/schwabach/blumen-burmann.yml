@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 49.3303188
 longitude: 10.993890700000001
-postcode: 91126
+postcode: "91126"
 city: Schwabach
 street: "Volkachstraße"
 housenumber: 3

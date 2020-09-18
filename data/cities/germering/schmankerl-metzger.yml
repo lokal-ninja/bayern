@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.1308233
 longitude: 11.3713525
-postcode: 82110
+postcode: "82110"
 city: Germering
 street: "Streiflacher Straße"
 housenumber: 5

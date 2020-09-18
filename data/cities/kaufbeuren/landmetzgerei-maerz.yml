@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 47.9136649
 longitude: 10.6359052
-postcode: 87600
+postcode: "87600"
 city: Kaufbeuren
 street: "Neuer Markt"
 housenumber: 9

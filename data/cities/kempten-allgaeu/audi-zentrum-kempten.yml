@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.714117900000005
 longitude: 10.316659900000001
-postcode: 87435
+postcode: "87435"
 city: Kempten (Allgäu)
 street: "Calgeerstraße"
 housenumber: 7

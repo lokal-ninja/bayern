@@ -1,12 +1,12 @@
-id: 4898430869
+id: 5275262362
 type: node
 shop: Drogerie
-latitude: 48.3343222
-longitude: 10.9045588
-postcode: 86159
+latitude: 48.3643316
+longitude: 10.911229800000001
+postcode: "86153"
 city: Augsburg
-street: "Hermann-Köhl-Straße"
-housenumber: 14
+street: "Oberbürgermeister-Hohner-Straße"
+housenumber: 1
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 08:30-16:00; PH off"
-website: "https://www.rossmann.de/"
+opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off"
+website: ""

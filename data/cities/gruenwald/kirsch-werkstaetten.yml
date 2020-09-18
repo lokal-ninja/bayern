@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 48.0393411
 longitude: 11.523332100000001
-postcode: 82031
+postcode: "82031"
 city: Grünwald
 street: "Marktplatz"
 housenumber: 2

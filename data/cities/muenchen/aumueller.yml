@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.1400446
 longitude: 11.678732400000001
-postcode: 81829
+postcode: "81829"
 city: München
 street: "Riemer Straße"
 housenumber: 338

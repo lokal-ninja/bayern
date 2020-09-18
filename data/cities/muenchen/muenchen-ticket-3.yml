@@ -3,7 +3,7 @@ type: node
 shop: Tickets
 latitude: 48.1745341
 longitude: 11.558007400000001
-postcode: 80809
+postcode: "80809"
 city: München
 street: "Spiridon-Louis-Ring"
 housenumber: 7

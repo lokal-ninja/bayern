@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 48.118666600000005
 longitude: 11.5177931
-postcode: 81373
+postcode: "81373"
 city: München
 street: "Ohlstadter Straße"
 housenumber: 52

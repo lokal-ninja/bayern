@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.235946000000006
 longitude: 10.9559783
-postcode: 91183
+postcode: "91183"
 city: Abenberg
 street: "Spalter Straße"
 housenumber: 56

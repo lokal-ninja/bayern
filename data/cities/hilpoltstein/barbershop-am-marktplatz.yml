@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.1890573
 longitude: 11.1914026
-postcode: 91161
+postcode: "91161"
 city: Hilpoltstein
 street: "Marktstraße"
 housenumber: 5

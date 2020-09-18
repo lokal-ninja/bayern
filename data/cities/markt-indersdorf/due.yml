@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.360104
 longitude: 11.3813571
-postcode: 85229
+postcode: "85229"
 city: Markt Indersdorf
 street: "Augustinerring"
 housenumber: 2

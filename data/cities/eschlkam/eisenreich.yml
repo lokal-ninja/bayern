@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.2961953
 longitude: 12.9736446
-postcode: 93458
+postcode: "93458"
 city: Eschlkam
 street: "Siegmund-Adam-Straße"
 housenumber: 28

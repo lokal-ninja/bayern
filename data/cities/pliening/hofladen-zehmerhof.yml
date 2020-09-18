@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 48.1976232
 longitude: 11.8112615
-postcode: 85652
+postcode: "85652"
 city: Pliening
 street: "Markt Schwabener Straße"
 housenumber: 24

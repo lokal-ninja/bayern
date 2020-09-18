@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.377892
 longitude: 10.190822500000001
-postcode: 91541
+postcode: "91541"
 city: Rothenburg ob der Tauber
 street: "Bahnhofstraße"
 housenumber: 15

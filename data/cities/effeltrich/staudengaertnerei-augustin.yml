@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 49.6547105
 longitude: 11.093726
-postcode: 91090
+postcode: "91090"
 city: Effeltrich
 street: "Neunkirchener Straße"
 housenumber: 15

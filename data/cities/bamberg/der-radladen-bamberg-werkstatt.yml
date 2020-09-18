@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 49.896649800000006
 longitude: 10.8978864
-postcode: 96050
+postcode: "96050"
 city: Bamberg
 street: "Steinweg"
 housenumber: 4a

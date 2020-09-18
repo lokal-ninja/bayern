@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 48.0448029
 longitude: 11.965446100000001
-postcode: 85567
+postcode: "85567"
 city: Grafing bei München
 street: "Am Urtelbach"
 housenumber: 2

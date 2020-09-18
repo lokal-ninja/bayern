@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.905724400000004
 longitude: 10.972200200000001
-postcode: 86935
+postcode: "86935"
 city: Rott
 street: "Dießener Straße"
 housenumber: 8

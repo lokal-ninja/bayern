@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 49.238387100000004
 longitude: 12.6759768
-postcode: 93497
+postcode: "93497"
 city: Willmering
 street: "Zifling-Bierl"
 housenumber: 76

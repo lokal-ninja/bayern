@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.4584066
 longitude: 10.855830500000001
-postcode: 90556
+postcode: "90556"
 city: Cadolzburg
 street: "Hindenburgstraße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 50.3230427
 longitude: 10.2154398
-postcode: 97616
+postcode: "97616"
 city: Bad Neustadt an der Saale
 street: "Marktplatz"
 housenumber: 31

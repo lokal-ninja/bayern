@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.180528900000006
 longitude: 11.5071674
-postcode: 80992
+postcode: "80992"
 city: München
 street: "Bunzlauer Straße"
 housenumber: 7

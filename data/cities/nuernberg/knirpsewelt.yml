@@ -3,7 +3,7 @@ type: node
 shop: Babysachen
 latitude: 49.461060700000004
 longitude: 11.103666200000001
-postcode: 90489
+postcode: "90489"
 city: Nürnberg
 street: "Ludwig-Feuerbach-Straße"
 housenumber: 94

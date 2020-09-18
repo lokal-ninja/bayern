@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 50.0456829
 longitude: 10.2334089
-postcode: 97421
+postcode: "97421"
 city: Schweinfurt
 street: "Zehntstraße"
 housenumber: 2

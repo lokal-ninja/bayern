@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.728998600000004
 longitude: 11.0575665
-postcode: 91301
+postcode: "91301"
 city: Forchheim
 street: "Bamberger Straße"
 housenumber: 81

@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 48.3636749
 longitude: 10.8731907
-postcode: 86157
+postcode: "86157"
 city: Augsburg
 street: "Augsburger Straße"
 housenumber: 14

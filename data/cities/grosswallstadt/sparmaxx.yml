@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 49.881550700000005
 longitude: 9.1421677
-postcode: 63868
+postcode: "63868"
 city: Großwallstadt
 street: "Einsteinstraße"
 housenumber: 6

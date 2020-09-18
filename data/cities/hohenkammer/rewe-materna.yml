@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.4295601
 longitude: 11.5237622
-postcode: 85411
+postcode: "85411"
 city: Hohenkammer
 street: "Eisfeldstraße"
 housenumber: 5

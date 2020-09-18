@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.268053900000005
 longitude: 10.9865394
-postcode: 86415
+postcode: "86415"
 city: Mering
 street: "Marktplatz"
 housenumber: 7

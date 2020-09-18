@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.1312446
 longitude: 11.5107946
-postcode: 80686
+postcode: "80686"
 city: München
 street: "Burgkmairstraße"
 housenumber: 48

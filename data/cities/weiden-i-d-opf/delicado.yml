@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.6759902
 longitude: 12.160829300000001
-postcode: 92637
+postcode: "92637"
 city: Weiden i.d.OPf.
 street: "Postgasse"
 housenumber: 2

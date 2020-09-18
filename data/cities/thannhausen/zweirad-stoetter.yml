@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.2836997
 longitude: 10.4719186
-postcode: 86470
+postcode: "86470"
 city: Thannhausen
 street: "Augsburger Straße"
 housenumber: 

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.242735800000005
 longitude: 11.090213700000001
-postcode: 91154
+postcode: "91154"
 city: Roth
 street: "Münchener Straße"
 housenumber: 33 a

@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 48.2697489
 longitude: 13.0198999
-postcode: 84359
+postcode: "84359"
 city: Simbach am Inn
 street: "Simon-Breu-Straße"
 housenumber: 39

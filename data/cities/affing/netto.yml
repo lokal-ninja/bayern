@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.437772700000004
 longitude: 10.927987
-postcode: 86444
+postcode: "86444"
 city: Affing
 street: "Linker Kreuthweg"
 housenumber: 1

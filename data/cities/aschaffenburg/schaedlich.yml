@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 49.9753449
 longitude: 9.1462263
-postcode: 63739
+postcode: "63739"
 city: Aschaffenburg
 street: "Nebensteingasse"
 housenumber: 1-5

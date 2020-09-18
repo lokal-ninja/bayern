@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 48.398277300000004
 longitude: 10.9302761
-postcode: 86167
+postcode: "86167"
 city: Augsburg
 street: "Bürgermeister-Wegele-Straße"
 housenumber: 21

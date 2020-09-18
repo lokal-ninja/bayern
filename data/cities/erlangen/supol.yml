@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 49.5773291
 longitude: 10.986850200000001
-postcode: 91058
+postcode: "91058"
 city: Erlangen
 street: "Äußere Brucker Straße"
 housenumber: 170

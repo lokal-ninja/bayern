@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 49.5162496
 longitude: 11.0311673
-postcode: 90427
+postcode: "90427"
 city: Nürnberg
 street: "Am Sportplatz"
 housenumber: 4

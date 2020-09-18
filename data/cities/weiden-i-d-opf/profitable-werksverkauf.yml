@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 49.667342000000005
 longitude: 12.1550034
-postcode: 92637
+postcode: "92637"
 city: Weiden i.d.OPf.
 street: "Fabrikstraße"
 housenumber: 

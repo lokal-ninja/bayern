@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.6464767
 longitude: 12.484998800000001
-postcode: 84130
+postcode: "84130"
 city: Dingolfing
 street: "Mengkofener Straße"
 housenumber: 5

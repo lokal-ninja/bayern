@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 47.8561788
 longitude: 11.4794923
-postcode: 82538
+postcode: "82538"
 city: Geretsried
 street: "Johann-Sebastian-Bach-Straße"
 housenumber: 13

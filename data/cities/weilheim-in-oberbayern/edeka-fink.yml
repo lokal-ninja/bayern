@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.8442829
 longitude: 11.1332128
-postcode: 82362
+postcode: "82362"
 city: Weilheim in Oberbayern
 street: "Kanalstraße"
 housenumber: 2

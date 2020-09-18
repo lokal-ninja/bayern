@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 47.950902600000006
 longitude: 12.2767864
-postcode: 83128
+postcode: "83128"
 city: Halfing
 street: "Chiemseestraße"
 housenumber: 8

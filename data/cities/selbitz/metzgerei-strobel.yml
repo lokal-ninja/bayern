@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.33082
 longitude: 11.785626800000001
-postcode: 95152
+postcode: "95152"
 city: Selbitz
 street: "Dörnthal"
 housenumber: 71

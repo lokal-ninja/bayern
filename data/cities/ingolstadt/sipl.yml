@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.7519858
 longitude: 11.4275129
-postcode: 85051
+postcode: "85051"
 city: Ingolstadt
 street: "Haunwöhrer Straße"
 housenumber: 32

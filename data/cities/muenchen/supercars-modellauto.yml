@@ -3,7 +3,7 @@ type: node
 shop: Modellbau
 latitude: 48.196967
 longitude: 11.5457961
-postcode: 80935
+postcode: "80935"
 city: München
 street: "Lerchenauer Straße"
 housenumber: 200

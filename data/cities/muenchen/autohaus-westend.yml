@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.1310705
 longitude: 11.5201173
-postcode: 80686
+postcode: "80686"
 city: München
 street: "Westendstraße"
 housenumber: 219

@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.358662700000004
 longitude: 10.7850982
-postcode: 86420
+postcode: "86420"
 city: Diedorf
 street: "Gewerbestraße"
 housenumber: 8

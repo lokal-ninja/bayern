@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 48.678629
 longitude: 11.590738700000001
-postcode: 85290
+postcode: "85290"
 city: Geisenfeld
 street: "Augsburger Straße"
 housenumber: 95

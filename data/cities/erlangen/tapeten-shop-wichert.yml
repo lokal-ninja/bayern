@@ -3,7 +3,7 @@ type: way
 shop: Gardinen
 latitude: 49.5796019
 longitude: 11.0213263
-postcode: 91058
+postcode: "91058"
 city: Erlangen
 street: "Gleiwitzer Straße"
 housenumber: 25

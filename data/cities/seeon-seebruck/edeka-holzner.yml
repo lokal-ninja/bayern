@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.959252400000004
 longitude: 12.5010013
-postcode: 83376
+postcode: "83376"
 city: Seeon-Seebruck
 street: "Chiemseestraße"
 housenumber: 4

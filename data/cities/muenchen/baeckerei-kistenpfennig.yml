@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.1872613
 longitude: 11.5723415
-postcode: 80807
+postcode: "80807"
 city: München
 street: "Knorrstraße"
 housenumber: 91

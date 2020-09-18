@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 48.3952122
 longitude: 10.9240005
-postcode: 86167
+postcode: "86167"
 city: Augsburg
 street: "Curt-Frenzel-Straße"
 housenumber: 10a

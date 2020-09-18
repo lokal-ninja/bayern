@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 49.943676
 longitude: 11.5791371
-postcode: 95444
+postcode: "95444"
 city: Bayreuth
 street: "Badstraße"
 housenumber: 7

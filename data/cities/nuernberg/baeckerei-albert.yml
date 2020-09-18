@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.4638264
 longitude: 11.0876903
-postcode: 90409
+postcode: "90409"
 city: Nürnberg
 street: "Parkstraße"
 housenumber: 10

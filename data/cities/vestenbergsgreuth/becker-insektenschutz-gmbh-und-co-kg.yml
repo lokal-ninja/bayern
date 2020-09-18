@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.7019516
 longitude: 10.697292000000001
-postcode: 91487
+postcode: "91487"
 city: Vestenbergsgreuth
 street: "Eichleite"
 housenumber: 9

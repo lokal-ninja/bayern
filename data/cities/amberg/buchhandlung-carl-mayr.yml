@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 49.4453742
 longitude: 11.854482200000001
-postcode: 92224
+postcode: "92224"
 city: Amberg
 street: "Schrannenplatz"
 housenumber: 3

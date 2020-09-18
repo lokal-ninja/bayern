@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 47.8628683
 longitude: 12.0113544
-postcode: 83043
+postcode: "83043"
 city: Bad Aibling
 street: "Rosenheimer Straße"
 housenumber: 12

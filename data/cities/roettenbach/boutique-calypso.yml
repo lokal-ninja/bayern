@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.6633945
 longitude: 10.9215549
-postcode: 91341
+postcode: "91341"
 city: Röttenbach
 street: "Forstacker"
 housenumber: 1

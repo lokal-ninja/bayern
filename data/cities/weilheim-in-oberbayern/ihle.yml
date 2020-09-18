@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.8428071
 longitude: 11.1498202
-postcode: 82362
+postcode: "82362"
 city: Weilheim in Oberbayern
 street: "Kaltenmoserstraße"
 housenumber: 28

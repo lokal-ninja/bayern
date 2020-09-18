@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 49.596681800000006
 longitude: 11.0090143
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Obere Karlstraße"
 housenumber: 12

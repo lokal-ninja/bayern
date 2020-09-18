@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.1993189
 longitude: 11.626953700000001
-postcode: 80939
+postcode: "80939"
 city: München
 street: "Freisinger Landstraße"
 housenumber: 84

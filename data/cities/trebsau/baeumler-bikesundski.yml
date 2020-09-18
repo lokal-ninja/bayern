@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.638341700000005
 longitude: 12.2034046
-postcode: 92699
+postcode: "92699"
 city: Trebsau
 street: "Pirkerstr."
 housenumber: 41

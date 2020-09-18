@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.5960076
 longitude: 11.0059535
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Neustädter Kirchenplatz"
 housenumber: 6

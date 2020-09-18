@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.5949936
 longitude: 11.0048577
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Hauptstraße"
 housenumber: 8

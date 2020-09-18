@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 49.7410331
 longitude: 10.1683158
-postcode: 97318
+postcode: "97318"
 city: Kitzingen
 street: "Mainbernheimer Straße"
 housenumber: 6

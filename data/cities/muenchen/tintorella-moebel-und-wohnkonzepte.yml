@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.1603829
 longitude: 11.5830152
-postcode: 80801
+postcode: "80801"
 city: München
 street: "Wilhelmstraße"
 housenumber: 19

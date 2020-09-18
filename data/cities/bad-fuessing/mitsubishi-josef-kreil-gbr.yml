@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.305899100000005
 longitude: 13.2598614
-postcode: 94072
+postcode: "94072"
 city: Bad Füssing
 street: "Bauerngasse"
 housenumber: 14

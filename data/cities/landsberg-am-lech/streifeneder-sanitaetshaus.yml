@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 48.052506900000004
 longitude: 10.877213300000001
-postcode: 86899
+postcode: "86899"
 city: Landsberg am Lech
 street: "Vorderer Anger"
 housenumber: 268

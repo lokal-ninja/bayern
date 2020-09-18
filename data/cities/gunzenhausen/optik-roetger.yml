@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 49.1161435
 longitude: 10.7537021
-postcode: 91710
+postcode: "91710"
 city: Gunzenhausen
 street: "Gerberstraße"
 housenumber: 4

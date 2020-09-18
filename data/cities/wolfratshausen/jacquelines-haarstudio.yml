@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.913069500000006
 longitude: 11.438745200000001
-postcode: 82515
+postcode: "82515"
 city: Wolfratshausen
 street: "Äußere Sauerlacher Straße"
 housenumber: 20

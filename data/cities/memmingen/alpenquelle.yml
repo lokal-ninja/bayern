@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 47.9948883
 longitude: 10.1826799
-postcode: 87700
+postcode: "87700"
 city: Memmingen
 street: "Colmarer Straße"
 housenumber: 

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.980201
 longitude: 9.142862000000001
-postcode: 63739
+postcode: "63739"
 city: Aschaffenburg
 street: "Ludwigstraße"
 housenumber: 2

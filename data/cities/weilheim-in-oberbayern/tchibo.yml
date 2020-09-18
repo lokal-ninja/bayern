@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 47.8392287
 longitude: 11.1433351
-postcode: 82362
+postcode: "82362"
 city: Weilheim in Oberbayern
 street: "Admiral-Hipper-Straße"
 housenumber: 9

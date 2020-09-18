@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.953726100000004
 longitude: 12.403173500000001
-postcode: 93102
+postcode: "93102"
 city: Pfatter
 street: "Am Fuchsbühl"
 housenumber: 3

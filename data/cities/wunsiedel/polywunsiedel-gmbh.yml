@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 50.0347008
 longitude: 12.0010425
-postcode: 95632
+postcode: "95632"
 city: Wunsiedel
 street: "Landgrafweg"
 housenumber: 5

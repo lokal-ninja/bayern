@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.98218850000001
 longitude: 12.1910697
-postcode: 93073
+postcode: "93073"
 city: Neutraubling
 street: "Pommernstraße"
 housenumber: 4

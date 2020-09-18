@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.17691
 longitude: 11.255146100000001
-postcode: 82256
+postcode: "82256"
 city: Fürstenfeldbruck
 street: "Ledererstraße"
 housenumber: 2

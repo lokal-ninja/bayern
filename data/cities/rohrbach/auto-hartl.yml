@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.6116332
 longitude: 11.579067400000001
-postcode: 85296
+postcode: "85296"
 city: Rohrbach
 street: "Messerschmittstraße"
 housenumber: 1

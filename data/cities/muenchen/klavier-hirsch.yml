@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 48.11172800000001
 longitude: 11.5765846
-postcode: 81539
+postcode: "81539"
 city: München
 street: "Tegernseer Landstraße"
 housenumber: 135

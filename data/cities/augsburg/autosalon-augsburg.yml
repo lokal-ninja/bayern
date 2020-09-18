@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.402781100000006
 longitude: 10.8800054
-postcode: 86154
+postcode: "86154"
 city: Augsburg
 street: "Donauwörther Straße"
 housenumber: 284

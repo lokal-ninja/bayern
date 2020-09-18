@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 48.5842067
 longitude: 11.0900979
-postcode: 86554
+postcode: "86554"
 city: Pöttmes
 street: "Kirchplatz"
 housenumber: 6

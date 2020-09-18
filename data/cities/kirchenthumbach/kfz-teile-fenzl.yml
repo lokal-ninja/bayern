@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 49.748021400000006
 longitude: 11.7245497
-postcode: 91281
+postcode: "91281"
 city: Kirchenthumbach
 street: "Marktplatz"
 housenumber: 23

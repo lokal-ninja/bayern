@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 50.4274579
 longitude: 10.3023678
-postcode: 97638
+postcode: "97638"
 city: Mellrichstadt
 street: "Roßmarkt"
 housenumber: 2

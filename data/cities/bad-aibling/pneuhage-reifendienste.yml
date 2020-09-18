@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 47.854900900000004
 longitude: 12.0169122
-postcode: 83043
+postcode: "83043"
 city: Bad Aibling
 street: "Rosenheimer Straße"
 housenumber: 75

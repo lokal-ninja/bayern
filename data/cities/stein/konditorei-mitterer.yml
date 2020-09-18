@@ -3,7 +3,7 @@ type: node
 shop: Konditorei
 latitude: 49.414239300000006
 longitude: 11.0158489
-postcode: 90547
+postcode: "90547"
 city: Stein
 street: "Deutenbacher Straße"
 housenumber: 23

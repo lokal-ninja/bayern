@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.3542013
 longitude: 10.9782303
-postcode: 86316
+postcode: "86316"
 city: Friedberg
 street: "Bauernbräustraße"
 housenumber: 16

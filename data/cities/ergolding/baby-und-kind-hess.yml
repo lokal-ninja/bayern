@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 48.5646695
 longitude: 12.165341100000001
-postcode: 84030
+postcode: "84030"
 city: Ergolding
 street: "Industriestraße"
 housenumber: 14

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.831418400000004
 longitude: 12.9625432
-postcode: 94469
+postcode: "94469"
 city: Deggendorf
 street: "Michael-Fischer-Platz"
 housenumber: 3

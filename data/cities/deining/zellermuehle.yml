@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.223885800000005
 longitude: 11.5407088
-postcode: 92364
+postcode: "92364"
 city: Deining
 street: "Untere Hauptstraße"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 48.3672842
 longitude: 10.8953089
-postcode: 86150
+postcode: "86150"
 city: Augsburg
 street: "Annastraße"
 housenumber: 33

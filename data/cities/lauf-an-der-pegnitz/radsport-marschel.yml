@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.509212500000004
 longitude: 11.280190000000001
-postcode: 91207
+postcode: "91207"
 city: Lauf an der Pegnitz
 street: "Siebenkeesstraße"
 housenumber: 12

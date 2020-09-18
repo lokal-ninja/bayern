@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 48.431645800000005
 longitude: 10.4065141
-postcode: 89331
+postcode: "89331"
 city: Burgau
 street: "Norbert-Schuster-Straße"
 housenumber: 4

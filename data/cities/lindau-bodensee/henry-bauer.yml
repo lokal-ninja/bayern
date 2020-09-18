@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.553381
 longitude: 9.7118315
-postcode: 88131
+postcode: "88131"
 city: Lindau (Bodensee)
 street: "Heuriedweg"
 housenumber: 18

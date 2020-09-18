@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.990779100000005
 longitude: 10.1584064
-postcode: 87700
+postcode: "87700"
 city: Memmingen
 street: "Rügenstraße"
 housenumber: 14

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.0165908
 longitude: 12.096362300000001
-postcode: 93047
+postcode: "93047"
 city: Regensburg
 street: "Obermünsterstraße"
 housenumber: 9a

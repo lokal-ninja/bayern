@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.1308516
 longitude: 11.4315412
-postcode: 82166
+postcode: "82166"
 city: Gräfelfing
 street: "Aubinger Straße"
 housenumber: 4a

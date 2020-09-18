@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.9529994
 longitude: 12.778364400000001
-postcode: 83417
+postcode: "83417"
 city: Kirchanschöring
 street: "Wolkersdorf"
 housenumber: 9

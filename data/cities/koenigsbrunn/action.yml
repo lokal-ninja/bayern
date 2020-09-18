@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 48.286290900000004
 longitude: 10.8896782
-postcode: 86343
+postcode: "86343"
 city: Königsbrunn
 street: "Wandalenstraße"
 housenumber: 26

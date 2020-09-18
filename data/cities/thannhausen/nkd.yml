@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.282203300000006
 longitude: 10.469146400000001
-postcode: 86470
+postcode: "86470"
 city: Thannhausen
 street: "Christoph-von-Schmid-Straße"
 housenumber: 8

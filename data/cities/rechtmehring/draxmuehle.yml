@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.14128830000001
 longitude: 12.168860800000001
-postcode: 
+postcode: ""
 city: Rechtmehring
 street: "Hochhaus"
 housenumber: 5

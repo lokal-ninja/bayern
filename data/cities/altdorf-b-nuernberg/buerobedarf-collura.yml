@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 49.384968
 longitude: 11.3559522
-postcode: 90518
+postcode: "90518"
 city: Altdorf b. Nürnberg
 street: "Neubaugasse"
 housenumber: 8

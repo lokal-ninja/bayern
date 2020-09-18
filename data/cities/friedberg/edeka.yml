@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.361742500000005
 longitude: 10.957372000000001
-postcode: 86316
+postcode: "86316"
 city: Friedberg
 street: "Lechhauser Straße"
 housenumber: 40

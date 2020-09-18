@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.750410800000004
 longitude: 12.9611911
-postcode: 94554
+postcode: "94554"
 city: Moos
 street: "Preysingstraße"
 housenumber: 15

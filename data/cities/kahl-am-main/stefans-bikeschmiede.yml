@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 50.0639819
 longitude: 9.0032601
-postcode: 63796
+postcode: "63796"
 city: Kahl am Main
 street: "Westring"
 housenumber: 7

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.7332229
 longitude: 10.7779646
-postcode: 86609
+postcode: "86609"
 city: Donauwörth
 street: "Nürnberger Straße"
 housenumber: 20

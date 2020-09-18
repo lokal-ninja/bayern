@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 49.7082592
 longitude: 11.1461933
-postcode: 91369
+postcode: "91369"
 city: Wiesenthau
 street: "Schlaifhausen"
 housenumber: 3

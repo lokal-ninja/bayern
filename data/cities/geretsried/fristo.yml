@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 47.879714400000005
 longitude: 11.470221400000002
-postcode: 82538
+postcode: "82538"
 city: Geretsried
 street: "Böhmerwaldstraße"
 housenumber: 44

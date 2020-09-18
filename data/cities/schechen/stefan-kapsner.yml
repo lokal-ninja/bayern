@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 47.937338000000004
 longitude: 12.1340605
-postcode: 83135
+postcode: "83135"
 city: Schechen
 street: "Am Weidengrund"
 housenumber: 7

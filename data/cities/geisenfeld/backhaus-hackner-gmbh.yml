@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.6848206
 longitude: 11.613901700000001
-postcode: 85290
+postcode: "85290"
 city: Geisenfeld
 street: "Marienplatz"
 housenumber: 7

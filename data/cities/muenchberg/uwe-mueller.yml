@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.195825600000006
 longitude: 11.6944792
-postcode: 95213
+postcode: "95213"
 city: Münchberg
 street: "Ahornis"
 housenumber: 18 1/2

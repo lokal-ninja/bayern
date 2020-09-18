@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.2391693
 longitude: 12.6903518
-postcode: 84524
+postcode: "84524"
 city: Neuötting
 street: "Altöttinger Straße"
 housenumber: 1

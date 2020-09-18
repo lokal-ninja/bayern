@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 48.1331653
 longitude: 11.5855405
-postcode: 80538
+postcode: "80538"
 city: München
 street: "Steinsdorfstraße"
 housenumber: 18

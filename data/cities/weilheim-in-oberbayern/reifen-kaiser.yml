@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 47.8454476
 longitude: 11.1286698
-postcode: 82362
+postcode: "82362"
 city: Weilheim in Oberbayern
 street: "Wessobrunner Straße"
 housenumber: 43

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.993597
 longitude: 12.3063368
-postcode: 83123
+postcode: "83123"
 city: Amerang
 street: "Wasserburger Straße"
 housenumber: 27

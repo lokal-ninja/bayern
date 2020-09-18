@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.864119800000005
 longitude: 12.0091926
-postcode: 83043
+postcode: "83043"
 city: Bad Aibling
 street: "Münchner Straße"
 housenumber: 2

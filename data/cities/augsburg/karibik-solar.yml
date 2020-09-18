@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.370572700000004
 longitude: 10.895871000000001
-postcode: 86152
+postcode: "86152"
 city: Augsburg
 street: "Obstmarkt"
 housenumber: 11

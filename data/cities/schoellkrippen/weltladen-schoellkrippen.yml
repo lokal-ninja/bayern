@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.0869219
 longitude: 9.2428907
-postcode: 63825
+postcode: "63825"
 city: Schöllkrippen
 street: "Waagstraße"
 housenumber: 19

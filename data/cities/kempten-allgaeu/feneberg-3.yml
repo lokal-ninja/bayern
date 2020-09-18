@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.720416300000004
 longitude: 10.316053
-postcode: 87435
+postcode: "87435"
 city: Kempten (Allgäu)
 street: "August-Fischer-Platz"
 housenumber: 1

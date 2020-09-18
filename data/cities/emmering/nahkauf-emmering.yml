@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.1837388
 longitude: 11.274165400000001
-postcode: 82275
+postcode: "82275"
 city: Emmering
 street: "Hauptstraße"
 housenumber: 9

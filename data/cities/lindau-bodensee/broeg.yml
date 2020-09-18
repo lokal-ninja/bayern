@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.5608962
 longitude: 9.712818
-postcode: 88131
+postcode: "88131"
 city: Lindau (Bodensee)
 street: "Oberreutiner Weg"
 housenumber: 14b

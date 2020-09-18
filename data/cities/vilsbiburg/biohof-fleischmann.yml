@@ -3,9 +3,9 @@ type: node
 shop: Hofladen
 latitude: 48.426317100000006
 longitude: 12.3309961
-postcode: 84137
+postcode: "84137"
 city: Vilsbiburg
-street: "Pirken"
+street: ""
 housenumber: 19
 phone: ""
 opening_hours: "Nach Vereinbarung"

@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 49.2078329
 longitude: 12.6658842
-postcode: 93413
+postcode: "93413"
 city: Cham
 street: "Werner-von-Siemens-Straße"
 housenumber: 14

@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 49.484301
 longitude: 10.954513700000001
-postcode: 90766
+postcode: "90766"
 city: Fürth
 street: "Keplerstraße"
 housenumber: 10

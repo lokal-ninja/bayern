@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 48.346836
 longitude: 11.3807051
-postcode: 85229
+postcode: "85229"
 city: Markt Indersdorf
 street: "Seilerstraße"
 housenumber: 2

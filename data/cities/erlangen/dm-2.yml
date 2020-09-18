@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 49.5926312
 longitude: 11.004222500000001
-postcode: 91052
+postcode: "91052"
 city: Erlangen
 street: "Nürnberger Straße"
 housenumber: 7

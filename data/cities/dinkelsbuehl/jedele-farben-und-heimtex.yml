@@ -3,7 +3,7 @@ type: way
 shop: Farben
 latitude: 49.068451
 longitude: 10.338977900000001
-postcode: 91550
+postcode: "91550"
 city: Dinkelsbühl
 street: "Heiningerstraße"
 housenumber: 11a

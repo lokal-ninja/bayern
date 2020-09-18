@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 49.432156500000005
 longitude: 11.8864724
-postcode: 92224
+postcode: "92224"
 city: Amberg
 street: "Auf den Hochäckern"
 housenumber: 1

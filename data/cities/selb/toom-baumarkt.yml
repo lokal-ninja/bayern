@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.1679304
 longitude: 12.1477883
-postcode: 95100
+postcode: "95100"
 city: Selb
 street: "Lorenz-Hutschenreuther-Straße"
 housenumber: 85

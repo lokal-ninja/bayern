@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.1227675
 longitude: 11.609506300000001
-postcode: 81671
+postcode: "81671"
 city: München
 street: "Grafinger Straße"
 housenumber: 6

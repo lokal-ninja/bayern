@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 49.578639
 longitude: 10.6055989
-postcode: 91413
+postcode: "91413"
 city: Neustadt an der Aisch
 street: "Wilhelmstraße"
 housenumber: 34

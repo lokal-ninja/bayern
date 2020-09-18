@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 48.152318900000004
 longitude: 11.577133900000002
-postcode: 80799
+postcode: "80799"
 city: München
 street: "Türkenstraße"
 housenumber: 81

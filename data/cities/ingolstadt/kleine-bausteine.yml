@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 48.7635432
 longitude: 11.4209122
-postcode: 85049
+postcode: "85049"
 city: Ingolstadt
 street: "Poppenstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.834265200000004
 longitude: 11.1377994
-postcode: 82362
+postcode: "82362"
 city: Weilheim in Oberbayern
 street: "Oderdinger Straße"
 housenumber: 2

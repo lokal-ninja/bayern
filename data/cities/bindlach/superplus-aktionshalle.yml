@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 49.9764865
 longitude: 11.612773
-postcode: 95463
+postcode: "95463"
 city: Bindlach
 street: "Lehengraben"
 housenumber: 4

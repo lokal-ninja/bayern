@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.5086583
 longitude: 11.4083862
-postcode: 91217
+postcode: "91217"
 city: Hersbruck
 street: "Nürnberger Straße"
 housenumber: 135

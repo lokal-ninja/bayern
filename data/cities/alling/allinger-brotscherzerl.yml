@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.1445378
 longitude: 11.3014554
-postcode: 82239
+postcode: "82239"
 city: Alling
 street: "Hoflacher Straße"
 housenumber: 22

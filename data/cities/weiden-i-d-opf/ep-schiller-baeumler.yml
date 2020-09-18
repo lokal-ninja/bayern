@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 49.669395300000005
 longitude: 12.160389700000001
-postcode: 92637
+postcode: "92637"
 city: Weiden i.d.OPf.
 street: "Dr.-Pfleger-Straße"
 housenumber: 32-34

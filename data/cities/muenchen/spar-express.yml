@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.1280665
 longitude: 11.653898900000002
-postcode: 81825
+postcode: "81825"
 city: München
 street: "Truderinger Straße"
 housenumber: 186

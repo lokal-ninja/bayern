@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.584628
 longitude: 10.994900900000001
-postcode: 91052
+postcode: "91052"
 city: Erlangen
 street: "Am Anger"
 housenumber: 6

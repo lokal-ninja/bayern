@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 49.596300500000005
 longitude: 11.0071651
-postcode: 91052
+postcode: "91052"
 city: Erlangen
 street: "Schuhstraße"
 housenumber: 2

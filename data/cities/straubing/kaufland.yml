@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.875692
 longitude: 12.5736941
-postcode: 94315
+postcode: "94315"
 city: Straubing
 street: "Hebbelstraße"
 housenumber: 6

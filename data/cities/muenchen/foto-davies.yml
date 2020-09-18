@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 48.117004400000006
 longitude: 11.532950300000001
-postcode: 81369
+postcode: "81369"
 city: München
 street: "Albert-Roßhaupter-Straße"
 housenumber: 40

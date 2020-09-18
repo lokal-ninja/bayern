@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.41480850000001
 longitude: 11.013281600000001
-postcode: 90547
+postcode: "90547"
 city: Stein
 street: "Wilhelmstraße"
 housenumber: 3

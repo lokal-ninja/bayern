@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 49.512825500000005
 longitude: 11.282866
-postcode: 91207
+postcode: "91207"
 city: Lauf a.d.Pegnitz
 street: "Hersbrucker Straße"
 housenumber: 2

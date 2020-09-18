@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.9523305
 longitude: 11.5715471
-postcode: 95445
+postcode: "95445"
 city: Bayreuth
 street: "Spinnereistraße"
 housenumber: 7

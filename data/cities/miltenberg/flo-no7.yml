@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 49.701283000000004
 longitude: 9.2582935
-postcode: 63897
+postcode: "63897"
 city: Miltenberg
 street: "Hauptstraße"
 housenumber: 65

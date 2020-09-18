@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.3992688
 longitude: 11.7415119
-postcode: 85354
+postcode: "85354"
 city: Freising
 street: "Obere Hauptstraße"
 housenumber: 31

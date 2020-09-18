@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.4528291
 longitude: 10.2946652
-postcode: 89312
+postcode: "89312"
 city: Günzburg
 street: "Robert-Koch-Straße"
 housenumber: 2

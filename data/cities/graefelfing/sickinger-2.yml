@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.116255300000006
 longitude: 11.4372769
-postcode: 82166
+postcode: "82166"
 city: Gräfelfing
 street: "Pasinger Straße"
 housenumber: 2

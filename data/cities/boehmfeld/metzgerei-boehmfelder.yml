@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.859783300000004
 longitude: 11.367443300000001
-postcode: 85113
+postcode: "85113"
 city: Böhmfeld
 street: "Gaimersheimer Straße"
 housenumber: 2

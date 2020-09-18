@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.4010021
 longitude: 11.742434800000002
-postcode: 85354
+postcode: "85354"
 city: Freising
 street: "Rindermarkt"
 housenumber: 6

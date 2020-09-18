@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 49.476302800000006
 longitude: 10.989047000000001
-postcode: 90762
+postcode: "90762"
 city: Fürth
 street: "Schirmstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 48.9829505
 longitude: 12.192166100000001
-postcode: 93073
+postcode: "93073"
 city: Neutraubling
 street: "Pommernstraße"
 housenumber: 4

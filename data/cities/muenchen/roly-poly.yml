@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.1291999
 longitude: 11.572223600000001
-postcode: 
+postcode: ""
 city: München
 street: "Klenzestraße"
 housenumber: 61

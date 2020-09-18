@@ -3,7 +3,7 @@ type: node
 shop: Farben
 latitude: 48.0569323
 longitude: 11.5987053
-postcode: 82008
+postcode: "82008"
 city: Unterhaching
 street: "Grünwalder Weg"
 housenumber: 44

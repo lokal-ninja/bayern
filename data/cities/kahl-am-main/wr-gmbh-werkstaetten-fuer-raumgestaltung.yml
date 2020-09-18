@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.068859
 longitude: 9.0057997
-postcode: 63796
+postcode: "63796"
 city: Kahl am Main
 street: "Hanauer Landstraße"
 housenumber: 1

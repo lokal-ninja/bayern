@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.804350400000004
 longitude: 13.547392700000001
-postcode: 94078
+postcode: "94078"
 city: Freyung
 street: "Bahnhofstraße"
 housenumber: 26

@@ -3,7 +3,7 @@ type: node
 shop: Nähzubehör
 latitude: 48.3822607
 longitude: 10.8802655
-postcode: 86154
+postcode: "86154"
 city: Augsburg
 street: "Donauwörther Straße"
 housenumber: 25

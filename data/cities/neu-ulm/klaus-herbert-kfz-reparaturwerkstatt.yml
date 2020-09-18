@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.382660300000005
 longitude: 10.0216224
-postcode: 89231
+postcode: "89231"
 city: Neu-Ulm
 street: "Messerschmittstraße"
 housenumber: 14

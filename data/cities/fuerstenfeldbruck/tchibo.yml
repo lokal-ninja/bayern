@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 48.1773711
 longitude: 11.255312
-postcode: 82256
+postcode: "82256"
 city: Fürstenfeldbruck
 street: "Hauptstraße"
 housenumber: 1a

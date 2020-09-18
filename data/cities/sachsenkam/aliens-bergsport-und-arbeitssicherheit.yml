@@ -3,7 +3,7 @@ type: way
 shop: Outdoor
 latitude: 47.807378500000006
 longitude: 11.6521275
-postcode: 83679
+postcode: "83679"
 city: Sachsenkam
 street: "Tegernseer Weg"
 housenumber: 1

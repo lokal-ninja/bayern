@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 49.75955870000001
 longitude: 9.8303404
-postcode: 97249
+postcode: "97249"
 city: Eisingen
 street: "Hauptstraße"
 housenumber: 46

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.652835100000004
 longitude: 13.409962700000001
-postcode: 94161
+postcode: "94161"
 city: Ruderting
 street: "Passauer Straße"
 housenumber: 25

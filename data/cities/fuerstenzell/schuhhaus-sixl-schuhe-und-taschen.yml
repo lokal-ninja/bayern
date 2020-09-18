@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 48.5233859
 longitude: 13.317153900000001
-postcode: 94081
+postcode: "94081"
 city: Fürstenzell
 street: "Holzbacher Straße"
 housenumber: 3

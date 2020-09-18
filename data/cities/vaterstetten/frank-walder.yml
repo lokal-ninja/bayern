@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.146204600000004
 longitude: 11.7813418
-postcode: 85599
+postcode: "85599"
 city: Vaterstetten
 street: "Heimstettener Straße"
 housenumber: 1

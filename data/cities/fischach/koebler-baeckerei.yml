@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.2559228
 longitude: 10.641437600000001
-postcode: 86850
+postcode: "86850"
 city: Fischach
 street: "Mickhauser Straße"
 housenumber: 8

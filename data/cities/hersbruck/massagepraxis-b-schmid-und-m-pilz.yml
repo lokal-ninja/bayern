@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 49.5105267
 longitude: 11.4345271
-postcode: 91217
+postcode: "91217"
 city: Hersbruck
 street: "Kasernweg"
 housenumber: 13

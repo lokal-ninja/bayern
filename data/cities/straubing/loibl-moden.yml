@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.880788700000004
 longitude: 12.5712156
-postcode: 94315
+postcode: "94315"
 city: Straubing
 street: "Rosengasse"
 housenumber: 18

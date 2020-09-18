@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.7280865
 longitude: 10.2442395
-postcode: 97348
+postcode: "97348"
 city: Rödelsee
 street: "Zehntgasse"
 housenumber: 1

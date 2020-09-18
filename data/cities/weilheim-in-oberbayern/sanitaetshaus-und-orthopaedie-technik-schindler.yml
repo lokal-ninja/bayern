@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 47.8416902
 longitude: 11.1412913
-postcode: 82362
+postcode: "82362"
 city: Weilheim in Oberbayern
 street: "Färbergasse"
 housenumber: 4

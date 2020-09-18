@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.337803
 longitude: 11.0458964
-postcode: 91126
+postcode: "91126"
 city: Schwabach
 street: "Flurstraße"
 housenumber: 57

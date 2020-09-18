@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.4185704
 longitude: 12.715989200000001
-postcode: 34401
+postcode: "34401"
 city: Nemanice
 street: ""
 housenumber: 3

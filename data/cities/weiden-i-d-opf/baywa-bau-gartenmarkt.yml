@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 49.662531300000005
 longitude: 12.1577728
-postcode: 92637
+postcode: "92637"
 city: Weiden i.d.OPf.
 street: "Untere Bauscherstraße"
 housenumber: 11

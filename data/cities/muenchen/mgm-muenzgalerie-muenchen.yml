@@ -3,7 +3,7 @@ type: node
 shop: Sammler
 latitude: 48.147810400000004
 longitude: 11.5593008
-postcode: 80333
+postcode: "80333"
 city: München
 street: "Stiglmaierplatz"
 housenumber: 2

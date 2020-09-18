@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.7940035
 longitude: 9.930307800000001
-postcode: 97070
+postcode: "97070"
 city: Würzburg
 street: "Schmalzmarkt"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 50.087
 longitude: 9.0734115
-postcode: 63755
+postcode: "63755"
 city: Alzenau
 street: "Burgstraße"
 housenumber: 13

@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 48.202541200000006
 longitude: 11.541294800000001
-postcode: 80935
+postcode: "80935"
 city: München
 street: "Lerchenauer Straße"
 housenumber: 240a

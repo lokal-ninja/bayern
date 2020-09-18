@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 48.966536000000005
 longitude: 12.3853837
-postcode: 93102
+postcode: "93102"
 city: Pfatter
 street: "Nikolastraße"
 housenumber: 1

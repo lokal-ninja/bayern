@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 47.9739002
 longitude: 11.653376300000001
-postcode: 82054
+postcode: "82054"
 city: Sauerlach
 street: "Münchener Straße"
 housenumber: 13

@@ -3,9 +3,9 @@ type: node
 shop: Hofladen
 latitude: 48.556268900000006
 longitude: 12.528583500000002
-postcode: 84163
+postcode: "84163"
 city: Marklkofen
-street: "Klosbach"
+street: ""
 housenumber: 2
 phone: ""
 opening_hours: ""

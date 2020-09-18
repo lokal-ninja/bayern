@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 47.7182776
 longitude: 10.312631900000001
-postcode: 87435
+postcode: "87435"
 city: Kempten (Allgäu)
 street: "Haubenschloßstraße"
 housenumber: 12

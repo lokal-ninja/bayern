@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 47.8023285
 longitude: 12.282010000000001
-postcode: 83112
+postcode: "83112"
 city: Frasdorf
 street: "Hauptstraße"
 housenumber: 33

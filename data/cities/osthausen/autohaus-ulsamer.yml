@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.5889211
 longitude: 10.0543583
-postcode: 97255
+postcode: "97255"
 city: Osthausen
 street: "Osthausen"
 housenumber: 19

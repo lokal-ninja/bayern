@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.962146800000006
 longitude: 11.6898917
-postcode: 93339
+postcode: "93339"
 city: Riedenburg
 street: "Hammerweg"
 housenumber: 5

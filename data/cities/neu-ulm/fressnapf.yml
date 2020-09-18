@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 48.395532100000004
 longitude: 10.0136205
-postcode: 89231
+postcode: "89231"
 city: Neu-Ulm
 street: "Im Starkfeld"
 housenumber: 1-9

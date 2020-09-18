@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.6056035
 longitude: 11.5697902
-postcode: 85296
+postcode: "85296"
 city: Rohrbach
 street: "Bahnhofstraße"
 housenumber: 17

@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 49.8620103
 longitude: 10.225214900000001
-postcode: 97332
+postcode: "97332"
 city: Volkach
 street: "Am Alten Bahnhof"
 housenumber: 6

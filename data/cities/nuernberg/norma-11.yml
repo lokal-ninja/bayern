@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.4525135
 longitude: 11.0551133
-postcode: 90429
+postcode: "90429"
 city: Nürnberg
 street: "Willstraße"
 housenumber: 15

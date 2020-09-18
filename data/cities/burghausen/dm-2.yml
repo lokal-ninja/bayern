@@ -1,12 +1,12 @@
-id: 732953767
-type: way
+id: 7580517319
+type: node
 shop: Drogerie
-latitude: 48.1717431
-longitude: 12.8307354
-postcode: 84489
+latitude: 48.1627607
+longitude: 12.8027817
+postcode: "84489"
 city: Burghausen
-street: "Robert-Koch-Straße"
-housenumber: 15
+street: "Gewerbepark Lindach C"
+housenumber: 
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Sa 07:00-20:00"
+website: "https://www.dm.de"

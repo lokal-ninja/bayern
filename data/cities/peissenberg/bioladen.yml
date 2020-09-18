@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.7874336
 longitude: 11.056189700000001
-postcode: 82380
+postcode: "82380"
 city: Peißenberg
 street: "Schongauer Straße"
 housenumber: 88

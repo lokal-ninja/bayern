@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 48.7895874
 longitude: 12.896691800000001
-postcode: 94447
+postcode: "94447"
 city: Plattling
 street: "Doktor-Walter-Bruch-Straße"
 housenumber: 

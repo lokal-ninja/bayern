@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 48.5496373
 longitude: 12.5438434
-postcode: 84160
+postcode: "84160"
 city: Frontenhausen
 street: "Am Kreisverkehr"
 housenumber: 4

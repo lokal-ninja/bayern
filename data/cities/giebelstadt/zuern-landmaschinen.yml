@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.6148754
 longitude: 9.9493538
-postcode: 97232
+postcode: "97232"
 city: Giebelstadt
 street: "Ochsenfurter Straße"
 housenumber: 1

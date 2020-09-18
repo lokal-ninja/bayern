@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.2563194
 longitude: 11.556019200000001
-postcode: 85764
+postcode: "85764"
 city: Oberschleißheim
 street: "Am Fohlengarten"
 housenumber: 10a

@@ -3,7 +3,7 @@ type: way
 shop: Schreibwaren
 latitude: 49.441047000000005
 longitude: 11.877705800000001
-postcode: 92224
+postcode: "92224"
 city: Amberg
 street: "Mosacherweg"
 housenumber: 6

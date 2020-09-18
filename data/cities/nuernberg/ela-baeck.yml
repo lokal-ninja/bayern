@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.4708842
 longitude: 11.1106172
-postcode: 90491
+postcode: "90491"
 city: Nürnberg
 street: "Sonneberger Straße"
 housenumber: 10

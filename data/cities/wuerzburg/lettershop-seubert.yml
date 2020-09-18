@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 49.806844600000005
 longitude: 9.976790000000001
-postcode: 97076
+postcode: "97076"
 city: Würzburg
 street: "Heisenbergstraße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.582502000000005
 longitude: 11.101457700000001
-postcode: 86554
+postcode: "86554"
 city: Pöttmes
 street: "Schrobenhausener Straße"
 housenumber: 54

@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 48.0986989
 longitude: 11.6296405
-postcode: 81737
+postcode: "81737"
 city: München
 street: "Sebastian-Bauer-Straße"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.7364916
 longitude: 10.159705200000001
-postcode: 97318
+postcode: "97318"
 city: Kitzingen
 street: "Falterstraße"
 housenumber: 14

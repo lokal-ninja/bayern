@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.244721500000004
 longitude: 12.670538200000001
-postcode: 93497
+postcode: "93497"
 city: Willmering
 street: "Hauptstraße"
 housenumber: 1

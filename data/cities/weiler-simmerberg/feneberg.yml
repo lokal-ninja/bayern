@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.5840054
 longitude: 9.915818
-postcode: 88171
+postcode: "88171"
 city: Weiler-Simmerberg
 street: "Friedrich-Heim-Straße"
 housenumber: 9

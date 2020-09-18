@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.2583526
 longitude: 11.474128100000001
-postcode: 85221
+postcode: "85221"
 city: Dachau
 street: "Siemensstraße"
 housenumber: 13

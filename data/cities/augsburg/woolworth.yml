@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 48.3668143
 longitude: 10.885721400000001
-postcode: 86150
+postcode: "86150"
 city: Augsburg
 street: "Viktoriastraße"
 housenumber: 3

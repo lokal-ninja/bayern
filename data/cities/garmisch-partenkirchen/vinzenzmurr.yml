@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 47.494725100000004
 longitude: 11.094811
-postcode: 82467
+postcode: "82467"
 city: Garmisch-Partenkirchen
 street: "Chamonixstraße"
 housenumber: 7

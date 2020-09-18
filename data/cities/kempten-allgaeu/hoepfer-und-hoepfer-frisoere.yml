@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.723573300000005
 longitude: 10.31813
-postcode: 87435
+postcode: "87435"
 city: Kempten (Allgäu)
 street: "Freudental"
 housenumber: 16

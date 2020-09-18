@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.670422200000004
 longitude: 10.7229553
-postcode: 91486
+postcode: "91486"
 city: Uehlfeld
 street: "Raiffeisenstraße"
 housenumber: 1

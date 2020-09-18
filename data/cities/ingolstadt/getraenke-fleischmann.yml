@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 48.7662871
 longitude: 11.3980621
-postcode: 85049
+postcode: "85049"
 city: Ingolstadt
 street: "Samhofer Weg"
 housenumber: 38

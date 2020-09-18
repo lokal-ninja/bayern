@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.5746235
 longitude: 10.9967954
-postcode: 91058
+postcode: "91058"
 city: Erlangen
 street: "Bierlachweg"
 housenumber: 41

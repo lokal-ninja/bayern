@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 48.135152600000005
 longitude: 11.5702864
-postcode: 80331
+postcode: "80331"
 city: München
 street: "Sendlinger Straße"
 housenumber: 25

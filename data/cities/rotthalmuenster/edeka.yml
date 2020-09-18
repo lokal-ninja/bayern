@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.361248200000006
 longitude: 13.201353000000001
-postcode: 94094
+postcode: "94094"
 city: Rotthalmünster
 street: "Griesbacher Straße"
 housenumber: 24

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.448463800000006
 longitude: 11.764237900000001
-postcode: 85406
+postcode: "85406"
 city: Zolling
 street: "Am Sägewerk"
 housenumber: 3

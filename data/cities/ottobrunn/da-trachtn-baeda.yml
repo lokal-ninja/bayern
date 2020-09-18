@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.0593244
 longitude: 11.665919800000001
-postcode: 85521
+postcode: "85521"
 city: Ottobrunn
 street: "Ottostraße"
 housenumber: 4

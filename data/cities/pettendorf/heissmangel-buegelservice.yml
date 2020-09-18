@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 49.0580902
 longitude: 12.006150700000001
-postcode: 93186
+postcode: "93186"
 city: Pettendorf
 street: "Talweg"
 housenumber: 1

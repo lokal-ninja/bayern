@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.493917200000006
 longitude: 12.1809381
-postcode: 92536
+postcode: "92536"
 city: Pfreimd
 street: "Leuchtenberger Straße"
 housenumber: 4

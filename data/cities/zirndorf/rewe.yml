@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.445056400000006
 longitude: 10.950113700000001
-postcode: 90513
+postcode: "90513"
 city: Zirndorf
 street: "Albert-Einstein-Straße"
 housenumber: 25

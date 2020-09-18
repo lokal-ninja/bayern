@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 48.1769352
 longitude: 11.599847500000001
-postcode: 80805
+postcode: "80805"
 city: München
 street: "Garchinger Straße"
 housenumber: 24

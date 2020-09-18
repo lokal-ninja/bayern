@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.2047959
 longitude: 11.609433600000001
-postcode: 80939
+postcode: "80939"
 city: München
 street: "Untere Hausbreite"
 housenumber: 2

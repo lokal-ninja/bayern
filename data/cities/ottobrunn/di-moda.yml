@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 48.063327400000006
 longitude: 11.6789853
-postcode: 85521
+postcode: "85521"
 city: Ottobrunn
 street: "Roseggerstraße"
 housenumber: 55

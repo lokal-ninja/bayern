@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 49.301704900000004
 longitude: 10.574389100000001
-postcode: 91522
+postcode: "91522"
 city: Ansbach
 street: "Neustadt"
 housenumber: 35

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.987173500000004
 longitude: 11.8723335
-postcode: 85625
+postcode: "85625"
 city: Glonn
 street: "Behamstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 48.170931800000005
 longitude: 12.830291
-postcode: 84489
+postcode: "84489"
 city: Burghausen
 street: "Marktler Straße"
 housenumber: 25

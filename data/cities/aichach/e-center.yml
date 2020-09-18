@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.4524953
 longitude: 11.129244400000001
-postcode: 86551
+postcode: "86551"
 city: Aichach
 street: "Münchener Straße"
 housenumber: 32

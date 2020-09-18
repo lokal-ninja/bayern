@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 48.4126587
 longitude: 10.869856700000001
-postcode: 86368
+postcode: "86368"
 city: Gersthofen
 street: "Wernher-von-Braun-Straße"
 housenumber: 14

@@ -3,7 +3,7 @@ type: way
 shop: Waffen
 latitude: 49.9226344
 longitude: 10.079000500000001
-postcode: 97241
+postcode: "97241"
 city: Bergtheim
 street: "Schwanfelder Straße"
 housenumber: 8

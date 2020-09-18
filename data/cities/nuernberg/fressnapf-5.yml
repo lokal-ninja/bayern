@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 49.44032240000001
 longitude: 11.015015
-postcode: 90431
+postcode: "90431"
 city: Nürnberg
 street: "Rothenburger Straße"
 housenumber: 451

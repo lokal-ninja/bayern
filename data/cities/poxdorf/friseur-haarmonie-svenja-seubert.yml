@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.6645559
 longitude: 11.066891
-postcode: 91099
+postcode: "91099"
 city: Poxdorf
 street: "Baiersdorfer Straße"
 housenumber: 15

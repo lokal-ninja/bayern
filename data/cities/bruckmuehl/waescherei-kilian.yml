@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 47.881959800000004
 longitude: 11.9320321
-postcode: 83052
+postcode: "83052"
 city: Bruckmühl
 street: "Albert-Mayer-Straße"
 housenumber: 20

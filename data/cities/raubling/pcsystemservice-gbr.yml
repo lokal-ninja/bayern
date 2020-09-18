@@ -3,7 +3,7 @@ type: way
 shop: Computer
 latitude: 47.791327200000005
 longitude: 12.1146673
-postcode: 83064
+postcode: "83064"
 city: Raubling
 street: "Rosenheimer Straße"
 housenumber: 5

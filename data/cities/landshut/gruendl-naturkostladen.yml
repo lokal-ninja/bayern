@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.539769400000004
 longitude: 12.128527
-postcode: 84034
+postcode: "84034"
 city: Landshut
 street: "Rennweg"
 housenumber: 97

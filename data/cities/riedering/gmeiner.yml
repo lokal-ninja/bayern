@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.8354389
 longitude: 12.2540884
-postcode: 83083
+postcode: "83083"
 city: Riedering
 street: "Endorfer Straße"
 housenumber: 11

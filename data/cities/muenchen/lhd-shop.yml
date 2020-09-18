@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.1676378
 longitude: 11.539629000000001
-postcode: 80637
+postcode: "80637"
 city: München
 street: "Dachauer Straße"
 housenumber: 128

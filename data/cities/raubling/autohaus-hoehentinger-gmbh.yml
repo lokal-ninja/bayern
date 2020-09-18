@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.8071478
 longitude: 12.1166292
-postcode: 83064
+postcode: "83064"
 city: Raubling
 street: "Breiteicher Straße"
 housenumber: 30

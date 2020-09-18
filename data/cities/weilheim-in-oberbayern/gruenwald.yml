@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.836762
 longitude: 11.1420847
-postcode: 82362
+postcode: "82362"
 city: Weilheim in Oberbayern
 street: "Murnauer Straße"
 housenumber: 2

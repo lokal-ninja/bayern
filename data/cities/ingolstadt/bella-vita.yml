@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.7378993
 longitude: 11.438210900000001
-postcode: 85051
+postcode: "85051"
 city: Ingolstadt
 street: "Münchener Straße"
 housenumber: 142

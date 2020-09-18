@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.2794402
 longitude: 10.9883056
-postcode: 96487
+postcode: "96487"
 city: Dörfles-Esbach
 street: "Coburger Straße"
 housenumber: 2

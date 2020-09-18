@@ -3,7 +3,7 @@ type: node
 shop: Basteln
 latitude: 49.995356
 longitude: 11.624451800000001
-postcode: 95463
+postcode: "95463"
 city: Bindlach
 street: "Christensenstraße"
 housenumber: 8

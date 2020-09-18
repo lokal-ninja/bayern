@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 49.458958
 longitude: 11.0977598
-postcode: 90489
+postcode: "90489"
 city: Nürnberg
 street: "Sulzbacher Straße"
 housenumber: 66

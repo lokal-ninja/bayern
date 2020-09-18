@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 49.431177000000005
 longitude: 11.417954900000002
-postcode: 91238
+postcode: "91238"
 city: Offenhausen
 street: "Kucha"
 housenumber: 125

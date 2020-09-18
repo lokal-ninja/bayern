@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.1389811
 longitude: 11.359309000000001
-postcode: 82110
+postcode: "82110"
 city: Germering
 street: "Augsburger Straße"
 housenumber: 2d

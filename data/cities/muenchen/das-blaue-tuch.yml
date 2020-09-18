@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 48.160394600000004
 longitude: 11.5879323
-postcode: 80802
+postcode: "80802"
 city: München
 street: "Siegesstraße"
 housenumber: 21

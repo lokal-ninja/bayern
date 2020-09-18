@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.480698000000004
 longitude: 11.117271500000001
-postcode: 90411
+postcode: "90411"
 city: Nürnberg
 street: "Schafhofstraße"
 housenumber: 9

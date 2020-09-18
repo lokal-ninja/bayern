@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.136205200000006
 longitude: 11.5765998
-postcode: 80331
+postcode: "80331"
 city: München
 street: "Viktualienmarkt"
 housenumber: 2

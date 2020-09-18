@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 49.027698300000004
 longitude: 12.1097099
-postcode: 93059
+postcode: "93059"
 city: Regensburg
 street: "Günzstraße"
 housenumber: 2

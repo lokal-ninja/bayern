@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.6807424
 longitude: 12.159576600000001
-postcode: 92637
+postcode: "92637"
 city: Weiden i.d.OPf.
 street: "Zur Centralwerkstätte"
 housenumber: 5

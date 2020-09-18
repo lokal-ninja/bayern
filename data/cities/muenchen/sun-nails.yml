@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.121632000000005
 longitude: 11.6628672
-postcode: 81825
+postcode: "81825"
 city: München
 street: "Kreillerstraße"
 housenumber: 216

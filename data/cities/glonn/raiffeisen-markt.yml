@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 47.98961490000001
 longitude: 11.8654325
-postcode: 85625
+postcode: "85625"
 city: Glonn
 street: "Steinbruchweg"
 housenumber: 6

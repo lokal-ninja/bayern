@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.4471131
 longitude: 10.087189200000001
-postcode: 89275
+postcode: "89275"
 city: Elchingen
 street: "Glockeraustraße"
 housenumber: 28

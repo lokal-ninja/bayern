@@ -3,7 +3,7 @@ type: way
 shop: Raumausstattung
 latitude: 49.9948215
 longitude: 9.1758839
-postcode: 63773
+postcode: "63773"
 city: Goldbach
 street: "Aschaffenburger Straße"
 housenumber: 17

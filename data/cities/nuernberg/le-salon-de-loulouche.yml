@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.451153600000005
 longitude: 11.0618452
-postcode: 90429
+postcode: "90429"
 city: Nürnberg
 street: "Bleichstraße"
 housenumber: 22

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.776791100000004
 longitude: 11.3815737
-postcode: 85049
+postcode: "85049"
 city: Ingolstadt
 street: "Friedrichshofener Straße"
 housenumber: 16

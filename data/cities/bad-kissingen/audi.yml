@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.1858006
 longitude: 10.077784600000001
-postcode: 97688
+postcode: "97688"
 city: Bad Kissingen
 street: "Würzburger Straße"
 housenumber: 15

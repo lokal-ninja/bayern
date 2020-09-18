@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.035051300000006
 longitude: 10.976981400000001
-postcode: 91781
+postcode: "91781"
 city: Weißenburg i. Bay.
 street: "Jahnstraße"
 housenumber: 37

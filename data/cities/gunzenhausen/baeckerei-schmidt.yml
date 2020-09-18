@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.11542
 longitude: 10.753365
-postcode: 91710
+postcode: "91710"
 city: Gunzenhausen
 street: "Marktplatz"
 housenumber: 4

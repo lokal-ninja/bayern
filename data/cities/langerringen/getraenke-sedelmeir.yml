@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.10507500000001
 longitude: 10.771028000000001
-postcode: 86853
+postcode: "86853"
 city: Langerringen
 street: "Bauernstraße"
 housenumber: 5

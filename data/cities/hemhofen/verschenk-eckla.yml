@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 49.687502800000004
 longitude: 10.9403275
-postcode: 91334
+postcode: "91334"
 city: Hemhofen
 street: "Jahnstraße"
 housenumber: 3

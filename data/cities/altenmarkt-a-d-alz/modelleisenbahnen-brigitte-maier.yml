@@ -3,7 +3,7 @@ type: node
 shop: Modellbau
 latitude: 48.002830100000004
 longitude: 12.5359317
-postcode: 83352
+postcode: "83352"
 city: Altenmarkt a.d. Alz
 street: "Hauptstraße"
 housenumber: 27

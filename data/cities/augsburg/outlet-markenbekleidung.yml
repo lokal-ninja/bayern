@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.3168134
 longitude: 10.8928816
-postcode: 86179
+postcode: "86179"
 city: Augsburg
 street: "Im Tal"
 housenumber: 5a

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.1404262
 longitude: 11.5749551
-postcode: 80333
+postcode: "80333"
 city: München
 street: "Kardinal-Faulhaber-Straße"
 housenumber: 11

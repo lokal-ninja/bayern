@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 49.4096264
 longitude: 11.1712669
-postcode: 90475
+postcode: "90475"
 city: Nürnberg
 street: "Am Graben"
 housenumber: 20

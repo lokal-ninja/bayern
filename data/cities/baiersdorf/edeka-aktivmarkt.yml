@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.6593351
 longitude: 11.036580500000001
-postcode: 91083
+postcode: "91083"
 city: Baiersdorf
 street: "Jahnstraße"
 housenumber: 13

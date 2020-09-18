@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.1003344
 longitude: 11.545309300000001
-postcode: 
+postcode: ""
 city: München
 street: "Fraunbergplatz"
 housenumber: 3

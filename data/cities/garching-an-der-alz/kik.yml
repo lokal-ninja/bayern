@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.1254258
 longitude: 12.572940500000001
-postcode: 84518
+postcode: "84518"
 city: Garching an der Alz
 street: "Am Binderfeld"
 housenumber: 10a

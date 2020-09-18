@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.115134100000006
 longitude: 11.593185700000001
-postcode: 81541
+postcode: "81541"
 city: München
 street: "Werinherstraße"
 housenumber: 65

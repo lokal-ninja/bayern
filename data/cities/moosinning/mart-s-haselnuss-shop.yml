@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.2693652
 longitude: 11.839803900000001
-postcode: 85452
+postcode: "85452"
 city: Moosinning
 street: "Urtelweg"
 housenumber: 8

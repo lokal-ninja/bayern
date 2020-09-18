@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.1459045
 longitude: 11.4767524
-postcode: 81241
+postcode: "81241"
 city: München
 street: "Landsberger Straße"
 housenumber: 426

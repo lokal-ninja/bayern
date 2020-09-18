@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 48.1960483
 longitude: 11.5828916
-postcode: 80937
+postcode: "80937"
 city: München
 street: "Sudetendeutschestraße"
 housenumber: 8a

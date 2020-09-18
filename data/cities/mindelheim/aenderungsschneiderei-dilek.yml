@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 48.0522725
 longitude: 10.489910700000001
-postcode: 87719
+postcode: "87719"
 city: Mindelheim
 street: "Mattsieser Straße"
 housenumber: 7

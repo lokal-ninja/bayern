@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 49.4598832
 longitude: 11.102874700000001
-postcode: 90489
+postcode: "90489"
 city: Nürnberg
 street: "Sulzbacher Straße"
 housenumber: 113

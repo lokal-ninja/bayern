@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 49.5976094
 longitude: 11.0149445
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Marquardsenstraße"
 housenumber: 21

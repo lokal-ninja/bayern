@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.4291568
 longitude: 11.07123
-postcode: 90441
+postcode: "90441"
 city: Nürnberg
 street: "Vogelweiherstraße"
 housenumber: 42

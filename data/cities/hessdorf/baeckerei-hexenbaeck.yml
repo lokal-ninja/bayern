@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.627181900000004
 longitude: 10.9103138
-postcode: 91093
+postcode: "91093"
 city: Heßdorf
 street: "Erlanger Straße"
 housenumber: 9

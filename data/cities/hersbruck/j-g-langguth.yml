@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 49.5093564
 longitude: 11.4288646
-postcode: 91217
+postcode: "91217"
 city: Hersbruck
 street: "Oberer Markt"
 housenumber: 8

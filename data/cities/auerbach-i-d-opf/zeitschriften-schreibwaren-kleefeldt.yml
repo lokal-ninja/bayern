@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 49.6928895
 longitude: 11.629423200000002
-postcode: 91275
+postcode: "91275"
 city: Auerbach i.d.OPf.
 street: "Unterer Markt"
 housenumber: 2

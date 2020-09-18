@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.5051215
 longitude: 10.374276700000001
-postcode: 87541
+postcode: "87541"
 city: Bad Hindelang
 street: "Oberer Buigenweg"
 housenumber: 1

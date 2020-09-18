@@ -3,7 +3,7 @@ type: way
 shop: Quad
 latitude: 49.180777500000005
 longitude: 12.836923400000002
-postcode: 93444
+postcode: "93444"
 city: Bad Kötzting
 street: "Alte Gehstorfer Straße"
 housenumber: 62

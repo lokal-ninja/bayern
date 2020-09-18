@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.137097100000005
 longitude: 11.536298700000001
-postcode: 80339
+postcode: "80339"
 city: München
 street: "Tulbeckstraße"
 housenumber: 45

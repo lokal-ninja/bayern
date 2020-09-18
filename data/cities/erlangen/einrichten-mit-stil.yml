@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 49.6006251
 longitude: 11.0039557
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Kirchenstraße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.4577255
 longitude: 11.6736164
-postcode: 92278
+postcode: "92278"
 city: Illschwang
 street: "Gewerbepark"
 housenumber: 3

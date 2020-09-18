@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.1736614
 longitude: 11.263669
-postcode: 82256
+postcode: "82256"
 city: Fürstenfeldbruck
 street: "Oskar-von-Miller-Straße"
 housenumber: 2

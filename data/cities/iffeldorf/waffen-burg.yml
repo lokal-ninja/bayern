@@ -3,9 +3,9 @@ type: node
 shop: Waffen
 latitude: 47.7713115
 longitude: 11.336004200000001
-postcode: 82393
+postcode: "82393"
 city: Iffeldorf
-street: "Sonnbichl"
+street: "Sonnenbichl"
 housenumber: 10
 phone: "+49 8856 8046270"
 opening_hours: "Mo, Th, Fr nach Absprache; Tu, We, Sa, Su, PH off"

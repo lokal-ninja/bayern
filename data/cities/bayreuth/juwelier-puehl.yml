@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 49.9449783
 longitude: 11.572030300000002
-postcode: 95444
+postcode: "95444"
 city: Bayreuth
 street: "Maximilianstraße"
 housenumber: 64

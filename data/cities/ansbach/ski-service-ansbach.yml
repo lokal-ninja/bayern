@@ -3,7 +3,7 @@ type: node
 shop: Ski
 latitude: 49.290838400000005
 longitude: 10.5696197
-postcode: 91522
+postcode: "91522"
 city: Ansbach
 street: "Heideloffstraße"
 housenumber: 28

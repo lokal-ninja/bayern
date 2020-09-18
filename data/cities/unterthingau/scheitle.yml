@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.7727772
 longitude: 10.5042694
-postcode: 87647
+postcode: "87647"
 city: Unterthingau
 street: "Kemptener Straße"
 housenumber: 10

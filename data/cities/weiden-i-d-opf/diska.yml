@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.6935062
 longitude: 12.137263500000001
-postcode: 92637
+postcode: "92637"
 city: Weiden i.d.OPf.
 street: "Professor-Zintl-Straße"
 housenumber: 6

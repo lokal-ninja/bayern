@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 47.736653000000004
 longitude: 10.323127300000001
-postcode: 87437
+postcode: "87437"
 city: Kempten (Allgäu)
 street: "Kaufbeurer Straße"
 housenumber: 91

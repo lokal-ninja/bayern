@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.128843
 longitude: 11.601054900000001
-postcode: 81667
+postcode: "81667"
 city: München
 street: "Pariser Straße"
 housenumber: 44

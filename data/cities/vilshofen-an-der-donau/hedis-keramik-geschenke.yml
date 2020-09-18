@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 48.6309794
 longitude: 13.189122600000001
-postcode: 94474
+postcode: "94474"
 city: Vilshofen an der Donau
 street: "Vilsvorstadt"
 housenumber: 16

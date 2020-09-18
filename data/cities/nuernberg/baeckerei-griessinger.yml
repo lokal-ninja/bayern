@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.4393523
 longitude: 11.0876509
-postcode: 90459
+postcode: "90459"
 city: Nürnberg
 street: "Wirthstraße"
 housenumber: 52

@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.367490000000004
 longitude: 10.8970833
-postcode: 86150
+postcode: "86150"
 city: Augsburg
 street: "Philippine-Welser-Straße"
 housenumber: 30

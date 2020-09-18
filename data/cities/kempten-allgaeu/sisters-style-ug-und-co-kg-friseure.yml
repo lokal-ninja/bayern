@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.728220400000005
 longitude: 10.3160629
-postcode: 87435
+postcode: "87435"
 city: Kempten (Allgäu)
 street: "Kronenstraße"
 housenumber: 46

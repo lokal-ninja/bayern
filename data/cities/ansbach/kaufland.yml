@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.305938600000005
 longitude: 10.588615200000001
-postcode: 91522
+postcode: "91522"
 city: Ansbach
 street: "Ritter-von-Lang-Allee"
 housenumber: 7

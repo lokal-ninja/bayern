@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 49.618413000000004
 longitude: 10.6541616
-postcode: 91468
+postcode: "91468"
 city: Gutenstetten
 street: "Neustädter Straße"
 housenumber: 10

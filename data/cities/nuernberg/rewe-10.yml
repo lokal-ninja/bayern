@@ -1,12 +1,12 @@
-id: 2601002642
+id: 1565104670
 type: node
 shop: Supermarkt
-latitude: 49.5178773
-longitude: 11.0327151
-postcode: 90427
+latitude: 49.4043805
+longitude: 11.1333526
+postcode: "90473"
 city: Nürnberg
-street: "Lichtenfelser Straße"
-housenumber: 2a
-phone: "+49 911 35064869"
-opening_hours: "Mo-Sa 07:00-20:00"
+street: "Glogauer Straße"
+housenumber: 30
+phone: ""
+opening_hours: ""
 website: ""

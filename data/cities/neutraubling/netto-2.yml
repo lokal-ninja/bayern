@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.9886612
 longitude: 12.198737900000001
-postcode: 93073
+postcode: "93073"
 city: Neutraubling
 street: "Neudeker Straße"
 housenumber: 7

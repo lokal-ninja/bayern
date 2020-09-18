@@ -3,7 +3,7 @@ type: node
 shop: Großhandel
 latitude: 49.423170500000005
 longitude: 11.051025500000002
-postcode: 90441
+postcode: "90441"
 city: Nürnberg
 street: "Daimlerstraße"
 housenumber: 53

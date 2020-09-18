@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.1376361
 longitude: 11.565536600000001
-postcode: 80331
+postcode: "80331"
 city: München
 street: "Sonnenstraße"
 housenumber: 11

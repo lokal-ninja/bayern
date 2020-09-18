@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 49.588187500000004
 longitude: 11.0069595
-postcode: 91052
+postcode: "91052"
 city: Erlangen
 street: "Nürnberger Straße"
 housenumber: 83

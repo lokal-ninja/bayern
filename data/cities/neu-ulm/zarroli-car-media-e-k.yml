@@ -3,7 +3,7 @@ type: way
 shop: Hifi
 latitude: 48.386990700000005
 longitude: 10.002451
-postcode: 89231
+postcode: "89231"
 city: Neu-Ulm
 street: "Memminger Straße"
 housenumber: 49

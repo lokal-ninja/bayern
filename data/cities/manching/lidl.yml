@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.7161373
 longitude: 11.4828864
-postcode: 85077
+postcode: "85077"
 city: Manching
 street: "Ingolstädter Straße"
 housenumber: 57

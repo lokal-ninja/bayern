@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.9355868
 longitude: 10.834465600000001
-postcode: 86925
+postcode: "86925"
 city: Fuchstal
 street: "Bahnhofstraße"
 housenumber: 28

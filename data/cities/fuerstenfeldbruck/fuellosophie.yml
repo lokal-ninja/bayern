@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.1802726
 longitude: 11.2577583
-postcode: 82256
+postcode: "82256"
 city: Fürstenfeldbruck
 street: "Feuerhausstraße"
 housenumber: 2

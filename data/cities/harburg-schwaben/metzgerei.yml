@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 48.786825400000005
 longitude: 10.6919068
-postcode: 86655
+postcode: "86655"
 city: Harburg (Schwaben)
 street: "Mündlinger Straße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.7046226
 longitude: 10.2597977
-postcode: 97346
+postcode: "97346"
 city: Iphofen
 street: "Ägidiengasse"
 housenumber: 8

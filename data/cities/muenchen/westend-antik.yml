@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 48.1390813
 longitude: 11.533926000000001
-postcode: 80339
+postcode: "80339"
 city: München
 street: "Trappentreustraße"
 housenumber: 8

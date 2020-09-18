@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.0071492
 longitude: 10.597796800000001
-postcode: 97475
+postcode: "97475"
 city: Zeil am Main
 street: "Bamberger Straße"
 housenumber: 30

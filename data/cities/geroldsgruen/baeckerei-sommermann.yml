@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.3378317
 longitude: 11.5941247
-postcode: 95179
+postcode: "95179"
 city: Geroldsgrün
 street: "Keyßerstraße"
 housenumber: 11

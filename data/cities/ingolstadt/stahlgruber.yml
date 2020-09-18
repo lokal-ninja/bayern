@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 48.7419908
 longitude: 11.4818022
-postcode: 85053
+postcode: "85053"
 city: Ingolstadt
 street: "Scheelestraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.118242
 longitude: 11.5435166
-postcode: 81371
+postcode: "81371"
 city: München
 street: "Lindenschmitstraße"
 housenumber: 21

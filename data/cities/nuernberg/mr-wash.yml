@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.428265700000004
 longitude: 11.058302300000001
-postcode: 90441
+postcode: "90441"
 city: Nürnberg
 street: "Nopitschstraße"
 housenumber: 80

@@ -3,7 +3,7 @@ type: node
 shop: Tee
 latitude: 48.135467600000005
 longitude: 11.5693312
-postcode: 80331
+postcode: "80331"
 city: München
 street: "Sendlinger Straße"
 housenumber: 28

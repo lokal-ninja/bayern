@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.9190515
 longitude: 11.2019655
-postcode: 85131
+postcode: "85131"
 city: Pollenfeld
 street: "Römerstraße"
 housenumber: 36

@@ -3,7 +3,7 @@ type: way
 shop: Spirituosen
 latitude: 49.6437937
 longitude: 9.2188052
-postcode: 63916
+postcode: "63916"
 city: Amorbach
 street: "Schmiedsgasse"
 housenumber: 16

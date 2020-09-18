@@ -3,7 +3,7 @@ type: way
 shop: Schreibwaren
 latitude: 49.594899500000004
 longitude: 10.9508044
-postcode: 91056
+postcode: "91056"
 city: Erlangen
 street: "Mönaustraße"
 housenumber: 63

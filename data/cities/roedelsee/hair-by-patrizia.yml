@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.729750900000006
 longitude: 10.251148200000001
-postcode: 97348
+postcode: "97348"
 city: Rödelsee
 street: "Mönchshöflein"
 housenumber: 23

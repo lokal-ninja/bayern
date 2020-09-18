@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.808221
 longitude: 9.6105804
-postcode: 97855
+postcode: "97855"
 city: Triefenstein
 street: "Homburger Straße"
 housenumber: 13

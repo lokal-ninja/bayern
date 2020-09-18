@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 49.455128200000004
 longitude: 11.072851700000001
-postcode: 90403
+postcode: "90403"
 city: Nürnberg
 street: "Weißgerbergasse"
 housenumber: 21

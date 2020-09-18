@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.4271771
 longitude: 11.5454726
-postcode: 91236
+postcode: "91236"
 city: Alfeld
 street: "Kauerheimer Straße"
 housenumber: 5

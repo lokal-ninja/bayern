@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.1741784
 longitude: 11.2329621
-postcode: 82256
+postcode: "82256"
 city: Fürstenfeldbruck
 street: "Heimstättenstraße"
 housenumber: 44

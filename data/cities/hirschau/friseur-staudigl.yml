@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 49.5443219
 longitude: 11.9435056
-postcode: 92242
+postcode: "92242"
 city: Hirschau
 street: "Hauptstraße"
 housenumber: 100

@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.4512506
 longitude: 11.061855000000001
-postcode: 90429
+postcode: "90429"
 city: Nürnberg
 street: "Bleichstraße"
 housenumber: 22

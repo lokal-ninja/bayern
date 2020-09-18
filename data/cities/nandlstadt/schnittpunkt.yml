@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.5362358
 longitude: 11.8055567
-postcode: 85405
+postcode: "85405"
 city: Nandlstadt
 street: "Marktstraße"
 housenumber: 15

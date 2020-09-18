@@ -3,7 +3,7 @@ type: way
 shop: Kunst
 latitude: 48.4028124
 longitude: 11.717556
-postcode: 85354
+postcode: "85354"
 city: Freising
 street: "Dr.-Karl-Schuster-Straße"
 housenumber: 15

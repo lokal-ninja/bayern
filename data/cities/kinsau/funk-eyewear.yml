@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 47.8764546
 longitude: 10.911844
-postcode: 86981
+postcode: "86981"
 city: Kinsau
 street: "Herzogstraße"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 47.8792479
 longitude: 10.621033800000001
-postcode: 87600
+postcode: "87600"
 city: Kaufbeuren
 street: "Kaiser-Max-Straße"
 housenumber: 23

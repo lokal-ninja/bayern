@@ -1,12 +1,12 @@
-id: 319882710
+id: 2598157006
 type: node
 shop: Supermarkt
-latitude: 49.814423100000006
-longitude: 9.9628201
-postcode: 97078
+latitude: 49.79818950000001
+longitude: 9.933538800000001
+postcode: "97070"
 city: Würzburg
-street: "Frankenstraße"
-housenumber: 207
+street: "Kaiserstraße"
+housenumber: 5
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.kupsch.de/markt/kupsch-markt-wehnert-2/"
+opening_hours: "Mo-Sa 07:00-20:00;Su,PH off"
+website: ""

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.808321400000004
 longitude: 12.119835
-postcode: 83064
+postcode: "83064"
 city: Raubling
 street: "Rosenheimer Straße"
 housenumber: 103

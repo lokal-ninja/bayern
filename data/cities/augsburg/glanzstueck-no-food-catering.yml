@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.32078610000001
 longitude: 10.908172
-postcode: 86179
+postcode: "86179"
 city: Augsburg
 street: "Haunstetter Straße"
 housenumber: 232

@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 49.4688869
 longitude: 11.0709893
-postcode: 90408
+postcode: "90408"
 city: Nürnberg
 street: "Kleinreuther Weg"
 housenumber: 67

@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 50.3084046
 longitude: 9.7900431
-postcode: 97769
+postcode: "97769"
 city: Bad Brückenau
 street: "Sinnaustraße"
 housenumber: 12

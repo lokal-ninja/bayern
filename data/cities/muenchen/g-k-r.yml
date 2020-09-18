@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 48.1956677
 longitude: 11.5271643
-postcode: 80995
+postcode: "80995"
 city: München
 street: "Himmelschlüsselstraße"
 housenumber: 60

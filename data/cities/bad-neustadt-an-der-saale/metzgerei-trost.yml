@@ -1,12 +1,12 @@
-id: 727854197
-type: way
+id: 7376355714
+type: node
 shop: Metzgerei
-latitude: 50.326128600000004
-longitude: 10.2018073
-postcode: 97616
+latitude: 50.3247221
+longitude: 10.1933325
+postcode: "97616"
 city: Bad Neustadt an der Saale
-street: "Gartenstraße"
-housenumber: 37
-phone: "+49 9771 2109"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 06:30-13:00"
-website: "https://www.metzgerei-trost.de/"
+street: "Rhönstraße"
+housenumber: 51
+phone: ""
+opening_hours: ""
+website: ""

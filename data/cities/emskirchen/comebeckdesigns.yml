@@ -3,7 +3,7 @@ type: node
 shop: Konditorei
 latitude: 49.5925552
 longitude: 10.715207000000001
-postcode: 91448
+postcode: "91448"
 city: Emskirchen
 street: "Dorfstraße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 49.6932941
 longitude: 11.0277951
-postcode: 91353
+postcode: "91353"
 city: Hausen
 street: "Heroldsbacher Straße"
 housenumber: 42a

@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 49.6589958
 longitude: 10.9176449
-postcode: 91341
+postcode: "91341"
 city: Röttenbach
 street: "Gewerbering"
 housenumber: 30

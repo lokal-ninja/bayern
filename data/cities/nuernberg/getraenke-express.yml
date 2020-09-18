@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 49.4378259
 longitude: 11.0792184
-postcode: 
+postcode: ""
 city: Nürnberg
 street: "Osterhausenstraße"
 housenumber: 14

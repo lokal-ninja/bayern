@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 47.9985313
 longitude: 11.34162
-postcode: 82319
+postcode: "82319"
 city: Starnberg
 street: "Kirchplatz"
 housenumber: 3

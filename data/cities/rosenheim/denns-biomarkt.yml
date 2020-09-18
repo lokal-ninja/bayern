@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.8403842
 longitude: 12.1133036
-postcode: 83026
+postcode: "83026"
 city: Rosenheim
 street: "Mangfallstraße"
 housenumber: 35

@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 50.479519700000004
 longitude: 10.1838279
-postcode: 97647
+postcode: "97647"
 city: Nordheim v.d. Rhön
 street: "Korngasse"
 housenumber: 11-13

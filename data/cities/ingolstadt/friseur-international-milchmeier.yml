@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.7684462
 longitude: 11.422096900000001
-postcode: 85049
+postcode: "85049"
 city: Ingolstadt
 street: "Esplanade"
 housenumber: 31

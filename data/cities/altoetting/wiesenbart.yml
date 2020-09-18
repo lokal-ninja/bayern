@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 48.2200622
 longitude: 12.676228700000001
-postcode: 84503
+postcode: "84503"
 city: Altötting
 street: "Hillmannstraße"
 housenumber: 23b

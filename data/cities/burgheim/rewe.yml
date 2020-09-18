@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.7086801
 longitude: 11.011030600000002
-postcode: 86666
+postcode: "86666"
 city: Burgheim
 street: "Bertoldsheimer Straße"
 housenumber: 82

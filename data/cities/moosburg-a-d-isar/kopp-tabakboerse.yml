@@ -3,7 +3,7 @@ type: node
 shop: Zeitungen
 latitude: 48.475894000000004
 longitude: 11.942828200000001
-postcode: 85368
+postcode: "85368"
 city: Moosburg a.d. Isar
 street: "Neue Industriestraße"
 housenumber: 7

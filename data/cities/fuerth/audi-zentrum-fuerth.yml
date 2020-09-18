@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.4461444
 longitude: 10.991695700000001
-postcode: 90763
+postcode: "90763"
 city: Fürth
 street: "Schwabacher Straße"
 housenumber: 333

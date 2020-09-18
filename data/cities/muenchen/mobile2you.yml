@@ -3,7 +3,7 @@ type: way
 shop: Handy
 latitude: 48.1299897
 longitude: 11.5915309
-postcode: 81669
+postcode: "81669"
 city: München
 street: "Rosenheimer Straße"
 housenumber: 30

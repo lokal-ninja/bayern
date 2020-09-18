@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 48.142372300000005
 longitude: 11.592974900000002
-postcode: 80538
+postcode: "80538"
 city: München
 street: "Prinzregentenstraße"
 housenumber: 7

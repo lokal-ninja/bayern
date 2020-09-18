@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 49.7978171
 longitude: 9.9342152
-postcode: 97070
+postcode: "97070"
 city: Würzburg
 street: "Haugerpfarrgasse"
 housenumber: 1

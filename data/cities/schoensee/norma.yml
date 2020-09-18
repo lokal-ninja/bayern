@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.5155462
 longitude: 12.5474867
-postcode: 92539
+postcode: "92539"
 city: Schönsee
 street: "Eslarner Straße"
 housenumber: 15

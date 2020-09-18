@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.2741692
 longitude: 10.973628600000001
-postcode: 86415
+postcode: "86415"
 city: Mering
 street: "Gaußring"
 housenumber: 12

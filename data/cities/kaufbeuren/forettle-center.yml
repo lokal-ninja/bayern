@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 47.8798243
 longitude: 10.624848700000001
-postcode: 87600
+postcode: "87600"
 city: Kaufbeuren
 street: "Am Graben"
 housenumber: 10

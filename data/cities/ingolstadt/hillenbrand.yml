@@ -3,7 +3,7 @@ type: way
 shop: Schreibwaren
 latitude: 48.7540089
 longitude: 11.432559600000001
-postcode: 85053
+postcode: "85053"
 city: Ingolstadt
 street: "Zainerstraße"
 housenumber: 5

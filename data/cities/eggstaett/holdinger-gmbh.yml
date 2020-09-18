@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.918447500000006
 longitude: 12.380390100000001
-postcode: 83125
+postcode: "83125"
 city: Eggstätt
 street: "Straß"
 housenumber: 5

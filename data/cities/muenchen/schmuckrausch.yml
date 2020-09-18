@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.135316800000005
 longitude: 11.570123
-postcode: 80331
+postcode: "80331"
 city: München
 street: "Sendlinger Straße"
 housenumber: 24

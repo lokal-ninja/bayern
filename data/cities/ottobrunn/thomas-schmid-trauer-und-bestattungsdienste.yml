@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 48.064986600000005
 longitude: 11.661400100000002
-postcode: 85521
+postcode: "85521"
 city: Ottobrunn
 street: "Rosenheimer Landstraße"
 housenumber: 63

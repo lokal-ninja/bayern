@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 48.655010600000004
 longitude: 12.4789434
-postcode: 84130
+postcode: "84130"
 city: Dingolfing
 street: "Straubinger Straße"
 housenumber: 54

@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 49.6583218
 longitude: 9.9470158
-postcode: 97232
+postcode: "97232"
 city: Giebelstadt
 street: "Langenwiesengraben"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 48.1352704
 longitude: 11.5742653
-postcode: 80331
+postcode: "80331"
 city: München
 street: "Rosental"
 housenumber: 10

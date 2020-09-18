@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 48.8821523
 longitude: 12.5706036
-postcode: 94315
+postcode: "94315"
 city: Straubing
 street: "Ludwigsplatz"
 housenumber: 11

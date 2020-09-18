@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.131935500000004
 longitude: 11.5673347
-postcode: 80469
+postcode: "80469"
 city: München
 street: "Müllerstraße"
 housenumber: 51

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.4611189
 longitude: 11.1331314
-postcode: 86551
+postcode: "86551"
 city: Aichach
 street: "Gerhauserstraße"
 housenumber: 9

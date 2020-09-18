@@ -3,7 +3,7 @@ type: way
 shop: Warenhaus
 latitude: 47.874921300000004
 longitude: 11.4676129
-postcode: 82538
+postcode: "82538"
 city: Geretsried
 street: "Egerlandstraße"
 housenumber: 47

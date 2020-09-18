@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 48.4121278
 longitude: 11.741887400000001
-postcode: 85354
+postcode: "85354"
 city: Freising
 street: "Karwendelring"
 housenumber: 1

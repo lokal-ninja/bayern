@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 49.718150800000004
 longitude: 11.0593081
-postcode: 91301
+postcode: "91301"
 city: Forchheim
 street: "Hauptstraße"
 housenumber: 62

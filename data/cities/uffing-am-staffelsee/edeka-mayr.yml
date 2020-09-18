@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.7144514
 longitude: 11.1513506
-postcode: 82449
+postcode: "82449"
 city: Uffing am Staffelsee
 street: "Hauptstraße"
 housenumber: 4

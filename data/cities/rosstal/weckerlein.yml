@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.3955587
 longitude: 10.885119600000001
-postcode: 90574
+postcode: "90574"
 city: Roßtal
 street: "Schulstraße"
 housenumber: 34

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.0293125
 longitude: 10.2022881
-postcode: 97424
+postcode: "97424"
 city: Schweinfurt
 street: "Engelbert-Fries-Straße"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.1376769
 longitude: 11.5025688
-postcode: 80686
+postcode: "80686"
 city: München
 street: "Fürstenrieder Straße"
 housenumber: 46a

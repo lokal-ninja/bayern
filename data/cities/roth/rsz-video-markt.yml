@@ -3,7 +3,7 @@ type: node
 shop: Videothek
 latitude: 49.2514911
 longitude: 11.0871174
-postcode: 91154
+postcode: "91154"
 city: Roth
 street: "Matthias-Gesner-Straße"
 housenumber: 2

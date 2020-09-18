@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.3931958
 longitude: 10.4369616
-postcode: 89343
+postcode: "89343"
 city: Jettingen-Scheppach
 street: "Hauptstraße"
 housenumber: 103

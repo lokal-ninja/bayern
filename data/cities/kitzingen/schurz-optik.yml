@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.7370858
 longitude: 10.160853900000001
-postcode: 97318
+postcode: "97318"
 city: Kitzingen
 street: "Luitpoldstraße"
 housenumber: 13

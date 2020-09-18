@@ -3,10 +3,10 @@ type: node
 shop: Landwirtschaftlich
 latitude: 48.472810100000004
 longitude: 11.9324911
-postcode: 85368
+postcode: "85368"
 city: Moosburg a.d. Isar
 street: "Bahnhofstraße"
 housenumber: 68
-phone: ""
+phone: "+49 8761 72274-0"
 opening_hours: ""
 website: "https://www.baywa.de/standort/moosburg/agrar/"

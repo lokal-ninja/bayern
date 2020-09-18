@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.8038023
 longitude: 9.892384100000001
-postcode: 97080
+postcode: "97080"
 city: Würzburg
 street: "Alfred-Nobel-Straße"
 housenumber: 5

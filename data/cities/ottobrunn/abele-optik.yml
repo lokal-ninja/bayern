@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.0641648
 longitude: 11.6633475
-postcode: 85521
+postcode: "85521"
 city: Ottobrunn
 street: "Laurinweg"
 housenumber: 11

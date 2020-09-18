@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 48.536560800000004
 longitude: 11.5130231
-postcode: 85276
+postcode: "85276"
 city: Pfaffenhofen a.d. Ilm
 street: "Joseph-Fraunhofer-Straße"
 housenumber: 21

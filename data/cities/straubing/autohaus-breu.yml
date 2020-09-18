@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.8832468
 longitude: 12.6146785
-postcode: 94315
+postcode: "94315"
 city: Straubing
 street: "Dresdner Straße"
 housenumber: 9

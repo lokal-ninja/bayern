@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 49.0061413
 longitude: 12.086529
-postcode: 93051
+postcode: "93051"
 city: Regensburg
 street: "Kumpfmühler Straße"
 housenumber: 63 a

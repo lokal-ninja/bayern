@@ -3,10 +3,10 @@ type: way
 shop: Elektronik
 latitude: 48.1258032
 longitude: 11.4485212
-postcode: 82166
+postcode: "82166"
 city: Gräfelfing
 street: "Pasinger Straße"
 housenumber: 94
-phone: "+49898955800"
-opening_hours: "Mo-Fr 09:30-20:00; Sa 09:00-20:00; PH off"
-website: ""
+phone: "+49 89 8955800"
+opening_hours: "Mo-Sa 09:00-19:00; PH off"
+website: "https://wir.expert-technomarkt.de/standorte/graefelfing/"

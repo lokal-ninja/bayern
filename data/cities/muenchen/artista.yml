@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.1355638
 longitude: 11.5772297
-postcode: 80331
+postcode: "80331"
 city: München
 street: "Heiliggeiststraße"
 housenumber: 7

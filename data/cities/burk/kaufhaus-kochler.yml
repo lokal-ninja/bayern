@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.1325756
 longitude: 10.4804109
-postcode: 91596
+postcode: "91596"
 city: Burk
 street: "Bechhofener Straße"
 housenumber: 2

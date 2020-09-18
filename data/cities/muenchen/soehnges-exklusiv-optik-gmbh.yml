@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.1427783
 longitude: 11.5763435
-postcode: 
+postcode: ""
 city: München
 street: "Brienner Straße"
 housenumber: 7

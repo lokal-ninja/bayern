@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 50.016138000000005
 longitude: 10.4703239
-postcode: 97539
+postcode: "97539"
 city: Wonfurt
 street: "Altachweg"
 housenumber: 4

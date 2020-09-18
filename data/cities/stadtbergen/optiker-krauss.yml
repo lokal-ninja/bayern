@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.366526
 longitude: 10.852772100000001
-postcode: 86391
+postcode: "86391"
 city: Stadtbergen
 street: "Bismarckstraße"
 housenumber: 49a

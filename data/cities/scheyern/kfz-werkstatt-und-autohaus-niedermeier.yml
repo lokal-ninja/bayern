@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.518569500000005
 longitude: 11.457734700000001
-postcode: 85298
+postcode: "85298"
 city: Scheyern
 street: "Werkstraße"
 housenumber: 8

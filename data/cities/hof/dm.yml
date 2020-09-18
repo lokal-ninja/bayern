@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.306259600000004
 longitude: 11.9172559
-postcode: 95032
+postcode: "95032"
 city: Hof
 street: "Hans-Böckler-Straße"
 housenumber: 23

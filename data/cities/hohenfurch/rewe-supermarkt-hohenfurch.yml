@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.846872600000005
 longitude: 10.8987213
-postcode: 86978
+postcode: "86978"
 city: Hohenfurch
 street: "Kreuzstraße"
 housenumber: 14

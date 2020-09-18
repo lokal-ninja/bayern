@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 49.196449300000005
 longitude: 12.2657588
-postcode: 93149
+postcode: "93149"
 city: Nittenau
 street: "Regentalstraße"
 housenumber: 11

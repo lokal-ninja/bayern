@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 47.9110731
 longitude: 10.635307000000001
-postcode: 87600
+postcode: "87600"
 city: Kaufbeuren
 street: "Sudetenstraße"
 housenumber: 104

@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 49.5878578
 longitude: 10.9770287
-postcode: 91056
+postcode: "91056"
 city: Erlangen
 street: "Neumühle"
 housenumber: 4

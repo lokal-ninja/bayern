@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 48.9778412
 longitude: 12.189749500000001
-postcode: 93073
+postcode: "93073"
 city: Neutraubling
 street: "Podersamer Straße"
 housenumber: 12

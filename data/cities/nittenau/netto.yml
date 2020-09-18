@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.196617100000005
 longitude: 12.2676084
-postcode: 93149
+postcode: "93149"
 city: Nittenau
 street: "Regentalstraße"
 housenumber: 7

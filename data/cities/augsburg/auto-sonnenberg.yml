@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.3835904
 longitude: 10.9171894
-postcode: 86167
+postcode: "86167"
 city: Augsburg
 street: "Neuburger Straße"
 housenumber: 77

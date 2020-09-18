@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 49.9645385
 longitude: 9.128945400000001
-postcode: 63741
+postcode: "63741"
 city: Aschaffenburg
 street: "Magnolienweg"
 housenumber: 1

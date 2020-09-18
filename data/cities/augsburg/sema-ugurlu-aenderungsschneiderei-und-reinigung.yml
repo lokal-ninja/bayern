@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 48.372128100000005
 longitude: 10.892400400000001
-postcode: 
+postcode: ""
 city: Augsburg
 street: "Kohlergasse"
 housenumber: 16

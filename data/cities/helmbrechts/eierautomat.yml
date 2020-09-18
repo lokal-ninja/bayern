@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 50.24774600000001
 longitude: 11.702451
-postcode: 95233
+postcode: "95233"
 city: Helmbrechts
 street: "Mittelweg"
 housenumber: 3

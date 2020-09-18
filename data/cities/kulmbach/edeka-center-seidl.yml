@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.1021542
 longitude: 11.4380482
-postcode: 95326
+postcode: "95326"
 city: Kulmbach
 street: "Am Goldenen Feld"
 housenumber: 2

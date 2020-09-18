@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 49.6406884
 longitude: 11.067515100000001
-postcode: 91094
+postcode: "91094"
 city: Langensendelbach
 street: "Hauptstraße"
 housenumber: 27a

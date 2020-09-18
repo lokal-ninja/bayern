@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.490419200000005
 longitude: 10.9202989
-postcode: 90768
+postcode: "90768"
 city: Fürth
 street: "Bernbacher Straße"
 housenumber: 30

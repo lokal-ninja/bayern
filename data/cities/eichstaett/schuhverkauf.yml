@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.899540900000005
 longitude: 11.162753700000001
-postcode: 85072
+postcode: "85072"
 city: Eichstätt
 street: "Clara-Staiger-Straße"
 housenumber: 86

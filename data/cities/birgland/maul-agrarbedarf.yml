@@ -3,7 +3,7 @@ type: node
 shop: Landwirtschaftlich
 latitude: 49.468634
 longitude: 11.621136700000001
-postcode: 92262
+postcode: "92262"
 city: Birgland
 street: ""
 housenumber: 1

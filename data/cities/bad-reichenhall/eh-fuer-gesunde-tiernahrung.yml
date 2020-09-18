@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 47.7507244
 longitude: 12.926266400000001
-postcode: 83435
+postcode: "83435"
 city: Bad Reichenhall
 street: "Römerstraße"
 housenumber: 9

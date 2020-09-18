@@ -1,12 +1,12 @@
-id: 116642293
+id: 339526215
 type: way
 shop: Supermarkt
-latitude: 48.137625400000005
-longitude: 11.562183200000002
-postcode: 80336
+latitude: 48.13002
+longitude: 11.590728100000002
+postcode: "81669"
 city: München
-street: "Schwanthalerstraße"
-housenumber: 14
+street: "Rosenheimer Straße"
+housenumber: 30
 phone: ""
-opening_hours: "Mo-Fr 08:30-20:00; Sa 08:00-20:00"
+opening_hours: "Mo-Sa 08:00-20:00"
 website: "https://www.aldi-sued.de/"

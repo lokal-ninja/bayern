@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.8374273
 longitude: 12.9824426
-postcode: 83395
+postcode: "83395"
 city: Freilassing
 street: "Josef-Brendle-Straße"
 housenumber: 8

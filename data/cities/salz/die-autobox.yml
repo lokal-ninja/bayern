@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.298478
 longitude: 10.1923103
-postcode: 97616
+postcode: "97616"
 city: Salz
 street: "Am Kebigsgraben"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 48.267106000000005
 longitude: 12.157541
-postcode: 84405
+postcode: "84405"
 city: Dorfen
 street: "Bahnhofstraße"
 housenumber: 4

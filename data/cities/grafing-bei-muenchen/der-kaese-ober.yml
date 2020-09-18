@@ -3,7 +3,7 @@ type: node
 shop: Käse
 latitude: 48.045038500000004
 longitude: 11.965182500000001
-postcode: 85567
+postcode: "85567"
 city: Grafing bei München
 street: "Marktplatz"
 housenumber: 2

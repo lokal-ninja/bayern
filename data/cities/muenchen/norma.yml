@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.1276918
 longitude: 11.6341012
-postcode: 81673
+postcode: "81673"
 city: München
 street: "Kreillerstraße"
 housenumber: 21

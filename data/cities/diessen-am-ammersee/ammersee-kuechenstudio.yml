@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 47.9484517
 longitude: 11.1050783
-postcode: 86911
+postcode: "86911"
 city: Dießen am Ammersee
 street: "Mühlstraße"
 housenumber: 16

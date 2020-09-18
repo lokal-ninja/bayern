@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 49.0166526
 longitude: 12.094419700000001
-postcode: 93047
+postcode: "93047"
 city: Regensburg
 street: "Obere Bachgasse"
 housenumber: 20

@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 49.468993600000005
 longitude: 10.9979703
-postcode: 90762
+postcode: "90762"
 city: Fürth
 street: "Gebhardtstraße"
 housenumber: 37

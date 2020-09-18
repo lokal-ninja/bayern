@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 48.140122500000004
 longitude: 11.591190500000002
-postcode: 80538
+postcode: "80538"
 city: München
 street: "Sternstraße"
 housenumber: 26

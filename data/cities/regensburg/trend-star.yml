@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.015751800000004
 longitude: 12.100394600000001
-postcode: 93047
+postcode: "93047"
 city: Regensburg
 street: "Maximilianstraße"
 housenumber: 23

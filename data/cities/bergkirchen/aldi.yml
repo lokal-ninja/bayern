@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.237000200000004
 longitude: 11.352464900000001
-postcode: 85232
+postcode: "85232"
 city: Bergkirchen
 street: "Gadastraße"
 housenumber: 3

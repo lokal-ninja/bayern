@@ -3,10 +3,10 @@ type: node
 shop: Kleidung
 latitude: 48.155210100000005
 longitude: 11.5755043
-postcode: 
+postcode: ""
 city: München
 street: "Georgenstraße"
 housenumber: 50
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-17:00"
 website: ""

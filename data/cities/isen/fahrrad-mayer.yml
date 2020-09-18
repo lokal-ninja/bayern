@@ -3,10 +3,10 @@ type: node
 shop: Fahrrad
 latitude: 48.208952000000004
 longitude: 12.0427032
-postcode: 84424
+postcode: "84424"
 city: Isen
-street: ""
+street: "Mais"
 housenumber: 2
 phone: ""
-opening_hours: "Mo,Th,Fr 9:00-12:00,15:00-19:00;Sa 9:00-14:00"
-website: ""
+opening_hours: "Mo,Th,Fr 9:00-12:00,15:00-19:00; Sa 9:00-14:00"
+website: "https://www.fahrradmayr.de"

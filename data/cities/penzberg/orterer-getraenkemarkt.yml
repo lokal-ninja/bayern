@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 47.757075300000004
 longitude: 11.3807921
-postcode: 82377
+postcode: "82377"
 city: Penzberg
 street: "Grube"
 housenumber: 57

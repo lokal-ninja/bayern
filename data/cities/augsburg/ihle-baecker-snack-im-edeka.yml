@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.3673109
 longitude: 10.8689303
-postcode: 86157
+postcode: "86157"
 city: Augsburg
 street: "Christian-Dierig-Straße"
 housenumber: 2

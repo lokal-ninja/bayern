@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.016926000000005
 longitude: 12.1286856
-postcode: 93055
+postcode: "93055"
 city: Regensburg
 street: "Auweg"
 housenumber: 15

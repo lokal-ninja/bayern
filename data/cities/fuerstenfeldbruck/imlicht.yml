@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 48.1906934
 longitude: 11.2520403
-postcode: 82256
+postcode: "82256"
 city: Fürstenfeldbruck
 street: "Waldstraße"
 housenumber: 20

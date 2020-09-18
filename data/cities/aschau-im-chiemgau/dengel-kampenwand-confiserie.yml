@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 47.776041400000004
 longitude: 12.3249369
-postcode: 83229
+postcode: "83229"
 city: Aschau im Chiemgau
 street: "Kampenwandstraße"
 housenumber: 15

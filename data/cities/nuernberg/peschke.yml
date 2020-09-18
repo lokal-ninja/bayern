@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.448300200000006
 longitude: 11.0808753
-postcode: 90402
+postcode: "90402"
 city: Nürnberg
 street: "Königstraße"
 housenumber: 81

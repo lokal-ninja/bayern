@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.084092600000005
 longitude: 12.641176100000001
-postcode: 84558
+postcode: "84558"
 city: Kirchweidach
 street: "Hauptstraße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 47.8235764
 longitude: 10.43566
-postcode: 87634
+postcode: "87634"
 city: Günzach
 street: "Hauptstraße"
 housenumber: 18

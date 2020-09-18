@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.1413269
 longitude: 11.5853294
-postcode: 80538
+postcode: "80538"
 city: München
 street: "Christophstraße"
 housenumber: 10

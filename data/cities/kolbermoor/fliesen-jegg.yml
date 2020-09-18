@@ -3,7 +3,7 @@ type: way
 shop: Fliesen
 latitude: 47.8425078
 longitude: 12.044992500000001
-postcode: 83059
+postcode: "83059"
 city: Kolbermoor
 street: "Spitzsteinstraße"
 housenumber: 7

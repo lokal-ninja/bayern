@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.781452400000006
 longitude: 10.694857200000001
-postcode: 86655
+postcode: "86655"
 city: Harburg (Schwaben)
 street: "Oskar-Märker-Straße"
 housenumber: 1

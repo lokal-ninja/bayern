@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.2262361
 longitude: 11.3329859
-postcode: 82140
+postcode: "82140"
 city: Olching
 street: "Geiselbullacher Straße"
 housenumber: 2A

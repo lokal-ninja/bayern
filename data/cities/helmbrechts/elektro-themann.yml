@@ -3,7 +3,7 @@ type: node
 shop: Dorfladen
 latitude: 50.238077600000004
 longitude: 11.716297500000001
-postcode: 95233
+postcode: "95233"
 city: Helmbrechts
 street: "Kulmbacher Straße"
 housenumber: 1

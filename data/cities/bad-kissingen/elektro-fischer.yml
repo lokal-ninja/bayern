@@ -3,7 +3,7 @@ type: way
 shop: Elektrisch
 latitude: 50.188615000000006
 longitude: 10.057460800000001
-postcode: 97688
+postcode: "97688"
 city: Bad Kissingen
 street: "Riedgraben"
 housenumber: 20

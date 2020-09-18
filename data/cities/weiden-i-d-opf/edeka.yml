@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.6358108
 longitude: 12.1392687
-postcode: 92637
+postcode: "92637"
 city: Weiden i.d.OPf.
 street: "Schwalbenweg"
 housenumber: 1

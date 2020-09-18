@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.3547105
 longitude: 10.7777875
-postcode: 86420
+postcode: "86420"
 city: Diedorf
 street: "Wellenburger Straße"
 housenumber: 1

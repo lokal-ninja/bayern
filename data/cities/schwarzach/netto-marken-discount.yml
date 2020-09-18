@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.9144675
 longitude: 12.808656000000001
-postcode: 94374
+postcode: "94374"
 city: Schwarzach
 street: "Deggendorfer Straße"
 housenumber: 8

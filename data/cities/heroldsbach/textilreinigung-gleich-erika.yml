@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 49.6922301
 longitude: 11.0014217
-postcode: 91336
+postcode: "91336"
 city: Heroldsbach
 street: "Hauptstraße"
 housenumber: 8

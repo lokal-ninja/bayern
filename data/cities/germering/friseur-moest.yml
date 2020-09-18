@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.1346216
 longitude: 11.3762354
-postcode: 82110
+postcode: "82110"
 city: Germering
 street: "Kurfürstenstraße"
 housenumber: 8

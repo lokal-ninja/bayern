@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.6058189
 longitude: 10.9833806
-postcode: 91056
+postcode: "91056"
 city: Erlangen
 street: "Möhrendorfer Straße"
 housenumber: 1c

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.1350649
 longitude: 11.580315500000001
-postcode: 80331
+postcode: "80331"
 city: München
 street: "Westenriederstraße"
 housenumber: 45

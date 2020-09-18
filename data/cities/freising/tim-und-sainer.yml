@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.400476000000005
 longitude: 11.7473524
-postcode: 
+postcode: ""
 city: Freising
 street: "Fischergasse"
 housenumber: 25

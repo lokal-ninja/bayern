@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.0238723
 longitude: 11.4775068
-postcode: 82065
+postcode: "82065"
 city: Baierbrunn
 street: "Gautinger Weg"
 housenumber: 11

@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 48.8884124
 longitude: 12.610361000000001
-postcode: 94315
+postcode: "94315"
 city: Straubing
 street: "Küstriner Straße"
 housenumber: 6

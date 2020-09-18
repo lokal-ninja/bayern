@@ -3,7 +3,7 @@ type: way
 shop: Schreibwaren
 latitude: 48.3550428
 longitude: 10.7783204
-postcode: 86420
+postcode: "86420"
 city: Diedorf
 street: "Hauptstraße"
 housenumber: 21

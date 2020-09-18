@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.367399500000005
 longitude: 10.899549200000001
-postcode: 86150
+postcode: "86150"
 city: Augsburg
 street: "Judenberg"
 housenumber: 13

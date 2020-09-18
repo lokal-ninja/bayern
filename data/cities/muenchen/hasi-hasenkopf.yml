@@ -3,7 +3,7 @@ type: node
 shop: Schokolade
 latitude: 48.1519191
 longitude: 11.528552600000001
-postcode: 80634
+postcode: "80634"
 city: München
 street: "Renatastraße"
 housenumber: 40

@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 48.873881100000006
 longitude: 11.031504400000001
-postcode: 91804
+postcode: "91804"
 city: Mörnsheim
 street: "Hammermühle"
 housenumber: 5

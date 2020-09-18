@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 49.5232022
 longitude: 10.832728000000001
-postcode: 90617
+postcode: "90617"
 city: Puschendorf
 street: "Fürther Straße"
 housenumber: 3

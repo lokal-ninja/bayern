@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.5096434
 longitude: 10.975346400000001
-postcode: 90765
+postcode: "90765"
 city: Fürth
 street: "Stadelner Hauptstraße"
 housenumber: 53

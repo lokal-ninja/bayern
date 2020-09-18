@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.111228700000005
 longitude: 11.5313452
-postcode: 81369
+postcode: "81369"
 city: München
 street: "Konrad-Celtis-Straße"
 housenumber: 22

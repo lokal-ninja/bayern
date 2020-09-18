@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 48.146383900000004
 longitude: 11.5333261
-postcode: 80634
+postcode: "80634"
 city: München
 street: "Arnulfstraße"
 housenumber: 85

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.176841700000004
 longitude: 11.0111095
-postcode: 91166
+postcode: "91166"
 city: Georgensgmünd
 street: "Pleinfelder Straße"
 housenumber: 66c

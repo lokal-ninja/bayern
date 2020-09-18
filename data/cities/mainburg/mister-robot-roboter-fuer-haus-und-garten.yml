@@ -3,7 +3,7 @@ type: node
 shop: Roboter
 latitude: 48.6456432
 longitude: 11.7859823
-postcode: 84048
+postcode: "84048"
 city: Mainburg
 street: "Abensberger Straße"
 housenumber: 40

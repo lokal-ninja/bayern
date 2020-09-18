@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 48.2503596
 longitude: 11.6474083
-postcode: 85748
+postcode: "85748"
 city: Garching bei München
 street: "Niels-Bohr-Straße"
 housenumber: 11

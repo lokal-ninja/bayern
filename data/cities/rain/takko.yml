@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.703381500000006
 longitude: 10.9285446
-postcode: 86641
+postcode: "86641"
 city: Rain
 street: "Neuhofweg"
 housenumber: 7

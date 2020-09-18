@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 48.031149400000004
 longitude: 11.584381
-postcode: 
+postcode: ""
 city: Oberhaching
 street: "Kolpingring"
 housenumber: 4

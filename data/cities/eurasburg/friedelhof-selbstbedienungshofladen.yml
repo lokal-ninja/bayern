@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.330440800000005
 longitude: 11.1157362
-postcode: 86495
+postcode: "86495"
 city: Eurasburg
 street: ""
 housenumber: 2

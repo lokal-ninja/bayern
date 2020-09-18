@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.310925600000004
 longitude: 11.9034159
-postcode: 95030
+postcode: "95030"
 city: Hof
 street: "August-Mohl-Straße"
 housenumber: 38

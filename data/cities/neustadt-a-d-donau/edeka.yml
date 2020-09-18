@@ -3,10 +3,10 @@ type: node
 shop: Lebensmittel
 latitude: 48.8183688
 longitude: 11.787621000000001
-postcode: 93333
+postcode: "93333"
 city: Neustadt a.d.Donau
 street: "Zur Limestherme"
 housenumber: 4
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 08:00-17:30; Sa 08:00-12:30"
 website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.151776500000004
 longitude: 11.536009900000002
-postcode: 80634
+postcode: "80634"
 city: München
 street: "Nymphenburger Straße"
 housenumber: 149

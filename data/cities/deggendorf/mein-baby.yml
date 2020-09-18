@@ -3,7 +3,7 @@ type: node
 shop: Babysachen
 latitude: 48.832877100000005
 longitude: 12.9629825
-postcode: 94469
+postcode: "94469"
 city: Deggendorf
 street: "Bräugasse"
 housenumber: 3

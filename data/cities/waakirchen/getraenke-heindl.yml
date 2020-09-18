@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 47.793884500000004
 longitude: 11.719363300000001
-postcode: 83666
+postcode: "83666"
 city: Waakirchen
 street: ""
 housenumber: 1

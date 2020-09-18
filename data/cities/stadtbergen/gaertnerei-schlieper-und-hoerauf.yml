@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.364431200000006
 longitude: 10.851630700000001
-postcode: 86391
+postcode: "86391"
 city: Stadtbergen
 street: "Oberer Stadtweg"
 housenumber: 55

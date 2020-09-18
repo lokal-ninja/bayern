@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.454483700000004
 longitude: 10.2783595
-postcode: 89312
+postcode: "89312"
 city: Günzburg
 street: "Bürgermeister-Landmann-Platz"
 housenumber: 7

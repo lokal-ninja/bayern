@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.1040568
 longitude: 11.418282000000001
-postcode: 82152
+postcode: "82152"
 city: Planegg
 street: "Bahnhofstraße"
 housenumber: 31

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.9167989
 longitude: 11.2851268
-postcode: 82327
+postcode: "82327"
 city: Tutzing
 street: "Hauptstraße"
 housenumber: 109

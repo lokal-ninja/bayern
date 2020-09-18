@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 47.9479528
 longitude: 11.10261
-postcode: 86911
+postcode: "86911"
 city: Dießen am Ammersee
 street: "Herrenstraße"
 housenumber: 2

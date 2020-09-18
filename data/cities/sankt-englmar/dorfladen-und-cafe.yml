@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.005386800000004
 longitude: 12.834301400000001
-postcode: 94379
+postcode: "94379"
 city: Sankt Englmar
 street: "Am Predigtstuhl"
 housenumber: 1

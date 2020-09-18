@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.066875800000005
 longitude: 11.6664671
-postcode: 85521
+postcode: "85521"
 city: Ottobrunn
 street: "Putzbrunner Straße"
 housenumber: 28

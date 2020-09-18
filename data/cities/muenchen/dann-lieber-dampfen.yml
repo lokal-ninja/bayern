@@ -3,7 +3,7 @@ type: node
 shop: E-Zigaretten
 latitude: 48.1971433
 longitude: 11.6149661
-postcode: 80939
+postcode: "80939"
 city: München
 street: "Lützelsteiner Straße"
 housenumber: 20

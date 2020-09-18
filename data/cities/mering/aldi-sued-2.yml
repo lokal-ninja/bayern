@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.254618300000004
 longitude: 10.986627700000001
-postcode: 86415
+postcode: "86415"
 city: Mering
 street: "Wallbergstraße"
 housenumber: 20

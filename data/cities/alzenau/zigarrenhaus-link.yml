@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 50.087588600000004
 longitude: 9.0652975
-postcode: 63755
+postcode: "63755"
 city: Alzenau
 street: "Hanauer Straße"
 housenumber: 82

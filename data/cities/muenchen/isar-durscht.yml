@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.129587
 longitude: 11.5865237
-postcode: 81669
+postcode: "81669"
 city: München
 street: "Lilienstraße"
 housenumber: 26

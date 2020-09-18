@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.9036454
 longitude: 11.369760600000001
-postcode: 82541
+postcode: "82541"
 city: Münsing
 street: "Bachstraße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 49.451149300000004
 longitude: 11.0802942
-postcode: 90402
+postcode: "90402"
 city: Nürnberg
 street: "Nonnengasse"
 housenumber: 18

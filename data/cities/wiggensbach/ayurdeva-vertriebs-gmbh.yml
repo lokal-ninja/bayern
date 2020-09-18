@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 47.740767500000004
 longitude: 10.2345691
-postcode: 87487
+postcode: "87487"
 city: Wiggensbach
 street: "Wendelins"
 housenumber: 1

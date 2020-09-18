@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.7870718
 longitude: 10.0203676
-postcode: 97228
+postcode: "97228"
 city: Rottendorf
 street: "Gartenstraße"
 housenumber: 33

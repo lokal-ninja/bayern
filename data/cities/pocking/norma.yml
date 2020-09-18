@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.391032800000005
 longitude: 13.3081156
-postcode: 94060
+postcode: "94060"
 city: Pocking
 street: "Bürgermeister-Schönbauer-Straße"
 housenumber: 15

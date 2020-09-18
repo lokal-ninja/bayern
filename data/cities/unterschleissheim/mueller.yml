@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 48.281083800000005
 longitude: 11.5641756
-postcode: 85716
+postcode: "85716"
 city: Unterschleißheim
 street: "Landshuter Straße"
 housenumber: 16

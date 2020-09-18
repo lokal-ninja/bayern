@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.9824398
 longitude: 9.576346000000001
-postcode: 97816
+postcode: "97816"
 city: Lohr am Main
 street: "Bürgermeister-Dr.-Nebel-Straße"
 housenumber: 16

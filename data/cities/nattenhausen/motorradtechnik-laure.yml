@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 48.233947
 longitude: 10.316335500000001
-postcode: 86488
+postcode: "86488"
 city: Nattenhausen
 street: "Hauptstraße"
 housenumber: 3

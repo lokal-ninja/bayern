@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 48.1554227
 longitude: 11.5341213
-postcode: 80634
+postcode: "80634"
 city: München
 street: "Volkartstraße"
 housenumber: 20

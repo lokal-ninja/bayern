@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 47.987835700000005
 longitude: 11.8651348
-postcode: 85625
+postcode: "85625"
 city: Glonn
 street: "Marktplatz"
 housenumber: 6

@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 49.484439900000005
 longitude: 10.944981
-postcode: 90766
+postcode: "90766"
 city: Fürth
 street: "Manfred-Roth-Straße"
 housenumber: 15

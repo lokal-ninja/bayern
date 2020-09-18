@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.076680100000004
 longitude: 11.660662400000001
-postcode: 85579
+postcode: "85579"
 city: Neubiberg
 street: "Hauptstraße"
 housenumber: 5

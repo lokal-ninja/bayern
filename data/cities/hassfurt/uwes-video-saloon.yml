@@ -3,7 +3,7 @@ type: node
 shop: Videothek
 latitude: 50.032260400000006
 longitude: 10.511358000000001
-postcode: 97437
+postcode: "97437"
 city: Haßfurt
 street: "Centstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 49.0517022
 longitude: 12.090280900000002
-postcode: 93138
+postcode: "93138"
 city: Lappersdorf
 street: "Pielmühler Straße"
 housenumber: 5

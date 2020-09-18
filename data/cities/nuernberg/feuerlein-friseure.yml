@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 49.4518044
 longitude: 11.076505000000001
-postcode: 90403
+postcode: "90403"
 city: Nürnberg
 street: "Kaiserstraße"
 housenumber: 15a

@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 49.661000200000004
 longitude: 11.0911837
-postcode: 91090
+postcode: "91090"
 city: Effeltrich
 street: "Forchheimer Straße"
 housenumber: 3

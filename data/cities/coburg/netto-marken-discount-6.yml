@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.249167500000006
 longitude: 10.9458626
-postcode: 96450
+postcode: "96450"
 city: Coburg
 street: "Wirtsgrund"
 housenumber: 24

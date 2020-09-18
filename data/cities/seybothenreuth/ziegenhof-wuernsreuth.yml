@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 49.897163400000004
 longitude: 11.6848223
-postcode: 95517
+postcode: "95517"
 city: Seybothenreuth
 street: ""
 housenumber: 10

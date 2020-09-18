@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 48.378449200000006
 longitude: 10.922064200000001
-postcode: 86165
+postcode: "86165"
 city: Augsburg
 street: "Blücherstraße"
 housenumber: 44-46

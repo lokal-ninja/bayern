@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.57849220000001
 longitude: 11.0203694
-postcode: 91058
+postcode: "91058"
 city: Erlangen
 street: "Hartmannstraße"
 housenumber: 134

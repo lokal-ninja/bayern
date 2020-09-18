@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.039985
 longitude: 10.315274200000001
-postcode: 97453
+postcode: "97453"
 city: Schonungen
 street: "Tiefer Graben"
 housenumber: 3

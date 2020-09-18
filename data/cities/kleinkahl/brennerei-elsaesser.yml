@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.1084474
 longitude: 9.2763899
-postcode: 63828
+postcode: "63828"
 city: Kleinkahl
 street: "Großkahler Straße"
 housenumber: 26

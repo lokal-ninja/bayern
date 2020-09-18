@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 48.7772893
 longitude: 10.5833022
-postcode: 86751
+postcode: "86751"
 city: Mönchsdeggingen
 street: "Albstraße"
 housenumber: 2

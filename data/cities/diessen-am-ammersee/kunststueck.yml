@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 47.948041100000005
 longitude: 11.100758
-postcode: 86911
+postcode: "86911"
 city: Dießen am Ammersee
 street: "Herrenstraße"
 housenumber: 16

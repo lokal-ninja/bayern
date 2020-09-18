@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.5734135
 longitude: 10.8373652
-postcode: 86707
+postcode: "86707"
 city: Westendorf
 street: "Hauptstraße"
 housenumber: 24

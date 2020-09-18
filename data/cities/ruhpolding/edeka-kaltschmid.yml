@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.765618
 longitude: 12.643378400000001
-postcode: 83324
+postcode: "83324"
 city: Ruhpolding
 street: "Zinnkopfstraße"
 housenumber: 2

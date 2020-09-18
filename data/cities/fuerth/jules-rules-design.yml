@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 49.485185300000005
 longitude: 10.9253061
-postcode: 90768
+postcode: "90768"
 city: Fürth
 street: "Graf-Pückler-Limpurg-Straße"
 housenumber: 101

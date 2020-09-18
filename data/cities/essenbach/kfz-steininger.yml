@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.609684400000006
 longitude: 12.224021400000002
-postcode: 84051
+postcode: "84051"
 city: Essenbach
 street: "Moosfeldstraße"
 housenumber: 2

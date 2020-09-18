@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.797592
 longitude: 11.5418015
-postcode: 85098
+postcode: "85098"
 city: Großmehring
 street: "Hauptstraße"
 housenumber: 2

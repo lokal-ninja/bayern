@@ -1,12 +1,12 @@
 id: 5454377822
 type: node
 shop: Hofladen
-latitude: 50.05670670000001
-longitude: 11.4779598
-postcode: 95512
+latitude: 50.0566632
+longitude: 11.478304900000001
+postcode: "95512"
 city: Neudrossenfeld
-street: "Rohr"
-housenumber: 4
+street: ""
+housenumber: 5
 phone: "+49 9203 9377"
 opening_hours: ""
-website: ""
+website: "https://www.hofkaese.de/"

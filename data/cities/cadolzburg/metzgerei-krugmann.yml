@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.4579158
 longitude: 10.8546568
-postcode: 90556
+postcode: "90556"
 city: Cadolzburg
 street: "Hindenburgstraße"
 housenumber: 17

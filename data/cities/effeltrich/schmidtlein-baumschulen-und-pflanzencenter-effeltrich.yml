@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 49.6554908
 longitude: 11.101024
-postcode: 91090
+postcode: "91090"
 city: Effeltrich
 street: "Oberer Bühl"
 housenumber: 18

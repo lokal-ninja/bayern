@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.777920900000005
 longitude: 12.4534838
-postcode: 83224
+postcode: "83224"
 city: Grassau
 street: "Rosengasse"
 housenumber: 4

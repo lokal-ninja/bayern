@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.4524412
 longitude: 10.284865
-postcode: 89312
+postcode: "89312"
 city: Günzburg
 street: "Augsburger Straße"
 housenumber: 50

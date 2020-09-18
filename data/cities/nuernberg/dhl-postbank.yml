@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 49.440616000000006
 longitude: 11.040026600000001
-postcode: 90439
+postcode: "90439"
 city: Nürnberg
 street: "Rothenburger Straße"
 housenumber: 241

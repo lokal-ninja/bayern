@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.0400957
 longitude: 11.5199712
-postcode: 82031
+postcode: "82031"
 city: Grünwald
 street: "Emil-Geis-Straße"
 housenumber: 5

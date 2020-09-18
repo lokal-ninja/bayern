@@ -3,7 +3,7 @@ type: way
 shop: Betten
 latitude: 50.1378191
 longitude: 11.075461
-postcode: 96215
+postcode: "96215"
 city: Lichtenfels
 street: "Robert-Koch-Straße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.195529300000004
 longitude: 12.5173564
-postcode: 93426
+postcode: "93426"
 city: Roding
 street: "Schulstraße"
 housenumber: 6

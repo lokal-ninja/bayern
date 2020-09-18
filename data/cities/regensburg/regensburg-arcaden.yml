@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 49.0111007
 longitude: 12.097366500000001
-postcode: 93053
+postcode: "93053"
 city: Regensburg
 street: "Friedenstraße"
 housenumber: 23

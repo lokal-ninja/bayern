@@ -3,7 +3,7 @@ type: node
 shop: Motorrad
 latitude: 49.692783600000006
 longitude: 12.137507900000001
-postcode: 92637
+postcode: "92637"
 city: Weiden i.d.OPf.
 street: "Dr.-Johann-Stark-Straße"
 housenumber: 11

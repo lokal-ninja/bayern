@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.43054780000001
 longitude: 11.042549900000001
-postcode: 90441
+postcode: "90441"
 city: Nürnberg
 street: "Gustav-Adolf-Straße"
 housenumber: 135

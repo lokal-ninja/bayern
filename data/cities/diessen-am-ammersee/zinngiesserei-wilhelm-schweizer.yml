@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 47.9482641
 longitude: 11.1015622
-postcode: 86911
+postcode: "86911"
 city: Dießen am Ammersee
 street: "Herrenstraße"
 housenumber: 7

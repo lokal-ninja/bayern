@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.787623
 longitude: 9.931281
-postcode: 97070
+postcode: "97070"
 city: Würzburg
 street: "Sanderstraße"
 housenumber: 18

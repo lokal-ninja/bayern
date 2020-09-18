@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.057603400000005
 longitude: 12.769676400000002
-postcode: 84529
+postcode: "84529"
 city: Tittmoning
 street: "Laufener Straße"
 housenumber: 22a

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 47.8836032
 longitude: 10.248168300000001
-postcode: 87730
+postcode: "87730"
 city: Bad Grönenbach
 street: "Hinter den Gärten"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.971710300000005
 longitude: 11.6643529
-postcode: 82054
+postcode: "82054"
 city: Sauerlach
 street: "Ludwig-Bölkow-Straße"
 housenumber: 1

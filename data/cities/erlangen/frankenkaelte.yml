@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.5593306
 longitude: 10.964002800000001
-postcode: 91056
+postcode: "91056"
 city: Erlangen
 street: "Neuenweiherstraße"
 housenumber: 15

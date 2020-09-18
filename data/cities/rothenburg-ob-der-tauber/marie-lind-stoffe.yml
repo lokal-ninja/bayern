@@ -3,9 +3,9 @@ type: node
 shop: Textil
 latitude: 49.3744099
 longitude: 10.179921400000001
-postcode: 91541
+postcode: "91541"
 city: Rothenburg ob der Tauber
-street: "Kobolzellersteig"
+street: "Kobolzeller Steige"
 housenumber: 2
 phone: ""
 opening_hours: ""

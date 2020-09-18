@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.3947044
 longitude: 9.99858
-postcode: 89231
+postcode: "89231"
 city: Neu-Ulm
 street: "Marienstraße"
 housenumber: 10

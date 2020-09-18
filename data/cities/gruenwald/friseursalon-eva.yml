@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.0419282
 longitude: 11.524276
-postcode: 82031
+postcode: "82031"
 city: Grünwald
 street: "Wilhelm-Keim-Straße"
 housenumber: 3

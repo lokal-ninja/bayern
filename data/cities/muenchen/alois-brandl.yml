@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.175310100000004
 longitude: 11.598968300000001
-postcode: 80805
+postcode: "80805"
 city: München
 street: "Ungererstraße"
 housenumber: 141

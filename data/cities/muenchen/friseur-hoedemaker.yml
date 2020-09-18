@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.1556337
 longitude: 11.563811900000001
-postcode: 80798
+postcode: "80798"
 city: München
 street: "Görresstraße"
 housenumber: 26

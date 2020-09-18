@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.1359257
 longitude: 11.576159800000001
-postcode: 80331
+postcode: "80331"
 city: München
 street: "Viktualienmarkt"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 49.8446785
 longitude: 9.6007295
-postcode: 97828
+postcode: "97828"
 city: Marktheidenfeld
 street: "Bronnbacher Straße"
 housenumber: 8

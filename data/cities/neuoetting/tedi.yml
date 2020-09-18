@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 48.2430849
 longitude: 12.706682500000001
-postcode: 84524
+postcode: "84524"
 city: Neuötting
 street: "Lohgerberstraße"
 housenumber: 13

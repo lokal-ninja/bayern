@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.457493400000004
 longitude: 10.9225575
-postcode: 90513
+postcode: "90513"
 city: Zirndorf
 street: "Weiherhofer Hauptstraße"
 housenumber: 17

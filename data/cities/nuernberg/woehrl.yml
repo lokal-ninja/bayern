@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 49.450671400000004
 longitude: 11.0702984
-postcode: 90403
+postcode: "90403"
 city: Nürnberg
 street: "Ludwigsplatz"
 housenumber: 12-24

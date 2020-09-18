@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 49.6673762
 longitude: 12.1552717
-postcode: 92637
+postcode: "92637"
 city: Weiden i.d.OPf.
 street: "Fabrikstraße"
 housenumber: 

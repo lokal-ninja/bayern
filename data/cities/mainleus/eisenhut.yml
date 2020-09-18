@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.1092749
 longitude: 11.3590143
-postcode: 95336
+postcode: "95336"
 city: Mainleus
 street: "Pfarrgasse"
 housenumber: 1

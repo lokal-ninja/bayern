@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.4284563
 longitude: 11.3372457
-postcode: 96361
+postcode: "96361"
 city: Steinbach am Wald
 street: "Ziegelanger"
 housenumber: 2

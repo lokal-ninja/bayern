@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.561773800000005
 longitude: 10.9619002
-postcode: 91056
+postcode: "91056"
 city: Erlangen
 street: "Sylvaniastraße"
 housenumber: 14

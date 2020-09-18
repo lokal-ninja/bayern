@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.1624819
 longitude: 10.113327400000001
-postcode: 89281
+postcode: "89281"
 city: Altenstadt
 street: "Memminger Straße"
 housenumber: 32

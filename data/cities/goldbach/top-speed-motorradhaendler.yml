@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 50.0003814
 longitude: 9.184536300000001
-postcode: 63773
+postcode: "63773"
 city: Goldbach
 street: "Lorenz-Heim-Straße"
 housenumber: 6

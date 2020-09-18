@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 48.146326900000005
 longitude: 11.5735994
-postcode: 80333
+postcode: "80333"
 city: München
 street: "Türkenstraße"
 housenumber: 16

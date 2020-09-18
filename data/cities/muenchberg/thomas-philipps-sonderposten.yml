@@ -3,9 +3,9 @@ type: way
 shop: Supermarkt
 latitude: 50.18307050000001
 longitude: 11.785247100000001
-postcode: 95213
+postcode: "95213"
 city: Münchberg
-street: "Theodor-Heuß-Straße"
+street: "Theodor-Heuss-Straße"
 housenumber: 110
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"

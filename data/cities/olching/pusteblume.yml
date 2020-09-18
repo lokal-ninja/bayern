@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.2112604
 longitude: 11.334226000000001
-postcode: 82140
+postcode: "82140"
 city: Olching
 street: "Feursstraße"
 housenumber: 13

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.3326262
 longitude: 11.0281272
-postcode: 91126
+postcode: "91126"
 city: Schwabach
 street: "Limbacher Straße"
 housenumber: 26

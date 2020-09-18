@@ -3,7 +3,7 @@ type: node
 shop: Tee
 latitude: 49.462925500000004
 longitude: 11.070810600000002
-postcode: 90419
+postcode: "90419"
 city: Nürnberg
 street: "Bucher Straße"
 housenumber: 61

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.507607400000005
 longitude: 11.744836300000001
-postcode: 92237
+postcode: "92237"
 city: Sulzbach-Rosenberg
 street: "Bayreuther Straße"
 housenumber: 26

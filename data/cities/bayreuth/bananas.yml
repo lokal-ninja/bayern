@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 49.944517000000005
 longitude: 11.5734186
-postcode: 95444
+postcode: "95444"
 city: Bayreuth
 street: "Sophienstraße"
 housenumber: 1

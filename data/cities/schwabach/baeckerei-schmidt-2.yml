@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.329079
 longitude: 11.022913800000001
-postcode: 91126
+postcode: "91126"
 city: Schwabach
 street: "Ludwigstraße"
 housenumber: 1a

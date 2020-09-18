@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 48.2511378
 longitude: 11.612835400000002
-postcode: 85748
+postcode: "85748"
 city: Garching
 street: "Schleißheimer Straße"
 housenumber: 112

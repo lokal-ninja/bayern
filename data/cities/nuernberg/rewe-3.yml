@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.462037800000004
 longitude: 11.145449600000001
-postcode: 90482
+postcode: "90482"
 city: Nürnberg
 street: "Schönseer Straße"
 housenumber: 1

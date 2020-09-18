@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 49.0168182
 longitude: 12.107254900000001
-postcode: 93047
+postcode: "93047"
 city: Regensburg
 street: "Von-der-Tann-Straße"
 housenumber: 40

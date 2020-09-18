@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 50.153730100000004
 longitude: 10.436547500000001
-postcode: 97491
+postcode: "97491"
 city: Aidhausen
 street: "Kaiserstraße"
 housenumber: 2

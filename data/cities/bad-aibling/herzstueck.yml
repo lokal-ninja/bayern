@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.8644893
 longitude: 12.0108668
-postcode: 83043
+postcode: "83043"
 city: Bad Aibling
 street: "Kirchzeile"
 housenumber: 5

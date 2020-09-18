@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 48.1504844
 longitude: 11.537736500000001
-postcode: 80636
+postcode: "80636"
 city: München
 street: "Blutenburgstraße"
 housenumber: 110

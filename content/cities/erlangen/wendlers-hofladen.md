@@ -1,4 +1,4 @@
 ---
-title: "Wendler's Hofladen"
+title: "Wendlers Hofladen"
 url: /erlangen/wendlers-hofladen/
 ---

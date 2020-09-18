@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.91304
 longitude: 11.233505500000001
-postcode: 91347
+postcode: "91347"
 city: Sachsendorf
 street: "Geiersberg"
 housenumber: 38a

@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 47.8474949
 longitude: 12.1659172
-postcode: 83071
+postcode: "83071"
 city: Stephanskirchen
 street: "Finsterwalderstraße"
 housenumber: 1

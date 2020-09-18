@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 48.69249000000001
 longitude: 12.2038159
-postcode: 84061
+postcode: "84061"
 city: Ergoldsbach
 street: "Hauptstraße"
 housenumber: 31

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.221155100000004
 longitude: 10.985385800000001
-postcode: 96489
+postcode: "96489"
 city: Niederfüllbach
 street: "Carl-Brandt-Straße"
 housenumber: 2

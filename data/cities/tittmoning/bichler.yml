@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.061648000000005
 longitude: 12.768488900000001
-postcode: 84529
+postcode: "84529"
 city: Tittmoning
 street: "Stadtplatz"
 housenumber: 14

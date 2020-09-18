@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.697109600000005
 longitude: 10.7932514
-postcode: 86983
+postcode: "86983"
 city: Lechbruck am See
 street: "Bahnhofstraße"
 housenumber: 29

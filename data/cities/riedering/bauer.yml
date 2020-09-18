@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.8411212
 longitude: 12.2048015
-postcode: 83083
+postcode: "83083"
 city: Riedering
 street: "Rosenheimer Straße"
 housenumber: 28

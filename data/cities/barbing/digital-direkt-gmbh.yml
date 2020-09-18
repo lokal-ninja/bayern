@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 48.996359700000006
 longitude: 12.2327104
-postcode: 93092
+postcode: "93092"
 city: Barbing
 street: "Von-Miller-Straße"
 housenumber: 2

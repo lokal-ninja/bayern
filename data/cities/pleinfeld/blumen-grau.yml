@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 49.1036737
 longitude: 10.9870894
-postcode: 91785
+postcode: "91785"
 city: Pleinfeld
 street: "Ellinger Straße"
 housenumber: 6

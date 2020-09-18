@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.371391
 longitude: 10.8979037
-postcode: 86152
+postcode: "86152"
 city: Augsburg
 street: "Am Schwalbeneck"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.1387986
 longitude: 11.518392400000002
-postcode: 
+postcode: ""
 city: München
 street: ""
 housenumber: 

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.440567300000005
 longitude: 11.0815189
-postcode: 90459
+postcode: "90459"
 city: Nürnberg
 street: "Wölckernstraße"
 housenumber: 9

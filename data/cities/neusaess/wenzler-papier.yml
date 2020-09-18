@@ -3,7 +3,7 @@ type: way
 shop: Schreibwaren
 latitude: 48.392917000000004
 longitude: 10.827472400000001
-postcode: 86356
+postcode: "86356"
 city: Neusäß
 street: "Daimlerstraße"
 housenumber: 7

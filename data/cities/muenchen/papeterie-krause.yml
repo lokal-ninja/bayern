@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 48.1970353
 longitude: 11.5457465
-postcode: 80935
+postcode: "80935"
 city: München
 street: "Lerchenauer Straße"
 housenumber: 200

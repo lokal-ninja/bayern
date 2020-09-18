@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.3109745
 longitude: 10.910601300000002
-postcode: 86179
+postcode: "86179"
 city: Augsburg
 street: "Bürgermeister-Widmeier-Straße"
 housenumber: 20b

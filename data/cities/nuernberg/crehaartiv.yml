@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.351094800000006
 longitude: 11.0565148
-postcode: 90455
+postcode: "90455"
 city: Nürnberg
 street: "Johannes-Brahms-Straße"
 housenumber: 4

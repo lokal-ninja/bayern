@@ -3,7 +3,7 @@ type: way
 shop: Wein
 latitude: 48.004907200000005
 longitude: 10.5939858
-postcode: 86825
+postcode: "86825"
 city: Bad Wörishofen
 street: "Hauptstraße"
 housenumber: 26

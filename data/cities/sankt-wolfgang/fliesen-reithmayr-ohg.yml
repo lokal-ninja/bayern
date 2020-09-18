@@ -3,7 +3,7 @@ type: node
 shop: Fliesen
 latitude: 48.2482546
 longitude: 12.16351
-postcode: 84427
+postcode: "84427"
 city: Sankt Wolfgang
 street: "Mayerhofer Straße"
 housenumber: 25

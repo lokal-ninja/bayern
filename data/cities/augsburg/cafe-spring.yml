@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 48.308271500000004
 longitude: 10.901684000000001
-postcode: 86179
+postcode: "86179"
 city: Augsburg
 street: "Inninger Straße"
 housenumber: 16

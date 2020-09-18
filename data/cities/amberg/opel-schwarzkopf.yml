@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.4608489
 longitude: 11.850166100000001
-postcode: 92224
+postcode: "92224"
 city: Amberg
 street: "Bayreuther Straße"
 housenumber: 39-41

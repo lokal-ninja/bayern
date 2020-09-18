@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 48.0809889
 longitude: 11.5279146
-postcode: 81479
+postcode: "81479"
 city: München
 street: "Friedastraße"
 housenumber: 23

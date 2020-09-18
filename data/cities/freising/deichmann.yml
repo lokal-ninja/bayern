@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 48.399747100000006
 longitude: 11.771764800000001
-postcode: 85356
+postcode: "85356"
 city: Freising
 street: "Rudolf-Diesel-Straße"
 housenumber: 10

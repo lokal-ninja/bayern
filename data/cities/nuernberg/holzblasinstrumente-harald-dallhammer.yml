@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 49.439543
 longitude: 11.084901400000001
-postcode: 90459
+postcode: "90459"
 city: Nürnberg
 street: "Humboldtstraße"
 housenumber: 128

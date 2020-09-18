@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 50.0069424
 longitude: 11.6948752
-postcode: 95497
+postcode: "95497"
 city: Goldkronach
 street: "Sickenreuther Straße"
 housenumber: 36

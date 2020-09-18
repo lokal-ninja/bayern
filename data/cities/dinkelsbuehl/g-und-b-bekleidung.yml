@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.0675438
 longitude: 10.3277923
-postcode: 91550
+postcode: "91550"
 city: Dinkelsbühl
 street: "Luitpoldstraße"
 housenumber: 16a

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.681845700000004
 longitude: 12.157228400000001
-postcode: 92637
+postcode: "92637"
 city: Weiden i.d.OPf.
 street: "Mooslohstraße"
 housenumber: 22

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.1479936
 longitude: 11.5341134
-postcode: 80634
+postcode: "80634"
 city: München
 street: "Donnersbergerstraße"
 housenumber: 45

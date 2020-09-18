@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.135444
 longitude: 11.598726000000001
-postcode: 
+postcode: ""
 city: München
 street: "Max-Weber-Platz"
 housenumber: 8

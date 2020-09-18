@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.1047097
 longitude: 11.6047858
-postcode: 81549
+postcode: "81549"
 city: München
 street: "Balanstraße"
 housenumber: 204

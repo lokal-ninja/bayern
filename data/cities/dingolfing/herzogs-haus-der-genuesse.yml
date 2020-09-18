@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 48.6300601
 longitude: 12.4974793
-postcode: 84130
+postcode: "84130"
 city: Dingolfing
 street: "Lederergasse"
 housenumber: 19

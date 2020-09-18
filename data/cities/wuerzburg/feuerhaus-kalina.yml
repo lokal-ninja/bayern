@@ -3,7 +3,7 @@ type: node
 shop: Kamine & Öfen
 latitude: 49.802728
 longitude: 9.9962519
-postcode: 97076
+postcode: "97076"
 city: Würzburg
 street: "Friedrich-Bergius-Ring"
 housenumber: 7

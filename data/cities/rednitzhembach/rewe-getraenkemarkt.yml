@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 49.2950511
 longitude: 11.081491900000001
-postcode: 91126
+postcode: "91126"
 city: Rednitzhembach
 street: "Rother Straße"
 housenumber: 44

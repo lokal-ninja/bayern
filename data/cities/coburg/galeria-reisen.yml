@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 50.260597700000005
 longitude: 10.9652773
-postcode: 96450
+postcode: "96450"
 city: Coburg
 street: "Steinweg"
 housenumber: 8

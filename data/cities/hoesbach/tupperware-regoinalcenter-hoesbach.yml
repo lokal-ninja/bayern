@@ -3,7 +3,7 @@ type: way
 shop: Haushaltsartikel
 latitude: 50.0029868
 longitude: 9.201814
-postcode: 63768
+postcode: "63768"
 city: Hösbach
 street: "Hauptstraße"
 housenumber: 92

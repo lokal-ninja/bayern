@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.553487100000005
 longitude: 11.0234868
-postcode: 91058
+postcode: "91058"
 city: Erlangen
 street: "Saidelsteig"
 housenumber: 15

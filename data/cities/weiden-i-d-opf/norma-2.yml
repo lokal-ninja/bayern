@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.663031000000004
 longitude: 12.1479967
-postcode: 92637
+postcode: "92637"
 city: Weiden i.d.OPf.
 street: "Leimbergerstraße"
 housenumber: 67

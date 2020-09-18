@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 49.6955642
 longitude: 10.253121
-postcode: 97346
+postcode: "97346"
 city: Iphofen
 street: "Alte Reichsstraße"
 housenumber: 27

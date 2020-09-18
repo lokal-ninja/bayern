@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.25861990000001
 longitude: 10.9654153
-postcode: 96450
+postcode: "96450"
 city: Coburg
 street: "Herrngasse"
 housenumber: 3-5

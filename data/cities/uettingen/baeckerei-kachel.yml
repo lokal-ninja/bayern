@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.795214800000004
 longitude: 9.729964500000001
-postcode: 97292
+postcode: "97292"
 city: Uettingen
 street: "Würzburger Straße"
 housenumber: 2

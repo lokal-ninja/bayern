@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 49.798726
 longitude: 12.159579800000001
-postcode: 92670
+postcode: "92670"
 city: Windischeschenbach
 street: "Neuhauser Straße"
 housenumber: 6

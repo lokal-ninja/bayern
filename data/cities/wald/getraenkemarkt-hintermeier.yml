@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 49.1428518
 longitude: 12.335555000000001
-postcode: 93192
+postcode: "93192"
 city: Wald
 street: "Bahnhofstraße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 48.092643
 longitude: 11.5690509
-postcode: 81545
+postcode: "81545"
 city: München
 street: "Naupliastraße"
 housenumber: 107

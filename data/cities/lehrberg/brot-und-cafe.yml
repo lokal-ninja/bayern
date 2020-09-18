@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.345113100000006
 longitude: 10.509934000000001
-postcode: 91611
+postcode: "91611"
 city: Lehrberg
 street: "Marktplatz"
 housenumber: 16

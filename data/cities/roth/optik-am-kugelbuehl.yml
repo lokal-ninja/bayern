@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 49.2460948
 longitude: 11.0924004
-postcode: 91154
+postcode: "91154"
 city: Roth
 street: "Kugelbühlstraße"
 housenumber: 32

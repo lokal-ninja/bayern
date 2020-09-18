@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.567640100000006
 longitude: 10.6953139
-postcode: 87629
+postcode: "87629"
 city: Füssen
 street: "Kemptener Straße"
 housenumber: 11

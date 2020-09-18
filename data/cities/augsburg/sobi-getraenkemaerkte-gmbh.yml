@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 48.3564002
 longitude: 10.9428313
-postcode: 86163
+postcode: "86163"
 city: Augsburg
 street: "Zugspitzstraße"
 housenumber: 13

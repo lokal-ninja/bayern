@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.596694500000005
 longitude: 11.004532900000001
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Hugenottenplatz"
 housenumber: 4

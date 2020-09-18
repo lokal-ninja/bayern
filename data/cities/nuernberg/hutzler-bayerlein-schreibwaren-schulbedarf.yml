@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 49.4504644
 longitude: 11.054586800000001
-postcode: 90429
+postcode: "90429"
 city: Nürnberg
 street: "Kernstraße"
 housenumber: 9

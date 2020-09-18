@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.3600131
 longitude: 11.3819526
-postcode: 85229
+postcode: "85229"
 city: Markt Indersdorf
 street: "Augustinerring"
 housenumber: 6

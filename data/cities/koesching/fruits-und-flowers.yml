@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.810439200000005
 longitude: 11.498311800000002
-postcode: 85092
+postcode: "85092"
 city: Kösching
 street: "Ludwigsgraben"
 housenumber: 79

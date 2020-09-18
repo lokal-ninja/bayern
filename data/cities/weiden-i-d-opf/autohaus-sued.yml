@@ -3,10 +3,10 @@ type: node
 shop: Autohaus
 latitude: 49.6523176
 longitude: 12.1411613
-postcode: 92637
+postcode: "92637"
 city: Weiden i.d.OPf.
 street: "Etzenrichter Straße"
 housenumber: 1
-phone: ""
-opening_hours: ""
-website: ""
+phone: "+499614708800"
+opening_hours: "Mo-Fr 08:30-18:00; Sa 09:00-13:00"
+website: "http://www.ah-sued-weiden.de"

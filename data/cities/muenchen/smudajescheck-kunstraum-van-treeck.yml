@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 48.1521807
 longitude: 11.5625462
-postcode: 80798
+postcode: "80798"
 city: München
 street: "Schwindstraße"
 housenumber: 3

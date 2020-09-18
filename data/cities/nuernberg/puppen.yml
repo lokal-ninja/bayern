@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 49.456662900000005
 longitude: 11.076772700000001
-postcode: 90403
+postcode: "90403"
 city: Nürnberg
 street: "Untere Krämersgasse"
 housenumber: 16

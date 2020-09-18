@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.523261700000006
 longitude: 13.318912300000001
-postcode: 94081
+postcode: "94081"
 city: Fürstenzell
 street: "Kirchenweg"
 housenumber: 1

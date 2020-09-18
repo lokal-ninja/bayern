@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.7635963
 longitude: 11.4243365
-postcode: 85049
+postcode: "85049"
 city: Ingolstadt
 street: "Moritzstraße"
 housenumber: 9

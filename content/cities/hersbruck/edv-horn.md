@@ -1,4 +1,4 @@
 ---
-title: "EDV-HORN"
+title: "EDV-Horn"
 url: /hersbruck/edv-horn/
 ---

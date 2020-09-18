@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 48.067177900000004
 longitude: 11.674566200000001
-postcode: 85521
+postcode: "85521"
 city: Ottobrunn
 street: "Roseggerstraße"
 housenumber: 10

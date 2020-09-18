@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.7960629
 longitude: 9.9766711
-postcode: 97076
+postcode: "97076"
 city: Würzburg
 street: "Nürnberger Straße"
 housenumber: 86

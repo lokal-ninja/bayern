@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 49.7966594
 longitude: 9.935419300000001
-postcode: 97070
+postcode: "97070"
 city: Würzburg
 street: "Semmelstraße"
 housenumber: 11

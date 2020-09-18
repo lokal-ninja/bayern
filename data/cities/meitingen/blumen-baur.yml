@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 48.5438624
 longitude: 10.854357100000001
-postcode: 86405
+postcode: "86405"
 city: Meitingen
 street: "Römerstraße"
 housenumber: 18

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.4615042
 longitude: 10.9855622
-postcode: 90763
+postcode: "90763"
 city: Fürth
 street: "Kaiserstraße"
 housenumber: 22

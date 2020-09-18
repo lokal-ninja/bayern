@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.7034959
 longitude: 9.2521304
-postcode: 63897
+postcode: "63897"
 city: Miltenberg
 street: "Brückenstraße"
 housenumber: 1

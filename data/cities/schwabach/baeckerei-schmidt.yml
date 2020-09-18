@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.3361895
 longitude: 11.0338743
-postcode: 91126
+postcode: "91126"
 city: Schwabach
 street: "Limbacher Straße"
 housenumber: 62a

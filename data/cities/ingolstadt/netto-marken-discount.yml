@@ -1,12 +1,12 @@
-id: 121462345
+id: 35744575
 type: way
 shop: Supermarkt
-latitude: 48.7387807
-longitude: 11.4376156
-postcode: 85051
+latitude: 48.774368700000004
+longitude: 11.433031100000001
+postcode: "85055"
 city: Ingolstadt
-street: "Münchener Straße"
-housenumber: 140
+street: "Nürnberger Straße"
+housenumber: 30a
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: ""
+opening_hours: "Mo-Sa 07:00-20:00; PH off"
+website: "www.netto-online.de"

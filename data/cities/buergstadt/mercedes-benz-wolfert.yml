@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.7046944
 longitude: 9.279109
-postcode: 63927
+postcode: "63927"
 city: Bürgstadt
 street: "Eichenbühler Straße"
 housenumber: 87

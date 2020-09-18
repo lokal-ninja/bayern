@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 49.504105800000005
 longitude: 11.2926382
-postcode: 91207
+postcode: "91207"
 city: Lauf a.d.Pegnitz
 street: "Industriestraße"
 housenumber: 25a

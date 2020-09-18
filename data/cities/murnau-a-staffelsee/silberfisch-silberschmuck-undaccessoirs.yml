@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 47.6800896
 longitude: 11.2013323
-postcode: 82418
+postcode: "82418"
 city: Murnau a.Staffelsee
 street: "Obermarkt"
 housenumber: 32

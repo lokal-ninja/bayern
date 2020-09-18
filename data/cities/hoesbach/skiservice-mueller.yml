@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 50.006205800000004
 longitude: 9.2052229
-postcode: 63768
+postcode: "63768"
 city: Hösbach
 street: "Spessartstraße"
 housenumber: 10

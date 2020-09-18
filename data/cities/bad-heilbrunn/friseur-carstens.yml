@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 47.74582
 longitude: 11.4540416
-postcode: 83670
+postcode: "83670"
 city: Bad Heilbrunn
 street: "Parkweg"
 housenumber: 2

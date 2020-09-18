@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 48.5994199
 longitude: 11.6321191
-postcode: 85283
+postcode: "85283"
 city: Wolnzach
 street: "Im Reichental"
 housenumber: 2

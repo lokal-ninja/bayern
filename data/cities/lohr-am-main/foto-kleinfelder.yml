@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 49.994241200000005
 longitude: 9.575940800000001
-postcode: 97816
+postcode: "97816"
 city: Lohr am Main
 street: "Turmstraße"
 housenumber: 3

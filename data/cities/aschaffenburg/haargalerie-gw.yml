@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.96994
 longitude: 9.1517546
-postcode: 63739
+postcode: "63739"
 city: Aschaffenburg
 street: "Schweinheimer Straße"
 housenumber: 18

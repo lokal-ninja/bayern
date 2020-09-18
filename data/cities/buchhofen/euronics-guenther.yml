@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.719451500000005
 longitude: 12.9516231
-postcode: 94533
+postcode: "94533"
 city: Buchhofen
 street: "Haidstraße"
 housenumber: 4

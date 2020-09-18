@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.369950200000005
 longitude: 10.8935188
-postcode: 86150
+postcode: "86150"
 city: Augsburg
 street: "Grottenau"
 housenumber: 6

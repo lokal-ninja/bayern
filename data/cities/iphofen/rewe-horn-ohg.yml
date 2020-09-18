@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.6965001
 longitude: 10.2593121
-postcode: 97346
+postcode: "97346"
 city: Iphofen
 street: "Bahnhofstraße"
 housenumber: 61

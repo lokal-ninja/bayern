@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 48.253227300000006
 longitude: 11.6245229
-postcode: 85748
+postcode: "85748"
 city: Garching bei München
 street: "Zeppelinstraße"
 housenumber: 14

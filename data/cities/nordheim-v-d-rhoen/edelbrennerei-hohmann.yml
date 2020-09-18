@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 50.473691900000006
 longitude: 10.1858109
-postcode: 97647
+postcode: "97647"
 city: Nordheim v.d. Rhön
 street: "Bünd"
 housenumber: 16

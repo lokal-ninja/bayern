@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 50.3297656
 longitude: 11.709251100000001
-postcode: 95119
+postcode: "95119"
 city: Naila
 street: "Marktplatz"
 housenumber: 2

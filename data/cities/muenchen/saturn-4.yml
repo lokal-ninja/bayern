@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 48.183728200000004
 longitude: 11.5294846
-postcode: 80993
+postcode: "80993"
 city: München
 street: "Hanauer Straße"
 housenumber: 77

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.4652831
 longitude: 11.0681613
-postcode: 90419
+postcode: "90419"
 city: Nürnberg
 street: "Juvenellstraße"
 housenumber: 25

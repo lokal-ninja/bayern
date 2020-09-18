@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.2605044
 longitude: 10.9640988
-postcode: 96450
+postcode: "96450"
 city: Coburg
 street: "Mohrenstraße"
 housenumber: 31

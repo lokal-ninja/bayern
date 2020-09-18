@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.9314034
 longitude: 11.581750300000001
-postcode: 95447
+postcode: "95447"
 city: Bayreuth
 street: "Eichendorffring"
 housenumber: 36

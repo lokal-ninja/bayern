@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 48.387734800000004
 longitude: 11.2573041
-postcode: 85250
+postcode: "85250"
 city: Altomünster
 street: "Sankt-Altohof"
 housenumber: 2

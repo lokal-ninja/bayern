@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.854114700000004
 longitude: 9.2808021
-postcode: 63863
+postcode: "63863"
 city: Eschau
 street: "St.-Michael-Straße"
 housenumber: 

@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 50.259708200000006
 longitude: 10.9635464
-postcode: 96450
+postcode: "96450"
 city: Coburg
 street: "Webergasse"
 housenumber: 22a-24

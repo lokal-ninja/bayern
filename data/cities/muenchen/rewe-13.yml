@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.0957833
 longitude: 11.497911
-postcode: 81476
+postcode: "81476"
 city: München
 street: ""
 housenumber: 

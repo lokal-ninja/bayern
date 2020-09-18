@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 48.438923700000004
 longitude: 12.564052
-postcode: 
+postcode: ""
 city: Gangkofen
 street: "Frontenhausener Straße"
 housenumber: 2a

@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 48.085658200000005
 longitude: 12.029741300000001
-postcode: 85643
+postcode: "85643"
 city: Steinhöring
 street: "Bahnhofstraße"
 housenumber: 4

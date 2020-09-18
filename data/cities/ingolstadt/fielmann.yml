@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 48.763862
 longitude: 11.4241287
-postcode: 85049
+postcode: "85049"
 city: Ingolstadt
 street: "Moritzstraße"
 housenumber: 3

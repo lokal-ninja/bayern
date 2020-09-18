@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.3676517
 longitude: 10.9215019
-postcode: 86153
+postcode: "86153"
 city: Augsburg
 street: "Otto-Lindenmeyer-Straße"
 housenumber: 45a

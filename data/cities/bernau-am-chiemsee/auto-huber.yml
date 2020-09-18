@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.8100783
 longitude: 12.376991
-postcode: 83233
+postcode: "83233"
 city: Bernau am Chiemsee
 street: "Rottauer Straße"
 housenumber: 13

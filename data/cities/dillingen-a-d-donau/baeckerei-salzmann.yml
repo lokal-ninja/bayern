@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.5775766
 longitude: 10.4689286
-postcode: 89407
+postcode: "89407"
 city: Dillingen a.d. Donau
 street: "Hans-Geiger-Straße"
 housenumber: 1

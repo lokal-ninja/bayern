@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.1309587
 longitude: 11.4315157
-postcode: 82166
+postcode: "82166"
 city: Gräfelfing
 street: "Aubinger Straße"
 housenumber: 4b

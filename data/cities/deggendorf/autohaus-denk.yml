@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.825958
 longitude: 12.9641298
-postcode: 94469
+postcode: "94469"
 city: Deggendorf
 street: "Hafenstraße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: way
 shop: Zeitungen
 latitude: 48.140882500000004
 longitude: 11.5596414
-postcode: 80335
+postcode: "80335"
 city: München
 street: "Arnulfstraße"
 housenumber: 1

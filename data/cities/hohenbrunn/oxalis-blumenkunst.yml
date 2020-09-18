@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.047908
 longitude: 11.7023559
-postcode: 85662
+postcode: "85662"
 city: Hohenbrunn
 street: "Pfarrer-Wenk-Platz"
 housenumber: 4

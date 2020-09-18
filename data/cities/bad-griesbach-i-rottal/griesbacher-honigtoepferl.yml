@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.451190600000004
 longitude: 13.1934851
-postcode: 94086
+postcode: "94086"
 city: Bad Griesbach i.Rottal
 street: "Stadtplatz"
 housenumber: 6

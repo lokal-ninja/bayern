@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.10152
 longitude: 11.079322000000001
-postcode: 82299
+postcode: "82299"
 city: Türkenfeld
 street: "An der Kälberweide"
 housenumber: 8

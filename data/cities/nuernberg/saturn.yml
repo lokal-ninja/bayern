@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 49.4511903
 longitude: 11.0703676
-postcode: 90403
+postcode: "90403"
 city: Nürnberg
 street: "Vordere Ledergasse"
 housenumber: 30

@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 49.680146900000004
 longitude: 12.1526507
-postcode: 92637
+postcode: "92637"
 city: Weiden i.d.OPf.
 street: "Christian-Seltmann-Straße"
 housenumber: 36

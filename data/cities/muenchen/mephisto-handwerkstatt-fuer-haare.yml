@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.16281600000001
 longitude: 11.5892169
-postcode: 80802
+postcode: "80802"
 city: München
 street: "Hesseloherstraße"
 housenumber: 12

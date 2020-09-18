@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 48.1490511
 longitude: 11.5425743
-postcode: 80636
+postcode: "80636"
 city: München
 street: "Elvirastraße"
 housenumber: 11

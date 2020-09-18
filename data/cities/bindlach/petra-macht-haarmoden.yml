@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.977112000000005
 longitude: 11.6117643
-postcode: 95463
+postcode: "95463"
 city: Bindlach
 street: "Lehengraben"
 housenumber: 2a

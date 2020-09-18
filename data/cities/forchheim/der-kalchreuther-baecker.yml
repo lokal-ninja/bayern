@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.7258908
 longitude: 11.057623600000001
-postcode: 91301
+postcode: "91301"
 city: Forchheim
 street: "Bamberger Straße"
 housenumber: 51

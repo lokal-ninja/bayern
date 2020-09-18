@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.3447351
 longitude: 11.0523532
-postcode: 86316
+postcode: "86316"
 city: Friedberg
 street: "Aretinstraße"
 housenumber: 26

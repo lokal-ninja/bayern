@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 48.088406500000005
 longitude: 11.5196073
-postcode: 81479
+postcode: "81479"
 city: München
 street: "Aidenbachstraße"
 housenumber: 142

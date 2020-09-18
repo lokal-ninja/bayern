@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.8720499
 longitude: 12.6285459
-postcode: 94315
+postcode: "94315"
 city: Straubing
 street: "Am Erletacker"
 housenumber: 5

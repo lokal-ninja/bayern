@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.2635924
 longitude: 10.8397857
-postcode: 86399
+postcode: "86399"
 city: Bobingen
 street: "Ziegeleistraße"
 housenumber: 13

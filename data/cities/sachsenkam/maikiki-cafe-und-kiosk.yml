@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 47.8214917
 longitude: 11.6235493
-postcode: 83679
+postcode: "83679"
 city: Sachsenkam
 street: "Kirchseestraße"
 housenumber: 3

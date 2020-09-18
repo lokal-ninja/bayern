@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.322211800000005
 longitude: 10.908474700000001
-postcode: 86179
+postcode: "86179"
 city: Augsburg
 street: "Haunstetter Straße"
 housenumber: 222

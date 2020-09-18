@@ -1,12 +1,12 @@
-id: 5275262362
+id: 6389415975
 type: node
 shop: Drogerie
-latitude: 48.3643316
-longitude: 10.911229800000001
-postcode: 86153
+latitude: 48.3663875
+longitude: 10.895642800000001
+postcode: "86150"
 city: Augsburg
-street: "Oberbürgermeister-Hohner-Straße"
-housenumber: 1
+street: "Bürgermeister-Fischer-Straße"
+housenumber: 9-11
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off"
+opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-20:00; Su off; PH off"
 website: ""

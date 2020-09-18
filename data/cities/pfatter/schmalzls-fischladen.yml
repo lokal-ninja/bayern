@@ -3,7 +3,7 @@ type: way
 shop: Fisch
 latitude: 48.9651585
 longitude: 12.381267000000001
-postcode: 93102
+postcode: "93102"
 city: Pfatter
 street: "Haidauer Straße"
 housenumber: 21

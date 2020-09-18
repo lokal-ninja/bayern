@@ -3,7 +3,7 @@ type: node
 shop: Reifen
 latitude: 47.743792000000006
 longitude: 10.305134200000001
-postcode: 87439
+postcode: "87439"
 city: Kempten (Allgäu)
 street: "Unterwanger Straße"
 housenumber: 2

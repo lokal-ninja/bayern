@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.177423000000005
 longitude: 11.2522742
-postcode: 82256
+postcode: "82256"
 city: Fürstenfeldbruck
 street: "Viehmarktstraße"
 housenumber: 5a

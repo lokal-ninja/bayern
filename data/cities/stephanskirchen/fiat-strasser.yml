@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.8518136
 longitude: 12.1507474
-postcode: 83071
+postcode: "83071"
 city: Stephanskirchen
 street: "Hofmühlstraße"
 housenumber: 4

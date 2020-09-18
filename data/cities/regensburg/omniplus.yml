@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.9983018
 longitude: 12.1290609
-postcode: 93053
+postcode: "93053"
 city: Regensburg
 street: "Benzstraße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.3201723
 longitude: 11.7470488
-postcode: 85399
+postcode: "85399"
 city: Hallbergmoos
 street: "Theresienstraße"
 housenumber: 57

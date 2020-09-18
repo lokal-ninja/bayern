@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.9784445
 longitude: 11.0399183
-postcode: 96110
+postcode: "96110"
 city: Scheßlitz
 street: "Oberend"
 housenumber: 34

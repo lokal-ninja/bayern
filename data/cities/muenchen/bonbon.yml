@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 48.139245900000006
 longitude: 11.5339054
-postcode: 80339
+postcode: "80339"
 city: München
 street: "Trappentreustraße"
 housenumber: 6

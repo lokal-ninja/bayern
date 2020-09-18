@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.9925329
 longitude: 10.3657707
-postcode: 87776
+postcode: "87776"
 city: Sontheim
 street: "Lindenhöf"
 housenumber: 3

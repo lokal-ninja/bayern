@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.1827131
 longitude: 11.6098289
-postcode: 80805
+postcode: "80805"
 city: München
 street: "Hans-Leipelt-Straße"
 housenumber: 8

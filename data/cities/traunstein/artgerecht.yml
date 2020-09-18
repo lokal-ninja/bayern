@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.8684018
 longitude: 12.6485532
-postcode: 
+postcode: ""
 city: Traunstein
 street: "Karl-Theodor-Platz"
 housenumber: 33

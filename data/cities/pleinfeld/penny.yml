@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.1025683
 longitude: 10.986022
-postcode: 91785
+postcode: "91785"
 city: Pleinfeld
 street: "Ellinger Straße"
 housenumber: 14

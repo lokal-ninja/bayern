@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.0107024
 longitude: 13.224155900000001
-postcode: 
+postcode: ""
 city: Zwiesel
 street: "Regener Straße"
 housenumber: 2

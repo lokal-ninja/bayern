@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 49.503328100000004
 longitude: 11.7444378
-postcode: 92237
+postcode: "92237"
 city: Sulzbach-Rosenberg
 street: "Rosenberger Straße"
 housenumber: 40

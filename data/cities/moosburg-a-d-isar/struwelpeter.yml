@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.4702982
 longitude: 11.9356515
-postcode: 85368
+postcode: "85368"
 city: Moosburg a.d. Isar
 street: "Thalbacher Straße"
 housenumber: 29

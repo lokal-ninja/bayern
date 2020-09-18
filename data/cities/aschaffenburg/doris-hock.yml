@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.9743502
 longitude: 9.1493015
-postcode: 63739
+postcode: "63739"
 city: Aschaffenburg
 street: "Sandgasse"
 housenumber: 38

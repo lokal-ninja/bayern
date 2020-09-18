@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.8063948
 longitude: 9.9798706
-postcode: 97076
+postcode: "97076"
 city: Würzburg
 street: "Werner-von-Siemens-Straße"
 housenumber: 60

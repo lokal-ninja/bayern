@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 47.9491753
 longitude: 11.1080269
-postcode: 86911
+postcode: "86911"
 city: Dießen am Ammersee
 street: "Mühlstraße"
 housenumber: 40

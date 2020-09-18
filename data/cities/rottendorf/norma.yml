@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.78789140000001
 longitude: 10.029863500000001
-postcode: 97228
+postcode: "97228"
 city: Rottendorf
 street: "Alte Landstraße"
 housenumber: 

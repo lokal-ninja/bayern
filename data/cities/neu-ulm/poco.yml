@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 48.386276
 longitude: 10.0198839
-postcode: 89231
+postcode: "89231"
 city: Neu-Ulm
 street: "Pfaffenweg"
 housenumber: 40

@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 49.513493100000005
 longitude: 11.283025400000001
-postcode: 91207
+postcode: "91207"
 city: Lauf a.d.Pegnitz
 street: "Hersbrucker Straße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.913879200000004
 longitude: 10.8690534
-postcode: 96103
+postcode: "96103"
 city: Hallstadt
 street: "Laubanger"
 housenumber: 32

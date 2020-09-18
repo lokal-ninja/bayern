@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 49.3129689
 longitude: 10.570639400000001
-postcode: 91522
+postcode: "91522"
 city: Ansbach
 street: "Klopstockstraße"
 housenumber: 

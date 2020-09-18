@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 48.9578007
 longitude: 12.2392848
-postcode: 93098
+postcode: "93098"
 city: Mintraching
 street: "Rosenhofer Straße"
 housenumber: 14

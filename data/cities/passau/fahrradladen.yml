@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.575558300000004
 longitude: 13.459395
-postcode: 94032
+postcode: "94032"
 city: Passau
 street: "Wittgasse"
 housenumber: 9

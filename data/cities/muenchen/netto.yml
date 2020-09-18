@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.2094691
 longitude: 11.5669552
-postcode: 80937
+postcode: "80937"
 city: München
 street: "Schneeheideanger"
 housenumber: 4

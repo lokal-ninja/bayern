@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 49.7796493
 longitude: 9.965486400000001
-postcode: 97074
+postcode: "97074"
 city: Würzburg
 street: "Zeppelinstraße"
 housenumber: 122
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: "Mo-Sa 07:00-20:00; PH off"
 website: ""

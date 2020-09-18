@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.4343432
 longitude: 11.600383800000001
-postcode: 85391
+postcode: "85391"
 city: Allershausen
 street: "Kirchstraße"
 housenumber: 1

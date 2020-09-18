@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 48.3666217
 longitude: 10.88664
-postcode: 86150
+postcode: "86150"
 city: Augsburg
 street: "Viktoriastraße"
 housenumber: 3

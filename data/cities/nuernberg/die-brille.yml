@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.4332113
 longitude: 11.0969093
-postcode: 90461
+postcode: "90461"
 city: Nürnberg
 street: "Allersberger Straße"
 housenumber: 185

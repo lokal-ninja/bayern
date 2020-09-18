@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.168099000000005
 longitude: 12.731027500000001
-postcode: 84508
+postcode: "84508"
 city: Burgkirchen an der Alz
 street: "Martin-Ofner-Straße"
 housenumber: 8

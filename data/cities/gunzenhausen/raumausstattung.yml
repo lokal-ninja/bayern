@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 49.116254500000004
 longitude: 10.754165
-postcode: 91710
+postcode: "91710"
 city: Gunzenhausen
 street: "Gerberstraße"
 housenumber: 9

@@ -1,12 +1,12 @@
-id: 2175061416
-type: node
+id: 38364560
+type: way
 shop: Supermarkt
-latitude: 48.690102200000005
-longitude: 10.929818000000001
-postcode: 86641
+latitude: 48.6902764
+longitude: 10.929771200000001
+postcode: "86641"
 city: Rain
 street: "Erlenweg"
-housenumber: 5
+housenumber: 7
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"
 website: ""

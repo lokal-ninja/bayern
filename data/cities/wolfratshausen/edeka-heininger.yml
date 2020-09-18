@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.898989
 longitude: 11.4431889
-postcode: 82515
+postcode: "82515"
 city: Wolfratshausen
 street: "Faulhaberstraße"
 housenumber: 1

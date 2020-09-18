@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.8022288
 longitude: 10.1562265
-postcode: 97337
+postcode: "97337"
 city: Dettelbach
 street: "Würzburger Straße"
 housenumber: 21

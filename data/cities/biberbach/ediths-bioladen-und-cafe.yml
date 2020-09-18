@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 48.516812
 longitude: 10.8129553
-postcode: 86485
+postcode: "86485"
 city: Biberbach
 street: "Am Kirchberg"
 housenumber: 10 1/2

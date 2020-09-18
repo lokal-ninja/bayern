@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.1476981
 longitude: 11.6412601
-postcode: 81929
+postcode: "81929"
 city: München
 street: "Sensburger Straße"
 housenumber: 5

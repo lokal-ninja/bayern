@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.348553800000005
 longitude: 10.9976844
-postcode: 86316
+postcode: "86316"
 city: Friedberg
 street: "Marquardtstraße"
 housenumber: 4

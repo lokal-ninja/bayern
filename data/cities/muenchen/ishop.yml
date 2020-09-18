@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 48.137951900000004
 longitude: 11.6150467
-postcode: 81677
+postcode: "81677"
 city: München
 street: "Prinzregentenstraße"
 housenumber: 120

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.121403400000005
 longitude: 11.5022265
-postcode: 
+postcode: ""
 city: München
 street: "Fürstenrieder Straße"
 housenumber: 206

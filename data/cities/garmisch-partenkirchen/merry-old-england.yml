@@ -3,7 +3,7 @@ type: way
 shop: Antiquitäten
 latitude: 47.4904452
 longitude: 11.0784014
-postcode: 82467
+postcode: "82467"
 city: Garmisch-Partenkirchen
 street: "Zugspitzstraße"
 housenumber: 49

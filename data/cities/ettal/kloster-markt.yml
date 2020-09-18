@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.568709600000005
 longitude: 11.0927605
-postcode: 82488
+postcode: "82488"
 city: Ettal
 street: "Kaiser-Ludwig-Platz"
 housenumber: 2

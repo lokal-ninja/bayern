@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 48.113303800000004
 longitude: 11.548414000000001
-postcode: 81371
+postcode: "81371"
 city: München
 street: "Implerstraße"
 housenumber: 86

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.378078
 longitude: 10.8466973
-postcode: 86391
+postcode: "86391"
 city: Stadtbergen
 street: "Benzstraße"
 housenumber: 11

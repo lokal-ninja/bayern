@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.987678100000004
 longitude: 12.197878800000002
-postcode: 93073
+postcode: "93073"
 city: Neutraubling
 street: "Neudeker Straße"
 housenumber: 5

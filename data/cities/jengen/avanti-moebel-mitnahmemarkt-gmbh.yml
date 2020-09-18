@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 48.001984300000004
 longitude: 10.7226759
-postcode: 86860
+postcode: "86860"
 city: Jengen
 street: "Alleestraße"
 housenumber: 2

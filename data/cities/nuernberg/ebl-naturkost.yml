@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.360815
 longitude: 11.050964
-postcode: 90453
+postcode: "90453"
 city: Nürnberg
 street: "Katzwanger Hauptstraße"
 housenumber: 58-60

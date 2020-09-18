@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 48.443695500000004
 longitude: 11.3643491
-postcode: 85305
+postcode: "85305"
 city: Jetzendorf
 street: "Dorfstraße"
 housenumber: 9

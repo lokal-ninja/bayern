@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 50.0025776
 longitude: 9.2001326
-postcode: 63768
+postcode: "63768"
 city: Hösbach
 street: "Hauptstraße"
 housenumber: 68

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.6018436
 longitude: 10.417321000000001
-postcode: 87497
+postcode: "87497"
 city: Wertach
 street: ""
 housenumber: 

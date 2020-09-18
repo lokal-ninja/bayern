@@ -3,7 +3,7 @@ type: node
 shop: Wolle
 latitude: 49.4429925
 longitude: 11.121905400000001
-postcode: 90480
+postcode: "90480"
 city: Nürnberg
 street: "Zerzabelshofer Hauptstraße"
 housenumber: 1

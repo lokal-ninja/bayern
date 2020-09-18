@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 50.0382918
 longitude: 11.997423600000001
-postcode: 95632
+postcode: "95632"
 city: Wunsiedel
 street: "Hofer Straße"
 housenumber: 7

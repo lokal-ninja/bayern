@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.1939116
 longitude: 11.3361721
-postcode: 92342
+postcode: "92342"
 city: Freystadt
 street: "Appianistraße"
 housenumber: 5

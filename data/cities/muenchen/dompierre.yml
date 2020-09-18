@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.1495192
 longitude: 11.578994600000001
-postcode: 80799
+postcode: "80799"
 city: München
 street: "Schellingstraße"
 housenumber: 10

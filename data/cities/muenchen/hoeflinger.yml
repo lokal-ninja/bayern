@@ -1,12 +1,12 @@
-id: 1132264996
+id: 1453430756
 type: node
 shop: Bäckerei
-latitude: 48.09890660000001
-longitude: 11.5232984
-postcode: 81379
+latitude: 48.1406326
+longitude: 11.561446700000001
+postcode: "80335"
 city: München
-street: "Aidenbachstraße"
-housenumber: 30
-phone: ""
-opening_hours: ""
-website: ""
+street: "Bahnhofplatz"
+housenumber: 1
+phone: "+49 (0) 89/20001356"
+opening_hours: "Mo-Su 05:00-22:00"
+website: "http://www.baeckerei-hoeflinger.de/"

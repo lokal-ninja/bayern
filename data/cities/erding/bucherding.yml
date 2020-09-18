@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.3091664
 longitude: 11.9076637
-postcode: 85435
+postcode: "85435"
 city: Erding
 street: "Freisinger Straße"
 housenumber: 3

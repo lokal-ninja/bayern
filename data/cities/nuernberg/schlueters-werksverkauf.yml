@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.4413987
 longitude: 11.0559636
-postcode: 90439
+postcode: "90439"
 city: Nürnberg
 street: "Schwabacher Straße"
 housenumber: 17

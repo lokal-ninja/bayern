@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.304832700000006
 longitude: 10.5771286
-postcode: 91522
+postcode: "91522"
 city: Ansbach
 street: "Schloßstraße"
 housenumber: 17

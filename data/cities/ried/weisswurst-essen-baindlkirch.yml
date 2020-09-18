@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.2779389
 longitude: 11.099495000000001
-postcode: 86510
+postcode: "86510"
 city: Ried
 street: "Rettenbachstraße"
 housenumber: 11

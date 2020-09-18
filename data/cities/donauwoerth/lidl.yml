@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.7159983
 longitude: 10.7604951
-postcode: 86609
+postcode: "86609"
 city: Donauwörth
 street: "Artur-Proeller-Straße"
 housenumber: 2

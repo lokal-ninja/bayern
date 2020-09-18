@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 49.0109131
 longitude: 12.101225900000001
-postcode: 93053
+postcode: "93053"
 city: Regensburg
 street: "Friedenstraße"
 housenumber: 23

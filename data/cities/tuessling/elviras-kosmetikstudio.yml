@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.2168116
 longitude: 12.609837200000001
-postcode: 84577
+postcode: "84577"
 city: Tüßling
 street: "Bussardstraße"
 housenumber: 1

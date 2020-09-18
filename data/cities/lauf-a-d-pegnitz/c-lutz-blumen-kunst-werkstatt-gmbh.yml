@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.50427740000001
 longitude: 11.2853051
-postcode: 91207
+postcode: "91207"
 city: Lauf a.d.Pegnitz
 street: "Altdorfer Straße"
 housenumber: 91

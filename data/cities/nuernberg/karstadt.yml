@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 49.4514045
 longitude: 11.0774529
-postcode: 90402
+postcode: "90402"
 city: Nürnberg
 street: "Königstraße"
 housenumber: 14

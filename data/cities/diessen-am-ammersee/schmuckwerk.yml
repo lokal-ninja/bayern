@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 47.9480949
 longitude: 11.099205300000001
-postcode: 86911
+postcode: "86911"
 city: Dießen am Ammersee
 street: "Hofmark"
 housenumber: 6

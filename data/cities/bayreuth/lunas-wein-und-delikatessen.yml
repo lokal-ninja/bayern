@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 49.9438095
 longitude: 11.575918600000001
-postcode: 95444
+postcode: "95444"
 city: Bayreuth
 street: "Maximilianstraße"
 housenumber: 17

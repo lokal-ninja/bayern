@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.0690931
 longitude: 12.456540500000001
-postcode: 93191
+postcode: "93191"
 city: Rettenbach
 street: "Dorfstraße"
 housenumber: 18

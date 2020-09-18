@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.1806357
 longitude: 10.7588471
-postcode: 86830
+postcode: "86830"
 city: Schwabmünchen
 street: "Raiffeisenstraße"
 housenumber: 4

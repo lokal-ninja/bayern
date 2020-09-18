@@ -3,7 +3,7 @@ type: node
 shop: Reifen
 latitude: 49.375160900000004
 longitude: 10.1927915
-postcode: 91541
+postcode: "91541"
 city: Rothenburg ob der Tauber
 street: "Ansbacher Straße"
 housenumber: 54

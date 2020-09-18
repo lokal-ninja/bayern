@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.1597651
 longitude: 11.581764900000001
-postcode: 
+postcode: ""
 city: München
 street: "Hohenzollernstraße"
 housenumber: 19

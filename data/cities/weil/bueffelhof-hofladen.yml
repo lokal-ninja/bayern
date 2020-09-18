@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.1447925
 longitude: 10.916920600000001
-postcode: 86947
+postcode: "86947"
 city: Weil
 street: "Benediktstraße"
 housenumber: 4

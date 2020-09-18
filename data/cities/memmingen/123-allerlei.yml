@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 47.9851345
 longitude: 10.1804374
-postcode: 87700
+postcode: "87700"
 city: Memmingen
 street: "Untere Bachgasse"
 housenumber: 5 1/2

@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 48.118308500000005
 longitude: 11.4420386
-postcode: 82166
+postcode: "82166"
 city: Gräfelfing
 street: "Pasinger Straße"
 housenumber: 50

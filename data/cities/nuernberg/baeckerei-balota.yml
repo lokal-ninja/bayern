@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.442193700000004
 longitude: 11.093794200000001
-postcode: 90461
+postcode: "90461"
 city: Nürnberg
 street: "Wilhelm-Spaeth-Straße"
 housenumber: 8

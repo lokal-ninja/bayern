@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.014239
 longitude: 10.2146846
-postcode: 97424
+postcode: "97424"
 city: Schweinfurt
 street: "Helsinkistraße"
 housenumber: 1

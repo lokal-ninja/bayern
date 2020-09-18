@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 47.574032300000006
 longitude: 9.6089065
-postcode: 88149
+postcode: "88149"
 city: Nonnenhorn
 street: "Seestraße"
 housenumber: 23

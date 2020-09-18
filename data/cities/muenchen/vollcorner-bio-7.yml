@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.1347644
 longitude: 11.541850400000001
-postcode: 80339
+postcode: "80339"
 city: München
 street: "Kazmairstraße"
 housenumber: 26

@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 50.3933034
 longitude: 11.379972200000001
-postcode: 96358
+postcode: "96358"
 city: Teuschnitz
 street: "Torberg"
 housenumber: 17

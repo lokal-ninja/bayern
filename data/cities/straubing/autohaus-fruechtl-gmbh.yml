@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.883031200000005
 longitude: 12.612308
-postcode: 94315
+postcode: "94315"
 city: Straubing
 street: "Zwickauer Straße"
 housenumber: 5

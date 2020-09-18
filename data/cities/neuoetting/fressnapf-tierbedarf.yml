@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 48.243063500000005
 longitude: 12.707099000000001
-postcode: 84524
+postcode: "84524"
 city: Neuötting
 street: "Lohgerberstraße"
 housenumber: 13

@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.162012100000005
 longitude: 11.584417400000001
-postcode: 80803
+postcode: "80803"
 city: München
 street: "Herzogstraße"
 housenumber: 7

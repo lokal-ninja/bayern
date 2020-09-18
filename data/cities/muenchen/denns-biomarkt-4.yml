@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.095471200000006
 longitude: 11.562995
-postcode: 81545
+postcode: "81545"
 city: München
 street: "Grünwalder Straße"
 housenumber: 190

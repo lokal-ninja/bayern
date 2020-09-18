@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 49.4366051
 longitude: 11.050239900000001
-postcode: 90439
+postcode: "90439"
 city: Nürnberg
 street: "Schwabacher Straße"
 housenumber: 100

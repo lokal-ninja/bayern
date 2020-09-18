@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.081178900000005
 longitude: 11.691071200000001
-postcode: 85640
+postcode: "85640"
 city: Putzbrunn
 street: "Lechstraße"
 housenumber: 1

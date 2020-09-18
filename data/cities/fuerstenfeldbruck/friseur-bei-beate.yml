@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.178806800000004
 longitude: 11.2524274
-postcode: 82256
+postcode: "82256"
 city: Fürstenfeldbruck
 street: "Pucher Straße"
 housenumber: 15

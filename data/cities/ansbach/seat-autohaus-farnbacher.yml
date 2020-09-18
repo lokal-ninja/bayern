@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.292841800000005
 longitude: 10.6046139
-postcode: 91522
+postcode: "91522"
 city: Ansbach
 street: "Eichenbachstraße"
 housenumber: 2

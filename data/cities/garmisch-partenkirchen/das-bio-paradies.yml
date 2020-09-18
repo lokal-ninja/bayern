@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.491888200000005
 longitude: 11.0826302
-postcode: 82467
+postcode: "82467"
 city: Garmisch-Partenkirchen
 street: "Von-Müller-Straße"
 housenumber: 11

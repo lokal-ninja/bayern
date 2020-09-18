@@ -3,7 +3,7 @@ type: node
 shop: Basteln
 latitude: 49.7866201
 longitude: 9.9865978
-postcode: 97218
+postcode: "97218"
 city: Gerbrunn
 street: "Am Kirschberg"
 housenumber: 4

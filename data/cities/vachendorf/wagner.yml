@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.842046100000005
 longitude: 12.607136800000001
-postcode: 83377
+postcode: "83377"
 city: Vachendorf
 street: "Hauptstraße"
 housenumber: 10

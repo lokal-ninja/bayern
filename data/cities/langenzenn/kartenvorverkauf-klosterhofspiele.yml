@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.4959349
 longitude: 10.800754300000001
-postcode: 90579
+postcode: "90579"
 city: Langenzenn
 street: "Nürnberger Straße"
 housenumber: 22

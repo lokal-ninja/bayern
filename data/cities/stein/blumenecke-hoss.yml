@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.4114032
 longitude: 11.006694000000001
-postcode: 90547
+postcode: "90547"
 city: Stein
 street: "Hauptstraße"
 housenumber: 65

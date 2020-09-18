@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.1308821
 longitude: 12.124046400000001
-postcode: 93128
+postcode: "93128"
 city: Regenstauf
 street: "Straßäcker"
 housenumber: 5

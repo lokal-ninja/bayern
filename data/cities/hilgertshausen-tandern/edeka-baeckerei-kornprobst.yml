@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.430168
 longitude: 11.3550518
-postcode: 86567
+postcode: "86567"
 city: Hilgertshausen-Tandern
 street: "Schrobenhausener Straße"
 housenumber: 4

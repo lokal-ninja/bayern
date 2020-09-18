@@ -1,6 +1,6 @@
 ---
 title: Hersbruck
 url: /hersbruck/
-latitude: 49.508464700000005
-longitude: 11.428476900000001
+latitude: 49.5084734
+longitude: 11.4284367
 ---

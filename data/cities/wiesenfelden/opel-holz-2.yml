@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 49.0447913
 longitude: 12.5324763
-postcode: 94344
+postcode: "94344"
 city: Wiesenfelden
 street: "Birkenweiherfeld"
 housenumber: 1

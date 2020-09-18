@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 48.359286700000006
 longitude: 11.443633400000001
-postcode: 85256
+postcode: "85256"
 city: Vierkirchen
 street: "Unterfeldring"
 housenumber: 1

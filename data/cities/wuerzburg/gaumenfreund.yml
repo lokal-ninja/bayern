@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 49.787054000000005
 longitude: 9.924389300000001
-postcode: 97082
+postcode: "97082"
 city: Würzburg
 street: "Mergentheimer Straße"
 housenumber: 12

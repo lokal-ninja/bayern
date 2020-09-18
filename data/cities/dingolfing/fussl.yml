@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.638054000000004
 longitude: 12.484185
-postcode: 84130
+postcode: "84130"
 city: Dingolfing
 street: "Aitrachstraße"
 housenumber: 5

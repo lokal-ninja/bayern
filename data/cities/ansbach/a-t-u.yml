@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.2909683
 longitude: 10.5543508
-postcode: 91522
+postcode: "91522"
 city: Ansbach
 street: "Thomasstraße"
 housenumber: 1

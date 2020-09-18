@@ -3,7 +3,7 @@ type: node
 shop: Wohnwagen
 latitude: 50.0582943
 longitude: 10.1970264
-postcode: 97424
+postcode: "97424"
 city: Schweinfurt
 street: "Karl-Götz-Straße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 48.1788627
 longitude: 11.2550495
-postcode: 82256
+postcode: "82256"
 city: Fürstenfeldbruck
 street: "Hauptstraße"
 housenumber: 28

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.3552485
 longitude: 11.1422503
-postcode: 90530
+postcode: "90530"
 city: Wendelstein
 street: "Hauptstraße"
 housenumber: 7

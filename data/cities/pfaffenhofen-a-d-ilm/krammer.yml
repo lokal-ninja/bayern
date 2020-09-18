@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.5313748
 longitude: 11.5094664
-postcode: 85276
+postcode: "85276"
 city: Pfaffenhofen a.d. Ilm
 street: "Türltorstraße"
 housenumber: 6

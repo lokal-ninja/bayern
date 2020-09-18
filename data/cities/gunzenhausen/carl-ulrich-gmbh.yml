@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.1131247
 longitude: 10.7473138
-postcode: 91710
+postcode: "91710"
 city: Gunzenhausen
 street: "Oettinger Straße"
 housenumber: 17

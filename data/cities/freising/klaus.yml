@@ -3,10 +3,10 @@ type: node
 shop: Schreibwaren
 latitude: 48.401424500000005
 longitude: 11.7483365
-postcode: 85354
+postcode: "85354"
 city: Freising
 street: "Untere Hauptstraße"
 housenumber: 54
-phone: ""
+phone: "+49-8161-3867"
 opening_hours: "Mo-Fr 09:00-12:30,14:00-18:00; Sa 09:30-13:00"
 website: ""

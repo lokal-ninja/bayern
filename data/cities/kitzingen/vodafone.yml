@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 49.739354500000005
 longitude: 10.1624706
-postcode: 97318
+postcode: "97318"
 city: Kitzingen
 street: "Marktstraße"
 housenumber: 14

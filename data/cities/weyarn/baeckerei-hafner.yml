@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.857888200000005
 longitude: 11.801163500000001
-postcode: 83629
+postcode: "83629"
 city: Weyarn
 street: "Miesbacher Straße"
 housenumber: 7

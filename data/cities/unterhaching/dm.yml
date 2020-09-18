@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 48.0678958
 longitude: 11.619262
-postcode: 82008
+postcode: "82008"
 city: Unterhaching
 street: "Biberger Straße"
 housenumber: 64

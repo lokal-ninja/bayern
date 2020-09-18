@@ -3,7 +3,7 @@ type: way
 shop: Textil
 latitude: 49.0034294
 longitude: 12.1465186
-postcode: 93055
+postcode: "93055"
 city: Regensburg
 street: "Werner-Heisenberg-Straße"
 housenumber: 9

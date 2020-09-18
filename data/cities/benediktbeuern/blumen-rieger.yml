@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.700051800000004
 longitude: 11.4165671
-postcode: 83671
+postcode: "83671"
 city: Benediktbeuern
 street: "Gschwendt"
 housenumber: 

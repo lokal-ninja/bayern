@@ -3,7 +3,7 @@ type: way
 shop: Bücher
 latitude: 49.1895832
 longitude: 11.191459700000001
-postcode: 91161
+postcode: "91161"
 city: Hilpoltstein
 street: "Marktstraße"
 housenumber: 2

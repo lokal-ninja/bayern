@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.379951600000005
 longitude: 10.853131900000001
-postcode: 86156
+postcode: "86156"
 city: Augsburg
 street: "Ulmer Straße"
 housenumber: 196

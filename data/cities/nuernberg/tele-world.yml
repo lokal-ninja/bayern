@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 49.44977
 longitude: 11.0542526
-postcode: 90429
+postcode: "90429"
 city: Nürnberg
 street: "Kernstraße"
 housenumber: 21

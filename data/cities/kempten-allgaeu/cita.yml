@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.736555300000006
 longitude: 10.30704
-postcode: 87439
+postcode: "87439"
 city: Kempten (Allgäu)
 street: "Äußere Rottach"
 housenumber: 4

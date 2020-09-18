@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.06562
 longitude: 10.341294000000001
-postcode: 91550
+postcode: "91550"
 city: Dinkelsbühl
 street: "Danziger Straße"
 housenumber: 15

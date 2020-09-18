@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.292743400000006
 longitude: 11.457896600000002
-postcode: 92318
+postcode: "92318"
 city: Neumarkt
 street: "Am Sand"
 housenumber: 18

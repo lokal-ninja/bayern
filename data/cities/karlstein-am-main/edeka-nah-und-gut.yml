@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.0464416
 longitude: 9.0237728
-postcode: 63791
+postcode: "63791"
 city: Karlstein am Main
 street: "Eichendorffstraße"
 housenumber: 29

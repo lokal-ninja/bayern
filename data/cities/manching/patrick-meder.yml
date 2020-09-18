@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.729386500000004
 longitude: 11.527235800000001
-postcode: 85077
+postcode: "85077"
 city: Manching
 street: "Rottmannshart"
 housenumber: 1

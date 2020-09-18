@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 49.4745136
 longitude: 10.9925487
-postcode: 90762
+postcode: "90762"
 city: Fürth
 street: "Königstraße"
 housenumber: 123

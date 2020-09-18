@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.6167978
 longitude: 10.624867700000001
-postcode: 91468
+postcode: "91468"
 city: Gutenstetten
 street: "Abtenweg"
 housenumber: 2

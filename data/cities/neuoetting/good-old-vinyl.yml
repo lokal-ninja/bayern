@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 48.2413442
 longitude: 12.6844952
-postcode: 84524
+postcode: "84524"
 city: Neuötting
 street: "Ludwigstraße"
 housenumber: 29

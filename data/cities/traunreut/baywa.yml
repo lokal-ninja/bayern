@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 47.9656505
 longitude: 12.609387
-postcode: 83301
+postcode: "83301"
 city: Traunreut
 street: "Trostberger Straße"
 housenumber: 26

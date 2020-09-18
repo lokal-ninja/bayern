@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 47.9513927
 longitude: 11.906233
-postcode: 85625
+postcode: "85625"
 city: Baiern
 street: "Alpenstraße"
 housenumber: 30

@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 48.047896800000004
 longitude: 11.9687496
-postcode: 85567
+postcode: "85567"
 city: Grafing bei München
 street: "Leonhardstraße"
 housenumber: 5a

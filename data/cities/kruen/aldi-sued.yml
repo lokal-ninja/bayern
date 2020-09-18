@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.4964973
 longitude: 11.2754004
-postcode: 82494
+postcode: "82494"
 city: Krün
 street: "Am Stausee"
 housenumber: 6

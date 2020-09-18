@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 49.298388700000004
 longitude: 10.4098463
-postcode: 91578
+postcode: "91578"
 city: Leutershausen
 street: "Untere Vorstadt"
 housenumber: 12

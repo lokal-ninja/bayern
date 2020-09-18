@@ -3,7 +3,7 @@ type: way
 shop: Schreibwaren
 latitude: 49.0024966
 longitude: 12.1079685
-postcode: 93053
+postcode: "93053"
 city: Regensburg
 street: "Hermann-Geib-Straße"
 housenumber: 16

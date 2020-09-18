@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.4081386
 longitude: 10.955829000000001
-postcode: 86316
+postcode: "86316"
 city: Friedberg
 street: "Egerländer Straße"
 housenumber: 16

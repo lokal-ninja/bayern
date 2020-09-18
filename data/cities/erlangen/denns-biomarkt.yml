@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.5788506
 longitude: 11.0028711
-postcode: 91052
+postcode: "91052"
 city: Erlangen
 street: "Paul-Gossen-Straße"
 housenumber: 71

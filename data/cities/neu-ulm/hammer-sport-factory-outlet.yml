@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 48.384581000000004
 longitude: 10.031225000000001
-postcode: 89231
+postcode: "89231"
 city: Neu-Ulm
 street: "Von-Liebig-Straße"
 housenumber: 11

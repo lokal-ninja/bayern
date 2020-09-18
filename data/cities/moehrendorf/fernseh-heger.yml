@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 49.642461700000005
 longitude: 11.0006793
-postcode: 91096
+postcode: "91096"
 city: Möhrendorf
 street: "Schulstraße"
 housenumber: 15

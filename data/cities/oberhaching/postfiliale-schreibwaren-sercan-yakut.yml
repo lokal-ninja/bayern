@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 48.020329100000005
 longitude: 11.5843307
-postcode: 82041
+postcode: "82041"
 city: Oberhaching
 street: "Bahnhofplatz"
 housenumber: 5

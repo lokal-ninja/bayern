@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.1538077
 longitude: 11.5850118
-postcode: 80802
+postcode: "80802"
 city: München
 street: "Ohmstraße"
 housenumber: 12

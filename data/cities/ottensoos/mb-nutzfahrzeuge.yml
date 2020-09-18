@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.519784900000005
 longitude: 11.332261800000001
-postcode: 91242
+postcode: "91242"
 city: Ottensoos
 street: "Bräunleinsberg"
 housenumber: 29

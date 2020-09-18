@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.2840391
 longitude: 10.4690311
-postcode: 86470
+postcode: "86470"
 city: Thannhausen
 street: "Bahnhofstraße"
 housenumber: 23

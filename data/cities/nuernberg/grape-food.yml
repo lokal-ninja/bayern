@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 49.4510044
 longitude: 11.0570996
-postcode: 90429
+postcode: "90429"
 city: Nürnberg
 street: "Fürther Straße"
 housenumber: 42a

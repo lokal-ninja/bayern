@@ -3,7 +3,7 @@ type: way
 shop: Teppiche
 latitude: 48.8623957
 longitude: 12.576261800000001
-postcode: 94315
+postcode: "94315"
 city: Straubing
 street: "Alfred-Dick-Ring"
 housenumber: 2

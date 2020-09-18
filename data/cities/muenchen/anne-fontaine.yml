@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.1390157
 longitude: 11.5774498
-postcode: 80333
+postcode: "80333"
 city: München
 street: "Residenzstraße"
 housenumber: 3

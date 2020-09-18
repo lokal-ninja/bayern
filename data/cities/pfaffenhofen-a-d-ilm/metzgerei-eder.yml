@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.5271521
 longitude: 11.5124896
-postcode: 85276
+postcode: "85276"
 city: Pfaffenhofen a.d. Ilm
 street: "Moosburger Straße"
 housenumber: 8

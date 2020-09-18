@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.7060911
 longitude: 10.0162618
-postcode: 97286
+postcode: "97286"
 city: Winterhausen
 street: "Alte Brückenstraße"
 housenumber: 3

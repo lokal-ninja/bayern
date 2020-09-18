@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.359956200000006
 longitude: 11.3822474
-postcode: 85229
+postcode: "85229"
 city: Markt Indersdorf
 street: "Augustinerring"
 housenumber: 8

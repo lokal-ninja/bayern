@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 48.4749604
 longitude: 10.2724796
-postcode: 89312
+postcode: "89312"
 city: Günzburg
 street: "Rudolf-Diesel-Straße"
 housenumber: 18

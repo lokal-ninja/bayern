@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 49.5862678
 longitude: 11.018537100000001
-postcode: 91052
+postcode: "91052"
 city: Erlangen
 street: "Berliner Platz"
 housenumber: 3

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.884206500000005
 longitude: 12.6150128
-postcode: 94315
+postcode: "94315"
 city: Straubing
 street: "Ittlinger Straße"
 housenumber: 232

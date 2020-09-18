@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.445084800000004
 longitude: 11.8607425
-postcode: 92224
+postcode: "92224"
 city: Amberg
 street: "Untere Nabburger Straße"
 housenumber: 15

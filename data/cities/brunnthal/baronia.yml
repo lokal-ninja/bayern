@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 48.0404934
 longitude: 11.6651381
-postcode: 85649
+postcode: "85649"
 city: Brunnthal
 street: "Eugen-Sänger-Ring"
 housenumber: 7b

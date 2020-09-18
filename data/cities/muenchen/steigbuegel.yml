@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 48.145068
 longitude: 11.577436
-postcode: 80333
+postcode: "80333"
 city: München
 street: "Kardinal-Döpfner-Straße"
 housenumber: 4

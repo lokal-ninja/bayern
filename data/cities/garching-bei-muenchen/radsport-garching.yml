@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.2493038
 longitude: 11.649514
-postcode: 85748
+postcode: "85748"
 city: Garching bei München
 street: "Schleißheimer Straße"
 housenumber: 9b

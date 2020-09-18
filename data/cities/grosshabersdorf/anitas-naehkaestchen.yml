@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.4133131
 longitude: 10.8223912
-postcode: 90613
+postcode: "90613"
 city: Großhabersdorf
 street: "Vincenzenbronner Hauptstraße"
 housenumber: 26

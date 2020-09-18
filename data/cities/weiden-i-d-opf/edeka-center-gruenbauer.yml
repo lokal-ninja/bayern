@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.664512900000005
 longitude: 12.1555259
-postcode: 92637
+postcode: "92637"
 city: Weiden i.d.OPf.
 street: "Untere Bauscherstraße"
 housenumber: 22

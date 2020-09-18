@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 47.787469200000004
 longitude: 12.138675600000001
-postcode: 83115
+postcode: "83115"
 city: Neubeuern
 street: "Thansauer Straße"
 housenumber: 5

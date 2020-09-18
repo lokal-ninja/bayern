@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.415497900000005
 longitude: 10.8683455
-postcode: 86368
+postcode: "86368"
 city: Gersthofen
 street: "Welserstraße"
 housenumber: 11

@@ -1,9 +1,9 @@
 id: 1205812050
 type: node
 shop: Kleidung
-latitude: 49.592332500000005
-longitude: 11.005564000000001
-postcode: 91052
+latitude: 49.5923183
+longitude: 11.0055367
+postcode: "91052"
 city: Erlangen
 street: "Nürnberger Straße"
 housenumber: 31

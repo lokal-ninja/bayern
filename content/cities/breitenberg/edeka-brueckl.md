@@ -1,4 +1,4 @@
 ---
-title: "edeka Brückl"
+title: "Edeka Brückl"
 url: /breitenberg/edeka-brueckl/
 ---

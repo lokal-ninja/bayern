@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 47.9679219
 longitude: 10.182572
-postcode: 87700
+postcode: "87700"
 city: Memmingen
 street: "Birkenweg"
 housenumber: 6

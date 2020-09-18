@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 48.0773731
 longitude: 11.5198636
-postcode: 81479
+postcode: "81479"
 city: München
 street: "Frans-Hals-Straße"
 housenumber: 31

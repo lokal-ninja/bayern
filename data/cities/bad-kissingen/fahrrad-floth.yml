@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.2045631
 longitude: 10.0864729
-postcode: 97688
+postcode: "97688"
 city: Bad Kissingen
 street: "Erhardstraße"
 housenumber: 41

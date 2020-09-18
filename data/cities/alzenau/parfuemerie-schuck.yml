@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 50.0873537
 longitude: 9.0677302
-postcode: 63755
+postcode: "63755"
 city: Alzenau
 street: "Wingertstraße"
 housenumber: 1

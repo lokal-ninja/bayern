@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.124857500000005
 longitude: 11.5503675
-postcode: 80337
+postcode: "80337"
 city: München
 street: "Ruppertstraße"
 housenumber: 32

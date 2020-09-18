@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 49.801113900000004
 longitude: 9.948988
-postcode: 97080
+postcode: "97080"
 city: Würzburg
 street: "Gutenbergstraße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 48.1170101
 longitude: 11.5485608
-postcode: 81371
+postcode: "81371"
 city: München
 street: "Implerstraße"
 housenumber: 65

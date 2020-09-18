@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.32311180000001
 longitude: 11.6931835
-postcode: 95119
+postcode: "95119"
 city: Naila
 street: "Kronacher Straße"
 housenumber: 135

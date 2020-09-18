@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 48.255999300000006
 longitude: 12.418112500000001
-postcode: 84539
+postcode: "84539"
 city: Ampfing
 street: "Zangberger Straße"
 housenumber: 6

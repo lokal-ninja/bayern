@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 48.367352800000006
 longitude: 10.8951075
-postcode: 86150
+postcode: "86150"
 city: Augsburg
 street: "Annastraße"
 housenumber: 24

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.0502727
 longitude: 12.09022
-postcode: 93138
+postcode: "93138"
 city: Lappersdorf
 street: "Regensburger Straße"
 housenumber: 4

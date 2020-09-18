@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.7419365
 longitude: 11.4669749
-postcode: 85053
+postcode: "85053"
 city: Ingolstadt
 street: "Robert-Bosch-Straße"
 housenumber: 10

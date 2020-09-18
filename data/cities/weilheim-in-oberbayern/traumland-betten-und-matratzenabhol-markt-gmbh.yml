@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 47.831403300000005
 longitude: 11.126564700000001
-postcode: 82362
+postcode: "82362"
 city: Weilheim in Oberbayern
 street: "Holzhofstraße"
 housenumber: 19

@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 48.407960700000004
 longitude: 10.9590489
-postcode: 86316
+postcode: "86316"
 city: Friedberg
 street: "Äußere Industriestraße"
 housenumber: 6

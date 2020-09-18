@@ -3,7 +3,7 @@ type: way
 shop: Fisch
 latitude: 47.849838000000005
 longitude: 12.137037000000001
-postcode: 83022
+postcode: "83022"
 city: Rosenheim
 street: "Chiemseestraße"
 housenumber: 41

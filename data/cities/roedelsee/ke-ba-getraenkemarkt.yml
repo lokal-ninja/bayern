@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 49.73112810000001
 longitude: 10.231698900000001
-postcode: 97348
+postcode: "97348"
 city: Rödelsee
 street: "Rödelseer Weg"
 housenumber: 1

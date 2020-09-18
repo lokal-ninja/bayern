@@ -1,12 +1,12 @@
-id: 1309258867
+id: 1309258873
 type: node
 shop: Drogerie
-latitude: 48.1196879
-longitude: 11.575273300000001
-postcode: 81543
+latitude: 48.137258900000006
+longitude: 11.523648300000001
+postcode: "80687"
 city: München
-street: "Pilgersheimer Straße"
-housenumber: 4
+street: "Elsenheimerstraße"
+housenumber: 53
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off"
 website: ""

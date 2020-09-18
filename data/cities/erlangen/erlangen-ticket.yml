@@ -3,7 +3,7 @@ type: node
 shop: Tickets
 latitude: 49.5914803
 longitude: 11.007193500000001
-postcode: 91052
+postcode: "91052"
 city: Erlangen
 street: "Rathausplatz"
 housenumber: 5

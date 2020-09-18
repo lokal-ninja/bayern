@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.028815200000004
 longitude: 12.2076352
-postcode: 93093
+postcode: "93093"
 city: Donaustauf
 street: "Maxstraße"
 housenumber: 30

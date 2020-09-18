@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 48.2655746
 longitude: 10.8917265
-postcode: 86343
+postcode: "86343"
 city: Königsbrunn
 street: "Robert-Koch-Straße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.8592791
 longitude: 9.080582600000001
-postcode: 63853
+postcode: "63853"
 city: Mömlingen
 street: "Bachstraße"
 housenumber: 32

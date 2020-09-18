@@ -3,7 +3,7 @@ type: way
 shop: Betten
 latitude: 47.582229100000006
 longitude: 10.7037489
-postcode: 87629
+postcode: "87629"
 city: Füssen
 street: "Hopfener Straße"
 housenumber: 17

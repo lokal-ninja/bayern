@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.428403100000004
 longitude: 10.1222182
-postcode: 89278
+postcode: "89278"
 city: Nersingen
 street: "Ulmer Straße"
 housenumber: 64

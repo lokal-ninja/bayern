@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.1605725
 longitude: 10.807620100000001
-postcode: 86836
+postcode: "86836"
 city: Untermeitingen
 street: "Lechfelder Straße"
 housenumber: 12

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.051267900000006
 longitude: 9.030258
-postcode: 63791
+postcode: "63791"
 city: Karlstein am Main
 street: "Am Kieswerk"
 housenumber: 3

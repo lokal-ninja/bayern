@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.03811150000001
 longitude: 10.5046765
-postcode: 87719
+postcode: "87719"
 city: Mindelheim
 street: "Biberkopfstraße"
 housenumber: 3

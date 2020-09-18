@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 48.1857594
 longitude: 11.237706900000001
-postcode: 82256
+postcode: "82256"
 city: Fürstenfeldbruck
 street: "Nicolaus-Otto-Straße"
 housenumber: 3

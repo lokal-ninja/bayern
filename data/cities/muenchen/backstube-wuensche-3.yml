@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.098816600000006
 longitude: 11.653307
-postcode: 81737
+postcode: "81737"
 city: München
 street: "Sudermannallee"
 housenumber: 18

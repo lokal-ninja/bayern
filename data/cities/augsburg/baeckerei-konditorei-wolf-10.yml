@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.383144
 longitude: 10.916364000000002
-postcode: 86167
+postcode: "86167"
 city: Augsburg
 street: "Widderstraße"
 housenumber: 25

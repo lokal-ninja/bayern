@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 47.770757
 longitude: 10.4004703
-postcode: 87499
+postcode: "87499"
 city: Wildpoldsried
 street: "Günzacher Straße"
 housenumber: 17

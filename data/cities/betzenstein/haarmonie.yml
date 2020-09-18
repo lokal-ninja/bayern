@@ -3,10 +3,10 @@ type: node
 shop: Friseur
 latitude: 49.682300100000006
 longitude: 11.4183435
-postcode: 91282
+postcode: "91282"
 city: Betzenstein
 street: "Hauptstraße"
 housenumber: 25
 phone: ""
-opening_hours: "Tu,Th,Fr 08:30-18:00;We 08:30-13:00;Sa 08:00-12:30"
+opening_hours: "Tu,Th,Fr 08:30-18:00; We 08:30-13:00; Sa 08:00-12:30"
 website: ""

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.3497354
 longitude: 10.953090300000001
-postcode: 86163
+postcode: "86163"
 city: Augsburg
 street: "Meringer Straße"
 housenumber: 58

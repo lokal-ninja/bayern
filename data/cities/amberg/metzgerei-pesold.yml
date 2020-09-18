@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 49.4425115
 longitude: 11.8659663
-postcode: 92224
+postcode: "92224"
 city: Amberg
 street: "Schlachthausstraße"
 housenumber: 12

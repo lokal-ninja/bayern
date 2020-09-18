@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.2513354
 longitude: 12.984921700000001
-postcode: 84375
+postcode: "84375"
 city: Kirchdorf a. Inn
 street: "Hauptstraße"
 housenumber: 56

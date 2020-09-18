@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 48.3853237
 longitude: 9.998344300000001
-postcode: 89231
+postcode: "89231"
 city: Neu-Ulm
 street: "Baumgartenstraße"
 housenumber: 28

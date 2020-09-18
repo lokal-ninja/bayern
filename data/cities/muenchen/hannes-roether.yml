@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.1288567
 longitude: 11.5754952
-postcode: 80469
+postcode: "80469"
 city: München
 street: "Reichenbachstraße"
 housenumber: 40

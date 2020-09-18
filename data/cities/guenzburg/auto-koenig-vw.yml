@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 48.464841400000005
 longitude: 10.2669184
-postcode: 89312
+postcode: "89312"
 city: Günzburg
 street: "Heidenheimer Straße"
 housenumber: 11

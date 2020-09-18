@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.0006112
 longitude: 11.3509091
-postcode: 82319
+postcode: "82319"
 city: Starnberg
 street: "Münchner Straße"
 housenumber: 20

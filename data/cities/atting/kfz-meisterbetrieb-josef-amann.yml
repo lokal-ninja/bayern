@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.886512100000004
 longitude: 12.501538700000001
-postcode: 94348
+postcode: "94348"
 city: Atting
 street: "Laubental"
 housenumber: 1a

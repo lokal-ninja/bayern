@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 49.4088949
 longitude: 11.1677462
-postcode: 90475
+postcode: "90475"
 city: Nürnberg
 street: "Löwenberger Straße"
 housenumber: 10

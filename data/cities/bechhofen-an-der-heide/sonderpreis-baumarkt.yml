@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.1679066
 longitude: 10.562657900000001
-postcode: 91572
+postcode: "91572"
 city: Bechhofen an der Heide
 street: "Ansbacher Straße"
 housenumber: 81

@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 48.2051643
 longitude: 11.325951400000001
-postcode: 82140
+postcode: "82140"
 city: Olching
 street: "Hauptstraße"
 housenumber: 67

@@ -3,7 +3,7 @@ type: way
 shop: Großhandel
 latitude: 48.882549600000004
 longitude: 12.6086042
-postcode: 94315
+postcode: "94315"
 city: Straubing
 street: "Hirschberger Ring"
 housenumber: 31a

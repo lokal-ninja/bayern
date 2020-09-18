@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.0215182
 longitude: 11.580723
-postcode: 82041
+postcode: "82041"
 city: Oberhaching
 street: "Gartenstraße"
 housenumber: 28

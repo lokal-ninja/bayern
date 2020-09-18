@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.004067400000004
 longitude: 11.348974700000001
-postcode: 82319
+postcode: "82319"
 city: Starnberg
 street: "Gautinger Straße"
 housenumber: 3

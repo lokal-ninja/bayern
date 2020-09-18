@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.525269800000004
 longitude: 11.6214907
-postcode: 92259
+postcode: "92259"
 city: Neukirchen bei Sulzbach-Rosenberg
 street: "Bahnhofstraße"
 housenumber: 7

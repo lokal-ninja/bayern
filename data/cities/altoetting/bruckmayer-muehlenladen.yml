@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.228739000000004
 longitude: 12.676462800000001
-postcode: 
+postcode: ""
 city: Altötting
 street: "Wöhrstraße"
 housenumber: 1

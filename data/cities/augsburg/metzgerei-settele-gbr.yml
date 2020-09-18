@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 48.3031036
 longitude: 10.901535500000001
-postcode: 86179
+postcode: "86179"
 city: Augsburg
 street: "Haferstraße"
 housenumber: 2

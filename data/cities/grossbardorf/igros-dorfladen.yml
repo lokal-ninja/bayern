@@ -3,7 +3,7 @@ type: node
 shop: Dorfladen
 latitude: 50.27001610000001
 longitude: 10.367503600000001
-postcode: 97633
+postcode: "97633"
 city: Großbardorf
 street: "Raiffeisenstraße"
 housenumber: 28

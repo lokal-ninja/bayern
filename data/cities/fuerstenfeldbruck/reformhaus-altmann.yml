@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.1780174
 longitude: 11.2526892
-postcode: 82256
+postcode: "82256"
 city: Fürstenfeldbruck
 street: "Ludwigstraße"
 housenumber: 3b

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.3157748
 longitude: 11.916629100000002
-postcode: 95028
+postcode: "95028"
 city: Hof
 street: "Lorenzstraße"
 housenumber: 25-29

@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 48.370798
 longitude: 10.89657
-postcode: 86152
+postcode: "86152"
 city: Augsburg
 street: "Obstmarkt"
 housenumber: 7

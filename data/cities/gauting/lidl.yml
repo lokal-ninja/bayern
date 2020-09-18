@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.065990500000005
 longitude: 11.383566
-postcode: 82131
+postcode: "82131"
 city: Gauting
 street: "August-Hörmann-Platz"
 housenumber: 2

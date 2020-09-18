@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.9563958
 longitude: 11.363696200000001
-postcode: 82335
+postcode: "82335"
 city: Berg
 street: "Marienstraße"
 housenumber: 4-6

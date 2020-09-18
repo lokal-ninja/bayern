@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 49.5957596
 longitude: 11.0167725
-postcode: 91052
+postcode: "91052"
 city: Erlangen
 street: "Feldstraße"
 housenumber: 5

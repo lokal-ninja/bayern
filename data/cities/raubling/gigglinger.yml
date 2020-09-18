@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 47.766292400000005
 longitude: 12.0801671
-postcode: 83064
+postcode: "83064"
 city: Raubling
 street: "Am Höhenrain"
 housenumber: 2

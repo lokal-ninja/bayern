@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.0103896
 longitude: 10.1806481
-postcode: 97493
+postcode: "97493"
 city: Bergrheinfeld
 street: "Rothmühlstraße"
 housenumber: 7

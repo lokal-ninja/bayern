@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.840867200000005
 longitude: 10.011454800000001
-postcode: 97273
+postcode: "97273"
 city: Kürnach
 street: "Wachtelberg"
 housenumber: 33

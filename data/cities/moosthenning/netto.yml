@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.6697378
 longitude: 12.4681303
-postcode: 84164
+postcode: "84164"
 city: Moosthenning
 street: "Ammerfeld"
 housenumber: 1

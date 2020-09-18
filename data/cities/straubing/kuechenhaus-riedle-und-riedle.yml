@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 48.8847547
 longitude: 12.574429700000001
-postcode: 94315
+postcode: "94315"
 city: Straubing
 street: "Stadtgraben"
 housenumber: 122

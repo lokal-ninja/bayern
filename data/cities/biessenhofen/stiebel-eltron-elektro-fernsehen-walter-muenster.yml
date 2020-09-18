@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 47.827645000000004
 longitude: 10.6416261
-postcode: 87640
+postcode: "87640"
 city: Biessenhofen
 street: "Füssener Straße"
 housenumber: 18

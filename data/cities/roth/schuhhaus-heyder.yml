@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 49.248250600000006
 longitude: 11.090585500000001
-postcode: 91154
+postcode: "91154"
 city: Roth
 street: "Hauptstraße"
 housenumber: 51

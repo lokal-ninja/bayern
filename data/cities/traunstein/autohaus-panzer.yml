@@ -1,12 +1,12 @@
 id: 6055549615
 type: node
 shop: Autowerkstatt
-latitude: 47.8547329
-longitude: 12.623629200000002
-postcode: 83278
+latitude: 47.854694900000005
+longitude: 12.6236814
+postcode: "83278"
 city: Traunstein
 street: "Sonntagshornstraße"
-housenumber: 
+housenumber: 37
 phone: "+49 861 166210"
 opening_hours: ""
 website: ""

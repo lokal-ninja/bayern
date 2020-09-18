@@ -3,10 +3,10 @@ type: node
 shop: Bäckerei
 latitude: 49.4638483
 longitude: 10.9883051
-postcode: 90763
+postcode: "90763"
 city: Fürth
 street: "Herrnstraße"
 housenumber: 30
-phone: ""
-opening_hours: "Mo-Fr 07:00-19:00, Sa 07:00-18:00, Su 07:00-17:00"
-website: ""
+phone: "+49 911 97498791"
+opening_hours: "Mo-Fr 07:00-19:00, Sa 07:00-18:00, Su,PH 07:00-17:00"
+website: "https://www.goldjunge-bäckerei.de"

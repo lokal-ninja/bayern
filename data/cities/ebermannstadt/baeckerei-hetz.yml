@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.779845
 longitude: 11.187371500000001
-postcode: 91320
+postcode: "91320"
 city: Ebermannstadt
 street: "Am Marktplatz"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 48.1758687
 longitude: 11.255606400000001
-postcode: 82256
+postcode: "82256"
 city: Fürstenfeldbruck
 street: "Fürstenfelder Straße"
 housenumber: 4

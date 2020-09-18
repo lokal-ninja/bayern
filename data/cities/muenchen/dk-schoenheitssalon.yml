@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.1514953
 longitude: 11.5646246
-postcode: 80798
+postcode: "80798"
 city: München
 street: "Augustenstraße"
 housenumber: 88

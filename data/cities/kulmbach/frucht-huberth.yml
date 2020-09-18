@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 50.1078598
 longitude: 11.4553349
-postcode: 95326
+postcode: "95326"
 city: Kulmbach
 street: "Holzmarkt"
 housenumber: 3

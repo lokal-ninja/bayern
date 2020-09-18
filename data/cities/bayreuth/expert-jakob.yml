@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 49.967914300000004
 longitude: 11.6069688
-postcode: 95448
+postcode: "95448"
 city: Bayreuth
 street: "Bindlacher Straße"
 housenumber: 8

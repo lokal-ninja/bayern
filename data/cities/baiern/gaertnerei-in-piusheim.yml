@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 47.956541200000004
 longitude: 11.894121100000001
-postcode: 85625
+postcode: "85625"
 city: Baiern
 street: "Unterlausstraße"
 housenumber: 31

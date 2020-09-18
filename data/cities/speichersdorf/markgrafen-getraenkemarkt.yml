@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 49.8752007
 longitude: 11.77054
-postcode: 95469
+postcode: "95469"
 city: Speichersdorf
 street: "Bayreuther Straße"
 housenumber: 40

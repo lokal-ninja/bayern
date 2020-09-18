@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 49.3066982
 longitude: 10.5685324
-postcode: 91522
+postcode: "91522"
 city: Ansbach
 street: "Residenzstraße"
 housenumber: 2-6

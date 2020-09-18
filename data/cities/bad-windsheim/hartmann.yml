@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 49.499051900000005
 longitude: 10.411718800000001
-postcode: 91438
+postcode: "91438"
 city: Bad Windsheim
 street: "Westheimer Straße"
 housenumber: 4

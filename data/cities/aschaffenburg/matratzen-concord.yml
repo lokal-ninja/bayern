@@ -3,7 +3,7 @@ type: way
 shop: Betten
 latitude: 49.972382800000005
 longitude: 9.1585181
-postcode: 63739
+postcode: "63739"
 city: Aschaffenburg
 street: "Würzburger Straße"
 housenumber: 41

@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 49.4728307
 longitude: 11.0659574
-postcode: 90425
+postcode: "90425"
 city: Nürnberg
 street: "Äußere Bucher Straße"
 housenumber: 29

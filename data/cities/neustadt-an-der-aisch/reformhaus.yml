@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.580338600000005
 longitude: 10.6088637
-postcode: 91413
+postcode: "91413"
 city: Neustadt an der Aisch
 street: "Marktplatz"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 48.286884
 longitude: 11.8977637
-postcode: 85435
+postcode: "85435"
 city: Erding
 street: "Otto-Hahn-Straße"
 housenumber: 21

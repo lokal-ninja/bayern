@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.1695192
 longitude: 11.248347800000001
-postcode: 82256
+postcode: "82256"
 city: Fürstenfeldbruck
 street: "Fürstenfeld"
 housenumber: 7d

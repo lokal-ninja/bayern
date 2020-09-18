@@ -3,7 +3,7 @@ type: node
 shop: Farben
 latitude: 48.1090637
 longitude: 11.604289300000001
-postcode: 81539
+postcode: "81539"
 city: München
 street: "Balanstraße"
 housenumber: 101

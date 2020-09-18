@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 49.697070000000004
 longitude: 10.854534600000001
-postcode: 91350
+postcode: "91350"
 city: Gremsdorf
 street: "Gewerbepark"
 housenumber: 10a

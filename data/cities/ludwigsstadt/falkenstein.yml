@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.484453800000004
 longitude: 11.3901892
-postcode: 96337
+postcode: "96337"
 city: Ludwigsstadt
 street: "Kronacher Straße"
 housenumber: 10

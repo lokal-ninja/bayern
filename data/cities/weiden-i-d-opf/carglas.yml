@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 49.6716684
 longitude: 12.1462783
-postcode: 92637
+postcode: "92637"
 city: Weiden i.d.OPf.
 street: "Frauenrichter Straße"
 housenumber: 77

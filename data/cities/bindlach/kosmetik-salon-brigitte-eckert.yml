@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.975897100000005
 longitude: 11.599861800000001
-postcode: 95463
+postcode: "95463"
 city: Bindlach
 street: "Erlenstraße"
 housenumber: 

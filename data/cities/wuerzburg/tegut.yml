@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 49.785193400000004
 longitude: 9.931910400000001
-postcode: 97072
+postcode: "97072"
 city: Würzburg
 street: "Virchowstraße"
 housenumber: 2
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00;Sa 07:00-20:00;Su,PH off"
+opening_hours: "Mo-Fr 08:00-20:00; Sa 07:00-20:00; Su,PH off"
 website: ""

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.15032780000001
 longitude: 11.172754300000001
-postcode: 96272
+postcode: "96272"
 city: Hochstadt a. Main
 street: "Hauptstraße"
 housenumber: 22

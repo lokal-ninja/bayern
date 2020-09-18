@@ -3,7 +3,7 @@ type: node
 shop: Modellbau
 latitude: 48.1398832
 longitude: 11.554943300000001
-postcode: 80335
+postcode: "80335"
 city: München
 street: "Bayerstraße"
 housenumber: 16b

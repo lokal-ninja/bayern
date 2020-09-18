@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.114851200000004
 longitude: 11.581137100000001
-postcode: 81539
+postcode: "81539"
 city: München
 street: "Deisenhofener Straße"
 housenumber: 7

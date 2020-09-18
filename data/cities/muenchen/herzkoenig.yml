@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.1495984
 longitude: 11.541075800000002
-postcode: 80636
+postcode: "80636"
 city: München
 street: "Blutenburgstraße"
 housenumber: 39

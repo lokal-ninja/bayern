@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 47.961729000000005
 longitude: 12.593931900000001
-postcode: 83301
+postcode: "83301"
 city: Traunreut
 street: "Fridtjof-Nansen-Straße"
 housenumber: 4

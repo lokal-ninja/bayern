@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 48.1125945
 longitude: 11.593421600000001
-postcode: 81539
+postcode: "81539"
 city: München
 street: "Schlierseestraße"
 housenumber: 53

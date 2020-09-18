@@ -3,7 +3,7 @@ type: node
 shop: Fitness
 latitude: 48.1457999
 longitude: 11.5577647
-postcode: 80335
+postcode: "80335"
 city: München
 street: "Seidlstraße"
 housenumber: 21

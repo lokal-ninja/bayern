@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.245015
 longitude: 10.360956900000001
-postcode: 86381
+postcode: "86381"
 city: Krumbach
 street: "Bahnhofstraße"
 housenumber: 28

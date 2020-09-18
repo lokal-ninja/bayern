@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.130448900000005
 longitude: 11.5781063
-postcode: 80469
+postcode: "80469"
 city: München
 street: "Corneliusstraße"
 housenumber: 31

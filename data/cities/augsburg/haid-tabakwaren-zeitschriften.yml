@@ -3,7 +3,7 @@ type: node
 shop: Zeitungen
 latitude: 48.3342833
 longitude: 10.903619
-postcode: 86159
+postcode: "86159"
 city: Augsburg
 street: "Hermann-Köhl-Straße"
 housenumber: 22

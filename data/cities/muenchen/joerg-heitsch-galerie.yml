@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 48.132445700000005
 longitude: 11.575974500000001
-postcode: 80469
+postcode: "80469"
 city: München
 street: "Reichenbachstraße"
 housenumber: 14

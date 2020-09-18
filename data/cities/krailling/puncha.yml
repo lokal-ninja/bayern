@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 48.1003586
 longitude: 11.415583700000001
-postcode: 82152
+postcode: "82152"
 city: Krailling
 street: "Elisenstraße"
 housenumber: 14

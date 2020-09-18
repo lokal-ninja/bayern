@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 47.760667600000005
 longitude: 11.56344
-postcode: 83646
+postcode: "83646"
 city: Bad Tölz
 street: "Am Ried"
 housenumber: 3a

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.802128
 longitude: 11.7362327
-postcode: 95519
+postcode: "95519"
 city: Schlammersdorf
 street: "Am Pfarrhof"
 housenumber: 4

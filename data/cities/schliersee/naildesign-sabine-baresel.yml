@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 47.703594800000005
 longitude: 11.878621500000001
-postcode: 83727
+postcode: "83727"
 city: Schliersee
 street: "Bayrischzeller Straße"
 housenumber: 1

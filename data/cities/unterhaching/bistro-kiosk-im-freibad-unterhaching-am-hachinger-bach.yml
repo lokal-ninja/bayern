@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 48.063007500000005
 longitude: 11.6205952
-postcode: 82008
+postcode: "82008"
 city: Unterhaching
 street: "Schrenkstraße"
 housenumber: 2

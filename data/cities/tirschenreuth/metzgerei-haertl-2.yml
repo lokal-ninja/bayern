@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.881054600000006
 longitude: 12.3401954
-postcode: 95643
+postcode: "95643"
 city: Tirschenreuth
 street: "Klenauer Weg"
 housenumber: 2

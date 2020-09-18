@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.6294947
 longitude: 12.4984926
-postcode: 84130
+postcode: "84130"
 city: Dingolfing
 street: "Marienplatz"
 housenumber: 11

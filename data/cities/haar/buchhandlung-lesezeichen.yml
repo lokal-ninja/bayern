@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.110178600000005
 longitude: 11.7327553
-postcode: 85540
+postcode: "85540"
 city: Haar
 street: "Leibstraße"
 housenumber: 29

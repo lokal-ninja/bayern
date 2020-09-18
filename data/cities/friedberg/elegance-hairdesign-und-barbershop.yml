@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.3561421
 longitude: 10.984001300000001
-postcode: 86316
+postcode: "86316"
 city: Friedberg
 street: "Aichacher Straße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 49.521747600000005
 longitude: 11.3137361
-postcode: 91233
+postcode: "91233"
 city: Neunkirchen a.Sand
 street: "Grenzweg"
 housenumber: 1

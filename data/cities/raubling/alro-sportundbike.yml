@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 47.787139100000005
 longitude: 12.1101506
-postcode: 83064
+postcode: "83064"
 city: Raubling
 street: "Kufsteiner Straße"
 housenumber: 27

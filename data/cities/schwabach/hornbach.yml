@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.3221866
 longitude: 11.0504122
-postcode: 91126
+postcode: "91126"
 city: Schwabach
 street: "Am Falbenholzweg"
 housenumber: 7

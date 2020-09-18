@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.2673508
 longitude: 10.9875401
-postcode: 86415
+postcode: "86415"
 city: Mering
 street: "Bürgermeister-Wohlgeschaffen-Straße"
 housenumber: 7

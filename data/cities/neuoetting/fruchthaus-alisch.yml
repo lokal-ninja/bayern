@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 48.2404761
 longitude: 12.6863124
-postcode: 84524
+postcode: "84524"
 city: Neuötting
 street: "Ludwigstraße"
 housenumber: 58

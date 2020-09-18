@@ -3,7 +3,7 @@ type: way
 shop: Computer
 latitude: 48.1294422
 longitude: 11.375966700000001
-postcode: 82110
+postcode: "82110"
 city: Germering
 street: "Maistraße"
 housenumber: 4-6

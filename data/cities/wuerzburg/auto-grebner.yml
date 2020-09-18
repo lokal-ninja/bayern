@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.807527900000004
 longitude: 9.9027898
-postcode: 97080
+postcode: "97080"
 city: Würzburg
 street: "Unterdürrbacher Straße"
 housenumber: 110

@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 47.5182622
 longitude: 11.1103714
-postcode: 82490
+postcode: "82490"
 city: Farchant
 street: "Partenkirchner Straße"
 housenumber: 63

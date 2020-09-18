@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.4560435
 longitude: 11.0408211
-postcode: 90429
+postcode: "90429"
 city: Nürnberg
 street: "Fürther Straße"
 housenumber: 154

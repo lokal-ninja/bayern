@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.491327600000005
 longitude: 10.918133200000002
-postcode: 90768
+postcode: "90768"
 city: Fürth
 street: "Lagerstraße"
 housenumber: 72

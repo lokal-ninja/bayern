@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 49.0101785
 longitude: 12.089990100000001
-postcode: 93051
+postcode: "93051"
 city: Regensburg
 street: "Bischof-von-Henle-Straße"
 housenumber: 2

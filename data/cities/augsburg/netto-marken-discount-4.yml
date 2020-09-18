@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.335988300000004
 longitude: 10.867744100000001
-postcode: 86199
+postcode: "86199"
 city: Augsburg
 street: "Bürgermeister-Aurnhammer-Straße"
 housenumber: 59a

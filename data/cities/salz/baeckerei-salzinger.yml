@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.308281300000004
 longitude: 10.2069807
-postcode: 97616
+postcode: "97616"
 city: Salz
 street: "Hauptstraße"
 housenumber: 36

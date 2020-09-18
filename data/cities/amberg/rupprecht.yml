@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 49.4450907
 longitude: 11.856543
-postcode: 92224
+postcode: "92224"
 city: Amberg
 street: "Georgenstraße"
 housenumber: 10

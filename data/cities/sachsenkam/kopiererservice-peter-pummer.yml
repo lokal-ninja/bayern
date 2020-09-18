@@ -3,7 +3,7 @@ type: way
 shop: Kopieren
 latitude: 47.8042164
 longitude: 11.6503595
-postcode: 83679
+postcode: "83679"
 city: Sachsenkam
 street: "Wagleitenstraße"
 housenumber: 2

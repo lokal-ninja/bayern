@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.1388679
 longitude: 11.574338800000001
-postcode: 80331
+postcode: "80331"
 city: München
 street: "Frauenplatz"
 housenumber: 12

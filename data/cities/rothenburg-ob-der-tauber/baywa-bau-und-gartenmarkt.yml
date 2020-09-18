@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 49.3793463
 longitude: 10.1923147
-postcode: 91541
+postcode: "91541"
 city: Rothenburg ob der Tauber
 street: "Wolffstraße"
 housenumber: 14

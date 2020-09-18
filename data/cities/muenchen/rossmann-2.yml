@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.155006900000004
 longitude: 11.5119054
-postcode: 80639
+postcode: "80639"
 city: München
 street: "Romanplatz"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.4663284
 longitude: 11.107785000000002
-postcode: 90491
+postcode: "90491"
 city: Nürnberg
 street: "Danziger Straße"
 housenumber: 2

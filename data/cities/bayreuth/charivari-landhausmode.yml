@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.943729700000006
 longitude: 11.569673300000002
-postcode: 95444
+postcode: "95444"
 city: Bayreuth
 street: "Hohenzollernring"
 housenumber: 72

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.788381
 longitude: 12.106158800000001
-postcode: 83064
+postcode: "83064"
 city: Raubling
 street: "Poststraße"
 housenumber: 15

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.4618109
 longitude: 11.066714600000001
-postcode: 90419
+postcode: "90419"
 city: Nürnberg
 street: "Kirchenweg"
 housenumber: 19

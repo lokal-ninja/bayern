@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.8247967
 longitude: 13.201403800000001
-postcode: 94572
+postcode: "94572"
 city: Schöfweg
 street: ""
 housenumber: 46

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.741732600000006
 longitude: 11.4473037
-postcode: 85053
+postcode: "85053"
 city: Ingolstadt
 street: "Geisenfelder Straße"
 housenumber: 23

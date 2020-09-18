@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 49.975234500000006
 longitude: 9.1471935
-postcode: 63739
+postcode: "63739"
 city: Aschaffenburg
 street: "Herstallstraße"
 housenumber: 18

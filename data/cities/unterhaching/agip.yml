@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.0825394
 longitude: 11.6022621
-postcode: 82008
+postcode: "82008"
 city: Unterhaching
 street: "Albert-Schweitzer-Straße"
 housenumber: 68

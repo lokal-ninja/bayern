@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.140218700000005
 longitude: 11.5912211
-postcode: 80538
+postcode: "80538"
 city: München
 street: "Sternstraße"
 housenumber: 26

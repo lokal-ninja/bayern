@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 49.0252501
 longitude: 12.1494447
-postcode: 93055
+postcode: "93055"
 city: Regensburg
 street: "Metzgerweg"
 housenumber: 9

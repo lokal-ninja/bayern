@@ -3,7 +3,7 @@ type: node
 shop: Boot
 latitude: 48.4411009
 longitude: 10.8775052
-postcode: 86368
+postcode: "86368"
 city: Gersthofen
 street: "Röntgenstraße"
 housenumber: 32

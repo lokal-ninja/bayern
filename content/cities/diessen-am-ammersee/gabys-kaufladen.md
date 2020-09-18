@@ -1,4 +1,4 @@
 ---
-title: "Gaby's Kaufladen"
+title: "Gabys Kaufladen"
 url: /diessen-am-ammersee/gabys-kaufladen/
 ---

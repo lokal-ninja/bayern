@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 48.1071936
 longitude: 11.743402000000001
-postcode: 85540
+postcode: "85540"
 city: Haar
 street: "Zunftstraße"
 housenumber: 17f

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.711661600000006
 longitude: 10.3293698
-postcode: 87437
+postcode: "87437"
 city: Kempten (Allgäu)
 street: "Duracher Straße"
 housenumber: 45

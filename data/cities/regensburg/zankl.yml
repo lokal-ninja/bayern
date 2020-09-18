@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 49.014085400000006
 longitude: 12.1080736
-postcode: 93055
+postcode: "93055"
 city: Regensburg
 street: "Sedanstraße"
 housenumber: 18

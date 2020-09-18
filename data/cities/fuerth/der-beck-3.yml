@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.4792713
 longitude: 11.011520500000001
-postcode: 90765
+postcode: "90765"
 city: Fürth
 street: "Hans-Vogel-Straße"
 housenumber: 30

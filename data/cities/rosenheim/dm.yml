@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.8532774
 longitude: 12.1222743
-postcode: 83022
+postcode: "83022"
 city: Rosenheim
 street: "Münchener Straße"
 housenumber: 27

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.457421100000005
 longitude: 11.845174100000001
-postcode: 92224
+postcode: "92224"
 city: Amberg
 street: "Sulzbacher Straße"
 housenumber: 90

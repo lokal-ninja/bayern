@@ -1,6 +1,6 @@
 ---
 title: Ludwigsstadt
 url: /ludwigsstadt/
-latitude: 50.4844043
-longitude: 11.389324700000001
+latitude: 50.4842311
+longitude: 11.3895014
 ---

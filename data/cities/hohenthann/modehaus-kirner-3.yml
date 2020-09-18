@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.659590200000004
 longitude: 12.093515700000001
-postcode: 84098
+postcode: "84098"
 city: Hohenthann
 street: "Herrengasse"
 housenumber: 1

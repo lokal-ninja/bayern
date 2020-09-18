@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.3854132
 longitude: 11.356143900000001
-postcode: 90518
+postcode: "90518"
 city: Altdorf b.Nürnberg
 street: "Oberer Markt"
 housenumber: 3

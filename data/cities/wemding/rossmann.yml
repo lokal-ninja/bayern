@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.872980600000005
 longitude: 10.7082662
-postcode: 86650
+postcode: "86650"
 city: Wemding
 street: "Valeostraße"
 housenumber: 2

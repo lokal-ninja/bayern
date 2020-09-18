@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.7653728
 longitude: 11.4233218
-postcode: 85049
+postcode: "85049"
 city: Ingolstadt
 street: "Harderstraße"
 housenumber: 1

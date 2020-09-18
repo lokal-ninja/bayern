@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.3040365
 longitude: 10.5869464
-postcode: 91522
+postcode: "91522"
 city: Ansbach
 street: "Nürnberger Straße"
 housenumber: 66

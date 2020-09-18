@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 48.5624302
 longitude: 13.4438957
-postcode: 94036
+postcode: "94036"
 city: Passau
 street: "Innstraße"
 housenumber: 71

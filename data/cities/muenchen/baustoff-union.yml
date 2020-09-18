@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 48.190475500000005
 longitude: 11.5438852
-postcode: 80935
+postcode: "80935"
 city: München
 street: "Wilhelmine-Reichard-Straße"
 housenumber: 22

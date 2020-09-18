@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.602895700000005
 longitude: 9.8868852
-postcode: 88161
+postcode: "88161"
 city: Lindenberg im Allgäu
 street: ""
 housenumber: 

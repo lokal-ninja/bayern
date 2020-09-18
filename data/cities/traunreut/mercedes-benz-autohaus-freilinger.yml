@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.961254000000004
 longitude: 12.6091125
-postcode: 83301
+postcode: "83301"
 city: Traunreut
 street: "Trostberger Straße"
 housenumber: 8

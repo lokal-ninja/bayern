@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.888868800000004
 longitude: 12.561020800000001
-postcode: 94315
+postcode: "94315"
 city: Straubing
 street: "Helfrichstraße"
 housenumber: 10

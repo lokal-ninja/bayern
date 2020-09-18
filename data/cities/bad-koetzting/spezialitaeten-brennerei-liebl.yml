@@ -3,7 +3,7 @@ type: way
 shop: Spirituosen
 latitude: 49.1764646
 longitude: 12.857675
-postcode: 93444
+postcode: "93444"
 city: Bad Kötzting
 street: "Jahnstraße"
 housenumber: 11-15

@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 49.597043400000004
 longitude: 11.0113933
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Bohlenplatz"
 housenumber: 6

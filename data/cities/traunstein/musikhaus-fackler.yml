@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 47.869915600000006
 longitude: 12.649592100000001
-postcode: 83278
+postcode: "83278"
 city: Traunstein
 street: "Stadtplatz"
 housenumber: 22-24

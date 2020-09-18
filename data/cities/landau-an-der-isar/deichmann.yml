@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 48.6806354
 longitude: 12.689555700000001
-postcode: 94405
+postcode: "94405"
 city: Landau an der Isar
 street: "Straubinger Straße"
 housenumber: 40

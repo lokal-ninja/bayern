@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.1735118
 longitude: 11.5614459
-postcode: 80809
+postcode: "80809"
 city: München
 street: "Sailerstraße"
 housenumber: 1

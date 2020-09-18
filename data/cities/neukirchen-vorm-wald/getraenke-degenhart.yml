@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.6833333
 longitude: 13.3811145
-postcode: 94154
+postcode: "94154"
 city: Neukirchen vorm Wald
 street: "Passauer Straße"
 housenumber: 31

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.7475582
 longitude: 11.460851900000002
-postcode: 85053
+postcode: "85053"
 city: Ingolstadt
 street: "Heinkelstraße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.449206000000004
 longitude: 10.0832806
-postcode: 89275
+postcode: "89275"
 city: Elchingen
 street: "Am Weiher"
 housenumber: 5

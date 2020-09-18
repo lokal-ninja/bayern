@@ -1,12 +1,12 @@
 id: 6602902022
 type: node
 shop: Kleidung
-latitude: 50.318105800000005
-longitude: 11.9154032
-postcode: 95028
+latitude: 50.3181074
+longitude: 11.9153743
+postcode: "95028"
 city: Hof
 street: "Altstadt"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-17:00"
-website: "http://www.bonita.eu/bonita_de/k3400.php?filueb=213&landueb=1&ung=&bllueb=9&plzueb=95028&ortueb="
+website: "https://www.bonita.de/"

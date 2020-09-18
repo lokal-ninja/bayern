@@ -3,7 +3,7 @@ type: node
 shop: Lampen
 latitude: 48.144367800000005
 longitude: 11.437133800000002
-postcode: 81243
+postcode: "81243"
 city: München
 street: "Bodenseestraße"
 housenumber: 129

@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 48.322464200000006
 longitude: 12.449916
-postcode: 84494
+postcode: "84494"
 city: Lohkirchen
 street: ""
 housenumber: 24

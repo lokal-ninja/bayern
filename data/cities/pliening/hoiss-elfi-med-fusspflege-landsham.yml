@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.1843141
 longitude: 11.7771965
-postcode: 85652
+postcode: "85652"
 city: Pliening
 street: "Flurstraße"
 housenumber: 12

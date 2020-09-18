@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 48.833667600000005
 longitude: 12.961519800000001
-postcode: 94469
+postcode: "94469"
 city: Deggendorf
 street: "Bahnhofstraße"
 housenumber: 4

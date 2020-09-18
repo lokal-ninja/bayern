@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.5756256
 longitude: 13.459777
-postcode: 94032
+postcode: "94032"
 city: Passau
 street: "Roßtränke"
 housenumber: 12

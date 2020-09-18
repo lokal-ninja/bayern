@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.84723150000001
 longitude: 10.965302900000001
-postcode: 96129
+postcode: "96129"
 city: Strullendorf
 street: "Bamberger Straße"
 housenumber: 8

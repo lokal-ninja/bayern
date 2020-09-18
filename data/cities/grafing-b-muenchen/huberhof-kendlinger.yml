@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.0589516
 longitude: 11.9622693
-postcode: 85567
+postcode: "85567"
 city: Grafing b. München
 street: "Wiesham"
 housenumber: 2a

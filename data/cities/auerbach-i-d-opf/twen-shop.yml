@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.6930047
 longitude: 11.629203500000001
-postcode: 91275
+postcode: "91275"
 city: Auerbach i.d.OPf.
 street: "Unterer Markt"
 housenumber: 4

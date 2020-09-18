@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.6529569
 longitude: 10.803224100000001
-postcode: 86690
+postcode: "86690"
 city: Mertingen
 street: "Hilaria-Lechner-Straße"
 housenumber: 42

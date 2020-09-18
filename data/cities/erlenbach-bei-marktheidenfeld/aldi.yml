@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.828296300000005
 longitude: 9.6218236
-postcode: 97837
+postcode: "97837"
 city: Erlenbach bei Marktheidenfeld
 street: "An der Röthe"
 housenumber: 4

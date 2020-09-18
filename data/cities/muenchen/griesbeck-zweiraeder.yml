@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.1468026
 longitude: 11.593245600000001
-postcode: 80538
+postcode: "80538"
 city: München
 street: "Lerchenfeldstraße"
 housenumber: 11

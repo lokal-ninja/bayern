@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.3283685
 longitude: 10.3315598
-postcode: 97618
+postcode: "97618"
 city: Wülfershausen an der Saale
 street: "Am Angertor"
 housenumber: 6

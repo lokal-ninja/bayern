@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.8822624
 longitude: 12.5727173
-postcode: 94315
+postcode: "94315"
 city: Straubing
 street: "Ludwigsplatz"
 housenumber: 37

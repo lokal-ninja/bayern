@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 47.822508400000004
 longitude: 11.287563
-postcode: 82402
+postcode: "82402"
 city: Seeshaupt
 street: "Bahnhofplatz"
 housenumber: 9

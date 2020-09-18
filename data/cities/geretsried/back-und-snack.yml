@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.874559700000006
 longitude: 11.4663435
-postcode: 82538
+postcode: "82538"
 city: Geretsried
 street: "Karl-Lederer-Platz"
 housenumber: 18

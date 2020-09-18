@@ -3,7 +3,7 @@ type: node
 shop: Schleifen
 latitude: 50.2603607
 longitude: 11.3456556
-postcode: 96317
+postcode: "96317"
 city: Kronach
 street: "Zum Vogelherd"
 housenumber: 2a

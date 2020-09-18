@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 48.1237452
 longitude: 11.442457000000001
-postcode: 82166
+postcode: "82166"
 city: Gräfelfing
 street: "Würmstraße"
 housenumber: 53a

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.1860871
 longitude: 10.8319515
-postcode: 86836
+postcode: "86836"
 city: Graben
 street: "Lechfelder Straße"
 housenumber: 30

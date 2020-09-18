@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.736034000000004
 longitude: 12.1908343
-postcode: 84088
+postcode: "84088"
 city: Neufahrn in Niederbayern
 street: "Hauptstraße"
 housenumber: 37

@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 48.575505500000006
 longitude: 13.4615269
-postcode: 94032
+postcode: "94032"
 city: Passau
 street: "Rindermarkt"
 housenumber: 7

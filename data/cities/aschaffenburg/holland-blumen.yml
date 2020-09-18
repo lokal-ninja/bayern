@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.974788100000005
 longitude: 9.146641800000001
-postcode: 63739
+postcode: "63739"
 city: Aschaffenburg
 street: "Herstallstraße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.442166
 longitude: 11.017938000000001
-postcode: 86551
+postcode: "86551"
 city: Aichach
 street: "Dorfstraße"
 housenumber: 67

@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 49.118932
 longitude: 10.754026000000001
-postcode: 91710
+postcode: "91710"
 city: Gunzenhausen
 street: "Bahnhofstraße"
 housenumber: 20

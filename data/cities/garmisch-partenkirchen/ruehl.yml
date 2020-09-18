@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.486447600000005
 longitude: 11.0687934
-postcode: 82467
+postcode: "82467"
 city: Garmisch-Partenkirchen
 street: "Zugspitzstraße"
 housenumber: 106

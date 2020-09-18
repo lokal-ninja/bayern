@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 48.8815721
 longitude: 12.6361413
-postcode: 94315
+postcode: "94315"
 city: Straubing
 street: "Aiterhofener Straße"
 housenumber: 2

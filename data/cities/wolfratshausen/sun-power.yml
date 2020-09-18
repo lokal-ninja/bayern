@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 47.9151511
 longitude: 11.425883200000001
-postcode: 82515
+postcode: "82515"
 city: Wolfratshausen
 street: "Am Floßkanal"
 housenumber: 7

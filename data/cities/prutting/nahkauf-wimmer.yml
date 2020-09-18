@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.893985300000004
 longitude: 12.2005222
-postcode: 83134
+postcode: "83134"
 city: Prutting
 street: "Kirchstraße"
 housenumber: 2

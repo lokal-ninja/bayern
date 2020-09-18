@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.742617100000004
 longitude: 11.410517
-postcode: 85051
+postcode: "85051"
 city: Ingolstadt
 street: "Oberringstraße"
 housenumber: 19

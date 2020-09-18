@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.3775494
 longitude: 11.252956300000001
-postcode: 85250
+postcode: "85250"
 city: Altomünster
 street: "Ruppertskirchner Straße"
 housenumber: 45

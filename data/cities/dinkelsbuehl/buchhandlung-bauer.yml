@@ -3,7 +3,7 @@ type: way
 shop: Bücher
 latitude: 49.068943000000004
 longitude: 10.3196244
-postcode: 91550
+postcode: "91550"
 city: Dinkelsbühl
 street: "Ledermarkt"
 housenumber: 7

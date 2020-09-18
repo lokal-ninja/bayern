@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.798278
 longitude: 9.991744800000001
-postcode: 97076
+postcode: "97076"
 city: Würzburg
 street: "Nürnberger Straße"
 housenumber: 108

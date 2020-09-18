@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.274846600000004
 longitude: 10.9735533
-postcode: 86415
+postcode: "86415"
 city: Mering
 street: "Gaußring"
 housenumber: 4

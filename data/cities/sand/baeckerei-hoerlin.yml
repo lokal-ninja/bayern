@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.9874911
 longitude: 10.587981500000001
-postcode: 97522
+postcode: "97522"
 city: Sand
 street: "Hauptstraße"
 housenumber: 26

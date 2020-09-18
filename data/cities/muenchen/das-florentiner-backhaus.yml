@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.160378900000005
 longitude: 11.5730407
-postcode: 80796
+postcode: "80796"
 city: München
 street: "Isabellastraße"
 housenumber: 49

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.396541500000005
 longitude: 10.896690000000001
-postcode: 90574
+postcode: "90574"
 city: Roßtal
 street: "Heinrichstraße"
 housenumber: 14

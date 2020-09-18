@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 48.2673926
 longitude: 10.987197400000001
-postcode: 86415
+postcode: "86415"
 city: Mering
 street: "Bürgermeister-Wohlgeschaffen-Straße"
 housenumber: 1

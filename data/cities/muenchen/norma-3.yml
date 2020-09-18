@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.1780619
 longitude: 11.564827000000001
-postcode: 
+postcode: ""
 city: München
 street: "Riesenfeldstraße"
 housenumber: 16

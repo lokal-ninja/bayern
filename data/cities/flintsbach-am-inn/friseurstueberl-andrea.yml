@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.722124
 longitude: 12.1263284
-postcode: 83126
+postcode: "83126"
 city: Flintsbach am Inn
 street: "Kufsteiner Straße"
 housenumber: 9

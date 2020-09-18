@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 48.1410916
 longitude: 10.243190100000001
-postcode: 87727
+postcode: "87727"
 city: Babenhausen
-street: ""
-housenumber: 
+street: "Memminger Straße"
+housenumber: 10
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 07:00-20:00"
 website: ""

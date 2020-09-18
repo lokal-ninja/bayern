@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.4468685
 longitude: 11.865275700000002
-postcode: 92224
+postcode: "92224"
 city: Amberg
 street: "Marienstraße"
 housenumber: 39

@@ -3,10 +3,10 @@ type: way
 shop: Autohaus
 latitude: 49.6652726
 longitude: 11.0428706
-postcode: 91083
+postcode: "91083"
 city: Baiersdorf
 street: "Industriestraße"
 housenumber: 33
-phone: "09133 767640"
-opening_hours: "Mo-Fr 8:00-17:00; Sa 8:00-12:00;Su,Ph off"
+phone: "+49-9133-767640"
+opening_hours: "Mo-Fr 8:00-17:00; Sa 8:00-12:00; Su,Ph off"
 website: "https://autohaus-loew.business.site/"

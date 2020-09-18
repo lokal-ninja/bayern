@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsartikel
 latitude: 48.1374397
 longitude: 11.5745061
-postcode: 
+postcode: ""
 city: München
 street: "Neuhauser Straße"
 housenumber: 

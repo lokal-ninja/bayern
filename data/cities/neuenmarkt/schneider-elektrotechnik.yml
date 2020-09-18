@@ -3,7 +3,7 @@ type: node
 shop: Elektrisch
 latitude: 50.0931652
 longitude: 11.584211700000001
-postcode: 95339
+postcode: "95339"
 city: Neuenmarkt
 street: "Laubenstraße"
 housenumber: 2

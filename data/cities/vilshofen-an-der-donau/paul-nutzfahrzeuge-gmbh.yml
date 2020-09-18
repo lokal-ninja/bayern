@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.658369900000004
 longitude: 13.1805415
-postcode: 94474
+postcode: "94474"
 city: Vilshofen an der Donau
 street: "Josef-Paul-Straße"
 housenumber: 1

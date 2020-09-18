@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.891135000000006
 longitude: 12.624633300000001
-postcode: 94315
+postcode: "94315"
 city: Straubing
 street: "Schlesische Straße"
 housenumber: 250

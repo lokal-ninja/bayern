@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.0502484
 longitude: 9.1216694
-postcode: 63776
+postcode: "63776"
 city: Mömbris
 street: "Sachsenhäuser Straße"
 housenumber: 11

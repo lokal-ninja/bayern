@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 49.875878900000004
 longitude: 10.169072400000001
-postcode: 97332
+postcode: "97332"
 city: Volkach
 street: "Elgersheimer Weg"
 housenumber: 7

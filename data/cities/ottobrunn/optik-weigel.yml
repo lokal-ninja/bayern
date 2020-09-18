@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.067176700000005
 longitude: 11.666132900000001
-postcode: 85521
+postcode: "85521"
 city: Ottobrunn
 street: "Putzbrunner Straße"
 housenumber: 29

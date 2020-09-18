@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 47.8495895
 longitude: 12.0670547
-postcode: 83059
+postcode: "83059"
 city: Kolbermoor
 street: "Rosenheimer Straße"
 housenumber: 30

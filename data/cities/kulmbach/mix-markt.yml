@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.111874
 longitude: 11.4509971
-postcode: 95326
+postcode: "95326"
 city: Kulmbach
 street: "Kronacher Straße"
 housenumber: 6a

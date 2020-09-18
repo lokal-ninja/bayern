@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.125601800000005
 longitude: 11.674983200000002
-postcode: 81829
+postcode: "81829"
 city: München
 street: "Kirchtruderinger Straße"
 housenumber: 21

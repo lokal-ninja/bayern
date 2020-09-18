@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.409338000000005
 longitude: 11.4683942
-postcode: 85238
+postcode: "85238"
 city: Petershausen
 street: "Pertrichplatz"
 housenumber: 9

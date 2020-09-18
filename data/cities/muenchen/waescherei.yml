@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 48.1566765
 longitude: 11.5662549
-postcode: 80798
+postcode: "80798"
 city: München
 street: "Hiltenspergerstraße"
 housenumber: 8

@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 48.119398800000006
 longitude: 11.3617035
-postcode: 82110
+postcode: "82110"
 city: Germering
 street: "Wifostraße"
 housenumber: 21

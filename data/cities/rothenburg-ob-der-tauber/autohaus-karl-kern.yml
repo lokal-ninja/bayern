@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.380291400000004
 longitude: 10.1895322
-postcode: 91541
+postcode: "91541"
 city: Rothenburg ob der Tauber
 street: "Schweinsdorfer Straße"
 housenumber: 34

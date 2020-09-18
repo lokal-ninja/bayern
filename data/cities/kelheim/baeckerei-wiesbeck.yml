@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.9197021
 longitude: 11.8726315
-postcode: 93309
+postcode: "93309"
 city: Kelheim
 street: "Altmühlstraße"
 housenumber: 15

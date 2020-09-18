@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 47.9611917
 longitude: 12.5938659
-postcode: 83301
+postcode: "83301"
 city: Traunreut
 street: "Traunwalchener Straße"
 housenumber: 1

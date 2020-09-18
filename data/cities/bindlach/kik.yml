@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.9780384
 longitude: 11.6108059
-postcode: 95463
+postcode: "95463"
 city: Bindlach
 street: "Leuschnitzstraße"
 housenumber: 2b

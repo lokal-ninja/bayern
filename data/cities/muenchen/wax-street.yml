@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.148117000000006
 longitude: 11.552390500000001
-postcode: 80335
+postcode: "80335"
 city: München
 street: "Pappenheimstraße"
 housenumber: 2

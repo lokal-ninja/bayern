@@ -3,7 +3,7 @@ type: way
 shop: Bestattungen
 latitude: 48.4653469
 longitude: 11.138099
-postcode: 86551
+postcode: "86551"
 city: Aichach
 street: "Adalbert-Stifter-Straße"
 housenumber: 15

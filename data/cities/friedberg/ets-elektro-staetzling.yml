@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 48.3902246
 longitude: 10.9745597
-postcode: 86316
+postcode: "86316"
 city: Friedberg
 street: "St.-Anton-Straße"
 housenumber: 5

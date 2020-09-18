@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 49.459078000000005
 longitude: 10.927252900000001
-postcode: 90513
+postcode: "90513"
 city: Zirndorf
 street: "Herbststraße"
 housenumber: 1A

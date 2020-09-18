@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.456193500000005
 longitude: 11.0957652
-postcode: 90489
+postcode: "90489"
 city: Nürnberg
 street: "Georg-Strobel-Straße"
 housenumber: 29

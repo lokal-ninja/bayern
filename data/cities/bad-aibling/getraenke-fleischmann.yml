@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 47.8712025
 longitude: 12.015119
-postcode: 83043
+postcode: "83043"
 city: Bad Aibling
 street: "Ellmosener Straße"
 housenumber: 32

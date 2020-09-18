@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.853977
 longitude: 11.989559700000001
-postcode: 83043
+postcode: "83043"
 city: Bad Aibling
 street: "Pullacher Straße"
 housenumber: 6

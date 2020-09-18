@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 49.5961079
 longitude: 11.004457100000002
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Hugenottenplatz"
 housenumber: 6

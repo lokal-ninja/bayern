@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 47.949052800000004
 longitude: 11.1031296
-postcode: 86911
+postcode: "86911"
 city: Dießen am Ammersee
 street: "Prinz-Ludwig-Straße"
 housenumber: 12

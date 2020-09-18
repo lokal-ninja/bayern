@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.3693928
 longitude: 10.898750000000001
-postcode: 86150
+postcode: "86150"
 city: Augsburg
 street: "Am Perlachberg"
 housenumber: 4

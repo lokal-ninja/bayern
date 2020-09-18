@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.126825100000005
 longitude: 11.593003900000001
-postcode: 81669
+postcode: "81669"
 city: München
 street: "Franziskanerstraße"
 housenumber: 19

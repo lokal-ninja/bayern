@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 49.7933942
 longitude: 9.929204
-postcode: 97070
+postcode: "97070"
 city: Würzburg
 street: "Domstraße"
 housenumber: 5

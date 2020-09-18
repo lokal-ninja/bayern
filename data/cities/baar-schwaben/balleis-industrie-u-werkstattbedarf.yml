@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.5898532
 longitude: 10.9614737
-postcode: 86674
+postcode: "86674"
 city: Baar (Schwaben)
 street: "Postweg"
 housenumber: 8

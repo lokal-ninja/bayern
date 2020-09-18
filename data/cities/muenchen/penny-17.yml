@@ -1,12 +1,12 @@
-id: 1041219164
+id: 1011371853
 type: node
 shop: Supermarkt
-latitude: 48.117982000000005
-longitude: 11.522290600000002
-postcode: 81373
+latitude: 48.10105
+longitude: 11.5591989
+postcode: "81543"
 city: München
-street: "Ohlstadter Straße"
-housenumber: 22
+street: "Schönstraße"
+housenumber: 126
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 07:00-20:00"
 website: ""

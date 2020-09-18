@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 47.796713000000004
 longitude: 12.4722009
-postcode: 83224
+postcode: "83224"
 city: Grassau
 street: "Heideweg"
 housenumber: 3

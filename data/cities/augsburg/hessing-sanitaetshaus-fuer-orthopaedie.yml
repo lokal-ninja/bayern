@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 48.3663119
 longitude: 10.8927071
-postcode: 86150
+postcode: "86150"
 city: Augsburg
 street: "Schaezlerstraße"
 housenumber: 3

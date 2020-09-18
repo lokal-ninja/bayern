@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.7031629
 longitude: 11.5852008
-postcode: 91275
+postcode: "91275"
 city: Auerbach i.d.OPf.
 street: "Auerbacher Straße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.4205769
 longitude: 11.192465100000001
-postcode: 90475
+postcode: "90475"
 city: Nürnberg
 street: "Fischbacher Hauptstraße"
 housenumber: 183

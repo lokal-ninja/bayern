@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 49.4572007
 longitude: 11.074565600000001
-postcode: 90403
+postcode: "90403"
 city: Nürnberg
 street: "Bergstraße"
 housenumber: 27

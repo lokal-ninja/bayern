@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.4609449
 longitude: 11.0926889
-postcode: 90489
+postcode: "90489"
 city: Nürnberg
 street: "Rennweg"
 housenumber: 7-9

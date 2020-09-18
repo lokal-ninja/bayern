@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.2420014
 longitude: 12.5231405
-postcode: 84453
+postcode: "84453"
 city: Mühldorf am Inn
 street: "Stadtplatz"
 housenumber: 34

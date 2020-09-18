@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 48.9527738
 longitude: 10.603958800000001
-postcode: 86732
+postcode: "86732"
 city: Oettingen i.Bay.
 street: "Schloßstraße"
 housenumber: 27

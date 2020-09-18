@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 48.3992269
 longitude: 11.737768800000001
-postcode: 85354
+postcode: "85354"
 city: Freising
 street: "Wippenhauser Straße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 49.1467807
 longitude: 12.964241300000001
-postcode: 93471
+postcode: "93471"
 city: Arnbruck
 street: "Gutendorf"
 housenumber: 9

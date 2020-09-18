@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 49.4937698
 longitude: 10.988877700000002
-postcode: 90765
+postcode: "90765"
 city: Fürth
 street: "Erlanger Straße"
 housenumber: 194

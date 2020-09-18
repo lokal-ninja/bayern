@@ -3,7 +3,7 @@ type: way
 shop: Gartenmöbel
 latitude: 47.889631900000005
 longitude: 10.1231785
-postcode: 87764
+postcode: "87764"
 city: Legau
 street: "Mückental"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.140139700000006
 longitude: 11.6575159
-postcode: 81929
+postcode: "81929"
 city: München
 street: "Riemer Straße"
 housenumber: 200

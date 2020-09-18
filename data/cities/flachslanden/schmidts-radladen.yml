@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.399461200000005
 longitude: 10.5133498
-postcode: 91604
+postcode: "91604"
 city: Flachslanden
 street: "Marktplatz"
 housenumber: 5

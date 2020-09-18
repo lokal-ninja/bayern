@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 50.1492025
 longitude: 11.078298
-postcode: 96215
+postcode: "96215"
 city: Lichtenfels
 street: "Erlenweg"
 housenumber: 2

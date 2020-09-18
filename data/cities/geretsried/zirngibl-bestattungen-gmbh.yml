@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 47.857275200000004
 longitude: 11.477256200000001
-postcode: 82538
+postcode: "82538"
 city: Geretsried
 street: "Johann-Sebastian-Bach-Straße"
 housenumber: 25

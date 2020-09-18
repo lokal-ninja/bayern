@@ -1,4 +1,4 @@
 ---
-title: "Im Rosenbusch "
+title: "Im Rosenbusch"
 url: /egmating/im-rosenbusch/
 ---

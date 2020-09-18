@@ -3,7 +3,7 @@ type: way
 shop: Spielzeug
 latitude: 49.403013900000005
 longitude: 10.7882966
-postcode: 90613
+postcode: "90613"
 city: Großhabersdorf
 street: "Ansbacher Straße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 48.1538355
 longitude: 11.471358
-postcode: 81245
+postcode: "81245"
 city: München
 street: "Anton-Meindl-Straße"
 housenumber: 11

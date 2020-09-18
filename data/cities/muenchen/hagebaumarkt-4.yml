@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.0907782
 longitude: 11.5073377
-postcode: 81477
+postcode: "81477"
 city: München
 street: "Meglingerstraße"
 housenumber: 31

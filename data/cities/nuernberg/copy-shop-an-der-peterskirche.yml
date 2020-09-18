@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 49.4431929
 longitude: 11.0972015
-postcode: 90478
+postcode: "90478"
 city: Nürnberg
 street: "Harsdörfferstraße"
 housenumber: 27/29

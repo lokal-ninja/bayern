@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 48.1796894
 longitude: 11.2553161
-postcode: 82256
+postcode: "82256"
 city: Fürstenfeldbruck
 street: "Dachauer Straße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Gemüse & Obst
 latitude: 48.4613323
 longitude: 10.964470400000002
-postcode: 86444
+postcode: "86444"
 city: Affing
 street: "Affinger Straße"
 housenumber: 23

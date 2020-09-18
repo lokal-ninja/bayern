@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.7938544
 longitude: 12.871288000000002
-postcode: 94447
+postcode: "94447"
 city: Plattling
 street: "Gottlieb-Daimler-Straße"
 housenumber: 3

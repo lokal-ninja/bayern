@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 49.7911877
 longitude: 10.329462300000001
-postcode: 97353
+postcode: "97353"
 city: Wiesentheid
 street: "Feuerbacher Straße"
 housenumber: 3

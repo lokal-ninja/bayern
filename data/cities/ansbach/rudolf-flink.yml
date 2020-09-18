@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 49.303186600000004
 longitude: 10.566461400000001
-postcode: 91522
+postcode: "91522"
 city: Ansbach
 street: "Würzburger Straße"
 housenumber: 31

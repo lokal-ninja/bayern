@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.0831731
 longitude: 11.8539592
-postcode: 85614
+postcode: "85614"
 city: Kirchseeon
 street: "Siriusstraße"
 housenumber: 3

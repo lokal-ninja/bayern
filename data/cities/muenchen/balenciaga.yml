@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.140330000000006
 longitude: 11.5773349
-postcode: 
+postcode: ""
 city: München
 street: "Residenzstraße"
 housenumber: 18

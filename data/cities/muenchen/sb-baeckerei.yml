@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.1266473
 longitude: 11.6214773
-postcode: 81673
+postcode: "81673"
 city: München
 street: "Altöttinger Straße"
 housenumber: 

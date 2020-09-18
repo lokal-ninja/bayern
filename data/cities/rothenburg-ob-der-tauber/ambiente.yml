@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 49.3770365
 longitude: 10.1802381
-postcode: 91541
+postcode: "91541"
 city: Rothenburg ob der Tauber
 street: "Hafengasse"
 housenumber: 9

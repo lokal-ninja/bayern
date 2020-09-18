@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.612098100000004
 longitude: 12.382042
-postcode: 84183
+postcode: "84183"
 city: Niederviehbach
 street: "Hauptstraße"
 housenumber: 66

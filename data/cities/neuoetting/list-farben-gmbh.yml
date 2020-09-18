@@ -3,7 +3,7 @@ type: node
 shop: Farben
 latitude: 48.241497700000004
 longitude: 12.705384200000001
-postcode: 84524
+postcode: "84524"
 city: Neuötting
 street: "Nagelschmiedstraße"
 housenumber: 3

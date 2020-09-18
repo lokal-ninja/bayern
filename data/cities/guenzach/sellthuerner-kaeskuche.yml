@@ -3,7 +3,7 @@ type: node
 shop: Käse
 latitude: 47.801917100000004
 longitude: 10.4185859
-postcode: 87634
+postcode: "87634"
 city: Günzach
 street: ""
 housenumber: 11

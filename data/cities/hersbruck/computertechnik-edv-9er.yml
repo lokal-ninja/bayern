@@ -3,7 +3,7 @@ type: way
 shop: Computer
 latitude: 49.503461300000005
 longitude: 11.4400688
-postcode: 91217
+postcode: "91217"
 city: Hersbruck
 street: "Happurger Straße"
 housenumber: 32

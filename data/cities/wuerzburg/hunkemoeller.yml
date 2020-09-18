@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.795580400000006
 longitude: 9.9312757
-postcode: 97070
+postcode: "97070"
 city: Würzburg
 street: "Schönbornstraße"
 housenumber: 4-6

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.121784100000006
 longitude: 11.5785584
-postcode: 81541
+postcode: "81541"
 city: München
 street: "Falkenstraße"
 housenumber: 34

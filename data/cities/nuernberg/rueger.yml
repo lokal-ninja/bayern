@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 49.457858200000004
 longitude: 11.125894200000001
-postcode: 90482
+postcode: "90482"
 city: Nürnberg
 street: "Ostendstraße"
 housenumber: 182

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.584811300000005
 longitude: 10.9957595
-postcode: 91052
+postcode: "91052"
 city: Erlangen
 street: "Am Anger"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 49.0200777
 longitude: 12.094995800000001
-postcode: 93047
+postcode: "93047"
 city: Regensburg
 street: "Kohlenmarkt"
 housenumber: 1

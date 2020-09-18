@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 49.4329261
 longitude: 11.8851899
-postcode: 92224
+postcode: "92224"
 city: Amberg
 street: "Am Bergsteig"
 housenumber: 4

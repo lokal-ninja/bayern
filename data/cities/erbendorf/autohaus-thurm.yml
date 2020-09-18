@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.8044536
 longitude: 12.083056200000001
-postcode: 92681
+postcode: "92681"
 city: Erbendorf
 street: "Wildenreuth A"
 housenumber: 55

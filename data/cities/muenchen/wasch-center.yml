@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 48.1818973
 longitude: 11.5722512
-postcode: 80807
+postcode: "80807"
 city: München
 street: "Keferloherstraße"
 housenumber: 101

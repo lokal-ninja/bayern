@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.237926200000004
 longitude: 11.727301800000001
-postcode: 95233
+postcode: "95233"
 city: Helmbrechts
 street: "Frankenstraße"
 housenumber: 19

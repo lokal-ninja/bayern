@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.4046212
 longitude: 12.3941795
-postcode: 84155
+postcode: "84155"
 city: Bodenkirchen
 street: "Erdmannsdorfer Straße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 49.7680147
 longitude: 9.8627575
-postcode: 97204
+postcode: "97204"
 city: Höchberg
 street: "Heidelberger Straße"
 housenumber: 101b

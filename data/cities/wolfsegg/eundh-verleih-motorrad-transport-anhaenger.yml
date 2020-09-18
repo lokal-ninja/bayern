@@ -3,7 +3,7 @@ type: node
 shop: Mieten
 latitude: 49.1068458
 longitude: 11.982276800000001
-postcode: 93195
+postcode: "93195"
 city: Wolfsegg
 street: "Sonnenstraße"
 housenumber: 28a

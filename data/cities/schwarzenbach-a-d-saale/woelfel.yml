@@ -3,10 +3,10 @@ type: node
 shop: Metzgerei
 latitude: 50.219566
 longitude: 11.937562000000002
-postcode: 95126
+postcode: "95126"
 city: Schwarzenbach a.d.Saale
 street: "Kirchenlamitzer Straße"
 housenumber: 11
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Tu 07:00-13:00; Mo-Tu 14:30-18:00; We 07:00-12:30; Th-Fr 07:00-18:00; Sa 07:00-12:00"
+website: "https.www.metzgerei-woelfel.de"

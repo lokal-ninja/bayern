@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.8098101
 longitude: 9.9606429
-postcode: 97078
+postcode: "97078"
 city: Würzburg
 street: "Versbacher Straße"
 housenumber: 75

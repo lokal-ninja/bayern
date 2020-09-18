@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.0014235
 longitude: 11.341704
-postcode: 82319
+postcode: "82319"
 city: Starnberg
 street: "Hanfelder Straße"
 housenumber: 8

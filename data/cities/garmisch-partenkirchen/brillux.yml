@@ -3,7 +3,7 @@ type: node
 shop: Farben
 latitude: 47.4903625
 longitude: 11.0994103
-postcode: 82467
+postcode: "82467"
 city: Garmisch-Partenkirchen
 street: "Lagerhausstraße"
 housenumber: 7

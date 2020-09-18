@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.975909800000004
 longitude: 11.6050778
-postcode: 95463
+postcode: "95463"
 city: Bindlach
 street: "St.-Georgen-Straße"
 housenumber: 19

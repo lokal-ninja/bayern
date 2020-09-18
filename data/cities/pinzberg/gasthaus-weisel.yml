@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.70438660000001
 longitude: 11.1145806
-postcode: 91361
+postcode: "91361"
 city: Pinzberg
 street: "Gosberger Straße"
 housenumber: 2

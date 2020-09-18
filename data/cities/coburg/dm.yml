@@ -1,12 +1,12 @@
-id: 362728418
-type: way
+id: 533374406
+type: node
 shop: Drogerie
-latitude: 50.265560900000004
-longitude: 10.9620184
-postcode: 96450
+latitude: 50.249223400000005
+longitude: 10.9632708
+postcode: "96450"
 city: Coburg
-street: "Callenberger Straße"
-housenumber: 16
+street: "Bamberger Straße"
+housenumber: 32
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.dm.de/"
+website: ""

@@ -3,7 +3,7 @@ type: way
 shop: Instrumente
 latitude: 48.1848668
 longitude: 11.5302924
-postcode: 80993
+postcode: "80993"
 city: München
 street: "Hanauer Straße"
 housenumber: 91a

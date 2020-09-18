@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.3644478
 longitude: 10.876232100000001
-postcode: 86157
+postcode: "86157"
 city: Augsburg
 street: "Ohnsorgstraße"
 housenumber: 1

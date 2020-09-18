@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 50.255058000000005
 longitude: 11.393387
-postcode: 96364
+postcode: "96364"
 city: Marktrodach
 street: "Rodachau"
 housenumber: 1

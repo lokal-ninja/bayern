@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 48.1488687
 longitude: 11.552922800000001
-postcode: 80335
+postcode: "80335"
 city: München
 street: "Nymphenburger Straße"
 housenumber: 22

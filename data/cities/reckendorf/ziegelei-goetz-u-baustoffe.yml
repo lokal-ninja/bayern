@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.027799900000005
 longitude: 10.826255100000001
-postcode: 96182
+postcode: "96182"
 city: Reckendorf
 street: "Hauptstraße"
 housenumber: 73

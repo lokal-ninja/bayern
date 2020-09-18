@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.8838604
 longitude: 12.6083639
-postcode: 94315
+postcode: "94315"
 city: Straubing
 street: "Ittlinger Straße"
 housenumber: 192

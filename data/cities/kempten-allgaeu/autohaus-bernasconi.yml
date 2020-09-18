@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.714409700000004
 longitude: 10.3256104
-postcode: 87437
+postcode: "87437"
 city: Kempten (Allgäu)
 street: "Ludwigstraße"
 housenumber: 8

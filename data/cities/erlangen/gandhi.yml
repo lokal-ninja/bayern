@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.5964584
 longitude: 11.0024514
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Goethestraße"
 housenumber: 44

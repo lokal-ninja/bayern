@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 48.557572300000004
 longitude: 10.9888832
-postcode: 86554
+postcode: "86554"
 city: Pöttmes
 street: "Obere Straße"
 housenumber: 13

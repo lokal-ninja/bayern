@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 49.793545200000004
 longitude: 9.930833
-postcode: 97070
+postcode: "97070"
 city: Würzburg
 street: "Kürschnerhof"
 housenumber: 1

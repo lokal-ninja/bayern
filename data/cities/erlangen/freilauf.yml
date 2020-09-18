@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.5964363
 longitude: 11.006381300000001
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Untere Karlstraße"
 housenumber: 9-11

@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 49.467505300000006
 longitude: 11.0580431
-postcode: 90425
+postcode: "90425"
 city: Nürnberg
 street: "Kölner Straße"
 housenumber: 21

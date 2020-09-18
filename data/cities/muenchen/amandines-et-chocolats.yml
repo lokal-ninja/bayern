@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.088577400000005
 longitude: 11.5592886
-postcode: 81545
+postcode: "81545"
 city: München
 street: "Seybothstraße"
 housenumber: 52

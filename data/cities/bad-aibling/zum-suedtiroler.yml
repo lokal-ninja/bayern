@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 47.863695500000006
 longitude: 12.009302700000001
-postcode: 83043
+postcode: "83043"
 city: Bad Aibling
 street: "Irlachstraße"
 housenumber: 4

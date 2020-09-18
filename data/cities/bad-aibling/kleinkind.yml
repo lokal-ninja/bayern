@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.864548400000004
 longitude: 12.0108566
-postcode: 83043
+postcode: "83043"
 city: Bad Aibling
 street: "Kirchzeile"
 housenumber: 5

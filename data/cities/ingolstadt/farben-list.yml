@@ -3,7 +3,7 @@ type: way
 shop: Farben
 latitude: 48.7456359
 longitude: 11.4652267
-postcode: 85053
+postcode: "85053"
 city: Ingolstadt
 street: "Messerschmittstraße"
 housenumber: 20

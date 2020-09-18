@@ -3,7 +3,7 @@ type: way
 shop: Farben
 latitude: 48.0417569
 longitude: 10.504043000000001
-postcode: 87719
+postcode: "87719"
 city: Mindelheim
 street: "Allgäuer Straße"
 housenumber: 18

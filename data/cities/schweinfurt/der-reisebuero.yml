@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 50.044493100000004
 longitude: 10.229977400000001
-postcode: 97421
+postcode: "97421"
 city: Schweinfurt
 street: "Roßmarkt"
 housenumber: 4

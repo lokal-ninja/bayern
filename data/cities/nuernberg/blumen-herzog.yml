@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.465664100000005
 longitude: 11.0689674
-postcode: 90419
+postcode: "90419"
 city: Nürnberg
 street: "Juvenellstraße"
 housenumber: 20

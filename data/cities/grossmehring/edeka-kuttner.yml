@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.7651333
 longitude: 11.5196342
-postcode: 85098
+postcode: "85098"
 city: Großmehring
 street: "Theresienstraße"
 housenumber: 8

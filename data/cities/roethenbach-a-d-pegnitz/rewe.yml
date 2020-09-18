@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.48103690000001
 longitude: 11.2320869
-postcode: 90552
+postcode: "90552"
 city: Röthenbach a.d.Pegnitz
 street: "Bahnhofstraße"
 housenumber: 16

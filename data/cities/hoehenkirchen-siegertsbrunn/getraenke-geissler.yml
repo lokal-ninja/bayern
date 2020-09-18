@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.0166577
 longitude: 11.7132477
-postcode: 85635
+postcode: "85635"
 city: Höhenkirchen-Siegertsbrunn
 street: "Rosenheimer Straße"
 housenumber: 25a

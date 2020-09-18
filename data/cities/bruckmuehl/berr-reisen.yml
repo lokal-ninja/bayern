@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 47.8792989
 longitude: 11.9331663
-postcode: 83052
+postcode: "83052"
 city: Bruckmühl
 street: "Hermann-Oberth-Straße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 47.735107500000005
 longitude: 10.3402492
-postcode: 87437
+postcode: "87437"
 city: Kempten (Allgäu)
 street: "Wettmannsberger Weg"
 housenumber: 30

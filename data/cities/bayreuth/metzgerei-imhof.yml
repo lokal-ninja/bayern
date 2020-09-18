@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.9592912
 longitude: 11.620287600000001
-postcode: 95448
+postcode: "95448"
 city: Bayreuth
 street: "Lainecker Straße"
 housenumber: 1

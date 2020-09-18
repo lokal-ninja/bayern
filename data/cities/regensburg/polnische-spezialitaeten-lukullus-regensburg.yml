@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.0143786
 longitude: 12.1180137
-postcode: 93055
+postcode: "93055"
 city: Regensburg
 street: "Greflingerstraße"
 housenumber: 53

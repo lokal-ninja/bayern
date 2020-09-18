@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 48.171054600000005
 longitude: 11.3226546
-postcode: 82223
+postcode: "82223"
 city: Eichenau
 street: "Hauptstraße"
 housenumber: 9

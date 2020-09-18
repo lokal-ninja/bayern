@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 48.3940363
 longitude: 13.3082629
-postcode: 94060
+postcode: "94060"
 city: Pocking
 street: "Füssinger Straße"
 housenumber: 6

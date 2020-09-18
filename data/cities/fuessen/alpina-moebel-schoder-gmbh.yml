@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 47.568069900000005
 longitude: 10.6775479
-postcode: 87629
+postcode: "87629"
 city: Füssen
 street: "Kemptener Straße"
 housenumber: 83

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.748286
 longitude: 11.2103826
-postcode: 91362
+postcode: "91362"
 city: Pretzfeld
 street: ""
 housenumber: 143

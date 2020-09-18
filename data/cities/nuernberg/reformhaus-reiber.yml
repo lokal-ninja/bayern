@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.4632379
 longitude: 11.070805700000001
-postcode: 90419
+postcode: "90419"
 city: Nürnberg
 street: "Bucher Straße"
 housenumber: 69

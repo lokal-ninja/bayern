@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.204715
 longitude: 12.3879394
-postcode: 84478
+postcode: "84478"
 city: Waldkraiburg
 street: "Breslauer Straße"
 housenumber: 38

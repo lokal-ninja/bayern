@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.321476000000004
 longitude: 11.6890947
-postcode: 85375
+postcode: "85375"
 city: Neufahrn bei Freising
 street: "Am Bifang"
 housenumber: 15B

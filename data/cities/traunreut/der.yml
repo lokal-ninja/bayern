@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 47.961610900000004
 longitude: 12.5928193
-postcode: 83301
+postcode: "83301"
 city: Traunreut
 street: "Rathausplatz"
 housenumber: 18

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.98575820000001
 longitude: 12.1975955
-postcode: 93073
+postcode: "93073"
 city: Neutraubling
 street: "Bayerwaldstraße"
 housenumber: 55

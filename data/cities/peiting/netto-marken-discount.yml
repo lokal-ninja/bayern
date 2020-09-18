@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.803027
 longitude: 10.921298700000001
-postcode: 86971
+postcode: "86971"
 city: Peiting
 street: "Schongauer Straße"
 housenumber: 50

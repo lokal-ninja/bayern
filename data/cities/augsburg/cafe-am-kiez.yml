@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.381129800000004
 longitude: 10.874297700000001
-postcode: 86154
+postcode: "86154"
 city: Augsburg
 street: "Ulmer Straße"
 housenumber: 43

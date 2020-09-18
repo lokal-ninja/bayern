@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.305393800000004
 longitude: 10.158013200000001
-postcode: 89264
+postcode: "89264"
 city: Weißenhorn
 street: "Hauptstraße"
 housenumber: 18

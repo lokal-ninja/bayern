@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.448548800000005
 longitude: 11.078269500000001
-postcode: 90402
+postcode: "90402"
 city: Nürnberg
 street: "Vordere Sterngasse"
 housenumber: 1

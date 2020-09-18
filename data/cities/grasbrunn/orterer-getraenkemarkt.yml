@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 48.0968877
 longitude: 11.7677663
-postcode: 85630
+postcode: "85630"
 city: Grasbrunn
 street: "Gartenstraße"
 housenumber: 1a

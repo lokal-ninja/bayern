@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.6500714
 longitude: 12.606315400000002
-postcode: 94437
+postcode: "94437"
 city: Mamming
 street: "Hauptstraße"
 housenumber: 23

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.0773707
 longitude: 11.526316300000001
-postcode: 81479
+postcode: "81479"
 city: München
 street: "Sollner Straße"
 housenumber: 67

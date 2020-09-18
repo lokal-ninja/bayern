@@ -3,7 +3,7 @@ type: node
 shop: Erotik
 latitude: 49.798479400000005
 longitude: 9.9351863
-postcode: 97070
+postcode: "97070"
 city: Würzburg
 street: "Bahnhofstraße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 49.0204292
 longitude: 12.088203700000001
-postcode: 93047
+postcode: "93047"
 city: Regensburg
 street: "Wollwirkergasse"
 housenumber: 4

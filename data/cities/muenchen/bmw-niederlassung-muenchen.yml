@@ -3,10 +3,10 @@ type: way
 shop: Autohaus
 latitude: 48.1879739
 longitude: 11.5744921
-postcode: 80807
+postcode: "80807"
 city: München
 street: "Frankfurter Ring"
 housenumber: 35
 phone: "+49-89-3535-10"
 opening_hours: "Mo-Fr 06:30-18:30; Sa 09:00-16:00"
-website: "https://www.bmw-muenchen.de/de/nl_muenchen/de/dealer/contact/hauptbetrieb_contact.html"
+website: "https://www.bmw-muenchen.de/de/ueber-uns/standorte-teams/hauptbetrieb-frankfurter-ring/"

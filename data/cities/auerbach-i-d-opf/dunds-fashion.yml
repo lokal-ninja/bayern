@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.692151800000005
 longitude: 11.630455300000001
-postcode: 91275
+postcode: "91275"
 city: Auerbach i.d.OPf.
 street: "Pfarrstraße"
 housenumber: 6

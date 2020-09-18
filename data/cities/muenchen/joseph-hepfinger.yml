@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 48.134235700000005
 longitude: 11.5839551
-postcode: 80538
+postcode: "80538"
 city: München
 street: "Thierschstraße"
 housenumber: 1

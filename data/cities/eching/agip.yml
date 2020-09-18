@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.3071886
 longitude: 11.638107100000001
-postcode: 85386
+postcode: "85386"
 city: Eching
 street: "Dieselstraße"
 housenumber: 16

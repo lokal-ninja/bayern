@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.465630000000004
 longitude: 11.10065
-postcode: 90489
+postcode: "90489"
 city: Nürnberg
 street: "Welserstraße"
 housenumber: 70

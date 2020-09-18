@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 48.2635779
 longitude: 10.9839009
-postcode: 86415
+postcode: "86415"
 city: Mering
 street: "Münchener Straße"
 housenumber: 56

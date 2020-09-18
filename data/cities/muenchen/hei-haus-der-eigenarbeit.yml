@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 48.1287308
 longitude: 11.6019836
-postcode: 81667
+postcode: "81667"
 city: München
 street: "Wörthstraße"
 housenumber: 42

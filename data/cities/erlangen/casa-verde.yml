@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 49.5961015
 longitude: 11.0063521
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Weiße Herzstraße"
 housenumber: 4

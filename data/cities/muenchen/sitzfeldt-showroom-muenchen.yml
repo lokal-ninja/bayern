@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.1249562
 longitude: 11.6059844
-postcode: 81671
+postcode: "81671"
 city: München
 street: "Atelierstraße"
 housenumber: 14

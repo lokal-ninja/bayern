@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 49.455728900000004
 longitude: 11.0824048
-postcode: 90403
+postcode: "90403"
 city: Nürnberg
 street: "Innere Laufer Gasse"
 housenumber: 18

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.589811000000005
 longitude: 10.9996419
-postcode: 91052
+postcode: "91052"
 city: Erlangen
 street: "Michael-Vogel-Straße"
 housenumber: 1a

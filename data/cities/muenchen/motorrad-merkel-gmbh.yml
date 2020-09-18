@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 48.182825400000006
 longitude: 11.5083389
-postcode: 80993
+postcode: "80993"
 city: München
 street: "Dachauer Straße"
 housenumber: 447

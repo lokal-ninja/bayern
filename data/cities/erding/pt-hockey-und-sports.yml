@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 48.3171285
 longitude: 11.9227857
-postcode: 85435
+postcode: "85435"
 city: Erding
 street: "Alte Römerstraße"
 housenumber: 74

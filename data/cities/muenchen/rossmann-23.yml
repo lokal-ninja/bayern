@@ -1,12 +1,12 @@
-id: 1309259111
+id: 1329488571
 type: node
 shop: Drogerie
-latitude: 48.1299514
-longitude: 11.4873545
-postcode: 80689
+latitude: 48.150405400000004
+longitude: 11.444957200000001
+postcode: "81243"
 city: München
-street: "Senftenauerstraße"
-housenumber: 95
+street: "Stockacher Straße"
+housenumber: 10
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off"
 website: ""

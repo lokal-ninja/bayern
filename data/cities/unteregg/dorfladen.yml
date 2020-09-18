@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 47.944437400000005
 longitude: 10.458488200000001
-postcode: 87782
+postcode: "87782"
 city: Unteregg
 street: "Untere Hauptstraße"
 housenumber: 1

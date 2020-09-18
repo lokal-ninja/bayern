@@ -3,7 +3,7 @@ type: node
 shop: Anhänger
 latitude: 48.498654
 longitude: 10.4091161
-postcode: 89355
+postcode: "89355"
 city: Gundremmingen
 street: "Bachstraße"
 housenumber: 39

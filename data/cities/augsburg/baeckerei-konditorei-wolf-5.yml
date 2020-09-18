@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.368194700000004
 longitude: 10.8953322
-postcode: 86150
+postcode: "86150"
 city: Augsburg
 street: "Fuggerstraße"
 housenumber: 12a

@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 49.1042348
 longitude: 10.9871438
-postcode: 91785
+postcode: "91785"
 city: Pleinfeld
 street: "Brückenstraße"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.249453900000006
 longitude: 11.6508821
-postcode: 85748
+postcode: "85748"
 city: Garching bei München
 street: "Schleißheimer Straße"
 housenumber: 8

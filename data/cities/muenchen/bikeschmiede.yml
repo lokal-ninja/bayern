@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.139642200000004
 longitude: 11.587345800000001
-postcode: 80538
+postcode: "80538"
 city: München
 street: "Sankt-Anna-Straße"
 housenumber: 18

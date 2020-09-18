@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.451371
 longitude: 10.6451738
-postcode: 90616
+postcode: "90616"
 city: Neuhof a.d.Zenn
 street: "Industriestraße"
 housenumber: 25

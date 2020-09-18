@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.1298661
 longitude: 11.366398700000001
-postcode: 82110
+postcode: "82110"
 city: Germering
 street: "Gabriele-Münter-Straße"
 housenumber: 3

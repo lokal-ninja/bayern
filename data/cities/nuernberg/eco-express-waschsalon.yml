@@ -3,10 +3,10 @@ type: node
 shop: Wäscherei
 latitude: 49.466752500000005
 longitude: 11.0693056
-postcode: 90408
+postcode: "90408"
 city: Nürnberg
 street: "Bucher Straße"
 housenumber: 98
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Su 06:00-23:00"
 website: "https://www.waschsalon.de/"

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.117350800000004
 longitude: 10.3099395
-postcode: 91626
+postcode: "91626"
 city: Schopfloch
 street: "Industriestraße"
 housenumber: 9

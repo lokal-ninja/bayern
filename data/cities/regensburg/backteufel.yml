@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.0189147
 longitude: 12.1049384
-postcode: 93047
+postcode: "93047"
 city: Regensburg
 street: "Ostengasse"
 housenumber: 21

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.1005471
 longitude: 11.4548983
-postcode: 95326
+postcode: "95326"
 city: Kulmbach
 street: "Gustav-Adolf-Straße"
 housenumber: 19

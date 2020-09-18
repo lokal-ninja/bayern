@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.3903886
 longitude: 10.8385035
-postcode: 86356
+postcode: "86356"
 city: Neusäß
 street: "Görresstraße"
 housenumber: 1

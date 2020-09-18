@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 49.9467117
 longitude: 11.568875100000001
-postcode: 95444
+postcode: "95444"
 city: Bayreuth
 street: "Hohenzollernring"
 housenumber: 58

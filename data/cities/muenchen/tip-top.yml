@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 48.123710700000004
 longitude: 11.566274700000001
-postcode: 80469
+postcode: "80469"
 city: München
 street: "Kapuzinerstraße"
 housenumber: 43

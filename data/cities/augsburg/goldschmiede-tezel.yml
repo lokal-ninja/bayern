@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.362736000000005
 longitude: 10.8698432
-postcode: 86157
+postcode: "86157"
 city: Augsburg
 street: "Augsburger Straße"
 housenumber: 32

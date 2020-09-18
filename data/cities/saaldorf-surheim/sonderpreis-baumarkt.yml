@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 47.871370000000006
 longitude: 12.959490800000001
-postcode: 83416
+postcode: "83416"
 city: Saaldorf-Surheim
 street: "Freilassinger Straße"
 housenumber: 22

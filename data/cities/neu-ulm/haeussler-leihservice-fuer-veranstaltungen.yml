@@ -3,7 +3,7 @@ type: node
 shop: Veranstaltungen
 latitude: 48.3845721
 longitude: 10.0240889
-postcode: 89231
+postcode: "89231"
 city: Neu-Ulm
 street: "Albrecht-Berblinger-Straße"
 housenumber: 11

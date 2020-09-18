@@ -3,7 +3,7 @@ type: way
 shop: Basteln
 latitude: 49.3984839
 longitude: 11.9758396
-postcode: 92263
+postcode: "92263"
 city: Ebermannsdorf
 street: "Schafhofer Weg"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.4616732
 longitude: 11.0929567
-postcode: 90489
+postcode: "90489"
 city: Nürnberg
 street: "Bayreuther Straße"
 housenumber: 30

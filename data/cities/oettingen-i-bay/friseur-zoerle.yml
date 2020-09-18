@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.9517381
 longitude: 10.603605100000001
-postcode: 86732
+postcode: "86732"
 city: Oettingen i.Bay.
 street: "Schloßstraße"
 housenumber: 45

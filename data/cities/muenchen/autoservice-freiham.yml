@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.1310754
 longitude: 11.4100167
-postcode: 81249
+postcode: "81249"
 city: München
 street: "Ludwig-Schmid-Straße"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.8569426
 longitude: 9.0824288
-postcode: 63853
+postcode: "63853"
 city: Mömlingen
 street: "Am Holzberg"
 housenumber: 14

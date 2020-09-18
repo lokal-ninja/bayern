@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 49.1601827
 longitude: 10.483466
-postcode: 91632
+postcode: "91632"
 city: Wieseth
 street: "Am Pflatterbach"
 housenumber: 7

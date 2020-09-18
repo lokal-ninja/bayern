@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.747202200000004
 longitude: 11.463364
-postcode: 85053
+postcode: "85053"
 city: Ingolstadt
 street: "Messerschmittstraße"
 housenumber: 3

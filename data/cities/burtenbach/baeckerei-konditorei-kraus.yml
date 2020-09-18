@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.339076500000004
 longitude: 10.4483624
-postcode: 89349
+postcode: "89349"
 city: Burtenbach
 street: "Hauptstraße"
 housenumber: 35

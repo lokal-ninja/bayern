@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.891724700000005
 longitude: 12.623462100000001
-postcode: 94315
+postcode: "94315"
 city: Straubing
 street: "Schlesische Straße"
 housenumber: 235

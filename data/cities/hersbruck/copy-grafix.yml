@@ -3,10 +3,10 @@ type: node
 shop: Kopieren
 latitude: 49.507522300000005
 longitude: 11.429731100000001
-postcode: 91217
+postcode: "91217"
 city: Hersbruck
 street: "Rudolf-Wetzer-Straße"
 housenumber: 1
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00, Sa 10:00-13:00"
+opening_hours: "Mo-Fr 10:00-12:00, 15:00-18:00"
 website: ""

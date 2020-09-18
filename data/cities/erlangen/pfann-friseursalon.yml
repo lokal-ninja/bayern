@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 49.574631600000004
 longitude: 10.9849876
-postcode: 91058
+postcode: "91058"
 city: Erlangen
 street: "Fürther Straße"
 housenumber: 14

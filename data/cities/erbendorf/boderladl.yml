@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 49.800951100000006
 longitude: 12.076885800000001
-postcode: 92681
+postcode: "92681"
 city: Erbendorf
 street: "Wildenreuth A"
 housenumber: 21

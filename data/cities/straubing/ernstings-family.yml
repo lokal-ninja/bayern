@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.8755007
 longitude: 12.574196800000001
-postcode: 94315
+postcode: "94315"
 city: Straubing
 street: "Hebbelstraße"
 housenumber: 14

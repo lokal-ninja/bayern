@@ -3,7 +3,7 @@ type: way
 shop: Raumausstattung
 latitude: 48.3771354
 longitude: 10.8407888
-postcode: 86391
+postcode: "86391"
 city: Stadtbergen
 street: "Daimlerstraße"
 housenumber: 10

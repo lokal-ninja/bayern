@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 49.7106226
 longitude: 9.185940800000001
-postcode: 63924
+postcode: "63924"
 city: Rüdenau
 street: "Hauptstraße"
 housenumber: 1-5

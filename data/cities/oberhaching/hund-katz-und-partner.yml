@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 48.0194272
 longitude: 11.586129300000001
-postcode: 82041
+postcode: "82041"
 city: Oberhaching
 street: "Bahnhofstraße"
 housenumber: 31

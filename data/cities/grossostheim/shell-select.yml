@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.9254473
 longitude: 9.0791223
-postcode: 63762
+postcode: "63762"
 city: Großostheim
 street: "Aschaffenburger Straße"
 housenumber: 34

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.187137
 longitude: 11.2548291
-postcode: 82256
+postcode: "82256"
 city: Fürstenfeldbruck
 street: "Maisacher Straße"
 housenumber: 31

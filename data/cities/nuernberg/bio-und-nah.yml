@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.4504948
 longitude: 11.061966400000001
-postcode: 90429
+postcode: "90429"
 city: Nürnberg
 street: "Rosenaustraße"
 housenumber: 16

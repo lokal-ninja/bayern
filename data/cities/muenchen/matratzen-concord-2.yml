@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 48.1149995
 longitude: 11.5794948
-postcode: 81539
+postcode: "81539"
 city: München
 street: "Tegernseer Landstraße"
 housenumber: 69

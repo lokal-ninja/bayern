@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.427714
 longitude: 11.062272
-postcode: 90441
+postcode: "90441"
 city: Nürnberg
 street: "Heisterstraße"
 housenumber: 1d

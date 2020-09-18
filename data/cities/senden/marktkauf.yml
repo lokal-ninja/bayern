@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.331577900000006
 longitude: 10.0373166
-postcode: 89250
+postcode: "89250"
 city: Senden
 street: "Berliner Straße"
 housenumber: 13

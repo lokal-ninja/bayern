@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.4863045
 longitude: 11.5033591
-postcode: 85304
+postcode: "85304"
 city: Ilmmünster
 street: "Raiffeisenstraße"
 housenumber: 4

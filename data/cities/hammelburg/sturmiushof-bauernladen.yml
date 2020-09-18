@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 50.1317132
 longitude: 9.853431800000001
-postcode: 97762
+postcode: "97762"
 city: Hammelburg
 street: "Am Galgenberg"
 housenumber: 14

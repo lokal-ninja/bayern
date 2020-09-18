@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 48.595985600000006
 longitude: 13.7932006
-postcode: 94110
+postcode: "94110"
 city: Wegscheid
 street: "Jahnstraße"
 housenumber: 39

@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 47.8905212
 longitude: 11.7221913
-postcode: 83607
+postcode: "83607"
 city: Holzkirchen
 street: "Bergfeldstraße"
 housenumber: 15

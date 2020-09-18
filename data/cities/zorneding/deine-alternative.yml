@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.090694600000006
 longitude: 11.8293306
-postcode: 85604
+postcode: "85604"
 city: Zorneding
 street: "Anzinger Straße"
 housenumber: 3

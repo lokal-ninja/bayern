@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.0811639
 longitude: 10.8582119
-postcode: 86916
+postcode: "86916"
 city: Kaufering
 street: "Viktor-Frankl-Straße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 49.7955132
 longitude: 9.935468100000001
-postcode: 97070
+postcode: "97070"
 city: Würzburg
 street: "Theaterstraße"
 housenumber: 15

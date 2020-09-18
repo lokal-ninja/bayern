@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 49.630218600000006
 longitude: 10.9383342
-postcode: 91056
+postcode: "91056"
 city: Erlangen
 street: "Faust-von-Stromberg-Straße"
 housenumber: 17

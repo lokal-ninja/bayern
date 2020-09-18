@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 49.0059933
 longitude: 12.0882128
-postcode: 93051
+postcode: "93051"
 city: Regensburg
 street: "Hofgartenweg"
 housenumber: 10

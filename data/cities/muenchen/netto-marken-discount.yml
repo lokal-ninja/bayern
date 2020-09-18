@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.201979800000004
 longitude: 11.5889112
-postcode: 80939
+postcode: "80939"
 city: München
 street: "Heidemannstraße"
 housenumber: 17

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.1622506
 longitude: 11.8431034
-postcode: 95234
+postcode: "95234"
 city: Sparneck
 street: "Münchberger Straße"
 housenumber: 8

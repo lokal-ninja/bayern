@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.0187332
 longitude: 12.142474900000002
-postcode: 93055
+postcode: "93055"
 city: Regensburg
 street: "Auweg"
 housenumber: 24

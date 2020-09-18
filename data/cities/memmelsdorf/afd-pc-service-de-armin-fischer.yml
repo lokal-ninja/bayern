@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 49.9348922
 longitude: 10.958067900000001
-postcode: 96117
+postcode: "96117"
 city: Memmelsdorf
 street: "Hauptstraße"
 housenumber: 70

@@ -3,7 +3,7 @@ type: way
 shop: Bestattungen
 latitude: 48.1372481
 longitude: 11.363521700000002
-postcode: 82110
+postcode: "82110"
 city: Germering
 street: "Augsburger Straße"
 housenumber: 18

@@ -3,7 +3,7 @@ type: node
 shop: Taschen & Koffer
 latitude: 48.134779900000005
 longitude: 11.569411500000001
-postcode: 80331
+postcode: "80331"
 city: München
 street: "Sendlinger Straße"
 housenumber: 33

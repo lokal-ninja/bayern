@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.2623715
 longitude: 10.981669400000001
-postcode: 86415
+postcode: "86415"
 city: Mering
 street: "Hermann-Löns-Straße"
 housenumber: 1

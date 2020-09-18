@@ -3,7 +3,7 @@ type: node
 shop: E-Zigaretten
 latitude: 49.437251800000006
 longitude: 11.0493617
-postcode: 90439
+postcode: "90439"
 city: Nürnberg
 street: "Schweinauer Straße"
 housenumber: 56

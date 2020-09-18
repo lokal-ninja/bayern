@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.1489939
 longitude: 11.552276
-postcode: 80335
+postcode: "80335"
 city: München
 street: "Nymphenburger Straße"
 housenumber: 24

@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 49.475712300000005
 longitude: 11.7895939
-postcode: 92284
+postcode: "92284"
 city: Poppenricht
 street: "Neue Heimat"
 housenumber: 40

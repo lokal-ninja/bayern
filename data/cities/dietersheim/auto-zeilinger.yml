@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.5586263
 longitude: 10.541231300000002
-postcode: 91463
+postcode: "91463"
 city: Dietersheim
 street: "Am Baumgarten"
 housenumber: 3

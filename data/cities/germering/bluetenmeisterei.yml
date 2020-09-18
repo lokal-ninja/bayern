@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 48.127766300000005
 longitude: 11.3661016
-postcode: 82110
+postcode: "82110"
 city: Germering
 street: "Untere Bahnhofstraße"
 housenumber: 55

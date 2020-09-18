@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.1803541
 longitude: 11.510818
-postcode: 80992
+postcode: "80992"
 city: München
 street: "Baubergerstraße"
 housenumber: 9

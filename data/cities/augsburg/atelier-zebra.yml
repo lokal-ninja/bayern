@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 48.3831149
 longitude: 10.875137800000001
-postcode: 86154
+postcode: "86154"
 city: Augsburg
 street: "Neuhäuserstraße"
 housenumber: 19

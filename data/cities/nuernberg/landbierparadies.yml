@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 49.442744600000005
 longitude: 11.0874336
-postcode: 90459
+postcode: "90459"
 city: Nürnberg
 street: "Galgenhofstraße"
 housenumber: 60

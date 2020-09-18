@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.459485400000005
 longitude: 11.098983
-postcode: 90489
+postcode: "90489"
 city: Nürnberg
 street: "Sulzbacher Straße"
 housenumber: 81

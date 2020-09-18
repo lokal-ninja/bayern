@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.9664627
 longitude: 11.533289600000002
-postcode: 95500
+postcode: "95500"
 city: Heinersreuth
 street: "Postweg"
 housenumber: 1

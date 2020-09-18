@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.928479800000005
 longitude: 11.2991597
-postcode: 96142
+postcode: "96142"
 city: Hollfeld
 street: "Flurstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.0445361
 longitude: 10.234094200000001
-postcode: 97421
+postcode: "97421"
 city: Schweinfurt
 street: "Markt"
 housenumber: 13

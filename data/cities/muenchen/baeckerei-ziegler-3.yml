@@ -1,12 +1,12 @@
-id: 741558334
+id: 719808972
 type: node
 shop: Bäckerei
-latitude: 48.1800014
-longitude: 11.5128611
-postcode: 80992
+latitude: 48.170177800000005
+longitude: 11.5345805
+postcode: "80637"
 city: München
-street: "Dachauer Straße"
-housenumber: 415
-phone: ""
-opening_hours: "Mo-Fr 06:00-19:30; Sa 06:00-17:00; So 08:00-17:00"
-website: ""
+street: "Franz-Marc-Straße"
+housenumber: 6
+phone: "+49 89 15923013"
+opening_hours: "Mo-Fr 06:00-18:30; Sa 06:30-13:00; So 08:00-11:00"
+website: "http://www.baeckerei-ziegler.de/filialen/franzmarc.php"

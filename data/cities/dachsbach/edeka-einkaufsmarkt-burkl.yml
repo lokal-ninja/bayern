@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.636059100000004
 longitude: 10.7033366
-postcode: 91462
+postcode: "91462"
 city: Dachsbach
 street: "Neustädter Straße"
 housenumber: 19

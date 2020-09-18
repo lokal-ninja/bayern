@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.172466
 longitude: 10.838334600000001
-postcode: 86836
+postcode: "86836"
 city: Untermeitingen
 street: "Lagerlechfelder Straße"
 housenumber: 50

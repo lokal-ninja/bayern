@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.533612000000005
 longitude: 11.8027622
-postcode: 92256
+postcode: "92256"
 city: Hahnbach
 street: "Hauptstraße"
 housenumber: 37

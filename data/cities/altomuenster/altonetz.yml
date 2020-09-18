@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.3877406
 longitude: 11.256722
-postcode: 85250
+postcode: "85250"
 city: Altomünster
 street: ""
 housenumber: 1

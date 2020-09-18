@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.8793455
 longitude: 11.699424700000002
-postcode: 83607
+postcode: "83607"
 city: Holzkirchen
 street: "Münchner Straße"
 housenumber: 7d

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.863913100000005
 longitude: 10.2273923
-postcode: 97332
+postcode: "97332"
 city: Volkach
 street: "Oberer Markt"
 housenumber: 6

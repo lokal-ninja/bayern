@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 48.836109400000005
 longitude: 13.639974100000002
-postcode: 94146
+postcode: "94146"
 city: Hinterschmiding
 street: "Hauptstraße"
 housenumber: 22

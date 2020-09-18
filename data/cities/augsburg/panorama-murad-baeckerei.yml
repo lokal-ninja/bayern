@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.3575913
 longitude: 10.887757
-postcode: 86159
+postcode: "86159"
 city: Augsburg
 street: "Gögginger Straße"
 housenumber: 35

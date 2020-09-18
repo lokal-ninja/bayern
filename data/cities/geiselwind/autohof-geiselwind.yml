@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.768448400000004
 longitude: 10.4713951
-postcode: 96160
+postcode: "96160"
 city: Geiselwind
 street: "Scheinfelder Straße"
 housenumber: 12-23

@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 49.913919500000006
 longitude: 10.903321400000001
-postcode: 96052
+postcode: "96052"
 city: Bamberg
 street: "Kirschäckerstraße"
 housenumber: 35

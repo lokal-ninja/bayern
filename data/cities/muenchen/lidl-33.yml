@@ -1,12 +1,12 @@
-id: 207916563
+id: 160488654
 type: way
 shop: Supermarkt
-latitude: 48.1164987
-longitude: 11.5321096
-postcode: 81369
+latitude: 48.191988200000004
+longitude: 11.5035238
+postcode: "80993"
 city: München
-street: "Albert-Roßhaupter-Straße"
-housenumber: 37
+street: "Dachauer Straße"
+housenumber: 380
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: ""
+opening_hours: "Mo-Sa 08:00-20:00"
+website: "https://www.lidl.de/"

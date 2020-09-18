@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 49.5971083
 longitude: 11.008027400000001
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Universitätsstraße"
 housenumber: 6

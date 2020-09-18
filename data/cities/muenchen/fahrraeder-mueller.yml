@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.1157594
 longitude: 11.6952359
-postcode: 81827
+postcode: "81827"
 city: München
 street: "Bahnstraße"
 housenumber: 1

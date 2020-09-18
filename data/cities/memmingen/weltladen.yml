@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.9848408
 longitude: 10.1806693
-postcode: 87700
+postcode: "87700"
 city: Memmingen
 street: "Weinmarkt"
 housenumber: 12

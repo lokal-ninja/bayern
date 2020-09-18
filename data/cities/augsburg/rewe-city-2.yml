@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.375266700000005
 longitude: 10.895403400000001
-postcode: 86152
+postcode: "86152"
 city: Augsburg
 street: "Frauentorstraße"
 housenumber: 39

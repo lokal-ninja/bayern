@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.7181311
 longitude: 11.061755000000002
-postcode: 91301
+postcode: "91301"
 city: Forchheim
 street: "Paradeplatz"
 housenumber: 15

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.798850300000005
 longitude: 12.158520500000002
-postcode: 92670
+postcode: "92670"
 city: Windischeschenbach
 street: "Hauptstraße"
 housenumber: 69

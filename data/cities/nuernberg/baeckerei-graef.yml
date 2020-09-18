@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.52800310000001
 longitude: 11.0111098
-postcode: 90427
+postcode: "90427"
 city: Nürnberg
 street: "Großgründlacher Hauptstraße"
 housenumber: 12

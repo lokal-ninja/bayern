@@ -3,7 +3,7 @@ type: node
 shop: Sammler
 latitude: 49.4799504
 longitude: 10.9874734
-postcode: 90762
+postcode: "90762"
 city: Fürth
 street: "Gustavstraße"
 housenumber: 58

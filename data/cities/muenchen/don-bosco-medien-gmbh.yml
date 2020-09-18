@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.1243343
 longitude: 11.593026
-postcode: 81669
+postcode: "81669"
 city: München
 street: "Sieboldstraße"
 housenumber: 11

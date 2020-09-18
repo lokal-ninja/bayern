@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.0694371
 longitude: 10.9610567
-postcode: 96250
+postcode: "96250"
 city: Ebensfeld
 street: "Hauptstraße"
 housenumber: 73

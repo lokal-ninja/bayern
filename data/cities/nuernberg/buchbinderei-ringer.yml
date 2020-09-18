@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 49.452357000000006
 longitude: 11.073167300000001
-postcode: 90403
+postcode: "90403"
 city: Nürnberg
 street: "Obere Wörthstraße"
 housenumber: 13

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.017602600000004
 longitude: 11.7125748
-postcode: 85635
+postcode: "85635"
 city: Höhenkirchen-Siegertsbrunn
 street: "Rosenheimer Straße"
 housenumber: 13

@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 49.1965073
 longitude: 11.1864609
-postcode: 91161
+postcode: "91161"
 city: Hilpoltstein
 street: "Allersberger Straße"
 housenumber: 13

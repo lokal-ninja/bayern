@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 49.66988610000001
 longitude: 10.058966400000001
-postcode: 97199
+postcode: "97199"
 city: Ochsenfurt
 street: "Würzburger Straße"
 housenumber: 20

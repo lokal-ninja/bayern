@@ -3,7 +3,7 @@ type: way
 shop: Nähzubehör
 latitude: 48.5465973
 longitude: 13.222578500000001
-postcode: 94496
+postcode: "94496"
 city: Ortenburg
 street: "Marktplatz"
 housenumber: 8

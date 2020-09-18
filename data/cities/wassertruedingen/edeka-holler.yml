@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.0369563
 longitude: 10.6000929
-postcode: 91717
+postcode: "91717"
 city: Wassertrüdingen
 street: "Oettinger Straße"
 housenumber: 46

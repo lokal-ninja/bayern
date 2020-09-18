@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.4406089
 longitude: 11.0380658
-postcode: 90439
+postcode: "90439"
 city: Nürnberg
 street: "Rothenburger Straße"
 housenumber: 253

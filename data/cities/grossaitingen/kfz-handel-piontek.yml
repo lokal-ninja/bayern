@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.230752100000004
 longitude: 10.7832503
-postcode: 86845
+postcode: "86845"
 city: Großaitingen
 street: "Augsburger Straße"
 housenumber: 20

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.371248300000005
 longitude: 13.128163800000001
-postcode: 94149
+postcode: "94149"
 city: Kößlarn
 street: "Ragern"
 housenumber: 22

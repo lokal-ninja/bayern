@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 48.3728953
 longitude: 10.9106351
-postcode: 86153
+postcode: "86153"
 city: Augsburg
 street: "Lechhauser Straße"
 housenumber: 15

@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 49.0694911
 longitude: 10.3206421
-postcode: 91550
+postcode: "91550"
 city: Dinkelsbühl
 street: "Altrathausplatz"
 housenumber: 1a

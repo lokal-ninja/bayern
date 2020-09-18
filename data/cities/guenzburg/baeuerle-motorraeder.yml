@@ -3,7 +3,7 @@ type: node
 shop: Motorrad
 latitude: 48.458852400000005
 longitude: 10.279805300000001
-postcode: 89312
+postcode: "89312"
 city: Günzburg
 street: "Bahnhofstraße"
 housenumber: 8

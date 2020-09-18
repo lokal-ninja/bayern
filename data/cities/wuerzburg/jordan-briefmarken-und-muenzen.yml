@@ -3,7 +3,7 @@ type: node
 shop: Sammler
 latitude: 49.794994200000005
 longitude: 9.9348291
-postcode: 97070
+postcode: "97070"
 city: Würzburg
 street: "Spiegelstraße"
 housenumber: 23

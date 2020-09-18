@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.8058823
 longitude: 10.298318700000001
-postcode: 87463
+postcode: "87463"
 city: Dietmannsried
 street: "Welserstraße"
 housenumber: 8

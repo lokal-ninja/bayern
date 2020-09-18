@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.597780900000004
 longitude: 11.0031257
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Marktplatz"
 housenumber: 5

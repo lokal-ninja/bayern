@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.0200692
 longitude: 12.0894385
-postcode: 93047
+postcode: "93047"
 city: Regensburg
 street: "Arnulfsplatz"
 housenumber: 9

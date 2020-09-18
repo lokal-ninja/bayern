@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.4962589
 longitude: 11.833809
-postcode: 92256
+postcode: "92256"
 city: Hahnbach
 street: "Am Fischweg"
 housenumber: 12

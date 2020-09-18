@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 47.543536100000004
 longitude: 9.685207100000001
-postcode: 88131
+postcode: "88131"
 city: Lindau (Bodensee)
 street: "Römerschanze"
 housenumber: 1

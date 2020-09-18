@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 47.9561221
 longitude: 11.363880700000001
-postcode: 82335
+postcode: "82335"
 city: Berg
 street: "Marienstraße"
 housenumber: 2

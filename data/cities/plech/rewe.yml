@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.662891800000004
 longitude: 11.4709067
-postcode: 91287
+postcode: "91287"
 city: Plech
 street: "Gewerbepark Schönthal"
 housenumber: 4

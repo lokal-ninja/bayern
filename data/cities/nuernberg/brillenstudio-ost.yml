@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.466495200000004
 longitude: 11.163095100000001
-postcode: 90482
+postcode: "90482"
 city: Nürnberg
 street: "Moritzbergstraße"
 housenumber: 45

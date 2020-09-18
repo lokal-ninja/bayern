@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.795556600000005
 longitude: 9.9338168
-postcode: 97070
+postcode: "97070"
 city: Würzburg
 street: "Eichhornstraße"
 housenumber: 14

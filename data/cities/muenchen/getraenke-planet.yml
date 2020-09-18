@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.076481300000005
 longitude: 11.5261096
-postcode: 81479
+postcode: "81479"
 city: München
 street: "Herterichstraße"
 housenumber: 8

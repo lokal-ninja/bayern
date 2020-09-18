@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.257942400000005
 longitude: 10.965301
-postcode: 96450
+postcode: "96450"
 city: Coburg
 street: "Steingasse"
 housenumber: 2

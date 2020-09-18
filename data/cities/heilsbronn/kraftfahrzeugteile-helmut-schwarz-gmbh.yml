@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 49.345648000000004
 longitude: 10.794987800000001
-postcode: 91560
+postcode: "91560"
 city: Heilsbronn
 street: "Fürther Straße"
 housenumber: 40

@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 47.9615236
 longitude: 12.611031
-postcode: 83301
+postcode: "83301"
 city: Traunreut
 street: "Waginger Straße"
 housenumber: 5

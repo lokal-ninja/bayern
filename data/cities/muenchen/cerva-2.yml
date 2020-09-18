@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.126237700000004
 longitude: 11.5981077
-postcode: 81667
+postcode: "81667"
 city: München
 street: "Rosenheimer Straße"
 housenumber: 119

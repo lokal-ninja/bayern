@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.44375
 longitude: 11.1251174
-postcode: 90480
+postcode: "90480"
 city: Nürnberg
 street: "Zerzabelshofer Hauptstraße"
 housenumber: 27

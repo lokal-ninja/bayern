@@ -3,7 +3,7 @@ type: way
 shop: Textil
 latitude: 49.788091800000004
 longitude: 9.941972
-postcode: 97072
+postcode: "97072"
 city: Würzburg
 street: "Friedenstraße"
 housenumber: 7

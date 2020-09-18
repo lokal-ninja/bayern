@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.129536300000005
 longitude: 11.5972094
-postcode: 81667
+postcode: "81667"
 city: München
 street: "Kellerstraße"
 housenumber: 45

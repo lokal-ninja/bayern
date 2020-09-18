@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.066333
 longitude: 11.3798273
-postcode: 82131
+postcode: "82131"
 city: Gauting
 street: "Hauptplatz"
 housenumber: 2

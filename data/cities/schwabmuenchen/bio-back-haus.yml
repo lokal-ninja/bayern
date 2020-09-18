@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.1776854
 longitude: 10.7600643
-postcode: 86830
+postcode: "86830"
 city: Schwabmünchen
 street: "Ferdinand-Wagner-Straße"
 housenumber: 17

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.106412000000006
 longitude: 11.4083093
-postcode: 95326
+postcode: "95326"
 city: Kulmbach
 street: "Seidenhofer Straße"
 housenumber: 20

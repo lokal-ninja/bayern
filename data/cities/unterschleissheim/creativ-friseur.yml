@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.2876203
 longitude: 11.582533100000001
-postcode: 85716
+postcode: "85716"
 city: Unterschleißheim
 street: "Alexander-Pachmann-Straße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Teppiche
 latitude: 49.6662356
 longitude: 10.0686003
-postcode: 97199
+postcode: "97199"
 city: Ochsenfurt
 street: "Jahnstraße"
 housenumber: 9

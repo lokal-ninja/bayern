@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.59233690000001
 longitude: 11.0276692
-postcode: 91052
+postcode: "91052"
 city: Erlangen
 street: "Allee am Röthelheimpark"
 housenumber: 11

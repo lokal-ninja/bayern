@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.3355301
 longitude: 11.439998800000001
-postcode: 85244
+postcode: "85244"
 city: Röhrmoos
 street: "Philipp-Reis-Straße"
 housenumber: 3

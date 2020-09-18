@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.464411500000004
 longitude: 11.849586100000002
-postcode: 92224
+postcode: "92224"
 city: Amberg
 street: "Bayreuther Straße"
 housenumber: 51

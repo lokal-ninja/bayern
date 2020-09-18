@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.197554000000004
 longitude: 11.7982258
-postcode: 85652
+postcode: "85652"
 city: Pliening
 street: "Geltinger Straße"
 housenumber: 4

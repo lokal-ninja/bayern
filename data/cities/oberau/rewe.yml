@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.560231900000005
 longitude: 11.128021700000001
-postcode: 82496
+postcode: "82496"
 city: Oberau
 street: "Ettaler Straße"
 housenumber: 18f

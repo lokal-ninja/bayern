@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 49.7389675
 longitude: 10.164231000000001
-postcode: 97318
+postcode: "97318"
 city: Kitzingen
 street: "Schrannenstraße"
 housenumber: 17

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.0030445
 longitude: 12.386994900000001
-postcode: 93086
+postcode: "93086"
 city: Wörth an der Donau
 street: "Regensburger Straße"
 housenumber: 47

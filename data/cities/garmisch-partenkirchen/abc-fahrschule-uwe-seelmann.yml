@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.492785100000006
 longitude: 11.101644400000001
-postcode: 82467
+postcode: "82467"
 city: Garmisch-Partenkirchen
 street: "Bahnhofstraße"
 housenumber: 16

@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 49.307673
 longitude: 10.5694873
-postcode: 91522
+postcode: "91522"
 city: Ansbach
 street: "Schöneckerstraße"
 housenumber: 2

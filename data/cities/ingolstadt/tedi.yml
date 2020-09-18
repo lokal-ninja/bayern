@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 48.7382478
 longitude: 11.4380691
-postcode: 85051
+postcode: "85051"
 city: Ingolstadt
 street: "Münchener Straße"
 housenumber: 142

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.3188326
 longitude: 11.688265900000001
-postcode: 85375
+postcode: "85375"
 city: Neufahrn bei Freising
 street: "Dorfstraße"
 housenumber: 11

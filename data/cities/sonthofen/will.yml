@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 47.5114302
 longitude: 10.2775721
-postcode: 87527
+postcode: "87527"
 city: Sonthofen
 street: "Johann-Althaus-Straße"
 housenumber: 3

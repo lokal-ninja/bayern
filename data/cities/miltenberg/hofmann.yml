@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 49.70182500000001
 longitude: 9.258583100000001
-postcode: 63897
+postcode: "63897"
 city: Miltenberg
 street: "Hauptstraße"
 housenumber: 47

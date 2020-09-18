@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 49.509177
 longitude: 10.888762
-postcode: 90587
+postcode: "90587"
 city: Veitsbronn
 street: "Weihergasse"
 housenumber: 6

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.9638884
 longitude: 11.5993992
-postcode: 95448
+postcode: "95448"
 city: Bayreuth
 street: "Weiherstraße"
 housenumber: 27

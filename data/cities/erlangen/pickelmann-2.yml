@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.566486600000005
 longitude: 11.000503700000001
-postcode: 91058
+postcode: "91058"
 city: Erlangen
 street: "Bunsenstraße"
 housenumber: 3

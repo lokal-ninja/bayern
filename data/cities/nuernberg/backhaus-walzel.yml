@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.461107000000005
 longitude: 11.087321000000001
-postcode: 90409
+postcode: "90409"
 city: Nürnberg
 street: "Pirckheimerstraße"
 housenumber: 98

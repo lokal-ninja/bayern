@@ -3,7 +3,7 @@ type: node
 shop: Leder
 latitude: 48.1383966
 longitude: 11.582719500000001
-postcode: 80539
+postcode: "80539"
 city: München
 street: "Maximilianstraße"
 housenumber: 28

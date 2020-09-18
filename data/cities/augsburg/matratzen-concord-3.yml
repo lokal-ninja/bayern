@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 48.355206200000005
 longitude: 10.940548900000001
-postcode: 86163
+postcode: "86163"
 city: Augsburg
 street: "Friedberger Straße"
 housenumber: 109

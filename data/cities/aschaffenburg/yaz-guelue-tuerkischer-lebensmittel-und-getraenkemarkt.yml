@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.9850433
 longitude: 9.150767700000001
-postcode: 63741
+postcode: "63741"
 city: Aschaffenburg
 street: "Stengerstraße"
 housenumber: 15

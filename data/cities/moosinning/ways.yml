@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.276736
 longitude: 11.7925485
-postcode: 85452
+postcode: "85452"
 city: Moosinning
 street: "Hauptstraße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 49.6873489
 longitude: 11.6373855
-postcode: 91275
+postcode: "91275"
 city: Auerbach i.d.OPf.
 street: "Bernreuther Straße"
 housenumber: 8

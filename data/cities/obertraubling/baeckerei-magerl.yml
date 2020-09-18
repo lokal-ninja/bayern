@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.9656151
 longitude: 12.166832000000001
-postcode: 93083
+postcode: "93083"
 city: Obertraubling
 street: "Landshuter Straße"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.7665074
 longitude: 11.4226205
-postcode: 85049
+postcode: "85049"
 city: Ingolstadt
 street: "Harderstraße"
 housenumber: 15

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.674098400000005
 longitude: 12.1519887
-postcode: 92637
+postcode: "92637"
 city: Weiden i.d.OPf.
 street: "Siechenstraße"
 housenumber: 13

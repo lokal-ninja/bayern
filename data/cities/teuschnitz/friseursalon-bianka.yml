@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.3982534
 longitude: 11.381253000000001
-postcode: 96358
+postcode: "96358"
 city: Teuschnitz
 street: "Rappoltengrüner Straße"
 housenumber: 2

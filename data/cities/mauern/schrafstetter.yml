@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.515447800000004
 longitude: 11.897563700000001
-postcode: 85419
+postcode: "85419"
 city: Mauern
 street: "Hauptstraße"
 housenumber: 8

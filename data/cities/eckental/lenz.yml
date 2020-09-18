@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.585047800000005
 longitude: 11.1832767
-postcode: 90542
+postcode: "90542"
 city: Eckental
 street: "Jasminstraße"
 housenumber: 18

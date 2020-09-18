@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.2871706
 longitude: 10.892715
-postcode: 86343
+postcode: "86343"
 city: Königsbrunn
 street: "Germanenstraße"
 housenumber: 17

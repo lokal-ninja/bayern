@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.4603635
 longitude: 11.1302497
-postcode: 90482
+postcode: "90482"
 city: Nürnberg
 street: "Mögeldorfer Hauptstraße"
 housenumber: 49

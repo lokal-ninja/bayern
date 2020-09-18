@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.1604198
 longitude: 10.8089001
-postcode: 86836
+postcode: "86836"
 city: Untermeitingen
 street: "Lechfelder Straße"
 housenumber: 18

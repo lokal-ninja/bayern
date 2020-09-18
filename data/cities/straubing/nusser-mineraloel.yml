@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.873421900000004
 longitude: 12.575618700000001
-postcode: 94315
+postcode: "94315"
 city: Straubing
 street: ""
 housenumber: 

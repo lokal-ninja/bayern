@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.0247023
 longitude: 12.1747618
-postcode: 93105
+postcode: "93105"
 city: Tegernheim
 street: "Hauptstraße"
 housenumber: 69

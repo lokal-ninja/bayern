@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.2577263
 longitude: 10.9647451
-postcode: 96450
+postcode: "96450"
 city: Coburg
 street: "Ketschengasse"
 housenumber: 5

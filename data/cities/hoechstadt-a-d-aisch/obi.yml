@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.696225600000005
 longitude: 10.8151709
-postcode: 91315
+postcode: "91315"
 city: Höchstadt a.d.Aisch
 street: "Böhmerwaldstraße"
 housenumber: 23

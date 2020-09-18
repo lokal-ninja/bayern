@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.3670021
 longitude: 11.648799
-postcode: 95138
+postcode: "95138"
 city: Bad Steben
 street: "Frankenwaldstraße"
 housenumber: 2

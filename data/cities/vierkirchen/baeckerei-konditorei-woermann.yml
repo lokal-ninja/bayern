@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.3656348
 longitude: 11.4592478
-postcode: 85256
+postcode: "85256"
 city: Vierkirchen
 street: "Gröbmaierstraße"
 housenumber: 3

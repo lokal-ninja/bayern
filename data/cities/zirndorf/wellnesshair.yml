@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.4434004
 longitude: 10.958429800000001
-postcode: 90513
+postcode: "90513"
 city: Zirndorf
 street: "Bahnhofstraße"
 housenumber: 30a

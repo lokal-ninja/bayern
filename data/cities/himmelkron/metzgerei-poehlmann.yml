@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.050969800000004
 longitude: 11.6015671
-postcode: 95502
+postcode: "95502"
 city: Himmelkron
 street: "Am Main"
 housenumber: 29

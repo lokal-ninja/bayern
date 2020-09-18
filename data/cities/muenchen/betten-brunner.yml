@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 48.097976100000004
 longitude: 11.498905
-postcode: 81476
+postcode: "81476"
 city: München
 street: "Forstenrieder Allee"
 housenumber: 33

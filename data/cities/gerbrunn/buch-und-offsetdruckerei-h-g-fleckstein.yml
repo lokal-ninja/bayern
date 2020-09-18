@@ -3,7 +3,7 @@ type: way
 shop: Kopieren
 latitude: 49.782557600000004
 longitude: 9.982749400000001
-postcode: 97218
+postcode: "97218"
 city: Gerbrunn
 street: "Mühlweg"
 housenumber: 34

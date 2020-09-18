@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.0009797
 longitude: 12.404005300000001
-postcode: 83119
+postcode: "83119"
 city: Obing
 street: "Wasserburger Straße"
 housenumber: 17

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.668825500000004
 longitude: 12.149276700000001
-postcode: 92637
+postcode: "92637"
 city: Weiden i.d.OPf.
 street: "Sandstraße"
 housenumber: 12

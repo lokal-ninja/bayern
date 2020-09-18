@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 50.5203615
 longitude: 10.1464732
-postcode: 97650
+postcode: "97650"
 city: Fladungen
 street: "Ludwigstraße"
 housenumber: 2

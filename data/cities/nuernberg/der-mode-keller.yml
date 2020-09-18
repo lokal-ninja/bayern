@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.451706800000004
 longitude: 11.079751900000002
-postcode: 90402
+postcode: "90402"
 city: Nürnberg
 street: "Pfarrgasse"
 housenumber: 9

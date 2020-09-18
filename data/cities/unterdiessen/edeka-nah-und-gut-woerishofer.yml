@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.9686955
 longitude: 10.821195900000001
-postcode: 86944
+postcode: "86944"
 city: Unterdießen
 street: "Flurstraße"
 housenumber: 1

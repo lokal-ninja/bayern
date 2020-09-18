@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.773456700000004
 longitude: 11.390038500000001
-postcode: 85057
+postcode: "85057"
 city: Ingolstadt
 street: "Am Westpark"
 housenumber: 6

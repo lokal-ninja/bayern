@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 48.455736200000004
 longitude: 10.277801100000001
-postcode: 89312
+postcode: "89312"
 city: Günzburg
 street: "Marktplatz"
 housenumber: 5

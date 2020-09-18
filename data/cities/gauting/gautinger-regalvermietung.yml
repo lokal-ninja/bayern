@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.0697927
 longitude: 11.377635100000001
-postcode: 82131
+postcode: "82131"
 city: Gauting
 street: "Hubert-Deschler-Straße"
 housenumber: 1

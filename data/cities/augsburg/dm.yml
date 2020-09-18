@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.3665937
 longitude: 10.896387500000001
-postcode: 86150
+postcode: "86150"
 city: Augsburg
 street: "Bürgermeister-Fischer-Straße"
 housenumber: 3

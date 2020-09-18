@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 48.1217386
 longitude: 11.4514017
-postcode: 82166
+postcode: "82166"
 city: Gräfelfing
 street: "Lochhamer Schlag"
 housenumber: 15

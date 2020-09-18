@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.1149301
 longitude: 11.569669500000002
-postcode: 81543
+postcode: "81543"
 city: München
 street: "Konradinstraße"
 housenumber: 16

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.30576000000001
 longitude: 10.588658
-postcode: 91522
+postcode: "91522"
 city: Ansbach
 street: "Ritter-von-Lang-Allee"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.9705336
 longitude: 10.8853845
-postcode: 96149
+postcode: "96149"
 city: Breitengüßbach
 street: "Bamberger Straße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 48.2724649
 longitude: 10.976379900000001
-postcode: 86415
+postcode: "86415"
 city: Mering
 street: "Gaußring"
 housenumber: 34

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.229851200000006
 longitude: 12.6185805
-postcode: 84576
+postcode: "84576"
 city: Teising
 street: "Gewerbering"
 housenumber: 12

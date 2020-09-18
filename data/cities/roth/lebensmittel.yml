@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.2404099
 longitude: 11.077484
-postcode: 91154
+postcode: "91154"
 city: Roth
 street: "Ohmstraße"
 housenumber: 18

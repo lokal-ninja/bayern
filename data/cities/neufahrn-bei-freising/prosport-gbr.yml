@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.3162085
 longitude: 11.6870793
-postcode: 85375
+postcode: "85375"
 city: Neufahrn bei Freising
 street: "Neufahrner Straße"
 housenumber: 12

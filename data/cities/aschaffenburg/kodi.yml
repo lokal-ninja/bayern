@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsartikel
 latitude: 49.974499900000005
 longitude: 9.148415
-postcode: 63739
+postcode: "63739"
 city: Aschaffenburg
 street: "Sandgasse"
 housenumber: 23

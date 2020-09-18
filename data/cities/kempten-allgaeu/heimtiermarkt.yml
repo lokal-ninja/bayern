@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 47.742195300000006
 longitude: 10.305191500000001
-postcode: 87439
+postcode: "87439"
 city: Kempten (Allgäu)
 street: "Gewerbestraße"
 housenumber: 8

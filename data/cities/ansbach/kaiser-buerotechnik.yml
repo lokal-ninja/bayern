@@ -3,7 +3,7 @@ type: way
 shop: Schreibwaren
 latitude: 49.2923313
 longitude: 10.611661
-postcode: 91522
+postcode: "91522"
 city: Ansbach
 street: "Industriestraße"
 housenumber: 9

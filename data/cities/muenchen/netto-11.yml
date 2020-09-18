@@ -1,9 +1,9 @@
 id: 1469151256
 type: node
 shop: Supermarkt
-latitude: 48.1205986
-longitude: 11.6659655
-postcode: 81825
+latitude: 48.1206657
+longitude: 11.6659628
+postcode: "81825"
 city: München
 street: "Wasserburger Landstraße"
 housenumber: 8

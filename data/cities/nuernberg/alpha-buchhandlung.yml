@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 49.4491935
 longitude: 11.0756525
-postcode: 90402
+postcode: "90402"
 city: Nürnberg
 street: "Kornmarkt"
 housenumber: 6

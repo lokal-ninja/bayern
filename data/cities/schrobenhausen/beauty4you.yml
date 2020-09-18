@@ -3,7 +3,7 @@ type: way
 shop: Kosmetik
 latitude: 48.562829900000004
 longitude: 11.2641554
-postcode: 86529
+postcode: "86529"
 city: Schrobenhausen
 street: "Lenbachstraße"
 housenumber: 8

@@ -1,4 +1,4 @@
 ---
-title: "ALDI Süd"
+title: "Aldi Süd"
 url: /wuerzburg/aldi-sued/
 ---

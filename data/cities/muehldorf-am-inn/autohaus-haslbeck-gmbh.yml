@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.2474774
 longitude: 12.546610500000002
-postcode: 84453
+postcode: "84453"
 city: Mühldorf am Inn
 street: "Töginger Straße"
 housenumber: 156

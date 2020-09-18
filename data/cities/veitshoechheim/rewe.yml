@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.822968200000005
 longitude: 9.8733698
-postcode: 97209
+postcode: "97209"
 city: Veitshöchheim
 street: "Pont-l'Evêque-Allee"
 housenumber: 1

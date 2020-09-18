@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.735722100000004
 longitude: 11.604190800000001
-postcode: 85088
+postcode: "85088"
 city: Rockolding
 street: "Hofartmühlstraße"
 housenumber: 2

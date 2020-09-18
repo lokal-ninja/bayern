@@ -3,10 +3,10 @@ type: node
 shop: Kleidung
 latitude: 48.533786500000005
 longitude: 12.1518867
-postcode: 84028
+postcode: "84028"
 city: Landshut
 street: "Spiegelgasse"
 housenumber: 210
 phone: ""
 opening_hours: ""
-website: "www.männergwand.de"
+website: ""

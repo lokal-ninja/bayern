@@ -3,7 +3,7 @@ type: way
 shop: Modehaus
 latitude: 48.5633482
 longitude: 11.2644807
-postcode: 86529
+postcode: "86529"
 city: Schrobenhausen
 street: "Perger Platz"
 housenumber: 2

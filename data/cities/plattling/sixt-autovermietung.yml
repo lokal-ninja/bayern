@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.78217110000001
 longitude: 12.864734
-postcode: 94447
+postcode: "94447"
 city: Plattling
 street: "Straubinger Straße"
 housenumber: 36

@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 48.1554444
 longitude: 11.565820500000001
-postcode: 80798
+postcode: "80798"
 city: München
 street: "Josephsplatz"
 housenumber: 4

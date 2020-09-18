@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.4528754
 longitude: 11.0162197
-postcode: 90431
+postcode: "90431"
 city: Nürnberg
 street: "Leyher Straße"
 housenumber: 123

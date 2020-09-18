@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 48.101385300000004
 longitude: 11.5910797
-postcode: 81549
+postcode: "81549"
 city: München
 street: "Stadelheimer Straße"
 housenumber: 41

@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 49.7332766
 longitude: 9.9110192
-postcode: 97234
+postcode: "97234"
 city: Reichenberg
 street: "Unterer Weinberg"
 housenumber: 6a

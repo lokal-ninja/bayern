@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.453003
 longitude: 11.888206100000001
-postcode: 92224
+postcode: "92224"
 city: Amberg
 street: "Kleinraigering"
 housenumber: 44

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.1389073
 longitude: 11.5339343
-postcode: 80339
+postcode: "80339"
 city: München
 street: "Trappentreustraße"
 housenumber: 10

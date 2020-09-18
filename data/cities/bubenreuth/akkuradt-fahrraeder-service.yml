@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.621523
 longitude: 11.005057800000001
-postcode: 91088
+postcode: "91088"
 city: Bubenreuth
 street: "Mozartstraße"
 housenumber: 15

@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 47.519776
 longitude: 10.2718492
-postcode: 87527
+postcode: "87527"
 city: Sonthofen
 street: "Eichendorffstraße"
 housenumber: 15

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.912137900000005
 longitude: 10.647999700000002
-postcode: 87600
+postcode: "87600"
 city: Kaufbeuren
 street: "Wiesenstraße"
 housenumber: 19

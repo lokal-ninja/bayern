@@ -3,10 +3,10 @@ type: node
 shop: Bäckerei
 latitude: 49.4049552
 longitude: 11.0105149
-postcode: 90547
+postcode: "90547"
 city: Stein
 street: "Regelsbacher Straße"
 housenumber: 10
 phone: "+49 911 2529944"
-opening_hours: "Mo-Fr 06:00-18:00, Sa 06:00-17:00, Su 07:00-18:00"
+opening_hours: "Mo-Fr 06:00-18:00, Sa 06:00-14:00, Su 07:00-18:00"
 website: "https://www.schmidtgenuss.de"

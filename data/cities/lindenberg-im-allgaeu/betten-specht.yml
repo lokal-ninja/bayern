@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 47.6047268
 longitude: 9.8899674
-postcode: 88161
+postcode: "88161"
 city: Lindenberg im Allgäu
 street: "Hauptstraße"
 housenumber: 26

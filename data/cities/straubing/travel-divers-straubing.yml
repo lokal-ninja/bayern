@@ -3,7 +3,7 @@ type: way
 shop: Tauchen
 latitude: 48.879034600000004
 longitude: 12.5661983
-postcode: 94315
+postcode: "94315"
 city: Straubing
 street: "Max-Gerhaher-Straße"
 housenumber: 14

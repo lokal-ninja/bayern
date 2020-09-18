@@ -3,10 +3,10 @@ type: node
 shop: Fahrrad
 latitude: 48.1481963
 longitude: 11.5535294
-postcode: 80335
+postcode: "80335"
 city: München
 street: "Nymphenburger Straße"
 housenumber: 25
-phone: ""
-opening_hours: "Mo 12:30-19:00; Tu-We 10:30-19:00; Sa 10:30-15:30"
-website: ""
+phone: "+4989597074"
+opening_hours: "Tu-Fr 10:00-19:00; Sa 10:00-16:30"
+website: "https://www.secondhandsports.de"

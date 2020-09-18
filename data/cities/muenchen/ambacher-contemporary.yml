@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 48.1564166
 longitude: 11.5581247
-postcode: 80797
+postcode: "80797"
 city: München
 street: "Lothstraße"
 housenumber: 78 a

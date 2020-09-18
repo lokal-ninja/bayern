@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.3429694
 longitude: 10.7679004
-postcode: 96476
+postcode: "96476"
 city: Bad Rodach
 street: "Schleusinger Straße"
 housenumber: 2

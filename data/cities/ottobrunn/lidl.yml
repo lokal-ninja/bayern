@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.064573
 longitude: 11.652928500000002
-postcode: 85521
+postcode: "85521"
 city: Ottobrunn
 street: "Siemensstraße"
 housenumber: 2

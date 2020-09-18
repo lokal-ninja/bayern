@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 48.1343371
 longitude: 11.5762908
-postcode: 80469
+postcode: "80469"
 city: München
 street: "Frauenstraße"
 housenumber: 6

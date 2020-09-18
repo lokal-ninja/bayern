@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.259320300000006
 longitude: 12.526019300000002
-postcode: 84453
+postcode: "84453"
 city: Mühldorf am Inn
 street: "Dörflstraße"
 housenumber: 8

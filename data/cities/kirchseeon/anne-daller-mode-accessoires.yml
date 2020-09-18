@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 48.071137900000004
 longitude: 11.8892334
-postcode: 85614
+postcode: "85614"
 city: Kirchseeon
 street: "Marktplatz"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.176934200000005
 longitude: 11.600787500000001
-postcode: 80805
+postcode: "80805"
 city: München
 street: "Ungererstraße"
 housenumber: 161

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.5713312
 longitude: 9.640352700000001
-postcode: 88142
+postcode: "88142"
 city: Wasserburg
 street: "Ladestraße"
 housenumber: 2

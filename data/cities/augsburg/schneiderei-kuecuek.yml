@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 48.360778700000004
 longitude: 10.897642300000001
-postcode: 86150
+postcode: "86150"
 city: Augsburg
 street: "Konrad-Adenauer-Allee"
 housenumber: 61

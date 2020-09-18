@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.9996571
 longitude: 10.7241277
-postcode: 86860
+postcode: "86860"
 city: Jengen
 street: "Kirchplatz"
 housenumber: 3

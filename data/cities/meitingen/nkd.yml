@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.5414268
 longitude: 10.854822500000001
-postcode: 86405
+postcode: "86405"
 city: Meitingen
 street: "Schloßstraße"
 housenumber: 1

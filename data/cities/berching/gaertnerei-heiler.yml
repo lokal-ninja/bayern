@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.1205567
 longitude: 11.4309525
-postcode: 92334
+postcode: "92334"
 city: Berching
 street: "Kirchstraße"
 housenumber: 15

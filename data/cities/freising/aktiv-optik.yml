@@ -3,10 +3,10 @@ type: node
 shop: Optiker
 latitude: 48.401592300000004
 longitude: 11.747834500000002
-postcode: 85354
+postcode: "85354"
 city: Freising
 street: "Untere Hauptstraße"
 housenumber: 37
-phone: ""
-opening_hours: "Mo-Fr 09:00-19:00, Sa 09:00-17:00"
-website: "https://www.aktivoptik.de/"
+phone: "+49-8161-787723"
+opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:00"
+website: "https://www.aktivoptik.de/freising"

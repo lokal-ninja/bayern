@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.0944896
 longitude: 9.0545656
-postcode: 63755
+postcode: "63755"
 city: Alzenau
 street: "Emmy-Noether-Straße"
 housenumber: 

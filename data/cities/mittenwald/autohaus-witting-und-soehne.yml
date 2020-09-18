@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.445476400000004
 longitude: 11.265944900000001
-postcode: 82481
+postcode: "82481"
 city: Mittenwald
 street: "Schöttlkarstraße"
 housenumber: 18

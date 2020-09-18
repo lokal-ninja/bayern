@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 49.024549300000004
 longitude: 12.0971449
-postcode: 93059
+postcode: "93059"
 city: Regensburg
 street: "Am Brückenfuß"
 housenumber: 5

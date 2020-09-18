@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.1979181
 longitude: 10.784786
-postcode: 96145
+postcode: "96145"
 city: Seßlach
 street: "Gartenstraße"
 housenumber: 4

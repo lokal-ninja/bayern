@@ -3,7 +3,7 @@ type: node
 shop: Rahmen
 latitude: 49.796661300000004
 longitude: 9.9359505
-postcode: 97070
+postcode: "97070"
 city: Würzburg
 street: "Semmelstraße"
 housenumber: 14

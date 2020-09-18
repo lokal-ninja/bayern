@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 50.004547
 longitude: 9.2019912
-postcode: 63768
+postcode: "63768"
 city: Hösbach
 street: "Kirchenstraße"
 housenumber: 22

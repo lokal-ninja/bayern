@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 49.7315212
 longitude: 10.2171567
-postcode: 97348
+postcode: "97348"
 city: Rödelsee
 street: "Am Wald"
 housenumber: 1

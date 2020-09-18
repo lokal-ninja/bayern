@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.042012
 longitude: 10.204784
-postcode: 97424
+postcode: "97424"
 city: Schweinfurt
 street: "Oskar-von-Miller-Straße"
 housenumber: 6

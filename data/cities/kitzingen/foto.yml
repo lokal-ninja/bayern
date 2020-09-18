@@ -3,7 +3,7 @@ type: way
 shop: Foto
 latitude: 49.7372152
 longitude: 10.161529
-postcode: 97318
+postcode: "97318"
 city: Kitzingen
 street: "Herrnstraße"
 housenumber: 20

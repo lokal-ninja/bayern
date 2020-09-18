@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.377240300000004
 longitude: 11.2112931
-postcode: 90537
+postcode: "90537"
 city: Feucht
 street: "Hauptstraße"
 housenumber: 12

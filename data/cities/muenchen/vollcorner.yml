@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.134259400000005
 longitude: 11.5971612
-postcode: 81667
+postcode: "81667"
 city: München
 street: "Innere Wiener Straße"
 housenumber: 52

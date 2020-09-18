@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.164560300000005
 longitude: 11.5761912
-postcode: 80803
+postcode: "80803"
 city: München
 street: "Rossinistraße"
 housenumber: 12

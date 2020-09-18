@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.863973
 longitude: 9.8013665
-postcode: 97274
+postcode: "97274"
 city: Leinach
 street: "Rathausstraße"
 housenumber: 29

@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 48.7641738
 longitude: 11.4263176
-postcode: 85049
+postcode: "85049"
 city: Ingolstadt
 street: "Mauthstraße"
 housenumber: 1

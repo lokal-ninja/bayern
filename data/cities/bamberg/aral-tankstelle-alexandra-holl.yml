@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 49.9055947
 longitude: 10.8969237
-postcode: 96052
+postcode: "96052"
 city: Bamberg
 street: "Memmelsdorfer Straße"
 housenumber: 80

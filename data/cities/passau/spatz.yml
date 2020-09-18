@@ -3,7 +3,7 @@ type: way
 shop: Modehaus
 latitude: 48.5735752
 longitude: 13.461650200000001
-postcode: 94032
+postcode: "94032"
 city: Passau
 street: "Theresienstraße"
 housenumber: 25

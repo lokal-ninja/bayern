@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.9176432
 longitude: 12.2081247
-postcode: 93087
+postcode: "93087"
 city: Alteglofsheim
 street: "Landshuter Straße"
 housenumber: 33

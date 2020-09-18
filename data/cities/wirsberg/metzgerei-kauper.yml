@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.106836200000004
 longitude: 11.6067213
-postcode: 95339
+postcode: "95339"
 city: Wirsberg
 street: "Marktplatz"
 housenumber: 8

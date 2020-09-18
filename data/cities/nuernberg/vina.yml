@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.4381477
 longitude: 11.051088
-postcode: 90439
+postcode: "90439"
 city: Nürnberg
 street: "Schwabacher Straße"
 housenumber: 78

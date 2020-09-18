@@ -1,12 +1,12 @@
-id: 5961427190
+id: 1752428521
 type: node
 shop: Supermarkt
-latitude: 49.0385313
-longitude: 12.134615700000001
-postcode: 93055
+latitude: 49.0003758
+longitude: 12.1224317
+postcode: "93053"
 city: Regensburg
-street: "Glashüttenstraße"
-housenumber: 7
-phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+street: "Von-Seeckt-Straße"
+housenumber: 11
+phone: "+49 941 70813729"
+opening_hours: "Mo-Sa 07:00-20:00; PH off"
 website: ""

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.1915065
 longitude: 11.4997164
-postcode: 80997
+postcode: "80997"
 city: München
 street: "Am Neubruch"
 housenumber: 7

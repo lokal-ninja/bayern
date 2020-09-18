@@ -3,7 +3,7 @@ type: way
 shop: Wein
 latitude: 49.465465900000005
 longitude: 11.121598500000001
-postcode: 90491
+postcode: "90491"
 city: Nürnberg
 street: "Äußere Sulzbacher Straße"
 housenumber: 148

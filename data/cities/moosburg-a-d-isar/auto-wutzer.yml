@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.464702300000006
 longitude: 11.9316469
-postcode: 85368
+postcode: "85368"
 city: Moosburg a.d. Isar
 street: "Münchener Straße"
 housenumber: 40

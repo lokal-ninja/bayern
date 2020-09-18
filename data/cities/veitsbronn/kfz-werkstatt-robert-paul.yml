@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.5097299
 longitude: 10.8882527
-postcode: 90587
+postcode: "90587"
 city: Veitsbronn
 street: "Weiherwiese"
 housenumber: 25

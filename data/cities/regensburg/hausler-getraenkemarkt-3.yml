@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 49.016418800000004
 longitude: 12.068103
-postcode: 93049
+postcode: "93049"
 city: Regensburg
 street: "Rilkestraße"
 housenumber: 39

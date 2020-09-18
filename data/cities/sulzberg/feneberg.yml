@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.6633574
 longitude: 10.3445102
-postcode: 87477
+postcode: "87477"
 city: Sulzberg
 street: "Kemptener Straße"
 housenumber: 23

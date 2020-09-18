@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.0338067
 longitude: 11.9597867
-postcode: 85567
+postcode: "85567"
 city: Grafing bei München
 street: "Haidling"
 housenumber: 16

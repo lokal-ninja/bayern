@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.0779207
 longitude: 13.072989100000001
-postcode: 94249
+postcode: "94249"
 city: Bodenmais
 street: "Moosweg"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.3764217
 longitude: 10.8944354
-postcode: 86152
+postcode: "86152"
 city: Augsburg
 street: "Georgenstraße"
 housenumber: 3

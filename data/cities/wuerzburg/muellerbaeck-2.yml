@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.7845402
 longitude: 9.9370685
-postcode: 97072
+postcode: "97072"
 city: Würzburg
 street: "Franz-Ludwig-Straße"
 housenumber: 5

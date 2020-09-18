@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.460964800000006
 longitude: 10.8681661
-postcode: 86462
+postcode: "86462"
 city: Langweid am Lech
 street: "Am Lehenauweg"
 housenumber: 2a

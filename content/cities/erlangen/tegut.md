@@ -1,4 +1,4 @@
 ---
-title: "Tegut"
+title: "tegut..."
 url: /erlangen/tegut/
 ---

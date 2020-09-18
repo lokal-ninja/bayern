@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.595258900000005
 longitude: 11.097294900000001
-postcode: 91080
+postcode: "91080"
 city: Uttenreuth
 street: "Weiherer Hauptstraße"
 housenumber: 2

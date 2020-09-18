@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.1386449
 longitude: 11.567489100000001
-postcode: 80331
+postcode: "80331"
 city: München
 street: "Neuhauser Straße"
 housenumber: 39

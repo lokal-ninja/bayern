@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.402328600000004
 longitude: 10.9114003
-postcode: 86169
+postcode: "86169"
 city: Augsburg
 street: "Akazienweg"
 housenumber: 1

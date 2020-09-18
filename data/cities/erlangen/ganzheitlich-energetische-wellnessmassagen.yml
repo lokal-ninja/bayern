@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.597454500000005
 longitude: 11.0181977
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Loewenichstraße"
 housenumber: 34

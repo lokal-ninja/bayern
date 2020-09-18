@@ -3,7 +3,7 @@ type: way
 shop: Käse
 latitude: 47.809091900000006
 longitude: 10.8755913
-postcode: 86956
+postcode: "86956"
 city: Schongau
 street: "Bernbeurener Straße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 47.648177700000005
 longitude: 10.4547355
-postcode: 87466
+postcode: "87466"
 city: Oy-Mittelberg
 street: "Hauptstraße"
 housenumber: 2

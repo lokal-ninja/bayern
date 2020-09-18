@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 50.0608799
 longitude: 10.5900099
-postcode: 97486
+postcode: "97486"
 city: Königsberg in Bayern
 street: "An der Röthen"
 housenumber: 3

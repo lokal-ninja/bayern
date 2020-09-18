@@ -3,10 +3,10 @@ type: node
 shop: Kiosk
 latitude: 48.1151381
 longitude: 11.593373300000001
-postcode: 81541
+postcode: "81541"
 city: München
 street: "Werinherstraße"
 housenumber: 67
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Th 06:30-13:00,14:00-18:00; Fr 06:30-18:00; Sa 06:30-12:00"
 website: ""

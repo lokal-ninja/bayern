@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.891736900000005
 longitude: 10.7143978
-postcode: 87677
+postcode: "87677"
 city: Stöttwang
 street: "Kreuzweg"
 housenumber: 1

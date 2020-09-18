@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.1488591
 longitude: 10.0191578
-postcode: 97717
+postcode: "97717"
 city: Euerdorf
 street: "Siebenäcker"
 housenumber: 3

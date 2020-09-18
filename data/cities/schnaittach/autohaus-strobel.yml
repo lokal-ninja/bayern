@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.56639800000001
 longitude: 11.336694000000001
-postcode: 91220
+postcode: "91220"
 city: Schnaittach
 street: "Kirschenleite"
 housenumber: 20

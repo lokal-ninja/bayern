@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.1795363
 longitude: 11.3614452
-postcode: 82178
+postcode: "82178"
 city: Puchheim
 street: "Lagerstraße"
 housenumber: 25a

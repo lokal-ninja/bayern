@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 48.197686100000006
 longitude: 11.3020648
-postcode: 82140
+postcode: "82140"
 city: Olching
 street: "Schloßstraße"
 housenumber: 161B

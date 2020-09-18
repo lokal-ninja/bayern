@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.0032131
 longitude: 12.8189667
-postcode: 83413
+postcode: "83413"
 city: Fridolfing
 street: "Tittmoninger Straße"
 housenumber: 43

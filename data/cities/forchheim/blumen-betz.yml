@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.712076700000004
 longitude: 11.0607553
-postcode: 91301
+postcode: "91301"
 city: Forchheim
 street: "Äußere Nürnberger Straße"
 housenumber: 16

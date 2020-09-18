@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.8549452
 longitude: 12.346240300000002
-postcode: 83209
+postcode: "83209"
 city: Prien am Chiemsee
 street: "Bahnhofplatz"
 housenumber: 2a

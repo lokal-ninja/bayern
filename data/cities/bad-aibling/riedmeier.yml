@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 47.8629789
 longitude: 12.008386100000001
-postcode: 83043
+postcode: "83043"
 city: Bad Aibling
 street: "Irlachstraße"
 housenumber: 18

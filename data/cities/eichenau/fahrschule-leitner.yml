@@ -3,9 +3,9 @@ type: node
 shop: Allgemein
 latitude: 48.173713500000005
 longitude: 11.3234898
-postcode: 82223
+postcode: "82223"
 city: Eichenau
-street: "Johanna-Oppenheimer-Platz"
+street: ""
 housenumber: 1
 phone: "+49 8141 72513"
 opening_hours: "Mo 09:00-13:00,17:00-19:00; Tu 09:00-13:00; We-Th 09:00-13:00,17:00-19:00; Fr 09:00-13:00"

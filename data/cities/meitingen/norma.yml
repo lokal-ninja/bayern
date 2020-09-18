@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.540801300000005
 longitude: 10.8550544
-postcode: 86405
+postcode: "86405"
 city: Meitingen
 street: "Schloßstraße"
 housenumber: 1

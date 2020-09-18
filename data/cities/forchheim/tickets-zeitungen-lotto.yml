@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 49.7199984
 longitude: 11.0605319
-postcode: 91301
+postcode: "91301"
 city: Forchheim
 street: "Hornschuchallee"
 housenumber: 21

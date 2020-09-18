@@ -3,7 +3,7 @@ type: way
 shop: Raumausstattung
 latitude: 48.8874731
 longitude: 12.623940200000002
-postcode: 94315
+postcode: "94315"
 city: Straubing
 street: "Senefelderstraße"
 housenumber: 35

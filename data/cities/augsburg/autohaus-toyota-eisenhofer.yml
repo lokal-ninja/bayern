@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.3863951
 longitude: 10.8463835
-postcode: 86156
+postcode: "86156"
 city: Augsburg
 street: "Kobelweg"
 housenumber: 80

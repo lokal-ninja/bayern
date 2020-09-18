@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.084730900000004
 longitude: 11.506889900000001
-postcode: 
+postcode: ""
 city: München
 street: "Weltistraße"
 housenumber: 21a

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.8696995
 longitude: 12.6500822
-postcode: 83278
+postcode: "83278"
 city: Traunstein
 street: "Stadtplatz"
 housenumber: 27

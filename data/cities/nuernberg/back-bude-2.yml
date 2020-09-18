@@ -1,12 +1,12 @@
-id: 333214840
+id: 703770627
 type: node
 shop: Bäckerei
-latitude: 49.4574518
-longitude: 11.0681367
-postcode: 90419
+latitude: 49.46403290000001
+longitude: 11.1002241
+postcode: "90489"
 city: Nürnberg
-street: "Johannisstraße"
-housenumber: 24
+street: "Am Messehaus"
+housenumber: 18
 phone: ""
-opening_hours: "Mo-Fr 06:00-17:00; Sa 06:00-13:00"
-website: "http://www.backbude.de"
+opening_hours: "Mo-Fr 06:00-17:00; SH off"
+website: "http://www.backbude.de/"

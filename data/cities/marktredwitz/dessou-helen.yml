@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.9999253
 longitude: 12.0840239
-postcode: 95615
+postcode: "95615"
 city: Marktredwitz
 street: "Leopoldstraße"
 housenumber: 5

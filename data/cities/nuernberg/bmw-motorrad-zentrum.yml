@@ -3,7 +3,7 @@ type: node
 shop: Motorrad
 latitude: 49.447629500000005
 longitude: 11.046333200000001
-postcode: 90431
+postcode: "90431"
 city: Nürnberg
 street: "Witschelstraße"
 housenumber: 60

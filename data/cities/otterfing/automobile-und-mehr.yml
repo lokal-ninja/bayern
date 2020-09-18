@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.898606
 longitude: 11.677257200000001
-postcode: 83624
+postcode: "83624"
 city: Otterfing
 street: "Tegernseer Straße"
 housenumber: 75

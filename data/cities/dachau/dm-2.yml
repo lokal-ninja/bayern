@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 48.244089300000006
 longitude: 11.4482952
-postcode: 85221
+postcode: "85221"
 city: Dachau
 street: "Wettersteinring"
 housenumber: 7

@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 48.757001300000006
 longitude: 11.4364775
-postcode: 85053
+postcode: "85053"
 city: Ingolstadt
 street: "Bei der Arena"
 housenumber: 7

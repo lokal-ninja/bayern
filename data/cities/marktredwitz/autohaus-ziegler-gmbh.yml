@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.9987178
 longitude: 12.074633400000002
-postcode: 95615
+postcode: "95615"
 city: Marktredwitz
 street: "Waldershofer Straße"
 housenumber: 14

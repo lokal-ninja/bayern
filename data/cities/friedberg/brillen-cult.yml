@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 48.3531995
 longitude: 10.9841621
-postcode: 86316
+postcode: "86316"
 city: Friedberg
 street: "Bahnhofstraße"
 housenumber: 39

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.1940528
 longitude: 11.372673200000001
-postcode: 82194
+postcode: "82194"
 city: Gröbenzell
 street: "Kirchenstraße"
 housenumber: 13

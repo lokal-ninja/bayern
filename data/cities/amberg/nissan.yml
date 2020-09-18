@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.4406216
 longitude: 11.8758874
-postcode: 92224
+postcode: "92224"
 city: Amberg
 street: "Regensburger Straße"
 housenumber: 53

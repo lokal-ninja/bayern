@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.2191674
 longitude: 10.8409258
-postcode: 86507
+postcode: "86507"
 city: Kleinaitingen
 street: "Hauptstraße"
 housenumber: 31

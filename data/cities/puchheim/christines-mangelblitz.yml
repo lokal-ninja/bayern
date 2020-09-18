@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 48.1841219
 longitude: 11.371337800000001
-postcode: 82178
+postcode: "82178"
 city: Puchheim
 street: "Gröbenzeller Straße"
 housenumber: 30

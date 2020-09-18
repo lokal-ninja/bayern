@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 49.380714000000005
 longitude: 10.187354000000001
-postcode: 91541
+postcode: "91541"
 city: Rothenburg ob der Tauber
 street: "Schweinsdorfer Straße"
 housenumber: 3

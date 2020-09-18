@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.853204500000004
 longitude: 12.3423482
-postcode: 83209
+postcode: "83209"
 city: Prien am Chiemsee
 street: "Geigelsteinstraße"
 housenumber: 2

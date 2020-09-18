@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 49.274497000000004
 longitude: 11.9354122
-postcode: 92287
+postcode: "92287"
 city: Schmidmühlen
 street: "Harschhof"
 housenumber: 3

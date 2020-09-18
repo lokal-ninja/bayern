@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 48.282475100000006
 longitude: 11.577822900000001
-postcode: 85716
+postcode: "85716"
 city: Unterschleißheim
 street: "Bezirksstraße"
 housenumber: 21

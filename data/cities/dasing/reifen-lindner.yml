@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 48.3885845
 longitude: 11.0502467
-postcode: 86453
+postcode: "86453"
 city: Dasing
 street: "Taitinger Straße"
 housenumber: 39

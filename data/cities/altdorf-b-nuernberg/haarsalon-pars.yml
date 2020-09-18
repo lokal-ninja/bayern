@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 49.3878983
 longitude: 11.3546048
-postcode: 90518
+postcode: "90518"
 city: Altdorf b.Nürnberg
 street: "Bahnhofstraße"
 housenumber: 12

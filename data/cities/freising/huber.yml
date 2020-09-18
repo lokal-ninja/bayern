@@ -3,10 +3,10 @@ type: node
 shop: Schlüsseldienst
 latitude: 48.4040948
 longitude: 11.7501093
-postcode: 85356
+postcode: "85356"
 city: Freising
 street: "Alte Poststraße"
 housenumber: 7
-phone: ""
-opening_hours: ""
+phone: "+49-8161-1480460"
+opening_hours: "Mo-We 08:30-17:00; Th 08:30-18:00; Fr 08:30-14:00"
 website: ""

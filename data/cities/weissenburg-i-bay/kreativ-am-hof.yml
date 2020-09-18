@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 49.030863700000005
 longitude: 10.9708403
-postcode: 91781
+postcode: "91781"
 city: Weißenburg i. Bay.
 street: "Am Hof"
 housenumber: 15

@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 49.931432
 longitude: 11.569028000000001
-postcode: 95447
+postcode: "95447"
 city: Bayreuth
 street: "Justus-Liebig-Straße"
 housenumber: 3 1/2

@@ -3,7 +3,7 @@ type: way
 shop: Wäscherei
 latitude: 48.393196
 longitude: 10.8248187
-postcode: 86356
+postcode: "86356"
 city: Neusäß
 street: "Daimlerstraße"
 housenumber: 17

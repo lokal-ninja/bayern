@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.5057823
 longitude: 11.2803366
-postcode: 91207
+postcode: "91207"
 city: Lauf a.d.Pegnitz
 street: "Hermannstraße"
 housenumber: 29

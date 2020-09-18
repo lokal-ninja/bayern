@@ -1,12 +1,12 @@
 id: 2181753004
 type: node
 shop: Elektronik
-latitude: 48.4208389
-longitude: 11.069607900000001
-postcode: 86573
+latitude: 48.420849600000004
+longitude: 11.069561
+postcode: "86573"
 city: Obergriesbach
 street: "Stefanstraße"
 housenumber: 18
 phone: ""
-opening_hours: "Mo-Th 08:00-18:00; Fr 08:00-17:00; Sa,Su,PH off"
+opening_hours: "Mo-Th 08:00-18:00; Fr 08:00-17:00; PH,Sa,Su off"
 website: "https://www.lwejaeger.de/"

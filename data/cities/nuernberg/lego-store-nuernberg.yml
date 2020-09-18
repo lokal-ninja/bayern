@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 49.449953400000005
 longitude: 11.0754037
-postcode: 90402
+postcode: "90402"
 city: Nürnberg
 street: "Breite Gasse"
 housenumber: 39

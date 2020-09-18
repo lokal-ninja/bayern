@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.0407974
 longitude: 11.5251303
-postcode: 82031
+postcode: "82031"
 city: Grünwald
 street: "Südliche Münchner Straße"
 housenumber: 6b

@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 48.8580735
 longitude: 10.4814235
-postcode: 86720
+postcode: "86720"
 city: Nördlingen
 street: "Raiffeisenstraße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.8930081
 longitude: 11.133852300000001
-postcode: 91795
+postcode: "91795"
 city: Dollnstein
 street: "Am Hüttenbach"
 housenumber: 1

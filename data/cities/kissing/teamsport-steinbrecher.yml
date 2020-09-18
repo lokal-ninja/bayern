@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 48.303920100000006
 longitude: 10.962806500000001
-postcode: 86438
+postcode: "86438"
 city: Kissing
 street: "Bahnhofsallee"
 housenumber: 2a

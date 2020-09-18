@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.2406969
 longitude: 12.7053759
-postcode: 84524
+postcode: "84524"
 city: Neuötting
 street: "Simbacher Straße"
 housenumber: 49

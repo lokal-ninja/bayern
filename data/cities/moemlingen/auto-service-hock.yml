@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.8505704
 longitude: 9.0886043
-postcode: 63853
+postcode: "63853"
 city: Mömlingen
 street: "Obernburger Straße"
 housenumber: 42

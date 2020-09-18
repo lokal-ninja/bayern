@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.3884102
 longitude: 11.2552746
-postcode: 85250
+postcode: "85250"
 city: Altomünster
 street: "Herzog-Georg-Straße"
 housenumber: 9

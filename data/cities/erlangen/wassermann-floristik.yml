@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 49.6028346
 longitude: 11.000752700000001
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Martinsbühler Straße"
 housenumber: 8

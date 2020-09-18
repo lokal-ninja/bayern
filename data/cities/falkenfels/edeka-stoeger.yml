@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 49.000614500000005
 longitude: 12.594543400000001
-postcode: 94350
+postcode: "94350"
 city: Falkenfels
 street: "Oberhofer Straße"
 housenumber: 27

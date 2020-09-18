@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.830708900000005
 longitude: 12.9617824
-postcode: 94469
+postcode: "94469"
 city: Deggendorf
 street: "Westlicher Stadtgraben"
 housenumber: 60

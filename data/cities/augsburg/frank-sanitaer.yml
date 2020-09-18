@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 48.364513900000006
 longitude: 10.8764692
-postcode: 86157
+postcode: "86157"
 city: Augsburg
 street: "Augsburger Straße"
 housenumber: 4

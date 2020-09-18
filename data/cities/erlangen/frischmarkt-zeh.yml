@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.5773827
 longitude: 11.0220461
-postcode: 91058
+postcode: "91058"
 city: Erlangen
 street: "Karlsbader Straße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.6977191
 longitude: 10.8077571
-postcode: 91315
+postcode: "91315"
 city: Höchstadt a.d.Aisch
 street: "Erlanger Straße"
 housenumber: 6

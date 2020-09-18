@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 49.2636484
 longitude: 12.7647119
-postcode: 93495
+postcode: "93495"
 city: Weiding
 street: "Zelzer Straße"
 housenumber: 6

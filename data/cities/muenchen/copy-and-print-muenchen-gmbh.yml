@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 48.1370281
 longitude: 11.608363200000001
-postcode: 81675
+postcode: "81675"
 city: München
 street: "Grillparzerstraße"
 housenumber: 39

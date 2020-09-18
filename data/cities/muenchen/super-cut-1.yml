@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.1816327
 longitude: 11.572420200000002
-postcode: 80807
+postcode: "80807"
 city: München
 street: "Keferloherstraße"
 housenumber: 92

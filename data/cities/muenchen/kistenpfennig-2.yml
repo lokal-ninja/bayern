@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.196710100000004
 longitude: 11.5249602
-postcode: 80995
+postcode: "80995"
 city: München
 street: "Feldmochinger Straße"
 housenumber: 214

@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 47.881435
 longitude: 11.460638000000001
-postcode: 82538
+postcode: "82538"
 city: Geretsried
 street: "Banater Straße"
 housenumber: 3

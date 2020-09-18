@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 49.5711105
 longitude: 10.8761436
-postcode: 91074
+postcode: "91074"
 city: Herzogenaurach
 street: "Schürrstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.806662800000005
 longitude: 11.288950600000002
-postcode: 85114
+postcode: "85114"
 city: Buxheim
 street: "Tauberfelder Straße"
 housenumber: 12

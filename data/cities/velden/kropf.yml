@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.6132228
 longitude: 11.5113901
-postcode: 91235
+postcode: "91235"
 city: Velden
 street: "Marktplatz"
 housenumber: 2

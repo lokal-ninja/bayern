@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.1315917
 longitude: 11.150606300000002
-postcode: 82284
+postcode: "82284"
 city: Grafrath
 street: "Bahnhofstraße"
 housenumber: 87

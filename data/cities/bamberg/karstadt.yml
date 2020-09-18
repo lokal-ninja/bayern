@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 49.8936009
 longitude: 10.8887829
-postcode: 96047
+postcode: "96047"
 city: Bamberg
 street: "Grüner Markt"
 housenumber: 23

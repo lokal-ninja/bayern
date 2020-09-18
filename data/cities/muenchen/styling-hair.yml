@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.1113148
 longitude: 11.594690400000001
-postcode: 81539
+postcode: "81539"
 city: München
 street: "Schlierseestraße"
 housenumber: 

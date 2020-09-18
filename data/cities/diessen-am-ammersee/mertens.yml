@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 47.9481114
 longitude: 11.1024367
-postcode: 86911
+postcode: "86911"
 city: Dießen am Ammersee
 street: "Herrenstraße"
 housenumber: 3

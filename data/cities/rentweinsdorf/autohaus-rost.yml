@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.067862600000005
 longitude: 10.797640600000001
-postcode: 96184
+postcode: "96184"
 city: Rentweinsdorf
 street: "Winterleite"
 housenumber: 3

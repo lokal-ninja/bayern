@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.2404432
 longitude: 12.5258591
-postcode: 84453
+postcode: "84453"
 city: Mühldorf am Inn
 street: "Stadtplatz"
 housenumber: 76

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.031582300000004
 longitude: 12.5670072
-postcode: 83308
+postcode: "83308"
 city: Trostberg
 street: "Tittmoninger Straße"
 housenumber: 46

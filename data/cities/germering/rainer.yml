@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 48.128621
 longitude: 11.3854237
-postcode: 82110
+postcode: "82110"
 city: Germering
 street: "Nimrodstraße"
 housenumber: 38

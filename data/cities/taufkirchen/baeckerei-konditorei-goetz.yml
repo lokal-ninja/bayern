@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.042960300000004
 longitude: 11.6188721
-postcode: 82024
+postcode: "82024"
 city: Taufkirchen
 street: "Tölzer Straße"
 housenumber: 6

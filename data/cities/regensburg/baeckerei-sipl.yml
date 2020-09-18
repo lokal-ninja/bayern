@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.038543600000004
 longitude: 12.134842500000001
-postcode: 93055
+postcode: "93055"
 city: Regensburg
 street: "Glashüttenstraße"
 housenumber: 7

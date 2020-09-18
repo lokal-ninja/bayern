@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 49.7720952
 longitude: 9.8677785
-postcode: 97204
+postcode: "97204"
 city: Höchberg
 street: "Leibnizstraße"
 housenumber: 2

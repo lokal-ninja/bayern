@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 50.2686768
 longitude: 10.9654124
-postcode: 96450
+postcode: "96450"
 city: Coburg
 street: "Kasernenstraße"
 housenumber: 30

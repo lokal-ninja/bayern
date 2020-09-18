@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 49.943705
 longitude: 11.5762421
-postcode: 95444
+postcode: "95444"
 city: Bayreuth
 street: "Maximilianstraße"
 housenumber: 13

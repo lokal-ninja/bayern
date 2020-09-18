@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.8524899
 longitude: 10.4875521
-postcode: 86720
+postcode: "86720"
 city: Nördlingen
 street: "Baldinger Straße"
 housenumber: 9

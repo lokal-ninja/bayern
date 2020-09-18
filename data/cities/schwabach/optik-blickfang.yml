@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.3293601
 longitude: 11.0223425
-postcode: 91126
+postcode: "91126"
 city: Schwabach
 street: "Rosenbergerstraße"
 housenumber: 11

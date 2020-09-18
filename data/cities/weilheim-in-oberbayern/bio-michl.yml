@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.8412592
 longitude: 11.1454077
-postcode: 82362
+postcode: "82362"
 city: Weilheim in Oberbayern
 street: "Pütrichstraße"
 housenumber: 9

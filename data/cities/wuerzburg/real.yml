@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.812890900000006
 longitude: 9.976936700000001
-postcode: 97076
+postcode: "97076"
 city: Würzburg
 street: "Industriestraße"
 housenumber: 7

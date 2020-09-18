@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 49.3877691
 longitude: 12.1392635
-postcode: 92521
+postcode: "92521"
 city: Schwarzenfeld
 street: "Neue Amberger Straße"
 housenumber: 10

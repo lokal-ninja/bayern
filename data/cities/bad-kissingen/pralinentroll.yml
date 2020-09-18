@@ -3,7 +3,7 @@ type: node
 shop: Schokolade
 latitude: 50.200164900000004
 longitude: 10.0758483
-postcode: 97688
+postcode: "97688"
 city: Bad Kissingen
 street: "Badgasse"
 housenumber: 5

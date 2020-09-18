@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.3778949
 longitude: 10.189805300000002
-postcode: 91541
+postcode: "91541"
 city: Rothenburg ob der Tauber
 street: "Bahnhofstraße"
 housenumber: 15

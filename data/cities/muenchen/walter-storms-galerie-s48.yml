@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 48.1509762
 longitude: 11.5740604
-postcode: 80799
+postcode: "80799"
 city: München
 street: "Schellingstraße"
 housenumber: 48

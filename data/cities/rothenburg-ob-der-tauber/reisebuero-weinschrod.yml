@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 49.378560400000005
 longitude: 10.1811545
-postcode: 91541
+postcode: "91541"
 city: Rothenburg ob der Tauber
 street: "Galgengasse"
 housenumber: 11

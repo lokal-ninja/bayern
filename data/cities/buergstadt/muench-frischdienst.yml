@@ -3,7 +3,7 @@ type: way
 shop: Käse
 latitude: 49.7056236
 longitude: 9.275301200000001
-postcode: 63927
+postcode: "63927"
 city: Bürgstadt
 street: "Eichenbühler Straße"
 housenumber: 77

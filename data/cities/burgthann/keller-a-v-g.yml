@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.3219664
 longitude: 11.333638
-postcode: 90559
+postcode: "90559"
 city: Burgthann
 street: "Am Espen"
 housenumber: 33

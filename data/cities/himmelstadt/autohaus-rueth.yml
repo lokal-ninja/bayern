@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.9236263
 longitude: 9.812111
-postcode: 97267
+postcode: "97267"
 city: Himmelstadt
 street: "Rudolf-Diesel-Straße"
 housenumber: 1

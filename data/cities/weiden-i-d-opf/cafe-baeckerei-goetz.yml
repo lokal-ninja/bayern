@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.668179800000004
 longitude: 12.155100000000001
-postcode: 92637
+postcode: "92637"
 city: Weiden i.d.OPf.
 street: "Bahnhofstraße"
 housenumber: 39

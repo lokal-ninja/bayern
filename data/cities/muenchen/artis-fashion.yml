@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 48.1342164
 longitude: 11.6608669
-postcode: 81829
+postcode: "81829"
 city: München
 street: "Martin-Kollar-Straße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 49.821148300000004
 longitude: 9.9803376
-postcode: 97078
+postcode: "97078"
 city: Würzburg
 street: "Mainfrankenhöhe"
 housenumber: 12

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.1907919
 longitude: 11.618880800000001
-postcode: 80939
+postcode: "80939"
 city: München
 street: "Freisinger Landstraße"
 housenumber: 16a

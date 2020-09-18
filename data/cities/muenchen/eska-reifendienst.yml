@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 48.1416903
 longitude: 11.5174801
-postcode: 80687
+postcode: "80687"
 city: München
 street: "Landsberger Straße"
 housenumber: 198

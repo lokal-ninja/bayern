@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 48.080069200000004
 longitude: 11.6460614
-postcode: 85579
+postcode: "85579"
 city: Neubiberg
 street: "Bamerstraße"
 housenumber: 1

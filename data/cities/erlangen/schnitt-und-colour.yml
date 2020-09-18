@@ -1,12 +1,12 @@
-id: 2350629815
+id: 605255258
 type: node
 shop: Friseur
-latitude: 49.5903727
-longitude: 11.01708
-postcode: 91052
+latitude: 49.590594900000006
+longitude: 11.00613
+postcode: "91052"
 city: Erlangen
-street: "Gebbertstraße"
-housenumber: 62
-phone: "+49 9131 9743299"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 08:00-13:00"
+street: "Nürnberger Straße"
+housenumber: 47a
+phone: "+49 9131 9345246"
+opening_hours: "Mo-Fr 09:30-18:30; Sa 09:00-15:00"
 website: "http://www.schnittandcolour.de"

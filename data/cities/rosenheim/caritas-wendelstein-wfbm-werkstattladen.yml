@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 47.8511035
 longitude: 12.106955600000001
-postcode: 83026
+postcode: "83026"
 city: Rosenheim
 street: "Hochgernstraße"
 housenumber: 16

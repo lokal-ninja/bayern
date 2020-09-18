@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.9744357
 longitude: 9.150660700000001
-postcode: 63739
+postcode: "63739"
 city: Aschaffenburg
 street: "Roßmarkt"
 housenumber: 41

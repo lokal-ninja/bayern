@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.044131900000004
 longitude: 10.233411700000001
-postcode: 97421
+postcode: "97421"
 city: Schweinfurt
 street: "Spitalstraße"
 housenumber: 12-16

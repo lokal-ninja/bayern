@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.075380100000004
 longitude: 11.661434700000001
-postcode: 85579
+postcode: "85579"
 city: Neubiberg
 street: "Bahnhofsplatz"
 housenumber: 3

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.5577619
 longitude: 11.3442544
-postcode: 91220
+postcode: "91220"
 city: Schnaittach
 street: "Hersbrucker Straße"
 housenumber: 13c

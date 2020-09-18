@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 48.376432
 longitude: 10.8431279
-postcode: 86391
+postcode: "86391"
 city: Stadtbergen
 street: "Wankelstraße"
 housenumber: 12
 phone: ""
-opening_hours: "Mo-Sa 8:00-20:00"
+opening_hours: "Mo-Sa 07:00-20:00"
 website: ""

@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 47.962102800000004
 longitude: 11.106957300000001
-postcode: 86911
+postcode: "86911"
 city: Dießen am Ammersee
 street: "Seeweg-Süd"
 housenumber: 90

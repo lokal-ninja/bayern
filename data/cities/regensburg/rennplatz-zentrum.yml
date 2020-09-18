@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 49.013781400000006
 longitude: 12.0516219
-postcode: 93049
+postcode: "93049"
 city: Regensburg
 street: "Franz-von-Taxis-Ring"
 housenumber: 53

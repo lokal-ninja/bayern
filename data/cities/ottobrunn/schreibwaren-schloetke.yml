@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 48.063166300000006
 longitude: 11.649010700000002
-postcode: 85521
+postcode: "85521"
 city: Ottobrunn
 street: "Unterhachinger Straße"
 housenumber: 28

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.9642622
 longitude: 12.386781800000001
-postcode: 93102
+postcode: "93102"
 city: Pfatter
 street: "Flurweg"
 housenumber: 1

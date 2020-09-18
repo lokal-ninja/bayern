@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 48.129068100000005
 longitude: 11.364146600000002
-postcode: 82110
+postcode: "82110"
 city: Germering
 street: "Bahnhofplatz"
 housenumber: 1

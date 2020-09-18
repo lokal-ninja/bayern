@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 48.1218427
 longitude: 11.447432500000001
-postcode: 82166
+postcode: "82166"
 city: Gräfelfing
 street: "Seeholzenstraße"
 housenumber: 6a

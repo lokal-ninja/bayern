@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 49.3786603
 longitude: 10.1789093
-postcode: 91541
+postcode: "91541"
 city: Rothenburg ob der Tauber
 street: "Heugasse"
 housenumber: 9

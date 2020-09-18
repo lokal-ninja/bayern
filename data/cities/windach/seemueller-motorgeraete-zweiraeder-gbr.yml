@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.068141000000004
 longitude: 10.991101
-postcode: 86949
+postcode: "86949"
 city: Windach
 street: "Ringstraße"
 housenumber: 10

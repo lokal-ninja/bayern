@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.81897480000001
 longitude: 11.4221871
-postcode: 85139
+postcode: "85139"
 city: Wettstetten
 street: "Dr.-Kurt-Schumacher-Ring"
 housenumber: 28

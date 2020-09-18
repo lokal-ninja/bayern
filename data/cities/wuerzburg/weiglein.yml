@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 49.777512400000006
 longitude: 9.9542889
-postcode: 97074
+postcode: "97074"
 city: Würzburg
 street: "Sanderrothstraße"
 housenumber: 13

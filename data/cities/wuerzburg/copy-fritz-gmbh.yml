@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 49.791006800000005
 longitude: 9.9440015
-postcode: 97072
+postcode: "97072"
 city: Würzburg
 street: "Valentin-Becker-Straße"
 housenumber: 1a

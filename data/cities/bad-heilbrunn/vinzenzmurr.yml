@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 47.745245600000004
 longitude: 11.459279400000002
-postcode: 83670
+postcode: "83670"
 city: Bad Heilbrunn
 street: "Birkenallee"
 housenumber: 40

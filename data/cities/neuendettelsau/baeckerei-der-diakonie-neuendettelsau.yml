@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.2910448
 longitude: 10.783013
-postcode: 91564
+postcode: "91564"
 city: Neuendettelsau
 street: "Altendettelsauer Straße"
 housenumber: 14

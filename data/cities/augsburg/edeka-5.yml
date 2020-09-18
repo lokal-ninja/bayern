@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.3618399
 longitude: 10.8723652
-postcode: 86157
+postcode: "86157"
 city: Augsburg
 street: "Franz-Kobinger-Straße"
 housenumber: 9

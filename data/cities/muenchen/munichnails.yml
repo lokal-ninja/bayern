@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.145697600000005
 longitude: 11.6401421
-postcode: 81929
+postcode: "81929"
 city: München
 street: "Friedrich-Eckart-Straße"
 housenumber: 56

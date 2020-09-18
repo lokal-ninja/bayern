@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.7710979
 longitude: 11.3819207
-postcode: 85049
+postcode: "85049"
 city: Ingolstadt
 street: "Krumenauerstraße"
 housenumber: 54

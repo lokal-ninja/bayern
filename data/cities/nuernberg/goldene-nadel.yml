@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 49.446907
 longitude: 11.064405
-postcode: 90443
+postcode: "90443"
 city: Nürnberg
 street: "Gostenhofer Hauptstraße"
 housenumber: 26

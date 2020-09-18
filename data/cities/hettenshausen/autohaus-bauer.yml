@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.5183176
 longitude: 11.5100072
-postcode: 85276
+postcode: "85276"
 city: Hettenshausen
 street: "Münchener Straße"
 housenumber: 29

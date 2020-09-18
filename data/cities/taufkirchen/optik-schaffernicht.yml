@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.05156
 longitude: 11.607498300000001
-postcode: 82024
+postcode: "82024"
 city: Taufkirchen
 street: "Eschenstraße"
 housenumber: 14

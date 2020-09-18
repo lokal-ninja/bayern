@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 48.0771092
 longitude: 11.969630800000001
-postcode: 85560
+postcode: "85560"
 city: Ebersberg
 street: "Altstadtpassage"
 housenumber: 6

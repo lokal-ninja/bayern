@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.1461514
 longitude: 11.248388
-postcode: 96224
+postcode: "96224"
 city: Burgkunstadt
 street: "Kommerzienrat-Riexinger-Weg"
 housenumber: 16

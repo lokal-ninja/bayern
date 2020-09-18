@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 49.722683100000005
 longitude: 11.0592763
-postcode: 91301
+postcode: "91301"
 city: Forchheim
 street: "Bamberger Straße"
 housenumber: 23

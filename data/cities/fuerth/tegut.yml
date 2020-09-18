@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.4715343
 longitude: 10.991144
-postcode: 90762
+postcode: "90762"
 city: Fürth
 street: "Gustav-Schickedanz-Straße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.7051248
 longitude: 11.4156156
-postcode: 83671
+postcode: "83671"
 city: Benediktbeuern
 street: "Dorfstraße"
 housenumber: 35

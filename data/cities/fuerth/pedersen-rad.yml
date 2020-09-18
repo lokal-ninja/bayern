@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.4798259
 longitude: 10.9876217
-postcode: 90762
+postcode: "90762"
 city: Fürth
 street: "Gustavstraße"
 housenumber: 56

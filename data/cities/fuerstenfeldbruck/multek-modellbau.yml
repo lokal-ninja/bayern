@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 48.1929475
 longitude: 11.251282100000001
-postcode: 82256
+postcode: "82256"
 city: Fürstenfeldbruck
 street: "Rudolf-Diesel-Ring"
 housenumber: 9

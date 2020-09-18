@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.5705455
 longitude: 10.4314245
-postcode: 89415
+postcode: "89415"
 city: Lauingen (Donau)
 street: "Imhofstraße"
 housenumber: 14

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.00014
 longitude: 12.1966958
-postcode: 93092
+postcode: "93092"
 city: Barbing
 street: "Bischof-Sailer-Straße"
 housenumber: 1

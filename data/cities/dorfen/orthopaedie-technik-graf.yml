@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 48.273667
 longitude: 12.1508926
-postcode: 84405
+postcode: "84405"
 city: Dorfen
 street: "Unterer Markt"
 housenumber: 33

@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 49.903811600000004
 longitude: 12.183912300000001
-postcode: 95676
+postcode: "95676"
 city: Wiesau
 street: "Egerstraße"
 housenumber: 2

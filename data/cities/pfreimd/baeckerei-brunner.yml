@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.4933132
 longitude: 12.179507500000001
-postcode: 92536
+postcode: "92536"
 city: Pfreimd
 street: "Marktplatz"
 housenumber: 17

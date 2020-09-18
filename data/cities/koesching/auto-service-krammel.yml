@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.8091998
 longitude: 11.4831441
-postcode: 85092
+postcode: "85092"
 city: Kösching
 street: "Ingolstädter Straße"
 housenumber: 100

@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 48.2659206
 longitude: 10.813877100000001
-postcode: 86399
+postcode: "86399"
 city: Bobingen
 street: "Hoechster Straße"
 housenumber: 1

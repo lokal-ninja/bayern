@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.4754215
 longitude: 11.1025541
-postcode: 90411
+postcode: "90411"
 city: Nürnberg
 street: "Kilianstraße"
 housenumber: 253

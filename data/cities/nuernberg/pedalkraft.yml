@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.456071800000004
 longitude: 11.064357600000001
-postcode: 90419
+postcode: "90419"
 city: Nürnberg
 street: "Kleinweidenmühle"
 housenumber: 8

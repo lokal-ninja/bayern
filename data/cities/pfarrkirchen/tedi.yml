@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 48.4322798
 longitude: 12.9386769
-postcode: 84347
+postcode: "84347"
 city: Pfarrkirchen
 street: "Stadtplatz"
 housenumber: 13-15

@@ -3,7 +3,7 @@ type: way
 shop: Kosmetik
 latitude: 48.129846
 longitude: 11.3601012
-postcode: 82110
+postcode: "82110"
 city: Germering
 street: "Obere Bahnhofstraße"
 housenumber: 62

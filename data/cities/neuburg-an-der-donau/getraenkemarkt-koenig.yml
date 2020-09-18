@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 48.7248473
 longitude: 11.193093000000001
-postcode: 86633
+postcode: "86633"
 city: Neuburg an der Donau
 street: "St.-Andreas-Straße"
 housenumber: 3

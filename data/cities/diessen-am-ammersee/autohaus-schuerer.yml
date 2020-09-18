@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.9457345
 longitude: 11.104587700000002
-postcode: 86911
+postcode: "86911"
 city: Dießen am Ammersee
 street: "Johannisstraße"
 housenumber: 30

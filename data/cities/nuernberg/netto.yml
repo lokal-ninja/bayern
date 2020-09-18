@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.462971100000004
 longitude: 11.156381600000001
-postcode: 90482
+postcode: "90482"
 city: Nürnberg
 street: "Happurger Straße"
 housenumber: 64

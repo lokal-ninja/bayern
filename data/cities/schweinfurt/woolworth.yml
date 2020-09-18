@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 50.0443317
 longitude: 10.2323502
-postcode: 97421
+postcode: "97421"
 city: Schweinfurt
 street: "Keßlergasse"
 housenumber: 15

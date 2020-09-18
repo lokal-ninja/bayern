@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.600338900000004
 longitude: 9.8865149
-postcode: 88161
+postcode: "88161"
 city: Lindenberg im Allgäu
 street: "Hauptstraße"
 housenumber: 67

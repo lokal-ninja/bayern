@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 49.4432017
 longitude: 11.8389061
-postcode: 92224
+postcode: "92224"
 city: Amberg
 street: "Fuggerstraße"
 housenumber: 3

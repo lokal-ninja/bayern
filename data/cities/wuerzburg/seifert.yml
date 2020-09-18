@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.7954833
 longitude: 9.9331112
-postcode: 97070
+postcode: "97070"
 city: Würzburg
 street: "Eichhornstraße"
 housenumber: 13a

@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 47.881775600000005
 longitude: 11.920042500000001
-postcode: 83052
+postcode: "83052"
 city: Bruckmühl
 street: "Sonnenwiechser Straße"
 housenumber: 26b

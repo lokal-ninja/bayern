@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.5805857
 longitude: 10.5093125
-postcode: 91413
+postcode: "91413"
 city: Neustadt an der Aisch
 street: ""
 housenumber: 52

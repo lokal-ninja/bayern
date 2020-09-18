@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.437735100000005
 longitude: 11.091044100000001
-postcode: 90461
+postcode: "90461"
 city: Nürnberg
 street: "Allersberger Straße"
 housenumber: 117

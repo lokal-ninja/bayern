@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 49.385291800000005
 longitude: 11.353384
-postcode: 90518
+postcode: "90518"
 city: Altdorf b. Nürnberg
 street: "Nürnberger Straße"
 housenumber: 1a

@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 48.6290829
 longitude: 12.497444100000001
-postcode: 84130
+postcode: "84130"
 city: Dingolfing
 street: "Bruckstraße"
 housenumber: 3

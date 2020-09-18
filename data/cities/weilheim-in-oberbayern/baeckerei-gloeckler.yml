@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.844195400000004
 longitude: 11.1321603
-postcode: 82362
+postcode: "82362"
 city: Weilheim in Oberbayern
 street: "Wessobrunner Straße"
 housenumber: 15

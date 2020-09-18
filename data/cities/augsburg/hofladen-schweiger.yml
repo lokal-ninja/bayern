@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.3372936
 longitude: 10.8826859
-postcode: 86199
+postcode: "86199"
 city: Augsburg
 street: "Friedrich-Ebert-Straße"
 housenumber: 50

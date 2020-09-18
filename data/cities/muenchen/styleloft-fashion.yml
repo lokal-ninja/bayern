@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.1289345
 longitude: 11.5688633
-postcode: 80469
+postcode: "80469"
 city: München
 street: "Westermühlstraße"
 housenumber: 3

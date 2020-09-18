@@ -3,7 +3,7 @@ type: way
 shop: Fisch
 latitude: 47.874018500000005
 longitude: 12.427078600000002
-postcode: 83256
+postcode: "83256"
 city: Chiemsee
 street: ""
 housenumber: 12

@@ -1,9 +1,9 @@
 id: 5958333086
 type: node
 shop: Autowerkstatt
-latitude: 49.0325817
-longitude: 12.1306393
-postcode: 93059
+latitude: 49.0325581
+longitude: 12.1306969
+postcode: "93059"
 city: Regensburg
 street: "Im Gewerbepark"
 housenumber: A63

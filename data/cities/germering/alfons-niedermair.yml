@@ -3,7 +3,7 @@ type: way
 shop: Landwirtschaftlich
 latitude: 48.119506200000004
 longitude: 11.324966900000002
-postcode: 82110
+postcode: "82110"
 city: Germering
 street: "Nebel"
 housenumber: 3

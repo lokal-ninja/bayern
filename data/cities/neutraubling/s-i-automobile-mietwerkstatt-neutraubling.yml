@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.9853516
 longitude: 12.195052800000001
-postcode: 93073
+postcode: "93073"
 city: Neutraubling
 street: "Borsigstraße"
 housenumber: 10 a

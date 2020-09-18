@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.197340800000006
 longitude: 11.524494
-postcode: 80995
+postcode: "80995"
 city: München
 street: "Feldmochinger Straße"
 housenumber: 216

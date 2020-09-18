@@ -3,7 +3,7 @@ type: way
 shop: Massage
 latitude: 50.3263368
 longitude: 10.242502400000001
-postcode: 97616
+postcode: "97616"
 city: Bad Neustadt an der Saale
 street: "Finkenweg"
 housenumber: 2

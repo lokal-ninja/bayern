@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 49.608524800000005
 longitude: 11.1211555
-postcode: 91077
+postcode: "91077"
 city: Neunkirchen am Brand
 street: "Zum Neuntagwerk"
 housenumber: 1

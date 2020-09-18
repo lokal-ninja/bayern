@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 49.598864600000006
 longitude: 11.002465200000001
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Heuwaagstraße"
 housenumber: 10

@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 48.639153300000004
 longitude: 11.102003300000002
-postcode: 86676
+postcode: "86676"
 city: Ehekirchen
 street: "Doktor-Müller-Straße"
 housenumber: 1

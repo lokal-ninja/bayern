@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 47.912114
 longitude: 12.816957500000001
-postcode: 83367
+postcode: "83367"
 city: Petting
 street: "Hauptstraße"
 housenumber: 22

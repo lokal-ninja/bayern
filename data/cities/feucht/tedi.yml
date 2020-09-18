@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 49.375384000000004
 longitude: 11.2135505
-postcode: 90537
+postcode: "90537"
 city: Feucht
 street: "Hauptstraße"
 housenumber: 48

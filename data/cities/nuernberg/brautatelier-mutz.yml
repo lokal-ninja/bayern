@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 49.4402398
 longitude: 11.0537045
-postcode: 90439
+postcode: "90439"
 city: Nürnberg
 street: "Schwabacher Straße"
 housenumber: 43

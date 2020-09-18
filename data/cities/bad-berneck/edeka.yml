@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.0436519
 longitude: 11.668600300000001
-postcode: 95460
+postcode: "95460"
 city: Bad Berneck
 street: "Bahnhofstraße"
 housenumber: 97

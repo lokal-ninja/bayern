@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.1280319
 longitude: 11.595113000000001
-postcode: 81667
+postcode: "81667"
 city: München
 street: "Metzstraße"
 housenumber: 1

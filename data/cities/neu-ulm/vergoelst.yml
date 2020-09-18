@@ -3,10 +3,10 @@ type: way
 shop: Autowerkstatt
 latitude: 48.396087400000006
 longitude: 10.019782900000001
-postcode: 89231
+postcode: "89231"
 city: Neu-Ulm
 street: "Im Starkfeld"
-housenumber: 59
+housenumber: 53
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00"
+opening_hours: "Mo-Fr 08:00-17:00; Sa 09:00-12:00"
 website: "https://vergoelst.de/"

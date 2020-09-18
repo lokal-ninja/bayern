@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 49.795622200000004
 longitude: 9.9838844
-postcode: 97076
+postcode: "97076"
 city: Würzburg
 street: "Gattingerstraße"
 housenumber: 2a

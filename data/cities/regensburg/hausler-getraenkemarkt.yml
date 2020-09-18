@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.0478517
 longitude: 12.1288932
-postcode: 93057
+postcode: "93057"
 city: Regensburg
 street: "Wutzlhofen"
 housenumber: 55

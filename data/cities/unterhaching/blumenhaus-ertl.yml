@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.0640178
 longitude: 11.6140702
-postcode: 82008
+postcode: "82008"
 city: Unterhaching
 street: "Hauptstraße"
 housenumber: 17

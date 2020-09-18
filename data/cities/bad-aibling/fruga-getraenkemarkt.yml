@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 47.86639
 longitude: 12.0190894
-postcode: 83043
+postcode: "83043"
 city: Bad Aibling
 street: "Harthauser Straße"
 housenumber: 31

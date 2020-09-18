@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 48.6733149
 longitude: 11.869606300000001
-postcode: 84091
+postcode: "84091"
 city: Attenhofen
 street: "Am Thonhauser Weg"
 housenumber: 1

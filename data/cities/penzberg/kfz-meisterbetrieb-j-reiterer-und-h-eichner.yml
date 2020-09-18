@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 47.756747700000005
 longitude: 11.3764903
-postcode: 82377
+postcode: "82377"
 city: Penzberg
 street: "Grube"
 housenumber: 39

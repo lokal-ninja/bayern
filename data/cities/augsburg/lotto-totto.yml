@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 48.3120315
 longitude: 10.9017123
-postcode: 86179
+postcode: "86179"
 city: Augsburg
 street: "Hofackerstraße"
 housenumber: 28

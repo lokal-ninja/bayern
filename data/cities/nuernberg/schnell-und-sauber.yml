@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 49.4375477
 longitude: 11.050787000000001
-postcode: 90439
+postcode: "90439"
 city: Nürnberg
 street: "Schwabacher Straße"
 housenumber: 86

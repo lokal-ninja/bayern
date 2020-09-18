@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 48.2381362
 longitude: 11.354243100000001
-postcode: 85232
+postcode: "85232"
 city: Bergkirchen
 street: "Kreuzackerstraße"
 housenumber: 2

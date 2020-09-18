@@ -3,10 +3,10 @@ type: node
 shop: Sport
 latitude: 49.897381
 longitude: 10.894612
-postcode: 96052
+postcode: "96052"
 city: Bamberg
 street: "Luitpoldstraße"
 housenumber: 20
 phone: "+49 951 2083083"
-opening_hours: ""
+opening_hours: "Mo-Fr 11:00-19:00; Sa 10:00-18:00"
 website: ""

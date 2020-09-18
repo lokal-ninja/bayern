@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.809919400000005
 longitude: 11.8596462
-postcode: 93326
+postcode: "93326"
 city: Abensberg
 street: "Straubinger Straße"
 housenumber: 42

@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 49.872255100000004
 longitude: 9.1507687
-postcode: 63868
+postcode: "63868"
 city: Großwallstadt
 street: "Am Südkreisel"
 housenumber: 4

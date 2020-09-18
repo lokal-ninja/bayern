@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.5930097
 longitude: 11.003969300000001
-postcode: 91052
+postcode: "91052"
 city: Erlangen
 street: "Nürnberger Straße"
 housenumber: 7

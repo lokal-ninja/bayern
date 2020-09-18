@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 48.2390654
 longitude: 10.1291626
-postcode: 89257
+postcode: "89257"
 city: Illertissen
 street: "Jungviehweide"
 housenumber: 3

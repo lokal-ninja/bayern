@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 49.151210400000004
 longitude: 11.5952883
-postcode: 92358
+postcode: "92358"
 city: Seubersdorf i.d.OPf.
 street: "Marktstraße"
 housenumber: 16

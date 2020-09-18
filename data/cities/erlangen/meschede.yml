@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 49.589717
 longitude: 11.0170759
-postcode: 91052
+postcode: "91052"
 city: Erlangen
 street: "Gebbertstraße"
 housenumber: 70

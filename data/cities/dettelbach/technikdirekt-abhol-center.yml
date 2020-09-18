@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 49.7826462
 longitude: 10.068979500000001
-postcode: 97337
+postcode: "97337"
 city: Dettelbach
 street: "Mainfrankenpark"
 housenumber: 

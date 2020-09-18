@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.1404991
 longitude: 11.5187909
-postcode: 80687
+postcode: "80687"
 city: München
 street: "Elsenheimerstraße"
 housenumber: 3

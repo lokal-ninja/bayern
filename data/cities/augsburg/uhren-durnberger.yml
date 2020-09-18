@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.381205800000004
 longitude: 10.874687600000001
-postcode: 86154
+postcode: "86154"
 city: Augsburg
 street: "Ulmer Straße"
 housenumber: 41

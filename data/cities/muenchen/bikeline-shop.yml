@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.0864155
 longitude: 11.4950366
-postcode: 81476
+postcode: "81476"
 city: München
 street: "Forstenrieder Allee"
 housenumber: 168

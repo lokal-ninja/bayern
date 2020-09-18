@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.1586537
 longitude: 11.585428400000001
-postcode: 80802
+postcode: "80802"
 city: München
 street: "Leopoldstraße"
 housenumber: 54

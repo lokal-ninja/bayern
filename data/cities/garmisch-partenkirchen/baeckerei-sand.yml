@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.4935726
 longitude: 11.103807300000001
-postcode: 82467
+postcode: "82467"
 city: Garmisch-Partenkirchen
 street: "Bahnhofstraße"
 housenumber: 4

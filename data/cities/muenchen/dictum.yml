@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 48.126392700000004
 longitude: 11.609336200000001
-postcode: 81671
+postcode: "81671"
 city: München
 street: "Haager Straße"
 housenumber: 9

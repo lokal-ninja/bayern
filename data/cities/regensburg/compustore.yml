@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 49.0194483
 longitude: 12.0950448
-postcode: 93047
+postcode: "93047"
 city: Regensburg
 street: "Untere Bachgasse"
 housenumber: 5

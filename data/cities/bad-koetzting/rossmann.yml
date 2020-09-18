@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.1765303
 longitude: 12.855945100000001
-postcode: 93444
+postcode: "93444"
 city: Bad Kötzting
 street: "Schirnstraße"
 housenumber: 1

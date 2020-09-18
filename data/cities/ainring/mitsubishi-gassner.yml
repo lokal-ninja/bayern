@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.819885400000004
 longitude: 12.9534745
-postcode: 83404
+postcode: "83404"
 city: Ainring
 street: "Industriestraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.484915400000006
 longitude: 11.3881058
-postcode: 96337
+postcode: "96337"
 city: Ludwigsstadt
 street: "Marktgasse"
 housenumber: 1

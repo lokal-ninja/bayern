@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.5958082
 longitude: 10.9624875
-postcode: 91056
+postcode: "91056"
 city: Erlangen
 street: "Odenwaldallee"
 housenumber: 31

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.1227456
 longitude: 11.3684963
-postcode: 82110
+postcode: "82110"
 city: Germering
 street: "Friedenstraße"
 housenumber: 19a

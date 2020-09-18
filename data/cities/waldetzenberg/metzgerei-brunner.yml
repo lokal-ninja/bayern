@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 49.0438984
 longitude: 11.9200497
-postcode: 93164
+postcode: "93164"
 city: Waldetzenberg
 street: "Buchenstraße"
 housenumber: 1

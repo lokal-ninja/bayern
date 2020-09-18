@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 49.0307048
 longitude: 11.9425331
-postcode: 93152
+postcode: "93152"
 city: Nittendorf
 street: "Deuerlinger Straße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 49.969382700000004
 longitude: 11.615182800000001
-postcode: 95463
+postcode: "95463"
 city: Bindlach
 street: "Im Letterer"
 housenumber: 6

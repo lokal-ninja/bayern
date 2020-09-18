@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.2902986
 longitude: 10.8092666
-postcode: 91564
+postcode: "91564"
 city: Neuendettelsau
 street: "Am Neuweiher"
 housenumber: 11

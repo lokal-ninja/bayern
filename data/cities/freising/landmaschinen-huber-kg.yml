@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.404155300000006
 longitude: 11.747645
-postcode: 85356
+postcode: "85356"
 city: Freising
 street: "Mainburger Straße"
 housenumber: 12

@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.1373769
 longitude: 11.578653500000001
-postcode: 80331
+postcode: "80331"
 city: München
 street: "Ledererstraße"
 housenumber: 7

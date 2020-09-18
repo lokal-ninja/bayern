@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.4987653
 longitude: 12.3130141
-postcode: 92723
+postcode: "92723"
 city: Gleiritsch
 street: "Zeinrieder Straße"
 housenumber: 2

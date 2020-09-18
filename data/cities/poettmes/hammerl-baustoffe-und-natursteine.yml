@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.5856269
 longitude: 11.1064214
-postcode: 86554
+postcode: "86554"
 city: Pöttmes
 street: "Rudolf-Diesel-Straße"
 housenumber: 18

@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 48.222076300000005
 longitude: 11.668019500000002
-postcode: 85737
+postcode: "85737"
 city: Ismaning
 street: "Münchener Straße"
 housenumber: 77

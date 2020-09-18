@@ -3,7 +3,7 @@ type: way
 shop: Schmuck
 latitude: 48.9619389
 longitude: 12.383836
-postcode: 93102
+postcode: "93102"
 city: Pfatter
 street: "Ringstraße"
 housenumber: 27

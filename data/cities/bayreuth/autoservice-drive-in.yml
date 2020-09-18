@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 49.968638000000006
 longitude: 11.608708
-postcode: 95448
+postcode: "95448"
 city: Bayreuth
 street: "Bindlacher Straße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 49.9819515
 longitude: 9.1168952
-postcode: 63741
+postcode: "63741"
 city: Aschaffenburg
 street: "Schwalbenrainweg"
 housenumber: 81

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 47.410995400000004
 longitude: 10.278629200000001
-postcode: 87561
+postcode: "87561"
 city: Oberstdorf
 street: "Bahnhofstraße"
 housenumber: 2

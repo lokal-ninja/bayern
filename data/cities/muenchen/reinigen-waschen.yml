@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 48.1524476
 longitude: 11.5743627
-postcode: 80799
+postcode: "80799"
 city: München
 street: "Barer Straße"
 housenumber: 78

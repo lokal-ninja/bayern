@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 49.4435878
 longitude: 12.1746371
-postcode: 92507
+postcode: "92507"
 city: Nabburg
 street: "An der Alten Naab"
 housenumber: 3

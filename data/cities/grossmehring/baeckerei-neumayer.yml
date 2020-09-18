@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.7658367
 longitude: 11.5363407
-postcode: 85098
+postcode: "85098"
 city: Großmehring
 street: "Regensburger Straße"
 housenumber: 16

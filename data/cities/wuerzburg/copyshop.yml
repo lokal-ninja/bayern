@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 49.7887381
 longitude: 9.9305743
-postcode: 97070
+postcode: "97070"
 city: Würzburg
 street: "Sanderstraße"
 housenumber: 10

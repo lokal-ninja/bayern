@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.0327763
 longitude: 11.5989033
-postcode: 82041
+postcode: "82041"
 city: Oberhaching
 street: "Further-Bahnhof-Straße"
 housenumber: 12

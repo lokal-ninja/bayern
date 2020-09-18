@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 49.302436
 longitude: 10.5727261
-postcode: 91522
+postcode: "91522"
 city: Ansbach
 street: "Johann-Sebastian-Bach-Platz"
 housenumber: 4

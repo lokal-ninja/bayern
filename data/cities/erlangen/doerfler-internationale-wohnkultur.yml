@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 49.5954126
 longitude: 11.0056343
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Friedrichstraße"
 housenumber: 5

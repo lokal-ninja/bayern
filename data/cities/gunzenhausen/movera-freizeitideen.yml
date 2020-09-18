@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 49.127314000000005
 longitude: 10.7705076
-postcode: 91710
+postcode: "91710"
 city: Gunzenhausen
 street: "Nürnberger Straße"
 housenumber: 104

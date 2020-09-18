@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 48.7302996
 longitude: 11.831430500000002
-postcode: 93358
+postcode: "93358"
 city: Train
 street: "Niederumelsdorfer Straße"
 housenumber: 16

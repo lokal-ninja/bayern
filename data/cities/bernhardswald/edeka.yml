@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.097968400000006
 longitude: 12.2564297
-postcode: 93170
+postcode: "93170"
 city: Bernhardswald
 street: "Neuhaus auf der Tratt"
 housenumber: 4

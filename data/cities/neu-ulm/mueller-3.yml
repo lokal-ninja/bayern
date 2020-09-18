@@ -3,10 +3,10 @@ type: way
 shop: Drogerie
 latitude: 48.4012158
 longitude: 10.0229908
-postcode: 89231
+postcode: "89231"
 city: Neu-Ulm
 street: "Heinrich-Heine-Straße"
 housenumber: 2/1
-phone: "+49 731 / 97876-0"
+phone: "+49 731 97876-0"
 opening_hours: "Mo-Fr 08:30-19:00; Sa 08:30-16:00"
 website: "https://www.mueller.de/"

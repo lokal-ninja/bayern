@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.164080600000005
 longitude: 11.6287126
-postcode: 81925
+postcode: "81925"
 city: München
 street: "Cosimastraße"
 housenumber: 121

@@ -3,7 +3,7 @@ type: node
 shop: E-Zigaretten
 latitude: 48.2724763
 longitude: 10.975966900000001
-postcode: 86415
+postcode: "86415"
 city: Mering
 street: "Gaußring"
 housenumber: 34

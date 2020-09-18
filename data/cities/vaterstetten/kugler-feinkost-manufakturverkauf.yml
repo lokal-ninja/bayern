@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 48.147045000000006
 longitude: 11.793186100000002
-postcode: 85599
+postcode: "85599"
 city: Vaterstetten
 street: "Taxetstraße"
 housenumber: 5

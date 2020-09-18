@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.091483000000004
 longitude: 11.561124900000001
-postcode: 81545
+postcode: "81545"
 city: München
 street: "Grünwalder Straße"
 housenumber: 248

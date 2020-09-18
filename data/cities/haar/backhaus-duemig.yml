@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.1097338
 longitude: 11.7259977
-postcode: 85540
+postcode: "85540"
 city: Haar
 street: "Salmdorfer Straße"
 housenumber: 1

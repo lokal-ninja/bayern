@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.112447200000005
 longitude: 11.676385300000002
-postcode: 81827
+postcode: "81827"
 city: München
 street: "Hugo-Weiss-Straße"
 housenumber: 2-4

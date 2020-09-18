@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.1312373
 longitude: 11.510935900000002
-postcode: 80686
+postcode: "80686"
 city: München
 street: "Burgkmairstraße"
 housenumber: 48

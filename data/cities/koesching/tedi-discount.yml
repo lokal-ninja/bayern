@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.808815
 longitude: 11.484345900000001
-postcode: 85092
+postcode: "85092"
 city: Kösching
 street: "Ingolstädter Straße"
 housenumber: 99

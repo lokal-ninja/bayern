@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 49.861457300000005
 longitude: 9.082575400000001
-postcode: 63853
+postcode: "63853"
 city: Mömlingen
 street: "Im Paradies"
 housenumber: 9

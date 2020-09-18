@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 47.854440700000005
 longitude: 11.4932932
-postcode: 82538
+postcode: "82538"
 city: Geretsried
 street: "Sudetenstraße"
 housenumber: 61

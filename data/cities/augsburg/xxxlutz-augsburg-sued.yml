@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 48.3192473
 longitude: 10.8899515
-postcode: 86179
+postcode: "86179"
 city: Augsburg
 street: "Unterer Talweg"
 housenumber: 49

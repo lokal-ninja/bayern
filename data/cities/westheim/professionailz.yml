@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.0243326
 longitude: 10.6872672
-postcode: 91747
+postcode: "91747"
 city: Westheim
 street: "Lehrbuck"
 housenumber: 4

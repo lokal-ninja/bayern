@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.6062068
 longitude: 10.9828744
-postcode: 91056
+postcode: "91056"
 city: Erlangen
 street: "Möhrendorfer Straße"
 housenumber: 4

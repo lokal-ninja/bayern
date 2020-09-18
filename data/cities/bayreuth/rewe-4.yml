@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.9379593
 longitude: 11.5540356
-postcode: 95445
+postcode: "95445"
 city: Bayreuth
 street: "Bamberger Straße"
 housenumber: 32

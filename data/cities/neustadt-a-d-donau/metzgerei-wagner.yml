@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.8228148
 longitude: 11.781732
-postcode: 93333
+postcode: "93333"
 city: Neustadt a.d.Donau
 street: "Neustädter Straße"
 housenumber: 12

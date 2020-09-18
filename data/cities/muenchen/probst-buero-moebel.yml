@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.1931081
 longitude: 11.5952128
-postcode: 80939
+postcode: "80939"
 city: München
 street: "Maria-Probst-Straße"
 housenumber: 21

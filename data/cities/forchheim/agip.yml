@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 49.715212900000004
 longitude: 11.0800608
-postcode: 91301
+postcode: "91301"
 city: Forchheim
 street: "Bayreuther Straße"
 housenumber: 22

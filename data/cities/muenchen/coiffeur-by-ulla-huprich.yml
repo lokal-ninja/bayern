@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.1374061
 longitude: 11.58089
-postcode: 80331
+postcode: "80331"
 city: München
 street: "Neuturmstraße"
 housenumber: 1

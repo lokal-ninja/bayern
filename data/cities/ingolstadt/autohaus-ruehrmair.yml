@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.7725578
 longitude: 11.45326
-postcode: 85055
+postcode: "85055"
 city: Ingolstadt
 street: "Goethestraße"
 housenumber: 147

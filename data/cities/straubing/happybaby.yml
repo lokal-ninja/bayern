@@ -3,7 +3,7 @@ type: node
 shop: Babysachen
 latitude: 48.887665500000004
 longitude: 12.612171400000001
-postcode: 94315
+postcode: "94315"
 city: Straubing
 street: "Posener Straße"
 housenumber: 16

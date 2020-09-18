@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 48.107681500000005
 longitude: 11.729707900000001
-postcode: 85540
+postcode: "85540"
 city: Haar
 street: "Wasserburger Straße"
 housenumber: 7b

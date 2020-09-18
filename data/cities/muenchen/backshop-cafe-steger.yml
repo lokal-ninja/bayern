@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.1294826
 longitude: 11.5682066
-postcode: 80469
+postcode: "80469"
 city: München
 street: "Holzstraße"
 housenumber: 21

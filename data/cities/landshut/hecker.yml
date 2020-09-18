@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.527352400000005
 longitude: 12.161817300000001
-postcode: 84036
+postcode: "84036"
 city: Landshut
 street: "Adelmannstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 49.1452248
 longitude: 12.7275576
-postcode: 93499
+postcode: "93499"
 city: Zandt
 street: "Wolfersdorfer Straße"
 housenumber: 30

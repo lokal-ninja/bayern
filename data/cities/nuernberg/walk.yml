@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.457767000000004
 longitude: 11.1255837
-postcode: 90482
+postcode: "90482"
 city: Nürnberg
 street: "Ostendstraße"
 housenumber: 176

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.7738664
 longitude: 11.416928500000001
-postcode: 85057
+postcode: "85057"
 city: Ingolstadt
 street: "Ettinger Straße"
 housenumber: 19

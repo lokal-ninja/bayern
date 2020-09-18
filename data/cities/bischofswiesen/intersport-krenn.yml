@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 47.6690496
 longitude: 12.943908100000002
-postcode: 83483
+postcode: "83483"
 city: Bischofswiesen
 street: "Reichenhaller Straße"
 housenumber: 18-20

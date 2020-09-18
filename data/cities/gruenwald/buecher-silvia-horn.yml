@@ -3,10 +3,10 @@ type: node
 shop: Bücher
 latitude: 48.0409349
 longitude: 11.523135100000001
-postcode: 82031
+postcode: "82031"
 city: Grünwald
 street: "Schloßstraße"
 housenumber: 14c
 phone: "+49 89 6410471"
 opening_hours: ""
-website: "www.buchgruenwald.de"
+website: "https://www.buchgruenwald.de"

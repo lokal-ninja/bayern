@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.394788000000005
 longitude: 10.8320269
-postcode: 86356
+postcode: "86356"
 city: Neusäß
 street: "Daimlerstraße"
 housenumber: 1

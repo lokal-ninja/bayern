@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.1660909
 longitude: 11.5817707
-postcode: 80803
+postcode: "80803"
 city: München
 street: "Karl-Theodor-Straße"
 housenumber: 31

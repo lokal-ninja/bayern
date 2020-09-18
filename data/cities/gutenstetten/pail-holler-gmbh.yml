@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 49.617341700000004
 longitude: 10.6292326
-postcode: 91468
+postcode: "91468"
 city: Gutenstetten
 street: "Hauptstraße"
 housenumber: 17

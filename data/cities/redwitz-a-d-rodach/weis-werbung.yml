@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 50.196060800000005
 longitude: 11.2140245
-postcode: 96257
+postcode: "96257"
 city: Redwitz a.d.Rodach
 street: "Austraße"
 housenumber: 7

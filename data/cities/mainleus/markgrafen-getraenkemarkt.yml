@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 50.1001197
 longitude: 11.3922345
-postcode: 95336
+postcode: "95336"
 city: Mainleus
 street: "Tiefe Äcker"
 housenumber: 3

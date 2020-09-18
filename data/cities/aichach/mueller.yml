@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 48.460673
 longitude: 11.1326251
-postcode: 86551
+postcode: "86551"
 city: Aichach
 street: "Gerhauserstraße"
 housenumber: 3

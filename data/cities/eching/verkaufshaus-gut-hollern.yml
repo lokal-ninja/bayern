@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.2900264
 longitude: 11.596838700000001
-postcode: 85386
+postcode: "85386"
 city: Eching
 street: "Gut Hollern"
 housenumber: 1a

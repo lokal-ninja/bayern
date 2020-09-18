@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.0002488
 longitude: 12.084324800000001
-postcode: 95615
+postcode: "95615"
 city: Marktredwitz
 street: "Leopoldstraße"
 housenumber: 11

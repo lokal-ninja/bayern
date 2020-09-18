@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 49.0233937
 longitude: 10.5270696
-postcode: 91717
+postcode: "91717"
 city: Wassertrüdingen
 street: ""
 housenumber: 70

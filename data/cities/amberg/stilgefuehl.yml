@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.444492700000005
 longitude: 11.858293000000002
-postcode: 92224
+postcode: "92224"
 city: Amberg
 street: "Salzstadelplatz"
 housenumber: 7

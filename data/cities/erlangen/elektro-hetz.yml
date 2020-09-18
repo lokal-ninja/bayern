@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 49.595111700000004
 longitude: 11.0040552
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Innere Brucker Straße"
 housenumber: 3

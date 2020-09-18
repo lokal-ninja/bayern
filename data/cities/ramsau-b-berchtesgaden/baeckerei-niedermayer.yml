@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.6054205
 longitude: 12.909670700000001
-postcode: 83486
+postcode: "83486"
 city: Ramsau b. Berchtesgaden
 street: "Im Tal"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.1215343
 longitude: 11.5347349
-postcode: 81373
+postcode: "81373"
 city: München
 street: "Nestroystraße"
 housenumber: 2

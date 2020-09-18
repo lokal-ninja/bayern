@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 49.441378400000005
 longitude: 11.0352771
-postcode: 90431
+postcode: "90431"
 city: Nürnberg
 street: "Leubelfingstraße"
 housenumber: 133

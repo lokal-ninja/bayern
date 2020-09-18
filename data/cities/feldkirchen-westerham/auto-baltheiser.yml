@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.8942629
 longitude: 11.8415292
-postcode: 83620
+postcode: "83620"
 city: Feldkirchen-Westerham
 street: "Weidacher Straße"
 housenumber: 23

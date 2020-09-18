@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 49.602422700000005
 longitude: 11.005436600000001
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Vierzigmannstraße"
 housenumber: 11

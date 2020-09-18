@@ -3,7 +3,7 @@ type: node
 shop: Reifen
 latitude: 49.795510300000004
 longitude: 9.9865323
-postcode: 97076
+postcode: "97076"
 city: Würzburg
 street: "Gattingerstraße"
 housenumber: 8

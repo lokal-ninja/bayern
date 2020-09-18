@@ -1,12 +1,12 @@
 id: 6055549616
 type: node
 shop: Autohaus
-latitude: 47.854579900000004
-longitude: 12.623447500000001
-postcode: 83278
+latitude: 47.854461300000004
+longitude: 12.6234186
+postcode: "83278"
 city: Traunstein
 street: "Sonntagshornstraße"
-housenumber: 
+housenumber: 37
 phone: "+49 861 166210"
 opening_hours: ""
 website: ""

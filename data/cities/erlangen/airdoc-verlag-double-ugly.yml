@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.5441906
 longitude: 11.025857400000001
-postcode: 91058
+postcode: "91058"
 city: Erlangen
 street: "Wetterkreuz"
 housenumber: 13

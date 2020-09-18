@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.180606000000004
 longitude: 11.512705400000002
-postcode: 80992
+postcode: "80992"
 city: München
 street: "Dachauer Straße"
 housenumber: 270

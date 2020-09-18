@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 47.735398700000005
 longitude: 11.8633328
-postcode: 83727
+postcode: "83727"
 city: Schliersee
 street: "Rathausstraße"
 housenumber: 11

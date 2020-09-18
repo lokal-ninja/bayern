@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 48.3549
 longitude: 11.3805631
-postcode: 85229
+postcode: "85229"
 city: Markt Indersdorf
 street: "Dachauer Straße"
 housenumber: 58

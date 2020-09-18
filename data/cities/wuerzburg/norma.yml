@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.7932092
 longitude: 9.945772400000001
-postcode: 97072
+postcode: "97072"
 city: Würzburg
 street: "Sartoriusstraße"
 housenumber: 6

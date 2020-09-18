@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 49.918752600000005
 longitude: 9.0747703
-postcode: 63762
+postcode: "63762"
 city: Großostheim
 street: "Breite Straße"
 housenumber: 36

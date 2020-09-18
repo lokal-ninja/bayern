@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.0172237
 longitude: 10.8948303
-postcode: 96179
+postcode: "96179"
 city: Rattelsdorf
 street: "Im Flecken"
 housenumber: 1

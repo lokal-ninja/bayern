@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 49.568417600000004
 longitude: 10.961886300000002
-postcode: 91056
+postcode: "91056"
 city: Erlangen
 street: "Brückenstraße"
 housenumber: 1

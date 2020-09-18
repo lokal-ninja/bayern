@@ -1,4 +1,4 @@
 ---
-title: "tegut"
+title: "Tegut"
 url: /kolitzheim/tegut/
 ---

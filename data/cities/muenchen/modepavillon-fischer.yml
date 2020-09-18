@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 48.0763739
 longitude: 11.512855700000001
-postcode: 81479
+postcode: "81479"
 city: München
 street: "Herterichstraße"
 housenumber: 67a

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.225431400000005
 longitude: 12.673105000000001
-postcode: 93413
+postcode: "93413"
 city: Cham
 street: "Arberstraße"
 housenumber: 21

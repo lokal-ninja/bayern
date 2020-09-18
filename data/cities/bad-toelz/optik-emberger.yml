@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 47.7588651
 longitude: 11.5833714
-postcode: 83646
+postcode: "83646"
 city: Bad Tölz
 street: "Professor-Max-Lange-Platz"
 housenumber: 14

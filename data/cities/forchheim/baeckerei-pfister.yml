@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.715248
 longitude: 11.0431314
-postcode: 91301
+postcode: "91301"
 city: Forchheim
 street: "Burker Straße"
 housenumber: 68

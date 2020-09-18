@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.630684800000004
 longitude: 11.016638700000001
-postcode: 91088
+postcode: "91088"
 city: Bubenreuth
 street: "Scherleshofer Straße"
 housenumber: 23

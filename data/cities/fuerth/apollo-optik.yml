@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.47399
 longitude: 10.990366400000001
-postcode: 90762
+postcode: "90762"
 city: Fürth
 street: "Moststraße"
 housenumber: 12

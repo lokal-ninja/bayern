@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.794448800000005
 longitude: 10.0030058
-postcode: 97076
+postcode: "97076"
 city: Würzburg
 street: "Nürnberger Straße"
 housenumber: 

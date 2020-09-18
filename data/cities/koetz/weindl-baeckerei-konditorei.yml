@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.4065499
 longitude: 10.273380900000001
-postcode: 89359
+postcode: "89359"
 city: Kötz
 street: "Ichenhauser Straße"
 housenumber: 3

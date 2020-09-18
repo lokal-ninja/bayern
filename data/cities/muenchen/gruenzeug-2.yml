@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.1212098
 longitude: 11.5618051
-postcode: 80469
+postcode: "80469"
 city: München
 street: "Ehrengutstraße"
 housenumber: 25

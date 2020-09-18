@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 49.672814
 longitude: 12.148828100000001
-postcode: 92637
+postcode: "92637"
 city: Weiden i.d.OPf.
 street: "Frauenrichter Straße"
 housenumber: 50-52

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.822327200000004
 longitude: 11.4611593
-postcode: 85120
+postcode: "85120"
 city: Hepberg
 street: "Hauptstraße"
 housenumber: 33

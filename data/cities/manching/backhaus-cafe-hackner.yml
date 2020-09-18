@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.7172343
 longitude: 11.4924304
-postcode: 85077
+postcode: "85077"
 city: Manching
 street: "Ingolstädter Straße"
 housenumber: 6a

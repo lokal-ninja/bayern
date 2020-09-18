@@ -3,7 +3,7 @@ type: way
 shop: Bücher
 latitude: 48.7640936
 longitude: 11.424043800000002
-postcode: 85049
+postcode: "85049"
 city: Ingolstadt
 street: "Theresienstraße"
 housenumber: 4

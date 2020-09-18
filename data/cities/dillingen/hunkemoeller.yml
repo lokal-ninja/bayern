@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.577744800000005
 longitude: 10.496288100000001
-postcode: 89407
+postcode: "89407"
 city: Dillingen
 street: "Kapuzinerstraße"
 housenumber: 1

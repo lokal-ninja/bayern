@@ -3,7 +3,7 @@ type: node
 shop: Waffen
 latitude: 47.991925200000004
 longitude: 10.16768
-postcode: 87700
+postcode: "87700"
 city: Memmingen
 street: "Nordweg"
 housenumber: 33

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.156590300000005
 longitude: 11.569131500000001
-postcode: 80798
+postcode: "80798"
 city: München
 street: "Georgenstraße"
 housenumber: 81

@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 48.9936469
 longitude: 12.2314874
-postcode: 93092
+postcode: "93092"
 city: Barbing
 street: "Henleinstraße"
 housenumber: 2

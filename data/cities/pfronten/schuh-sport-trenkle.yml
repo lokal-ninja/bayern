@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 47.5818358
 longitude: 10.5586309
-postcode: 87459
+postcode: "87459"
 city: Pfronten
 street: "Allgäuer Straße"
 housenumber: 9

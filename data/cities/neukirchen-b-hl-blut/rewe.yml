@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.261699400000005
 longitude: 12.968386
-postcode: 93453
+postcode: "93453"
 city: Neukirchen b. Hl. Blut
 street: "Marktstraße"
 housenumber: 35

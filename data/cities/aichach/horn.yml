@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 48.458972100000004
 longitude: 11.1306548
-postcode: 86551
+postcode: "86551"
 city: Aichach
 street: "Stadtplatz"
 housenumber: 26

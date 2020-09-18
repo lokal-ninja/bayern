@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.504310700000005
 longitude: 11.2791815
-postcode: 91207
+postcode: "91207"
 city: Lauf a.d.Pegnitz
 street: "Röthenbacher Straße"
 housenumber: 11

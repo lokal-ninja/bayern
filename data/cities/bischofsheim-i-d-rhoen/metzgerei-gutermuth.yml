@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.400942400000005
 longitude: 10.008833500000001
-postcode: 97653
+postcode: "97653"
 city: Bischofsheim i.d.Rhön
 street: "Bahnhofstraße"
 housenumber: 18

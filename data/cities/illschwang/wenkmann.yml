@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.446575700000004
 longitude: 11.6859882
-postcode: 92278
+postcode: "92278"
 city: Illschwang
 street: "Zur Hainsburg"
 housenumber: 6

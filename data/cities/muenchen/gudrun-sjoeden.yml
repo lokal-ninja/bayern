@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.1595409
 longitude: 11.583664200000001
-postcode: 80801
+postcode: "80801"
 city: München
 street: "Hohenzollernstraße"
 housenumber: 9

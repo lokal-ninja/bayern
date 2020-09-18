@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.2742632
 longitude: 11.841645600000001
-postcode: 85452
+postcode: "85452"
 city: Moosinning
 street: "Dorfstraße"
 housenumber: 33 c

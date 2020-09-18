@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.981706200000005
 longitude: 9.143895
-postcode: 63741
+postcode: "63741"
 city: Aschaffenburg
 street: "Dämmer Tor"
 housenumber: 3

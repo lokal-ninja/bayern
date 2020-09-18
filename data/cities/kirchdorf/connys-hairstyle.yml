@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.7712239
 longitude: 11.9042285
-postcode: 93348
+postcode: "93348"
 city: Kirchdorf
 street: "Schulweg"
 housenumber: 1a

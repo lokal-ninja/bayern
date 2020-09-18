@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.9747288
 longitude: 12.1882775
-postcode: 93073
+postcode: "93073"
 city: Neutraubling
 street: "An der Südumgehung"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 48.046539700000004
 longitude: 11.615726800000001
-postcode: 82024
+postcode: "82024"
 city: Taufkirchen
 street: "Köglweg"
 housenumber: 12

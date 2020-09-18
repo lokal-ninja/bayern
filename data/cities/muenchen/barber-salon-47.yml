@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.1515508
 longitude: 11.573429500000001
-postcode: 80799
+postcode: "80799"
 city: München
 street: "Barer Straße"
 housenumber: 47

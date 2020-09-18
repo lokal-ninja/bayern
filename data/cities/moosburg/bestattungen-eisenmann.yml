@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 48.4643278
 longitude: 11.931309
-postcode: 85368
+postcode: "85368"
 city: Moosburg
 street: "Münchener Straße"
 housenumber: 44

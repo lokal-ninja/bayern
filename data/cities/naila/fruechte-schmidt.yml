@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.3287817
 longitude: 11.7101985
-postcode: 95119
+postcode: "95119"
 city: Naila
 street: "Bahnhofstraße"
 housenumber: 2

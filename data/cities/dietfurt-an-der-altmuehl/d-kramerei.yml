@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.0211832
 longitude: 11.616821100000001
-postcode: 92345
+postcode: "92345"
 city: Dietfurt an der Altmühl
 street: "Riedenburger Straße"
 housenumber: 9

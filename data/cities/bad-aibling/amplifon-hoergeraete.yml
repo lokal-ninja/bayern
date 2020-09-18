@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 47.864214700000005
 longitude: 12.0084592
-postcode: 83043
+postcode: "83043"
 city: Bad Aibling
 street: "Bahnhofstraße"
 housenumber: 2

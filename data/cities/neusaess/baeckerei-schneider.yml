@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.392932
 longitude: 10.827083100000001
-postcode: 86356
+postcode: "86356"
 city: Neusäß
 street: "Daimlerstraße"
 housenumber: 7

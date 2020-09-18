@@ -3,7 +3,7 @@ type: node
 shop: Angeln
 latitude: 49.5077409
 longitude: 11.280476700000001
-postcode: 91207
+postcode: "91207"
 city: Lauf a.d.Pegnitz
 street: "Luitpoldstraße"
 housenumber: 14

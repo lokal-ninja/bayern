@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 49.9827579
 longitude: 9.1158385
-postcode: 63741
+postcode: "63741"
 city: Aschaffenburg
 street: "Linkstraße"
 housenumber: 66

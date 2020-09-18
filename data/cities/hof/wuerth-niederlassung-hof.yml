@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 50.3149626
 longitude: 11.8848953
-postcode: 95030
+postcode: "95030"
 city: Hof
 street: "An der Hohensaas"
 housenumber: 1

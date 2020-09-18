@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.761450800000006
 longitude: 11.4406636
-postcode: 85053
+postcode: "85053"
 city: Ingolstadt
 street: "Südliche Ringstraße"
 housenumber: 62

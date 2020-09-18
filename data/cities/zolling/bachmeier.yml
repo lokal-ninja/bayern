@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.4485546
 longitude: 11.764242600000001
-postcode: 85406
+postcode: "85406"
 city: Zolling
 street: "Am Sägewerk"
 housenumber: 3

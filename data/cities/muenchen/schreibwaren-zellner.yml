@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 48.0879562
 longitude: 11.640416100000001
-postcode: 81739
+postcode: "81739"
 city: München
 street: "Maximilian-Kolbe-Allee"
 housenumber: 12

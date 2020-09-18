@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 48.561202900000005
 longitude: 12.816834400000001
-postcode: 94424
+postcode: "94424"
 city: Arnstorf
 street: "Unterer Markt"
 housenumber: 1

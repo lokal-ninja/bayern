@@ -3,7 +3,7 @@ type: way
 shop: Kopieren
 latitude: 49.0081404
 longitude: 12.087185400000001
-postcode: 93051
+postcode: "93051"
 city: Regensburg
 street: "Kumpfmühler Straße"
 housenumber: 42

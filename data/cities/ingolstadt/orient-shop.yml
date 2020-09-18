@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 48.7627765
 longitude: 11.4235807
-postcode: 85049
+postcode: "85049"
 city: Ingolstadt
 street: "Sauerstraße"
 housenumber: 7

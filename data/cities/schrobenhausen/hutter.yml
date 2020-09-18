@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 48.561650400000005
 longitude: 11.2656167
-postcode: 86529
+postcode: "86529"
 city: Schrobenhausen
 street: "Lenbachplatz"
 housenumber: 3

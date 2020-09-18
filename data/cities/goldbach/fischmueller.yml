@@ -3,7 +3,7 @@ type: way
 shop: Fisch
 latitude: 49.9969806
 longitude: 9.1789736
-postcode: 63773
+postcode: "63773"
 city: Goldbach
 street: "Aschaffenburger Straße"
 housenumber: 41

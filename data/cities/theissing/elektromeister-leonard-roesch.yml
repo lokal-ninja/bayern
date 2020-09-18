@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.811024100000004
 longitude: 11.574803800000002
-postcode: 85098
+postcode: "85098"
 city: Theißing
 street: "Steinbruchstraße"
 housenumber: 2

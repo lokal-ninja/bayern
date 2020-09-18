@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 49.045326100000004
 longitude: 11.349984200000002
-postcode: 91171
+postcode: "91171"
 city: Greding
 street: "Hausener Straße"
 housenumber: 2

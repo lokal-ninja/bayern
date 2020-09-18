@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 49.4600603
 longitude: 11.1049789
-postcode: 90489
+postcode: "90489"
 city: Nürnberg
 street: "Äußere Sulzbacher Straße"
 housenumber: 18

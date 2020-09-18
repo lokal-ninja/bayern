@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.092736
 longitude: 12.0279102
-postcode: 85643
+postcode: "85643"
 city: Steinhöring
 street: "Berger Straße"
 housenumber: 30

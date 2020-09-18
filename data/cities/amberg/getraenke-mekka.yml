@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 49.448574900000004
 longitude: 11.8461257
-postcode: 92224
+postcode: "92224"
 city: Amberg
 street: "Eglseer Straße"
 housenumber: 43

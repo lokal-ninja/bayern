@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.1459891
 longitude: 11.6401403
-postcode: 81929
+postcode: "81929"
 city: München
 street: "Friedrich-Eckart-Straße"
 housenumber: 60

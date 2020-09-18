@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 49.878939
 longitude: 12.336662500000001
-postcode: 95643
+postcode: "95643"
 city: Tirschenreuth
 street: "Maximilianplatz"
 housenumber: 38

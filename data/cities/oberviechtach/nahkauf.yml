@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.460489100000004
 longitude: 12.4158656
-postcode: 92526
+postcode: "92526"
 city: Oberviechtach
 street: "Teunzer Straße"
 housenumber: 6

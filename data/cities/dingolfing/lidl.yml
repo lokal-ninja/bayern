@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.6161856
 longitude: 12.4889448
-postcode: 84130
+postcode: "84130"
 city: Dingolfing
 street: "Röntgenstraße"
 housenumber: 1

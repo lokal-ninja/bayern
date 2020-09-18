@@ -3,7 +3,7 @@ type: way
 shop: Andenken
 latitude: 49.048721500000006
 longitude: 10.5011632
-postcode: 91726
+postcode: "91726"
 city: Gerolfingen
 street: "Aufkirchen"
 housenumber: 74a

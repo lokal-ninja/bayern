@@ -3,7 +3,7 @@ type: node
 shop: Motorrad
 latitude: 48.2513221
 longitude: 10.0864551
-postcode: 89287
+postcode: "89287"
 city: Bellenberg
 street: "Auer Straße"
 housenumber: 11

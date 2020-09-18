@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.508977300000005
 longitude: 11.4063738
-postcode: 91217
+postcode: "91217"
 city: Hersbruck
 street: "Nürnberger Straße"
 housenumber: 143

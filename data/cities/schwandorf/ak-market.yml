@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.3266683
 longitude: 12.1108402
-postcode: 92421
+postcode: "92421"
 city: Schwandorf
 street: "Wackersdorfer Straße"
 housenumber: 13

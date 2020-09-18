@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.790635
 longitude: 10.022469800000001
-postcode: 97228
+postcode: "97228"
 city: Rottendorf
 street: "Würzburger Straße"
 housenumber: 20c

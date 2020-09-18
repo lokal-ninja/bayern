@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.8918672
 longitude: 10.8877605
-postcode: 96047
+postcode: "96047"
 city: Bamberg
 street: "Obere Brücke"
 housenumber: 9

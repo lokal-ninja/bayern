@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.199233400000004
 longitude: 11.328691200000002
-postcode: 82140
+postcode: "82140"
 city: Olching
 street: "Johann-G.-Gutenberg-Straße"
 housenumber: 18

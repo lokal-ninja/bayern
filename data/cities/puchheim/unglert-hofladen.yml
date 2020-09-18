@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 48.159951500000005
 longitude: 11.3493644
-postcode: 82178
+postcode: "82178"
 city: Puchheim
 street: "Alte Bahnhofstraße"
 housenumber: 12

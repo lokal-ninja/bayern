@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 49.485554400000005
 longitude: 10.998476
-postcode: 90765
+postcode: "90765"
 city: Fürth
 street: "Laubenweg"
 housenumber: 27

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.694850800000005
 longitude: 12.1565489
-postcode: 92637
+postcode: "92637"
 city: Weiden i.d.OPf.
 street: "Conrad-Röntgen-Straße"
 housenumber: 30

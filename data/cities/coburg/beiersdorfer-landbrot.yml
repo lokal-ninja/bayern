@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.2586476
 longitude: 10.965006
-postcode: 96450
+postcode: "96450"
 city: Coburg
 street: "Markt"
 housenumber: 10

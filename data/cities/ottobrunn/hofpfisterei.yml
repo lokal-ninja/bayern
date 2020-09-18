@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.0671071
 longitude: 11.6657905
-postcode: 85521
+postcode: "85521"
 city: Ottobrunn
 street: "Putzbrunner Straße"
 housenumber: 27

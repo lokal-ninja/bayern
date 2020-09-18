@@ -3,7 +3,7 @@ type: node
 shop: Jalousien
 latitude: 48.1003916
 longitude: 11.4155023
-postcode: 82152
+postcode: "82152"
 city: Krailling
 street: "Elisenstraße"
 housenumber: 14

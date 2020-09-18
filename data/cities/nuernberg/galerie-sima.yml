@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 49.45342410000001
 longitude: 11.0604361
-postcode: 90429
+postcode: "90429"
 city: Nürnberg
 street: "Hochstraße"
 housenumber: 33

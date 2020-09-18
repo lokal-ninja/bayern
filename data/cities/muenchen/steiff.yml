@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 48.142941300000004
 longitude: 11.5756213
-postcode: 80333
+postcode: "80333"
 city: München
 street: "Brienner Straße"
 housenumber: 9

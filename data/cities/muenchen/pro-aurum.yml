@@ -3,7 +3,7 @@ type: way
 shop: Schmuck
 latitude: 48.1352946
 longitude: 11.6854346
-postcode: 81829
+postcode: "81829"
 city: München
 street: "Joseph-Wild-Straße"
 housenumber: 12

@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 49.326962200000004
 longitude: 12.110124200000001
-postcode: 92421
+postcode: "92421"
 city: Schwandorf
 street: "Wackersdorfer Straße"
 housenumber: 10

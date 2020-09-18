@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.173455100000005
 longitude: 11.263752
-postcode: 82256
+postcode: "82256"
 city: Fürstenfeldbruck
 street: "Oskar-von-Miller-Straße"
 housenumber: 2

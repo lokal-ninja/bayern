@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 47.742626200000004
 longitude: 12.8954398
-postcode: 83435
+postcode: "83435"
 city: Bad Reichenhall
 street: "Saalachstraße"
 housenumber: 3

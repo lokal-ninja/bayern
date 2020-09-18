@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.248843900000004
 longitude: 12.0290671
-postcode: 95111
+postcode: "95111"
 city: Rehau
 street: "Goethestraße"
 housenumber: 28

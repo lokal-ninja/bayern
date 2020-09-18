@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.273331400000004
 longitude: 12.151342900000001
-postcode: 84405
+postcode: "84405"
 city: Dorfen
 street: "Unterer Markt"
 housenumber: 5

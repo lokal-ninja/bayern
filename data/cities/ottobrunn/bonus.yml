@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.0534678
 longitude: 11.665402100000001
-postcode: 85521
+postcode: "85521"
 city: Ottobrunn
 street: "Robert-Koch-Straße"
 housenumber: 11a

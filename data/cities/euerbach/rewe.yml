@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.0610821
 longitude: 10.143894600000001
-postcode: 97502
+postcode: "97502"
 city: Euerbach
 street: "Am Zauser"
 housenumber: 1

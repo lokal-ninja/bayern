@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.035398
 longitude: 11.907771400000001
-postcode: 93180
+postcode: "93180"
 city: Deuerling
 street: "Regensburger Straße"
 housenumber: 18

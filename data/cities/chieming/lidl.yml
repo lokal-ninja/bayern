@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.9070077
 longitude: 12.5388411
-postcode: 83339
+postcode: "83339"
 city: Chieming
 street: "Goriweg"
 housenumber: 2

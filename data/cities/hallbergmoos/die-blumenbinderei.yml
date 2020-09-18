@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.3200653
 longitude: 11.7469628
-postcode: 85399
+postcode: "85399"
 city: Hallbergmoos
 street: "Theresienstraße"
 housenumber: 59

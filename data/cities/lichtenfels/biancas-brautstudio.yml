@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 50.1388058
 longitude: 11.0688919
-postcode: 96215
+postcode: "96215"
 city: Lichtenfels
 street: "Theodor-Heuss-Straße"
 housenumber: 59

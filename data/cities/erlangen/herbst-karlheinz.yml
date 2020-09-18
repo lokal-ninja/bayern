@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.5961179
 longitude: 11.0179913
-postcode: 91052
+postcode: "91052"
 city: Erlangen
 street: "Gebbertstraße"
 housenumber: 10

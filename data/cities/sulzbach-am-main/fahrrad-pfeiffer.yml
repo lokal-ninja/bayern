@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.9206962
 longitude: 9.1495633
-postcode: 63834
+postcode: "63834"
 city: Sulzbach am Main
 street: "Industriestraße"
 housenumber: 11

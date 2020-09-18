@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.7603262
 longitude: 9.982101700000001
-postcode: 97236
+postcode: "97236"
 city: Randersacker
 street: "Flecken"
 housenumber: 5

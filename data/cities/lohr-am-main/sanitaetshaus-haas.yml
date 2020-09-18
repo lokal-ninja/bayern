@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 49.9918239
 longitude: 9.5772685
-postcode: 97816
+postcode: "97816"
 city: Lohr am Main
 street: "Vorstadtstraße"
 housenumber: 27

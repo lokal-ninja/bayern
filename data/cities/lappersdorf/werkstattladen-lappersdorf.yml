@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 49.056100900000004
 longitude: 12.088708
-postcode: 93138
+postcode: "93138"
 city: Lappersdorf
 street: "Michael-Bauer-Straße"
 housenumber: 16

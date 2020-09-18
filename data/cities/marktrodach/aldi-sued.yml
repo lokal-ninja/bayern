@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 50.2562975
 longitude: 11.3963696
-postcode: 96364
+postcode: "96364"
 city: Marktrodach
 street: "Im Gries"
 housenumber: 1
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 08:00-20:00"
 website: ""

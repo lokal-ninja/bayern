@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 47.849940100000005
 longitude: 12.0677926
-postcode: 83059
+postcode: "83059"
 city: Kolbermoor
 street: "Rosenheimer Straße"
 housenumber: 27

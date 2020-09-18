@@ -1,12 +1,12 @@
-id: 94914285
-type: way
+id: 1752428519
+type: node
 shop: Getränke
-latitude: 49.0209041
-longitude: 12.0545331
-postcode: 93049
+latitude: 49.0005553
+longitude: 12.1226512
+postcode: "93053"
 city: Regensburg
-street: "Wernerwerkstraße"
-housenumber: 2b
+street: "Von-Seeckt-Straße"
+housenumber: 11
 phone: ""
-opening_hours: "Mo-Sa 7:00-20:00"
+opening_hours: ""
 website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.5116871
 longitude: 10.2790358
-postcode: 87527
+postcode: "87527"
 city: Sonthofen
 street: "Schloßstraße"
 housenumber: 1

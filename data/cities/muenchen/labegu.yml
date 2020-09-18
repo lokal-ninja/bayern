@@ -3,7 +3,7 @@ type: node
 shop: Esoterik
 latitude: 48.082760900000004
 longitude: 11.4849078
-postcode: 81475
+postcode: "81475"
 city: München
 street: "Königswieser Straße"
 housenumber: 5

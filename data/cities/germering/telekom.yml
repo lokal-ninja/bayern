@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 48.1313
 longitude: 11.364412000000002
-postcode: 82110
+postcode: "82110"
 city: Germering
 street: "Untere Bahnhofstraße"
 housenumber: 38a

@@ -1,12 +1,12 @@
-id: 184839407
-type: way
+id: 3978018478
+type: node
 shop: Supermarkt
-latitude: 48.8767482
-longitude: 12.553855100000002
-postcode: 94315
+latitude: 48.858919
+longitude: 12.5773293
+postcode: "94315"
 city: Straubing
-street: "Geiselhöringer Straße"
-housenumber: 66
+street: "Landshuter Straße"
+housenumber: 197
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"
 website: ""

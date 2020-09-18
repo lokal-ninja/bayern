@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.590067000000005
 longitude: 10.968181600000001
-postcode: 91056
+postcode: "91056"
 city: Erlangen
 street: "Dorfstraße"
 housenumber: 43

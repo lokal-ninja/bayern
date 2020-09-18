@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.133439200000005
 longitude: 11.575124800000001
-postcode: 80469
+postcode: "80469"
 city: München
 street: "Am Einlaß"
 housenumber: 3a

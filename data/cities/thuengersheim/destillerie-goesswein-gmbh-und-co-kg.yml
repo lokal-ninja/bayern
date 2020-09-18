@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 49.8751453
 longitude: 9.846250600000001
-postcode: 97291
+postcode: "97291"
 city: Thüngersheim
 street: "Günterslebener Straße"
 housenumber: 12

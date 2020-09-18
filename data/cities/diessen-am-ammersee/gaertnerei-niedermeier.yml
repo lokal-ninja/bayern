@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 47.943261500000006
 longitude: 11.107586300000001
-postcode: 86911
+postcode: "86911"
 city: Dießen am Ammersee
 street: "Jägerallee"
 housenumber: 6

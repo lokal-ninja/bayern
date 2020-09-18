@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 48.5340788
 longitude: 12.149397800000001
-postcode: 84028
+postcode: "84028"
 city: Landshut
 street: "Ländgasse"
 housenumber: 38

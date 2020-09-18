@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.1411856
 longitude: 11.5846406
-postcode: 80538
+postcode: "80538"
 city: München
 street: "Seitzstraße"
 housenumber: 13

@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 48.7343607
 longitude: 11.1822327
-postcode: 86633
+postcode: "86633"
 city: Neuburg an der Donau
 street: "Färberstraße"
 housenumber: C 90 - C 92

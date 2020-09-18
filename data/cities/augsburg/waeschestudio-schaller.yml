@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 48.3701151
 longitude: 10.8967223
-postcode: 86150
+postcode: "86150"
 city: Augsburg
 street: "Karlstraße"
 housenumber: 9

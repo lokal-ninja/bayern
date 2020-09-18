@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.511970500000004
 longitude: 11.282603700000001
-postcode: 91207
+postcode: "91207"
 city: Lauf a.d.Pegnitz
 street: "Barthstraße"
 housenumber: 1

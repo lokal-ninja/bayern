@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 50.073415600000004
 longitude: 9.0071705
-postcode: 63796
+postcode: "63796"
 city: Kahl am Main
 street: "Seestraße"
 housenumber: 1

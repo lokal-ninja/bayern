@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.9805652
 longitude: 11.6099698
-postcode: 95463
+postcode: "95463"
 city: Bindlach
 street: "Bahnhofstraße"
 housenumber: 7

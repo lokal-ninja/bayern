@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 48.98128740000001
 longitude: 12.1926375
-postcode: 93073
+postcode: "93073"
 city: Neutraubling
 street: "Pommernstraße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.318507800000006
 longitude: 11.916163800000001
-postcode: 95028
+postcode: "95028"
 city: Hof
 street: "Altstadt"
 housenumber: 1

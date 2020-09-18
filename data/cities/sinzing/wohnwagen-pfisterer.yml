@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.9957721
 longitude: 12.032835100000002
-postcode: 93161
+postcode: "93161"
 city: Sinzing
 street: "Industriestraße"
 housenumber: 4

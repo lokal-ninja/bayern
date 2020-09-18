@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 49.6614457
 longitude: 12.1476652
-postcode: 92637
+postcode: "92637"
 city: Weiden i.d.OPf.
 street: "Leimbergerstraße"
 housenumber: 77

@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 48.136246500000006
 longitude: 11.6081784
-postcode: 81675
+postcode: "81675"
 city: München
 street: "Einsteinstraße"
 housenumber: 123

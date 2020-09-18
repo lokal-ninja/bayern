@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 48.138874300000005
 longitude: 11.5319064
-postcode: 80339
+postcode: "80339"
 city: München
 street: "Guldeinstraße"
 housenumber: 36

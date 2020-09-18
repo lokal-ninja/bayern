@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 47.964534
 longitude: 12.5883731
-postcode: 83301
+postcode: "83301"
 city: Traunreut
 street: "Traunring"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 47.722159600000005
 longitude: 10.314959400000001
-postcode: 87435
+postcode: "87435"
 city: Kempten (Allgäu)
 street: "Bahnhofstraße"
 housenumber: 17

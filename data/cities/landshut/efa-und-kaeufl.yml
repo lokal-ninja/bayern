@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.549269100000004
 longitude: 12.147934500000002
-postcode: 84030
+postcode: "84030"
 city: Landshut
 street: "Liebigstraße"
 housenumber: 3

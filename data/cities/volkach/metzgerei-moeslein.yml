@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.8644818
 longitude: 10.2276238
-postcode: 97332
+postcode: "97332"
 city: Volkach
 street: "Professor-Jäcklein-Straße"
 housenumber: 3

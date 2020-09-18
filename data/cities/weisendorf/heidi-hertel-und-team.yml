@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.627545600000005
 longitude: 10.8384902
-postcode: 91085
+postcode: "91085"
 city: Weisendorf
 street: "Gewerbegebiet Ost"
 housenumber: 15c

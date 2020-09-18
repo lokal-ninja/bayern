@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.57876460000001
 longitude: 10.987742
-postcode: 91058
+postcode: "91058"
 city: Erlangen
 street: "Dresdener Straße"
 housenumber: 21

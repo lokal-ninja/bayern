@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 49.1103457
 longitude: 10.388784600000001
-postcode: 91602
+postcode: "91602"
 city: Dürrwangen
 street: "Hauptstraße"
 housenumber: 10

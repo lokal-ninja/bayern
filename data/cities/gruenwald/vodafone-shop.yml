@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 48.0397678
 longitude: 11.523555
-postcode: 82031
+postcode: "82031"
 city: Grünwald
 street: "Südliche Münchner Straße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.875261900000005
 longitude: 12.958514500000001
-postcode: 83416
+postcode: "83416"
 city: Saaldorf-Surheim
 street: "Schulstraße"
 housenumber: 1 a

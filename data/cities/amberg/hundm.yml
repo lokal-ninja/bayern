@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.445030800000005
 longitude: 11.8563112
-postcode: 92224
+postcode: "92224"
 city: Amberg
 street: "Georgenstraße"
 housenumber: 12-14

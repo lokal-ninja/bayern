@@ -3,7 +3,7 @@ type: node
 shop: Bioladen
 latitude: 48.146711
 longitude: 11.422004000000001
-postcode: 81243
+postcode: "81243"
 city: München
 street: "Limesstraße"
 housenumber: 73

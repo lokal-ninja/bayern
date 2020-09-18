@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 48.298201000000006
 longitude: 11.625253500000001
-postcode: 85386
+postcode: "85386"
 city: Eching
 street: "Untere Hauptstraße"
 housenumber: 11

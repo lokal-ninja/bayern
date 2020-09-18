@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 48.161371800000005
 longitude: 11.3392196
-postcode: 82178
+postcode: "82178"
 city: Puchheim
 street: "Dornierstraße"
 housenumber: 1

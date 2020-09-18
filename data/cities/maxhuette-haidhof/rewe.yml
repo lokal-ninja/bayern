@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.1999525
 longitude: 12.0944988
-postcode: 93142
+postcode: "93142"
 city: Maxhütte-Haidhof
 street: "Hermann-Ehlers-Straße"
 housenumber: 1

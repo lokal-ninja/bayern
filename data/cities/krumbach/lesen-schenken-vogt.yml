@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.24520690000001
 longitude: 10.3607451
-postcode: 86381
+postcode: "86381"
 city: Krumbach
 street: "Bahnhofstraße"
 housenumber: 36

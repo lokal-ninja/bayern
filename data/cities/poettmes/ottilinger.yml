@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 48.5841348
 longitude: 11.089624200000001
-postcode: 86554
+postcode: "86554"
 city: Pöttmes
 street: "Kirchplatz"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 48.5740314
 longitude: 13.4588946
-postcode: 94032
+postcode: "94032"
 city: Passau
 street: "Ludwigstraße"
 housenumber: 21

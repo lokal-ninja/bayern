@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.721929100000004
 longitude: 10.3140284
-postcode: 87435
+postcode: "87435"
 city: Kempten (Allgäu)
 street: "Königstraße"
 housenumber: 4

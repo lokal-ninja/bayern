@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.497398100000005
 longitude: 11.1014245
-postcode: 82467
+postcode: "82467"
 city: Garmisch-Partenkirchen
 street: "Hindenburgstraße"
 housenumber: 26

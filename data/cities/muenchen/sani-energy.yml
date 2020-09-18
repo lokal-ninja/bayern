@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 48.102593600000006
 longitude: 11.644185100000001
-postcode: 81737
+postcode: "81737"
 city: München
 street: "Charles-de-Gaulle-Straße"
 housenumber: 6

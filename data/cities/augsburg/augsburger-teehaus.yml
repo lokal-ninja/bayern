@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.372446100000005
 longitude: 10.8906474
-postcode: 86152
+postcode: "86152"
 city: Augsburg
 street: "Heilig-Kreuz-Straße"
 housenumber: 21

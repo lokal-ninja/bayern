@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 48.5566576
 longitude: 10.8515032
-postcode: 86405
+postcode: "86405"
 city: Meitingen
 street: "Via Claudia"
 housenumber: 3

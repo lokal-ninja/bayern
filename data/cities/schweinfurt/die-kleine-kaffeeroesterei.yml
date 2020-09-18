@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 50.0454245
 longitude: 10.2354947
-postcode: 97421
+postcode: "97421"
 city: Schweinfurt
 street: "Rückertstraße"
 housenumber: 13

@@ -3,7 +3,7 @@ type: way
 shop: Kosmetik
 latitude: 49.5969083
 longitude: 11.0038134
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Hauptstraße"
 housenumber: 25

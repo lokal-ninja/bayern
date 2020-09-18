@@ -3,7 +3,7 @@ type: way
 shop: Feinkost
 latitude: 49.0190391
 longitude: 12.0943419
-postcode: 93047
+postcode: "93047"
 city: Regensburg
 street: "Hinter der Grieb"
 housenumber: 3

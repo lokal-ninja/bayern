@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.0316678
 longitude: 10.9712115
-postcode: 91781
+postcode: "91781"
 city: Weißenburg i. Bay.
 street: "Rosenstraße"
 housenumber: 16

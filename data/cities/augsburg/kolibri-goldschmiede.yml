@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.3331773
 longitude: 10.9006618
-postcode: 86159
+postcode: "86159"
 city: Augsburg
 street: "Salomon-Idler-Straße"
 housenumber: 24a

@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 48.1588488
 longitude: 11.7574055
-postcode: 85551
+postcode: "85551"
 city: Kirchheim
 street: "Poinger Straße"
 housenumber: 2a

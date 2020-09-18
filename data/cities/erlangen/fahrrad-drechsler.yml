@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.574205000000006
 longitude: 10.985143200000001
-postcode: 91058
+postcode: "91058"
 city: Erlangen
 street: "Fürther Straße"
 housenumber: 20

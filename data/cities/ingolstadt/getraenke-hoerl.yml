@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 48.7528688
 longitude: 11.445319600000001
-postcode: 85053
+postcode: "85053"
 city: Ingolstadt
 street: "Feselenstraße"
 housenumber: 48

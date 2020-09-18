@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.0460955
 longitude: 12.1023388
-postcode: 93057
+postcode: "93057"
 city: Regensburg
 street: "Amberger Straße"
 housenumber: 136

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.583710100000005
 longitude: 11.093870500000001
-postcode: 86554
+postcode: "86554"
 city: Pöttmes
 street: "von-Gumppenberg-Straße"
 housenumber: 6

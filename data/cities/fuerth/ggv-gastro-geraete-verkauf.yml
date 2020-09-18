@@ -3,7 +3,7 @@ type: node
 shop: Großhandel
 latitude: 49.4804113
 longitude: 10.9674481
-postcode: 90766
+postcode: "90766"
 city: Fürth
 street: "Wehlauer Straße"
 housenumber: 63

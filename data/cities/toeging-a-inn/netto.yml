@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.255538400000006
 longitude: 12.586515100000002
-postcode: 84513
+postcode: "84513"
 city: Töging a. Inn
 street: ""
 housenumber: 

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.125823200000006
 longitude: 11.644987400000002
-postcode: 81673
+postcode: "81673"
 city: München
 street: "Sankt-Veit-Straße"
 housenumber: 19

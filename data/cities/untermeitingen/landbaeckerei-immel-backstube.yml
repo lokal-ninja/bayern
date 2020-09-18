@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.163080900000004
 longitude: 10.8147692
-postcode: 86836
+postcode: "86836"
 city: Untermeitingen
 street: "Keltenstraße"
 housenumber: 5

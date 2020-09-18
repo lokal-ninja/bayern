@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.3804552
 longitude: 11.260246700000001
-postcode: 85250
+postcode: "85250"
 city: Altomünster
 street: "Stumpfenbacher Straße"
 housenumber: 49

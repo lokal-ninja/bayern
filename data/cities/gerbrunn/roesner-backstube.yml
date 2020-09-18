@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.7791098
 longitude: 9.9857735
-postcode: 97218
+postcode: "97218"
 city: Gerbrunn
 street: "Gregor-Mendel-Straße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.295484200000004
 longitude: 11.042729600000001
-postcode: 96472
+postcode: "96472"
 city: Rödental
 street: "Bürgerplatz"
 housenumber: 8

@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 48.886267700000005
 longitude: 12.7965218
-postcode: 94559
+postcode: "94559"
 city: Niederwinkling
 street: "Hauptstraße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.2474963
 longitude: 11.209346
-postcode: 96268
+postcode: "96268"
 city: Mitwitz
 street: "Coburger Straße"
 housenumber: 3

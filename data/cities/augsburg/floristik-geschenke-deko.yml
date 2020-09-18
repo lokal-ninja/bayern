@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.309934000000005
 longitude: 10.8888207
-postcode: 86179
+postcode: "86179"
 city: Augsburg
 street: "Inninger Straße"
 housenumber: 103

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.6818158
 longitude: 12.1566898
-postcode: 92637
+postcode: "92637"
 city: Weiden i.d.OPf.
 street: "Peuerlstraße"
 housenumber: 36

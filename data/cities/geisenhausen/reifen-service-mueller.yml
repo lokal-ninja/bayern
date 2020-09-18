@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 48.483019600000006
 longitude: 12.241939200000001
-postcode: 84144
+postcode: "84144"
 city: Geisenhausen
 street: "Benzstraße"
 housenumber: 40

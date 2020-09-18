@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.764779600000004
 longitude: 11.4289839
-postcode: 85049
+postcode: "85049"
 city: Ingolstadt
 street: "Ludwigstraße"
 housenumber: 41

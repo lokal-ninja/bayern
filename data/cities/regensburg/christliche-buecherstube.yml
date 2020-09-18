@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 49.0416621
 longitude: 12.123410900000001
-postcode: 93057
+postcode: "93057"
 city: Regensburg
 street: "Dolomitenstraße"
 housenumber: 1

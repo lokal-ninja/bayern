@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.7287097
 longitude: 13.380130000000001
-postcode: 94104
+postcode: "94104"
 city: Tittling
 street: "Herrenstraße"
 housenumber: 4

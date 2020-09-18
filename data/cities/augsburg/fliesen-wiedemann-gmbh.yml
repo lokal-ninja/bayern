@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 48.3124174
 longitude: 10.8870593
-postcode: 86179
+postcode: "86179"
 city: Augsburg
 street: "Auf dem Nol"
 housenumber: 25a

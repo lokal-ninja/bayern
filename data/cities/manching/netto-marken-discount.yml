@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.7158431
 longitude: 11.478049
-postcode: 85077
+postcode: "85077"
 city: Manching
 street: "Mitterstraße"
 housenumber: 2

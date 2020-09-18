@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 48.14035620000001
 longitude: 11.5702827
-postcode: 80333
+postcode: "80333"
 city: München
 street: "Pacellistraße"
 housenumber: 5

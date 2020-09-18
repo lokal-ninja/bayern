@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.1833298
 longitude: 12.4278031
-postcode: 84559
+postcode: "84559"
 city: Kraiburg
 street: "Bahnhofstraße"
 housenumber: 4

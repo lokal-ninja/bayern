@@ -1,12 +1,12 @@
 id: 95945368
 type: way
 shop: Allgemein
-latitude: 48.366278900000005
-longitude: 10.0099748
-postcode: 89231
+latitude: 48.3662782
+longitude: 10.0099751
+postcode: "89231"
 city: Neu-Ulm
 street: "Memminger Straße"
 housenumber: 182
-phone: "+49 731 / 83034"
-opening_hours: "Mo-Fr 06:00-22:00; Sa 07:00-22:00; Su 08:00-22:00"
+phone: "+49 731 83034"
+opening_hours: "Mo-Fr 06:00-22:00; Sa 07:00-22:00; Su,PH 08:00-22:00"
 website: "https://www.praeg.de/"

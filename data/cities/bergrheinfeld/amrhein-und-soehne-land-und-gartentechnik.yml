@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.0094232
 longitude: 10.1851748
-postcode: 97493
+postcode: "97493"
 city: Bergrheinfeld
 street: "Goethestraße"
 housenumber: 4

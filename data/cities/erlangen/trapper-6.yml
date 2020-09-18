@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.595992900000006
 longitude: 11.033328500000001
-postcode: 91052
+postcode: "91052"
 city: Erlangen
 street: "Drausnickstraße"
 housenumber: 27

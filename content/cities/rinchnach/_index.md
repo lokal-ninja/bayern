@@ -1,6 +1,6 @@
 ---
 title: Rinchnach
 url: /rinchnach/
-latitude: 48.949589800000005
-longitude: 13.1998882
+latitude: 48.949593
+longitude: 13.199924900000001
 ---

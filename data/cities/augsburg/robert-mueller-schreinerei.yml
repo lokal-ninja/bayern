@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.346076000000004
 longitude: 10.888070200000001
-postcode: 86199
+postcode: "86199"
 city: Augsburg
 street: "Unterfeldweg"
 housenumber: 5

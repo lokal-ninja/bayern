@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.1950115
 longitude: 11.8656208
-postcode: 85570
+postcode: "85570"
 city: Markt Schwaben
 street: "Dr.-Hartlaub-Ring"
 housenumber: 3

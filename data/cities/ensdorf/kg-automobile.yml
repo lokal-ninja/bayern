@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.3441789
 longitude: 11.9325808
-postcode: 92266
+postcode: "92266"
 city: Ensdorf
 street: "Hanauerweg"
 housenumber: 10

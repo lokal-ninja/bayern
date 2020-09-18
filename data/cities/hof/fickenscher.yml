@@ -3,10 +3,10 @@ type: node
 shop: Bäckerei
 latitude: 50.3148423
 longitude: 11.901064900000002
-postcode: 95030
+postcode: "95030"
 city: Hof
 street: "Dr.-Enders-Straße"
 housenumber: 1
 phone: "+49 9281 784090"
-opening_hours: "Mo–Fr: 06:30–18:00; Sa: 06:30–12:00; So: 07:30–11:00"
+opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-12:00; Su 07:30-11:00"
 website: "http://www.fickenschers-backhaus.de/"

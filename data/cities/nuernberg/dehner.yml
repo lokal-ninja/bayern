@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 49.4325647
 longitude: 11.128704500000001
-postcode: 90480
+postcode: "90480"
 city: Nürnberg
 street: "Regensburger Straße"
 housenumber: 330

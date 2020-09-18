@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.285131
 longitude: 10.660327
-postcode: 
+postcode: ""
 city: Sachsen bei Ansbach
 street: "Im Tal"
 housenumber: 1

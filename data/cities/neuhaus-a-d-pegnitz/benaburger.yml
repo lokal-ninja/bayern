@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.629241300000004
 longitude: 11.5508872
-postcode: 91284
+postcode: "91284"
 city: Neuhaus a.d.Pegnitz
 street: "Marktplatz"
 housenumber: 1

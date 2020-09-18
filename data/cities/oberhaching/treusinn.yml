@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.0188848
 longitude: 11.5908575
-postcode: 82041
+postcode: "82041"
 city: Oberhaching
 street: "Tisinstraße"
 housenumber: 56

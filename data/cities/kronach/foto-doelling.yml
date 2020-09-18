@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 50.239609
 longitude: 11.322170600000002
-postcode: 96317
+postcode: "96317"
 city: Kronach
 street: "Bahnhofstraße"
 housenumber: 8

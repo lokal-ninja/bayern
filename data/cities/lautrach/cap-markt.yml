@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.8983173
 longitude: 10.1177969
-postcode: 87763
+postcode: "87763"
 city: Lautrach
 street: "Deybachstraße"
 housenumber: 13

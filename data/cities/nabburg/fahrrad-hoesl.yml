@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.4533071
 longitude: 12.185952700000001
-postcode: 92507
+postcode: "92507"
 city: Nabburg
 street: "Hütgasse"
 housenumber: 2

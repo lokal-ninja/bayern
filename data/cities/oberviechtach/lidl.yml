@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.4545991
 longitude: 12.413521500000002
-postcode: 92526
+postcode: "92526"
 city: Oberviechtach
 street: "Am Schießanger"
 housenumber: 9

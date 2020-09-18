@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.594802400000006
 longitude: 11.00243
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Westliche Stadtmauerstraße"
 housenumber: 3a

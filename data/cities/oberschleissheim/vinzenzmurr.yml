@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.2589346
 longitude: 11.5576146
-postcode: 85764
+postcode: "85764"
 city: Oberschleißheim
 street: "Mittenheimer Straße"
 housenumber: 52

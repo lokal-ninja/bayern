@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 47.4421637
 longitude: 11.2588241
-postcode: 82481
+postcode: "82481"
 city: Mittenwald
 street: "Prof.-Schreyögg-Platz"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 48.139986900000004
 longitude: 11.582906300000001
-postcode: 80539
+postcode: "80539"
 city: München
 street: "Wurzerstraße"
 housenumber: 10

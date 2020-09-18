@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 49.3496247
 longitude: 11.105087000000001
-postcode: 90530
+postcode: "90530"
 city: Wendelstein
 street: "Heinrich-Wich-Straße"
 housenumber: 2

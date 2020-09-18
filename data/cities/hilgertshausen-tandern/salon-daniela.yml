@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.4306289
 longitude: 11.3526965
-postcode: 86567
+postcode: "86567"
 city: Hilgertshausen-Tandern
 street: "Schloßberg"
 housenumber: 9a

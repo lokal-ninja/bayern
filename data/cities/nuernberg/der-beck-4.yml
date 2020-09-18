@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.453288
 longitude: 11.0666727
-postcode: 90429
+postcode: "90429"
 city: Nürnberg
 street: "Kontumazgarten"
 housenumber: 19

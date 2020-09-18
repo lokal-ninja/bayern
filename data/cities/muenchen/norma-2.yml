@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.1073418
 longitude: 11.5780706
-postcode: 81547
+postcode: "81547"
 city: München
 street: "Fromundstraße"
 housenumber: 31

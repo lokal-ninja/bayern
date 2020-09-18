@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 48.2973398
 longitude: 12.7272213
-postcode: 84571
+postcode: "84571"
 city: Reischach
 street: "Eggenfeldener Straße"
 housenumber: 23

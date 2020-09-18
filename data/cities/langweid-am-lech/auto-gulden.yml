@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.493715
 longitude: 10.854729
-postcode: 86462
+postcode: "86462"
 city: Langweid am Lech
 street: "Dillinger Straße"
 housenumber: 10

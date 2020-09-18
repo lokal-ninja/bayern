@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 48.1512083
 longitude: 11.417738900000002
-postcode: 81249
+postcode: "81249"
 city: München
 street: "Rothenbühler Straße"
 housenumber: 7a

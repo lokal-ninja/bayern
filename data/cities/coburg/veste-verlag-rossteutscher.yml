@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 50.2575944
 longitude: 10.9665105
-postcode: 96450
+postcode: "96450"
 city: Coburg
 street: "Steingasse"
 housenumber: 16

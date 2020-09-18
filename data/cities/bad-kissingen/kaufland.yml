@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.208913800000005
 longitude: 10.0811849
-postcode: 97688
+postcode: "97688"
 city: Bad Kissingen
 street: "Steubenstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 49.4029347
 longitude: 11.1347731
-postcode: 90473
+postcode: "90473"
 city: Nürnberg
 street: "Reichthaler Straße"
 housenumber: 10

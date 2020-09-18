@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.4146705
 longitude: 10.0695501
-postcode: 89233
+postcode: "89233"
 city: Neu-Ulm
 street: "Thalfinger Straße"
 housenumber: 34

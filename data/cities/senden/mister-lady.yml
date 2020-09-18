@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.332478900000005
 longitude: 10.0384887
-postcode: 89250
+postcode: "89250"
 city: Senden
 street: "Berliner Straße"
 housenumber: 13

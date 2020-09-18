@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 49.436913800000006
 longitude: 11.0948395
-postcode: 90461
+postcode: "90461"
 city: Nürnberg
 street: "Wodanstraße"
 housenumber: 22a

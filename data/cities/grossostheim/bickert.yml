@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.909105000000004
 longitude: 9.059654400000001
-postcode: 63762
+postcode: "63762"
 city: Großostheim
 street: "Rathausstraße"
 housenumber: 13

@@ -3,7 +3,7 @@ type: node
 shop: Immobilien
 latitude: 47.727541200000005
 longitude: 10.3150902
-postcode: 87435
+postcode: "87435"
 city: Kempten (Allgäu)
 street: "Gerberstraße"
 housenumber: 41

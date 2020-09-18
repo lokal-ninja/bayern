@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.4390805
 longitude: 11.0794607
-postcode: 90459
+postcode: "90459"
 city: Nürnberg
 street: "Ammanstraße"
 housenumber: 14

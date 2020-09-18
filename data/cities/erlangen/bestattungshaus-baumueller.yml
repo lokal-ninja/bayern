@@ -3,7 +3,7 @@ type: way
 shop: Bestattungen
 latitude: 49.5615022
 longitude: 10.989420800000001
-postcode: 91058
+postcode: "91058"
 city: Erlangen
 street: "Ahornweg"
 housenumber: 59

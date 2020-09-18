@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.847001500000005
 longitude: 12.132755300000001
-postcode: 83022
+postcode: "83022"
 city: Rosenheim
 street: "Tegernseestraße"
 housenumber: 30

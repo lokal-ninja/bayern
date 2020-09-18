@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.4451113
 longitude: 11.8620306
-postcode: 92224
+postcode: "92224"
 city: Amberg
 street: "Obere Nabburger Straße"
 housenumber: 23

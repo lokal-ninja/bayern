@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.397978200000004
 longitude: 11.039067900000001
-postcode: 90451
+postcode: "90451"
 city: Nürnberg
 street: "Eibacher Hauptstraße"
 housenumber: 121

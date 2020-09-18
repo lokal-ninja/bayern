@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 47.8167648
 longitude: 10.5343614
-postcode: 87648
+postcode: "87648"
 city: Aitrang
 street: "Bachstraße"
 housenumber: 5 b

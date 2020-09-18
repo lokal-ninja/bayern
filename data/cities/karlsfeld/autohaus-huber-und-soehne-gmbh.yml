@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.239085100000004
 longitude: 11.4551932
-postcode: 85757
+postcode: "85757"
 city: Karlsfeld
 street: "Münchner Straße"
 housenumber: 26

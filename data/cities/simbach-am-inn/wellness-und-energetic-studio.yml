@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.2650785
 longitude: 13.023732500000001
-postcode: 84359
+postcode: "84359"
 city: Simbach am Inn
 street: "Törringstraße"
 housenumber: 14

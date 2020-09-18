@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.152881900000004
 longitude: 11.5406641
-postcode: 80636
+postcode: "80636"
 city: München
 street: "Jutastraße"
 housenumber: 11

@@ -3,9 +3,9 @@ type: node
 shop: Fahrrad
 latitude: 49.596386700000004
 longitude: 11.0169122
-postcode: 91052
+postcode: "91052"
 city: Erlangen
-street: ""
+street: "Werner-von-Siemens-Straße"
 housenumber: 6
 phone: "+49 9131 25131"
 opening_hours: "Mo-Fr 10:00-18:00"

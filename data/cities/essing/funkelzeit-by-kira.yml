@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.9389188
 longitude: 11.7829978
-postcode: 93343
+postcode: "93343"
 city: Essing
 street: "Eisenbrünnerl"
 housenumber: 23

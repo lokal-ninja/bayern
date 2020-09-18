@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.8127404
 longitude: 11.455621500000001
-postcode: 85101
+postcode: "85101"
 city: Lenting
 street: "Bernd-Rosemeyer-Straße"
 housenumber: 2

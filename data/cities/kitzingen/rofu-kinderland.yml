@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 49.7490042
 longitude: 10.1763247
-postcode: 97318
+postcode: "97318"
 city: Kitzingen
 street: "Lochweg"
 housenumber: 18

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.35545380000001
 longitude: 10.9241278
-postcode: 86161
+postcode: "86161"
 city: Augsburg
 street: "Wilhelm-Hauff-Straße"
 housenumber: 28

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.2171018
 longitude: 11.2605483
-postcode: 82216
+postcode: "82216"
 city: Maisach
 street: "Hauptstraße"
 housenumber: 12

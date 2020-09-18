@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 49.72250390000001
 longitude: 11.0595955
-postcode: 91301
+postcode: "91301"
 city: Forchheim
 street: "Bamberger Straße"
 housenumber: 24

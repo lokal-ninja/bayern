@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.129518600000004
 longitude: 11.569657900000001
-postcode: 80469
+postcode: "80469"
 city: München
 street: "Hans-Sachs-Straße"
 housenumber: 12

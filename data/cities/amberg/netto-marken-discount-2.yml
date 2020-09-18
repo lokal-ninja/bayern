@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.4489134
 longitude: 11.858378700000001
-postcode: 92224
+postcode: "92224"
 city: Amberg
 street: "Kaiser-Ludwig-Ring"
 housenumber: 1

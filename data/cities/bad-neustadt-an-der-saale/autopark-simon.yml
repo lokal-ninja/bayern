@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.3208549
 longitude: 10.208815900000001
-postcode: 97616
+postcode: "97616"
 city: Bad Neustadt an der Saale
 street: "Schweinfurter Straße"
 housenumber: 18

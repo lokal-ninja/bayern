@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.38624170000001
 longitude: 10.035660100000001
-postcode: 89231
+postcode: "89231"
 city: Neu-Ulm
 street: "Otto-Renner-Straße"
 housenumber: 1

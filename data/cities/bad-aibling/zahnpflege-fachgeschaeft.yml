@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.8634914
 longitude: 12.0093633
-postcode: 83043
+postcode: "83043"
 city: Bad Aibling
 street: "Irlachstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.129153300000006
 longitude: 11.574310800000001
-postcode: 80469
+postcode: "80469"
 city: München
 street: "Fraunhoferstraße"
 housenumber: 24

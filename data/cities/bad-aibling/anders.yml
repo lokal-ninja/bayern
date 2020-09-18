@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.862454
 longitude: 12.0056794
-postcode: 83043
+postcode: "83043"
 city: Bad Aibling
 street: "Bahnhofstraße"
 housenumber: 32

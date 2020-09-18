@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 49.6703873
 longitude: 10.928822100000001
-postcode: 91341
+postcode: "91341"
 city: Röttenbach
 street: "Ringstraße"
 housenumber: 6a

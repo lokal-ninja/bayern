@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.8336659
 longitude: 12.9624339
-postcode: 94469
+postcode: "94469"
 city: Deggendorf
 street: "Pfleggasse"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.1374252
 longitude: 11.578141700000002
-postcode: 80331
+postcode: "80331"
 city: München
 street: "Ledererstraße"
 housenumber: 2

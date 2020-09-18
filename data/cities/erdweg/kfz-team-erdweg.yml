@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.3320097
 longitude: 11.3099488
-postcode: 85253
+postcode: "85253"
 city: Erdweg
 street: "Ostenstraße"
 housenumber: 10

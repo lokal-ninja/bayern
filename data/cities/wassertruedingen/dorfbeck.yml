@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.040820200000006
 longitude: 10.5972621
-postcode: 91717
+postcode: "91717"
 city: Wassertrüdingen
 street: "Marktstraße"
 housenumber: 4

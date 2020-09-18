@@ -3,7 +3,7 @@ type: node
 shop: Immobilien
 latitude: 49.0690685
 longitude: 10.3175215
-postcode: 91550
+postcode: "91550"
 city: Dinkelsbühl
 street: "Segringer Straße"
 housenumber: 25

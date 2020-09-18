@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 49.029555800000004
 longitude: 12.2101909
-postcode: 93093
+postcode: "93093"
 city: Donaustauf
 street: "Maxstraße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.1219447
 longitude: 11.3664245
-postcode: 82110
+postcode: "82110"
 city: Germering
 street: "Otto-Wagner-Straße"
 housenumber: 34a

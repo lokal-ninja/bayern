@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.8622737
 longitude: 12.0058469
-postcode: 83043
+postcode: "83043"
 city: Bad Aibling
 street: "Bahnhofstraße"
 housenumber: 11

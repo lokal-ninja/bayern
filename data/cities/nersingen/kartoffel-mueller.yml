@@ -3,7 +3,7 @@ type: way
 shop: Gemüse & Obst
 latitude: 48.4125895
 longitude: 10.155007300000001
-postcode: 89278
+postcode: "89278"
 city: Nersingen
 street: "Hauptstraße"
 housenumber: 58

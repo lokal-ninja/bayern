@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.8792422
 longitude: 11.4652863
-postcode: 82538
+postcode: "82538"
 city: Geretsried
 street: "Schlesische Straße"
 housenumber: 11

@@ -3,7 +3,7 @@ type: way
 shop: Bestattungen
 latitude: 48.127066500000005
 longitude: 11.3644479
-postcode: 82110
+postcode: "82110"
 city: Germering
 street: "Kleinfeldstraße"
 housenumber: 1c

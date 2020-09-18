@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.8627502
 longitude: 12.0110329
-postcode: 83043
+postcode: "83043"
 city: Bad Aibling
 street: "Rosenheimer Straße"
 housenumber: 10a

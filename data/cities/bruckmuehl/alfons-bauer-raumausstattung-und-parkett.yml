@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 47.878903900000005
 longitude: 11.9111472
-postcode: 83052
+postcode: "83052"
 city: Bruckmühl
 street: "Mangfallstraße"
 housenumber: 3-5

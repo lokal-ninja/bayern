@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 47.8698836
 longitude: 12.6532301
-postcode: 83278
+postcode: "83278"
 city: Traunstein
 street: "Scheibenstraße"
 housenumber: 28

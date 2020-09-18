@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.787313000000005
 longitude: 9.9902946
-postcode: 97218
+postcode: "97218"
 city: Gerbrunn
 street: "Oberer Kirschberg"
 housenumber: 8

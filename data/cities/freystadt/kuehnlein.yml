@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.199607900000004
 longitude: 11.3279101
-postcode: 92342
+postcode: "92342"
 city: Freystadt
 street: "Marktplatz"
 housenumber: 52

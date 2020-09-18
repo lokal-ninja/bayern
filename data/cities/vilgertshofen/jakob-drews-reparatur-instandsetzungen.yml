@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 47.965535900000006
 longitude: 10.923399700000001
-postcode: 86946
+postcode: "86946"
 city: Vilgertshofen
 street: "Weilheimer Straße"
 housenumber: 18

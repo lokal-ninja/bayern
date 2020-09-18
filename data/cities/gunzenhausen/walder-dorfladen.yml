@@ -3,10 +3,10 @@ type: node
 shop: Lebensmittel
 latitude: 49.1322327
 longitude: 10.702737200000001
-postcode: 91710
+postcode: "91710"
 city: Gunzenhausen
-street: ""
+street: "Mooskorb"
 housenumber: 54
 phone: ""
-opening_hours: "Mo-Sa 06:00-10:00; We 15:00-19:00"
+opening_hours: "We 14:00-18:00"
 website: "http://www.walder-dorfladen.de"

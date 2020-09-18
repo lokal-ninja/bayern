@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 47.6771923
 longitude: 12.470737300000001
-postcode: 83242
+postcode: "83242"
 city: Reit im Winkl
 street: "Dorfstraße"
 housenumber: 8

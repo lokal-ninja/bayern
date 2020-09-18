@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.353891000000004
 longitude: 10.776324500000001
-postcode: 86420
+postcode: "86420"
 city: Diedorf
 street: "Hauptstraße"
 housenumber: 26

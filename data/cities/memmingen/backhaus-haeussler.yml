@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.984681900000005
 longitude: 10.181683300000001
-postcode: 87700
+postcode: "87700"
 city: Memmingen
 street: "Weinmarkt"
 housenumber: 3

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.1294684
 longitude: 11.625646000000001
-postcode: 81673
+postcode: "81673"
 city: München
 street: "Berg-am-Laim-Straße"
 housenumber: 117

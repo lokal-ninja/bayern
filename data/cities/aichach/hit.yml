@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.456944
 longitude: 11.1255409
-postcode: 86551
+postcode: "86551"
 city: Aichach
 street: "Franz-Beck-Straße"
 housenumber: 3

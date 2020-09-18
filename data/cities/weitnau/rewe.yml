@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.6411536
 longitude: 10.111853400000001
-postcode: 87480
+postcode: "87480"
 city: Weitnau
 street: "Gewerbering"
 housenumber: 1

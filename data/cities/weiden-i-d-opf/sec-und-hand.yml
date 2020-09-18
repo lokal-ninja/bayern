@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.6747548
 longitude: 12.164491
-postcode: 92637
+postcode: "92637"
 city: Weiden i.d.OPf.
 street: "Obere Bachgasse"
 housenumber: 13

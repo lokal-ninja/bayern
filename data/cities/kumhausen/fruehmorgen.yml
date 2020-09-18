@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.50640670000001
 longitude: 12.1601946
-postcode: 84036
+postcode: "84036"
 city: Kumhausen
 street: "Schulstraße"
 housenumber: 1

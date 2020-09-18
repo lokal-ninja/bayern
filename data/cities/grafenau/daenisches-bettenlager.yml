@@ -3,7 +3,7 @@ type: way
 shop: Betten
 latitude: 48.862590700000005
 longitude: 13.397840700000001
-postcode: 94481
+postcode: "94481"
 city: Grafenau
 street: "Pfarrer-Rankl-Straße"
 housenumber: 1

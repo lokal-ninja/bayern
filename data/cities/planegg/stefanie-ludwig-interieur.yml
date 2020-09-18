@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 48.10474
 longitude: 11.416795400000002
-postcode: 82152
+postcode: "82152"
 city: Planegg
 street: "Bahnhofstraße"
 housenumber: 36

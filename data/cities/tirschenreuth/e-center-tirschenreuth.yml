@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.883044100000006
 longitude: 12.3278084
-postcode: 95643
+postcode: "95643"
 city: Tirschenreuth
 street: "Mitterteicher Straße"
 housenumber: 20

@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 49.829741500000004
 longitude: 9.904897
-postcode: 97209
+postcode: "97209"
 city: Veitshöchheim
 street: "Oberdürrbacher Straße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 48.4909614
 longitude: 11.1893992
-postcode: 86556
+postcode: "86556"
 city: Kühbach
 street: "Pfarrer-Knaus-Straße"
 housenumber: 9

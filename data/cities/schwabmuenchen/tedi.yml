@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 48.1722399
 longitude: 10.7403651
-postcode: 86830
+postcode: "86830"
 city: Schwabmünchen
 street: "Falkensteinstraße"
 housenumber: 6

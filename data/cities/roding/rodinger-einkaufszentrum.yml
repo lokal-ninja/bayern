@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 49.1919039
 longitude: 12.517301100000001
-postcode: 93426
+postcode: "93426"
 city: Roding
 street: "Falkensteiner Straße"
 housenumber: 36

@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.1239768
 longitude: 11.657926900000001
-postcode: 81825
+postcode: "81825"
 city: München
 street: "Damaschkestraße"
 housenumber: 85

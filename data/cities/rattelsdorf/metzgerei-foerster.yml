@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.0149458
 longitude: 10.8851963
-postcode: 96179
+postcode: "96179"
 city: Rattelsdorf
 street: "Hauptstraße"
 housenumber: 6

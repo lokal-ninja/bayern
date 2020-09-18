@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.781415800000005
 longitude: 12.212896500000001
-postcode: 83122
+postcode: "83122"
 city: Samerberg
 street: "Dorfplatz"
 housenumber: 2

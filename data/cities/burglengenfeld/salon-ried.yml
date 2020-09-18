@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.2027597
 longitude: 12.0388303
-postcode: 93133
+postcode: "93133"
 city: Burglengenfeld
 street: "Kallmünzer Straße"
 housenumber: 21

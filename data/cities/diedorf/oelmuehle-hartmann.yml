@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.3769731
 longitude: 10.7541613
-postcode: 86420
+postcode: "86420"
 city: Diedorf
 street: "Lindenfeldweg"
 housenumber: 12

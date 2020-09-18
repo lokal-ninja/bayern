@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 47.805204100000005
 longitude: 12.5903269
-postcode: 83346
+postcode: "83346"
 city: Bergen
 street: "Hochfellnstraße"
 housenumber: 12

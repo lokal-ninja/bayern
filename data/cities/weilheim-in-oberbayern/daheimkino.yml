@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 47.845044900000005
 longitude: 11.144502000000001
-postcode: 82362
+postcode: "82362"
 city: Weilheim in Oberbayern
 street: "Bahnhofallee"
 housenumber: 2a

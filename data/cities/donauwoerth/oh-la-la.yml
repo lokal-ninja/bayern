@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.718155800000005
 longitude: 10.7806657
-postcode: 86609
+postcode: "86609"
 city: Donauwörth
 street: "Reichsstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 49.3585908
 longitude: 11.0555874
-postcode: 90453
+postcode: "90453"
 city: Nürnberg
 street: "Marienburger Straße"
 housenumber: 2

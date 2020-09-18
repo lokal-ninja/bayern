@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 49.6753706
 longitude: 12.161528500000001
-postcode: 92637
+postcode: "92637"
 city: Weiden i.d.OPf.
 street: "Pfarrplatz"
 housenumber: 1

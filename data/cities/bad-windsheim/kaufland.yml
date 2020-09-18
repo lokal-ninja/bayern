@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.497530000000005
 longitude: 10.410627100000001
-postcode: 91438
+postcode: "91438"
 city: Bad Windsheim
 street: "Rothenburger Straße"
 housenumber: 47

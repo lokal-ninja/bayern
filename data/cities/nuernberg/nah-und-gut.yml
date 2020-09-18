@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.4434199
 longitude: 11.1059701
-postcode: 90478
+postcode: "90478"
 city: Nürnberg
 street: "Velburger Straße"
 housenumber: 3

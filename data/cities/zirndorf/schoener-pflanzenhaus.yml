@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 49.441834500000006
 longitude: 10.970019800000001
-postcode: 90513
+postcode: "90513"
 city: Zirndorf
 street: "Jahnstraße"
 housenumber: 14

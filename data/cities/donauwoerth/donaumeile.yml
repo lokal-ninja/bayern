@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 48.716310400000005
 longitude: 10.7671963
-postcode: 86609
+postcode: "86609"
 city: Donauwörth
 street: "Dillinger Straße"
 housenumber: 18-34

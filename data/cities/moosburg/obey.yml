@@ -3,7 +3,7 @@ type: node
 shop: Babysachen
 latitude: 48.4660756
 longitude: 11.934148200000001
-postcode: 85368
+postcode: "85368"
 city: Moosburg
 street: "Münchener Straße"
 housenumber: 18

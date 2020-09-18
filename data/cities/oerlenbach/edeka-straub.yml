@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.1455691
 longitude: 10.130882900000001
-postcode: 97714
+postcode: "97714"
 city: Oerlenbach
 street: "Am Kreisel"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 49.6115586
 longitude: 11.135594800000002
-postcode: 91077
+postcode: "91077"
 city: Neunkirchen a. Brand
 street: "Schellenberger Weg"
 housenumber: 3

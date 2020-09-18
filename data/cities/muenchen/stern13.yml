@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.139902000000006
 longitude: 11.590836000000001
-postcode: 80538
+postcode: "80538"
 city: München
 street: "Sternstraße"
 housenumber: 13

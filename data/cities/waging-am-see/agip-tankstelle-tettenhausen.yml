@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 47.957247100000004
 longitude: 12.7567173
-postcode: 83329
+postcode: "83329"
 city: Waging am See
 street: "Hauptstraße"
 housenumber: 23

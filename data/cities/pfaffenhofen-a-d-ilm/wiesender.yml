@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.533202800000005
 longitude: 11.5154286
-postcode: 85276
+postcode: "85276"
 city: Pfaffenhofen a.d. Ilm
 street: "Raiffeisenstraße"
 housenumber: 1

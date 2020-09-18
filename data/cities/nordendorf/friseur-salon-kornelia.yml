@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.5946846
 longitude: 10.834241200000001
-postcode: 86695
+postcode: "86695"
 city: Nordendorf
 street: "Hauptstraße"
 housenumber: 9

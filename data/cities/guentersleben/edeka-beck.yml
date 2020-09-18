@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.8633954
 longitude: 9.9013893
-postcode: 97261
+postcode: "97261"
 city: Güntersleben
 street: "Würzburger Straße"
 housenumber: 52-54

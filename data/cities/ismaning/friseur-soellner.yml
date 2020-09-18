@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.2251246
 longitude: 11.665803400000001
-postcode: 85737
+postcode: "85737"
 city: Ismaning
 street: "Am Isarberg"
 housenumber: 8

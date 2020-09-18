@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.459330300000005
 longitude: 11.129614
-postcode: 86551
+postcode: "86551"
 city: Aichach
 street: "Steubstraße"
 housenumber: 3

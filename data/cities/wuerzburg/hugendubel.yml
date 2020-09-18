@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 49.79429450000001
 longitude: 9.9312255
-postcode: 97070
+postcode: "97070"
 city: Würzburg
 street: "Kürschnerhof"
 housenumber: 4-6

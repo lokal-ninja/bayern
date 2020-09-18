@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 49.016575100000004
 longitude: 12.0953291
-postcode: 93047
+postcode: "93047"
 city: Regensburg
 street: "Obermünsterstraße"
 housenumber: 8

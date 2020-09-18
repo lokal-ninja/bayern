@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.706092500000004
 longitude: 10.798189
-postcode: 91315
+postcode: "91315"
 city: Höchstadt a.d.Aisch
 street: "Rothenburger Straße"
 housenumber: 19

@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 48.1293232
 longitude: 11.630933500000001
-postcode: 81673
+postcode: "81673"
 city: München
 street: "Baumkirchner Straße"
 housenumber: 23

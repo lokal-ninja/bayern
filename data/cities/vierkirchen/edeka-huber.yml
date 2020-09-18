@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.3637959
 longitude: 11.4542107
-postcode: 85256
+postcode: "85256"
 city: Vierkirchen
 street: "Indersdorfer Straße"
 housenumber: 19

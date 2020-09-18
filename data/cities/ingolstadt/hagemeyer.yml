@@ -3,7 +3,7 @@ type: way
 shop: Großhandel
 latitude: 48.7397836
 longitude: 11.468484
-postcode: 85053
+postcode: "85053"
 city: Ingolstadt
 street: "Steinheilstraße"
 housenumber: 22

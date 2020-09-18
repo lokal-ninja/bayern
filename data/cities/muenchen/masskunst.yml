@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 48.091796
 longitude: 11.567260200000002
-postcode: 81545
+postcode: "81545"
 city: München
 street: "Armanspergstraße"
 housenumber: 2

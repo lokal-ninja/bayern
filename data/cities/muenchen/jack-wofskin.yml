@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.1384588
 longitude: 11.568601600000001
-postcode: 80331
+postcode: "80331"
 city: München
 street: "Neuhauser Straße"
 housenumber: 29

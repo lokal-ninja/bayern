@@ -3,7 +3,7 @@ type: node
 shop: Uhren
 latitude: 48.151943900000006
 longitude: 11.532816700000001
-postcode: 80634
+postcode: "80634"
 city: München
 street: "Donnersbergerstraße"
 housenumber: 5

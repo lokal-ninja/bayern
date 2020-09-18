@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 49.3287181
 longitude: 12.1079804
-postcode: 92421
+postcode: "92421"
 city: Schwandorf
 street: "Friedrich-Ebert-Straße"
 housenumber: 13

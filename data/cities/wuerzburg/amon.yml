@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsartikel
 latitude: 49.795645400000005
 longitude: 9.9324613
-postcode: 97070
+postcode: "97070"
 city: Würzburg
 street: "Herzogenstraße"
 housenumber: 11

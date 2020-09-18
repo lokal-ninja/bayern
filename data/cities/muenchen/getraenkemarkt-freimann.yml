@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.195480100000005
 longitude: 11.615100100000001
-postcode: 80939
+postcode: "80939"
 city: München
 street: "Rappoltsteiner Straße"
 housenumber: 15

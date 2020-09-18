@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 48.511562500000004
 longitude: 11.9032429
-postcode: 85419
+postcode: "85419"
 city: Mauern
 street: "Alpersdorfer Straße"
 housenumber: 4

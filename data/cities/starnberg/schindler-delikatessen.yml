@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 47.9969054
 longitude: 11.343318
-postcode: 82319
+postcode: "82319"
 city: Starnberg
 street: "Maximilianstraße"
 housenumber: 1

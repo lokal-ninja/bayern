@@ -3,10 +3,10 @@ type: way
 shop: Autowerkstatt
 latitude: 50.28474670000001
 longitude: 11.6310792
-postcode: 95131
+postcode: "95131"
 city: Schwarzenbach a.Wald
 street: "Walter-Münch-Straße"
-housenumber: 
+housenumber: 10a
 phone: ""
 opening_hours: ""
 website: ""

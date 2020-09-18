@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.51430250000001
 longitude: 11.4626671
-postcode: 85298
+postcode: "85298"
 city: Scheyern
 street: "Scheyerer Straße"
 housenumber: 7

@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 48.388704000000004
 longitude: 11.0584503
-postcode: 86453
+postcode: "86453"
 city: Dasing
 street: "Messerschmittstraße"
 housenumber: 7

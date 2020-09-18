@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.359009300000004
 longitude: 10.8905796
-postcode: 86159
+postcode: "86159"
 city: Augsburg
 street: "Gögginger Straße"
 housenumber: 13a

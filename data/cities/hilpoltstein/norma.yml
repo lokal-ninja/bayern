@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.1871814
 longitude: 11.1875792
-postcode: 91161
+postcode: "91161"
 city: Hilpoltstein
 street: "Altstadtring"
 housenumber: 22

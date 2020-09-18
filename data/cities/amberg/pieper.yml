@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 49.443012700000004
 longitude: 11.8744191
-postcode: 92224
+postcode: "92224"
 city: Amberg
 street: "Bäumlstraße"
 housenumber: 15 1/3

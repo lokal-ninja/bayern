@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 49.4554418
 longitude: 12.416350900000001
-postcode: 92526
+postcode: "92526"
 city: Oberviechtach
 street: "Zum Bahnhof"
 housenumber: 14-16

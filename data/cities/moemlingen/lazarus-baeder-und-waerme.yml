@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.8503568
 longitude: 9.0827399
-postcode: 63853
+postcode: "63853"
 city: Mömlingen
 street: "Sudetenstraße"
 housenumber: 30

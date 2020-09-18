@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.881793
 longitude: 11.6976334
-postcode: 83607
+postcode: "83607"
 city: Holzkirchen
 street: "Münchner Straße"
 housenumber: 49

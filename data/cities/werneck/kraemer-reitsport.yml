@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 50.0038963
 longitude: 10.112050400000001
-postcode: 97440
+postcode: "97440"
 city: Werneck
 street: "Am Eschenbach"
 housenumber: 13

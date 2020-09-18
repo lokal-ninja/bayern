@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.0817835
 longitude: 11.8558894
-postcode: 85614
+postcode: "85614"
 city: Kirchseeon
 street: "Westring"
 housenumber: 5

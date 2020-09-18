@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.378034
 longitude: 10.8860018
-postcode: 
+postcode: ""
 city: Augsburg
 street: "Wertachstraße"
 housenumber: 22a

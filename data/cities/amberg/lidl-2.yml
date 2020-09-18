@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.434293600000004
 longitude: 11.878732000000001
-postcode: 92224
+postcode: "92224"
 city: Amberg
 street: "Barbarastraße"
 housenumber: 20

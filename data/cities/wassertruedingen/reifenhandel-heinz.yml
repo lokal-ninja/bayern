@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 49.0422148
 longitude: 10.5948618
-postcode: 91717
+postcode: "91717"
 city: Wassertrüdingen
 street: "Wiesenstraße"
 housenumber: 1

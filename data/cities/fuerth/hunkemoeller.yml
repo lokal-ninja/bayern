@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.4736947
 longitude: 10.989463500000001
-postcode: 90762
+postcode: "90762"
 city: Fürth
 street: "Rudolf-Breitscheid-Straße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.0330177
 longitude: 12.003000100000001
-postcode: 95632
+postcode: "95632"
 city: Wunsiedel
 street: "Luisenburgstraße"
 housenumber: 18

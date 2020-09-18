@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.0930358
 longitude: 11.8222401
-postcode: 85604
+postcode: "85604"
 city: Zorneding
 street: "Georg-Wimmer-Ring"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.8585457
 longitude: 12.116196
-postcode: 83022
+postcode: "83022"
 city: Rosenheim
 street: "Küpferlingstraße"
 housenumber: 6

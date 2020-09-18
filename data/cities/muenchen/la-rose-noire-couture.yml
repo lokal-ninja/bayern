@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.160031700000005
 longitude: 11.569279300000002
-postcode: 80796
+postcode: "80796"
 city: München
 street: "Tengstraße"
 housenumber: 36

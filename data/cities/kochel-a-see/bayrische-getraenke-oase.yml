@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 47.6853792
 longitude: 11.401292300000001
-postcode: 82431
+postcode: "82431"
 city: Kochel a. See
 street: "Am Schwaigbach"
 housenumber: 8

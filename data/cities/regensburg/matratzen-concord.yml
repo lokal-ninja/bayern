@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 49.0026931
 longitude: 12.1236732
-postcode: 93053
+postcode: "93053"
 city: Regensburg
 street: "Landshuter Straße"
 housenumber: 112

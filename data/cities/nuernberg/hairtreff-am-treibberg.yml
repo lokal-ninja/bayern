@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.4575576
 longitude: 11.083584400000001
-postcode: 90403
+postcode: "90403"
 city: Nürnberg
 street: "Treibberg"
 housenumber: 1

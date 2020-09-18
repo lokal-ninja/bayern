@@ -3,7 +3,7 @@ type: way
 shop: Gebrauchtwaren
 latitude: 49.477735200000005
 longitude: 10.988216300000001
-postcode: 90762
+postcode: "90762"
 city: Fürth
 street: "Ludwig-Erhard-Straße"
 housenumber: 16

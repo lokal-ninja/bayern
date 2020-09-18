@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 48.2879893
 longitude: 10.6575643
-postcode: 86850
+postcode: "86850"
 city: Fischach
 street: "Blumenstraße"
 housenumber: 29

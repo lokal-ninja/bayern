@@ -3,9 +3,9 @@ type: node
 shop: Schmuck
 latitude: 50.2569043
 longitude: 10.972259900000001
-postcode: 96450
+postcode: "96450"
 city: Coburg
-street: "Callenberger Straße"
+street: "Leopoldstraße"
 housenumber: 36a
 phone: "+49 9561 7059259"
 opening_hours: "nach Vereinbarung"

@@ -3,7 +3,7 @@ type: way
 shop: Wäscherei
 latitude: 49.4173241
 longitude: 11.0326146
-postcode: 90449
+postcode: "90449"
 city: Nürnberg
 street: "Ellingstraße"
 housenumber: 1-5

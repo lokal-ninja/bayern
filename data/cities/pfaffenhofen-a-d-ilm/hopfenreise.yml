@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.531916100000004
 longitude: 11.509358
-postcode: 85276
+postcode: "85276"
 city: Pfaffenhofen a.d. Ilm
 street: "Türltorstraße"
 housenumber: 16

@@ -1,4 +1,4 @@
 ---
-title: "Haar²O"
+title: "Haar₂O"
 url: /wuerzburg/haar2o/
 ---

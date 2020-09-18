@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 47.849479900000006
 longitude: 12.5966406
-postcode: 83377
+postcode: "83377"
 city: Vachendorf
 street: "Mühlen"
 housenumber: 1

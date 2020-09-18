@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.180256500000006
 longitude: 11.5075929
-postcode: 80992
+postcode: "80992"
 city: München
 street: "Bunzlauer Straße"
 housenumber: 10

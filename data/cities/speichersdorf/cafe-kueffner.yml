@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.873110600000004
 longitude: 11.779027500000002
-postcode: 95469
+postcode: "95469"
 city: Speichersdorf
 street: "Hauptstraße"
 housenumber: 28

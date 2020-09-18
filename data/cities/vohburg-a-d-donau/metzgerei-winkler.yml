@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.77221
 longitude: 11.617859300000001
-postcode: 85088
+postcode: "85088"
 city: Vohburg a.d.Donau
 street: "Herzog-Albrecht-Straße"
 housenumber: 1

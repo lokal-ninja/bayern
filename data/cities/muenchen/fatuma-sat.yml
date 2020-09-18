@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.137924600000005
 longitude: 11.5468712
-postcode: 80339
+postcode: "80339"
 city: München
 street: "Schwanthalerstraße"
 housenumber: 126

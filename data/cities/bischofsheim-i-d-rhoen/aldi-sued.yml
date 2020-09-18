@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.4022942
 longitude: 10.017767300000001
-postcode: 97653
+postcode: "97653"
 city: Bischofsheim i.d.Rhön
 street: "Bahnhofstraße"
 housenumber: 20

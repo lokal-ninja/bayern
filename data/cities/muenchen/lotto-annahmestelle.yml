@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 48.1413999
 longitude: 11.5846438
-postcode: 80538
+postcode: "80538"
 city: München
 street: "Seitzstraße"
 housenumber: 15

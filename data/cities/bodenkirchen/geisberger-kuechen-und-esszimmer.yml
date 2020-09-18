@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 48.406179300000005
 longitude: 12.3992471
-postcode: 84155
+postcode: "84155"
 city: Bodenkirchen
 street: "Langquarter Straße"
 housenumber: 24

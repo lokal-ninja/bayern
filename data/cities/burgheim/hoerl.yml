@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 48.7011302
 longitude: 11.012128800000001
-postcode: 86666
+postcode: "86666"
 city: Burgheim
 street: "Donauwörther Straße"
 housenumber: 24

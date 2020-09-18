@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.290247900000004
 longitude: 12.7247955
-postcode: 84571
+postcode: "84571"
 city: Reischach
 street: "Öttinger Straße"
 housenumber: 1

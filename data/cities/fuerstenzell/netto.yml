@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.5202419
 longitude: 13.317427400000001
-postcode: 94081
+postcode: "94081"
 city: Fürstenzell
 street: "Bahnhofstraße"
 housenumber: 14

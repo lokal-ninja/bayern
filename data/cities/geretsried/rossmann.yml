@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.8752106
 longitude: 11.4660314
-postcode: 82538
+postcode: "82538"
 city: Geretsried
 street: "Karl-Lederer-Platz"
 housenumber: 11a

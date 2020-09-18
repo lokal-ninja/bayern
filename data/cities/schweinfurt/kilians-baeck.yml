@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.044259800000006
 longitude: 10.2341358
-postcode: 97421
+postcode: "97421"
 city: Schweinfurt
 street: "Spitalstraße"
 housenumber: 3-5

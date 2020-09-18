@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.713483800000006
 longitude: 11.3944659
-postcode: 85051
+postcode: "85051"
 city: Ingolstadt
 street: "Weicheringer Straße"
 housenumber: 174

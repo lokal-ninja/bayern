@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.1394272
 longitude: 11.586510500000001
-postcode: 80538
+postcode: "80538"
 city: München
 street: "Bürkleinstraße"
 housenumber: 17

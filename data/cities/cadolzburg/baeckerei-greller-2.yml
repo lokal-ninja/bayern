@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.458676800000006
 longitude: 10.888669100000001
-postcode: 90556
+postcode: "90556"
 city: Cadolzburg
 street: "Bahnhofstraße"
 housenumber: 43

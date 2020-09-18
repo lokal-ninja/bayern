@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.8560159
 longitude: 12.1271374
-postcode: 83022
+postcode: "83022"
 city: Rosenheim
 street: "Max-Josefs-Platz"
 housenumber: 15

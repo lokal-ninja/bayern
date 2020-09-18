@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 50.2591356
 longitude: 10.964755
-postcode: 96450
+postcode: "96450"
 city: Coburg
 street: "Spitalgasse"
 housenumber: 13

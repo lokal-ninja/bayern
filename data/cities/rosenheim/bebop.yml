@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 47.853833300000005
 longitude: 12.1213057
-postcode: 83022
+postcode: "83022"
 city: Rosenheim
 street: "Samerstraße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: way
 shop: Computer
 latitude: 49.3375812
 longitude: 10.7894509
-postcode: 91560
+postcode: "91560"
 city: Heilsbronn
 street: "Hauptstraße"
 housenumber: 17

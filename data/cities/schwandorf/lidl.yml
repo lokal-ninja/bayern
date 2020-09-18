@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.3248843
 longitude: 12.1095822
-postcode: 92421
+postcode: "92421"
 city: Schwandorf
 street: "Paul-von-Denis-Straße"
 housenumber: 4

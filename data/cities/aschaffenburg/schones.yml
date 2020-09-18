@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 49.9751326
 longitude: 9.149938500000001
-postcode: 63739
+postcode: "63739"
 city: Aschaffenburg
 street: "Roßmarkt"
 housenumber: 34

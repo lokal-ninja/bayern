@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 48.852837900000004
 longitude: 12.9844019
-postcode: 94469
+postcode: "94469"
 city: Deggendorf
 street: "Großwalding"
 housenumber: 10

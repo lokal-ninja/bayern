@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.485398
 longitude: 12.092377
-postcode: 84184
+postcode: "84184"
 city: Tiefenbach
 street: "Sportplatzstraße"
 housenumber: 1

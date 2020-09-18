@@ -1,9 +1,9 @@
 id: 308481459
 type: node
 shop: Supermarkt
-latitude: 48.098904600000004
-longitude: 11.5233869
-postcode: 81379
+latitude: 48.0989054
+longitude: 11.523348700000001
+postcode: "81379"
 city: München
 street: "Aidenbachstraße"
 housenumber: 30

@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 48.3963552
 longitude: 10.8596138
-postcode: 86156
+postcode: "86156"
 city: Augsburg
 street: "Wertinger Straße"
 housenumber: 102

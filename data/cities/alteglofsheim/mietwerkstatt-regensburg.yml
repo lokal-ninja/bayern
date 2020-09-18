@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.923404000000005
 longitude: 12.209973000000002
-postcode: 93087
+postcode: "93087"
 city: Alteglofsheim
 street: "Am Ziegelfeld"
 housenumber: B4

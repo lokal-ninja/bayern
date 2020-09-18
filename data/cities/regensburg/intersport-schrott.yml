@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 49.0194345
 longitude: 12.0935304
-postcode: 93047
+postcode: "93047"
 city: Regensburg
 street: "Vor der Grieb"
 housenumber: 7

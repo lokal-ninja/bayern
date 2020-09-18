@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 47.8636817
 longitude: 12.0095077
-postcode: 83043
+postcode: "83043"
 city: Bad Aibling
 street: "Marienplatz"
 housenumber: 11

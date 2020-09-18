@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.148001400000005
 longitude: 11.576747200000002
-postcode: 80799
+postcode: "80799"
 city: München
 street: "Amalienstraße"
 housenumber: 33

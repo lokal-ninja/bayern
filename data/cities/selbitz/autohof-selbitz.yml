@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.325291
 longitude: 11.785883700000001
-postcode: 95152
+postcode: "95152"
 city: Selbitz
 street: "Stegenwaldhauserstraße"
 housenumber: 1

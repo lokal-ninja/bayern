@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.387253400000006
 longitude: 12.1270591
-postcode: 92521
+postcode: "92521"
 city: Schwarzenfeld
 street: "Irrenloher Damm"
 housenumber: 28

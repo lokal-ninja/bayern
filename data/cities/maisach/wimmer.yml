@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.2169243
 longitude: 11.264556800000001
-postcode: 82216
+postcode: "82216"
 city: Maisach
 street: "Estinger Straße"
 housenumber: 2

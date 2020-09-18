@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.1588823
 longitude: 11.4129872
-postcode: 81245
+postcode: "81245"
 city: München
 street: "Ubostraße"
 housenumber: 21

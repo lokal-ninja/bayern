@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 48.9653842
 longitude: 12.3848227
-postcode: 93102
+postcode: "93102"
 city: Pfatter
 street: "Haidauer Straße"
 housenumber: 46

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.4462017
 longitude: 11.0455425
-postcode: 90439
+postcode: "90439"
 city: Nürnberg
 street: "Fuggerstraße"
 housenumber: 50

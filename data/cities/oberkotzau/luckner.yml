@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.264261600000005
 longitude: 11.9314166
-postcode: 95145
+postcode: "95145"
 city: Oberkotzau
 street: "Hofer Straße"
 housenumber: 24

@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.45854670000001
 longitude: 10.2795678
-postcode: 89312
+postcode: "89312"
 city: Günzburg
 street: "Bahnhofstraße"
 housenumber: 7-9

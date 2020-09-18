@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 47.9855426
 longitude: 10.2170436
-postcode: 87766
+postcode: "87766"
 city: Memmingerberg
 street: "Hawanger Straße"
 housenumber: 21

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.9576195
 longitude: 11.897203500000002
-postcode: 85625
+postcode: "85625"
 city: Baiern
 street: "Raphaelweg"
 housenumber: 1

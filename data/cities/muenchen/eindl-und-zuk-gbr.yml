@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 48.120898600000004
 longitude: 11.687906100000001
-postcode: 81829
+postcode: "81829"
 city: München
 street: "Rappenweg"
 housenumber: 138

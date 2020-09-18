@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 47.886038600000006
 longitude: 10.6256955
-postcode: 87600
+postcode: "87600"
 city: Kaufbeuren
 street: "Wilhelmine-Mayer-Straße"
 housenumber: 1

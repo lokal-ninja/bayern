@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.8359024
 longitude: 11.1433178
-postcode: 82362
+postcode: "82362"
 city: Weilheim in Oberbayern
 street: "Alpenstraße"
 housenumber: 12

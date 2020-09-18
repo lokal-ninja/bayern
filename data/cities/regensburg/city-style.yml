@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.016200500000004
 longitude: 12.067742
-postcode: 93049
+postcode: "93049"
 city: Regensburg
 street: "Prüfeninger Straße"
 housenumber: 72 b

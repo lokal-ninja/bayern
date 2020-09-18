@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.0627992
 longitude: 11.678343400000001
-postcode: 85521
+postcode: "85521"
 city: Ottobrunn
 street: "Ottostraße"
 housenumber: 69

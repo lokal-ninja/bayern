@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.733656100000005
 longitude: 12.1898511
-postcode: 84088
+postcode: "84088"
 city: Neufahrn in Niederbayern
 street: "Hauptstraße"
 housenumber: 61

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.065262100000005
 longitude: 11.3790356
-postcode: 82131
+postcode: "82131"
 city: Gauting
 street: "Starnberger Straße"
 housenumber: 11

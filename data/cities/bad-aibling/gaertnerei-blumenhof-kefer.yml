@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 47.837878100000005
 longitude: 12.0125089
-postcode: 83043
+postcode: "83043"
 city: Bad Aibling
 street: "Feilnbacher Straße"
 housenumber: 1

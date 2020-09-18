@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 49.8114136
 longitude: 9.975685700000001
-postcode: 97076
+postcode: "97076"
 city: Würzburg
 street: "Industriestraße"
 housenumber: 1

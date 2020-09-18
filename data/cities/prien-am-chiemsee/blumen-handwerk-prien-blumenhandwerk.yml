@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.8536507
 longitude: 12.3459427
-postcode: 83209
+postcode: "83209"
 city: Prien am Chiemsee
 street: "Wendelsteinstraße"
 housenumber: 6

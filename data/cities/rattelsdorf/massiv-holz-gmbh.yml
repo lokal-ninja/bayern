@@ -3,7 +3,7 @@ type: way
 shop: Großhandel
 latitude: 50.0196595
 longitude: 10.886996100000001
-postcode: 96179
+postcode: "96179"
 city: Rattelsdorf
 street: "Bromberg"
 housenumber: 34

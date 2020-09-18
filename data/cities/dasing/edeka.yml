@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.386479800000004
 longitude: 11.058419500000001
-postcode: 86453
+postcode: "86453"
 city: Dasing
 street: "Aichacher Straße"
 housenumber: 16

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.9094465
 longitude: 9.1510803
-postcode: 63834
+postcode: "63834"
 city: Sulzbach am Main
 street: "Hauptstraße"
 housenumber: 10

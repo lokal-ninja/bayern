@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 50.3119778
 longitude: 10.976357400000001
-postcode: 96486
+postcode: "96486"
 city: Lautertal
 street: "Frankenstraße"
 housenumber: 43

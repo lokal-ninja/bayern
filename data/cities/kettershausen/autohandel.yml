@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.1838123
 longitude: 10.258782
-postcode: 86498
+postcode: "86498"
 city: Kettershausen
 street: "Waldstraße"
 housenumber: 4

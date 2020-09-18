@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.0920265
 longitude: 11.5674574
-postcode: 81545
+postcode: "81545"
 city: München
 street: "Armanspergstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 48.534390200000004
 longitude: 12.470297400000002
-postcode: 84168
+postcode: "84168"
 city: Aham
 street: "Mühlenweg"
 housenumber: 2

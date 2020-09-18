@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.4481291
 longitude: 10.231299
-postcode: 89340
+postcode: "89340"
 city: Leipheim
 street: "Augsburger Straße"
 housenumber: 38

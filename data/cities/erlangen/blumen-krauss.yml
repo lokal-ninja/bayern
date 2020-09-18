@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 49.5870699
 longitude: 11.012823800000001
-postcode: 91052
+postcode: "91052"
 city: Erlangen
 street: "Zeppelinstraße"
 housenumber: 33

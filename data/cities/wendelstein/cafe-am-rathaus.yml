@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.3556278
 longitude: 11.143439800000001
-postcode: 90530
+postcode: "90530"
 city: Wendelstein
 street: "Hauptstraße"
 housenumber: 19

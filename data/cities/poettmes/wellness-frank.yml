@@ -3,7 +3,7 @@ type: node
 shop: Pool
 latitude: 48.5811677
 longitude: 11.0918431
-postcode: 86554
+postcode: "86554"
 city: Pöttmes
 street: "Aichacher Straße"
 housenumber: 9

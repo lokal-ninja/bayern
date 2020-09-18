@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 48.153240700000005
 longitude: 11.5074432
-postcode: 80639
+postcode: "80639"
 city: München
 street: "Hirschgartenallee"
 housenumber: 27

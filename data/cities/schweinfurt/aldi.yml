@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.055990300000005
 longitude: 10.226133
-postcode: 97422
+postcode: "97422"
 city: Schweinfurt
 street: "Heckenweg"
 housenumber: 5

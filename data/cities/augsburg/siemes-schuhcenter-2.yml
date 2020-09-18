@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 48.3792088
 longitude: 10.933480000000001
-postcode: 86165
+postcode: "86165"
 city: Augsburg
 street: "Brixener Straße"
 housenumber: 6

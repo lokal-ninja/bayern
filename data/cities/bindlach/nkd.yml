@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.9758799
 longitude: 11.6159826
-postcode: 95463
+postcode: "95463"
 city: Bindlach
 street: "Lehengraben"
 housenumber: 20

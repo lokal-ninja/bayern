@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 49.0008965
 longitude: 12.090267500000001
-postcode: 93051
+postcode: "93051"
 city: Regensburg
 street: "Ludwig-Thoma-Straße"
 housenumber: 43

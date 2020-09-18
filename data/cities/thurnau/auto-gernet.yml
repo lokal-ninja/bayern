@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.024374300000005
 longitude: 11.389378500000001
-postcode: 95349
+postcode: "95349"
 city: Thurnau
 street: "Berndorfer Straße"
 housenumber: 6

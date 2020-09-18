@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.0690399
 longitude: 10.3167477
-postcode: 91550
+postcode: "91550"
 city: Dinkelsbühl
 street: "Segringer Straße"
 housenumber: 35

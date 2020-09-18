@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.260364300000006
 longitude: 11.474157
-postcode: 85221
+postcode: "85221"
 city: Dachau
 street: "Kopernikusstraße"
 housenumber: 6

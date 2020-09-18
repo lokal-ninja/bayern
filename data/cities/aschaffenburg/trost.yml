@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 49.965620300000005
 longitude: 9.1306013
-postcode: 63741
+postcode: "63741"
 city: Aschaffenburg
 street: "Magnolienweg"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.1311029
 longitude: 11.6254448
-postcode: 81673
+postcode: "81673"
 city: München
 street: "Neumarkter Straße"
 housenumber: 64

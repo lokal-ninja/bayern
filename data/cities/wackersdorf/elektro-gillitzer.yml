@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 49.3108914
 longitude: 12.1691888
-postcode: 92442
+postcode: "92442"
 city: Wackersdorf
 street: "Eichenstraße"
 housenumber: 2

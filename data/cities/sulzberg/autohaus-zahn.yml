@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.6470938
 longitude: 10.364966200000001
-postcode: 87477
+postcode: "87477"
 city: Sulzberg
 street: "Winkel"
 housenumber: 1a

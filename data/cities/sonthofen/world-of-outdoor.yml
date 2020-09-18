@@ -3,7 +3,7 @@ type: way
 shop: Outdoor
 latitude: 47.515933600000004
 longitude: 10.2898496
-postcode: 87527
+postcode: "87527"
 city: Sonthofen
 street: "Berghofer Straße"
 housenumber: 19

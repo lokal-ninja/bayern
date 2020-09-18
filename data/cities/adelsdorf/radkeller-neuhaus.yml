@@ -3,10 +3,10 @@ type: way
 shop: Fahrrad
 latitude: 49.6848157
 longitude: 10.8793732
-postcode: 91325
+postcode: "91325"
 city: Adelsdorf
 street: "Röttenbacher Straße"
 housenumber: 20
 phone: "+49 9195 9985069"
 opening_hours: "Mo-Th 09:00-12:30,14:00-18:00,Fr 09:00-12:00,13:00-16:00"
-website: ""
+website: "https://m.facebook.com/pages/category/Bicycle-Shop/RadkellerNeuhaus/about/"

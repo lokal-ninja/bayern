@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.8239753
 longitude: 12.0502631
-postcode: 84085
+postcode: "84085"
 city: Langquaid
 street: "Schulstraße"
 housenumber: 1

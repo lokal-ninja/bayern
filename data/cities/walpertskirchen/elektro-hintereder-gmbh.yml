@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 48.257412
 longitude: 11.974592000000001
-postcode: 85469
+postcode: "85469"
 city: Walpertskirchen
 street: "Hauptstraße"
 housenumber: 2

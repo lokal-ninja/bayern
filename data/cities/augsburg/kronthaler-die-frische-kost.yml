@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 48.377951700000004
 longitude: 10.915442
-postcode: 86165
+postcode: "86165"
 city: Augsburg
 street: "Waterloostraße"
 housenumber: 10

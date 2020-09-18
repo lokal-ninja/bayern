@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.8636655
 longitude: 12.009738800000001
-postcode: 83043
+postcode: "83043"
 city: Bad Aibling
 street: "Marienplatz"
 housenumber: 10

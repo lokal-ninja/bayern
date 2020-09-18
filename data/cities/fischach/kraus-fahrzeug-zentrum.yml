@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.282382000000005
 longitude: 10.6547374
-postcode: 86850
+postcode: "86850"
 city: Fischach
 street: "Hauptstraße"
 housenumber: 66

@@ -3,10 +3,10 @@ type: node
 shop: Kleidung
 latitude: 48.4013532
 longitude: 11.7477742
-postcode: 85354
+postcode: "85354"
 city: Freising
 street: "Untere Hauptstraße"
 housenumber: 44
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-16:00"
+opening_hours: "Mo-Fr 10:00-18:30; Sa 09:30-16:00"
 website: ""

@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 50.3289022
 longitude: 11.710536600000001
-postcode: 95119
+postcode: "95119"
 city: Naila
 street: "Bahnhofstraße"
 housenumber: 6

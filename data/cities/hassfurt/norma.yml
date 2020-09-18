@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 50.0332857
 longitude: 10.5424945
-postcode: 97437
+postcode: "97437"
 city: Haßfurt
 street: "Robert-Bosch-Straße"
-housenumber: 3a
+housenumber: 3
 phone: "+49 180 5 911102"
 opening_hours: ""
 website: ""

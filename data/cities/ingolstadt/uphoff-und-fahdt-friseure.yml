@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.761535200000004
 longitude: 11.4266237
-postcode: 85049
+postcode: "85049"
 city: Ingolstadt
 street: "Steuartstraße"
 housenumber: 3

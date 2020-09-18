@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 50.1562617
 longitude: 10.1238475
-postcode: 97714
+postcode: "97714"
 city: Oerlenbach
 street: "Sudetenstraße"
 housenumber: 10

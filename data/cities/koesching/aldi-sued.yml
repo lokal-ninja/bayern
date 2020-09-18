@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.8079534
 longitude: 11.4800755
-postcode: 85092
+postcode: "85092"
 city: Kösching
 street: "Ingolstädter Straße"
 housenumber: 141

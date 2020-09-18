@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.659605500000005
 longitude: 11.0954575
-postcode: 91090
+postcode: "91090"
 city: Effeltrich
 street: "Mittlerer Bühl"
 housenumber: 2

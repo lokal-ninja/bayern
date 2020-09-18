@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.5639558
 longitude: 12.1019632
-postcode: 
+postcode: ""
 city: Altdorf
 street: "Rottenburger Straße"
 housenumber: 31

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.239363000000004
 longitude: 10.4931433
-postcode: 86483
+postcode: "86483"
 city: Balzhausen
 street: "Sankt-Leonhard-Straße"
 housenumber: 22

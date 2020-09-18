@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 48.9056221
 longitude: 12.6925076
-postcode: 94327
+postcode: "94327"
 city: Bogen
 street: "Stadtplatz"
 housenumber: 57

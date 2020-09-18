@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.8221603
 longitude: 12.007082500000001
-postcode: 83043
+postcode: "83043"
 city: Bad Aibling
 street: "Eulenau"
 housenumber: 12

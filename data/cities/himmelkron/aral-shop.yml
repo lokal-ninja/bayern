@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.0544529
 longitude: 11.622746800000002
-postcode: 95502
+postcode: "95502"
 city: Himmelkron
 street: "Hofer Straße"
 housenumber: 2

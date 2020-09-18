@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 48.5937696
 longitude: 10.958949800000001
-postcode: 86674
+postcode: "86674"
 city: Baar
 street: "Dorfstraße"
 housenumber: 1

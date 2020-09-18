@@ -3,7 +3,7 @@ type: node
 shop: Leder
 latitude: 48.0458822
 longitude: 11.967911500000001
-postcode: 85567
+postcode: "85567"
 city: Grafing bei München
 street: "Marktplatz"
 housenumber: 14

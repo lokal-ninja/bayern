@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 49.169222100000006
 longitude: 10.331316300000001
-postcode: 91555
+postcode: "91555"
 city: Feuchtwangen
 street: "Hindenburgstraße"
 housenumber: 14

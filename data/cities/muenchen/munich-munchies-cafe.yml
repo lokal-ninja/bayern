@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.1816575
 longitude: 11.571722000000001
-postcode: 
+postcode: ""
 city: München
 street: "Keferloherstraße"
 housenumber: 86a

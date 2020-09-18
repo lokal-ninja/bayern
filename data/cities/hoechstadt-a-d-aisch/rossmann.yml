@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.6978189
 longitude: 10.8073379
-postcode: 91315
+postcode: "91315"
 city: Höchstadt a.d.Aisch
 street: "Erlanger Straße"
 housenumber: 4

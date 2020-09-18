@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.9336764
 longitude: 12.4771005
-postcode: 83358
+postcode: "83358"
 city: Seeon-Seebruck
 street: "Römerstraße"
 housenumber: 

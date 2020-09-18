@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 49.5047076
 longitude: 11.2668099
-postcode: 91207
+postcode: "91207"
 city: Lauf a.d.Pegnitz
 street: "Nürnberger Straße"
 housenumber: 110

@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 49.019668100000004
 longitude: 12.090930400000001
-postcode: 93047
+postcode: "93047"
 city: Regensburg
 street: "Ludwigstraße"
 housenumber: 5

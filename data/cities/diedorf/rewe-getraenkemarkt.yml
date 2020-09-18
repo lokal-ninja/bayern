@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 48.3585597
 longitude: 10.7839766
-postcode: 86420
+postcode: "86420"
 city: Diedorf
 street: "Gewerbestraße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.0412316
 longitude: 11.525625000000002
-postcode: 82031
+postcode: "82031"
 city: Grünwald
 street: "Südliche Münchner Straße"
 housenumber: 8

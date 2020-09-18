@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.532026800000004
 longitude: 11.3450334
-postcode: 91233
+postcode: "91233"
 city: Neunkirchen a. Sand
 street: "Kersbacher Straße"
 housenumber: 42

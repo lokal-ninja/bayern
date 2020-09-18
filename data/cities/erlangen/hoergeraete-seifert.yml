@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 49.596273100000005
 longitude: 11.0119091
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Bohlenplatz"
 housenumber: 22

@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 50.0089163
 longitude: 9.6077414
-postcode: 97816
+postcode: "97816"
 city: Lohr a. Main
 street: "Steinbacher Straße"
 housenumber: 1

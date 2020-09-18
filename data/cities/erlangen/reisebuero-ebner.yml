@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 49.595675
 longitude: 10.962596900000001
-postcode: 91056
+postcode: "91056"
 city: Erlangen
 street: "Odenwaldallee"
 housenumber: 31

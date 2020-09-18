@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.258802300000006
 longitude: 10.9647641
-postcode: 96450
+postcode: "96450"
 city: Coburg
 street: "Spitalgasse"
 housenumber: 2

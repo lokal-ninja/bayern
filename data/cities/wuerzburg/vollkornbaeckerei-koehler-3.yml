@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.7790175
 longitude: 9.933725200000001
-postcode: 97072
+postcode: "97072"
 city: Würzburg
 street: "Arndtstraße"
 housenumber: 14

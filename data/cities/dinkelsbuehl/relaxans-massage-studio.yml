@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 49.0614337
 longitude: 10.3185955
-postcode: 91550
+postcode: "91550"
 city: Dinkelsbühl
 street: "Edenkobener Straße"
 housenumber: 4

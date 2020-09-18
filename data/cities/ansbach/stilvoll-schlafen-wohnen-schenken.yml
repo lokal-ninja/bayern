@@ -1,12 +1,12 @@
 id: 3747469220
 type: node
 shop: Betten
-latitude: 49.3034619
-longitude: 10.5720068
-postcode: 91522
+latitude: 49.3020963
+longitude: 10.5751308
+postcode: "91522"
 city: Ansbach
-street: "Pfarrstraße"
-housenumber: 6
+street: "Johann-Sebastian-Bach-Platz"
+housenumber: 24
 phone: ""
-opening_hours: "Tu-Fr 9:30-18:00, Sa 9:30-14:00, Mo on appointment"
+opening_hours: "Tu-Fr 9:30-18:00, Sa 9:30-14:00, Mo 12:00-18:00"
 website: "http://stilvoll-ansbach.de"

@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 50.0075195
 longitude: 11.6815563
-postcode: 95497
+postcode: "95497"
 city: Goldkronach
 street: "Siedlungsstraße"
 housenumber: 31

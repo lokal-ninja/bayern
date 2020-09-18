@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.4234839
 longitude: 12.4812832
-postcode: 92559
+postcode: "92559"
 city: Winklarn
 street: "Rötzer Straße"
 housenumber: 18

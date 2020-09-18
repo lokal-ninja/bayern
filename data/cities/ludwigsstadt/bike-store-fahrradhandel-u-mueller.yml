@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 50.4840177
 longitude: 11.3914085
-postcode: 96337
+postcode: "96337"
 city: Ludwigsstadt
 street: "Kronacher Straße"
 housenumber: 15

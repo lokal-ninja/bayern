@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.010761300000006
 longitude: 12.1112145
-postcode: 93053
+postcode: "93053"
 city: Regensburg
 street: "Landshuter Straße"
 housenumber: 35 a

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.3201705
 longitude: 11.846804500000001
-postcode: 85445
+postcode: "85445"
 city: Oberding
 street: "Hauptstraße"
 housenumber: 47

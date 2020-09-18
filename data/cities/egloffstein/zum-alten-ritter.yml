@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 49.701319600000005
 longitude: 11.258055
-postcode: 91349
+postcode: "91349"
 city: Egloffstein
 street: "Marktplatz"
 housenumber: 39

@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.4290851
 longitude: 10.1213615
-postcode: 89278
+postcode: "89278"
 city: Nersingen
 street: "Dorfstraße"
 housenumber: 1

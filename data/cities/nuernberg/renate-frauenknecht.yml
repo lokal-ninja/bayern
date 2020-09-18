@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 49.4428222
 longitude: 11.093251200000001
-postcode: 90478
+postcode: "90478"
 city: Nürnberg
 street: "Glockenhofstraße"
 housenumber: 58

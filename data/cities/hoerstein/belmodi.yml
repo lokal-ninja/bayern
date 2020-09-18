@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 50.057548100000005
 longitude: 9.069711100000001
-postcode: 63755
+postcode: "63755"
 city: Hörstein
 street: "Haubühlstraße"
 housenumber: 18

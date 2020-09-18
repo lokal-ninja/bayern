@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 48.0395143
 longitude: 11.523622900000001
-postcode: 82031
+postcode: "82031"
 city: Grünwald
 street: "Marktplatz"
 housenumber: 2

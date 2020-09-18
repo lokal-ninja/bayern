@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 48.044411700000005
 longitude: 11.5280865
-postcode: 82031
+postcode: "82031"
 city: Grünwald
 street: "Südliche Münchner Straße"
 housenumber: 24

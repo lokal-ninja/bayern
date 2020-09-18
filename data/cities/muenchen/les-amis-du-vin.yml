@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 48.1284925
 longitude: 11.570710700000001
-postcode: 80469
+postcode: "80469"
 city: München
 street: "Klenzestraße"
 housenumber: 54

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.149536600000005
 longitude: 11.542205200000001
-postcode: 80636
+postcode: "80636"
 city: München
 street: "Blutenburgstraße"
 housenumber: 74

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.0476949
 longitude: 11.967886100000001
-postcode: 85567
+postcode: "85567"
 city: Grafing bei München
 street: "Leonhardstraße"
 housenumber: 3

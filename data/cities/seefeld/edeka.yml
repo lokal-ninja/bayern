@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.03390580000001
 longitude: 11.2111596
-postcode: 82229
+postcode: "82229"
 city: Seefeld
 street: "Hauptstraße"
 housenumber: 40

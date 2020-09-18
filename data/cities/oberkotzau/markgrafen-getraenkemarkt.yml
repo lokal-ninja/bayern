@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.2691906
 longitude: 11.9260815
-postcode: 95145
+postcode: "95145"
 city: Oberkotzau
 street: "Hofer Straße"
 housenumber: 69

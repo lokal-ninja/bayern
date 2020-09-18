@@ -1,6 +1,6 @@
 ---
 title: Frasdorf
 url: /frasdorf/
-latitude: 47.802654700000005
-longitude: 12.281904500000001
+latitude: 47.802463700000004
+longitude: 12.282011800000001
 ---

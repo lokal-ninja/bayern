@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.808707600000005
 longitude: 10.590856800000001
-postcode: 86753
+postcode: "86753"
 city: Möttingen
 street: "Romantische Straße"
 housenumber: 22

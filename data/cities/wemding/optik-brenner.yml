@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.8745946
 longitude: 10.725499500000002
-postcode: 86650
+postcode: "86650"
 city: Wemding
 street: "Mangoldstraße"
 housenumber: 10

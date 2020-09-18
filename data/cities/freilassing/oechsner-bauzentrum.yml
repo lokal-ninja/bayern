@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 47.8368223
 longitude: 12.9727581
-postcode: 83395
+postcode: "83395"
 city: Freilassing
 street: "Georg-Wrede-Straße"
 housenumber: 11a

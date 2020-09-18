@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.9534436
 longitude: 11.5887851
-postcode: 95448
+postcode: "95448"
 city: Bayreuth
 street: "Markgrafenallee"
 housenumber: 42

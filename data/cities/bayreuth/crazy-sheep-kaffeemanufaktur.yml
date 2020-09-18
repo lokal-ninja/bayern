@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 49.9456463
 longitude: 11.5677976
-postcode: 95445
+postcode: "95445"
 city: Bayreuth
 street: "Andreas-Maisel-Weg"
 housenumber: 2

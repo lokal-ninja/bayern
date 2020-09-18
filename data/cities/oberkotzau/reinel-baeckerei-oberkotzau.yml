@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.263385500000005
 longitude: 11.931848400000002
-postcode: 95145
+postcode: "95145"
 city: Oberkotzau
 street: "Hofer Straße"
 housenumber: 10

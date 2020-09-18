@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsartikel
 latitude: 48.0762501
 longitude: 11.661467
-postcode: 85579
+postcode: "85579"
 city: Neubiberg
 street: "Hauptstraße"
 housenumber: 2b

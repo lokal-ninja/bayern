@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.704169900000004
 longitude: 9.237640500000001
-postcode: 63897
+postcode: "63897"
 city: Miltenberg
 street: "Mainzer Straße"
 housenumber: 40

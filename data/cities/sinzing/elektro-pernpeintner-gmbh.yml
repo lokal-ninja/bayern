@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 48.995625700000005
 longitude: 12.033225100000001
-postcode: 93161
+postcode: "93161"
 city: Sinzing
 street: "Industriestraße"
 housenumber: 3

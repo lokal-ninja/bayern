@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 47.5648363
 longitude: 9.6661754
-postcode: 88131
+postcode: "88131"
 city: Bodolz
 street: "Untere Steig"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Treibstoff
 latitude: 49.437468
 longitude: 10.9458163
-postcode: 90513
+postcode: "90513"
 city: Zirndorf
 street: "Schwabacher Straße"
 housenumber: 30

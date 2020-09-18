@@ -1,12 +1,12 @@
-id: 1245410814
+id: 1041219164
 type: node
 shop: Supermarkt
-latitude: 48.1314817
-longitude: 11.5754187
-postcode: 80469
+latitude: 48.117982000000005
+longitude: 11.522290600000002
+postcode: "81373"
 city: München
-street: "Klenzestraße"
-housenumber: 26
+street: "Ohlstadter Straße"
+housenumber: 22
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.penny.de/"
+opening_hours: "Mo-Sa 07:30-20:00"
+website: "www.penny.de"

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.9736162
 longitude: 9.1555543
-postcode: 63739
+postcode: "63739"
 city: Aschaffenburg
 street: "Würzburger Straße"
 housenumber: 42a

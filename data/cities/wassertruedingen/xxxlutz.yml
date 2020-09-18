@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 49.0431551
 longitude: 10.5824273
-postcode: 91717
+postcode: "91717"
 city: Wassertrüdingen
 street: "Nordosttangente"
 housenumber: 1

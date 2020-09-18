@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.2364728
 longitude: 11.666077300000001
-postcode: 92355
+postcode: "92355"
 city: Velburg
 street: "Gewerbegebiet Nord"
 housenumber: 1

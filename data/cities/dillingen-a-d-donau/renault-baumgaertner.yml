@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.5884889
 longitude: 10.518388100000001
-postcode: 89407
+postcode: "89407"
 city: Dillingen a.d.Donau
 street: "Otto-Hahn-Straße"
 housenumber: 6

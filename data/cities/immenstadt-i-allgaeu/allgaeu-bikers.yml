@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 47.55744970000001
 longitude: 10.238869300000001
-postcode: 87509
+postcode: "87509"
 city: Immenstadt i.Allgäu
 street: "Am Kreuzbach"
 housenumber: 3

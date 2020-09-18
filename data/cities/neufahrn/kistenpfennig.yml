@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.3201782
 longitude: 11.661228000000001
-postcode: 85375
+postcode: "85375"
 city: Neufahrn
 street: "Bahnhofstraße"
 housenumber: 52

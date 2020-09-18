@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.441454300000004
 longitude: 10.363308400000001
-postcode: 91613
+postcode: "91613"
 city: Marktbergel
 street: "Kirchstraße"
 housenumber: 3

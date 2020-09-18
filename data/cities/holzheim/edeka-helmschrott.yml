@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.5138995
 longitude: 10.5231656
-postcode: 89438
+postcode: "89438"
 city: Holzheim
 street: "Römerstraße"
 housenumber: 13

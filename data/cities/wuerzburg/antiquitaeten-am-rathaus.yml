@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 49.792361400000004
 longitude: 9.9293881
-postcode: 97070
+postcode: "97070"
 city: Würzburg
 street: "Wolfhartsgasse"
 housenumber: 5

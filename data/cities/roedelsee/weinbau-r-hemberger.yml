@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 49.717882700000004
 longitude: 10.2423894
-postcode: 97348
+postcode: "97348"
 city: Rödelsee
 street: "Aussiedlerhof"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.103754200000004
 longitude: 10.642509200000001
-postcode: 86833
+postcode: "86833"
 city: Ettringen
 street: "Tussenhauser Straße"
 housenumber: 42

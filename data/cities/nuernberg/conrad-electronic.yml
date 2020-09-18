@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 49.458479800000006
 longitude: 11.0347532
-postcode: 90429
+postcode: "90429"
 city: Nürnberg
 street: "Fürther Straße"
 housenumber: 212

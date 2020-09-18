@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.9102897
 longitude: 10.629584600000001
-postcode: 87600
+postcode: "87600"
 city: Kaufbeuren
 street: "Hüttenstraße"
 housenumber: 59

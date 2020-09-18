@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 47.741494100000004
 longitude: 12.8932534
-postcode: 83435
+postcode: "83435"
 city: Bad Reichenhall
 street: "Frühlingstraße"
 housenumber: 103

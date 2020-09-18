@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.1923049
 longitude: 11.371289500000001
-postcode: 82194
+postcode: "82194"
 city: Gröbenzell
 street: "Karwendelstraße"
 housenumber: 1

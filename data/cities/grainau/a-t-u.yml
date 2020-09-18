@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.4793083
 longitude: 11.053030300000001
-postcode: 82491
+postcode: "82491"
 city: Grainau
 street: "An der Zugspitze"
 housenumber: 3

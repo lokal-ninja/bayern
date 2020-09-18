@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.7664155
 longitude: 11.4226685
-postcode: 85049
+postcode: "85049"
 city: Ingolstadt
 street: "Harderstraße"
 housenumber: 13

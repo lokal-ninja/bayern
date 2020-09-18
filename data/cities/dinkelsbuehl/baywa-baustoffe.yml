@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.0708071
 longitude: 10.330016200000001
-postcode: 91550
+postcode: "91550"
 city: Dinkelsbühl
 street: "Von-Raumer-Straße"
 housenumber: 22

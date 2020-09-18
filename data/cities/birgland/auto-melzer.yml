@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.407414200000005
 longitude: 11.6606413
-postcode: 92262
+postcode: "92262"
 city: Birgland
 street: ""
 housenumber: 40

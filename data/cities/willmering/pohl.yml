@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 49.2403982
 longitude: 12.677279
-postcode: 93497
+postcode: "93497"
 city: Willmering
 street: ""
 housenumber: 2

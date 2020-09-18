@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 49.0913381
 longitude: 13.0075357
-postcode: 94256
+postcode: "94256"
 city: Drachselsried
 street: ""
 housenumber: 18

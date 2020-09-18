@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.5973045
 longitude: 11.0026922
-postcode: 91054
+postcode: "91054"
 city: Erlangen
 street: "Helmstraße"
 housenumber: 4

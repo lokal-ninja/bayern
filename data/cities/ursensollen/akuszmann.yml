@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.396022
 longitude: 11.7723131
-postcode: 92289
+postcode: "92289"
 city: Ursensollen
 street: "Jakob-Oswald-Straße"
 housenumber: 12

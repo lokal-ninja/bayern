@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.13434
 longitude: 11.818706500000001
-postcode: 95239
+postcode: "95239"
 city: Zell im Fichtelgebirge
 street: "Münchberger Straße"
 housenumber: 12

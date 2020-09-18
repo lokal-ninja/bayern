@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.1697118
 longitude: 11.8194911
-postcode: 85586
+postcode: "85586"
 city: Poing
 street: "Bgm.-Germeier-Straße"
 housenumber: 2

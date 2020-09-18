@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.1449195
 longitude: 11.3016457
-postcode: 82239
+postcode: "82239"
 city: Alling
 street: "Hoflacher Straße"
 housenumber: 30

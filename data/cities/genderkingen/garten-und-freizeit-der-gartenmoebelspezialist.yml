@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 48.699418300000005
 longitude: 10.881518300000002
-postcode: 86682
+postcode: "86682"
 city: Genderkingen
 street: "Lange Gwand"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Schokolade
 latitude: 48.1350543
 longitude: 11.5777832
-postcode: 80331
+postcode: "80331"
 city: München
 street: "Westenriederstraße"
 housenumber: 15

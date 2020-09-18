@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.223188900000004
 longitude: 11.935098400000001
-postcode: 95126
+postcode: "95126"
 city: Schwarzenbach a.d.Saale
 street: "Rehauer Straße"
 housenumber: 7

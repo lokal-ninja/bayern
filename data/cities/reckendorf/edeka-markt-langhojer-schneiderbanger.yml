@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.0232633
 longitude: 10.8257954
-postcode: 96182
+postcode: "96182"
 city: Reckendorf
 street: "Geracher Straße"
 housenumber: 1

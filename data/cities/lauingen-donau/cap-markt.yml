@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.5716547
 longitude: 10.430815500000001
-postcode: 89415
+postcode: "89415"
 city: Lauingen (Donau)
 street: "Herzog-Georg-Straße"
 housenumber: 80

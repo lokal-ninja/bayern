@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.1185108
 longitude: 11.6580712
-postcode: 81825
+postcode: "81825"
 city: München
 street: "Bajuwarenstraße"
 housenumber: 67

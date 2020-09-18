@@ -3,7 +3,7 @@ type: node
 shop: Schlüsseldienst
 latitude: 49.591573100000005
 longitude: 11.007318000000001
-postcode: 91052
+postcode: "91052"
 city: Erlangen
 street: "Rathausplatz"
 housenumber: 5

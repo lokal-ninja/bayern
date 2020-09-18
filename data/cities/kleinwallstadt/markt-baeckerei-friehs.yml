@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.8722812
 longitude: 9.164596000000001
-postcode: 63839
+postcode: "63839"
 city: Kleinwallstadt
 street: "Marktstraße"
 housenumber: 5-7

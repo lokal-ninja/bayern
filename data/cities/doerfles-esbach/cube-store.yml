@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 50.2855615
 longitude: 11.0049331
-postcode: 96487
+postcode: "96487"
 city: Dörfles-Esbach
 street: "Ziegelei"
 housenumber: 18

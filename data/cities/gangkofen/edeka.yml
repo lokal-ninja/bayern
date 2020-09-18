@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.4391429
 longitude: 12.5645225
-postcode: 
+postcode: ""
 city: Gangkofen
 street: "Frontenhausener Straße"
 housenumber: 2c

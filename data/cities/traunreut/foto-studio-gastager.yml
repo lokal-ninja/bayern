@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 47.9628121
 longitude: 12.5921105
-postcode: 83301
+postcode: "83301"
 city: Traunreut
 street: "Elbestraße"
 housenumber: 1

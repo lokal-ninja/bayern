@@ -3,10 +3,10 @@ type: node
 shop: Massage
 latitude: 48.403313000000004
 longitude: 11.7496501
-postcode: 85356
+postcode: "85356"
 city: Freising
 street: "General-von-Nagel-Straße"
 housenumber: 15
-phone: "+49 (0)8161-5192573"
-opening_hours: ""
+phone: "+49-8161-9106321"
+opening_hours: "Mo-Sa 10:00-19:30"
 website: "http://www.buanimit-thaimassage.de/"

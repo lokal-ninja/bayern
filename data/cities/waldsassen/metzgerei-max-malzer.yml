@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 50.003545200000005
 longitude: 12.3044463
-postcode: 95652
+postcode: "95652"
 city: Waldsassen
 street: "Prinz-Ludwig-Straße"
 housenumber: 10

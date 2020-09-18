@@ -1,12 +1,12 @@
-id: 793774683
+id: 663592567
 type: node
 shop: Supermarkt
-latitude: 48.1495144
-longitude: 11.4595227
-postcode: 81241
+latitude: 48.1297003
+longitude: 11.489990500000001
+postcode: "80689"
 city: München
-street: "Kaflerstraße"
-housenumber: 2
-phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: ""
+street: "Senftenauerstraße"
+housenumber: 69-73
+phone: "+49 89 54612583"
+opening_hours: "Mo-Sa 7:00-20:00"
+website: "www.rewe.de"

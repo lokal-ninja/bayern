@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 49.469763900000004
 longitude: 11.100902900000001
-postcode: 90491
+postcode: "90491"
 city: Nürnberg
 street: "Äußere Bayreuther Straße"
 housenumber: 80

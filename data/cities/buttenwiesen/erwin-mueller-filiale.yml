@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.604327500000004
 longitude: 10.726403000000001
-postcode: 86647
+postcode: "86647"
 city: Buttenwiesen
 street: "Buttstraße"
 housenumber: 2

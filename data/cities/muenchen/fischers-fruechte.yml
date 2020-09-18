@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 48.0969939
 longitude: 11.581269
-postcode: 81547
+postcode: "81547"
 city: München
 street: "Haushamer Straße"
 housenumber: 2

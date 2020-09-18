@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.4399205
 longitude: 13.1888734
-postcode: 94086
+postcode: "94086"
 city: Bad Griesbach i.Rottal
 street: "Weghofstraße"
 housenumber: 6

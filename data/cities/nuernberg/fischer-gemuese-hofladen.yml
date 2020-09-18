@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 49.519081400000005
 longitude: 11.050005
-postcode: 90427
+postcode: "90427"
 city: Nürnberg
 street: "Obere Dorfstraße"
 housenumber: 38

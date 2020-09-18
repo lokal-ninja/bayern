@@ -3,7 +3,7 @@ type: way
 shop: Wein
 latitude: 49.8086731
 longitude: 9.9080984
-postcode: 97080
+postcode: "97080"
 city: Würzburg
 street: "Unterdürrbacher Straße"
 housenumber: 182

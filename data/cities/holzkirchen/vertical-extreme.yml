@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 47.881757900000004
 longitude: 11.6989622
-postcode: 83607
+postcode: "83607"
 city: Holzkirchen
 street: "Erlkamer Straße"
 housenumber: 2

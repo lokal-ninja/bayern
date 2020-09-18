@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 50.3205595
 longitude: 10.2162272
-postcode: 97616
+postcode: "97616"
 city: Bad Neustadt an der Saale
 street: "Mühlbacher Straße"
 housenumber: 16

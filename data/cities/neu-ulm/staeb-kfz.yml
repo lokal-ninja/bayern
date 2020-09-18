@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.360091600000004
 longitude: 10.0732177
-postcode: 89233
+postcode: "89233"
 city: Neu-Ulm
 street: "Holzschwanger Straße"
 housenumber: 26

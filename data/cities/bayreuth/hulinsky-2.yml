@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.942566400000004
 longitude: 11.580895900000002
-postcode: 95444
+postcode: "95444"
 city: Bayreuth
 street: "Richard-Wagner-Straße"
 housenumber: 25

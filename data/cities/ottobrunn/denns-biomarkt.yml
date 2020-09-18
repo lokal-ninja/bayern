@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.066687200000004
 longitude: 11.6658328
-postcode: 85521
+postcode: "85521"
 city: Ottobrunn
 street: "Putzbrunner Straße"
 housenumber: 26

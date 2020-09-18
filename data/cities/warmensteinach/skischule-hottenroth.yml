@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 50.0121699
 longitude: 11.808648100000001
-postcode: 95485
+postcode: "95485"
 city: Warmensteinach
 street: "Fleckl"
 housenumber: 44

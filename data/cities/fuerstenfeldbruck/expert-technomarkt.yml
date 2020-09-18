@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.162057600000004
 longitude: 11.22659
-postcode: 82256
+postcode: "82256"
 city: Fürstenfeldbruck
 street: "Kurt-Huber-Ring"
 housenumber: 1

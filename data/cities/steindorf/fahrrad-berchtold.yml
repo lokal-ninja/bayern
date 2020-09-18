@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.215523000000005
 longitude: 11.001415900000001
-postcode: 82297
+postcode: "82297"
 city: Steindorf
 street: "Hauptstraße"
 housenumber: 7

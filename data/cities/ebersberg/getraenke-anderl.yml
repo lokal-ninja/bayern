@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 48.0779676
 longitude: 11.9680079
-postcode: 85560
+postcode: "85560"
 city: Ebersberg
 street: "Ulrichstraße"
 housenumber: 1a

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.3916565
 longitude: 11.3636624
-postcode: 90518
+postcode: "90518"
 city: Altdorf b.Nürnberg
 street: "Im See"
 housenumber: 1

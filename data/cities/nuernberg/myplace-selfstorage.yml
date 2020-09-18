@@ -3,7 +3,7 @@ type: node
 shop: Mieten
 latitude: 49.4672775
 longitude: 11.0985443
-postcode: 90491
+postcode: "90491"
 city: Nürnberg
 street: "Äußere Bayreuther Straße"
 housenumber: 48

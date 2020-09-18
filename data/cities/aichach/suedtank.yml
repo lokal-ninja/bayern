@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.462865400000005
 longitude: 11.1351112
-postcode: 86551
+postcode: "86551"
 city: Aichach
 street: "Schrobenhausener Straße"
 housenumber: 15

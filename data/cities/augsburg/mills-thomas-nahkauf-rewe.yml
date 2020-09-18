@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.3119609
 longitude: 10.9029956
-postcode: 86179
+postcode: "86179"
 city: Augsburg
 street: "Hofackerstraße"
 housenumber: 26

@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 49.690617800000005
 longitude: 11.6326768
-postcode: 91275
+postcode: "91275"
 city: Auerbach i.d.OPf.
 street: "Obere Vorstadt"
 housenumber: 9

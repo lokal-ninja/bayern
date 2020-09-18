@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.8027949
 longitude: 12.156043500000001
-postcode: 92670
+postcode: "92670"
 city: Windischeschenbach
 street: "Pfarrplatz"
 housenumber: 1

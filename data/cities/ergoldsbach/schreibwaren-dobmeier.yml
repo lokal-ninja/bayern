@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 48.692791400000004
 longitude: 12.200523400000002
-postcode: 84061
+postcode: "84061"
 city: Ergoldsbach
 street: "Am Alten Sägewerk"
 housenumber: 2

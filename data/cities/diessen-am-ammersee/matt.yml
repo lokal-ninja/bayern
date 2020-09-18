@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 47.948252000000004
 longitude: 11.1045782
-postcode: 86911
+postcode: "86911"
 city: Dießen am Ammersee
 street: "Mühlstraße"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.255599600000004
 longitude: 12.533362200000001
-postcode: 84453
+postcode: "84453"
 city: Mühldorf a. Inn
 street: "Egglkofenstraße"
 housenumber: 7a

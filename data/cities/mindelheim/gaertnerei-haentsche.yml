@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 48.042475200000005
 longitude: 10.451056900000001
-postcode: 87719
+postcode: "87719"
 city: Mindelheim
 street: "Stettener Straße"
 housenumber: 30

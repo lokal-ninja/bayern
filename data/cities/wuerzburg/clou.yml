@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 49.794054700000004
 longitude: 9.9274065
-postcode: 97070
+postcode: "97070"
 city: Würzburg
 street: "Karmelitenstraße"
 housenumber: 17

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.3713465
 longitude: 10.878399
-postcode: 86152
+postcode: "86152"
 city: Augsburg
 street: "Holzbachstraße"
 housenumber: 2f

@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 49.6775911
 longitude: 12.1761943
-postcode: 92637
+postcode: "92637"
 city: Weiden i.d.OPf.
 street: "Stresemannstraße"
 housenumber: 1a

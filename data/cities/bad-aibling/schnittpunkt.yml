@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.8609013
 longitude: 12.001351600000001
-postcode: 83043
+postcode: "83043"
 city: Bad Aibling
 street: "Sonnenstraße"
 housenumber: 26

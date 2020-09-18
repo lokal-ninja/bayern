@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.7864475
 longitude: 10.0312494
-postcode: 97228
+postcode: "97228"
 city: Rottendorf
 street: "Am Moritzberg"
 housenumber: 5

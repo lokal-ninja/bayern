@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.445052200000006
 longitude: 11.8346037
-postcode: 92224
+postcode: "92224"
 city: Amberg
 street: "Welserstraße"
 housenumber: 11

@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 49.458420200000006
 longitude: 11.0064474
-postcode: 90763
+postcode: "90763"
 city: Fürth
 street: "Waldstraße"
 housenumber: 82-86

@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 48.8205602
 longitude: 12.5178545
-postcode: 94351
+postcode: "94351"
 city: Feldkirchen
 street: ""
 housenumber: 21

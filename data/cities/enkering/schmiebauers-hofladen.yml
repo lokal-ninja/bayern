@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 48.9924028
 longitude: 11.363721
-postcode: 85125
+postcode: "85125"
 city: Enkering
 street: "Rumburgstraße"
 housenumber: 3
