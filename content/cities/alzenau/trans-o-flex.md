@@ -1,4 +1,4 @@
 ---
-title: "trans-o-flex"
+title: "Trans-o-flex"
 url: /alzenau/trans-o-flex/
 ---

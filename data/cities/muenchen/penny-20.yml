@@ -1,12 +1,12 @@
-id: 1304189694
+id: 1278474323
 type: node
 shop: Supermarkt
-latitude: 48.08834
-longitude: 11.478969900000001
-postcode: "81475"
+latitude: 48.108109600000006
+longitude: 11.6037526
+postcode: "81549"
 city: München
-street: "Maxhofstraße"
-housenumber: 24
+street: "Balanstraße"
+housenumber: 168
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
-website: "https://www.penny.de/"
+opening_hours: "Mo-Sa 08:00-20:00"
+website: ""

@@ -1,6 +1,6 @@
 ---
 title: Gaißach
 url: /gaissach/
-latitude: 47.7472658
-longitude: 11.5807166
+latitude: 47.7465312
+longitude: 11.579539200000001
 ---

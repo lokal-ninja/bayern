@@ -1,6 +1,6 @@
 ---
 title: Sulzberg
 url: /sulzberg/
-latitude: 47.660363800000006
-longitude: 10.3498988
+latitude: 47.6605842
+longitude: 10.349414000000001
 ---

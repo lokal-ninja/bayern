@@ -1,12 +1,12 @@
-id: 411314628
-type: way
-shop: Allgemein
-latitude: 48.9505082
-longitude: 10.6025256
+id: 8004738236
+type: node
+shop: Kleidung
+latitude: 48.9503484
+longitude: 10.6025831
 postcode: "86732"
 city: Oettingen i.Bay.
 street: "Königsstraße"
-housenumber: 
+housenumber: 20
 phone: ""
 opening_hours: ""
-website: ""
+website: "https://mode-oettingen.de/"

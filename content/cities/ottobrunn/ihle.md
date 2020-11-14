@@ -1,4 +1,4 @@
 ---
-title: "IHLE"
+title: "Ihle"
 url: /ottobrunn/ihle/
 ---

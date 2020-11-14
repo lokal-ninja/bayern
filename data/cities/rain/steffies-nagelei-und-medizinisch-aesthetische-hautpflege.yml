@@ -1,12 +1,12 @@
-id: 7632122618
+id: 7999023748
 type: node
 shop: Kosmetik
-latitude: 48.6710325
-longitude: 10.962872500000001
+latitude: 48.905354700000004
+longitude: 12.463981700000001
 postcode: "94369"
 city: Rain
 street: "Ringstraße"
 housenumber: 11
 phone: "+49 173 2836061"
-opening_hours: "Mo-We, Fr 10:00-12:00, 14:00-17:00; Th 10:00-12:00, 14:00-18:00"
+opening_hours: "Mo,Tu,We,Fr 10:00-12:00, 14:00-17:00; Th 10:00-12:00, 14:00-18:00; PH off"
 website: ""

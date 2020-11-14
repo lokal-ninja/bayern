@@ -1,4 +1,4 @@
 ---
-title: "Aldi"
+title: "ALDI"
 url: /muenchen/aldi-8/
 ---

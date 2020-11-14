@@ -8,5 +8,5 @@ city: Nürnberg
 street: "Schlotfegergasse"
 housenumber: 12
 phone: ""
-opening_hours: "Tu-We 09:00-18:30; Th-Fr 10:00-20:00; Sa 08:00-13:30"
+opening_hours: "Tu,We 09:00-18:30; Sa 08:00-13:30; Th,Fr 09:30-19:00"
 website: ""

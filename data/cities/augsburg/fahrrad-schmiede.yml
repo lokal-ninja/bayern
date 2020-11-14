@@ -1,12 +1,12 @@
 id: 5746404679
 type: node
 shop: Fahrrad
-latitude: 48.3764217
-longitude: 10.8944354
+latitude: 48.3740833
+longitude: 10.896228500000001
 postcode: "86152"
 city: Augsburg
-street: "Georgenstraße"
-housenumber: 3
+street: "Frauentorstraße"
+housenumber: 11
 phone: "+49 821 4509622"
-opening_hours: "Mo-Tu 14:00-19:00; Th-Fr 13:00-19:00; Sa 09:30-13:00; PH off"
-website: "http://www.fahrrad-schmiede-augsburg.de"
+opening_hours: "Mo-Tu 14:00-19:00; We off; Th-Fr 14:00-19:00; Sa 09:30-13:00; PH off"
+website: "https://www.fahrrad-schmiede-augsburg.de"

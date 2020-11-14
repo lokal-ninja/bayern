@@ -1,12 +1,12 @@
-id: 1204943352
-type: node
-shop: Küchen
-latitude: 49.600031200000004
-longitude: 11.0028466
+id: 127046920
+type: way
+shop: Eisenwaren
+latitude: 49.6002329
+longitude: 11.0021292
 postcode: "91054"
 city: Erlangen
 street: "Hauptstraße"
 housenumber: 65-67
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
+opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-16:00"
 website: ""

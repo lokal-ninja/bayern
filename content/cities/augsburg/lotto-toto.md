@@ -1,4 +1,4 @@
 ---
-title: "Lotto Toto"
+title: "Lotto-Toto"
 url: /augsburg/lotto-toto/
 ---

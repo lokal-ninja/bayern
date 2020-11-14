@@ -1,12 +1,12 @@
-id: 116134583
-type: way
+id: 6389119852
+type: node
 shop: Supermarkt
-latitude: 48.1780952
-longitude: 11.4969874
-postcode: "80997"
+latitude: 48.150431600000005
+longitude: 11.5639465
+postcode: "80333"
 city: München
-street: "Untermenzinger Straße"
-housenumber: 71
+street: "Augustenstraße"
+housenumber: 78
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 07:00-20:00"
 website: ""

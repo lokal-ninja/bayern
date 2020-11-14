@@ -1,6 +1,6 @@
 id: 3660705212
 type: node
-shop: Andenken
+shop: Allgemein
 latitude: 49.463507500000006
 longitude: 11.070595800000001
 postcode: "90419"
@@ -9,4 +9,4 @@ street: "Bucher Straße"
 housenumber: 71
 phone: ""
 opening_hours: ""
-website: ""
+website: "https://allesvintage.de/"

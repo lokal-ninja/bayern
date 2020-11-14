@@ -1,12 +1,12 @@
-id: 29463780
+id: 27544963
 type: way
 shop: Supermarkt
-latitude: 48.168568400000005
-longitude: 11.633429600000001
-postcode: "81925"
+latitude: 48.104976
+longitude: 11.597382600000001
+postcode: "81549"
 city: München
-street: "Hochstiftsweg"
-housenumber: 4
+street: "Schwanseestraße"
+housenumber: 61
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00"
-website: ""
+opening_hours: "Mo-Sa 08:00-20:00"
+website: "https://www.aldi-sued.de/"

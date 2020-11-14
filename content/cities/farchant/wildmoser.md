@@ -1,4 +1,4 @@
 ---
-title: "WILDMOSER"
+title: "Wildmoser"
 url: /farchant/wildmoser/
 ---

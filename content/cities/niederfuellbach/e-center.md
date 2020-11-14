@@ -1,4 +1,4 @@
 ---
-title: "E center"
+title: "E-Center"
 url: /niederfuellbach/e-center/
 ---

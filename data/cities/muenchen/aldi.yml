@@ -1,12 +1,12 @@
-id: 263831639
+id: 315935161
 type: node
 shop: Supermarkt
-latitude: 48.1279107
-longitude: 11.6025045
-postcode: "81667"
+latitude: 48.143259400000005
+longitude: 11.555874600000001
+postcode: "80335"
 city: München
-street: "Orleansplatz"
-housenumber: 2
+street: "Rundfunkplatz"
+housenumber: 4
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.aldi-sued.de/"
+opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
+website: ""

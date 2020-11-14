@@ -1,12 +1,12 @@
-id: 49075249
+id: 28964349
 type: way
 shop: Supermarkt
-latitude: 48.1007843
-longitude: 11.5253797
-postcode: "81379"
+latitude: 48.188169800000004
+longitude: 11.5020903
+postcode: "80993"
 city: München
-street: "Zielstattstraße"
-housenumber: 73
+street: "Dachauer Straße"
+housenumber: 507
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
-website: ""
+opening_hours: "Mo-Sa 08:00-20:00"
+website: "https://www.aldi-sued.de/"

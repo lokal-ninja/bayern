@@ -1,4 +1,4 @@
 ---
-title: "SUNDO Farbengeschäft"
+title: "Sundo Farbengeschäft"
 url: /alzenau/sundo-farbengeschaeft/
 ---

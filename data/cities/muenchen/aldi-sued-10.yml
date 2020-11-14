@@ -1,12 +1,12 @@
-id: 28964349
+id: 26311249
 type: way
 shop: Supermarkt
-latitude: 48.188169800000004
-longitude: 11.5020903
-postcode: "80993"
+latitude: 48.213906200000004
+longitude: 11.543046200000001
+postcode: "80995"
 city: München
-street: "Dachauer Straße"
-housenumber: 507
+street: "Dülferstraße"
+housenumber: 69
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.aldi-sued.de/"
+opening_hours: ""
+website: ""

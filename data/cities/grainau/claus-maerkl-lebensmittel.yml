@@ -6,7 +6,7 @@ longitude: 11.0289037
 postcode: "82491"
 city: Grainau
 street: "Zugspitzstraße"
-housenumber: 8;10;12
+housenumber: 8,10,12
 phone: "+49 8821 8935"
 opening_hours: ""
 website: ""
