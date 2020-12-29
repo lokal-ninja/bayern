@@ -1,12 +1,12 @@
-id: 3718367000
+id: 3361150893
 type: node
 shop: Supermarkt
-latitude: 48.111031000000004
-longitude: 11.5257663
-postcode: "81369"
+latitude: 48.1470993
+longitude: 11.4213286
+postcode: "81243"
 city: München
-street: "Konrad-Celtis-Straße"
-housenumber: 66
+street: "Limesstraße"
+housenumber: 62
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
-website: "https://www.rewe.de/"
+opening_hours: "Mo-Sa 07:00-20:00"
+website: ""

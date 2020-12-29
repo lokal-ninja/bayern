@@ -1,12 +1,12 @@
-id: 54042499
-type: way
+id: 7801729807
+type: node
 shop: Supermarkt
-latitude: 48.1454352
-longitude: 11.484322
-postcode: "80687"
+latitude: 48.120523600000006
+longitude: 11.666435700000001
+postcode: "81825"
 city: München
-street: "Landsberger Straße"
-housenumber: 390
-phone: "+49 89 54614826"
+street: "Wasserburger Landstraße"
+housenumber: 10
+phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"
 website: ""

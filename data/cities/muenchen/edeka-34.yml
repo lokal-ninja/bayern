@@ -1,12 +1,12 @@
-id: 27273864
-type: way
+id: 6766077935
+type: node
 shop: Supermarkt
-latitude: 48.1424303
-longitude: 11.4235165
-postcode: "81249"
+latitude: 48.1372164
+longitude: 11.5479798
+postcode: "80339"
 city: München
-street: "Bodenseestraße"
-housenumber: 253
-phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: ""
+street: "Schwanthalerstraße"
+housenumber: 111
+phone: "+498951999951"
+opening_hours: "Mo-Sa 08:00-20:00"
+website: "https://www.edeka.de/eh/s%C3%BCdbayern/e-center-schwanthaler-stra%C3%9Fe-111/index.jsp"

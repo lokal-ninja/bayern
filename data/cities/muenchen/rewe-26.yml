@@ -1,12 +1,12 @@
-id: 116134583
-type: way
+id: 7933801341
+type: node
 shop: Supermarkt
-latitude: 48.1780952
-longitude: 11.4969874
-postcode: "80997"
+latitude: 48.149286100000005
+longitude: 11.5377927
+postcode: "80637"
 city: München
-street: "Untermenzinger Straße"
-housenumber: 71
+street: "Landshuter Allee"
+housenumber: 30
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Sa 07:00-20:00; PH off"
+website: "https://www.rewe.de/"

@@ -1,12 +1,12 @@
-id: 331505165
-type: way
+id: 3918367639
+type: node
 shop: Bäckerei
-latitude: 49.4830982
-longitude: 10.970491500000001
-postcode: "90766"
+latitude: 49.487801100000006
+longitude: 10.928579000000001
+postcode: "90768"
 city: Fürth
-street: "Friedrich-Ebert-Straße"
-housenumber: 6
-phone: ""
-opening_hours: ""
-website: ""
+street: "Würzburger Straße"
+housenumber: 446
+phone: "+49 911 97595870"
+opening_hours: "Mo-Fr 06:00-18:00; Sa-Su 07:00-18:00"
+website: "https://brot-haus.de/brothaus-finden/filialen/brothaus-burgfarrnbach/"

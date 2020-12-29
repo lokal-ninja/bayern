@@ -1,12 +1,12 @@
-id: 2892520864
-type: node
+id: 37208018
+type: way
 shop: Supermarkt
-latitude: 48.1311029
-longitude: 11.6254448
-postcode: "81673"
+latitude: 48.1894768
+longitude: 11.5032674
+postcode: "80993"
 city: München
-street: "Neumarkter Straße"
-housenumber: 64
+street: "Dachauer Straße"
+housenumber: 362
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"
-website: ""
+website: "http://www.netto-online.de"

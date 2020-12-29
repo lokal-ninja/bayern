@@ -1,12 +1,12 @@
-id: 40233678
+id: 38847255
 type: way
 shop: Supermarkt
-latitude: 48.1688264
-longitude: 11.5871946
-postcode: "80804"
+latitude: 48.1473857
+longitude: 11.443618800000001
+postcode: "81243"
 city: München
-street: "Leopoldstraße"
-housenumber: 144
+street: "Heimburgstraße"
+housenumber: 9
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"
-website: ""
+website: "https://www.lidl.de/"

@@ -1,12 +1,12 @@
-id: 677214312
+id: 1558156483
 type: node
 shop: Supermarkt
-latitude: 48.1147204
-longitude: 11.4814676
-postcode: "81375"
+latitude: 48.116719100000005
+longitude: 11.581378
+postcode: "81541"
 city: München
-street: "Würmtalstraße"
-housenumber: 95
+street: "Tegernseer Landstraße"
+housenumber: 41
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
+opening_hours: "Mo-Sa 09:00-20:00"
 website: "https://www.vollcorner.de/"

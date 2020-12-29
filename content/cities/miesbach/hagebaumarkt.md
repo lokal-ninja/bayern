@@ -1,4 +1,4 @@
 ---
-title: "hagebaumarkt"
+title: "Hagebaumarkt"
 url: /miesbach/hagebaumarkt/
 ---

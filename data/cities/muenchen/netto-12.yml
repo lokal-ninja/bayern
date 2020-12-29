@@ -1,12 +1,12 @@
-id: 1845427056
+id: 2541052036
 type: node
 shop: Supermarkt
-latitude: 48.203096
-longitude: 11.458218
-postcode: "80999"
+latitude: 48.1460741
+longitude: 11.5406803
+postcode: "80636"
 city: München
-street: "Eversbuschstraße"
-housenumber: 202f
+street: "Weiglstraße"
+housenumber: 5
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH,Su off"
-website: "https://www.netto-online.de"
+opening_hours: "Mo-Sa 07:00-20:00"
+website: "http://www.kaisers-tengelmann.de/"

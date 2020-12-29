@@ -1,12 +1,12 @@
-id: 528998462
+id: 315935161
 type: node
 shop: Supermarkt
-latitude: 48.1483962
-longitude: 11.617703800000001
-postcode: "81679"
+latitude: 48.143259400000005
+longitude: 11.555874600000001
+postcode: "80335"
 city: München
-street: "Richard-Strauss-Straße"
-housenumber: 82
+street: "Rundfunkplatz"
+housenumber: 4
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00"
+opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
 website: ""

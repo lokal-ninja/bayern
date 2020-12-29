@@ -1,4 +1,4 @@
 ---
-title: "S. Oliver"
+title: "s.Oliver"
 url: /neutraubling/s-oliver/
 ---

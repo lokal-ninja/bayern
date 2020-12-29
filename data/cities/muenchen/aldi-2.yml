@@ -1,12 +1,12 @@
-id: 402709129
-type: node
+id: 339526215
+type: way
 shop: Supermarkt
-latitude: 48.1165955
-longitude: 11.572988200000001
-postcode: "81543"
+latitude: 48.13002
+longitude: 11.590728100000002
+postcode: "81669"
 city: München
-street: "Pilgersheimer Straße"
-housenumber: 38
+street: "Rosenheimer Straße"
+housenumber: 30
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"
 website: "https://www.aldi-sued.de/"

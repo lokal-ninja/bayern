@@ -1,12 +1,12 @@
-id: 1499298501
+id: 1166953324
 type: node
 shop: Supermarkt
-latitude: 48.146756
-longitude: 11.502865100000001
-postcode: "80639"
+latitude: 48.1399082
+longitude: 11.5616423
+postcode: "80335"
 city: München
-street: "Rosa-Bavarese-Straße"
-housenumber: 1a
-phone: "+498910119273"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.rewe.de/marktseite/muenchen/461749/rewe-markt-rosa-bavarese-str-1-a/"
+street: "Bahnhofplatz"
+housenumber: 1
+phone: ""
+opening_hours: "Mo-Sa 06:00-20:00"
+website: "https://www.rewe.de"

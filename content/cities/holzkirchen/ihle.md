@@ -1,4 +1,4 @@
 ---
-title: "IHLE"
+title: "Ihle"
 url: /holzkirchen/ihle/
 ---

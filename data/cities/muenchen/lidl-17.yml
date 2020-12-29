@@ -1,12 +1,12 @@
-id: 27273869
+id: 24003662
 type: way
 shop: Supermarkt
-latitude: 48.141153900000006
-longitude: 11.423540000000001
-postcode: ""
+latitude: 48.1059506
+longitude: 11.6033805
+postcode: "81549"
 city: München
-street: "Brunhamstraße"
-housenumber: 18
+street: "Balanstraße"
+housenumber: 188
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
-website: "https://www.lidl.de/filialen/muenchen/aubing-brunhamstr-18.html"
+opening_hours: "Mo-Sa 08:00-20:00"
+website: "https://www.lidl.de/"

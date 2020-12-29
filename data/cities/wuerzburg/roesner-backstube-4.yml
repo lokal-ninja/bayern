@@ -1,12 +1,12 @@
-id: 439791740
+id: 361140258
 type: node
 shop: Bäckerei
-latitude: 49.7939522
-longitude: 9.9203949
-postcode: "97082"
+latitude: 49.800080400000006
+longitude: 9.9750423
+postcode: "97076"
 city: Würzburg
-street: "Zeller Straße"
-housenumber: 43 A
-phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-17:00"
-website: ""
+street: "Hertzstraße"
+housenumber: 10
+phone: "+49-931-2999327"
+opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-13:00; Su 08:00-11:00"
+website: "https://www.roesner-backstube.de/"

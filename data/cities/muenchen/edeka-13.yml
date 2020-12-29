@@ -1,12 +1,12 @@
-id: 388182851
+id: 332791982
 type: node
 shop: Supermarkt
-latitude: 48.159678400000004
-longitude: 11.585268300000001
-postcode: "80802"
+latitude: 48.155543400000006
+longitude: 11.563420200000001
+postcode: "80798"
 city: München
-street: "Leopoldstraße"
-housenumber: 41
+street: "Görresstraße"
+housenumber: 29
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
 website: ""

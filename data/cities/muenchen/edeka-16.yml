@@ -1,12 +1,12 @@
-id: 419051621
+id: 409497608
 type: node
 shop: Supermarkt
-latitude: 48.113182800000004
-longitude: 11.549109900000001
-postcode: "81371"
+latitude: 48.1299216
+longitude: 11.5706895
+postcode: "80469"
 city: München
-street: "Thalkirchner Straße"
-housenumber: 190
-phone: "+49 89 72016404"
+street: "Ickstattstraße"
+housenumber: 1
+phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.edeka.de"
+website: ""

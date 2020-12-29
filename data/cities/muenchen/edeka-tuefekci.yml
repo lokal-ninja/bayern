@@ -1,12 +1,12 @@
 id: 1753892462
 type: node
 shop: Supermarkt
-latitude: 48.0986999
-longitude: 11.65353
+latitude: 48.0986513
+longitude: 11.653523
 postcode: "81737"
 city: München
 street: "Sudermannallee"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"
-website: ""
+website: "https://edeka-tuefekci.de/"

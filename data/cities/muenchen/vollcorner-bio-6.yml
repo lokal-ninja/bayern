@@ -1,12 +1,12 @@
-id: 1813636683
+id: 1834209751
 type: node
 shop: Supermarkt
-latitude: 48.1493892
-longitude: 11.5629019
-postcode: "80333"
+latitude: 48.1347644
+longitude: 11.541850400000001
+postcode: "80339"
 city: München
-street: "Augustenstraße"
-housenumber: 55
+street: "Kazmairstraße"
+housenumber: 26
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"
 website: "https://www.vollcorner.de/"

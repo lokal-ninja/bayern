@@ -1,4 +1,4 @@
 ---
-title: "EQUIVA"
+title: "Equiva"
 url: /penzberg/equiva/
 ---

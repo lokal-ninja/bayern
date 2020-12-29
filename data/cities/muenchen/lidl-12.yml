@@ -1,12 +1,12 @@
-id: 6418521090
+id: 6163668216
 type: node
 shop: Supermarkt
-latitude: 48.136843000000006
-longitude: 11.546296
-postcode: "80339"
+latitude: 48.2072781
+longitude: 11.5639424
+postcode: "80935"
 city: München
-street: "Theresienhöhe"
-housenumber: 5
-phone: "+49 89 939 219 30"
-opening_hours: "Jun 06 2019+: Mo-Sa 07:30-20:00; Su,PH off"
-website: "https://www.lidl.de/filialen/muenchen/"
+street: "Schleißheimer Straße"
+housenumber: 468
+phone: ""
+opening_hours: "Mo-Sa 07:00-20:00"
+website: "https://www.lidl.de/filialen/muenchen/schleissheimer-strasse-468.html"

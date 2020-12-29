@@ -1,4 +1,4 @@
 ---
-title: "zum Blumen-Peter"
+title: "zum Blumen Peter"
 url: /muenchen/zum-blumen-peter/
 ---

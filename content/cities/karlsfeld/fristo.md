@@ -1,4 +1,4 @@
 ---
-title: "FRISTO"
+title: "Fristo"
 url: /karlsfeld/fristo/
 ---

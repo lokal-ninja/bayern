@@ -1,12 +1,12 @@
-id: 4118786867
+id: 624789521
 type: node
 shop: Supermarkt
-latitude: 48.122367100000005
-longitude: 11.475671400000001
-postcode: "81375"
+latitude: 48.15520050000001
+longitude: 11.5375973
+postcode: "80636"
 city: München
-street: "Gelbhofstraße"
-housenumber: 14
+street: "Leonrodstraße"
+housenumber: 31
 phone: ""
-opening_hours: "Mo-Su 07:00-20:00"
-website: ""
+opening_hours: "Mo-Sa 07:00-20:00"
+website: "https://www.netto-online.de//"

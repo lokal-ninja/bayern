@@ -1,12 +1,12 @@
-id: 49075249
+id: 25452465
 type: way
 shop: Supermarkt
-latitude: 48.1007843
-longitude: 11.5253797
-postcode: "81379"
+latitude: 48.088115200000004
+longitude: 11.6391139
+postcode: "81739"
 city: München
-street: "Zielstattstraße"
-housenumber: 73
+street: "Maximilian-Kolbe-Allee"
+housenumber: 1
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
-website: ""
+opening_hours: "Mo-Sa 07:30-20:00"
+website: "https://www.aldi-sued.de/"

@@ -1,12 +1,12 @@
-id: 1469151256
+id: 1845427056
 type: node
 shop: Supermarkt
-latitude: 48.1206657
-longitude: 11.6659628
-postcode: "81825"
+latitude: 48.203096
+longitude: 11.458218
+postcode: "80999"
 city: München
-street: "Wasserburger Landstraße"
-housenumber: 8
+street: "Eversbuschstraße"
+housenumber: 202f
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: ""
+opening_hours: "Mo-Sa 07:00-20:00; PH,Su off"
+website: "https://www.netto-online.de"

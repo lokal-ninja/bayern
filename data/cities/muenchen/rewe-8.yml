@@ -1,12 +1,12 @@
-id: 434139503
+id: 452068323
 type: node
 shop: Supermarkt
-latitude: 48.10973490000001
-longitude: 11.5747946
-postcode: "81547"
+latitude: 48.15625360000001
+longitude: 11.571828700000001
+postcode: ""
 city: München
-street: "Grünwalder Straße"
-housenumber: 10
-phone: "+49 89 69372707"
+street: "Georgenstraße"
+housenumber: 78
+phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.rewe.de/"
+website: ""

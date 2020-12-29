@@ -1,6 +1,6 @@
 ---
 title: Bodolz
 url: /bodolz/
-latitude: 47.5708812
-longitude: 9.6617204
+latitude: 47.5716879
+longitude: 9.6624808
 ---

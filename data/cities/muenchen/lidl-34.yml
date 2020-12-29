@@ -1,12 +1,12 @@
-id: 168846656
+id: 160488654
 type: way
 shop: Supermarkt
-latitude: 48.1727287
-longitude: 11.5293899
-postcode: "80992"
+latitude: 48.191988200000004
+longitude: 11.5035238
+postcode: "80993"
 city: München
-street: "Hanauer Straße"
-housenumber: 2
+street: "Dachauer Straße"
+housenumber: 380
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"
-website: ""
+website: "https://www.lidl.de/"

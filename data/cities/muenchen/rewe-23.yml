@@ -1,12 +1,12 @@
-id: 7009749744
+id: 6265336797
 type: node
 shop: Supermarkt
-latitude: 48.1254332
-longitude: 11.610672800000001
-postcode: "81671"
+latitude: 48.1348141
+longitude: 11.5689442
+postcode: "80331"
 city: München
-street: "August-Everding-Straße"
-housenumber: 20
-phone: "+49 89 99829498-1"
-opening_hours: "Mo-Sa 07:00-20:00; Su off"
-website: ""
+street: "Sendlinger Straße"
+housenumber: 46
+phone: ""
+opening_hours: "Mo-Sa 07:00-20:00"
+website: "https://www.rewe.de/marktseite/muenchen-landeshauptstadt/562368/rewe-markt-sendlinger-strasse-46/"

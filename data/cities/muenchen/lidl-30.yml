@@ -1,12 +1,12 @@
-id: 122134918
+id: 97856639
 type: way
 shop: Supermarkt
-latitude: 48.1839894
-longitude: 11.5719553
-postcode: "80807"
+latitude: 48.1203981
+longitude: 11.556545400000001
+postcode: "81371"
 city: München
-street: "Knorrstraße"
-housenumber: 57
+street: "Dreimühlenstraße"
+housenumber: 42
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: ""
+opening_hours: "Mo-Sa 08:00-20:00; Su off"
+website: "https://www.lidl.de"

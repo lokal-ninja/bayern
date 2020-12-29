@@ -1,12 +1,12 @@
-id: 6418520183
+id: 5931646535
 type: node
-shop: Warenhaus
-latitude: 48.136692100000005
-longitude: 11.547501700000002
-postcode: "80339"
+shop: Kramladen
+latitude: 48.094663600000004
+longitude: 11.5086586
+postcode: "81379"
 city: München
-street: "Theresienhöhe"
-housenumber: 5
+street: "Kistlerhofstraße"
+housenumber: 172
 phone: ""
-opening_hours: "Mo-Sa 09:30-20:00; Su,PH off"
-website: ""
+opening_hours: "Mo-Sa 09:00-20:00"
+website: "https://woolworth.de/"

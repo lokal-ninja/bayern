@@ -1,6 +1,6 @@
 ---
 title: Bad Staffelstein
 url: /bad-staffelstein/
-latitude: 50.1028062
-longitude: 11.0006441
+latitude: 50.1028339
+longitude: 10.999159
 ---

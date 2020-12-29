@@ -1,12 +1,12 @@
-id: 271129791
+id: 68665611
 type: way
 shop: Supermarkt
-latitude: 48.137949600000006
-longitude: 11.564748300000002
-postcode: "80335"
+latitude: 48.0944802
+longitude: 11.5400913
+postcode: "81379"
 city: München
-street: "Karlsplatz"
-housenumber: 1. UG
+street: "Wolfratshauser Straße"
+housenumber: 76
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.edeka.de"
+opening_hours: "Mo-Sa 07:00-20:00; PH off"
+website: ""

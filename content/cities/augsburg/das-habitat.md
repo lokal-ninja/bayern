@@ -1,4 +1,4 @@
 ---
-title: "Das Habitat"
+title: "das habitat"
 url: /augsburg/das-habitat/
 ---

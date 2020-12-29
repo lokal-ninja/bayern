@@ -1,4 +1,4 @@
 ---
-title: "Werner LUDWIG-MARC KFZ-Sachverständiger"
+title: "Werner Ludwig-Marc Kfz-Sachverständiger"
 url: /zorneding/werner-ludwig-marc-kfz-sachverstaendiger/
 ---

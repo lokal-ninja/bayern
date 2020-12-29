@@ -1,12 +1,12 @@
-id: 52397980
-type: way
+id: 7739037533
+type: node
 shop: Supermarkt
-latitude: 48.1044027
-longitude: 11.625005600000001
-postcode: "81737"
+latitude: 48.141935600000004
+longitude: 11.618314300000002
+postcode: "81677"
 city: München
-street: "Ottobrunner Straße"
-housenumber: 103
+street: "Stuntzstraße"
+housenumber: 16
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: ""
+opening_hours: "Mo-Sa 07:00-20:00"
+website: "https://www.edeka.de/eh/s%C3%BCdbayern/edeka-stuntzstra%C3%9Fe-16/index.jsp"

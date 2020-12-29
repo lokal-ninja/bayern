@@ -1,6 +1,6 @@
 ---
 title: Bichl
 url: /bichl/
-latitude: 48.114516200000004
-longitude: 12.4155726
+latitude: 47.783995100000006
+longitude: 12.247170200000001
 ---

@@ -1,12 +1,12 @@
-id: 6414912313
+id: 1329488556
 type: node
 shop: Supermarkt
-latitude: 48.1458529
-longitude: 11.519402300000001
-postcode: "80639"
+latitude: 48.1499442
+longitude: 11.4433939
+postcode: "81243"
 city: München
-street: "Friedenheimer Brücke"
-housenumber: 23
+street: "Stockacher Straße"
+housenumber: 6
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
 website: ""

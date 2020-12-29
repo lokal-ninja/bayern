@@ -1,4 +1,4 @@
 ---
-title: "ZARA HOME"
+title: "Zara Home"
 url: /muenchen/zara-home/
 ---
