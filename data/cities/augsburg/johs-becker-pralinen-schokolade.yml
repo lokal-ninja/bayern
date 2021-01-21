@@ -1,6 +1,5 @@
 id: 1037478716
 type: node
-shop: Süßwaren
 latitude: 48.367450600000005
 longitude: 10.899007800000001
 postcode: "86150"
@@ -8,5 +7,5 @@ city: Augsburg
 street: "Judenberg"
 housenumber: 7
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 10:00-14:00"
 website: ""

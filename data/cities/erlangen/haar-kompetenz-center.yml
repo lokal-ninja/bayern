@@ -1,6 +1,5 @@
 id: 6712132401
 type: node
-shop: Kosmetik
 latitude: 49.552550200000006
 longitude: 11.022113200000001
 postcode: "91058"
@@ -8,5 +7,5 @@ city: Erlangen
 street: "Lachnerstraße"
 housenumber: 45
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 08:30-17:00"
 website: "http://www.haar-kompetenz-center.de/"

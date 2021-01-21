@@ -1,6 +1,5 @@
 id: 95503471
 type: way
-shop: Bäckerei
 latitude: 49.997649700000004
 longitude: 10.2449712
 postcode: "97525"
@@ -8,5 +7,5 @@ city: Schwebheim
 street: "Aschenhof"
 housenumber: 40
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-13:00; So,PH 08:00-11:00"
+opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-13:00; Su,PH 08:00-11:00"
 website: ""

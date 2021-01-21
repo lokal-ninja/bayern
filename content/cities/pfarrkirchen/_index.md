@@ -1,6 +1,6 @@
 ---
 title: Pfarrkirchen
 url: /pfarrkirchen/
-latitude: 48.434073700000006
-longitude: 12.9397371
+latitude: 48.4320329
+longitude: 12.938626600000001
 ---

@@ -1,6 +1,5 @@
 id: 7105470821
 type: node
-shop: Bäckerei
 latitude: 49.966019
 longitude: 11.4417869
 postcode: "95488"
@@ -9,4 +8,4 @@ street: "Neustädtlein"
 housenumber: 44
 phone: ""
 opening_hours: "Tu-Th 06:00-14:00; Fr 06:00-18:00; Sa 06:00-12:00"
-website: ""
+website: "https://www.dergenussbaecker.de/"

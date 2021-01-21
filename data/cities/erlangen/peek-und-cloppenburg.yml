@@ -1,6 +1,5 @@
 id: 1398976422
 type: node
-shop: Kleidung
 latitude: 49.594470900000005
 longitude: 11.0051869
 postcode: "91052"
@@ -8,5 +7,5 @@ city: Erlangen
 street: "Nürnberger Straße"
 housenumber: 4
 phone: ""
-opening_hours: "Mo-Sa 09:30-20:00"
+opening_hours: "Mo-Sa 10:00-20:00"
 website: ""

@@ -1,6 +1,5 @@
 id: 4159081489
 type: node
-shop: Lebensmittel
 latitude: 48.102811200000005
 longitude: 11.5304835
 postcode: "81379"
@@ -8,5 +7,5 @@ city: München
 street: "Zielstattstraße"
 housenumber: 12
 phone: ""
-opening_hours: "Mo-Fri 08:00-18:00; Sa 08:00-13:00"
+opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
 website: "https://www.auguste-cesar.de/"

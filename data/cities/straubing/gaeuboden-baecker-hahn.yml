@@ -1,12 +1,11 @@
 id: 1668395998
 type: node
-shop: Bäckerei
-latitude: 48.8743192
-longitude: 12.5676892
+latitude: 48.874453900000006
+longitude: 12.567655100000001
 postcode: "94315"
 city: Straubing
 street: "Gabelsbergerstraße"
 housenumber: 33
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 06:00-17:00; Sa 06:00-12:00; Su 07:00-17:00"
 website: ""

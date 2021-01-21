@@ -1,6 +1,6 @@
 ---
 title: Wang
 url: /wang/
-latitude: 47.896523
-longitude: 12.6057243
+latitude: 48.1188219
+longitude: 12.301137500000001
 ---

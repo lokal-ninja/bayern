@@ -1,6 +1,5 @@
 id: 95954744
 type: way
-shop: Supermarkt
 latitude: 47.7131793
 longitude: 10.2953139
 postcode: "87435"
@@ -8,5 +7,5 @@ city: Kempten (Allgäu)
 street: "Im Allmey"
 housenumber: 25
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 08:00-20:00; Sa 07:30-20:00"
 website: ""

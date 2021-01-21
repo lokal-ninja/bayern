@@ -1,6 +1,5 @@
 id: 3747163748
 type: node
-shop: Hofladen
 latitude: 48.2774908
 longitude: 10.840513300000001
 postcode: "86399"
@@ -8,5 +7,5 @@ city: Bobingen
 street: "Augsburger Straße"
 housenumber: 4
 phone: "+49 8234 8341"
-opening_hours: ""
+opening_hours: "We,Fr 08:30-18:00; Sa 08:30-12:30"
 website: "http://www.biolandhof-wessinger.de"

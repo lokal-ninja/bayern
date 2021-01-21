@@ -1,6 +1,5 @@
 id: 1554806758
 type: node
-shop: Handy
 latitude: 48.222951800000004
 longitude: 10.104270000000001
 postcode: "89257"
@@ -8,5 +7,5 @@ city: Illertissen
 street: "Hauptstraße"
 housenumber: 26
 phone: ""
-opening_hours: "Mo-Fr 09:30-17:30 und Sa 09:30-13:00"
+opening_hours: "Mo-Fr 09:30-17:30, Sa 09:30-13:00"
 website: ""

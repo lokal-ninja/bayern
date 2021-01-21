@@ -1,12 +1,11 @@
 id: 59425512
 type: way
-shop: Bestattungen
 latitude: 49.1897633
 longitude: 11.1865506
 postcode: "91161"
 city: Hilpoltstein
 street: "Altstadtring"
-housenumber: 43
+housenumber: 43; 45
 phone: ""
 opening_hours: ""
 website: ""

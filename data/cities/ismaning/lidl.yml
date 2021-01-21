@@ -1,6 +1,5 @@
 id: 37915728
 type: way
-shop: Supermarkt
 latitude: 48.2310686
 longitude: 11.6855203
 postcode: "85737"
@@ -8,5 +7,5 @@ city: Ismaning
 street: "Osterfeldstraße"
 housenumber: 39
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 07:00-20:00"
 website: ""

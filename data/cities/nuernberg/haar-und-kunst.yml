@@ -1,6 +1,5 @@
 id: 2360587228
 type: node
-shop: Friseur
 latitude: 49.4658184
 longitude: 11.0692793
 postcode: "90419"
@@ -8,5 +7,5 @@ city: Nürnberg
 street: "Bucher Straße"
 housenumber: 99
 phone: "+49-911-30720850"
-opening_hours: "Mo-Fr 9:00-19:00; Sa 9:00-14:00"
+opening_hours: "Tu-Fr 09:00-18:00"
 website: "https://www.facebook.com/haar.und.kunst.karin.maria"

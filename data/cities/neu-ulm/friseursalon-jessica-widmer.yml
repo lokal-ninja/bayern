@@ -1,12 +1,11 @@
 id: 2989024143
 type: node
-shop: Friseur
-latitude: 48.3607099
-longitude: 10.0703999
+latitude: 48.3607019
+longitude: 10.0703932
 postcode: "89233"
 city: Neu-Ulm
 street: "Jedelhauser Straße"
 housenumber: 1
 phone: "+49 731 20604666"
-opening_hours: "Di-Fr 09:00-13:00 und 14:00-18:00; Sa 09:00-13:00"
+opening_hours: "PH,Mo,Su off; Tu-Fr 09:00-13:00,14:00-18:00; Sa 09:00-13:00"
 website: "http://www.friseursalon-jw.de/"

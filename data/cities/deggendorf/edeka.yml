@@ -1,12 +1,11 @@
-id: 97478106
-type: way
-shop: Supermarkt
-latitude: 48.827988500000004
-longitude: 12.960143400000002
+id: 3133286705
+type: node
+latitude: 48.8536816
+longitude: 12.9628276
 postcode: "94469"
 city: Deggendorf
-street: "Werftstraße"
-housenumber: 15
-phone: ""
-opening_hours: "Mo-Sa 06:00-20:00"
-website: ""
+street: "Steinbruchweg"
+housenumber: 1
+phone: "+4999129799747"
+opening_hours: "Mo-Sa 07:00-20:00"
+website: "https://www.edeka.de/eh/s%C3%BCdbayern/edeka-oswald-steinbruchweg-1/index.jsp"

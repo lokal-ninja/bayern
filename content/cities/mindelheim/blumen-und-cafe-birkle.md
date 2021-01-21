@@ -1,4 +1,5 @@
 ---
-title: "Blumen und Cafe Birkle"
+title: "Blumen & Café Birkle"
 url: /mindelheim/blumen-und-cafe-birkle/
+shop: Blumen
 ---

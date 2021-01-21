@@ -1,6 +1,5 @@
 id: 493786181
 type: node
-shop: Computer
 latitude: 48.226259000000006
 longitude: 11.6736553
 postcode: "85737"
@@ -8,5 +7,5 @@ city: Ismaning
 street: "Hauptstraße"
 housenumber: 10
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Th 09:00-12:00,13:00-18:00; Fr 09:00-12:00,13:00-17:00; Sa 10:00-13:00"
 website: ""

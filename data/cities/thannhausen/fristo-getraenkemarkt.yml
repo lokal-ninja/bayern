@@ -1,6 +1,5 @@
 id: 366284633
 type: node
-shop: Getränke
 latitude: 48.2846515
 longitude: 10.4606594
 postcode: "86470"
@@ -8,5 +7,5 @@ city: Thannhausen
 street: "Bürgermeister-Raab-Straße"
 housenumber: 18A
 phone: "+49 8281 790240"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"
+opening_hours: "Mo-Sa 08:00-20:00"
 website: ""

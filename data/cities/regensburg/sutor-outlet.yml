@@ -1,6 +1,5 @@
 id: 1157973475
 type: node
-shop: Schuhe
 latitude: 49.029853
 longitude: 12.1294249
 postcode: "93059"
@@ -8,5 +7,5 @@ city: Regensburg
 street: "Im Gewerbepark"
 housenumber: B23
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00"
 website: ""

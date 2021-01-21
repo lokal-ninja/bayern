@@ -1,6 +1,5 @@
 id: 2103203263
 type: node
-shop: Kosmetik
 latitude: 49.7988299
 longitude: 9.9347834
 postcode: "97070"
@@ -8,5 +7,5 @@ city: Würzburg
 street: "Reisgrubengasse"
 housenumber: 11
 phone: ""
-opening_hours: "Nur nach telefonischer Vereinbarung"
+opening_hours: "Mo-Su,PH unknown nur nach telefonischer Vereinbarung"
 website: ""

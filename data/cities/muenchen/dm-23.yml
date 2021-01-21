@@ -1,6 +1,5 @@
 id: 4885670421
 type: node
-shop: Drogerie
 latitude: 48.116881400000004
 longitude: 11.571856200000001
 postcode: "81543"
@@ -8,5 +7,5 @@ city: München
 street: "Kühbachstraße"
 housenumber: 1
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: "Mo-Sa 07:30-20:00"
 website: ""

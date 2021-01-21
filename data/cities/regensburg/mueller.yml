@@ -1,6 +1,5 @@
 id: 6256173489
 type: node
-shop: Drogerie
 latitude: 49.02588900000001
 longitude: 12.116425300000001
 postcode: "93059"
@@ -8,5 +7,5 @@ city: Regensburg
 street: "Weichser Weg"
 housenumber: 5
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 09:00-20:00"
 website: ""

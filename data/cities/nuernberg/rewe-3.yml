@@ -1,6 +1,5 @@
 id: 413089276
 type: node
-shop: Supermarkt
 latitude: 49.462037800000004
 longitude: 11.145449600000001
 postcode: "90482"
@@ -8,5 +7,5 @@ city: Nürnberg
 street: "Schönseer Straße"
 housenumber: 1
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 07:00-20:00"
 website: ""

@@ -1,6 +1,5 @@
 id: 82504547
 type: node
-shop: Supermarkt
 latitude: 48.218386200000005
 longitude: 11.6651456
 postcode: "85737"
@@ -8,5 +7,5 @@ city: Ismaning
 street: "Camerloherstraße"
 housenumber: 37
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 07:00-20:00"
 website: ""

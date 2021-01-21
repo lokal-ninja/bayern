@@ -1,6 +1,5 @@
 id: 3247435823
 type: node
-shop: Fisch
 latitude: 48.0761915
 longitude: 11.518068900000001
 postcode: "81479"
@@ -8,5 +7,5 @@ city: München
 street: "Herterichstraße"
 housenumber: 45
 phone: "+49 89 20978762"
-opening_hours: "Tu-Fr 08:30-18:00; Sa 08:30-13:00"
+opening_hours: "Tu-Th 09:00-13:00,13:30-18:00; Fr 08:30-13:00,14:00-18:00; Sa 08:30-12:30"
 website: ""

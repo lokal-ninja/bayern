@@ -1,12 +1,11 @@
-id: 428908304
-type: way
-shop: Handy
-latitude: 49.592390800000004
-longitude: 11.0046944
+id: 1209896488
+type: node
+latitude: 49.5935508
+longitude: 11.0050679
 postcode: "91052"
 city: Erlangen
 street: "Nürnberger Straße"
-housenumber: 7
-phone: "+49 1728 226606"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://www.vodafone.de/"
+housenumber: 11
+phone: "+49 172 8994001"
+opening_hours: ""
+website: "https://shops.vodafone.de/erlangen/nuernberger-str.-11"

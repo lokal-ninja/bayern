@@ -1,6 +1,5 @@
 id: 6390284295
 type: node
-shop: Bäckerei
 latitude: 48.2695438
 longitude: 10.832527500000001
 postcode: "86399"
@@ -8,5 +7,5 @@ city: Bobingen
 street: "Hochstraße"
 housenumber: 3
 phone: "+49 8234 9988299"
-opening_hours: "Mo off; Tu-Fr 07:00-18:00; Sa 07:00-12:00; Su 07:00-11:00"
-website: "http://www.andreheuck.de"
+opening_hours: "Mo off; Tu-Fr 07:00-18:00; Sa 07:00-13:00; Su 07:00-11:00"
+website: "https://www.cumpanum.de/"

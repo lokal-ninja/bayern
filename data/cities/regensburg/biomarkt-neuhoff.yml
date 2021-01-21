@@ -1,6 +1,5 @@
 id: 889290918
 type: node
-shop: Supermarkt
 latitude: 49.026906200000006
 longitude: 12.116298200000001
 postcode: "93059"
@@ -8,5 +7,5 @@ city: Regensburg
 street: "Weichser Weg"
 housenumber: 5
 phone: "+49 941 4616540"
-opening_hours: ""
+opening_hours: "Mo-Sa 09:00-20:00"
 website: ""

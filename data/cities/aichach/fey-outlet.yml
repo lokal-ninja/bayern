@@ -1,12 +1,11 @@
 id: 6600169024
 type: node
-shop: Kleidung
-latitude: 48.4595252
-longitude: 11.1294803
+latitude: 48.458817100000005
+longitude: 11.130562000000001
 postcode: "86551"
 city: Aichach
-street: "Steubstraße"
-housenumber: 4
-phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 09:30-14:00; PH off"
+street: "Stadtplatz"
+housenumber: 28
+phone: "+49 8251 893 60 62"
+opening_hours: "Mo-Fr 09:00-13:00,13:30-18:00; Sa 09:00-14:00; Su,PH off"
 website: "http://www.fey-outlet.de/"

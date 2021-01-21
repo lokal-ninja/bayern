@@ -1,6 +1,5 @@
 id: 6627868736
 type: node
-shop: Baumarkt
 latitude: 47.724058500000005
 longitude: 10.3112318
 postcode: "87435"
@@ -8,5 +7,5 @@ city: Kempten (Allgäu)
 street: "Salzstraße"
 housenumber: 2
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00 13:00-17:00 Sa 09:00-13:00"
+opening_hours: "Mo-Fr 09:00-12:00,13:00-17:00; Sa 09:00-13:00"
 website: ""

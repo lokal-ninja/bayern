@@ -1,6 +1,5 @@
 id: 185543120
 type: node
-shop: Schreibwaren
 latitude: 48.221771000000004
 longitude: 11.666973800000001
 postcode: "85737"
@@ -8,5 +7,5 @@ city: Ismaning
 street: "Münchener Straße"
 housenumber: 78
 phone: ""
-opening_hours: "Mo-Th 07:30-12:30,14:00-18:30; Fr 07:30-18:30; Sa 07:30-13:00"
+opening_hours: "Tu-Fr 07:30-12:30, Mo-Th 14:00-18:30, Sa 07:30-12:30"
 website: "http://www.schreibshop-riedler.de"

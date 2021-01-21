@@ -1,6 +1,5 @@
 id: 297917555
 type: node
-shop: Schmuck
 latitude: 49.793221100000004
 longitude: 9.9308297
 postcode: "97070"
@@ -8,5 +7,5 @@ city: Würzburg
 street: "Domstraße"
 housenumber: 34
 phone: ""
-opening_hours: "May-Sep: Mo-Fr 10:00-18:00;May-Sep: Sa 10:00-17:00;Oct-Apr: Mo-Fr 10:00-18:30;Oct-Apr: Sa 10:00-17:00"
+opening_hours: "May-Sep: Mo-Fr 10:00-18:00; May-Sep: Sa 10:00-17:00; Oct-Apr: Mo-Fr 10:00-18:30; Oct-Apr: Sa 10:00-17:00"
 website: ""

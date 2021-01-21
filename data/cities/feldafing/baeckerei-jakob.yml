@@ -1,6 +1,5 @@
 id: 245321410
 type: way
-shop: Bäckerei
 latitude: 47.9502998
 longitude: 11.2977279
 postcode: "82340"
@@ -8,5 +7,5 @@ city: Feldafing
 street: "Am Kirchplatz"
 housenumber: 11
 phone: "+4981571223"
-opening_hours: ""
+opening_hours: "Tu-Fr 06:30-12:00, 14:30-18:00; Sa 06:30-12:00; PH off"
 website: ""

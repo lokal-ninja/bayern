@@ -1,12 +1,11 @@
-id: 222030857
-type: way
-shop: Schreibwaren
-latitude: 48.384599900000005
-longitude: 10.032517200000001
+id: 8284898273
+type: node
+latitude: 48.3975063
+longitude: 10.0166158
 postcode: "89231"
 city: Neu-Ulm
-street: "Am Alten Flugplatz"
-housenumber: 2
-phone: "+49 731 / 9720700"
-opening_hours: "Mo-Th 08:00-17:00; Fr 08:00-15:00"
-website: "https://www.schreiner-schuehle.de/"
+street: "Borsigstraße"
+housenumber: 24
+phone: ""
+opening_hours: "Mo-Th 08:00-17:00; Fr 08:00-15:30"
+website: "https://schreiner-schuehle.de"

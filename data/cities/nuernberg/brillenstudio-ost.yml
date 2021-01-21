@@ -1,6 +1,5 @@
 id: 419915010
 type: node
-shop: Optiker
 latitude: 49.466495200000004
 longitude: 11.163095100000001
 postcode: "90482"
@@ -8,5 +7,5 @@ city: Nürnberg
 street: "Moritzbergstraße"
 housenumber: 45
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:30"
 website: ""

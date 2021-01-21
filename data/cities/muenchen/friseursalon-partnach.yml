@@ -1,6 +1,5 @@
 id: 7728642920
 type: node
-shop: Friseur
 latitude: 48.1168787
 longitude: 11.528519000000001
 postcode: "81369"
@@ -8,5 +7,5 @@ city: München
 street: "Albert-Roßhaupter-Straße"
 housenumber: 78
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
 website: ""

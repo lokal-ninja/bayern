@@ -1,4 +1,5 @@
 ---
-title: "Ernsting's Family"
+title: "Ernsting's family"
 url: /miesbach/ernstings-family/
+shop: Kleidung
 ---

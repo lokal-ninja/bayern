@@ -1,6 +1,5 @@
 id: 6792592079
 type: node
-shop: Grillen
 latitude: 48.329524000000006
 longitude: 10.0359484
 postcode: "89250"
@@ -8,5 +7,5 @@ city: Senden
 street: "Germanenstraße"
 housenumber: 3
 phone: "+49 7307 9533922"
-opening_hours: "Mo-Fr 09:30-19:30; Sa 09:00-18:00; Su PH off"
+opening_hours: "Mo-Fr 09:30-19:30; Sa 09:00-18:00; PH Su off"
 website: ""

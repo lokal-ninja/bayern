@@ -1,6 +1,5 @@
 id: 5057222052
 type: node
-shop: Farben
 latitude: 49.0312325
 longitude: 12.1262936
 postcode: "93059"
@@ -8,5 +7,5 @@ city: Regensburg
 street: "Im Gewerbepark"
 housenumber: D9a
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 07:00-17:00; Sa 09:00-13:00"
 website: ""

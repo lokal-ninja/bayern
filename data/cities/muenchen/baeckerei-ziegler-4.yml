@@ -1,6 +1,5 @@
 id: 741558334
 type: node
-shop: Bäckerei
 latitude: 48.1800014
 longitude: 11.5128611
 postcode: "80992"
@@ -8,5 +7,5 @@ city: München
 street: "Dachauer Straße"
 housenumber: 415
 phone: ""
-opening_hours: "Mo-Fr 06:00-19:30; Sa 06:00-17:00; So 08:00-17:00"
+opening_hours: "Mo-Fr 06:00-19:30; Sa 06:00-17:00; Su 08:00-17:00"
 website: ""

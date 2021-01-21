@@ -1,12 +1,11 @@
-id: 239842233
-type: way
-shop: Glaserei
-latitude: 48.266584
-longitude: 10.886828000000001
+id: 8294583479
+type: node
+latitude: 48.2665931
+longitude: 10.886913
 postcode: "86343"
 city: Königsbrunn
 street: "Bürgermeister-Wohlfarth-Straße"
 housenumber: 87
-phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
-website: ""
+phone: "+49 8231 2325"
+opening_hours: "Mo-Fr 08:00-12:00; 13:00-17:00; Sa,Su off3"
+website: "https://www.augsburg-glaserei.de"

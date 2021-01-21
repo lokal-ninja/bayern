@@ -1,4 +1,5 @@
 ---
-title: "WM SPORT & TRENDS"
+title: "WM Sport & Trends"
 url: /baldham/wm-sport-und-trends/
+shop: Sport
 ---

@@ -1,6 +1,5 @@
 id: 8032298269
 type: node
-shop: Angeln
 latitude: 48.7128042
 longitude: 11.4755549
 postcode: "85077"
@@ -8,5 +7,5 @@ city: Manching
 street: "Schäfflerstraße"
 housenumber: 14
 phone: ""
-opening_hours: "Mo -Fr 9:00-18:30 / Sa 9:00-15:00"
+opening_hours: "Mo -Fr 9:00-18:30;Sa 9:00-15:00"
 website: ""

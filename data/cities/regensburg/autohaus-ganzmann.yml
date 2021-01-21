@@ -1,6 +1,5 @@
 id: 1421774576
 type: node
-shop: Autohaus
 latitude: 49.0286138
 longitude: 12.118704200000002
 postcode: "93059"
@@ -8,5 +7,5 @@ city: Regensburg
 street: "Weichser Weg"
 housenumber: 38a
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Th 07:30-18:00; Fr 07:30-17:00; Sa 09:00-12:00"
 website: "https://auto-ganzmann.de/"

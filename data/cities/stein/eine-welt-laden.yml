@@ -1,6 +1,5 @@
 id: 736622697
 type: node
-shop: Lebensmittel
 latitude: 49.4039786
 longitude: 10.9927189
 postcode: "90547"
@@ -8,5 +7,5 @@ city: Stein
 street: "Locher Straße"
 housenumber: 2
 phone: ""
-opening_hours: ""
+opening_hours: "Tu 09:00-12:00,15:00-19:00; Th 15:00-17:00; Su 11:00-11:30+"
 website: ""

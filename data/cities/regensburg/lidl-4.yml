@@ -1,6 +1,5 @@
 id: 95928113
 type: way
-shop: Supermarkt
 latitude: 49.0297587
 longitude: 12.1157997
 postcode: "93059"
@@ -8,5 +7,5 @@ city: Regensburg
 street: "Altmühlstraße"
 housenumber: 4
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: "Mo-Sa 07:00-20:00"
 website: ""

@@ -1,6 +1,5 @@
 id: 2428431061
 type: node
-shop: Lotterie
 latitude: 48.714838900000004
 longitude: 11.478579600000002
 postcode: "85077"
@@ -8,5 +7,5 @@ city: Manching
 street: "Mitterstraße"
 housenumber: 
 phone: ""
-opening_hours: "Mo-Fr 7:00-18:00 / Sa 7:00-12:00"
+opening_hours: "Mo-Fr 7:00-18:00;Sa 7:00-12:00"
 website: ""

@@ -1,6 +1,5 @@
 id: 439477458
 type: node
-shop: Süßwaren
 latitude: 50.2573753
 longitude: 10.9645405
 postcode: "96450"
@@ -8,5 +7,5 @@ city: Coburg
 street: "Ketschengasse"
 housenumber: 9
 phone: "+49 9561 76388"
-opening_hours: "Jun-Aug: Mo-Fr 9:00-13:30, 14:30-18:00; Sa 09:00-14:00; Sep-May: Mo-Fr 09:00-18:00; Sa 09:00-14:00; Su,PH off"
+opening_hours: "Jun-Aug: Mo-Fr 09:00-13:30,14:30-18:00; Sa 09:00-14:00; Sep-May: Mo-Fr 09:00-18:00; Sa 09:00-14:00; Su,PH off"
 website: "https://www.chocolate-group.com/standorte/chocolate-coburg/"

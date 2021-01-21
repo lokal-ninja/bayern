@@ -1,12 +1,11 @@
-id: 102665800
-type: way
-shop: Massage
-latitude: 48.3550333
-longitude: 10.9429896
+id: 8283127295
+type: node
+latitude: 48.3550261
+longitude: 10.9428403
 postcode: "86163"
 city: Augsburg
 street: "Watzmannstraße"
 housenumber: 2
-phone: ""
-opening_hours: "Mo-Fr 09:00-19:00, Sa 09:00-18:00"
-website: ""
+phone: "+49 821 20932658"
+opening_hours: ""
+website: "https://yimsiamthai.de"

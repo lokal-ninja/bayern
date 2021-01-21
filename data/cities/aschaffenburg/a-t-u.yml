@@ -1,6 +1,5 @@
 id: 24662335
 type: way
-shop: Autowerkstatt
 latitude: 49.9631909
 longitude: 9.1746136
 postcode: "63743"
@@ -8,5 +7,5 @@ city: Aschaffenburg
 street: "Würzburger Straße"
 housenumber: 180
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 07:30-19:00; Sa 08:00-16:00"
 website: ""

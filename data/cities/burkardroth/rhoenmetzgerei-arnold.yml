@@ -1,6 +1,5 @@
 id: 886677588
 type: way
-shop: Metzgerei
 latitude: 50.3072396
 longitude: 9.9826384
 postcode: "97705"
@@ -8,5 +7,5 @@ city: Burkardroth
 street: "Feuerbergstraße"
 housenumber: 36
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-14:00;"
+opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-14:00"
 website: ""

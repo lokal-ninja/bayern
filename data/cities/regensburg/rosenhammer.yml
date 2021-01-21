@@ -1,6 +1,5 @@
 id: 112381518
 type: way
-shop: Fahrrad
 latitude: 49.0302456
 longitude: 12.0999233
 postcode: "93059"
@@ -8,5 +7,5 @@ city: Regensburg
 street: "Lappersdorfer Straße"
 housenumber: 2
 phone: ""
-opening_hours: ""
+opening_hours: "Mo,Tu,Th,Fr 09:00-12:30,14:00-17:00; We 09:00-12:30; Sa 09:00-12:00"
 website: ""

@@ -1,6 +1,6 @@
 ---
 title: Ottobeuren
 url: /ottobeuren/
-latitude: 47.9428435
-longitude: 10.300101600000001
+latitude: 47.941734800000006
+longitude: 10.2999793
 ---
