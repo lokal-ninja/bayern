@@ -1,5 +1,0 @@
----
-title: "Netto Marken-Discount"
-url: /geretsried/netto-marken-discount-2/
-shop: Supermarkt
----

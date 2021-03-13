@@ -1,6 +1,6 @@
 ---
 title: Weichs
 url: /weichs/
-latitude: 48.9258182
-longitude: 12.0436156
+latitude: 48.925884700000005
+longitude: 12.043628700000001
 ---

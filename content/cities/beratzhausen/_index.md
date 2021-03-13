@@ -1,6 +1,6 @@
 ---
 title: Beratzhausen
 url: /beratzhausen/
-latitude: 49.0958533
-longitude: 11.8071731
+latitude: 49.0962934
+longitude: 11.805787200000001
 ---

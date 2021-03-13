@@ -1,6 +1,6 @@
 ---
 title: Dietramszell
 url: /dietramszell/
-latitude: 47.85031600000001
-longitude: 11.594349800000002
+latitude: 47.850702500000004
+longitude: 11.594430800000001
 ---

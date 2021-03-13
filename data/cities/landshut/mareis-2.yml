@@ -1,11 +1,11 @@
-id: 369696958
-type: way
-latitude: 48.554645900000004
-longitude: 12.1504545
-postcode: "84030"
+id: 6641718344
+type: node
+latitude: 48.529216700000006
+longitude: 12.146
+postcode: "84036"
 city: Landshut
-street: "Siemensstraße"
-housenumber: 12
-phone: "+49 871 97485445"
-opening_hours: ""
-website: "https://www.mareis.com/"
+street: "Innere Münchener Straße"
+housenumber: 27
+phone: "+49 871 97496080"
+opening_hours: "Mo-Sa 08:00-20:00"
+website: ""

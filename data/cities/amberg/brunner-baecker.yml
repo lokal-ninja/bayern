@@ -7,5 +7,5 @@ city: Amberg
 street: "Welserstraße"
 housenumber: 11
 phone: "+49 09621 9152663"
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH 08:00-12:00"
+opening_hours: "PH,Su 08:00-12:00, Mo-Sa 06:30-20:00, PH,Su 07:00-12:00"
 website: "https://www.brunnerbaecker.de/"

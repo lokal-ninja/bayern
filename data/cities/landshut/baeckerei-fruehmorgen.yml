@@ -1,11 +1,11 @@
-id: 160840440
-type: way
-latitude: 48.5421982
-longitude: 12.166699600000001
-postcode: "84028"
+id: 4591975640
+type: node
+latitude: 48.547609
+longitude: 12.130075900000001
+postcode: "84032"
 city: Landshut
-street: "Niedermayerstraße"
-housenumber: 1a
-phone: ""
-opening_hours: ""
-website: ""
+street: "Oberndorferstraße"
+housenumber: 24a
+phone: "+49 871 14394600"
+opening_hours: "Mo-Sa 06:00-20:00; So,PH 08:00-11:00"
+website: "https://www.baeckerei-fruehmorgen.de"

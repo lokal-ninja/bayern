@@ -7,5 +7,5 @@ city: Großostheim
 street: "Hauptstraße"
 housenumber: 30
 phone: "+49 151 29136531"
-opening_hours: "Mo 17:00-19:00, We 17:00-19:00, Fr 17:00-19:00,"
+opening_hours: "Mo,We,Fr 17:00-19:00"
 website: "https://k-woi.com/"

@@ -1,11 +1,11 @@
 id: 1528285335
 type: node
-latitude: 48.139076900000006
-longitude: 11.5033639
+latitude: 48.1390733
+longitude: 11.5033887
 postcode: "80686"
 city: München
 street: "Fürstenrieder Straße"
 housenumber: 31
 phone: "+49 89 566449"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00, Sa 09:00-12:00"
+opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-12:00"
 website: "https://www.feinste-pralinen.de/"

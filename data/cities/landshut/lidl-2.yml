@@ -1,11 +1,11 @@
-id: 88626850
-type: way
-latitude: 48.544271200000004
-longitude: 12.134996200000002
-postcode: "84034"
+id: 4521612595
+type: node
+latitude: 48.5468471
+longitude: 12.1274812
+postcode: "84032"
 city: Landshut
-street: "Rupprechtstraße"
-housenumber: 22
-phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.lidl.de/filialen/landshut/rupprechtstr-22.html"
+street: "Oberndorferstraße"
+housenumber: 34a
+phone: "+49 800 4353361"
+opening_hours: "Mo-Sa 07:00-20:00; PH off"
+website: "https://www.lidl.de/filialen/landshut/oberndorferstrasse-34a.html"

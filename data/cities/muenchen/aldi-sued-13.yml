@@ -1,11 +1,11 @@
-id: 24966540
-type: way
-latitude: 48.123114
-longitude: 11.669135800000001
-postcode: "81825"
+id: 8350134655
+type: node
+latitude: 48.1230315
+longitude: 11.5499281
+postcode: "81371"
 city: München
-street: "Bognerhofweg"
-housenumber: 5
+street: "Implerstraße"
+housenumber: 9a
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH closed"
+opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
 website: ""

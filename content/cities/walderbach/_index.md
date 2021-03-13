@@ -1,6 +1,6 @@
 ---
 title: Walderbach
 url: /walderbach/
-latitude: 49.1845316
-longitude: 12.383045000000001
+latitude: 49.1860553
+longitude: 12.378787800000001
 ---

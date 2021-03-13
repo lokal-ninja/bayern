@@ -1,5 +1,5 @@
 ---
 title: "Obertonhaus"
 url: /muenchen/obertonhaus/
-shop: Musik
+shop: Instrumente
 ---
