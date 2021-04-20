@@ -1,5 +1,0 @@
----
-title: "Max Schierer GmbH"
-url: /straubing/max-schierer-gmbh-2/
-shop: Baumarkt
----

@@ -1,6 +1,6 @@
 ---
 title: Kinding
 url: /kinding/
-latitude: 48.9996932
-longitude: 11.384618000000001
+latitude: 49.0008124
+longitude: 11.383770400000001
 ---

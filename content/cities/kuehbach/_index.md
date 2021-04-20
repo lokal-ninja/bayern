@@ -1,6 +1,6 @@
 ---
 title: Kühbach
 url: /kuehbach/
-latitude: 48.6228399
-longitude: 12.6748273
+latitude: 48.622836400000004
+longitude: 12.674762900000001
 ---

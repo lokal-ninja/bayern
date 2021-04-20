@@ -1,5 +1,5 @@
 ---
-title: "Martin's Backstube"
+title: "Martins Backstube"
 url: /dorfen/martins-backstube-2/
 shop: Bäckerei
 ---

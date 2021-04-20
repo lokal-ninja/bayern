@@ -1,5 +1,5 @@
 ---
 title: "Brandhood"
 url: /muenchen/brandhood/
-shop: Modehaus
+shop: Kleidung
 ---

@@ -1,11 +1,11 @@
-id: 6937120220
-type: node
-latitude: 48.364014000000005
-longitude: 10.9275877
-postcode: "86161"
+id: 196365076
+type: way
+latitude: 48.398676
+longitude: 10.8716483
+postcode: "86154"
 city: Augsburg
-street: "Reichenberger Straße"
-housenumber: 59
-phone: ""
-opening_hours: ""
+street: "Stuttgarter Straße"
+housenumber: 23
+phone: "+49 8212183890"
+opening_hours: "Mo-Sa 10:00-20:00"
 website: ""

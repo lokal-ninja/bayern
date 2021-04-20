@@ -1,6 +1,6 @@
 ---
 title: Großkonreuth
 url: /grosskonreuth/
-latitude: 49.8893332
-longitude: 12.429945700000001
+latitude: 49.8893764
+longitude: 12.429890700000001
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Auto - Wehr"
+title: "Auto Wehr"
 url: /zirndorf/auto-wehr/
 shop: Autohaus
 ---

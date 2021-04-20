@@ -1,5 +1,5 @@
 ---
 title: "Dänisches Bettenlager"
 url: /markt-schwaben/daenisches-bettenlager/
-shop: Betten
+shop: Möbel
 ---

@@ -1,11 +1,11 @@
-id: 676726541
+id: 546879324
 type: node
-latitude: 49.5731684
-longitude: 10.9856821
-postcode: "91058"
+latitude: 49.603001400000004
+longitude: 10.981874000000001
+postcode: "91056"
 city: Erlangen
-street: "Fürther Straße"
-housenumber: 27
-phone: ""
-opening_hours: "Mo-Fr 06:00-18:00, Sa 06:00-13:00"
-website: ""
+street: "Möhrendorfer Straße"
+housenumber: 
+phone: "+49 9131 482727"
+opening_hours: "Mo-Su 06:00-18:00"
+website: "https://baeckerei-trapper.de/"

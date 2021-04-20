@@ -1,11 +1,11 @@
-id: 105211915
-type: way
-latitude: 48.460439300000004
-longitude: 11.132193800000001
+id: 8636345338
+type: node
+latitude: 48.460417500000005
+longitude: 11.1324074
 postcode: "86551"
 city: Aichach
 street: "Prieferstraße"
 housenumber: 1
-phone: ""
-opening_hours: ""
-website: ""
+phone: "+49 8251 2590"
+opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-12:00; Su, PH off"
+website: "https://www.metzgereirupp.de/filialen/aichach"

@@ -1,5 +1,5 @@
 ---
 title: "Norma"
 url: /hilpoltstein/norma/
-shop: Supermarkt
+shop: Leerstehend
 ---

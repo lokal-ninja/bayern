@@ -1,11 +1,11 @@
-id: 3877485746
-type: node
-latitude: 48.167010000000005
-longitude: 11.5621696
-postcode: ""
+id: 24003725
+type: way
+latitude: 48.105122800000004
+longitude: 11.604158
+postcode: "81549"
 city: München
-street: "Winzererstraße"
-housenumber: 134b
-phone: "+49 89 300 51 36"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 08:00-16:30"
+street: "Balanstraße"
+housenumber: 202
+phone: "+49 89 62899160"
+opening_hours: "Mo-Sa 08:00-20:00"
 website: "https://www.orterer.de/"

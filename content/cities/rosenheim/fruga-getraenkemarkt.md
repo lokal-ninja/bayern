@@ -1,5 +1,5 @@
 ---
 title: "Fruga Getränkemarkt"
 url: /rosenheim/fruga-getraenkemarkt/
-shop: Supermarkt
+shop: Getränke
 ---
