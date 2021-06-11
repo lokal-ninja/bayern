@@ -1,5 +1,5 @@
 ---
 title: "Fristo"
 url: /freising/fristo/
-shop: Spirituosen
+shop: Getränke
 ---

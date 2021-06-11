@@ -1,5 +1,5 @@
 ---
 title: "Stahlgruber"
 url: /erlangen/stahlgruber/
-shop: Autohaus
+shop: Autoteile
 ---

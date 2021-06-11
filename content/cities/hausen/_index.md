@@ -1,6 +1,6 @@
 ---
 title: Hausen
 url: /hausen/
-latitude: 47.794556
-longitude: 10.6643182
+latitude: 48.041962600000005
+longitude: 11.3309271
 ---

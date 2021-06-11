@@ -1,6 +1,6 @@
 ---
 title: Hurlach
 url: /hurlach/
-latitude: 48.116701500000005
-longitude: 10.8166987
+latitude: 48.1203614
+longitude: 10.816052
 ---

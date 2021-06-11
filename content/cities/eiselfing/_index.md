@@ -1,6 +1,6 @@
 ---
 title: Eiselfing
 url: /eiselfing/
-latitude: 48.0415056
-longitude: 12.2438379
+latitude: 48.0404763
+longitude: 12.2417391
 ---

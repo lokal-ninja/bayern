@@ -1,11 +1,11 @@
-id: 1035900529
-type: node
-latitude: 49.7930572
-longitude: 10.0037152
+id: 89206659
+type: way
+latitude: 49.7940203
+longitude: 10.0047805
 postcode: "97076"
 city: Würzburg
 street: "Nürnberger Straße"
 housenumber: 133
-phone: "+49-931-2789-111"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:45-16:00"
-website: "https://www.baywa-standorte.de/baustoffe-wuerzburg/"
+phone: ""
+opening_hours: "Mo-Fr 06:30-18:00; Sa 07:00-12:30"
+website: ""

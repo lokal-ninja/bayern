@@ -1,6 +1,6 @@
 ---
 title: Heßdorf
 url: /hessdorf/
-latitude: 50.052182900000005
-longitude: 9.784706700000001
+latitude: 50.052021
+longitude: 9.7853397
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Weisser Rabe"
+title: "Weißer Rabe"
 url: /muenchen/weisser-rabe/
-shop: Warenhaus
+shop: Gebrauchtwaren
 ---

@@ -1,6 +1,6 @@
 ---
 title: Engelsberg
 url: /engelsberg/
-latitude: 49.091854700000006
-longitude: 12.3849794
+latitude: 49.0915473
+longitude: 12.3847541
 ---

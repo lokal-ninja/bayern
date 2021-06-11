@@ -1,6 +1,6 @@
 ---
 title: Plößberg
 url: /ploessberg/
-latitude: 50.195354900000005
-longitude: 12.124677700000001
+latitude: 49.7843626
+longitude: 12.307917000000002
 ---

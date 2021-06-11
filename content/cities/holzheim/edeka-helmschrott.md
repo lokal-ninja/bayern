@@ -1,5 +1,5 @@
 ---
-title: "EDEKA Helmschrott"
+title: "Edeka Helmschrott"
 url: /holzheim/edeka-helmschrott/
 shop: Supermarkt
 ---

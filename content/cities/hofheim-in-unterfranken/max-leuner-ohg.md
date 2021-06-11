@@ -1,5 +1,5 @@
 ---
 title: "Max Leuner OHG"
 url: /hofheim-in-unterfranken/max-leuner-ohg/
-shop: Allgemein
+shop: Treibstoff
 ---

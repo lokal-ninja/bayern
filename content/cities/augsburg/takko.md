@@ -1,5 +1,5 @@
 ---
-title: "TAKKO"
+title: "Takko"
 url: /augsburg/takko/
 shop: Kleidung
 ---

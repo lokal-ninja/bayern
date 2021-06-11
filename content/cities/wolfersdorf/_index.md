@@ -1,6 +1,6 @@
 ---
 title: Wolfersdorf
 url: /wolfersdorf/
-latitude: 48.708131900000005
-longitude: 13.432545300000001
+latitude: 49.1317395
+longitude: 12.737050400000001
 ---

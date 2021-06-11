@@ -1,6 +1,6 @@
 ---
 title: Bad Rodach
 url: /bad-rodach/
-latitude: 50.3417423
-longitude: 10.780138500000001
+latitude: 50.3411272
+longitude: 10.7785015
 ---

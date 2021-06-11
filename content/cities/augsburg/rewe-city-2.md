@@ -1,5 +1,5 @@
 ---
-title: "REWE City"
+title: "Rewe City"
 url: /augsburg/rewe-city-2/
 shop: Supermarkt
 ---

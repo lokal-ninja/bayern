@@ -1,6 +1,6 @@
 ---
 title: Kirchroth
 url: /kirchroth/
-latitude: 48.95123400000001
-longitude: 12.544609600000001
+latitude: 48.951342200000006
+longitude: 12.544820000000001
 ---

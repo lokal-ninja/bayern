@@ -1,6 +1,6 @@
 ---
 title: Waidhaus
 url: /waidhaus/
-latitude: 49.6411504
-longitude: 12.496568400000001
+latitude: 49.642828200000004
+longitude: 12.495581300000001
 ---
