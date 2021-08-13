@@ -1,5 +1,5 @@
 ---
 title: "UMBasala"
 url: /rohrbach/umbasala/
-shop: Allgemein
+shop: Modehaus
 ---

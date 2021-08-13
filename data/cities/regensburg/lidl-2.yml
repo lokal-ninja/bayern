@@ -1,11 +1,11 @@
-id: 29503036
-type: way
-latitude: 48.993667900000005
-longitude: 12.1058047
-postcode: "93053"
+id: 8995422025
+type: node
+latitude: 49.0253698
+longitude: 12.1499374
+postcode: "93055"
 city: Regensburg
-street: "Merowingerstraße"
-housenumber: 1
+street: "Metzgerweg"
+housenumber: 11
 phone: ""
-opening_hours: "Mo-Fr 08:30-20:00"
+opening_hours: "Mo-Sa 08:00-20:00"
 website: ""

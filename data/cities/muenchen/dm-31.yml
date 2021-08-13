@@ -1,11 +1,11 @@
-id: 112601066
-type: way
-latitude: 48.1056697
-longitude: 11.6026495
-postcode: "81549"
+id: 8615426609
+type: node
+latitude: 48.1317795
+longitude: 11.6900285
+postcode: "81829"
 city: München
-street: "Balanstraße"
-housenumber: 190
-phone: "+49 89 60062265"
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
-website: "https://www.dm.de/"
+street: "Willy-Brandt-Platz"
+housenumber: 5
+phone: "+498942036593"
+opening_hours: "Mo-Sa 08:00-20:00; PH off"
+website: "https://www.dm.de/store/de-2757/muenchen/willy-brandt-platz-5"

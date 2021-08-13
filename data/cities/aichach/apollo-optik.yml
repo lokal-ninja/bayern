@@ -7,5 +7,5 @@ city: Aichach
 street: "Tandlmarkt"
 housenumber: 5
 phone: "+49 8251 1599"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00; Su,PH off"
-website: "https://www.apollo.de/store-6808/Aichach"
+opening_hours: "Mo,Tu,Th,Fr 10:00-18:00; We,Sa,Su,PH off; Sa[3] 09:00-13:00"
+website: "https://filialen.apollo.de/bayern/aichach/am-tandlmarkt-5.html"

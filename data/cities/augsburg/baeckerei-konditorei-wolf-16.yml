@@ -1,11 +1,11 @@
-id: 95032685
-type: way
-latitude: 48.298338400000006
-longitude: 10.899714600000001
-postcode: "86179"
+id: 8964726747
+type: node
+latitude: 48.3607991
+longitude: 10.940309500000001
+postcode: "86163"
 city: Augsburg
-street: "Albert-Leidl-Straße"
-housenumber: 6
-phone: "+49 821 6509214"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-14:00; Su 08:00-12:00"
-website: "https://www.baeckerei-wolf.de/"
+street: "Zugspitzstraße"
+housenumber: 68
+phone: ""
+opening_hours: "Mo-Fr 6:30-18:30, Sa 6:30-17:00, Su 8:00-17:00"
+website: "https://www.baeckerei-wolf.de"

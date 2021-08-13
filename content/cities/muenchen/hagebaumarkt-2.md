@@ -1,5 +1,5 @@
 ---
-title: "hagebaumarkt"
+title: "Hagebaumarkt"
 url: /muenchen/hagebaumarkt-2/
 shop: Baumarkt
 ---

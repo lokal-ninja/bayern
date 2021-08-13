@@ -1,5 +1,5 @@
 ---
 title: "Comma"
 url: /deggendorf/comma/
-shop: Modehaus
+shop: Kleidung
 ---

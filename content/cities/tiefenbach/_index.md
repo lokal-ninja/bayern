@@ -1,6 +1,6 @@
 ---
 title: Tiefenbach
 url: /tiefenbach/
-latitude: 47.741852400000006
-longitude: 12.138159
+latitude: 49.1282349
+longitude: 11.178649
 ---

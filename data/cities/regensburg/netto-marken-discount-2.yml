@@ -1,11 +1,11 @@
-id: 103420363
-type: way
-latitude: 49.0199931
-longitude: 12.0884956
-postcode: "93047"
+id: 6109420162
+type: node
+latitude: 49.0041632
+longitude: 12.069582700000002
+postcode: "93051"
 city: Regensburg
-street: "Arnulfsplatz"
-housenumber: 4 a
+street: "Doktor-Gessler-Straße"
+housenumber: 2
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 07:00-20:00"
+opening_hours: "Mo-Sa 07:00-20:00"
 website: ""

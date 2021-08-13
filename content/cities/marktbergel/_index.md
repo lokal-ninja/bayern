@@ -1,6 +1,6 @@
 ---
 title: Marktbergel
 url: /marktbergel/
-latitude: 49.442211
-longitude: 10.3598026
+latitude: 49.4412134
+longitude: 10.3646574
 ---

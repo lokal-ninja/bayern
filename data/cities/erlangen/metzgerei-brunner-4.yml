@@ -1,11 +1,11 @@
-id: 149933458
-type: way
-latitude: 49.602422700000005
-longitude: 11.005436600000001
-postcode: "91054"
+id: 4526018789
+type: node
+latitude: 49.592648600000004
+longitude: 11.0053695
+postcode: "91052"
 city: Erlangen
-street: "Vierzigmannstraße"
-housenumber: 11
-phone: "+49 9131 21900"
-opening_hours: "Mo-Fr 08:00-13:00,14:30-18:00; Sa 08:00-13:00"
-website: "http://www.metzgerei-brunner.org/"
+street: "Nürnberger Straße"
+housenumber: 
+phone: ""
+opening_hours: "Mo-Sa 09:30-20:00"
+website: ""

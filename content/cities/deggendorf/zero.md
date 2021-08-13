@@ -1,5 +1,5 @@
 ---
 title: "zero"
 url: /deggendorf/zero/
-shop: Modehaus
+shop: Kleidung
 ---

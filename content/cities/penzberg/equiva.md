@@ -1,5 +1,5 @@
 ---
 title: "Equiva"
 url: /penzberg/equiva/
-shop: Sport
+shop: Pferde
 ---
