@@ -1,11 +1,11 @@
-id: 31111672
-type: way
-latitude: 49.428058
-longitude: 11.0604019
-postcode: "90441"
+id: 3235123285
+type: node
+latitude: 49.4525135
+longitude: 11.0551133
+postcode: "90429"
 city: Nürnberg
-street: "Heisterstraße"
-housenumber: 4
+street: "Willstraße"
+housenumber: 15
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 07:00-20:00"
 website: ""

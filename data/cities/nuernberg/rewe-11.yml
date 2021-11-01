@@ -1,11 +1,11 @@
-id: 5643683024
-type: node
-latitude: 49.370829400000005
-longitude: 11.0766922
+id: 28725106
+type: way
+latitude: 49.347733700000006
+longitude: 11.0630804
 postcode: "90455"
 city: Nürnberg
-street: "Radmeisterstraße"
-housenumber: 3
-phone: "+49 911 8177580"
-opening_hours: "Mo-Sa 07:00 - 20:00"
-website: "https://www.rewe.de/marktseite/nuernberg/440982/rewe-markt-radmeisterstrasse-3/"
+street: "Strawinskystraße"
+housenumber: 27a
+phone: ""
+opening_hours: "Mo-Sa 07:00-20:00"
+website: ""

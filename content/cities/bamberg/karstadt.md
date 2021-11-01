@@ -1,5 +1,5 @@
 ---
 title: "Karstadt"
 url: /bamberg/karstadt/
-shop: Einkaufszentrum
+shop: Warenhaus
 ---

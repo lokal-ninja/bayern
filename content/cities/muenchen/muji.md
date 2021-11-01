@@ -1,5 +1,5 @@
 ---
-title: "MUJI"
+title: "Muji"
 url: /muenchen/muji/
-shop: Kleidung
+shop: Warenhaus
 ---

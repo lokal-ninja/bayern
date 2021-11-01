@@ -7,5 +7,5 @@ city: Eschau
 street: "Elsavastraße"
 housenumber: 91
 phone: "+49937499977"
-opening_hours: "Mo-Fr 09:00-12:30,14:00-18:00; Sa 09:00-12:30; PH off"
+opening_hours: "Mo,Tu,Th,Fr 09:00-12:30,14:00-18:00; We 09:00-12:30; Sa 09:00-12:30; PH off"
 website: "https://www.optik-filbert.de/standorte/eschau/"

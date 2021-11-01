@@ -1,5 +1,5 @@
 ---
 title: "Boels"
 url: /muenchen/boels/
-shop: Eisenwaren
+shop: Allgemein
 ---

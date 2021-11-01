@@ -1,5 +1,5 @@
 ---
-title: "Edeka"
+title: "EDEKA"
 url: /gerolzhofen/edeka/
 shop: Supermarkt
 ---

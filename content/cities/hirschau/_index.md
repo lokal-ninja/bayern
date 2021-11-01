@@ -1,6 +1,6 @@
 ---
 title: Hirschau
 url: /hirschau/
-latitude: 47.9172384
-longitude: 10.9076768
+latitude: 47.917303100000005
+longitude: 10.9069848
 ---

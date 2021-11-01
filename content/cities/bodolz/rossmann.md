@@ -1,5 +1,5 @@
 ---
-title: "Rossmann"
+title: "ROSSMANN"
 url: /bodolz/rossmann/
 shop: Drogerie
 ---

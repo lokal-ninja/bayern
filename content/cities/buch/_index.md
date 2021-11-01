@@ -1,6 +1,6 @@
 ---
 title: Buch
 url: /buch/
-latitude: 48.3951695
-longitude: 12.4047712
+latitude: 49.515429600000004
+longitude: 10.0380984
 ---

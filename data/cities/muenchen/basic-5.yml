@@ -1,11 +1,11 @@
-id: 112382688
-type: way
-latitude: 48.166956600000006
-longitude: 11.5857861
-postcode: "80802"
+id: 3506657511
+type: node
+latitude: 48.1660848
+longitude: 11.5737231
+postcode: "80796"
 city: München
-street: "Rheinstraße"
-housenumber: 1
+street: "Belgradstraße"
+housenumber: 59
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"
 website: ""

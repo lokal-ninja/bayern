@@ -1,11 +1,11 @@
-id: 1361884260
+id: 1358008218
 type: node
-latitude: 48.135940000000005
-longitude: 11.6071147
-postcode: "81675"
+latitude: 48.1242445
+longitude: 11.5805804
+postcode: "81541"
 city: München
-street: "Lucile-Grahn-Straße"
-housenumber: 25
-phone: ""
-opening_hours: "Mo-Fr 07:30-13:30,14:30-18:00; Sa 07:30-13:00; PH off"
-website: ""
+street: "Falkenstraße"
+housenumber: 2
+phone: "+49 89 65114516"
+opening_hours: "Mo-Th 07:30-13:00,15:00-18:00; Fr 07:30-18:00; Sa 07:30-13:00"
+website: "https://www.hofpfisterei.de/"

@@ -1,6 +1,6 @@
 ---
 title: Furth
 url: /furth/
-latitude: 47.889464200000006
-longitude: 12.8277178
+latitude: 48.501827500000005
+longitude: 12.891520000000002
 ---

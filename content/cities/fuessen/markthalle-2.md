@@ -1,5 +1,5 @@
 ---
 title: "Markthalle"
 url: /fuessen/markthalle-2/
-shop: Fisch
+shop: Gemüse & Obst
 ---

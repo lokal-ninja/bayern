@@ -1,11 +1,11 @@
-id: 8392065059
-type: node
-latitude: 48.1831365
-longitude: 11.5069563
-postcode: "80993"
+id: 52397980
+type: way
+latitude: 48.1044028
+longitude: 11.625005600000001
+postcode: "81737"
 city: München
-street: "Dachauer Straße"
-housenumber: 457
+street: "Ottobrunner Straße"
+housenumber: 103
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: "Mo-Sa 08:00-20:00"
 website: ""

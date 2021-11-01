@@ -7,5 +7,5 @@ city: Erlangen
 street: "Nürnberger Straße"
 housenumber: 21
 phone: "+49 9131 23270"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://www.eilles.de"
+opening_hours: "Mo-Sa 09:30-20:00; Su,PH off"
+website: ""

@@ -1,5 +1,5 @@
 ---
 title: "Welt-Laden Haßfurt"
 url: /hassfurt/welt-laden-hassfurt/
-shop: Allgemein
+shop: Lebensmittel
 ---

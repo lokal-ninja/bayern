@@ -1,5 +1,5 @@
 ---
-title: "Geers"
+title: "GEERS"
 url: /ansbach/geers/
 shop: Hörgeräte
 ---

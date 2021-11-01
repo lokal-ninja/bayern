@@ -7,5 +7,5 @@ city: Weilheim in Oberbayern
 street: "Hofstraße"
 housenumber: 5
 phone: "+49 881 92706815"
-opening_hours: "Mo-Fr 11:00-19:00; Sa 10:00-16:00; PH off"
+opening_hours: "Mo,Tu,Th,Fr 11:00-19:00; Sa 10:00-16:00; PH off"
 website: "http://www.stuff4freakz.de/ladenWeilheim.html"

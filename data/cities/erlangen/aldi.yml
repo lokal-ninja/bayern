@@ -1,11 +1,11 @@
-id: 1348982353
-type: node
-latitude: 49.592315400000004
-longitude: 11.0286226
+id: 28570051
+type: way
+latitude: 49.593413000000005
+longitude: 11.0189255
 postcode: "91052"
 city: Erlangen
-street: "Allee am Röthelheimpark"
-housenumber: 15
-phone: ""
-opening_hours: "Mo-Sa 07:30-20:00"
-website: ""
+street: "Henkestraße"
+housenumber: 92
+phone: "+49 180 3292534"
+opening_hours: "Mo-Sa 08:00-20:00"
+website: "https://www.aldi-sued.de/"

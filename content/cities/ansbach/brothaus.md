@@ -1,5 +1,5 @@
 ---
-title: "Brothaus"
+title: "BrotHaus"
 url: /ansbach/brothaus/
 shop: Bäckerei
 ---

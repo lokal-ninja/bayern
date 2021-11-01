@@ -1,11 +1,11 @@
-id: 1582404449
+id: 1314867483
 type: node
-latitude: 48.095679000000004
-longitude: 11.496352400000001
-postcode: "81476"
+latitude: 48.1189873
+longitude: 11.5763067
+postcode: "81543"
 city: München
-street: "Winterthurer Straße"
-housenumber: 2
-phone: ""
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-13:00"
-website: ""
+street: "Humboldtstraße"
+housenumber: 42
+phone: "+49 89 44141262"
+opening_hours: "Mo-Sa 08:00-20:00"
+website: "https://www.vitalia-reformhaus.de/"

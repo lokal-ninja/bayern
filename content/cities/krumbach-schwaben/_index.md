@@ -1,6 +1,6 @@
 ---
 title: Krumbach (Schwaben)
 url: /krumbach-schwaben/
-latitude: 
-longitude: 
+latitude: 48.2433959
+longitude: 10.3634009
 ---

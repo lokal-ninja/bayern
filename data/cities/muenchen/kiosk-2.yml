@@ -1,11 +1,11 @@
-id: 4512113800
-type: node
-latitude: 48.162530100000005
-longitude: 11.541638500000001
-postcode: "80637"
+id: 142414548
+type: way
+latitude: 48.1504344
+longitude: 11.595324300000001
+postcode: "80538"
 city: München
-street: "Heideckstraße"
-housenumber: 4
+street: "Oettingenstraße"
+housenumber: 80
 phone: ""
-opening_hours: "Mo-Fr 07:00-12:30, Mo,We-Fr 15:00-18:00, Sa 07:00-12:00"
+opening_hours: ""
 website: ""

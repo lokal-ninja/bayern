@@ -7,5 +7,5 @@ city: Bamberg
 street: "Steinweg"
 housenumber: 12
 phone: ""
-opening_hours: "Tu-Th 08:00-12:00,14:00-17:30; Fr 08:00-17:30; Sa 07:30-12:30; PH,Su off"
+opening_hours: "Tu-Th 08:00-12:00,14:00-17:30; Fr 08:00-17:30; Sa 07:30-12:30; PH,Su,Mo off"
 website: ""

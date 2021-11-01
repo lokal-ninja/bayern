@@ -1,11 +1,11 @@
-id: 165185363
-type: way
-latitude: 49.433713600000004
-longitude: 11.1267101
-postcode: "90480"
+id: 3490803895
+type: node
+latitude: 49.4507752
+longitude: 11.0770383
+postcode: "90402"
 city: Nürnberg
-street: "Kallmünzer Straße"
-housenumber: 20
-phone: "+49 911 4007697"
-opening_hours: "Mo-Sa 07:30-20:00"
+street: "Karolinenstraße"
+housenumber: 5
+phone: ""
+opening_hours: "Mo-Fr 07:00-20:00; Sa 08:00-20:00; PH off"
 website: ""

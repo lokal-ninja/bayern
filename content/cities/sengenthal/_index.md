@@ -1,6 +1,6 @@
 ---
 title: Sengenthal
 url: /sengenthal/
-latitude: 49.2320082
-longitude: 11.4619266
+latitude: 49.2317332
+longitude: 11.4611944
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Baby-Walz"
+title: "baby-walz"
 url: /muenchen/baby-walz/
 shop: Babysachen
 ---

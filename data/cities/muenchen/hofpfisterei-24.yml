@@ -1,11 +1,11 @@
-id: 5352801519
+id: 3754381429
 type: node
-latitude: 48.1804214
-longitude: 11.5109434
-postcode: "80992"
+latitude: 48.193043800000005
+longitude: 11.6185215
+postcode: "80939"
 city: München
-street: "Baubergerstraße"
-housenumber: 7
+street: "Situlistraße"
+housenumber: 56
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-13:00; PH,Su off"
-website: ""
+opening_hours: "Mo-Fr 07:30-14:00,15:00-18:00; Sa 07:30-12:30"
+website: "https://www.hofpfisterei.de/"

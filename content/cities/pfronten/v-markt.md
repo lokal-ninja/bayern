@@ -1,5 +1,5 @@
 ---
-title: "V-Markt"
+title: "V-MARKT"
 url: /pfronten/v-markt/
 shop: Supermarkt
 ---

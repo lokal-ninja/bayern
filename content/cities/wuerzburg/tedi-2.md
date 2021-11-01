@@ -1,5 +1,5 @@
 ---
-title: "Tedi"
+title: "TEDi"
 url: /wuerzburg/tedi-2/
-shop: Eisenwaren
+shop: Kramladen
 ---

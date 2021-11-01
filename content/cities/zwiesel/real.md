@@ -1,5 +1,5 @@
 ---
-title: "Real"
+title: "real"
 url: /zwiesel/real/
 shop: Supermarkt
 ---

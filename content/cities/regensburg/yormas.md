@@ -1,5 +1,5 @@
 ---
-title: "YORMA'S"
+title: "Yorma’s"
 url: /regensburg/yormas/
-shop: Bäckerei
+shop: Kiosk
 ---

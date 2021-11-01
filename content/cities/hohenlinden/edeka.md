@@ -1,5 +1,5 @@
 ---
-title: "Edeka"
+title: "EDEKA"
 url: /hohenlinden/edeka/
 shop: Supermarkt
 ---

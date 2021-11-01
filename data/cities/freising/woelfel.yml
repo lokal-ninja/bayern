@@ -5,7 +5,7 @@ longitude: 11.742434800000002
 postcode: "85354"
 city: Freising
 street: "Rindermarkt"
-housenumber: 6
-phone: "+49 8161 12405"
-opening_hours: "Mo-Fr 09:00-12:30,14:30-18:00, Sa 09:00-12:30"
+housenumber: 6;8
+phone: "+49-8161-12405"
+opening_hours: "Mo-Fr 09:00-12:30,14:30-18:00; Sa 09:00-12:30; Su,PH off"
 website: "http://www.brautmoden-woelfel.de"

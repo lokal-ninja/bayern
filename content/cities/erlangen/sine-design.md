@@ -1,5 +1,5 @@
 ---
 title: "Sine Design"
 url: /erlangen/sine-design/
-shop: Modehaus
+shop: Kleidung
 ---

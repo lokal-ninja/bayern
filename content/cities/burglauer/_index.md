@@ -1,6 +1,6 @@
 ---
 title: Burglauer
 url: /burglauer/
-latitude: 50.282821600000005
-longitude: 10.1797875
+latitude: 50.276375200000004
+longitude: 10.1802819
 ---

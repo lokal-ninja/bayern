@@ -1,5 +1,5 @@
 ---
-title: "Edeka Uhlig"
+title: "EDEKA Uhlig"
 url: /muenchen/edeka-uhlig/
 shop: Supermarkt
 ---

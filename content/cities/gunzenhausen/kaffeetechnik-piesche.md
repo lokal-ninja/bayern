@@ -1,5 +1,5 @@
 ---
 title: "Kaffeetechnik Piesche"
 url: /gunzenhausen/kaffeetechnik-piesche/
-shop: Allgemein
+shop: Küchen
 ---

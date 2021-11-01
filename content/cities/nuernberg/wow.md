@@ -1,5 +1,5 @@
 ---
 title: "Wow"
 url: /nuernberg/wow/
-shop: Modehaus
+shop: Kleidung
 ---
