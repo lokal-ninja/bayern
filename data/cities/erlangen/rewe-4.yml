@@ -1,11 +1,11 @@
-id: 32611633
-type: way
-latitude: 49.575814
-longitude: 11.001374700000001
-postcode: "91058"
+id: 8923322175
+type: node
+latitude: 49.5909497
+longitude: 11.0055302
+postcode: "91052"
 city: Erlangen
-street: "Cumianastraße"
-housenumber: 4
+street: "Nägelsbachstraße"
+housenumber: 26
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: ""
+opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+website: "https://www.rewe.de/marktseite/erlangen/431207/rewe-markt-naegelsbachstr-26/"

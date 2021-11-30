@@ -1,11 +1,11 @@
-id: 99713263
-type: way
-latitude: 48.3554973
-longitude: 10.949003300000001
-postcode: "86163"
+id: 3567022631
+type: node
+latitude: 48.3673109
+longitude: 10.8689303
+postcode: "86157"
 city: Augsburg
-street: "Friedberger Straße"
-housenumber: 157
-phone: "+49 821 2621664"
-opening_hours: "Mo-Sa 06:00-19:00; Su 07:30-18:00"
-website: "https://www.ihle.de"
+street: "Christian-Dierig-Straße"
+housenumber: 2
+phone: "+49 821 2528966"
+opening_hours: "Mo-Sa 07:00-20:00"
+website: "http://www.ihle.de"

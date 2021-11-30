@@ -1,11 +1,11 @@
-id: 193786769
-type: way
-latitude: 48.367163500000004
-longitude: 10.868640800000001
-postcode: "86157"
+id: 7016542527
+type: node
+latitude: 48.3601146
+longitude: 10.892461500000001
+postcode: "86150"
 city: Augsburg
-street: "Christian-Dierig-Straße"
-housenumber: 2
-phone: "+49 821 2292965"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.edeka.de/eh/südbayern/edeka-christian-dierig-straße-2/index.jsp"
+street: "Stettenstraße"
+housenumber: 19
+phone: "+4982181535611"
+opening_hours: "Mo-Sa 07:00-21:00"
+website: "https://www.edeka.de/eh/s%C3%BCdbayern/edeka-hillenbrand-stettenstr.-19/index.jsp"

@@ -1,11 +1,11 @@
-id: 6759537835
-type: node
-latitude: 48.1754376
-longitude: 10.7506544
+id: 25869516
+type: way
+latitude: 48.172716400000006
+longitude: 10.7412022
 postcode: "86830"
 city: Schwabmünchen
-street: "Mindelheimer Straße"
-housenumber: 43
-phone: "+49 8232 9584550"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.edeka.de/eh/s%C3%BCdbayern/edeka-mindelheimer-stra%C3%9Fe-43/"
+street: "Falkensteinstraße"
+housenumber: 2
+phone: ""
+opening_hours: ""
+website: ""

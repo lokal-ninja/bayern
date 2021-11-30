@@ -1,5 +1,5 @@
 ---
-title: "Penny"
+title: "PENNY"
 url: /teisendorf/penny/
 shop: Supermarkt
 ---

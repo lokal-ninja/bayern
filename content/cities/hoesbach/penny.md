@@ -1,5 +1,5 @@
 ---
-title: "Penny"
+title: "PENNY"
 url: /hoesbach/penny/
 shop: Supermarkt
 ---

@@ -1,11 +1,11 @@
-id: 1686777473
-type: node
-latitude: 48.3686949
-longitude: 10.9326007
-postcode: "86165"
+id: 56070517
+type: way
+latitude: 48.335988300000004
+longitude: 10.867744100000001
+postcode: "86199"
 city: Augsburg
-street: "Zugspitzstraße"
-housenumber: 183a
+street: "Bürgermeister-Aurnhammer-Straße"
+housenumber: 59a
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su off"
-website: ""
+opening_hours: "Mo-Sa 07:00-20:00"
+website: "https://www.netto-online.de"

@@ -1,11 +1,11 @@
-id: 107992305
-type: way
-latitude: 48.0579641
-longitude: 10.866446100000001
+id: 2018368984
+type: node
+latitude: 48.043688100000004
+longitude: 10.8620582
 postcode: "86899"
 city: Landsberg am Lech
-street: "Iglinger Straße"
-housenumber: 5 b
-phone: "+49 8191 12245"
-opening_hours: ""
-website: ""
+street: "Breslauer Straße"
+housenumber: 3b
+phone: ""
+opening_hours: "Mo-Th 08:00-12:00,13:00-17:00; We 08:00-12:00"
+website: "https://www.ohrwerk-gmbh.info/filialen-1/landsberg-breslauer-stra%C3%9Fe/"

@@ -1,6 +1,6 @@
 ---
 title: Ebelsbach
 url: /ebelsbach/
-latitude: 49.984070900000006
-longitude: 10.6725057
+latitude: 49.98415120000001
+longitude: 10.6725793
 ---

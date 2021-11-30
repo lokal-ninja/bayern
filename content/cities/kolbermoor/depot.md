@@ -1,5 +1,5 @@
 ---
-title: "DEPOT"
+title: "Depot"
 url: /kolbermoor/depot/
-shop: Allgemein
+shop: Raumausstattung
 ---
