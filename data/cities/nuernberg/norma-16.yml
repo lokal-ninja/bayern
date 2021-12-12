@@ -1,11 +1,11 @@
-id: 7156953021
-type: node
-latitude: 49.4621336
-longitude: 11.0933992
-postcode: "90489"
+id: 31111672
+type: way
+latitude: 49.428058
+longitude: 11.0604019
+postcode: "90441"
 city: Nürnberg
-street: "Bayreuther Straße"
-housenumber: 34
+street: "Heisterstraße"
+housenumber: 4
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; SU,PH off"
+opening_hours: "Mo-Sa 07:00-20:00"
 website: ""

@@ -1,6 +1,6 @@
 ---
 title: Stammbach
 url: /stammbach/
-latitude: 50.145324
-longitude: 11.691819800000001
+latitude: 50.145569800000004
+longitude: 11.6917018
 ---

@@ -1,5 +1,5 @@
 ---
-title: "vom FASS"
+title: "Vom Fass"
 url: /regensburg/vom-fass/
-shop: Spirituosen
+shop: Feinkost
 ---

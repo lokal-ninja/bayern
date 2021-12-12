@@ -7,5 +7,5 @@ city: Regensburg
 street: "Franz-von-Taxis-Ring"
 housenumber: 49a
 phone: "+49 941 35 720"
-opening_hours: "Mo-We 9:00-18:00, Th,Fr 9:00-19:00, Sa 8:30-13:00"
+opening_hours: "Mo-We,Fr 09:00-18:00; Th 09:00-20:00; Sa 09:00-16:00"
 website: "https://www.haargenau-regensburg.de/"

@@ -7,5 +7,5 @@ city: Au i.d. Hallertau
 street: "Obere Hauptstraße"
 housenumber: 4
 phone: "+49 8752 7115"
-opening_hours: "Mo 5:30-12:00, Tu-Fr 5:30-18:00, Sa 5:30-12:00, Su 8:00-11:00"
+opening_hours: "Mo,Sa 05:30-12:00; Tu-Fr 05:30-18:00; Su,PH 08:00-11:00"
 website: "https://gabelsberger-baeckerei.de/filialen/filialen-au"

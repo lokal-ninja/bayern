@@ -1,11 +1,11 @@
-id: 300264506
-type: way
-latitude: 48.5558929
-longitude: 11.2678574
+id: 9313330006
+type: node
+latitude: 48.555854100000005
+longitude: 11.2680193
 postcode: "86529"
 city: Schrobenhausen
 street: "Georg-Leinfelder-Straße"
 housenumber: 1
-phone: ""
-opening_hours: ""
-website: ""
+phone: "+49 8252 7665"
+opening_hours: "Mo-We 08:00-18:00; Th 08:00-12:15; Fr 08:00-12:15; ,14:00-18:00; Sa 08:00-12:15"
+website: "https://www.hofladen-fuchs.de"
