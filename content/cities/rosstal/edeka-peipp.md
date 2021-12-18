@@ -1,5 +1,5 @@
 ---
-title: "Edeka Peipp"
+title: "EDEKA Peipp"
 url: /rosstal/edeka-peipp/
 shop: Supermarkt
 ---
