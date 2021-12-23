@@ -1,6 +1,6 @@
 ---
 title: Jungholz
 url: /jungholz/
-latitude: 
-longitude: 
+latitude: 47.574
+longitude: 10.447
 ---

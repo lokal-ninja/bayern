@@ -1,6 +1,6 @@
 ---
 title: Wenzenbach
 url: /wenzenbach/
-latitude: 
-longitude: 
+latitude: 49.072
+longitude: 12.186
 ---

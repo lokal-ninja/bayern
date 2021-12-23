@@ -1,6 +1,6 @@
 ---
 title: Berglern
 url: /berglern/
-latitude: 48.383300000000006
-longitude: 11.933300000000001
+latitude: 48.396
+longitude: 11.922
 ---

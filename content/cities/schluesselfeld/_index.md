@@ -1,6 +1,6 @@
 ---
 title: Schlüsselfeld
 url: /schluesselfeld/
-latitude: 49.7569182
-longitude: 10.6186266
+latitude: 49.746
+longitude: 10.634
 ---

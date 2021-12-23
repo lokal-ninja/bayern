@@ -1,6 +1,6 @@
 ---
 title: Burglengenfeld
 url: /burglengenfeld/
-latitude: 49.2071077
-longitude: 12.03996
+latitude: 49.203
+longitude: 12.039
 ---

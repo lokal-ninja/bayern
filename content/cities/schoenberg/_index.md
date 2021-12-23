@@ -1,6 +1,6 @@
 ---
 title: Schönberg
 url: /schoenberg/
-latitude: 49.1620677
-longitude: 12.270377300000002
+latitude: 48.841
+longitude: 13.337
 ---

@@ -1,6 +1,6 @@
 ---
 title: Gröbenzell
 url: /groebenzell/
-latitude: 48.1943447
-longitude: 11.370776000000001
+latitude: 48.198
+longitude: 11.374
 ---

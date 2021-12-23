@@ -1,6 +1,6 @@
 ---
 title: Oberhausen
 url: /oberhausen/
-latitude: 48.394049800000005
-longitude: 10.879888000000001
+latitude: 47.789
+longitude: 11.14
 ---

@@ -1,6 +1,6 @@
 ---
 title: Odelzhausen
 url: /odelzhausen/
-latitude: 48.309803300000006
-longitude: 11.2005519
+latitude: 48.303
+longitude: 11.206
 ---

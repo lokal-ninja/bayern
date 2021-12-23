@@ -1,6 +1,6 @@
 ---
 title: Monheim
 url: /monheim/
-latitude: 48.8423558
-longitude: 10.8562708
+latitude: 48.842
+longitude: 10.857
 ---

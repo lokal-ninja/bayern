@@ -1,6 +1,6 @@
 ---
 title: Regen
 url: /regen/
-latitude: 48.9700842
-longitude: 13.126263100000001
+latitude: 48.966
+longitude: 13.136
 ---

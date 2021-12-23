@@ -1,6 +1,6 @@
 ---
 title: Železná Ruda
 url: /zelezna-ruda/
-latitude: 
-longitude: 
+latitude: 49.123
+longitude: 13.207
 ---

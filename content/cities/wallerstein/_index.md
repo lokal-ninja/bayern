@@ -1,6 +1,6 @@
 ---
 title: Wallerstein
 url: /wallerstein/
-latitude: 48.8870756
-longitude: 10.476036
+latitude: 48.886
+longitude: 10.475
 ---

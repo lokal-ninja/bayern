@@ -1,6 +1,6 @@
 ---
 title: Wittighausen
 url: /wittighausen/
-latitude: 50.1273684
-longitude: 10.096031400000001
+latitude: 49.621
+longitude: 9.851
 ---

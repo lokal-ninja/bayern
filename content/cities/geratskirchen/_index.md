@@ -1,6 +1,6 @@
 ---
 title: Geratskirchen
 url: /geratskirchen/
-latitude: 48.3375764
-longitude: 12.6620784
+latitude: 48.338
+longitude: 12.664
 ---

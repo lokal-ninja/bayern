@@ -1,6 +1,6 @@
 ---
 title: Thüngersheim
 url: /thuengersheim/
-latitude: 49.880470900000006
-longitude: 9.8439935
+latitude: 49.884
+longitude: 9.847
 ---

@@ -1,6 +1,6 @@
 ---
 title: Untergriesbach
 url: /untergriesbach/
-latitude: 48.5735316
-longitude: 13.6678774
+latitude: 48.573
+longitude: 13.682
 ---

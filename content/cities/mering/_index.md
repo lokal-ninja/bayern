@@ -1,6 +1,6 @@
 ---
 title: Mering
 url: /mering/
-latitude: 48.2667
-longitude: 10.9833
+latitude: 48.273
+longitude: 10.984
 ---

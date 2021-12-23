@@ -1,6 +1,6 @@
 ---
 title: Stierhöfstetten
 url: /stierhoefstetten/
-latitude: 49.7243817
-longitude: 10.4108924
+latitude: 49.724
+longitude: 10.412
 ---

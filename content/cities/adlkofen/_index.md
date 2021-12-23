@@ -1,6 +1,6 @@
 ---
 title: Adlkofen
 url: /adlkofen/
-latitude: 48.623347700000004
-longitude: 12.599265500000001
+latitude: 48.565
+longitude: 12.295
 ---

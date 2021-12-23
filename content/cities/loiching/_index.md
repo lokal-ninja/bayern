@@ -1,6 +1,6 @@
 ---
 title: Loiching
 url: /loiching/
-latitude: 48.620725300000004
-longitude: 12.4308557
+latitude: 48.629
+longitude: 12.435
 ---

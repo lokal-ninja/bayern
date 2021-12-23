@@ -1,6 +1,6 @@
 ---
 title: Stockstadt am Main
 url: /stockstadt-am-main/
-latitude: 49.977751500000004
-longitude: 9.0505001
+latitude: 49.96
+longitude: 9.08
 ---

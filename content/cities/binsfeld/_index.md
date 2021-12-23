@@ -1,6 +1,6 @@
 ---
 title: Binsfeld
 url: /binsfeld/
-latitude: 49.949784
-longitude: 9.8871181
+latitude: 49.951
+longitude: 9.887
 ---

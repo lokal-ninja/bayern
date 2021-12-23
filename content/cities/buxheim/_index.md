@@ -1,6 +1,6 @@
 ---
 title: Buxheim
 url: /buxheim/
-latitude: 48.804591800000004
-longitude: 11.291409100000001
+latitude: 48.807
+longitude: 11.289
 ---

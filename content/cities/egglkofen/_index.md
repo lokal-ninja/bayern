@@ -1,6 +1,6 @@
 ---
 title: Egglkofen
 url: /egglkofen/
-latitude: 48.394858400000004
-longitude: 12.4513181
+latitude: 48.395
+longitude: 12.45
 ---

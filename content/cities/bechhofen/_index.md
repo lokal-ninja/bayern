@@ -1,6 +1,6 @@
 ---
 title: Bechhofen
 url: /bechhofen/
-latitude: 49.2628386
-longitude: 10.788417
+latitude: 49.139
+longitude: 10.542
 ---

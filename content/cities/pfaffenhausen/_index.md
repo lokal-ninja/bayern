@@ -1,6 +1,6 @@
 ---
 title: Pfaffenhausen
 url: /pfaffenhausen/
-latitude: 48.119764800000006
-longitude: 10.454465
+latitude: 48.12
+longitude: 10.456
 ---

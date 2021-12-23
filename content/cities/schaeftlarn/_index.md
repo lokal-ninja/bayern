@@ -1,6 +1,6 @@
 ---
 title: Schäftlarn
 url: /schaeftlarn/
-latitude: 47.979677
-longitude: 11.4664602
+latitude: 47.992
+longitude: 11.453
 ---

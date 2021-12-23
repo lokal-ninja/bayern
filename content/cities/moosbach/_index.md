@@ -1,6 +1,6 @@
 ---
 title: Moosbach
 url: /moosbach/
-latitude: 47.954622
-longitude: 10.2425229
+latitude: 49.591
+longitude: 12.41
 ---

@@ -1,6 +1,6 @@
 ---
 title: Mömbris
 url: /moembris/
-latitude: 50.0701054
-longitude: 9.159717200000001
+latitude: 50.086
+longitude: 9.152
 ---

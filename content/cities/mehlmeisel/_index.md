@@ -1,6 +1,6 @@
 ---
 title: Mehlmeisel
 url: /mehlmeisel/
-latitude: 49.976207900000006
-longitude: 11.856859
+latitude: 49.977
+longitude: 11.867
 ---

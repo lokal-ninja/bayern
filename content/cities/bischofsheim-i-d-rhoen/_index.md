@@ -1,6 +1,6 @@
 ---
 title: Bischofsheim i.d.Rhön
 url: /bischofsheim-i-d-rhoen/
-latitude: 
-longitude: 
+latitude: 50.401
+longitude: 10.016
 ---

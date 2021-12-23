@@ -1,6 +1,6 @@
 ---
 title: Bruckmühl
 url: /bruckmuehl/
-latitude: 48.583549100000006
-longitude: 12.6194641
+latitude: 47.877
+longitude: 11.934
 ---

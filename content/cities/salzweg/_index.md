@@ -1,6 +1,6 @@
 ---
 title: Salzweg
 url: /salzweg/
-latitude: 48.6150777
-longitude: 13.4813577
+latitude: 48.621
+longitude: 13.477
 ---

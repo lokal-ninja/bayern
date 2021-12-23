@@ -1,6 +1,6 @@
 ---
 title: Keidenzell
 url: /keidenzell/
-latitude: 49.467502800000005
-longitude: 10.7756893
+latitude: 49.468
+longitude: 10.774
 ---

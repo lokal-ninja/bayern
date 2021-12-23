@@ -1,6 +1,6 @@
 ---
 title: Wertingen
 url: /wertingen/
-latitude: 
-longitude: 
+latitude: 48.561
+longitude: 10.683
 ---

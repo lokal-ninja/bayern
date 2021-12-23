@@ -1,6 +1,6 @@
 ---
 title: Frauenchiemsee
 url: /frauenchiemsee/
-latitude: 
-longitude: 
+latitude: 47.872
+longitude: 12.426
 ---

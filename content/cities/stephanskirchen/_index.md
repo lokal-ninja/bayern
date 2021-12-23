@@ -1,6 +1,6 @@
 ---
 title: Stephanskirchen
 url: /stephanskirchen/
-latitude: 47.8554023
-longitude: 12.1843546
+latitude: 47.859
+longitude: 12.17
 ---

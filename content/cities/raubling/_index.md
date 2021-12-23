@@ -1,6 +1,6 @@
 ---
 title: Raubling
 url: /raubling/
-latitude: 
-longitude: 
+latitude: 47.769
+longitude: 12.11
 ---

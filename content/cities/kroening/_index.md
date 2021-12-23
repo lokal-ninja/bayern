@@ -1,6 +1,6 @@
 ---
 title: Kröning
 url: /kroening/
-latitude: 48.547568500000004
-longitude: 12.337101200000001
+latitude: 48.546
+longitude: 12.359
 ---

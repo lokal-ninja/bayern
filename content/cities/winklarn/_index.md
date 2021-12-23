@@ -1,6 +1,6 @@
 ---
 title: Winklarn
 url: /winklarn/
-latitude: 49.426374100000004
-longitude: 12.4803096
+latitude: 49.423
+longitude: 12.481
 ---

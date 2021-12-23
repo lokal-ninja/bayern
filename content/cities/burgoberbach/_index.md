@@ -1,6 +1,6 @@
 ---
 title: Burgoberbach
 url: /burgoberbach/
-latitude: 49.2382806
-longitude: 10.591769900000001
+latitude: 49.242
+longitude: 10.605
 ---

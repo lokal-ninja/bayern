@@ -1,6 +1,6 @@
 ---
 title: Wiesau
 url: /wiesau/
-latitude: 49.9107433
-longitude: 12.1845209
+latitude: 49.89
+longitude: 12.197
 ---

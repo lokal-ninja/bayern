@@ -1,6 +1,6 @@
 ---
 title: Eitting
 url: /eitting/
-latitude: 48.5052393
-longitude: 12.908452700000002
+latitude: 48.359
+longitude: 11.89
 ---

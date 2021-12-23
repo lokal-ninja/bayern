@@ -1,6 +1,6 @@
 ---
 title: Bamberg
 url: /bamberg/
-latitude: 
-longitude: 
+latitude: 49.879
+longitude: 10.92
 ---

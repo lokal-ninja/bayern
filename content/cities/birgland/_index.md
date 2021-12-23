@@ -1,6 +1,6 @@
 ---
 title: Birgland
 url: /birgland/
-latitude: 
-longitude: 
+latitude: 49.439
+longitude: 11.617
 ---

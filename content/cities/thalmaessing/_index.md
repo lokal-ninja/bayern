@@ -1,6 +1,6 @@
 ---
 title: Thalmässing
 url: /thalmaessing/
-latitude: 49.0879604
-longitude: 11.219959300000001
+latitude: 49.109
+longitude: 11.19
 ---

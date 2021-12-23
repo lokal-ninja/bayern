@@ -1,6 +1,6 @@
 ---
 title: Aying
 url: /aying/
-latitude: 
-longitude: 
+latitude: 47.972
+longitude: 11.767
 ---

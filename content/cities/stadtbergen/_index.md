@@ -1,6 +1,6 @@
 ---
 title: Stadtbergen
 url: /stadtbergen/
-latitude: 
-longitude: 
+latitude: 48.364
+longitude: 10.85
 ---

@@ -1,6 +1,6 @@
 ---
 title: Weihenzell
 url: /weihenzell/
-latitude: 
-longitude: 
+latitude: 49.363
+longitude: 10.617
 ---

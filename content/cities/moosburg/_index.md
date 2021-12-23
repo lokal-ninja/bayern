@@ -1,6 +1,6 @@
 ---
 title: Moosburg
 url: /moosburg/
-latitude: 
-longitude: 
+latitude: 48.462
+longitude: 11.95
 ---

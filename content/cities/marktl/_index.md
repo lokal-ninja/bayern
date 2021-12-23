@@ -1,6 +1,6 @@
 ---
 title: Marktl
 url: /marktl/
-latitude: 48.2537608
-longitude: 12.841732700000001
+latitude: 48.252
+longitude: 12.84
 ---

@@ -1,6 +1,6 @@
 ---
 title: Miltach
 url: /miltach/
-latitude: 49.1581521
-longitude: 12.7683312
+latitude: 49.158
+longitude: 12.767
 ---

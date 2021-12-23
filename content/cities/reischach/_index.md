@@ -1,6 +1,6 @@
 ---
 title: Reischach
 url: /reischach/
-latitude: 48.293393800000004
-longitude: 12.72391
+latitude: 48.29
+longitude: 12.727
 ---

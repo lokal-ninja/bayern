@@ -1,6 +1,6 @@
 ---
 title: Teisendorf
 url: /teisendorf/
-latitude: 47.849038
-longitude: 12.821835700000001
+latitude: 47.831
+longitude: 12.747
 ---

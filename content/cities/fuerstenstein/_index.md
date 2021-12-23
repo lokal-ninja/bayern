@@ -1,6 +1,6 @@
 ---
 title: Fürstenstein
 url: /fuerstenstein/
-latitude: 48.7190844
-longitude: 13.330968700000001
+latitude: 48.72
+longitude: 13.329
 ---

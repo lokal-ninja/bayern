@@ -1,6 +1,6 @@
 ---
 title: Unterreit
 url: /unterreit/
-latitude: 47.914277500000004
-longitude: 11.826692000000001
+latitude: 48.128
+longitude: 12.318
 ---

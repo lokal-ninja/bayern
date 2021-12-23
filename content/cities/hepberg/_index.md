@@ -1,6 +1,6 @@
 ---
 title: Hepberg
 url: /hepberg/
-latitude: 
-longitude: 
+latitude: 48.822
+longitude: 11.461
 ---

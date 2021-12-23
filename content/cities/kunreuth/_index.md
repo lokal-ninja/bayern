@@ -1,6 +1,6 @@
 ---
 title: Kunreuth
 url: /kunreuth/
-latitude: 49.6820273
-longitude: 11.1435802
+latitude: 49.682
+longitude: 11.143
 ---

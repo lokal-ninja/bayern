@@ -1,6 +1,6 @@
 ---
 title: Neubeuern
 url: /neubeuern/
-latitude: 47.7734832
-longitude: 12.138953500000001
+latitude: 47.78
+longitude: 12.142
 ---

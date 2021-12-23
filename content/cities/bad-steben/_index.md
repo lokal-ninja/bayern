@@ -1,6 +1,6 @@
 ---
 title: Bad Steben
 url: /bad-steben/
-latitude: 50.3662581
-longitude: 11.643718900000001
+latitude: 50.365
+longitude: 11.642
 ---

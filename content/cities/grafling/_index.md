@@ -1,6 +1,6 @@
 ---
 title: Grafling
 url: /grafling/
-latitude: 48.788562000000006
-longitude: 12.722476700000001
+latitude: 48.894
+longitude: 12.975
 ---

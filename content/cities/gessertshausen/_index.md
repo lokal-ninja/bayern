@@ -1,6 +1,6 @@
 ---
 title: Gessertshausen
 url: /gessertshausen/
-latitude: 48.329698
-longitude: 10.7309645
+latitude: 48.332
+longitude: 10.734
 ---

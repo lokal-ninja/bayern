@@ -1,6 +1,6 @@
 ---
 title: Prien a. Ch.
 url: /prien-a-ch/
-latitude: 
-longitude: 
+latitude: 47.853
+longitude: 12.347
 ---

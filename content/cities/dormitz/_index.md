@@ -1,6 +1,6 @@
 ---
 title: Dormitz
 url: /dormitz/
-latitude: 49.5960879
-longitude: 11.1210915
+latitude: 49.596
+longitude: 11.115
 ---

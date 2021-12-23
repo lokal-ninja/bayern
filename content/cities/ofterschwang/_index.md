@@ -1,6 +1,6 @@
 ---
 title: Ofterschwang
 url: /ofterschwang/
-latitude: 47.496559100000006
-longitude: 10.237896800000001
+latitude: 47.494
+longitude: 10.235
 ---

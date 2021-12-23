@@ -1,6 +1,6 @@
 ---
 title: Oberschweinbach
 url: /oberschweinbach/
-latitude: 48.238519600000004
-longitude: 11.157716800000001
+latitude: 48.239
+longitude: 11.162
 ---

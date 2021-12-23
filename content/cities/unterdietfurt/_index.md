@@ -1,6 +1,6 @@
 ---
 title: Unterdietfurt
 url: /unterdietfurt/
-latitude: 48.3879638
-longitude: 12.659400600000001
+latitude: 48.394
+longitude: 12.667
 ---

@@ -1,6 +1,6 @@
 ---
 title: Meitingen
 url: /meitingen/
-latitude: 48.550000000000004
-longitude: 10.850000000000001
+latitude: 48.541
+longitude: 10.855
 ---

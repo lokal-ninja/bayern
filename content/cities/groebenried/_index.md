@@ -1,6 +1,6 @@
 ---
 title: Gröbenried
 url: /groebenried/
-latitude: 48.2263615
-longitude: 11.4267847
+latitude: 48.228
+longitude: 11.432
 ---

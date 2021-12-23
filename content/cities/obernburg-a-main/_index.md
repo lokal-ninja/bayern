@@ -1,6 +1,6 @@
 ---
 title: Obernburg a.Main
 url: /obernburg-a-main/
-latitude: 
-longitude: 
+latitude: 49.841
+longitude: 9.095
 ---

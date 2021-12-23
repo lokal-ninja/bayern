@@ -1,6 +1,6 @@
 ---
 title: Emmerting
 url: /emmerting/
-latitude: 48.2004242
-longitude: 12.7666283
+latitude: 48.196
+longitude: 12.765
 ---

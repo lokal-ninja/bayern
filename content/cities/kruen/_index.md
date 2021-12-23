@@ -1,6 +1,6 @@
 ---
 title: Krün
 url: /kruen/
-latitude: 
-longitude: 
+latitude: 47.507
+longitude: 11.278
 ---

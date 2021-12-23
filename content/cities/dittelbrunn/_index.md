@@ -1,6 +1,6 @@
 ---
 title: Dittelbrunn
 url: /dittelbrunn/
-latitude: 50.0777845
-longitude: 10.2206431
+latitude: 50.069
+longitude: 10.223
 ---

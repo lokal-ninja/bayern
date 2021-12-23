@@ -1,6 +1,6 @@
 ---
 title: Wiggensbach
 url: /wiggensbach/
-latitude: 47.747241900000006
-longitude: 10.2346786
+latitude: 47.727
+longitude: 10.254
 ---

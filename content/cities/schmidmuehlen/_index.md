@@ -1,6 +1,6 @@
 ---
 title: Schmidmühlen
 url: /schmidmuehlen/
-latitude: 49.2704499
-longitude: 11.924350100000002
+latitude: 49.274
+longitude: 11.935
 ---

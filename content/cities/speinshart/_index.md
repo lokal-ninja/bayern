@@ -1,6 +1,6 @@
 ---
 title: Speinshart
 url: /speinshart/
-latitude: 49.7871778
-longitude: 11.820325200000001
+latitude: 49.788
+longitude: 11.82
 ---

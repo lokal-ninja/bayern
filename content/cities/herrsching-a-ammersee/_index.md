@@ -1,6 +1,6 @@
 ---
 title: Herrsching a. Ammersee
 url: /herrsching-a-ammersee/
-latitude: 
-longitude: 
+latitude: 47.996
+longitude: 11.172
 ---

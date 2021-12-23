@@ -1,6 +1,6 @@
 ---
 title: Lisberg
 url: /lisberg/
-latitude: 49.8821303
-longitude: 10.7296185
+latitude: 49.895
+longitude: 10.731
 ---

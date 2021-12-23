@@ -1,6 +1,6 @@
 ---
 title: Tapfheim - Rettingen
 url: /tapfheim-rettingen/
-latitude: 
-longitude: 
+latitude: 48.665
+longitude: 10.723
 ---

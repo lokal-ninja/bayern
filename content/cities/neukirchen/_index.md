@@ -1,6 +1,6 @@
 ---
 title: Neukirchen
 url: /neukirchen/
-latitude: 48.1551501
-longitude: 12.1103894
+latitude: 48.562
+longitude: 10.965
 ---

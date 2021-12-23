@@ -1,6 +1,6 @@
 ---
 title: Ruhpolding
 url: /ruhpolding/
-latitude: 
-longitude: 
+latitude: 47.76
+longitude: 12.65
 ---

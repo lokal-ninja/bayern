@@ -1,6 +1,6 @@
 ---
 title: Höchstädt an der Donau
 url: /hoechstaedt-an-der-donau/
-latitude: 48.6114313
-longitude: 10.5670984
+latitude: 48.611
+longitude: 10.565
 ---

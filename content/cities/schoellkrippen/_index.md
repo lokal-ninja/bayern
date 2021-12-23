@@ -1,6 +1,6 @@
 ---
 title: Schöllkrippen
 url: /schoellkrippen/
-latitude: 50.084548100000006
-longitude: 9.2462316
+latitude: 50.095
+longitude: 9.239
 ---

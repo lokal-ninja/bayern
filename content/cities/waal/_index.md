@@ -1,6 +1,6 @@
 ---
 title: Waal
 url: /waal/
-latitude: 48.600176100000006
-longitude: 11.5447044
+latitude: 47.996
+longitude: 10.776
 ---

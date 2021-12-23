@@ -1,6 +1,6 @@
 ---
 title: Gerolzhofen
 url: /gerolzhofen/
-latitude: 
-longitude: 
+latitude: 49.896
+longitude: 10.343
 ---

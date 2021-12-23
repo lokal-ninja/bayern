@@ -1,6 +1,6 @@
 ---
 title: Retzstadt
 url: /retzstadt/
-latitude: 49.9125
-longitude: 9.88194
+latitude: 49.911
+longitude: 9.883
 ---

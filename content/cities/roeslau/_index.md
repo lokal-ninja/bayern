@@ -1,6 +1,6 @@
 ---
 title: Röslau
 url: /roeslau/
-latitude: 50.0856342
-longitude: 11.9733918
+latitude: 50.084
+longitude: 11.972
 ---

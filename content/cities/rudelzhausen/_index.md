@@ -1,6 +1,6 @@
 ---
 title: Rudelzhausen
 url: /rudelzhausen/
-latitude: 48.590079800000005
-longitude: 11.768030900000001
+latitude: 48.583
+longitude: 11.802
 ---

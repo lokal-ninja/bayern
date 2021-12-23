@@ -1,6 +1,6 @@
 ---
 title: Rohr
 url: /rohr/
-latitude: 47.8307298
-longitude: 10.430196500000001
+latitude: 49.342
+longitude: 10.884
 ---

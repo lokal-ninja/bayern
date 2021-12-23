@@ -1,6 +1,6 @@
 ---
 title: Oberaudorf
 url: /oberaudorf/
-latitude: 47.6485636
-longitude: 12.171988200000001
+latitude: 47.652
+longitude: 12.173
 ---

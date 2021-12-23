@@ -1,6 +1,6 @@
 ---
 title: Kraiburg
 url: /kraiburg/
-latitude: 
-longitude: 
+latitude: 48.181
+longitude: 12.429
 ---

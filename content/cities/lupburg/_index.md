@@ -1,6 +1,6 @@
 ---
 title: Lupburg
 url: /lupburg/
-latitude: 49.155529200000004
-longitude: 11.752935
+latitude: 49.175
+longitude: 11.731
 ---

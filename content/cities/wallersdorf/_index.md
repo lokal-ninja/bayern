@@ -1,6 +1,6 @@
 ---
 title: Wallersdorf
 url: /wallersdorf/
-latitude: 49.2712323
-longitude: 10.612236900000001
+latitude: 48.735
+longitude: 12.719
 ---

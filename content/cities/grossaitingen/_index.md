@@ -1,6 +1,6 @@
 ---
 title: Großaitingen
 url: /grossaitingen/
-latitude: 48.228190500000004
-longitude: 10.7814824
+latitude: 48.227
+longitude: 10.781
 ---

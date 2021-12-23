@@ -1,6 +1,6 @@
 ---
 title: Gersthofen
 url: /gersthofen/
-latitude: 
-longitude: 
+latitude: 48.41
+longitude: 10.88
 ---

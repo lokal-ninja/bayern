@@ -1,6 +1,6 @@
 ---
 title: Pappenheim
 url: /pappenheim/
-latitude: 48.934784
-longitude: 10.974492900000001
+latitude: 48.926
+longitude: 10.985
 ---

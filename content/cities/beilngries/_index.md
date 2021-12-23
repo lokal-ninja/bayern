@@ -1,6 +1,6 @@
 ---
 title: Beilngries
 url: /beilngries/
-latitude: 49.035279
-longitude: 11.473381100000001
+latitude: 49.036
+longitude: 11.464
 ---

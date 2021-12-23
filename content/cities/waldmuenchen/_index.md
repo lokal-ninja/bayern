@@ -1,6 +1,6 @@
 ---
 title: Waldmünchen
 url: /waldmuenchen/
-latitude: 49.3775728
-longitude: 12.7062127
+latitude: 49.377
+longitude: 12.699
 ---

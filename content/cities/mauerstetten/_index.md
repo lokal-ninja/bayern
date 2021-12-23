@@ -1,6 +1,6 @@
 ---
 title: Mauerstetten
 url: /mauerstetten/
-latitude: 48.162939
-longitude: 11.8395021
+latitude: 47.905
+longitude: 10.667
 ---

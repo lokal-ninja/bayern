@@ -1,6 +1,6 @@
 ---
 title: Egenhofen
 url: /egenhofen/
-latitude: 48.359166200000004
-longitude: 10.3617298
+latitude: 48.283
+longitude: 11.163
 ---

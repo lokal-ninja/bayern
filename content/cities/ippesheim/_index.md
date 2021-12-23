@@ -1,6 +1,6 @@
 ---
 title: Ippesheim
 url: /ippesheim/
-latitude: 49.6017778
-longitude: 10.2261272
+latitude: 49.586
+longitude: 10.175
 ---

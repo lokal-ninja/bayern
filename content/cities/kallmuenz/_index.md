@@ -1,6 +1,6 @@
 ---
 title: Kallmünz
 url: /kallmuenz/
-latitude: 49.160918300000006
-longitude: 11.9565809
+latitude: 49.161
+longitude: 11.95
 ---

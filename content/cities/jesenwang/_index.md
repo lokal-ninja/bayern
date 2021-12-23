@@ -1,6 +1,6 @@
 ---
 title: Jesenwang
 url: /jesenwang/
-latitude: 48.1673595
-longitude: 11.133622
+latitude: 48.166
+longitude: 11.132
 ---

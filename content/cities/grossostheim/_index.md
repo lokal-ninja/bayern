@@ -1,6 +1,6 @@
 ---
 title: Großostheim
 url: /grossostheim/
-latitude: 49.9207462
-longitude: 9.075590400000001
+latitude: 49.909
+longitude: 9.06
 ---

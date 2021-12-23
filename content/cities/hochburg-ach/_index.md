@@ -1,6 +1,6 @@
 ---
 title: Hochburg-Ach
 url: /hochburg-ach/
-latitude: 
-longitude: 
+latitude: 48.158
+longitude: 12.835
 ---

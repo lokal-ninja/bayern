@@ -1,6 +1,6 @@
 ---
 title: Weismain
 url: /weismain/
-latitude: 50.085000300000004
-longitude: 11.2400354
+latitude: 50.035
+longitude: 11.29
 ---

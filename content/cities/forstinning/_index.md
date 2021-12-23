@@ -1,6 +1,6 @@
 ---
 title: Forstinning
 url: /forstinning/
-latitude: 48.1682027
-longitude: 11.9124301
+latitude: 48.169
+longitude: 11.913
 ---

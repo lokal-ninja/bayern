@@ -1,6 +1,6 @@
 ---
 title: Unterföhring
 url: /unterfoehring/
-latitude: 48.194982800000005
-longitude: 11.6449481
+latitude: 48.19
+longitude: 11.643
 ---

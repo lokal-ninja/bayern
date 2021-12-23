@@ -1,6 +1,6 @@
 ---
 title: Reut
 url: /reut/
-latitude: 48.3116216
-longitude: 12.9414546
+latitude: 48.273
+longitude: 12.936
 ---

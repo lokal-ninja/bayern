@@ -1,6 +1,6 @@
 ---
 title: Wiesenthau
 url: /wiesenthau/
-latitude: 49.7111819
-longitude: 11.1373566
+latitude: 49.714
+longitude: 11.136
 ---

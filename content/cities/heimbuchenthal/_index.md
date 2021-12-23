@@ -1,6 +1,6 @@
 ---
 title: Heimbuchenthal
 url: /heimbuchenthal/
-latitude: 49.883525500000005
-longitude: 9.291592000000001
+latitude: 49.884
+longitude: 9.294
 ---

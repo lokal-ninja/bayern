@@ -1,6 +1,6 @@
 ---
 title: Riedlhütte
 url: /riedlhuette/
-latitude: 48.907778900000004
-longitude: 13.3815091
+latitude: 48.905
+longitude: 13.393
 ---

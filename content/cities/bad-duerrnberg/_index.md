@@ -1,6 +1,6 @@
 ---
 title: Bad Duerrnberg
 url: /bad-duerrnberg/
-latitude: 
-longitude: 
+latitude: 47.667
+longitude: 13.09
 ---

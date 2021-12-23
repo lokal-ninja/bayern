@@ -1,6 +1,6 @@
 ---
 title: Trunkelsberg
 url: /trunkelsberg/
-latitude: 48.003575000000005
-longitude: 10.2197519
+latitude: 48.004
+longitude: 10.219
 ---

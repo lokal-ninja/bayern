@@ -1,6 +1,6 @@
 ---
 title: Roßtal
 url: /rosstal/
-latitude: 
-longitude: 
+latitude: 49.399
+longitude: 10.887
 ---

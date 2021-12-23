@@ -1,6 +1,6 @@
 ---
 title: Salz
 url: /salz/
-latitude: 
-longitude: 
+latitude: 50.306
+longitude: 10.197
 ---

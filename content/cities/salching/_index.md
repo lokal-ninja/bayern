@@ -1,6 +1,6 @@
 ---
 title: Salching
 url: /salching/
-latitude: 48.809286900000004
-longitude: 12.5696609
+latitude: 48.81
+longitude: 12.565
 ---

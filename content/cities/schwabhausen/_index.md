@@ -1,6 +1,6 @@
 ---
 title: Schwabhausen
 url: /schwabhausen/
-latitude: 48.3027935
-longitude: 11.3591367
+latitude: 48.301
+longitude: 11.363
 ---

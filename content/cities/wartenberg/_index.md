@@ -1,6 +1,6 @@
 ---
 title: Wartenberg
 url: /wartenberg/
-latitude: 48.4043903
-longitude: 11.9885652
+latitude: 48.404
+longitude: 11.99
 ---

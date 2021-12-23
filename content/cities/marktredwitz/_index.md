@@ -1,6 +1,6 @@
 ---
 title: Marktredwitz
 url: /marktredwitz/
-latitude: 
-longitude: 
+latitude: 50.001
+longitude: 12.088
 ---

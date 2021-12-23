@@ -1,6 +1,6 @@
 ---
 title: Fladungen
 url: /fladungen/
-latitude: 
-longitude: 
+latitude: 50.521
+longitude: 10.145
 ---

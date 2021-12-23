@@ -1,6 +1,6 @@
 ---
 title: Neusäß
 url: /neusaess/
-latitude: 
-longitude: 
+latitude: 48.375
+longitude: 10.824
 ---

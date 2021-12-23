@@ -1,6 +1,6 @@
 ---
 title: Edling
 url: /edling/
-latitude: 48.0355616
-longitude: 12.5505718
+latitude: 48.061
+longitude: 12.171
 ---

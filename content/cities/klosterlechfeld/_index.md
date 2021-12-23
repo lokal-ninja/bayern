@@ -1,6 +1,6 @@
 ---
 title: Klosterlechfeld
 url: /klosterlechfeld/
-latitude: 
-longitude: 
+latitude: 48.158
+longitude: 10.831
 ---

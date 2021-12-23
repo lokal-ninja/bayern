@@ -1,6 +1,6 @@
 ---
 title: Steinberg am See
 url: /steinberg-am-see/
-latitude: 49.276252400000004
-longitude: 12.1801423
+latitude: 49.277
+longitude: 12.181
 ---

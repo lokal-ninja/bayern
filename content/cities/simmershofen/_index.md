@@ -1,6 +1,6 @@
 ---
 title: Simmershofen
 url: /simmershofen/
-latitude: 49.5326625
-longitude: 10.1267651
+latitude: 49.509
+longitude: 10.147
 ---

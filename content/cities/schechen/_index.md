@@ -1,6 +1,6 @@
 ---
 title: Schechen
 url: /schechen/
-latitude: 47.8079927
-longitude: 11.337244700000001
+latitude: 47.937
+longitude: 12.134
 ---

@@ -1,6 +1,6 @@
 ---
 title: Kastl
 url: /kastl/
-latitude: 49.366687600000006
-longitude: 11.6834293
+latitude: 48.195
+longitude: 12.697
 ---

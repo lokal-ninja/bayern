@@ -1,6 +1,6 @@
 ---
 title: Nittendorf
 url: /nittendorf/
-latitude: 49.025001200000005
-longitude: 11.9593734
+latitude: 49.014
+longitude: 11.928
 ---

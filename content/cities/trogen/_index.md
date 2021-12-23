@@ -1,6 +1,6 @@
 ---
 title: Trogen
 url: /trogen/
-latitude: 50.3639129
-longitude: 11.953160800000001
+latitude: 50.363
+longitude: 11.949
 ---

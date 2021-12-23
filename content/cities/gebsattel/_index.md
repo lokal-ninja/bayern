@@ -1,6 +1,6 @@
 ---
 title: Gebsattel
 url: /gebsattel/
-latitude: 
-longitude: 
+latitude: 49.331
+longitude: 10.197
 ---

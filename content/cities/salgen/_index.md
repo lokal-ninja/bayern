@@ -1,6 +1,6 @@
 ---
 title: Salgen
 url: /salgen/
-latitude: 48.1269871
-longitude: 10.4771031
+latitude: 48.1
+longitude: 10.48
 ---

@@ -1,6 +1,6 @@
 ---
 title: Runding
 url: /runding/
-latitude: 48.6951991
-longitude: 12.3076246
+latitude: 49.215
+longitude: 12.764
 ---

@@ -1,6 +1,6 @@
 ---
 title: Lenggries
 url: /lenggries/
-latitude: 47.6831625
-longitude: 11.5763967
+latitude: 47.681
+longitude: 11.57
 ---

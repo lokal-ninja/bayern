@@ -1,6 +1,6 @@
 ---
 title: Thierhaupten
 url: /thierhaupten/
-latitude: 48.5681767
-longitude: 10.905333200000001
+latitude: 48.564
+longitude: 10.91
 ---

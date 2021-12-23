@@ -1,6 +1,6 @@
 ---
 title: Lappersdorf
 url: /lappersdorf/
-latitude: 
-longitude: 
+latitude: 49.074
+longitude: 12.054
 ---

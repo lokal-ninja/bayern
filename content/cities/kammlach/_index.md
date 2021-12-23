@@ -1,6 +1,6 @@
 ---
 title: Kammlach
 url: /kammlach/
-latitude: 48.054027700000006
-longitude: 10.4167283
+latitude: 48.054
+longitude: 10.421
 ---

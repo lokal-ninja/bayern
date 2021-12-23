@@ -1,6 +1,6 @@
 ---
 title: Kößlarn
 url: /koesslarn/
-latitude: 48.3716882
-longitude: 13.122205300000001
+latitude: 48.371
+longitude: 13.128
 ---

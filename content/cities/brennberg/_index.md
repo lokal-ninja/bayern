@@ -1,6 +1,6 @@
 ---
 title: Brennberg
 url: /brennberg/
-latitude: 48.458409
-longitude: 13.185107
+latitude: 49.077
+longitude: 12.366
 ---

@@ -1,6 +1,6 @@
 ---
 title: Bernau am Chiemsee
 url: /bernau-am-chiemsee/
-latitude: 47.8116312
-longitude: 12.3733927
+latitude: 47.814
+longitude: 12.376
 ---

@@ -1,6 +1,6 @@
 ---
 title: Mitterfirmiansreut
 url: /mitterfirmiansreut/
-latitude: 48.8936502
-longitude: 13.6500874
+latitude: 48.893
+longitude: 13.649
 ---

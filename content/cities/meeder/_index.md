@@ -1,6 +1,6 @@
 ---
 title: Meeder
 url: /meeder/
-latitude: 50.3204113
-longitude: 10.9083336
+latitude: 50.317
+longitude: 10.904
 ---

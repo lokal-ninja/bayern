@@ -1,6 +1,6 @@
 ---
 title: Pentling
 url: /pentling/
-latitude: 48.981827100000004
-longitude: 12.057942
+latitude: 48.98
+longitude: 12.066
 ---

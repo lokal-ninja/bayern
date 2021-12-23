@@ -1,6 +1,6 @@
 ---
 title: Sonnefeld
 url: /sonnefeld/
-latitude: 50.2241263
-longitude: 11.1340321
+latitude: 50.255
+longitude: 11.192
 ---

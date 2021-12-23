@@ -1,6 +1,6 @@
 ---
 title: Amerang
 url: /amerang/
-latitude: 47.9919747
-longitude: 12.3085415
+latitude: 48.002
+longitude: 12.297
 ---

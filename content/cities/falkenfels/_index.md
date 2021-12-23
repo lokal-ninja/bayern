@@ -1,6 +1,6 @@
 ---
 title: Falkenfels
 url: /falkenfels/
-latitude: 49.0060292
-longitude: 12.5945052
+latitude: 49.004
+longitude: 12.595
 ---

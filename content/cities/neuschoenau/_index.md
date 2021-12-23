@@ -1,6 +1,6 @@
 ---
 title: Neuschönau
 url: /neuschoenau/
-latitude: 48.8847072
-longitude: 13.4741152
+latitude: 48.884
+longitude: 13.478
 ---

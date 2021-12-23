@@ -1,6 +1,6 @@
 ---
 title: Putzbrunn
 url: /putzbrunn/
-latitude: 48.0753076
-longitude: 11.7156265
+latitude: 48.08
+longitude: 11.692
 ---

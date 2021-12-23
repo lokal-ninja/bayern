@@ -1,6 +1,6 @@
 ---
 title: Neualbenreuth
 url: /neualbenreuth/
-latitude: 
-longitude: 
+latitude: 49.979
+longitude: 12.444
 ---

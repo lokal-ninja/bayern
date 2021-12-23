@@ -1,6 +1,6 @@
 ---
 title: Zeilarn
 url: /zeilarn/
-latitude: 48.3006126
-longitude: 12.83895
+latitude: 48.301
+longitude: 12.838
 ---

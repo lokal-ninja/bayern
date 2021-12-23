@@ -1,6 +1,6 @@
 ---
 title: Grafrath
 url: /grafrath/
-latitude: 48.1214803
-longitude: 11.1616108
+latitude: 48.124
+longitude: 11.163
 ---

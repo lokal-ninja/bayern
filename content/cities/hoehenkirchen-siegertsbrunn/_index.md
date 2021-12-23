@@ -1,6 +1,6 @@
 ---
 title: Höhenkirchen-Siegertsbrunn
 url: /hoehenkirchen-siegertsbrunn/
-latitude: 
-longitude: 
+latitude: 48.02
+longitude: 11.724
 ---

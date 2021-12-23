@@ -1,6 +1,6 @@
 ---
 title: Langweid
 url: /langweid/
-latitude: 47.8118191
-longitude: 10.7218392
+latitude: 48.485
+longitude: 10.86
 ---

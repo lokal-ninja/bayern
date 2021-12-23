@@ -1,6 +1,6 @@
 ---
 title: Weihmichl
 url: /weihmichl/
-latitude: 48.6032092
-longitude: 12.045004200000001
+latitude: 48.617
+longitude: 11.995
 ---

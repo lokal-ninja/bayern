@@ -1,6 +1,6 @@
 ---
 title: Dachau
 url: /dachau/
-latitude: 48.2592477
-longitude: 11.4354419
+latitude: 48.243
+longitude: 11.454
 ---

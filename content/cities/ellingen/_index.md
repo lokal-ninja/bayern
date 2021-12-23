@@ -1,6 +1,6 @@
 ---
 title: Ellingen
 url: /ellingen/
-latitude: 49.0615224
-longitude: 10.9693369
+latitude: 49.072
+longitude: 10.89
 ---

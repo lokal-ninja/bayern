@@ -1,6 +1,6 @@
 ---
 title: Aystetten
 url: /aystetten/
-latitude: 
-longitude: 
+latitude: 48.405
+longitude: 10.776
 ---

@@ -1,6 +1,6 @@
 ---
 title: Siegenburg
 url: /siegenburg/
-latitude: 48.75460330000001
-longitude: 11.8492455
+latitude: 48.765
+longitude: 11.874
 ---

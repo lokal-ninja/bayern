@@ -1,6 +1,6 @@
 ---
 title: Eggenthal
 url: /eggenthal/
-latitude: 48.998489400000004
-longitude: 10.7419699
+latitude: 47.914
+longitude: 10.508
 ---

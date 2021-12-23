@@ -1,6 +1,6 @@
 ---
 title: Notzing
 url: /notzing/
-latitude: 48.9941049
-longitude: 12.75671
+latitude: 48.305
+longitude: 11.849
 ---

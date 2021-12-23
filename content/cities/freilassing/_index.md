@@ -1,6 +1,6 @@
 ---
 title: Freilassing
 url: /freilassing/
-latitude: 47.837803900000004
-longitude: 12.9781408
+latitude: 47.842
+longitude: 12.977
 ---

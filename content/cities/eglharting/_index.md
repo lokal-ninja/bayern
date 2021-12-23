@@ -1,6 +1,6 @@
 ---
 title: Eglharting
 url: /eglharting/
-latitude: 48.082219
-longitude: 11.858662500000001
+latitude: 48.081
+longitude: 11.862
 ---

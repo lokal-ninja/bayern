@@ -1,6 +1,6 @@
 ---
 title: Ulm
 url: /ulm/
-latitude: 
-longitude: 
+latitude: 48.363
+longitude: 9.988
 ---

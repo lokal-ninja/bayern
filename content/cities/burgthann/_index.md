@@ -1,6 +1,6 @@
 ---
 title: Burgthann
 url: /burgthann/
-latitude: 
-longitude: 
+latitude: 49.32
+longitude: 11.336
 ---

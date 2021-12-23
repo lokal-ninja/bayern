@@ -1,6 +1,6 @@
 ---
 title: Mitterteich
 url: /mitterteich/
-latitude: 49.9509605
-longitude: 12.242977100000001
+latitude: 49.944
+longitude: 12.236
 ---

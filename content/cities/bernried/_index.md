@@ -1,6 +1,6 @@
 ---
 title: Bernried
 url: /bernried/
-latitude: 47.789388300000006
-longitude: 10.796653300000001
+latitude: 48.881
+longitude: 12.923
 ---

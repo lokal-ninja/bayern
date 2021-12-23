@@ -1,6 +1,6 @@
 ---
 title: Gotteszell
 url: /gotteszell/
-latitude: 48.9556223
-longitude: 12.982399800000001
+latitude: 48.963
+longitude: 12.965
 ---

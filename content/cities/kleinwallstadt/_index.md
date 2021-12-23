@@ -1,6 +1,6 @@
 ---
 title: Kleinwallstadt
 url: /kleinwallstadt/
-latitude: 49.8738515
-longitude: 9.1688433
+latitude: 49.872
+longitude: 9.165
 ---

@@ -1,6 +1,6 @@
 ---
 title: Zapfendorf
 url: /zapfendorf/
-latitude: 50.017180100000004
-longitude: 10.931438400000001
+latitude: 50.016
+longitude: 10.936
 ---

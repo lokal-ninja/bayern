@@ -1,6 +1,6 @@
 ---
 title: Tüßling
 url: /tuessling/
-latitude: 48.2126986
-longitude: 12.6003582
+latitude: 48.216
+longitude: 12.609
 ---

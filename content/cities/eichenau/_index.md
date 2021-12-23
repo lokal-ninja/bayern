@@ -1,6 +1,6 @@
 ---
 title: Eichenau
 url: /eichenau/
-latitude: 48.172560000000004
-longitude: 11.3223214
+latitude: 48.169
+longitude: 11.323
 ---

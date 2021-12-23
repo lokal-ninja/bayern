@@ -1,6 +1,6 @@
 ---
 title: Hiltenfingen
 url: /hiltenfingen/
-latitude: 48.1620724
-longitude: 10.7194164
+latitude: 48.162
+longitude: 10.716
 ---

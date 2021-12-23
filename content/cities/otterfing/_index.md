@@ -1,6 +1,6 @@
 ---
 title: Otterfing
 url: /otterfing/
-latitude: 
-longitude: 
+latitude: 47.898
+longitude: 11.676
 ---

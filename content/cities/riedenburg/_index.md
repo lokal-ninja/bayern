@@ -1,6 +1,6 @@
 ---
 title: Riedenburg
 url: /riedenburg/
-latitude: 48.961252
-longitude: 11.685572500000001
+latitude: 48.953
+longitude: 11.731
 ---

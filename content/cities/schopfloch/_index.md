@@ -1,6 +1,6 @@
 ---
 title: Schopfloch
 url: /schopfloch/
-latitude: 49.121700100000005
-longitude: 10.3034595
+latitude: 49.121
+longitude: 10.305
 ---

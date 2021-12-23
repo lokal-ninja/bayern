@@ -1,6 +1,6 @@
 ---
 title: Bubenreuth
 url: /bubenreuth/
-latitude: 49.6277003
-longitude: 11.014338500000001
+latitude: 49.62
+longitude: 11.008
 ---

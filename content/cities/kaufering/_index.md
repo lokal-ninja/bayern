@@ -1,6 +1,6 @@
 ---
 title: Kaufering
 url: /kaufering/
-latitude: 48.0871324
-longitude: 10.860531700000001
+latitude: 48.091
+longitude: 10.857
 ---

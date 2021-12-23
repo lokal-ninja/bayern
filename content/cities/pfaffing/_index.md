@@ -1,6 +1,6 @@
 ---
 title: Pfaffing
 url: /pfaffing/
-latitude: 48.0539496
-longitude: 12.74792
+latitude: 48.08
+longitude: 12.095
 ---

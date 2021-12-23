@@ -1,6 +1,6 @@
 ---
 title: Kohlberg
 url: /kohlberg/
-latitude: 49.8947173
-longitude: 9.332113300000001
+latitude: 49.608
+longitude: 12.023
 ---

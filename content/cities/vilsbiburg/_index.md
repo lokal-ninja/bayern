@@ -1,6 +1,6 @@
 ---
 title: Vilsbiburg
 url: /vilsbiburg/
-latitude: 48.448482000000006
-longitude: 12.355795
+latitude: 48.447
+longitude: 12.358
 ---

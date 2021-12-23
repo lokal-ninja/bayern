@@ -1,6 +1,6 @@
 ---
 title: Prichsenstadt
 url: /prichsenstadt/
-latitude: 49.8181263
-longitude: 10.3513154
+latitude: 49.818
+longitude: 10.353
 ---

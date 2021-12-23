@@ -1,6 +1,6 @@
 ---
 title: Warngau
 url: /warngau/
-latitude: 
-longitude: 
+latitude: 47.863
+longitude: 11.721
 ---

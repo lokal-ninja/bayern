@@ -1,6 +1,6 @@
 ---
 title: Emtmannsberg
 url: /emtmannsberg/
-latitude: 49.8926536
-longitude: 11.645241100000002
+latitude: 49.887
+longitude: 11.662
 ---

@@ -1,6 +1,6 @@
 ---
 title: Rosenheim
 url: /rosenheim/
-latitude: 47.8539273
-longitude: 12.127262
+latitude: 47.848
+longitude: 12.09
 ---

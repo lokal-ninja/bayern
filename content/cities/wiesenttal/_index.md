@@ -1,6 +1,6 @@
 ---
 title: Wiesenttal
 url: /wiesenttal/
-latitude: 
-longitude: 
+latitude: 49.808
+longitude: 11.216
 ---

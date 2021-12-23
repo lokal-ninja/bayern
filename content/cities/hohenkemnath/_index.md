@@ -1,6 +1,6 @@
 ---
 title: Hohenkemnath
 url: /hohenkemnath/
-latitude: 49.396367100000006
-longitude: 11.7806461
+latitude: 49.396
+longitude: 11.78
 ---

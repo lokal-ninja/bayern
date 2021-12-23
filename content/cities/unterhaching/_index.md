@@ -1,6 +1,6 @@
 ---
 title: Unterhaching
 url: /unterhaching/
-latitude: 48.0662249
-longitude: 11.610224500000001
+latitude: 48.057
+longitude: 11.605
 ---

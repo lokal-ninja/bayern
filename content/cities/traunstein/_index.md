@@ -1,6 +1,6 @@
 ---
 title: Traunstein
 url: /traunstein/
-latitude: 
-longitude: 
+latitude: 47.867
+longitude: 12.63
 ---

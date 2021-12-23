@@ -1,6 +1,6 @@
 ---
 title: Röthlein
 url: /roethlein/
-latitude: 49.9833919
-longitude: 10.2161574
+latitude: 49.988
+longitude: 10.222
 ---

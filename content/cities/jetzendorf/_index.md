@@ -1,6 +1,6 @@
 ---
 title: Jetzendorf
 url: /jetzendorf/
-latitude: 48.4332797
-longitude: 11.4186595
+latitude: 48.435
+longitude: 11.418
 ---

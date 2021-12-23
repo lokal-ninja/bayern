@@ -1,6 +1,6 @@
 ---
 title: Spiegelau
 url: /spiegelau/
-latitude: 48.913487200000006
-longitude: 13.353879000000001
+latitude: 48.917
+longitude: 13.356
 ---

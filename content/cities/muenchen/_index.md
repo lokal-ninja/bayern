@@ -1,6 +1,6 @@
 ---
 title: München
 url: /muenchen/
-latitude: 
-longitude: 
+latitude: 48.125
+longitude: 11.655
 ---

@@ -1,6 +1,6 @@
 ---
 title: Mähring
 url: /maehring/
-latitude: 49.99781
-longitude: 11.8161158
+latitude: 49.884
+longitude: 12.41
 ---

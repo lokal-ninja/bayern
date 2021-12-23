@@ -1,6 +1,6 @@
 ---
 title: Miesbach
 url: /miesbach/
-latitude: 47.790025
-longitude: 11.833541700000001
+latitude: 47.788
+longitude: 11.832
 ---

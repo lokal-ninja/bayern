@@ -1,6 +1,6 @@
 ---
 title: Ellzee
 url: /ellzee/
-latitude: 48.3396204
-longitude: 10.318908
+latitude: 48.342
+longitude: 10.32
 ---

@@ -1,6 +1,6 @@
 ---
 title: Wurmsham
 url: /wurmsham/
-latitude: 48.343048800000005
-longitude: 12.3374368
+latitude: 48.375
+longitude: 12.333
 ---

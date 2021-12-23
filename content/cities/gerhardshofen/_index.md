@@ -1,6 +1,6 @@
 ---
 title: Gerhardshofen
 url: /gerhardshofen/
-latitude: 49.630236700000005
-longitude: 10.6914557
+latitude: 49.629
+longitude: 10.69
 ---

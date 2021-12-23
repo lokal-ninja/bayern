@@ -1,6 +1,6 @@
 ---
 title: Oettingen i.Bay.
 url: /oettingen-i-bay/
-latitude: 
-longitude: 
+latitude: 48.951
+longitude: 10.603
 ---

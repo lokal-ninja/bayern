@@ -1,6 +1,6 @@
 ---
 title: Oberwattenbach
 url: /oberwattenbach/
-latitude: 48.6382898
-longitude: 12.235671400000001
+latitude: 48.639
+longitude: 12.237
 ---

@@ -1,6 +1,6 @@
 ---
 title: Wallenfels
 url: /wallenfels/
-latitude: 50.2691372
-longitude: 11.4701616
+latitude: 50.309
+longitude: 11.531
 ---

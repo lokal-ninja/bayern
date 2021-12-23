@@ -1,6 +1,6 @@
 ---
 title: Kirchensittenbach
 url: /kirchensittenbach/
-latitude: 
-longitude: 
+latitude: 49.532
+longitude: 11.425
 ---

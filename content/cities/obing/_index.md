@@ -1,6 +1,6 @@
 ---
 title: Obing
 url: /obing/
-latitude: 47.9990609
-longitude: 12.405459200000001
+latitude: 48.026
+longitude: 12.37
 ---

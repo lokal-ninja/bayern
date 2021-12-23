@@ -1,6 +1,6 @@
 ---
 title: Kipfenberg
 url: /kipfenberg/
-latitude: 47.7930172
-longitude: 10.4604697
+latitude: 48.95
+longitude: 11.394
 ---

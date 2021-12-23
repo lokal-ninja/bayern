@@ -1,6 +1,6 @@
 ---
 title: Fürstenfeldbruck
 url: /fuerstenfeldbruck/
-latitude: 
-longitude: 
+latitude: 48.174
+longitude: 11.263
 ---

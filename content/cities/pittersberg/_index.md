@@ -1,6 +1,6 @@
 ---
 title: Pittersberg
 url: /pittersberg/
-latitude: 48.796595700000005
-longitude: 13.563435
+latitude: 48.796
+longitude: 13.562
 ---

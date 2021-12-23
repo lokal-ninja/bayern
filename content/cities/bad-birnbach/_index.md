@@ -1,6 +1,6 @@
 ---
 title: Bad Birnbach
 url: /bad-birnbach/
-latitude: 48.443142400000006
-longitude: 13.0893817
+latitude: 48.443
+longitude: 13.089
 ---

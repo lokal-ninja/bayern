@@ -1,6 +1,6 @@
 ---
 title: Rottendorf
 url: /rottendorf/
-latitude: 49.7913804
-longitude: 10.0246112
+latitude: 49.794
+longitude: 10.023
 ---

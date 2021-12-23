@@ -1,6 +1,6 @@
 ---
 title: Oberpleichfeld
 url: /oberpleichfeld/
-latitude: 49.8769993
-longitude: 10.086547300000001
+latitude: 49.879
+longitude: 10.09
 ---

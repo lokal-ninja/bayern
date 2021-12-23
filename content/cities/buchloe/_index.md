@@ -1,6 +1,6 @@
 ---
 title: Buchloe
 url: /buchloe/
-latitude: 48.0361382
-longitude: 10.7241879
+latitude: 48.034
+longitude: 10.728
 ---

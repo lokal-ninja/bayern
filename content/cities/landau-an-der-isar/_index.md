@@ -1,6 +1,6 @@
 ---
 title: Landau an der Isar
 url: /landau-an-der-isar/
-latitude: 48.6728826
-longitude: 12.694129100000001
+latitude: 48.681
+longitude: 12.69
 ---

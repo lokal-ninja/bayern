@@ -1,6 +1,6 @@
 ---
 title: Kürnach
 url: /kuernach/
-latitude: 
-longitude: 
+latitude: 49.841
+longitude: 10.017
 ---

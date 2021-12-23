@@ -1,6 +1,6 @@
 ---
 title: Guttenberg
 url: /guttenberg/
-latitude: 49.373353400000006
-longitude: 11.726412700000001
+latitude: 50.176
+longitude: 11.581
 ---

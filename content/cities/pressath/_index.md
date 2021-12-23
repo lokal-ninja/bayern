@@ -1,6 +1,6 @@
 ---
 title: Pressath
 url: /pressath/
-latitude: 49.769820300000006
-longitude: 11.9343043
+latitude: 49.769
+longitude: 11.935
 ---

@@ -1,6 +1,6 @@
 ---
 title: Atting
 url: /atting/
-latitude: 48.3522219
-longitude: 12.116993
+latitude: 48.898
+longitude: 12.489
 ---

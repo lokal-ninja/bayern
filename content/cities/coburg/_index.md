@@ -1,6 +1,6 @@
 ---
 title: Coburg
 url: /coburg/
-latitude: 50.250969100000006
-longitude: 10.986268800000001
+latitude: 50.269
+longitude: 10.965
 ---

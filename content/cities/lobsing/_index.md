@@ -1,6 +1,6 @@
 ---
 title: Lobsing
 url: /lobsing/
-latitude: 48.854235
-longitude: 11.6915282
+latitude: 48.855
+longitude: 11.687
 ---

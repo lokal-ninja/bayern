@@ -1,6 +1,6 @@
 ---
 title: Fensterbach
 url: /fensterbach/
-latitude: 
-longitude: 
+latitude: 49.401
+longitude: 12.065
 ---

@@ -1,6 +1,6 @@
 ---
 title: Woringen
 url: /woringen/
-latitude: 47.9227076
-longitude: 10.2012426
+latitude: 47.924
+longitude: 10.209
 ---

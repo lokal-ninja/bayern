@@ -1,6 +1,6 @@
 ---
 title: Lichtenberg
 url: /lichtenberg/
-latitude: 
-longitude: 
+latitude: 50.381
+longitude: 11.676
 ---

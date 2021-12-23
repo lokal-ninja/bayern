@@ -1,6 +1,6 @@
 ---
 title: Hallbergmoos
 url: /hallbergmoos/
-latitude: 48.3182064
-longitude: 11.7445128
+latitude: 48.291
+longitude: 11.72
 ---

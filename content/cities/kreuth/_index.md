@@ -1,6 +1,6 @@
 ---
 title: Kreuth
 url: /kreuth/
-latitude: 49.181636700000006
-longitude: 12.195341
+latitude: 47.686
+longitude: 11.759
 ---

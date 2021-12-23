@@ -1,6 +1,6 @@
 ---
 title: Siebnach
 url: /siebnach/
-latitude: 48.1327323
-longitude: 10.6603367
+latitude: 48.132
+longitude: 10.662
 ---

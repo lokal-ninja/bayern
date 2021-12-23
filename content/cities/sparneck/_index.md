@@ -1,6 +1,6 @@
 ---
 title: Sparneck
 url: /sparneck/
-latitude: 50.16164070000001
-longitude: 11.8404889
+latitude: 50.162
+longitude: 11.845
 ---

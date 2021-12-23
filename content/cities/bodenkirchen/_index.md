@@ -1,6 +1,6 @@
 ---
 title: Bodenkirchen
 url: /bodenkirchen/
-latitude: 48.383300000000006
-longitude: 12.3833
+latitude: 48.439
+longitude: 12.426
 ---

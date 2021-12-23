@@ -1,6 +1,6 @@
 ---
 title: Triefenstein
 url: /triefenstein/
-latitude: 49.8062593
-longitude: 9.6023753
+latitude: 49.808
+longitude: 9.611
 ---

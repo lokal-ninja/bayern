@@ -1,6 +1,6 @@
 ---
 title: Königstein
 url: /koenigstein/
-latitude: 49.6075579
-longitude: 11.6323925
+latitude: 49.58
+longitude: 11.655
 ---

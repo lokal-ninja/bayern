@@ -1,6 +1,6 @@
 ---
 title: Mühldorf an der Inn
 url: /muehldorf-an-der-inn/
-latitude: 
-longitude: 
+latitude: 48.236
+longitude: 12.547
 ---

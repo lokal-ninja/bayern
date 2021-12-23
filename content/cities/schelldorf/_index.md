@@ -1,6 +1,6 @@
 ---
 title: Schelldorf
 url: /schelldorf/
-latitude: 
-longitude: 
+latitude: 48.887
+longitude: 11.412
 ---

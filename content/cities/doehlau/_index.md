@@ -1,6 +1,6 @@
 ---
 title: Döhlau
 url: /doehlau/
-latitude: 50.282473100000004
-longitude: 11.9430683
+latitude: 50.289
+longitude: 11.944
 ---

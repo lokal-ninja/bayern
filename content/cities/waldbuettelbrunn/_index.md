@@ -1,6 +1,6 @@
 ---
 title: Waldbüttelbrunn
 url: /waldbuettelbrunn/
-latitude: 49.7867186
-longitude: 9.840336200000001
+latitude: 49.797
+longitude: 9.848
 ---

@@ -1,6 +1,6 @@
 ---
 title: Weißenhorn
 url: /weissenhorn/
-latitude: 48.3044877
-longitude: 10.160149200000001
+latitude: 48.303
+longitude: 10.16
 ---

@@ -1,6 +1,6 @@
 ---
 title: Puchheim
 url: /puchheim/
-latitude: 48.1704908
-longitude: 11.3526351
+latitude: 48.18
+longitude: 11.361
 ---

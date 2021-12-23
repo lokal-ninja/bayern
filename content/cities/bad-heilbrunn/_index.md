@@ -1,6 +1,6 @@
 ---
 title: Bad Heilbrunn
 url: /bad-heilbrunn/
-latitude: 47.7463564
-longitude: 11.455267000000001
+latitude: 47.758
+longitude: 11.439
 ---

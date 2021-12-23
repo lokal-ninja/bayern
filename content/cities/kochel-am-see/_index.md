@@ -1,6 +1,6 @@
 ---
 title: Kochel am See
 url: /kochel-am-see/
-latitude: 47.6531098
-longitude: 11.3631895
+latitude: 47.658
+longitude: 11.37
 ---

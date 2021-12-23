@@ -1,6 +1,6 @@
 ---
 title: Grafenau
 url: /grafenau/
-latitude: 48.8576397
-longitude: 13.3938284
+latitude: 48.829
+longitude: 13.414
 ---

@@ -1,6 +1,6 @@
 ---
 title: Gottfrieding
 url: /gottfrieding/
-latitude: 48.6379376
-longitude: 12.5331205
+latitude: 48.638
+longitude: 12.533
 ---

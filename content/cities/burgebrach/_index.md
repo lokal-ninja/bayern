@@ -1,6 +1,6 @@
 ---
 title: Burgebrach
 url: /burgebrach/
-latitude: 49.8268938
-longitude: 10.7424981
+latitude: 49.804
+longitude: 10.732
 ---

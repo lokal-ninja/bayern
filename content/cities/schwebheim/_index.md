@@ -1,6 +1,6 @@
 ---
 title: Schwebheim
 url: /schwebheim/
-latitude: 49.485632700000004
-longitude: 10.349149800000001
+latitude: 49.993
+longitude: 10.246
 ---

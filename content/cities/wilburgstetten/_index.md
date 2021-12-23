@@ -1,6 +1,6 @@
 ---
 title: Wilburgstetten
 url: /wilburgstetten/
-latitude: 49.0261475
-longitude: 10.392936
+latitude: 49.02
+longitude: 10.397
 ---

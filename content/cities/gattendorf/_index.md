@@ -1,6 +1,6 @@
 ---
 title: Gattendorf
 url: /gattendorf/
-latitude: 
-longitude: 
+latitude: 50.322
+longitude: 11.997
 ---

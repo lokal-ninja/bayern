@@ -1,6 +1,6 @@
 ---
 title: Schleching
 url: /schleching/
-latitude: 47.7209304
-longitude: 12.395497
+latitude: 47.709
+longitude: 12.385
 ---

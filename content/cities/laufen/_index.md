@@ -1,6 +1,6 @@
 ---
 title: Laufen
 url: /laufen/
-latitude: 
-longitude: 
+latitude: 47.933
+longitude: 12.937
 ---

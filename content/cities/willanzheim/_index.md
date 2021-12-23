@@ -1,6 +1,6 @@
 ---
 title: Willanzheim
 url: /willanzheim/
-latitude: 49.680548900000005
-longitude: 10.2323014
+latitude: 49.647
+longitude: 10.258
 ---

@@ -1,6 +1,6 @@
 ---
 title: Grainau
 url: /grainau/
-latitude: 47.4753212
-longitude: 11.025949800000001
+latitude: 47.479
+longitude: 11.055
 ---

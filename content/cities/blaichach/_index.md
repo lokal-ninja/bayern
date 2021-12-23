@@ -1,6 +1,6 @@
 ---
 title: Blaichach
 url: /blaichach/
-latitude: 47.5438625
-longitude: 10.2573304
+latitude: 47.542
+longitude: 10.258
 ---

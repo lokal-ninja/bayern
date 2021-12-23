@@ -1,5 +1,5 @@
 ---
-title: "Geers"
+title: "GEERS"
 url: /augsburg/geers/
 shop: Hörgeräte
 ---

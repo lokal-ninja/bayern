@@ -1,6 +1,6 @@
 ---
 title: Soyen
 url: /soyen/
-latitude: 48.106597300000004
-longitude: 12.2113356
+latitude: 48.094
+longitude: 12.204
 ---

@@ -1,6 +1,6 @@
 ---
 title: Egloffstein
 url: /egloffstein/
-latitude: 49.702209800000006
-longitude: 11.2580389
+latitude: 49.701
+longitude: 11.259
 ---

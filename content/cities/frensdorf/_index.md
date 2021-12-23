@@ -1,6 +1,6 @@
 ---
 title: Frensdorf
 url: /frensdorf/
-latitude: 49.81717080000001
-longitude: 10.8642356
+latitude: 49.795
+longitude: 10.884
 ---

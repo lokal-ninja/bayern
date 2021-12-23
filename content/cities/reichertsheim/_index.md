@@ -1,6 +1,6 @@
 ---
 title: Reichertsheim
 url: /reichertsheim/
-latitude: 48.19859760000001
-longitude: 12.287497100000001
+latitude: 48.172
+longitude: 12.231
 ---

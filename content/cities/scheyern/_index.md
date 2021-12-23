@@ -1,6 +1,6 @@
 ---
 title: Scheyern
 url: /scheyern/
-latitude: 48.502034300000005
-longitude: 11.4555839
+latitude: 48.514
+longitude: 11.463
 ---

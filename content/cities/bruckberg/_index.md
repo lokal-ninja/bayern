@@ -1,6 +1,6 @@
 ---
 title: Bruckberg
 url: /bruckberg/
-latitude: 48.5233878
-longitude: 11.9956028
+latitude: 48.519
+longitude: 11.995
 ---

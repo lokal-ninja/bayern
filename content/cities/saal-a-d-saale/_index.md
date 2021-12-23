@@ -1,6 +1,6 @@
 ---
 title: Saal a.d.Saale
 url: /saal-a-d-saale/
-latitude: 
-longitude: 
+latitude: 50.315
+longitude: 10.362
 ---

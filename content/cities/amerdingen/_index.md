@@ -1,6 +1,6 @@
 ---
 title: Amerdingen
 url: /amerdingen/
-latitude: 48.7269628
-longitude: 10.4861596
+latitude: 48.729
+longitude: 10.484
 ---

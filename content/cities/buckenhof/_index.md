@@ -1,6 +1,6 @@
 ---
 title: Buckenhof
 url: /buckenhof/
-latitude: 
-longitude: 
+latitude: 49.593
+longitude: 11.047
 ---

@@ -1,6 +1,6 @@
 ---
 title: Neubiberg
 url: /neubiberg/
-latitude: 
-longitude: 
+latitude: 48.076
+longitude: 11.658
 ---

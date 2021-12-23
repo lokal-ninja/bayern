@@ -1,6 +1,6 @@
 ---
 title: Erlangen
 url: /erlangen/
-latitude: 49.597815700000005
-longitude: 11.0038064
+latitude: 49.587
+longitude: 11.013
 ---

@@ -1,6 +1,6 @@
 ---
 title: Altenstadt a.d. Waldnaab
 url: /altenstadt-a-d-waldnaab/
-latitude: 
-longitude: 
+latitude: 49.719
+longitude: 12.159
 ---

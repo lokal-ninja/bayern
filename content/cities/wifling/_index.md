@@ -1,6 +1,6 @@
 ---
 title: Wifling
 url: /wifling/
-latitude: 48.379559900000004
-longitude: 12.424238500000001
+latitude: 48.235
+longitude: 11.887
 ---

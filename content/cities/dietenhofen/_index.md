@@ -1,6 +1,6 @@
 ---
 title: Dietenhofen
 url: /dietenhofen/
-latitude: 49.4002129
-longitude: 10.6885331
+latitude: 49.401
+longitude: 10.689
 ---

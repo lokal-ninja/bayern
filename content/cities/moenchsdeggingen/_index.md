@@ -1,6 +1,6 @@
 ---
 title: Mönchsdeggingen
 url: /moenchsdeggingen/
-latitude: 48.7754142
-longitude: 10.580704500000001
+latitude: 48.777
+longitude: 10.583
 ---

@@ -1,6 +1,6 @@
 ---
 title: Obergünzburg
 url: /oberguenzburg/
-latitude: 47.8458763
-longitude: 10.4192911
+latitude: 47.848
+longitude: 10.418
 ---

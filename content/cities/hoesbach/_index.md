@@ -1,6 +1,6 @@
 ---
 title: Hösbach
 url: /hoesbach/
-latitude: 50.004915800000006
-longitude: 9.200966000000001
+latitude: 50.005
+longitude: 9.211
 ---

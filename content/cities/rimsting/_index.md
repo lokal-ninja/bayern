@@ -1,6 +1,6 @@
 ---
 title: Rimsting
 url: /rimsting/
-latitude: 47.8780488
-longitude: 12.3369294
+latitude: 47.878
+longitude: 12.307
 ---

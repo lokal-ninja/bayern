@@ -1,6 +1,6 @@
 ---
 title: Donauwörth
 url: /donauwoerth/
-latitude: 48.7180364
-longitude: 10.7807299
+latitude: 48.726
+longitude: 10.771
 ---

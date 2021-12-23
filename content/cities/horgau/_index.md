@@ -1,6 +1,6 @@
 ---
 title: Horgau
 url: /horgau/
-latitude: 48.3955533
-longitude: 10.685254200000001
+latitude: 48.398
+longitude: 10.682
 ---

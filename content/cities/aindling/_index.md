@@ -1,6 +1,6 @@
 ---
 title: Aindling
 url: /aindling/
-latitude: 48.5122627
-longitude: 10.9542129
+latitude: 48.512
+longitude: 10.953
 ---

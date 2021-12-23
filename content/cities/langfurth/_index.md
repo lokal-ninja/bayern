@@ -1,6 +1,6 @@
 ---
 title: Langfurth
 url: /langfurth/
-latitude: 48.8263194
-longitude: 13.2022334
+latitude: 49.1
+longitude: 10.453
 ---

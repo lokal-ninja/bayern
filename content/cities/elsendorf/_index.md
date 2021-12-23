@@ -1,6 +1,6 @@
 ---
 title: Elsendorf
 url: /elsendorf/
-latitude: 49.7417098
-longitude: 10.6661111
+latitude: 48.712
+longitude: 11.801
 ---

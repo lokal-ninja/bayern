@@ -1,6 +1,6 @@
 ---
 title: Eggenfelden
 url: /eggenfelden/
-latitude: 48.403190900000006
-longitude: 12.7626208
+latitude: 48.398
+longitude: 12.748
 ---

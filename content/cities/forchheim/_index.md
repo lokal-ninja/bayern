@@ -1,6 +1,6 @@
 ---
 title: Forchheim
 url: /forchheim/
-latitude: 49.7186937
-longitude: 11.059643300000001
+latitude: 49.727
+longitude: 11.057
 ---

@@ -1,6 +1,6 @@
 ---
 title: Nörting
 url: /noerting/
-latitude: 48.4574001
-longitude: 11.6273759
+latitude: 48.458
+longitude: 11.626
 ---

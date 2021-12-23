@@ -1,6 +1,6 @@
 ---
 title: Haldenwang
 url: /haldenwang/
-latitude: 47.8011221
-longitude: 10.347265
+latitude: 47.803
+longitude: 10.346
 ---

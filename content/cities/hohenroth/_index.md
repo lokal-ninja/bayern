@@ -1,6 +1,6 @@
 ---
 title: Hohenroth
 url: /hohenroth/
-latitude: 49.4741313
-longitude: 10.591618800000001
+latitude: 50.339
+longitude: 10.138
 ---

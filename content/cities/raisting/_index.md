@@ -1,6 +1,6 @@
 ---
 title: Raisting
 url: /raisting/
-latitude: 48.553539
-longitude: 12.782273100000001
+latitude: 47.912
+longitude: 11.109
 ---

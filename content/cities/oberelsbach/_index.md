@@ -1,6 +1,6 @@
 ---
 title: Oberelsbach
 url: /oberelsbach/
-latitude: 50.440578300000006
-longitude: 10.1185151
+latitude: 50.441
+longitude: 10.125
 ---

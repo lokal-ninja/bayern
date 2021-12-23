@@ -1,6 +1,6 @@
 ---
 title: Schwanstetten
 url: /schwanstetten/
-latitude: 
-longitude: 
+latitude: 49.319
+longitude: 11.125
 ---

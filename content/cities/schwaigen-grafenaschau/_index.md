@@ -1,6 +1,6 @@
 ---
 title: Schwaigen Grafenaschau
 url: /schwaigen-grafenaschau/
-latitude: 
-longitude: 
+latitude: 47.649
+longitude: 11.119
 ---

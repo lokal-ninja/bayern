@@ -1,6 +1,6 @@
 ---
 title: Keilberg
 url: /keilberg/
-latitude: 47.618803500000006
-longitude: 11.833073500000001
+latitude: 49.995
+longitude: 9.244
 ---

@@ -1,6 +1,6 @@
 ---
 title: Egling
 url: /egling/
-latitude: 47.9230899
-longitude: 11.508641500000001
+latitude: 47.931
+longitude: 11.501
 ---

@@ -1,6 +1,6 @@
 ---
 title: Würzburg
 url: /wuerzburg/
-latitude: 49.79245
-longitude: 9.932966
+latitude: 49.785
+longitude: 9.932
 ---

@@ -1,6 +1,6 @@
 ---
 title: Dingolshausen
 url: /dingolshausen/
-latitude: 49.9072643
-longitude: 10.3891557
+latitude: 49.906
+longitude: 10.39
 ---

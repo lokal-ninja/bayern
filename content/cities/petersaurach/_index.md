@@ -1,6 +1,6 @@
 ---
 title: Petersaurach
 url: /petersaurach/
-latitude: 
-longitude: 
+latitude: 49.318
+longitude: 10.669
 ---

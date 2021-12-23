@@ -1,6 +1,6 @@
 ---
 title: Teisnach
 url: /teisnach/
-latitude: 49.0364559
-longitude: 12.997333900000001
+latitude: 49.012
+longitude: 13.03
 ---

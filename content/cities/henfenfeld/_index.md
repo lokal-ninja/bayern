@@ -1,6 +1,6 @@
 ---
 title: Henfenfeld
 url: /henfenfeld/
-latitude: 49.496877100000006
-longitude: 11.3898656
+latitude: 49.495
+longitude: 11.39
 ---

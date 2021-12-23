@@ -1,6 +1,6 @@
 ---
 title: Emskirchen
 url: /emskirchen/
-latitude: 
-longitude: 
+latitude: 49.551
+longitude: 10.715
 ---

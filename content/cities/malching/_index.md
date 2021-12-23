@@ -1,6 +1,6 @@
 ---
 title: Malching
 url: /malching/
-latitude: 48.211465600000004
-longitude: 11.219856400000001
+latitude: 48.316
+longitude: 13.192
 ---

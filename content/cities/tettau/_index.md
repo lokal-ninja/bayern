@@ -1,6 +1,6 @@
 ---
 title: Tettau
 url: /tettau/
-latitude: 50.4695139
-longitude: 11.2588086
+latitude: 50.466
+longitude: 11.261
 ---

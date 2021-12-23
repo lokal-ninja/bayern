@@ -1,6 +1,6 @@
 ---
 title: Eisenheim
 url: /eisenheim/
-latitude: 49.8897929
-longitude: 10.1656881
+latitude: 49.89
+longitude: 10.179
 ---

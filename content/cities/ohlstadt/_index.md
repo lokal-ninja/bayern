@@ -1,6 +1,6 @@
 ---
 title: Ohlstadt
 url: /ohlstadt/
-latitude: 47.6334851
-longitude: 11.2340329
+latitude: 47.633
+longitude: 11.231
 ---

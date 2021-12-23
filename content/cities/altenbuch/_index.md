@@ -1,6 +1,6 @@
 ---
 title: Altenbuch
 url: /altenbuch/
-latitude: 48.1900307
-longitude: 12.7017611
+latitude: 49.824
+longitude: 9.413
 ---

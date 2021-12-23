@@ -1,6 +1,6 @@
 ---
 title: Schwanfeld
 url: /schwanfeld/
-latitude: 49.9208761
-longitude: 10.138795
+latitude: 49.921
+longitude: 10.136
 ---

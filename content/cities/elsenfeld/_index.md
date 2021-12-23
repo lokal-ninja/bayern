@@ -1,6 +1,6 @@
 ---
 title: Elsenfeld
 url: /elsenfeld/
-latitude: 
-longitude: 
+latitude: 49.846
+longitude: 9.161
 ---

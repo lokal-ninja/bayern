@@ -1,6 +1,6 @@
 ---
 title: Nersingen
 url: /nersingen/
-latitude: 
-longitude: 
+latitude: 48.429
+longitude: 10.121
 ---

@@ -1,6 +1,6 @@
 ---
 title: Nemanice
 url: /nemanice/
-latitude: 
-longitude: 
+latitude: 49.419
+longitude: 12.716
 ---

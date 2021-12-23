@@ -1,6 +1,6 @@
 ---
 title: Eckental
 url: /eckental/
-latitude: 
-longitude: 
+latitude: 49.572
+longitude: 11.199
 ---

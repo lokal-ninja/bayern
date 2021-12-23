@@ -1,6 +1,6 @@
 ---
 title: Pfronten
 url: /pfronten/
-latitude: 
-longitude: 
+latitude: 47.583
+longitude: 10.565
 ---

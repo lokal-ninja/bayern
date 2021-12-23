@@ -1,6 +1,6 @@
 ---
 title: Pfaffenhofen a.d. Ilm
 url: /pfaffenhofen-a-d-ilm/
-latitude: 
-longitude: 
+latitude: 48.539
+longitude: 11.513
 ---

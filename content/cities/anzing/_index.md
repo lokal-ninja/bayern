@@ -1,6 +1,6 @@
 ---
 title: Anzing
 url: /anzing/
-latitude: 48.373543100000006
-longitude: 13.2638274
+latitude: 48.143
+longitude: 11.854
 ---

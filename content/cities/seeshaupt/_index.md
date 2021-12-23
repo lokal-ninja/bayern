@@ -1,6 +1,6 @@
 ---
 title: Seeshaupt
 url: /seeshaupt/
-latitude: 47.8228233
-longitude: 11.3013554
+latitude: 47.823
+longitude: 11.297
 ---

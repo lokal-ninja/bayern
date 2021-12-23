@@ -1,6 +1,6 @@
 ---
 title: Bechtsrieth
 url: /bechtsrieth/
-latitude: 49.6469231
-longitude: 12.2166475
+latitude: 49.647
+longitude: 12.206
 ---

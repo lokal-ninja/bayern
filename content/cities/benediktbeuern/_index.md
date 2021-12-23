@@ -1,6 +1,6 @@
 ---
 title: Benediktbeuern
 url: /benediktbeuern/
-latitude: 
-longitude: 
+latitude: 47.711
+longitude: 11.402
 ---

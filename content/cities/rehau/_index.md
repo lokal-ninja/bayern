@@ -1,6 +1,6 @@
 ---
 title: Rehau
 url: /rehau/
-latitude: 48.8832237
-longitude: 10.8471902
+latitude: 50.248
+longitude: 12.033
 ---

@@ -1,6 +1,6 @@
 ---
 title: Entrischenbrunn
 url: /entrischenbrunn/
-latitude: 48.491446700000004
-longitude: 11.5474045
+latitude: 48.49
+longitude: 11.552
 ---

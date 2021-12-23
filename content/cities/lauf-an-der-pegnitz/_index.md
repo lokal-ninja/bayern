@@ -1,6 +1,6 @@
 ---
 title: Lauf an der Pegnitz
 url: /lauf-an-der-pegnitz/
-latitude: 49.511812600000006
-longitude: 11.281338100000001
+latitude: 49.509
+longitude: 11.28
 ---

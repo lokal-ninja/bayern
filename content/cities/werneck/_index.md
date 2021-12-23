@@ -1,6 +1,6 @@
 ---
 title: Werneck
 url: /werneck/
-latitude: 49.981604000000004
-longitude: 10.1001527
+latitude: 49.981
+longitude: 10.095
 ---

@@ -1,6 +1,6 @@
 ---
 title: Röthenbach a.d.Pegnitz
 url: /roethenbach-a-d-pegnitz/
-latitude: 
-longitude: 
+latitude: 49.477
+longitude: 11.247
 ---

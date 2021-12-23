@@ -1,6 +1,6 @@
 ---
 title: Buttenwiesen
 url: /buttenwiesen/
-latitude: 48.6053755
-longitude: 10.7222279
+latitude: 48.606
+longitude: 10.727
 ---

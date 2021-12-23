@@ -1,6 +1,6 @@
 ---
 title: Gestratz
 url: /gestratz/
-latitude: 47.648037200000005
-longitude: 9.985555300000001
+latitude: 47.656
+longitude: 9.989
 ---

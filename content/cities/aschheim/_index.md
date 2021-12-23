@@ -1,6 +1,6 @@
 ---
 title: Aschheim
 url: /aschheim/
-latitude: 
-longitude: 
+latitude: 48.166
+longitude: 11.731
 ---

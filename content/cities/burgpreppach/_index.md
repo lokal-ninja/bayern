@@ -1,6 +1,6 @@
 ---
 title: Burgpreppach
 url: /burgpreppach/
-latitude: 50.1407115
-longitude: 10.6499229
+latitude: 50.14
+longitude: 10.653
 ---

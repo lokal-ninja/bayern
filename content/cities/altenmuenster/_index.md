@@ -1,6 +1,6 @@
 ---
 title: Altenmünster
 url: /altenmuenster/
-latitude: 50.160396600000006
-longitude: 10.364679500000001
+latitude: 48.47
+longitude: 10.587
 ---

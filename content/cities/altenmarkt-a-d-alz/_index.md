@@ -1,6 +1,6 @@
 ---
 title: Altenmarkt a.d. Alz
 url: /altenmarkt-a-d-alz/
-latitude: 
-longitude: 
+latitude: 47.987
+longitude: 12.54
 ---

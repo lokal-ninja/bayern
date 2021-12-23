@@ -1,6 +1,6 @@
 ---
 title: Obermeitingen
 url: /obermeitingen/
-latitude: 48.147336800000005
-longitude: 10.8067743
+latitude: 48.147
+longitude: 10.808
 ---

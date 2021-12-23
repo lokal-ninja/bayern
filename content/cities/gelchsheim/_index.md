@@ -1,6 +1,6 @@
 ---
 title: Gelchsheim
 url: /gelchsheim/
-latitude: 49.573637100000006
-longitude: 10.019829000000001
+latitude: 49.589
+longitude: 10.054
 ---

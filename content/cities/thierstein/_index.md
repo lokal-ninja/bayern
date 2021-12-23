@@ -1,6 +1,6 @@
 ---
 title: Thierstein
 url: /thierstein/
-latitude: 50.1080643
-longitude: 12.1023776
+latitude: 50.107
+longitude: 12.104
 ---

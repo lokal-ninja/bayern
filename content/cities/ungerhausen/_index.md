@@ -1,6 +1,6 @@
 ---
 title: Ungerhausen
 url: /ungerhausen/
-latitude: 
-longitude: 
+latitude: 48.018
+longitude: 10.273
 ---

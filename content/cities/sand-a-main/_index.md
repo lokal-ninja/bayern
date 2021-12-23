@@ -1,6 +1,6 @@
 ---
 title: Sand a. Main
 url: /sand-a-main/
-latitude: 
-longitude: 
+latitude: 49.987
+longitude: 10.588
 ---

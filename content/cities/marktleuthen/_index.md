@@ -1,6 +1,6 @@
 ---
 title: Marktleuthen
 url: /marktleuthen/
-latitude: 50.127965100000004
-longitude: 11.9945062
+latitude: 50.131
+longitude: 12.001
 ---

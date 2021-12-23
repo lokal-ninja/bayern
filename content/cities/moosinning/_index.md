@@ -1,6 +1,6 @@
 ---
 title: Moosinning
 url: /moosinning/
-latitude: 
-longitude: 
+latitude: 48.275
+longitude: 11.827
 ---

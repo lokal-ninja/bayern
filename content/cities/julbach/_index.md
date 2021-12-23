@@ -1,6 +1,6 @@
 ---
 title: Julbach
 url: /julbach/
-latitude: 48.257673000000004
-longitude: 12.957991300000002
+latitude: 48.253
+longitude: 12.958
 ---

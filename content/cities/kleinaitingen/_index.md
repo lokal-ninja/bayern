@@ -1,6 +1,6 @@
 ---
 title: Kleinaitingen
 url: /kleinaitingen/
-latitude: 48.2196501
-longitude: 10.8410767
+latitude: 48.219
+longitude: 10.841
 ---

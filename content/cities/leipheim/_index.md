@@ -1,6 +1,6 @@
 ---
 title: Leipheim
 url: /leipheim/
-latitude: 48.4487175
-longitude: 10.2213539
+latitude: 48.448
+longitude: 10.231
 ---

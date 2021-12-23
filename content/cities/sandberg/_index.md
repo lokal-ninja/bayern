@@ -1,6 +1,6 @@
 ---
 title: Sandberg
 url: /sandberg/
-latitude: 48.5895888
-longitude: 12.764980300000001
+latitude: 50.343
+longitude: 10.012
 ---

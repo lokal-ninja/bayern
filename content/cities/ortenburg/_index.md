@@ -1,6 +1,6 @@
 ---
 title: Ortenburg
 url: /ortenburg/
-latitude: 48.546731900000005
-longitude: 13.226257400000001
+latitude: 48.542
+longitude: 13.22
 ---

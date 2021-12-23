@@ -1,6 +1,6 @@
 ---
 title: Aš
 url: /as/
-latitude: 
-longitude: 
+latitude: 50.217
+longitude: 12.176
 ---

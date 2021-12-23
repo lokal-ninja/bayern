@@ -1,6 +1,6 @@
 ---
 title: Wachenroth
 url: /wachenroth/
-latitude: 
-longitude: 
+latitude: 49.752
+longitude: 10.721
 ---

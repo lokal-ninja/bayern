@@ -1,6 +1,6 @@
 ---
 title: Frauenneuharting
 url: /frauenneuharting/
-latitude: 48.0391343
-longitude: 12.0480543
+latitude: 48.039
+longitude: 12.048
 ---

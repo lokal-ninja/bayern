@@ -1,6 +1,6 @@
 ---
 title: Memmelsdorf
 url: /memmelsdorf/
-latitude: 49.9324044
-longitude: 10.9550026
+latitude: 49.935
+longitude: 10.958
 ---

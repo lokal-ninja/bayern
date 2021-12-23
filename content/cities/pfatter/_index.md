@@ -1,6 +1,6 @@
 ---
 title: Pfatter
 url: /pfatter/
-latitude: 48.9650611
-longitude: 12.384176
+latitude: 48.96
+longitude: 12.393
 ---

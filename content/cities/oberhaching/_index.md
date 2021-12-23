@@ -1,6 +1,6 @@
 ---
 title: Oberhaching
 url: /oberhaching/
-latitude: 48.0261447
-longitude: 11.5963153
+latitude: 48.029
+longitude: 11.602
 ---

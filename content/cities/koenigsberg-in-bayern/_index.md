@@ -1,6 +1,6 @@
 ---
 title: Königsberg in Bayern
 url: /koenigsberg-in-bayern/
-latitude: 
-longitude: 
+latitude: 50.081
+longitude: 10.571
 ---

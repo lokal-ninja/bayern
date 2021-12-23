@@ -1,6 +1,6 @@
 ---
 title: Ruhstorf
 url: /ruhstorf/
-latitude: 48.6266855
-longitude: 13.245693900000001
+latitude: 48.469
+longitude: 13.272
 ---

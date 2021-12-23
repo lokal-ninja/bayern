@@ -1,6 +1,6 @@
 ---
 title: Effeltrich
 url: /effeltrich/
-latitude: 49.6595316
-longitude: 11.0927191
+latitude: 49.66
+longitude: 11.093
 ---

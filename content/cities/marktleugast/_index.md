@@ -1,6 +1,6 @@
 ---
 title: Marktleugast
 url: /marktleugast/
-latitude: 
-longitude: 
+latitude: 50.169
+longitude: 11.63
 ---

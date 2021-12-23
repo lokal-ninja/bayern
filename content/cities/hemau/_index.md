@@ -1,6 +1,6 @@
 ---
 title: Hemau
 url: /hemau/
-latitude: 
-longitude: 
+latitude: 49.051
+longitude: 11.783
 ---

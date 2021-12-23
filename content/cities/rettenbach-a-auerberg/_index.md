@@ -1,6 +1,6 @@
 ---
 title: Rettenbach a.Auerberg
 url: /rettenbach-a-auerberg/
-latitude: 
-longitude: 
+latitude: 47.775
+longitude: 10.751
 ---

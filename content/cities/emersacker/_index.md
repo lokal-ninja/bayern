@@ -1,6 +1,6 @@
 ---
 title: Emersacker
 url: /emersacker/
-latitude: 48.489012300000006
-longitude: 10.6733127
+latitude: 48.494
+longitude: 10.674
 ---

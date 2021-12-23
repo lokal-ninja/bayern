@@ -1,6 +1,6 @@
 ---
 title: Oberweißenbrunn
 url: /oberweissenbrunn/
-latitude: 50.407801400000004
-longitude: 9.9520716
+latitude: 50.407
+longitude: 9.954
 ---

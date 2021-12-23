@@ -1,6 +1,6 @@
 ---
 title: Wolframs-Eschenbach
 url: /wolframs-eschenbach/
-latitude: 
-longitude: 
+latitude: 49.221
+longitude: 10.727
 ---

@@ -1,6 +1,6 @@
 ---
 title: Bad Tölz
 url: /bad-toelz/
-latitude: 
-longitude: 
+latitude: 47.761
+longitude: 11.561
 ---

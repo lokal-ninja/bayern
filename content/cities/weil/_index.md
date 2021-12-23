@@ -1,6 +1,6 @@
 ---
 title: Weil
 url: /weil/
-latitude: 48.3808767
-longitude: 11.288629100000001
+latitude: 48.145
+longitude: 10.917
 ---

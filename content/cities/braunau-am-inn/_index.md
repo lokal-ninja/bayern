@@ -1,6 +1,6 @@
 ---
 title: Braunau am Inn
 url: /braunau-am-inn/
-latitude: 
-longitude: 
+latitude: 48.259
+longitude: 13.037
 ---

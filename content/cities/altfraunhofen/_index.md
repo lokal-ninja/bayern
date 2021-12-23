@@ -1,6 +1,6 @@
 ---
 title: Altfraunhofen
 url: /altfraunhofen/
-latitude: 48.448536600000004
-longitude: 12.166275500000001
+latitude: 48.447
+longitude: 12.169
 ---

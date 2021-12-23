@@ -1,6 +1,6 @@
 ---
 title: Hohenmemmingen
 url: /hohenmemmingen/
-latitude: 
-longitude: 
+latitude: 48.628
+longitude: 10.28
 ---

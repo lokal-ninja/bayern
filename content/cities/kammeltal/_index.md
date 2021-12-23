@@ -1,6 +1,6 @@
 ---
 title: Kammeltal
 url: /kammeltal/
-latitude: 48.375315300000004
-longitude: 10.3649351
+latitude: 48.371
+longitude: 10.365
 ---

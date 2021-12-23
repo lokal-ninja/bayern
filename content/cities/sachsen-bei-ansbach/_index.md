@@ -1,6 +1,6 @@
 ---
 title: Sachsen bei Ansbach
 url: /sachsen-bei-ansbach/
-latitude: 
-longitude: 
+latitude: 49.285
+longitude: 10.66
 ---

@@ -1,6 +1,6 @@
 ---
 title: Mallersdorf-Pfaffenberg
 url: /mallersdorf-pfaffenberg/
-latitude: 48.774308100000006
-longitude: 12.237785500000001
+latitude: 48.771
+longitude: 12.234
 ---

@@ -1,6 +1,6 @@
 ---
 title: Rohrenfels
 url: /rohrenfels/
-latitude: 48.6861619
-longitude: 11.156506700000001
+latitude: 48.698
+longitude: 11.172
 ---

@@ -1,6 +1,6 @@
 ---
 title: Dasing
 url: /dasing/
-latitude: 48.383813
-longitude: 11.047822
+latitude: 48.401
+longitude: 11.054
 ---

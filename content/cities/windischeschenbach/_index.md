@@ -1,6 +1,6 @@
 ---
 title: Windischeschenbach
 url: /windischeschenbach/
-latitude: 
-longitude: 
+latitude: 49.806
+longitude: 12.187
 ---

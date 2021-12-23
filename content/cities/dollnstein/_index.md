@@ -1,6 +1,6 @@
 ---
 title: Dollnstein
 url: /dollnstein/
-latitude: 48.8687764
-longitude: 11.073967300000001
+latitude: 48.871
+longitude: 11.075
 ---

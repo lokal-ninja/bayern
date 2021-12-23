@@ -1,6 +1,6 @@
 ---
 title: Weilersbach
 url: /weilersbach/
-latitude: 49.747073400000005
-longitude: 11.1275372
+latitude: 49.755
+longitude: 11.145
 ---

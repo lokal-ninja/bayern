@@ -1,6 +1,6 @@
 ---
 title: Otzing
 url: /otzing/
-latitude: 48.7616808
-longitude: 12.8096186
+latitude: 48.763
+longitude: 12.835
 ---

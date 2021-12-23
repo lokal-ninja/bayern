@@ -1,6 +1,6 @@
 ---
 title: Haag in Oberbayern
 url: /haag-in-oberbayern/
-latitude: 48.161173500000004
-longitude: 12.1783011
+latitude: 48.164
+longitude: 12.186
 ---

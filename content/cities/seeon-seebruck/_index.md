@@ -1,6 +1,6 @@
 ---
 title: Seeon-Seebruck
 url: /seeon-seebruck/
-latitude: 
-longitude: 
+latitude: 47.934
+longitude: 12.477
 ---

@@ -1,6 +1,6 @@
 ---
 title: Neumarkt
 url: /neumarkt/
-latitude: 
-longitude: 
+latitude: 49.279
+longitude: 11.459
 ---

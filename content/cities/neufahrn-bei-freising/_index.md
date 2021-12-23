@@ -1,6 +1,6 @@
 ---
 title: Neufahrn bei Freising
 url: /neufahrn-bei-freising/
-latitude: 
-longitude: 
+latitude: 48.316
+longitude: 11.69
 ---

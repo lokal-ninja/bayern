@@ -1,6 +1,6 @@
 ---
 title: Hohenkammer
 url: /hohenkammer/
-latitude: 48.423846700000006
-longitude: 11.5229952
+latitude: 48.432
+longitude: 11.514
 ---

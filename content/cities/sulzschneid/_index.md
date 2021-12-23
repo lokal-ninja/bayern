@@ -1,6 +1,6 @@
 ---
 title: Sulzschneid
 url: /sulzschneid/
-latitude: 47.7233802
-longitude: 10.6417148
+latitude: 47.724
+longitude: 10.642
 ---

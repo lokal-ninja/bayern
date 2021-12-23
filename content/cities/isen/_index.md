@@ -1,6 +1,6 @@
 ---
 title: Isen
 url: /isen/
-latitude: 48.212034200000005
-longitude: 12.057138400000001
+latitude: 48.202
+longitude: 12.051
 ---

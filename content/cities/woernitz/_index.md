@@ -1,6 +1,6 @@
 ---
 title: Wörnitz
 url: /woernitz/
-latitude: 49.255208200000006
-longitude: 10.2432469
+latitude: 49.259
+longitude: 10.236
 ---

@@ -1,6 +1,6 @@
 ---
 title: Kaltental
 url: /kaltental/
-latitude: 47.9056718
-longitude: 10.7589498
+latitude: 47.891
+longitude: 10.751
 ---

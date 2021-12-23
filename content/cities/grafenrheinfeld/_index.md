@@ -1,6 +1,6 @@
 ---
 title: Grafenrheinfeld
 url: /grafenrheinfeld/
-latitude: 50.005531700000006
-longitude: 10.196680800000001
+latitude: 50.003
+longitude: 10.2
 ---

@@ -1,6 +1,6 @@
 ---
 title: Seefeld
 url: /seefeld/
-latitude: 48.034666800000004
-longitude: 11.213275000000001
+latitude: 48.04
+longitude: 11.192
 ---

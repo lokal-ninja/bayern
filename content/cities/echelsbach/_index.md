@@ -1,6 +1,6 @@
 ---
 title: Echelsbach
 url: /echelsbach/
-latitude: 
-longitude: 
+latitude: 47.707
+longitude: 10.98
 ---

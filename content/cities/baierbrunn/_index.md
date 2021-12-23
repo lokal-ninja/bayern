@@ -1,6 +1,6 @@
 ---
 title: Baierbrunn
 url: /baierbrunn/
-latitude: 48.0204773
-longitude: 11.486546200000001
+latitude: 48.018
+longitude: 11.485
 ---

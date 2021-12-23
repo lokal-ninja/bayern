@@ -1,6 +1,6 @@
 ---
 title: Tacherting
 url: /tacherting/
-latitude: 48.0790001
-longitude: 12.5705051
+latitude: 48.078
+longitude: 12.568
 ---

@@ -1,6 +1,6 @@
 ---
 title: Ebern
 url: /ebern/
-latitude: 50.0943461
-longitude: 10.7950972
+latitude: 50.1
+longitude: 10.797
 ---

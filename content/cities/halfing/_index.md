@@ -1,6 +1,6 @@
 ---
 title: Halfing
 url: /halfing/
-latitude: 47.9500426
-longitude: 12.276509500000001
+latitude: 47.953
+longitude: 12.279
 ---

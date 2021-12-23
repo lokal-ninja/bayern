@@ -1,6 +1,6 @@
 ---
 title: Hiltpoltstein
 url: /hiltpoltstein/
-latitude: 49.6610303
-longitude: 11.320374800000002
+latitude: 49.661
+longitude: 11.325
 ---

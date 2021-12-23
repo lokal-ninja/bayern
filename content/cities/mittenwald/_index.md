@@ -1,6 +1,6 @@
 ---
 title: Mittenwald
 url: /mittenwald/
-latitude: 47.442954300000004
-longitude: 11.265568400000001
+latitude: 47.44
+longitude: 11.265
 ---

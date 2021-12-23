@@ -1,6 +1,6 @@
 ---
 title: Pösing
 url: /poesing/
-latitude: 49.2300576
-longitude: 12.5492114
+latitude: 49.229
+longitude: 12.549
 ---

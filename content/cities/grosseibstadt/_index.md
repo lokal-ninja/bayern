@@ -1,6 +1,6 @@
 ---
 title: Großeibstadt
 url: /grosseibstadt/
-latitude: 50.301839900000004
-longitude: 10.407503400000001
+latitude: 50.303
+longitude: 10.416
 ---

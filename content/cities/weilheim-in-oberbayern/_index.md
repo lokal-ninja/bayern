@@ -1,6 +1,6 @@
 ---
 title: Weilheim in Oberbayern
 url: /weilheim-in-oberbayern/
-latitude: 47.8395072
-longitude: 11.141635500000001
+latitude: 47.85
+longitude: 11.151
 ---

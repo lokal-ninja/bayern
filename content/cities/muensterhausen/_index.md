@@ -1,6 +1,6 @@
 ---
 title: Münsterhausen
 url: /muensterhausen/
-latitude: 48.316328500000004
-longitude: 10.449389100000001
+latitude: 48.302
+longitude: 10.464
 ---

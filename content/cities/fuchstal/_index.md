@@ -1,6 +1,6 @@
 ---
 title: Fuchstal
 url: /fuchstal/
-latitude: 
-longitude: 
+latitude: 47.936
+longitude: 10.834
 ---

@@ -1,6 +1,6 @@
 ---
 title: Postmünster
 url: /postmuenster/
-latitude: 48.4184253
-longitude: 12.9046354
+latitude: 48.455
+longitude: 12.877
 ---

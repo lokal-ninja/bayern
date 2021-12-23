@@ -1,6 +1,6 @@
 ---
 title: Fischen im Allgäu
 url: /fischen-im-allgaeu/
-latitude: 47.4600439
-longitude: 10.272213500000001
+latitude: 47.473
+longitude: 10.269
 ---

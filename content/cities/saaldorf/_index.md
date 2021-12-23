@@ -1,6 +1,6 @@
 ---
 title: Saaldorf
 url: /saaldorf/
-latitude: 47.8681046
-longitude: 12.9287858
+latitude: 47.868
+longitude: 12.93
 ---

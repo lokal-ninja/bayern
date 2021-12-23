@@ -1,6 +1,6 @@
 ---
 title: Burgkunstadt
 url: /burgkunstadt/
-latitude: 50.1428821
-longitude: 11.2515508
+latitude: 50.135
+longitude: 11.253
 ---

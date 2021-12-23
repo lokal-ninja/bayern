@@ -1,6 +1,6 @@
 ---
 title: Pinzberg
 url: /pinzberg/
-latitude: 
-longitude: 
+latitude: 49.704
+longitude: 11.115
 ---

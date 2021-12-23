@@ -1,6 +1,6 @@
 ---
 title: Niederrieden
 url: /niederrieden/
-latitude: 48.0578993
-longitude: 10.1839587
+latitude: 48.057
+longitude: 10.192
 ---

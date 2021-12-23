@@ -1,6 +1,6 @@
 ---
 title: Stephansposching
 url: /stephansposching/
-latitude: 48.816700000000004
-longitude: 12.8
+latitude: 48.797
+longitude: 12.853
 ---

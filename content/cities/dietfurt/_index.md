@@ -1,6 +1,6 @@
 ---
 title: Dietfurt
 url: /dietfurt/
-latitude: 
-longitude: 
+latitude: 49.028
+longitude: 11.582
 ---

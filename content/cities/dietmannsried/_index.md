@@ -1,6 +1,6 @@
 ---
 title: Dietmannsried
 url: /dietmannsried/
-latitude: 47.807909800000004
-longitude: 10.2897669
+latitude: 47.807
+longitude: 10.289
 ---

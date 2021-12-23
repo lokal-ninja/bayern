@@ -1,6 +1,6 @@
 ---
 title: Sommerkahl
 url: /sommerkahl/
-latitude: 50.0699119
-longitude: 9.2550889
+latitude: 50.069
+longitude: 9.262
 ---

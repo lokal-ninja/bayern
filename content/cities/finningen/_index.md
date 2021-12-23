@@ -1,6 +1,6 @@
 ---
 title: Finningen
 url: /finningen/
-latitude: 48.6533706
-longitude: 10.4935082
+latitude: 48.623
+longitude: 10.514
 ---

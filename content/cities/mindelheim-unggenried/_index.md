@@ -1,6 +1,6 @@
 ---
 title: Mindelheim-Unggenried
 url: /mindelheim-unggenried/
-latitude: 
-longitude: 
+latitude: 48.031
+longitude: 10.476
 ---

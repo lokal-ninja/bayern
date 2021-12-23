@@ -1,6 +1,6 @@
 ---
 title: Wallerfing
 url: /wallerfing/
-latitude: 48.685212
-longitude: 12.8820639
+latitude: 48.685
+longitude: 12.884
 ---

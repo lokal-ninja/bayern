@@ -1,6 +1,6 @@
 ---
 title: Aichach
 url: /aichach/
-latitude: 48.4585555
-longitude: 11.1283627
+latitude: 48.46
+longitude: 11.132
 ---

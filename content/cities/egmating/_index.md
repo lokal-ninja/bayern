@@ -1,6 +1,6 @@
 ---
 title: Egmating
 url: /egmating/
-latitude: 48.0028778
-longitude: 11.794459000000002
+latitude: 47.981
+longitude: 11.823
 ---

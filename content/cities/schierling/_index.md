@@ -1,6 +1,6 @@
 ---
 title: Schierling
 url: /schierling/
-latitude: 48.835087900000005
-longitude: 12.1378625
+latitude: 48.839
+longitude: 12.124
 ---

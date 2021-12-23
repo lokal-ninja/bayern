@@ -1,6 +1,6 @@
 ---
 title: Mistelbach
 url: /mistelbach/
-latitude: 49.914167400000004
-longitude: 11.5142216
+latitude: 49.91
+longitude: 11.503
 ---

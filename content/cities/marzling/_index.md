@@ -1,6 +1,6 @@
 ---
 title: Marzling
 url: /marzling/
-latitude: 48.4093851
-longitude: 11.794956200000001
+latitude: 48.41
+longitude: 11.794
 ---

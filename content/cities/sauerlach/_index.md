@@ -1,6 +1,6 @@
 ---
 title: Sauerlach
 url: /sauerlach/
-latitude: 
-longitude: 
+latitude: 47.971
+longitude: 11.666
 ---

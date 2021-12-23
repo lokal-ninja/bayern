@@ -1,6 +1,6 @@
 ---
 title: Enkering
 url: /enkering/
-latitude: 48.991600000000005
-longitude: 11.363212200000001
+latitude: 48.992
+longitude: 11.364
 ---

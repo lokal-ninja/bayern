@@ -1,6 +1,6 @@
 ---
 title: Reusch
 url: /reusch/
-latitude: 49.360162300000006
-longitude: 11.732190200000002
+latitude: 49.589
+longitude: 10.253
 ---

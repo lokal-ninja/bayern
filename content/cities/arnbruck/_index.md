@@ -1,6 +1,6 @@
 ---
 title: Arnbruck
 url: /arnbruck/
-latitude: 
-longitude: 
+latitude: 49.147
+longitude: 12.964
 ---

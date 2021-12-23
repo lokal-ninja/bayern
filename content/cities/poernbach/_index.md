@@ -1,6 +1,6 @@
 ---
 title: Pörnbach
 url: /poernbach/
-latitude: 48.616019400000006
-longitude: 11.460830900000001
+latitude: 48.615
+longitude: 11.462
 ---

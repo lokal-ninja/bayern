@@ -1,6 +1,6 @@
 ---
 title: Bad Wiessee
 url: /bad-wiessee/
-latitude: 47.7128111
-longitude: 11.7254859
+latitude: 47.702
+longitude: 11.728
 ---

@@ -1,6 +1,6 @@
 ---
 title: Neutraubling
 url: /neutraubling/
-latitude: 48.9879681
-longitude: 12.1937046
+latitude: 48.981
+longitude: 12.19
 ---

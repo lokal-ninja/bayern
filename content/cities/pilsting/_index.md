@@ -1,6 +1,6 @@
 ---
 title: Pilsting
 url: /pilsting/
-latitude: 48.7012409
-longitude: 12.650136900000001
+latitude: 48.676
+longitude: 12.625
 ---

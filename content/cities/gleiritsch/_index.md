@@ -1,6 +1,6 @@
 ---
 title: Gleiritsch
 url: /gleiritsch/
-latitude: 49.497430300000005
-longitude: 12.315287900000001
+latitude: 49.499
+longitude: 12.313
 ---

@@ -1,6 +1,6 @@
 ---
 title: Geiersthal
 url: /geiersthal/
-latitude: 
-longitude: 
+latitude: 49.042
+longitude: 12.988
 ---

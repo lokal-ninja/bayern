@@ -1,6 +1,6 @@
 ---
 title: Bayerbach
 url: /bayerbach/
-latitude: 
-longitude: 
+latitude: 48.41
+longitude: 13.144
 ---

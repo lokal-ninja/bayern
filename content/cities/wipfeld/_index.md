@@ -1,6 +1,6 @@
 ---
 title: Wipfeld
 url: /wipfeld/
-latitude: 49.9210878
-longitude: 10.1742316
+latitude: 49.921
+longitude: 10.178
 ---

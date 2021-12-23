@@ -1,6 +1,6 @@
 ---
 title: Thiersheim
 url: /thiersheim/
-latitude: 50.0769705
-longitude: 12.1264857
+latitude: 50.074
+longitude: 12.099
 ---

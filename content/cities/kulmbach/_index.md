@@ -1,6 +1,6 @@
 ---
 title: Kulmbach
 url: /kulmbach/
-latitude: 
-longitude: 
+latitude: 50.103
+longitude: 11.44
 ---

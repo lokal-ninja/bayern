@@ -1,6 +1,6 @@
 ---
 title: Winkelhaid
 url: /winkelhaid/
-latitude: 49.2126384
-longitude: 10.836321600000002
+latitude: 49.388
+longitude: 11.302
 ---

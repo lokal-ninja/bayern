@@ -1,6 +1,6 @@
 ---
 title: Sonnen
 url: /sonnen/
-latitude: 47.880438600000005
-longitude: 12.1750764
+latitude: 48.686
+longitude: 13.729
 ---

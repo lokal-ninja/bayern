@@ -1,6 +1,6 @@
 ---
 title: Markt Erlbach
 url: /markt-erlbach/
-latitude: 49.4916568
-longitude: 10.6501363
+latitude: 49.493
+longitude: 10.651
 ---

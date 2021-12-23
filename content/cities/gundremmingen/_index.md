@@ -1,6 +1,6 @@
 ---
 title: Gundremmingen
 url: /gundremmingen/
-latitude: 48.5
-longitude: 10.4
+latitude: 48.499
+longitude: 10.409
 ---

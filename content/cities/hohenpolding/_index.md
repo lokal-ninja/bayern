@@ -1,6 +1,6 @@
 ---
 title: Hohenpolding
 url: /hohenpolding/
-latitude: 48.3835774
-longitude: 12.1305592
+latitude: 48.38
+longitude: 12.13
 ---

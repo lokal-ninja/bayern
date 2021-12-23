@@ -1,6 +1,6 @@
 ---
 title: Berg
 url: /berg/
-latitude: 48.4137331
-longitude: 11.620395400000001
+latitude: 50.385
+longitude: 11.8
 ---

@@ -1,6 +1,6 @@
 ---
 title: Mitterskirchen
 url: /mitterskirchen/
-latitude: 48.3493403
-longitude: 12.7331661
+latitude: 48.348
+longitude: 12.734
 ---

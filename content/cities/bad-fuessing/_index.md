@@ -1,6 +1,6 @@
 ---
 title: Bad Füssing
 url: /bad-fuessing/
-latitude: 
-longitude: 
+latitude: 48.349
+longitude: 13.301
 ---

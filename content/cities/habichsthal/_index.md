@@ -1,6 +1,6 @@
 ---
 title: Habichsthal
 url: /habichsthal/
-latitude: 50.059255500000006
-longitude: 9.4041305
+latitude: 50.061
+longitude: 9.407
 ---

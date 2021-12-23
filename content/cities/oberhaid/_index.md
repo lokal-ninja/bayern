@@ -1,6 +1,6 @@
 ---
 title: Oberhaid
 url: /oberhaid/
-latitude: 49.1591323
-longitude: 12.703942000000001
+latitude: 49.937
+longitude: 10.78
 ---

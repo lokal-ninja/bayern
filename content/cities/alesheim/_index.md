@@ -1,6 +1,6 @@
 ---
 title: Alesheim
 url: /alesheim/
-latitude: 49.048313300000004
-longitude: 10.864338
+latitude: 49.026
+longitude: 10.866
 ---

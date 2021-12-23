@@ -1,6 +1,6 @@
 ---
 title: Haag
 url: /haag/
-latitude: 47.845323400000005
-longitude: 11.438327300000001
+latitude: 48.174
+longitude: 12.142
 ---

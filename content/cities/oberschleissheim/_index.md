@@ -1,6 +1,6 @@
 ---
 title: Oberschleißheim
 url: /oberschleissheim/
-latitude: 48.254938300000006
-longitude: 11.554605800000001
+latitude: 48.252
+longitude: 11.558
 ---

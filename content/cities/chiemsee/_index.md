@@ -1,6 +1,6 @@
 ---
 title: Chiemsee
 url: /chiemsee/
-latitude: 
-longitude: 
+latitude: 47.875
+longitude: 12.425
 ---

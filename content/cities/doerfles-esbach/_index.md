@@ -1,6 +1,6 @@
 ---
 title: Dörfles-Esbach
 url: /doerfles-esbach/
-latitude: 50.2850443
-longitude: 10.996943100000001
+latitude: 50.278
+longitude: 10.986
 ---

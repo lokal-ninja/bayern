@@ -1,6 +1,6 @@
 ---
 title: Kochel a. See
 url: /kochel-a-see/
-latitude: 
-longitude: 
+latitude: 47.684
+longitude: 11.401
 ---

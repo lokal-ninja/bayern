@@ -1,6 +1,6 @@
 ---
 title: Train
 url: /train/
-latitude: 48.731260500000005
-longitude: 11.825679300000001
+latitude: 48.732
+longitude: 11.827
 ---

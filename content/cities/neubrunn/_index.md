@@ -1,6 +1,6 @@
 ---
 title: Neubrunn
 url: /neubrunn/
-latitude: 50.0365562
-longitude: 10.689508100000001
+latitude: 49.735
+longitude: 9.676
 ---

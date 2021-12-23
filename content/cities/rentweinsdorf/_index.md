@@ -1,6 +1,6 @@
 ---
 title: Rentweinsdorf
 url: /rentweinsdorf/
-latitude: 50.0630359
-longitude: 10.7995575
+latitude: 50.063
+longitude: 10.811
 ---

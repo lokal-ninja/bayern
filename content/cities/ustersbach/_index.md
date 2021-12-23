@@ -1,6 +1,6 @@
 ---
 title: Ustersbach
 url: /ustersbach/
-latitude: 48.315498000000005
-longitude: 10.6405752
+latitude: 48.316
+longitude: 10.642
 ---

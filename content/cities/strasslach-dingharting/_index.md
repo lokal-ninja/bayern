@@ -1,6 +1,6 @@
 ---
 title: Straßlach-Dingharting
 url: /strasslach-dingharting/
-latitude: 
-longitude: 
+latitude: 47.997
+longitude: 11.511
 ---

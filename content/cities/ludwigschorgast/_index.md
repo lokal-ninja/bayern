@@ -1,6 +1,6 @@
 ---
 title: Ludwigschorgast
 url: /ludwigschorgast/
-latitude: 50.126453000000005
-longitude: 11.5586193
+latitude: 50.127
+longitude: 11.553
 ---

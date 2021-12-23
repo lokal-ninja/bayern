@@ -1,6 +1,6 @@
 ---
 title: Scheidegg
 url: /scheidegg/
-latitude: 47.583305100000004
-longitude: 9.849998900000001
+latitude: 47.579
+longitude: 9.844
 ---

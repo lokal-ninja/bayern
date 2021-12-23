@@ -1,6 +1,6 @@
 ---
 title: Ebermannstadt
 url: /ebermannstadt/
-latitude: 
-longitude: 
+latitude: 49.78
+longitude: 11.187
 ---

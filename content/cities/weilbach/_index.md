@@ -1,6 +1,6 @@
 ---
 title: Weilbach
 url: /weilbach/
-latitude: 48.124078100000006
-longitude: 10.4264299
+latitude: 49.668
+longitude: 9.216
 ---

@@ -1,6 +1,6 @@
 ---
 title: Obersöchering
 url: /obersoechering/
-latitude: 47.7381272
-longitude: 11.219643000000001
+latitude: 47.739
+longitude: 11.221
 ---

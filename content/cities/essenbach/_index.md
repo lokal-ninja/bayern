@@ -1,6 +1,6 @@
 ---
 title: Essenbach
 url: /essenbach/
-latitude: 48.613026100000006
-longitude: 12.2169913
+latitude: 48.614
+longitude: 12.219
 ---

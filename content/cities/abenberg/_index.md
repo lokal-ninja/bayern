@@ -1,6 +1,6 @@
 ---
 title: Abenberg
 url: /abenberg/
-latitude: 48.6006773
-longitude: 11.103514
+latitude: 49.218
+longitude: 10.886
 ---

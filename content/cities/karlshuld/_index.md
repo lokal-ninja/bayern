@@ -1,6 +1,6 @@
 ---
 title: Karlshuld
 url: /karlshuld/
-latitude: 48.6822692
-longitude: 11.2877512
+latitude: 48.695
+longitude: 11.313
 ---

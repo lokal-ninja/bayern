@@ -1,6 +1,6 @@
 ---
 title: Gmund a.Tegernsee
 url: /gmund-a-tegernsee/
-latitude: 
-longitude: 
+latitude: 47.753
+longitude: 11.722
 ---

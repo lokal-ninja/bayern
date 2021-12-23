@@ -1,6 +1,6 @@
 ---
 title: Oberdolling
 url: /oberdolling/
-latitude: 48.829003
-longitude: 11.592514300000001
+latitude: 48.83
+longitude: 11.598
 ---

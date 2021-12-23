@@ -1,6 +1,6 @@
 ---
 title: Wildpoldsried
 url: /wildpoldsried/
-latitude: 47.766682100000004
-longitude: 10.401926300000001
+latitude: 47.769
+longitude: 10.401
 ---

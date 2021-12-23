@@ -1,6 +1,6 @@
 ---
 title: Gräfendorf
 url: /graefendorf/
-latitude: 50.1229783
-longitude: 9.7415005
+latitude: 50.122
+longitude: 9.741
 ---

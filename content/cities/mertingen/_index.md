@@ -1,6 +1,6 @@
 ---
 title: Mertingen
 url: /mertingen/
-latitude: 48.6578692
-longitude: 10.804625600000001
+latitude: 48.653
+longitude: 10.803
 ---

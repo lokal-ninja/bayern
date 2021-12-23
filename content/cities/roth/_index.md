@@ -1,6 +1,6 @@
 ---
 title: Roth
 url: /roth/
-latitude: 48.365464200000005
-longitude: 10.1504306
+latitude: 49.257
+longitude: 11.084
 ---

@@ -1,6 +1,6 @@
 ---
 title: Hexenagger
 url: /hexenagger/
-latitude: 48.9210117
-longitude: 11.6839688
+latitude: 48.921
+longitude: 11.681
 ---

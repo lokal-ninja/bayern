@@ -1,6 +1,6 @@
 ---
 title: Lonnerstadt
 url: /lonnerstadt/
-latitude: 49.699148900000004
-longitude: 10.766097100000001
+latitude: 49.7
+longitude: 10.776
 ---

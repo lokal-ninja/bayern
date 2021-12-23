@@ -1,6 +1,6 @@
 ---
 title: Maierhöfen
 url: /maierhoefen/
-latitude: 49.260582600000006
-longitude: 12.5204582
+latitude: 47.653
+longitude: 10.052
 ---

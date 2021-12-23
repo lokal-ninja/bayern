@@ -1,6 +1,6 @@
 ---
 title: Hohenfels
 url: /hohenfels/
-latitude: 49.2042676
-longitude: 11.8477896
+latitude: 49.204
+longitude: 11.849
 ---

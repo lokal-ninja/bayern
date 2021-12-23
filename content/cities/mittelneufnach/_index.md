@@ -1,6 +1,6 @@
 ---
 title: Mittelneufnach
 url: /mittelneufnach/
-latitude: 48.1777595
-longitude: 10.5954943
+latitude: 48.198
+longitude: 10.597
 ---

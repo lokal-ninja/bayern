@@ -1,6 +1,6 @@
 ---
 title: Heroldsberg
 url: /heroldsberg/
-latitude: 49.841240600000006
-longitude: 11.3222229
+latitude: 49.535
+longitude: 11.153
 ---

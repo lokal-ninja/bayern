@@ -1,6 +1,6 @@
 ---
 title: Starnberg
 url: /starnberg/
-latitude: 48.000103800000005
-longitude: 11.3508972
+latitude: 47.993
+longitude: 11.331
 ---

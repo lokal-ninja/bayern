@@ -1,6 +1,6 @@
 ---
 title: Kirchberg i. Wald
 url: /kirchberg-i-wald/
-latitude: 
-longitude: 
+latitude: 48.876
+longitude: 13.163
 ---

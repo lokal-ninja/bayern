@@ -1,6 +1,6 @@
 ---
 title: Grünwald
 url: /gruenwald/
-latitude: 
-longitude: 
+latitude: 48.048
+longitude: 11.531
 ---

@@ -1,6 +1,6 @@
 ---
 title: Reithofen
 url: /reithofen/
-latitude: 
-longitude: 
+latitude: 48.201
+longitude: 11.963
 ---

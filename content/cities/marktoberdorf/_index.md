@@ -1,6 +1,6 @@
 ---
 title: Marktoberdorf
 url: /marktoberdorf/
-latitude: 
-longitude: 
+latitude: 47.773
+longitude: 10.604
 ---

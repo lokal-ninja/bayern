@@ -1,6 +1,6 @@
 ---
 title: Waging am See
 url: /waging-am-see/
-latitude: 47.933580600000006
-longitude: 12.734125500000001
+latitude: 47.957
+longitude: 12.757
 ---

@@ -1,6 +1,6 @@
 ---
 title: Rüdenhausen
 url: /ruedenhausen/
-latitude: 49.765055200000006
-longitude: 10.342291600000001
+latitude: 49.765
+longitude: 10.343
 ---

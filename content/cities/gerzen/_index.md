@@ -1,6 +1,6 @@
 ---
 title: Gerzen
 url: /gerzen/
-latitude: 48.507283900000004
-longitude: 12.4292373
+latitude: 48.489
+longitude: 12.378
 ---

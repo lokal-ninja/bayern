@@ -1,6 +1,6 @@
 ---
 title: Straßkirchen
 url: /strasskirchen/
-latitude: 47.9304355
-longitude: 12.1917241
+latitude: 48.833
+longitude: 12.719
 ---

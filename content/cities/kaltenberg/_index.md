@@ -1,6 +1,6 @@
 ---
 title: Kaltenberg
 url: /kaltenberg/
-latitude: 48.6136768
-longitude: 12.505193400000001
+latitude: 48.12
+longitude: 11.001
 ---

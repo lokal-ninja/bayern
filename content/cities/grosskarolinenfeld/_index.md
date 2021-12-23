@@ -1,6 +1,6 @@
 ---
 title: Großkarolinenfeld
 url: /grosskarolinenfeld/
-latitude: 47.891221300000005
-longitude: 12.0801467
+latitude: 47.891
+longitude: 12.078
 ---

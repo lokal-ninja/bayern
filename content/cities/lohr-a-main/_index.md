@@ -1,6 +1,6 @@
 ---
 title: Lohr a. Main
 url: /lohr-a-main/
-latitude: 
-longitude: 
+latitude: 50.009
+longitude: 9.608
 ---

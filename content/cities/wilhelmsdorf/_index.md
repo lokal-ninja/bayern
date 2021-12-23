@@ -1,6 +1,6 @@
 ---
 title: Wilhelmsdorf
 url: /wilhelmsdorf/
-latitude: 49.5633908
-longitude: 10.737769400000001
+latitude: 49.564
+longitude: 10.738
 ---

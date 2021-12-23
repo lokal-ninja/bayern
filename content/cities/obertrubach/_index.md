@@ -1,6 +1,6 @@
 ---
 title: Obertrubach
 url: /obertrubach/
-latitude: 49.695295
-longitude: 11.3496854
+latitude: 49.695
+longitude: 11.349
 ---

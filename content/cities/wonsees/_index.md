@@ -1,6 +1,6 @@
 ---
 title: Wonsees
 url: /wonsees/
-latitude: 49.975841700000004
-longitude: 11.2980709
+latitude: 49.976
+longitude: 11.3
 ---

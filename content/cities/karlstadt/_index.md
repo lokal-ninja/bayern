@@ -1,6 +1,6 @@
 ---
 title: Karlstadt
 url: /karlstadt/
-latitude: 
-longitude: 
+latitude: 49.953
+longitude: 9.775
 ---

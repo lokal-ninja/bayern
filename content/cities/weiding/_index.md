@@ -1,6 +1,6 @@
 ---
 title: Weiding
 url: /weiding/
-latitude: 48.659413
-longitude: 13.291007
+latitude: 49.264
+longitude: 12.765
 ---

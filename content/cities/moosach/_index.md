@@ -1,6 +1,6 @@
 ---
 title: Moosach
 url: /moosach/
-latitude: 48.1798949
-longitude: 11.510571200000001
+latitude: 48.033
+longitude: 11.875
 ---

@@ -1,6 +1,6 @@
 ---
 title: Sulzbach-Rosenberg
 url: /sulzbach-rosenberg/
-latitude: 
-longitude: 
+latitude: 49.504
+longitude: 11.738
 ---

@@ -1,6 +1,6 @@
 ---
 title: Bad Kohlgrub
 url: /bad-kohlgrub/
-latitude: 
-longitude: 
+latitude: 47.666
+longitude: 11.052
 ---

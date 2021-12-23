@@ -1,6 +1,6 @@
 ---
 title: Falkenberg
 url: /falkenberg/
-latitude: 48.4565603
-longitude: 12.312919500000001
+latitude: 48.493
+longitude: 12.758
 ---

@@ -1,6 +1,6 @@
 ---
 title: Straufhain
 url: /straufhain/
-latitude: 
-longitude: 
+latitude: 50.362
+longitude: 10.751
 ---

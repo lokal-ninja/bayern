@@ -1,6 +1,6 @@
 ---
 title: Ernsgaden
 url: /ernsgaden/
-latitude: 48.7314316
-longitude: 11.572983200000001
+latitude: 48.733
+longitude: 11.575
 ---

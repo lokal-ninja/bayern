@@ -1,6 +1,6 @@
 ---
 title: Kaisheim
 url: /kaisheim/
-latitude: 48.7678768
-longitude: 10.798123400000001
+latitude: 48.768
+longitude: 10.797
 ---

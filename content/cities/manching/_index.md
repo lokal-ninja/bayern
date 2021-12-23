@@ -1,6 +1,6 @@
 ---
 title: Manching
 url: /manching/
-latitude: 48.717135600000006
-longitude: 11.494068500000001
+latitude: 48.715
+longitude: 11.504
 ---

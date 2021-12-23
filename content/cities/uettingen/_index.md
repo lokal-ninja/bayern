@@ -1,6 +1,6 @@
 ---
 title: Uettingen
 url: /uettingen/
-latitude: 49.7965644
-longitude: 9.7299559
+latitude: 49.795
+longitude: 9.73
 ---

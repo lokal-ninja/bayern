@@ -1,6 +1,6 @@
 ---
 title: Seebruck
 url: /seebruck/
-latitude: 47.9340156
-longitude: 12.478327400000001
+latitude: 47.934
+longitude: 12.477
 ---

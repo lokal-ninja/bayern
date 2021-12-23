@@ -1,6 +1,6 @@
 ---
 title: Neusitz
 url: /neusitz/
-latitude: 49.3711064
-longitude: 10.222704400000001
+latitude: 49.375
+longitude: 10.234
 ---

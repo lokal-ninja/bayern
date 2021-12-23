@@ -1,6 +1,6 @@
 ---
 title: Walpertskirchen
 url: /walpertskirchen/
-latitude: 48.2589192
-longitude: 11.972518
+latitude: 48.258
+longitude: 11.977
 ---

@@ -1,6 +1,6 @@
 ---
 title: Wegscheid
 url: /wegscheid/
-latitude: 48.907721
-longitude: 11.1426809
+latitude: 48.599
+longitude: 13.786
 ---

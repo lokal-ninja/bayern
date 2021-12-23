@@ -1,6 +1,6 @@
 ---
 title: Großwallstadt
 url: /grosswallstadt/
-latitude: 49.877862900000004
-longitude: 9.1588408
+latitude: 49.882
+longitude: 9.139
 ---

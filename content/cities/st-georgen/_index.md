@@ -1,6 +1,6 @@
 ---
 title: St. Georgen
 url: /st-georgen/
-latitude: 47.944764400000004
-longitude: 11.088494500000001
+latitude: 47.969
+longitude: 12.563
 ---

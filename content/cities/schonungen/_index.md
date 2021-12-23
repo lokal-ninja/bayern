@@ -1,6 +1,6 @@
 ---
 title: Schonungen
 url: /schonungen/
-latitude: 50.0503811
-longitude: 10.3044793
+latitude: 50.047
+longitude: 10.309
 ---

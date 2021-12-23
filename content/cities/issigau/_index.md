@@ -1,6 +1,6 @@
 ---
 title: Issigau
 url: /issigau/
-latitude: 50.376078500000006
-longitude: 11.7209284
+latitude: 50.378
+longitude: 11.716
 ---

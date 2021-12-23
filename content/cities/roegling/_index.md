@@ -1,6 +1,6 @@
 ---
 title: Rögling
 url: /roegling/
-latitude: 47.843918300000006
-longitude: 12.263902900000001
+latitude: 48.847
+longitude: 10.943
 ---

@@ -1,6 +1,6 @@
 ---
 title: Ammerthal
 url: /ammerthal/
-latitude: 47.7360495
-longitude: 10.9758271
+latitude: 49.446
+longitude: 11.759
 ---

@@ -1,6 +1,6 @@
 ---
 title: Forsthart
 url: /forsthart/
-latitude: 48.6345351
-longitude: 13.0283624
+latitude: 48.636
+longitude: 13.024
 ---

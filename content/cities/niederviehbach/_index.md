@@ -1,6 +1,6 @@
 ---
 title: Niederviehbach
 url: /niederviehbach/
-latitude: 48.613294800000006
-longitude: 12.3824459
+latitude: 48.612
+longitude: 12.382
 ---

@@ -1,6 +1,6 @@
 ---
 title: Königsdorf
 url: /koenigsdorf/
-latitude: 47.816408300000006
-longitude: 11.4804346
+latitude: 47.817
+longitude: 11.482
 ---

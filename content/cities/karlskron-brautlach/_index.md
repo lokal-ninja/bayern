@@ -1,6 +1,6 @@
 ---
 title: Karlskron / Brautlach
 url: /karlskron-brautlach/
-latitude: 
-longitude: 
+latitude: 48.693
+longitude: 11.455
 ---

@@ -1,6 +1,6 @@
 ---
 title: Erlenbach a. Main
 url: /erlenbach-a-main/
-latitude: 
-longitude: 
+latitude: 49.803
+longitude: 9.157
 ---

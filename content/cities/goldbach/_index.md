@@ -1,6 +1,6 @@
 ---
 title: Goldbach
 url: /goldbach/
-latitude: 48.3913621
-longitude: 10.3748035
+latitude: 49.994
+longitude: 9.176
 ---

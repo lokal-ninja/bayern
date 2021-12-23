@@ -1,6 +1,6 @@
 ---
 title: Biburg
 url: /biburg/
-latitude: 48.180422300000004
-longitude: 12.302925100000001
+latitude: 48.792
+longitude: 11.854
 ---

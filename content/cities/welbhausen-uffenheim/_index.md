@@ -1,6 +1,6 @@
 ---
 title: Welbhausen/Uffenheim
 url: /welbhausen-uffenheim/
-latitude: 
-longitude: 
+latitude: 49.526
+longitude: 10.217
 ---

@@ -1,6 +1,6 @@
 ---
 title: Schwifting
 url: /schwifting/
-latitude: 48.0479469
-longitude: 10.929082900000001
+latitude: 48.045
+longitude: 10.939
 ---

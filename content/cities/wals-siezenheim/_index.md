@@ -1,6 +1,6 @@
 ---
 title: Wals-Siezenheim
 url: /wals-siezenheim/
-latitude: 
-longitude: 
+latitude: 47.815
+longitude: 12.98
 ---

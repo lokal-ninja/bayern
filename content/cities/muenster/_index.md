@@ -1,6 +1,6 @@
 ---
 title: Münster
 url: /muenster/
-latitude: 48.2293724
-longitude: 10.6357095
+latitude: 48.607
+longitude: 10.903
 ---

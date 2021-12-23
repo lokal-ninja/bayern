@@ -1,6 +1,6 @@
 ---
 title: Eckental-Herpersdorf
 url: /eckental-herpersdorf/
-latitude: 
-longitude: 
+latitude: 49.578
+longitude: 11.259
 ---

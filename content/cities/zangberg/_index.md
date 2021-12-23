@@ -1,6 +1,6 @@
 ---
 title: Zangberg
 url: /zangberg/
-latitude: 48.2760893
-longitude: 12.4249033
+latitude: 48.275
+longitude: 12.425
 ---

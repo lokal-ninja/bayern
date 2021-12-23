@@ -1,6 +1,6 @@
 ---
 title: Lützelbach
 url: /luetzelbach/
-latitude: 
-longitude: 
+latitude: 49.792
+longitude: 9.126
 ---

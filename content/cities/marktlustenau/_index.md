@@ -1,6 +1,6 @@
 ---
 title: Marktlustenau
 url: /marktlustenau/
-latitude: 
-longitude: 
+latitude: 49.129
+longitude: 10.241
 ---

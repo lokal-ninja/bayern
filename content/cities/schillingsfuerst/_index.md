@@ -1,6 +1,6 @@
 ---
 title: Schillingsfürst
 url: /schillingsfuerst/
-latitude: 48.533967800000006
-longitude: 12.7077892
+latitude: 49.283
+longitude: 10.262
 ---

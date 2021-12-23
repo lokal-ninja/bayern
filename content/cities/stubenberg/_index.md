@@ -1,6 +1,6 @@
 ---
 title: Stubenberg
 url: /stubenberg/
-latitude: 48.756965400000006
-longitude: 13.724918200000001
+latitude: 48.309
+longitude: 13.072
 ---

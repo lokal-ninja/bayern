@@ -1,6 +1,6 @@
 ---
 title: Pollenfeld
 url: /pollenfeld/
-latitude: 48.948098
-longitude: 11.2081535
+latitude: 48.96
+longitude: 11.225
 ---

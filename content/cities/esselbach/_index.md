@@ -1,6 +1,6 @@
 ---
 title: Esselbach
 url: /esselbach/
-latitude: 49.8553
-longitude: 9.525830000000001
+latitude: 49.836
+longitude: 9.526
 ---

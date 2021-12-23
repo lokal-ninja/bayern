@@ -1,6 +1,6 @@
 ---
 title: Gablingen
 url: /gablingen/
-latitude: 48.4564554
-longitude: 10.8207702
+latitude: 48.455
+longitude: 10.819
 ---

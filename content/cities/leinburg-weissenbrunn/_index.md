@@ -1,6 +1,6 @@
 ---
 title: Leinburg-Weißenbrunn
 url: /leinburg-weissenbrunn/
-latitude: 
-longitude: 
+latitude: 49.429
+longitude: 11.357
 ---

@@ -1,6 +1,6 @@
 ---
 title: Walkertshofen
 url: /walkertshofen/
-latitude: 48.674920500000006
-longitude: 11.876009600000001
+latitude: 48.227
+longitude: 10.588
 ---

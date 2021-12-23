@@ -1,6 +1,6 @@
 ---
 title: Grasbrunn
 url: /grasbrunn/
-latitude: 48.0789075
-longitude: 11.7432493
+latitude: 48.061
+longitude: 11.772
 ---

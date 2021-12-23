@@ -1,6 +1,6 @@
 ---
 title: Rothenfels
 url: /rothenfels/
-latitude: 49.2546619
-longitude: 11.5552194
+latitude: 49.893
+longitude: 9.588
 ---

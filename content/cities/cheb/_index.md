@@ -1,6 +1,6 @@
 ---
 title: Cheb
 url: /cheb/
-latitude: 
-longitude: 
+latitude: 50.041
+longitude: 12.34
 ---

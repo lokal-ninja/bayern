@@ -1,6 +1,6 @@
 ---
 title: Oberau
 url: /oberau/
-latitude: 48.3062355
-longitude: 12.615653100000001
+latitude: 47.561
+longitude: 11.128
 ---

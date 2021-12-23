@@ -1,6 +1,6 @@
 ---
 title: Elchingen
 url: /elchingen/
-latitude: 
-longitude: 
+latitude: 48.449
+longitude: 10.083
 ---

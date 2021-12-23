@@ -1,6 +1,6 @@
 ---
 title: Wackersdorf
 url: /wackersdorf/
-latitude: 49.3123993
-longitude: 12.1938198
+latitude: 49.311
+longitude: 12.169
 ---

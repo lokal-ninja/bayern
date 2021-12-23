@@ -1,6 +1,6 @@
 ---
 title: Ottobrunn
 url: /ottobrunn/
-latitude: 
-longitude: 
+latitude: 48.065
+longitude: 11.665
 ---

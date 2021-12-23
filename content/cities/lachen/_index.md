@@ -1,6 +1,6 @@
 ---
 title: Lachen
 url: /lachen/
-latitude: 47.9607126
-longitude: 11.104263900000001
+latitude: 47.927
+longitude: 10.238
 ---

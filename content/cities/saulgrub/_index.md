@@ -1,6 +1,6 @@
 ---
 title: Saulgrub
 url: /saulgrub/
-latitude: 
-longitude: 
+latitude: 47.65
+longitude: 10.998
 ---

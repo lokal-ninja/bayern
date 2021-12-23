@@ -1,6 +1,6 @@
 ---
 title: Wallgau
 url: /wallgau/
-latitude: 47.5195607
-longitude: 11.283336
+latitude: 47.522
+longitude: 11.282
 ---

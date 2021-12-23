@@ -1,6 +1,6 @@
 ---
 title: Gebenbach
 url: /gebenbach/
-latitude: 49.5372642
-longitude: 11.8732567
+latitude: 49.537
+longitude: 11.874
 ---

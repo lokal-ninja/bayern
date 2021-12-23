@@ -1,6 +1,6 @@
 ---
 title: Steindorf
 url: /steindorf/
-latitude: 48.5797729
-longitude: 12.820658600000002
+latitude: 48.216
+longitude: 11.001
 ---

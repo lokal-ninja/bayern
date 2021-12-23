@@ -1,6 +1,6 @@
 ---
 title: Luhe-Wildenau
 url: /luhe-wildenau/
-latitude: 49.5833
-longitude: 12.15
+latitude: 49.602
+longitude: 12.126
 ---

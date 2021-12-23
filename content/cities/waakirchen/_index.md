@@ -1,6 +1,6 @@
 ---
 title: Waakirchen
 url: /waakirchen/
-latitude: 
-longitude: 
+latitude: 47.794
+longitude: 11.719
 ---

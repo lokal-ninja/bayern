@@ -1,6 +1,6 @@
 ---
 title: Burgberg im Allgäu
 url: /burgberg-im-allgaeu/
-latitude: 
-longitude: 
+latitude: 47.526
+longitude: 10.281
 ---

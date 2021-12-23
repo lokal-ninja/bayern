@@ -1,6 +1,6 @@
 ---
 title: Bischberg
 url: /bischberg/
-latitude: 49.3709445
-longitude: 11.4723328
+latitude: 49.919
+longitude: 10.809
 ---

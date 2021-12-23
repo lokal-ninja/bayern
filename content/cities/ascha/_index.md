@@ -1,6 +1,6 @@
 ---
 title: Ascha
 url: /ascha/
-latitude: 
-longitude: 
+latitude: 48.996
+longitude: 12.635
 ---

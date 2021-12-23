@@ -1,6 +1,6 @@
 ---
 title: Nierdermoosen
 url: /nierdermoosen/
-latitude: 
-longitude: 
+latitude: 47.836
+longitude: 12.173
 ---

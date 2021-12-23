@@ -1,6 +1,6 @@
 ---
 title: Hohenthann
 url: /hohenthann/
-latitude: 48.26464
-longitude: 12.2871977
+latitude: 48.661
+longitude: 12.095
 ---

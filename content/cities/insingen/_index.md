@@ -1,6 +1,6 @@
 ---
 title: Insingen
 url: /insingen/
-latitude: 
-longitude: 
+latitude: 49.303
+longitude: 10.163
 ---

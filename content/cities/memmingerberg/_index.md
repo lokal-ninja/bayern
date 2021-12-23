@@ -1,6 +1,6 @@
 ---
 title: Memmingerberg
 url: /memmingerberg/
-latitude: 47.9893817
-longitude: 10.2112859
+latitude: 47.987
+longitude: 10.219
 ---

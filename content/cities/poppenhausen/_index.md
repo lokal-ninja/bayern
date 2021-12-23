@@ -1,6 +1,6 @@
 ---
 title: Poppenhausen
 url: /poppenhausen/
-latitude: 50.09958880000001
-longitude: 10.143824700000001
+latitude: 50.078
+longitude: 10.151
 ---

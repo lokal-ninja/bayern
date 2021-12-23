@@ -1,6 +1,6 @@
 ---
 title: Irschenberg
 url: /irschenberg/
-latitude: 47.8337585
-longitude: 11.9158893
+latitude: 47.785
+longitude: 11.921
 ---

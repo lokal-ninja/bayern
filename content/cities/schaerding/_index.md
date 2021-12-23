@@ -1,6 +1,6 @@
 ---
 title: Schärding
 url: /schaerding/
-latitude: 48.4569975
-longitude: 13.4318
+latitude: 48.457
+longitude: 13.432
 ---

@@ -1,6 +1,6 @@
 ---
 title: Münchberg
 url: /muenchberg/
-latitude: 
-longitude: 
+latitude: 50.193
+longitude: 11.788
 ---

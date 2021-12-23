@@ -1,6 +1,6 @@
 ---
 title: Weiherhammer
 url: /weiherhammer/
-latitude: 
-longitude: 
+latitude: 49.632
+longitude: 12.067
 ---

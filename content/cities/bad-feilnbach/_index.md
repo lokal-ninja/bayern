@@ -1,6 +1,6 @@
 ---
 title: Bad Feilnbach
 url: /bad-feilnbach/
-latitude: 47.774585800000004
-longitude: 12.007079800000001
+latitude: 47.778
+longitude: 12.001
 ---

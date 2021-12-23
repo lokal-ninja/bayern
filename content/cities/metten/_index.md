@@ -1,6 +1,6 @@
 ---
 title: Metten
 url: /metten/
-latitude: 48.975686200000005
-longitude: 13.094324400000001
+latitude: 48.848
+longitude: 12.912
 ---

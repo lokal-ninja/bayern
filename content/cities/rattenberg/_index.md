@@ -1,6 +1,6 @@
 ---
 title: Rattenberg
 url: /rattenberg/
-latitude: 49.5800089
-longitude: 12.1932945
+latitude: 49.058
+longitude: 12.764
 ---

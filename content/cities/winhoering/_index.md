@@ -1,6 +1,6 @@
 ---
 title: Winhöring
 url: /winhoering/
-latitude: 48.2670046
-longitude: 12.650970200000001
+latitude: 48.265
+longitude: 12.651
 ---

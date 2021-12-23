@@ -1,6 +1,6 @@
 ---
 title: Vilgertshofen
 url: /vilgertshofen/
-latitude: 47.9523895
-longitude: 10.9167004
+latitude: 47.966
+longitude: 10.923
 ---

@@ -1,6 +1,6 @@
 ---
 title: Eurasburg
 url: /eurasburg/
-latitude: 47.8541028
-longitude: 11.4055842
+latitude: 47.85
+longitude: 11.411
 ---

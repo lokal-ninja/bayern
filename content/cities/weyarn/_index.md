@@ -1,6 +1,6 @@
 ---
 title: Weyarn
 url: /weyarn/
-latitude: 47.8592018
-longitude: 11.799982100000001
+latitude: 47.882
+longitude: 11.83
 ---

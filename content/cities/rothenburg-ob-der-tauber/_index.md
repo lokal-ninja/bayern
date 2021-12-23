@@ -1,6 +1,6 @@
 ---
 title: Rothenburg ob der Tauber
 url: /rothenburg-ob-der-tauber/
-latitude: 
-longitude: 
+latitude: 49.377
+longitude: 10.196
 ---

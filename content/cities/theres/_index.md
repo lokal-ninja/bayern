@@ -1,6 +1,6 @@
 ---
 title: Theres
 url: /theres/
-latitude: 
-longitude: 
+latitude: 50.019
+longitude: 10.446
 ---

@@ -1,6 +1,6 @@
 ---
 title: Bogen
 url: /bogen/
-latitude: 49.3146393
-longitude: 12.761458300000001
+latitude: 48.916
+longitude: 12.694
 ---

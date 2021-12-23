@@ -1,6 +1,6 @@
 ---
 title: Oberding
 url: /oberding/
-latitude: 
-longitude: 
+latitude: 48.32
+longitude: 11.847
 ---

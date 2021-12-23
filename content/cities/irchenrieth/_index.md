@@ -1,6 +1,6 @@
 ---
 title: Irchenrieth
 url: /irchenrieth/
-latitude: 49.6237081
-longitude: 12.2245495
+latitude: 49.623
+longitude: 12.225
 ---

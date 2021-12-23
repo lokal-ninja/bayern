@@ -1,6 +1,6 @@
 ---
 title: Merching
 url: /merching/
-latitude: 48.2449006
-longitude: 10.986375800000001
+latitude: 48.246
+longitude: 10.986
 ---

@@ -1,6 +1,6 @@
 ---
 title: Flossenbürg
 url: /flossenbuerg/
-latitude: 49.7329883
-longitude: 12.349821100000002
+latitude: 49.736
+longitude: 12.354
 ---

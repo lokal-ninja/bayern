@@ -1,6 +1,6 @@
 ---
 title: Wittislingen
 url: /wittislingen/
-latitude: 48.618268
-longitude: 10.415560900000001
+latitude: 48.617
+longitude: 10.427
 ---

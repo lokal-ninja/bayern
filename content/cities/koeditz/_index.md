@@ -1,6 +1,6 @@
 ---
 title: Köditz
 url: /koeditz/
-latitude: 50.330942400000005
-longitude: 11.8488398
+latitude: 50.372
+longitude: 11.837
 ---

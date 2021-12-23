@@ -1,6 +1,6 @@
 ---
 title: Großkrotzenburg
 url: /grosskrotzenburg/
-latitude: 
-longitude: 
+latitude: 50.077
+longitude: 8.998
 ---

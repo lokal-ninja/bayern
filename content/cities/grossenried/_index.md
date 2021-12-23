@@ -1,6 +1,6 @@
 ---
 title: Großenried
 url: /grossenried/
-latitude: 49.1874328
-longitude: 10.578861700000001
+latitude: 49.187
+longitude: 10.58
 ---

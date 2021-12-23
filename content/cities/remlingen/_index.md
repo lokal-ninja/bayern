@@ -1,6 +1,6 @@
 ---
 title: Remlingen
 url: /remlingen/
-latitude: 49.804732300000005
-longitude: 9.694609900000001
+latitude: 49.804
+longitude: 9.696
 ---

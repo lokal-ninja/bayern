@@ -1,6 +1,6 @@
 ---
 title: Althegnenberg
 url: /althegnenberg/
-latitude: 
-longitude: 
+latitude: 48.234
+longitude: 11.063
 ---

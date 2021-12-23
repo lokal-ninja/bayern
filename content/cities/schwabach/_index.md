@@ -1,6 +1,6 @@
 ---
 title: Schwabach
 url: /schwabach/
-latitude: 49.3295535
-longitude: 11.0195132
+latitude: 49.342
+longitude: 11.012
 ---

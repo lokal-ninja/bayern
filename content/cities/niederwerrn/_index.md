@@ -1,6 +1,6 @@
 ---
 title: Niederwerrn
 url: /niederwerrn/
-latitude: 50.0610864
-longitude: 10.1821081
+latitude: 50.07
+longitude: 10.155
 ---

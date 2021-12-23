@@ -1,6 +1,6 @@
 ---
 title: Markt Indersdorf
 url: /markt-indersdorf/
-latitude: 48.3607668
-longitude: 11.374301
+latitude: 48.361
+longitude: 11.376
 ---

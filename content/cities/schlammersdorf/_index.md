@@ -1,6 +1,6 @@
 ---
 title: Schlammersdorf
 url: /schlammersdorf/
-latitude: 49.8013374
-longitude: 11.7338085
+latitude: 49.802
+longitude: 11.736
 ---

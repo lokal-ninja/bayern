@@ -1,6 +1,6 @@
 ---
 title: Zweifelsheim
 url: /zweifelsheim/
-latitude: 49.5440034
-longitude: 10.828765800000001
+latitude: 49.545
+longitude: 10.831
 ---

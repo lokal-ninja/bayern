@@ -1,6 +1,6 @@
 ---
 title: Bad Kissingen
 url: /bad-kissingen/
-latitude: 50.1985698
-longitude: 10.0746833
+latitude: 50.205
+longitude: 10.086
 ---

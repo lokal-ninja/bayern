@@ -1,6 +1,6 @@
 ---
 title: Titting
 url: /titting/
-latitude: 48.996666000000005
-longitude: 11.210610200000001
+latitude: 48.996
+longitude: 11.21
 ---

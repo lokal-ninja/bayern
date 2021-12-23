@@ -1,6 +1,6 @@
 ---
 title: Rieneck
 url: /rieneck/
-latitude: 50.0942383
-longitude: 9.6472187
+latitude: 50.093
+longitude: 9.647
 ---

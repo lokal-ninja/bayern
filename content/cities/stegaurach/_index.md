@@ -1,6 +1,6 @@
 ---
 title: Stegaurach
 url: /stegaurach/
-latitude: 49.8639098
-longitude: 10.8428746
+latitude: 49.859
+longitude: 10.865
 ---

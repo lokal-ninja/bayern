@@ -1,6 +1,6 @@
 ---
 title: Scherstetten
 url: /scherstetten/
-latitude: 48.180448000000005
-longitude: 10.641069900000002
+latitude: 48.206
+longitude: 10.649
 ---

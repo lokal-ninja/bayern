@@ -1,6 +1,6 @@
 ---
 title: Kötz
 url: /koetz/
-latitude: 
-longitude: 
+latitude: 48.413
+longitude: 10.294
 ---

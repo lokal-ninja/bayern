@@ -1,6 +1,6 @@
 ---
 title: Gemünda
 url: /gemuenda/
-latitude: 
-longitude: 
+latitude: 50.223
+longitude: 10.805
 ---

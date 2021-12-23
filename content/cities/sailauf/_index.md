@@ -1,6 +1,6 @@
 ---
 title: Sailauf
 url: /sailauf/
-latitude: 50.0245216
-longitude: 9.2562853
+latitude: 50.025
+longitude: 9.257
 ---

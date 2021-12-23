@@ -1,6 +1,6 @@
 ---
 title: Hausham
 url: /hausham/
-latitude: 
-longitude: 
+latitude: 47.762
+longitude: 11.829
 ---

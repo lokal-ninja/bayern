@@ -1,6 +1,6 @@
 ---
 title: Schnabelwaid
 url: /schnabelwaid/
-latitude: 49.812393300000004
-longitude: 11.584984
+latitude: 49.812
+longitude: 11.583
 ---

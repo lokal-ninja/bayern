@@ -1,6 +1,6 @@
 ---
 title: Hohenfurch
 url: /hohenfurch/
-latitude: 47.848823800000005
-longitude: 10.898496900000001
+latitude: 47.846
+longitude: 10.889
 ---

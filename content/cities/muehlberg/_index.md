@@ -1,6 +1,6 @@
 ---
 title: Mühlberg
 url: /muehlberg/
-latitude: 47.6749056
-longitude: 12.070281600000001
+latitude: 48.9
+longitude: 13.337
 ---

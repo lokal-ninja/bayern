@@ -1,6 +1,6 @@
 ---
 title: Blankenbach
 url: /blankenbach/
-latitude: 
-longitude: 
+latitude: 50.065
+longitude: 9.23
 ---

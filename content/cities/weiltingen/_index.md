@@ -1,6 +1,6 @@
 ---
 title: Weiltingen
 url: /weiltingen/
-latitude: 49.037929500000004
-longitude: 10.4497078
+latitude: 49.038
+longitude: 10.449
 ---

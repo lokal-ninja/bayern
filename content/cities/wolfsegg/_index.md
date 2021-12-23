@@ -1,6 +1,6 @@
 ---
 title: Wolfsegg
 url: /wolfsegg/
-latitude: 48.409494800000004
-longitude: 12.6089123
+latitude: 49.107
+longitude: 11.982
 ---

@@ -1,6 +1,6 @@
 ---
 title: Oberelsbach-Ginolfs
 url: /oberelsbach-ginolfs/
-latitude: 
-longitude: 
+latitude: 50.437
+longitude: 10.072
 ---

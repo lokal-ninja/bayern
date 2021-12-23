@@ -1,6 +1,6 @@
 ---
 title: Greifenberg
 url: /greifenberg/
-latitude: 48.070744600000005
-longitude: 11.0835556
+latitude: 48.07
+longitude: 11.082
 ---

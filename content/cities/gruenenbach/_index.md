@@ -1,6 +1,6 @@
 ---
 title: Grünenbach
 url: /gruenenbach/
-latitude: 47.6283491
-longitude: 10.0097921
+latitude: 47.619
+longitude: 10.037
 ---

@@ -1,6 +1,6 @@
 ---
 title: Niederalteich
 url: /niederalteich/
-latitude: 48.765563500000006
-longitude: 13.025406700000001
+latitude: 48.764
+longitude: 13.023
 ---

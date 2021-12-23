@@ -1,6 +1,6 @@
 ---
 title: Ehekirchen
 url: /ehekirchen/
-latitude: 48.637504
-longitude: 11.104635
+latitude: 48.639
+longitude: 11.106
 ---

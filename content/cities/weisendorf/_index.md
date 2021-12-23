@@ -1,6 +1,6 @@
 ---
 title: Weisendorf
 url: /weisendorf/
-latitude: 49.6232447
-longitude: 10.826895
+latitude: 49.628
+longitude: 10.838
 ---

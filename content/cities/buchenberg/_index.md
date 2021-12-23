@@ -1,6 +1,6 @@
 ---
 title: Buchenberg
 url: /buchenberg/
-latitude: 47.596255000000006
-longitude: 10.3546841
+latitude: 47.72
+longitude: 10.216
 ---

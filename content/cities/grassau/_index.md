@@ -1,6 +1,6 @@
 ---
 title: Grassau
 url: /grassau/
-latitude: 47.779457
-longitude: 12.4537954
+latitude: 47.777
+longitude: 12.449
 ---

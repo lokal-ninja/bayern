@@ -1,6 +1,6 @@
 ---
 title: Alteglofsheim
 url: /alteglofsheim/
-latitude: 
-longitude: 
+latitude: 48.916
+longitude: 12.205
 ---
