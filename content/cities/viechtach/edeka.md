@@ -1,5 +1,5 @@
 ---
 title: "EDEKA"
-url: /nittenau/edeka/
+url: /viechtach/edeka/
 shop: Supermarkt
 ---

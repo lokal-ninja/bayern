@@ -1,5 +1,5 @@
 ---
 title: "Schuhhaus Schiessl"
 url: /penzberg/schuhhaus-schiessl/
-shop: Schuhe
+shop: Leerstehend
 ---
