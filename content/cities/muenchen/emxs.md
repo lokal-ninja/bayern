@@ -1,5 +1,5 @@
 ---
 title: "EMXS"
 url: /muenchen/emxs/
-shop: Allgemein
+shop: Motorrad
 ---
