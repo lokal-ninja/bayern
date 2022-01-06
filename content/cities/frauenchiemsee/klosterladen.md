@@ -1,5 +1,5 @@
 ---
 title: "Klosterladen"
 url: /frauenchiemsee/klosterladen/
-shop: Lebensmittel
+shop: Andenken
 ---
