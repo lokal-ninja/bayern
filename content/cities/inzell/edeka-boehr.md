@@ -1,5 +1,5 @@
 ---
-title: "Edeka Böhr"
+title: "EDEKA Böhr"
 url: /inzell/edeka-boehr/
 shop: Supermarkt
 ---
