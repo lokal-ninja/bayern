@@ -1,6 +1,6 @@
 ---
 title: Augsburg
 url: /augsburg/
-latitude: 48.363
-longitude: 10.872
+latitude: 48.365
+longitude: 10.888
 ---

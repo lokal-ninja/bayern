@@ -1,5 +1,5 @@
 ---
 title: "Vergölst"
 url: /neu-ulm/vergoelst/
-shop: Autowerkstatt
+shop: Reifen
 ---

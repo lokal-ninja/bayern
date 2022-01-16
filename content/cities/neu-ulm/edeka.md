@@ -1,5 +1,5 @@
 ---
-title: "Edeka"
+title: "EDEKA"
 url: /neu-ulm/edeka/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Abele-Optik"
+title: "abele optik"
 url: /neu-ulm/abele-optik/
 shop: Optiker
 ---

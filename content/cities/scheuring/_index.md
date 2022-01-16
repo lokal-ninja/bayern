@@ -1,6 +1,6 @@
 ---
 title: Scheuring
 url: /scheuring/
-latitude: 48.165
-longitude: 10.898
+latitude: 48.172
+longitude: 10.892
 ---
