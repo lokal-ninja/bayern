@@ -1,5 +1,5 @@
 ---
 title: "Rattenhuber"
 url: /freising/rattenhuber/
-shop: Allgemein
+shop: Sanitätshaus
 ---
