@@ -2,5 +2,5 @@
 title: Poing
 url: /poing/
 latitude: 48.171
-longitude: 11.807
+longitude: 11.808
 ---

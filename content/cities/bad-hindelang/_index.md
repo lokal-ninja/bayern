@@ -1,6 +1,6 @@
 ---
 title: Bad Hindelang
 url: /bad-hindelang/
-latitude: 47.505
-longitude: 10.37
+latitude: 47.515
+longitude: 10.406
 ---

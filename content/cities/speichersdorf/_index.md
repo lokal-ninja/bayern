@@ -1,6 +1,6 @@
 ---
 title: Speichersdorf
 url: /speichersdorf/
-latitude: 49.875
-longitude: 11.771
+latitude: 49.872
+longitude: 11.747
 ---

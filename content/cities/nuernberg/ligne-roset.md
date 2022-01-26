@@ -1,5 +1,5 @@
 ---
-title: "ligne roset"
+title: "Ligne Roset"
 url: /nuernberg/ligne-roset/
 shop: Möbel
 ---
