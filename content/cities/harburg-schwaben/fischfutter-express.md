@@ -1,5 +1,5 @@
 ---
 title: "Fischfutter Express"
 url: /harburg-schwaben/fischfutter-express/
-shop: Allgemein
+shop: Katalog
 ---

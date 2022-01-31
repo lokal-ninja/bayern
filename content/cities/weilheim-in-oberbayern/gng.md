@@ -1,5 +1,5 @@
 ---
 title: "GNG"
 url: /weilheim-in-oberbayern/gng/
-shop: Allgemein
+shop: Modehaus
 ---

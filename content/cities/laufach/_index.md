@@ -1,6 +1,6 @@
 ---
 title: Laufach
 url: /laufach/
-latitude: 50.01
-longitude: 9.324
+latitude: 50.012
+longitude: 9.325
 ---

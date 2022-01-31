@@ -1,5 +1,5 @@
 ---
 title: "MCM"
 url: /ingolstadt/mcm/
-shop: Allgemein
+shop: Modehaus
 ---

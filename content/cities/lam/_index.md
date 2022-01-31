@@ -1,6 +1,6 @@
 ---
 title: Lam
 url: /lam/
-latitude: 49.197
-longitude: 13.052
+latitude: 49.198
+longitude: 13.05
 ---
