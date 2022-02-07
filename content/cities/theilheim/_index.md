@@ -1,6 +1,6 @@
 ---
 title: Theilheim
 url: /theilheim/
-latitude: 49.754
-longitude: 10.028
+latitude: 49.753
+longitude: 10.016
 ---

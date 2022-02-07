@@ -1,5 +1,5 @@
 ---
-title: "boesner"
+title: "Boesner"
 url: /muenchen/boesner/
 shop: Basteln
 ---
