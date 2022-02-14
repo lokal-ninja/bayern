@@ -1,5 +1,5 @@
 ---
-title: "Edeka"
+title: "EDEKA"
 url: /bad-berneck/edeka/
 shop: Supermarkt
 ---

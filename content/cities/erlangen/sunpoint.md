@@ -1,5 +1,5 @@
 ---
-title: "SunPoint"
+title: "Sunpoint"
 url: /erlangen/sunpoint/
 shop: Kosmetik
 ---

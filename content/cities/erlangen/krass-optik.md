@@ -1,5 +1,5 @@
 ---
-title: "Krass Optik"
+title: "KRASS Optik"
 url: /erlangen/krass-optik/
 shop: Optiker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bummelboutique"
 url: /erlangen/bummelboutique/
-shop: Modehaus
+shop: Kleidung
 ---

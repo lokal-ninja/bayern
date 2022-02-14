@@ -1,5 +1,5 @@
 ---
 title: "METRO"
 url: /neu-ulm/metro/
-shop: Supermarkt
+shop: Großhandel
 ---
