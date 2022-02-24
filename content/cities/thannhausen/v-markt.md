@@ -1,5 +1,5 @@
 ---
-title: "V-Markt"
+title: "V-MARKT"
 url: /thannhausen/v-markt/
 shop: Supermarkt
 ---

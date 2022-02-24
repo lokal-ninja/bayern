@@ -1,5 +1,5 @@
 ---
 title: "Vitalia"
 url: /muenchen/vitalia/
-shop: Supermarkt
+shop: Lebensmittel
 ---

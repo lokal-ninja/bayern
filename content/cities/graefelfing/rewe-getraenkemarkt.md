@@ -1,5 +1,5 @@
 ---
-title: "Rewe Getränkemarkt"
+title: "REWE Getränkemarkt"
 url: /graefelfing/rewe-getraenkemarkt/
 shop: Getränke
 ---

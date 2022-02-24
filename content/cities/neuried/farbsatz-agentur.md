@@ -1,5 +1,5 @@
 ---
 title: "Farbsatz Agentur"
 url: /neuried/farbsatz-agentur/
-shop: Allgemein
+shop: Kopieren
 ---

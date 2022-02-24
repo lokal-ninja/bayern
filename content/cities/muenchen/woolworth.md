@@ -1,5 +1,5 @@
 ---
 title: "Woolworth"
 url: /muenchen/woolworth/
-shop: Allgemein
+shop: Warenhaus
 ---

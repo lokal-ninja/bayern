@@ -1,5 +1,5 @@
 ---
-title: "ROSSMANN"
+title: "Rossmann"
 url: /muenchen/rossmann-25/
 shop: Drogerie
 ---

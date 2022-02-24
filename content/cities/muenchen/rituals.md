@@ -1,5 +1,5 @@
 ---
-title: "rituals"
+title: "Rituals"
 url: /muenchen/rituals/
-shop: Drogerie
+shop: Kosmetik
 ---

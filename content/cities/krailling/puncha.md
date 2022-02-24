@@ -1,5 +1,5 @@
 ---
 title: "Puncha"
 url: /krailling/puncha/
-shop: Modehaus
+shop: Kleidung
 ---

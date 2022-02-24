@@ -1,5 +1,5 @@
 ---
 title: "Scupin Fashion"
 url: /oberhaching/scupin-fashion/
-shop: Modehaus
+shop: Kleidung
 ---

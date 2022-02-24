@@ -1,5 +1,5 @@
 ---
-title: "H&M Home"
+title: "H&M HOME"
 url: /muenchen/hundm-home/
-shop: Möbel
+shop: Raumausstattung
 ---
