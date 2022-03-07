@@ -1,5 +1,5 @@
 ---
-title: "Edeka xpress"
+title: "EDEKA xpress"
 url: /augsburg/edeka-xpress/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Eterna"
+title: "ETERNA"
 url: /augsburg/eterna/
 shop: Kleidung
 ---

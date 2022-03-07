@@ -1,5 +1,5 @@
 ---
-title: "Vitalia Reformhaus"
+title: "VITALIA Reformhaus"
 url: /wuerzburg/vitalia-reformhaus/
-shop: Supermarkt
+shop: Bioladen
 ---
