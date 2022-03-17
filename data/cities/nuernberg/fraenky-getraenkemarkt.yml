@@ -1,11 +1,11 @@
-id: 313843927
-type: node
-latitude: 49.46815
-longitude: 11.09959
-postcode: ""
+id: 286419781
+type: way
+latitude: 49.52132
+longitude: 11.00578
+postcode: "90427"
 city: Nürnberg
-street: ""
-housenumber: 
+street: "Wiesbadener Straße"
+housenumber: 33
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"
-website: ""
+website: "https://www.orterer.de/fraenky/index_start.php"

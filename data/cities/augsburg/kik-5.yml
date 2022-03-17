@@ -1,11 +1,11 @@
-id: 5759207915
-type: node
-latitude: 48.38031
-longitude: 10.93208
-postcode: "86165"
+id: 228160344
+type: way
+latitude: 48.39117
+longitude: 10.85753
+postcode: "86156"
 city: Augsburg
-street: "Brixener Straße"
-housenumber: 11
+street: "Holzweg"
+housenumber: 45b
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: ""
 website: ""

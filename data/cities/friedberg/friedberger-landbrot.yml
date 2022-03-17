@@ -1,11 +1,11 @@
-id: 1368706477
-type: node
-latitude: 48.35052
-longitude: 10.98741
+id: 108966449
+type: way
+latitude: 48.35167
+longitude: 10.95473
 postcode: "86316"
 city: Friedberg
-street: "Mergenthauer Weg"
-housenumber: 12
-phone: ""
-opening_hours: "Mo-Fr 06:00-12:30,14:30-18:00; Sa 06:00-12:00"
-website: ""
+street: "Metzstraße"
+housenumber: 7
+phone: "+49 821 261910"
+opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-12:30"
+website: "http://www.friedberger-landbrot.de/"

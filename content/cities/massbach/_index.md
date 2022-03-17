@@ -1,6 +1,6 @@
 ---
 title: Maßbach
 url: /massbach/
-latitude: 50.183
+latitude: 50.184
 longitude: 10.276
 ---
