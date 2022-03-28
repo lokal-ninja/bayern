@@ -1,5 +1,5 @@
 ---
-title: "Falke"
+title: "FALKE"
 url: /ingolstadt/falke/
-shop: Schuhe
+shop: Kleidung
 ---

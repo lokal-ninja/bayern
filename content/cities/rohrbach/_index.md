@@ -1,6 +1,6 @@
 ---
 title: Rohrbach
 url: /rohrbach/
-latitude: 48.606
-longitude: 11.57
+latitude: 48.607
+longitude: 11.568
 ---

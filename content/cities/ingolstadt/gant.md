@@ -1,5 +1,5 @@
 ---
-title: "Gant"
+title: "GANT"
 url: /ingolstadt/gant/
 shop: Kleidung
 ---

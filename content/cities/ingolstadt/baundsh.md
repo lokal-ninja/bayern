@@ -1,5 +1,5 @@
 ---
-title: "ba&sh"
+title: "Ba&sh"
 url: /ingolstadt/baundsh/
-shop: Taschen & Koffer
+shop: Kleidung
 ---

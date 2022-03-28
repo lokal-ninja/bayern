@@ -1,5 +1,5 @@
 ---
-title: "Briefmarken und Muenzhaus Fuerth"
+title: "Briefmarken- und Münzhaus Fürth"
 url: /fuerth/briefmarken-und-muenzhaus-fuerth/
-shop: Allgemein
+shop: Sammler
 ---

@@ -1,5 +1,5 @@
 ---
-title: "DM"
+title: "dm"
 url: /schwandorf/dm/
 shop: Drogerie
 ---
