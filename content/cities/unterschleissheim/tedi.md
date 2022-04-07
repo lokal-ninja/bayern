@@ -1,5 +1,5 @@
 ---
-title: "TeDi"
+title: "TEDi"
 url: /unterschleissheim/tedi/
-shop: Lebensmittel
+shop: Kramladen
 ---

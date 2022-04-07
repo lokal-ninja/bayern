@@ -1,11 +1,11 @@
-id: 112601066
-type: way
-latitude: 48.10567
-longitude: 11.60265
-postcode: "81549"
+id: 9643581806
+type: node
+latitude: 48.09264
+longitude: 11.56806
+postcode: "81545"
 city: München
-street: "Balanstraße"
-housenumber: 190
-phone: "+49 89 60062265"
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
-website: "https://www.dm.de/"
+street: "Naupliastraße"
+housenumber: 108
+phone: "+4989248853790"
+opening_hours: "Mo-Sa 07:00-20:00"
+website: "https://www.dm.de/store/de-2979/muenchen/naupliastrasse-108"

@@ -1,11 +1,11 @@
-id: 1126961013
+id: 1055342945
 type: node
-latitude: 48.1166
-longitude: 11.58079
-postcode: "81541"
+latitude: 48.11629
+longitude: 11.52512
+postcode: "81369"
 city: München
-street: "Tegernseer Landstraße"
-housenumber: 48
+street: "Albert-Roßhaupter-Straße"
+housenumber: 92
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:30; Sa 07:00-13:30"
-website: "https://www.hofpfisterei.de/hpf_info_angebote.php"
+opening_hours: "Mo-Th 07:30-18:30, Fr 07:30-18:30, Sa 07:00-13:00"
+website: ""

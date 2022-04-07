@@ -1,11 +1,11 @@
-id: 346567417
-type: way
-latitude: 48.13973
-longitude: 11.56081
-postcode: "80335"
+id: 7543292086
+type: node
+latitude: 48.16387
+longitude: 11.56257
+postcode: ""
 city: München
-street: ""
+street: "Winzererstraße"
 housenumber: 
-phone: "+49 89 51657855"
-opening_hours: "Mo-Fr 06:30-20:00; Sa 07:30-20:00"
-website: "https://www.hofpfisterei.de"
+phone: ""
+opening_hours: ""
+website: ""

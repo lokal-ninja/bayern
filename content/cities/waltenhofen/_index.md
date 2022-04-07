@@ -1,6 +1,6 @@
 ---
 title: Waltenhofen
 url: /waltenhofen/
-latitude: 47.689
-longitude: 10.318
+latitude: 47.683
+longitude: 10.302
 ---
