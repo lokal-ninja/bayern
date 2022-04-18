@@ -1,6 +1,6 @@
 ---
 title: Vilsheim
 url: /vilsheim/
-latitude: 48.466
-longitude: 12.129
+latitude: 48.456
+longitude: 12.106
 ---

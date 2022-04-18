@@ -1,5 +1,5 @@
 ---
-title: "Funk Optik Sehzentrum Kinsau"
+title: "FUNK Optik Sehzentrum Kinsau"
 url: /kinsau/funk-optik-sehzentrum-kinsau/
 shop: Optiker
 ---

@@ -1,11 +1,11 @@
-id: 2245370216
-type: node
-latitude: 49.46906
-longitude: 11.101
-postcode: "90491"
+id: 145043756
+type: way
+latitude: 49.44155
+longitude: 11.0158
+postcode: "90431"
 city: Nürnberg
-street: "Äußere Bayreuther Straße"
-housenumber: 80
-phone: "+49 911 627760"
-opening_hours: ""
+street: "Virnsberger Straße"
+housenumber: 2-4
+phone: ""
+opening_hours: "Mo-Sa 07:00-20:00"
 website: ""

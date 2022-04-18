@@ -7,5 +7,5 @@ city: Windach
 street: "Lindenstraße"
 housenumber: 1b
 phone: ""
-opening_hours: "Mo-Tu 09:00-12:00,14:00-18:00; Th-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00"
+opening_hours: "Mo,Tu 09:00-12:00,14:00-16:00; Th,Fr 09:00-12:00,14:00-16:00; Sa 09:00-12:00"
 website: ""

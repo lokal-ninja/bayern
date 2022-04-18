@@ -1,5 +1,5 @@
 ---
-title: "Köhler's"
+title: "Köhlers"
 url: /wuerzburg/koehlers/
 shop: Bäckerei
 ---

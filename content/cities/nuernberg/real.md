@@ -1,5 +1,5 @@
 ---
-title: "real"
+title: "Real"
 url: /nuernberg/real/
 shop: Supermarkt
 ---
