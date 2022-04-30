@@ -1,11 +1,11 @@
-id: 5044927221
-type: node
-latitude: 49.81441
-longitude: 9.96281
-postcode: "97078"
+id: 89206656
+type: way
+latitude: 49.79323
+longitude: 10.00304
+postcode: "97076"
 city: Würzburg
-street: "Frankenstraße"
-housenumber: 207
-phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+street: "Nürnberger Straße"
+housenumber: 133
+phone: "+49-931-27049559"
+opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
 website: "https://www.roesner-backstube.de/"

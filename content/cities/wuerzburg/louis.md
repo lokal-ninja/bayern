@@ -1,5 +1,5 @@
 ---
 title: "Louis"
 url: /wuerzburg/louis/
-shop: Kleidung
+shop: Motorrad
 ---

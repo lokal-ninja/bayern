@@ -1,5 +1,5 @@
 ---
-title: "kupsch"
+title: "Kupsch"
 url: /wuerzburg/kupsch/
 shop: Supermarkt
 ---

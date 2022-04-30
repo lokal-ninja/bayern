@@ -1,5 +1,5 @@
 ---
-title: "Mister Lady"
+title: "mister*lady"
 url: /unterhaching/mister-lady/
 shop: Kleidung
 ---

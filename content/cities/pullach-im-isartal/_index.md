@@ -1,6 +1,6 @@
 ---
 title: Pullach im Isartal
 url: /pullach-im-isartal/
-latitude: 48.056
-longitude: 11.521
+latitude: 48.046
+longitude: 11.506
 ---
