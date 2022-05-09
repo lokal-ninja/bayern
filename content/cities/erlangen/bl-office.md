@@ -1,5 +1,5 @@
 ---
-title: "Bl-Office"
+title: "BL-office"
 url: /erlangen/bl-office/
 shop: Schreibwaren
 ---

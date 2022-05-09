@@ -1,6 +1,6 @@
 ---
 title: Herzogenaurach
 url: /herzogenaurach/
-latitude: 49.568
-longitude: 10.884
+latitude: 49.57
+longitude: 10.882
 ---

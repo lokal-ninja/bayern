@@ -1,6 +1,6 @@
 ---
 title: Mühlhausen
 url: /muehlhausen/
-latitude: 49.176
-longitude: 11.448
+latitude: 49.753
+longitude: 10.773
 ---
