@@ -1,5 +1,5 @@
 ---
-title: "V-Markt"
+title: "V-MARKT"
 url: /bad-woerishofen/v-markt/
 shop: Supermarkt
 ---
