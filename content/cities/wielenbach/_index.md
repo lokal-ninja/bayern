@@ -1,6 +1,6 @@
 ---
 title: Wielenbach
 url: /wielenbach/
-latitude: 47.868
-longitude: 11.165
+latitude: 47.869
+longitude: 11.164
 ---

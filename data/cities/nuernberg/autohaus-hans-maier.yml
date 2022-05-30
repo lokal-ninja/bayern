@@ -1,11 +1,11 @@
-id: 1559106173
-type: node
-latitude: 49.40014
-longitude: 11.08602
+id: 32241091
+type: way
+latitude: 49.40021
+longitude: 11.08599
 postcode: "90469"
 city: Nürnberg
 street: "Saarbrückener Straße"
 housenumber: 68
-phone: ""
-opening_hours: "Mo-Th 07:00-18:00; Fr 07:00-17:00"
-website: "https://www.hans-maier.de/"
+phone: "+49911482161"
+opening_hours: ""
+website: "https://www.hans-maier.de"

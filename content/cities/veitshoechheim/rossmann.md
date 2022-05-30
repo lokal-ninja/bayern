@@ -1,5 +1,5 @@
 ---
-title: "ROSSMANN"
+title: "Rossmann"
 url: /veitshoechheim/rossmann/
 shop: Drogerie
 ---

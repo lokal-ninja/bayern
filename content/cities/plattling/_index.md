@@ -1,6 +1,6 @@
 ---
 title: Plattling
 url: /plattling/
-latitude: 48.782
-longitude: 12.865
+latitude: 48.796
+longitude: 12.909
 ---
