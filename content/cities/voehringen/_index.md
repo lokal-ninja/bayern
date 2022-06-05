@@ -1,6 +1,6 @@
 ---
 title: Vöhringen
 url: /voehringen/
-latitude: 48.285
-longitude: 10.116
+latitude: 48.277
+longitude: 10.08
 ---

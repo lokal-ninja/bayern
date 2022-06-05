@@ -1,6 +1,6 @@
 ---
 title: Scheßlitz
 url: /schesslitz/
-latitude: 49.97
-longitude: 11.023
+latitude: 49.979
+longitude: 11.091
 ---

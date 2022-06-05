@@ -1,5 +1,5 @@
 ---
-title: "ZA-RA MARKT"
+title: "Za-Ra Markt"
 url: /nuernberg/za-ra-markt/
-shop: Gemüse & Obst
+shop: Supermarkt
 ---
