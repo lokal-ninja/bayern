@@ -1,11 +1,11 @@
-id: 2245000879
-type: node
-latitude: 49.47057
-longitude: 11.02326
-postcode: "90427"
+id: 58526968
+type: way
+latitude: 49.43069
+longitude: 11.04711
+postcode: "90441"
 city: Nürnberg
-street: "Knebelstraße"
-housenumber: 1
+street: "Nopitschstraße"
+housenumber: 19
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: ""
 website: ""

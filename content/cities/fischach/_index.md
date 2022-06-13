@@ -1,6 +1,6 @@
 ---
 title: Fischach
 url: /fischach/
-latitude: 48.293
-longitude: 10.65
+latitude: 48.256
+longitude: 10.641
 ---

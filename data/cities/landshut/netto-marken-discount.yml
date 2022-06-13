@@ -1,11 +1,11 @@
-id: 201390505
-type: way
-latitude: 48.54708
-longitude: 12.15399
-postcode: "84034"
+id: 2681215863
+type: node
+latitude: 48.56076
+longitude: 12.13878
+postcode: "84030"
 city: Landshut
-street: "Stethaimerstraße"
-housenumber: 41
-phone: "+49 800 200 0015"
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
-website: "https://www.netto-online.de/filialen/landshut/stethaimerstr-41/1006"
+street: "Waldkirchener Straße"
+housenumber: 1
+phone: ""
+opening_hours: "Mo-Sa 07:00-20:00"
+website: "https://netto-online.de"
