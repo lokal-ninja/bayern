@@ -1,6 +1,6 @@
 ---
 title: Türkenfeld
 url: /tuerkenfeld/
-latitude: 48.105
-longitude: 11.075
+latitude: 48.107
+longitude: 11.086
 ---
