@@ -1,6 +1,6 @@
 ---
 title: Lautrach
 url: /lautrach/
-latitude: 47.898
-longitude: 10.118
+latitude: 47.897
+longitude: 10.117
 ---

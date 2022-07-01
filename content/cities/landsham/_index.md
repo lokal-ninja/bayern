@@ -1,6 +1,6 @@
 ---
 title: Landsham
 url: /landsham/
-latitude: 48.181
-longitude: 11.773
+latitude: 48.188
+longitude: 11.776
 ---

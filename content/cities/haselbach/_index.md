@@ -1,6 +1,6 @@
 ---
 title: Haselbach
 url: /haselbach/
-latitude: 49.004
-longitude: 12.693
+latitude: 49.002
+longitude: 12.692
 ---
