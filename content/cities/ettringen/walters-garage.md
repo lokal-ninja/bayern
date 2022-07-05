@@ -1,5 +1,5 @@
 ---
 title: "Walter's Garage"
-url: /siebnach/walters-garage/
+url: /ettringen/walters-garage/
 shop: Autowerkstatt
 ---
