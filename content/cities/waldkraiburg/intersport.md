@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
 url: /waldkraiburg/intersport/
-shop: Kleidung
+shop: Sport
 ---
