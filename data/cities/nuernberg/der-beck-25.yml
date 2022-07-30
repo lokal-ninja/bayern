@@ -1,11 +1,11 @@
-id: 32265024
-type: way
-latitude: 49.47835
-longitude: 11.11757
-postcode: "90411"
+id: 7541489462
+type: node
+latitude: 49.44479
+longitude: 11.1097
+postcode: "90478"
 city: Nürnberg
-street: "Bennostraße"
-housenumber: 10
-phone: ""
-opening_hours: "Mo-Fr 05:30-17:00; Sa 06:00-14:00; Su,PH 08:00-16:00"
-website: ""
+street: "Zerzabelshofstraße"
+housenumber: 29
+phone: "+4991181012495"
+opening_hours: "Mo-Sa 07:00-20:00"
+website: "https://www.der-beck.de/"

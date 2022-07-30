@@ -1,6 +1,6 @@
 ---
 title: Neusorg
 url: /neusorg/
-latitude: 49.934
-longitude: 11.973
+latitude: 49.933
+longitude: 11.968
 ---
