@@ -1,5 +1,5 @@
 ---
 title: "liten lycka"
 url: /wuerzburg/liten-lycka/
-shop: Allgemein
+shop: Raumausstattung
 ---

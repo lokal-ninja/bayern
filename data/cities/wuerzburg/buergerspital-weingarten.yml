@@ -7,5 +7,5 @@ city: Würzburg
 street: "Semmelstraße"
 housenumber: 
 phone: ""
-opening_hours: "Öffnungszeiten: Mo. von 9 bis 18 Uhr Di. bis Do. von 9 bis 22 Uhr Fr. bis Sa. von 9 bis 24 Uhr So. von 11 bis 18 Uhr (Feiertage ggf. abweichend)"
+opening_hours: "Mo 09:00-18:00; Tu-Th 09:00-22:00; Fr,Sa 09:00-24:00; Su 11:00-18:00"
 website: "https://www.buergerspital.de/weingut/weinhaus/index.html"
