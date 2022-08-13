@@ -1,6 +1,6 @@
 ---
 title: Aschau im Chiemgau
 url: /aschau-im-chiemgau/
-latitude: 47.776
+latitude: 47.775
 longitude: 12.325
 ---
