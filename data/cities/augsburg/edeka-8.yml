@@ -1,11 +1,11 @@
-id: 7016542527
-type: node
-latitude: 48.36011
-longitude: 10.89246
-postcode: "86150"
+id: 165620818
+type: way
+latitude: 48.31778
+longitude: 10.86271
+postcode: "86199"
 city: Augsburg
-street: "Stettenstraße"
-housenumber: 19
-phone: "+4982181535611"
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.edeka.de/eh/s%C3%BCdbayern/edeka-hillenbrand-stettenstr.-19/index.jsp"
+street: "Bobinger Straße"
+housenumber: 33
+phone: ""
+opening_hours: "Mo-Sa 08:00-20:00; PH off"
+website: "http://www.edeka-gropper.de"

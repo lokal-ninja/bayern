@@ -1,5 +1,5 @@
 ---
-title: "Elo"
+title: "ELO"
 url: /breitenguessbach/elo/
-shop: Allgemein
+shop: Lebensmittel
 ---

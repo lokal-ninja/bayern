@@ -1,5 +1,5 @@
 ---
-title: "Edeka"
+title: "EDEKA"
 url: /augsburg/edeka-6/
-shop: Allgemein
+shop: Supermarkt
 ---
