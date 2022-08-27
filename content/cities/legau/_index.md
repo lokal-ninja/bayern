@@ -1,6 +1,6 @@
 ---
 title: Legau
 url: /legau/
-latitude: 47.863
-longitude: 10.13
+latitude: 47.86
+longitude: 10.133
 ---

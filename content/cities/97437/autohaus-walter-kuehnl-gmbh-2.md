@@ -1,0 +1,5 @@
+---
+title: "Autohaus Walter Kühnl GmbH"
+url: /97437/autohaus-walter-kuehnl-gmbh-2/
+shop: Autohaus
+---

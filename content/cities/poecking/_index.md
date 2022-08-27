@@ -1,6 +1,6 @@
 ---
 title: Pöcking
 url: /poecking/
-latitude: 47.965
-longitude: 11.298
+latitude: 47.982
+longitude: 11.315
 ---
