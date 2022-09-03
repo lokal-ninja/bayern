@@ -1,11 +1,11 @@
-id: 2279627360
-type: node
-latitude: 49.96864
-longitude: 11.60871
-postcode: "95448"
+id: 31897033
+type: way
+latitude: 49.95408
+longitude: 11.54805
+postcode: "95445"
 city: Bayreuth
-street: "Bindlacher Straße"
-housenumber: 1
-phone: "+49 921 1627600"
-opening_hours: "Mo-Fr 07:00-21:00;Sa 08:00-16:00"
-website: "https://www.drive-in-autoservice.de/"
+street: "Himmelkronstraße"
+housenumber: 14
+phone: ""
+opening_hours: ""
+website: ""

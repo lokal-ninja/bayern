@@ -1,5 +1,5 @@
 ---
 title: "Rohrmeier Markenschuhe"
 url: /aschaffenburg/rohrmeier-markenschuhe/
-shop: Sport
+shop: Schuhe
 ---
