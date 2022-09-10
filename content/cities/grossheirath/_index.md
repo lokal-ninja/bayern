@@ -1,6 +1,6 @@
 ---
 title: Großheirath
 url: /grossheirath/
-latitude: 50.162
-longitude: 10.935
+latitude: 50.158
+longitude: 10.932
 ---

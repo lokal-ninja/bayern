@@ -1,5 +1,5 @@
 ---
-title: "Pellets Drive - IN"
+title: "Pellets Drive - In"
 url: /deggendorf/pellets-drive-in/
-shop: Energie
+shop: Treibstoff
 ---
