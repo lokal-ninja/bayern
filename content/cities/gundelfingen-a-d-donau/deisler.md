@@ -1,5 +1,5 @@
 ---
 title: "Deisler"
 url: /gundelfingen-a-d-donau/deisler/
-shop: Allgemein
+shop: Betten
 ---

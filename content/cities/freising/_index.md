@@ -1,6 +1,6 @@
 ---
 title: Freising
 url: /freising/
-latitude: 48.399
-longitude: 11.741
+latitude: 48.405
+longitude: 11.757
 ---
