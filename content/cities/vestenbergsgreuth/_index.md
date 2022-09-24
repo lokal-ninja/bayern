@@ -1,6 +1,6 @@
 ---
 title: Vestenbergsgreuth
 url: /vestenbergsgreuth/
-latitude: 49.688
-longitude: 10.651
+latitude: 49.702
+longitude: 10.697
 ---

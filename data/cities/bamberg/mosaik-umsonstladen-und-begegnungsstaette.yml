@@ -7,5 +7,5 @@ city: Bamberg
 street: "Pfisterstraße"
 housenumber: 2
 phone: ""
-opening_hours: "Tu,Fr 17:00-19:00; We,Sa 11:00-12:00; PH,Th,Su,Mo off"
+opening_hours: "Mo,Th,Su,PH off; Tu,Fr 17:00-19:00; We,Sa 10:00-12:00"
 website: ""

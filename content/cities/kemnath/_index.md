@@ -2,5 +2,5 @@
 title: Kemnath
 url: /kemnath/
 latitude: 49.871
-longitude: 11.892
+longitude: 11.888
 ---

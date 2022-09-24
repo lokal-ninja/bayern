@@ -1,5 +1,5 @@
 ---
-title: "DM"
+title: "dm"
 url: /dietmannsried/dm/
 shop: Drogerie
 ---
