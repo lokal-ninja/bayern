@@ -1,0 +1,5 @@
+---
+title: "O2"
+url: /germering/o2/
+shop: Handy
+---
