@@ -1,5 +1,5 @@
 ---
 title: "Aral"
 url: /velden/aral/
-shop: Allgemein
+shop: Lebensmittel
 ---

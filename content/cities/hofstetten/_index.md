@@ -1,6 +1,6 @@
 ---
 title: Hofstetten
 url: /hofstetten/
-latitude: 48.01
-longitude: 10.964
+latitude: 48.011
+longitude: 10.965
 ---

@@ -7,5 +7,5 @@ city: Fürstenfeldbruck
 street: "Hauptstraße"
 housenumber: 2a
 phone: "+49 8141 5553"
-opening_hours: "Mo-Fr 09:00-12:30,14:00-18:00, Sa 09:00-13:00"
+opening_hours: "Th,Fr 09:00-12:30,14:00-18:00; Sa 09:00-13:00; Mo-We 09:00-12:00"
 website: "http://www.juwelier-baermann.de/"

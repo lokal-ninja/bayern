@@ -1,5 +1,5 @@
 ---
 title: "Rötzer"
 url: /miesbach/roetzer/
-shop: Allgemein
+shop: Sport
 ---

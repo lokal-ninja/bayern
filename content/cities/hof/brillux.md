@@ -1,5 +1,5 @@
 ---
 title: "Brillux"
 url: /hof/brillux/
-shop: Baustoffe
+shop: Farben
 ---

@@ -1,6 +1,6 @@
 ---
 title: Aholfing
 url: /aholfing/
-latitude: 48.942
-longitude: 12.47
+latitude: 48.932
+longitude: 12.494
 ---
