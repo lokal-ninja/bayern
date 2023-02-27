@@ -1,6 +1,6 @@
 ---
 title: Friedenfels
 url: /friedenfels/
-latitude: 49.885
-longitude: 12.099
+latitude: 49.883
+longitude: 12.106
 ---

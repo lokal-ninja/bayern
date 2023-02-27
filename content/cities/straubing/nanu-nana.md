@@ -1,5 +1,5 @@
 ---
-title: "Nanu Nana"
+title: "Nanu-Nana"
 url: /straubing/nanu-nana/
-shop: Kleidung
+shop: Andenken
 ---

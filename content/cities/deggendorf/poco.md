@@ -1,5 +1,5 @@
 ---
-title: "Poco"
+title: "POCO"
 url: /deggendorf/poco/
 shop: Möbel
 ---
