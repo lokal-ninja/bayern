@@ -1,6 +1,6 @@
 ---
 title: Buttenheim
 url: /buttenheim/
-latitude: 49.801
-longitude: 11.023
+latitude: 49.808
+longitude: 11.059
 ---

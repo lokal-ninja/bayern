@@ -1,5 +1,5 @@
 ---
 title: "Piano Fricke"
 url: /ansbach/piano-fricke/
-shop: Elektronik
+shop: Instrumente
 ---

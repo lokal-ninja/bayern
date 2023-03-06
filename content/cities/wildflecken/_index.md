@@ -2,5 +2,5 @@
 title: Wildflecken
 url: /wildflecken/
 latitude: 50.377
-longitude: 9.91
+longitude: 9.909
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Tedox"
+title: "tedox"
 url: /schwandorf/tedox/
-shop: Gardinen
+shop: Baumarkt
 ---

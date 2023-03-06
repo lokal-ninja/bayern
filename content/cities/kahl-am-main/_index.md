@@ -1,6 +1,6 @@
 ---
 title: Kahl am Main
 url: /kahl-am-main/
-latitude: 50.067
-longitude: 9.013
+latitude: 50.073
+longitude: 9.004
 ---

@@ -1,11 +1,11 @@
-id: 699778376
+id: 701015694
 type: node
-latitude: 48.13825
-longitude: 11.57266
+latitude: 48.13811
+longitude: 11.57218
 postcode: "80331"
 city: München
-street: "Frauenplatz"
-housenumber: 3
+street: "Kaufingerstraße"
+housenumber: 28
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: ""
+opening_hours: "Mo-Fr 09:30-20:00; Sa 09:00-20:00"
+website: "https://www.hirmer.de/"

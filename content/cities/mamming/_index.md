@@ -1,6 +1,6 @@
 ---
 title: Mamming
 url: /mamming/
-latitude: 48.651
-longitude: 12.603
+latitude: 48.65
+longitude: 12.605
 ---
