@@ -1,6 +1,6 @@
 ---
 title: Vaterstetten
 url: /vaterstetten/
-latitude: 48.148
-longitude: 11.816
+latitude: 48.106
+longitude: 11.769
 ---

@@ -1,5 +1,5 @@
 ---
-title: "nah & gut"
+title: "nah und gut"
 url: /grafling/nah-und-gut/
-shop: Lebensmittel
+shop: Supermarkt
 ---
