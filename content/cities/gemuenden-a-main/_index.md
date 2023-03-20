@@ -1,6 +1,6 @@
 ---
-title: Gemünden a.Main
+title: Gemünden a. Main
 url: /gemuenden-a-main/
-latitude: 50.035
-longitude: 9.703
+latitude: 50.061
+longitude: 9.678
 ---

@@ -1,6 +1,6 @@
 ---
 title: Thüngen
 url: /thuengen/
-latitude: 49.944
-longitude: 9.856
+latitude: 49.941
+longitude: 9.861
 ---

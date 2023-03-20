@@ -1,6 +1,6 @@
 ---
 title: Lechbruck am See
 url: /lechbruck-am-see/
-latitude: 47.693
-longitude: 10.784
+latitude: 47.697
+longitude: 10.793
 ---

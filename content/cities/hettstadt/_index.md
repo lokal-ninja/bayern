@@ -1,6 +1,6 @@
 ---
 title: Hettstadt
 url: /hettstadt/
-latitude: 49.802
-longitude: 9.815
+latitude: 49.798
+longitude: 9.825
 ---
