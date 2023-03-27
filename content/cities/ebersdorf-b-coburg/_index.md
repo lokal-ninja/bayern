@@ -1,6 +1,6 @@
 ---
-title: Ebersdorf b. Coburg
+title: Ebersdorf b.Coburg
 url: /ebersdorf-b-coburg/
-latitude: 50.22
-longitude: 11.075
+latitude: 50.223
+longitude: 11.057
 ---

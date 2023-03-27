@@ -1,5 +1,5 @@
 ---
 title: "Brunner"
 url: /nuernberg/brunner/
-shop: Autowerkstatt
+shop: Bäckerei
 ---

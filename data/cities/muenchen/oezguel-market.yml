@@ -1,11 +1,11 @@
 id: 2773358107
 type: node
-latitude: 48.15775
-longitude: 11.54911
+latitude: 48.15778
+longitude: 11.54901
 postcode: "80636"
 city: München
 street: "Dachauer Straße"
 housenumber: 175
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: "Mo-Sa 08:00-20:00; Su off"
 website: ""

@@ -1,6 +1,6 @@
 ---
 title: Peißenberg
 url: /peissenberg/
-latitude: 47.787
-longitude: 11.056
+latitude: 47.791
+longitude: 11.062
 ---

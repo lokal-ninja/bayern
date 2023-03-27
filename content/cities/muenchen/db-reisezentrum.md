@@ -1,5 +1,5 @@
 ---
-title: "DB-Reisezentrum"
+title: "DB Reisezentrum"
 url: /muenchen/db-reisezentrum/
-shop: Reisebüro
+shop: Tickets
 ---

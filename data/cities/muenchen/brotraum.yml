@@ -1,11 +1,11 @@
 id: 387809260
 type: node
-latitude: 48.16222
-longitude: 11.58479
+latitude: 48.16221
+longitude: 11.58473
 postcode: "80803"
 city: München
 street: "Herzogstraße"
 housenumber: 6
 phone: ""
-opening_hours: "Mo-Fr 06:30-16:00; Sa 06:30-14:00"
+opening_hours: "Mo-We,Fr 07:00-16:00; Th 07:00-19:00; Sa 07:00-14:00; Su,PH off"
 website: ""

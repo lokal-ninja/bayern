@@ -1,6 +1,6 @@
 ---
 title: Kammerstein
 url: /kammerstein/
-latitude: 49.305
-longitude: 10.995
+latitude: 49.306
+longitude: 10.996
 ---
