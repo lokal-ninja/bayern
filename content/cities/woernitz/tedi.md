@@ -1,5 +1,5 @@
 ---
-title: "Tedi"
+title: "TEDi"
 url: /woernitz/tedi/
-shop: Supermarkt
+shop: Kramladen
 ---
