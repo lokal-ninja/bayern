@@ -1,5 +1,5 @@
 ---
-title: "SUNPOINT"
+title: "Sunpoint"
 url: /augsburg/sunpoint/
 shop: Kosmetik
 ---

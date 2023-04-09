@@ -1,5 +1,5 @@
 ---
-title: "BMW  Langer"
+title: "BMW Langer"
 url: /mertingen/bmw-langer/
 shop: Autohaus
 ---
