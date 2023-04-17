@@ -1,6 +1,6 @@
 ---
 title: Uehlfeld
 url: /uehlfeld/
-latitude: 49.671
-longitude: 10.723
+latitude: 49.67
+longitude: 10.721
 ---

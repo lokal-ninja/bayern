@@ -1,6 +1,6 @@
 ---
 title: Schwarzenbruck
 url: /schwarzenbruck/
-latitude: 49.356
-longitude: 11.242
+latitude: 49.357
+longitude: 11.257
 ---

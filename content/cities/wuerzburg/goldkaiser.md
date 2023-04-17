@@ -1,5 +1,5 @@
 ---
-title: "goldkaiser"
+title: "Goldkaiser"
 url: /wuerzburg/goldkaiser/
-shop: Schmuck
+shop: Leiher
 ---
