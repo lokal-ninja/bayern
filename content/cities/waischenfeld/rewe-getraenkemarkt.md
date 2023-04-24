@@ -1,5 +1,5 @@
 ---
-title: "Rewe Getränkemarkt"
+title: "REWE Getränkemarkt"
 url: /waischenfeld/rewe-getraenkemarkt/
 shop: Getränke
 ---

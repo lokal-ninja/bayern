@@ -1,6 +1,6 @@
 ---
 title: Leutenbach
 url: /leutenbach/
-latitude: 49.706
-longitude: 11.171
+latitude: 49.689
+longitude: 11.172
 ---

@@ -1,11 +1,11 @@
-id: 1207183356
-type: node
-latitude: 48.35558
-longitude: 10.92637
-postcode: "86161"
+id: 21149432
+type: way
+latitude: 48.29742
+longitude: 10.89884
+postcode: "86179"
 city: Augsburg
-street: "Wilhelm-Hauff-Straße"
-housenumber: 38
+street: "Brahmsstraße"
+housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"
 website: ""

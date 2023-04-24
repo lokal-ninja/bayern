@@ -1,6 +1,6 @@
 ---
 title: Riedsend
 url: /riedsend/
-latitude: 48.523
-longitude: 10.598
+latitude: 48.524
+longitude: 10.596
 ---
