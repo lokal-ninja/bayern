@@ -1,6 +1,6 @@
 ---
 title: Lichtenfels
 url: /lichtenfels/
-latitude: 50.144
-longitude: 11.059
+latitude: 50.146
+longitude: 11.062
 ---

@@ -1,6 +1,6 @@
 ---
 title: Eching
 url: /eching/
-latitude: 48.297
-longitude: 11.624
+latitude: 48.298
+longitude: 11.625
 ---

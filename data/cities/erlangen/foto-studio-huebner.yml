@@ -7,5 +7,5 @@ city: Erlangen
 street: "Goethestraße"
 housenumber: 33
 phone: "+49 9131 25813"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-14:00"
+opening_hours: "Mo,We,Fr 10:00-18:00; Tu,Th,Sa 10:00-14:00"
 website: "https://www.fotostudio-huebner.de/"
