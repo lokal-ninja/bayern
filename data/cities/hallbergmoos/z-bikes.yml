@@ -7,5 +7,5 @@ city: Hallbergmoos
 street: "Fokkerstraße"
 housenumber: 7
 phone: "+49 811 12447942"
-opening_hours: "Di, Do, Fr 10:00-12:30 Di-Fr 13:30-18:00; Sa 10:00-14:00; So-Mo off"
+opening_hours: "Tu,Th,Fr 10:00-12:30; Tu-Fr 13:30-18:00; Sa 10:00-14:00; Su,Mo off"
 website: ""

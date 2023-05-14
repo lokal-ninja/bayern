@@ -1,5 +1,5 @@
 ---
-title: "Bonita"
+title: "BONITA"
 url: /landshut/bonita/
 shop: Kleidung
 ---

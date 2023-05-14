@@ -1,5 +1,5 @@
 ---
 title: "FUNtainment"
 url: /muenchen/funtainment/
-shop: Spiele
+shop: Anime
 ---
