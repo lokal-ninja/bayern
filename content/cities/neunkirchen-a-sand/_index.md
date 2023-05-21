@@ -1,6 +1,6 @@
 ---
-title: Neunkirchen a. Sand
+title: Neunkirchen a.Sand
 url: /neunkirchen-a-sand/
-latitude: 49.528
-longitude: 11.341
+latitude: 49.52
+longitude: 11.335
 ---

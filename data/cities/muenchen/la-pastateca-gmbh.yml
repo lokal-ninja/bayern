@@ -7,5 +7,5 @@ city: München
 street: "Römerstraße"
 housenumber: 9
 phone: ""
-opening_hours: "Tu 15:30-18:00; Th 15:30-18:00; Fr 15:00-18:00; PH off"
+opening_hours: "Mo,Su,PH off; Tu-Fr 14:30-18:00; Sa 09:30-12:00"
 website: ""

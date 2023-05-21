@@ -1,6 +1,6 @@
 ---
 title: Helmbrechts
 url: /helmbrechts/
-latitude: 50.24
-longitude: 11.718
+latitude: 50.218
+longitude: 11.697
 ---
