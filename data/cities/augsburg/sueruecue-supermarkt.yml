@@ -1,11 +1,11 @@
-id: 97707640
-type: way
-latitude: 48.31368
-longitude: 10.90325
-postcode: "86179"
+id: 650087562
+type: node
+latitude: 48.35487
+longitude: 10.94487
+postcode: "86163"
 city: Augsburg
-street: "Albert-Schweitzer-Straße"
-housenumber: 16
-phone: ""
-opening_hours: "Mo-Sa 08:30-19:00; PH off"
-website: "https://de-de.facebook.com/SurucuSupermarkt/"
+street: "Friedberger Straße"
+housenumber: 140-142
+phone: "+49 821 47012071"
+opening_hours: ""
+website: ""

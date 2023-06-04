@@ -1,5 +1,5 @@
 ---
 title: "KFZ Klinik München"
 url: /muenchen/kfz-klinik-muenchen/
-shop: Autowerkstatt
+shop: Allgemein
 ---

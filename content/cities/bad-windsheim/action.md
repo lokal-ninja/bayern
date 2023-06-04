@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /bad-windsheim/action/
-shop: Kramladen
+shop: Allgemein
 ---
