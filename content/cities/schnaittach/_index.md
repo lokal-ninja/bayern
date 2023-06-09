@@ -1,6 +1,6 @@
 ---
 title: Schnaittach
 url: /schnaittach/
-latitude: 49.56
-longitude: 11.341
+latitude: 49.559
+longitude: 11.34
 ---

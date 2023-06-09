@@ -1,6 +1,6 @@
 ---
 title: Zusmarshausen
 url: /zusmarshausen/
-latitude: 48.401
-longitude: 10.597
+latitude: 48.399
+longitude: 10.598
 ---
