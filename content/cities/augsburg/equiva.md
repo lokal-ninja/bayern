@@ -1,5 +1,5 @@
 ---
-title: "Equiva"
+title: "EQUIVA"
 url: /augsburg/equiva/
-shop: Tiere
+shop: Sport
 ---

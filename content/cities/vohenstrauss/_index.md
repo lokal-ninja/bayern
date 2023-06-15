@@ -1,6 +1,6 @@
 ---
 title: Vohenstrauß
 url: /vohenstrauss/
-latitude: 49.623
-longitude: 12.341
+latitude: 49.625
+longitude: 12.34
 ---
