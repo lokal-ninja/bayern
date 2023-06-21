@@ -7,5 +7,5 @@ city: München
 street: "Innere Wiener Straße"
 housenumber: 58
 phone: "+49 89 448 08 08"
-opening_hours: "Mo,Tu 10:00-20:00; We,Th,Fr 10:00-21:00; Sa 09:00-18:00"
+opening_hours: "Mo,Sa 09:00-18:00; Tu-Fr 10:00-20:00"
 website: "http://www.rainerhauber.de/"

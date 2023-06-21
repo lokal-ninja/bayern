@@ -1,6 +1,6 @@
 ---
 title: Aurach
 url: /aurach/
-latitude: 49.246
-longitude: 10.415
+latitude: 49.244
+longitude: 10.412
 ---

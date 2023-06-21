@@ -1,6 +1,6 @@
 ---
 title: Kaufbeuren
 url: /kaufbeuren/
-latitude: 47.887
-longitude: 10.621
+latitude: 47.883
+longitude: 10.62
 ---

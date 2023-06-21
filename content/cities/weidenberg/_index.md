@@ -1,6 +1,6 @@
 ---
 title: Weidenberg
 url: /weidenberg/
-latitude: 49.94
-longitude: 11.733
+latitude: 49.943
+longitude: 11.724
 ---
