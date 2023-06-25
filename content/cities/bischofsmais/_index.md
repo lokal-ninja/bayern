@@ -1,6 +1,6 @@
 ---
 title: Bischofsmais
 url: /bischofsmais/
-latitude: 48.917
-longitude: 13.091
+latitude: 48.919
+longitude: 13.08
 ---

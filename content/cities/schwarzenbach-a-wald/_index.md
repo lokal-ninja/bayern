@@ -1,6 +1,6 @@
 ---
 title: Schwarzenbach a.Wald
 url: /schwarzenbach-a-wald/
-latitude: 50.294
-longitude: 11.627
+latitude: 50.282
+longitude: 11.661
 ---
