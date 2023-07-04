@@ -1,6 +1,6 @@
 ---
 title: Aholming
 url: /aholming/
-latitude: 48.732
-longitude: 12.881
+latitude: 48.733
+longitude: 12.88
 ---

@@ -1,6 +1,6 @@
 ---
 title: Kist
 url: /kist/
-latitude: 49.743
-longitude: 9.834
+latitude: 49.745
+longitude: 9.839
 ---

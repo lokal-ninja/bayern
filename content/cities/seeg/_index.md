@@ -1,6 +1,6 @@
 ---
 title: Seeg
 url: /seeg/
-latitude: 47.654
-longitude: 10.605
+latitude: 47.653
+longitude: 10.606
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Terrex"
 url: /muenchen/terrex/
-shop: Outdoor
+shop: Sport
 ---

@@ -1,6 +1,6 @@
 ---
 title: Neuried
 url: /neuried/
-latitude: 48.091
-longitude: 11.469
+latitude: 48.087
+longitude: 11.46
 ---

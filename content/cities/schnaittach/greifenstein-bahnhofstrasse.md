@@ -1,5 +1,0 @@
----
-title: "Greifenstein"
-url: /schnaittach/greifenstein/
-shop: Gardinen
----

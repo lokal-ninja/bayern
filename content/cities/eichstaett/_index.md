@@ -1,6 +1,6 @@
 ---
 title: Eichstätt
 url: /eichstaett/
-latitude: 48.894
-longitude: 11.184
+latitude: 48.897
+longitude: 11.175
 ---
