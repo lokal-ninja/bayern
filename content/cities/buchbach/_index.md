@@ -1,6 +1,6 @@
 ---
 title: Buchbach
 url: /buchbach/
-latitude: 48.301
-longitude: 12.266
+latitude: 48.309
+longitude: 12.339
 ---

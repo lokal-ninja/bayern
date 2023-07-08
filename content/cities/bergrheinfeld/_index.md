@@ -1,6 +1,6 @@
 ---
 title: Bergrheinfeld
 url: /bergrheinfeld/
-latitude: 50.01
+latitude: 50.009
 longitude: 10.182
 ---
