@@ -1,5 +1,5 @@
 ---
 title: "Jet"
 url: /aichach/jet/
-shop: Lebensmittel
+shop: Allgemein
 ---
