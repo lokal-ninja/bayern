@@ -1,6 +1,6 @@
 ---
 title: Gangkofen
 url: /gangkofen/
-latitude: 48.445
-longitude: 12.557
+latitude: 48.437
+longitude: 12.563
 ---

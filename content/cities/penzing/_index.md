@@ -1,6 +1,6 @@
 ---
 title: Penzing
 url: /penzing/
-latitude: 48.071
-longitude: 10.924
+latitude: 48.093
+longitude: 10.906
 ---

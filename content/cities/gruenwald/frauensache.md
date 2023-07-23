@@ -1,5 +1,5 @@
 ---
 title: "Frauensache"
 url: /gruenwald/frauensache/
-shop: Modehaus
+shop: Kleidung
 ---
