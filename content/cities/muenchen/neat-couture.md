@@ -1,5 +1,5 @@
 ---
-title: "néat Couture"
+title: "Neat Couture"
 url: /muenchen/neat-couture/
-shop: Kleidung
+shop: Schneiderei
 ---

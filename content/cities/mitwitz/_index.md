@@ -1,6 +1,6 @@
 ---
 title: Mitwitz
 url: /mitwitz/
-latitude: 50.25
-longitude: 11.219
+latitude: 50.253
+longitude: 11.212
 ---

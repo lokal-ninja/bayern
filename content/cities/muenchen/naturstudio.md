@@ -1,5 +1,5 @@
 ---
-title: "naturstudio"
+title: "Naturstudio"
 url: /muenchen/naturstudio/
 shop: Möbel
 ---
