@@ -1,11 +1,11 @@
 id: 10056506016
 type: node
-latitude: 49.59701
-longitude: 11.01734
+latitude: 49.597
+longitude: 11.0172
 postcode: "91052"
 city: Erlangen
 street: "Luitpoldstraße"
 housenumber: 28
-phone: "+49 9131 9409924"
-opening_hours: "Di-Mi 09:00-18:00; Do-Fr 09:00-19:00; Sa 08:00-13:00"
+phone: ""
+opening_hours: "Mo off; Tu-We 09:00-18:00; Th-Fr 09:00-19:00; Sa 08:00-13:00; Su off"
 website: ""

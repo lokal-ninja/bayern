@@ -1,5 +1,5 @@
 ---
-title: "Netto Getränke Discount"
+title: "Netto Getränke-Discount"
 url: /burglengenfeld/netto-getraenke-discount/
-shop: Supermarkt
+shop: Getränke
 ---

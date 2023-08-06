@@ -1,6 +1,6 @@
 ---
 title: Böhmfeld
 url: /boehmfeld/
-latitude: 48.861
-longitude: 11.366
+latitude: 48.858
+longitude: 11.371
 ---
