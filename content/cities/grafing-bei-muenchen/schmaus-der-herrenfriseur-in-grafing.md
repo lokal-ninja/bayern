@@ -1,5 +1,5 @@
 ---
-title: "Schmaus, der Herrenfriseur in grafing"
+title: "schmaus der herrenfriseur in grafing"
 url: /grafing-bei-muenchen/schmaus-der-herrenfriseur-in-grafing/
 shop: Friseur
 ---

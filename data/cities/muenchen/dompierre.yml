@@ -1,11 +1,11 @@
-id: 5360757277
+id: 401302835
 type: node
-latitude: 48.14952
-longitude: 11.57899
-postcode: "80799"
+latitude: 48.15937
+longitude: 11.56889
+postcode: "80796"
 city: München
-street: "Schellingstraße"
-housenumber: 10
+street: "Tengstraße"
+housenumber: 31
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 08:00-19:00; Su,PH 09:00-18:00"
-website: ""
+opening_hours: "Mo-Fr 07:00-19:00; Sa-Su,PH 08:00-14:00"
+website: "https://www.dompierre.de/"

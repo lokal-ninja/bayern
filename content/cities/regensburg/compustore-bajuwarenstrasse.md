@@ -1,5 +1,5 @@
 ---
 title: "compustore"
 url: /regensburg/compustore/
-shop: Computer
+shop: Elektronik
 ---

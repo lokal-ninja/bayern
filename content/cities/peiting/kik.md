@@ -1,5 +1,5 @@
 ---
-title: "KIK"
+title: "KiK"
 url: /peiting/kik/
-shop: Textil
+shop: Kleidung
 ---
