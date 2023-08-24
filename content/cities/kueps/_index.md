@@ -1,6 +1,6 @@
 ---
 title: Küps
 url: /kueps/
-latitude: 50.193
-longitude: 11.266
+latitude: 50.194
+longitude: 11.273
 ---

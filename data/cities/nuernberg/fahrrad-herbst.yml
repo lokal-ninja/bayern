@@ -7,5 +7,5 @@ city: Nürnberg
 street: "Harsdörfferstraße"
 housenumber: 9
 phone: "+49 911 442072"
-opening_hours: "Mo-Fr 09:00-13:00, Mo-We,Fr 14:00-18:00, Sa 10:00-13:00"
+opening_hours: "Mo-We,Fr,Sa 09:00-13:00, Mo,Tu 13:45-18:30, We,Fr 13:45-18:00"
 website: "https://www.fahrrad-herbst.de/"

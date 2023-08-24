@@ -7,5 +7,5 @@ city: Deggendorf
 street: "Pfleggasse"
 housenumber: 16
 phone: "0991 7269"
-opening_hours: "Donnerstag	08:00–18:00 Freitag	08:00–18:00 Samstag	08:00–13:00 Sonntag	Geschlossen Montag	Geschlossen Dienstag	08:00–18:00 Mittwoch	08:00–18:00"
+opening_hours: "Mo,Su off; Tu-Fr 08:00-18:00; Sa 08:00-13:00"
 website: "https://www.hairworx.de/"

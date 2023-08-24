@@ -1,5 +1,5 @@
 ---
 title: "FCA-Fanshop am Stadion"
 url: /augsburg/fca-fanshop-am-stadion/
-shop: Kleidung
+shop: Allgemein
 ---

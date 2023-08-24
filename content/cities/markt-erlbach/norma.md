@@ -1,5 +1,5 @@
 ---
-title: "Norma"
+title: "NORMA"
 url: /markt-erlbach/norma/
 shop: Supermarkt
 ---
