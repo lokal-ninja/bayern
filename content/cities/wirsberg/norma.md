@@ -1,5 +1,5 @@
 ---
-title: "Norma"
+title: "NORMA"
 url: /wirsberg/norma/
 shop: Supermarkt
 ---

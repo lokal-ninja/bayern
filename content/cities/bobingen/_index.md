@@ -1,6 +1,6 @@
 ---
 title: Bobingen
 url: /bobingen/
-latitude: 48.271
-longitude: 10.835
+latitude: 48.264
+longitude: 10.84
 ---

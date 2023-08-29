@@ -2,5 +2,5 @@
 title: Marquartstein
 url: /marquartstein/
 latitude: 47.759
-longitude: 12.464
+longitude: 12.463
 ---

@@ -1,6 +1,6 @@
 ---
 title: Eging am See
 url: /eging-am-see/
-latitude: 48.714
-longitude: 13.276
+latitude: 48.71
+longitude: 13.262
 ---

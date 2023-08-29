@@ -1,6 +1,6 @@
 ---
 title: Zellingen
 url: /zellingen/
-latitude: 49.891
-longitude: 9.825
+latitude: 49.893
+longitude: 9.824
 ---
