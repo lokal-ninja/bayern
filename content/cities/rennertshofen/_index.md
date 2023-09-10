@@ -1,6 +1,6 @@
 ---
 title: Rennertshofen
 url: /rennertshofen/
-latitude: 48.753
-longitude: 11.056
+latitude: 48.759
+longitude: 11.045
 ---

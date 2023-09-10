@@ -1,5 +1,5 @@
 ---
-title: "V-BAUMARKT"
+title: "V-Baumarkt"
 url: /muenchen/v-baumarkt/
 shop: Baumarkt
 ---

@@ -1,6 +1,6 @@
 ---
 title: Germering
 url: /germering/
-latitude: 48.129
-longitude: 11.364
+latitude: 48.138
+longitude: 11.373
 ---
