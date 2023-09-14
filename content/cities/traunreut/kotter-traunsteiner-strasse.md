@@ -1,5 +1,5 @@
 ---
 title: "Kotter"
-url: /traunreut/kotter/
+url: /traunreut/kotter-traunsteiner-strasse/
 shop: Bäckerei
 ---

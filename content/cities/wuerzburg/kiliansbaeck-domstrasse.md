@@ -1,5 +1,5 @@
 ---
 title: "KiliansBäck"
-url: /wuerzburg/kiliansbaeck/
+url: /wuerzburg/kiliansbaeck-domstrasse/
 shop: Bäckerei
 ---

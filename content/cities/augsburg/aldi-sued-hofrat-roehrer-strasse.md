@@ -1,5 +1,5 @@
 ---
 title: "Aldi Süd"
-url: /augsburg/aldi-sued/
+url: /augsburg/aldi-sued-hofrat-roehrer-strasse/
 shop: Supermarkt
 ---

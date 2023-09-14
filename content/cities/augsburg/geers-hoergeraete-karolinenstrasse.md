@@ -1,5 +1,5 @@
 ---
 title: "GEERS Hörgeräte"
-url: /augsburg/geers-hoergeraete/
+url: /augsburg/geers-hoergeraete-karolinenstrasse/
 shop: Hörgeräte
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Intersport Kaiser"
-url: /prien-am-chiemsee/intersport-kaiser/
+url: /prien-am-chiemsee/intersport-kaiser-bahnhofstrasse/
 shop: Sport
 ---

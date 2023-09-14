@@ -1,5 +1,5 @@
 ---
 title: "EDEKA"
-url: /freising/edeka/
+url: /freising/edeka-angerbadergasse/
 shop: Supermarkt
 ---

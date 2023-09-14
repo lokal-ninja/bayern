@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /aschaffenburg/rossmann/
+url: /aschaffenburg/rossmann-ludwigstrasse/
 shop: Drogerie
 ---

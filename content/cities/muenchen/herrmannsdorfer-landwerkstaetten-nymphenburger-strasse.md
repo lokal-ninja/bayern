@@ -1,5 +1,5 @@
 ---
 title: "Herrmannsdorfer Landwerkstätten"
-url: /muenchen/herrmannsdorfer-landwerkstaetten/
+url: /muenchen/herrmannsdorfer-landwerkstaetten-nymphenburger-strasse/
 shop: Metzgerei
 ---

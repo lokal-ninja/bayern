@@ -1,5 +1,5 @@
 ---
 title: "Norma"
-url: /ansbach/norma/
+url: /ansbach/norma-tuerkenstrasse/
 shop: Supermarkt
 ---

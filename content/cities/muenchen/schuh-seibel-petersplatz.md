@@ -1,5 +1,5 @@
 ---
 title: "Schuh Seibel"
-url: /muenchen/schuh-seibel/
+url: /muenchen/schuh-seibel-petersplatz/
 shop: Schuhe
 ---

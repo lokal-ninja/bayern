@@ -1,5 +1,5 @@
 ---
 title: "Hirmer"
-url: /muenchen/hirmer/
+url: /muenchen/hirmer-kaufingerstrasse/
 shop: Kleidung
 ---

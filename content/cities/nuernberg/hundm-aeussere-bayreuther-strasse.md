@@ -1,5 +1,5 @@
 ---
 title: "H&M"
-url: /nuernberg/hundm/
+url: /nuernberg/hundm-aeussere-bayreuther-strasse/
 shop: Kleidung
 ---

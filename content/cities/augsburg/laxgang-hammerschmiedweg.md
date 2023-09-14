@@ -1,5 +1,5 @@
 ---
 title: "Laxgang"
-url: /augsburg/laxgang/
+url: /augsburg/laxgang-hammerschmiedweg/
 shop: Bäckerei
 ---

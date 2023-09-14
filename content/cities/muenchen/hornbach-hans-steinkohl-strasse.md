@@ -1,5 +1,5 @@
 ---
 title: "HORNBACH"
-url: /muenchen/hornbach/
+url: /muenchen/hornbach-hans-steinkohl-strasse/
 shop: Baumarkt
 ---

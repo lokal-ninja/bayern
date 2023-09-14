@@ -1,5 +1,5 @@
 ---
 title: "Woolworth"
-url: /nuernberg/woolworth/
+url: /nuernberg/woolworth-fuerther-strasse/
 shop: Warenhaus
 ---

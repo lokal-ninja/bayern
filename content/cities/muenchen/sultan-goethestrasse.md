@@ -1,5 +1,5 @@
 ---
 title: "Sultan"
-url: /muenchen/sultan/
+url: /muenchen/sultan-goethestrasse/
 shop: Bäckerei
 ---

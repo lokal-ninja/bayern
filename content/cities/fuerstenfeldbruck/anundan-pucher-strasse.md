@@ -1,5 +1,5 @@
 ---
 title: "AN&AN"
-url: /fuerstenfeldbruck/anundan/
+url: /fuerstenfeldbruck/anundan-pucher-strasse/
 shop: Andenken
 ---

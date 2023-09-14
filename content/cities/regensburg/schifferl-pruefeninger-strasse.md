@@ -1,5 +1,5 @@
 ---
 title: "Schifferl"
-url: /regensburg/schifferl/
+url: /regensburg/schifferl-pruefeninger-strasse/
 shop: Bäckerei
 ---

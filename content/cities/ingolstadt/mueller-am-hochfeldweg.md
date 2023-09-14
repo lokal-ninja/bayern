@@ -1,5 +1,5 @@
 ---
 title: "Müller"
-url: /ingolstadt/mueller/
+url: /ingolstadt/mueller-am-hochfeldweg/
 shop: Drogerie
 ---

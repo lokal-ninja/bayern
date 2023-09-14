@@ -1,5 +1,5 @@
 ---
 title: "Metzgerei Franz"
-url: /muenchen/metzgerei-franz/
+url: /muenchen/metzgerei-franz-volkartstrasse/
 shop: Metzgerei
 ---

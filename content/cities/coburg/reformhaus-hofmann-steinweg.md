@@ -1,5 +1,5 @@
 ---
 title: "Reformhaus Hofmann"
-url: /coburg/reformhaus-hofmann/
+url: /coburg/reformhaus-hofmann-steinweg/
 shop: Supermarkt
 ---

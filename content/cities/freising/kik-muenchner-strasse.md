@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /freising/kik/
+url: /freising/kik-muenchner-strasse/
 shop: Kleidung
 ---

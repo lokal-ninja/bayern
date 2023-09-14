@@ -1,5 +1,5 @@
 ---
 title: "Auto Albrecht"
-url: /straubing/auto-albrecht/
+url: /straubing/auto-albrecht-schlesische-strasse/
 shop: Autohaus
 ---

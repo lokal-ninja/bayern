@@ -1,5 +1,5 @@
 ---
 title: "IKO"
-url: /raubling/iko/
+url: /raubling/iko-kufsteiner-strasse/
 shop: Sport
 ---

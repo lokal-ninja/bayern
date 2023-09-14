@@ -1,5 +1,5 @@
 ---
 title: "Fressnapf"
-url: /augsburg/fressnapf/
+url: /augsburg/fressnapf-bergiusstrasse/
 shop: Tiere
 ---

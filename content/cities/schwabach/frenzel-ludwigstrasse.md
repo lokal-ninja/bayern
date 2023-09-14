@@ -1,5 +1,5 @@
 ---
 title: "Frenzel"
-url: /schwabach/frenzel/
+url: /schwabach/frenzel-ludwigstrasse/
 shop: Kleidung
 ---

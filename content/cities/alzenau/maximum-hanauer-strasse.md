@@ -1,5 +1,5 @@
 ---
 title: "Maximum"
-url: /alzenau/maximum/
+url: /alzenau/maximum-hanauer-strasse/
 shop: Kleidung
 ---

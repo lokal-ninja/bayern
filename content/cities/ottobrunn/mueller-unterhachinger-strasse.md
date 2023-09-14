@@ -1,5 +1,5 @@
 ---
 title: "Müller"
-url: /ottobrunn/mueller/
+url: /ottobrunn/mueller-unterhachinger-strasse/
 shop: Drogerie
 ---

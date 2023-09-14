@@ -1,5 +1,5 @@
 ---
 title: "NORMA"
-url: /erlangen/norma/
+url: /erlangen/norma-rathausplatz/
 shop: Supermarkt
 ---

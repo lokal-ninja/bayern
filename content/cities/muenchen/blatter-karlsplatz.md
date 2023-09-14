@@ -1,5 +1,5 @@
 ---
 title: "Blatter"
-url: /muenchen/blatter/
+url: /muenchen/blatter-karlsplatz/
 shop: Friseur
 ---

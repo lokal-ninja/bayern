@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /weiden-i-d-opf/rossmann/
+url: /weiden-i-d-opf/rossmann-robert-bosch-strasse/
 shop: Drogerie
 ---

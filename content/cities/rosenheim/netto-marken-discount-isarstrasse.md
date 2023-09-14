@@ -1,5 +1,5 @@
 ---
 title: "Netto Marken-Discount"
-url: /rosenheim/netto-marken-discount/
+url: /rosenheim/netto-marken-discount-isarstrasse/
 shop: Supermarkt
 ---

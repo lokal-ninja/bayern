@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /muenchen/rossmann/
+url: /muenchen/rossmann-richard-strauss-strasse/
 shop: Drogerie
 ---

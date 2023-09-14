@@ -1,5 +1,5 @@
 ---
 title: "Kriegbaum"
-url: /fuerth/kriegbaum/
+url: /fuerth/kriegbaum-espanstrasse/
 shop: Blumen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Meiler"
-url: /nuernberg/meiler/
+url: /nuernberg/meiler-suedwestpark/
 shop: Metzgerei
 ---

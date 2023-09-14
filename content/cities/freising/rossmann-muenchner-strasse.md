@@ -1,5 +1,5 @@
 ---
 title: "ROSSMANN"
-url: /freising/rossmann/
+url: /freising/rossmann-muenchner-strasse/
 shop: Drogerie
 ---

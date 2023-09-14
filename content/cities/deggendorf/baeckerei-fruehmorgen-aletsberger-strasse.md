@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Frühmorgen"
-url: /deggendorf/baeckerei-fruehmorgen/
+url: /deggendorf/baeckerei-fruehmorgen-aletsberger-strasse/
 shop: Bäckerei
 ---

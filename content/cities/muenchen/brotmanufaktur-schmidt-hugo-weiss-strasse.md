@@ -1,5 +1,5 @@
 ---
 title: "Brotmanufaktur Schmidt"
-url: /muenchen/brotmanufaktur-schmidt/
+url: /muenchen/brotmanufaktur-schmidt-hugo-weiss-strasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wimmer"
-url: /muenchen/wimmer/
+url: /muenchen/wimmer-kreillerstrasse/
 shop: Bäckerei
 ---

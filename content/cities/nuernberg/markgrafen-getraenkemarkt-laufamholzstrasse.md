@@ -1,5 +1,5 @@
 ---
 title: "Markgrafen Getränkemarkt"
-url: /nuernberg/markgrafen-getraenkemarkt/
+url: /nuernberg/markgrafen-getraenkemarkt-laufamholzstrasse/
 shop: Getränke
 ---

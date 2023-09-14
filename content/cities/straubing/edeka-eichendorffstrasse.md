@@ -1,5 +1,5 @@
 ---
 title: "EDEKA"
-url: /straubing/edeka/
+url: /straubing/edeka-eichendorffstrasse/
 shop: Supermarkt
 ---

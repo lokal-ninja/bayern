@@ -1,5 +1,5 @@
 ---
 title: "OrthoPoint"
-url: /erlangen/orthopoint/
+url: /erlangen/orthopoint-drausnickstrasse/
 shop: Sanitätshaus
 ---

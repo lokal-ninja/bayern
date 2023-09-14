@@ -1,5 +1,5 @@
 ---
 title: "Norma"
-url: /muenchen/norma/
+url: /muenchen/norma-schleissheimer-strasse/
 shop: Supermarkt
 ---

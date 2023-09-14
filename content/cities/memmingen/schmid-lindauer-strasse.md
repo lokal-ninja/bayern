@@ -1,5 +1,5 @@
 ---
 title: "Schmid"
-url: /memmingen/schmid/
+url: /memmingen/schmid-lindauer-strasse/
 shop: Bücher
 ---

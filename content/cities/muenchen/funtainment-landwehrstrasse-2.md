@@ -1,5 +1,5 @@
 ---
 title: "FUNtainment"
-url: /muenchen/funtainment/
+url: /muenchen/funtainment-landwehrstrasse-2/
 shop: Spiele
 ---

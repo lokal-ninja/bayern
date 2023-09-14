@@ -1,5 +1,5 @@
 ---
 title: "Hallhuber"
-url: /nuernberg/hallhuber/
+url: /nuernberg/hallhuber-karolinenstrasse/
 shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "REWE Getränkemarkt"
-url: /regensburg/rewe-getraenkemarkt/
+url: /regensburg/rewe-getraenkemarkt-wernerwerkstrasse/
 shop: Getränke
 ---

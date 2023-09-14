@@ -7,5 +7,5 @@ city: Freyung
 street: "Kreuzberg"
 housenumber: 98
 phone: ""
-opening_hours: "Mo 06:30-12:00,14:00-18:00; Tu 06:30-12:00; We 06:30-12:00,14:00-18:00; Th 06:30-12:00; Fr 06:30-12:00,14:00-18:00; Sa 07:00-12:00; Su closed; PH closed"
+opening_hours: "Mo-Fr 06:30-12:00; PH off"
 website: ""

@@ -1,5 +1,5 @@
 ---
 title: "Carglass"
-url: /muenchen/carglass/
+url: /muenchen/carglass-maria-probst-strasse/
 shop: Autowerkstatt
 ---

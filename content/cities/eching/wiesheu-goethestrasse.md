@@ -1,5 +1,5 @@
 ---
 title: "Wiesheu"
-url: /eching/wiesheu/
+url: /eching/wiesheu-goethestrasse/
 shop: Autowerkstatt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nußstein"
-url: /amberg/nussstein/
+url: /amberg/nussstein-regensburger-strasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Feinkostmetzgerei Weyh"
-url: /schwabach/feinkostmetzgerei-weyh/
+url: /schwabach/feinkostmetzgerei-weyh-wittelsbacherstrasse/
 shop: Metzgerei
 ---

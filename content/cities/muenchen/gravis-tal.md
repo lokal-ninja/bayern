@@ -1,5 +1,5 @@
 ---
 title: "Gravis"
-url: /muenchen/gravis/
+url: /muenchen/gravis-tal/
 shop: Computer
 ---

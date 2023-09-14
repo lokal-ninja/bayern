@@ -1,5 +1,5 @@
 ---
 title: "Müller"
-url: /garmisch-partenkirchen/mueller/
+url: /garmisch-partenkirchen/mueller-rathausplatz/
 shop: Bäckerei
 ---

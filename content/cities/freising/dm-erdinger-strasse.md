@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /freising/dm/
+url: /freising/dm-erdinger-strasse/
 shop: Drogerie
 ---

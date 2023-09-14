@@ -1,5 +1,5 @@
 ---
 title: "BrotHaus"
-url: /fuerth/brothaus/
+url: /fuerth/brothaus-friedrich-ebert-strasse/
 shop: Bäckerei
 ---

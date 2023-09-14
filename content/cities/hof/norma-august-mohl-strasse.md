@@ -1,5 +1,5 @@
 ---
 title: "Norma"
-url: /hof/norma/
+url: /hof/norma-august-mohl-strasse/
 shop: Supermarkt
 ---

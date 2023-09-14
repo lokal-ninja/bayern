@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /augsburg/kik/
+url: /augsburg/kik-lilienthalstrasse/
 shop: Kleidung
 ---

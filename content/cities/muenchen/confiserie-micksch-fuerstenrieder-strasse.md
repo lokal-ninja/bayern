@@ -1,5 +1,5 @@
 ---
 title: "Confiserie Micksch"
-url: /muenchen/confiserie-micksch/
+url: /muenchen/confiserie-micksch-fuerstenrieder-strasse/
 shop: Süßwaren
 ---

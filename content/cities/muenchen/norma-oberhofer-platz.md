@@ -1,5 +1,5 @@
 ---
 title: "Norma"
-url: /muenchen/norma/
+url: /muenchen/norma-oberhofer-platz/
 shop: Supermarkt
 ---

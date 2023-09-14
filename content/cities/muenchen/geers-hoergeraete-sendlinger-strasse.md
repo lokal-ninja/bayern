@@ -1,5 +1,5 @@
 ---
 title: "GEERS Hörgeräte"
-url: /muenchen/geers-hoergeraete/
+url: /muenchen/geers-hoergeraete-sendlinger-strasse/
 shop: Hörgeräte
 ---

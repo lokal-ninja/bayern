@@ -1,5 +1,5 @@
 ---
 title: "hairlounge"
-url: /fuerstenfeldbruck/hairlounge/
+url: /fuerstenfeldbruck/hairlounge-leonhardsplatz/
 shop: Friseur
 ---

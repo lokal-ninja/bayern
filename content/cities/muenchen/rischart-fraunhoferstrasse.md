@@ -1,5 +1,5 @@
 ---
 title: "Rischart"
-url: /muenchen/rischart/
+url: /muenchen/rischart-fraunhoferstrasse/
 shop: Bäckerei
 ---

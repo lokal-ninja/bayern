@@ -1,5 +1,5 @@
 ---
 title: "Fressnapf"
-url: /nuernberg/fressnapf/
+url: /nuernberg/fressnapf-lichtenfelser-strasse/
 shop: Tiere
 ---

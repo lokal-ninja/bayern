@@ -1,5 +1,5 @@
 ---
 title: "NORMA"
-url: /ingolstadt/norma/
+url: /ingolstadt/norma-godramsteiner-strasse/
 shop: Supermarkt
 ---

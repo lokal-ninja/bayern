@@ -1,5 +1,5 @@
 ---
 title: "Rewe"
-url: /bamberg/rewe/
+url: /bamberg/rewe-caspersmeyerstrasse/
 shop: Supermarkt
 ---

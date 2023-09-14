@@ -1,5 +1,5 @@
 ---
 title: "MediaMarkt"
-url: /aschaffenburg/mediamarkt/
+url: /aschaffenburg/mediamarkt-mainaschaffer-strasse/
 shop: Elektronik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Krebs Caravan"
-url: /stockstadt-am-main/krebs-caravan/
+url: /stockstadt-am-main/krebs-caravan-ostendstrasse/
 shop: Wohnwagen
 ---

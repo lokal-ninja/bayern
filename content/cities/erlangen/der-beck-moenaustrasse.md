@@ -1,5 +1,5 @@
 ---
 title: "Der Beck"
-url: /erlangen/der-beck/
+url: /erlangen/der-beck-moenaustrasse/
 shop: Bäckerei
 ---

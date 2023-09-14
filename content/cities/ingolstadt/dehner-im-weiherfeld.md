@@ -1,5 +1,5 @@
 ---
 title: "Dehner"
-url: /ingolstadt/dehner/
+url: /ingolstadt/dehner-im-weiherfeld/
 shop: Garten-Center
 ---

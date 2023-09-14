@@ -1,5 +1,5 @@
 ---
 title: "Traublinger"
-url: /muenchen/traublinger/
+url: /muenchen/traublinger-oskar-maria-graf-ring/
 shop: Bäckerei
 ---

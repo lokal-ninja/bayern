@@ -1,5 +1,5 @@
 ---
 title: "Norma"
-url: /amberg/norma/
+url: /amberg/norma-immenstetter-strasse/
 shop: Supermarkt
 ---

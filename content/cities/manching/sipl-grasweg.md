@@ -1,5 +1,5 @@
 ---
 title: "SIPL"
-url: /manching/sipl/
+url: /manching/sipl-grasweg/
 shop: Bäckerei
 ---

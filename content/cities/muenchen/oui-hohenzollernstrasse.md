@@ -1,5 +1,5 @@
 ---
 title: "ouí"
-url: /muenchen/oui/
+url: /muenchen/oui-hohenzollernstrasse/
 shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hofpfisterei"
-url: /muenchen/hofpfisterei/
+url: /muenchen/hofpfisterei-verdistrasse/
 shop: Bäckerei
 ---

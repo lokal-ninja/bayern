@@ -1,5 +1,5 @@
 ---
 title: "Eilles"
-url: /erlangen/eilles/
+url: /erlangen/eilles-schlossplatz/
 shop: Süßwaren
 ---

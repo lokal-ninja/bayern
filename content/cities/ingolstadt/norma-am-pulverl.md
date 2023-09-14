@@ -1,5 +1,5 @@
 ---
 title: "Norma"
-url: /ingolstadt/norma/
+url: /ingolstadt/norma-am-pulverl/
 shop: Supermarkt
 ---

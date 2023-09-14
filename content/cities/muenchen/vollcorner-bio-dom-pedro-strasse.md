@@ -1,5 +1,5 @@
 ---
 title: "VollCorner Bio"
-url: /muenchen/vollcorner-bio/
+url: /muenchen/vollcorner-bio-dom-pedro-strasse/
 shop: Supermarkt
 ---

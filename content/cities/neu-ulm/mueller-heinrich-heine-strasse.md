@@ -1,5 +1,5 @@
 ---
 title: "Müller"
-url: /neu-ulm/mueller/
+url: /neu-ulm/mueller-heinrich-heine-strasse/
 shop: Drogerie
 ---

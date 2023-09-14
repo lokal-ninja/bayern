@@ -1,5 +1,5 @@
 ---
 title: "Mix Markt"
-url: /augsburg/mix-markt/
+url: /augsburg/mix-markt-steinerne-furt/
 shop: Supermarkt
 ---

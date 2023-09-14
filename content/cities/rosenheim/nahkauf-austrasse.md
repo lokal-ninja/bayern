@@ -1,5 +1,5 @@
 ---
 title: "Nahkauf"
-url: /rosenheim/nahkauf/
+url: /rosenheim/nahkauf-austrasse/
 shop: Supermarkt
 ---

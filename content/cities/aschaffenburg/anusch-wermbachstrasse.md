@@ -1,5 +1,5 @@
 ---
 title: "Anusch"
-url: /aschaffenburg/anusch/
+url: /aschaffenburg/anusch-wermbachstrasse/
 shop: Teppiche
 ---

@@ -1,5 +1,5 @@
 ---
 title: "COS"
-url: /muenchen/cos/
+url: /muenchen/cos-hohenzollernstrasse/
 shop: Kleidung
 ---

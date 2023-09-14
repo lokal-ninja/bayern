@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /erlangen/rewe/
+url: /erlangen/rewe-naegelsbachstrasse/
 shop: Supermarkt
 ---

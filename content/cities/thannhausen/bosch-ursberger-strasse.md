@@ -1,5 +1,5 @@
 ---
 title: "Bosch"
-url: /thannhausen/bosch/
+url: /thannhausen/bosch-ursberger-strasse/
 shop: Bäckerei
 ---

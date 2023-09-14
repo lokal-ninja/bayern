@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /regensburg/kik/
+url: /regensburg/kik-friedrich-viehbacher-allee/
 shop: Kleidung
 ---

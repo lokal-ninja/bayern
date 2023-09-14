@@ -1,5 +1,5 @@
 ---
 title: "EDEKA"
-url: /garmisch-partenkirchen/edeka/
+url: /garmisch-partenkirchen/edeka-amselstrasse/
 shop: Supermarkt
 ---

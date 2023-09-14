@@ -1,5 +1,5 @@
 ---
 title: "Çavuşoğlu"
-url: /muenchen/cavusoglu/
+url: /muenchen/cavusoglu-goethestrasse/
 shop: Supermarkt
 ---

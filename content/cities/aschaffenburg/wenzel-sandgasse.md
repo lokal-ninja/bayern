@@ -1,5 +1,5 @@
 ---
 title: "Wenzel"
-url: /aschaffenburg/wenzel/
+url: /aschaffenburg/wenzel-sandgasse/
 shop: Bäckerei
 ---

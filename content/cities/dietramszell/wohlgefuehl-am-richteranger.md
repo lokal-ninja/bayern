@@ -1,5 +1,5 @@
 ---
 title: "Wohlgefühl"
-url: /dietramszell/wohlgefuehl/
+url: /dietramszell/wohlgefuehl-am-richteranger/
 shop: Bäckerei
 ---

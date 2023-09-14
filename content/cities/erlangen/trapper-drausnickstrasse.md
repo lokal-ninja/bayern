@@ -1,5 +1,5 @@
 ---
 title: "Trapper"
-url: /erlangen/trapper/
+url: /erlangen/trapper-drausnickstrasse/
 shop: Bäckerei
 ---

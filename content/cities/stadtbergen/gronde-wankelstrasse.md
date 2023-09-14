@@ -1,5 +1,5 @@
 ---
 title: "Gronde"
-url: /stadtbergen/gronde/
+url: /stadtbergen/gronde-wankelstrasse/
 shop: Hörgeräte
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Höflinger"
-url: /muenchen/hoeflinger/
+url: /muenchen/hoeflinger-erich-kaestner-strasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /augsburg/lidl/
+url: /augsburg/lidl-heinrich-von-buz-strasse/
 shop: Supermarkt
 ---

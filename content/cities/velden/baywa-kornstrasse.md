@@ -1,5 +1,5 @@
 ---
 title: "BayWa"
-url: /velden/baywa/
+url: /velden/baywa-kornstrasse/
 shop: Baumarkt
 ---

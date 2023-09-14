@@ -1,5 +1,5 @@
 ---
 title: "EDEKA"
-url: /zwiesel/edeka/
+url: /zwiesel/edeka-hindenburgstrasse/
 shop: Supermarkt
 ---

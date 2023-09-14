@@ -1,5 +1,5 @@
 ---
 title: "Schiffer"
-url: /wuerzburg/schiffer/
+url: /wuerzburg/schiffer-versbacher-strasse/
 shop: Bäckerei
 ---

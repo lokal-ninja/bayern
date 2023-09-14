@@ -1,5 +1,5 @@
 ---
 title: "Netto Marken-Discount"
-url: /roding/netto-marken-discount/
+url: /roding/netto-marken-discount-bahnhofstrasse/
 shop: Supermarkt
 ---

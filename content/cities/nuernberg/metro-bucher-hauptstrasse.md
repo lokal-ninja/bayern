@@ -1,5 +1,5 @@
 ---
 title: "Metro"
-url: /nuernberg/metro/
+url: /nuernberg/metro-bucher-hauptstrasse/
 shop: Großhandel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hunkemöller"
-url: /erlangen/hunkemoeller/
+url: /erlangen/hunkemoeller-hauptstrasse/
 shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Penny"
-url: /ingolstadt/penny/
+url: /ingolstadt/penny-regensburger-strasse/
 shop: Supermarkt
 ---

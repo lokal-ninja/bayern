@@ -1,5 +1,5 @@
 ---
 title: "Fressnapf"
-url: /hof/fressnapf/
+url: /hof/fressnapf-schaumbergstrasse/
 shop: Tiere
 ---

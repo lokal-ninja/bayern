@@ -1,5 +1,5 @@
 ---
 title: "METRO"
-url: /muenchen/metro/
+url: /muenchen/metro-am-gleisdreieck/
 shop: Großhandel
 ---

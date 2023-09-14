@@ -1,5 +1,5 @@
 ---
 title: "Anders"
-url: /bruckmuehl/anders/
+url: /bruckmuehl/anders-kirchdorfer-strasse/
 shop: Bäckerei
 ---

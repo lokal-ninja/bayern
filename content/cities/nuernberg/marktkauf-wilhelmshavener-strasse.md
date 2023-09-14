@@ -1,5 +1,5 @@
 ---
 title: "Marktkauf"
-url: /nuernberg/marktkauf/
+url: /nuernberg/marktkauf-wilhelmshavener-strasse/
 shop: Supermarkt
 ---

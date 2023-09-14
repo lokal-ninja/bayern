@@ -1,5 +1,5 @@
 ---
 title: "NORMA"
-url: /wuerzburg/norma/
+url: /wuerzburg/norma-semmelstrasse/
 shop: Supermarkt
 ---

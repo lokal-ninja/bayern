@@ -1,5 +1,5 @@
 ---
 title: "Bauhaus"
-url: /augsburg/bauhaus/
+url: /augsburg/bauhaus-donauwoerther-strasse/
 shop: Baumarkt
 ---

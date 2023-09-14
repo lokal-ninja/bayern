@@ -1,5 +1,5 @@
 ---
 title: "Christ"
-url: /ingolstadt/christ/
+url: /ingolstadt/christ-2/
 shop: Schmuck
 ---

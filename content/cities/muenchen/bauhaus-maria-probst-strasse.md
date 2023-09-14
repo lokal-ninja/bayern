@@ -1,5 +1,5 @@
 ---
 title: "Bauhaus"
-url: /muenchen/bauhaus/
+url: /muenchen/bauhaus-maria-probst-strasse/
 shop: Baumarkt
 ---

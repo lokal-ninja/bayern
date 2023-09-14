@@ -1,5 +1,5 @@
 ---
 title: "EDEKA"
-url: /traunstein/edeka/
+url: /traunstein/edeka-sonntagshornstrasse/
 shop: Supermarkt
 ---

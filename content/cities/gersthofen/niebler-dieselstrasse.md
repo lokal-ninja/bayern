@@ -1,5 +1,5 @@
 ---
 title: "Niebler"
-url: /gersthofen/niebler/
+url: /gersthofen/niebler-dieselstrasse/
 shop: Autohaus
 ---

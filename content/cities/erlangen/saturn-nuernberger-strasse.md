@@ -1,5 +1,5 @@
 ---
 title: "Saturn"
-url: /erlangen/saturn/
+url: /erlangen/saturn-nuernberger-strasse/
 shop: Elektronik
 ---

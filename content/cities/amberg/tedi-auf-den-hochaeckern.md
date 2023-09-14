@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
-url: /amberg/tedi/
+url: /amberg/tedi-auf-den-hochaeckern/
 shop: Kramladen
 ---

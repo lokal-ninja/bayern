@@ -1,5 +1,5 @@
 ---
 title: "Storebox"
-url: /landshut/storebox/
+url: /landshut/storebox-altdorfer-strasse/
 shop: Mieten
 ---

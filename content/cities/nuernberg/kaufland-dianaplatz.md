@@ -1,5 +1,5 @@
 ---
 title: "Kaufland"
-url: /nuernberg/kaufland/
+url: /nuernberg/kaufland-dianaplatz/
 shop: Supermarkt
 ---

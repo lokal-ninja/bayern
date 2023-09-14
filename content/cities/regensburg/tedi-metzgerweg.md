@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
-url: /regensburg/tedi/
+url: /regensburg/tedi-metzgerweg/
 shop: Kramladen
 ---

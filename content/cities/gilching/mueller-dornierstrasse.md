@@ -1,5 +1,5 @@
 ---
 title: "Müller"
-url: /gilching/mueller/
+url: /gilching/mueller-dornierstrasse/
 shop: Drogerie
 ---

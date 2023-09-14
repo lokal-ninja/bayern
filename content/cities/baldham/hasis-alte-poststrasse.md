@@ -1,5 +1,5 @@
 ---
 title: "Hasi's"
-url: /baldham/hasis/
+url: /baldham/hasis-alte-poststrasse/
 shop: Bäckerei
 ---

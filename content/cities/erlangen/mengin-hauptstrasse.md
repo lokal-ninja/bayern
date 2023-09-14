@@ -1,5 +1,5 @@
 ---
 title: "Mengin"
-url: /erlangen/mengin/
+url: /erlangen/mengin-hauptstrasse/
 shop: Schuhe
 ---

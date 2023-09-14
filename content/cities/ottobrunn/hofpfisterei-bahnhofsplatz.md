@@ -1,5 +1,5 @@
 ---
 title: "Hofpfisterei"
-url: /ottobrunn/hofpfisterei/
+url: /ottobrunn/hofpfisterei-bahnhofsplatz/
 shop: Bäckerei
 ---

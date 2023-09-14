@@ -1,5 +1,5 @@
 ---
 title: "Mercedes Benz"
-url: /muenchen/mercedes-benz/
+url: /muenchen/mercedes-benz-kistlerhofstrasse/
 shop: Autohaus
 ---

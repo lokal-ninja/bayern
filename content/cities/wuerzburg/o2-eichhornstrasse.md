@@ -1,5 +1,5 @@
 ---
 title: "O2"
-url: /wuerzburg/o2/
+url: /wuerzburg/o2-eichhornstrasse/
 shop: Handy
 ---

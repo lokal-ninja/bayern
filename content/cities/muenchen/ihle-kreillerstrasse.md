@@ -1,5 +1,5 @@
 ---
 title: "Ihle"
-url: /muenchen/ihle/
+url: /muenchen/ihle-kreillerstrasse/
 shop: Bäckerei
 ---

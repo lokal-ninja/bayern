@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
-url: /augsburg/vodafone/
+url: /augsburg/vodafone-annastrasse/
 shop: Handy
 ---

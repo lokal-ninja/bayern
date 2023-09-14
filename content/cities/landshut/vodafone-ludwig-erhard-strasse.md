@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
-url: /landshut/vodafone/
+url: /landshut/vodafone-ludwig-erhard-strasse/
 shop: Handy
 ---

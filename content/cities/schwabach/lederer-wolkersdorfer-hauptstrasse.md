@@ -1,5 +1,5 @@
 ---
 title: "Lederer"
-url: /schwabach/lederer/
+url: /schwabach/lederer-wolkersdorfer-hauptstrasse/
 shop: Bäckerei
 ---

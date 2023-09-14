@@ -1,5 +1,5 @@
 ---
 title: "Dreier"
-url: /tiefenbach/dreier/
+url: /tiefenbach/dreier-hauptstrasse/
 shop: Bäckerei
 ---

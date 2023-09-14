@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /regensburg/penny/
+url: /regensburg/penny-brandlberger-strasse/
 shop: Supermarkt
 ---

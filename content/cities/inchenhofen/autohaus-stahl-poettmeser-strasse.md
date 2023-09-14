@@ -1,5 +1,5 @@
 ---
 title: "Autohaus Stahl"
-url: /inchenhofen/autohaus-stahl/
+url: /inchenhofen/autohaus-stahl-poettmeser-strasse/
 shop: Autohaus
 ---

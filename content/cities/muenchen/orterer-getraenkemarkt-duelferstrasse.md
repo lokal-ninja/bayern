@@ -1,5 +1,5 @@
 ---
 title: "Orterer Getränkemarkt"
-url: /muenchen/orterer-getraenkemarkt/
+url: /muenchen/orterer-getraenkemarkt-duelferstrasse/
 shop: Getränke
 ---

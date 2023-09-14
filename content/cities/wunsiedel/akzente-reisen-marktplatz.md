@@ -1,5 +1,5 @@
 ---
 title: "Akzente Reisen"
-url: /wunsiedel/akzente-reisen/
+url: /wunsiedel/akzente-reisen-marktplatz/
 shop: Reisebüro
 ---

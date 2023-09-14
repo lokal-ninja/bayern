@@ -1,5 +1,5 @@
 ---
 title: "EDEKA"
-url: /friedberg/edeka/
+url: /friedberg/edeka-bozener-strasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "EDEKA"
-url: /muenchen/edeka/
+url: /muenchen/edeka-georg-birk-strasse/
 shop: Supermarkt
 ---

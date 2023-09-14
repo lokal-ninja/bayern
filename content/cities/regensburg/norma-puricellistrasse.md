@@ -1,5 +1,5 @@
 ---
-title: "Norma"
-url: /regensburg/norma/
+title: "NORMA"
+url: /regensburg/norma-puricellistrasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "EDEKA"
-url: /regensburg/edeka/
+url: /regensburg/edeka-hornstrasse/
 shop: Supermarkt
 ---

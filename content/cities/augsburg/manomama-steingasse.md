@@ -1,5 +1,5 @@
 ---
 title: "Manomama"
-url: /augsburg/manomama/
+url: /augsburg/manomama-steingasse/
 shop: Kleidung
 ---

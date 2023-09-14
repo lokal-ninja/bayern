@@ -1,5 +1,5 @@
 ---
 title: "Bauer"
-url: /ortenburg/bauer/
+url: /ortenburg/bauer-marktplatz/
 shop: Bäckerei
 ---

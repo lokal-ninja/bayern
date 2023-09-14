@@ -1,5 +1,5 @@
 ---
 title: "Traublinger"
-url: /muenchen/traublinger/
+url: /muenchen/traublinger-werinherstrasse/
 shop: Bäckerei
 ---

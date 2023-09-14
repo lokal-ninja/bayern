@@ -1,5 +1,5 @@
 ---
 title: "Deichmann"
-url: /landshut/deichmann/
+url: /landshut/deichmann-ludwig-erhard-strasse/
 shop: Schuhe
 ---

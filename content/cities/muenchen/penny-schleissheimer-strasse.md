@@ -1,5 +1,5 @@
 ---
 title: "Penny"
-url: /muenchen/penny/
+url: /muenchen/penny-schleissheimer-strasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PŸUR"
-url: /muenchen/pyur/
+url: /muenchen/pyur-frankfurter-ring/
 shop: Handy
 ---

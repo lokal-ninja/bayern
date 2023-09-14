@@ -1,5 +1,5 @@
 ---
 title: "NORMA"
-url: /senden/norma/
+url: /senden/norma-berliner-strasse/
 shop: Supermarkt
 ---

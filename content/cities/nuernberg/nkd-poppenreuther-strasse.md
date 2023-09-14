@@ -1,5 +1,5 @@
 ---
 title: "NKD"
-url: /nuernberg/nkd/
+url: /nuernberg/nkd-poppenreuther-strasse/
 shop: Kleidung
 ---

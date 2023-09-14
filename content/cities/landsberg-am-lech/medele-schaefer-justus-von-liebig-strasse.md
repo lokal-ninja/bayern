@@ -1,5 +1,5 @@
 ---
 title: "Medele Schäfer"
-url: /landsberg-am-lech/medele-schaefer/
+url: /landsberg-am-lech/medele-schaefer-justus-von-liebig-strasse/
 shop: Autowerkstatt
 ---

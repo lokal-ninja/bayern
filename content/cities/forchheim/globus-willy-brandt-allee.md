@@ -1,5 +1,5 @@
 ---
 title: "Globus"
-url: /forchheim/globus/
+url: /forchheim/globus-willy-brandt-allee/
 shop: Einkaufszentrum
 ---

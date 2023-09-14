@@ -1,5 +1,5 @@
 ---
 title: "Thalia"
-url: /erlangen/thalia/
+url: /erlangen/thalia-hugenottenplatz/
 shop: Bücher
 ---

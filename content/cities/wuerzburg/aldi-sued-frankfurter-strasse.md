@@ -1,5 +1,5 @@
 ---
 title: "ALDI Süd"
-url: /wuerzburg/aldi-sued/
+url: /wuerzburg/aldi-sued-frankfurter-strasse/
 shop: Supermarkt
 ---

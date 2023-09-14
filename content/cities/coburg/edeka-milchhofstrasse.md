@@ -1,5 +1,5 @@
 ---
 title: "Edeka"
-url: /coburg/edeka/
+url: /coburg/edeka-milchhofstrasse/
 shop: Supermarkt
 ---

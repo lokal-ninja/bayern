@@ -1,5 +1,5 @@
 ---
 title: "Rewe"
-url: /landshut/rewe/
+url: /landshut/rewe-rennweg/
 shop: Supermarkt
 ---

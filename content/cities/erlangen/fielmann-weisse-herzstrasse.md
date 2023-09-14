@@ -1,5 +1,5 @@
 ---
 title: "Fielmann"
-url: /erlangen/fielmann/
+url: /erlangen/fielmann-weisse-herzstrasse/
 shop: Optiker
 ---

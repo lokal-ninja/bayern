@@ -1,5 +1,5 @@
 ---
 title: "Hugendubel"
-url: /muenchen/hugendubel/
+url: /muenchen/hugendubel-thomas-dehler-strasse/
 shop: Bücher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Brezen Meyer"
-url: /erlangen/brezen-meyer/
+url: /erlangen/brezen-meyer-gerberei/
 shop: Bäckerei
 ---

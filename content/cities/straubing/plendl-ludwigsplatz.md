@@ -1,5 +1,5 @@
 ---
 title: "Plendl"
-url: /straubing/plendl/
+url: /straubing/plendl-ludwigsplatz/
 shop: Bäckerei
 ---

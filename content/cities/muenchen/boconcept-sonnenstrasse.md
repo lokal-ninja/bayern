@@ -1,5 +1,5 @@
 ---
 title: "BoConcept"
-url: /muenchen/boconcept/
+url: /muenchen/boconcept-sonnenstrasse/
 shop: Möbel
 ---

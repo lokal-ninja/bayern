@@ -1,5 +1,5 @@
 ---
 title: "Zimtschneckenfabrik"
-url: /muenchen/zimtschneckenfabrik/
+url: /muenchen/zimtschneckenfabrik-tegernseer-landstrasse/
 shop: Bäckerei
 ---

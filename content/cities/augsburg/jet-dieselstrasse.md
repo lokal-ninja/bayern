@@ -1,5 +1,5 @@
 ---
 title: "Jet"
-url: /augsburg/jet/
+url: /augsburg/jet-dieselstrasse/
 shop: Allgemein
 ---

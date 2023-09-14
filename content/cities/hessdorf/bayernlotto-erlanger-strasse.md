@@ -1,5 +1,5 @@
 ---
 title: "Bayernlotto"
-url: /hessdorf/bayernlotto/
+url: /hessdorf/bayernlotto-erlanger-strasse/
 shop: Lotterie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hulinsky"
-url: /bayreuth/hulinsky/
+url: /bayreuth/hulinsky-richard-wagner-strasse/
 shop: Bäckerei
 ---

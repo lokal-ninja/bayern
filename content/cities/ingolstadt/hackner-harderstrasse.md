@@ -1,5 +1,5 @@
 ---
 title: "Hackner"
-url: /ingolstadt/hackner/
+url: /ingolstadt/hackner-harderstrasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "BayWa"
-url: /lappersdorf/baywa/
+url: /lappersdorf/baywa-regendorfer-strasse/
 shop: Baumarkt
 ---

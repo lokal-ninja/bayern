@@ -1,5 +1,5 @@
 ---
 title: "Fristo"
-url: /muenchen/fristo/
+url: /muenchen/fristo-heidemannstrasse/
 shop: Getränke
 ---

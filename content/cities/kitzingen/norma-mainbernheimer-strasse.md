@@ -1,5 +1,5 @@
 ---
 title: "NORMA"
-url: /kitzingen/norma/
+url: /kitzingen/norma-mainbernheimer-strasse/
 shop: Supermarkt
 ---

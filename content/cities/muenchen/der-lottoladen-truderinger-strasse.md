@@ -1,5 +1,5 @@
 ---
 title: "Der Lottoladen"
-url: /muenchen/der-lottoladen/
+url: /muenchen/der-lottoladen-truderinger-strasse/
 shop: Lotterie
 ---

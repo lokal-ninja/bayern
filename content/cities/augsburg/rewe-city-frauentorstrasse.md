@@ -1,5 +1,5 @@
 ---
 title: "REWE City"
-url: /augsburg/rewe-city/
+url: /augsburg/rewe-city-frauentorstrasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dehner"
-url: /nuernberg/dehner/
+url: /nuernberg/dehner-happurger-strasse/
 shop: Garten-Center
 ---

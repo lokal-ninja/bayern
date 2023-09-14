@@ -1,11 +1,11 @@
 id: 965144153
 type: node
-latitude: 48.34667
-longitude: 10.8811
+latitude: 48.34668
+longitude: 10.88113
 postcode: "86199"
 city: Augsburg
 street: "Edisonstraße"
 housenumber: 1
 phone: "+49 821 2592739"
-opening_hours: "Apr-Aug Mo,We-Fr 09:00-19:00; Apr-Aug Sa 09:00-14:00; Sep-Mar Mo,We-Fr 09:00-18:00; Sep-Mar Sa 09:00-13:00; PH off"
-website: "http://www.angelspezi-augsburg.de/"
+opening_hours: "Mo,We-Fr 09:00-19:00; Sa 09:00-14:00; Su,PH off"
+website: ""

@@ -1,5 +1,5 @@
 ---
 title: "Hapfelmeier"
-url: /weilheim-in-oberbayern/hapfelmeier/
+url: /weilheim-in-oberbayern/hapfelmeier-schmiedstrasse/
 shop: Kleidung
 ---

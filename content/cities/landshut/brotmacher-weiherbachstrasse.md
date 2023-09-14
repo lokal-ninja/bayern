@@ -1,5 +1,5 @@
 ---
 title: "Brotmacher"
-url: /landshut/brotmacher/
+url: /landshut/brotmacher-weiherbachstrasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fuhrmanns Backparadies"
-url: /bayreuth/fuhrmanns-backparadies/
+url: /bayreuth/fuhrmanns-backparadies-bruexer-weg/
 shop: Bäckerei
 ---

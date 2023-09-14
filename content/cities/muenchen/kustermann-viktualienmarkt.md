@@ -1,5 +1,5 @@
 ---
 title: "Kustermann"
-url: /muenchen/kustermann/
+url: /muenchen/kustermann-viktualienmarkt/
 shop: Haushaltsartikel
 ---

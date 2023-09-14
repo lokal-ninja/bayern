@@ -1,5 +1,5 @@
 ---
 title: "Webers"
-url: /wuerzburg/webers/
+url: /wuerzburg/webers-geschwister-scholl-platz/
 shop: Bäckerei
 ---

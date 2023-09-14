@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /passau/rewe/
+url: /passau/rewe-nibelungenplatz/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Netto Marken-Discount"
-url: /traunstein/netto-marken-discount/
+url: /traunstein/netto-marken-discount-eugen-rosner-strasse/
 shop: Supermarkt
 ---

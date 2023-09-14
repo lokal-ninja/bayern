@@ -1,5 +1,5 @@
 ---
 title: "vomFASS"
-url: /regensburg/vomfass/
+url: /regensburg/vomfass-froehliche-tuerken-strasse/
 shop: Feinkost
 ---

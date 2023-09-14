@@ -1,5 +1,5 @@
 ---
 title: "Carglass"
-url: /wuerzburg/carglass/
+url: /wuerzburg/carglass-nuernberger-strasse/
 shop: Autowerkstatt
 ---

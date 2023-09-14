@@ -1,5 +1,5 @@
 ---
 title: "Wohngerade"
-url: /erlangen/wohngerade/
+url: /erlangen/wohngerade-engelstrasse/
 shop: Raumausstattung
 ---

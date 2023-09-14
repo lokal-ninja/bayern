@@ -1,5 +1,5 @@
 ---
 title: "Antiquitäten"
-url: /muenchen/antiquitaeten/
+url: /muenchen/antiquitaeten-adalbertstrasse/
 shop: Antiquitäten
 ---

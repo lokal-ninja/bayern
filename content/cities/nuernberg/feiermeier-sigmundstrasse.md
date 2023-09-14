@@ -1,5 +1,5 @@
 ---
 title: "feiermeier"
-url: /nuernberg/feiermeier/
+url: /nuernberg/feiermeier-sigmundstrasse/
 shop: Andenken
 ---

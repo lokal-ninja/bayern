@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /bayreuth/dm/
+url: /bayreuth/dm-otto-hahn-strasse/
 shop: Drogerie
 ---

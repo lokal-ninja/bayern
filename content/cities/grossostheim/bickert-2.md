@@ -1,5 +1,5 @@
 ---
 title: "Bickert"
-url: /grossostheim/bickert/
+url: /grossostheim/bickert-2/
 shop: Bäckerei
 ---

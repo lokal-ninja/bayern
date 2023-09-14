@@ -1,5 +1,5 @@
 ---
 title: "Edeka"
-url: /unterschleissheim/edeka/
+url: /unterschleissheim/edeka-suedliche-ingolstaedter-strasse/
 shop: Supermarkt
 ---

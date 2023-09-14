@@ -1,5 +1,5 @@
 ---
 title: "Edeka"
-url: /landshut/edeka/
+url: /landshut/edeka-neissestrasse/
 shop: Supermarkt
 ---

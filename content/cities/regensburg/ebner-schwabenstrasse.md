@@ -1,5 +1,5 @@
 ---
 title: "Ebner"
-url: /regensburg/ebner/
+url: /regensburg/ebner-schwabenstrasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI Süd"
-url: /straubing/aldi-sued/
+url: /straubing/aldi-sued-landshuter-strasse/
 shop: Supermarkt
 ---

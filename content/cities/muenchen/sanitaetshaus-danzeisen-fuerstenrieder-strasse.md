@@ -1,5 +1,5 @@
 ---
 title: "Sanitätshaus Danzeisen"
-url: /muenchen/sanitaetshaus-danzeisen/
+url: /muenchen/sanitaetshaus-danzeisen-fuerstenrieder-strasse/
 shop: Sanitätshaus
 ---

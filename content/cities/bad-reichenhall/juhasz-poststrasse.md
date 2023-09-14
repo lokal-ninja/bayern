@@ -1,5 +1,5 @@
 ---
 title: "Juhasz"
-url: /bad-reichenhall/juhasz/
+url: /bad-reichenhall/juhasz-poststrasse/
 shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MediaMarkt"
-url: /wuerzburg/mediamarkt/
+url: /wuerzburg/mediamarkt-domstrasse/
 shop: Elektronik
 ---

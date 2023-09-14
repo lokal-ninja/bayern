@@ -1,5 +1,5 @@
 ---
 title: "Metzgerei Schiller"
-url: /hof/metzgerei-schiller/
+url: /hof/metzgerei-schiller-oelsnitzer-strasse/
 shop: Metzgerei
 ---

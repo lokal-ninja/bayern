@@ -1,5 +1,5 @@
 ---
 title: "Fabri"
-url: /muenchen/fabri/
+url: /muenchen/fabri-hohenzollernstrasse/
 shop: Schuhe
 ---

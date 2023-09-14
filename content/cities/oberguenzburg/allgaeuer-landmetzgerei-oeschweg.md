@@ -1,5 +1,5 @@
 ---
 title: "Allgäuer Landmetzgerei"
-url: /oberguenzburg/allgaeuer-landmetzgerei/
+url: /oberguenzburg/allgaeuer-landmetzgerei-oeschweg/
 shop: Metzgerei
 ---

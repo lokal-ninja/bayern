@@ -1,5 +1,5 @@
 ---
 title: "Reiselust"
-url: /erlangen/reiselust/
+url: /erlangen/reiselust-helmstrasse/
 shop: Reisebüro
 ---

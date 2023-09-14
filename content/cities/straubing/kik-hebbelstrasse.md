@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /straubing/kik/
+url: /straubing/kik-hebbelstrasse/
 shop: Kleidung
 ---

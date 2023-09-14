@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Bachmeier"
-url: /moosburg-a-d-isar/baeckerei-bachmeier/
+url: /moosburg-a-d-isar/baeckerei-bachmeier-herrnstrasse/
 shop: Bäckerei
 ---

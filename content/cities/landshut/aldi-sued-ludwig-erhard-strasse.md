@@ -1,5 +1,5 @@
 ---
 title: "Aldi Süd"
-url: /landshut/aldi-sued/
+url: /landshut/aldi-sued-ludwig-erhard-strasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lego"
-url: /muenchen/lego/
+url: /muenchen/lego-willy-brandt-platz/
 shop: Spielzeug
 ---

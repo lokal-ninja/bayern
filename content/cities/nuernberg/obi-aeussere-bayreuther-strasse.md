@@ -1,5 +1,5 @@
 ---
 title: "OBI"
-url: /nuernberg/obi/
+url: /nuernberg/obi-aeussere-bayreuther-strasse/
 shop: Baumarkt
 ---

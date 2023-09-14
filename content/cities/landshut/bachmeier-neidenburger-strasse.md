@@ -1,5 +1,5 @@
 ---
 title: "Bachmeier"
-url: /landshut/bachmeier/
+url: /landshut/bachmeier-neidenburger-strasse/
 shop: Bäckerei
 ---

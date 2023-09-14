@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Betz"
-url: /landshut/baeckerei-betz/
+url: /landshut/baeckerei-betz-2/
 shop: Bäckerei
 ---

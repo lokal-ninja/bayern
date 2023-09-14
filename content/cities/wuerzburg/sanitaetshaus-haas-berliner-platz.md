@@ -1,5 +1,5 @@
 ---
 title: "Sanitätshaus Haas"
-url: /wuerzburg/sanitaetshaus-haas/
+url: /wuerzburg/sanitaetshaus-haas-berliner-platz/
 shop: Sanitätshaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kiliansbäck"
-url: /schweinfurt/kiliansbaeck/
+url: /schweinfurt/kiliansbaeck-hauptbahnhofstrasse/
 shop: Bäckerei
 ---

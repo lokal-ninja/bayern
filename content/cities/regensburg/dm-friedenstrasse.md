@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /regensburg/dm/
+url: /regensburg/dm-friedenstrasse/
 shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SUPOL"
-url: /nuernberg/supol/
+url: /nuernberg/supol-aeussere-sulzbacher-strasse/
 shop: Getränke
 ---

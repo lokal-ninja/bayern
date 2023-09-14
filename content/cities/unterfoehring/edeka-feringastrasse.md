@@ -1,5 +1,5 @@
 ---
 title: "EDEKA"
-url: /unterfoehring/edeka/
+url: /unterfoehring/edeka-feringastrasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Buntstift"
-url: /wuerzburg/buntstift/
+url: /wuerzburg/buntstift-frankfurter-strasse/
 shop: Schreibwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "OBI"
-url: /muenchen/obi/
+url: /muenchen/obi-riemer-strasse/
 shop: Baumarkt
 ---

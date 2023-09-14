@@ -1,5 +1,5 @@
 ---
 title: "Frühmorgen"
-url: /dingolfing/fruehmorgen/
+url: /dingolfing/fruehmorgen-bruckstrasse/
 shop: Bäckerei
 ---

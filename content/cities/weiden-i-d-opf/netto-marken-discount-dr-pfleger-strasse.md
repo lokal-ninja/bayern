@@ -1,5 +1,5 @@
 ---
 title: "Netto Marken-Discount"
-url: /weiden-i-d-opf/netto-marken-discount/
+url: /weiden-i-d-opf/netto-marken-discount-dr-pfleger-strasse/
 shop: Supermarkt
 ---

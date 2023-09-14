@@ -1,5 +1,5 @@
 ---
 title: "Penny"
-url: /waldkraiburg/penny/
+url: /waldkraiburg/penny-bahnhofstrasse/
 shop: Supermarkt
 ---

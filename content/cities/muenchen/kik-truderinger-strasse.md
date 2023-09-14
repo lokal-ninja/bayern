@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /muenchen/kik/
+url: /muenchen/kik-truderinger-strasse/
 shop: Kleidung
 ---

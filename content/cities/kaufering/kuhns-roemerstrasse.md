@@ -1,5 +1,5 @@
 ---
 title: "Kuhn's"
-url: /kaufering/kuhns/
+url: /kaufering/kuhns-roemerstrasse/
 shop: Metzgerei
 ---

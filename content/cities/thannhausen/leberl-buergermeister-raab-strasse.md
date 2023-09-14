@@ -1,5 +1,5 @@
 ---
 title: "Leberl"
-url: /thannhausen/leberl/
+url: /thannhausen/leberl-buergermeister-raab-strasse/
 shop: Metzgerei
 ---

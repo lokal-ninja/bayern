@@ -1,5 +1,5 @@
 ---
 title: "Schlosspassage"
-url: /gruenwald/schlosspassage/
+url: /gruenwald/schlosspassage-schlossstrasse-2/
 shop: Einkaufszentrum
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Fickenscher"
-url: /muenchberg/baeckerei-fickenscher/
+url: /muenchberg/baeckerei-fickenscher-stammbacher-strasse/
 shop: Bäckerei
 ---

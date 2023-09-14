@@ -1,5 +1,5 @@
 ---
 title: "Haarschnitt"
-url: /coburg/haarschnitt/
+url: /coburg/haarschnitt-mauer/
 shop: Friseur
 ---

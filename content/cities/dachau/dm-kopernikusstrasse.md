@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /dachau/dm/
+url: /dachau/dm-kopernikusstrasse/
 shop: Drogerie
 ---

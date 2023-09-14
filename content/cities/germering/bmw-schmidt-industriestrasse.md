@@ -1,5 +1,5 @@
 ---
 title: "BMW Schmidt"
-url: /germering/bmw-schmidt/
+url: /germering/bmw-schmidt-industriestrasse/
 shop: Autohaus
 ---

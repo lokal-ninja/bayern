@@ -1,5 +1,5 @@
 ---
 title: "Douglas"
-url: /muenchen/douglas/
+url: /muenchen/douglas-hanauer-strasse/
 shop: Parfümerie
 ---

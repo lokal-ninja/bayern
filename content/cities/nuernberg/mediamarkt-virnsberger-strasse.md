@@ -1,5 +1,5 @@
 ---
 title: "MediaMarkt"
-url: /nuernberg/mediamarkt/
+url: /nuernberg/mediamarkt-virnsberger-strasse/
 shop: Elektronik
 ---

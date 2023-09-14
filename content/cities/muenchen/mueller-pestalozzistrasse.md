@@ -1,5 +1,5 @@
 ---
 title: "Müller"
-url: /muenchen/mueller/
+url: /muenchen/mueller-pestalozzistrasse/
 shop: Drogerie
 ---

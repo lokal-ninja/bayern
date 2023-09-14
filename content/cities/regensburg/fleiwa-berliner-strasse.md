@@ -1,5 +1,5 @@
 ---
 title: "FleiWa"
-url: /regensburg/fleiwa/
+url: /regensburg/fleiwa-berliner-strasse/
 shop: Metzgerei
 ---

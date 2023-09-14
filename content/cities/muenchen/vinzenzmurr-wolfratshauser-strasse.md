@@ -1,5 +1,5 @@
 ---
 title: "Vinzenzmurr"
-url: /muenchen/vinzenzmurr/
+url: /muenchen/vinzenzmurr-wolfratshauser-strasse/
 shop: Metzgerei
 ---

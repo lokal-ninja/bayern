@@ -1,5 +1,5 @@
 ---
 title: "Rösner"
-url: /wuerzburg/roesner/
+url: /wuerzburg/roesner-obere-johannitergasse/
 shop: Bäckerei
 ---

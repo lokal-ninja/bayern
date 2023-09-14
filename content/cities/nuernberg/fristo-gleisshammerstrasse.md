@@ -1,5 +1,5 @@
 ---
 title: "Fristo"
-url: /nuernberg/fristo/
+url: /nuernberg/fristo-gleisshammerstrasse/
 shop: Getränke
 ---

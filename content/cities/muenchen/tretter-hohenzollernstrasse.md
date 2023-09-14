@@ -1,5 +1,5 @@
 ---
 title: "TRETTER"
-url: /muenchen/tretter/
+url: /muenchen/tretter-hohenzollernstrasse/
 shop: Schuhe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Woolworth"
-url: /muenchen/woolworth/
+url: /muenchen/woolworth-kistlerhofstrasse/
 shop: Kramladen
 ---

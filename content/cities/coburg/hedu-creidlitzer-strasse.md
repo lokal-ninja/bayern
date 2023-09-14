@@ -1,5 +1,5 @@
 ---
 title: "Hedu"
-url: /coburg/hedu/
+url: /coburg/hedu-creidlitzer-strasse/
 shop: Fußböden
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Siemes Schuhcenter"
-url: /wuerzburg/siemes-schuhcenter/
+url: /wuerzburg/siemes-schuhcenter-industriestrasse/
 shop: Schuhe
 ---

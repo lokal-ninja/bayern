@@ -1,5 +1,5 @@
 ---
 title: "MediaMarkt"
-url: /augsburg/mediamarkt/
+url: /augsburg/mediamarkt-eichleitnerstrasse/
 shop: Elektronik
 ---

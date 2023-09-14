@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /landshut/dm/
+url: /landshut/dm-rupprechtstrasse/
 shop: Drogerie
 ---

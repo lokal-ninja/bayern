@@ -1,5 +1,5 @@
 ---
 title: "Woolworth"
-url: /augsburg/woolworth/
+url: /augsburg/woolworth-hofackerstrasse/
 shop: Warenhaus
 ---

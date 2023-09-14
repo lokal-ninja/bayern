@@ -1,5 +1,5 @@
 ---
 title: "Nahkauf"
-url: /bayreuth/nahkauf/
+url: /bayreuth/nahkauf-preuschwitzer-strasse/
 shop: Supermarkt
 ---

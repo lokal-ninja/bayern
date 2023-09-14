@@ -1,5 +1,5 @@
 ---
 title: "Hunkemöller"
-url: /muenchen/hunkemoeller/
+url: /muenchen/hunkemoeller-hohenzollernstrasse/
 shop: Kleidung
 ---

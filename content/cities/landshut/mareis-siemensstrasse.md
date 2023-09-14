@@ -1,5 +1,5 @@
 ---
 title: "Mareis"
-url: /landshut/mareis/
+url: /landshut/mareis-siemensstrasse/
 shop: Bäckerei
 ---

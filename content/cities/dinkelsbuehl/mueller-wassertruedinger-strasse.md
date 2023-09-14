@@ -1,5 +1,5 @@
 ---
 title: "Müller"
-url: /dinkelsbuehl/mueller/
+url: /dinkelsbuehl/mueller-wassertruedinger-strasse/
 shop: Drogerie
 ---

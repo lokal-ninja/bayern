@@ -1,5 +1,5 @@
 ---
 title: "NKD"
-url: /muenchen/nkd/
+url: /muenchen/nkd-schmuckerweg/
 shop: Kleidung
 ---

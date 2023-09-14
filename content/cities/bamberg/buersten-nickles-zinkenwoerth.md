@@ -1,5 +1,5 @@
 ---
 title: "Bürsten Nickles"
-url: /bamberg/buersten-nickles/
+url: /bamberg/buersten-nickles-zinkenwoerth/
 shop: Haushaltsartikel
 ---

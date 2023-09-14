@@ -1,5 +1,5 @@
 ---
 title: "Markthalle"
-url: /fuessen/markthalle/
+url: /fuessen/markthalle-brunnengasse/
 shop: Gemüse & Obst
 ---

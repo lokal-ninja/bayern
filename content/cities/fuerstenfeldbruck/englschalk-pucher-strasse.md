@@ -1,5 +1,5 @@
 ---
 title: "Englschalk"
-url: /fuerstenfeldbruck/englschalk/
+url: /fuerstenfeldbruck/englschalk-pucher-strasse/
 shop: Schuhe
 ---

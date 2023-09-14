@@ -1,5 +1,5 @@
 ---
 title: "NORMA"
-url: /roth/norma/
+url: /roth/norma-muenchener-strasse/
 shop: Supermarkt
 ---

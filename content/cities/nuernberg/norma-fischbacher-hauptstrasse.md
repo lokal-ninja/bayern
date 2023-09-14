@@ -1,5 +1,5 @@
 ---
 title: "Norma"
-url: /nuernberg/norma/
+url: /nuernberg/norma-fischbacher-hauptstrasse/
 shop: Supermarkt
 ---

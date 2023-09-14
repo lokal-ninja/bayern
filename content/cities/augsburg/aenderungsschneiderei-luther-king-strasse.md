@@ -1,5 +1,5 @@
 ---
 title: "Änderungsschneiderei"
-url: /augsburg/aenderungsschneiderei/
+url: /augsburg/aenderungsschneiderei-luther-king-strasse/
 shop: Schneiderei
 ---

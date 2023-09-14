@@ -1,5 +1,5 @@
 ---
 title: "Getränke Hoffmann"
-url: /hof/getraenke-hoffmann/
+url: /hof/getraenke-hoffmann-gabelsbergerstrasse/
 shop: Getränke
 ---

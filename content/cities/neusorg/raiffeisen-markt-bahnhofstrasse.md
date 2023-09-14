@@ -1,5 +1,5 @@
 ---
 title: "Raiffeisen-Markt"
-url: /neusorg/raiffeisen-markt/
+url: /neusorg/raiffeisen-markt-bahnhofstrasse/
 shop: Baumarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "E-Center"
-url: /forchheim/e-center/
+url: /forchheim/e-center-hafenstrasse/
 shop: Supermarkt
 ---

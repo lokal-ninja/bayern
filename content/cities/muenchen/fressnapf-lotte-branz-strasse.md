@@ -1,5 +1,5 @@
 ---
 title: "Fressnapf"
-url: /muenchen/fressnapf/
+url: /muenchen/fressnapf-lotte-branz-strasse/
 shop: Tiere
 ---

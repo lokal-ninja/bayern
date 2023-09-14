@@ -1,5 +1,5 @@
 ---
 title: "ALDI Süd"
-url: /fuerth/aldi-sued/
+url: /fuerth/aldi-sued-hans-vogel-strasse/
 shop: Supermarkt
 ---

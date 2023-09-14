@@ -1,5 +1,5 @@
 ---
 title: "ALDI Süd"
-url: /coburg/aldi-sued/
+url: /coburg/aldi-sued-fabrikweg/
 shop: Supermarkt
 ---

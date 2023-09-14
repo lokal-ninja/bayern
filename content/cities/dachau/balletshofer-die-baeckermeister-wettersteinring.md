@@ -1,5 +1,5 @@
 ---
 title: "Balletshofer - Die Bäckermeister"
-url: /dachau/balletshofer-die-baeckermeister/
+url: /dachau/balletshofer-die-baeckermeister-wettersteinring/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /regensburg/rossmann/
+url: /regensburg/rossmann-hans-hayder-strasse/
 shop: Drogerie
 ---

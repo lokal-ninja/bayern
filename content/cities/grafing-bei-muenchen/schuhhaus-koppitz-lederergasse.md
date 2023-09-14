@@ -1,5 +1,5 @@
 ---
 title: "Schuhhaus Koppitz"
-url: /grafing-bei-muenchen/schuhhaus-koppitz/
+url: /grafing-bei-muenchen/schuhhaus-koppitz-lederergasse/
 shop: Schuhe
 ---

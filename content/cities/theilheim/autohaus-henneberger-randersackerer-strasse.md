@@ -1,5 +1,5 @@
 ---
 title: "Autohaus Henneberger"
-url: /theilheim/autohaus-henneberger/
+url: /theilheim/autohaus-henneberger-randersackerer-strasse/
 shop: Autowerkstatt
 ---

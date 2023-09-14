@@ -1,5 +1,5 @@
 ---
 title: "HIT"
-url: /muenchen/hit/
+url: /muenchen/hit-bahnhofsplatz/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /bayreuth/dm/
+url: /bayreuth/dm-nuernberger-strasse/
 shop: Drogerie
 ---

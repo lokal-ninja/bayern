@@ -1,5 +1,5 @@
 ---
 title: "World of Wine"
-url: /muenchen/world-of-wine/
+url: /muenchen/world-of-wine-wilhelmstrasse/
 shop: Spirituosen
 ---

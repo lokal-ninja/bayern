@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /kulmbach/lidl/
+url: /kulmbach/lidl-albert-ruckdeschel-strasse/
 shop: Supermarkt
 ---

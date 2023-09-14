@@ -1,5 +1,5 @@
 ---
 title: "Orient Markt"
-url: /fuerstenfeldbruck/orient-markt/
+url: /fuerstenfeldbruck/orient-markt-hauptstrasse/
 shop: Lebensmittel
 ---

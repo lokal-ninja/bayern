@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /nuernberg/dm/
+url: /nuernberg/dm-konstanzenstrasse/
 shop: Drogerie
 ---

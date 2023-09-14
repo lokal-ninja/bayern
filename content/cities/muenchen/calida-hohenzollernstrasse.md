@@ -1,5 +1,5 @@
 ---
 title: "CALIDA"
-url: /muenchen/calida/
+url: /muenchen/calida-hohenzollernstrasse/
 shop: Kleidung
 ---

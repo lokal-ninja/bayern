@@ -1,5 +1,5 @@
 ---
 title: "ALDI Süd"
-url: /muenchen/aldi-sued/
+url: /muenchen/aldi-sued-pilgersheimer-strasse/
 shop: Supermarkt
 ---

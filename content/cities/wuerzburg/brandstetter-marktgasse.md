@@ -1,5 +1,5 @@
 ---
 title: "Brandstetter"
-url: /wuerzburg/brandstetter/
+url: /wuerzburg/brandstetter-marktgasse/
 shop: Bäckerei
 ---

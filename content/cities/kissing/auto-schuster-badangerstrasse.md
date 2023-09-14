@@ -1,5 +1,5 @@
 ---
 title: "Auto Schuster"
-url: /kissing/auto-schuster/
+url: /kissing/auto-schuster-badangerstrasse/
 shop: Autowerkstatt
 ---

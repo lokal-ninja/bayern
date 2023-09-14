@@ -1,5 +1,5 @@
 ---
 title: "Paradiso"
-url: /muenchen/paradiso/
+url: /muenchen/paradiso-belgradstrasse/
 shop: Friseur
 ---

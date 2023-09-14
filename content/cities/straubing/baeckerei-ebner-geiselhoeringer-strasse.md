@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Ebner"
-url: /straubing/baeckerei-ebner/
+url: /straubing/baeckerei-ebner-geiselhoeringer-strasse/
 shop: Bäckerei
 ---

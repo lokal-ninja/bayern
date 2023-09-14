@@ -1,5 +1,5 @@
 ---
 title: "ALLGUTH"
-url: /muenchen/allguth/
+url: /muenchen/allguth-triebstrasse/
 shop: Allgemein
 ---

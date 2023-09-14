@@ -1,5 +1,5 @@
 ---
 title: "C&A"
-url: /muenchen/cunda/
+url: /muenchen/cunda-schleissheimer-strasse/
 shop: Kleidung
 ---

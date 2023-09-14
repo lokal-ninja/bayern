@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
-url: /kaufbeuren/aldi/
+url: /kaufbeuren/aldi-buergerstrasse/
 shop: Supermarkt
 ---

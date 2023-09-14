@@ -1,5 +1,5 @@
 ---
 title: "Knolli's Bäcker-Café"
-url: /augsburg/knollis-baecker-cafe/
+url: /augsburg/knollis-baecker-cafe-konrad-zuse-strasse/
 shop: Bäckerei
 ---

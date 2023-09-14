@@ -1,5 +1,5 @@
 ---
 title: "E-Center"
-url: /hausen/e-center/
+url: /hausen/e-center-heroldsbacher-strasse/
 shop: Supermarkt
 ---

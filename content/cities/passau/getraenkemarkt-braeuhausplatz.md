@@ -1,5 +1,5 @@
 ---
 title: "Getränkemarkt"
-url: /passau/getraenkemarkt/
+url: /passau/getraenkemarkt-braeuhausplatz/
 shop: Getränke
 ---

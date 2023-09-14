@@ -1,5 +1,5 @@
 ---
 title: "Reiter"
-url: /erlangen/reiter/
+url: /erlangen/reiter-hans-geiger-strasse/
 shop: Gemüse & Obst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vinzenzmurr"
-url: /neubiberg/vinzenzmurr/
+url: /neubiberg/vinzenzmurr-hauptstrasse/
 shop: Metzgerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /wuerzburg/rossmann/
+url: /wuerzburg/rossmann-rottendorfer-strasse/
 shop: Drogerie
 ---

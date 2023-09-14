@@ -1,5 +1,5 @@
 ---
 title: "Porsche Zentrum Ingolstadt"
-url: /ingolstadt/porsche-zentrum-ingolstadt/
+url: /ingolstadt/porsche-zentrum-ingolstadt-manchinger-strasse/
 shop: Autohaus
 ---

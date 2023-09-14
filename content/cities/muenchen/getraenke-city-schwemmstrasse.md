@@ -1,5 +1,5 @@
 ---
 title: "Getränke City"
-url: /muenchen/getraenke-city/
+url: /muenchen/getraenke-city-schwemmstrasse/
 shop: Getränke
 ---

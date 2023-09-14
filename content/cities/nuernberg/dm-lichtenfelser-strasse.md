@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /nuernberg/dm/
+url: /nuernberg/dm-lichtenfelser-strasse/
 shop: Drogerie
 ---

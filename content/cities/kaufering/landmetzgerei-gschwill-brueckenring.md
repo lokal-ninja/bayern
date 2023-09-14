@@ -1,5 +1,5 @@
 ---
 title: "Landmetzgerei Gschwill"
-url: /kaufering/landmetzgerei-gschwill/
+url: /kaufering/landmetzgerei-gschwill-brueckenring/
 shop: Metzgerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dörsch"
-url: /hof/doersch/
+url: /hof/doersch-fabrikzeile/
 shop: Bäckerei
 ---

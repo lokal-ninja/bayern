@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
-url: /freyung/tedi/
+url: /freyung/tedi-am-bahnhof/
 shop: Kramladen
 ---

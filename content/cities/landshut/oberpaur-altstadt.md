@@ -1,5 +1,5 @@
 ---
 title: "Oberpaur"
-url: /landshut/oberpaur/
+url: /landshut/oberpaur-altstadt/
 shop: Kleidung
 ---

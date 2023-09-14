@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
-url: /forchheim/tedi/
+url: /forchheim/tedi-boschstrasse/
 shop: Kramladen
 ---

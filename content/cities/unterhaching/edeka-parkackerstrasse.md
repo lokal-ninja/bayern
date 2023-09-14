@@ -1,5 +1,5 @@
 ---
 title: "EDEKA"
-url: /unterhaching/edeka/
+url: /unterhaching/edeka-parkackerstrasse/
 shop: Supermarkt
 ---

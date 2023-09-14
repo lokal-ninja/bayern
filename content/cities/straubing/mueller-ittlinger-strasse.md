@@ -1,5 +1,5 @@
 ---
 title: "Müller"
-url: /straubing/mueller/
+url: /straubing/mueller-ittlinger-strasse/
 shop: Drogerie
 ---

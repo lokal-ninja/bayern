@@ -1,5 +1,5 @@
 ---
 title: "NORMA"
-url: /muenchen/norma/
+url: /muenchen/norma-joergstrasse/
 shop: Supermarkt
 ---

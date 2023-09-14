@@ -1,5 +1,5 @@
 ---
 title: "Kaufland"
-url: /augsburg/kaufland/
+url: /augsburg/kaufland-reichenberger-strasse/
 shop: Supermarkt
 ---

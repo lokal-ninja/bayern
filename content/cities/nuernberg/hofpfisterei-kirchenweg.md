@@ -1,5 +1,5 @@
 ---
 title: "Hofpfisterei"
-url: /nuernberg/hofpfisterei/
+url: /nuernberg/hofpfisterei-kirchenweg/
 shop: Bäckerei
 ---

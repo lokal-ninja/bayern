@@ -1,5 +1,5 @@
 ---
 title: "Hagebaumarkt"
-url: /erding/hagebaumarkt/
+url: /erding/hagebaumarkt-josef-schwankl-strasse/
 shop: Baumarkt
 ---

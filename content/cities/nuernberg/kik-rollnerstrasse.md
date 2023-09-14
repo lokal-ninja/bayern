@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /nuernberg/kik/
+url: /nuernberg/kik-rollnerstrasse/
 shop: Kleidung
 ---

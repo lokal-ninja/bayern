@@ -1,5 +1,5 @@
 ---
 title: "Edeka"
-url: /bayreuth/edeka/
+url: /bayreuth/edeka-gravenreutherstrasse/
 shop: Supermarkt
 ---

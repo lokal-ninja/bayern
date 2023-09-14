@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
-url: /muenchen/decathlon/
+url: /muenchen/decathlon-elisenstrasse/
 shop: Sport
 ---

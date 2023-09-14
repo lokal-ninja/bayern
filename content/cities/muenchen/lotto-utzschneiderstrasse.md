@@ -1,5 +1,5 @@
 ---
 title: "Lotto"
-url: /muenchen/lotto/
+url: /muenchen/lotto-utzschneiderstrasse/
 shop: Kiosk
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dehner"
-url: /augsburg/dehner/
+url: /augsburg/dehner-buergermeister-ackermann-strasse/
 shop: Garten-Center
 ---

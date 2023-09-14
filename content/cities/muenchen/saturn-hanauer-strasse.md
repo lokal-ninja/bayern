@@ -1,5 +1,5 @@
 ---
 title: "Saturn"
-url: /muenchen/saturn/
+url: /muenchen/saturn-hanauer-strasse/
 shop: Elektronik
 ---

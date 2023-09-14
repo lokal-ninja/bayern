@@ -1,5 +1,5 @@
 ---
 title: "EuroShop"
-url: /muenchen/euroshop/
+url: /muenchen/euroshop-sonnenstrasse/
 shop: Kramladen
 ---

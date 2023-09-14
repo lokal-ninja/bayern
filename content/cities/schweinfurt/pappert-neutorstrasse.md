@@ -1,5 +1,5 @@
 ---
 title: "Pappert"
-url: /schweinfurt/pappert/
+url: /schweinfurt/pappert-neutorstrasse/
 shop: Bäckerei
 ---

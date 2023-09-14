@@ -1,5 +1,5 @@
 ---
 title: "Carglass"
-url: /augsburg/carglass/
+url: /augsburg/carglass-donauwoerther-strasse/
 shop: Autowerkstatt
 ---

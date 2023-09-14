@@ -1,5 +1,5 @@
 ---
 title: "Kistenpfennig"
-url: /muenchen/kistenpfennig/
+url: /muenchen/kistenpfennig-feldmochinger-strasse/
 shop: Bäckerei
 ---

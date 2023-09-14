@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
-url: /hallstadt/tedi/
+url: /hallstadt/tedi-laubanger/
 shop: Kramladen
 ---

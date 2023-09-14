@@ -1,5 +1,5 @@
 ---
 title: "Geisenhofer"
-url: /freising/geisenhofer/
+url: /freising/geisenhofer-obere-hauptstrasse/
 shop: Bäckerei
 ---

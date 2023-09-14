@@ -1,5 +1,5 @@
 ---
 title: "Sickinger"
-url: /graefelfing/sickinger/
+url: /graefelfing/sickinger-pasinger-strasse/
 shop: Bäckerei
 ---

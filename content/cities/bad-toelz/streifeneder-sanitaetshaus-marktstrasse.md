@@ -1,5 +1,5 @@
 ---
 title: "Streifeneder Sanitätshaus"
-url: /bad-toelz/streifeneder-sanitaetshaus/
+url: /bad-toelz/streifeneder-sanitaetshaus-marktstrasse/
 shop: Sanitätshaus
 ---

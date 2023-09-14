@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /amberg/kik/
+url: /amberg/kik-regensburger-strasse/
 shop: Kleidung
 ---

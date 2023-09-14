@@ -1,5 +1,5 @@
 ---
 title: "Fielmann"
-url: /muenchen/fielmann/
+url: /muenchen/fielmann-tal/
 shop: Optiker
 ---

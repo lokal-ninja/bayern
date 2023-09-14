@@ -1,5 +1,5 @@
 ---
 title: "NORMA"
-url: /erlangen/norma/
+url: /erlangen/norma-paul-gossen-strasse/
 shop: Supermarkt
 ---

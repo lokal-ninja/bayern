@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
-url: /ingolstadt/tedi/
+url: /ingolstadt/tedi-moritzstrasse/
 shop: Kramladen
 ---

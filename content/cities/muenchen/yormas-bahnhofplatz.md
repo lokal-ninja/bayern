@@ -1,5 +1,5 @@
 ---
 title: "Yorma’s"
-url: /muenchen/yormas/
+url: /muenchen/yormas-bahnhofplatz/
 shop: Bäckerei
 ---

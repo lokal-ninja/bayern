@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /hof/rossmann/
+url: /hof/rossmann-august-mohl-strasse/
 shop: Drogerie
 ---

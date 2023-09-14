@@ -1,5 +1,5 @@
 ---
 title: "Metzgerei Dorsch"
-url: /schweinfurt/metzgerei-dorsch/
+url: /schweinfurt/metzgerei-dorsch-schelmsrasen/
 shop: Metzgerei
 ---

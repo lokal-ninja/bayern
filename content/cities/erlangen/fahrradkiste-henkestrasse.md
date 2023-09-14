@@ -1,5 +1,5 @@
 ---
 title: "Fahrradkiste"
-url: /erlangen/fahrradkiste/
+url: /erlangen/fahrradkiste-henkestrasse/
 shop: Fahrrad
 ---

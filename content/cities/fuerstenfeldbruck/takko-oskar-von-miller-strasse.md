@@ -1,5 +1,5 @@
 ---
 title: "Takko"
-url: /fuerstenfeldbruck/takko/
+url: /fuerstenfeldbruck/takko-oskar-von-miller-strasse/
 shop: Kleidung
 ---

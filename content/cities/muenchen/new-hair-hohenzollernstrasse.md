@@ -1,5 +1,5 @@
 ---
 title: "New Hair"
-url: /muenchen/new-hair/
+url: /muenchen/new-hair-hohenzollernstrasse/
 shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Höreder Beck"
-url: /schweinfurt/hoereder-beck/
+url: /schweinfurt/hoereder-beck-kesslergasse/
 shop: Bäckerei
 ---

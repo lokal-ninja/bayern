@@ -1,5 +1,5 @@
 ---
 title: "Der Beck"
-url: /schwabach/der-beck/
+url: /schwabach/der-beck-bahnhofstrasse/
 shop: Bäckerei
 ---

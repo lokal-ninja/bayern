@@ -1,5 +1,5 @@
 ---
 title: "Rapunzel"
-url: /ingolstadt/rapunzel/
+url: /ingolstadt/rapunzel-wallmeisterstrasse/
 shop: Friseur
 ---

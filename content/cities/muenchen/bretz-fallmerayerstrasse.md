@@ -1,5 +1,5 @@
 ---
 title: "Bretz"
-url: /muenchen/bretz/
+url: /muenchen/bretz-fallmerayerstrasse/
 shop: Raumausstattung
 ---

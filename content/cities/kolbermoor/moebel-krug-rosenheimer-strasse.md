@@ -1,5 +1,5 @@
 ---
 title: "Möbel Krug"
-url: /kolbermoor/moebel-krug/
+url: /kolbermoor/moebel-krug-rosenheimer-strasse/
 shop: Küchen
 ---

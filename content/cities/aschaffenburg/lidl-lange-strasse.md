@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /aschaffenburg/lidl/
+url: /aschaffenburg/lidl-lange-strasse/
 shop: Supermarkt
 ---

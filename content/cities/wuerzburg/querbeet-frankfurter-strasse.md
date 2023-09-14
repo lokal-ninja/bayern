@@ -1,5 +1,5 @@
 ---
 title: "QuerBeet"
-url: /wuerzburg/querbeet/
+url: /wuerzburg/querbeet-frankfurter-strasse/
 shop: Gemüse & Obst
 ---

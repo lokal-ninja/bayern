@@ -1,5 +1,5 @@
 ---
 title: "Bücher Pustet"
-url: /regensburg/buecher-pustet/
+url: /regensburg/buecher-pustet-domplatz/
 shop: Bücher
 ---

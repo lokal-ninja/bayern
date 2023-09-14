@@ -1,5 +1,5 @@
 ---
 title: "Fressnapf"
-url: /ingolstadt/fressnapf/
+url: /ingolstadt/fressnapf-eriagstrasse/
 shop: Tiere
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /nuernberg/lidl/
+url: /nuernberg/lidl-am-roethenbacher-landgraben/
 shop: Supermarkt
 ---

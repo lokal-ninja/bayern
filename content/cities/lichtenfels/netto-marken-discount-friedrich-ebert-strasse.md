@@ -1,5 +1,5 @@
 ---
 title: "Netto Marken-Discount"
-url: /lichtenfels/netto-marken-discount/
+url: /lichtenfels/netto-marken-discount-friedrich-ebert-strasse/
 shop: Supermarkt
 ---

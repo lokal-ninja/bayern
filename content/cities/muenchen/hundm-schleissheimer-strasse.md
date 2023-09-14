@@ -1,5 +1,5 @@
 ---
 title: "H&M"
-url: /muenchen/hundm/
+url: /muenchen/hundm-schleissheimer-strasse/
 shop: Kleidung
 ---

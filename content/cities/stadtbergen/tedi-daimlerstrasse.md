@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
-url: /stadtbergen/tedi/
+url: /stadtbergen/tedi-daimlerstrasse/
 shop: Kramladen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "tegut"
-url: /erlangen/tegut/
+url: /erlangen/tegut-nuernberger-strasse/
 shop: Supermarkt
 ---

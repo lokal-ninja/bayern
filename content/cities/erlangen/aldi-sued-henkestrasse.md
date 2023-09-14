@@ -1,5 +1,5 @@
 ---
 title: "ALDI Süd"
-url: /erlangen/aldi-sued/
+url: /erlangen/aldi-sued-henkestrasse/
 shop: Supermarkt
 ---

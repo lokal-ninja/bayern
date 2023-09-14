@@ -1,5 +1,5 @@
 ---
 title: "Fristo"
-url: /augsburg/fristo/
+url: /augsburg/fristo-holzweg/
 shop: Getränke
 ---

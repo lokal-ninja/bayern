@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /dachau/dm/
+url: /dachau/dm-wettersteinring/
 shop: Drogerie
 ---

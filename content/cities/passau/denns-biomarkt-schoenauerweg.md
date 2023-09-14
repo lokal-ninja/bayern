@@ -1,5 +1,5 @@
 ---
 title: "denn's Biomarkt"
-url: /passau/denns-biomarkt/
+url: /passau/denns-biomarkt-schoenauerweg/
 shop: Supermarkt
 ---

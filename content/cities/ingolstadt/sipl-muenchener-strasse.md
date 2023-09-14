@@ -1,5 +1,5 @@
 ---
 title: "Sipl"
-url: /ingolstadt/sipl/
+url: /ingolstadt/sipl-muenchener-strasse/
 shop: Bäckerei
 ---

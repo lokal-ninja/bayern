@@ -1,5 +1,5 @@
 ---
 title: "NORMA"
-url: /fuerstenfeldbruck/norma/
+url: /fuerstenfeldbruck/norma-landsberger-strasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kaufland"
-url: /wuerzburg/kaufland/
+url: /wuerzburg/kaufland-nuernberger-strasse/
 shop: Supermarkt
 ---

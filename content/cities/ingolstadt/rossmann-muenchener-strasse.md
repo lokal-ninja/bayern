@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /ingolstadt/rossmann/
+url: /ingolstadt/rossmann-muenchener-strasse/
 shop: Drogerie
 ---

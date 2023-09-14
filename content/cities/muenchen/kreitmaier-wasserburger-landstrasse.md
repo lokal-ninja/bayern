@@ -1,5 +1,5 @@
 ---
 title: "Kreitmaier"
-url: /muenchen/kreitmaier/
+url: /muenchen/kreitmaier-wasserburger-landstrasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cerva"
-url: /muenchen/cerva/
+url: /muenchen/cerva-rosenheimer-strasse/
 shop: Kleidung
 ---

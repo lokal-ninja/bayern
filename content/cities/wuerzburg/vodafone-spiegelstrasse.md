@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
-url: /wuerzburg/vodafone/
+url: /wuerzburg/vodafone-spiegelstrasse/
 shop: Handy
 ---

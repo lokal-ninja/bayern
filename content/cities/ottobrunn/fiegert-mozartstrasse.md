@@ -1,5 +1,5 @@
 ---
 title: "Fiegert"
-url: /ottobrunn/fiegert/
+url: /ottobrunn/fiegert-mozartstrasse/
 shop: Bäckerei
 ---

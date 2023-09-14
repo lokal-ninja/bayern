@@ -1,5 +1,5 @@
 ---
 title: "Isarballon"
-url: /muenchen/isarballon/
+url: /muenchen/isarballon-amalienstrasse/
 shop: Andenken
 ---

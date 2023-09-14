@@ -1,5 +1,5 @@
 ---
 title: "Johannes Markt"
-url: /marxheim/johannes-markt/
-shop: Metzgerei
+url: /marxheim/johannes-markt-diepoldstrasse/
+shop: Supermarkt
 ---

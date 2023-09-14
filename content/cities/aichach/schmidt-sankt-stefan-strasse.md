@@ -1,5 +1,5 @@
 ---
 title: "Schmidt"
-url: /aichach/schmidt/
+url: /aichach/schmidt-sankt-stefan-strasse/
 shop: Reifen
 ---

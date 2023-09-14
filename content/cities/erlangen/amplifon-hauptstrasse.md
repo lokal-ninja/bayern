@@ -1,5 +1,5 @@
 ---
 title: "Amplifon"
-url: /erlangen/amplifon/
+url: /erlangen/amplifon-hauptstrasse/
 shop: Hörgeräte
 ---

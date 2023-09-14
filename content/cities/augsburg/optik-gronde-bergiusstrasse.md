@@ -1,5 +1,5 @@
 ---
 title: "Optik Gronde"
-url: /augsburg/optik-gronde/
+url: /augsburg/optik-gronde-bergiusstrasse/
 shop: Optiker
 ---

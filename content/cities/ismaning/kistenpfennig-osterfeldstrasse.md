@@ -1,5 +1,5 @@
 ---
 title: "Kistenpfennig"
-url: /ismaning/kistenpfennig/
+url: /ismaning/kistenpfennig-osterfeldstrasse/
 shop: Bäckerei
 ---

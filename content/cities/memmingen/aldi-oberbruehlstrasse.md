@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
-url: /memmingen/aldi/
+url: /memmingen/aldi-oberbruehlstrasse/
 shop: Supermarkt
 ---

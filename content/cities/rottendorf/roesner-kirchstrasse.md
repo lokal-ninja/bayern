@@ -1,5 +1,5 @@
 ---
 title: "Rösner"
-url: /rottendorf/roesner/
+url: /rottendorf/roesner-kirchstrasse/
 shop: Bäckerei
 ---

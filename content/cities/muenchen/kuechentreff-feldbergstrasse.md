@@ -1,5 +1,5 @@
 ---
 title: "KüchenTreff"
-url: /muenchen/kuechentreff/
+url: /muenchen/kuechentreff-feldbergstrasse/
 shop: Küchen
 ---

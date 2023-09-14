@@ -1,5 +1,5 @@
 ---
 title: "Sarris"
-url: /nuernberg/sarris/
+url: /nuernberg/sarris-bayreuther-strasse/
 shop: Friseur
 ---

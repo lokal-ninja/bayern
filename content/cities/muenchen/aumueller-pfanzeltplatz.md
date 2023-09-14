@@ -1,5 +1,5 @@
 ---
 title: "Aumüller"
-url: /muenchen/aumueller/
+url: /muenchen/aumueller-pfanzeltplatz/
 shop: Bäckerei
 ---

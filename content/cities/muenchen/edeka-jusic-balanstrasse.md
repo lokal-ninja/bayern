@@ -1,5 +1,5 @@
 ---
 title: "Edeka Jusic"
-url: /muenchen/edeka-jusic/
+url: /muenchen/edeka-jusic-balanstrasse/
 shop: Supermarkt
 ---

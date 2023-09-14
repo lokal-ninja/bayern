@@ -1,5 +1,5 @@
 ---
 title: "Zöttl"
-url: /muenchen/zoettl/
+url: /muenchen/zoettl-donnersbergerstrasse/
 shop: Bäckerei
 ---

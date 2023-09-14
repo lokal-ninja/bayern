@@ -1,5 +1,5 @@
 ---
 title: "Hair Lounge"
-url: /muenchen/hair-lounge/
+url: /muenchen/hair-lounge-posener-platz/
 shop: Friseur
 ---

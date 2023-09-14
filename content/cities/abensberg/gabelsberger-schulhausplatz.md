@@ -1,5 +1,5 @@
 ---
 title: "Gabelsberger"
-url: /abensberg/gabelsberger/
+url: /abensberg/gabelsberger-schulhausplatz/
 shop: Bäckerei
 ---

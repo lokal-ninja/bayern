@@ -1,5 +1,5 @@
 ---
 title: "Höfer"
-url: /erlangen/hoefer/
+url: /erlangen/hoefer-hauptstrasse/
 shop: Kosmetik
 ---

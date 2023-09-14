@@ -1,5 +1,5 @@
 ---
 title: "ALDI Süd"
-url: /amberg/aldi-sued/
+url: /amberg/aldi-sued-am-bergsteig/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Christ"
-url: /muenchen/christ/
+url: /muenchen/christ-neuhauser-strasse/
 shop: Schmuck
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Schwab"
-url: /friedberg/schwab/
+url: /friedberg/schwab-am-haferfeld/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Netto Marken-Discount"
-url: /straubing/netto-marken-discount/
+url: /straubing/netto-marken-discount-eichendorffstrasse/
 shop: Supermarkt
 ---

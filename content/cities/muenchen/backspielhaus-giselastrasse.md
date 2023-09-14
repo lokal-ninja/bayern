@@ -1,5 +1,5 @@
 ---
 title: "Backspielhaus"
-url: /muenchen/backspielhaus/
+url: /muenchen/backspielhaus-giselastrasse/
 shop: Bäckerei
 ---

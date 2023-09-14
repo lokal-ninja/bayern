@@ -1,5 +1,5 @@
 ---
 title: "Freundl"
-url: /ebersberg/freundl/
+url: /ebersberg/freundl-dr-wintrich-strasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mermaid's"
-url: /muenchen/mermaids/
+url: /muenchen/mermaids-dachauer-strasse/
 shop: Wäscherei
 ---

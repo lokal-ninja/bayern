@@ -1,5 +1,5 @@
 ---
 title: "Greller"
-url: /veitsbronn/greller/
+url: /veitsbronn/greller-fuerther-strasse/
 shop: Bäckerei
 ---

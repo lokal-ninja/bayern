@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /lauf-a-d-pegnitz/rewe/
+url: /lauf-a-d-pegnitz/rewe-nuernberger-strasse/
 shop: Supermarkt
 ---

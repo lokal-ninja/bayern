@@ -1,5 +1,5 @@
 ---
 title: "Galeria Landshut"
-url: /landshut/galeria-landshut/
+url: /landshut/galeria-landshut-laendtorplatz/
 shop: Warenhaus
 ---

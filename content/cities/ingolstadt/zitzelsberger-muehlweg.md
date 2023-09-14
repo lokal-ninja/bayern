@@ -1,5 +1,5 @@
 ---
 title: "Zitzelsberger"
-url: /ingolstadt/zitzelsberger/
+url: /ingolstadt/zitzelsberger-muehlweg/
 shop: Blumen
 ---

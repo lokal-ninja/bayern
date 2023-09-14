@@ -1,5 +1,5 @@
 ---
 title: "Edeka"
-url: /ottobrunn/edeka/
+url: /ottobrunn/edeka-unterhachinger-strasse/
 shop: Supermarkt
 ---

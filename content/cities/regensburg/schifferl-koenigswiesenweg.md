@@ -1,5 +1,5 @@
 ---
 title: "Schifferl"
-url: /regensburg/schifferl/
+url: /regensburg/schifferl-koenigswiesenweg/
 shop: Bäckerei
 ---

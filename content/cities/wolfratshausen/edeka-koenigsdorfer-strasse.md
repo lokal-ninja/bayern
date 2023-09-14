@@ -1,5 +1,5 @@
 ---
 title: "EDEKA"
-url: /wolfratshausen/edeka/
+url: /wolfratshausen/edeka-koenigsdorfer-strasse/
 shop: Supermarkt
 ---

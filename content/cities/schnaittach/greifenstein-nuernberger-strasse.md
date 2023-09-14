@@ -1,5 +1,5 @@
 ---
 title: "Greifenstein"
-url: /schnaittach/greifenstein/
+url: /schnaittach/greifenstein-nuernberger-strasse/
 shop: Kleidung
 ---

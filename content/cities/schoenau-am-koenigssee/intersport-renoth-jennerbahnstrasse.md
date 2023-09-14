@@ -1,5 +1,5 @@
 ---
 title: "Intersport Renoth"
-url: /schoenau-am-koenigssee/intersport-renoth/
+url: /schoenau-am-koenigssee/intersport-renoth-jennerbahnstrasse/
 shop: Sport
 ---

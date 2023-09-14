@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
-url: /coburg/vodafone/
+url: /coburg/vodafone-steinweg/
 shop: Handy
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Supol"
-url: /nuernberg/supol/
+url: /nuernberg/supol-schanzaeckerstrasse/
 shop: Kiosk
 ---

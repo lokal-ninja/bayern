@@ -1,5 +1,5 @@
 ---
 title: "Ballonia"
-url: /fuerstenfeldbruck/ballonia/
+url: /fuerstenfeldbruck/ballonia-bismarckstrasse/
 shop: Raumausstattung
 ---

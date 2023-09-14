@@ -1,5 +1,5 @@
 ---
 title: "Dehner"
-url: /muenchen/dehner/
+url: /muenchen/dehner-meglingerstrasse/
 shop: Garten-Center
 ---

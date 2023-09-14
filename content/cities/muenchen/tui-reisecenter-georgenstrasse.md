@@ -1,5 +1,5 @@
 ---
 title: "TUI ReiseCenter"
-url: /muenchen/tui-reisecenter/
+url: /muenchen/tui-reisecenter-georgenstrasse/
 shop: Reisebüro
 ---

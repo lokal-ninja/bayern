@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /taufkirchen/penny/
+url: /taufkirchen/penny-lindenring/
 shop: Supermarkt
 ---

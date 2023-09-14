@@ -1,5 +1,5 @@
 ---
 title: "OBI"
-url: /erlangen/obi/
+url: /erlangen/obi-neumuehle/
 shop: Baumarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ihle"
-url: /augsburg/ihle/
+url: /augsburg/ihle-apothekergaesschen/
 shop: Bäckerei
 ---

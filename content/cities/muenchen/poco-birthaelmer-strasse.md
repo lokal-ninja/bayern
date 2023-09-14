@@ -1,5 +1,5 @@
 ---
 title: "POCO"
-url: /muenchen/poco/
+url: /muenchen/poco-birthaelmer-strasse/
 shop: Möbel
 ---

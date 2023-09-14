@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /kaufbeuren/rossmann/
+url: /kaufbeuren/rossmann-gewerbestrasse/
 shop: Drogerie
 ---

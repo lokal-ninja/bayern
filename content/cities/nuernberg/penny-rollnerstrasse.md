@@ -1,5 +1,5 @@
 ---
 title: "Penny"
-url: /nuernberg/penny/
+url: /nuernberg/penny-rollnerstrasse/
 shop: Supermarkt
 ---

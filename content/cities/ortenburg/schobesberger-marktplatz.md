@@ -1,5 +1,5 @@
 ---
 title: "Schobesberger"
-url: /ortenburg/schobesberger/
+url: /ortenburg/schobesberger-marktplatz/
 shop: Haushaltsartikel
 ---

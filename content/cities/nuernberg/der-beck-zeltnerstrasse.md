@@ -1,5 +1,5 @@
 ---
 title: "Der Beck"
-url: /nuernberg/der-beck/
+url: /nuernberg/der-beck-zeltnerstrasse/
 shop: Bäckerei
 ---

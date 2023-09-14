@@ -1,5 +1,5 @@
 ---
 title: "Balletshofer"
-url: /augsburg/balletshofer/
+url: /augsburg/balletshofer-karolinenstrasse/
 shop: Bäckerei
 ---

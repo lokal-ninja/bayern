@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /landshut/penny/
+url: /landshut/penny-porschestrasse/
 shop: Supermarkt
 ---

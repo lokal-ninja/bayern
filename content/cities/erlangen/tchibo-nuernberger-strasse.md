@@ -1,5 +1,5 @@
 ---
 title: "Tchibo"
-url: /erlangen/tchibo/
+url: /erlangen/tchibo-nuernberger-strasse/
 shop: Kaffee
 ---

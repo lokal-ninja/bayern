@@ -1,5 +1,5 @@
 ---
 title: "Backstube Wünsche"
-url: /ingolstadt/backstube-wuensche/
+url: /ingolstadt/backstube-wuensche-krumenauerstrasse/
 shop: Bäckerei
 ---

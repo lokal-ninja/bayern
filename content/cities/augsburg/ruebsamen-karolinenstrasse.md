@@ -1,5 +1,5 @@
 ---
 title: "Rübsamen"
-url: /augsburg/ruebsamen/
+url: /augsburg/ruebsamen-karolinenstrasse/
 shop: Kleidung
 ---

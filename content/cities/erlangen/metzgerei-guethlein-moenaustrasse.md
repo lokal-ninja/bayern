@@ -1,5 +1,5 @@
 ---
 title: "Metzgerei Güthlein"
-url: /erlangen/metzgerei-guethlein/
+url: /erlangen/metzgerei-guethlein-moenaustrasse/
 shop: Metzgerei
 ---

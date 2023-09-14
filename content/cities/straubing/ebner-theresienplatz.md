@@ -1,5 +1,5 @@
 ---
 title: "Ebner"
-url: /straubing/ebner/
+url: /straubing/ebner-theresienplatz/
 shop: Bäckerei
 ---

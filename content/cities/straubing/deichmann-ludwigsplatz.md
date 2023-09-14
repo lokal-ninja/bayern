@@ -1,5 +1,5 @@
 ---
 title: "Deichmann"
-url: /straubing/deichmann/
+url: /straubing/deichmann-ludwigsplatz/
 shop: Schuhe
 ---

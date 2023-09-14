@@ -1,5 +1,5 @@
 ---
 title: "goldkaiser"
-url: /wuerzburg/goldkaiser/
+url: /wuerzburg/goldkaiser-kaiserstrasse/
 shop: Schmuck
 ---

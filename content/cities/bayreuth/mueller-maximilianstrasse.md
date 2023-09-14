@@ -1,5 +1,5 @@
 ---
 title: "Müller"
-url: /bayreuth/mueller/
+url: /bayreuth/mueller-maximilianstrasse/
 shop: Drogerie
 ---

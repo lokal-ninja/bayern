@@ -1,5 +1,5 @@
 ---
 title: "Schweller"
-url: /freising/schweller/
+url: /freising/schweller-obere-hauptstrasse/
 shop: Bäckerei
 ---

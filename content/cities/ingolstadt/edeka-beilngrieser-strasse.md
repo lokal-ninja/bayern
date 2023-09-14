@@ -1,5 +1,5 @@
 ---
 title: "Edeka"
-url: /ingolstadt/edeka/
+url: /ingolstadt/edeka-beilngrieser-strasse/
 shop: Supermarkt
 ---

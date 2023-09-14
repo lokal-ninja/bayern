@@ -1,5 +1,5 @@
 ---
 title: "Radldiscount"
-url: /muenchen/radldiscount/
+url: /muenchen/radldiscount-trappentreustrasse/
 shop: Fahrrad
 ---

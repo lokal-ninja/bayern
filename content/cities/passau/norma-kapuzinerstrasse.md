@@ -1,5 +1,5 @@
 ---
 title: "NORMA"
-url: /passau/norma/
+url: /passau/norma-kapuzinerstrasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /bamberg/lidl/
+url: /bamberg/lidl-gaustadter-hauptstrasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /erlangen/rossmann/
+url: /erlangen/rossmann-rudeltplatz/
 shop: Drogerie
 ---

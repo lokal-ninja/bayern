@@ -1,5 +1,5 @@
 ---
 title: "Gerstberger"
-url: /kempten-allgaeu/gerstberger/
+url: /kempten-allgaeu/gerstberger-rottachstrasse/
 shop: Sanitätshaus
 ---

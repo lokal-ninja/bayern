@@ -1,5 +1,5 @@
 ---
 title: "Spengler"
-url: /mering/spengler/
+url: /mering/spengler-muenchener-strasse/
 shop: Optiker
 ---

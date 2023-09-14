@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
-url: /erlangen/vodafone/
+url: /erlangen/vodafone-nuernberger-strasse/
 shop: Handy
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Norma"
-url: /augsburg/norma/
+url: /augsburg/norma-donauwoerther-strasse/
 shop: Supermarkt
 ---

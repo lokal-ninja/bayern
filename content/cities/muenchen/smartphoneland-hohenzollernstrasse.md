@@ -1,5 +1,5 @@
 ---
 title: "Smartphoneland"
-url: /muenchen/smartphoneland/
+url: /muenchen/smartphoneland-hohenzollernstrasse/
 shop: Handy
 ---

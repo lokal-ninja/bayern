@@ -1,5 +1,5 @@
 ---
 title: "Backwerk"
-url: /ingolstadt/backwerk/
+url: /ingolstadt/backwerk-moritzstrasse/
 shop: Bäckerei
 ---

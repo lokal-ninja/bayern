@@ -1,5 +1,5 @@
 ---
 title: "New Yorker"
-url: /straubing/new-yorker/
+url: /straubing/new-yorker-2/
 shop: Kleidung
 ---

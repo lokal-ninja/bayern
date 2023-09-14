@@ -1,5 +1,5 @@
 ---
 title: "Hautnah"
-url: /muenchen/hautnah/
+url: /muenchen/hautnah-belgradstrasse/
 shop: Kleidung
 ---

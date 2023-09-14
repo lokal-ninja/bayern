@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /augsburg/dm/
+url: /augsburg/dm-viktoriastrasse/
 shop: Drogerie
 ---

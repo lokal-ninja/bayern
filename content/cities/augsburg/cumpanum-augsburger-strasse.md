@@ -1,5 +1,5 @@
 ---
 title: "Cumpanum"
-url: /augsburg/cumpanum/
+url: /augsburg/cumpanum-augsburger-strasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /fuerth/dm/
+url: /fuerth/dm-kurt-scherzer-strasse/
 shop: Drogerie
 ---

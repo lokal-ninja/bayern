@@ -1,5 +1,5 @@
 ---
 title: "Deichmann"
-url: /muenchen/deichmann/
+url: /muenchen/deichmann-schleissheimer-strasse/
 shop: Schuhe
 ---

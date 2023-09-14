@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Miedl"
-url: /bad-endorf/baeckerei-miedl/
+url: /bad-endorf/baeckerei-miedl-handwerkerpark/
 shop: Bäckerei
 ---

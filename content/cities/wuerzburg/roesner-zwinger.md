@@ -1,5 +1,5 @@
 ---
 title: "Rösner"
-url: /wuerzburg/roesner/
+url: /wuerzburg/roesner-zwinger/
 shop: Bäckerei
 ---

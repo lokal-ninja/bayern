@@ -1,5 +1,5 @@
 ---
 title: "ALDI Süd"
-url: /germering/aldi-sued/
+url: /germering/aldi-sued-industriestrasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walk"
-url: /nuernberg/walk/
+url: /nuernberg/walk-koenigstrasse/
 shop: Metzgerei
 ---

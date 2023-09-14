@@ -1,5 +1,5 @@
 ---
 title: "H&M"
-url: /ansbach/hundm/
+url: /ansbach/hundm-uzstrasse/
 shop: Kleidung
 ---

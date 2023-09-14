@@ -1,5 +1,5 @@
 ---
 title: "JYSK"
-url: /ingolstadt/jysk/
+url: /ingolstadt/jysk-permoserstrasse/
 shop: Möbel
 ---

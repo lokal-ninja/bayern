@@ -1,5 +1,5 @@
 ---
 title: "Reicherzer"
-url: /fuerstenfeldbruck/reicherzer/
+url: /fuerstenfeldbruck/reicherzer-hauptstrasse/
 shop: Konditorei
 ---

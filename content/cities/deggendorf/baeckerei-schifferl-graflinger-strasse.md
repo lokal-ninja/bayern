@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Schifferl"
-url: /deggendorf/baeckerei-schifferl/
+url: /deggendorf/baeckerei-schifferl-graflinger-strasse/
 shop: Bäckerei
 ---

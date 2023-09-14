@@ -1,5 +1,5 @@
 ---
 title: "ROSSMANN"
-url: /ingolstadt/rossmann/
+url: /ingolstadt/rossmann-friedrichshofener-strasse/
 shop: Drogerie
 ---

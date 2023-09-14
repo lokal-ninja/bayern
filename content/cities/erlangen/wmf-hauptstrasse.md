@@ -1,5 +1,5 @@
 ---
 title: "WMF"
-url: /erlangen/wmf/
+url: /erlangen/wmf-hauptstrasse/
 shop: Haushaltsartikel
 ---

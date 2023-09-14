@@ -1,5 +1,5 @@
 ---
 title: "Sobi"
-url: /augsburg/sobi/
+url: /augsburg/sobi-reinoehlstrasse/
 shop: Getränke
 ---

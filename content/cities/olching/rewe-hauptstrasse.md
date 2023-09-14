@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /olching/rewe/
+url: /olching/rewe-hauptstrasse/
 shop: Supermarkt
 ---

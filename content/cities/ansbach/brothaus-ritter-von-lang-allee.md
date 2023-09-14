@@ -1,5 +1,5 @@
 ---
 title: "BrotHaus"
-url: /ansbach/brothaus/
+url: /ansbach/brothaus-ritter-von-lang-allee/
 shop: Bäckerei
 ---

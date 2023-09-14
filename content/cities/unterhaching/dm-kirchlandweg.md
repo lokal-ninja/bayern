@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /unterhaching/dm/
+url: /unterhaching/dm-kirchlandweg/
 shop: Drogerie
 ---

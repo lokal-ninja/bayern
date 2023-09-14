@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /rosenheim/rossmann/
+url: /rosenheim/rossmann-heilig-geist-strasse/
 shop: Drogerie
 ---

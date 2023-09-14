@@ -1,5 +1,5 @@
 ---
 title: "Autohof Günzburg"
-url: /guenzburg/autohof-guenzburg/
+url: /guenzburg/autohof-guenzburg-wilhelm-maybach-strasse/
 shop: Allgemein
 ---

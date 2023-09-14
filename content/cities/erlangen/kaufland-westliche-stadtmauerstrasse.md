@@ -1,5 +1,5 @@
 ---
 title: "Kaufland"
-url: /erlangen/kaufland/
+url: /erlangen/kaufland-westliche-stadtmauerstrasse/
 shop: Supermarkt
 ---

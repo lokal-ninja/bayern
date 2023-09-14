@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /kempten-allgaeu/rewe/
+url: /kempten-allgaeu/rewe-haubenschlossstrasse/
 shop: Supermarkt
 ---

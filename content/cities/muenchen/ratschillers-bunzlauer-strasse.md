@@ -1,5 +1,5 @@
 ---
 title: "Ratschiller's"
-url: /muenchen/ratschillers/
+url: /muenchen/ratschillers-bunzlauer-strasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "TEZ"
-url: /hemau/tez/
+url: /hemau/tez-am-gewerbebogen/
 shop: Einkaufszentrum
 ---

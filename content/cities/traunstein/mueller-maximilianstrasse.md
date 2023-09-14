@@ -1,5 +1,5 @@
 ---
 title: "Müller"
-url: /traunstein/mueller/
+url: /traunstein/mueller-maximilianstrasse/
 shop: Drogerie
 ---

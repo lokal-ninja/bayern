@@ -1,5 +1,5 @@
 ---
 title: "Drexler"
-url: /fuerstenfeldbruck/drexler/
+url: /fuerstenfeldbruck/drexler-fichtenstrasse/
 shop: Bäckerei
 ---

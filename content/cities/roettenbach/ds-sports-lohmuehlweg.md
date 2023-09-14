@@ -1,5 +1,5 @@
 ---
 title: "DS-Sports"
-url: /roettenbach/ds-sports/
+url: /roettenbach/ds-sports-lohmuehlweg/
 shop: Sport
 ---

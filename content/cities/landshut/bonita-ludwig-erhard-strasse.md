@@ -1,5 +1,5 @@
 ---
 title: "BONITA"
-url: /landshut/bonita/
+url: /landshut/bonita-ludwig-erhard-strasse/
 shop: Kleidung
 ---

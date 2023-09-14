@@ -1,5 +1,5 @@
 ---
 title: "Heidobler"
-url: /dingolfing/heidobler/
+url: /dingolfing/heidobler-kirchplatz/
 shop: Bäckerei
 ---

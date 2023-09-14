@@ -1,5 +1,5 @@
 ---
 title: "EDEKA Fastner"
-url: /oberguenzburg/edeka-fastner/
+url: /oberguenzburg/edeka-fastner-oeschweg/
 shop: Supermarkt
 ---

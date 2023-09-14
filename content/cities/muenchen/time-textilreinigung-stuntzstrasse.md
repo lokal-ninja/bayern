@@ -1,5 +1,5 @@
 ---
 title: "Time Textilreinigung"
-url: /muenchen/time-textilreinigung/
+url: /muenchen/time-textilreinigung-stuntzstrasse/
 shop: Wäscherei
 ---

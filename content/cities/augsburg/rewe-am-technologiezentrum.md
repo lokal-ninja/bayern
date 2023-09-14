@@ -1,5 +1,5 @@
 ---
 title: "Rewe"
-url: /augsburg/rewe/
+url: /augsburg/rewe-am-technologiezentrum/
 shop: Supermarkt
 ---

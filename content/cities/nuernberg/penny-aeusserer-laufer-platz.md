@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /nuernberg/penny/
+url: /nuernberg/penny-aeusserer-laufer-platz/
 shop: Supermarkt
 ---

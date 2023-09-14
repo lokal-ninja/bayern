@@ -1,5 +1,5 @@
 ---
 title: "Hemmerle"
-url: /muenchen/hemmerle/
+url: /muenchen/hemmerle-martin-kollar-strasse/
 shop: Autohaus
 ---

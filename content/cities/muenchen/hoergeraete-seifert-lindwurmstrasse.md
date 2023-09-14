@@ -1,5 +1,5 @@
 ---
 title: "Hörgeräte Seifert"
-url: /muenchen/hoergeraete-seifert/
+url: /muenchen/hoergeraete-seifert-lindwurmstrasse/
 shop: Hörgeräte
 ---

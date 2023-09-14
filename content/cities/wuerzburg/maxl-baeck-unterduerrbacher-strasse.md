@@ -1,5 +1,5 @@
 ---
 title: "Maxl Bäck"
-url: /wuerzburg/maxl-baeck/
+url: /wuerzburg/maxl-baeck-unterduerrbacher-strasse/
 shop: Bäckerei
 ---

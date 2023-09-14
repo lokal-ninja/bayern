@@ -1,5 +1,5 @@
 ---
 title: "Laubmann"
-url: /hof/laubmann/
+url: /hof/laubmann-wunsiedler-strasse/
 shop: Bäckerei
 ---

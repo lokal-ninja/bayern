@@ -1,5 +1,5 @@
 ---
 title: "Stadler"
-url: /muenchen/stadler/
+url: /muenchen/stadler-einsteinstrasse/
 shop: Bäckerei
 ---

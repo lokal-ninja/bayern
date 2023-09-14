@@ -1,5 +1,5 @@
 ---
 title: "Feneberg"
-url: /erding/feneberg/
+url: /erding/feneberg-lange-zeile/
 shop: Supermarkt
 ---

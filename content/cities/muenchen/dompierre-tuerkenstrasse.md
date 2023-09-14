@@ -1,5 +1,5 @@
 ---
 title: "Dompierre"
-url: /muenchen/dompierre/
+url: /muenchen/dompierre-tuerkenstrasse/
 shop: Bäckerei
 ---

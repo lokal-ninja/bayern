@@ -1,5 +1,5 @@
 ---
 title: "Saturn"
-url: /muenchen/saturn/
+url: /muenchen/saturn-willy-brandt-platz/
 shop: Elektronik
 ---

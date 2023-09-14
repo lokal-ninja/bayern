@@ -1,5 +1,5 @@
 ---
 title: "Getränkemarkt Reuter"
-url: /germering/getraenkemarkt-reuter/
+url: /germering/getraenkemarkt-reuter-hartstrasse/
 shop: Getränke
 ---

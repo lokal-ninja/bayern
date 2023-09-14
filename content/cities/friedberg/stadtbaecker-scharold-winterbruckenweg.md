@@ -1,5 +1,5 @@
 ---
 title: "Stadtbäcker Scharold"
-url: /friedberg/stadtbaecker-scharold/
+url: /friedberg/stadtbaecker-scharold-winterbruckenweg/
 shop: Bäckerei
 ---

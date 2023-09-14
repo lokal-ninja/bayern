@@ -1,5 +1,5 @@
 ---
 title: "Edeka"
-url: /simbach/edeka/
+url: /simbach/edeka-hofmark/
 shop: Lebensmittel
 ---

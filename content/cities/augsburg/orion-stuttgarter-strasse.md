@@ -1,5 +1,5 @@
 ---
 title: "Orion"
-url: /augsburg/orion/
+url: /augsburg/orion-stuttgarter-strasse/
 shop: Erotik
 ---

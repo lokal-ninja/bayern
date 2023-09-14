@@ -1,5 +1,5 @@
 ---
 title: "Miedl"
-url: /rosenheim/miedl/
+url: /rosenheim/miedl-mangfallstrasse/
 shop: Bäckerei
 ---

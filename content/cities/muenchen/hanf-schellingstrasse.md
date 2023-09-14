@@ -1,5 +1,5 @@
 ---
 title: "Hanf"
-url: /muenchen/hanf/
+url: /muenchen/hanf-schellingstrasse/
 shop: Hanf
 ---

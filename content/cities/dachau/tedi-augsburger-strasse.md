@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
-url: /dachau/tedi/
+url: /dachau/tedi-augsburger-strasse/
 shop: Kramladen
 ---

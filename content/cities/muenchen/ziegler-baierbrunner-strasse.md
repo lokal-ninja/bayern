@@ -1,5 +1,5 @@
 ---
 title: "Ziegler"
-url: /muenchen/ziegler/
+url: /muenchen/ziegler-baierbrunner-strasse/
 shop: Bäckerei
 ---

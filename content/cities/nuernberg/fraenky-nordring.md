@@ -1,5 +1,5 @@
 ---
 title: "Fränky"
-url: /nuernberg/fraenky/
+url: /nuernberg/fraenky-nordring/
 shop: Getränke
 ---

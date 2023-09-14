@@ -1,5 +1,5 @@
 ---
 title: "Pillipp"
-url: /fuerth/pillipp/
+url: /fuerth/pillipp-herrnstrasse/
 shop: Bäckerei
 ---

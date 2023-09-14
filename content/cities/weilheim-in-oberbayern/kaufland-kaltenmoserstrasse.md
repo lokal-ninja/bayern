@@ -1,5 +1,5 @@
 ---
 title: "Kaufland"
-url: /weilheim-in-oberbayern/kaufland/
+url: /weilheim-in-oberbayern/kaufland-kaltenmoserstrasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bauer"
-url: /rosenheim/bauer/
+url: /rosenheim/bauer-kaiserstrasse/
 shop: Bäckerei
 ---

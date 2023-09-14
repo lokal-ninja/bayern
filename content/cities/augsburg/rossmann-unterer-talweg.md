@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /augsburg/rossmann/
+url: /augsburg/rossmann-unterer-talweg/
 shop: Drogerie
 ---

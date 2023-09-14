@@ -1,5 +1,5 @@
 ---
 title: "EDEKA"
-url: /stadtbergen/edeka/
+url: /stadtbergen/edeka-benzstrasse/
 shop: Supermarkt
 ---

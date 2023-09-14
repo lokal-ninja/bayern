@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /straubing/dm/
+url: /straubing/dm-landshuter-strasse/
 shop: Drogerie
 ---

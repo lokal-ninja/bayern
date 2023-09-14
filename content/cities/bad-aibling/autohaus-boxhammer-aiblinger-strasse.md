@@ -1,5 +1,5 @@
 ---
 title: "Autohaus Boxhammer"
-url: /bad-aibling/autohaus-boxhammer/
+url: /bad-aibling/autohaus-boxhammer-aiblinger-strasse/
 shop: Autohaus
 ---

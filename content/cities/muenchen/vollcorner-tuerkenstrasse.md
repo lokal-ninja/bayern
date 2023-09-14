@@ -1,5 +1,5 @@
 ---
 title: "VollCorner"
-url: /muenchen/vollcorner/
+url: /muenchen/vollcorner-tuerkenstrasse/
 shop: Supermarkt
 ---

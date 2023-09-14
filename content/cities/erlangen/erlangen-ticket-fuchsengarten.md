@@ -1,5 +1,5 @@
 ---
 title: "Erlangen Ticket"
-url: /erlangen/erlangen-ticket/
+url: /erlangen/erlangen-ticket-fuchsengarten/
 shop: Tickets
 ---

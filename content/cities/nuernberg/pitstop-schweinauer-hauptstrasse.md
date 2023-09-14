@@ -1,5 +1,5 @@
 ---
 title: "pitstop"
-url: /nuernberg/pitstop/
+url: /nuernberg/pitstop-schweinauer-hauptstrasse/
 shop: Autowerkstatt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mömax"
-url: /muenchen/moemax/
+url: /muenchen/moemax-ingolstaedter-strasse/
 shop: Möbel
 ---

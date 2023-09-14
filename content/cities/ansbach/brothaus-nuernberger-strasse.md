@@ -1,5 +1,5 @@
 ---
 title: "BrotHaus"
-url: /ansbach/brothaus/
+url: /ansbach/brothaus-nuernberger-strasse/
 shop: Bäckerei
 ---

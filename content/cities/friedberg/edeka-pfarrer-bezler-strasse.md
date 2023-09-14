@@ -1,5 +1,5 @@
 ---
 title: "Edeka"
-url: /friedberg/edeka/
+url: /friedberg/edeka-pfarrer-bezler-strasse/
 shop: Supermarkt
 ---

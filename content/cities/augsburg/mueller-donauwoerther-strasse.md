@@ -1,5 +1,5 @@
 ---
 title: "Müller"
-url: /augsburg/mueller/
+url: /augsburg/mueller-donauwoerther-strasse/
 shop: Drogerie
 ---

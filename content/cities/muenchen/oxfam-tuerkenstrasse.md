@@ -1,5 +1,5 @@
 ---
 title: "Oxfam"
-url: /muenchen/oxfam/
+url: /muenchen/oxfam-tuerkenstrasse/
 shop: Gebrauchtwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Schaffler"
-url: /traunstein/schaffler/
+url: /traunstein/schaffler-breslauer-ring/
 shop: Autowerkstatt
 ---

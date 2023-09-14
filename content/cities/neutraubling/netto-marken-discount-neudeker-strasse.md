@@ -1,5 +1,5 @@
 ---
 title: "Netto Marken-Discount"
-url: /neutraubling/netto-marken-discount/
+url: /neutraubling/netto-marken-discount-neudeker-strasse/
 shop: Supermarkt
 ---

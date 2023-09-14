@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /freising/rewe/
+url: /freising/rewe-muenchner-strasse/
 shop: Supermarkt
 ---

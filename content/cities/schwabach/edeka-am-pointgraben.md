@@ -1,5 +1,5 @@
 ---
 title: "EDEKA"
-url: /schwabach/edeka/
+url: /schwabach/edeka-am-pointgraben/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MAHAG"
-url: /ottobrunn/mahag/
+url: /ottobrunn/mahag-rosenheimer-landstrasse/
 shop: Autowerkstatt
 ---

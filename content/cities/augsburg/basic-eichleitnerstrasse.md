@@ -1,5 +1,5 @@
 ---
 title: "basic"
-url: /augsburg/basic/
+url: /augsburg/basic-eichleitnerstrasse/
 shop: Supermarkt
 ---

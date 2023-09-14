@@ -1,5 +1,5 @@
 ---
 title: "GD Friseure"
-url: /nuernberg/gd-friseure/
+url: /nuernberg/gd-friseure-pirckheimerstrasse/
 shop: Friseur
 ---

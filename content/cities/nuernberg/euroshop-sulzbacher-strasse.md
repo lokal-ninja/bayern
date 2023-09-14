@@ -1,5 +1,5 @@
 ---
 title: "EuroShop"
-url: /nuernberg/euroshop/
+url: /nuernberg/euroshop-sulzbacher-strasse/
 shop: Kramladen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jahn Optik"
-url: /mellrichstadt/jahn-optik/
+url: /mellrichstadt/jahn-optik-hauptstrasse/
 shop: Hörgeräte
 ---

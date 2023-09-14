@@ -1,5 +1,5 @@
 ---
 title: "ALDI Süd"
-url: /regensburg/aldi-sued/
+url: /regensburg/aldi-sued-johann-hoesl-strasse/
 shop: Supermarkt
 ---

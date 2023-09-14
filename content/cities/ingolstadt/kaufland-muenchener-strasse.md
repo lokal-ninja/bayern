@@ -1,5 +1,5 @@
 ---
 title: "Kaufland"
-url: /ingolstadt/kaufland/
+url: /ingolstadt/kaufland-muenchener-strasse/
 shop: Supermarkt
 ---

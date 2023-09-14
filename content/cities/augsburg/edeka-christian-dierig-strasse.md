@@ -1,5 +1,5 @@
 ---
 title: "EDEKA"
-url: /augsburg/edeka/
+url: /augsburg/edeka-christian-dierig-strasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
-url: /straubing/tedi/
+url: /straubing/tedi-ittlinger-strasse/
 shop: Kramladen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pickelmann"
-url: /erlangen/pickelmann/
+url: /erlangen/pickelmann-bunsenstrasse/
 shop: Bäckerei
 ---

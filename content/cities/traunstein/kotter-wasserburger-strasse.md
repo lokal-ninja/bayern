@@ -1,5 +1,5 @@
 ---
 title: "Kotter"
-url: /traunstein/kotter/
+url: /traunstein/kotter-wasserburger-strasse/
 shop: Bäckerei
 ---

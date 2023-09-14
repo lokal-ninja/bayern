@@ -1,5 +1,5 @@
 ---
 title: "Balletshofer"
-url: /neusaess/balletshofer/
+url: /neusaess/balletshofer-von-rehlingen-strasse/
 shop: Bäckerei
 ---

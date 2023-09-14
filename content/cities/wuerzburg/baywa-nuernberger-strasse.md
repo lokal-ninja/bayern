@@ -1,5 +1,5 @@
 ---
 title: "BayWa"
-url: /wuerzburg/baywa/
+url: /wuerzburg/baywa-nuernberger-strasse/
 shop: Baumarkt
 ---

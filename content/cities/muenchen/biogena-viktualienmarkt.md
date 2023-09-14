@@ -1,5 +1,5 @@
 ---
 title: "Biogena"
-url: /muenchen/biogena/
+url: /muenchen/biogena-viktualienmarkt/
 shop: Lebensmittel
 ---

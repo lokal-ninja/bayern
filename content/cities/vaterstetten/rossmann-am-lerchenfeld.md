@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /vaterstetten/rossmann/
+url: /vaterstetten/rossmann-am-lerchenfeld/
 shop: Drogerie
 ---

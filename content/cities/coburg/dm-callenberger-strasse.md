@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /coburg/dm/
+url: /coburg/dm-callenberger-strasse/
 shop: Drogerie
 ---

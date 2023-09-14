@@ -1,5 +1,5 @@
 ---
 title: "Fielmann"
-url: /neumarkt-in-der-oberpfalz/fielmann/
+url: /neumarkt-in-der-oberpfalz/fielmann-obere-marktstrasse/
 shop: Optiker
 ---

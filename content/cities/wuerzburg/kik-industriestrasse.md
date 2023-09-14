@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /wuerzburg/kik/
+url: /wuerzburg/kik-industriestrasse/
 shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /straubing/penny/
+url: /straubing/penny-geiselhoeringer-strasse/
 shop: Supermarkt
 ---

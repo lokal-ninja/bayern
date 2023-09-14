@@ -1,5 +1,5 @@
 ---
 title: "Kalchreuther"
-url: /nuernberg/kalchreuther/
+url: /nuernberg/kalchreuther-rothenburger-strasse/
 shop: Bäckerei
 ---

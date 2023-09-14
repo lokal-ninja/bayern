@@ -1,5 +1,5 @@
 ---
 title: "Bäcker Bachmeier"
-url: /landshut/baecker-bachmeier/
+url: /landshut/baecker-bachmeier-rennweg/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Müller-Bäck"
-url: /wuerzburg/mueller-baeck/
+url: /wuerzburg/mueller-baeck-wagnerstrasse/
 shop: Bäckerei
 ---

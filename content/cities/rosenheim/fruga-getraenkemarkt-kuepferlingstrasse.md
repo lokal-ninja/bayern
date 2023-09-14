@@ -1,5 +1,5 @@
 ---
 title: "Fruga Getränkemarkt"
-url: /rosenheim/fruga-getraenkemarkt/
+url: /rosenheim/fruga-getraenkemarkt-kuepferlingstrasse/
 shop: Getränke
 ---

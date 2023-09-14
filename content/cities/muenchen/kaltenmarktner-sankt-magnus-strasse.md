@@ -1,5 +1,5 @@
 ---
 title: "Kaltenmarktner"
-url: /muenchen/kaltenmarktner/
+url: /muenchen/kaltenmarktner-sankt-magnus-strasse/
 shop: Friseur
 ---

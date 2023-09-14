@@ -1,5 +1,5 @@
 ---
 title: "basic"
-url: /muenchen/basic/
+url: /muenchen/basic-amalienburgstrasse/
 shop: Supermarkt
 ---

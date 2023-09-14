@@ -1,5 +1,5 @@
 ---
 title: "Der Beck"
-url: /fuerth/der-beck/
+url: /fuerth/der-beck-hirschenstrasse/
 shop: Bäckerei
 ---

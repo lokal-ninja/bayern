@@ -1,5 +1,5 @@
 ---
 title: "ReSales"
-url: /muenchen/resales/
+url: /muenchen/resales-hohenzollernstrasse/
 shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "EDEKA"
-url: /ansbach/edeka/
+url: /ansbach/edeka-brauhausstrasse/
 shop: Supermarkt
 ---

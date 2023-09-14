@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
-url: /ottobrunn/vodafone/
+url: /ottobrunn/vodafone-unterhachinger-strasse/
 shop: Handy
 ---

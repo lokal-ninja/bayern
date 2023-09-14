@@ -1,5 +1,5 @@
 ---
 title: "Läderach"
-url: /muenchen/laederach/
+url: /muenchen/laederach-bahnhofplatz/
 shop: Schokolade
 ---

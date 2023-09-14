@@ -1,5 +1,5 @@
 ---
 title: "Edeka"
-url: /olching/edeka/
+url: /olching/edeka-hauptstrasse/
 shop: Supermarkt
 ---

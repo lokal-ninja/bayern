@@ -1,5 +1,5 @@
 ---
 title: "Apollo-Optik"
-url: /muenchen/apollo-optik/
+url: /muenchen/apollo-optik-leopoldstrasse/
 shop: Optiker
 ---

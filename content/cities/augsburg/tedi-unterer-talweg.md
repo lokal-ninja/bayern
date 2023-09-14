@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
-url: /augsburg/tedi/
+url: /augsburg/tedi-unterer-talweg/
 shop: Kramladen
 ---

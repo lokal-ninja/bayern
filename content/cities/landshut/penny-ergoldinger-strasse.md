@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /landshut/penny/
+url: /landshut/penny-ergoldinger-strasse/
 shop: Supermarkt
 ---

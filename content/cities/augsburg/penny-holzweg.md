@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /augsburg/penny/
+url: /augsburg/penny-holzweg/
 shop: Supermarkt
 ---

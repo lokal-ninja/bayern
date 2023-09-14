@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /fuessen/rewe/
+url: /fuessen/rewe-kaiser-maximilian-platz/
 shop: Supermarkt
 ---

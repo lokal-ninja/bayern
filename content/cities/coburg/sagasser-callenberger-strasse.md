@@ -1,5 +1,5 @@
 ---
 title: "Sagasser"
-url: /coburg/sagasser/
+url: /coburg/sagasser-callenberger-strasse/
 shop: Getränke
 ---

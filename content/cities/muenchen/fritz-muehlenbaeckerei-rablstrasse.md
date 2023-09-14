@@ -1,5 +1,5 @@
 ---
 title: "Fritz Mühlenbäckerei"
-url: /muenchen/fritz-muehlenbaeckerei/
+url: /muenchen/fritz-muehlenbaeckerei-rablstrasse/
 shop: Bäckerei
 ---

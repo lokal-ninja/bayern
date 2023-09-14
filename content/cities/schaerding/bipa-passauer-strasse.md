@@ -1,5 +1,5 @@
 ---
 title: "Bipa"
-url: /schaerding/bipa/
+url: /schaerding/bipa-passauer-strasse/
 shop: Drogerie
 ---

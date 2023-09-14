@@ -1,5 +1,5 @@
 ---
 title: "Höflinger"
-url: /muenchen/hoeflinger/
+url: /muenchen/hoeflinger-leonrodplatz/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Feneberg"
-url: /memmingen/feneberg/
+url: /memmingen/feneberg-dr-karl-lenz-strasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Mahler"
-url: /volkach/baeckerei-mahler/
+url: /volkach/baeckerei-mahler-ringstrasse/
 shop: Bäckerei
 ---

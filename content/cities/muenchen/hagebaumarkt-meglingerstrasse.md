@@ -1,5 +1,5 @@
 ---
 title: "Hagebaumarkt"
-url: /muenchen/hagebaumarkt/
+url: /muenchen/hagebaumarkt-meglingerstrasse/
 shop: Baumarkt
 ---

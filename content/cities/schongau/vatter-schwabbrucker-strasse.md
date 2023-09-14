@@ -1,5 +1,5 @@
 ---
 title: "Vatter"
-url: /schongau/vatter/
+url: /schongau/vatter-schwabbrucker-strasse/
 shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Madlen"
-url: /muenchen/madlen/
+url: /muenchen/madlen-trappentreustrasse/
 shop: Kiosk
 ---

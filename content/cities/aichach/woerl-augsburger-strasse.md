@@ -1,5 +1,5 @@
 ---
 title: "Wörl"
-url: /aichach/woerl/
+url: /aichach/woerl-augsburger-strasse/
 shop: Schreibwaren
 ---

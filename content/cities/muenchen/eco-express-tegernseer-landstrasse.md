@@ -1,5 +1,5 @@
 ---
 title: "Eco Express"
-url: /muenchen/eco-express/
+url: /muenchen/eco-express-tegernseer-landstrasse/
 shop: Wäscherei
 ---

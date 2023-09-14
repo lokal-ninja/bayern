@@ -1,5 +1,5 @@
 ---
 title: "Carglass"
-url: /muenchen/carglass/
+url: /muenchen/carglass-innsbrucker-ring/
 shop: Autowerkstatt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fielmann"
-url: /coburg/fielmann/
+url: /coburg/fielmann-spitalgasse/
 shop: Optiker
 ---

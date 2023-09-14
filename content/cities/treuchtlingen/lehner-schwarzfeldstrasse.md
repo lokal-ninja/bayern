@@ -1,5 +1,5 @@
 ---
 title: "Lehner"
-url: /treuchtlingen/lehner/
+url: /treuchtlingen/lehner-schwarzfeldstrasse/
 shop: Bäckerei
 ---

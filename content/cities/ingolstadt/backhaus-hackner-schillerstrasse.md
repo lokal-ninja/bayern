@@ -1,5 +1,5 @@
 ---
 title: "Backhaus Hackner"
-url: /ingolstadt/backhaus-hackner/
+url: /ingolstadt/backhaus-hackner-schillerstrasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Biker Bahnhof"
-url: /mittenwald/biker-bahnhof/
+url: /mittenwald/biker-bahnhof-bahnhofplatz/
 shop: Fahrrad
 ---

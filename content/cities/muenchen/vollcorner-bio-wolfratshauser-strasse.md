@@ -1,5 +1,5 @@
 ---
 title: "VollCorner Bio"
-url: /muenchen/vollcorner-bio/
+url: /muenchen/vollcorner-bio-wolfratshauser-strasse/
 shop: Supermarkt
 ---

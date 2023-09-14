@@ -1,5 +1,5 @@
 ---
 title: "Edeka"
-url: /burghausen/edeka/
+url: /burghausen/edeka-marktler-strasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kistenpfennig"
-url: /unterschleissheim/kistenpfennig/
+url: /unterschleissheim/kistenpfennig-suedliche-ingolstaedter-strasse/
 shop: Bäckerei
 ---

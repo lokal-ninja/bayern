@@ -1,5 +1,5 @@
 ---
 title: "Action"
-url: /augsburg/action/
+url: /augsburg/action-friedberger-strasse/
 shop: Kramladen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Raiffeisen-Markt"
-url: /hilpoltstein/raiffeisen-markt/
+url: /hilpoltstein/raiffeisen-markt-dieselstrasse/
 shop: Getränke
 ---

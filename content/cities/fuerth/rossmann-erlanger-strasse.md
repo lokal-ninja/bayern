@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /fuerth/rossmann/
+url: /fuerth/rossmann-erlanger-strasse/
 shop: Drogerie
 ---
