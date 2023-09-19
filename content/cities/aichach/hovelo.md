@@ -1,5 +1,5 @@
 ---
-title: "hovelo"
+title: "HoVelo"
 url: /aichach/hovelo/
 shop: Fahrrad
 ---

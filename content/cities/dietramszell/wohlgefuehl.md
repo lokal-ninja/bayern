@@ -1,5 +1,5 @@
 ---
 title: "Wohlgefühl"
 url: /dietramszell/wohlgefuehl/
-shop: Möbel
+shop: Bäckerei
 ---
