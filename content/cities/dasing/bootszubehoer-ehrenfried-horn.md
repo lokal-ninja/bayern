@@ -1,5 +1,5 @@
 ---
 title: "Bootszubehör Ehrenfried Horn"
 url: /dasing/bootszubehoer-ehrenfried-horn/
-shop: Outdoor
+shop: Boot
 ---

@@ -1,6 +1,6 @@
 ---
 title: Bayreuth
 url: /bayreuth/
-latitude: 49.941
-longitude: 11.588
+latitude: 49.954
+longitude: 11.596
 ---
