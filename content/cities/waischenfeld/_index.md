@@ -1,6 +1,6 @@
 ---
 title: Waischenfeld
 url: /waischenfeld/
-latitude: 49.846
-longitude: 11.344
+latitude: 49.845
+longitude: 11.345
 ---

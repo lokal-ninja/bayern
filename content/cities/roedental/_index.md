@@ -1,6 +1,6 @@
 ---
 title: Rödental
 url: /roedental/
-latitude: 50.29
-longitude: 11.017
+latitude: 50.294
+longitude: 11.044
 ---
