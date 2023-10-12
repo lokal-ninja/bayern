@@ -1,5 +1,5 @@
 ---
 title: "versus gallery"
 url: /muenchen/versus-gallery/
-shop: Raumausstattung
+shop: Andenken
 ---

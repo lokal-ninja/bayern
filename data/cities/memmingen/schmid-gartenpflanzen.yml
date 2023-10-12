@@ -1,11 +1,11 @@
-id: 253117553
-type: way
-latitude: 47.97847
-longitude: 10.1819
+id: 11251028719
+type: node
+latitude: 47.97843
+longitude: 10.182
 postcode: "87700"
 city: Memmingen
 street: "Allgäuer Straße"
 housenumber: 15
-phone: ""
-opening_hours: ""
-website: ""
+phone: "+49 8331 5314"
+opening_hours: "Mo-Fr 08:00-12:00,13:00-18:00; Sa 08:00-14:00"
+website: "https://www.schmid-gartenpflanzen.de/"

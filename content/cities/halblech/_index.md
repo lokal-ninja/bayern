@@ -1,6 +1,6 @@
 ---
 title: Halblech
 url: /halblech/
-latitude: 47.625
-longitude: 10.801
+latitude: 47.63
+longitude: 10.799
 ---

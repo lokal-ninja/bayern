@@ -1,4 +1,4 @@
-id: 692015046
+id: 11251347734
 type: node
 latitude: 47.89399
 longitude: 11.42312
@@ -7,5 +7,5 @@ city: Geretsried
 street: "Wolfratshauser Straße"
 housenumber: 2
 phone: "+49 8171 968754"
-opening_hours: "Mo-Fr 07:00-18:00, Sa 07:00-12:00, Su 08:00-10:00"
+opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-12:00; Su 08:00-10:00"
 website: "https://dorfladen-gelting.de/"

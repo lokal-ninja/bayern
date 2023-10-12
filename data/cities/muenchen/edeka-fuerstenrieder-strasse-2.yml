@@ -1,11 +1,11 @@
-id: 6280061825
-type: node
-latitude: 48.14055
-longitude: 11.5035
-postcode: "80687"
+id: 59475551
+type: way
+latitude: 48.10974
+longitude: 11.50255
+postcode: "81377"
 city: München
 street: "Fürstenrieder Straße"
-housenumber: 21
-phone: "+49 89 2126 4066"
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
-website: "https://www.edeka.de/eh/s%C3%BCdbayern/edeka-grosjean-f%C3%BCrstenrieder-stra%C3%9Fe-21/index.jsp"
+housenumber: 273
+phone: ""
+opening_hours: "Mo-Sa 07:00-20:00"
+website: ""

@@ -1,5 +1,5 @@
 ---
 title: "Gerhard Albert"
 url: /mainleus/gerhard-albert/
-shop: Autoteile
+shop: Autowerkstatt
 ---

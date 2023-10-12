@@ -1,5 +1,5 @@
 ---
-title: "Norma"
+title: "NORMA"
 url: /peissenberg/norma-sonnenstrasse/
 shop: Supermarkt
 ---

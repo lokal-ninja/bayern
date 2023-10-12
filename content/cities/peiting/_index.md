@@ -1,6 +1,6 @@
 ---
 title: Peiting
 url: /peiting/
-latitude: 47.785
-longitude: 10.943
+latitude: 47.797
+longitude: 10.922
 ---

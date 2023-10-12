@@ -1,6 +1,6 @@
 ---
 title: Wasserburg
 url: /wasserburg/
-latitude: 48.061
-longitude: 12.231
+latitude: 48.063
+longitude: 12.229
 ---
