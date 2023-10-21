@@ -7,5 +7,5 @@ city: Nürnberg
 street: "Ostendstraße"
 housenumber: 173
 phone: "+49 911 543505"
-opening_hours: "Tu-Sa 08:00-13:00, Tu,Fr 14:00-17:00; Su,PH 13:00-16:00"
+opening_hours: "Tu-Fr 11:00-16:00; PH,Su 13:00-16:00; Sa 08:00-13:00; Mo off"
 website: "https://www.konditorei-peter.de/"

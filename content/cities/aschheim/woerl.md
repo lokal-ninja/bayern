@@ -1,5 +1,5 @@
 ---
 title: "Wörl"
 url: /aschheim/woerl/
-shop: Kiosk
+shop: Allgemein
 ---
