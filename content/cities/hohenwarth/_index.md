@@ -1,6 +1,6 @@
 ---
 title: Hohenwarth
 url: /hohenwarth/
-latitude: 49.204
-longitude: 12.937
+latitude: 49.203
+longitude: 12.934
 ---

@@ -1,5 +1,5 @@
 ---
-title: "K+K SCHUH CENTER"
+title: "K+K Schuh-Center"
 url: /wunsiedel/k-k-schuh-center/
 shop: Schuhe
 ---
