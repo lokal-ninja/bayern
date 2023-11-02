@@ -1,5 +1,5 @@
 ---
-title: "Baywa Baustoffe"
+title: "BayWa Baustoffe"
 url: /dasing/baywa-baustoffe/
 shop: Baustoffe
 ---

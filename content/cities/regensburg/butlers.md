@@ -1,5 +1,5 @@
 ---
-title: "BUTLERS"
+title: "Butlers"
 url: /regensburg/butlers/
-shop: Möbel
+shop: Raumausstattung
 ---

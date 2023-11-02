@@ -1,5 +1,5 @@
 ---
-title: "Baywa Agrar"
+title: "BayWa Agrar"
 url: /dasing/baywa-agrar/
-shop: Baustoffe
+shop: Baumarkt
 ---
