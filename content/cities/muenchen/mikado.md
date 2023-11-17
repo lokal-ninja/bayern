@@ -1,5 +1,5 @@
 ---
 title: "Mikado"
 url: /muenchen/mikado/
-shop: Feinkost
+shop: Schmuck
 ---

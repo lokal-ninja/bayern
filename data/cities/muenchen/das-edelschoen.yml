@@ -7,5 +7,5 @@ city: München
 street: "Baaderstraße"
 housenumber: 35
 phone: "+49 89 37416645"
-opening_hours: "Mo-Sa 11:00-19:00"
+opening_hours: "Mo-We,Fr-Sa 11:00-18:00; Th 11:00-20:00"
 website: "https://dasedelschoen.de/"
