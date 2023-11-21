@@ -1,5 +1,5 @@
 ---
 title: "tedox"
 url: /cham/tedox/
-shop: Möbel
+shop: Baumarkt
 ---
