@@ -1,6 +1,6 @@
 ---
 title: Neustadt an der Aisch
 url: /neustadt-an-der-aisch/
-latitude: 49.579
-longitude: 10.587
+latitude: 49.582
+longitude: 10.611
 ---
