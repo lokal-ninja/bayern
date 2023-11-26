@@ -1,5 +1,5 @@
 ---
-title: "ROLLER"
+title: "Roller"
 url: /bayreuth/roller/
 shop: Möbel
 ---

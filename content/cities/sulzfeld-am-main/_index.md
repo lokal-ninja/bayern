@@ -1,6 +1,6 @@
 ---
 title: Sulzfeld am Main
 url: /sulzfeld-am-main/
-latitude: 49.709
-longitude: 10.134
+latitude: 49.703
+longitude: 10.127
 ---

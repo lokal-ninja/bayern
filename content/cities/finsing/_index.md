@@ -1,6 +1,6 @@
 ---
 title: Finsing
 url: /finsing/
-latitude: 48.212
-longitude: 11.82
+latitude: 48.265
+longitude: 11.755
 ---

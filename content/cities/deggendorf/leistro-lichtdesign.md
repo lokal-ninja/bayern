@@ -1,5 +1,5 @@
 ---
 title: "Leistro Lichtdesign"
 url: /deggendorf/leistro-lichtdesign/
-shop: Allgemein
+shop: Lampen
 ---

@@ -1,11 +1,11 @@
-id: 748215270
-type: node
-latitude: 49.40346
-longitude: 11.04867
-postcode: "90451"
+id: 127255611
+type: way
+latitude: 49.48162
+longitude: 11.11642
+postcode: "90411"
 city: Nürnberg
-street: "Duisburger Straße"
-housenumber: 65
-phone: ""
-opening_hours: ""
+street: "Neumeyerstraße"
+housenumber: 7-11
+phone: "+49 911 31600"
+opening_hours: "Mo-Fr 08:00-19:00; Sa 09:00-14:00"
 website: "https://www.mercedes-benz-nuernberg.de"

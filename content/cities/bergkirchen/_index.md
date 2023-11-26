@@ -1,6 +1,6 @@
 ---
 title: Bergkirchen
 url: /bergkirchen/
-latitude: 48.237
-longitude: 11.353
+latitude: 48.228
+longitude: 11.432
 ---
