@@ -1,6 +1,6 @@
 ---
 title: Uffenheim
 url: /uffenheim/
-latitude: 49.549
-longitude: 10.238
+latitude: 49.542
+longitude: 10.243
 ---

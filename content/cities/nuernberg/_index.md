@@ -1,6 +1,6 @@
 ---
 title: Nürnberg
 url: /nuernberg/
-latitude: 49.453
-longitude: 11.073
+latitude: 49.466
+longitude: 11.108
 ---
