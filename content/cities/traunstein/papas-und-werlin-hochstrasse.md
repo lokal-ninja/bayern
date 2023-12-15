@@ -1,5 +1,5 @@
 ---
 title: "Papas & Werlin"
 url: /traunstein/papas-und-werlin-hochstrasse/
-shop: Autowerkstatt
+shop: Autohaus
 ---

@@ -1,6 +1,6 @@
 ---
 title: Geisenfeld
 url: /geisenfeld/
-latitude: 48.692
-longitude: 11.611
+latitude: 48.685
+longitude: 11.614
 ---
