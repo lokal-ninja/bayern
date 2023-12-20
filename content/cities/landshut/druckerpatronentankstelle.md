@@ -1,5 +1,5 @@
 ---
 title: "Druckerpatronentankstelle"
 url: /landshut/druckerpatronentankstelle/
-shop: Allgemein
+shop: Computer
 ---
