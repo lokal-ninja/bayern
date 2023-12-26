@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
 url: /muenchen/tedi/
-shop: Allgemein
+shop: Lebensmittel
 ---

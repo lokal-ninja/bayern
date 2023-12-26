@@ -1,6 +1,6 @@
 ---
 title: Mainburg
 url: /mainburg/
-latitude: 48.645
-longitude: 11.786
+latitude: 48.649
+longitude: 11.785
 ---

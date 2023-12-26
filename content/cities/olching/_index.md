@@ -1,6 +1,6 @@
 ---
 title: Olching
 url: /olching/
-latitude: 48.203
-longitude: 11.324
+latitude: 48.199
+longitude: 11.329
 ---
