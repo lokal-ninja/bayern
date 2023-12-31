@@ -1,6 +1,6 @@
 ---
 title: Kelheim
 url: /kelheim/
-latitude: 48.917
-longitude: 11.892
+latitude: 48.918
+longitude: 11.887
 ---

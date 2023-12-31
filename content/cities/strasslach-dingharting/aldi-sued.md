@@ -1,5 +1,5 @@
 ---
-title: "Aldi Süd"
+title: "ALDI Süd"
 url: /strasslach-dingharting/aldi-sued/
 shop: Supermarkt
 ---

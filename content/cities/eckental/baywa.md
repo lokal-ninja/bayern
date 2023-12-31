@@ -1,5 +1,5 @@
 ---
-title: "BAYWA"
+title: "BayWa"
 url: /eckental/baywa/
 shop: Baumarkt
 ---

@@ -1,5 +1,5 @@
 ---
-title: "V-Baumarkt"
+title: "V-BAUMARKT"
 url: /muenchen/v-baumarkt-balanstrasse/
 shop: Baumarkt
 ---

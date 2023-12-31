@@ -1,5 +1,5 @@
 ---
 title: "Retroarea"
 url: /augsburg/retroarea/
-shop: Kleidung
+shop: Gebrauchtwaren
 ---

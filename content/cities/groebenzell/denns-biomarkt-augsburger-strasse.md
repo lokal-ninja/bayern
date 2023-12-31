@@ -1,5 +1,5 @@
 ---
-title: "denn's Biomarkt"
+title: "Denns BioMarkt"
 url: /groebenzell/denns-biomarkt-augsburger-strasse/
 shop: Supermarkt
 ---
