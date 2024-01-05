@@ -1,6 +1,6 @@
 ---
 title: Sielenbach
 url: /sielenbach/
-latitude: 48.401
-longitude: 11.164
+latitude: 48.376
+longitude: 11.156
 ---

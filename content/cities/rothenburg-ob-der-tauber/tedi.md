@@ -1,5 +1,5 @@
 ---
-title: "Tedi"
+title: "TEDi"
 url: /rothenburg-ob-der-tauber/tedi/
-shop: Warenhaus
+shop: Kramladen
 ---

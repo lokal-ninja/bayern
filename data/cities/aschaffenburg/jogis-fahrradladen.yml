@@ -7,5 +7,5 @@ city: Aschaffenburg
 street: "Mühlstraße"
 housenumber: 18
 phone: "+49 6021 5838108"
-opening_hours: "Mo,Tu,Fr 09:00-12:30,14:00-18:00; We 09:00-12:30; Th 09:00-12:30,14:00-20:00; Sa 09:00-14:00"
-website: "http://www.fahrradjogi.de/"
+opening_hours: "Tu,Th,Fr 09:00-12:30, 14:00-18:00; We 09:00-12:30; Sa 09:00-14:00; Mo,Su,PH off"
+website: "https://www.jogisfahrradladen.de/"

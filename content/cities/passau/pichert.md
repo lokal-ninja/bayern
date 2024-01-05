@@ -1,5 +1,5 @@
 ---
 title: "Pichert"
 url: /passau/pichert/
-shop: Autohaus
+shop: Autowerkstatt
 ---
