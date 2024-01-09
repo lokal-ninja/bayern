@@ -1,6 +1,6 @@
 ---
 title: Neudrossenfeld
 url: /neudrossenfeld/
-latitude: 50.016
-longitude: 11.503
+latitude: 50.018
+longitude: 11.502
 ---

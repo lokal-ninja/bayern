@@ -1,6 +1,6 @@
 ---
 title: Aurachtal
 url: /aurachtal/
-latitude: 49.575
-longitude: 10.822
+latitude: 49.576
+longitude: 10.827
 ---

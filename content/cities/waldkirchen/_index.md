@@ -1,6 +1,6 @@
 ---
 title: Waldkirchen
 url: /waldkirchen/
-latitude: 48.734
-longitude: 13.608
+latitude: 48.719
+longitude: 13.595
 ---
