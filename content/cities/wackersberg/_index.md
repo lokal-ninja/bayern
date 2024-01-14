@@ -1,6 +1,6 @@
 ---
 title: Wackersberg
 url: /wackersberg/
-latitude: 47.759
-longitude: 11.501
+latitude: 47.764
+longitude: 11.542
 ---

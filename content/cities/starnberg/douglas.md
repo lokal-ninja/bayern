@@ -1,5 +1,5 @@
 ---
 title: "Douglas"
 url: /starnberg/douglas/
-shop: Kosmetik
+shop: Parfümerie
 ---
