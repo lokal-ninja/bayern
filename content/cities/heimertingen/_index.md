@@ -1,6 +1,6 @@
 ---
 title: Heimertingen
 url: /heimertingen/
-latitude: 48.03
-longitude: 10.15
+latitude: 48.039
+longitude: 10.154
 ---

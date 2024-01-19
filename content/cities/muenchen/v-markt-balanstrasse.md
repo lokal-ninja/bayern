@@ -1,5 +1,5 @@
 ---
-title: "V-MARKT"
+title: "V-Markt"
 url: /muenchen/v-markt-balanstrasse/
 shop: Supermarkt
 ---
