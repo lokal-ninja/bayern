@@ -1,11 +1,11 @@
-id: 1761964603
-type: node
-latitude: 48.18312
-longitude: 11.50742
-postcode: "80993"
+id: 413678673
+type: way
+latitude: 48.15121
+longitude: 11.55807
+postcode: "80335"
 city: München
 street: "Dachauer Straße"
-housenumber: 457
-phone: "+49 89 14010572"
+housenumber: 92
+phone: ""
 opening_hours: "Mo-Sa 06:00-20:00; Su 08:00-17:00"
 website: "https://www.ihle.de/"
