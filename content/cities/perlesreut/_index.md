@@ -1,6 +1,6 @@
 ---
 title: Perlesreut
 url: /perlesreut/
-latitude: 48.779
-longitude: 13.44
+latitude: 48.78
+longitude: 13.442
 ---
