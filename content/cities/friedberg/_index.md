@@ -1,6 +1,6 @@
 ---
 title: Friedberg
 url: /friedberg/
-latitude: 48.349
-longitude: 10.998
+latitude: 48.31
+longitude: 11.047
 ---

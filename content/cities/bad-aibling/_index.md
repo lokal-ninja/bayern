@@ -1,6 +1,6 @@
 ---
 title: Bad Aibling
 url: /bad-aibling/
-latitude: 47.863
-longitude: 12.008
+latitude: 47.879
+longitude: 11.993
 ---

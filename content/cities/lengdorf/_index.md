@@ -1,6 +1,6 @@
 ---
 title: Lengdorf
 url: /lengdorf/
-latitude: 48.257
-longitude: 12.051
+latitude: 48.236
+longitude: 12.03
 ---

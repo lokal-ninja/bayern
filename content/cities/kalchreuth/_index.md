@@ -1,6 +1,6 @@
 ---
 title: Kalchreuth
 url: /kalchreuth/
-latitude: 49.557
-longitude: 11.132
+latitude: 49.558
+longitude: 11.134
 ---

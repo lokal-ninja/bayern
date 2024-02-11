@@ -1,6 +1,6 @@
 ---
 title: Roßhaupten
 url: /rosshaupten/
-latitude: 47.655
-longitude: 10.718
+latitude: 47.651
+longitude: 10.713
 ---

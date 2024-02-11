@@ -1,6 +1,6 @@
 ---
 title: Brand
 url: /brand/
-latitude: 49.962
-longitude: 11.921
+latitude: 49.581
+longitude: 11.184
 ---
