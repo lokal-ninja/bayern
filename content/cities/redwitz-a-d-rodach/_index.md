@@ -1,6 +1,6 @@
 ---
 title: Redwitz a.d.Rodach
 url: /redwitz-a-d-rodach/
-latitude: 50.174
-longitude: 11.222
+latitude: 50.196
+longitude: 11.214
 ---

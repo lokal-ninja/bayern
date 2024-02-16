@@ -1,6 +1,6 @@
 ---
 title: Schwabmünchen
 url: /schwabmuenchen/
-latitude: 48.176
-longitude: 10.758
+latitude: 48.193
+longitude: 10.755
 ---

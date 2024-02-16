@@ -1,6 +1,6 @@
 ---
 title: Tittling
 url: /tittling/
-latitude: 48.724
-longitude: 13.384
+latitude: 48.732
+longitude: 13.376
 ---

@@ -1,5 +1,5 @@
 ---
-title: "denn's Biomarkt"
+title: "Denns BioMarkt"
 url: /prien-am-chiemsee/denns-biomarkt/
 shop: Supermarkt
 ---

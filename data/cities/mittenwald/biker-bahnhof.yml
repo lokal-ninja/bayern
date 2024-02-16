@@ -7,5 +7,5 @@ city: Mittenwald
 street: "Bahnhofplatz"
 housenumber: 12
 phone: "+49 8823 2764"
-opening_hours: "Mo-Tu 09:00-13:00,15:00-18:00; We 09:00-13:00; Th-Fr 09:00-13:00,15:00-18:00; Sa 09:00-13:00; Su 09:00-12:00"
+opening_hours: "Mo-Fr 09:00-13:00 15:00-18:00 Sa 09:00-18:00"
 website: "https://www.bikerbahnhof.com/"
