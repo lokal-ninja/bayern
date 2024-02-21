@@ -1,6 +1,6 @@
 ---
 title: Heigenbrücken
 url: /heigenbruecken/
-latitude: 50.026
-longitude: 9.374
+latitude: 50.027
+longitude: 9.369
 ---
