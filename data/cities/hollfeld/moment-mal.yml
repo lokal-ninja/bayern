@@ -7,5 +7,5 @@ city: Hollfeld
 street: "Spitalplatz"
 housenumber: 3
 phone: "+49 9274 947880"
-opening_hours: "Mo 09:00-12:00; Tu-We, Sa 09:00-13:00; Th-Fr 13:00-18:00"
+opening_hours: "Tu,Th,Fr 09:00-18:00; We 09:00-15:00; Sa 09:00-13:00"
 website: "http://www.momentmal-hollfeld.de/"

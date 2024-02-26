@@ -1,6 +1,6 @@
 ---
 title: Waffenbrunn
 url: /waffenbrunn/
-latitude: 49.274
-longitude: 12.674
+latitude: 49.259
+longitude: 12.664
 ---
