@@ -1,5 +1,5 @@
 ---
 title: "Salomon Outlet"
 url: /garching/salomon-outlet/
-shop: Sport
+shop: Kleidung
 ---
