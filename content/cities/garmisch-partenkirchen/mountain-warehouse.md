@@ -1,5 +1,5 @@
 ---
 title: "Mountain Warehouse"
 url: /garmisch-partenkirchen/mountain-warehouse/
-shop: Kleidung
+shop: Outdoor
 ---

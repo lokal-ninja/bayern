@@ -1,6 +1,6 @@
 ---
 title: Burghaslach
 url: /burghaslach/
-latitude: 49.731
-longitude: 10.601
+latitude: 49.733
+longitude: 10.599
 ---

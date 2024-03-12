@@ -1,5 +1,5 @@
 ---
-title: "Norma"
+title: "NORMA"
 url: /weilheim-in-oberbayern/norma/
 shop: Supermarkt
 ---
