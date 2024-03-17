@@ -1,6 +1,6 @@
 ---
 title: Wunsiedel
 url: /wunsiedel/
-latitude: 50.038
-longitude: 12.003
+latitude: 50.042
+longitude: 12.014
 ---

@@ -1,11 +1,11 @@
-id: 9341025231
-type: node
-latitude: 49.59278
-longitude: 11.00405
+id: 1262010753
+type: way
+latitude: 49.59276
+longitude: 11.00412
 postcode: "91052"
 city: Erlangen
 street: "Nürnberger Straße"
 housenumber: 7
-phone: "+49 9131 4000422"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://www.street-one.de/"
+phone: ""
+opening_hours: "Mo-Sa 09:30-20:00; Su,PH off"
+website: ""
