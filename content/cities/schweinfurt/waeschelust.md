@@ -1,5 +1,5 @@
 ---
 title: "Wäschelust"
 url: /schweinfurt/waeschelust/
-shop: Modehaus
+shop: Kleidung
 ---

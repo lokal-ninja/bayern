@@ -1,5 +1,5 @@
 ---
 title: "Müller"
 url: /wuerzburg/mueller/
-shop: Warenhaus
+shop: Drogerie
 ---

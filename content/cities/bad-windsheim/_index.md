@@ -1,6 +1,6 @@
 ---
 title: Bad Windsheim
 url: /bad-windsheim/
-latitude: 49.51
-longitude: 10.426
+latitude: 49.507
+longitude: 10.409
 ---
