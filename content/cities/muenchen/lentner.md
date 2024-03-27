@@ -1,5 +1,5 @@
 ---
 title: "Lentner"
 url: /muenchen/lentner/
-shop: Friseur
+shop: Bücher
 ---

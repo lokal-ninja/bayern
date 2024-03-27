@@ -1,6 +1,6 @@
 ---
 title: Wolferstadt
 url: /wolferstadt/
-latitude: 48.88
-longitude: 10.767
+latitude: 48.905
+longitude: 10.784
 ---

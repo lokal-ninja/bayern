@@ -1,6 +1,6 @@
 ---
 title: Cadolzburg
 url: /cadolzburg/
-latitude: 49.467
-longitude: 10.86
+latitude: 49.475
+longitude: 10.861
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Tedi"
+title: "TEDi"
 url: /landshut/tedi-2/
-shop: Supermarkt
+shop: Kramladen
 ---

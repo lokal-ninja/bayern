@@ -1,6 +1,6 @@
 ---
 title: Schalkham
 url: /schalkham/
-latitude: 48.477
-longitude: 12.463
+latitude: 48.478
+longitude: 12.464
 ---
