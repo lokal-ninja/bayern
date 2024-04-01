@@ -1,5 +1,5 @@
 ---
-title: "Fritz Mühlenbäckerei Blutenburgstraße"
+title: "Fritz Mühlenbäckerei"
 url: /muenchen/fritz-muehlenbaeckerei-blutenburgstrasse/
 shop: Bäckerei
 ---

@@ -1,6 +1,6 @@
 ---
 title: Neukirchen b. Hl. Blut
 url: /neukirchen-b-hl-blut/
-latitude: 49.251
-longitude: 12.977
+latitude: 49.259
+longitude: 12.97
 ---
