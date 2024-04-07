@@ -1,6 +1,6 @@
 ---
 title: Tuntenhausen
 url: /tuntenhausen/
-latitude: 47.948
-longitude: 12.03
+latitude: 47.917
+longitude: 11.989
 ---

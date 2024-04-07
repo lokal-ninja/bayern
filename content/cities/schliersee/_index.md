@@ -1,6 +1,6 @@
 ---
 title: Schliersee
 url: /schliersee/
-latitude: 47.711
-longitude: 11.87
+latitude: 47.703
+longitude: 11.885
 ---
