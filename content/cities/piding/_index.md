@@ -1,6 +1,6 @@
 ---
 title: Piding
 url: /piding/
-latitude: 47.766
-longitude: 12.915
+latitude: 47.758
+longitude: 12.9
 ---
