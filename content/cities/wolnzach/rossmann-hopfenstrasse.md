@@ -1,5 +1,5 @@
 ---
-title: "ROSSMANN"
+title: "Rossmann"
 url: /wolnzach/rossmann-hopfenstrasse/
 shop: Drogerie
 ---

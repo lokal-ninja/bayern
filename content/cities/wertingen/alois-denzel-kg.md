@@ -1,5 +1,5 @@
 ---
 title: "Alois Denzel KG"
 url: /wertingen/alois-denzel-kg/
-shop: Allgemein
+shop: Baustoffe
 ---

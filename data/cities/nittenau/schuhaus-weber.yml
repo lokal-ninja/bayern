@@ -7,5 +7,5 @@ city: Nittenau
 street: "Marktplatz"
 housenumber: 6
 phone: "+49 9436 903799"
-opening_hours: "Mo-Sa 09:00-12:00; Mo-Fr 14:00-18:00"
+opening_hours: "Mo-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00"
 website: ""

@@ -1,6 +1,6 @@
 ---
 title: Neufahrn
 url: /neufahrn/
-latitude: 48.32
-longitude: 11.661
+latitude: 48.317
+longitude: 11.662
 ---

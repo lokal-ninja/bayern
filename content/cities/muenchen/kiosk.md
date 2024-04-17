@@ -1,5 +1,5 @@
 ---
 title: "Kiosk"
 url: /muenchen/kiosk/
-shop: Tabak
+shop: Kiosk
 ---
