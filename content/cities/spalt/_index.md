@@ -1,6 +1,6 @@
 ---
 title: Spalt
 url: /spalt/
-latitude: 49.175
-longitude: 10.925
+latitude: 49.176
+longitude: 10.923
 ---

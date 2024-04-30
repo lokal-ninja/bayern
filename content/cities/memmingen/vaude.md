@@ -1,5 +1,5 @@
 ---
 title: "Vaude"
 url: /memmingen/vaude/
-shop: Kleidung
+shop: Outdoor
 ---
