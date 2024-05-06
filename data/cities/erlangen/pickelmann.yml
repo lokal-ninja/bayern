@@ -1,11 +1,11 @@
-id: 352656046
-type: node
-latitude: 49.60583
-longitude: 10.98343
-postcode: "91056"
+id: 337138849
+type: way
+latitude: 49.56649
+longitude: 11.0005
+postcode: "91058"
 city: Erlangen
-street: "Möhrendorfer Straße"
-housenumber: 1c
-phone: "+49 9131 481257"
-opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-14:00"
-website: "https://www.baeckerei-pickelmann.de/"
+street: "Bunsenstraße"
+housenumber: 3
+phone: "+49 9131 9085725"
+opening_hours: "Mo-Fr 06:00-17:00; Sa 06:00-14:00; Su 07:00-13:00"
+website: ""

@@ -1,6 +1,6 @@
 ---
 title: Viechtach
 url: /viechtach/
-latitude: 49.081
-longitude: 12.886
+latitude: 49.08
+longitude: 12.885
 ---
