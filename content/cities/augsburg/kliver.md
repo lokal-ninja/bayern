@@ -1,5 +1,5 @@
 ---
 title: "Kliver"
 url: /augsburg/kliver/
-shop: Lebensmittel
+shop: Supermarkt
 ---

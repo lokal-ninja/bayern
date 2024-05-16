@@ -1,6 +1,6 @@
 ---
 title: Biberbach
 url: /biberbach/
-latitude: 48.517
-longitude: 10.813
+latitude: 48.518
+longitude: 10.809
 ---

@@ -1,6 +1,6 @@
 ---
 title: St. Pantaleon
 url: /st-pantaleon/
-latitude: 48.023
-longitude: 12.849
+latitude: 48.024
+longitude: 12.848
 ---
