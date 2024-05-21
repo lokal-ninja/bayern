@@ -7,5 +7,5 @@ city: München
 street: "Kölner Platz"
 housenumber: 1a
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,13:30-18:00; Sa 10:00-16:00; Su 10:00-16:00"
+opening_hours: "Mo,We-Fr 09:00-13:00,13:30-18:00; Sa-Su 10:00-16:00"
 website: ""

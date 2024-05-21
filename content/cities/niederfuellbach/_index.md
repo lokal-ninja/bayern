@@ -1,6 +1,6 @@
 ---
 title: Niederfüllbach
 url: /niederfuellbach/
-latitude: 50.222
-longitude: 10.986
+latitude: 50.218
+longitude: 10.987
 ---

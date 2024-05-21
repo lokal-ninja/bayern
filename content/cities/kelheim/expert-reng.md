@@ -1,5 +1,5 @@
 ---
-title: "EXPERT Reng"
+title: "expert Reng"
 url: /kelheim/expert-reng/
 shop: Elektronik
 ---
