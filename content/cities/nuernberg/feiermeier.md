@@ -1,5 +1,5 @@
 ---
-title: "Feiermeier"
+title: "feiermeier"
 url: /nuernberg/feiermeier/
-shop: Textil
+shop: Andenken
 ---

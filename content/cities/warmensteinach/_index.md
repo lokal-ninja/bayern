@@ -1,6 +1,6 @@
 ---
 title: Warmensteinach
 url: /warmensteinach/
-latitude: 50.004
-longitude: 11.809
+latitude: 49.997
+longitude: 11.779
 ---
