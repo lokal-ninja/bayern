@@ -1,6 +1,6 @@
 ---
 title: Konradsreuth
 url: /konradsreuth/
-latitude: 50.268
-longitude: 11.845
+latitude: 50.271
+longitude: 11.852
 ---
