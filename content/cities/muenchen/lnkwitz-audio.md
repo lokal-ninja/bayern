@@ -1,5 +1,5 @@
 ---
 title: "LNKWITZ.audio"
 url: /muenchen/lnkwitz-audio/
-shop: Allgemein
+shop: Hifi
 ---

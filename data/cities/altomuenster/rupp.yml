@@ -1,11 +1,11 @@
-id: 214836136
-type: way
-latitude: 48.38731
-longitude: 11.2572
+id: 12003351748
+type: node
+latitude: 48.38729
+longitude: 11.25728
 postcode: "85250"
 city: Altomünster
 street: "Nerbstraße"
 housenumber: 4
-phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-12:00"
-website: ""
+phone: "+49 8254 9975949"
+opening_hours: "Mo,Tu,Th,Fr 07:00-18:00; We 17:00-13:00; Sa 07:00-12:00; Su,PH off"
+website: "https://metzgereirupp.de/filialen/"

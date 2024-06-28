@@ -1,5 +1,5 @@
 ---
 title: "Weltladen"
 url: /straubing/weltladen/
-shop: Allgemein
+shop: Lebensmittel
 ---

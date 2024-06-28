@@ -1,6 +1,6 @@
 ---
 title: Gunzenhausen
 url: /gunzenhausen/
-latitude: 49.124
-longitude: 10.76
+latitude: 49.106
+longitude: 10.761
 ---
