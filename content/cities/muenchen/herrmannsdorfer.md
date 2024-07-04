@@ -1,5 +1,5 @@
 ---
 title: "Herrmannsdorfer"
 url: /muenchen/herrmannsdorfer/
-shop: Lebensmittel
+shop: Metzgerei
 ---
