@@ -1,6 +1,6 @@
 ---
-title: Bruck i.d. Opf.
+title: Bruck i.d.OPf.
 url: /bruck-i-d-opf/
-latitude: 49.239
-longitude: 12.3
+latitude: 49.25
+longitude: 12.297
 ---

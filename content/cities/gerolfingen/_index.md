@@ -1,6 +1,6 @@
 ---
 title: Gerolfingen
 url: /gerolfingen/
-latitude: 49.054
-longitude: 10.508
+latitude: 49.049
+longitude: 10.501
 ---
