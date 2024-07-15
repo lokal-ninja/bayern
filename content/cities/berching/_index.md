@@ -1,6 +1,6 @@
 ---
 title: Berching
 url: /berching/
-latitude: 49.107
-longitude: 11.441
+latitude: 49.103
+longitude: 11.445
 ---

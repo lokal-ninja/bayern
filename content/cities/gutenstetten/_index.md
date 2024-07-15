@@ -1,6 +1,6 @@
 ---
 title: Gutenstetten
 url: /gutenstetten/
-latitude: 49.617
-longitude: 10.635
+latitude: 49.627
+longitude: 10.628
 ---

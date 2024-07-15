@@ -1,5 +1,5 @@
 ---
 title: "Änderungsschneiderei Galina"
 url: /muenchen/aenderungsschneiderei-galina/
-shop: Wäscherei
+shop: Schneiderei
 ---

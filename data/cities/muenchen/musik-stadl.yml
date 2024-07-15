@@ -1,11 +1,11 @@
 id: 1448953024
 type: node
-latitude: 48.2019
-longitude: 11.56374
+latitude: 48.20189
+longitude: 11.56375
 postcode: "80935"
 city: München
 street: "Schleißheimer Straße"
 housenumber: 399
 phone: ""
-opening_hours: "Sa 09:00-12:00; Tu,We,Fr 09:30-13:00,14:30-18:00"
-website: "http://www.musikstadl-muenchen.de/"
+opening_hours: "Tu,We,Fr 09:30-13:00,14:30-18:00; Sa 09:00-12:00; Mo,Th,Su,PH off"
+website: ""
