@@ -1,6 +1,6 @@
 ---
 title: Hohenpeißenberg
 url: /hohenpeissenberg/
-latitude: 47.801
-longitude: 11.014
+latitude: 47.812
+longitude: 10.994
 ---

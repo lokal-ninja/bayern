@@ -1,6 +1,6 @@
 ---
 title: Söchtenau
 url: /soechtenau/
-latitude: 47.931
-longitude: 12.23
+latitude: 47.93
+longitude: 12.228
 ---
