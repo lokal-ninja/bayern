@@ -1,5 +1,5 @@
 ---
 title: "Beutlhauser"
 url: /regensburg/beutlhauser/
-shop: Mieten
+shop: Allgemein
 ---
