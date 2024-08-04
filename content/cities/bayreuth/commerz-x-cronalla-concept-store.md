@@ -1,5 +1,5 @@
 ---
-title: "Commerz x Cronalla Concept Store"
+title: "Commerz X CRONALLA Concept Store"
 url: /bayreuth/commerz-x-cronalla-concept-store/
-shop: Supermarkt
+shop: Kleidung
 ---

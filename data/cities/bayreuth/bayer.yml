@@ -7,5 +7,5 @@ city: Bayreuth
 street: "Richard-Wagner-Straße"
 housenumber: 30
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00, Sa 07:00-13:00"
+opening_hours: "Mo,We 07:30-13:00; Sa 07:30-13:00; Tu,Th,Fr 07:30-17:00"
 website: ""

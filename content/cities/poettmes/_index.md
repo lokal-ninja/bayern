@@ -1,6 +1,6 @@
 ---
 title: Pöttmes
 url: /poettmes/
-latitude: 48.584
-longitude: 11.094
+latitude: 48.583
+longitude: 11.089
 ---
