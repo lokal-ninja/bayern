@@ -1,6 +1,6 @@
 ---
 title: Schwandorf
 url: /schwandorf/
-latitude: 49.328
-longitude: 12.108
+latitude: 49.324
+longitude: 12.117
 ---

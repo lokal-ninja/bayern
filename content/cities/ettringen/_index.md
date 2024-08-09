@@ -1,6 +1,6 @@
 ---
 title: Ettringen
 url: /ettringen/
-latitude: 48.106
-longitude: 10.648
+latitude: 48.11
+longitude: 10.671
 ---

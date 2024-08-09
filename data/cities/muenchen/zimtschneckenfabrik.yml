@@ -7,5 +7,5 @@ city: München
 street: "Chiemgaustraße"
 housenumber: 81
 phone: "+49 177 672 109 0"
-opening_hours: "Tu-Fr 09:00-17:00; Sa,Su 12:00-15:00; PH 12:00-15:00"
+opening_hours: "Tu-Fr 09:00-17:00; Sa 09:00-15:00; Su,PH 12:00-15:00"
 website: "http://zimtschneckenfabrik.de/"
