@@ -1,6 +1,6 @@
 ---
 title: Marktheidenfeld
 url: /marktheidenfeld/
-latitude: 49.848
-longitude: 9.613
+latitude: 49.845
+longitude: 9.602
 ---

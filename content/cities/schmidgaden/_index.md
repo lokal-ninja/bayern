@@ -1,6 +1,6 @@
 ---
 title: Schmidgaden
 url: /schmidgaden/
-latitude: 49.43
-longitude: 12.091
+latitude: 49.485
+longitude: 12.086
 ---

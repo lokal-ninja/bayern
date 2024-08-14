@@ -1,6 +1,6 @@
 ---
 title: Adelzhausen
 url: /adelzhausen/
-latitude: 48.368
-longitude: 11.148
+latitude: 48.372
+longitude: 11.132
 ---

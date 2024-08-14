@@ -2,5 +2,5 @@
 title: Tegernheim
 url: /tegernheim/
 latitude: 49.024
-longitude: 12.164
+longitude: 12.163
 ---
