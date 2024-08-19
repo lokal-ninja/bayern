@@ -1,11 +1,11 @@
-id: 1213602182
+id: 1209870665
 type: node
-latitude: 49.59822
-longitude: 11.00375
-postcode: "91054"
+latitude: 49.5929
+longitude: 11.00534
+postcode: "91052"
 city: Erlangen
-street: "Schloßplatz"
-housenumber: 7
-phone: "+49 9131 974427"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00"
-website: "https://www.eilles.de/"
+street: "Nürnberger Straße"
+housenumber: 21
+phone: "+49 9131 23270"
+opening_hours: "Mo-Sa 09:30-18:00; PH,Su off"
+website: ""

@@ -1,6 +1,6 @@
 ---
 title: Bischofswiesen
 url: /bischofswiesen/
-latitude: 47.669
-longitude: 12.945
+latitude: 47.649
+longitude: 12.966
 ---

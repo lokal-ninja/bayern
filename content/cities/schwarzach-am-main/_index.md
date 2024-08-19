@@ -1,6 +1,6 @@
 ---
 title: Schwarzach am Main
 url: /schwarzach-am-main/
-latitude: 49.801
-longitude: 10.24
+latitude: 49.802
+longitude: 10.23
 ---
