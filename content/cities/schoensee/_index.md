@@ -1,6 +1,6 @@
 ---
 title: Schönsee
 url: /schoensee/
-latitude: 49.511
-longitude: 12.548
+latitude: 49.51
+longitude: 12.546
 ---

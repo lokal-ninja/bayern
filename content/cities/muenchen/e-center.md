@@ -1,5 +1,5 @@
 ---
-title: "E-Center"
+title: "E center"
 url: /muenchen/e-center/
 shop: Supermarkt
 ---

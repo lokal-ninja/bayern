@@ -1,6 +1,6 @@
 ---
 title: Neumarkt in der Oberpfalz
 url: /neumarkt-in-der-oberpfalz/
-latitude: 49.278
-longitude: 11.459
+latitude: 49.274
+longitude: 11.449
 ---

@@ -1,11 +1,11 @@
-id: 126043104
-type: way
-latitude: 48.38579
-longitude: 11.76624
+id: 2356341383
+type: node
+latitude: 48.41077
+longitude: 11.74852
 postcode: "85356"
 city: Freising
-street: "Erdinger Straße"
-housenumber: 100
+street: "Weinmiller-Straße"
+housenumber: 5
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
-website: "https://filialen.aldi-sued.de/bayern/muenchen-flughafen/erdinger-strasse-100"
+opening_hours: "Mo-Sa 08:00-20:00"
+website: "https://filialen.aldi-sued.de/bayern/freising/weinmiller-strasse-5"
