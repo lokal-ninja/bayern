@@ -1,5 +1,5 @@
 ---
 title: "Herrmannsdorfer"
 url: /muenchen/herrmannsdorfer-elisabethplatz/
-shop: Lebensmittel
+shop: Metzgerei
 ---

@@ -1,6 +1,6 @@
 ---
 title: Ellgau
 url: /ellgau/
-latitude: 48.594
+latitude: 48.596
 longitude: 10.861
 ---

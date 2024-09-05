@@ -1,6 +1,6 @@
 ---
 title: Eggstätt
 url: /eggstaett/
-latitude: 47.92
-longitude: 12.386
+latitude: 47.925
+longitude: 12.381
 ---
