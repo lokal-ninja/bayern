@@ -1,6 +1,6 @@
 ---
-title: Neuburg a.d. Donau
+title: Neuburg a. d. Donau
 url: /neuburg-a-d-donau/
-latitude: 48.732
-longitude: 11.176
+latitude: 48.737
+longitude: 11.194
 ---

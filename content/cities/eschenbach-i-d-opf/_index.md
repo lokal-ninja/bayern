@@ -1,6 +1,6 @@
 ---
 title: Eschenbach i.d.OPf.
 url: /eschenbach-i-d-opf/
-latitude: 49.759
-longitude: 11.842
+latitude: 49.753
+longitude: 11.829
 ---

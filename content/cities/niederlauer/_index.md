@@ -1,6 +1,6 @@
 ---
 title: Niederlauer
 url: /niederlauer/
-latitude: 50.295
-longitude: 10.188
+latitude: 50.294
+longitude: 10.187
 ---

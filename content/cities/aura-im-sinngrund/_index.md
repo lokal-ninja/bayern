@@ -2,5 +2,5 @@
 title: Aura im Sinngrund
 url: /aura-im-sinngrund/
 latitude: 50.179
-longitude: 9.573
+longitude: 9.575
 ---
