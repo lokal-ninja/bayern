@@ -4,8 +4,8 @@ latitude: 49.40064
 longitude: 10.689
 postcode: "90599"
 city: Dietenhofen
-street: "Herrenstraße"
-housenumber: 17
+street: Herrenstraße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Th 7:30-12:30,13:30-18:00, Fr 7:30-18:00, Sa 7:30-12:30"
-website: "https://www.buero-simon.de"
+opening_hours: Mo-Th 7:30-12:30,13:30-18:00, Fr 7:30-18:00, Sa 7:30-12:30
+website: https://www.buero-simon.de

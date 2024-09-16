@@ -4,8 +4,8 @@ latitude: 48.17169
 longitude: 12.83442
 postcode: "84489"
 city: Burghausen
-street: "Max-Eyth-Straße"
-housenumber: 4
-phone: "08677 2145"
-opening_hours: "Mo,Tu 09:00-12:15; Th 09:00-12:15,13:00-17:00"
-website: "https://www.tp-elektro-kufner.de/"
+street: Max-Eyth-Straße
+housenumber: "4"
+phone: 08677 2145
+opening_hours: Mo,Tu 09:00-12:15; Th 09:00-12:15,13:00-17:00
+website: https://www.tp-elektro-kufner.de/

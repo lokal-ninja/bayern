@@ -4,8 +4,8 @@ latitude: 48.43651
 longitude: 11.88331
 postcode: "85416"
 city: Langenbach
-street: "Ortsstraße"
-housenumber: 2
+street: Ortsstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Tu-Fr 08:00-18:00; Sa 07:00-13:00"
-website: "https://www.tagwerkbiometzgerei.de/"
+opening_hours: Tu-Fr 08:00-18:00; Sa 07:00-13:00
+website: https://www.tagwerkbiometzgerei.de/

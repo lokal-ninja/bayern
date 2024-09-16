@@ -4,8 +4,8 @@ latitude: 48.09069
 longitude: 11.82933
 postcode: "85604"
 city: Zorneding
-street: "Anzinger Straße"
-housenumber: 3
-phone: "+49 8106 8925255"
-opening_hours: "Sa 09:00-16:00; Tu,Th,Fr 09:00-19:00; We 09:00-16:00"
-website: "https://www.deine-alternative.com"
+street: Anzinger Straße
+housenumber: "3"
+phone: +49 8106 8925255
+opening_hours: Sa 09:00-16:00; Tu,Th,Fr 09:00-19:00; We 09:00-16:00
+website: https://www.deine-alternative.com

@@ -4,8 +4,8 @@ latitude: 48.19314
 longitude: 11.61657
 postcode: "80939"
 city: München
-street: "Sankt-Nikolaus-Platz"
-housenumber: 5
-phone: "+49 89 307 68 229"
-opening_hours: "Mo-Fr 10:00-18:00"
-website: "https://www.juwelier-rieger.de/beta/"
+street: Sankt-Nikolaus-Platz
+housenumber: "5"
+phone: +49 89 307 68 229
+opening_hours: Mo-Fr 10:00-18:00
+website: https://www.juwelier-rieger.de/beta/

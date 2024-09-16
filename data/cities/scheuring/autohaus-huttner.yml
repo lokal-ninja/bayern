@@ -1,11 +1,11 @@
 id: 250733305
-type: way
+type: node
 latitude: 48.16454
 longitude: 10.89803
 postcode: "86937"
 city: Scheuring
-street: "Hauptstraße"
-housenumber: 2
-phone: "+49 8195 9320-0"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 09:00-13:00"
-website: "https://www.autohaus-huttner.de"
+street: Hauptstraße
+housenumber: "2"
+phone: +49 8195 9320-0
+opening_hours: Mo-Fr 07:00-18:00; Sa 09:00-13:00
+website: https://www.autohaus-huttner.de

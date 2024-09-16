@@ -1,11 +1,11 @@
 id: 145348876
-type: way
+type: node
 latitude: 49.99962
 longitude: 12.07723
 postcode: "95615"
 city: Marktredwitz
-street: "Waldershofer Straße"
-housenumber: 10
+street: Waldershofer Straße
+housenumber: "10"
 phone: ""
 opening_hours: ""
-website: "https://www.mediamarkt.de/de/store/marktredwitz-587"
+website: https://www.mediamarkt.de/de/store/marktredwitz-587

@@ -1,11 +1,11 @@
 id: 45122491
-type: way
+type: node
 latitude: 49.96593
 longitude: 9.13106
 postcode: "63741"
 city: Aschaffenburg
-street: "Ahornweg"
-housenumber: 102
+street: Ahornweg
+housenumber: "102"
 phone: ""
 opening_hours: ""
-website: "https://www.knopf-schaefer.de/"
+website: https://www.knopf-schaefer.de/

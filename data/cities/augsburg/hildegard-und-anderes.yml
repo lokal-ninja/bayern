@@ -4,8 +4,8 @@ latitude: 48.35533
 longitude: 10.92813
 postcode: "86161"
 city: Augsburg
-street: "Friedberger Straße"
-housenumber: 73
-phone: "+49 821 6505150"
-opening_hours: "Mo-Fr 09:00-14:00"
-website: "https://hildegard-anderes.de/"
+street: Friedberger Straße
+housenumber: "73"
+phone: +49 821 6505150
+opening_hours: Mo-Fr 09:00-14:00
+website: https://hildegard-anderes.de/

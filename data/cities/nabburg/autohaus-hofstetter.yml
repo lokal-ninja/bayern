@@ -1,11 +1,11 @@
 id: 338434220
-type: way
+type: node
 latitude: 49.45792
 longitude: 12.20073
 postcode: "92507"
 city: Nabburg
-street: "Sauerzapfstraße"
-housenumber: 8
-phone: "+49 9433 8473"
+street: Sauerzapfstraße
+housenumber: "8"
+phone: +49 9433 8473
 opening_hours: ""
-website: "https://www.autohaus-hofstetter.de/"
+website: https://www.autohaus-hofstetter.de/

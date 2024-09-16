@@ -4,8 +4,8 @@ latitude: 48.07235
 longitude: 11.66661
 postcode: "85579"
 city: Neubiberg
-street: "Arastraße"
-housenumber: 2
+street: Arastraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
 website: ""

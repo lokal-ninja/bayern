@@ -1,11 +1,11 @@
 id: 668270251
-type: way
+type: node
 latitude: 49.95011
 longitude: 12.24083
 postcode: "95666"
 city: Mitterteich
-street: "Vorstadt"
-housenumber: 12
+street: Vorstadt
+housenumber: "12"
 phone: ""
 opening_hours: ""
-website: "https://www.backhaus-kutzer.de/"
+website: https://www.backhaus-kutzer.de/

@@ -1,11 +1,11 @@
 id: 70125268
-type: way
+type: node
 latitude: 50.32566
 longitude: 11.70825
 postcode: "95119"
 city: Naila
-street: "Sägleithe"
-housenumber: 22
+street: Sägleithe
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 237812580
-type: way
+type: node
 latitude: 49.12542
 longitude: 10.759
 postcode: "91710"
 city: Gunzenhausen
-street: "In der Stritt"
-housenumber: 18
-phone: "+49 9831 2280"
-opening_hours: "Mo-Fr 08:30-12:30, 13:30-18:00; Sa 08:30-12:30"
-website: "http://www.binninger-noerdlingen.de/html/gunzenhausen.html"
+street: In der Stritt
+housenumber: "18"
+phone: +49 9831 2280
+opening_hours: Mo-Fr 08:30-12:30, 13:30-18:00; Sa 08:30-12:30
+website: http://www.binninger-noerdlingen.de/html/gunzenhausen.html

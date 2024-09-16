@@ -1,11 +1,11 @@
 id: 52396388
-type: way
+type: node
 latitude: 50.39461
 longitude: 11.74863
 postcode: "95180"
 city: Berg
-street: "Wiesla Ruh"
-housenumber: 2
+street: Wiesla Ruh
+housenumber: "2"
 phone: "+4992937130"
 opening_hours: ""
 website: ""

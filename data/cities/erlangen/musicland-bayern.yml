@@ -4,8 +4,8 @@ latitude: 49.59717
 longitude: 11.00255
 postcode: "91054"
 city: Erlangen
-street: "Helmstraße"
-housenumber: 9
-phone: "+49 9131 209 392"
-opening_hours: "Mo-Fr 11:30-19:00; Sa 11:00-17:00"
-website: "https://www.musicland-bayern.de/schallplatten-ankauf/ankauf-verkauf-erlangen"
+street: Helmstraße
+housenumber: "9"
+phone: +49 9131 209 392
+opening_hours: Mo-Fr 11:30-19:00; Sa 11:00-17:00
+website: https://www.musicland-bayern.de/schallplatten-ankauf/ankauf-verkauf-erlangen

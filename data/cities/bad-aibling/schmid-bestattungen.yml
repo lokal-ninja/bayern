@@ -4,8 +4,8 @@ latitude: 47.86897
 longitude: 12.01353
 postcode: "83043"
 city: Bad Aibling
-street: "Ellmosener Straße"
+street: Ellmosener Straße
 housenumber: 19a
-phone: "+49 8061 370 390"
-opening_hours: "telefonische Vereinbarung"
-website: "https://www.bestattung-schmid.de/"
+phone: +49 8061 370 390
+opening_hours: '"telefonische Vereinbarung"'
+website: https://www.bestattung-schmid.de/

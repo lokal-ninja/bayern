@@ -4,8 +4,8 @@ latitude: 49.47462
 longitude: 10.98854
 postcode: "90762"
 city: Fürth
-street: "Schwabacher Straße"
-housenumber: 26
+street: Schwabacher Straße
+housenumber: "26"
 phone: ""
-opening_hours: "Tu-Fr 10:00-18:00; Sa 10:00-14:00"
-website: "https://www.goldschmiedemueller.de/"
+opening_hours: Tu-Fr 10:00-18:00; Sa 10:00-14:00
+website: https://www.goldschmiedemueller.de/

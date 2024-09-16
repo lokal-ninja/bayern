@@ -1,11 +1,11 @@
 id: 1174494775
-type: way
+type: node
 latitude: 48.03442
 longitude: 11.59925
 postcode: "82041"
 city: Oberhaching
-street: "Kreuzenstraße"
-housenumber: 
+street: Kreuzenstraße
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

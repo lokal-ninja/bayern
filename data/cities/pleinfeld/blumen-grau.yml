@@ -1,11 +1,11 @@
 id: 444433140
-type: way
+type: node
 latitude: 49.10367
 longitude: 10.98709
 postcode: "91785"
 city: Pleinfeld
-street: "Ellinger Straße"
-housenumber: 6
-phone: "+499144 353"
+street: Ellinger Straße
+housenumber: "6"
+phone: +499144 353
 opening_hours: ""
-website: "http://www.blumen-grau.de/"
+website: http://www.blumen-grau.de/

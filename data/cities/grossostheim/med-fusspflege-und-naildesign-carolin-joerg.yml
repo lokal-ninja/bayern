@@ -4,8 +4,8 @@ latitude: 49.89368
 longitude: 9.04337
 postcode: "63762"
 city: Großostheim
-street: "Hauptstraße"
+street: Hauptstraße
 housenumber: 44a
-phone: "+49 6026 2028962"
-opening_hours: "nach Vereinbarung"
+phone: +49 6026 2028962
+opening_hours: '"nach Vereinbarung"'
 website: ""

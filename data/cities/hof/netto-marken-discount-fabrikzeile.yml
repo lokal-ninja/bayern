@@ -1,11 +1,11 @@
 id: 646024910
-type: way
+type: node
 latitude: 50.31576
 longitude: 11.92134
 postcode: "95028"
 city: Hof
-street: "Fabrikzeile"
-housenumber: 42
+street: Fabrikzeile
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
+opening_hours: Mo-Sa 07:00-20:00; PH off
 website: ""

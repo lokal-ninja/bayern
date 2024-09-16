@@ -1,11 +1,11 @@
 id: 998401293
-type: way
+type: node
 latitude: 49.97628
 longitude: 12.27004
 postcode: "95666"
 city: Mitterteich
-street: "Steinmühle"
-housenumber: 30
+street: Steinmühle
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

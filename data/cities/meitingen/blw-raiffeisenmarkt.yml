@@ -1,11 +1,12 @@
 id: 579952725
-type: way
+type: node
 latitude: 48.54845
 longitude: 10.84646
 postcode: "86405"
 city: Meitingen
-street: "Raiffeisenstraße"
-housenumber: 29
+street: Raiffeisenstraße
+housenumber: "29"
 phone: ""
-opening_hours: "Mar-Sep Mo-Fr 08:00-18:00; Mar-Sep Sa 08:00-13:00; Oct-Feb Mo-Fr 08:00-17:00; Oct-Feb Sa 08:00-12:00; PH off"
+opening_hours: Mar-Sep Mo-Fr 08:00-18:00; Mar-Sep Sa 08:00-13:00; Oct-Feb Mo-Fr 08:00-17:00;
+    Oct-Feb Sa 08:00-12:00; PH off
 website: ""

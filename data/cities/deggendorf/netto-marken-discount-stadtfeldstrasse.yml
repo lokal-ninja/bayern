@@ -4,8 +4,8 @@ latitude: 48.84055
 longitude: 12.95259
 postcode: "94469"
 city: Deggendorf
-street: "Stadtfeldstraße"
-housenumber: 16
+street: Stadtfeldstraße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de

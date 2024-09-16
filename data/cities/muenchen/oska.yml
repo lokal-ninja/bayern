@@ -4,8 +4,8 @@ latitude: 48.15985
 longitude: 11.58292
 postcode: "80801"
 city: München
-street: "Hohenzollernstraße"
-housenumber: 15
+street: Hohenzollernstraße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Sa 11:00-18:00"
+opening_hours: Mo-Sa 11:00-18:00
 website: ""

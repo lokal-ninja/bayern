@@ -4,8 +4,8 @@ latitude: 48.36613
 longitude: 10.88224
 postcode: "86150"
 city: Augsburg
-street: "Pferseer Straße"
-housenumber: 10
-phone: "+49821 44981786"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-17:00"
+street: Pferseer Straße
+housenumber: "10"
+phone: +49821 44981786
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-17:00
 website: ""

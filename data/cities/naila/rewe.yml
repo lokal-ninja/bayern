@@ -1,11 +1,11 @@
 id: 1117563002
-type: way
+type: node
 latitude: 50.33304
 longitude: 11.70835
 postcode: "95119"
 city: Naila
-street: "Selbitztalstraße"
-housenumber: 1
+street: Selbitztalstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

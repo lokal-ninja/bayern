@@ -1,11 +1,11 @@
 id: 282050416
-type: way
+type: node
 latitude: 49.89517
 longitude: 10.06794
 postcode: "97241"
 city: Bergtheim
-street: "Oberpleichfelder Straße"
-housenumber: 4
+street: Oberpleichfelder Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

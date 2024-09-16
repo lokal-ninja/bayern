@@ -4,8 +4,8 @@ latitude: 48.18943
 longitude: 11.86631
 postcode: "85570"
 city: Markt Schwaben
-street: "Habererweg"
-housenumber: 7
-phone: "+49 8121 258555"
-opening_hours: "Tu-Fr 07:30-18:00; Sa 07:00-13:00"
-website: "https://www.friseur-adrianwalther.de/"
+street: Habererweg
+housenumber: "7"
+phone: +49 8121 258555
+opening_hours: Tu-Fr 07:30-18:00; Sa 07:00-13:00
+website: https://www.friseur-adrianwalther.de/

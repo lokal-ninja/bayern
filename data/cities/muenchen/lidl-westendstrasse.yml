@@ -4,8 +4,8 @@ latitude: 48.13846
 longitude: 11.53627
 postcode: "80339"
 city: München
-street: "Westendstraße"
-housenumber: 100
+street: Westendstraße
+housenumber: "100"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

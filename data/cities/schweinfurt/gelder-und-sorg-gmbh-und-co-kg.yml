@@ -1,11 +1,11 @@
 id: 883404426
-type: way
+type: node
 latitude: 50.01075
 longitude: 10.21533
 postcode: "97424"
 city: Schweinfurt
-street: "Stockholmstraße"
-housenumber: 2
+street: Stockholmstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.gelderundsorg.de/"
+website: https://www.gelderundsorg.de/

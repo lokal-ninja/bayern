@@ -1,11 +1,11 @@
 id: 182429372
-type: way
+type: node
 latitude: 48.45546
 longitude: 10.10686
 postcode: "89275"
 city: Elchingen
-street: "Weißinger Straße"
-housenumber: 2
+street: Weißinger Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

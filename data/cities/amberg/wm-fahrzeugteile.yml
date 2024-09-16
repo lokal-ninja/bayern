@@ -1,11 +1,11 @@
 id: 95848337
-type: way
+type: node
 latitude: 49.43591
 longitude: 11.88427
 postcode: "92224"
 city: Amberg
-street: "Dieselstraße"
-housenumber: 3
-phone: "+49 9621 767526901"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:30-12:00"
-website: "https://www.wm.de/de/"
+street: Dieselstraße
+housenumber: "3"
+phone: +49 9621 767526901
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:30-12:00
+website: https://www.wm.de/de/

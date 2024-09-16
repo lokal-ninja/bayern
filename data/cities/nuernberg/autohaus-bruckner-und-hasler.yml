@@ -1,11 +1,11 @@
 id: 1273452438
-type: way
+type: node
 latitude: 49.47195
 longitude: 11.08056
 postcode: "90408"
 city: Nürnberg
-street: "Rollnerstraße"
-housenumber: 137
+street: Rollnerstraße
+housenumber: "137"
 phone: ""
 opening_hours: ""
-website: "https://auto-hasler-nuernberg.de/"
+website: https://auto-hasler-nuernberg.de/

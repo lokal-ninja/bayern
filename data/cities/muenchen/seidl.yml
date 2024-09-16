@@ -4,8 +4,8 @@ latitude: 48.20424
 longitude: 11.55873
 postcode: "80935"
 city: München
-street: "Gundermannstraße"
-housenumber: 5
+street: Gundermannstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-12:00"
-website: "https://www.baeckerei-seidl.de/"
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-12:00
+website: https://www.baeckerei-seidl.de/

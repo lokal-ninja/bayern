@@ -1,11 +1,11 @@
 id: 32068495
-type: way
+type: node
 latitude: 49.91215
 longitude: 10.89894
 postcode: "96052"
 city: Bamberg
-street: "Josef-Kindshoven-Straße"
-housenumber: 2
+street: Josef-Kindshoven-Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

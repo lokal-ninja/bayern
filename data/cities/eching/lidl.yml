@@ -4,8 +4,8 @@ latitude: 48.31141
 longitude: 11.64562
 postcode: "85386"
 city: Eching
-street: "Dieselstraße"
-housenumber: 35
+street: Dieselstraße
+housenumber: "35"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.lidl.de/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.lidl.de/

@@ -4,8 +4,8 @@ latitude: 48.04303
 longitude: 11.6263
 postcode: "82024"
 city: Taufkirchen
-street: "Rosenstraße"
-housenumber: 100
+street: Rosenstraße
+housenumber: "100"
 phone: ""
-opening_hours: "nach Vereinbarung"
+opening_hours: '"nach Vereinbarung"'
 website: ""

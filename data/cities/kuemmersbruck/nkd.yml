@@ -4,8 +4,8 @@ latitude: 49.42375
 longitude: 11.87512
 postcode: "92245"
 city: Kümmersbruck
-street: "Vilstalstraße"
-housenumber: 49
+street: Vilstalstraße
+housenumber: "49"
 phone: "+4996217056831"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.nkd.com/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.nkd.com/

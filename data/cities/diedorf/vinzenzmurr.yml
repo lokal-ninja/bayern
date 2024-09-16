@@ -4,8 +4,8 @@ latitude: 48.35907
 longitude: 10.7842
 postcode: "86420"
 city: Diedorf
-street: "Gewerbestraße"
-housenumber: 5
-phone: "+49 8238 902119"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://vinzenzmurr.de/metzgerei/diedorf/"
+street: Gewerbestraße
+housenumber: "5"
+phone: +49 8238 902119
+opening_hours: Mo-Sa 07:00-20:00
+website: https://vinzenzmurr.de/metzgerei/diedorf/

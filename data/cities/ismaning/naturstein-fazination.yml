@@ -1,11 +1,11 @@
 id: 39225418
-type: way
+type: node
 latitude: 48.23732
 longitude: 11.6811
 postcode: "85737"
 city: Ismaning
-street: "Rote-Kreuz-Straße"
-housenumber: 2
+street: Rote-Kreuz-Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 305908401
-type: way
+type: node
 latitude: 48.98906
 longitude: 12.19019
 postcode: "93073"
 city: Neutraubling
-street: "Gleiwitzer Straße"
-housenumber: 6
-phone: "+49 9401 5276854"
-opening_hours: "Fr 07:00-18:00; Sa 07:00-13:00"
-website: "http://www.fleiwa-fleischwaren.de/cms/index.php?id=159"
+street: Gleiwitzer Straße
+housenumber: "6"
+phone: +49 9401 5276854
+opening_hours: Fr 07:00-18:00; Sa 07:00-13:00
+website: http://www.fleiwa-fleischwaren.de/cms/index.php?id=159

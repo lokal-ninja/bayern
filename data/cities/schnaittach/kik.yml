@@ -1,11 +1,11 @@
 id: 27949930
-type: way
+type: node
 latitude: 49.55641
 longitude: 11.34178
 postcode: "91220"
 city: Schnaittach
-street: "Bahnhofstraße"
-housenumber: 20
+street: Bahnhofstraße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

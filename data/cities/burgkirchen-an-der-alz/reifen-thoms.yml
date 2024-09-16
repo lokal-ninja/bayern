@@ -1,11 +1,11 @@
 id: 185742742
-type: way
+type: node
 latitude: 48.16432
 longitude: 12.73592
 postcode: ""
 city: Burgkirchen an der Alz
-street: "Kasten"
-housenumber: 6
-phone: "+49 8679 5556"
+street: Kasten
+housenumber: "6"
+phone: +49 8679 5556
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.40778
 longitude: 11.73775
 postcode: "85354"
 city: Freising
-street: "Prinz-Ludwig-Straße"
-housenumber: 48
-phone: "+49 8161 7878428"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.wiesender.de/"
+street: Prinz-Ludwig-Straße
+housenumber: "48"
+phone: +49 8161 7878428
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.wiesender.de/

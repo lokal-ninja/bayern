@@ -4,8 +4,8 @@ latitude: 49.78105
 longitude: 9.17708
 postcode: "63911"
 city: Klingenberg a.Main
-street: "Bahnhofstraße"
-housenumber: 3
-phone: "+49 9372 9487134"
-opening_hours: "Mo-Fr 05:30-18:00; Sa 05:30-17:00; Su 07:30-14:00"
-website: "https://der-brotmacher.de/filiale/baeckerei-der-brotmacher-in-klingenberg-bahnhofstrasse/"
+street: Bahnhofstraße
+housenumber: "3"
+phone: +49 9372 9487134
+opening_hours: Mo-Fr 05:30-18:00; Sa 05:30-17:00; Su 07:30-14:00
+website: https://der-brotmacher.de/filiale/baeckerei-der-brotmacher-in-klingenberg-bahnhofstrasse/

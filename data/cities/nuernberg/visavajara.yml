@@ -4,8 +4,8 @@ latitude: 49.44989
 longitude: 11.08068
 postcode: "90402"
 city: Nürnberg
-street: "Johannesgasse"
-housenumber: 6
+street: Johannesgasse
+housenumber: "6"
 phone: ""
-opening_hours: "Tu-Fr 12:00-19:30; Sa 11:00-16:00; Mo off"
+opening_hours: Tu-Fr 12:00-19:30; Sa 11:00-16:00; Mo off
 website: ""

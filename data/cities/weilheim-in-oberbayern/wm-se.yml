@@ -1,11 +1,11 @@
 id: 1112584234
-type: way
+type: node
 latitude: 47.82222
 longitude: 11.13322
 postcode: "82362"
 city: Weilheim in Oberbayern
-street: "Am Achalaich"
-housenumber: 9
+street: Am Achalaich
+housenumber: "9"
 phone: ""
 opening_hours: ""
-website: "https://www.wm.de/"
+website: https://www.wm.de/

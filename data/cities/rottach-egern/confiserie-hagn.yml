@@ -4,8 +4,8 @@ latitude: 47.69545
 longitude: 11.75956
 postcode: "83700"
 city: Rottach-Egern
-street: "Seestraße"
-housenumber: 80
-phone: "+49 8022 673137"
-opening_hours: "11:00-18:00"
-website: "http://www.confiserie-hagn.de/"
+street: Seestraße
+housenumber: "80"
+phone: +49 8022 673137
+opening_hours: 11:00-18:00
+website: http://www.confiserie-hagn.de/

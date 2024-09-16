@@ -4,8 +4,8 @@ latitude: 49.79483
 longitude: 9.90637
 postcode: "97082"
 city: Würzburg
-street: "Frankfurter Straße"
-housenumber: 56
-phone: "+49 931 3042305"
-opening_hours: "Mo-Sa 07:00-20:00; Su off"
-website: "https://www.dm.de/store/de-1103/wuerzburg/frankfurter-strasse-56"
+street: Frankfurter Straße
+housenumber: "56"
+phone: +49 931 3042305
+opening_hours: Mo-Sa 07:00-20:00; Su off
+website: https://www.dm.de/store/de-1103/wuerzburg/frankfurter-strasse-56

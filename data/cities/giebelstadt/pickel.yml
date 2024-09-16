@@ -1,11 +1,11 @@
 id: 88266231
-type: way
+type: node
 latitude: 49.65321
 longitude: 9.94456
 postcode: "97232"
 city: Giebelstadt
-street: "Allersheimer Straße"
-housenumber: 5
+street: Allersheimer Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

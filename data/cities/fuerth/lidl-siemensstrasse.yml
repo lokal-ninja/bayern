@@ -1,11 +1,11 @@
 id: 30771830
-type: way
+type: node
 latitude: 49.47923
 longitude: 10.96256
 postcode: "90766"
 city: Fürth
-street: "Siemensstraße"
-housenumber: 41
+street: Siemensstraße
+housenumber: "41"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

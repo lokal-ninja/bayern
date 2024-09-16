@@ -1,11 +1,11 @@
 id: 118247013
-type: way
+type: node
 latitude: 48.97001
 longitude: 12.17217
 postcode: "93083"
 city: Obertraubling
-street: "Am Langwiesfeld"
-housenumber: 6
-phone: "+49 9401 52839 0"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-12:00"
-website: "https://www.auto-neumeier-seidl.de/"
+street: Am Langwiesfeld
+housenumber: "6"
+phone: +49 9401 52839 0
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-12:00
+website: https://www.auto-neumeier-seidl.de/

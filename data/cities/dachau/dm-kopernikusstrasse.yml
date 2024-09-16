@@ -1,11 +1,11 @@
 id: 732886108
-type: way
+type: node
 latitude: 48.26102
 longitude: 11.47461
 postcode: "85221"
 city: Dachau
-street: "Kopernikusstraße"
-housenumber: 2
+street: Kopernikusstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.08846
 longitude: 11.64039
 postcode: "81739"
 city: München
-street: "Therese-Giehse-Allee"
-housenumber: 70
+street: Therese-Giehse-Allee
+housenumber: "70"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.edeka.de/eh/s%C3%BCdbayern/edeka-t%C3%BCfekci-therese-giehse-allee-70/index.jsp"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.edeka.de/eh/s%C3%BCdbayern/edeka-t%C3%BCfekci-therese-giehse-allee-70/index.jsp

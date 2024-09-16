@@ -1,11 +1,11 @@
 id: 1176941714
-type: way
+type: node
 latitude: 47.70651
 longitude: 10.32538
 postcode: "87437"
 city: Kempten (Allgäu)
-street: "Friedrich-Ebert-Straße"
+street: Friedrich-Ebert-Straße
 housenumber: 1a
 phone: ""
 opening_hours: ""
-website: "https://autocenterkempten.de/"
+website: https://autocenterkempten.de/

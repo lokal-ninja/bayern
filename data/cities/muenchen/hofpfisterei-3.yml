@@ -1,11 +1,11 @@
 id: 346567417
-type: way
+type: node
 latitude: 48.13973
 longitude: 11.56081
 postcode: "80335"
 city: München
 street: ""
-housenumber: 
-phone: "+49 89 51657855"
-opening_hours: "Mo-Fr 06:30-20:00; Sa 07:30-20:00"
-website: "https://www.hofpfisterei.de"
+housenumber: ""
+phone: +49 89 51657855
+opening_hours: Mo-Fr 06:30-20:00; Sa 07:30-20:00
+website: https://www.hofpfisterei.de

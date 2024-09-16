@@ -4,8 +4,8 @@ latitude: 49.41368
 longitude: 11.01426
 postcode: "90547"
 city: Stein
-street: "Hauptstraße"
-housenumber: 36
+street: Hauptstraße
+housenumber: "36"
 phone: ""
-opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-12:00"
-website: "https://www.optik-schuhmann.de/"
+opening_hours: Tu-Fr 09:00-18:00; Sa 09:00-12:00
+website: https://www.optik-schuhmann.de/

@@ -4,8 +4,9 @@ latitude: 48.2912
 longitude: 10.6577
 postcode: "86850"
 city: Fischach
-street: "Augsburger Straße"
-housenumber: 10
-phone: "+49 8236 2915"
-opening_hours: "Mo 09:00-12:30,14:00-18:00; Tu 09:00-12:00; We-Fr 09:00-12:30,14:00-18:00; Sa 09:00-13:00"
-website: "https://www.optik-gruenwald.de/"
+street: Augsburger Straße
+housenumber: "10"
+phone: +49 8236 2915
+opening_hours: Mo 09:00-12:30,14:00-18:00; Tu 09:00-12:00; We-Fr 09:00-12:30,14:00-18:00;
+    Sa 09:00-13:00
+website: https://www.optik-gruenwald.de/

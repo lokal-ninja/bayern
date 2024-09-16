@@ -1,11 +1,11 @@
 id: 43798213
-type: way
+type: node
 latitude: 50.24818
 longitude: 12.03023
 postcode: "95111"
 city: Rehau
-street: "Gerberstraße"
-housenumber: 8
+street: Gerberstraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

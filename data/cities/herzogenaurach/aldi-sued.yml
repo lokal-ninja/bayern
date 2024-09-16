@@ -1,11 +1,11 @@
 id: 980137323
-type: way
+type: node
 latitude: 49.57815
 longitude: 10.8839
 postcode: "91074"
 city: Herzogenaurach
-street: "Ohmstraße"
-housenumber: 5
+street: Ohmstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://filialen.aldi-sued.de/bayern/herzogenaurach/ohmstrasse-5"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://filialen.aldi-sued.de/bayern/herzogenaurach/ohmstrasse-5

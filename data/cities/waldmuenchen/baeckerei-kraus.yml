@@ -1,11 +1,11 @@
 id: 261621454
-type: way
+type: node
 latitude: 49.37796
 longitude: 12.70507
 postcode: "93449"
 city: Waldmünchen
-street: "Bahnhofstraße"
-housenumber: 2
+street: Bahnhofstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

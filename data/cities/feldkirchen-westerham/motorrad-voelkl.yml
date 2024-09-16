@@ -1,11 +1,11 @@
 id: 378633205
-type: way
+type: node
 latitude: 47.90977
 longitude: 11.84292
 postcode: "83620"
 city: Feldkirchen-Westerham
-street: "Münchener Straße"
-housenumber: 12
-phone: "+49 8063 72 72"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-16:00, Sa 09:00-12:00; Su,PH off"
-website: "https://moto-voelkl.de/"
+street: Münchener Straße
+housenumber: "12"
+phone: +49 8063 72 72
+opening_hours: Mo-Fr 09:00-13:00,14:00-16:00, Sa 09:00-12:00; Su,PH off
+website: https://moto-voelkl.de/

@@ -1,11 +1,11 @@
 id: 199591081
-type: way
+type: node
 latitude: 48.49372
 longitude: 10.85473
 postcode: "86462"
 city: Langweid am Lech
-street: "Dillinger Straße"
-housenumber: 10
+street: Dillinger Straße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 07:45-12:00, 13:00-18:00; Sa 09:00-12:30"
-website: "http://www.auto-gulden.de/"
+opening_hours: Mo-Fr 07:45-12:00, 13:00-18:00; Sa 09:00-12:30
+website: http://www.auto-gulden.de/

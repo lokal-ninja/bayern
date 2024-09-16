@@ -1,11 +1,11 @@
 id: 35467697
-type: way
+type: node
 latitude: 47.81407
 longitude: 10.89941
 postcode: "86956"
 city: Schongau
-street: "Bahnhofstraße"
-housenumber: 6
+street: Bahnhofstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.lidl.de/filialen/schongau/bahnhofstr-6.html"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.lidl.de/filialen/schongau/bahnhofstr-6.html

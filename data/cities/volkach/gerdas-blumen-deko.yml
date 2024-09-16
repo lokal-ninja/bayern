@@ -4,8 +4,8 @@ latitude: 49.86461
 longitude: 10.22879
 postcode: "97332"
 city: Volkach
-street: "Dr.-Eugen-Schön-Straße"
-housenumber: 5
-phone: "+49 9381 8475950"
-opening_hours: "Mo-Fr 09:00-12:00, 14:00-18:00; Sa 08:00-13:00"
-website: "http://www.gerdasblumendeko.de"
+street: Dr.-Eugen-Schön-Straße
+housenumber: "5"
+phone: +49 9381 8475950
+opening_hours: Mo-Fr 09:00-12:00, 14:00-18:00; Sa 08:00-13:00
+website: http://www.gerdasblumendeko.de

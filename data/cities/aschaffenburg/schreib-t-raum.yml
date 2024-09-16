@@ -4,8 +4,8 @@ latitude: 49.97511
 longitude: 9.1468
 postcode: "63739"
 city: Aschaffenburg
-street: "Herstallstraße"
-housenumber: 9
-phone: "+49 6021 5845272"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-16:00"
-website: "https://www.schreibtraum.net"
+street: Herstallstraße
+housenumber: "9"
+phone: +49 6021 5845272
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-16:00
+website: https://www.schreibtraum.net

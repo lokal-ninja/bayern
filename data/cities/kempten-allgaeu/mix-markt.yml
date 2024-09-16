@@ -4,8 +4,8 @@ latitude: 47.73784
 longitude: 10.29005
 postcode: "87439"
 city: Kempten (Allgäu)
-street: "Schwalbenweg"
-housenumber: 71
-phone: "+49 831 5127805"
-opening_hours: "Mo-Sa 08:00-19:00"
-website: "https://www.mixmarkt.eu/de/germany/maerkte/7/"
+street: Schwalbenweg
+housenumber: "71"
+phone: +49 831 5127805
+opening_hours: Mo-Sa 08:00-19:00
+website: https://www.mixmarkt.eu/de/germany/maerkte/7/

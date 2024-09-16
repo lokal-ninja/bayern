@@ -1,11 +1,11 @@
 id: 488521661
-type: way
+type: node
 latitude: 50.03412
 longitude: 10.21491
 postcode: "97424"
 city: Schweinfurt
-street: "Ernst-Sachs-Straße"
-housenumber: 42
+street: Ernst-Sachs-Straße
+housenumber: "42"
 phone: "+49972178440"
 opening_hours: ""
 website: ""

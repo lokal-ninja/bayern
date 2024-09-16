@@ -1,11 +1,11 @@
 id: 159251203
-type: way
+type: node
 latitude: 48.0252
 longitude: 10.92048
 postcode: "86932"
 city: Pürgen
-street: "Pitzlinger Straße"
-housenumber: 1
+street: Pitzlinger Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

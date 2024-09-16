@@ -4,8 +4,8 @@ latitude: 48.81582
 longitude: 12.97645
 postcode: "94469"
 city: Deggendorf
-street: "Hengersberger Straße"
-housenumber: 151
+street: Hengersberger Straße
+housenumber: "151"
 phone: ""
-opening_hours: "Mo-Sa 06:00-18:00"
-website: "https://www.gaeubodenbaecker.de/hahn/"
+opening_hours: Mo-Sa 06:00-18:00
+website: https://www.gaeubodenbaecker.de/hahn/

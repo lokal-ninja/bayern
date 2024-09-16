@@ -1,11 +1,11 @@
 id: 610838731
-type: way
+type: node
 latitude: 49.58892
 longitude: 10.05435
 postcode: "97255"
 city: Gelchsheim
 street: ""
-housenumber: 19
-phone: "+49 9335 337"
-opening_hours: "Mo-Fr 07:30-16:45; Sa 09:00-12:00"
+housenumber: "19"
+phone: +49 9335 337
+opening_hours: Mo-Fr 07:30-16:45; Sa 09:00-12:00
 website: ""

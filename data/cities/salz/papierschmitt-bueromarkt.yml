@@ -4,8 +4,8 @@ latitude: 50.3051
 longitude: 10.20166
 postcode: "97616"
 city: Salz
-street: "Talstraße"
-housenumber: 5
-phone: "+49 9771 62550"
-opening_hours: "Mo-Fr 08:00-18:00"
+street: Talstraße
+housenumber: "5"
+phone: +49 9771 62550
+opening_hours: Mo-Fr 08:00-18:00
 website: ""

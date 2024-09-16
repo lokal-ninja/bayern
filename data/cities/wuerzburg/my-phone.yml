@@ -4,8 +4,8 @@ latitude: 49.79922
 longitude: 9.93417
 postcode: "97070"
 city: Würzburg
-street: "Kaiserstraße"
-housenumber: 19
-phone: "+49 931 68084912"
-opening_hours: "Mo-Sa 09:00-20:00"
+street: Kaiserstraße
+housenumber: "19"
+phone: +49 931 68084912
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

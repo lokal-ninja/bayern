@@ -4,8 +4,8 @@ latitude: 49.601
 longitude: 11.00382
 postcode: "91054"
 city: Erlangen
-street: "Kirchenstraße"
-housenumber: 12
+street: Kirchenstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 07:00-17:00; Sa 07:00-13:00"
+opening_hours: Mo-Fr 07:00-17:00; Sa 07:00-13:00
 website: ""

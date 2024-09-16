@@ -1,11 +1,11 @@
 id: 233661861
-type: way
+type: node
 latitude: 47.75878
 longitude: 12.90055
 postcode: "83451"
 city: Piding
-street: "Salzstraße"
-housenumber: 12
+street: Salzstraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

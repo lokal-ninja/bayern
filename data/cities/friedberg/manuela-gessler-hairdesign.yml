@@ -1,11 +1,11 @@
 id: 387158046
-type: way
+type: node
 latitude: 48.35284
 longitude: 10.95397
 postcode: "86316"
 city: Friedberg
-street: "Oskar-von-Miller-Straße"
-housenumber: 4
+street: Oskar-von-Miller-Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

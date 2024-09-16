@@ -1,11 +1,11 @@
 id: 440939637
-type: way
+type: node
 latitude: 49.03696
 longitude: 10.60009
 postcode: "91717"
 city: Wassertrüdingen
-street: "Oettinger Straße"
-housenumber: 46
+street: Oettinger Straße
+housenumber: "46"
 phone: ""
 opening_hours: ""
 website: ""

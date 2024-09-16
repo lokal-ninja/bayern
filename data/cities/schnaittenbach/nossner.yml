@@ -1,11 +1,11 @@
 id: 49207598
-type: way
+type: node
 latitude: 49.55395
 longitude: 12.00445
 postcode: "92253"
 city: Schnaittenbach
-street: "Kindlaser Weg"
-housenumber: 16
-phone: "+49 9622 2339"
-opening_hours: "Mo-Fr 08:00-12:00,13:00-17:00; Sa,Su,PH off"
-website: "www.kfz-nosser.de"
+street: Kindlaser Weg
+housenumber: "16"
+phone: +49 9622 2339
+opening_hours: Mo-Fr 08:00-12:00,13:00-17:00; Sa,Su,PH off
+website: www.kfz-nosser.de

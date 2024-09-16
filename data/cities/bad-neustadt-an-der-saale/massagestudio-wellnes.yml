@@ -1,11 +1,11 @@
 id: 241162006
-type: way
+type: node
 latitude: 50.32634
 longitude: 10.2425
 postcode: "97616"
 city: Bad Neustadt an der Saale
-street: "Finkenweg"
-housenumber: 2
-phone: "+49 9771 91 78 611"
+street: Finkenweg
+housenumber: "2"
+phone: +49 9771 91 78 611
 opening_hours: ""
-website: "http://www.wellnes-massagestudio.de"
+website: http://www.wellnes-massagestudio.de

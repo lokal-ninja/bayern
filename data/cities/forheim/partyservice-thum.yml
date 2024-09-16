@@ -1,11 +1,11 @@
 id: 222813156
-type: way
+type: node
 latitude: 48.75691
 longitude: 10.45157
 postcode: "86735"
 city: Forheim
-street: "Birkenweg"
-housenumber: 11
+street: Birkenweg
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

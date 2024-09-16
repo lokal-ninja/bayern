@@ -1,11 +1,11 @@
 id: 309930036
-type: way
+type: node
 latitude: 49.39703
 longitude: 11.76274
 postcode: "92289"
 city: Ursensollen
-street: "Zum Kellerhäusl"
-housenumber: 2
+street: Zum Kellerhäusl
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

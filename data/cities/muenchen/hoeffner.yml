@@ -1,11 +1,11 @@
 id: 27245492
-type: way
+type: node
 latitude: 48.13504
 longitude: 11.41228
 postcode: "81249"
 city: München
-street: "Ludwig-Koch-Straße"
-housenumber: 3
-phone: "+49 89 85793-02"
-opening_hours: "Mo-Sa 10:00-19:00; Fr 10:00-20:00"
-website: "https://www.hoeffner.de/"
+street: Ludwig-Koch-Straße
+housenumber: "3"
+phone: +49 89 85793-02
+opening_hours: Mo-Sa 10:00-19:00; Fr 10:00-20:00
+website: https://www.hoeffner.de/

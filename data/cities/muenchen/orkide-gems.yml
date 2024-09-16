@@ -4,8 +4,8 @@ latitude: 48.13703
 longitude: 11.57183
 postcode: "80331"
 city: München
-street: "Färbergraben"
-housenumber: 5
-phone: "+49 89 23702768"
-opening_hours: "Mo-Sa 10:00-16:00"
-website: "http://www.orkide-gems.de"
+street: Färbergraben
+housenumber: "5"
+phone: +49 89 23702768
+opening_hours: Mo-Sa 10:00-16:00
+website: http://www.orkide-gems.de

@@ -1,11 +1,11 @@
 id: 727282882
-type: way
+type: node
 latitude: 47.78434
 longitude: 11.83378
 postcode: "83714"
 city: Miesbach
-street: "Schlierseer Straße"
-housenumber: 28
+street: Schlierseer Straße
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

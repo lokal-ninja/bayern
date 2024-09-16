@@ -1,11 +1,11 @@
 id: 87311627
-type: way
+type: node
 latitude: 50.28628
 longitude: 11.00192
 postcode: "96487"
 city: Dörfles-Esbach
-street: "Rosenauer Straße"
-housenumber: 24
+street: Rosenauer Straße
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

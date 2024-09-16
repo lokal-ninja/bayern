@@ -1,11 +1,11 @@
 id: 159992916
-type: way
+type: node
 latitude: 47.77181
 longitude: 10.58548
 postcode: "87616"
 city: Marktoberdorf
-street: "Siemensring"
-housenumber: 17
-phone: "+49 8342 96990"
+street: Siemensring
+housenumber: "17"
+phone: +49 8342 96990
 opening_hours: ""
 website: ""

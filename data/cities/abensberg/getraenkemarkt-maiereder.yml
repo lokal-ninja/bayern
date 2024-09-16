@@ -1,11 +1,11 @@
 id: 328909501
-type: way
+type: node
 latitude: 48.82104
 longitude: 11.85311
 postcode: "93326"
 city: Abensberg
-street: "Am Straßfeld"
-housenumber: 21
+street: Am Straßfeld
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

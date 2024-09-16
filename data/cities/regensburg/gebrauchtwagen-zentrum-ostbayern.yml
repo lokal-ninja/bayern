@@ -1,11 +1,11 @@
 id: 476156763
-type: way
+type: node
 latitude: 48.98618
 longitude: 12.15458
 postcode: "93055"
 city: Regensburg
-street: "Junkersstraße"
-housenumber: 17
+street: Junkersstraße
+housenumber: "17"
 phone: ""
 opening_hours: ""
-website: "http://www.gebrauchtwagen-ostbayern.de/"
+website: http://www.gebrauchtwagen-ostbayern.de/

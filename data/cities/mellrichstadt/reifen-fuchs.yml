@@ -1,11 +1,11 @@
 id: 760949037
-type: way
+type: node
 latitude: 50.43758
 longitude: 10.30945
 postcode: "97638"
 city: Mellrichstadt
-street: "Weimarer Straße"
-housenumber: 6
+street: Weimarer Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

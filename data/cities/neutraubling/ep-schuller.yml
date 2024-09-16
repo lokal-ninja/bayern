@@ -1,11 +1,11 @@
 id: 96135086
-type: way
+type: node
 latitude: 48.98596
 longitude: 12.19817
 postcode: "93073"
 city: Neutraubling
-street: "Bayerwaldstraße"
-housenumber: 3
-phone: "+49 9401 93110"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "http://www.ep-schuller.de/"
+street: Bayerwaldstraße
+housenumber: "3"
+phone: +49 9401 93110
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: http://www.ep-schuller.de/

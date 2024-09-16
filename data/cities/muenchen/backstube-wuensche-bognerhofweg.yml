@@ -4,8 +4,8 @@ latitude: 48.12381
 longitude: 11.67007
 postcode: "81825"
 city: München
-street: "Bognerhofweg"
-housenumber: 7
+street: Bognerhofweg
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

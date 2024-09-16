@@ -4,8 +4,8 @@ latitude: 47.6729
 longitude: 12.01257
 postcode: "83735"
 city: Bayrischzell
-street: "Seebergstraße"
-housenumber: 1
-phone: "+49 8023 9128"
-opening_hours: "Mo-Sa 07:00-19:00"
-website: "https://www.edeka.de/eh/s%C3%BCdbayern/edeka-seebergstra%C3%9Fe-1/index.jsp"
+street: Seebergstraße
+housenumber: "1"
+phone: +49 8023 9128
+opening_hours: Mo-Sa 07:00-19:00
+website: https://www.edeka.de/eh/s%C3%BCdbayern/edeka-seebergstra%C3%9Fe-1/index.jsp

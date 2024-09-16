@@ -1,11 +1,11 @@
 id: 409011010
-type: way
+type: node
 latitude: 49.79711
 longitude: 10.24174
 postcode: "97359"
 city: Schwarzach am Main
-street: "Gewerbering Nord"
-housenumber: 2
-phone: "+49-9324 - 9 78 46 90"
+street: Gewerbering Nord
+housenumber: "2"
+phone: +49-9324 - 9 78 46 90
 opening_hours: ""
 website: ""

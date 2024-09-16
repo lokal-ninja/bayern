@@ -4,8 +4,8 @@ latitude: 48.20632
 longitude: 10.64911
 postcode: "86872"
 city: Scherstetten
-street: "Hauptstraße"
-housenumber: 22
-phone: "+49 8204 9606-0"
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "https://www.elektro-leinauer.de"
+street: Hauptstraße
+housenumber: "22"
+phone: +49 8204 9606-0
+opening_hours: Mo-Fr 08:00-18:00
+website: https://www.elektro-leinauer.de

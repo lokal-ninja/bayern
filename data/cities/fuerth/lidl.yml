@@ -5,7 +5,7 @@ longitude: 10.99043
 postcode: "90762"
 city: Fürth
 street: ""
-housenumber: 
+housenumber: ""
 phone: "+498004353361"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.lidl.de/f/fuerth/schwabacher-strasse-5.html"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.lidl.de/f/fuerth/schwabacher-strasse-5.html

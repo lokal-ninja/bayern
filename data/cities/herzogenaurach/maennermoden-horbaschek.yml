@@ -4,8 +4,8 @@ latitude: 49.56906
 longitude: 10.88099
 postcode: "91074"
 city: Herzogenaurach
-street: "Hauptstraße"
-housenumber: 24
-phone: "+49 9132 630338"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
-website: "https://www.maennermoden-horbaschek.de/"
+street: Hauptstraße
+housenumber: "24"
+phone: +49 9132 630338
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00
+website: https://www.maennermoden-horbaschek.de/

@@ -4,8 +4,8 @@ latitude: 49.59586
 longitude: 11.00875
 postcode: "91054"
 city: Erlangen
-street: "Friedrichstraße"
-housenumber: 33
+street: Friedrichstraße
+housenumber: "33"
 phone: ""
-opening_hours: "Tu-Th 09:00-18:00; Fr 09:00-21:00; Sa 09:00-15:00; Mo off; PH off"
-website: "https://www.pur-erlangen.de/"
+opening_hours: Tu-Th 09:00-18:00; Fr 09:00-21:00; Sa 09:00-15:00; Mo off; PH off
+website: https://www.pur-erlangen.de/

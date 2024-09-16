@@ -1,11 +1,11 @@
 id: 201842002
-type: way
+type: node
 latitude: 49.30646
 longitude: 12.83462
 postcode: "93437"
 city: Furth im Wald
-street: "Adam-Wild-Straße"
-housenumber: 17
+street: Adam-Wild-Straße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

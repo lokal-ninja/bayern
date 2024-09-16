@@ -4,8 +4,8 @@ latitude: 50.26426
 longitude: 11.93142
 postcode: "95145"
 city: Oberkotzau
-street: "Hofer Straße"
-housenumber: 24
-phone: "+49 9286 291"
-opening_hours: "Mo 06:34-12:30, Tu-Th 06:45-12:30,14:00-18:00, Fr 06:45-18:00; Sa 07:00-12:30"
-website: "https://www.metzgerei-luckner.de/index.php/die-metzgerei/hauptgeschaeft-oberkotzau"
+street: Hofer Straße
+housenumber: "24"
+phone: +49 9286 291
+opening_hours: Mo 06:34-12:30, Tu-Th 06:45-12:30,14:00-18:00, Fr 06:45-18:00; Sa 07:00-12:30
+website: https://www.metzgerei-luckner.de/index.php/die-metzgerei/hauptgeschaeft-oberkotzau

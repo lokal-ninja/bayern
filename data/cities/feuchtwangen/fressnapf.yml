@@ -1,11 +1,11 @@
 id: 120735532
-type: way
+type: node
 latitude: 49.16565
 longitude: 10.32566
 postcode: "91555"
 city: Feuchtwangen
-street: "Dinkelsbühler Straße"
-housenumber: 8
-phone: "+49 9852 614840"
-opening_hours: "Mo-Fr 09:00-19:00 Sa 09:00-18:00"
+street: Dinkelsbühler Straße
+housenumber: "8"
+phone: +49 9852 614840
+opening_hours: Mo-Fr 09:00-19:00 Sa 09:00-18:00
 website: ""

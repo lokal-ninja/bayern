@@ -4,8 +4,8 @@ latitude: 48.40442
 longitude: 11.98911
 postcode: "85456"
 city: Wartenberg
-street: "Marktplatz"
-housenumber: 3
-phone: "+49 8762 9868"
-opening_hours: "Mo,Tu,Th,Fr 15:00-18:00, Tu-Sa 10:00-13:00"
-website: "https://www.genialokal.de/buchhandlung/wartenberg/buecherstube-wartenberg/"
+street: Marktplatz
+housenumber: "3"
+phone: +49 8762 9868
+opening_hours: Mo,Tu,Th,Fr 15:00-18:00, Tu-Sa 10:00-13:00
+website: https://www.genialokal.de/buchhandlung/wartenberg/buecherstube-wartenberg/

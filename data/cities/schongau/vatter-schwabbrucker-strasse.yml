@@ -1,11 +1,11 @@
 id: 99289376
-type: way
+type: node
 latitude: 47.80896
 longitude: 10.87411
 postcode: "86956"
 city: Schongau
-street: "Schwabbrucker Straße"
-housenumber: 6
+street: Schwabbrucker Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.36674
 longitude: 10.89572
 postcode: "86150"
 city: Augsburg
-street: "Färbergäßchen"
-housenumber: 1
-phone: "+49 821 518093"
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-16:00"
-website: "http://www.lesenswert-buch.de"
+street: Färbergäßchen
+housenumber: "1"
+phone: +49 821 518093
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-16:00
+website: http://www.lesenswert-buch.de

@@ -4,8 +4,8 @@ latitude: 49.97504
 longitude: 9.14567
 postcode: "63739"
 city: Aschaffenburg
-street: "Landingstraße"
-housenumber: 12
-phone: "+49 6021 4486695"
-opening_hours: "Tu-Fr 13:00-18:00; Sa 12:00-16:00"
+street: Landingstraße
+housenumber: "12"
+phone: +49 6021 4486695
+opening_hours: Tu-Fr 13:00-18:00; Sa 12:00-16:00
 website: ""

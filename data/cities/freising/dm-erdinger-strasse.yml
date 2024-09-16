@@ -1,11 +1,11 @@
 id: 32637662
-type: way
+type: node
 latitude: 48.38427
 longitude: 11.76525
 postcode: "85356"
 city: Freising
-street: "Erdinger Straße"
-housenumber: 141
+street: Erdinger Straße
+housenumber: "141"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

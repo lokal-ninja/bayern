@@ -1,11 +1,11 @@
 id: 607506523
-type: way
+type: node
 latitude: 49.65285
 longitude: 9.9551
 postcode: "97232"
 city: Giebelstadt
-street: "Rudolf-Diesel-Straße"
-housenumber: 1
-phone: "+49 9334 81 56"
-opening_hours: "Tu-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.royal-giebelstadt.de/"
+street: Rudolf-Diesel-Straße
+housenumber: "1"
+phone: +49 9334 81 56
+opening_hours: Tu-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.royal-giebelstadt.de/

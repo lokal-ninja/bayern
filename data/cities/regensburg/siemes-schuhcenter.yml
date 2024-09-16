@@ -1,11 +1,11 @@
 id: 92413427
-type: way
+type: node
 latitude: 49.02766
 longitude: 12.12405
 postcode: "93059"
 city: Regensburg
-street: "Vilsstraße"
-housenumber: 28
-phone: "+49 941 4099813"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
-website: "http://www.siemes.de/"
+street: Vilsstraße
+housenumber: "28"
+phone: +49 941 4099813
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00
+website: http://www.siemes.de/

@@ -1,11 +1,11 @@
 id: 198929314
-type: way
+type: node
 latitude: 50.03498
 longitude: 11.99383
 postcode: "95632"
 city: Wunsiedel
-street: "Kemnather Straße"
-housenumber: 66
+street: Kemnather Straße
+housenumber: "66"
 phone: ""
 opening_hours: ""
 website: ""

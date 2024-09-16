@@ -4,8 +4,8 @@ latitude: 47.83923
 longitude: 11.14334
 postcode: "82362"
 city: Weilheim in Oberbayern
-street: "Admiral-Hipper-Straße"
-housenumber: 9
+street: Admiral-Hipper-Straße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:30-15:00; PH off"
-website: "https://www.tchibo.de/tchibo-filiale-admiral-hipper-str-9-82362-weilheim-a1412455.html"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:30-15:00; PH off
+website: https://www.tchibo.de/tchibo-filiale-admiral-hipper-str-9-82362-weilheim-a1412455.html

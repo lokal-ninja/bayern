@@ -4,8 +4,8 @@ latitude: 49.03962
 longitude: 12.08077
 postcode: "93138"
 city: Lappersdorf
-street: "Keltenstraße"
-housenumber: 5
-phone: "+49 (0)9409 / 86 96 98"
-opening_hours: "We 14:00-18:00; Fr 13:00-18:00"
-website: "https://www.die-gruene-ecke.de"
+street: Keltenstraße
+housenumber: "5"
+phone: +49 (0)9409 / 86 96 98
+opening_hours: We 14:00-18:00; Fr 13:00-18:00
+website: https://www.die-gruene-ecke.de

@@ -1,11 +1,11 @@
 id: 189867956
-type: way
+type: node
 latitude: 49.86201
 longitude: 10.22521
 postcode: "97332"
 city: Volkach
-street: "Am Alten Bahnhof"
-housenumber: 6
-phone: "+49 9381 716222"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.awg-mode.de/"
+street: Am Alten Bahnhof
+housenumber: "6"
+phone: +49 9381 716222
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.awg-mode.de/

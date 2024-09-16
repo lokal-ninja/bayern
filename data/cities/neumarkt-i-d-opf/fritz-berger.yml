@@ -1,11 +1,11 @@
 id: 40008485
-type: way
+type: node
 latitude: 49.30583
 longitude: 11.48392
 postcode: "92318"
 city: Neumarkt i.d.OPf
-street: "Fritz-Berger-Straße"
-housenumber: 1
+street: Fritz-Berger-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.fritz-berger.de/"
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.fritz-berger.de/

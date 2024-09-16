@@ -1,11 +1,11 @@
 id: 45831437
-type: way
+type: node
 latitude: 50.00978
 longitude: 9.2073
 postcode: "63768"
 city: Hösbach
-street: "An der Maas"
-housenumber: 5
+street: An der Maas
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

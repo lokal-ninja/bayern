@@ -4,8 +4,8 @@ latitude: 49.70417
 longitude: 9.23764
 postcode: "63897"
 city: Miltenberg
-street: "Mainzer Straße"
-housenumber: 40
-phone: "+49 9371 6680475"
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
-website: "https://www.edeka-stenger.de/"
+street: Mainzer Straße
+housenumber: "40"
+phone: +49 9371 6680475
+opening_hours: Mo-Sa 08:00-20:00; PH off
+website: https://www.edeka-stenger.de/

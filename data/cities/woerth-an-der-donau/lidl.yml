@@ -1,11 +1,11 @@
 id: 96982000
-type: way
+type: node
 latitude: 49.00304
 longitude: 12.38699
 postcode: "93086"
 city: Wörth an der Donau
-street: "Regensburger Straße"
-housenumber: 47
+street: Regensburger Straße
+housenumber: "47"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.lidl.de/filialen/woerth-a-d-donau/regensburger-str-47.html"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.lidl.de/filialen/woerth-a-d-donau/regensburger-str-47.html

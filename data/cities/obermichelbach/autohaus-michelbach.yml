@@ -1,11 +1,11 @@
 id: 533028985
-type: way
+type: node
 latitude: 49.53113
 longitude: 10.92039
 postcode: "90587"
 city: Obermichelbach
-street: "Zum Birkenweiher"
-housenumber: 2
+street: Zum Birkenweiher
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.autohaus-michelbach.de"
+website: https://www.autohaus-michelbach.de

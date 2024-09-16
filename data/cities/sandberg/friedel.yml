@@ -1,11 +1,11 @@
 id: 395974031
-type: way
+type: node
 latitude: 50.34781
 longitude: 10.00764
 postcode: "97657"
 city: Sandberg
-street: "Kreuzbergstraße"
-housenumber: 43
+street: Kreuzbergstraße
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

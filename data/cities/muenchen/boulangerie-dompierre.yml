@@ -4,8 +4,8 @@ latitude: 48.14969
 longitude: 11.54155
 postcode: "80636"
 city: München
-street: "Blutenburgstraße"
-housenumber: 80
+street: Blutenburgstraße
+housenumber: "80"
 phone: ""
-opening_hours: "Mo-Sa 07:00-19:00"
-website: "https://dompierre.de/"
+opening_hours: Mo-Sa 07:00-19:00
+website: https://dompierre.de/

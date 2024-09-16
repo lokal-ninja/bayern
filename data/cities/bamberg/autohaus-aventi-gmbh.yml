@@ -1,11 +1,11 @@
 id: 32067560
-type: way
+type: node
 latitude: 49.91471
 longitude: 10.9065
 postcode: "96052"
 city: Bamberg
-street: "Rodezstraße"
-housenumber: 2
-phone: "+49 951 93320"
+street: Rodezstraße
+housenumber: "2"
+phone: +49 951 93320
 opening_hours: ""
-website: "https://www.autohaus-aventi.de/"
+website: https://www.autohaus-aventi.de/

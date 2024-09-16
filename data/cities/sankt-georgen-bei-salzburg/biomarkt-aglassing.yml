@@ -1,11 +1,11 @@
 id: 76425741
-type: way
+type: node
 latitude: 47.95696
 longitude: 12.91899
 postcode: "5113"
 city: Sankt Georgen bei Salzburg
-street: "Wimpassing"
-housenumber: 2
+street: Wimpassing
+housenumber: "2"
 phone: ""
-opening_hours: "We 16:00-19:00; Fr 14:00-19:00; Sa 08:00-12:00"
+opening_hours: We 16:00-19:00; Fr 14:00-19:00; Sa 08:00-12:00
 website: ""

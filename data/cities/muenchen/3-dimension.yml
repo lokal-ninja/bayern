@@ -4,8 +4,8 @@ latitude: 48.13381
 longitude: 11.53499
 postcode: "80339"
 city: München
-street: "Heimeranstraße"
-housenumber: 68
+street: Heimeranstraße
+housenumber: "68"
 phone: ""
-opening_hours: "Mo off; Tu-Fr 13:00-19:00; Sa 10:00-15:00 || nach Vereinbarung"
+opening_hours: Mo off; Tu-Fr 13:00-19:00; Sa 10:00-15:00 || "nach Vereinbarung"
 website: ""

@@ -4,8 +4,9 @@ latitude: 47.99601
 longitude: 11.34021
 postcode: "82319"
 city: Starnberg
-street: "Bahnhofstraße"
-housenumber: 2
+street: Bahnhofstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Mi 15:00-19:00; Do 15:00-20:00; Fr 13:00-19:00; Sa 10:00-15:00; Su,PH off"
+opening_hours: Mo-Mi 15:00-19:00; Do 15:00-20:00; Fr 13:00-19:00; Sa 10:00-15:00;
+    Su,PH off
 website: ""

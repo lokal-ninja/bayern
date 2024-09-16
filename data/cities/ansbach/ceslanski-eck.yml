@@ -1,11 +1,11 @@
 id: 236587398
-type: way
+type: node
 latitude: 49.299
 longitude: 10.57183
 postcode: "91522"
 city: Ansbach
-street: "Maximilianstraße"
-housenumber: 26
+street: Maximilianstraße
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

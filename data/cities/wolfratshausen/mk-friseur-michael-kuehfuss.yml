@@ -1,11 +1,11 @@
 id: 189715771
-type: way
+type: node
 latitude: 47.9149
 longitude: 11.42062
 postcode: "82515"
 city: Wolfratshausen
-street: "Bahnhofstraße"
-housenumber: 3
-phone: "+49 8171 3855081"
-opening_hours: "Mo-Fr 08:00-17:00"
+street: Bahnhofstraße
+housenumber: "3"
+phone: +49 8171 3855081
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 238801001
-type: way
+type: node
 latitude: 48.63313
 longitude: 11.17095
 postcode: "86669"
 city: Königsmoos
-street: "Ludwigstraße"
-housenumber: 196
+street: Ludwigstraße
+housenumber: "196"
 phone: ""
 opening_hours: ""
 website: ""

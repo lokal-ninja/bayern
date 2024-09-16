@@ -1,11 +1,11 @@
 id: 89206656
-type: way
+type: node
 latitude: 49.79323
 longitude: 10.00304
 postcode: "97076"
 city: Würzburg
-street: "Nürnberger Straße"
-housenumber: 133
-phone: "+49-931-27049559"
-opening_hours: "Sa 08:00-18:00; Mo-Fr 07:00-18:00"
-website: "https://www.roesner-backstube.de/"
+street: Nürnberger Straße
+housenumber: "133"
+phone: +49-931-27049559
+opening_hours: Sa 08:00-18:00; Mo-Fr 07:00-18:00
+website: https://www.roesner-backstube.de/

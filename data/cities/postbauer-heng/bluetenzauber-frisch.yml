@@ -1,11 +1,11 @@
 id: 1300171843
-type: way
+type: node
 latitude: 49.2637
 longitude: 11.3435
 postcode: "92353"
 city: Postbauer-Heng
-street: "Ludwigstraße"
-housenumber: 19
+street: Ludwigstraße
+housenumber: "19"
 phone: ""
-opening_hours: "Tu,Th-Fr 09:00-18:00; We 09:00-13:00,09:00-12:00; PH off"
+opening_hours: Tu,Th-Fr 09:00-18:00; We 09:00-13:00,09:00-12:00; PH off
 website: ""

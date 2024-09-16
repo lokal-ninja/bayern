@@ -1,11 +1,11 @@
 id: 551513375
-type: way
+type: node
 latitude: 49.4986
 longitude: 10.65553
 postcode: "91459"
 city: Markt Erlbach
-street: "Haidter Weg"
-housenumber: 1
+street: Haidter Weg
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 91903884
-type: way
+type: node
 latitude: 47.88055
 longitude: 11.70909
 postcode: "83607"
 city: Holzkirchen
-street: "Industriestraße"
-housenumber: 35
+street: Industriestraße
+housenumber: "35"
 phone: ""
 opening_hours: ""
 website: ""

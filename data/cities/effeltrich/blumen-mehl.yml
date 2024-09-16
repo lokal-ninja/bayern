@@ -4,8 +4,8 @@ latitude: 49.66133
 longitude: 11.09955
 postcode: "91090"
 city: Effeltrich
-street: "Hans-Sachs-Straße"
-housenumber: 5
+street: Hans-Sachs-Straße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-14:00; Su, PH off"
-website: "https://www.blumen-mehl.de/"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-14:00; Su, PH off
+website: https://www.blumen-mehl.de/

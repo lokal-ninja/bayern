@@ -4,8 +4,8 @@ latitude: 48.45391
 longitude: 11.12818
 postcode: "86551"
 city: Aichach
-street: "Augsburger Straße"
-housenumber: 25
+street: Augsburger Straße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
-website: "https://www.dm.de/store/d344/aichach/augsburger-strasse-25"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
+website: https://www.dm.de/store/d344/aichach/augsburger-strasse-25

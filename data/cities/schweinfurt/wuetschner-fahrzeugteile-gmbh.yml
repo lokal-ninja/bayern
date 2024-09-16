@@ -1,11 +1,11 @@
 id: 87649741
-type: way
+type: node
 latitude: 50.0348
 longitude: 10.22947
 postcode: "97424"
 city: Schweinfurt
-street: "Rudolf-Diesel-Straße"
-housenumber: 12
-phone: "+49 9721 65860"
-opening_hours: "Mo-Fr 7:30-17:30; Sa 8:00-12:00; Su,PH off"
+street: Rudolf-Diesel-Straße
+housenumber: "12"
+phone: +49 9721 65860
+opening_hours: Mo-Fr 7:30-17:30; Sa 8:00-12:00; Su,PH off
 website: ""

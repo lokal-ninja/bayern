@@ -1,11 +1,11 @@
 id: 143451296
-type: way
+type: node
 latitude: 49.80822
 longitude: 9.61058
 postcode: "97855"
 city: Triefenstein
-street: "Homburger Straße"
-housenumber: 13
-phone: "+49 9395 99341"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "http://www.kuehhirt-maerkte.de/index.php?site=edeka-triefenstein-lengfurt"
+street: Homburger Straße
+housenumber: "13"
+phone: +49 9395 99341
+opening_hours: Mo-Sa 07:00-20:00
+website: http://www.kuehhirt-maerkte.de/index.php?site=edeka-triefenstein-lengfurt

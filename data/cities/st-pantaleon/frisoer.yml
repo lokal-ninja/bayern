@@ -1,11 +1,11 @@
 id: 341396416
-type: way
+type: node
 latitude: 48.0238
 longitude: 12.84828
 postcode: "5120"
 city: St. Pantaleon
 street: ""
-housenumber: 63
+housenumber: "63"
 phone: ""
 opening_hours: ""
 website: ""

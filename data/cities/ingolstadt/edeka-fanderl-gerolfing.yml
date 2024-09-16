@@ -1,11 +1,11 @@
 id: 216731662
-type: way
+type: node
 latitude: 48.76183
 longitude: 11.34435
 postcode: "85049"
 city: Ingolstadt
-street: "Barthlgasserstraße"
-housenumber: 33
+street: Barthlgasserstraße
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
-website: "https://www.edeka-fanderl.de/"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
+website: https://www.edeka-fanderl.de/

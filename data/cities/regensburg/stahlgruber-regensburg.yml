@@ -1,11 +1,11 @@
 id: 31001406
-type: way
+type: node
 latitude: 48.99568
 longitude: 12.11971
 postcode: "93053"
 city: Regensburg
-street: "Markomannenstraße"
+street: Markomannenstraße
 housenumber: 1a
 phone: ""
-opening_hours: "Mo-Fr 08:30-17:00; Sa 09:00-12:00"
-website: "https://www.stahlgruber.de/"
+opening_hours: Mo-Fr 08:30-17:00; Sa 09:00-12:00
+website: https://www.stahlgruber.de/

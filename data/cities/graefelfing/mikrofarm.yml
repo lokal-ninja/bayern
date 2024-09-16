@@ -1,11 +1,11 @@
 id: 296936997
-type: way
+type: node
 latitude: 48.11558
 longitude: 11.42461
 postcode: "82166"
 city: Gräfelfing
-street: "Bogenstraße"
-housenumber: 2
+street: Bogenstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Apr-Nov: Fr 14:00-18:00"
-website: "https://www.mikro.farm/"
+opening_hours: 'Apr-Nov: Fr 14:00-18:00'
+website: https://www.mikro.farm/

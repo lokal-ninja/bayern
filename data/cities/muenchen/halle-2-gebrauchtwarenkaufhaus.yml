@@ -4,8 +4,8 @@ latitude: 48.15325
 longitude: 11.47929
 postcode: "81245"
 city: München
-street: "Peter-Anders-Straße"
-housenumber: 15
+street: Peter-Anders-Straße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo off; Tu-Fr 10:00-18:00; Sa 09:00-14:00"
-website: "https://www.awm-muenchen.de/vermeiden/halle-2"
+opening_hours: Mo off; Tu-Fr 10:00-18:00; Sa 09:00-14:00
+website: https://www.awm-muenchen.de/vermeiden/halle-2

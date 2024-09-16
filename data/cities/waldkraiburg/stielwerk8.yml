@@ -1,11 +1,11 @@
 id: 517022415
-type: way
+type: node
 latitude: 48.21024
 longitude: 12.38691
 postcode: "84478"
 city: Waldkraiburg
-street: "Hermann-Löns-Straße"
-housenumber: 33
+street: Hermann-Löns-Straße
+housenumber: "33"
 phone: ""
 opening_hours: ""
-website: "https://www.stielwerk8.com/"
+website: https://www.stielwerk8.com/

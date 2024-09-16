@@ -1,11 +1,11 @@
 id: 1212912631
-type: way
+type: node
 latitude: 47.78585
 longitude: 11.05058
 postcode: "82380"
 city: Peißenberg
-street: "Hochreuther Straße"
-housenumber: 6
+street: Hochreuther Straße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

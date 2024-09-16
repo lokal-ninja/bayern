@@ -1,11 +1,11 @@
 id: 129198664
-type: way
+type: node
 latitude: 48.72449
 longitude: 10.77785
 postcode: "86609"
 city: Donauwörth
-street: "Berger Allee"
-housenumber: 2
+street: Berger Allee
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

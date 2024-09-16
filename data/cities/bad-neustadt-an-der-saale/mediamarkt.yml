@@ -4,8 +4,8 @@ latitude: 50.32525
 longitude: 10.2207
 postcode: "97616"
 city: Bad Neustadt an der Saale
-street: "Meininger Straße"
-housenumber: 21
-phone: "+49 9771 61630"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:00-19:00; Su,Ph off"
-website: "https://www.mediamarkt.de/de/store/bad-neustadt-272"
+street: Meininger Straße
+housenumber: "21"
+phone: +49 9771 61630
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:00-19:00; Su,Ph off
+website: https://www.mediamarkt.de/de/store/bad-neustadt-272

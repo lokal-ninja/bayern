@@ -4,8 +4,8 @@ latitude: 48.7058
 longitude: 11.42511
 postcode: "85051"
 city: Ingolstadt
-street: "Am Hochfeldweg"
-housenumber: 13
-phone: "+49 177 20 37 934"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.ht-anhaengerverleih-ingolstadt.de/"
+street: Am Hochfeldweg
+housenumber: "13"
+phone: +49 177 20 37 934
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.ht-anhaengerverleih-ingolstadt.de/

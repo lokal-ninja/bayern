@@ -4,8 +4,9 @@ latitude: 48.04039
 longitude: 11.52162
 postcode: "82031"
 city: Grünwald
-street: "Rathausplatz"
-housenumber: 1
-phone: "+49-89-611 36 95"
-opening_hours: "Feb-Oct Mo-Fr 09:00-18:00; Feb-Oct Sa 09:00-13:00; Nov-Jan Mo-Fr 09:00-18:30; Nov-Jan Sa 09:00-13:30; Dec 24,31 09:30-12:30; Advent Season 09:30-16:00"
-website: "https://www.sportforster.de/"
+street: Rathausplatz
+housenumber: "1"
+phone: +49-89-611 36 95
+opening_hours: Feb-Oct Mo-Fr 09:00-18:00; Feb-Oct Sa 09:00-13:00; Nov-Jan Mo-Fr 09:00-18:30;
+    Nov-Jan Sa 09:00-13:30; Dec 24,31 09:30-12:30; Advent Season 09:30-16:00
+website: https://www.sportforster.de/

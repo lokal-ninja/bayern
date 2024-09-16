@@ -1,11 +1,11 @@
 id: 40930231
-type: way
+type: node
 latitude: 49.93533
 longitude: 11.57675
 postcode: "95447"
 city: Bayreuth
-street: "Herderstraße"
-housenumber: 27
+street: Herderstraße
+housenumber: "27"
 phone: ""
-opening_hours: "nach Vereinbarung "
+opening_hours: '"nach Vereinbarung "'
 website: ""

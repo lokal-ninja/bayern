@@ -1,11 +1,12 @@
 id: 96320783
-type: way
+type: node
 latitude: 48.3727
 longitude: 10.89345
 postcode: "86152"
 city: Augsburg
-street: "Jesuitengasse"
-housenumber: 25
+street: Jesuitengasse
+housenumber: "25"
 phone: ""
-opening_hours: "Jan-Mar We,Fr 16:00-18:00; Apr-Sep We,Fr 18:00-20:00; Oct-Dec We,Fr 16:00-18:00; Mo,Tu,Th,Sa,Su,PH off"
+opening_hours: Jan-Mar We,Fr 16:00-18:00; Apr-Sep We,Fr 18:00-20:00; Oct-Dec We,Fr
+    16:00-18:00; Mo,Tu,Th,Sa,Su,PH off
 website: ""

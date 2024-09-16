@@ -4,8 +4,8 @@ latitude: 48.32814
 longitude: 11.73546
 postcode: "85399"
 city: Hallbergmoos
-street: "Fokkerstraße"
-housenumber: 2
+street: Fokkerstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo, Di, Do 08:00-17:00; Mi 08:00-13:00; Fr 08:00-12:00"
-website: "https://de.airliquide.com/"
+opening_hours: Mo, Di, Do 08:00-17:00; Mi 08:00-13:00; Fr 08:00-12:00
+website: https://de.airliquide.com/

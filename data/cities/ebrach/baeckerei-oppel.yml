@@ -4,8 +4,8 @@ latitude: 49.84809
 longitude: 10.49203
 postcode: "96157"
 city: Ebrach
-street: "Marktplatz"
-housenumber: 5
-phone: "+49 9553 980380"
-opening_hours: "Mo-Fr 06:00-17:30,Sa 06:00-12:30"
-website: "https://naturbaeckerei.com"
+street: Marktplatz
+housenumber: "5"
+phone: +49 9553 980380
+opening_hours: Mo-Fr 06:00-17:30,Sa 06:00-12:30
+website: https://naturbaeckerei.com

@@ -4,8 +4,9 @@ latitude: 47.87782
 longitude: 11.93144
 postcode: "83052"
 city: Bruckmühl
-street: "Gewerbepark BWB"
-housenumber: 28
-phone: "+49 8062 72 95 695"
-opening_hours: "Mo-Fr 07:30-12:00,12:30-17:30, Sa nach Terminvereinbarung; Su,PH off"
-website: "https://www.franzgschwendtner.de/"
+street: Gewerbepark BWB
+housenumber: "28"
+phone: +49 8062 72 95 695
+opening_hours: Mo-Fr 07:30-12:00,12:30-17:30, Sa "nach Terminvereinbarung"; Su,PH
+    off
+website: https://www.franzgschwendtner.de/

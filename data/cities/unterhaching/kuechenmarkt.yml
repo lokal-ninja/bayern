@@ -4,8 +4,8 @@ latitude: 48.05613
 longitude: 11.60724
 postcode: "82008"
 city: Unterhaching
-street: "Grimmerweg"
-housenumber: 1
+street: Grimmerweg
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00-18:00"
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:00-18:00
 website: ""

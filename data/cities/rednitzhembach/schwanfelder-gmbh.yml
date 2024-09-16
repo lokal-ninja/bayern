@@ -1,11 +1,11 @@
 id: 1197966508
-type: way
+type: node
 latitude: 49.29319
 longitude: 11.08046
 postcode: "91126"
 city: Rednitzhembach
-street: "Meckenloher Straße"
-housenumber: 8
+street: Meckenloher Straße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

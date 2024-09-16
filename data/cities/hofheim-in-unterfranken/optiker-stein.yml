@@ -4,8 +4,8 @@ latitude: 50.13768
 longitude: 10.52253
 postcode: "97461"
 city: Hofheim in Unterfranken
-street: "Hauptstraße"
-housenumber: 3
-phone: "09523/6264"
-opening_hours: "nach Vereinbarung"
+street: Hauptstraße
+housenumber: "3"
+phone: 09523/6264
+opening_hours: '"nach Vereinbarung"'
 website: ""

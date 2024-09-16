@@ -4,8 +4,8 @@ latitude: 48.45469
 longitude: 10.27757
 postcode: "89312"
 city: Günzburg
-street: "Münzgasse"
-housenumber: 3
-phone: "+49 8221 2060953"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-13:30; PH,Su off"
-website: "https://www.o2online.de/shops/guenzburg/713/"
+street: Münzgasse
+housenumber: "3"
+phone: +49 8221 2060953
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-13:30; PH,Su off
+website: https://www.o2online.de/shops/guenzburg/713/

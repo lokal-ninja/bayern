@@ -1,11 +1,11 @@
 id: 208784035
-type: way
+type: node
 latitude: 49.47927
 longitude: 11.01152
 postcode: "90765"
 city: Fürth
-street: "Hans-Vogel-Straße"
-housenumber: 30
+street: Hans-Vogel-Straße
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

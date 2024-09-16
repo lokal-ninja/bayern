@@ -1,11 +1,11 @@
 id: 230638841
-type: way
+type: node
 latitude: 47.87905
 longitude: 12.63562
 postcode: "83278"
 city: Traunstein
-street: "Eugen-Rosner-Straße"
-housenumber: 27
+street: Eugen-Rosner-Straße
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

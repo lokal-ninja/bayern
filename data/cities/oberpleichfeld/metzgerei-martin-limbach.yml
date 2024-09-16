@@ -1,11 +1,11 @@
 id: 128851616
-type: way
+type: node
 latitude: 49.87914
 longitude: 10.09003
 postcode: "97241"
 city: Oberpleichfeld
-street: "Am Klettenberg"
-housenumber: 22
+street: Am Klettenberg
+housenumber: "22"
 phone: ""
-opening_hours: "Fr 08:30-16:00; Sa 08:30-13:00"
+opening_hours: Fr 08:30-16:00; Sa 08:30-13:00
 website: ""

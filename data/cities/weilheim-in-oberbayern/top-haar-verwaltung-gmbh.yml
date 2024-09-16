@@ -4,8 +4,8 @@ latitude: 47.83858
 longitude: 11.14525
 postcode: "82362"
 city: Weilheim in Oberbayern
-street: "Rathausplatz"
-housenumber: 15
+street: Rathausplatz
+housenumber: "15"
 phone: ""
-opening_hours: "nur nach Vereinbarung"
+opening_hours: '"nur nach Vereinbarung"'
 website: ""

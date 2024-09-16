@@ -1,11 +1,11 @@
 id: 702512490
-type: way
+type: node
 latitude: 48.71349
 longitude: 11.39443
 postcode: "85051"
 city: Ingolstadt
-street: "Weicheringer Straße"
-housenumber: 174
+street: Weicheringer Straße
+housenumber: "174"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

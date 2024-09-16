@@ -1,11 +1,11 @@
 id: 185863347
-type: way
+type: node
 latitude: 47.94367
 longitude: 10.23779
 postcode: "87760"
 city: Lachen
-street: "Hauptstraße"
-housenumber: 32
+street: Hauptstraße
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

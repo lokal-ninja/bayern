@@ -4,8 +4,8 @@ latitude: 49.43041
 longitude: 11.09252
 postcode: "90461"
 city: Nürnberg
-street: "Frankenstraße"
-housenumber: 195
+street: Frankenstraße
+housenumber: "195"
 phone: ""
-opening_hours: "Mo,We,Fr 07:00-18:00; Tu,Th 07:00-17:30; Sa 07:00-13:00"
+opening_hours: Mo,We,Fr 07:00-18:00; Tu,Th 07:00-17:30; Sa 07:00-13:00
 website: ""

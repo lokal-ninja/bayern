@@ -1,11 +1,11 @@
 id: 66128097
-type: way
+type: node
 latitude: 47.84736
 longitude: 12.34973
 postcode: "83209"
 city: Prien am Chiemsee
-street: "Hochriesstraße"
+street: Hochriesstraße
 housenumber: 47b
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00"
-website: "https://www.denns-biomarkt.de/"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-20:00
+website: https://www.denns-biomarkt.de/

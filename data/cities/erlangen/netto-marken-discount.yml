@@ -4,8 +4,8 @@ latitude: 49.58223
 longitude: 11.00453
 postcode: "91052"
 city: Erlangen
-street: "Karl-Zucker-Straße"
-housenumber: 14
+street: Karl-Zucker-Straße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de/"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de/

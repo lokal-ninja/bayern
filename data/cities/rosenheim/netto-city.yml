@@ -1,11 +1,11 @@
 id: 129534720
-type: way
+type: node
 latitude: 47.86395
 longitude: 12.10616
 postcode: "83024"
 city: Rosenheim
-street: "Prinzregentenstraße"
-housenumber: 109
+street: Prinzregentenstraße
+housenumber: "109"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de

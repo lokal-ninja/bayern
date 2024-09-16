@@ -4,8 +4,8 @@ latitude: 48.98131
 longitude: 12.19329
 postcode: "93073"
 city: Neutraubling
-street: "Pommernstraße"
-housenumber: 4
-phone: "+49 9401 915389"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.frisoerthonet.de/"
+street: Pommernstraße
+housenumber: "4"
+phone: +49 9401 915389
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.frisoerthonet.de/

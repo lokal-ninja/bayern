@@ -4,8 +4,8 @@ latitude: 48.15162
 longitude: 11.62047
 postcode: "81925"
 city: München
-street: "Rosenkavalierplatz"
-housenumber: 11
-phone: "089 92 87 82 0"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
-website: "https://arabellabuecher.buchhandlung.de/shop/magazine/138028/standorte_und_oeffnungszeiten.html"
+street: Rosenkavalierplatz
+housenumber: "11"
+phone: 089 92 87 82 0
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00
+website: https://arabellabuecher.buchhandlung.de/shop/magazine/138028/standorte_und_oeffnungszeiten.html

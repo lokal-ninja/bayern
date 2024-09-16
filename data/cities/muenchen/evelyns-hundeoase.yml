@@ -4,8 +4,8 @@ latitude: 48.10946
 longitude: 11.58823
 postcode: "81539"
 city: München
-street: "Perlacher Straße"
-housenumber: 100
+street: Perlacher Straße
+housenumber: "100"
 phone: ""
-opening_hours: "nach Vereinbarung"
-website: "https://www.evelyns-hundeoase.de/"
+opening_hours: '"nach Vereinbarung"'
+website: https://www.evelyns-hundeoase.de/

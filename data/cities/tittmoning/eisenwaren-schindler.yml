@@ -1,11 +1,11 @@
 id: 183171244
-type: way
+type: node
 latitude: 48.06135
 longitude: 12.76814
 postcode: "84529"
 city: Tittmoning
-street: "Stadtplatz"
-housenumber: 28
+street: Stadtplatz
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

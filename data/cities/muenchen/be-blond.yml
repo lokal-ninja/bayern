@@ -4,8 +4,8 @@ latitude: 48.13631
 longitude: 11.56616
 postcode: "80331"
 city: München
-street: "Josephspitalstraße"
-housenumber: 15
+street: Josephspitalstraße
+housenumber: "15"
 phone: ""
-opening_hours: "Tu-Fr 10:00-19:00; Sa 10:00-15:00"
+opening_hours: Tu-Fr 10:00-19:00; Sa 10:00-15:00
 website: ""

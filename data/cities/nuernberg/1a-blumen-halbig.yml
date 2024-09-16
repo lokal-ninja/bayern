@@ -4,8 +4,8 @@ latitude: 49.46278
 longitude: 11.146
 postcode: "90482"
 city: Nürnberg
-street: "Schönseer Straße"
-housenumber: 8
+street: Schönseer Straße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 08:00-19:00"
-website: "https://www.1a-blumen-halbig.de"
+opening_hours: Mo-Sa 08:00-19:00
+website: https://www.1a-blumen-halbig.de

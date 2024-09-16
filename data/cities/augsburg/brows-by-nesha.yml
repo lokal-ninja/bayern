@@ -4,8 +4,8 @@ latitude: 48.33477
 longitude: 10.86008
 postcode: "86199"
 city: Augsburg
-street: "Radaustraße"
-housenumber: 40
+street: Radaustraße
+housenumber: "40"
 phone: ""
-opening_hours: "nach Vereinbarung"
+opening_hours: '"nach Vereinbarung"'
 website: ""

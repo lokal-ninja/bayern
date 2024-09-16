@@ -1,11 +1,11 @@
 id: 136172768
-type: way
+type: node
 latitude: 48.06343
 longitude: 11.37719
 postcode: "82131"
 city: Gauting
-street: "Starnberger Straße"
-housenumber: 27
-phone: "+49 89 8931410"
-opening_hours: "Mo-Fr 07:00-17:30"
-website: "https://www.autohaus-schaefer-gauting.de/"
+street: Starnberger Straße
+housenumber: "27"
+phone: +49 89 8931410
+opening_hours: Mo-Fr 07:00-17:30
+website: https://www.autohaus-schaefer-gauting.de/

@@ -1,11 +1,11 @@
 id: 543156446
-type: way
+type: node
 latitude: 48.96701
 longitude: 10.90748
 postcode: "91757"
 city: Treuchtlingen
-street: "Ansbacher Straße"
-housenumber: 46
+street: Ansbacher Straße
+housenumber: "46"
 phone: ""
 opening_hours: ""
 website: ""

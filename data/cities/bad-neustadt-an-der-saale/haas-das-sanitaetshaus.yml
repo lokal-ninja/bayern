@@ -4,8 +4,8 @@ latitude: 50.32746
 longitude: 10.2212
 postcode: "97616"
 city: Bad Neustadt an der Saale
-street: "Siemensstraße"
-housenumber: 30
-phone: "+49 9771 6309920"
-opening_hours: "Mo-Fr 08:30-18:00; Sa 09:00-13:00"
-website: "https://www.haas.life"
+street: Siemensstraße
+housenumber: "30"
+phone: +49 9771 6309920
+opening_hours: Mo-Fr 08:30-18:00; Sa 09:00-13:00
+website: https://www.haas.life

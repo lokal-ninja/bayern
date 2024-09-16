@@ -1,11 +1,11 @@
 id: 185650903
-type: way
+type: node
 latitude: 47.80609
 longitude: 12.11981
 postcode: "83064"
 city: Raubling
-street: "Rosenheimer Straße"
-housenumber: 95
+street: Rosenheimer Straße
+housenumber: "95"
 phone: ""
 opening_hours: ""
-website: "https://www.fressnapf.de/fressnapf-maerkte/marktfinder/markt/604"
+website: https://www.fressnapf.de/fressnapf-maerkte/marktfinder/markt/604

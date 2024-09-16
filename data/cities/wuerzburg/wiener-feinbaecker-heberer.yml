@@ -4,8 +4,8 @@ latitude: 49.79431
 longitude: 9.93083
 postcode: "97070"
 city: Würzburg
-street: "Kürschnerhof"
-housenumber: 13
-phone: "+49 931 3291235"
-opening_hours: "Mo-Fr 07:00-19:00, Sa 08:00-19:00"
-website: "https://www.heberer.de/"
+street: Kürschnerhof
+housenumber: "13"
+phone: +49 931 3291235
+opening_hours: Mo-Fr 07:00-19:00, Sa 08:00-19:00
+website: https://www.heberer.de/

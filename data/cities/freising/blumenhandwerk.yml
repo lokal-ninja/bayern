@@ -4,8 +4,8 @@ latitude: 48.39922
 longitude: 11.74234
 postcode: "85354"
 city: Freising
-street: "Bahnhofstraße"
-housenumber: 4
+street: Bahnhofstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-13:00; Su,PH off"
-website: "https://blumenhandwerk-freising.de/"
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:30-13:00; Su,PH off
+website: https://blumenhandwerk-freising.de/

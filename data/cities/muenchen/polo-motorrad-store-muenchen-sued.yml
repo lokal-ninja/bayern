@@ -4,8 +4,8 @@ latitude: 48.12396
 longitude: 11.59651
 postcode: "81669"
 city: München
-street: "Balanstraße"
-housenumber: 38
-phone: "+49 89 44717303"
-opening_hours: "PH,Su off; Mo-Sa 10:00-19:00"
-website: "https://www.polo-motorrad.com/de-de/"
+street: Balanstraße
+housenumber: "38"
+phone: +49 89 44717303
+opening_hours: PH,Su off; Mo-Sa 10:00-19:00
+website: https://www.polo-motorrad.com/de-de/

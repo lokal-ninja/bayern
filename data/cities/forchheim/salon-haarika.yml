@@ -4,8 +4,8 @@ latitude: 49.72294
 longitude: 11.0592
 postcode: "91301"
 city: Forchheim
-street: "Bamberger Straße"
-housenumber: 27
+street: Bamberger Straße
+housenumber: "27"
 phone: ""
-opening_hours: "Tu-Fr 09:00-18:00, Sa 09:00-15:00, PH off"
-website: "https://www.forchheim-friseur.de/"
+opening_hours: Tu-Fr 09:00-18:00, Sa 09:00-15:00, PH off
+website: https://www.forchheim-friseur.de/

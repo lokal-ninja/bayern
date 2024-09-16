@@ -4,8 +4,8 @@ latitude: 49.84755
 longitude: 9.96589
 postcode: "97222"
 city: Rimpar
-street: "Adolf-Wagenbrenner-Straße"
-housenumber: 3
-phone: "+49 9365 2205"
-opening_hours: "Mo-Fr 08:00-12:00,13:30-17:00"
-website: "https://neubert.go1a.de/"
+street: Adolf-Wagenbrenner-Straße
+housenumber: "3"
+phone: +49 9365 2205
+opening_hours: Mo-Fr 08:00-12:00,13:30-17:00
+website: https://neubert.go1a.de/

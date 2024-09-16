@@ -1,11 +1,11 @@
 id: 126488081
-type: way
+type: node
 latitude: 48.23016
 longitude: 11.43224
 postcode: "85232"
 city: Bergkirchen
-street: "Münchner Straße"
-housenumber: 1
+street: Münchner Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

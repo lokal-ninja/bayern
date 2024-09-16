@@ -1,11 +1,11 @@
 id: 31287347
-type: way
+type: node
 latitude: 49.22829
 longitude: 11.53691
 postcode: "92364"
 city: Deining
-street: "Obere Hauptstraße"
-housenumber: 41
-phone: "+49 9184 358"
+street: Obere Hauptstraße
+housenumber: "41"
+phone: +49 9184 358
 opening_hours: ""
-website: "https://www.keckl-bau.de/"
+website: https://www.keckl-bau.de/

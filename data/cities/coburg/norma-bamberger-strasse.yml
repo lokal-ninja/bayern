@@ -1,11 +1,11 @@
 id: 238431343
-type: way
+type: node
 latitude: 50.24863
 longitude: 10.96423
 postcode: "96450"
 city: Coburg
-street: "Bamberger Straße"
-housenumber: 34
+street: Bamberger Straße
+housenumber: "34"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "http://www.norma-online.de/"
+opening_hours: Mo-Sa 07:00-20:00
+website: http://www.norma-online.de/

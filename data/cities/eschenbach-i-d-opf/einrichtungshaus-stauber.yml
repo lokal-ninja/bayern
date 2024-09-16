@@ -4,8 +4,8 @@ latitude: 49.75943
 longitude: 11.8423
 postcode: "92676"
 city: Eschenbach i.d.OPf.
-street: "Industriestraße"
-housenumber: 11
+street: Industriestraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00, 13:00-18:00, Sa 09:00-12:00; PH off"
-website: "https://www.stauber-einrichtungshaus.de/"
+opening_hours: Mo-Fr 09:00-12:00, 13:00-18:00, Sa 09:00-12:00; PH off
+website: https://www.stauber-einrichtungshaus.de/

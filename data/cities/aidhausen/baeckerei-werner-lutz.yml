@@ -1,11 +1,11 @@
 id: 305673543
-type: way
+type: node
 latitude: 50.13895
 longitude: 10.46297
 postcode: "97491"
 city: Aidhausen
-street: "Lindenstraße"
-housenumber: 2
+street: Lindenstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

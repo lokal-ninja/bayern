@@ -1,11 +1,11 @@
 id: 1301917486
-type: way
+type: node
 latitude: 49.37363
 longitude: 10.18936
 postcode: "91541"
 city: Rothenburg ob der Tauber
-street: "Schlachthofstraße"
-housenumber: 33
+street: Schlachthofstraße
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

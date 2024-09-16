@@ -4,8 +4,8 @@ latitude: 48.11065
 longitude: 11.55305
 postcode: "81379"
 city: München
-street: "Hans-Preißinger-Straße"
-housenumber: 8
-phone: "+49 89 724 066 36"
+street: Hans-Preißinger-Straße
+housenumber: "8"
+phone: +49 89 724 066 36
 opening_hours: ""
-website: "https://www.coatncast.de"
+website: https://www.coatncast.de

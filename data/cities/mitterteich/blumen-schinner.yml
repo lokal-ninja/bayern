@@ -1,11 +1,11 @@
 id: 666846586
-type: way
+type: node
 latitude: 49.95276
 longitude: 12.24556
 postcode: "95666"
 city: Mitterteich
-street: "Waldsassener Straße"
-housenumber: 1
+street: Waldsassener Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 187403032
-type: way
+type: node
 latitude: 49.16542
 longitude: 10.32541
 postcode: "91555"
 city: Feuchtwangen
-street: "Dinkelsbühler Straße"
-housenumber: 10
+street: Dinkelsbühler Straße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

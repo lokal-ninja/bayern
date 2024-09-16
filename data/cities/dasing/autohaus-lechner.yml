@@ -1,11 +1,11 @@
 id: 150077722
-type: way
+type: node
 latitude: 48.38932
 longitude: 11.06063
 postcode: "86453"
 city: Dasing
-street: "Messerschmittstraße"
-housenumber: 4
+street: Messerschmittstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.auto-lechner.de/"
+website: https://www.auto-lechner.de/

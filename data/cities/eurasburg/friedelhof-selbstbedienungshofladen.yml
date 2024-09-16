@@ -5,7 +5,7 @@ longitude: 11.11574
 postcode: "86495"
 city: Eurasburg
 street: ""
-housenumber: 2
-phone: "+49 8208 240"
-opening_hours: "Mo-Su 08:00-20:00"
-website: "http://friedelhof.de"
+housenumber: "2"
+phone: +49 8208 240
+opening_hours: Mo-Su 08:00-20:00
+website: http://friedelhof.de

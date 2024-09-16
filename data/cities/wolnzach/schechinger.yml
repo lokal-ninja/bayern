@@ -1,11 +1,11 @@
 id: 176324726
-type: way
+type: node
 latitude: 48.60512
 longitude: 11.62842
 postcode: "85283"
 city: Wolnzach
-street: "Kellerstraße"
-housenumber: 12
+street: Kellerstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00; Sa 07:00-12:30"
+opening_hours: Mo-Fr 07:30-18:00; Sa 07:00-12:30
 website: ""

@@ -1,11 +1,11 @@
 id: 736798860
-type: way
+type: node
 latitude: 50.09765
 longitude: 11.89218
 postcode: "95163"
 city: Weißenstadt
-street: "Wunsiedler Straße"
-housenumber: 75
+street: Wunsiedler Straße
+housenumber: "75"
 phone: ""
 opening_hours: ""
 website: ""

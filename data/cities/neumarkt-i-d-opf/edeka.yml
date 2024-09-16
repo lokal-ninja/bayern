@@ -1,11 +1,11 @@
 id: 60778179
-type: way
+type: node
 latitude: 49.29553
 longitude: 11.4774
 postcode: "92318"
 city: Neumarkt i.d.OPf
-street: "Thüringer Straße"
-housenumber: 4
-phone: "+49 9181 4648830"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.edeka.de/eh/nordbayern-sachsen-th%C3%BCringen/edeka-hafner-th%C3%BCringer-stra%C3%9Fe-4/index.jsp"
+street: Thüringer Straße
+housenumber: "4"
+phone: +49 9181 4648830
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.edeka.de/eh/nordbayern-sachsen-th%C3%BCringen/edeka-hafner-th%C3%BCringer-stra%C3%9Fe-4/index.jsp

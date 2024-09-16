@@ -1,11 +1,11 @@
 id: 222167362
-type: way
+type: node
 latitude: 48.70923
 longitude: 11.01053
 postcode: "86666"
 city: Burgheim
-street: "Bertoldsheimer Straße"
-housenumber: 84
+street: Bertoldsheimer Straße
+housenumber: "84"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

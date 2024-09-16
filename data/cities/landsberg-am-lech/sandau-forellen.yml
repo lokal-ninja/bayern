@@ -1,11 +1,11 @@
 id: 167616704
-type: way
+type: node
 latitude: 48.06474
 longitude: 10.87823
 postcode: "86899"
 city: Landsberg am Lech
 street: ""
-housenumber: 5
+housenumber: "5"
 phone: ""
-opening_hours: "Tu-Sa 09:00-12:00; Fr 14:00-17:00"
+opening_hours: Tu-Sa 09:00-12:00; Fr 14:00-17:00
 website: ""

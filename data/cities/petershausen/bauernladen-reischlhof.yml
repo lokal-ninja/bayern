@@ -5,7 +5,7 @@ longitude: 11.43724
 postcode: "85238"
 city: Petershausen
 street: ""
-housenumber: 1
+housenumber: "1"
 phone: ""
-opening_hours: "Th 09:00-18:00; Fr 07:30-18:00; Sa 07:30-12:00"
+opening_hours: Th 09:00-18:00; Fr 07:30-18:00; Sa 07:30-12:00
 website: ""

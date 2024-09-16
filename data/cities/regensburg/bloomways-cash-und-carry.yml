@@ -1,11 +1,11 @@
 id: 98424271
-type: way
+type: node
 latitude: 48.99625
 longitude: 12.12042
 postcode: "93053"
 city: Regensburg
-street: "Bajuwarenstraße"
-housenumber: 7
-phone: "+49 941 74033"
-opening_hours: "Mo-Fr 05:30-10:00; Sa 05:30-09:00"
-website: "http://www.bloomways-regensburg.de/"
+street: Bajuwarenstraße
+housenumber: "7"
+phone: +49 941 74033
+opening_hours: Mo-Fr 05:30-10:00; Sa 05:30-09:00
+website: http://www.bloomways-regensburg.de/

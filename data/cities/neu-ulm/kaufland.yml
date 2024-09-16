@@ -1,11 +1,11 @@
 id: 71308470
-type: way
+type: node
 latitude: 48.38513
 longitude: 10.00411
 postcode: "89231"
 city: Neu-Ulm
-street: "Memminger Straße"
-housenumber: 54
-phone: "+49 731 985860"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.kaufland.de/"
+street: Memminger Straße
+housenumber: "54"
+phone: +49 731 985860
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.kaufland.de/

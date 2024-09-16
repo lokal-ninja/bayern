@@ -1,11 +1,11 @@
 id: 27038127
-type: way
+type: node
 latitude: 48.70416
 longitude: 11.42333
 postcode: "85051"
 city: Ingolstadt
-street: "Am Hochfeldweg"
-housenumber: 4
-phone: "+49 8450 928880"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.globus-baumarkt.de/"
+street: Am Hochfeldweg
+housenumber: "4"
+phone: +49 8450 928880
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.globus-baumarkt.de/

@@ -1,11 +1,11 @@
 id: 396054747
-type: way
+type: node
 latitude: 48.36923
 longitude: 12.24671
 postcode: "84149"
 city: Velden
-street: "Theodor-Triebenbacher-Straße"
-housenumber: 2
+street: Theodor-Triebenbacher-Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.opel-attenberger-velden.de"
+website: https://www.opel-attenberger-velden.de

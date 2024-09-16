@@ -1,11 +1,11 @@
 id: 222887706
-type: way
+type: node
 latitude: 49.99824
 longitude: 12.07412
 postcode: "95615"
 city: Marktredwitz
-street: "Waldershofer Straße"
-housenumber: 16
+street: Waldershofer Straße
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

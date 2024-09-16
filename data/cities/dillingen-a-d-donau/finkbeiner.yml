@@ -1,11 +1,11 @@
 id: 158515728
-type: way
+type: node
 latitude: 48.58025
 longitude: 10.48913
 postcode: "89407"
 city: Dillingen a.d.Donau
-street: "Große Allee"
-housenumber: 19
+street: Große Allee
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

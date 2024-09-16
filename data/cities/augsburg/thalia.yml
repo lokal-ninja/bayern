@@ -4,8 +4,8 @@ latitude: 48.36798
 longitude: 10.89649
 postcode: "86150"
 city: Augsburg
-street: "Annastraße"
-housenumber: 23
-phone: "+49 821 509600"
-opening_hours: "Mo-Sa 09:30-20:00"
+street: Annastraße
+housenumber: "23"
+phone: +49 821 509600
+opening_hours: Mo-Sa 09:30-20:00
 website: ""

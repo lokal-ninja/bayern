@@ -4,8 +4,8 @@ latitude: 50.32286
 longitude: 11.92077
 postcode: "95028"
 city: Hof
-street: "Maxplatz"
-housenumber: 20
+street: Maxplatz
+housenumber: "20"
 phone: ""
-opening_hours: "Mo 09:00-12:30; Tu-Fr 09:00-12:30,14:00-18:00; Sa 09:30-12:30"
-website: "https://www.teppich-hopf.de/"
+opening_hours: Mo 09:00-12:30; Tu-Fr 09:00-12:30,14:00-18:00; Sa 09:30-12:30
+website: https://www.teppich-hopf.de/

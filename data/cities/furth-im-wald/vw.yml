@@ -1,11 +1,11 @@
 id: 32594563
-type: way
+type: node
 latitude: 49.3117
 longitude: 12.83476
 postcode: "93437"
 city: Furth im Wald
-street: "Glaserstraße"
-housenumber: 24
+street: Glaserstraße
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

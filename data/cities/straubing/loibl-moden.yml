@@ -4,8 +4,8 @@ latitude: 48.88079
 longitude: 12.57122
 postcode: "94315"
 city: Straubing
-street: "Rosengasse"
-housenumber: 18
-phone: "+49 9421 12690"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00"
-website: "https://www.loibl-moden.de/"
+street: Rosengasse
+housenumber: "18"
+phone: +49 9421 12690
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-16:00
+website: https://www.loibl-moden.de/

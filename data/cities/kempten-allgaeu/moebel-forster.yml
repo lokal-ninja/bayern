@@ -1,11 +1,11 @@
 id: 90043297
-type: way
+type: node
 latitude: 47.74873
 longitude: 10.31958
 postcode: "87437"
 city: Kempten (Allgäu)
-street: "Dieselstraße"
-housenumber: 2
+street: Dieselstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-14:00"
-website: "https://www.moebelforster.de/"
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-14:00
+website: https://www.moebelforster.de/

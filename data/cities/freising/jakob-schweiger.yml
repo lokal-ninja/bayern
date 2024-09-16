@@ -4,8 +4,8 @@ latitude: 48.40027
 longitude: 11.74242
 postcode: "85354"
 city: Freising
-street: "Obere Hauptstraße"
-housenumber: 12
-phone: "+49 8161 7733"
-opening_hours: "Tu-Fr 08:30-18:00; Sa 08:00-13:00; PH off"
-website: "https://www.friseur-schweiger.de/"
+street: Obere Hauptstraße
+housenumber: "12"
+phone: +49 8161 7733
+opening_hours: Tu-Fr 08:30-18:00; Sa 08:00-13:00; PH off
+website: https://www.friseur-schweiger.de/

@@ -1,11 +1,11 @@
 id: 182404056
-type: way
+type: node
 latitude: 50.01031
 longitude: 10.1808
 postcode: "97493"
 city: Bergrheinfeld
-street: "Rothmühlstraße"
-housenumber: 5
+street: Rothmühlstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

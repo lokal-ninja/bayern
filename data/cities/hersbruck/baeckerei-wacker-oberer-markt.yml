@@ -4,8 +4,8 @@ latitude: 49.50928
 longitude: 11.42847
 postcode: "91217"
 city: Hersbruck
-street: "Oberer Markt"
-housenumber: 
+street: Oberer Markt
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-12:00"
-website: "http://www.baeckerei-wacker.de/"
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-12:00
+website: http://www.baeckerei-wacker.de/

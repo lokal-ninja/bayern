@@ -1,11 +1,11 @@
 id: 53062682
-type: way
+type: node
 latitude: 48.97375
 longitude: 13.13032
 postcode: ""
 city: Regen
-street: "Bodenmaiser Straße"
-housenumber: 36
+street: Bodenmaiser Straße
+housenumber: "36"
 phone: ""
 opening_hours: ""
 website: ""

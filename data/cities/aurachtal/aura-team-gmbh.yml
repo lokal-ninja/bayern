@@ -4,8 +4,8 @@ latitude: 49.57859
 longitude: 10.8298
 postcode: "91086"
 city: Aurachtal
-street: "Döhlersberg"
-housenumber: 5
-phone: "+49 9132 797623"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.aura-team.de/"
+street: Döhlersberg
+housenumber: "5"
+phone: +49 9132 797623
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.aura-team.de/

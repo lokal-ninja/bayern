@@ -1,11 +1,11 @@
 id: 187819182
-type: way
+type: node
 latitude: 47.88062
 longitude: 11.46098
 postcode: "82538"
 city: Geretsried
-street: "Elbestraße"
-housenumber: 23
+street: Elbestraße
+housenumber: "23"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

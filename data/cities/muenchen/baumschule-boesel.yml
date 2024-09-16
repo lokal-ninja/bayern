@@ -1,11 +1,11 @@
 id: 43636031
-type: way
+type: node
 latitude: 48.15475
 longitude: 11.6408
 postcode: "81927"
 city: München
-street: "Dorpater Straße"
-housenumber: 14
-phone: "+49 89 931711"
-opening_hours: "Mo-Fr 08:00-12:00,13:00-18:00; Sa 09:00-14:00"
-website: "https://www.baumschule-boesel.de/"
+street: Dorpater Straße
+housenumber: "14"
+phone: +49 89 931711
+opening_hours: Mo-Fr 08:00-12:00,13:00-18:00; Sa 09:00-14:00
+website: https://www.baumschule-boesel.de/

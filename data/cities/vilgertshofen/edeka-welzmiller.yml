@@ -1,11 +1,11 @@
 id: 231628075
-type: way
+type: node
 latitude: 47.96267
 longitude: 10.94063
 postcode: "86946"
 city: Vilgertshofen
-street: "Hirschberg"
+street: Hirschberg
 housenumber: 17a
 phone: ""
-opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-18:00"
-website: "https://www.edeka.de/eh/s%C3%BCdbayern/edeka-welzmiller-hirschberg-17-a/index.jsp"
+opening_hours: Mo-Fr 07:00-20:00; Sa 07:00-18:00
+website: https://www.edeka.de/eh/s%C3%BCdbayern/edeka-welzmiller-hirschberg-17-a/index.jsp

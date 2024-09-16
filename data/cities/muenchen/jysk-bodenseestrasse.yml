@@ -4,8 +4,8 @@ latitude: 48.14353
 longitude: 11.42731
 postcode: "81243"
 city: München
-street: "Bodenseestraße"
-housenumber: 216
-phone: "+49 89-810594690"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "https://jysk.de/filialen/muenchen/bodenseestrasse"
+street: Bodenseestraße
+housenumber: "216"
+phone: +49 89-810594690
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
+website: https://jysk.de/filialen/muenchen/bodenseestrasse

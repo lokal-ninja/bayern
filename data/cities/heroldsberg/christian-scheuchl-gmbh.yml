@@ -1,11 +1,11 @@
 id: 218557874
-type: way
+type: node
 latitude: 49.53276
 longitude: 11.15331
 postcode: "90562"
 city: Heroldsberg
-street: "Am Festplatz"
-housenumber: 4
+street: Am Festplatz
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.14042
 longitude: 11.59315
 postcode: "80538"
 city: München
-street: "Liebigstraße"
-housenumber: 28
+street: Liebigstraße
+housenumber: "28"
 phone: ""
-opening_hours: "Termine nach Vereinbarung"
+opening_hours: '"Termine nach Vereinbarung"'
 website: ""

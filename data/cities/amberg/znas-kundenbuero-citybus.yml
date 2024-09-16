@@ -1,11 +1,11 @@
 id: 1124141262
-type: way
+type: node
 latitude: 49.44782
 longitude: 11.86166
 postcode: "92224"
 city: Amberg
-street: "Kaiser-Ludwig-Ring"
-housenumber: 5
+street: Kaiser-Ludwig-Ring
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 07:00-17:30; Sa 08:00-12:00"
+opening_hours: Mo-Fr 07:00-17:30; Sa 08:00-12:00
 website: ""

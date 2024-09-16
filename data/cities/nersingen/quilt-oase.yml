@@ -4,8 +4,8 @@ latitude: 48.42679
 longitude: 10.12043
 postcode: "89278"
 city: Nersingen
-street: "Steinheimer Straße"
-housenumber: 3
-phone: "07308 42107"
-opening_hours: "Mo 16:00-20:00; We 09:00-12:00, 14:00-18:00"
-website: "https://www.quilt-oase.de/"
+street: Steinheimer Straße
+housenumber: "3"
+phone: 07308 42107
+opening_hours: Mo 16:00-20:00; We 09:00-12:00, 14:00-18:00
+website: https://www.quilt-oase.de/

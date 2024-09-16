@@ -4,8 +4,8 @@ latitude: 48.04536
 longitude: 11.96413
 postcode: "85567"
 city: Grafing bei München
-street: "Bahnhofstraße"
-housenumber: 7
-phone: "+49 8092 85 43 99"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-12:00; Su 08:00-11:00"
-website: "https://baeckerei-daumoser.de/"
+street: Bahnhofstraße
+housenumber: "7"
+phone: +49 8092 85 43 99
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-12:00; Su 08:00-11:00
+website: https://baeckerei-daumoser.de/

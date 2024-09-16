@@ -1,11 +1,11 @@
 id: 51678763
-type: way
+type: node
 latitude: 48.60674
 longitude: 11.62006
 postcode: "85283"
 city: Wolnzach
-street: "Hopfenstraße"
-housenumber: 35
+street: Hopfenstraße
+housenumber: "35"
 phone: ""
 opening_hours: ""
 website: ""

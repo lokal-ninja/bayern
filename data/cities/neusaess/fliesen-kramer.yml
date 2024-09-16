@@ -1,11 +1,11 @@
 id: 646869932
-type: way
+type: node
 latitude: 48.40271
 longitude: 10.83652
 postcode: "86356"
 city: Neusäß
-street: "Boschstraße"
-housenumber: 16
-phone: "+49 821 414488"
+street: Boschstraße
+housenumber: "16"
+phone: +49 821 414488
 opening_hours: ""
-website: "https://www.fliesenkramer-augsburg.de"
+website: https://www.fliesenkramer-augsburg.de

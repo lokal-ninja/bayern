@@ -1,11 +1,11 @@
 id: 986993445
-type: way
+type: node
 latitude: 50.36284
 longitude: 11.93649
 postcode: "95183"
 city: Feilitzsch
-street: "Hauptstraße"
-housenumber: 17
+street: Hauptstraße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-12:00; Su off"
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-12:00; Su off
 website: ""

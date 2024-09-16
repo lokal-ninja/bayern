@@ -1,11 +1,11 @@
 id: 469772421
-type: way
+type: node
 latitude: 48.22695
 longitude: 12.61357
 postcode: "84576"
 city: Teising
-street: "Hauptstraße"
-housenumber: 12
+street: Hauptstraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.19857
 longitude: 12.52367
 postcode: "93426"
 city: Roding
-street: "Chamer Straße"
-housenumber: 44
-phone: "+49 9461 2505"
-opening_hours: "Mo-Fr 07:45-18:00; Sa 09:00-12:00"
-website: "https://www.meier.mercedes-benz.de/"
+street: Chamer Straße
+housenumber: "44"
+phone: +49 9461 2505
+opening_hours: Mo-Fr 07:45-18:00; Sa 09:00-12:00
+website: https://www.meier.mercedes-benz.de/

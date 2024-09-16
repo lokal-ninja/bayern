@@ -4,8 +4,8 @@ latitude: 49.43533
 longitude: 10.97439
 postcode: "90522"
 city: Oberasbach
-street: "Rothenburger Straße"
-housenumber: 42
-phone: "+49 911 697988"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://www.zweirad-mlady.de/"
+street: Rothenburger Straße
+housenumber: "42"
+phone: +49 911 697988
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://www.zweirad-mlady.de/

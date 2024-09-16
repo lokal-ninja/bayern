@@ -1,11 +1,11 @@
 id: 102849068
-type: way
+type: node
 latitude: 49.41006
 longitude: 10.68225
 postcode: "90599"
 city: Dietenhofen
-street: "Neudorfer Höhe"
-housenumber: 2
+street: Neudorfer Höhe
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.norma-online.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.norma-online.de

@@ -4,8 +4,8 @@ latitude: 49.59031
 longitude: 10.96618
 postcode: "91056"
 city: Erlangen
-street: "Dorfstraße"
-housenumber: 31
+street: Dorfstraße
+housenumber: "31"
 phone: ""
 opening_hours: ""
-website: "https://www.autoplatz-erlangen.de/"
+website: https://www.autoplatz-erlangen.de/

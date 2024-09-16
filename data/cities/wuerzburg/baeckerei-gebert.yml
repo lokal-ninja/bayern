@@ -4,8 +4,8 @@ latitude: 49.79697
 longitude: 9.93619
 postcode: "97070"
 city: Würzburg
-street: "Semmelstraße"
-housenumber: 21
-phone: "+49 931 46771087"
-opening_hours: "Mo-Fr 07:00-18:00"
-website: "https://baeckerei-gebert.de/"
+street: Semmelstraße
+housenumber: "21"
+phone: +49 931 46771087
+opening_hours: Mo-Fr 07:00-18:00
+website: https://baeckerei-gebert.de/

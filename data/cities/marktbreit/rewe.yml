@@ -4,8 +4,8 @@ latitude: 49.66797
 longitude: 10.1407
 postcode: "97340"
 city: Marktbreit
-street: "Hafenstraße"
-housenumber: 1
+street: Hafenstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.163
 longitude: 11.54364
 postcode: "80637"
 city: München
-street: "Helene-Weber-Allee"
-housenumber: 17
+street: Helene-Weber-Allee
+housenumber: "17"
 phone: ""
-opening_hours: "Mo, We, Fr 10:00-19:00; Sa 10:00-15:00"
+opening_hours: Mo, We, Fr 10:00-19:00; Sa 10:00-15:00
 website: ""

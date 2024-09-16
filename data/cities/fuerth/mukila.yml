@@ -4,8 +4,8 @@ latitude: 49.47071
 longitude: 10.99205
 postcode: "90762"
 city: Fürth
-street: "Bahnhofplatz"
-housenumber: 6
-phone: "+49 911 50720111"
+street: Bahnhofplatz
+housenumber: "6"
+phone: +49 911 50720111
 opening_hours: ""
-website: "https://www.mukila.de"
+website: https://www.mukila.de

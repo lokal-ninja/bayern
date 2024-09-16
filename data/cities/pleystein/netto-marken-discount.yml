@@ -1,11 +1,11 @@
 id: 88798511
-type: way
+type: node
 latitude: 49.65135
 longitude: 12.40522
 postcode: "92714"
 city: Pleystein
-street: "Neuenhammerstraße"
-housenumber: 63
+street: Neuenhammerstraße
+housenumber: "63"
 phone: ""
 opening_hours: ""
-website: "https://www.netto-online.de"
+website: https://www.netto-online.de

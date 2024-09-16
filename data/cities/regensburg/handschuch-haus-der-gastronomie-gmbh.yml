@@ -1,11 +1,11 @@
 id: 238367769
-type: way
+type: node
 latitude: 48.99402
 longitude: 12.15129
 postcode: "93055"
 city: Regensburg
-street: "Junkersstraße"
-housenumber: 5
-phone: "+49 941 794737"
-opening_hours: "Mo-Th 8:30-17:00; Fr 8:30-14:00"
-website: "https://www.handschuch.de/"
+street: Junkersstraße
+housenumber: "5"
+phone: +49 941 794737
+opening_hours: Mo-Th 8:30-17:00; Fr 8:30-14:00
+website: https://www.handschuch.de/

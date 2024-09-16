@@ -4,8 +4,8 @@ latitude: 48.11485
 longitude: 11.54825
 postcode: ""
 city: München
-street: "Implerstraße"
-housenumber: 66
-phone: "+49 89 725 78 25"
-opening_hours: "Sa 08:00-16:00; Mo-Fr 09:00-19:00"
-website: "https://www.orterer.de/"
+street: Implerstraße
+housenumber: "66"
+phone: +49 89 725 78 25
+opening_hours: Sa 08:00-16:00; Mo-Fr 09:00-19:00
+website: https://www.orterer.de/

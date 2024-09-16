@@ -1,11 +1,11 @@
 id: 803844556
-type: way
+type: node
 latitude: 49.74282
 longitude: 12.178
 postcode: "92660"
 city: Neustadt a.d.Waldnaab
-street: "Tirschenreuther Straße"
-housenumber: 60
-phone: "+49 9602 9201963"
-opening_hours: "24/7"
+street: Tirschenreuther Straße
+housenumber: "60"
+phone: +49 9602 9201963
+opening_hours: 24/7
 website: ""

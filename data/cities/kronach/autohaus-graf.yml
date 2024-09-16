@@ -1,11 +1,11 @@
 id: 398673576
-type: way
+type: node
 latitude: 50.23107
 longitude: 11.33946
 postcode: "96317"
 city: Kronach
-street: "Industriestraße"
-housenumber: 34
+street: Industriestraße
+housenumber: "34"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:30-13:00"
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:30-13:00
 website: ""

@@ -1,11 +1,11 @@
 id: 48857036
-type: way
+type: node
 latitude: 48.8092
 longitude: 11.48314
 postcode: "85092"
 city: Kösching
-street: "Ingolstädter Straße"
-housenumber: 100
+street: Ingolstädter Straße
+housenumber: "100"
 phone: ""
 opening_hours: ""
-website: "https://www.auto-krammel.de/"
+website: https://www.auto-krammel.de/

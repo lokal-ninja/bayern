@@ -1,11 +1,11 @@
 id: 124092676
-type: way
+type: node
 latitude: 47.85866
 longitude: 12.1201
 postcode: "83022"
 city: Rosenheim
-street: "Heilig-Geist-Straße"
-housenumber: 60
+street: Heilig-Geist-Straße
+housenumber: "60"
 phone: ""
 opening_hours: ""
 website: ""

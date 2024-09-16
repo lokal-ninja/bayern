@@ -1,11 +1,11 @@
 id: 23379830
-type: way
+type: node
 latitude: 48.45696
 longitude: 11.12556
 postcode: "86551"
 city: Aichach
-street: "Franz-Beck-Straße"
-housenumber: 3
+street: Franz-Beck-Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
+opening_hours: Mo-Sa 08:00-20:00; PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 102579914
-type: way
+type: node
 latitude: 48.03747
 longitude: 10.49792
 postcode: "87719"
 city: Mindelheim
-street: "Säulingstraße"
-housenumber: 7
+street: Säulingstraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

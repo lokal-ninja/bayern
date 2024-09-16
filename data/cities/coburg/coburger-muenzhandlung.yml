@@ -4,8 +4,8 @@ latitude: 50.25853
 longitude: 10.96631
 postcode: "96450"
 city: Coburg
-street: "Herrngasse"
-housenumber: 15
-phone: "+49 9561 75142"
-opening_hours: "Mo-Fr 10:00-13:00,15:00-18:00; Sa 10:00-13:00; Su,PH off"
-website: "https://www.coburger-muenzenhandlung.de/"
+street: Herrngasse
+housenumber: "15"
+phone: +49 9561 75142
+opening_hours: Mo-Fr 10:00-13:00,15:00-18:00; Sa 10:00-13:00; Su,PH off
+website: https://www.coburger-muenzenhandlung.de/

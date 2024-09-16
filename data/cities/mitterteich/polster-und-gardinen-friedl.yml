@@ -1,11 +1,11 @@
 id: 668471684
-type: way
+type: node
 latitude: 49.95063
 longitude: 12.24046
 postcode: "95666"
 city: Mitterteich
-street: "Großbüchlberger Straße"
-housenumber: 7
+street: Großbüchlberger Straße
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://www.raumundpolster.de"
+website: https://www.raumundpolster.de

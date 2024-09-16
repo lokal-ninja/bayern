@@ -1,11 +1,11 @@
 id: 137734110
-type: way
+type: node
 latitude: 48.08407
 longitude: 11.85283
 postcode: "85614"
 city: Kirchseeon
-street: "Siriusstraße"
-housenumber: 11
+street: Siriusstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 07:00-12:00,13:00-18:00, Sa 09:00-13:00"
+opening_hours: Mo-Fr 07:00-12:00,13:00-18:00, Sa 09:00-13:00
 website: ""

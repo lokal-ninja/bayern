@@ -1,11 +1,11 @@
 id: 104842724
-type: way
+type: node
 latitude: 48.73378
 longitude: 13.609
 postcode: "94065"
 city: Waldkirchen
-street: "Bannholzstraße"
-housenumber: 38
+street: Bannholzstraße
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

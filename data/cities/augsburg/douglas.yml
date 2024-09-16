@@ -4,8 +4,8 @@ latitude: 48.36666
 longitude: 10.89665
 postcode: "86150"
 city: Augsburg
-street: "Moritzplatz"
-housenumber: 7
+street: Moritzplatz
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.douglas.de"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.douglas.de

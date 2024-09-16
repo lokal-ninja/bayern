@@ -4,8 +4,8 @@ latitude: 48.36344
 longitude: 10.87251
 postcode: "86157"
 city: Augsburg
-street: "Augsburger Straße"
-housenumber: 20
-phone: "+49 821 526393"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-14:00"
-website: "https://www.beauty-augsburg.de/"
+street: Augsburger Straße
+housenumber: "20"
+phone: +49 821 526393
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-14:00
+website: https://www.beauty-augsburg.de/

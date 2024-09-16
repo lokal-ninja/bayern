@@ -4,8 +4,8 @@ latitude: 47.5809
 longitude: 10.73916
 postcode: "87645"
 city: Schwangau
-street: "Römerweg"
-housenumber: 4
-phone: "+49 8362 5074862"
-opening_hours: "Mo-Fr 08:00-12:00,13:00-17:00"
-website: "https://www.quadconnection.de/"
+street: Römerweg
+housenumber: "4"
+phone: +49 8362 5074862
+opening_hours: Mo-Fr 08:00-12:00,13:00-17:00
+website: https://www.quadconnection.de/

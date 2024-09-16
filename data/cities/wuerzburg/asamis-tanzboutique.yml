@@ -4,8 +4,8 @@ latitude: 49.79652
 longitude: 9.93557
 postcode: "97070"
 city: Würzburg
-street: "Semmelstraße"
-housenumber: 6
+street: Semmelstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 10:00-12:45,13:30-18:00; Sa 10:00-15:00; We,Su off"
+opening_hours: Mo,Tu,Th,Fr 10:00-12:45,13:30-18:00; Sa 10:00-15:00; We,Su off
 website: ""

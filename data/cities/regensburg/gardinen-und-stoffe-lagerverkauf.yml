@@ -1,11 +1,11 @@
 id: 215837217
-type: way
+type: node
 latitude: 49.00344
 longitude: 12.14652
 postcode: "93055"
 city: Regensburg
-street: "Werner-Heisenberg-Straße"
-housenumber: 9
+street: Werner-Heisenberg-Straße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

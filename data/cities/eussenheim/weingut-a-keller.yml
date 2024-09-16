@@ -4,8 +4,8 @@ latitude: 49.9896
 longitude: 9.80874
 postcode: "97776"
 city: Eußenheim
-street: "Hauptstraße"
-housenumber: 9
-phone: "+49 9353 6362"
-opening_hours: "Mo-Fr 09:00-12:30, 13:30-17:30; Sa 09:00-14:30"
-website: "https://www.kellers-weingut.de/"
+street: Hauptstraße
+housenumber: "9"
+phone: +49 9353 6362
+opening_hours: Mo-Fr 09:00-12:30, 13:30-17:30; Sa 09:00-14:30
+website: https://www.kellers-weingut.de/

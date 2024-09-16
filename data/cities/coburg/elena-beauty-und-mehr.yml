@@ -4,8 +4,8 @@ latitude: 50.26095
 longitude: 10.95907
 postcode: "96450"
 city: Coburg
-street: "Lossaustraße"
-housenumber: 2
-phone: "+49 9561 509043"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00; Su,PH off"
-website: "https://elena-wellness.de"
+street: Lossaustraße
+housenumber: "2"
+phone: +49 9561 509043
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00; Su,PH off
+website: https://elena-wellness.de

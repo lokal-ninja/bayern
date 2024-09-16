@@ -1,11 +1,11 @@
 id: 201984685
-type: way
+type: node
 latitude: 50.00355
 longitude: 12.30445
 postcode: "95652"
 city: Waldsassen
-street: "Prinz-Ludwig-Straße"
-housenumber: 10
+street: Prinz-Ludwig-Straße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

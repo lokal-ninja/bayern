@@ -1,11 +1,11 @@
 id: 136551551
-type: way
+type: node
 latitude: 48.11776
 longitude: 11.5289
 postcode: "81373"
 city: München
-street: "Kössener Straße"
-housenumber: 29
-phone: "+49 172 8964974"
-opening_hours: "Tu 15:00-18:30; Th 14:00-16:00; Sa 11:00-13:30"
-website: "https://munichstanduppaddling.com/"
+street: Kössener Straße
+housenumber: "29"
+phone: +49 172 8964974
+opening_hours: Tu 15:00-18:30; Th 14:00-16:00; Sa 11:00-13:30
+website: https://munichstanduppaddling.com/

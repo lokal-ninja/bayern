@@ -1,11 +1,11 @@
 id: 111233782
-type: way
+type: node
 latitude: 47.847
 longitude: 12.13276
 postcode: "83022"
 city: Rosenheim
-street: "Tegernseestraße"
-housenumber: 30
+street: Tegernseestraße
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

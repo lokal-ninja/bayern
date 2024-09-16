@@ -4,8 +4,8 @@ latitude: 49.79114
 longitude: 9.93186
 postcode: "97070"
 city: Würzburg
-street: "Franziskanerplatz"
-housenumber: 4
+street: Franziskanerplatz
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
-website: "https://www.schoeningh-buch.de/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00
+website: https://www.schoeningh-buch.de/

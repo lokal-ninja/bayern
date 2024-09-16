@@ -4,8 +4,8 @@ latitude: 47.59852
 longitude: 11.05999
 postcode: "82487"
 city: Oberammergau
-street: "Bahnhofstraße"
-housenumber: 14
-phone: "+49 176 30 52 02 14"
-opening_hours: "nach Vereinbarung"
-website: "http://www.nagelschmiede.online"
+street: Bahnhofstraße
+housenumber: "14"
+phone: +49 176 30 52 02 14
+opening_hours: '"nach Vereinbarung"'
+website: http://www.nagelschmiede.online

@@ -1,11 +1,11 @@
 id: 660931861
-type: way
+type: node
 latitude: 48.29254
 longitude: 10.66763
 postcode: "86850"
 city: Fischach
-street: "Rudolf-Diesel-Straße"
-housenumber: 13
+street: Rudolf-Diesel-Straße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

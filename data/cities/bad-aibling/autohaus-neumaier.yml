@@ -4,8 +4,8 @@ latitude: 47.85513
 longitude: 12.01613
 postcode: "83043"
 city: Bad Aibling
-street: "Rosenheimer Straße"
-housenumber: 70
-phone: "+49 8061 35 07 0"
-opening_hours: "Mo-Fr 07:30-17:30; Sa 08:00-13:00; PH,Su off"
-website: "https://www.auto-neumaier.de/"
+street: Rosenheimer Straße
+housenumber: "70"
+phone: +49 8061 35 07 0
+opening_hours: Mo-Fr 07:30-17:30; Sa 08:00-13:00; PH,Su off
+website: https://www.auto-neumaier.de/

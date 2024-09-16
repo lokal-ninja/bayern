@@ -1,11 +1,11 @@
 id: 144021962
-type: way
+type: node
 latitude: 49.93322
 longitude: 11.56249
 postcode: "95447"
 city: Bayreuth
-street: "Justus-Liebig-Straße"
-housenumber: 41
+street: Justus-Liebig-Straße
+housenumber: "41"
 phone: ""
 opening_hours: ""
 website: ""

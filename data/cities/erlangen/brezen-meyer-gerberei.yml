@@ -1,11 +1,11 @@
 id: 146533474
-type: way
+type: node
 latitude: 49.59829
 longitude: 10.99879
 postcode: "91054"
 city: Erlangen
-street: "Gerberei"
+street: Gerberei
 housenumber: 17b
-phone: "+49 9131 64800"
-opening_hours: "Tu-Sa 06:30-18:00; Su 08:00-17:00; Mo 06:30-13:30"
-website: "https://www.brezen-meyer.de/wo-wir-sind/index.html"
+phone: +49 9131 64800
+opening_hours: Tu-Sa 06:30-18:00; Su 08:00-17:00; Mo 06:30-13:30
+website: https://www.brezen-meyer.de/wo-wir-sind/index.html

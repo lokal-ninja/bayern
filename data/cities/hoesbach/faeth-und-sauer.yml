@@ -1,11 +1,11 @@
 id: 44818828
-type: way
+type: node
 latitude: 50.00361
 longitude: 9.20247
 postcode: "63768"
 city: Hösbach
-street: "Kirchenstraße"
-housenumber: 4
+street: Kirchenstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

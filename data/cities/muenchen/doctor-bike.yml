@@ -4,8 +4,8 @@ latitude: 48.13396
 longitude: 11.59567
 postcode: "81667"
 city: München
-street: "Innere Wiener Straße"
-housenumber: 42
+street: Innere Wiener Straße
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-14:00"
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-14:00
 website: ""

@@ -1,11 +1,11 @@
 id: 373804853
-type: way
+type: node
 latitude: 49.99873
 longitude: 10.19723
 postcode: "97506"
 city: Grafenrheinfeld
-street: "Hauptstraße"
-housenumber: 50
+street: Hauptstraße
+housenumber: "50"
 phone: ""
-opening_hours: "Mo-Fr 08:30-15:00"
+opening_hours: Mo-Fr 08:30-15:00
 website: ""

@@ -1,11 +1,11 @@
 id: 338188429
-type: way
+type: node
 latitude: 48.12782
 longitude: 10.47929
 postcode: "87775"
 city: Salgen
-street: "Raiffeisenstraße"
-housenumber: 16
+street: Raiffeisenstraße
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

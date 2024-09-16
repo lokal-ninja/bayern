@@ -1,11 +1,11 @@
 id: 212782623
-type: way
+type: node
 latitude: 47.8796
 longitude: 12.60824
 postcode: "83278"
 city: Traunstein
-street: "Erlstätter Straße"
-housenumber: 3
+street: Erlstätter Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://www.chiemgaukaffee.de/"
+website: https://www.chiemgaukaffee.de/

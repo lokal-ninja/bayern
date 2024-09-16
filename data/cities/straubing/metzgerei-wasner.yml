@@ -4,8 +4,8 @@ latitude: 48.88214
 longitude: 12.57051
 postcode: "94315"
 city: Straubing
-street: "Ludwigsplatz"
-housenumber: 11
-phone: "+49 9421 21461"
-opening_hours: "Mo.-Fr.: 08.00 - 18.00 Uhr Sa.: 07.00 - 15.00 Uhr"
-website: "https://www.metzgereiwasner.de/"
+street: Ludwigsplatz
+housenumber: "11"
+phone: +49 9421 21461
+opening_hours: 'Mo.-Fr.: 08.00 - 18.00 Uhr Sa.: 07.00 - 15.00 Uhr'
+website: https://www.metzgereiwasner.de/

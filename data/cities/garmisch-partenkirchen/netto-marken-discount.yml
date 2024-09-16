@@ -1,11 +1,11 @@
 id: 268300579
-type: way
+type: node
 latitude: 47.49066
 longitude: 11.11261
 postcode: "82467"
 city: Garmisch-Partenkirchen
-street: "Mittenwalder Straße"
-housenumber: 4
+street: Mittenwalder Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:00 - 20:00"
+opening_hours: Mo-Sa 07:00 - 20:00
 website: ""

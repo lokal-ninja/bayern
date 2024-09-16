@@ -1,11 +1,11 @@
 id: 40973274
-type: way
+type: node
 latitude: 47.71954
 longitude: 11.41234
 postcode: "83673"
 city: Bichl
-street: "Kocheler Straße"
-housenumber: 10
+street: Kocheler Straße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-12:00"
-website: "https://www.baeckerei-eberl.de/"
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-12:00
+website: https://www.baeckerei-eberl.de/

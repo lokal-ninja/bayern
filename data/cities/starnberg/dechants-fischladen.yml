@@ -4,8 +4,8 @@ latitude: 47.99759
 longitude: 11.33981
 postcode: "82319"
 city: Starnberg
-street: "Hauptstraße"
-housenumber: 20
-phone: "+49 8151 12106"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 08:30-14:00; Su,PH off"
-website: "https://www.dechants-fischladen.de/"
+street: Hauptstraße
+housenumber: "20"
+phone: +49 8151 12106
+opening_hours: Tu-Fr 09:00-18:00; Sa 08:30-14:00; Su,PH off
+website: https://www.dechants-fischladen.de/

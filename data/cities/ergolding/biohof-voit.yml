@@ -1,11 +1,11 @@
 id: 201333535
-type: way
+type: node
 latitude: 48.57571
 longitude: 12.16798
 postcode: "84030"
 city: Ergolding
-street: "Lindenstraße"
-housenumber: 47
+street: Lindenstraße
+housenumber: "47"
 phone: ""
 opening_hours: ""
 website: ""

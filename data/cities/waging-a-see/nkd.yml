@@ -1,11 +1,11 @@
 id: 118937520
-type: way
+type: node
 latitude: 47.93461
 longitude: 12.73355
 postcode: "83329"
 city: Waging a. See
-street: "Postgasse"
-housenumber: 9
+street: Postgasse
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

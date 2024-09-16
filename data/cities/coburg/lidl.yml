@@ -1,11 +1,11 @@
 id: 366976547
-type: way
+type: node
 latitude: 50.26769
 longitude: 10.96264
 postcode: "96450"
 city: Coburg
-street: "Kanonenweg"
+street: Kanonenweg
 housenumber: 15a
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.lidl.de/filialen/coburg/kanonenweg-15a.html"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.lidl.de/filialen/coburg/kanonenweg-15a.html

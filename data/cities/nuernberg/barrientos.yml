@@ -1,11 +1,11 @@
 id: 32346987
-type: way
+type: node
 latitude: 49.42916
 longitude: 11.07123
 postcode: "90441"
 city: Nürnberg
-street: "Vogelweiherstraße"
-housenumber: 42
+street: Vogelweiherstraße
+housenumber: "42"
 phone: ""
 opening_hours: ""
 website: ""

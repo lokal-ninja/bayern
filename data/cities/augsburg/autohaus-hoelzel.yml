@@ -1,11 +1,11 @@
 id: 91216507
-type: way
+type: node
 latitude: 48.37412
 longitude: 10.93288
 postcode: "86165"
 city: Augsburg
-street: "Donaustraße"
-housenumber: 16
+street: Donaustraße
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 448055159
-type: way
+type: node
 latitude: 47.69513
 longitude: 11.7669
 postcode: "83700"
 city: Rottach-Egern
-street: "Seestraße"
-housenumber: 28
+street: Seestraße
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

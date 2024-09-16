@@ -1,11 +1,11 @@
 id: 363815617
-type: way
+type: node
 latitude: 48.14911
 longitude: 11.65802
 postcode: "81929"
 city: München
-street: "Burgauerstraße"
-housenumber: 200
+street: Burgauerstraße
+housenumber: "200"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

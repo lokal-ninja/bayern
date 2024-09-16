@@ -1,11 +1,11 @@
 id: 416682975
-type: way
+type: node
 latitude: 49.28323
 longitude: 10.26196
 postcode: "91583"
 city: Schillingsfürst
-street: "Fischhausweg"
-housenumber: 8
+street: Fischhausweg
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

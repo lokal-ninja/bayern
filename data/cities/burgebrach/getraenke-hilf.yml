@@ -1,11 +1,11 @@
 id: 94688877
-type: way
+type: node
 latitude: 49.82815
 longitude: 10.76471
 postcode: "96138"
 city: Burgebrach
-street: "Kapellenfeld"
-housenumber: 9
-phone: "+49 9546 94040"
+street: Kapellenfeld
+housenumber: "9"
+phone: +49 9546 94040
 opening_hours: ""
-website: "https://www.getraenke-hilf.com/"
+website: https://www.getraenke-hilf.com/

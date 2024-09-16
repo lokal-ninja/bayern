@@ -1,11 +1,11 @@
 id: 142419013
-type: way
+type: node
 latitude: 49.47125
 longitude: 11.83004
 postcode: "92284"
 city: Poppenricht
-street: "Zum Sinterbühl"
-housenumber: 2
+street: Zum Sinterbühl
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

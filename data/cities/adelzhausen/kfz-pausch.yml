@@ -1,11 +1,11 @@
 id: 198747399
-type: way
+type: node
 latitude: 48.36788
 longitude: 11.14845
 postcode: "86559"
 city: Adelzhausen
-street: "Gewerbepark"
-housenumber: 22
+street: Gewerbepark
+housenumber: "22"
 phone: ""
 opening_hours: ""
-website: "https://www.kfzpausch.de/"
+website: https://www.kfzpausch.de/

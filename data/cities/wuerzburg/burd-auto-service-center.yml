@@ -1,11 +1,11 @@
 id: 221323452
-type: way
+type: node
 latitude: 49.79636
 longitude: 9.98568
 postcode: ""
 city: Würzburg
-street: "Gattingerstraße"
-housenumber: 
+street: Gattingerstraße
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

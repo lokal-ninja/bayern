@@ -5,7 +5,7 @@ longitude: 12.06687
 postcode: "92681"
 city: Erbendorf
 street: ""
-housenumber: 8
-phone: "+49 9683 929 744"
+housenumber: "8"
+phone: +49 9683 929 744
 opening_hours: ""
-website: "https://grenzmuehle.de/"
+website: https://grenzmuehle.de/

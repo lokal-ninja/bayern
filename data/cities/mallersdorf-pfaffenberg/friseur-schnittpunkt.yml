@@ -1,11 +1,11 @@
 id: 200505442
-type: way
+type: node
 latitude: 48.76589
 longitude: 12.24388
 postcode: "84066"
 city: Mallersdorf-Pfaffenberg
-street: "Niederlindhart"
-housenumber: 30
+street: Niederlindhart
+housenumber: "30"
 phone: "+498772203320"
-opening_hours: "by appointment"
+opening_hours: '"by appointment"'
 website: ""

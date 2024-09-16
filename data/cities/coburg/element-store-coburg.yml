@@ -4,8 +4,8 @@ latitude: 50.25837
 longitude: 10.96357
 postcode: "96450"
 city: Coburg
-street: "Judengasse"
-housenumber: 1
-phone: "+49 9561 5126885"
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-15:30"
-website: "https://www.elt-coburg.de/"
+street: Judengasse
+housenumber: "1"
+phone: +49 9561 5126885
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-15:30
+website: https://www.elt-coburg.de/

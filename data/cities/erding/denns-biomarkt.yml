@@ -1,11 +1,11 @@
 id: 858340566
-type: way
+type: node
 latitude: 48.31063
 longitude: 11.88965
 postcode: "85435"
 city: Erding
-street: "Anton-Huber-Straße"
-housenumber: 4
-phone: "+49 8122 9545536"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.denns-biomarkt.de/erding-anton-huber-str-4/marktseite/"
+street: Anton-Huber-Straße
+housenumber: "4"
+phone: +49 8122 9545536
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.denns-biomarkt.de/erding-anton-huber-str-4/marktseite/

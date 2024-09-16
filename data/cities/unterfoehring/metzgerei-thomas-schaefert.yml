@@ -4,8 +4,8 @@ latitude: 48.19305
 longitude: 11.64093
 postcode: "85774"
 city: Unterföhring
-street: "Münchner Straße"
-housenumber: 73
-phone: "+49 89 2011267"
-opening_hours: "Mo-Fr 07:00-18:30; Sa 07:00-13:00"
-website: "http://www.party-metzger.de/"
+street: Münchner Straße
+housenumber: "73"
+phone: +49 89 2011267
+opening_hours: Mo-Fr 07:00-18:30; Sa 07:00-13:00
+website: http://www.party-metzger.de/

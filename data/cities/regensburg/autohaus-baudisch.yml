@@ -1,11 +1,11 @@
 id: 367136863
-type: way
+type: node
 latitude: 49.01256
 longitude: 12.13109
 postcode: "93055"
 city: Regensburg
-street: "An der Irler Höhe"
-housenumber: 1
-phone: "+49 941 793207"
-opening_hours: "Mo-Th 08:00-18:00; Fr 08:00-16:30; Sa 10:00-13:00"
-website: "https://kia-baudisch-regensburg.de/"
+street: An der Irler Höhe
+housenumber: "1"
+phone: +49 941 793207
+opening_hours: Mo-Th 08:00-18:00; Fr 08:00-16:30; Sa 10:00-13:00
+website: https://kia-baudisch-regensburg.de/

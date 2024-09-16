@@ -1,11 +1,11 @@
 id: 362490549
-type: way
+type: node
 latitude: 48.36199
 longitude: 11.04035
 postcode: "86316"
 city: Friedberg
-street: "Dasinger Straße"
-housenumber: 55
-phone: "+49 8205 539"
+street: Dasinger Straße
+housenumber: "55"
+phone: +49 8205 539
 opening_hours: ""
-website: "https://www.zaeune-spaeth.de/"
+website: https://www.zaeune-spaeth.de/

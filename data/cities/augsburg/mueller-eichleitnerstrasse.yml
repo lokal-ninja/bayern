@@ -1,11 +1,11 @@
 id: 91523993
-type: way
+type: node
 latitude: 48.34569
 longitude: 10.88457
 postcode: "86199"
 city: Augsburg
-street: "Eichleitnerstraße"
-housenumber: 3
+street: Eichleitnerstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

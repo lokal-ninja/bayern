@@ -1,11 +1,11 @@
 id: 152435852
-type: way
+type: node
 latitude: 49.46441
 longitude: 11.84959
 postcode: "92224"
 city: Amberg
-street: "Bayreuther Straße"
-housenumber: 51
+street: Bayreuther Straße
+housenumber: "51"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.norma-online.de"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.norma-online.de

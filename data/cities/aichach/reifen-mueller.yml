@@ -1,11 +1,11 @@
 id: 109697154
-type: way
+type: node
 latitude: 48.44733
 longitude: 11.13709
 postcode: "86551"
 city: Aichach
-street: "Rudolf-Diesel-Straße"
-housenumber: 2
+street: Rudolf-Diesel-Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://aichach.reifen-mueller.com/startseite/"
+website: https://aichach.reifen-mueller.com/startseite/

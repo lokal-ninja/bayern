@@ -1,11 +1,11 @@
 id: 82764140
-type: way
+type: node
 latitude: 49.90044
 longitude: 10.33757
 postcode: "97447"
 city: Gerolzhofen
-street: "Lohmühlenweg"
-housenumber: 9
+street: Lohmühlenweg
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

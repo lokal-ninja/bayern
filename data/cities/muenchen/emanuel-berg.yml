@@ -4,8 +4,8 @@ latitude: 48.1578
 longitude: 11.57552
 postcode: "80801"
 city: München
-street: "Franz-Joseph-Straße"
-housenumber: 48
+street: Franz-Joseph-Straße
+housenumber: "48"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-14:00; Su,Ph off"
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-14:00; Su,Ph off
 website: ""

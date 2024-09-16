@@ -1,11 +1,11 @@
 id: 368293675
-type: way
+type: node
 latitude: 48.88627
 longitude: 12.79652
 postcode: "94559"
 city: Niederwinkling
-street: "Hauptstraße"
-housenumber: 5
-phone: "+49 9962 550"
-opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-12:00; Su off"
-website: "https://www.metzgerei-kammerl.de/"
+street: Hauptstraße
+housenumber: "5"
+phone: +49 9962 550
+opening_hours: Mo-Fr 06:30-18:00; Sa 06:30-12:00; Su off
+website: https://www.metzgerei-kammerl.de/

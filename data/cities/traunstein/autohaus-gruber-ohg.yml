@@ -1,11 +1,11 @@
 id: 175016248
-type: way
+type: node
 latitude: 47.88091
 longitude: 12.63504
 postcode: "83278"
 city: Traunstein
-street: "Gewerbepark Kaserne"
-housenumber: 10
-phone: "+49 861 1660966"
+street: Gewerbepark Kaserne
+housenumber: "10"
+phone: +49 861 1660966
 opening_hours: ""
 website: ""

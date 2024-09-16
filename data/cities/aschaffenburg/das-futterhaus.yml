@@ -4,8 +4,8 @@ latitude: 49.97985
 longitude: 9.13765
 postcode: "63739"
 city: Aschaffenburg
-street: "Maximilianstraße"
-housenumber: 4
+street: Maximilianstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.futterhaus.de/service/filialen/aschaffenburg/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.futterhaus.de/service/filialen/aschaffenburg/

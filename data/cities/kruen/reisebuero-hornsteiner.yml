@@ -4,8 +4,8 @@ latitude: 47.50517
 longitude: 11.27841
 postcode: "82494"
 city: Krün
-street: "Karwendelstraße"
-housenumber: 2
-phone: "+49 8825 470"
-opening_hours: "Mo-Sa 08:00-12:00, Mo,We,Fr 14:00-18:00"
-website: "http://www.reisebuero-hornsteiner.de/index.html"
+street: Karwendelstraße
+housenumber: "2"
+phone: +49 8825 470
+opening_hours: Mo-Sa 08:00-12:00, Mo,We,Fr 14:00-18:00
+website: http://www.reisebuero-hornsteiner.de/index.html

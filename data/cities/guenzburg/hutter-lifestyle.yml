@@ -4,8 +4,8 @@ latitude: 48.45574
 longitude: 10.2778
 postcode: "89312"
 city: Günzburg
-street: "Marktplatz"
-housenumber: 5
-phone: "+49 8221930670"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-14:00"
-website: "https://www.hutter-lifestyle.de/"
+street: Marktplatz
+housenumber: "5"
+phone: +49 8221930670
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-14:00
+website: https://www.hutter-lifestyle.de/

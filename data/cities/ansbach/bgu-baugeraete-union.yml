@@ -1,11 +1,11 @@
 id: 256712006
-type: way
+type: node
 latitude: 49.26396
 longitude: 10.59285
 postcode: "91522"
 city: Ansbach
-street: "Hardtstraße"
-housenumber: 9
+street: Hardtstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 185654960
-type: way
+type: node
 latitude: 48.12417
 longitude: 12.57281
 postcode: "84518"
 city: Garching an der Alz
-street: "Am Binderfeld"
-housenumber: 14
+street: Am Binderfeld
+housenumber: "14"
 phone: ""
 opening_hours: ""
-website: "https://hagebaumarkt-schneider.de/"
+website: https://hagebaumarkt-schneider.de/

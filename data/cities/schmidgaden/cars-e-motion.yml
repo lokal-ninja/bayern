@@ -1,11 +1,11 @@
 id: 679584902
-type: way
+type: node
 latitude: 49.43884
 longitude: 12.0548
 postcode: "92546"
 city: Schmidgaden
-street: "Gewerbegebiet Trisching"
-housenumber: 8
-phone: "+49 9438 5359988"
-opening_hours: "Mo-Fr 09:00-16:00"
-website: "https://www.cars-e-motion.de/"
+street: Gewerbegebiet Trisching
+housenumber: "8"
+phone: +49 9438 5359988
+opening_hours: Mo-Fr 09:00-16:00
+website: https://www.cars-e-motion.de/

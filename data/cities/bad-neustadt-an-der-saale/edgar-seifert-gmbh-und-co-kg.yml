@@ -1,11 +1,11 @@
 id: 92725522
-type: way
+type: node
 latitude: 50.33354
 longitude: 10.222
 postcode: "97616"
 city: Bad Neustadt an der Saale
-street: "Industriestraße"
-housenumber: 10
+street: Industriestraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

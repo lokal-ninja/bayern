@@ -1,11 +1,11 @@
 id: 266036297
-type: way
+type: node
 latitude: 48.51338
 longitude: 10.95599
 postcode: "86447"
 city: Aindling
-street: "Peter-Sengl-Straße"
-housenumber: 5
+street: Peter-Sengl-Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 129675531
-type: way
+type: node
 latitude: 48.64812
 longitude: 13.62111
 postcode: "94051"
 city: Hauzenberg
-street: "Passauer Straße"
-housenumber: 4
+street: Passauer Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.zankl-granit.de/index.php/die-erlebniswelt.html"
+website: https://www.zankl-granit.de/index.php/die-erlebniswelt.html

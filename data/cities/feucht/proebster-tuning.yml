@@ -4,8 +4,8 @@ latitude: 49.37521
 longitude: 11.20971
 postcode: "90537"
 city: Feucht
-street: "Schloßweg"
-housenumber: 3
-phone: "+49 9128 724 795"
-opening_hours: "Mo-Fr 08:30-17:00, sowie nach Vereinbarung"
-website: "http://www.proebster-tuning.de"
+street: Schloßweg
+housenumber: "3"
+phone: +49 9128 724 795
+opening_hours: Mo-Fr 08:30-17:00, "sowie nach Vereinbarung"
+website: http://www.proebster-tuning.de

@@ -4,8 +4,8 @@ latitude: 50.25908
 longitude: 10.96338
 postcode: "96450"
 city: Coburg
-street: "Mauer"
-housenumber: 6
-phone: "+49 176 34556984"
-opening_hours: "Termine nur nach Vereinbarung"
+street: Mauer
+housenumber: "6"
+phone: +49 176 34556984
+opening_hours: '"Termine nur nach Vereinbarung"'
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.43543
 longitude: 11.02263
 postcode: "90431"
 city: Nürnberg
-street: "Winterstraße"
-housenumber: 3
+street: Winterstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Th 07:30-16:00, Fr 07:30-12:00"
+opening_hours: Mo-Th 07:30-16:00, Fr 07:30-12:00
 website: ""

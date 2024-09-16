@@ -1,11 +1,11 @@
 id: 29051243
-type: way
+type: node
 latitude: 49.17394
 longitude: 12.09172
 postcode: "93142"
 city: Maxhütte-Haidhof
-street: "Amberger Straße"
-housenumber: 8
+street: Amberger Straße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

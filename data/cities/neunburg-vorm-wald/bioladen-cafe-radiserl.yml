@@ -1,11 +1,11 @@
 id: 232767063
-type: way
+type: node
 latitude: 49.34817
 longitude: 12.38873
 postcode: "92431"
 city: Neunburg vorm Wald
-street: "Hauptstraße"
-housenumber: 48
+street: Hauptstraße
+housenumber: "48"
 phone: ""
 opening_hours: ""
 website: ""

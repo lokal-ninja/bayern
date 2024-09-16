@@ -4,8 +4,8 @@ latitude: 48.33388
 longitude: 10.90368
 postcode: "86159"
 city: Augsburg
-street: "Hermann-Köhl-Straße"
-housenumber: 17
+street: Hermann-Köhl-Straße
+housenumber: "17"
 phone: ""
-opening_hours: "Termine nach Vereinbarung"
-website: "http://www.de-luxxx.de/"
+opening_hours: '"Termine nach Vereinbarung"'
+website: http://www.de-luxxx.de/

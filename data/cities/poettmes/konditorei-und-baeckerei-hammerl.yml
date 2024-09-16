@@ -1,11 +1,11 @@
 id: 91237525
-type: way
+type: node
 latitude: 48.58229
 longitude: 11.08937
 postcode: "86554"
 city: Pöttmes
-street: "Marktplatz"
-housenumber: 10
-phone: "+49 8253 6061"
+street: Marktplatz
+housenumber: "10"
+phone: +49 8253 6061
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.10637
 longitude: 11.59682
 postcode: "81549"
 city: München
-street: "Schwanseestraße"
-housenumber: 43
+street: Schwanseestraße
+housenumber: "43"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00"
-website: "https://www.fussgesund.info/"
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00
+website: https://www.fussgesund.info/

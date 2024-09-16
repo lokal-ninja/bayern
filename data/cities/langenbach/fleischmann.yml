@@ -4,8 +4,8 @@ latitude: 48.43287
 longitude: 11.84158
 postcode: "85416"
 city: Langenbach
-street: "Großer Anger"
-housenumber: 4
+street: Großer Anger
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 08:00-16:00"
-website: "https://getraenke-fleischmann.de/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 08:00-16:00
+website: https://getraenke-fleischmann.de/

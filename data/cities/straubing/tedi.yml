@@ -4,8 +4,8 @@ latitude: 48.87764
 longitude: 12.58005
 postcode: "94315"
 city: Straubing
-street: "Schildhauerstraße"
-housenumber: 14
+street: Schildhauerstraße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://tedi.com"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://tedi.com

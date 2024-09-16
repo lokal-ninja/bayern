@@ -4,8 +4,8 @@ latitude: 50.08627
 longitude: 9.07209
 postcode: "63755"
 city: Alzenau
-street: "Hanauer Straße"
-housenumber: 11
+street: Hanauer Straße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo,Th-Sa 09:00-13:00, Mo,Th,Fr 14:30-18:30"
-website: "http://www.wollmaedchen.de"
+opening_hours: Mo,Th-Sa 09:00-13:00, Mo,Th,Fr 14:30-18:30
+website: http://www.wollmaedchen.de

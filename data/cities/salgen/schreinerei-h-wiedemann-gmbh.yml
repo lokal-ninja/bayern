@@ -1,11 +1,11 @@
 id: 297845272
-type: way
+type: node
 latitude: 48.1297
 longitude: 10.48199
 postcode: "87775"
 city: Salgen
-street: "Moosstraße"
-housenumber: 15
+street: Moosstraße
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

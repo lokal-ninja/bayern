@@ -4,8 +4,8 @@ latitude: 48.20516
 longitude: 11.32595
 postcode: "82140"
 city: Olching
-street: "Hauptstraße"
-housenumber: 67
+street: Hauptstraße
+housenumber: "67"
 phone: ""
-opening_hours: "Tu-Fr 10:00-19:00, Sa 09:30-13:00"
-website: "https://lightbox-foto.de"
+opening_hours: Tu-Fr 10:00-19:00, Sa 09:30-13:00
+website: https://lightbox-foto.de

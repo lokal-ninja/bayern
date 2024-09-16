@@ -1,11 +1,11 @@
 id: 50229077
-type: way
+type: node
 latitude: 48.14043
 longitude: 11.73939
 postcode: "85622"
 city: Feldkirchen
-street: "Otto-Lilienthal-Ring"
-housenumber: 34
+street: Otto-Lilienthal-Ring
+housenumber: "34"
 phone: ""
 opening_hours: ""
 website: ""

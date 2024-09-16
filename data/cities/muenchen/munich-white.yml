@@ -4,8 +4,8 @@ latitude: 48.16979
 longitude: 11.58645
 postcode: "80804"
 city: München
-street: "Leopoldstraße"
-housenumber: 154
+street: Leopoldstraße
+housenumber: "154"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.munich-white.com"
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.munich-white.com

@@ -1,11 +1,11 @@
 id: 231342210
-type: way
+type: node
 latitude: 48.4089
 longitude: 10.434
 postcode: "89343"
 city: Jettingen-Scheppach
-street: "Messerschmittstraße"
-housenumber: 2
-phone: "+49 8225 1310"
+street: Messerschmittstraße
+housenumber: "2"
+phone: +49 8225 1310
 opening_hours: ""
-website: "https://www.fahrradladen-suess.de/"
+website: https://www.fahrradladen-suess.de/

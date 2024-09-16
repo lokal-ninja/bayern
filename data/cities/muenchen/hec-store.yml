@@ -4,8 +4,8 @@ latitude: 48.14213
 longitude: 11.56789
 postcode: "80333"
 city: München
-street: "Ottostraße"
-housenumber: 3
-phone: "+49 89 201 866 91"
-opening_hours: "Mo-Fr 12:00-18:00"
-website: "https://hecstore.de/"
+street: Ottostraße
+housenumber: "3"
+phone: +49 89 201 866 91
+opening_hours: Mo-Fr 12:00-18:00
+website: https://hecstore.de/

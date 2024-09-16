@@ -1,11 +1,11 @@
 id: 224218739
-type: way
+type: node
 latitude: 49.04759
 longitude: 11.79339
 postcode: "93155"
 city: Hemau
-street: "Am Gewerbebogen"
-housenumber: 3
+street: Am Gewerbebogen
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 199213113
-type: way
+type: node
 latitude: 49.29722
 longitude: 10.59793
 postcode: "91522"
 city: Ansbach
-street: "Eyber Straße"
-housenumber: 163
-phone: "+49-981-2052"
-opening_hours: "Mo- Fr 16:30-18:00; Sa 06:30-12:30"
+street: Eyber Straße
+housenumber: "163"
+phone: +49-981-2052
+opening_hours: Mo- Fr 16:30-18:00; Sa 06:30-12:30
 website: ""

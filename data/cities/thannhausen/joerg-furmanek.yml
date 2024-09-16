@@ -1,11 +1,11 @@
 id: 198180268
-type: way
+type: node
 latitude: 48.29013
 longitude: 10.45819
 postcode: "86470"
 city: Thannhausen
-street: "Carl-Zeiss-Straße"
-housenumber: 8
-phone: "+49 8281 9841007"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:30-12:30"
+street: Carl-Zeiss-Straße
+housenumber: "8"
+phone: +49 8281 9841007
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:30-12:30
 website: ""

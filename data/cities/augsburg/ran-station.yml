@@ -1,11 +1,11 @@
 id: 23575511
-type: way
+type: node
 latitude: 48.37081
 longitude: 10.87884
 postcode: "86152"
 city: Augsburg
-street: "Holzbachstraße"
-housenumber: 2
-phone: "+49 821 5047765"
-opening_hours: "24/7"
-website: "https://www.ran-tankstellen.de/tankstelle-augsburg"
+street: Holzbachstraße
+housenumber: "2"
+phone: +49 821 5047765
+opening_hours: 24/7
+website: https://www.ran-tankstellen.de/tankstelle-augsburg

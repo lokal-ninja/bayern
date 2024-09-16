@@ -4,8 +4,8 @@ latitude: 47.97091
 longitude: 11.6535
 postcode: "82054"
 city: Sauerlach
-street: "Tegernseer Landstraße"
-housenumber: 6
+street: Tegernseer Landstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Tu-Fr 08:30-18:00; Sa 08:00-14:00; Mo off"
-website: "https://www.fisch-genuss.de/"
+opening_hours: Tu-Fr 08:30-18:00; Sa 08:00-14:00; Mo off
+website: https://www.fisch-genuss.de/

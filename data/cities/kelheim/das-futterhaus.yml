@@ -1,11 +1,11 @@
 id: 127184712
-type: way
+type: node
 latitude: 48.92039
 longitude: 11.88488
 postcode: "93309"
 city: Kelheim
-street: "Schäfflerstraße"
-housenumber: 18
+street: Schäfflerstraße
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

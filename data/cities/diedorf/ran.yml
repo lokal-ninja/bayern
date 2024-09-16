@@ -1,11 +1,11 @@
 id: 97608676
-type: way
+type: node
 latitude: 48.359
 longitude: 10.78387
 postcode: "86420"
 city: Diedorf
-street: "Gewerbestraße"
-housenumber: 5
-phone: "+49 8238 9022 46"
-opening_hours: "Mo-Fr 05:30-23:00; Sa-Su 07:00-00:00"
-website: "https://www.ran-tankstellen.de/tankstelle-diedorf"
+street: Gewerbestraße
+housenumber: "5"
+phone: +49 8238 9022 46
+opening_hours: Mo-Fr 05:30-23:00; Sa-Su 07:00-00:00
+website: https://www.ran-tankstellen.de/tankstelle-diedorf

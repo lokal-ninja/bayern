@@ -1,11 +1,11 @@
 id: 137051424
-type: way
+type: node
 latitude: 47.84964
 longitude: 12.07186
 postcode: "83059"
 city: Kolbermoor
-street: "Rosenheimer Straße"
-housenumber: 41
+street: Rosenheimer Straße
+housenumber: "41"
 phone: ""
 opening_hours: ""
-website: "https://www.moebel-krug.de/"
+website: https://www.moebel-krug.de/

@@ -1,11 +1,11 @@
 id: 305462125
-type: way
+type: node
 latitude: 50.25755
 longitude: 10.93019
 postcode: "96450"
 city: Coburg
-street: "Von-Merklin-Straße"
-housenumber: 4
-phone: "+49 9561 37748"
+street: Von-Merklin-Straße
+housenumber: "4"
+phone: +49 9561 37748
 opening_hours: ""
 website: ""

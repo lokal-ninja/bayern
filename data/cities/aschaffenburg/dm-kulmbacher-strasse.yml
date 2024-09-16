@@ -1,11 +1,11 @@
 id: 148856701
-type: way
+type: node
 latitude: 49.96163
 longitude: 9.17599
 postcode: "63743"
 city: Aschaffenburg
-street: "Kulmbacher Straße"
-housenumber: 2
-phone: "+49 6021 369 7566"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.dm.de/"
+street: Kulmbacher Straße
+housenumber: "2"
+phone: +49 6021 369 7566
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.dm.de/

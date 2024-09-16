@@ -1,11 +1,11 @@
 id: 327959122
-type: way
+type: node
 latitude: 49.37533
 longitude: 10.1902
 postcode: "91541"
 city: Rothenburg ob der Tauber
-street: "Ansbacher Straße"
-housenumber: 38
+street: Ansbacher Straße
+housenumber: "38"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.13337
 longitude: 11.5452
 postcode: "80339"
 city: München
-street: "Franziska-Bilek-Weg"
-housenumber: 9
-phone: "+49 89 51 99 62 26"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:30; Su off"
-website: "https://samt-und-seide.mux.de/"
+street: Franziska-Bilek-Weg
+housenumber: "9"
+phone: +49 89 51 99 62 26
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:30; Su off
+website: https://samt-und-seide.mux.de/

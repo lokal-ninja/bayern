@@ -4,8 +4,8 @@ latitude: 49.56843
 longitude: 10.88291
 postcode: "91074"
 city: Herzogenaurach
-street: "Hauptstraße"
-housenumber: 10
-phone: "+49 9132 6 37 23"
-opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-13:00"
-website: "https://www.grellersbackstube.de/index.php/filialen"
+street: Hauptstraße
+housenumber: "10"
+phone: +49 9132 6 37 23
+opening_hours: Mo-Fr 06:30-18:00; Sa 06:30-13:00
+website: https://www.grellersbackstube.de/index.php/filialen

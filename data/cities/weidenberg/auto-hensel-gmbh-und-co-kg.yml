@@ -4,8 +4,8 @@ latitude: 49.94196
 longitude: 11.72297
 postcode: "95466"
 city: Weidenberg
-street: "Bahnhofstraße"
-housenumber: 8
-phone: "+49 921 74510"
-opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-13:00"
-website: "https://www.auto-hensel.de/"
+street: Bahnhofstraße
+housenumber: "8"
+phone: +49 921 74510
+opening_hours: Mo-Fr 09:00-18:00, Sa 09:00-13:00
+website: https://www.auto-hensel.de/

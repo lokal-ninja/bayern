@@ -1,11 +1,11 @@
 id: 30163617
-type: way
+type: node
 latitude: 49.65934
 longitude: 11.03658
 postcode: "91083"
 city: Baiersdorf
-street: "Jahnstraße"
-housenumber: 13
-phone: "+49 9133 5370"
-opening_hours: "Mo-Sa 07:00-20:00"
+street: Jahnstraße
+housenumber: "13"
+phone: +49 9133 5370
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 467523256
-type: way
+type: node
 latitude: 49.49672
 longitude: 10.4043
 postcode: "91438"
 city: Bad Winsheim
-street: "Schwebheimer Straße"
-housenumber: 4
+street: Schwebheimer Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 90292766
-type: way
+type: node
 latitude: 48.34754
 longitude: 10.88634
 postcode: "86199"
 city: Augsburg
-street: "Eichleitnerstraße"
+street: Eichleitnerstraße
 housenumber: 12 a
-phone: "+49 821 57057-0"
-opening_hours: "Mo,We-Sa 10:00-19:00"
-website: "https://wir.expert-technomarkt.de/standorte/augsburg/"
+phone: +49 821 57057-0
+opening_hours: Mo,We-Sa 10:00-19:00
+website: https://wir.expert-technomarkt.de/standorte/augsburg/

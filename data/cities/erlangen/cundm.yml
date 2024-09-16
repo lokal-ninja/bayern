@@ -4,8 +4,8 @@ latitude: 49.59575
 longitude: 11.00717
 postcode: "91054"
 city: Erlangen
-street: "Friedrichstraße"
-housenumber: 8
-phone: "+49 9131 4000921"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:00"
-website: "https://www.cundm-company.de/"
+street: Friedrichstraße
+housenumber: "8"
+phone: +49 9131 4000921
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-17:00
+website: https://www.cundm-company.de/

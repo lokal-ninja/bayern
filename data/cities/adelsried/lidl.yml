@@ -1,11 +1,11 @@
 id: 238748104
-type: way
+type: node
 latitude: 48.42181
 longitude: 10.71917
 postcode: "86477"
 city: Adelsried
-street: "Im Moos"
-housenumber: 2
+street: Im Moos
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

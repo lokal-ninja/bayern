@@ -1,11 +1,11 @@
 id: 758929862
-type: way
+type: node
 latitude: 49.42997
 longitude: 11.85479
 postcode: "92224"
 city: Amberg
-street: "Stauffenbergstraße"
-housenumber: 6
+street: Stauffenbergstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

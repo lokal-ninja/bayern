@@ -4,8 +4,8 @@ latitude: 48.1231
 longitude: 11.56611
 postcode: "80469"
 city: München
-street: "Auenstraße"
-housenumber: 31
-phone: "+49 89 13948485"
+street: Auenstraße
+housenumber: "31"
+phone: +49 89 13948485
 opening_hours: ""
-website: "https://bavarian-outfitters.de/"
+website: https://bavarian-outfitters.de/

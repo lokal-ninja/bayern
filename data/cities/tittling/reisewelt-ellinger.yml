@@ -4,8 +4,9 @@ latitude: 48.72887
 longitude: 13.38008
 postcode: "94104"
 city: Tittling
-street: "Herrenstraße"
-housenumber: 6
+street: Herrenstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00;Sa 09:00-12:00 || nach telefonischer Vereinbarung"
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00;Sa 09:00-12:00 || "nach telefonischer
+    Vereinbarung"
 website: ""

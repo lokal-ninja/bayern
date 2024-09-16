@@ -1,11 +1,11 @@
 id: 204967173
-type: way
+type: node
 latitude: 49.51443
 longitude: 11.36315
 postcode: "91244"
 city: Reichenschwand
-street: "Altentränke"
-housenumber: 3
+street: Altentränke
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

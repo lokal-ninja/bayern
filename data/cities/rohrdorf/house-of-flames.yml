@@ -1,11 +1,11 @@
 id: 294216388
-type: way
+type: node
 latitude: 47.83621
 longitude: 12.16435
 postcode: "83101"
 city: Rohrdorf
-street: "Sebastian-Tiefenthaler-Straße"
-housenumber: 16
+street: Sebastian-Tiefenthaler-Straße
+housenumber: "16"
 phone: ""
 opening_hours: ""
-website: "https://house-of-flames.com/Website/Ueber-uns/Store-Rosenheim/Standort"
+website: https://house-of-flames.com/Website/Ueber-uns/Store-Rosenheim/Standort

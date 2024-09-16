@@ -1,11 +1,11 @@
 id: 53580365
-type: way
+type: node
 latitude: 49.5079
 longitude: 10.41674
 postcode: "91438"
 city: Bad Windsheim
-street: "Jahnstraße"
-housenumber: 12
+street: Jahnstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

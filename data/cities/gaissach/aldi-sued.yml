@@ -1,11 +1,11 @@
 id: 93885637
-type: way
+type: node
 latitude: 47.74305
 longitude: 11.56881
 postcode: "83674"
 city: Gaißach
-street: "Kranzer"
-housenumber: 7
+street: Kranzer
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://filialen.aldi-sued.de/bayern/gaissach/moser-saege-7"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://filialen.aldi-sued.de/bayern/gaissach/moser-saege-7

@@ -4,8 +4,8 @@ latitude: 48.09395
 longitude: 11.56947
 postcode: "81545"
 city: München
-street: "Sankt-Magnus-Straße"
-housenumber: 29
+street: Sankt-Magnus-Straße
+housenumber: "29"
 phone: ""
-opening_hours: "Tu-Fr 09:00-18:30; Sa 09:00-14:00"
-website: "https://www.kaltenmarktner.de"
+opening_hours: Tu-Fr 09:00-18:30; Sa 09:00-14:00
+website: https://www.kaltenmarktner.de

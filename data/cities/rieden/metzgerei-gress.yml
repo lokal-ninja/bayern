@@ -1,11 +1,11 @@
 id: 369543115
-type: way
+type: node
 latitude: 49.32357
 longitude: 11.9431
 postcode: "92286"
 city: Rieden
-street: "Hauptstraße"
-housenumber: 14
+street: Hauptstraße
+housenumber: "14"
 phone: "+499624512"
-opening_hours: "Mo-Fr 08:00-12:00, 14:00-18:00; Sa 07:00-11:30"
+opening_hours: Mo-Fr 08:00-12:00, 14:00-18:00; Sa 07:00-11:30
 website: ""

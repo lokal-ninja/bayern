@@ -1,11 +1,11 @@
 id: 732324367
-type: way
+type: node
 latitude: 49.90127
 longitude: 10.34807
 postcode: "97447"
 city: Gerolzhofen
-street: "Marktstraße"
-housenumber: 7
+street: Marktstraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

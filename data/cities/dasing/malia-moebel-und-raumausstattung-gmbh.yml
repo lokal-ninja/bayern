@@ -1,11 +1,11 @@
 id: 135330752
-type: way
+type: node
 latitude: 48.38486
 longitude: 11.04978
 postcode: "86453"
 city: Dasing
-street: "Am Anger"
-housenumber: 4
-phone: "+49 8205 246"
+street: Am Anger
+housenumber: "4"
+phone: +49 8205 246
 opening_hours: ""
-website: "http://www.malia-moebel.de/"
+website: http://www.malia-moebel.de/

@@ -4,8 +4,8 @@ latitude: 50.03174
 longitude: 10.51061
 postcode: "97437"
 city: Haßfurt
-street: "Obere Vorstadt"
-housenumber: 5
-phone: "+49 9521 81 12"
-opening_hours: "Mo-Fr 09:30-13:00,14:00-17:00"
-website: "https://thomsen-raumausstattung.de/"
+street: Obere Vorstadt
+housenumber: "5"
+phone: +49 9521 81 12
+opening_hours: Mo-Fr 09:30-13:00,14:00-17:00
+website: https://thomsen-raumausstattung.de/

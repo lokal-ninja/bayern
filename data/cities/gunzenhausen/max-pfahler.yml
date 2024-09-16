@@ -1,11 +1,11 @@
 id: 140755084
-type: way
+type: node
 latitude: 49.11496
 longitude: 10.75478
 postcode: "91710"
 city: Gunzenhausen
-street: "Rathausstraße"
-housenumber: 6
+street: Rathausstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 08:30-12:30, Mo,Fr 15:00-18:00"
+opening_hours: Mo-Sa 08:30-12:30, Mo,Fr 15:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 813679486
-type: way
+type: node
 latitude: 49.42309
 longitude: 12.08787
 postcode: "92546"
 city: Schmidgaden
-street: "Am Anger"
-housenumber: 48
-phone: "+49 9435 300317"
+street: Am Anger
+housenumber: "48"
+phone: +49 9435 300317
 opening_hours: ""
-website: "https://lorenz-pcservices.de"
+website: https://lorenz-pcservices.de

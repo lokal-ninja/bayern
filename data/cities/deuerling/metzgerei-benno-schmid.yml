@@ -1,11 +1,11 @@
 id: 159076888
-type: way
+type: node
 latitude: 49.03483
 longitude: 11.90748
 postcode: "93180"
 city: Deuerling
-street: "Am Kirchberg"
-housenumber: 2
-phone: "+49 9498 597"
-opening_hours: "Tu,Th,Fr 07:00-18:00; We 07:00-12:30; Sa 06:30-12:00; Mo,Su,PH off"
+street: Am Kirchberg
+housenumber: "2"
+phone: +49 9498 597
+opening_hours: Tu,Th,Fr 07:00-18:00; We 07:00-12:30; Sa 06:30-12:00; Mo,Su,PH off
 website: ""

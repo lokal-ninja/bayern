@@ -4,8 +4,8 @@ latitude: 48.13062
 longitude: 11.57008
 postcode: "80469"
 city: München
-street: "Hans-Sachs-Straße"
-housenumber: 2
-phone: "+49 89 8899 9180"
-opening_hours: "Mo-Fr 11:00-18:00; Sa 11:00-17:00"
-website: "https://mistercannabis.de/muenchen-gbv/"
+street: Hans-Sachs-Straße
+housenumber: "2"
+phone: +49 89 8899 9180
+opening_hours: Mo-Fr 11:00-18:00; Sa 11:00-17:00
+website: https://mistercannabis.de/muenchen-gbv/

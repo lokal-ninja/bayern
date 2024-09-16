@@ -1,11 +1,11 @@
 id: 111740927
-type: way
+type: node
 latitude: 48.37691
 longitude: 10.84399
 postcode: "86391"
 city: Stadtbergen
-street: "Wankelstraße"
-housenumber: 9
+street: Wankelstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-13:00"
+opening_hours: Mo-Fr 06:30-18:00; Sa 06:30-13:00
 website: ""

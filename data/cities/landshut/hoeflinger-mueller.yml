@@ -1,11 +1,11 @@
 id: 436396003
-type: way
+type: node
 latitude: 48.54711
 longitude: 12.13607
 postcode: "84032"
 city: Landshut
-street: "Bahnhofplatz"
-housenumber: 1
+street: Bahnhofplatz
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 05:00-20:00; Sa,Su 05:00-19:00"
+opening_hours: Mo-Fr 05:00-20:00; Sa,Su 05:00-19:00
 website: ""

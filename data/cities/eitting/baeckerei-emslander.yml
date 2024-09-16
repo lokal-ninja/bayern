@@ -1,11 +1,11 @@
 id: 283543900
-type: way
+type: node
 latitude: 48.35955
 longitude: 11.89072
 postcode: "85462"
 city: Eitting
-street: "Obere Hauptstraße"
-housenumber: 3
+street: Obere Hauptstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

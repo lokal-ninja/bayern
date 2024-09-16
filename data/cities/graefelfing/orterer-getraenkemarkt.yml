@@ -1,11 +1,11 @@
 id: 90272847
-type: way
+type: node
 latitude: 48.11739
 longitude: 11.44249
 postcode: "82166"
 city: Gräfelfing
-street: "Finkenstraße"
-housenumber: 32
-phone: "+49 89 89892763"
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
-website: "https://www.orterer.de/component/filialfinder/detail/124-orterer-getraenkemaerkte-gmbh?Itemid=331"
+street: Finkenstraße
+housenumber: "32"
+phone: +49 89 89892763
+opening_hours: Mo-Sa 08:00-20:00; PH off
+website: https://www.orterer.de/component/filialfinder/detail/124-orterer-getraenkemaerkte-gmbh?Itemid=331

@@ -1,11 +1,11 @@
 id: 306582521
-type: way
+type: node
 latitude: 50.13415
 longitude: 10.51998
 postcode: "97461"
 city: Hofheim in Unterfranken
-street: "Industriestraße"
-housenumber: 16
-phone: "+49 9523 501326"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 8:30-14:00"
-website: "http://www.fahrzeugteile-leicht.de/"
+street: Industriestraße
+housenumber: "16"
+phone: +49 9523 501326
+opening_hours: Mo-Fr 08:00-18:00; Sa 8:30-14:00
+website: http://www.fahrzeugteile-leicht.de/

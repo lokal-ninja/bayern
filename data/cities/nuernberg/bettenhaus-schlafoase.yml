@@ -4,8 +4,8 @@ latitude: 49.4495
 longitude: 11.06028
 postcode: "90429"
 city: Nürnberg
-street: "Fürther Straße"
-housenumber: 27
+street: Fürther Straße
+housenumber: "27"
 phone: "+49911266400"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-15:00"
-website: "https://www.bettenhaus-schlafoase.de/"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-15:00
+website: https://www.bettenhaus-schlafoase.de/

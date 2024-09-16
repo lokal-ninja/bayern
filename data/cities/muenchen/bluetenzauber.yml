@@ -4,8 +4,8 @@ latitude: 48.16368
 longitude: 11.57469
 postcode: "80796"
 city: München
-street: "Belgradstraße"
-housenumber: 26
-phone: "+49 89 309958"
-opening_hours: "Mo-Fr 08:30-18:30; Sa 08:30-13:00"
-website: "https://www.bluetenzauber.biz/"
+street: Belgradstraße
+housenumber: "26"
+phone: +49 89 309958
+opening_hours: Mo-Fr 08:30-18:30; Sa 08:30-13:00
+website: https://www.bluetenzauber.biz/

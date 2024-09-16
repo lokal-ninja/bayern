@@ -1,11 +1,11 @@
 id: 473031931
-type: way
+type: node
 latitude: 49.51397
 longitude: 11.37002
 postcode: "91244"
 city: Reichenschwand
-street: "Nürnberger Straße"
-housenumber: 22
-phone: "+49 9151 8174286"
-opening_hours: "Mo-Fr 05:00-18:00, Sa-Su 06:00-18:00"
-website: "https://www.der-kalchreuther-baecker.de/hp624/Landkreis-Nuernberger-Land.htm"
+street: Nürnberger Straße
+housenumber: "22"
+phone: +49 9151 8174286
+opening_hours: Mo-Fr 05:00-18:00, Sa-Su 06:00-18:00
+website: https://www.der-kalchreuther-baecker.de/hp624/Landkreis-Nuernberger-Land.htm

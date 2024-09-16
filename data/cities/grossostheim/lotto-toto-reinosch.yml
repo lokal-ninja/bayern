@@ -5,7 +5,8 @@ longitude: 9.07479
 postcode: "63762"
 city: Großostheim
 street: ""
-housenumber: 
-phone: "+49 6026 6428"
-opening_hours: "Mo-Th 08:30-12:00, Fr 08:00-12:30, Sa 08:30-12:00, Th 14:30-18:00, Fr 14:00-18:00"
+housenumber: ""
+phone: +49 6026 6428
+opening_hours: Mo-Th 08:30-12:00, Fr 08:00-12:30, Sa 08:30-12:00, Th 14:30-18:00,
+    Fr 14:00-18:00
 website: ""

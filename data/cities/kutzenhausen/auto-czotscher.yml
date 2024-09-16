@@ -4,8 +4,8 @@ latitude: 48.37171
 longitude: 10.71763
 postcode: "86500"
 city: Kutzenhausen
-street: "Biburger Straße"
-housenumber: 26
-phone: "+49 8294 1452"
-opening_hours: "Mo-Th 08:00-17:00; Fr 08:00-15:00"
-website: "https://www.auto-czotscher.de"
+street: Biburger Straße
+housenumber: "26"
+phone: +49 8294 1452
+opening_hours: Mo-Th 08:00-17:00; Fr 08:00-15:00
+website: https://www.auto-czotscher.de

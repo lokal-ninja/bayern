@@ -1,11 +1,11 @@
 id: 70225778
-type: way
+type: node
 latitude: 48.39424
 longitude: 10.02502
 postcode: "89231"
 city: Neu-Ulm
-street: "Max-Eyth-Straße"
-housenumber: 36
+street: Max-Eyth-Straße
+housenumber: "36"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; Sa nach Vereinbarung; Su,PH off"
-website: "https://www.aes-autoglas.de"
+opening_hours: Mo-Fr 08:00-17:00; Sa "nach Vereinbarung"; Su,PH off
+website: https://www.aes-autoglas.de

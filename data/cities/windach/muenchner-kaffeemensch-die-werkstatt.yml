@@ -1,11 +1,11 @@
 id: 1070352412
-type: way
+type: node
 latitude: 48.06394
 longitude: 11.04073
 postcode: "86949"
 city: Windach
-street: "Lindenstraße"
-housenumber: 2
+street: Lindenstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

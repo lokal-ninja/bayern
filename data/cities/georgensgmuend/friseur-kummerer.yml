@@ -1,11 +1,11 @@
 id: 464218622
-type: way
+type: node
 latitude: 49.18735
 longitude: 11.01628
 postcode: "91166"
 city: Georgensgmünd
-street: "Am Bruckespan"
-housenumber: 1
+street: Am Bruckespan
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

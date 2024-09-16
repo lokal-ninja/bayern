@@ -1,11 +1,11 @@
 id: 282046362
-type: way
+type: node
 latitude: 49.19467
 longitude: 11.33353
 postcode: "92342"
 city: Freystadt
-street: "Berchinger Straße"
-housenumber: 34
+street: Berchinger Straße
+housenumber: "34"
 phone: ""
 opening_hours: ""
 website: ""

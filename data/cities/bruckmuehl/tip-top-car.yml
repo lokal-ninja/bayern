@@ -4,8 +4,8 @@ latitude: 47.88762
 longitude: 11.95188
 postcode: "83052"
 city: Bruckmühl
-street: "St.-Martin-Straße"
-housenumber: 16
-phone: "+49 8062 70 09 378"
-opening_hours: "Mo-Fr 08:00-17:00; PH,Sa,Su off"
-website: "https://www.tiptop-car.de/"
+street: St.-Martin-Straße
+housenumber: "16"
+phone: +49 8062 70 09 378
+opening_hours: Mo-Fr 08:00-17:00; PH,Sa,Su off
+website: https://www.tiptop-car.de/

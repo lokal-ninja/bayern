@@ -4,8 +4,8 @@ latitude: 48.13818
 longitude: 11.57981
 postcode: "80331"
 city: München
-street: "Pfisterstraße"
-housenumber: 10
+street: Pfisterstraße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 11:00-19:00; Sa 11:00-18:00"
-website: "https://www.heinzelmann-munich.com/"
+opening_hours: Mo-Fr 11:00-19:00; Sa 11:00-18:00
+website: https://www.heinzelmann-munich.com/

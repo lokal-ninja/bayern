@@ -1,11 +1,11 @@
 id: 98727077
-type: way
+type: node
 latitude: 50.31868
 longitude: 10.20333
 postcode: "97616"
 city: Bad Neustadt an der Saale
-street: "Saalestraße"
-housenumber: 13
+street: Saalestraße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://filialen.aldi-sued.de/bayern/bad-neustadt/saalestrasse-13"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://filialen.aldi-sued.de/bayern/bad-neustadt/saalestrasse-13

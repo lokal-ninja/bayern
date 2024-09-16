@@ -1,11 +1,11 @@
 id: 255611806
-type: way
+type: node
 latitude: 47.8504
 longitude: 12.54211
 postcode: "83355"
 city: Grabenstätt
-street: "Gewerbestraße"
-housenumber: 2
+street: Gewerbestraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

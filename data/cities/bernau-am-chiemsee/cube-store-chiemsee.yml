@@ -4,8 +4,9 @@ latitude: 47.85589
 longitude: 12.34061
 postcode: "83209"
 city: Bernau am Chiemsee
-street: "Lujo-Brentano-Straße"
+street: Lujo-Brentano-Straße
 housenumber: 1-3
-phone: "+49 8051 9635773"
-opening_hours: "Mar-Oct Mo-Fr 09:00-19:00; Nov-Feb Tu-Fr 10:00-18:00; Mar-Oct Sa 09:00-16:00; Nov-Feb Sa 10:00-13:00"
-website: "https://www.cube-store-chiemsee.de"
+phone: +49 8051 9635773
+opening_hours: Mar-Oct Mo-Fr 09:00-19:00; Nov-Feb Tu-Fr 10:00-18:00; Mar-Oct Sa 09:00-16:00;
+    Nov-Feb Sa 10:00-13:00
+website: https://www.cube-store-chiemsee.de

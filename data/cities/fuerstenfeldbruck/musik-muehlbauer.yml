@@ -4,8 +4,8 @@ latitude: 48.17621
 longitude: 11.2509
 postcode: "82256"
 city: Fürstenfeldbruck
-street: "Schöngeisinger Straße"
-housenumber: 55
-phone: "+49 8141 12175"
-opening_hours: "Mo,Th,Fr 9:00-12:30,15:00-18:00; Sa 10:00-12:30"
-website: "https://www.notenblatt-ffb.de/"
+street: Schöngeisinger Straße
+housenumber: "55"
+phone: +49 8141 12175
+opening_hours: Mo,Th,Fr 9:00-12:30,15:00-18:00; Sa 10:00-12:30
+website: https://www.notenblatt-ffb.de/

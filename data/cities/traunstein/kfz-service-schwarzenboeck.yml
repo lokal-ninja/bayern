@@ -1,11 +1,11 @@
 id: 259640695
-type: way
+type: node
 latitude: 47.87213
 longitude: 12.62242
 postcode: "83278"
 city: Traunstein
-street: "Kreuzstraße"
-housenumber: 16
+street: Kreuzstraße
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

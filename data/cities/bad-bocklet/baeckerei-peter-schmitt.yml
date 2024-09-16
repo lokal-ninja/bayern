@@ -4,8 +4,8 @@ latitude: 50.26664
 longitude: 10.07547
 postcode: "97708"
 city: Bad Bocklet
-street: "Aschacher Straße"
-housenumber: 1
+street: Aschacher Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-18:30; Su,PH 07:30-17:00"
-website: "https://www.baecker-schmitt.de/filialen/filialliste/139-filiale-im-netto-bad-bocklet.html"
+opening_hours: Mo-Sa 07:00-18:30; Su,PH 07:30-17:00
+website: https://www.baecker-schmitt.de/filialen/filialliste/139-filiale-im-netto-bad-bocklet.html

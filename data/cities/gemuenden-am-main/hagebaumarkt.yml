@@ -4,8 +4,8 @@ latitude: 50.06301
 longitude: 9.67994
 postcode: "97737"
 city: Gemünden am Main
-street: "Würzburger Straße"
-housenumber: 78
+street: Würzburger Straße
+housenumber: "78"
 phone: ""
-opening_hours: "Mo-Fr 08:30-19:00; Sa 08:00-17:00"
-website: "https://www.hagebaumarkt-gemuenden.de/"
+opening_hours: Mo-Fr 08:30-19:00; Sa 08:00-17:00
+website: https://www.hagebaumarkt-gemuenden.de/

@@ -4,8 +4,8 @@ latitude: 49.56785
 longitude: 10.88452
 postcode: "91074"
 city: Herzogenaurach
-street: "Erlanger Straße"
-housenumber: 4
+street: Erlanger Straße
+housenumber: "4"
 phone: ""
-opening_hours: "We-Fr 11:00-18:00; Sa 10:00-13:00"
-website: "http://www.oxo-uhren.de/"
+opening_hours: We-Fr 11:00-18:00; Sa 10:00-13:00
+website: http://www.oxo-uhren.de/

@@ -4,8 +4,8 @@ latitude: 48.91945
 longitude: 11.87251
 postcode: "93309"
 city: Kelheim
-street: "Altmühlstraße"
-housenumber: 11
-phone: "+49 9441 3505"
-opening_hours: "Mo-Sa 08:00-12:30, Mo-Fr 13:00-18:00"
-website: "https://www.eberl-forst-gartentechnik.de/"
+street: Altmühlstraße
+housenumber: "11"
+phone: +49 9441 3505
+opening_hours: Mo-Sa 08:00-12:30, Mo-Fr 13:00-18:00
+website: https://www.eberl-forst-gartentechnik.de/

@@ -1,11 +1,11 @@
 id: 33484262
-type: way
+type: node
 latitude: 49.98369
 longitude: 9.57386
 postcode: "97816"
 city: Lohr am Main
-street: "Am Landgraben"
-housenumber: 2
-phone: "+49 9352 807733"
-opening_hours: "Mo-Fr 09:00-12:30, 13:30-18:00; Sa 09:00-12:30; PH off"
-website: "https://www.hutzel-motorrad.de/"
+street: Am Landgraben
+housenumber: "2"
+phone: +49 9352 807733
+opening_hours: Mo-Fr 09:00-12:30, 13:30-18:00; Sa 09:00-12:30; PH off
+website: https://www.hutzel-motorrad.de/

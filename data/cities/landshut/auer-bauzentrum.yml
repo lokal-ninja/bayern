@@ -1,11 +1,11 @@
 id: 697567011
-type: way
+type: node
 latitude: 48.54014
 longitude: 12.10691
 postcode: "84034"
 city: Landshut
-street: "Ludwig-Erhard-Straße"
-housenumber: 20
-phone: "+49 871 430674-0"
+street: Ludwig-Erhard-Straße
+housenumber: "20"
+phone: +49 871 430674-0
 opening_hours: ""
-website: "https://www.auer-bauzentrum.de"
+website: https://www.auer-bauzentrum.de

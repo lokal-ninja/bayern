@@ -1,11 +1,11 @@
 id: 112723363
-type: way
+type: node
 latitude: 49.02741
 longitude: 12.11173
 postcode: "93059"
 city: Regensburg
-street: "Abensstraße"
-housenumber: 3
-phone: "+49 941 791859"
+street: Abensstraße
+housenumber: "3"
+phone: +49 941 791859
 opening_hours: ""
 website: ""

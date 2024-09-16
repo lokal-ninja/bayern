@@ -4,8 +4,8 @@ latitude: 49.43772
 longitude: 11.09801
 postcode: "90461"
 city: Nürnberg
-street: "Baldurstraße"
-housenumber: 17
-phone: "+49 911 497278"
-opening_hours: "Mo,Tu,Th,Fr 09:30-13:30,14:30-18:30, We,Sa 09:30-12:30"
-website: "https://www.derfotograf24.de/"
+street: Baldurstraße
+housenumber: "17"
+phone: +49 911 497278
+opening_hours: Mo,Tu,Th,Fr 09:30-13:30,14:30-18:30, We,Sa 09:30-12:30
+website: https://www.derfotograf24.de/

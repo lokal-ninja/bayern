@@ -4,8 +4,8 @@ latitude: 48.14194
 longitude: 11.61831
 postcode: "81677"
 city: München
-street: "Stuntzstraße"
-housenumber: 16
+street: Stuntzstraße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.edeka.de/eh/s%C3%BCdbayern/edeka-zeka-stuntzstra%C3%9Fe-16/index.jsp"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.edeka.de/eh/s%C3%BCdbayern/edeka-zeka-stuntzstra%C3%9Fe-16/index.jsp

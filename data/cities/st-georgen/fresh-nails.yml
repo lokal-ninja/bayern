@@ -1,11 +1,11 @@
 id: 308344572
-type: way
+type: node
 latitude: 47.96904
 longitude: 12.56251
 postcode: "83368"
 city: St. Georgen
-street: "Am Mühlbach"
-housenumber: 8
+street: Am Mühlbach
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

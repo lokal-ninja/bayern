@@ -1,11 +1,11 @@
 id: 172459749
-type: way
+type: node
 latitude: 49.19584
 longitude: 11.20249
 postcode: "91161"
 city: Hilpoltstein
-street: "Lohbachstraße"
-housenumber: 33
+street: Lohbachstraße
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.boxer-shop.de/"
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.boxer-shop.de/

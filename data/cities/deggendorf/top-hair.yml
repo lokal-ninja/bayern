@@ -4,8 +4,8 @@ latitude: 48.83365
 longitude: 12.9629
 postcode: "94469"
 city: Deggendorf
-street: "Pfleggasse"
-housenumber: 9
+street: Pfleggasse
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-16:00"
-website: "http://www.tophair.com"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-16:00
+website: http://www.tophair.com

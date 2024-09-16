@@ -1,11 +1,11 @@
 id: 30151087
-type: way
+type: node
 latitude: 49.96985
 longitude: 11.02346
 postcode: "96110"
 city: Scheßlitz
-street: "Brandäcker"
-housenumber: 5
+street: Brandäcker
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

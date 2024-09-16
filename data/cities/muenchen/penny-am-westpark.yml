@@ -4,8 +4,8 @@ latitude: 48.12406
 longitude: 11.5333
 postcode: "81373"
 city: München
-street: "Am Westpark"
-housenumber: 8
+street: Am Westpark
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.penny.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.penny.de

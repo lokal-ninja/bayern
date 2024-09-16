@@ -1,11 +1,11 @@
 id: 1045533804
-type: way
+type: node
 latitude: 48.9195
 longitude: 12.67043
 postcode: "94327"
 city: Bogen
-street: "Petersgewanne"
-housenumber: 6
+street: Petersgewanne
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

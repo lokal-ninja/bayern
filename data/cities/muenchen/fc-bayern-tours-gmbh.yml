@@ -4,8 +4,8 @@ latitude: 48.10041
 longitude: 11.57216
 postcode: "81547"
 city: München
-street: "Säbener Straße"
-housenumber: 57
-phone: "+49 89 642793 0"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.fcbayerntours.de/"
+street: Säbener Straße
+housenumber: "57"
+phone: +49 89 642793 0
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.fcbayerntours.de/

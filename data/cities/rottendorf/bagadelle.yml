@@ -1,11 +1,11 @@
 id: 97250210
-type: way
+type: node
 latitude: 49.79003
 longitude: 10.03687
 postcode: "97228"
 city: Rottendorf
-street: "Schießhausstraße"
-housenumber: 14
-phone: "+49 170 8588808"
-opening_hours: "nach Vereinbarung"
+street: Schießhausstraße
+housenumber: "14"
+phone: +49 170 8588808
+opening_hours: '"nach Vereinbarung"'
 website: ""

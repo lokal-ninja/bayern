@@ -1,11 +1,11 @@
 id: 377296868
-type: way
+type: node
 latitude: 50.32512
 longitude: 11.11805
 postcode: "96465"
 city: Neustadt b. Coburg
-street: "Austraße"
-housenumber: 38
+street: Austraße
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

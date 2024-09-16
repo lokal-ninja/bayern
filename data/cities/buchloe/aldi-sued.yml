@@ -1,11 +1,11 @@
 id: 123519693
-type: way
+type: node
 latitude: 48.04229
 longitude: 10.70659
 postcode: "86807"
 city: Buchloe
-street: "Rudolf-Diesel-Straße"
-housenumber: 1
+street: Rudolf-Diesel-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://filialen.aldi-sued.de/bayern/buchloe/rudolf-diesel-strasse-1"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://filialen.aldi-sued.de/bayern/buchloe/rudolf-diesel-strasse-1

@@ -4,8 +4,8 @@ latitude: 48.17034
 longitude: 11.53461
 postcode: "80637"
 city: München
-street: "Franz-Marc-Straße"
-housenumber: 8
+street: Franz-Marc-Straße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo 08:30-09:30,13:30-14:30; We-Fr 08:30-09:30,13:30-14:30; PH off"
+opening_hours: Mo 08:30-09:30,13:30-14:30; We-Fr 08:30-09:30,13:30-14:30; PH off
 website: ""

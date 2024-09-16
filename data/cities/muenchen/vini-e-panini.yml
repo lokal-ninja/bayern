@@ -4,8 +4,8 @@ latitude: 48.15837
 longitude: 11.57476
 postcode: "80801"
 city: München
-street: "Nordendstraße"
-housenumber: 45
+street: Nordendstraße
+housenumber: "45"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:30; Sa 09:00-16:00"
-website: "http://viniepanini.de/"
+opening_hours: Mo-Fr 10:00-18:30; Sa 09:00-16:00
+website: http://viniepanini.de/

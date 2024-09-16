@@ -4,8 +4,8 @@ latitude: 48.11819
 longitude: 11.55236
 postcode: "81371"
 city: München
-street: "Kochelseestraße"
-housenumber: 10
-phone: "+49 89 7 24 34 85"
-opening_hours: "Mo-Fr 10:00-13:00, 14:00-18:00; Sa 09:30-14:00"
-website: "https://www.kinderschuh.de/"
+street: Kochelseestraße
+housenumber: "10"
+phone: +49 89 7 24 34 85
+opening_hours: Mo-Fr 10:00-13:00, 14:00-18:00; Sa 09:30-14:00
+website: https://www.kinderschuh.de/

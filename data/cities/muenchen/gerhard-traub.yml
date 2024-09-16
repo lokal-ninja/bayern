@@ -4,8 +4,8 @@ latitude: 48.15719
 longitude: 11.57564
 postcode: "80801"
 city: München
-street: "Kurfürstenstraße"
-housenumber: 45
+street: Kurfürstenstraße
+housenumber: "45"
 phone: ""
-opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-14:00"
+opening_hours: Tu-Fr 09:00-18:00; Sa 09:00-14:00
 website: ""

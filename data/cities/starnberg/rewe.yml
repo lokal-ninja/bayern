@@ -1,11 +1,11 @@
 id: 123308576
-type: way
+type: node
 latitude: 48.00372
 longitude: 11.34876
 postcode: "82319"
 city: Starnberg
-street: "Gautinger Straße"
-housenumber: 3
+street: Gautinger Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.rewe.de/"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.rewe.de/

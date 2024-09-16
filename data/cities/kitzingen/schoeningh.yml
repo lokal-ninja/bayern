@@ -4,8 +4,8 @@ latitude: 49.73898
 longitude: 10.16209
 postcode: "97318"
 city: Kitzingen
-street: "Marktstraße"
-housenumber: 21
-phone: "+49 9321 3945133"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
-website: "https://www.schoeningh-buch.de/"
+street: Marktstraße
+housenumber: "21"
+phone: +49 9321 3945133
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00
+website: https://www.schoeningh-buch.de/

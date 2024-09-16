@@ -4,8 +4,8 @@ latitude: 49.6
 longitude: 11.00418
 postcode: "91054"
 city: Erlangen
-street: "Schiffstraße"
-housenumber: 8
-phone: "+49 9131 202557"
-opening_hours: "Tu,Fr 09:30-18:00; We,Th 09:30-20:00; Sa 10:00-15:30"
-website: "http://www.haarmacherei.de"
+street: Schiffstraße
+housenumber: "8"
+phone: +49 9131 202557
+opening_hours: Tu,Fr 09:30-18:00; We,Th 09:30-20:00; Sa 10:00-15:30
+website: http://www.haarmacherei.de

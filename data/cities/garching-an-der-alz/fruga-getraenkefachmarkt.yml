@@ -1,11 +1,11 @@
 id: 199004739
-type: way
+type: node
 latitude: 48.12755
 longitude: 12.59373
 postcode: "84518"
 city: Garching an der Alz
-street: "Gramanstraße"
-housenumber: 1
-phone: "+49 (0)8634 1860"
-opening_hours: "Mo-Fr 08:30-12:00,15:00-19:00; Sa 08:30-13:00"
-website: "https://www.fruga.de/"
+street: Gramanstraße
+housenumber: "1"
+phone: +49 (0)8634 1860
+opening_hours: Mo-Fr 08:30-12:00,15:00-19:00; Sa 08:30-13:00
+website: https://www.fruga.de/

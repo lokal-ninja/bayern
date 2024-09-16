@@ -1,11 +1,11 @@
 id: 92726111
-type: way
+type: node
 latitude: 50.33395
 longitude: 10.21669
 postcode: "97616"
 city: Bad Neustadt an der Saale
-street: "Besengaustraße"
-housenumber: 12
+street: Besengaustraße
+housenumber: "12"
 phone: "+49977161510"
 opening_hours: ""
-website: "https://www.opel-laudensack-bad-neustadt.de/"
+website: https://www.opel-laudensack-bad-neustadt.de/

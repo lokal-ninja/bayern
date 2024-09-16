@@ -4,8 +4,8 @@ latitude: 48.15003
 longitude: 11.54144
 postcode: "80636"
 city: München
-street: "Blutenburgstraße"
-housenumber: 84
+street: Blutenburgstraße
+housenumber: "84"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "http://www.drechslerei-seiler.de"
+opening_hours: Mo-Fr 08:00-17:00
+website: http://www.drechslerei-seiler.de

@@ -1,11 +1,11 @@
 id: 120365840
-type: way
+type: node
 latitude: 47.86075
 longitude: 12.95741
 postcode: "83416"
 city: Saaldorf-Surheim
-street: "Haberland"
-housenumber: 7
+street: Haberland
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

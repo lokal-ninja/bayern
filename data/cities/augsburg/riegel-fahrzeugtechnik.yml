@@ -1,11 +1,11 @@
 id: 133169762
-type: way
+type: node
 latitude: 48.39155
 longitude: 10.86792
 postcode: "86156"
 city: Augsburg
-street: "Hirblinger Straße"
-housenumber: 86
+street: Hirblinger Straße
+housenumber: "86"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.68263
 longitude: 12.68942
 postcode: "94405"
 city: Landau an der Isar
-street: "Straubinger Straße"
-housenumber: 51
+street: Straubinger Straße
+housenumber: "51"
 phone: "+499951690600"
-opening_hours: "Mo-Sa 07:30-19:00"
-website: "https://www.getraenke-endres.de/"
+opening_hours: Mo-Sa 07:30-19:00
+website: https://www.getraenke-endres.de/

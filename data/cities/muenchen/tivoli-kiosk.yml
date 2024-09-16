@@ -1,11 +1,11 @@
 id: 159091560
-type: way
+type: node
 latitude: 48.16071
 longitude: 11.6035
 postcode: "80805"
 city: München
-street: "Gyßlingstraße"
-housenumber: 10
+street: Gyßlingstraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
-website: "https://www.englischer-garten-muenchen-infos.de/essen-trinken/tivoli-pavillon/"
+website: https://www.englischer-garten-muenchen-infos.de/essen-trinken/tivoli-pavillon/

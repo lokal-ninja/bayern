@@ -4,8 +4,8 @@ latitude: 50.31454
 longitude: 10.22176
 postcode: "97616"
 city: Bad Neustadt a.d. Saale
-street: "Holunderweg"
-housenumber: 1
-phone: "+49 171 2697 697"
-opening_hours: "Fr 12:00-18:00"
-website: "https://www.mee-kaffee.de/"
+street: Holunderweg
+housenumber: "1"
+phone: +49 171 2697 697
+opening_hours: Fr 12:00-18:00
+website: https://www.mee-kaffee.de/

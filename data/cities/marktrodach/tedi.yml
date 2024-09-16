@@ -1,11 +1,11 @@
 id: 155493072
-type: way
+type: node
 latitude: 50.25518
 longitude: 11.39567
 postcode: "96364"
 city: Marktrodach
-street: "Im Gries"
-housenumber: 2
+street: Im Gries
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

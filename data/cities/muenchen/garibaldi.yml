@@ -4,8 +4,8 @@ latitude: 48.17906
 longitude: 11.569
 postcode: "80807"
 city: München
-street: "Frohschammerstraße"
-housenumber: 14
+street: Frohschammerstraße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-14:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa 10:00-14:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.17367
 longitude: 11.26331
 postcode: "82256"
 city: Fürstenfeldbruck
-street: "Oskar-von-Miller-Straße"
-housenumber: 2
-phone: "+49 8141 91091"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.edeka.de/eh/s%C3%BCdbayern/edeka-rehder-oskar-von-miller-stra%C3%9Fe-2/index.jsp"
+street: Oskar-von-Miller-Straße
+housenumber: "2"
+phone: +49 8141 91091
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.edeka.de/eh/s%C3%BCdbayern/edeka-rehder-oskar-von-miller-stra%C3%9Fe-2/index.jsp

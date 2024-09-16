@@ -1,11 +1,11 @@
 id: 124560686
-type: way
+type: node
 latitude: 49.96918
 longitude: 9.12986
 postcode: "63741"
 city: Aschaffenburg
-street: "Magnolienweg"
-housenumber: 46
+street: Magnolienweg
+housenumber: "46"
 phone: ""
 opening_hours: ""
-website: "https://melzig-gmbh.de/"
+website: https://melzig-gmbh.de/

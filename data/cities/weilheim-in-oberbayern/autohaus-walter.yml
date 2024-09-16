@@ -1,11 +1,11 @@
 id: 147751472
-type: way
+type: node
 latitude: 47.83038
 longitude: 11.12533
 postcode: "82362"
 city: Weilheim in Oberbayern
-street: "Holzhofstraße"
-housenumber: 30
+street: Holzhofstraße
+housenumber: "30"
 phone: ""
 opening_hours: ""
-website: "https://www.auto-walter.com/"
+website: https://www.auto-walter.com/

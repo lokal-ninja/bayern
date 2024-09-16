@@ -1,11 +1,11 @@
 id: 291981927
-type: way
+type: node
 latitude: 49.34564
 longitude: 11.12571
 postcode: "90530"
 city: Wendelstein
-street: "Bierweg"
-housenumber: 29
-phone: "+49 9129 4253"
-opening_hours: "Tu-Fr 08:00-17:00; Sa 07:30-12:00"
+street: Bierweg
+housenumber: "29"
+phone: +49 9129 4253
+opening_hours: Tu-Fr 08:00-17:00; Sa 07:30-12:00
 website: ""

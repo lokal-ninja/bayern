@@ -4,8 +4,8 @@ latitude: 49.44753
 longitude: 11.0246
 postcode: "90431"
 city: Nürnberg
-street: "Lehrberger Straße"
-housenumber: 72
-phone: "+49 911 32179179"
-opening_hours: "Mo-Fr 08:00-18:30"
-website: "https://www.biomarkt-gaismannshof.de"
+street: Lehrberger Straße
+housenumber: "72"
+phone: +49 911 32179179
+opening_hours: Mo-Fr 08:00-18:30
+website: https://www.biomarkt-gaismannshof.de

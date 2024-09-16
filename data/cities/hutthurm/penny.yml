@@ -1,11 +1,11 @@
 id: 1278897986
-type: way
+type: node
 latitude: 48.66834
 longitude: 13.48452
 postcode: "94116"
 city: Hutthurm
-street: "Am Kreisel"
-housenumber: 7
+street: Am Kreisel
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

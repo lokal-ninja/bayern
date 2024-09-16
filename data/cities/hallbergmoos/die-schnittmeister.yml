@@ -1,11 +1,11 @@
 id: 367821258
-type: way
+type: node
 latitude: 48.31038
 longitude: 11.74962
 postcode: "85399"
 city: Hallbergmoos
-street: "Hauptstraße"
-housenumber: 25
-phone: "+49 811 9982330"
-opening_hours: "Mo-Th 08:00-19:00; Fr 08:00-13:00; Sa-Su off"
+street: Hauptstraße
+housenumber: "25"
+phone: +49 811 9982330
+opening_hours: Mo-Th 08:00-19:00; Fr 08:00-13:00; Sa-Su off
 website: ""

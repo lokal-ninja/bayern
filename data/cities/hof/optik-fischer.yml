@@ -4,8 +4,8 @@ latitude: 50.31055
 longitude: 11.90194
 postcode: "95030"
 city: Hof
-street: "August-Mohl-Straße"
-housenumber: 38
+street: August-Mohl-Straße
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00 || nach Vereinbarung"
-website: "https://www.optik-fischer.de/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00 || "nach Vereinbarung"
+website: https://www.optik-fischer.de/

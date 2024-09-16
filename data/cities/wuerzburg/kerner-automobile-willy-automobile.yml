@@ -1,10 +1,10 @@
 id: 234132110
-type: way
+type: node
 latitude: 49.78833
 longitude: 9.91177
 postcode: "97082"
 city: Würzburg
-street: "Leistenstraße"
+street: Leistenstraße
 housenumber: 64a
 phone: ""
 opening_hours: ""

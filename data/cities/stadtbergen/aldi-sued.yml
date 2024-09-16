@@ -1,11 +1,11 @@
 id: 37429932
-type: way
+type: node
 latitude: 48.37791
 longitude: 10.84658
 postcode: "86391"
 city: Stadtbergen
-street: "Benzstraße"
-housenumber: 9
+street: Benzstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://filialen.aldi-sued.de/bayern/stadtbergen/benzstrasse-9"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://filialen.aldi-sued.de/bayern/stadtbergen/benzstrasse-9

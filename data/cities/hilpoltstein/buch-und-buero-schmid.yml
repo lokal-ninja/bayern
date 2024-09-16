@@ -1,11 +1,11 @@
 id: 59556217
-type: way
+type: node
 latitude: 49.18958
 longitude: 11.19146
 postcode: "91161"
 city: Hilpoltstein
-street: "Marktstraße"
-housenumber: 2
+street: Marktstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:30-13:00,14:30-18:00; Sa 08:30-12:30"
+opening_hours: Mo-Fr 08:30-13:00,14:30-18:00; Sa 08:30-12:30
 website: ""

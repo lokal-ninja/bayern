@@ -1,11 +1,11 @@
 id: 119591411
-type: way
+type: node
 latitude: 48.40983
 longitude: 10.06811
 postcode: "89233"
 city: Neu-Ulm
-street: "Adenauerstraße"
-housenumber: 3
-phone: "+49 731 711852"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.finkbeiner.biz/"
+street: Adenauerstraße
+housenumber: "3"
+phone: +49 731 711852
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.finkbeiner.biz/

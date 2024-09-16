@@ -4,8 +4,8 @@ latitude: 48.24341
 longitude: 12.97936
 postcode: "84375"
 city: Kirchdorf
-street: "Kirchenweg"
-housenumber: 2
+street: Kirchenweg
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.edeka.de/eh/s%C3%BCdbayern/edeka-lechertshuber-wimmer-kirchenweg-2/index.jsp"
+website: https://www.edeka.de/eh/s%C3%BCdbayern/edeka-lechertshuber-wimmer-kirchenweg-2/index.jsp

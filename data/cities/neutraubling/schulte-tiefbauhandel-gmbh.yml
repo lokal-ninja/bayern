@@ -1,11 +1,11 @@
 id: 138636032
-type: way
+type: node
 latitude: 48.97943
 longitude: 12.18839
 postcode: "93073"
 city: Neutraubling
-street: "Berliner Straße"
-housenumber: 25
-phone: "+49 9401 5262 0"
+street: Berliner Straße
+housenumber: "25"
+phone: +49 9401 5262 0
 opening_hours: ""
-website: "http://www.schulte-tiefbauhandel.de/"
+website: http://www.schulte-tiefbauhandel.de/

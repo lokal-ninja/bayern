@@ -1,11 +1,11 @@
 id: 39356942
-type: way
+type: node
 latitude: 49.41073
 longitude: 11.16997
 postcode: "90475"
 city: Nürnberg
-street: "Löwenberger Straße"
-housenumber: 119
+street: Löwenberger Straße
+housenumber: "119"
 phone: ""
 opening_hours: ""
 website: ""

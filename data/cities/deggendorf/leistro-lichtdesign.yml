@@ -1,11 +1,11 @@
 id: 224917499
-type: way
+type: node
 latitude: 48.83235
 longitude: 12.96432
 postcode: "94469"
 city: Deggendorf
-street: "Östlicher Stadtgraben"
-housenumber: 22
+street: Östlicher Stadtgraben
+housenumber: "22"
 phone: "+4999130942"
-opening_hours: "Mo-Fr 09:30-12:00, 13:30-17:00; Sa 09:30-12:00"
+opening_hours: Mo-Fr 09:30-12:00, 13:30-17:00; Sa 09:30-12:00
 website: ""

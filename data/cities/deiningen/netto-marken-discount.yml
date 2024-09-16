@@ -1,11 +1,11 @@
 id: 838983431
-type: way
+type: node
 latitude: 48.86369
 longitude: 10.57725
 postcode: "86738"
 city: Deiningen
-street: "Am Sportpark"
-housenumber: 1
+street: Am Sportpark
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

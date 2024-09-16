@@ -1,11 +1,11 @@
 id: 187272238
-type: way
+type: node
 latitude: 48.58415
 longitude: 11.10762
 postcode: "86554"
 city: Pöttmes
-street: "Rudolf-Diesel-Straße"
-housenumber: 2
+street: Rudolf-Diesel-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
-website: "https://www.netto-online.de/Oeffnungszeiten.chtm/4174/"
+opening_hours: Mo-Sa 07:00-20:00; PH off
+website: https://www.netto-online.de/Oeffnungszeiten.chtm/4174/

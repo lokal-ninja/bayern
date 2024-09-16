@@ -1,11 +1,11 @@
 id: 300415531
-type: way
+type: node
 latitude: 48.70365
 longitude: 13.79378
 postcode: "94139"
 city: Breitenberg
-street: "Dreisesselstraße"
-housenumber: 3
-phone: "+49 8584 273"
+street: Dreisesselstraße
+housenumber: "3"
+phone: +49 8584 273
 opening_hours: ""
 website: ""

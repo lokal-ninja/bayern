@@ -4,8 +4,8 @@ latitude: 47.82616
 longitude: 12.10504
 postcode: "83026"
 city: Rosenheim
-street: "Raublinger Straße"
-housenumber: 12
-phone: "+49 8031 3527157"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-12:00"
-website: "https://www.fliesenbreu.de/"
+street: Raublinger Straße
+housenumber: "12"
+phone: +49 8031 3527157
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-12:00
+website: https://www.fliesenbreu.de/

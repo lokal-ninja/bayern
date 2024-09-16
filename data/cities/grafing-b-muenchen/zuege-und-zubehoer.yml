@@ -4,8 +4,9 @@ latitude: 48.04545
 longitude: 11.96356
 postcode: "85567"
 city: Grafing b. München
-street: "Bahnhofstraße"
-housenumber: 9
-phone: "+49 8092 85194-25"
-opening_hours: "Tu-Fr 10:00-13:30,14:30-18:00; Sa 9:00-12:00; Mo,Su,PH off || nach Vereinbarung"
-website: "http://www.zuz-modellbahn.com"
+street: Bahnhofstraße
+housenumber: "9"
+phone: +49 8092 85194-25
+opening_hours: Tu-Fr 10:00-13:30,14:30-18:00; Sa 9:00-12:00; Mo,Su,PH off || "nach
+    Vereinbarung"
+website: http://www.zuz-modellbahn.com

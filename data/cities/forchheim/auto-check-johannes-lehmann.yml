@@ -4,8 +4,8 @@ latitude: 49.70542
 longitude: 11.05706
 postcode: "91301"
 city: Forchheim
-street: "Hafenstraße"
-housenumber: 8
-phone: "+49 9191 330233"
-opening_hours: "Mo-Th 08:00-17:00; Fr 08:00-14:00"
-website: "https://www.autocheck-lehmann.de/"
+street: Hafenstraße
+housenumber: "8"
+phone: +49 9191 330233
+opening_hours: Mo-Th 08:00-17:00; Fr 08:00-14:00
+website: https://www.autocheck-lehmann.de/

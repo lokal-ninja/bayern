@@ -1,11 +1,11 @@
 id: 125630120
-type: way
+type: node
 latitude: 48.80776
 longitude: 11.40011
 postcode: "85055"
 city: Ingolstadt
-street: "Manfred-Hochstatter-Straße"
-housenumber: 2
+street: Manfred-Hochstatter-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 180802294
-type: way
+type: node
 latitude: 48.09091
 longitude: 11.40644
 postcode: "82131"
 city: Gauting
-street: "Gautinger Straße"
-housenumber: 6
+street: Gautinger Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

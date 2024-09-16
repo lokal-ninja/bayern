@@ -1,11 +1,11 @@
 id: 528807505
-type: way
+type: node
 latitude: 49.70515
 longitude: 10.82531
 postcode: "91315"
 city: Höchstadt a.d.Aisch
-street: "Kieferndorfer Weg"
-housenumber: 58
+street: Kieferndorfer Weg
+housenumber: "58"
 phone: ""
 opening_hours: ""
-website: "https://www.aisch-park-center.de/"
+website: https://www.aisch-park-center.de/

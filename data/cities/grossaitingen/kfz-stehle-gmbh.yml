@@ -1,11 +1,11 @@
 id: 993393411
-type: way
+type: node
 latitude: 48.22559
 longitude: 10.77756
 postcode: "86845"
 city: Großaitingen
-street: "Auf der Insel"
-housenumber: 3
+street: Auf der Insel
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

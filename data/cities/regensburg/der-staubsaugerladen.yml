@@ -4,8 +4,8 @@ latitude: 49.00902
 longitude: 12.11055
 postcode: "93053"
 city: Regensburg
-street: "Hermann-Geib-Straße"
-housenumber: 15
-phone: "+49 941 78527820"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-12:00"
-website: "http://staubsaugerladen-regensburg.2on.de/"
+street: Hermann-Geib-Straße
+housenumber: "15"
+phone: +49 941 78527820
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-12:00
+website: http://staubsaugerladen-regensburg.2on.de/

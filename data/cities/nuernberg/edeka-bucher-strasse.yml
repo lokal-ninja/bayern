@@ -4,8 +4,8 @@ latitude: 49.46617
 longitude: 11.06968
 postcode: "90408"
 city: Nürnberg
-street: "Bucher Straße"
-housenumber: 86
-phone: "+49 911 9345954"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.edeka.de/homepage.jsp"
+street: Bucher Straße
+housenumber: "86"
+phone: +49 911 9345954
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.edeka.de/homepage.jsp

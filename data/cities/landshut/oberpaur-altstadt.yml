@@ -1,11 +1,11 @@
 id: 134586403
-type: way
+type: node
 latitude: 48.53471
 longitude: 12.15021
 postcode: "84028"
 city: Landshut
-street: "Altstadt"
-housenumber: 53
+street: Altstadt
+housenumber: "53"
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:00"
+opening_hours: Mo-Sa 09:30-19:00
 website: ""

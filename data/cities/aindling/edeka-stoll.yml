@@ -1,11 +1,11 @@
 id: 246058859
-type: way
+type: node
 latitude: 48.51229
 longitude: 10.9651
 postcode: "86447"
 city: Aindling
-street: "Peter-Sengl-Straße"
-housenumber: 36
+street: Peter-Sengl-Straße
+housenumber: "36"
 phone: "+4982379514489"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://edeka-stoll.de/"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://edeka-stoll.de/

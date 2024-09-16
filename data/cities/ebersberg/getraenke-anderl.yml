@@ -1,11 +1,11 @@
 id: 431660561
-type: way
+type: node
 latitude: 48.07798
 longitude: 11.96804
 postcode: "85560"
 city: Ebersberg
-street: "Ulrichstraße"
+street: Ulrichstraße
 housenumber: 1a
-phone: "+49 8092 8636232"
-opening_hours: "Mo-Sa 09:00-19:00; PH off"
+phone: +49 8092 8636232
+opening_hours: Mo-Sa 09:00-19:00; PH off
 website: ""

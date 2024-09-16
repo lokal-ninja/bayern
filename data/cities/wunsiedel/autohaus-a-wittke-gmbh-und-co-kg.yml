@@ -1,11 +1,11 @@
 id: 198935801
-type: way
+type: node
 latitude: 50.03298
 longitude: 12.00293
 postcode: "95632"
 city: Wunsiedel
-street: "Marktredwitzer Straße"
-housenumber: 44
+street: Marktredwitzer Straße
+housenumber: "44"
 phone: ""
 opening_hours: ""
 website: ""

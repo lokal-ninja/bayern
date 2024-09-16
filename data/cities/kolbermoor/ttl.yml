@@ -1,11 +1,11 @@
 id: 534129486
-type: way
+type: node
 latitude: 47.84207
 longitude: 12.04467
 postcode: "83059"
 city: Kolbermoor
-street: "Spitzsteinstraße"
-housenumber: 5
-phone: "+49 8031 30 40 141"
-opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-14:00; PH,Su off"
-website: "https://www.ttl-ttm.de/fachmarkt-ttl-kolbermoor-spitzsteinstrasse"
+street: Spitzsteinstraße
+housenumber: "5"
+phone: +49 8031 30 40 141
+opening_hours: Mo-Fr 09:00-18:00, Sa 09:00-14:00; PH,Su off
+website: https://www.ttl-ttm.de/fachmarkt-ttl-kolbermoor-spitzsteinstrasse

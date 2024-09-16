@@ -1,11 +1,11 @@
 id: 46690875
-type: way
+type: node
 latitude: 48.05602
 longitude: 10.88925
 postcode: "86899"
 city: Landsberg am Lech
-street: "Am Penzinger Feld"
-housenumber: 21
+street: Am Penzinger Feld
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

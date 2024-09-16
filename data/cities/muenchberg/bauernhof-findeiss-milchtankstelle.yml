@@ -1,11 +1,11 @@
 id: 740830956
-type: way
+type: node
 latitude: 50.22431
 longitude: 11.7592
 postcode: "95213"
 city: Münchberg
-street: "Meierhof"
-housenumber: 7
+street: Meierhof
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

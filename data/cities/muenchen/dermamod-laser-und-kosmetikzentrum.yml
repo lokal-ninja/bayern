@@ -4,8 +4,8 @@ latitude: 48.11259
 longitude: 11.59342
 postcode: "81539"
 city: München
-street: "Schlierseestraße"
-housenumber: 53
+street: Schlierseestraße
+housenumber: "53"
 phone: ""
-opening_hours: "Terminvereinbarung telefonisch"
+opening_hours: '"Terminvereinbarung telefonisch"'
 website: ""

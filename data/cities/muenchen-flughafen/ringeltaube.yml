@@ -4,8 +4,8 @@ latitude: 48.35641
 longitude: 11.76449
 postcode: "85356"
 city: München-Flughafen
-street: "Nordallee"
-housenumber: 22
-phone: "+49-89-975 902 81"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 10:00-16:00"
-website: "https://www.ringeltaube.de"
+street: Nordallee
+housenumber: "22"
+phone: +49-89-975 902 81
+opening_hours: Mo-Fr 09:00-18:30; Sa 10:00-16:00
+website: https://www.ringeltaube.de

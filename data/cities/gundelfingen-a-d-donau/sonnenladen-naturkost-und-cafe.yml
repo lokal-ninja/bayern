@@ -4,8 +4,8 @@ latitude: 48.54978
 longitude: 10.3596
 postcode: "89423"
 city: Gundelfingen a.d.Donau
-street: "Obere Vorstadt"
-housenumber: 37
-phone: "+49 9073 1370"
-opening_hours: "Mo-Fr 08:30-13:00,14:00-18:00, Sa 08:30-13:00"
-website: "https://www.sonnenladen-gundelfingen.de"
+street: Obere Vorstadt
+housenumber: "37"
+phone: +49 9073 1370
+opening_hours: Mo-Fr 08:30-13:00,14:00-18:00, Sa 08:30-13:00
+website: https://www.sonnenladen-gundelfingen.de

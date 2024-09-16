@@ -1,11 +1,11 @@
 id: 119884010
-type: way
+type: node
 latitude: 47.78061
 longitude: 12.47068
 postcode: "83224"
 city: Grassau
-street: "Eichelreuth"
-housenumber: 26
+street: Eichelreuth
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH,SH closed"
-website: "https://filialen.aldi-sued.de/bayern/staudach-egerndach/eichelreuth-26"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH,SH closed
+website: https://filialen.aldi-sued.de/bayern/staudach-egerndach/eichelreuth-26

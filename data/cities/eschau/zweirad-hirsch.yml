@@ -1,11 +1,11 @@
 id: 776855932
-type: way
+type: node
 latitude: 49.85358
 longitude: 9.27815
 postcode: "63863"
 city: Eschau
-street: "Wiesenweg"
-housenumber: 5
-phone: "+49 9374 99804"
-opening_hours: "Mo-Fr 16:30-18:30, Sa 09:00-13:00; PH off"
+street: Wiesenweg
+housenumber: "5"
+phone: +49 9374 99804
+opening_hours: Mo-Fr 16:30-18:30, Sa 09:00-13:00; PH off
 website: ""

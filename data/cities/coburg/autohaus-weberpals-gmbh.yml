@@ -1,11 +1,11 @@
 id: 50132618
-type: way
+type: node
 latitude: 50.27309
 longitude: 10.99093
 postcode: "96450"
 city: Coburg
-street: "Cortendorfer Straße"
-housenumber: 92
+street: Cortendorfer Straße
+housenumber: "92"
 phone: ""
 opening_hours: ""
 website: ""

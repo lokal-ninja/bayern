@@ -1,11 +1,11 @@
 id: 511551068
-type: way
+type: node
 latitude: 48.21811
 longitude: 12.41096
 postcode: "84478"
 city: Waldkraiburg
-street: "Daimlerstraße"
-housenumber: 45
+street: Daimlerstraße
+housenumber: "45"
 phone: ""
 opening_hours: ""
 website: ""

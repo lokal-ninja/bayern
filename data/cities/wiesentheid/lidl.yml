@@ -1,11 +1,11 @@
 id: 991358617
-type: way
+type: node
 latitude: 49.79697
 longitude: 10.35029
 postcode: "97353"
 city: Wiesentheid
-street: "Nikolaus-Fey-Straße"
-housenumber: 23
+street: Nikolaus-Fey-Straße
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

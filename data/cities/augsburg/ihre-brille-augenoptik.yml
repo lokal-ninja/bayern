@@ -4,8 +4,8 @@ latitude: 48.30802
 longitude: 10.90388
 postcode: "86179"
 city: Augsburg
-street: "Inninger Straße"
-housenumber: 6
-phone: "+49 821 84396"
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-12:00; Su off"
-website: "https://www.ihre-brille.com"
+street: Inninger Straße
+housenumber: "6"
+phone: +49 821 84396
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:30-12:00; Su off
+website: https://www.ihre-brille.com

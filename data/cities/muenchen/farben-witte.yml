@@ -4,8 +4,8 @@ latitude: 48.1837
 longitude: 11.57315
 postcode: "80807"
 city: München
-street: "Pfitznerstraße"
-housenumber: 1
-phone: "+49 89 3590687"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00"
-website: "https://farben-witte.de/"
+street: Pfitznerstraße
+housenumber: "1"
+phone: +49 89 3590687
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-12:00
+website: https://farben-witte.de/

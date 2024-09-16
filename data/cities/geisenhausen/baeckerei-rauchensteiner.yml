@@ -1,11 +1,11 @@
 id: 1136510981
-type: way
+type: node
 latitude: 48.48427
 longitude: 12.24363
 postcode: "84144"
 city: Geisenhausen
-street: "Ottostraße"
-housenumber: 1
+street: Ottostraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.xn--bckerei-rauchensteiner-04b.de/"
+website: https://www.xn--bckerei-rauchensteiner-04b.de/

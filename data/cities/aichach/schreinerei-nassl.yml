@@ -1,11 +1,11 @@
 id: 212076590
-type: way
+type: node
 latitude: 48.44425
 longitude: 11.02188
 postcode: "86551"
 city: Aichach
-street: "Dorfstraße"
-housenumber: 48
+street: Dorfstraße
+housenumber: "48"
 phone: ""
 opening_hours: ""
 website: ""

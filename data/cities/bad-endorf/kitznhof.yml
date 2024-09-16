@@ -4,8 +4,8 @@ latitude: 47.8916
 longitude: 12.30319
 postcode: "83093"
 city: Bad Endorf
-street: "Hirnsberger Straße"
-housenumber: 54
+street: Hirnsberger Straße
+housenumber: "54"
 phone: ""
-opening_hours: "Mo-Su 07:00-20:00"
-website: "http://www.kitznhof.de"
+opening_hours: Mo-Su 07:00-20:00
+website: http://www.kitznhof.de

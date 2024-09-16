@@ -1,11 +1,12 @@
 id: 1020404678
-type: way
+type: node
 latitude: 48.44291
 longitude: 10.87555
 postcode: "86368"
 city: Gersthofen
-street: "Henleinstraße"
-housenumber: 26
-phone: "+49 821 450368 0"
-opening_hours: "Mo-Th 07:30-12:00, 13:00-17:30; Fr 07:30-12:00, 13:00-16:00; Sa,Su,PH off"
-website: "https://www.nissan-harnisch-schmid-gersthofen.de"
+street: Henleinstraße
+housenumber: "26"
+phone: +49 821 450368 0
+opening_hours: Mo-Th 07:30-12:00, 13:00-17:30; Fr 07:30-12:00, 13:00-16:00; Sa,Su,PH
+    off
+website: https://www.nissan-harnisch-schmid-gersthofen.de

@@ -1,11 +1,11 @@
 id: 200209275
-type: way
+type: node
 latitude: 47.70614
 longitude: 10.79418
 postcode: "86983"
 city: Lechbruck am See
-street: "Schongauer Straße"
-housenumber: 68
+street: Schongauer Straße
+housenumber: "68"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

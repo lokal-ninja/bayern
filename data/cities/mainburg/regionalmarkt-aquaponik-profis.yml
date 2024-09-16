@@ -1,11 +1,11 @@
 id: 215289623
-type: way
+type: node
 latitude: 48.63882
 longitude: 11.77128
 postcode: "84048"
 city: Mainburg
-street: "Ingolstädter Straße"
-housenumber: 33
+street: Ingolstädter Straße
+housenumber: "33"
 phone: ""
-opening_hours: "Fr, Sa 09:00-18:00"
+opening_hours: Fr, Sa 09:00-18:00
 website: ""

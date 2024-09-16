@@ -4,8 +4,8 @@ latitude: 49.47667
 longitude: 10.99078
 postcode: "90762"
 city: Fürth
-street: "Königstraße"
-housenumber: 97
-phone: "+49 911 770422"
-opening_hours: "Tu-Fr 08:30-18:00; Sa 08:00-13:00"
-website: "https://friseur-oliver-saur.de"
+street: Königstraße
+housenumber: "97"
+phone: +49 911 770422
+opening_hours: Tu-Fr 08:30-18:00; Sa 08:00-13:00
+website: https://friseur-oliver-saur.de

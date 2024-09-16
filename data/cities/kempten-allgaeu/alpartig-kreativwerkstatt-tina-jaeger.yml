@@ -1,11 +1,11 @@
 id: 100680617
-type: way
+type: node
 latitude: 47.74938
 longitude: 10.28259
 postcode: "87439"
 city: Kempten (Allgäu)
-street: "Heiligkreuzer Straße"
-housenumber: 91
+street: Heiligkreuzer Straße
+housenumber: "91"
 phone: ""
 opening_hours: ""
 website: ""

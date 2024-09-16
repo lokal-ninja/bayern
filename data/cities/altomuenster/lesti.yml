@@ -1,11 +1,11 @@
 id: 159739972
-type: way
+type: node
 latitude: 48.38847
 longitude: 11.25613
 postcode: "85250"
 city: Altomünster
-street: "Kirchenstraße"
-housenumber: 9
+street: Kirchenstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

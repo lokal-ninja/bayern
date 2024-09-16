@@ -4,8 +4,8 @@ latitude: 48.0679
 longitude: 11.67069
 postcode: "85521"
 city: Ottobrunn
-street: "Mozartstraße"
-housenumber: 73
-phone: "+49 89 6098795"
-opening_hours: "Sa 06:00-12:00; Su,PH 08:00-11:00"
+street: Mozartstraße
+housenumber: "73"
+phone: +49 89 6098795
+opening_hours: Sa 06:00-12:00; Su,PH 08:00-11:00
 website: ""

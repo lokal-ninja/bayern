@@ -1,11 +1,11 @@
 id: 70091250
-type: way
+type: node
 latitude: 48.39021
 longitude: 10.02481
 postcode: "89231"
 city: Neu-Ulm
-street: "Finninger Straße"
-housenumber: 69
+street: Finninger Straße
+housenumber: "69"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00; Su,PH off"
-website: "https://www.reisser.de/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00; Su,PH off
+website: https://www.reisser.de/

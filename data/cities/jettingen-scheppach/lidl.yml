@@ -1,11 +1,11 @@
 id: 231342249
-type: way
+type: node
 latitude: 48.40866
 longitude: 10.43557
 postcode: "89343"
 city: Jettingen-Scheppach
-street: "Messerschmittstraße"
-housenumber: 3
+street: Messerschmittstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

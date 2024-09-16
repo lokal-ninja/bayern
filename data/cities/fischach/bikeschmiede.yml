@@ -4,8 +4,8 @@ latitude: 48.2556
 longitude: 10.64207
 postcode: "86850"
 city: Fischach
-street: "Mickhauser Straße"
-housenumber: 4
-phone: "+49 8204 298821"
-opening_hours: "Tu Nach Vereinbarung; Fr 14:30-19:00; Sa 09:00-12:30; PH off"
-website: "https://bikeschmiede.eu"
+street: Mickhauser Straße
+housenumber: "4"
+phone: +49 8204 298821
+opening_hours: Tu "Nach Vereinbarung"; Fr 14:30-19:00; Sa 09:00-12:30; PH off
+website: https://bikeschmiede.eu

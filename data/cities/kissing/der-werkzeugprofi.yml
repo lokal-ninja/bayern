@@ -4,8 +4,8 @@ latitude: 48.30541
 longitude: 10.96444
 postcode: ""
 city: Kissing
-street: "Kornstraße"
-housenumber: 3
+street: Kornstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Th 09:00-17:00; Fr 09:00-15:00"
-website: "https://dewepro.de/"
+opening_hours: Mo-Th 09:00-17:00; Fr 09:00-15:00
+website: https://dewepro.de/

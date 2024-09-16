@@ -1,11 +1,11 @@
 id: 167105205
-type: way
+type: node
 latitude: 49.76799
 longitude: 9.94135
 postcode: "97084"
 city: Würzburg
-street: "Mergentheimer Straße"
-housenumber: 35
-phone: "+49 931 612165"
-opening_hours: "Mo-Sa 07:00-20:00"
+street: Mergentheimer Straße
+housenumber: "35"
+phone: +49 931 612165
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

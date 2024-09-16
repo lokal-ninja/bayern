@@ -1,11 +1,11 @@
 id: 102659005
-type: way
+type: node
 latitude: 50.28851
 longitude: 11.92325
 postcode: "95032"
 city: Hof
-street: "Wunsiedler Straße"
-housenumber: 70
+street: Wunsiedler Straße
+housenumber: "70"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

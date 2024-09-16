@@ -1,11 +1,11 @@
 id: 838835661
-type: way
+type: node
 latitude: 48.48766
 longitude: 11.09526
 postcode: "86568"
 city: Hollenbach
-street: "Bachfeldstraße"
-housenumber: 1
+street: Bachfeldstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 06:00-20:00; Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Fr 06:00-20:00; Sa 07:00-20:00; Su,PH off
 website: ""

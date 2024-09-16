@@ -4,8 +4,8 @@ latitude: 49.57841
 longitude: 10.87894
 postcode: "91074"
 city: Herzogenaurach
-street: "Gustav-Hertz-Straße"
-housenumber: 14
+street: Gustav-Hertz-Straße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Th 07:30-16:00; Fr 07:30-14:00; Sa,Su,PH off"
-website: "https://fsz-herzogenaurach.de/"
+opening_hours: Mo-Th 07:30-16:00; Fr 07:30-14:00; Sa,Su,PH off
+website: https://fsz-herzogenaurach.de/

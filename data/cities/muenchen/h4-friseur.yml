@@ -4,8 +4,8 @@ latitude: 48.13091
 longitude: 11.61501
 postcode: "81673"
 city: München
-street: "Berg-am-Laim-Straße"
-housenumber: 50
+street: Berg-am-Laim-Straße
+housenumber: "50"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00; PH closed"
-website: "https://www.planity.com/de-DE/h4-friseur-und-kosmetik-81673-munchen"
+opening_hours: Mo-Sa 09:00-19:00; PH closed
+website: https://www.planity.com/de-DE/h4-friseur-und-kosmetik-81673-munchen

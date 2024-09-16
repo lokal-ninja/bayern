@@ -1,11 +1,11 @@
 id: 30795951
-type: way
+type: node
 latitude: 49.91058
 longitude: 10.88339
 postcode: "96052"
 city: Bamberg
-street: "Hallstadter Straße"
-housenumber: 96
+street: Hallstadter Straße
+housenumber: "96"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 120981793
-type: way
+type: node
 latitude: 50.01177
 longitude: 10.89531
 postcode: "96179"
 city: Rattelsdorf
-street: "Im Stock"
-housenumber: 3
+street: Im Stock
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

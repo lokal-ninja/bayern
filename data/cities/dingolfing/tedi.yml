@@ -4,8 +4,8 @@ latitude: 48.64623
 longitude: 12.48753
 postcode: "84130"
 city: Dingolfing
-street: "Gewerbehof"
-housenumber: 5
+street: Gewerbehof
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00; Su,PH off"
-website: "https://www.tedi.com"
+opening_hours: Mo-Sa 09:00-20:00; Su,PH off
+website: https://www.tedi.com

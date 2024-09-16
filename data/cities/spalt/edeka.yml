@@ -1,11 +1,11 @@
 id: 245415975
-type: way
+type: node
 latitude: 49.17464
 longitude: 10.93162
 postcode: "91174"
 city: Spalt
-street: "Rother Straße"
-housenumber: 6
+street: Rother Straße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 8:00-18:00"
+opening_hours: Mo-Fr 08:00-20:00; Sa 8:00-18:00
 website: ""

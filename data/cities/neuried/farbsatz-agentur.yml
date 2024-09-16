@@ -4,8 +4,8 @@ latitude: 48.09262
 longitude: 11.46439
 postcode: "82061"
 city: Neuried
-street: "Gautinger Straße"
-housenumber: 8
-phone: "+49 (0)89 790 86 49 0"
-opening_hours: "Mo-Th 07:30-12:00,13:30-17:00; Fr 07:30-13:00"
-website: "https://www.farbsatz.eu/"
+street: Gautinger Straße
+housenumber: "8"
+phone: +49 (0)89 790 86 49 0
+opening_hours: Mo-Th 07:30-12:00,13:30-17:00; Fr 07:30-13:00
+website: https://www.farbsatz.eu/

@@ -1,11 +1,11 @@
 id: 310637984
-type: way
+type: node
 latitude: 49.39848
 longitude: 11.97584
 postcode: "92263"
 city: Ebermannsdorf
-street: "Schafhofer Weg"
-housenumber: 4
-phone: "+49 9438 902130"
+street: Schafhofer Weg
+housenumber: "4"
+phone: +49 9438 902130
 opening_hours: ""
 website: ""

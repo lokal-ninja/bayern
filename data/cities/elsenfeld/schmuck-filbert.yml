@@ -4,8 +4,8 @@ latitude: 49.8451
 longitude: 9.16052
 postcode: "63820"
 city: Elsenfeld
-street: "Marienstraße"
-housenumber: 16
-phone: "+49 6022 649191"
-opening_hours: "Mo-Fr 09:00-12:30,14:00-18:00; Sa 09:00-12:30; PH off"
-website: "https://www.schmuck-filbert.de/standorte/elsenfeld/"
+street: Marienstraße
+housenumber: "16"
+phone: +49 6022 649191
+opening_hours: Mo-Fr 09:00-12:30,14:00-18:00; Sa 09:00-12:30; PH off
+website: https://www.schmuck-filbert.de/standorte/elsenfeld/

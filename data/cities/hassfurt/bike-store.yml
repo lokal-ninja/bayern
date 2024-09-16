@@ -4,8 +4,8 @@ latitude: 50.03195
 longitude: 10.54483
 postcode: "97437"
 city: Haßfurt
-street: "Adam-Opel-Straße"
-housenumber: 1
-phone: "+49 9521 6193003"
+street: Adam-Opel-Straße
+housenumber: "1"
+phone: +49 9521 6193003
 opening_hours: ""
-website: "https://bike-store.de/Bike-Store-Hassfurt-das-Ladengeschaeft-von-bike-storede"
+website: https://bike-store.de/Bike-Store-Hassfurt-das-Ladengeschaeft-von-bike-storede

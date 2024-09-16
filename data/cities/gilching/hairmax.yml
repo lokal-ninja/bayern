@@ -1,11 +1,11 @@
 id: 85535607
-type: way
+type: node
 latitude: 48.11236
 longitude: 11.29545
 postcode: "82205"
 city: Gilching
-street: "Römerstraße"
-housenumber: 66
+street: Römerstraße
+housenumber: "66"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 222987354
-type: way
+type: node
 latitude: 49.5122
 longitude: 11.00209
 postcode: "90765"
 city: Fürth
-street: "Industriestraße"
-housenumber: 12
+street: Industriestraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 254145785
-type: way
+type: node
 latitude: 49.0698
 longitude: 10.32865
 postcode: "91550"
 city: Dinkelsbühl
-street: "Von-Raumer-Straße"
-housenumber: 11
+street: Von-Raumer-Straße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

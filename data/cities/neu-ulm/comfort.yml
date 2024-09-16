@@ -1,11 +1,11 @@
 id: 67505048
-type: way
+type: node
 latitude: 48.39533
 longitude: 10.02024
 postcode: "89231"
 city: Neu-Ulm
-street: "Pfaffenweg"
-housenumber: 19
+street: Pfaffenweg
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:30; Sa 09:00-16:00"
+opening_hours: Mo-Fr 10:00-18:30; Sa 09:00-16:00
 website: ""

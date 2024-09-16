@@ -4,8 +4,8 @@ latitude: 49.73984
 longitude: 10.63666
 postcode: "96152"
 city: Burghaslach
-street: "An der Eichelfahrt"
-housenumber: 1
-phone: "+49 9552 930940"
-opening_hours: "24/7"
-website: "https://www.kempes-autohof.de/burghaslach"
+street: An der Eichelfahrt
+housenumber: "1"
+phone: +49 9552 930940
+opening_hours: 24/7
+website: https://www.kempes-autohof.de/burghaslach

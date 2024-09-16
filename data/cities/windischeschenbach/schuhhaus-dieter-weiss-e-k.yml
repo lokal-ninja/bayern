@@ -1,11 +1,11 @@
 id: 442243668
-type: way
+type: node
 latitude: 49.80154
 longitude: 12.15614
 postcode: "92670"
 city: Windischeschenbach
-street: "Hauptstraße"
-housenumber: 19
+street: Hauptstraße
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

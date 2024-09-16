@@ -4,8 +4,8 @@ latitude: 49.33693
 longitude: 11.03511
 postcode: "91126"
 city: Schwabach
-street: "Limbacher Straße"
-housenumber: 57
-phone: "+49 9122 73448"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00; So off"
-website: "http://www.jungegger.de/"
+street: Limbacher Straße
+housenumber: "57"
+phone: +49 9122 73448
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00; So off
+website: http://www.jungegger.de/

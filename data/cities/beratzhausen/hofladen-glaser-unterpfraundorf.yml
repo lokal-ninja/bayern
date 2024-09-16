@@ -1,11 +1,11 @@
 id: 212084837
-type: way
+type: node
 latitude: 49.13879
 longitude: 11.85653
 postcode: "93176"
 city: Beratzhausen
-street: "Jakobsweg"
-housenumber: 4
-phone: "+49 9493 2591"
-opening_hours: "Th 14:00-17:00; Fr 09:00-18:00; Sa 09:00-12:00"
-website: "https://www.hofladen-bauernladen.info/adressen/beratzhausen-unterpfraundorf-hofladen-glaser__48908.php"
+street: Jakobsweg
+housenumber: "4"
+phone: +49 9493 2591
+opening_hours: Th 14:00-17:00; Fr 09:00-18:00; Sa 09:00-12:00
+website: https://www.hofladen-bauernladen.info/adressen/beratzhausen-unterpfraundorf-hofladen-glaser__48908.php

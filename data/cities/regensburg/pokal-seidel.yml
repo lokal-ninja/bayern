@@ -4,8 +4,8 @@ latitude: 49.01711
 longitude: 12.10557
 postcode: "93047"
 city: Regensburg
-street: "Prinzenweg"
-housenumber: 27
+street: Prinzenweg
+housenumber: "27"
 phone: ""
-opening_hours: "Tu 09:00-17:30; Fr 09:00-16:00"
+opening_hours: Tu 09:00-17:30; Fr 09:00-16:00
 website: ""

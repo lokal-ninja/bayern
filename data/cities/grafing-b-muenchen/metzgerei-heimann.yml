@@ -4,8 +4,8 @@ latitude: 48.04538
 longitude: 11.96327
 postcode: "85567"
 city: Grafing b. München
-street: "Jahnstraße"
-housenumber: 2
-phone: "+49 8092 32207"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-12:00; PH,Su off"
-website: "https://www.metzgerei-heimann.de"
+street: Jahnstraße
+housenumber: "2"
+phone: +49 8092 32207
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-12:00; PH,Su off
+website: https://www.metzgerei-heimann.de

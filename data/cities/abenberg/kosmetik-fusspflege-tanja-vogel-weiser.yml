@@ -1,11 +1,11 @@
 id: 229371867
-type: way
+type: node
 latitude: 49.24165
 longitude: 10.96303
 postcode: "91183"
 city: Abenberg
-street: "Marktplatz"
-housenumber: 24
+street: Marktplatz
+housenumber: "24"
 phone: ""
-opening_hours: "nach Termin"
+opening_hours: '"nach Termin"'
 website: ""

@@ -1,11 +1,11 @@
 id: 39207477
-type: way
+type: node
 latitude: 48.81356
 longitude: 11.75829
 postcode: "93333"
 city: Neustadt an der Donau
-street: "Donaustraße"
-housenumber: 6
+street: Donaustraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
-website: "https://filialen.aldi-sued.de/bayern/neustadt/donaustrasse-6"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
+website: https://filialen.aldi-sued.de/bayern/neustadt/donaustrasse-6

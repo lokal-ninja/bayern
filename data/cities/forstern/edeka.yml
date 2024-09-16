@@ -1,11 +1,11 @@
 id: 30216651
-type: way
+type: node
 latitude: 48.19022
 longitude: 11.9705
 postcode: "85659"
 city: Forstern
-street: "Gewerbebogen"
-housenumber: 2
-phone: "+49 8124 44 34 81"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://edeka-schmidmueller.de/"
+street: Gewerbebogen
+housenumber: "2"
+phone: +49 8124 44 34 81
+opening_hours: Mo-Sa 08:00-20:00
+website: https://edeka-schmidmueller.de/

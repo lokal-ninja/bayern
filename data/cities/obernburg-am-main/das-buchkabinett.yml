@@ -4,8 +4,8 @@ latitude: 49.84029
 longitude: 9.14531
 postcode: "63785"
 city: Obernburg am Main
-street: "Römerstraße"
-housenumber: 7
-phone: "+49 6022 9790"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00; PH off"
-website: "https://www.buchkabinett.de"
+street: Römerstraße
+housenumber: "7"
+phone: +49 6022 9790
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00; PH off
+website: https://www.buchkabinett.de

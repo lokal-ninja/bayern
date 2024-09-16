@@ -4,8 +4,8 @@ latitude: 49.56814
 longitude: 10.8841
 postcode: "91074"
 city: Herzogenaurach
-street: "Hauptstraße"
-housenumber: 1
-phone: "+49 9132 2026"
-opening_hours: "Mo-Fr 08:30-12:30, 13:30-18:00; Sa 09:00-13:00"
-website: "https://www.optik-wagner.net/"
+street: Hauptstraße
+housenumber: "1"
+phone: +49 9132 2026
+opening_hours: Mo-Fr 08:30-12:30, 13:30-18:00; Sa 09:00-13:00
+website: https://www.optik-wagner.net/

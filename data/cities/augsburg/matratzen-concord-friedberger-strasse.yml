@@ -4,8 +4,8 @@ latitude: 48.35515
 longitude: 10.94066
 postcode: "86163"
 city: Augsburg
-street: "Friedberger Straße"
-housenumber: 109
-phone: "+49 821 667165"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
+street: Friedberger Straße
+housenumber: "109"
+phone: +49 821 667165
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
 website: ""

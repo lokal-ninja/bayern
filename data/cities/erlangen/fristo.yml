@@ -1,11 +1,11 @@
 id: 234589432
-type: way
+type: node
 latitude: 49.59521
 longitude: 10.94945
 postcode: "91056"
 city: Erlangen
-street: "Mönaustraße"
-housenumber: 77
-phone: "+49 9131 430388"
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
+street: Mönaustraße
+housenumber: "77"
+phone: +49 9131 430388
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
 website: ""

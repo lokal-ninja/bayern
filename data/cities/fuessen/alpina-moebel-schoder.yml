@@ -1,11 +1,11 @@
 id: 25335205
-type: way
+type: node
 latitude: 47.56805
 longitude: 10.67754
 postcode: "87629"
 city: Füssen
-street: "Kemptener Straße"
-housenumber: 83
-phone: "+49 8362 6010"
+street: Kemptener Straße
+housenumber: "83"
+phone: +49 8362 6010
 opening_hours: ""
-website: "https://www.alpina-moebel-schoder.de"
+website: https://www.alpina-moebel-schoder.de

@@ -4,8 +4,8 @@ latitude: 49.46528
 longitude: 11.06812
 postcode: "90419"
 city: Nürnberg
-street: "Juvenellstraße"
-housenumber: 25
+street: Juvenellstraße
+housenumber: "25"
 phone: ""
-opening_hours: "Tu-Fr 10:00-18:00"
-website: "https://www.lilly-nail.de"
+opening_hours: Tu-Fr 10:00-18:00
+website: https://www.lilly-nail.de

@@ -1,11 +1,11 @@
 id: 105469951
-type: way
+type: node
 latitude: 48.35613
 longitude: 10.91971
 postcode: "86161"
 city: Augsburg
-street: "Friedberger Straße"
+street: Friedberger Straße
 housenumber: 47 1/3b
-phone: "+49 821 554161"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 09:00-13:00"
-website: "http://www.rieger-ludwig.de"
+phone: +49 821 554161
+opening_hours: Mo-Fr 08:00-17:00; Sa 09:00-13:00
+website: http://www.rieger-ludwig.de

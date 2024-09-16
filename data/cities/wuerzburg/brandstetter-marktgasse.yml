@@ -4,8 +4,9 @@ latitude: 49.79495
 longitude: 9.92846
 postcode: "97070"
 city: Würzburg
-street: "Marktgasse"
-housenumber: 3
+street: Marktgasse
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 05:00-18:00, Sa 05:00-18:00, Su 05:00- 10:00|| Corona-Zeiten beachten!"
+opening_hours: Mo-Fr 05:00-18:00, Sa 05:00-18:00, Su 05:00- 10:00|| "Corona-Zeiten
+    beachten!"
 website: ""

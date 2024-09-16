@@ -1,11 +1,11 @@
 id: 106672377
-type: way
+type: node
 latitude: 48.83117
 longitude: 11.0991
 postcode: "91809"
 city: Wellheim
-street: "Aicha"
-housenumber: 21
+street: Aicha
+housenumber: "21"
 phone: "+498427985816"
 opening_hours: ""
 website: ""

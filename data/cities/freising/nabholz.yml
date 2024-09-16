@@ -4,8 +4,8 @@ latitude: 48.39882
 longitude: 11.73462
 postcode: "85354"
 city: Freising
-street: "Vöttinger Straße"
-housenumber: 22
-phone: "+49-8161-3737"
-opening_hours: "Mo-Fr 08:00-12:00,13:00-17:00"
-website: "https://www.nabholz.de"
+street: Vöttinger Straße
+housenumber: "22"
+phone: +49-8161-3737
+opening_hours: Mo-Fr 08:00-12:00,13:00-17:00
+website: https://www.nabholz.de

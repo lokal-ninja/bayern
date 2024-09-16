@@ -1,11 +1,11 @@
 id: 234541627
-type: way
+type: node
 latitude: 50.11494
 longitude: 11.03569
 postcode: "96231"
 city: Bad Staffelstein
-street: "Krausenbachstraße"
-housenumber: 42
+street: Krausenbachstraße
+housenumber: "42"
 phone: ""
 opening_hours: ""
 website: ""

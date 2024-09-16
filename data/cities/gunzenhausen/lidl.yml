@@ -1,11 +1,11 @@
 id: 237814315
-type: way
+type: node
 latitude: 49.1222
 longitude: 10.75413
 postcode: "91710"
 city: Gunzenhausen
-street: "Alemannenstraße"
-housenumber: 8
+street: Alemannenstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

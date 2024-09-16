@@ -1,11 +1,11 @@
 id: 228488274
-type: way
+type: node
 latitude: 47.99712
 longitude: 11.36218
 postcode: "82319"
 city: Starnberg
-street: "Berger Straße"
-housenumber: 18
-phone: "+49 8151 2299"
+street: Berger Straße
+housenumber: "18"
+phone: +49 8151 2299
 opening_hours: ""
-website: "https://dirrigl.net"
+website: https://dirrigl.net

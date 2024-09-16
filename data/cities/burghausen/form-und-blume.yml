@@ -4,8 +4,8 @@ latitude: 48.15949
 longitude: 12.83299
 postcode: "84489"
 city: Burghausen
-street: "Stadtplatz"
-housenumber: 56
+street: Stadtplatz
+housenumber: "56"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 09:30-18:00; Sa 09:00-13:00"
+opening_hours: Mo,Tu,Th,Fr 09:30-18:00; Sa 09:00-13:00
 website: ""

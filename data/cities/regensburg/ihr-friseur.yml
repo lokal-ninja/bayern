@@ -1,11 +1,11 @@
 id: 112381538
-type: way
+type: node
 latitude: 49.03378
 longitude: 12.09815
 postcode: "93059"
 city: Regensburg
-street: "Lappersdorfer Straße"
-housenumber: 42
+street: Lappersdorfer Straße
+housenumber: "42"
 phone: ""
 opening_hours: ""
 website: ""

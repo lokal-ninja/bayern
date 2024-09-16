@@ -1,11 +1,11 @@
 id: 108336684
-type: way
+type: node
 latitude: 47.44269
 longitude: 11.26969
 postcode: "82481"
 city: Mittenwald
-street: "Dammkarstraße"
-housenumber: 39
+street: Dammkarstraße
+housenumber: "39"
 phone: ""
 opening_hours: ""
 website: ""

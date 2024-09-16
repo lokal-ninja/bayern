@@ -4,8 +4,8 @@ latitude: 49.27389
 longitude: 11.44779
 postcode: "92318"
 city: Neumarkt in der Oberpfalz
-street: "Lange Gasse"
-housenumber: 1
-phone: "+49 9181-4877304"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.rossmann.de/de/filialen/bayern/neumarkt-in-der-oberpfalz/lange-gasse-1.html"
+street: Lange Gasse
+housenumber: "1"
+phone: +49 9181-4877304
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.rossmann.de/de/filialen/bayern/neumarkt-in-der-oberpfalz/lange-gasse-1.html

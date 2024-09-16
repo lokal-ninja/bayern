@@ -4,8 +4,8 @@ latitude: 49.01958
 longitude: 12.09634
 postcode: "93047"
 city: Regensburg
-street: "Tändlergasse"
-housenumber: 3
-phone: "+49 941 510 74"
-opening_hours: "Mo-Sa 10:00-18:00"
-website: "https://www.antikhaus-insam.de/"
+street: Tändlergasse
+housenumber: "3"
+phone: +49 941 510 74
+opening_hours: Mo-Sa 10:00-18:00
+website: https://www.antikhaus-insam.de/

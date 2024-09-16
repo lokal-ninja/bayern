@@ -4,8 +4,9 @@ latitude: 48.91854
 longitude: 13.0818
 postcode: "94253"
 city: Bischofsmais
-street: "Fahrnbacher Straße"
-housenumber: 2
-phone: "+49 9920 1385"
-opening_hours: "Mo 08:30-12:00, 14:00-18:00; Tu 08:30-12:00; We-Fr 08:30-12:00, 14:00-18:00; Sa 08:30-12:00"
+street: Fahrnbacher Straße
+housenumber: "2"
+phone: +49 9920 1385
+opening_hours: Mo 08:30-12:00, 14:00-18:00; Tu 08:30-12:00; We-Fr 08:30-12:00, 14:00-18:00;
+    Sa 08:30-12:00
 website: ""

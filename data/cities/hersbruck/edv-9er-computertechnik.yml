@@ -1,11 +1,11 @@
 id: 45733738
-type: way
+type: node
 latitude: 49.50346
 longitude: 11.44007
 postcode: "91217"
 city: Hersbruck
-street: "Happurger Straße"
-housenumber: 32
-phone: "+49 9151 824985"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00"
-website: "https://www.edv-neuner.de/"
+street: Happurger Straße
+housenumber: "32"
+phone: +49 9151 824985
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00
+website: https://www.edv-neuner.de/

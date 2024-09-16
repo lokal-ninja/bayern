@@ -4,8 +4,9 @@ latitude: 49.60583
 longitude: 10.98343
 postcode: "91056"
 city: Erlangen
-street: "Möhrendorfer Straße"
+street: Möhrendorfer Straße
 housenumber: 1c
-phone: "+49 9131 931302"
-opening_hours: "2024 Aug 26-2024 Oct 28 Mo-Fr 07:00-18:00; 2024 Aug 26-2024 Oct 28 Sa 07:00-16:00; PH off"
-website: "https://baeckerei-fuchs.de/"
+phone: +49 9131 931302
+opening_hours: 2024 Aug 26-2024 Oct 28 Mo-Fr 07:00-18:00; 2024 Aug 26-2024 Oct 28
+    Sa 07:00-16:00; PH off
+website: https://baeckerei-fuchs.de/

@@ -1,11 +1,11 @@
 id: 122541100
-type: way
+type: node
 latitude: 48.11824
 longitude: 11.69017
 postcode: "81827"
 city: München
-street: "Wasserburger Landstraße"
-housenumber: 143
-phone: "+49 89 4377860"
-opening_hours: "Mo-Fr 07:00-17:15"
-website: "https://www.rrg-auto.de/renault"
+street: Wasserburger Landstraße
+housenumber: "143"
+phone: +49 89 4377860
+opening_hours: Mo-Fr 07:00-17:15
+website: https://www.rrg-auto.de/renault

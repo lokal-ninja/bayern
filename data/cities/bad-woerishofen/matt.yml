@@ -4,8 +4,8 @@ latitude: 48.00623
 longitude: 10.59556
 postcode: "86825"
 city: Bad Wörishofen
-street: "Hauptstraße"
-housenumber: 12
-phone: "+49 8247 8652"
-opening_hours: "Mo-Tu,Th-Fr 09:00-12:30,13:30-18:00; We,Sa 09:00-13:00"
-website: "https://matt.de/standorte/optiker-bad-woerishofen/"
+street: Hauptstraße
+housenumber: "12"
+phone: +49 8247 8652
+opening_hours: Mo-Tu,Th-Fr 09:00-12:30,13:30-18:00; We,Sa 09:00-13:00
+website: https://matt.de/standorte/optiker-bad-woerishofen/

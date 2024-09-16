@@ -1,11 +1,11 @@
 id: 240327942
-type: way
+type: node
 latitude: 47.86948
 longitude: 12.78774
 postcode: "83317"
 city: Teisendorf
 street: ""
-housenumber: 3
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

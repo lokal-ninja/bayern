@@ -1,11 +1,11 @@
 id: 206986339
-type: way
+type: node
 latitude: 47.84769
 longitude: 12.54276
 postcode: "83355"
 city: Grabenstätt
-street: "Chieminger Straße"
-housenumber: 22
+street: Chieminger Straße
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

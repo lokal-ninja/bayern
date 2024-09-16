@@ -1,11 +1,11 @@
 id: 205018327
-type: way
+type: node
 latitude: 48.07903
 longitude: 10.50665
 postcode: "87719"
 city: Mindelheim
-street: "Hauptstraße"
-housenumber: 26
-phone: "+49 8261 763692"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00"
-website: "https://www.blumenbirkle.de/"
+street: Hauptstraße
+housenumber: "26"
+phone: +49 8261 763692
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00
+website: https://www.blumenbirkle.de/

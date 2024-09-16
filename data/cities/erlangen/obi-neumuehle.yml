@@ -1,11 +1,11 @@
 id: 814965045
-type: way
+type: node
 latitude: 49.58723
 longitude: 10.9751
 postcode: "91056"
 city: Erlangen
-street: "Neumühle"
-housenumber: 1
+street: Neumühle
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
 website: ""

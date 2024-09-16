@@ -1,11 +1,11 @@
 id: 168611992
-type: way
+type: node
 latitude: 49.28315
 longitude: 11.45597
 postcode: "92318"
 city: Neumarkt in der Oberpfalz
-street: "Dammstraße"
-housenumber: 1
-phone: "+49 9181 909 18000"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "http://www.neuermarkt-nm.de"
+street: Dammstraße
+housenumber: "1"
+phone: +49 9181 909 18000
+opening_hours: Mo-Sa 10:00-19:00
+website: http://www.neuermarkt-nm.de

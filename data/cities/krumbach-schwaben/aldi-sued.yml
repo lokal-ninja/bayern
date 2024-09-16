@@ -1,11 +1,11 @@
 id: 46898342
-type: way
+type: node
 latitude: 48.23613
 longitude: 10.3742
 postcode: ""
 city: Krumbach (Schwaben)
-street: "Erwin-Bosch-Ring"
-housenumber: 2
+street: Erwin-Bosch-Ring
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://filialen.aldi-sued.de/bayern/krumbach/erwin-bosch-ring-2"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://filialen.aldi-sued.de/bayern/krumbach/erwin-bosch-ring-2

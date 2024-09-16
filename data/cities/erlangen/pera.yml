@@ -1,11 +1,11 @@
 id: 428807717
-type: way
+type: node
 latitude: 49.59299
 longitude: 11.00398
 postcode: "91052"
 city: Erlangen
-street: "Nürnberger Straße"
-housenumber: 7
-phone: "+49 9131 4057004"
-opening_hours: "Mo-Sa 09:30-20:00"
+street: Nürnberger Straße
+housenumber: "7"
+phone: +49 9131 4057004
+opening_hours: Mo-Sa 09:30-20:00
 website: ""

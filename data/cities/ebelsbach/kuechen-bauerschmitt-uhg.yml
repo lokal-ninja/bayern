@@ -1,11 +1,11 @@
 id: 312946761
-type: way
+type: node
 latitude: 49.98322
 longitude: 10.66974
 postcode: "97500"
 city: Ebelsbach
-street: "Bahnhofstraße"
-housenumber: 4
+street: Bahnhofstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

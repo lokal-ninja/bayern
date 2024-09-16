@@ -4,8 +4,8 @@ latitude: 47.91515
 longitude: 11.42476
 postcode: "82515"
 city: Wolfratshausen
-street: "Bahnhofstraße"
-housenumber: 22
-phone: "+49 8171 21 64 35"
-opening_hours: "Mo-Fr 09:00-13:00, Mo-Fr14:00-18"
-website: "https://www.hoergeraete-seifert.de/deutsch/unternehmen/filialen/wolfratshausen.html"
+street: Bahnhofstraße
+housenumber: "22"
+phone: +49 8171 21 64 35
+opening_hours: Mo-Fr 09:00-13:00, Mo-Fr14:00-18
+website: https://www.hoergeraete-seifert.de/deutsch/unternehmen/filialen/wolfratshausen.html

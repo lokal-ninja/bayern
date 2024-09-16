@@ -4,8 +4,8 @@ latitude: 48.36377
 longitude: 10.92675
 postcode: "86153"
 city: Augsburg
-street: "Proviantbachstraße"
-housenumber: 30
-phone: "+49 821 5675930"
-opening_hours: "Mo-Sa 10:00-18:30; Su, PH off"
-website: "https://www.boesner.com/unsere-standorte/augsburg"
+street: Proviantbachstraße
+housenumber: "30"
+phone: +49 821 5675930
+opening_hours: Mo-Sa 10:00-18:30; Su, PH off
+website: https://www.boesner.com/unsere-standorte/augsburg

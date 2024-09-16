@@ -4,8 +4,8 @@ latitude: 49.31418
 longitude: 10.56737
 postcode: "91522"
 city: Ansbach
-street: "Schwabedastraße"
-housenumber: 1
+street: Schwabedastraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.vitalcenter-ansbach.de/"
+website: https://www.vitalcenter-ansbach.de/

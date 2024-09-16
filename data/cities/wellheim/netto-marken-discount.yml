@@ -1,11 +1,11 @@
 id: 35578474
-type: way
+type: node
 latitude: 48.81697
 longitude: 11.08422
 postcode: "91809"
 city: Wellheim
-street: "Schutterstraße"
-housenumber: 16
+street: Schutterstraße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
+opening_hours: Mo-Sa 07:00-20:00; PH off
 website: ""

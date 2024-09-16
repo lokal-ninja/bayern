@@ -4,8 +4,8 @@ latitude: 47.59831
 longitude: 11.06189
 postcode: "82487"
 city: Oberammergau
-street: "Dorfstraße"
-housenumber: 2
-phone: "+498822-6454"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00"
-website: "https://www.schuh-wolf-oberammergau.de/"
+street: Dorfstraße
+housenumber: "2"
+phone: +498822-6454
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-16:00
+website: https://www.schuh-wolf-oberammergau.de/

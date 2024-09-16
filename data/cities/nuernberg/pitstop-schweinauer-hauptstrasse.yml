@@ -1,11 +1,11 @@
 id: 58526953
-type: way
+type: node
 latitude: 49.42622
 longitude: 11.04021
 postcode: "90441"
 city: Nürnberg
-street: "Schweinauer Hauptstraße"
-housenumber: 150
+street: Schweinauer Hauptstraße
+housenumber: "150"
 phone: ""
 opening_hours: ""
 website: ""

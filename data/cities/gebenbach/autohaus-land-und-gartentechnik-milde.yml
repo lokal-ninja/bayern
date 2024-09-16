@@ -1,11 +1,11 @@
 id: 439704802
-type: way
+type: node
 latitude: 49.53801
 longitude: 11.8777
 postcode: "92274"
 city: Gebenbach
-street: "Am Weingarten"
-housenumber: 5
+street: Am Weingarten
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

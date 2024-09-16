@@ -1,11 +1,11 @@
 id: 243078561
-type: way
+type: node
 latitude: 48.57364
 longitude: 13.4221
 postcode: ""
 city: Passau
-street: "Regensburger Straße"
-housenumber: 22
+street: Regensburger Straße
+housenumber: "22"
 phone: ""
 opening_hours: ""
-website: "https://www.cube-store-passau.de/"
+website: https://www.cube-store-passau.de/

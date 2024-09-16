@@ -5,7 +5,7 @@ longitude: 12.57352
 postcode: "93491"
 city: Stamsried
 street: ""
-housenumber: 1
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "http://www.biohof-lausser.de/"
+website: http://www.biohof-lausser.de/

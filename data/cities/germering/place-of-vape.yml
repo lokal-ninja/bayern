@@ -4,8 +4,8 @@ latitude: 48.12509
 longitude: 11.36649
 postcode: "82110"
 city: Germering
-street: "Otto-Wagner-Straße"
-housenumber: 5
+street: Otto-Wagner-Straße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
-website: "https://www.placeofvape.de/"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00
+website: https://www.placeofvape.de/

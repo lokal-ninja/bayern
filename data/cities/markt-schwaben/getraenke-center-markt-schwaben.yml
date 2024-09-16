@@ -1,11 +1,11 @@
 id: 129847298
-type: way
+type: node
 latitude: 48.1899
 longitude: 11.86638
 postcode: "85570"
 city: Markt Schwaben
-street: "Habererweg"
-housenumber: 4
+street: Habererweg
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:30; Sa 08:00-13:00"
+opening_hours: Mo-Fr 08:30-18:30; Sa 08:00-13:00
 website: ""

@@ -1,11 +1,11 @@
 id: 91405878
-type: way
+type: node
 latitude: 49.65776
 longitude: 12.04788
 postcode: "92708"
 city: Mantel
-street: "Bonhoefferstraße"
-housenumber: 4
+street: Bonhoefferstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.dimoshop24.de/"
+website: https://www.dimoshop24.de/

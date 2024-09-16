@@ -4,8 +4,8 @@ latitude: 48.13432
 longitude: 11.57663
 postcode: "80469"
 city: München
-street: "Frauenstraße"
-housenumber: 8
-phone: "+49 89 121976688"
-opening_hours: "Mo-Sa 11:00-19:00; Su,PH off"
-website: "https://content.rapha.cc/de/de/clubhouses/munich"
+street: Frauenstraße
+housenumber: "8"
+phone: +49 89 121976688
+opening_hours: Mo-Sa 11:00-19:00; Su,PH off
+website: https://content.rapha.cc/de/de/clubhouses/munich

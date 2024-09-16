@@ -1,11 +1,11 @@
 id: 23167445
-type: way
+type: node
 latitude: 49.29396
 longitude: 10.60212
 postcode: ""
 city: Ansbach
-street: "Windsbacher Straße"
-housenumber: 20
+street: Windsbacher Straße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

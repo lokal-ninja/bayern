@@ -1,11 +1,11 @@
 id: 379009508
-type: way
+type: node
 latitude: 49.01351
 longitude: 12.05736
 postcode: "93049"
 city: Regensburg
-street: "Prüfeninger Straße"
-housenumber: 135
-phone: "+49 941 307220"
-opening_hours: "Mo-Fr 07:30-18:00, Sa 09:00-13:00, Su 11:00-17:00"
-website: "https://www.jepsen-autogruppe.de/jepsen-gruppe/marken-standorte/vw/autohaus-west-regensburg"
+street: Prüfeninger Straße
+housenumber: "135"
+phone: +49 941 307220
+opening_hours: Mo-Fr 07:30-18:00, Sa 09:00-13:00, Su 11:00-17:00
+website: https://www.jepsen-autogruppe.de/jepsen-gruppe/marken-standorte/vw/autohaus-west-regensburg

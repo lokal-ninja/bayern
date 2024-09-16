@@ -4,8 +4,8 @@ latitude: 48.15292
 longitude: 11.50778
 postcode: "80639"
 city: München
-street: "Hirschgartenallee"
-housenumber: 23
+street: Hirschgartenallee
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Fr 06:15-18:30"
+opening_hours: Mo-Fr 06:15-18:30
 website: ""

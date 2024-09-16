@@ -1,11 +1,11 @@
 id: 49143678
-type: way
+type: node
 latitude: 49.55473
 longitude: 12.00741
 postcode: "92253"
 city: Schnaittenbach
-street: "Jahnstraße"
-housenumber: 15
-phone: "+49 9622 4881"
+street: Jahnstraße
+housenumber: "15"
+phone: +49 9622 4881
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 148251695
-type: way
+type: node
 latitude: 48.25302
 longitude: 10.49138
 postcode: "86470"
 city: Thannhausen
-street: "An der Blumenkapelle"
-housenumber: 5
+street: An der Blumenkapelle
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

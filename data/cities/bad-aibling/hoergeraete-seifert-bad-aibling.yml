@@ -4,8 +4,9 @@ latitude: 47.86344
 longitude: 12.01067
 postcode: "83043"
 city: Bad Aibling
-street: "Rosenheimer Straße"
-housenumber: 3
-phone: "+49 8061 93 77 115"
-opening_hours: "Mo-Fr 09:00-13:00, Mo,Tu,Th,Fr 14:00-18:00, We 14:00-16:00; Sa,Su,PH off"
-website: "https://www.hoergeraete-seifert.de/deutsch/unternehmen/filialen/bad-aibling.html"
+street: Rosenheimer Straße
+housenumber: "3"
+phone: +49 8061 93 77 115
+opening_hours: Mo-Fr 09:00-13:00, Mo,Tu,Th,Fr 14:00-18:00, We 14:00-16:00; Sa,Su,PH
+    off
+website: https://www.hoergeraete-seifert.de/deutsch/unternehmen/filialen/bad-aibling.html

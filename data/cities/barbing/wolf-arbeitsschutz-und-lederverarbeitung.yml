@@ -1,11 +1,11 @@
 id: 125420552
-type: way
+type: node
 latitude: 49.00416
 longitude: 12.19659
 postcode: "93092"
 city: Barbing
-street: "Ludwig-Raith-Weg"
-housenumber: 3
-phone: "+49 9401 2743"
+street: Ludwig-Raith-Weg
+housenumber: "3"
+phone: +49 9401 2743
 opening_hours: ""
 website: ""

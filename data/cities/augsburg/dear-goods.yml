@@ -4,8 +4,8 @@ latitude: 48.37381
 longitude: 10.89635
 postcode: "86152"
 city: Augsburg
-street: "Frauentorstraße"
-housenumber: 7
-phone: "+49 821 24414941"
-opening_hours: "Mo-Th 11:00-18:00; Sa 10:30-18:00; PH off; Fr 11:00-19:00"
-website: "https://www.deargoods.com/"
+street: Frauentorstraße
+housenumber: "7"
+phone: +49 821 24414941
+opening_hours: Mo-Th 11:00-18:00; Sa 10:30-18:00; PH off; Fr 11:00-19:00
+website: https://www.deargoods.com/

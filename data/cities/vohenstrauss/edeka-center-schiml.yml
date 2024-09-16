@@ -1,11 +1,11 @@
 id: 221109812
-type: way
+type: node
 latitude: 49.6295
 longitude: 12.33822
 postcode: "92648"
 city: Vohenstrauß
-street: "Altenstadter Straße"
-housenumber: 10
-phone: "+49 9651 797"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.edeka.de/"
+street: Altenstadter Straße
+housenumber: "10"
+phone: +49 9651 797
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.edeka.de/

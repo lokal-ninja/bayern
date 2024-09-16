@@ -1,11 +1,11 @@
 id: 232305781
-type: way
+type: node
 latitude: 48.3863
 longitude: 10.03074
 postcode: "89231"
 city: Neu-Ulm
-street: "Von-Liebig-Straße"
-housenumber: 4
+street: Von-Liebig-Straße
+housenumber: "4"
 phone: ""
-opening_hours: "06:00-22:00"
-website: "https://www.mystorage.de/neu-ulm"
+opening_hours: 06:00-22:00
+website: https://www.mystorage.de/neu-ulm

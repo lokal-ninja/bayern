@@ -1,11 +1,11 @@
 id: 168983786
-type: way
+type: node
 latitude: 49.40741
 longitude: 11.66064
 postcode: "92262"
 city: Birgland
 street: ""
-housenumber: 40
+housenumber: "40"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 810604170
-type: way
+type: node
 latitude: 48.60106
 longitude: 11.62859
 postcode: "85283"
 city: Wolnzach
-street: "Preysingstraße"
-housenumber: 29
+street: Preysingstraße
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

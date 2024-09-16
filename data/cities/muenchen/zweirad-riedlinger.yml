@@ -4,8 +4,8 @@ latitude: 48.0966
 longitude: 11.5635
 postcode: "81545"
 city: München
-street: "Grünwalder Straße"
-housenumber: 188
+street: Grünwalder Straße
+housenumber: "188"
 phone: ""
-opening_hours: "Mo-Sa 09:00-13:00"
-website: "https://www.fahrrad-riedlinger.de/"
+opening_hours: Mo-Sa 09:00-13:00
+website: https://www.fahrrad-riedlinger.de/

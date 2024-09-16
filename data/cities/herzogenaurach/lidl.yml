@@ -1,11 +1,11 @@
 id: 39300170
-type: way
+type: node
 latitude: 49.57872
 longitude: 10.88601
 postcode: "91074"
 city: Herzogenaurach
-street: "Ohmstraße"
-housenumber: 8
+street: Ohmstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

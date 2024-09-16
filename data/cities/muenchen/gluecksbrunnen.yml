@@ -4,8 +4,8 @@ latitude: 48.11989
 longitude: 11.57468
 postcode: "81543"
 city: München
-street: "Humboldtstraße"
-housenumber: 25
-phone: "+49 89 44449220"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://gluecksbrunnen.com/"
+street: Humboldtstraße
+housenumber: "25"
+phone: +49 89 44449220
+opening_hours: Mo-Sa 10:00-20:00
+website: https://gluecksbrunnen.com/

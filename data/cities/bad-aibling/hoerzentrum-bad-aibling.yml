@@ -4,8 +4,8 @@ latitude: 47.86259
 longitude: 12.00619
 postcode: "83043"
 city: Bad Aibling
-street: "Bahnhofstraße"
-housenumber: 26
-phone: "+49 8061 93 77 058"
-opening_hours: "Mo-Fr 09:00-13:00, Mo,Tu,Th 14:00-18:00; PH Sa,Su off"
-website: "https://www.hzbadaibling.de"
+street: Bahnhofstraße
+housenumber: "26"
+phone: +49 8061 93 77 058
+opening_hours: Mo-Fr 09:00-13:00, Mo,Tu,Th 14:00-18:00; PH Sa,Su off
+website: https://www.hzbadaibling.de

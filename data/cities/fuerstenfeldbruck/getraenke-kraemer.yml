@@ -4,8 +4,8 @@ latitude: 48.17568
 longitude: 11.25022
 postcode: "82256"
 city: Fürstenfeldbruck
-street: "Auf der Lände"
-housenumber: 3
-phone: "+49 8141 23034"
-opening_hours: "Mo-Th 08:00-12:30, 14:00-18:30; Fr 08:00-18:30; Sa 08:00-15:00"
-website: "https://www.getraenke-maerkte-kraemer.de/"
+street: Auf der Lände
+housenumber: "3"
+phone: +49 8141 23034
+opening_hours: Mo-Th 08:00-12:30, 14:00-18:30; Fr 08:00-18:30; Sa 08:00-15:00
+website: https://www.getraenke-maerkte-kraemer.de/

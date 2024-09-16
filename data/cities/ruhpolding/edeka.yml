@@ -1,11 +1,11 @@
 id: 39025031
-type: way
+type: node
 latitude: 47.76562
 longitude: 12.64338
 postcode: "83324"
 city: Ruhpolding
-street: "Zinnkopfstraße"
-housenumber: 2
+street: Zinnkopfstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:30-19:30; PH off"
+opening_hours: Mo-Sa 07:30-19:30; PH off
 website: ""

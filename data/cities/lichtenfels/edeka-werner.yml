@@ -1,11 +1,11 @@
 id: 223904501
-type: way
+type: node
 latitude: 50.14972
 longitude: 11.0789
 postcode: "96215"
 city: Lichtenfels
-street: "Kronacher Straße"
-housenumber: 40
+street: Kronacher Straße
+housenumber: "40"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

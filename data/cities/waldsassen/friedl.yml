@@ -1,11 +1,11 @@
 id: 196481896
-type: way
+type: node
 latitude: 50.00301
 longitude: 12.30662
 postcode: "95652"
 city: Waldsassen
-street: "Kolpingstraße"
-housenumber: 6
+street: Kolpingstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

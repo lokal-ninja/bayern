@@ -4,8 +4,8 @@ latitude: 49.02466
 longitude: 12.0976
 postcode: "93059"
 city: Regensburg
-street: "Andreasstraße"
-housenumber: 1
+street: Andreasstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00; Dec 24, 31: 08:00-13:00"
-website: "https://bioinsel-stadtamhof.de/"
+opening_hours: 'Mo-Fr 08:00-19:00; Sa 08:00-18:00; Dec 24, 31: 08:00-13:00'
+website: https://bioinsel-stadtamhof.de/

@@ -1,11 +1,11 @@
 id: 209399456
-type: way
+type: node
 latitude: 49.03481
 longitude: 11.93367
 postcode: "93152"
 city: Nittendorf
-street: "An der Steinbuchse"
-housenumber: 2
-phone: "+49 9404 6410015"
-opening_hours: "Mo-Sa 08:00-20:00"
+street: An der Steinbuchse
+housenumber: "2"
+phone: +49 9404 6410015
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 43519246
-type: way
+type: node
 latitude: 49.55933
 longitude: 10.964
 postcode: "91056"
 city: Erlangen
-street: "Neuenweiherstraße"
-housenumber: 15
-phone: "+49 9131 992939"
+street: Neuenweiherstraße
+housenumber: "15"
+phone: +49 9131 992939
 opening_hours: ""
-website: "https://www.frankenkaelte.de/"
+website: https://www.frankenkaelte.de/

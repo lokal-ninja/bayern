@@ -1,11 +1,11 @@
 id: 271751071
-type: way
+type: node
 latitude: 49.44156
 longitude: 11.87996
 postcode: "92224"
 city: Amberg
-street: "Mosacherweg"
-housenumber: 19
+street: Mosacherweg
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:30"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-12:30
 website: ""

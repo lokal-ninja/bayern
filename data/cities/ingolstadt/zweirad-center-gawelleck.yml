@@ -4,8 +4,8 @@ latitude: 48.78088
 longitude: 11.43174
 postcode: "85055"
 city: Ingolstadt
-street: "Siemensstraße"
-housenumber: 7
+street: Siemensstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 9:00-12:00, 13:00-18:00; Sa 10:00-13:00"
+opening_hours: Mo-Fr 9:00-12:00, 13:00-18:00; Sa 10:00-13:00
 website: ""

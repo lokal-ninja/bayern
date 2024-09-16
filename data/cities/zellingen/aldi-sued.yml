@@ -1,11 +1,11 @@
 id: 25364563
-type: way
+type: node
 latitude: 49.89235
 longitude: 9.82369
 postcode: "97225"
 city: Zellingen
-street: "Würzburger Straße"
-housenumber: 74
+street: Würzburger Straße
+housenumber: "74"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://filialen.aldi-sued.de/bayern/zellingen/wuerzburger-strasse-74"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://filialen.aldi-sued.de/bayern/zellingen/wuerzburger-strasse-74

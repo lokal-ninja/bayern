@@ -4,8 +4,8 @@ latitude: 49.50855
 longitude: 11.42
 postcode: "91217"
 city: Hersbruck
-street: "Nürnberger Straße"
-housenumber: 60
-phone: "+49 9151 2662"
-opening_hours: "Mo-Su 06:00-21:30"
+street: Nürnberger Straße
+housenumber: "60"
+phone: +49 9151 2662
+opening_hours: Mo-Su 06:00-21:30
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.27038
 longitude: 10.83409
 postcode: "86399"
 city: Bobingen
-street: "Hochstraße"
-housenumber: 16
-phone: "+49 8234 3601"
+street: Hochstraße
+housenumber: "16"
+phone: +49 8234 3601
 opening_hours: ""
-website: "https://www.farben-buehler.de/"
+website: https://www.farben-buehler.de/

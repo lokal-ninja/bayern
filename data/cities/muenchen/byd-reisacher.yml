@@ -4,8 +4,8 @@ latitude: 48.12457
 longitude: 11.60145
 postcode: "81671"
 city: München
-street: "Rosenheimer Straße"
-housenumber: 139
-phone: "+49 89 18941330"
-opening_hours: "Mo,Sa 10:00-16:00; Tu-Fr 10:00-19:00"
-website: "https://www.reisacher.de/byd/"
+street: Rosenheimer Straße
+housenumber: "139"
+phone: +49 89 18941330
+opening_hours: Mo,Sa 10:00-16:00; Tu-Fr 10:00-19:00
+website: https://www.reisacher.de/byd/

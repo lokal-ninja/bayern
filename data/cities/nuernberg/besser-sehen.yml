@@ -4,8 +4,8 @@ latitude: 49.47864
 longitude: 11.10629
 postcode: "90411"
 city: Nürnberg
-street: "Ziegelsteinstraße"
-housenumber: 32
+street: Ziegelsteinstraße
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:30"
-website: "https://www.besser-sehen-regitz.de"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:30
+website: https://www.besser-sehen-regitz.de

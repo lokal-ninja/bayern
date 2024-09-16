@@ -1,11 +1,11 @@
 id: 374334438
-type: way
+type: node
 latitude: 48.19653
 longitude: 12.34595
 postcode: "84544"
 city: Aschau am Inn
-street: "Kirchenstraße"
-housenumber: 1
+street: Kirchenstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

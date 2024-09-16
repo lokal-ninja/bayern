@@ -4,8 +4,9 @@ latitude: 50.08724
 longitude: 9.24458
 postcode: "63825"
 city: Schöllkrippen
-street: "Laudenbacher Straße"
-housenumber: 9
-phone: "+49 6024 1574"
-opening_hours: "Mo-Tu 06:00-18:00; We 06:00-13:00; Th-Fr 06:00-18:00; Sa 06:00-12:00; PH off; Su 11:00-11:30 open Tortenverkauf"
+street: Laudenbacher Straße
+housenumber: "9"
+phone: +49 6024 1574
+opening_hours: Mo-Tu 06:00-18:00; We 06:00-13:00; Th-Fr 06:00-18:00; Sa 06:00-12:00;
+    PH off; Su 11:00-11:30 open "Tortenverkauf"
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.8317
 longitude: 9.89777
 postcode: "97209"
 city: Veitshöchheim
-street: "Raiffeisenstraße"
-housenumber: 9
+street: Raiffeisenstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo 10:00-18:00; Tu-Fr 09:00-18:00; Sa 09:00-14:00"
-website: "http://www.friseurwerk-golub.de"
+opening_hours: Mo 10:00-18:00; Tu-Fr 09:00-18:00; Sa 09:00-14:00
+website: http://www.friseurwerk-golub.de

@@ -4,8 +4,8 @@ latitude: 49.71753
 longitude: 11.06612
 postcode: "91301"
 city: Forchheim
-street: "Zweibrückenstraße"
-housenumber: 39
-phone: "+49 9191 701 2034"
-opening_hours: "Mo-Fr 08:00-18:00"
+street: Zweibrückenstraße
+housenumber: "39"
+phone: +49 9191 701 2034
+opening_hours: Mo-Fr 08:00-18:00
 website: ""

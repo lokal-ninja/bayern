@@ -4,8 +4,8 @@ latitude: 48.15918
 longitude: 11.577
 postcode: "80801"
 city: München
-street: "Römerstraße"
-housenumber: 9
+street: Römerstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo,Su,PH off; Tu-Fr 14:30-18:00; Sa 09:30-12:00"
+opening_hours: Mo,Su,PH off; Tu-Fr 14:30-18:00; Sa 09:30-12:00
 website: ""

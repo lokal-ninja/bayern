@@ -1,11 +1,11 @@
 id: 480583247
-type: way
+type: node
 latitude: 48.7303
 longitude: 11.83143
 postcode: "93358"
 city: Train
-street: "Niederumelsdorfer Straße"
-housenumber: 16
+street: Niederumelsdorfer Straße
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

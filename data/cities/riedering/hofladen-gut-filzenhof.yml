@@ -4,8 +4,8 @@ latitude: 47.83626
 longitude: 12.17271
 postcode: "83083"
 city: Riedering
-street: "Lauterbacher Straße"
-housenumber: 6
-phone: "+49 8031 9089990"
-opening_hours: "Mo-Fr 08:00-18:00, Sa 08:00-12:00; PH off"
-website: "https://www.filzenhof.de/"
+street: Lauterbacher Straße
+housenumber: "6"
+phone: +49 8031 9089990
+opening_hours: Mo-Fr 08:00-18:00, Sa 08:00-12:00; PH off
+website: https://www.filzenhof.de/

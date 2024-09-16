@@ -4,8 +4,8 @@ latitude: 48.31454
 longitude: 11.74306
 postcode: "85399"
 city: Hallbergmoos
-street: "Freisinger Straße"
-housenumber: 33
-phone: "+49 811 29990828"
-opening_hours: "Mo-Sa 08:00-20:00; Su off"
-website: "https://www.rossmann.de/de/filialen/bayern/hallbergmoos/freisinger-str--33.html"
+street: Freisinger Straße
+housenumber: "33"
+phone: +49 811 29990828
+opening_hours: Mo-Sa 08:00-20:00; Su off
+website: https://www.rossmann.de/de/filialen/bayern/hallbergmoos/freisinger-str--33.html

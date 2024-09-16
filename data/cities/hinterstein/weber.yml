@@ -4,8 +4,8 @@ latitude: 47.48136
 longitude: 10.40054
 postcode: "87541"
 city: Hinterstein
-street: "Talstraße"
-housenumber: 24
+street: Talstraße
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Fr 07:00-12:30,14:30-18:00; Sa 07:00-12:00; We 14:30-18:00 off"
-website: "https://www.alphues.de/b%C3%A4ckerei-weber/"
+opening_hours: Mo-Fr 07:00-12:30,14:30-18:00; Sa 07:00-12:00; We 14:30-18:00 off
+website: https://www.alphues.de/b%C3%A4ckerei-weber/

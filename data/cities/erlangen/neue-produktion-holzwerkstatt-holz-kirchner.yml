@@ -4,8 +4,8 @@ latitude: 49.59713
 longitude: 11.02082
 postcode: "91052"
 city: Erlangen
-street: "Luitpoldstraße"
-housenumber: 58
-phone: "+49 9131 2 53 18"
-opening_hours: "Fr 10:00-18:00"
-website: "https://neueproduktion.de"
+street: Luitpoldstraße
+housenumber: "58"
+phone: +49 9131 2 53 18
+opening_hours: Fr 10:00-18:00
+website: https://neueproduktion.de

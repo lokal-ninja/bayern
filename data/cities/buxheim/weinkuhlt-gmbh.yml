@@ -1,5 +1,5 @@
 id: 288401060
-type: way
+type: node
 latitude: 47.96567
 longitude: 10.11907
 postcode: "87740"
@@ -8,4 +8,4 @@ street: ""
 housenumber: 1a
 phone: ""
 opening_hours: ""
-website: "https://www.weinkuhlt.de/"
+website: https://www.weinkuhlt.de/

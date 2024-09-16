@@ -1,11 +1,11 @@
 id: 202812243
-type: way
+type: node
 latitude: 47.4965
 longitude: 11.2754
 postcode: "82494"
 city: Krün
-street: "Am Stausee"
-housenumber: 6
+street: Am Stausee
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://filialen.aldi-sued.de/bayern/kruen/am-stausee-6"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://filialen.aldi-sued.de/bayern/kruen/am-stausee-6

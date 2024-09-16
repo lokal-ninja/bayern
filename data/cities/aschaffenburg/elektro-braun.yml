@@ -1,11 +1,11 @@
 id: 124115016
-type: way
+type: node
 latitude: 49.98428
 longitude: 9.15175
 postcode: "63741"
 city: Aschaffenburg
-street: "Stengerstraße"
-housenumber: 4
+street: Stengerstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Th 7:30-16:30; Fr 7:30-15:00"
+opening_hours: Mo-Th 7:30-16:30; Fr 7:30-15:00
 website: ""

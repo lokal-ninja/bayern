@@ -4,8 +4,8 @@ latitude: 49.79624
 longitude: 9.92865
 postcode: "97070"
 city: Würzburg
-street: "Ulmer Hof"
-housenumber: 3
-phone: "+49 931 55716"
-opening_hours: "Mo,Th 11:00-15:00; Fr,Sa 11:00-16:00; PH,Tu,We,Su off"
-website: "https://www.jeansecke.com/"
+street: Ulmer Hof
+housenumber: "3"
+phone: +49 931 55716
+opening_hours: Mo,Th 11:00-15:00; Fr,Sa 11:00-16:00; PH,Tu,We,Su off
+website: https://www.jeansecke.com/

@@ -4,8 +4,8 @@ latitude: 49.59607
 longitude: 11.00638
 postcode: "91054"
 city: Erlangen
-street: "Weiße Herzstraße"
-housenumber: 4
-phone: "+49 9131 977407"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-16:00"
-website: "https://www.teekoenig.de/"
+street: Weiße Herzstraße
+housenumber: "4"
+phone: +49 9131 977407
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-16:00
+website: https://www.teekoenig.de/

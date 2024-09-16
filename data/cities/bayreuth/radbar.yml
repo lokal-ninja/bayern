@@ -4,8 +4,8 @@ latitude: 49.94667
 longitude: 11.58859
 postcode: "95448"
 city: Bayreuth
-street: "Friedrich-Ebert-Straße"
-housenumber: 23
-phone: "+49 921 78775949"
-opening_hours: "Mo,Tu,Th,Fr 10:00-19:00; We 15:00-19:00; Sa 09:00-14:00"
-website: "https://www.radbar.de/"
+street: Friedrich-Ebert-Straße
+housenumber: "23"
+phone: +49 921 78775949
+opening_hours: Mo,Tu,Th,Fr 10:00-19:00; We 15:00-19:00; Sa 09:00-14:00
+website: https://www.radbar.de/

@@ -4,8 +4,8 @@ latitude: 48.12247
 longitude: 11.55852
 postcode: "80337"
 city: München
-street: "Zenettistraße"
-housenumber: 11
+street: Zenettistraße
+housenumber: "11"
 phone: ""
-opening_hours: "Tu-Fr 10:00-19:00; Sa 10:00-16:00; Su,Mo off"
+opening_hours: Tu-Fr 10:00-19:00; Sa 10:00-16:00; Su,Mo off
 website: ""

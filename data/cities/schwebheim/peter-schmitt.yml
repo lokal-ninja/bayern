@@ -1,11 +1,11 @@
 id: 380607544
-type: way
+type: node
 latitude: 49.99832
 longitude: 10.24419
 postcode: "97525"
 city: Schwebheim
-street: "Schweinfurter Straße"
-housenumber: 7
+street: Schweinfurter Straße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-17:00; Su,PH 07:30-17:00"
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-17:00; Su,PH 07:30-17:00
 website: ""

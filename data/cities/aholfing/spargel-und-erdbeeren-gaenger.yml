@@ -1,11 +1,11 @@
 id: 849821967
-type: way
+type: node
 latitude: 48.92195
 longitude: 12.50619
 postcode: "94345"
 city: Aholfing
-street: "Donaustraße"
-housenumber: 38
+street: Donaustraße
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

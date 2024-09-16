@@ -5,7 +5,7 @@ longitude: 12.31293
 postcode: "83123"
 city: Amerang
 street: ""
-housenumber: 4
+housenumber: "4"
 phone: ""
-opening_hours: "by appointment"
-website: "http://www.bikesandparts.de/"
+opening_hours: '"by appointment"'
+website: http://www.bikesandparts.de/

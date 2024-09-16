@@ -4,8 +4,8 @@ latitude: 48.40357
 longitude: 11.99054
 postcode: "85456"
 city: Wartenberg
-street: "Obere Hauptstraße"
-housenumber: 12
-phone: "+49 8762 3002"
-opening_hours: "Mo-Fr 06:30-18:30; Sa 06:30-12:30; Su,PH off"
-website: "http://www.metzgereistuhlberger.de/"
+street: Obere Hauptstraße
+housenumber: "12"
+phone: +49 8762 3002
+opening_hours: Mo-Fr 06:30-18:30; Sa 06:30-12:30; Su,PH off
+website: http://www.metzgereistuhlberger.de/

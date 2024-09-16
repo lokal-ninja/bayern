@@ -4,8 +4,8 @@ latitude: 49.97438
 longitude: 9.15006
 postcode: "63739"
 city: Aschaffenburg
-street: "Sandgasse"
-housenumber: 47
-phone: "06021/23212"
-opening_hours: "Mo-Fr 06:30-17:00; Sa, Su OFF"
-website: "http://www.baeckerei-wenzel.de/html/innenstadt.html"
+street: Sandgasse
+housenumber: "47"
+phone: 06021/23212
+opening_hours: Mo-Fr 06:30-17:00; Sa, Su OFF
+website: http://www.baeckerei-wenzel.de/html/innenstadt.html

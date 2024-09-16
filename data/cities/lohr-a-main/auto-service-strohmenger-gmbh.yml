@@ -1,11 +1,11 @@
 id: 783409567
-type: way
+type: node
 latitude: 50.00467
 longitude: 9.58591
 postcode: "97816"
 city: Lohr a. Main
-street: "Dr.-Birkner-Straße"
-housenumber: 11
-phone: "+49 (0) 93 52 / 89 6 00"
+street: Dr.-Birkner-Straße
+housenumber: "11"
+phone: +49 (0) 93 52 / 89 6 00
 opening_hours: ""
-website: "https://www.auto-strohmenger.de/"
+website: https://www.auto-strohmenger.de/

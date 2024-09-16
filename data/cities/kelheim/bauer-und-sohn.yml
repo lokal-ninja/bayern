@@ -1,11 +1,11 @@
 id: 142538513
-type: way
+type: node
 latitude: 48.91736
 longitude: 11.871
 postcode: "93309"
 city: Kelheim
-street: "Donaustraße"
-housenumber: 20
+street: Donaustraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00"
-website: "https://bauer-kelheim.de/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-16:00
+website: https://bauer-kelheim.de/

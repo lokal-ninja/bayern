@@ -4,8 +4,8 @@ latitude: 48.36588
 longitude: 10.88142
 postcode: "86150"
 city: Augsburg
-street: "Pferseer Straße"
-housenumber: 12
-phone: "+49 821 509750"
-opening_hours: "Mo-Fr 10:00-18:30 || sowie nach Vereinbarung"
-website: "https://www.juwelier-mayer.de/"
+street: Pferseer Straße
+housenumber: "12"
+phone: +49 821 509750
+opening_hours: Mo-Fr 10:00-18:30 || "sowie nach Vereinbarung"
+website: https://www.juwelier-mayer.de/

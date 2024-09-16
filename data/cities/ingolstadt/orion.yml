@@ -1,11 +1,11 @@
 id: 89404135
-type: way
+type: node
 latitude: 48.74897
 longitude: 11.4717
 postcode: "85053"
 city: Ingolstadt
-street: "Eriagstraße"
-housenumber: 15
+street: Eriagstraße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "http://www.orion-fachgeschaefte.de"
+opening_hours: Mo-Sa 10:00-20:00
+website: http://www.orion-fachgeschaefte.de

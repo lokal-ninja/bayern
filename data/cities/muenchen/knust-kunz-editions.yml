@@ -4,8 +4,8 @@ latitude: 48.14857
 longitude: 11.57409
 postcode: "80333"
 city: München
-street: "Theresienstraße"
-housenumber: 48
+street: Theresienstraße
+housenumber: "48"
 phone: ""
-opening_hours: "We-Fr 14:00-18:00; Sa 12:00-16:00"
+opening_hours: We-Fr 14:00-18:00; Sa 12:00-16:00
 website: ""

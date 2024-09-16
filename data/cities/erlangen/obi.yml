@@ -1,11 +1,11 @@
 id: 28159534
-type: way
+type: node
 latitude: 49.5888
 longitude: 11.03355
 postcode: "91052"
 city: Erlangen
-street: "Kurt-Schumacher-Straße"
-housenumber: 14
-phone: "+49 9131 506720"
-opening_hours: "Mo-Sa 08:00-20:00"
+street: Kurt-Schumacher-Straße
+housenumber: "14"
+phone: +49 9131 506720
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

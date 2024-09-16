@@ -4,8 +4,8 @@ latitude: 49.87473
 longitude: 9.16726
 postcode: "63839"
 city: Kleinwallstadt
-street: "Bahnhofstraße"
-housenumber: 12
-phone: "+49 6022 2921"
-opening_hours: "Tu, We, Fr 8:30 - 18:00, Sa 7:30 - 12:30"
+street: Bahnhofstraße
+housenumber: "12"
+phone: +49 6022 2921
+opening_hours: Tu, We, Fr 8:30 - 18:00, Sa 7:30 - 12:30
 website: ""

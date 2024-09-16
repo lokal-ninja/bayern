@@ -4,8 +4,8 @@ latitude: 48.34972
 longitude: 10.83846
 postcode: "86391"
 city: Stadtbergen
-street: "Brunnenplatz"
-housenumber: 3
+street: Brunnenplatz
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Th 07:00-13:30,14:30-18:00; Fr 07:00-18:00; Sa 07:00-12:00"
-website: "https://schmid-partyservice.12hp.de/"
+opening_hours: Mo-Th 07:00-13:30,14:30-18:00; Fr 07:00-18:00; Sa 07:00-12:00
+website: https://schmid-partyservice.12hp.de/

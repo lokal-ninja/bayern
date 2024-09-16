@@ -1,11 +1,11 @@
 id: 56693688
-type: way
+type: node
 latitude: 49.55686
 longitude: 11.33885
 postcode: "91220"
 city: Schnaittach
-street: "Nürnberger Straße"
-housenumber: 51
+street: Nürnberger Straße
+housenumber: "51"
 phone: ""
 opening_hours: ""
 website: ""

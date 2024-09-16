@@ -1,11 +1,11 @@
 id: 87734217
-type: way
+type: node
 latitude: 47.77776
 longitude: 10.61413
 postcode: "87616"
 city: Marktoberdorf
-street: "Bahnhofstraße"
-housenumber: 14
+street: Bahnhofstraße
+housenumber: "14"
 phone: ""
 opening_hours: ""
-website: "https://filialen.aldi-sued.de/bayern/marktoberdorf/bahnhofstrasse-14"
+website: https://filialen.aldi-sued.de/bayern/marktoberdorf/bahnhofstrasse-14

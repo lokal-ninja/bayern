@@ -1,11 +1,11 @@
 id: 125307007
-type: way
+type: node
 latitude: 49.79553
 longitude: 9.90125
 postcode: "97082"
 city: Würzburg
-street: "Max-Planck-Straße"
-housenumber: 8
-phone: "+49 931 9913990"
-opening_hours: "Mo-Fr 08:00-17:00, Sa 09:00-13:00"
-website: "https://www.kraemer-autohaus.de/"
+street: Max-Planck-Straße
+housenumber: "8"
+phone: +49 931 9913990
+opening_hours: Mo-Fr 08:00-17:00, Sa 09:00-13:00
+website: https://www.kraemer-autohaus.de/

@@ -4,8 +4,8 @@ latitude: 48.35121
 longitude: 10.98477
 postcode: "86316"
 city: Friedberg
-street: "Stefanstraße"
-housenumber: 6
-phone: "+49 821 26 79 53 4"
-opening_hours: "Mo-Fr 06:00-19:00; Sa 06:00-14:00; Su,PH off"
-website: "http://www.friedberger-landbrot.de"
+street: Stefanstraße
+housenumber: "6"
+phone: +49 821 26 79 53 4
+opening_hours: Mo-Fr 06:00-19:00; Sa 06:00-14:00; Su,PH off
+website: http://www.friedberger-landbrot.de

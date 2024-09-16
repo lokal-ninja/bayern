@@ -4,8 +4,8 @@ latitude: 49.40276
 longitude: 11.09753
 postcode: "90469"
 city: Nürnberg
-street: "Pirmasenser Straße"
-housenumber: 136
-phone: "+49 1512 8358406"
-opening_hours: "Tu 11:00-18:00; We 11:00-18:00; Sa 11:00-16:00"
-website: "https://www.permanent-verschoenert.de"
+street: Pirmasenser Straße
+housenumber: "136"
+phone: +49 1512 8358406
+opening_hours: Tu 11:00-18:00; We 11:00-18:00; Sa 11:00-16:00
+website: https://www.permanent-verschoenert.de

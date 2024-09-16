@@ -1,11 +1,11 @@
 id: 109909959
-type: way
+type: node
 latitude: 47.85778
 longitude: 12.62742
 postcode: "83278"
 city: Traunstein
-street: "Hochstraße"
-housenumber: 16
+street: Hochstraße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://filialen.aldi-sued.de/bayern/traunstein-haslach/hochstrasse-16"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://filialen.aldi-sued.de/bayern/traunstein-haslach/hochstrasse-16

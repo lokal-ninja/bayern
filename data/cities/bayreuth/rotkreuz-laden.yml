@@ -4,8 +4,8 @@ latitude: 49.93418
 longitude: 11.58967
 postcode: "95444"
 city: Bayreuth
-street: "Prieserstraße"
-housenumber: 4
+street: Prieserstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Tu-Fr 10:00-18:00, Sa 10:00-15:00"
+opening_hours: Tu-Fr 10:00-18:00, Sa 10:00-15:00
 website: ""

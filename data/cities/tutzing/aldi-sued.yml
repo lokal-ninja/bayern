@@ -1,11 +1,11 @@
 id: 260331971
-type: way
+type: node
 latitude: 47.90331
 longitude: 11.27235
 postcode: "82327"
 city: Tutzing
-street: "Lindemannstraße"
-housenumber: 9
+street: Lindemannstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://filialen.aldi-sued.de/bayern/tutzing/lindemannstrasse-9"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://filialen.aldi-sued.de/bayern/tutzing/lindemannstrasse-9

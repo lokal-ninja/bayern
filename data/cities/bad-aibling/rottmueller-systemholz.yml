@@ -5,7 +5,7 @@ longitude: 12.01961
 postcode: "83043"
 city: Bad Aibling
 street: ""
-housenumber: 5
-phone: "+49 8061 370 38 18"
-opening_hours: "Mo-Fr 08:00-17:00; Sa,Su,PH off"
-website: "https://www.rottmueller-systemholz.de/"
+housenumber: "5"
+phone: +49 8061 370 38 18
+opening_hours: Mo-Fr 08:00-17:00; Sa,Su,PH off
+website: https://www.rottmueller-systemholz.de/

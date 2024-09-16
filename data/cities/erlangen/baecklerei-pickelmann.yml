@@ -4,8 +4,8 @@ latitude: 49.59647
 longitude: 11.00304
 postcode: "91054"
 city: Erlangen
-street: "Richard-Wagner-Straße"
-housenumber: 8
-phone: "+49 9131 29886"
-opening_hours: "Mo-Fr 06:00-17:30; Sa 07:00-12:00"
-website: "https://www.baeckerei-pickelmann.de/"
+street: Richard-Wagner-Straße
+housenumber: "8"
+phone: +49 9131 29886
+opening_hours: Mo-Fr 06:00-17:30; Sa 07:00-12:00
+website: https://www.baeckerei-pickelmann.de/

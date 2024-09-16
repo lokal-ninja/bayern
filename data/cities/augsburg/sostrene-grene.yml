@@ -4,8 +4,8 @@ latitude: 48.36701
 longitude: 10.89507
 postcode: "86150"
 city: Augsburg
-street: "Annastraße"
-housenumber: 39
+street: Annastraße
+housenumber: "39"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://sostrenegrene.com/de/laeden/annastrasse-augsburg-s-7041"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://sostrenegrene.com/de/laeden/annastrasse-augsburg-s-7041

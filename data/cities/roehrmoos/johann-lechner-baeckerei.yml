@@ -1,11 +1,11 @@
 id: 101363170
-type: way
+type: node
 latitude: 48.34711
 longitude: 11.49266
 postcode: "85244"
 city: Röhrmoos
-street: "Schulstraße"
-housenumber: 28
+street: Schulstraße
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Sa 06:00-12:00"
+opening_hours: Mo-Sa 06:00-12:00
 website: ""

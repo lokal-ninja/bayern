@@ -1,11 +1,11 @@
 id: 858340572
-type: way
+type: node
 latitude: 48.30687
 longitude: 11.89098
 postcode: "85435"
 city: Erding
-street: "Josef-Schwankl-Straße"
-housenumber: 1
-phone: "+49 8122 22715 0"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.hagebaumarkt-muenchen.de/maerkte-events/erding/mn_27241"
+street: Josef-Schwankl-Straße
+housenumber: "1"
+phone: +49 8122 22715 0
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.hagebaumarkt-muenchen.de/maerkte-events/erding/mn_27241

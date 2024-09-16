@@ -1,11 +1,11 @@
 id: 90482999
-type: way
+type: node
 latitude: 48.22002
 longitude: 10.38145
 postcode: "86381"
 city: Krumbach (Schwaben)
-street: "Allgäuer Straße"
-housenumber: 50
+street: Allgäuer Straße
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

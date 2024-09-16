@@ -1,11 +1,11 @@
 id: 112124352
-type: way
+type: node
 latitude: 49.18357
 longitude: 11.18733
 postcode: "91161"
 city: Hilpoltstein
-street: "Heidecker Straße"
-housenumber: 41
-phone: "+49 9174 47800"
-opening_hours: "Mo-Fr 08:30-18:30; Sa 09:00-14:00"
-website: "www.autohaus-rothsee.de"
+street: Heidecker Straße
+housenumber: "41"
+phone: +49 9174 47800
+opening_hours: Mo-Fr 08:30-18:30; Sa 09:00-14:00
+website: www.autohaus-rothsee.de

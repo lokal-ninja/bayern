@@ -1,11 +1,11 @@
 id: 282406029
-type: way
+type: node
 latitude: 48.88841
 longitude: 12.61036
 postcode: "94315"
 city: Straubing
-street: "Küstriner Straße"
-housenumber: 6
+street: Küstriner Straße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-12:00"
-website: "https://de.trost.com/"
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-12:00
+website: https://de.trost.com/

@@ -1,11 +1,11 @@
 id: 492860491
-type: way
+type: node
 latitude: 49.6154
 longitude: 10.51006
 postcode: "91474"
 city: Langenfeld
-street: "Ullstädter Straße"
-housenumber: 8
+street: Ullstädter Straße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

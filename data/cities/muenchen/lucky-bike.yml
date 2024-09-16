@@ -4,8 +4,8 @@ latitude: 48.15021
 longitude: 11.44244
 postcode: "81243"
 city: München
-street: "Stockacher Straße"
-housenumber: 5
-phone: "+49 89 83969700"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "https://www.lucky-bike.de/fahrrad-mueunchen-pasing/"
+street: Stockacher Straße
+housenumber: "5"
+phone: +49 89 83969700
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
+website: https://www.lucky-bike.de/fahrrad-mueunchen-pasing/

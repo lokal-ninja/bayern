@@ -4,8 +4,8 @@ latitude: 48.1276
 longitude: 11.55697
 postcode: "80337"
 city: München
-street: "Kapuzinerstraße"
-housenumber: 9
+street: Kapuzinerstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00; Su,PH off"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00; Su,PH off
 website: ""

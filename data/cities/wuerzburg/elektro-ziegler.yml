@@ -1,11 +1,11 @@
 id: 177696029
-type: way
+type: node
 latitude: 49.76303
 longitude: 9.94531
 postcode: "97084"
 city: Würzburg
-street: "Klingenstraße"
-housenumber: 52
+street: Klingenstraße
+housenumber: "52"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:30, Mo-Th 15:00-18:00"
+opening_hours: Mo-Fr 09:00-12:30, Mo-Th 15:00-18:00
 website: ""

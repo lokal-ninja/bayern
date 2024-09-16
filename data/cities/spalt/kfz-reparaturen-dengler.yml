@@ -1,11 +1,11 @@
 id: 56453898
-type: way
+type: node
 latitude: 49.18764
 longitude: 10.96884
 postcode: "91174"
 city: Spalt
 street: ""
-housenumber: 4
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.06628
 longitude: 11.38165
 postcode: "82131"
 city: Gauting
-street: "Münchener Straße"
-housenumber: 5
+street: Münchener Straße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-13:00; Su 07:30-12:00"
-website: "https://www.baeckerei-sickinger.de/"
+opening_hours: Mo-Fr 06:30-18:00; Sa 06:30-13:00; Su 07:30-12:00
+website: https://www.baeckerei-sickinger.de/

@@ -4,8 +4,8 @@ latitude: 48.57403
 longitude: 13.45889
 postcode: "94032"
 city: Passau
-street: "Ludwigstraße"
-housenumber: 21
-phone: "+49 851 71610"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00"
-website: "https://www.funkyworld.de/"
+street: Ludwigstraße
+housenumber: "21"
+phone: +49 851 71610
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-16:00
+website: https://www.funkyworld.de/

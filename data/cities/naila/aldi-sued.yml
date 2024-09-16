@@ -1,11 +1,11 @@
 id: 53230295
-type: way
+type: node
 latitude: 50.32234
 longitude: 11.71997
 postcode: "95119"
 city: Naila
-street: "Selbitzer Berg"
-housenumber: 24
+street: Selbitzer Berg
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://filialen.aldi-sued.de/bayern/naila/selbitzer-berg-24"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://filialen.aldi-sued.de/bayern/naila/selbitzer-berg-24

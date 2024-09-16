@@ -4,8 +4,8 @@ latitude: 48.77628
 longitude: 11.38622
 postcode: "85057"
 city: Ingolstadt
-street: "Am Westpark"
-housenumber: 7
-phone: "+49 841 49150"
-opening_hours: "Mo-Sa 10:00-20:00; PH off"
-website: "https://www.saturn.de/de/store/ingolstadt-44"
+street: Am Westpark
+housenumber: "7"
+phone: +49 841 49150
+opening_hours: Mo-Sa 10:00-20:00; PH off
+website: https://www.saturn.de/de/store/ingolstadt-44

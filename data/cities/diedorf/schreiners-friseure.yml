@@ -4,8 +4,8 @@ latitude: 48.3534
 longitude: 10.77602
 postcode: "86420"
 city: Diedorf
-street: "Hauptstraße"
-housenumber: 29
-phone: "+49 8238 959710"
-opening_hours: "Tu-Th 09:00-20:00; Fr 09:00-21:30"
-website: "https://www.schreiners-friseure.de/"
+street: Hauptstraße
+housenumber: "29"
+phone: +49 8238 959710
+opening_hours: Tu-Th 09:00-20:00; Fr 09:00-21:30
+website: https://www.schreiners-friseure.de/

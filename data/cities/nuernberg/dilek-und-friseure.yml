@@ -4,8 +4,8 @@ latitude: 49.45032
 longitude: 11.07644
 postcode: "90402"
 city: Nürnberg
-street: "Brunnengasse"
-housenumber: 15
+street: Brunnengasse
+housenumber: "15"
 phone: "+49911225078"
-opening_hours: "Mo-Sa 09:00-19:00; Su,PH off"
-website: "https://www.dilek-und-friseure.com/"
+opening_hours: Mo-Sa 09:00-19:00; Su,PH off
+website: https://www.dilek-und-friseure.com/

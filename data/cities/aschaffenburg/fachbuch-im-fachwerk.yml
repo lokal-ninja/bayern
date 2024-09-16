@@ -4,8 +4,8 @@ latitude: 49.97446
 longitude: 9.15049
 postcode: "63739"
 city: Aschaffenburg
-street: "Roßmarkt"
-housenumber: 42
-phone: "+49 6021 3423-0"
-opening_hours: "Mo-Fr 09:30-16:30; Sa 09:00-18:00"
-website: "https://fachbuch-diekmann.buchkatalog.de"
+street: Roßmarkt
+housenumber: "42"
+phone: +49 6021 3423-0
+opening_hours: Mo-Fr 09:30-16:30; Sa 09:00-18:00
+website: https://fachbuch-diekmann.buchkatalog.de

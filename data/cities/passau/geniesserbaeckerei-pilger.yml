@@ -4,8 +4,8 @@ latitude: 48.57436
 longitude: 13.4561
 postcode: "94032"
 city: Passau
-street: "Bahnhofstraße"
-housenumber: 8
+street: Bahnhofstraße
+housenumber: "8"
 phone: "+4985175681350"
-opening_hours: "Mo-Fr 07:00-18:00, Sa 07:00-17:00"
-website: "https://beackerei-pilger-passau.business.site/"
+opening_hours: Mo-Fr 07:00-18:00, Sa 07:00-17:00
+website: https://beackerei-pilger-passau.business.site/

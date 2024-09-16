@@ -4,8 +4,8 @@ latitude: 48.08777
 longitude: 11.47903
 postcode: "81475"
 city: München
-street: "Maxhofstraße"
+street: Maxhofstraße
 housenumber: 9a
-phone: "+49 160 3833972"
-opening_hours: "Termin nach telefonischer Vereinbarung"
+phone: +49 160 3833972
+opening_hours: '"Termin nach telefonischer Vereinbarung"'
 website: ""

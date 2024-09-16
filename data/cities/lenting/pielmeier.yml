@@ -1,11 +1,11 @@
 id: 48779648
-type: way
+type: node
 latitude: 48.80977
 longitude: 11.47121
 postcode: "85101"
 city: Lenting
-street: "Industriestraße"
-housenumber: 1
+street: Industriestraße
+housenumber: "1"
 phone: ""
-opening_hours: "Tu-Fr 10:00-19:00; Sa 09:00-13:00; PH, Su off"
+opening_hours: Tu-Fr 10:00-19:00; Sa 09:00-13:00; PH, Su off
 website: ""

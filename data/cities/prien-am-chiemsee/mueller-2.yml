@@ -5,7 +5,7 @@ longitude: 12.34461
 postcode: "83209"
 city: Prien am Chiemsee
 street: ""
-housenumber: 1
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 08:30-19:00; Sa 08:30-16:00"
-website: "https://www.mueller.de/meine-filiale/prien/rathausplatz-1/"
+opening_hours: Mo-Fr 08:30-19:00; Sa 08:30-16:00
+website: https://www.mueller.de/meine-filiale/prien/rathausplatz-1/

@@ -1,11 +1,11 @@
 id: 580234396
-type: way
+type: node
 latitude: 48.54656
 longitude: 10.85245
 postcode: "86405"
 city: Meitingen
-street: "Hauptstraße"
-housenumber: 6
+street: Hauptstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

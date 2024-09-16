@@ -1,11 +1,11 @@
 id: 205361774
-type: way
+type: node
 latitude: 49.45819
 longitude: 11.28072
 postcode: "91227"
 city: Leinburg
-street: "Reichswaldstraße"
-housenumber: 6
-phone: "+49 9120 181795"
+street: Reichswaldstraße
+housenumber: "6"
+phone: +49 9120 181795
 opening_hours: ""
-website: "http://www.racingteam-hofmann.de/"
+website: http://www.racingteam-hofmann.de/

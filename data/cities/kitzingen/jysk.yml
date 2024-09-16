@@ -1,11 +1,11 @@
 id: 35073261
-type: way
+type: node
 latitude: 49.73248
 longitude: 10.17073
 postcode: "97318"
 city: Kitzingen
-street: "Marktbreiter Straße"
-housenumber: 14
+street: Marktbreiter Straße
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

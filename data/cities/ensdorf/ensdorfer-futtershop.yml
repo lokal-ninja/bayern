@@ -1,11 +1,11 @@
 id: 156813594
-type: way
+type: node
 latitude: 49.33992
 longitude: 11.93658
 postcode: "92266"
 city: Ensdorf
-street: "Hauptstraße"
-housenumber: 17
+street: Hauptstraße
+housenumber: "17"
 phone: "+4996244748065"
-opening_hours: "Tu-Fr 15:00-18:00; Sa 09:00-12:00"
+opening_hours: Tu-Fr 15:00-18:00; Sa 09:00-12:00
 website: ""

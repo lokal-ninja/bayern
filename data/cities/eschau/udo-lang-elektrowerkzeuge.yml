@@ -4,8 +4,8 @@ latitude: 49.81982
 longitude: 9.25492
 postcode: "63863"
 city: Eschau
-street: "Elsavastraße"
-housenumber: 66
-phone: "+49 9374 8353"
-opening_hours: "Mo-Sa 09:00-12:00, Mo,Th,Fr 14:00-18:00; PH off"
+street: Elsavastraße
+housenumber: "66"
+phone: +49 9374 8353
+opening_hours: Mo-Sa 09:00-12:00, Mo,Th,Fr 14:00-18:00; PH off
 website: ""

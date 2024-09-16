@@ -4,8 +4,8 @@ latitude: 49.95233
 longitude: 11.57155
 postcode: "95445"
 city: Bayreuth
-street: "Spinnereistraße"
-housenumber: 7
+street: Spinnereistraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://netto.online.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://netto.online.de

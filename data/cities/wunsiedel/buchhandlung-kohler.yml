@@ -4,8 +4,8 @@ latitude: 50.0379
 longitude: 12.00318
 postcode: "95632"
 city: Wunsiedel
-street: "Maximilianstraße"
-housenumber: 37
+street: Maximilianstraße
+housenumber: "37"
 phone: ""
 opening_hours: ""
-website: "https://kohler-online.buchkatalog.de/"
+website: https://kohler-online.buchkatalog.de/

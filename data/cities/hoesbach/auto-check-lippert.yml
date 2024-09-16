@@ -1,11 +1,11 @@
 id: 59266199
-type: way
+type: node
 latitude: 50.01317
 longitude: 9.2049
 postcode: "63768"
 city: Hösbach
-street: "Wenighösbacher Straße"
-housenumber: 55
+street: Wenighösbacher Straße
+housenumber: "55"
 phone: ""
 opening_hours: ""
 website: ""

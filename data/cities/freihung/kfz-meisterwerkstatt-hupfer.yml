@@ -1,11 +1,11 @@
 id: 1016872086
-type: way
+type: node
 latitude: 49.57737
 longitude: 11.8881
 postcode: "92271"
 city: Freihung
-street: "Dorfstraße"
-housenumber: 18
-phone: "+49 9622 2896"
+street: Dorfstraße
+housenumber: "18"
+phone: +49 9622 2896
 opening_hours: ""
 website: ""

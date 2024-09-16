@@ -1,11 +1,11 @@
 id: 299379031
-type: way
+type: node
 latitude: 49.01372
 longitude: 12.15685
 postcode: "93055"
 city: Regensburg
-street: "Lagerstraße"
-housenumber: 12
+street: Lagerstraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
-website: "http://www.abel-josef.de/"
+website: http://www.abel-josef.de/

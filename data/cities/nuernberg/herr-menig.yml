@@ -4,8 +4,8 @@ latitude: 49.45233
 longitude: 11.07356
 postcode: "90403"
 city: Nürnberg
-street: "Obere Wörthstraße"
-housenumber: 5
-phone: "+49 911 24062314"
-opening_hours: "Tu-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "https://herrmenig.de"
+street: Obere Wörthstraße
+housenumber: "5"
+phone: +49 911 24062314
+opening_hours: Tu-Fr 10:00-19:00; Sa 10:00-18:00
+website: https://herrmenig.de

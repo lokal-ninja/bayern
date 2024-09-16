@@ -4,8 +4,8 @@ latitude: 48.19981
 longitude: 11.93931
 postcode: "85669"
 city: Pastetten
-street: "Birkenstraße"
-housenumber: 3
-phone: "+49 8124 5105"
-opening_hours: "Th,Fr 09:00-12:00,15:00-19:00"
-website: "https://www.weinblattl.de/"
+street: Birkenstraße
+housenumber: "3"
+phone: +49 8124 5105
+opening_hours: Th,Fr 09:00-12:00,15:00-19:00
+website: https://www.weinblattl.de/

@@ -1,11 +1,11 @@
 id: 766286573
-type: way
+type: node
 latitude: 49.04492
 longitude: 12.09342
 postcode: "93138"
 city: Lappersdorf
-street: "Regensburger Straße"
+street: Regensburger Straße
 housenumber: 45b
 phone: ""
-opening_hours: "Mo-Sa 7:00-20:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 7:00-20:00
+website: https://www.netto-online.de

@@ -4,8 +4,8 @@ latitude: 47.72042
 longitude: 10.31605
 postcode: "87435"
 city: Kempten (Allgäu)
-street: "August-Fischer-Platz"
-housenumber: 1
+street: August-Fischer-Platz
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.feneberg.de/"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.feneberg.de/

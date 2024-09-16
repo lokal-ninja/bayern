@@ -1,11 +1,11 @@
 id: 449750080
-type: way
+type: node
 latitude: 48.18406
 longitude: 10.25815
 postcode: "86498"
 city: Kettershausen
-street: "Waldstraße"
-housenumber: 5
+street: Waldstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.raiffeisen-ware-schwaben-allgaeu.de"
+website: https://www.raiffeisen-ware-schwaben-allgaeu.de

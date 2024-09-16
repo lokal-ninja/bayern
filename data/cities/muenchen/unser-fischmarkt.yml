@@ -4,8 +4,8 @@ latitude: 48.11893
 longitude: 11.55105
 postcode: "81371"
 city: München
-street: "Thalkirchner Straße"
-housenumber: 126
+street: Thalkirchner Straße
+housenumber: "126"
 phone: "+491716808013"
-opening_hours: "Mo closed; Tu-Fr 09:30-18:30; Sa 09:00-14:00"
-website: "https://www.unser-fischmarkt.de/"
+opening_hours: Mo closed; Tu-Fr 09:30-18:30; Sa 09:00-14:00
+website: https://www.unser-fischmarkt.de/

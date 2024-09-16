@@ -4,8 +4,8 @@ latitude: 50.05912
 longitude: 11.51314
 postcode: "95367"
 city: Trebgast
-street: "Lindau"
-housenumber: 12
-phone: "+49 9203 298"
-opening_hours: "Fr 13:00-18:00, Sa 08:00-12:00; PH off"
-website: "http://www.lindauer-biolandhof.de/"
+street: Lindau
+housenumber: "12"
+phone: +49 9203 298
+opening_hours: Fr 13:00-18:00, Sa 08:00-12:00; PH off
+website: http://www.lindauer-biolandhof.de/

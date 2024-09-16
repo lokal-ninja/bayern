@@ -1,11 +1,11 @@
 id: 325550339
-type: way
+type: node
 latitude: 48.36644
 longitude: 10.90779
 postcode: "86153"
 city: Augsburg
-street: "Willy-Brandt-Platz"
-housenumber: 1
-phone: "+49 821 56757-0"
+street: Willy-Brandt-Platz
+housenumber: "1"
+phone: +49 821 56757-0
 opening_hours: ""
-website: "https://www.city-galerie-augsburg.de"
+website: https://www.city-galerie-augsburg.de

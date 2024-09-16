@@ -4,8 +4,8 @@ latitude: 49.44946
 longitude: 11.06398
 postcode: "90429"
 city: Nürnberg
-street: "Fürther Straße"
+street: Fürther Straße
 housenumber: 2a
 phone: "+49911467648"
-opening_hours: "by appointment"
-website: "http://www.studio-del-arte.de/"
+opening_hours: '"by appointment"'
+website: http://www.studio-del-arte.de/

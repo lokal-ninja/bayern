@@ -4,8 +4,8 @@ latitude: 49.4411
 longitude: 11.03562
 postcode: "90431"
 city: Nürnberg
-street: "Rothenburger Straße"
-housenumber: 250
-phone: "0911 - 61 38 66"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-13:00"
+street: Rothenburger Straße
+housenumber: "250"
+phone: 0911 - 61 38 66
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-13:00
 website: ""

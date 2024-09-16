@@ -1,11 +1,11 @@
 id: 68695690
-type: way
+type: node
 latitude: 48.39404
 longitude: 13.30826
 postcode: "94060"
 city: Pocking
-street: "Füssinger Straße"
-housenumber: 6
-phone: "+49  8531 3107090"
-opening_hours: "Mo-Fr 09:30-18:30, Sa 09:30-18:00"
-website: "https://www2.schuh-schmid.com/pocking/"
+street: Füssinger Straße
+housenumber: "6"
+phone: +49  8531 3107090
+opening_hours: Mo-Fr 09:30-18:30, Sa 09:30-18:00
+website: https://www2.schuh-schmid.com/pocking/

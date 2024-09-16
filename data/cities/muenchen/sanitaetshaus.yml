@@ -4,8 +4,8 @@ latitude: 48.16719
 longitude: 11.57097
 postcode: "80796"
 city: München
-street: "Karl-Theodor-Straße"
-housenumber: 95
+street: Karl-Theodor-Straße
+housenumber: "95"
 phone: ""
-opening_hours: "Mo-Th 09:00-13:00,14:00-18:00; Fr 09:00-13:00,14:00-16:00"
+opening_hours: Mo-Th 09:00-13:00,14:00-18:00; Fr 09:00-13:00,14:00-16:00
 website: ""

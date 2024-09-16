@@ -1,11 +1,11 @@
 id: 42988797
-type: way
+type: node
 latitude: 48.76542
 longitude: 11.53407
 postcode: "85098"
 city: Großmehring
-street: "Marienplatz"
-housenumber: 3
-phone: "+49 8407 9153"
+street: Marienplatz
+housenumber: "3"
+phone: +49 8407 9153
 opening_hours: ""
-website: "www.hallermeier.net"
+website: www.hallermeier.net

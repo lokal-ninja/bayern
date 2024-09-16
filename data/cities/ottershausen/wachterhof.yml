@@ -4,8 +4,8 @@ latitude: 48.30315
 longitude: 11.53181
 postcode: "85778"
 city: Ottershausen
-street: "Dachauer Straße"
-housenumber: 109
+street: Dachauer Straße
+housenumber: "109"
 phone: "+4981338643"
-opening_hours: "Mo-Su 8:00-20:00"
-website: "https://www.wachterhof.de/"
+opening_hours: Mo-Su 8:00-20:00
+website: https://www.wachterhof.de/

@@ -4,8 +4,8 @@ latitude: 48.46776
 longitude: 11.93684
 postcode: "85368"
 city: Moosburg a.d. Isar
-street: "Herrnstraße"
-housenumber: 15
+street: Herrnstraße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-13:00"
-website: "https://matt.de/"
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:30-13:00
+website: https://matt.de/

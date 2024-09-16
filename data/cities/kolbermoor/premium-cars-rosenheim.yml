@@ -1,11 +1,11 @@
 id: 150559100
-type: way
+type: node
 latitude: 47.8496
 longitude: 12.07956
 postcode: "83059"
 city: Kolbermoor
-street: "Rosenheimer Straße"
-housenumber: 63
+street: Rosenheimer Straße
+housenumber: "63"
 phone: ""
 opening_hours: ""
 website: ""

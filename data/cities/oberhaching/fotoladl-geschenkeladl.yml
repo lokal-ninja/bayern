@@ -4,8 +4,8 @@ latitude: 48.01967
 longitude: 11.58543
 postcode: "82041"
 city: Oberhaching
-street: "Bahnhofstraße"
-housenumber: 37
-phone: "+49 89 613 3350"
-opening_hours: "Mo,We 09:30-12:30; Tu,Th,Fr 09:30-12:30,14:30-18:00; Sa 09:30-12:00"
-website: "http://www.foto-geschenke-schoss.de/"
+street: Bahnhofstraße
+housenumber: "37"
+phone: +49 89 613 3350
+opening_hours: Mo,We 09:30-12:30; Tu,Th,Fr 09:30-12:30,14:30-18:00; Sa 09:30-12:00
+website: http://www.foto-geschenke-schoss.de/

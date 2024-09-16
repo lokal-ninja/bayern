@@ -4,8 +4,8 @@ latitude: 48.37175
 longitude: 10.89546
 postcode: "86152"
 city: Augsburg
-street: "Peutingerstraße"
-housenumber: 18
+street: Peutingerstraße
+housenumber: "18"
 phone: ""
-opening_hours: "Tu-Fr 09:00-18:00; Sa 10:00-18:00"
-website: "http://www.kaetchens.de"
+opening_hours: Tu-Fr 09:00-18:00; Sa 10:00-18:00
+website: http://www.kaetchens.de

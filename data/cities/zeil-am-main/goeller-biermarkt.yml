@@ -4,8 +4,8 @@ latitude: 50.01523
 longitude: 10.58097
 postcode: "97475"
 city: Zeil am Main
-street: "Wildgarten"
-housenumber: 12
+street: Wildgarten
+housenumber: "12"
 phone: ""
 opening_hours: ""
-website: "https://www.brauerei-goeller.de/biermarkt/index.html"
+website: https://www.brauerei-goeller.de/biermarkt/index.html

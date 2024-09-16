@@ -4,8 +4,8 @@ latitude: 48.76865
 longitude: 11.40141
 postcode: "85057"
 city: Ingolstadt
-street: "Neuburger Straße"
-housenumber: 65
+street: Neuburger Straße
+housenumber: "65"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:00; Sa 09:00-14:00; PH off"
-website: "https://leitinger.de/"
+opening_hours: Mo-Fr 08:30-18:00; Sa 09:00-14:00; PH off
+website: https://leitinger.de/

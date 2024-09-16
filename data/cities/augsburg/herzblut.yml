@@ -4,8 +4,8 @@ latitude: 48.36507
 longitude: 10.90256
 postcode: "86150"
 city: Augsburg
-street: "Findelgäßchen"
-housenumber: 8
-phone: "+49 821 4508632"
-opening_hours: "by appointment"
-website: "https://herzblut-augsburg.de/"
+street: Findelgäßchen
+housenumber: "8"
+phone: +49 821 4508632
+opening_hours: '"by appointment"'
+website: https://herzblut-augsburg.de/

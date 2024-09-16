@@ -4,8 +4,8 @@ latitude: 50.12976
 longitude: 11.24278
 postcode: "96264"
 city: Altenkunstadt
-street: "Weismainer Straße"
-housenumber: 23
+street: Weismainer Straße
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.k-und-k-schuhcenter.de/"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.k-und-k-schuhcenter.de/

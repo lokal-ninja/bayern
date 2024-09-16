@@ -1,11 +1,11 @@
 id: 71283399
-type: way
+type: node
 latitude: 49.55776
 longitude: 11.34425
 postcode: "91220"
 city: Schnaittach
-street: "Hersbrucker Straße"
+street: Hersbrucker Straße
 housenumber: 13c
 phone: "+49915397110"
-opening_hours: "Mo-Th 08:00-17:00; Fr 08:00-15:00"
+opening_hours: Mo-Th 08:00-17:00; Fr 08:00-15:00
 website: ""

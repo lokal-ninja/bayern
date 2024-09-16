@@ -1,11 +1,11 @@
 id: 44830281
-type: way
+type: node
 latitude: 49.65064
 longitude: 11.26464
 postcode: "91322"
 city: Gräfenberg
-street: "Am Schönfeld"
-housenumber: 2
+street: Am Schönfeld
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 06:00-20:00"
+opening_hours: Mo-Sa 06:00-20:00
 website: ""

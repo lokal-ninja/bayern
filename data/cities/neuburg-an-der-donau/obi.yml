@@ -4,8 +4,8 @@ latitude: 48.72102
 longitude: 11.17118
 postcode: "86633"
 city: Neuburg an der Donau
-street: "Am Südpark"
-housenumber: 9
+street: Am Südpark
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 08:30-20:00; Sa 08:30-18:00"
-website: "https://www.suedpark-neuburg.de/obi-markt-neuburg"
+opening_hours: Mo-Fr 08:30-20:00; Sa 08:30-18:00
+website: https://www.suedpark-neuburg.de/obi-markt-neuburg

@@ -1,11 +1,11 @@
 id: 54935329
-type: way
+type: node
 latitude: 48.74722
 longitude: 11.45032
 postcode: "85053"
 city: Ingolstadt
-street: "Am Mühlanger"
-housenumber: 1
+street: Am Mühlanger
+housenumber: "1"
 phone: "+4915159068572"
-opening_hours: "Nach Termin"
-website: "https://www.hilight-veranstaltungstechnik.de/"
+opening_hours: '"Nach Termin"'
+website: https://www.hilight-veranstaltungstechnik.de/

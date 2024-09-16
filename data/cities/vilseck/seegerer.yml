@@ -1,11 +1,11 @@
 id: 976279205
-type: way
+type: node
 latitude: 49.61609
 longitude: 11.79428
 postcode: "92249"
 city: Vilseck
-street: "Ackerstraße"
-housenumber: 17
+street: Ackerstraße
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

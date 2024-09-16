@@ -4,8 +4,8 @@ latitude: 48.53652
 longitude: 12.15153
 postcode: "84028"
 city: Landshut
-street: "Altstadt"
-housenumber: 83
+street: Altstadt
+housenumber: "83"
 phone: ""
-opening_hours: "Mo-Sa 08:30-19:00"
-website: "https://www.mueller.de/meine-filiale/landshut/altstadt-82-84/"
+opening_hours: Mo-Sa 08:30-19:00
+website: https://www.mueller.de/meine-filiale/landshut/altstadt-82-84/

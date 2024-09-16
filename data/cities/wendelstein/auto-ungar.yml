@@ -4,8 +4,8 @@ latitude: 49.36563
 longitude: 11.16289
 postcode: "90530"
 city: Wendelstein
-street: "In der Lach"
-housenumber: 68
-phone: "+49 9129 4055520"
-opening_hours: "Mo-Fr 08:30-17:00"
-website: "https://www.auto-ungar.de"
+street: In der Lach
+housenumber: "68"
+phone: +49 9129 4055520
+opening_hours: Mo-Fr 08:30-17:00
+website: https://www.auto-ungar.de

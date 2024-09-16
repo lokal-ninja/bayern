@@ -4,8 +4,8 @@ latitude: 49.96051
 longitude: 9.76775
 postcode: "97753"
 city: Karlstadt
-street: "Ringstraße"
-housenumber: 42
-phone: "+49 9353 1277"
-opening_hours: "Mo-Fr 08:30-18:00; Tu off; Sa 08:30-13:00"
-website: "https://www.zweigeteilt-karlstadt.com/"
+street: Ringstraße
+housenumber: "42"
+phone: +49 9353 1277
+opening_hours: Mo-Fr 08:30-18:00; Tu off; Sa 08:30-13:00
+website: https://www.zweigeteilt-karlstadt.com/

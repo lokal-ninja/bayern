@@ -1,11 +1,11 @@
 id: 206859032
-type: way
+type: node
 latitude: 48.56098
 longitude: 11.26541
 postcode: "86529"
 city: Schrobenhausen
-street: "Lenbachplatz"
-housenumber: 11
+street: Lenbachplatz
+housenumber: "11"
 phone: ""
 opening_hours: ""
-website: "https://www.buchhandlung-stadtmauer.de/"
+website: https://www.buchhandlung-stadtmauer.de/

@@ -1,11 +1,11 @@
 id: 112565968
-type: way
+type: node
 latitude: 49.02511
 longitude: 12.03191
 postcode: "93186"
 city: Pettendorf
-street: "Keltenstraße"
-housenumber: 33
-phone: "+49 941 82367"
+street: Keltenstraße
+housenumber: "33"
+phone: +49 941 82367
 opening_hours: ""
 website: ""

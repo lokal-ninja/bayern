@@ -1,11 +1,11 @@
 id: 229436541
-type: way
+type: node
 latitude: 48.82689
 longitude: 12.39183
 postcode: "94333"
 city: Geiselhöring
-street: "Regensburger Straße"
-housenumber: 13
-phone: "+49 9423 943335 0"
-opening_hours: "Mo-Fr 08:00-12:00,13:00-17:00"
-website: "https://www.reifen-bauer.de/"
+street: Regensburger Straße
+housenumber: "13"
+phone: +49 9423 943335 0
+opening_hours: Mo-Fr 08:00-12:00,13:00-17:00
+website: https://www.reifen-bauer.de/

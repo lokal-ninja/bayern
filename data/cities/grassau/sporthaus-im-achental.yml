@@ -1,11 +1,11 @@
 id: 120410674
-type: way
+type: node
 latitude: 47.78021
 longitude: 12.47391
 postcode: "83224"
 city: Grassau
-street: "Eichelreuth"
-housenumber: 7
+street: Eichelreuth
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

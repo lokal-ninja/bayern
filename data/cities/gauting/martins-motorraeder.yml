@@ -1,11 +1,11 @@
 id: 126336591
-type: way
+type: node
 latitude: 48.06433
 longitude: 11.37873
 postcode: "82131"
 city: Gauting
-street: "Starnberger Straße"
-housenumber: 21
+street: Starnberger Straße
+housenumber: "21"
 phone: ""
 opening_hours: ""
-website: "https://www.martins-motorraeder.de/"
+website: https://www.martins-motorraeder.de/

@@ -1,11 +1,11 @@
 id: 1165361674
-type: way
+type: node
 latitude: 49.20509
 longitude: 12.28351
 postcode: "93149"
 city: Nittenau
-street: "Industriestraße"
-housenumber: 1
+street: Industriestraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

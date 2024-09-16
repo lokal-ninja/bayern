@@ -1,11 +1,11 @@
 id: 167110304
-type: way
+type: node
 latitude: 47.81587
 longitude: 11.10696
 postcode: "82398"
 city: Oderding
-street: "Ziegeleiweg"
-housenumber: 2
+street: Ziegeleiweg
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.teak-and-more.de/"
+website: https://www.teak-and-more.de/

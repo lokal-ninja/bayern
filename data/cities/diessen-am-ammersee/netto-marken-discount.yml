@@ -1,11 +1,11 @@
 id: 206855318
-type: way
+type: node
 latitude: 47.94936
 longitude: 11.0914
 postcode: "86911"
 city: Dießen am Ammersee
-street: "Fritz-Winter-Straße"
-housenumber: 2
+street: Fritz-Winter-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
+opening_hours: Mo-Sa 07:00-20:00; PH off
 website: ""

@@ -4,8 +4,9 @@ latitude: 49.85639
 longitude: 9.9568
 postcode: "97222"
 city: Rimpar
-street: "Niederhoferstraße"
-housenumber: 9
+street: Niederhoferstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Tu 15:00-18:00; We off; Th 09:00-12:00; Fr 09:00-12:00,15:00-18:00; Sa 09:30-12:30"
-website: "https://weltlaeden.de/rimpar/"
+opening_hours: Mo-Tu 15:00-18:00; We off; Th 09:00-12:00; Fr 09:00-12:00,15:00-18:00;
+    Sa 09:30-12:30
+website: https://weltlaeden.de/rimpar/

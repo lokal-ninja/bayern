@@ -4,8 +4,8 @@ latitude: 48.38311
 longitude: 10.87514
 postcode: "86154"
 city: Augsburg
-street: "Neuhäuserstraße"
-housenumber: 19
+street: Neuhäuserstraße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,15:00-19:00; Sa 09:30-14:00"
+opening_hours: Mo-Fr 09:00-13:00,15:00-19:00; Sa 09:30-14:00
 website: ""

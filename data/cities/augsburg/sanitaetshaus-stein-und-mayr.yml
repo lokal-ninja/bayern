@@ -4,8 +4,8 @@ latitude: 48.35421
 longitude: 10.88403
 postcode: "86159"
 city: Augsburg
-street: "Gögginger Straße"
-housenumber: 63
-phone: "+49 821 45549630"
-opening_hours: "Mo-Fr 08:00-13:00,14:00-18:00"
-website: "https://steinundmayr.de"
+street: Gögginger Straße
+housenumber: "63"
+phone: +49 821 45549630
+opening_hours: Mo-Fr 08:00-13:00,14:00-18:00
+website: https://steinundmayr.de

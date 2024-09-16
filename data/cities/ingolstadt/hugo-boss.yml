@@ -1,11 +1,11 @@
 id: 236042071
-type: way
+type: node
 latitude: 48.7831
 longitude: 11.47824
 postcode: ""
 city: Ingolstadt
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; PH,Su off"
+opening_hours: Mo-Sa 10:00-20:00; PH,Su off
 website: ""

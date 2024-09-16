@@ -1,11 +1,11 @@
 id: 51656340
-type: way
+type: node
 latitude: 48.56328
 longitude: 11.62364
 postcode: "85283"
 city: Wolnzach
-street: "Hauptstraße"
-housenumber: 31
+street: Hauptstraße
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

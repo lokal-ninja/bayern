@@ -1,11 +1,11 @@
 id: 1301290188
-type: way
+type: node
 latitude: 49.6642
 longitude: 12.14912
 postcode: "92637"
 city: Weiden i.d.OPf.
-street: "Robert-Bosch-Straße"
-housenumber: 6
-phone: "+49 961 63450030"
-opening_hours: "Mo-Sa 08:00-20:00"
+street: Robert-Bosch-Straße
+housenumber: "6"
+phone: +49 961 63450030
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

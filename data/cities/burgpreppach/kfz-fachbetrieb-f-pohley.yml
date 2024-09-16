@@ -1,11 +1,11 @@
 id: 636633746
-type: way
+type: node
 latitude: 50.12017
 longitude: 10.63076
 postcode: "97496"
 city: Burgpreppach
 street: ""
-housenumber: 55
+housenumber: "55"
 phone: ""
 opening_hours: ""
 website: ""

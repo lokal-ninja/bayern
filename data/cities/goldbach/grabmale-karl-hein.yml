@@ -1,11 +1,11 @@
 id: 444751653
-type: way
+type: node
 latitude: 49.99746
 longitude: 9.18576
 postcode: "63773"
 city: Goldbach
-street: "Aschaffenburger Straße"
-housenumber: 92
-phone: "+49 6021 51715"
+street: Aschaffenburger Straße
+housenumber: "92"
+phone: +49 6021 51715
 opening_hours: ""
-website: "grabmale-hein.de"
+website: grabmale-hein.de

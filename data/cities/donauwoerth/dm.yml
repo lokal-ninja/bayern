@@ -1,11 +1,11 @@
 id: 134198604
-type: way
+type: node
 latitude: 48.71198
 longitude: 10.75575
 postcode: "86609"
 city: Donauwörth
-street: "Kaiser-Karl-Straße"
-housenumber: 6
+street: Kaiser-Karl-Straße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
-website: "https://www.dm.de"
+opening_hours: Mo-Sa 08:00-20:00; PH off
+website: https://www.dm.de

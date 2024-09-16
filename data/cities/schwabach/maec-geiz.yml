@@ -4,8 +4,8 @@ latitude: 49.32935
 longitude: 11.01956
 postcode: "91126"
 city: Schwabach
-street: "Königstraße"
-housenumber: 6
-phone: "+49 9122 6032437"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00; So,PH off"
-website: "https://www.mac-geiz.de/filialfinder/353-Schwabach"
+street: Königstraße
+housenumber: "6"
+phone: +49 9122 6032437
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:00; So,PH off
+website: https://www.mac-geiz.de/filialfinder/353-Schwabach

@@ -1,11 +1,11 @@
 id: 99891606
-type: way
+type: node
 latitude: 49.34711
 longitude: 10.80001
 postcode: "91560"
 city: Heilsbronn
-street: "Gutenbergstraße"
-housenumber: 2
-phone: "+49 9872 956920"
+street: Gutenbergstraße
+housenumber: "2"
+phone: +49 9872 956920
 opening_hours: ""
-website: "http://www.kopp-autohaus.de/start.htm"
+website: http://www.kopp-autohaus.de/start.htm

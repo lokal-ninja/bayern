@@ -1,11 +1,11 @@
 id: 114686712
-type: way
+type: node
 latitude: 49.2722
 longitude: 11.4667
 postcode: "92318"
 city: Neumarkt in der Oberpfalz
-street: "Regensburger Straße"
-housenumber: 55
+street: Regensburger Straße
+housenumber: "55"
 phone: ""
 opening_hours: ""
-website: "https://preissler-neumarkt.de/"
+website: https://preissler-neumarkt.de/

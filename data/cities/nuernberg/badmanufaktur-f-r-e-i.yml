@@ -4,8 +4,8 @@ latitude: 49.4697
 longitude: 11.08117
 postcode: "90409"
 city: Nürnberg
-street: "Nordring"
-housenumber: 69
-phone: "+49 911 36680800"
+street: Nordring
+housenumber: "69"
+phone: +49 911 36680800
 opening_hours: ""
-website: "https://badmanufakturfrei.de/"
+website: https://badmanufakturfrei.de/

@@ -4,8 +4,8 @@ latitude: 49.86255
 longitude: 10.17508
 postcode: "97332"
 city: Volkach
-street: "Astheimer Straße"
-housenumber: 6
-phone: "+49 9381 803310"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-12:00"
-website: "https://www.bocksbeutel-hof.de/"
+street: Astheimer Straße
+housenumber: "6"
+phone: +49 9381 803310
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-12:00
+website: https://www.bocksbeutel-hof.de/

@@ -1,11 +1,11 @@
 id: 288019487
-type: way
+type: node
 latitude: 48.36536
 longitude: 10.00941
 postcode: "89231"
 city: Neu-Ulm
-street: "Memminger Straße"
-housenumber: 185
-phone: "+49 731 985890"
+street: Memminger Straße
+housenumber: "185"
+phone: +49 731 985890
 opening_hours: ""
 website: ""

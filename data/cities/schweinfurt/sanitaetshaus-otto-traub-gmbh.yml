@@ -1,11 +1,11 @@
 id: 656829323
-type: way
+type: node
 latitude: 50.04499
 longitude: 10.22436
 postcode: ""
 city: Schweinfurt
-street: "Wilhelmstraße"
-housenumber: 8
-phone: "+49 9721 72950"
-opening_hours: "Mo-Fr 8:30-18:00; Sa 9:00-13:00"
-website: "https://www.sanitaetshaus-traub.de"
+street: Wilhelmstraße
+housenumber: "8"
+phone: +49 9721 72950
+opening_hours: Mo-Fr 8:30-18:00; Sa 9:00-13:00
+website: https://www.sanitaetshaus-traub.de

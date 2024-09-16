@@ -1,11 +1,11 @@
 id: 182178859
-type: way
+type: node
 latitude: 48.85922
 longitude: 12.57465
 postcode: "94315"
 city: Straubing
-street: "Landshuter Straße"
-housenumber: 194
-phone: "+49 9421 961800"
+street: Landshuter Straße
+housenumber: "194"
+phone: +49 9421 961800
 opening_hours: ""
-website: "https://www.sieber-reifendienst.de"
+website: https://www.sieber-reifendienst.de

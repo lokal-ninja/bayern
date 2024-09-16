@@ -1,11 +1,11 @@
 id: 341803041
-type: way
+type: node
 latitude: 48.37763
 longitude: 10.83796
 postcode: "86391"
 city: Stadtbergen
-street: "Ulmer Landstraße"
-housenumber: 337
-phone: "+49 821 4863057"
-opening_hours: "Mo-Fr 08:30-12:30,13:30-18:00; Sa 09:00-13:00; Oct-Feb Mo off; PH off"
-website: "http://www.in-bike.de/"
+street: Ulmer Landstraße
+housenumber: "337"
+phone: +49 821 4863057
+opening_hours: Mo-Fr 08:30-12:30,13:30-18:00; Sa 09:00-13:00; Oct-Feb Mo off; PH off
+website: http://www.in-bike.de/

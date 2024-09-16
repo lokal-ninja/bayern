@@ -4,8 +4,8 @@ latitude: 48.11514
 longitude: 11.59348
 postcode: "81541"
 city: München
-street: "Werinherstraße"
-housenumber: 67
+street: Werinherstraße
+housenumber: "67"
 phone: ""
-opening_hours: "Mo-Th 06:30-13:00,14:00-18:00; Fr 06:30-18:00; Sa 06:30-12:00"
+opening_hours: Mo-Th 06:30-13:00,14:00-18:00; Fr 06:30-18:00; Sa 06:30-12:00
 website: ""

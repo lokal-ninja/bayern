@@ -4,8 +4,8 @@ latitude: 48.30527
 longitude: 10.96353
 postcode: "86438"
 city: Kissing
-street: "Kornstraße"
-housenumber: 1
-phone: "+49 8233 846993"
-opening_hours: "Mo-Fr 08:30-19:00; Sa 08:30-16:00"
-website: "http://ehrenreich-getraenke.de/kissing.html"
+street: Kornstraße
+housenumber: "1"
+phone: +49 8233 846993
+opening_hours: Mo-Fr 08:30-19:00; Sa 08:30-16:00
+website: http://ehrenreich-getraenke.de/kissing.html

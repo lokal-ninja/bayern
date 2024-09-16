@@ -4,8 +4,8 @@ latitude: 47.57963
 longitude: 10.74126
 postcode: "87645"
 city: Schwangau
-street: "König-Ludwig-Straße"
-housenumber: 2
-phone: "+49 8362 9250300"
-opening_hours: "Mo-Fr 10:00-17:00; Sa 09:30-14:00; Su,PH off"
-website: "https://hersteller-verkauf.de/herstellerverkauf-schwangau"
+street: König-Ludwig-Straße
+housenumber: "2"
+phone: +49 8362 9250300
+opening_hours: Mo-Fr 10:00-17:00; Sa 09:30-14:00; Su,PH off
+website: https://hersteller-verkauf.de/herstellerverkauf-schwangau

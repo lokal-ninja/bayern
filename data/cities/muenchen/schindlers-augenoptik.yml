@@ -4,8 +4,8 @@ latitude: 48.09046
 longitude: 11.56432
 postcode: ""
 city: München
-street: "Seybothstraße"
-housenumber: 17
-phone: "+49 89 6253605"
-opening_hours: "Tu-Fr 10:00-18:00"
+street: Seybothstraße
+housenumber: "17"
+phone: +49 89 6253605
+opening_hours: Tu-Fr 10:00-18:00
 website: ""

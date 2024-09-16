@@ -1,11 +1,11 @@
 id: 126507966
-type: way
+type: node
 latitude: 48.85255
 longitude: 12.9637
 postcode: "94469"
 city: Deggendorf
-street: "Schauflinger Straße"
-housenumber: 7
+street: Schauflinger Straße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:30-17:00"
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:30-17:00
 website: ""

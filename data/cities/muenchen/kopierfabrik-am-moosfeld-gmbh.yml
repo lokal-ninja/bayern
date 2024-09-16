@@ -4,8 +4,8 @@ latitude: 48.13825
 longitude: 11.61826
 postcode: "81677"
 city: München
-street: "Prinzregentenstraße"
-housenumber: 151
+street: Prinzregentenstraße
+housenumber: "151"
 phone: ""
-opening_hours: "Mo-Th 08:00-18:00; Fr 08:00-17:00"
-website: "https://kopierfabrik.de/"
+opening_hours: Mo-Th 08:00-18:00; Fr 08:00-17:00
+website: https://kopierfabrik.de/

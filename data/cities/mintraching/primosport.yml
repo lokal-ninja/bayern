@@ -1,11 +1,11 @@
 id: 416498349
-type: way
+type: node
 latitude: 48.9578
 longitude: 12.23928
 postcode: "93098"
 city: Mintraching
-street: "Rosenhofer Straße"
-housenumber: 14
-phone: "+49 9406 28399 01"
+street: Rosenhofer Straße
+housenumber: "14"
+phone: +49 9406 28399 01
 opening_hours: ""
-website: "https://www.shop-primosport.de/"
+website: https://www.shop-primosport.de/

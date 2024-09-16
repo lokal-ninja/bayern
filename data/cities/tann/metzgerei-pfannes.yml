@@ -1,11 +1,11 @@
 id: 557200896
-type: way
+type: node
 latitude: 48.31505
 longitude: 12.89179
 postcode: "84367"
 city: Tann
-street: "Bachstraße"
-housenumber: 27
-phone: "+49 8572 213"
+street: Bachstraße
+housenumber: "27"
+phone: +49 8572 213
 opening_hours: ""
 website: ""

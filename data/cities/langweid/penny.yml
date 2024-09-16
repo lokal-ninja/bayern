@@ -1,11 +1,11 @@
 id: 195956335
-type: way
+type: node
 latitude: 48.48513
 longitude: 10.86018
 postcode: "86462"
 city: Langweid
-street: "Karwendelstraße"
-housenumber: 4
+street: Karwendelstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

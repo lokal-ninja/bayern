@@ -4,8 +4,8 @@ latitude: 48.15783
 longitude: 11.57415
 postcode: "80796"
 city: München
-street: "Elisabethplatz"
-housenumber: 2
-phone: "+49 89 2717512"
-opening_hours: "Tu-Fr 09:00-12:00,13:00-18:30; Sa 09:00-13:00"
-website: "https://www.joesgarage.de/"
+street: Elisabethplatz
+housenumber: "2"
+phone: +49 89 2717512
+opening_hours: Tu-Fr 09:00-12:00,13:00-18:30; Sa 09:00-13:00
+website: https://www.joesgarage.de/

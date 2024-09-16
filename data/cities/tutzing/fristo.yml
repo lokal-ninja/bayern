@@ -1,11 +1,11 @@
 id: 242255089
-type: way
+type: node
 latitude: 47.91571
 longitude: 11.28436
 postcode: "82327"
 city: Tutzing
-street: "Hauptstraße"
+street: Hauptstraße
 housenumber: 99a
 phone: ""
 opening_hours: ""
-website: "https://www.fristo.de"
+website: https://www.fristo.de

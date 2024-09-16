@@ -4,8 +4,8 @@ latitude: 48.10644
 longitude: 11.5796
 postcode: "81547"
 city: München
-street: "Waltramstraße"
-housenumber: 3
-phone: "+49 89 69804348"
-opening_hours: "Tu-Fr 09:00-18:30; Sa 09:00-15:00"
+street: Waltramstraße
+housenumber: "3"
+phone: +49 89 69804348
+opening_hours: Tu-Fr 09:00-18:30; Sa 09:00-15:00
 website: ""

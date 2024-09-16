@@ -4,8 +4,8 @@ latitude: 48.83009
 longitude: 12.96275
 postcode: "94469"
 city: Deggendorf
-street: "Pferdemarkt"
-housenumber: 14
+street: Pferdemarkt
+housenumber: "14"
 phone: "+499914885"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 07:00-12:00"
-website: "https://landmetzgerei-beer.de/"
+opening_hours: Mo-Fr 07:30-18:00; Sa 07:00-12:00
+website: https://landmetzgerei-beer.de/

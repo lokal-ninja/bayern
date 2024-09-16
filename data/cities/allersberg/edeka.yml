@@ -1,11 +1,11 @@
 id: 42456103
-type: way
+type: node
 latitude: 49.25198
 longitude: 11.2403
 postcode: "90584"
 city: Allersberg
-street: "Neumarkter Straße"
+street: Neumarkter Straße
 housenumber: 14a
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

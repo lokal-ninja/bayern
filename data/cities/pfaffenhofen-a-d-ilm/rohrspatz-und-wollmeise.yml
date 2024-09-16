@@ -4,8 +4,8 @@ latitude: 48.53005
 longitude: 11.51017
 postcode: "85276"
 city: Pfaffenhofen a.d. Ilm
-street: "Poststraße"
-housenumber: 1
-phone: "+49 8441 8713105"
-opening_hours: "Mo-Th 08:00-12:00; Fr,Sa 09:00-16:00"
-website: "https://www.rohrspatzundwollmeise.de/"
+street: Poststraße
+housenumber: "1"
+phone: +49 8441 8713105
+opening_hours: Mo-Th 08:00-12:00; Fr,Sa 09:00-16:00
+website: https://www.rohrspatzundwollmeise.de/

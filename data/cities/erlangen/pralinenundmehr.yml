@@ -4,8 +4,8 @@ latitude: 49.59885
 longitude: 11.00225
 postcode: "91054"
 city: Erlangen
-street: "Heuwaagstraße"
-housenumber: 14
-phone: "+49 9131 9704634"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-14:00; Su,PH off"
-website: "https://www.pralinen-und-mehr.de/"
+street: Heuwaagstraße
+housenumber: "14"
+phone: +49 9131 9704634
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-14:00; Su,PH off
+website: https://www.pralinen-und-mehr.de/

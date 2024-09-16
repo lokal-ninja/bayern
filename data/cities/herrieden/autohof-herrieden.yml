@@ -1,11 +1,11 @@
 id: 354321646
-type: way
+type: node
 latitude: 49.25855
 longitude: 10.50126
 postcode: "91567"
 city: Herrieden
-street: "Am Eichelberg"
-housenumber: 2
+street: Am Eichelberg
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

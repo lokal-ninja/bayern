@@ -4,8 +4,9 @@ latitude: 48.06458
 longitude: 11.64943
 postcode: "85521"
 city: Ottobrunn
-street: "Siemensstraße"
-housenumber: 24
+street: Siemensstraße
+housenumber: "24"
 phone: ""
-opening_hours: "Mar-Oct Mo-Fr 08:00-12:00,13:00-17:00; Mar-Oct Sa 09:00-13:00; Nov-Feb Mo-Fr 09:00-12:00,13:00-17:00; Nov-Feb Sa 10:00-13:00"
-website: "https://koerner-motobikes.de/"
+opening_hours: Mar-Oct Mo-Fr 08:00-12:00,13:00-17:00; Mar-Oct Sa 09:00-13:00; Nov-Feb
+    Mo-Fr 09:00-12:00,13:00-17:00; Nov-Feb Sa 10:00-13:00
+website: https://koerner-motobikes.de/

@@ -4,8 +4,8 @@ latitude: 48.15443
 longitude: 11.46986
 postcode: "81245"
 city: München
-street: "Kaspar-Kerll-Straße"
-housenumber: 47
+street: Kaspar-Kerll-Straße
+housenumber: "47"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
-website: "https://www.vollcorner.de/standorte/biomaerkte/obermenzing/"
+opening_hours: Mo-Sa 08:00-20:00; PH off
+website: https://www.vollcorner.de/standorte/biomaerkte/obermenzing/

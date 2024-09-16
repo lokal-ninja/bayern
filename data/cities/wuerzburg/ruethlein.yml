@@ -1,11 +1,11 @@
 id: 230581321
-type: way
+type: node
 latitude: 49.79587
 longitude: 9.99974
 postcode: "97076"
 city: Würzburg
-street: "Nürnberger Straße"
-housenumber: 126
+street: Nürnberger Straße
+housenumber: "126"
 phone: ""
 opening_hours: ""
-website: "https://www.citroen-haendler.de/ruethlein-wuerzburg/"
+website: https://www.citroen-haendler.de/ruethlein-wuerzburg/

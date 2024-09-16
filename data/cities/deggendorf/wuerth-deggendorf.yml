@@ -4,8 +4,8 @@ latitude: 48.85808
 longitude: 12.96123
 postcode: "94469"
 city: Deggendorf
-street: "Graflinger Straße"
-housenumber: 230
-phone: "+49 991 27085070"
-opening_hours: "Mo-Th 07:00-17:00; Fr 07:00-16:00"
-website: "https://www.wuerth.de/"
+street: Graflinger Straße
+housenumber: "230"
+phone: +49 991 27085070
+opening_hours: Mo-Th 07:00-17:00; Fr 07:00-16:00
+website: https://www.wuerth.de/

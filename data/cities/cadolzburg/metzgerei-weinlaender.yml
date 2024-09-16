@@ -4,8 +4,8 @@ latitude: 49.45732
 longitude: 10.85256
 postcode: "90556"
 city: Cadolzburg
-street: "Hindenburgstraße"
-housenumber: 40
-phone: "+49 9103 8226"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 07:00-13:00"
+street: Hindenburgstraße
+housenumber: "40"
+phone: +49 9103 8226
+opening_hours: Mo-Fr 07:30-18:00; Sa 07:00-13:00
 website: ""

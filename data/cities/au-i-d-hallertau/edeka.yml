@@ -1,11 +1,11 @@
 id: 133677257
-type: way
+type: node
 latitude: 48.56386
 longitude: 11.74076
 postcode: "84072"
 city: Au i.d. Hallertau
-street: "Mainburger Straße"
-housenumber: 30
+street: Mainburger Straße
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

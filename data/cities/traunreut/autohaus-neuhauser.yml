@@ -1,11 +1,11 @@
 id: 372491320
-type: way
+type: node
 latitude: 47.98572
 longitude: 12.54621
 postcode: "83371"
 city: Traunreut
-street: "Bahnhofstraße"
-housenumber: 4
+street: Bahnhofstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

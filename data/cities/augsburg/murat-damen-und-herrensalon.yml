@@ -4,8 +4,8 @@ latitude: 48.37051
 longitude: 10.90815
 postcode: "86152"
 city: Augsburg
-street: "Jakoberstraße"
-housenumber: 75
-phone: "+49 821 5084189"
-opening_hours: "Mo-Sa 09:00-19:00"
+street: Jakoberstraße
+housenumber: "75"
+phone: +49 821 5084189
+opening_hours: Mo-Sa 09:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 136025017
-type: way
+type: node
 latitude: 48.40193
 longitude: 11.16412
 postcode: "86577"
 city: Sielenbach
-street: "Maria-Birnbaum-Straße"
-housenumber: 2
+street: Maria-Birnbaum-Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

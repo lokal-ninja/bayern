@@ -1,11 +1,11 @@
 id: 36857306
-type: way
+type: node
 latitude: 48.09201
 longitude: 11.50322
 postcode: "81477"
 city: München
-street: "Drygalski-Allee"
-housenumber: 35
+street: Drygalski-Allee
+housenumber: "35"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:30; Sa 09:00-13:00"
+opening_hours: Mo-Fr 08:00-18:30; Sa 09:00-13:00
 website: ""

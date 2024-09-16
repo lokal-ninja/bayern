@@ -1,11 +1,11 @@
 id: 262626201
-type: way
+type: node
 latitude: 47.94917
 longitude: 11.10331
 postcode: "86911"
 city: Dießen am Ammersee
-street: "Prinz-Ludwig-Straße"
-housenumber: 13
-phone: "+49 8807 9496288"
-opening_hours: "Mo-Fr 08:00-17:00; PH off"
+street: Prinz-Ludwig-Straße
+housenumber: "13"
+phone: +49 8807 9496288
+opening_hours: Mo-Fr 08:00-17:00; PH off
 website: ""

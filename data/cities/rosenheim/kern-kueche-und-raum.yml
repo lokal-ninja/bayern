@@ -4,8 +4,8 @@ latitude: 47.84258
 longitude: 12.08171
 postcode: "83026"
 city: Rosenheim
-street: "Schwaiger Weg"
-housenumber: 4
-phone: "+49 8031 24 36 0"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-16:00"
-website: "https://kueche-rosenheim.de/"
+street: Schwaiger Weg
+housenumber: "4"
+phone: +49 8031 24 36 0
+opening_hours: Mo-Fr 09:00-18:00; Sa 10:00-16:00
+website: https://kueche-rosenheim.de/

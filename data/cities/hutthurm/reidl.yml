@@ -1,11 +1,11 @@
 id: 149802265
-type: way
+type: node
 latitude: 48.67546
 longitude: 13.48605
 postcode: "94116"
 city: Hutthurm
-street: "Kringeller Straße"
-housenumber: 80
+street: Kringeller Straße
+housenumber: "80"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 8:00-12:00; PH off"
+opening_hours: Mo-Fr 08:00-18:00; Sa 8:00-12:00; PH off
 website: ""

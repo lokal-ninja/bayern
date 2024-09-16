@@ -1,11 +1,11 @@
 id: 30971284
-type: way
+type: node
 latitude: 49.32199
 longitude: 12.12278
 postcode: "92421"
 city: Schwandorf
-street: "Wackersdorfer Straße"
-housenumber: 60
+street: Wackersdorfer Straße
+housenumber: "60"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de

@@ -1,11 +1,11 @@
 id: 369847530
-type: way
+type: node
 latitude: 49.6656
 longitude: 10.46416
 postcode: "91443"
 city: Scheinfeld
-street: "Hauptstraße"
-housenumber: 18
+street: Hauptstraße
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

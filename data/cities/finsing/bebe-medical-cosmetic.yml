@@ -4,8 +4,8 @@ latitude: 48.22173
 longitude: 11.80235
 postcode: "85464"
 city: Finsing
-street: "Erdinger Straße"
-housenumber: 3
+street: Erdinger Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Tu-Fr 09:00-18:00; Sa 10:00-13:00"
-website: "http://www.kosmetikstudio-bebe.de/"
+opening_hours: Tu-Fr 09:00-18:00; Sa 10:00-13:00
+website: http://www.kosmetikstudio-bebe.de/

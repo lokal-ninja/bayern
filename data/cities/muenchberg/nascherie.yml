@@ -4,8 +4,8 @@ latitude: 50.20095
 longitude: 11.7801
 postcode: "95213"
 city: Münchberg
-street: "August-Horch-Straße"
-housenumber: 17
-phone: "+49 9251-8599820"
-opening_hours: "Mo-Fr 10:00-14:00; Sa,Su off"
-website: "https://www.fickenschers-backhaus.de/"
+street: August-Horch-Straße
+housenumber: "17"
+phone: +49 9251-8599820
+opening_hours: Mo-Fr 10:00-14:00; Sa,Su off
+website: https://www.fickenschers-backhaus.de/

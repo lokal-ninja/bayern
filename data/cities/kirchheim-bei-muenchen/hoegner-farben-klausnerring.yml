@@ -1,11 +1,11 @@
 id: 157261215
-type: way
+type: node
 latitude: 48.15222
 longitude: 11.74552
 postcode: "85551"
 city: Kirchheim bei München
-street: "Klausnerring"
-housenumber: 6
+street: Klausnerring
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "https://www.hoegner-farben.de/"
+website: https://www.hoegner-farben.de/

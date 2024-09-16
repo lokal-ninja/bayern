@@ -1,11 +1,11 @@
 id: 30076098
-type: way
+type: node
 latitude: 48.13107
 longitude: 11.52012
 postcode: "80686"
 city: München
-street: "Westendstraße"
-housenumber: 219
+street: Westendstraße
+housenumber: "219"
 phone: ""
 opening_hours: ""
 website: ""

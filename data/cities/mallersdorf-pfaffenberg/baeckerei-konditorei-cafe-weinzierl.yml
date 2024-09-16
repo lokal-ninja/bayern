@@ -4,8 +4,8 @@ latitude: 48.77631
 longitude: 12.25205
 postcode: "84066"
 city: Mallersdorf-Pfaffenberg
-street: "Hofmark"
-housenumber: 7
+street: Hofmark
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00; Sa 6:00-12:00"
-website: "https://baeckerei-weinzierl.de/?p=mallersdorf"
+opening_hours: Mo-Fr 06:00-18:00; Sa 6:00-12:00
+website: https://baeckerei-weinzierl.de/?p=mallersdorf

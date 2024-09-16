@@ -4,8 +4,8 @@ latitude: 49.56796
 longitude: 10.99334
 postcode: "91058"
 city: Erlangen
-street: "Tennenloher Straße"
-housenumber: 49
-phone: "+49 9131 920 77 0"
-opening_hours: "Mo-Th 08:00-17:00; Fr 08:00-14:00"
-website: "https://www.orthopoint.de/orthopoint-verwaltung.php"
+street: Tennenloher Straße
+housenumber: "49"
+phone: +49 9131 920 77 0
+opening_hours: Mo-Th 08:00-17:00; Fr 08:00-14:00
+website: https://www.orthopoint.de/orthopoint-verwaltung.php

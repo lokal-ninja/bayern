@@ -4,8 +4,8 @@ latitude: 49.7894
 longitude: 9.93044
 postcode: "97070"
 city: Würzburg
-street: "Sanderstraße"
-housenumber: 5
-phone: "+49 1523 4549804"
-opening_hours: "Sa 10:00-16:00; Di-Fr 10:00-19:00"
+street: Sanderstraße
+housenumber: "5"
+phone: +49 1523 4549804
+opening_hours: Sa 10:00-16:00; Di-Fr 10:00-19:00
 website: ""

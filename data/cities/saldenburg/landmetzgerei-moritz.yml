@@ -1,11 +1,11 @@
 id: 270117650
-type: way
+type: node
 latitude: 48.78131
 longitude: 13.38633
 postcode: "94163"
 city: Saldenburg
-street: "Sandweg"
-housenumber: 10
+street: Sandweg
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

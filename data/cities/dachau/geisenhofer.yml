@@ -4,8 +4,8 @@ latitude: 48.26071
 longitude: 11.47429
 postcode: "85221"
 city: Dachau
-street: "Kopernikusstraße"
-housenumber: 6
-phone: "+49 173 4103751"
-opening_hours: "Mo-Fr 06:30-18:30; Sa 07:00-14:00"
-website: "https://www.baeckerei-geisenhofer.de/"
+street: Kopernikusstraße
+housenumber: "6"
+phone: +49 173 4103751
+opening_hours: Mo-Fr 06:30-18:30; Sa 07:00-14:00
+website: https://www.baeckerei-geisenhofer.de/

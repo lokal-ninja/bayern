@@ -4,8 +4,9 @@ latitude: 48.19573
 longitude: 11.46442
 postcode: "80999"
 city: München
-street: "Am Münchfeld"
-housenumber: 53
+street: Am Münchfeld
+housenumber: "53"
 phone: ""
-opening_hours: "Mo-Tu 10:00-12:00,13:00-18:00; Th 10:00-12:00,13:00-18:00; Fr 10:00-12:00,13:00-18:00; Sa 10:00-14:00"
+opening_hours: Mo-Tu 10:00-12:00,13:00-18:00; Th 10:00-12:00,13:00-18:00; Fr 10:00-12:00,13:00-18:00;
+    Sa 10:00-14:00
 website: ""

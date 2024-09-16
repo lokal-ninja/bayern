@@ -4,8 +4,9 @@ latitude: 48.10307
 longitude: 11.59765
 postcode: "81549"
 city: München
-street: "Schwanseestraße"
-housenumber: 83
+street: Schwanseestraße
+housenumber: "83"
 phone: ""
-opening_hours: "Mar-Oct: Mo-Fr 08:30-18:00 ; Nov-Feb: Mo-Fr 08:30-18:00 ; Sa 08:30-13:00 ; Su,PH off"
+opening_hours: 'Mar-Oct: Mo-Fr 08:30-18:00 ; Nov-Feb: Mo-Fr 08:30-18:00 ; Sa 08:30-13:00
+    ; Su,PH off'
 website: ""

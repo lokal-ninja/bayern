@@ -4,8 +4,8 @@ latitude: 50.28519
 longitude: 10.09654
 postcode: "97708"
 city: Bad Bocklet
-street: "Riemenschneiderstraße"
-housenumber: 8
-phone: "+49 9708 320"
-opening_hours: "Mo-Sa 06:00-13:00; Su,PH off"
-website: "https://www.baecker-schmitt.de/"
+street: Riemenschneiderstraße
+housenumber: "8"
+phone: +49 9708 320
+opening_hours: Mo-Sa 06:00-13:00; Su,PH off
+website: https://www.baecker-schmitt.de/

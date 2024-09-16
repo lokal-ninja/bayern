@@ -1,11 +1,11 @@
 id: 58073929
-type: way
+type: node
 latitude: 47.75746
 longitude: 12.89816
 postcode: "83451"
 city: Piding
-street: "Reichenhaller Straße"
-housenumber: 25
+street: Reichenhaller Straße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
-website: "https://filialen.aldi-sued.de/bayern/piding/reichenhaller-strasse-25"
+opening_hours: Mo-Sa 08:00-20:00; PH off
+website: https://filialen.aldi-sued.de/bayern/piding/reichenhaller-strasse-25

@@ -4,8 +4,9 @@ latitude: 48.16154
 longitude: 11.58983
 postcode: "80802"
 city: München
-street: "Occamstraße"
-housenumber: 4
+street: Occamstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Wegen Betreiberwechsels vorübergehen geschlossen. Näheres ist nicht bekannt. Status 2024-02-29."
+opening_hours: '"Wegen Betreiberwechsels vorübergehen geschlossen. Näheres ist nicht
+    bekannt. Status 2024-02-29."'
 website: ""

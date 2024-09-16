@@ -4,8 +4,8 @@ latitude: 48.15028
 longitude: 11.5571
 postcode: "80335"
 city: München
-street: "Sandstraße"
-housenumber: 43
+street: Sandstraße
+housenumber: "43"
 phone: ""
-opening_hours: "Mo-Fr 12:00-19:00"
+opening_hours: Mo-Fr 12:00-19:00
 website: ""

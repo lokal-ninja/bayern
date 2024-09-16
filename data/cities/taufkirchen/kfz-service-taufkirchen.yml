@@ -1,11 +1,11 @@
 id: 125810375
-type: way
+type: node
 latitude: 48.0532
 longitude: 11.61099
 postcode: "82024"
 city: Taufkirchen
-street: "Am Bahnsteig"
-housenumber: 16
-phone: "+49 89 6242 1127"
-opening_hours: "Mo-Th 07:30-17:00; PH,Sa,Su off"
+street: Am Bahnsteig
+housenumber: "16"
+phone: +49 89 6242 1127
+opening_hours: Mo-Th 07:30-17:00; PH,Sa,Su off
 website: ""

@@ -1,11 +1,11 @@
 id: 109909958
-type: way
+type: node
 latitude: 47.85666
 longitude: 12.62849
 postcode: "83278"
 city: Traunstein
-street: "Hochstraße"
-housenumber: 18
+street: Hochstraße
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

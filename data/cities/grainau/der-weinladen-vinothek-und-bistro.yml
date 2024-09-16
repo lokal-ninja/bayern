@@ -1,11 +1,11 @@
 id: 243069047
-type: way
+type: node
 latitude: 47.47582
 longitude: 11.02428
 postcode: "82491"
 city: Grainau
-street: "Waxensteinstraße"
-housenumber: 9
+street: Waxensteinstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Tu-Sa 12:00-24:00"
+opening_hours: Tu-Sa 12:00-24:00
 website: ""

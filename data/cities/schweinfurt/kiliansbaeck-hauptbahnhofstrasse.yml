@@ -1,11 +1,11 @@
 id: 235895189
-type: way
+type: node
 latitude: 50.03578
 longitude: 10.21293
 postcode: "97424"
 city: Schweinfurt
-street: "Hauptbahnhofstraße"
-housenumber: 9
+street: Hauptbahnhofstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 06:00-17:00; Sa 07:00-15:00; Su 07:30-16:00"
+opening_hours: Mo-Fr 06:00-17:00; Sa 07:00-15:00; Su 07:30-16:00
 website: ""

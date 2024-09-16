@@ -1,11 +1,11 @@
 id: 828690089
-type: way
+type: node
 latitude: 48.70506
 longitude: 11.42662
 postcode: "85051"
 city: Ingolstadt
-street: "Am Hochfeldweg"
-housenumber: 8
+street: Am Hochfeldweg
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

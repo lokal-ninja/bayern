@@ -1,11 +1,11 @@
 id: 301062670
-type: way
+type: node
 latitude: 48.70284
 longitude: 13.79311
 postcode: "94139"
 city: Breitenberg
-street: "Passauer Straße"
-housenumber: 5
+street: Passauer Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

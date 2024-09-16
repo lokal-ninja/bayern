@@ -4,8 +4,8 @@ latitude: 48.19382
 longitude: 11.5547
 postcode: "80935"
 city: München
-street: "Azaleenstraße"
-housenumber: 15
+street: Azaleenstraße
+housenumber: "15"
 phone: ""
-opening_hours: "nach Vereinbarung"
+opening_hours: '"nach Vereinbarung"'
 website: ""

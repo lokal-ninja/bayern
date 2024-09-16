@@ -4,8 +4,8 @@ latitude: 50.10641
 longitude: 11.40831
 postcode: "95326"
 city: Kulmbach
-street: "Seidenhofer Straße"
-housenumber: 20
-phone: "+49 9221 4469"
-opening_hours: "Mo,Tu,Th,Fr 08:30-18:00; We,Sa 08:30-12:00; Su,PH off"
-website: "https://www.gartenbau-rossband.info/"
+street: Seidenhofer Straße
+housenumber: "20"
+phone: +49 9221 4469
+opening_hours: Mo,Tu,Th,Fr 08:30-18:00; We,Sa 08:30-12:00; Su,PH off
+website: https://www.gartenbau-rossband.info/

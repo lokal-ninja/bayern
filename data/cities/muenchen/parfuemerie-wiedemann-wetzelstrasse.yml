@@ -4,8 +4,8 @@ latitude: 48.07766
 longitude: 11.51972
 postcode: "81479"
 city: München
-street: "Wetzelstraße"
-housenumber: 1
+street: Wetzelstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-13:00; Su,PH off"
-website: "https://www.parfuemerie-wiedemann.de/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-13:00; Su,PH off
+website: https://www.parfuemerie-wiedemann.de/

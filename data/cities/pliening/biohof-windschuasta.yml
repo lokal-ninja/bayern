@@ -4,8 +4,8 @@ latitude: 48.20305
 longitude: 11.79994
 postcode: "85652"
 city: Pliening
-street: "Landshuter Straße"
-housenumber: 26
+street: Landshuter Straße
+housenumber: "26"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.biohof-windschuasta.de/"
+opening_hours: 24/7
+website: https://www.biohof-windschuasta.de/

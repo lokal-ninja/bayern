@@ -1,11 +1,11 @@
 id: 299048987
-type: way
+type: node
 latitude: 48.95863
 longitude: 11.69906
 postcode: "93339"
 city: Riedenburg
-street: "Am Gewerbepark"
-housenumber: 6
+street: Am Gewerbepark
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

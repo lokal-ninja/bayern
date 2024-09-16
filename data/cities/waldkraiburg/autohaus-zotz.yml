@@ -1,11 +1,11 @@
 id: 365661905
-type: way
+type: node
 latitude: 48.21386
 longitude: 12.41467
 postcode: "84478"
 city: Waldkraiburg
-street: "Traunreuter Straße"
-housenumber: 24
+street: Traunreuter Straße
+housenumber: "24"
 phone: ""
 opening_hours: ""
-website: "https://renault-zotz-waldkraiburg.de/"
+website: https://renault-zotz-waldkraiburg.de/

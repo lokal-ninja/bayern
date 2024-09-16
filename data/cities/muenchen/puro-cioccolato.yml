@@ -4,8 +4,8 @@ latitude: 48.15677
 longitude: 11.53873
 postcode: "80636"
 city: München
-street: "Volkartstraße"
-housenumber: 44
+street: Volkartstraße
+housenumber: "44"
 phone: ""
-opening_hours: "We,Th 12:00-18:00; Sa 10:00-16:30; Fr 12:00-18:30"
+opening_hours: We,Th 12:00-18:00; Sa 10:00-16:30; Fr 12:00-18:30
 website: ""

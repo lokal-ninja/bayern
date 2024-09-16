@@ -1,11 +1,11 @@
 id: 445380885
-type: way
+type: node
 latitude: 48.67476
 longitude: 11.8347
 postcode: "84091"
 city: Attenhofen
 street: ""
-housenumber: 23
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

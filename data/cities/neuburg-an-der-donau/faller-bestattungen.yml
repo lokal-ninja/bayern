@@ -1,11 +1,11 @@
 id: 488690161
-type: way
+type: node
 latitude: 48.73024
 longitude: 11.16016
 postcode: "86633"
 city: Neuburg an der Donau
-street: "Am Maschinenring"
-housenumber: 3
-phone: "+49 8431 7270"
+street: Am Maschinenring
+housenumber: "3"
+phone: +49 8431 7270
 opening_hours: ""
-website: "https://www.faller-bestattungen.de"
+website: https://www.faller-bestattungen.de

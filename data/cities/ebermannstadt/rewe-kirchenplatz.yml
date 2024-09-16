@@ -1,11 +1,11 @@
 id: 28371978
-type: way
+type: node
 latitude: 49.78068
 longitude: 11.18487
 postcode: "91320"
 city: Ebermannstadt
-street: "Kirchenplatz"
-housenumber: 6
+street: Kirchenplatz
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

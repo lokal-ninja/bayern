@@ -4,8 +4,8 @@ latitude: 49.27795
 longitude: 11.45968
 postcode: "92318"
 city: Neumarkt in der Oberpfalz
-street: "Obere Marktstraße"
-housenumber: 8
+street: Obere Marktstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00"
-website: "https://www.norma-online.de/"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-20:00
+website: https://www.norma-online.de/

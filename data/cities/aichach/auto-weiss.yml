@@ -1,11 +1,11 @@
 id: 198493211
-type: way
+type: node
 latitude: 48.44492
 longitude: 11.1392
 postcode: "86551"
 city: Aichach
-street: "Werner-von-Siemens-Straße"
-housenumber: 2
+street: Werner-von-Siemens-Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.auto-weiss.de/"
+website: https://www.auto-weiss.de/

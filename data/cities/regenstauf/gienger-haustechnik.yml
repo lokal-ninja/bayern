@@ -1,11 +1,11 @@
 id: 507407400
-type: way
+type: node
 latitude: 49.10572
 longitude: 12.11748
 postcode: "93128"
 city: Regenstauf
-street: "Gutenbergstraße"
-housenumber: 26
-phone: "+49 9402 505-0"
+street: Gutenbergstraße
+housenumber: "26"
+phone: +49 9402 505-0
 opening_hours: ""
-website: "https://www.gc-gruppe.de/de/unternehmen/gienger-regenstauf"
+website: https://www.gc-gruppe.de/de/unternehmen/gienger-regenstauf

@@ -4,8 +4,8 @@ latitude: 48.1874
 longitude: 11.57503
 postcode: "80807"
 city: München
-street: "Frankfurter Ring"
-housenumber: 38
-phone: "+49 89 35396766"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-15:00; PH off"
-website: "https://www.dainese.com/de/de/"
+street: Frankfurter Ring
+housenumber: "38"
+phone: +49 89 35396766
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-15:00; PH off
+website: https://www.dainese.com/de/de/

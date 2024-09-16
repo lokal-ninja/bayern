@@ -1,11 +1,11 @@
 id: 221652317
-type: way
+type: node
 latitude: 49.87553
 longitude: 12.34138
 postcode: "95643"
 city: Tirschenreuth
-street: "Äußere Regensburger Straße"
-housenumber: 81
+street: Äußere Regensburger Straße
+housenumber: "81"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://filialen.aldi-sued.de/bayern/tirschenreuth/aeussere-regensburger-str-81"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://filialen.aldi-sued.de/bayern/tirschenreuth/aeussere-regensburger-str-81

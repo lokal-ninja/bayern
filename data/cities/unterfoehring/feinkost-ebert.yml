@@ -4,8 +4,8 @@ latitude: 48.19369
 longitude: 11.6433
 postcode: "85774"
 city: Unterföhring
-street: "Gartenstraße"
-housenumber: 8
-phone: "+49 89 309052960"
-opening_hours: "Mo-Fr 08:00-13:00,14:00-17:00"
-website: "https://ebert-partyservice.de/"
+street: Gartenstraße
+housenumber: "8"
+phone: +49 89 309052960
+opening_hours: Mo-Fr 08:00-13:00,14:00-17:00
+website: https://ebert-partyservice.de/

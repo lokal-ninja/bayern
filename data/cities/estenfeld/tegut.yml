@@ -1,11 +1,11 @@
 id: 40852112
-type: way
+type: node
 latitude: 49.83264
 longitude: 10.00669
 postcode: "97230"
 city: Estenfeld
-street: "Am Zehnthügel"
-housenumber: 2
+street: Am Zehnthügel
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

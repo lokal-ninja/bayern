@@ -4,8 +4,8 @@ latitude: 49.41329
 longitude: 11.01155
 postcode: "90547"
 city: Stein
-street: "Geuderstraße"
-housenumber: 2
-phone: "+49 911 25291414"
-opening_hours: "Mo-Fr 10:00-17:00; PH closed"
+street: Geuderstraße
+housenumber: "2"
+phone: +49 911 25291414
+opening_hours: Mo-Fr 10:00-17:00; PH closed
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.14616
 longitude: 11.46444
 postcode: "81241"
 city: München
-street: "Landsberger Straße"
-housenumber: 495
-phone: "+49 89 37419548"
-opening_hours: "Mo-Su 06:00-24:00; Tu-Th 07:00-23:00"
+street: Landsberger Straße
+housenumber: "495"
+phone: +49 89 37419548
+opening_hours: Mo-Su 06:00-24:00; Tu-Th 07:00-23:00
 website: ""

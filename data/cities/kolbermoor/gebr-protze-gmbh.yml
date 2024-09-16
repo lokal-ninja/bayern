@@ -4,8 +4,8 @@ latitude: 47.85097
 longitude: 12.05045
 postcode: "83059"
 city: Kolbermoor
-street: "Gewerbepark Conradty"
-housenumber: 6
-phone: "+49 8031 299 400"
-opening_hours: "Mo-Fr 08:00-12:00, Mo-Th 13:00-17:00, Fr 13:00-16:00; Sa,Su,PH off"
-website: "https://protze-gebr.de/"
+street: Gewerbepark Conradty
+housenumber: "6"
+phone: +49 8031 299 400
+opening_hours: Mo-Fr 08:00-12:00, Mo-Th 13:00-17:00, Fr 13:00-16:00; Sa,Su,PH off
+website: https://protze-gebr.de/

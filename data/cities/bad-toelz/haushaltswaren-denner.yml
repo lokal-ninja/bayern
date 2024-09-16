@@ -4,8 +4,8 @@ latitude: 47.76048
 longitude: 11.55876
 postcode: "83646"
 city: Bad Tölz
-street: "Lenggrieser Straße"
-housenumber: 6
+street: Lenggrieser Straße
+housenumber: "6"
 phone: ""
-opening_hours: "Th-Fr 09:00-18:00; Sa 09:00-16:00"
-website: "https://www.denner-toelz.de"
+opening_hours: Th-Fr 09:00-18:00; Sa 09:00-16:00
+website: https://www.denner-toelz.de

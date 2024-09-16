@@ -4,8 +4,8 @@ latitude: 48.13439
 longitude: 11.5656
 postcode: "80331"
 city: München
-street: "Sonnenstraße"
-housenumber: 32
+street: Sonnenstraße
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://pankofer.de/"
+opening_hours: Mo-Fr 08:00-17:00
+website: https://pankofer.de/

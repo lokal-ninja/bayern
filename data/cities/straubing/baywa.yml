@@ -1,11 +1,11 @@
 id: 667892934
-type: way
+type: node
 latitude: 48.87562
 longitude: 12.55607
 postcode: "94315"
 city: Straubing
-street: "Geiselhöringer Straße"
-housenumber: 59
-phone: "+49 9421 7550961"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.baywa-baumarkt.de/cms/de/Standorte/straubing.htm"
+street: Geiselhöringer Straße
+housenumber: "59"
+phone: +49 9421 7550961
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.baywa-baumarkt.de/cms/de/Standorte/straubing.htm

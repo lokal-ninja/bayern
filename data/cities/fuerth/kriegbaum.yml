@@ -1,11 +1,11 @@
 id: 1224880293
-type: way
+type: node
 latitude: 49.47712
 longitude: 11.00629
 postcode: "90765"
 city: Fürth
-street: "Espanstraße"
-housenumber: 75
-phone: "+49 911 7906832"
+street: Espanstraße
+housenumber: "75"
+phone: +49 911 7906832
 opening_hours: ""
-website: "http://www.blumen-kriegbaum.de/"
+website: http://www.blumen-kriegbaum.de/

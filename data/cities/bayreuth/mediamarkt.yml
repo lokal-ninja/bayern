@@ -1,11 +1,11 @@
 id: 28415715
-type: way
+type: node
 latitude: 49.95139
 longitude: 11.56786
 postcode: "95445"
 city: Bayreuth
-street: "Spinnereistraße"
-housenumber: 4
+street: Spinnereistraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 88507913
-type: way
+type: node
 latitude: 49.72269
 longitude: 9.96434
 postcode: "97084"
 city: Würzburg
-street: "Schleifweg"
-housenumber: 9
+street: Schleifweg
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
+opening_hours: Mo-Sa 07:00-20:00; PH off
 website: ""

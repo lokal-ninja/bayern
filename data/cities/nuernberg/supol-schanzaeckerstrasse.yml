@@ -4,8 +4,8 @@ latitude: 49.44553
 longitude: 11.06832
 postcode: "90443"
 city: Nürnberg
-street: "Schanzäckerstraße"
-housenumber: 7
-phone: "+49 911 224490"
-opening_hours: "Mo-Fr 07:00-23:00; Sa 08:00-23:00; PH,Su 09:15-22:00"
+street: Schanzäckerstraße
+housenumber: "7"
+phone: +49 911 224490
+opening_hours: Mo-Fr 07:00-23:00; Sa 08:00-23:00; PH,Su 09:15-22:00
 website: ""

@@ -1,11 +1,11 @@
 id: 314603259
-type: way
+type: node
 latitude: 50.48527
 longitude: 11.38899
 postcode: "96337"
 city: Ludwigsstadt
-street: "Kronacher Straße"
-housenumber: 1
+street: Kronacher Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.08703
 longitude: 12.03269
 postcode: "85643"
 city: Steinhöring
-street: "Abersdorfer Straße"
-housenumber: 6
-phone: "+49 8094 90 57 71"
-opening_hours: "Mo-Fr 06:30-18:00; Sa 07:00-12:00; Su,PH 07:00-17:00"
-website: "https://www.mein-hasi.de"
+street: Abersdorfer Straße
+housenumber: "6"
+phone: +49 8094 90 57 71
+opening_hours: Mo-Fr 06:30-18:00; Sa 07:00-12:00; Su,PH 07:00-17:00
+website: https://www.mein-hasi.de

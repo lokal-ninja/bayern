@@ -4,8 +4,8 @@ latitude: 48.04611
 longitude: 10.4869
 postcode: "87719"
 city: Mindelheim
-street: "Maximilianstraße"
-housenumber: 52
+street: Maximilianstraße
+housenumber: "52"
 phone: ""
-opening_hours: "Mo-Sa 09:30-12:30, Mo-Fr 14:00-18:00"
-website: "https://www.nertinger.de/"
+opening_hours: Mo-Sa 09:30-12:30, Mo-Fr 14:00-18:00
+website: https://www.nertinger.de/

@@ -1,11 +1,11 @@
 id: 1221652773
-type: way
+type: node
 latitude: 50.10194
 longitude: 11.438
 postcode: "95326"
 city: Kulmbach
-street: "Am Goldenen Feld"
-housenumber: 2
-phone: "+49 9221 6909160"
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
-website: "https://www.edekaseidl.de"
+street: Am Goldenen Feld
+housenumber: "2"
+phone: +49 9221 6909160
+opening_hours: Mo-Sa 07:00-20:00; PH off
+website: https://www.edekaseidl.de

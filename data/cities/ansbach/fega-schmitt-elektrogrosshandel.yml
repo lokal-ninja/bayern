@@ -1,11 +1,11 @@
 id: 1065145772
-type: way
+type: node
 latitude: 49.3137
 longitude: 10.57084
 postcode: "91522"
 city: Ansbach
-street: "Rettistraße"
-housenumber: 5
+street: Rettistraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.fega-schmitt.de/"
+website: https://www.fega-schmitt.de/

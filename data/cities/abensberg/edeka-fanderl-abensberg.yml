@@ -4,8 +4,8 @@ latitude: 48.81089
 longitude: 11.85636
 postcode: "93326"
 city: Abensberg
-street: "Straubinger Straße"
-housenumber: 42
-phone: "+49 9443 700822"
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
-website: "https://www.edeka-fanderl.de/"
+street: Straubinger Straße
+housenumber: "42"
+phone: +49 9443 700822
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
+website: https://www.edeka-fanderl.de/

@@ -4,8 +4,8 @@ latitude: 48.11389
 longitude: 11.65109
 postcode: "81825"
 city: München
-street: "Bajuwarenstraße"
-housenumber: 9
-phone: "+49 89 45187822"
-opening_hours: "Mo-Fr 13:00-19:00"
+street: Bajuwarenstraße
+housenumber: "9"
+phone: +49 89 45187822
+opening_hours: Mo-Fr 13:00-19:00
 website: ""

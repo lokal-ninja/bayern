@@ -4,8 +4,8 @@ latitude: 49.59329
 longitude: 11.00395
 postcode: "91052"
 city: Erlangen
-street: "Nürnberger Straße"
-housenumber: 7
-phone: "+49 9131 9730877"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://www.carola-hair.de/"
+street: Nürnberger Straße
+housenumber: "7"
+phone: +49 9131 9730877
+opening_hours: Mo-Sa 09:30-20:00
+website: https://www.carola-hair.de/

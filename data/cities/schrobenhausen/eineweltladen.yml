@@ -1,11 +1,11 @@
 id: 207019572
-type: way
+type: node
 latitude: 48.5615
 longitude: 11.26564
 postcode: "86529"
 city: Schrobenhausen
-street: "Lenbachplatz"
-housenumber: 4
+street: Lenbachplatz
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-We,Fr 10:00-18:00; Th 09:00-18:00; Sa 10:00-12:30"
-website: "https://www.eineweltladen-sob.de/"
+opening_hours: Mo-We,Fr 10:00-18:00; Th 09:00-18:00; Sa 10:00-12:30
+website: https://www.eineweltladen-sob.de/

@@ -1,11 +1,11 @@
 id: 683476997
-type: way
+type: node
 latitude: 47.8499
 longitude: 12.62974
 postcode: "83278"
 city: Traunstein
-street: "Wimpasinger Straße"
-housenumber: 4
+street: Wimpasinger Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.auto-walch.de/traunstein/"
+website: https://www.auto-walch.de/traunstein/

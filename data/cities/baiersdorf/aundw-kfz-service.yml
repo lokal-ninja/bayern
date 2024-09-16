@@ -4,8 +4,9 @@ latitude: 49.65813
 longitude: 11.04199
 postcode: "91083"
 city: Baiersdorf
-street: "Fritz-Hartmann-Straße"
-housenumber: 8
+street: Fritz-Hartmann-Straße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Th 08:00-18:00; Fr 08:00-16:00; Sa 09:00-12:00 open nur Beratung und Verkauf; Su, PH off"
-website: "https://www.aw-kfzservice.de/"
+opening_hours: Mo-Th 08:00-18:00; Fr 08:00-16:00; Sa 09:00-12:00 open "nur Beratung
+    und Verkauf"; Su, PH off
+website: https://www.aw-kfzservice.de/

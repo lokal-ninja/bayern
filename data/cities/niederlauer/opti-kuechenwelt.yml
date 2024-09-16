@@ -1,11 +1,11 @@
 id: 156585707
-type: way
+type: node
 latitude: 50.29611
 longitude: 10.18645
 postcode: "97618"
 city: Niederlauer
-street: "Industriestraße"
-housenumber: 4
+street: Industriestraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

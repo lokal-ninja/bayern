@@ -4,8 +4,8 @@ latitude: 50.03103
 longitude: 10.50689
 postcode: "97437"
 city: Haßfurt
-street: "Brückenstraße"
-housenumber: 3
-phone: "+49 151 42552968"
-opening_hours: "nach Vereinbarung"
+street: Brückenstraße
+housenumber: "3"
+phone: +49 151 42552968
+opening_hours: '"nach Vereinbarung"'
 website: ""

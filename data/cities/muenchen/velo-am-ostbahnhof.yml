@@ -4,8 +4,8 @@ latitude: 48.1282
 longitude: 11.60165
 postcode: "81667"
 city: München
-street: "Weißenburger Straße"
-housenumber: 44
-phone: "+49 89 4484979"
-opening_hours: "Tu-Fr 10:00-18:30,Sa 10:00-14:00"
-website: "https://www.velo-am-ostbahnhof.de"
+street: Weißenburger Straße
+housenumber: "44"
+phone: +49 89 4484979
+opening_hours: Tu-Fr 10:00-18:30,Sa 10:00-14:00
+website: https://www.velo-am-ostbahnhof.de

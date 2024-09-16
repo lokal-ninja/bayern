@@ -1,11 +1,11 @@
 id: 160309368
-type: way
+type: node
 latitude: 48.75281
 longitude: 11.43207
 postcode: "85051"
 city: Ingolstadt
-street: "Münchener Straße"
-housenumber: 22
+street: Münchener Straße
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

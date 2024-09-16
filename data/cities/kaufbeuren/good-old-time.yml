@@ -4,8 +4,8 @@ latitude: 47.91238
 longitude: 10.63536
 postcode: "87600"
 city: Kaufbeuren
-street: "Sudetenstraße"
-housenumber: 124
-phone: "+49 8341 9728 20"
-opening_hours: "Mo 14:00-18:00; Tu 09:00-13:00; Fr 14:00-18:00; Sa 09:00-13:00"
-website: "http://www.goodoldtimes.de/Startseite/"
+street: Sudetenstraße
+housenumber: "124"
+phone: +49 8341 9728 20
+opening_hours: Mo 14:00-18:00; Tu 09:00-13:00; Fr 14:00-18:00; Sa 09:00-13:00
+website: http://www.goodoldtimes.de/Startseite/

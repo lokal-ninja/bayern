@@ -1,11 +1,11 @@
 id: 1272207949
-type: way
+type: node
 latitude: 48.3795
 longitude: 10.03067
 postcode: "89231"
 city: Neu-Ulm
-street: "Otto-Renner-Straße"
-housenumber: 27
+street: Otto-Renner-Straße
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Th 07:30-12:00,13:00-16:30; Fr 07:30-12:00,13:00-15:30"
-website: "https://wabotech.de/"
+opening_hours: Mo-Th 07:30-12:00,13:00-16:30; Fr 07:30-12:00,13:00-15:30
+website: https://wabotech.de/

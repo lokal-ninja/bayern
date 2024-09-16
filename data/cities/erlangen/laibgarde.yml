@@ -4,8 +4,8 @@ latitude: 49.59997
 longitude: 11.00313
 postcode: "91054"
 city: Erlangen
-street: "Hauptstraße"
-housenumber: 60
+street: Hauptstraße
+housenumber: "60"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-14:00; PH off"
-website: "https://laibgarde.de/"
+opening_hours: Mo-Fr 06:30-18:00; Sa 06:30-14:00; PH off
+website: https://laibgarde.de/

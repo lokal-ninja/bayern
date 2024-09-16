@@ -4,8 +4,8 @@ latitude: 48.35704
 longitude: 10.8612
 postcode: "86157"
 city: Augsburg
-street: "Bürgermeister-Bohl-Straße"
-housenumber: 56
-phone: "+49 821 7427 76"
-opening_hours: "Tu-Fr 10:00-13:00,14:00-17:00; Sa 10:00-13:00"
-website: "https://videlis.de/"
+street: Bürgermeister-Bohl-Straße
+housenumber: "56"
+phone: +49 821 7427 76
+opening_hours: Tu-Fr 10:00-13:00,14:00-17:00; Sa 10:00-13:00
+website: https://videlis.de/

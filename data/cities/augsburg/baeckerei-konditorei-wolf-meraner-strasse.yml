@@ -4,8 +4,8 @@ latitude: 48.38229
 longitude: 10.93622
 postcode: "86165"
 city: Augsburg
-street: "Meraner Straße"
-housenumber: 20
-phone: "+49 821 45536796"
-opening_hours: "Mo-Fr 06:30-18:30; Sa 06:30-18:00; Su 07:30-18:00"
-website: "https://www.baeckerei-wolf.de/"
+street: Meraner Straße
+housenumber: "20"
+phone: +49 821 45536796
+opening_hours: Mo-Fr 06:30-18:30; Sa 06:30-18:00; Su 07:30-18:00
+website: https://www.baeckerei-wolf.de/

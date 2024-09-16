@@ -1,11 +1,11 @@
 id: 298110185
-type: way
+type: node
 latitude: 49.04312
 longitude: 12.5345
 postcode: "94344"
 city: Wiesenfelden
-street: "Falkensteiner Straße"
-housenumber: 32
+street: Falkensteiner Straße
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Sa 07:00-19:00"
-website: "https://edeka-gatzke.de/wiesenfelden/"
+opening_hours: Mo-Sa 07:00-19:00
+website: https://edeka-gatzke.de/wiesenfelden/

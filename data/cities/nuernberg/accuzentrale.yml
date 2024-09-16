@@ -4,8 +4,8 @@ latitude: 49.46107
 longitude: 11.13202
 postcode: "90482"
 city: Nürnberg
-street: "Laufamholzstraße"
-housenumber: 2
-phone: "+49 911 5460445"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 10:00-13:00"
-website: "https://www.accuzentrale.de/"
+street: Laufamholzstraße
+housenumber: "2"
+phone: +49 911 5460445
+opening_hours: Mo-Fr 08:00-18:00; Sa 10:00-13:00
+website: https://www.accuzentrale.de/

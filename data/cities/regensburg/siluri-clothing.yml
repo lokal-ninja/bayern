@@ -1,11 +1,11 @@
 id: 111971698
-type: way
+type: node
 latitude: 49.00327
 longitude: 12.16462
 postcode: "93055"
 city: Regensburg
-street: "Kremser Straße"
-housenumber: 35
-phone: "+49 94 01524452"
+street: Kremser Straße
+housenumber: "35"
+phone: +49 94 01524452
 opening_hours: ""
-website: "https://siluri.de"
+website: https://siluri.de

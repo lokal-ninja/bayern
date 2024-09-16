@@ -1,11 +1,11 @@
 id: 302293718
-type: way
+type: node
 latitude: 48.47012
 longitude: 10.58795
 postcode: "86450"
 city: Altenmünster
-street: "Zusamleite"
-housenumber: 10
+street: Zusamleite
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 08:30-19:00; Sa 08:30-16:00"
+opening_hours: Mo-Fr 08:30-19:00; Sa 08:30-16:00
 website: ""

@@ -1,11 +1,11 @@
 id: 274867058
-type: way
+type: node
 latitude: 48.45337
 longitude: 10.2835
 postcode: "89312"
 city: Günzburg
-street: "Steppachweg"
-housenumber: 2
+street: Steppachweg
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:30, Sa 09:30-16:00"
+opening_hours: Mo-Fr 09:30-18:30, Sa 09:30-16:00
 website: ""

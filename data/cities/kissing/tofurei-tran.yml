@@ -4,8 +4,8 @@ latitude: 48.29388
 longitude: 10.98796
 postcode: "86438"
 city: Kissing
-street: "Hauptstraße"
-housenumber: 1
+street: Hauptstraße
+housenumber: "1"
 phone: ""
-opening_hours: "siehe Website"
-website: "https://www.tofurei-tran.de"
+opening_hours: '"siehe Website"'
+website: https://www.tofurei-tran.de

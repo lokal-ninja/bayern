@@ -4,8 +4,8 @@ latitude: 48.07618
 longitude: 11.13826
 postcode: "82266"
 city: Inning am Ammersee
-street: "Landsberger Straße"
-housenumber: 57
+street: Landsberger Straße
+housenumber: "57"
 phone: ""
-opening_hours: "Reservierung per E-Mail"
-website: "https://trouvebel.de/"
+opening_hours: '"Reservierung per E-Mail"'
+website: https://trouvebel.de/

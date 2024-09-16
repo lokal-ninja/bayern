@@ -4,8 +4,8 @@ latitude: 48.77421
 longitude: 11.39978
 postcode: "85057"
 city: Ingolstadt
-street: "Richard-Wagner-Straße"
-housenumber: 40
-phone: "+49 841 95180750"
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH closed"
-website: "https://www.backhaus-hackner.de"
+street: Richard-Wagner-Straße
+housenumber: "40"
+phone: +49 841 95180750
+opening_hours: Mo-Sa 07:00-20:00; Su,PH closed
+website: https://www.backhaus-hackner.de

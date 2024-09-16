@@ -4,8 +4,8 @@ latitude: 48.04535
 longitude: 11.96654
 postcode: "85567"
 city: Grafing bei München
-street: "Marktplatz"
-housenumber: 24
-phone: "+49 8092 5570"
-opening_hours: "Tu-Fr 08:00-18:00; Sa 08:00-12:30; PH off"
-website: "https://www.kaese-ober.de"
+street: Marktplatz
+housenumber: "24"
+phone: +49 8092 5570
+opening_hours: Tu-Fr 08:00-18:00; Sa 08:00-12:30; PH off
+website: https://www.kaese-ober.de

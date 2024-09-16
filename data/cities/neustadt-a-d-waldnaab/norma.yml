@@ -4,8 +4,8 @@ latitude: 49.72875
 longitude: 12.16497
 postcode: "92660"
 city: Neustadt a.d.Waldnaab
-street: "Naabstraße"
-housenumber: 5
+street: Naabstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "http://www.norma-online.de"
+opening_hours: Mo-Sa 08:00-20:00
+website: http://www.norma-online.de

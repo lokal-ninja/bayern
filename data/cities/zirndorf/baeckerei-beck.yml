@@ -1,11 +1,11 @@
 id: 395959781
-type: way
+type: node
 latitude: 49.44211
 longitude: 10.95357
 postcode: "90513"
 city: Zirndorf
-street: "Banderbacher Straße"
-housenumber: 12
-phone: "+49 911 604260"
-opening_hours: "Mo-Fr 05:30-14:00; Sa 05:30-12:00"
+street: Banderbacher Straße
+housenumber: "12"
+phone: +49 911 604260
+opening_hours: Mo-Fr 05:30-14:00; Sa 05:30-12:00
 website: ""

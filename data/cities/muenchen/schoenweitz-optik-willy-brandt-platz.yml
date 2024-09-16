@@ -4,8 +4,8 @@ latitude: 48.1319
 longitude: 11.69295
 postcode: "81829"
 city: München
-street: "Willy-Brandt-Platz"
-housenumber: 5
+street: Willy-Brandt-Platz
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
+opening_hours: Mo-Sa 10:00-20:00
 website: ""

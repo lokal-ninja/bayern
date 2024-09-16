@@ -1,11 +1,11 @@
 id: 162141212
-type: way
+type: node
 latitude: 47.8123
 longitude: 12.37314
 postcode: "83233"
 city: Bernau am Chiemsee
-street: "Priener Straße"
-housenumber: 2
+street: Priener Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 140771408
-type: way
+type: node
 latitude: 49.70144
 longitude: 11.04247
 postcode: "91353"
 city: Hausen
-street: "Forchheimer Straße"
-housenumber: 38
-phone: "+49 9191 9757711"
-opening_hours: "Mo-Sa 06:00-19:00; Su 07:00-18:00"
-website: "https://www.brot-haus.de/"
+street: Forchheimer Straße
+housenumber: "38"
+phone: +49 9191 9757711
+opening_hours: Mo-Sa 06:00-19:00; Su 07:00-18:00
+website: https://www.brot-haus.de/

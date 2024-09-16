@@ -4,8 +4,8 @@ latitude: 49.45992
 longitude: 11.07302
 postcode: "90408"
 city: Nürnberg
-street: "Bucher Straße"
-housenumber: 16
-phone: "+49-911-66489412"
-opening_hours: "Tu-Fr 10:30-19:00, Sa 10:00-15:00"
-website: "https://www.mao-style.de/"
+street: Bucher Straße
+housenumber: "16"
+phone: +49-911-66489412
+opening_hours: Tu-Fr 10:30-19:00, Sa 10:00-15:00
+website: https://www.mao-style.de/

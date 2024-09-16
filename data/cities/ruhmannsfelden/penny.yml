@@ -1,11 +1,11 @@
 id: 1037360525
-type: way
+type: node
 latitude: 48.97668
 longitude: 12.9818
 postcode: "94239"
 city: Ruhmannsfelden
-street: "Schulstraße"
-housenumber: 71
+street: Schulstraße
+housenumber: "71"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 2340033715
 type: node
-latitude: 48.83253
-longitude: 12.96061
+latitude: 48.83255
+longitude: 12.96063
 postcode: "94469"
 city: Deggendorf
-street: "Veilchengasse"
-housenumber: 9
+street: Veilchengasse
+housenumber: "9"
 phone: "+499912503266"
-opening_hours: "Mo-Fr 06:30-18:00; Sa 07:00-16:00"
-website: "https://www.brotzeitservice.eu/"
+opening_hours: Mo-Fr 06:30-18:00; Sa 07:00-16:00
+website: https://www.brotzeitservice.eu/

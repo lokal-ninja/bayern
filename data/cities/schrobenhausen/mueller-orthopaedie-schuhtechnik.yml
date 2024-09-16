@@ -4,8 +4,8 @@ latitude: 48.55985
 longitude: 11.26462
 postcode: "86529"
 city: Schrobenhausen
-street: "Lenbachstraße"
-housenumber: 62
-phone: "+49 8252 5592"
-opening_hours: "Mo-Fr 09:00-12:30,13:30-18:00; Sa,Su,PH off"
-website: "https://www.ortho-mueller.de"
+street: Lenbachstraße
+housenumber: "62"
+phone: +49 8252 5592
+opening_hours: Mo-Fr 09:00-12:30,13:30-18:00; Sa,Su,PH off
+website: https://www.ortho-mueller.de

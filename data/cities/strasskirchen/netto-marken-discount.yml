@@ -1,11 +1,11 @@
 id: 44188290
-type: way
+type: node
 latitude: 48.83212
 longitude: 12.71884
 postcode: "94342"
 city: Straßkirchen
-street: "Straubinger Straße"
-housenumber: 15
+street: Straubinger Straße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

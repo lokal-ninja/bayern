@@ -1,11 +1,11 @@
 id: 138613752
-type: way
+type: node
 latitude: 49.45212
 longitude: 11.11149
 postcode: "90482"
 city: Nürnberg
-street: "Ostendstraße"
-housenumber: 58
+street: Ostendstraße
+housenumber: "58"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

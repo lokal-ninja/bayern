@@ -4,8 +4,8 @@ latitude: 48.08823
 longitude: 11.47942
 postcode: "81475"
 city: München
-street: "Steinkirchner Straße"
-housenumber: 28
-phone: "+49 89 7551366"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-13:00; Su,PH off"
-website: "http://www.maxhof-optik.de/"
+street: Steinkirchner Straße
+housenumber: "28"
+phone: +49 89 7551366
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-13:00; Su,PH off
+website: http://www.maxhof-optik.de/

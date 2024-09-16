@@ -1,11 +1,11 @@
 id: 33138799
-type: way
+type: node
 latitude: 47.80283
 longitude: 10.92145
 postcode: "86971"
 city: Peiting
-street: "Schongauer Straße"
-housenumber: 48
+street: Schongauer Straße
+housenumber: "48"
 phone: ""
 opening_hours: ""
 website: ""

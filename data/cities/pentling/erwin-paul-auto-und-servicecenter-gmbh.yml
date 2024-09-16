@@ -1,11 +1,11 @@
 id: 836918475
-type: way
+type: node
 latitude: 48.96597
 longitude: 12.052
 postcode: "93080"
 city: Pentling
-street: "Heinrichstraße"
-housenumber: 70
-phone: "+49 9405 963630"
-opening_hours: "Mo-Th 08:00-18:00; Fr 08:00-16:00"
-website: "https://www.erwinpaulgmbh.de/"
+street: Heinrichstraße
+housenumber: "70"
+phone: +49 9405 963630
+opening_hours: Mo-Th 08:00-18:00; Fr 08:00-16:00
+website: https://www.erwinpaulgmbh.de/

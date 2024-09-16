@@ -4,8 +4,8 @@ latitude: 49.45345
 longitude: 11.07759
 postcode: "90403"
 city: Nürnberg
-street: "Hauptmarkt"
-housenumber: 10
+street: Hauptmarkt
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 07:30-14:00"
+opening_hours: Mo-Fr 08:00-18:00; Sa 07:30-14:00
 website: ""

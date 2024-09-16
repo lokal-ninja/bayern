@@ -4,8 +4,8 @@ latitude: 49.56509
 longitude: 10.96287
 postcode: "91056"
 city: Erlangen
-street: "Albertusstraße"
-housenumber: 9
+street: Albertusstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Tu-Fr 11:00-18:00, Sa 10:00-13:00"
+opening_hours: Tu-Fr 11:00-18:00, Sa 10:00-13:00
 website: ""

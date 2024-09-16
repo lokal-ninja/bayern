@@ -1,11 +1,11 @@
 id: 91565551
-type: way
+type: node
 latitude: 48.885
 longitude: 12.61191
 postcode: "94315"
 city: Straubing
-street: "Ittlinger Straße"
-housenumber: 193
+street: Ittlinger Straße
+housenumber: "193"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:30-16:00"
-website: "https://www.atu.de/"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:30-16:00
+website: https://www.atu.de/

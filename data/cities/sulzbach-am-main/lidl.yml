@@ -1,11 +1,11 @@
 id: 189264521
-type: way
+type: node
 latitude: 49.91906
 longitude: 9.14906
 postcode: "63834"
 city: Sulzbach am Main
-street: "Bahnhofstraße"
-housenumber: 78
+street: Bahnhofstraße
+housenumber: "78"
 phone: ""
-opening_hours: "07:00-22:00"
+opening_hours: 07:00-22:00
 website: ""

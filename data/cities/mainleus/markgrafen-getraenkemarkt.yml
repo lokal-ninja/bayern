@@ -1,11 +1,11 @@
 id: 745411541
-type: way
+type: node
 latitude: 50.10012
 longitude: 11.39223
 postcode: "95336"
 city: Mainleus
-street: "Tiefe Äcker"
-housenumber: 3
+street: Tiefe Äcker
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-14:00"
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:30-14:00
 website: ""

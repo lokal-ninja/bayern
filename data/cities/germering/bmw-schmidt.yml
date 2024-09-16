@@ -1,11 +1,11 @@
 id: 37545843
-type: way
+type: node
 latitude: 48.13158
 longitude: 11.3731
 postcode: "82110"
 city: Germering
-street: "Industriestraße"
-housenumber: 3
+street: Industriestraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://www.bmw-schmidt.com/"
+website: https://www.bmw-schmidt.com/

@@ -1,11 +1,11 @@
 id: 272783825
-type: way
+type: node
 latitude: 49.22855
 longitude: 12.67432
 postcode: "93413"
 city: Cham
-street: "Waldmünchener Straße"
-housenumber: 2
-phone: "+49 9971 6998"
+street: Waldmünchener Straße
+housenumber: "2"
+phone: +49 9971 6998
 opening_hours: ""
-website: "https://www.kuechenstudio-lankes.de/"
+website: https://www.kuechenstudio-lankes.de/

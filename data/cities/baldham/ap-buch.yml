@@ -4,8 +4,8 @@ latitude: 48.0984
 longitude: 11.78709
 postcode: "85598"
 city: Baldham
-street: "Neue Poststraße"
-housenumber: 13
-phone: "+49 8106 369414"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:30-13:00"
-website: "https://ap-buch.buchkatalog.de/"
+street: Neue Poststraße
+housenumber: "13"
+phone: +49 8106 369414
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:30-13:00
+website: https://ap-buch.buchkatalog.de/

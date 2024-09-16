@@ -4,8 +4,8 @@ latitude: 48.1157
 longitude: 11.5767
 postcode: "81539"
 city: München
-street: "Martin-Luther-Straße"
-housenumber: 2
+street: Martin-Luther-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Tu-Fr 10:00-18:00; Sa 10:00-14:00"
-website: "https://www.giesinger-braeu.de/"
+opening_hours: Tu-Fr 10:00-18:00; Sa 10:00-14:00
+website: https://www.giesinger-braeu.de/

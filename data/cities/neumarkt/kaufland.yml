@@ -1,11 +1,11 @@
 id: 25929982
-type: way
+type: node
 latitude: 49.29057
 longitude: 11.45842
 postcode: "92318"
 city: Neumarkt
-street: "Altdorfer Straße"
-housenumber: 63
+street: Altdorfer Straße
+housenumber: "63"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 69410312
-type: way
+type: node
 latitude: 48.41638
 longitude: 11.47742
 postcode: "85238"
 city: Petershausen
-street: "Marbacher Straße"
-housenumber: 31
+street: Marbacher Straße
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-18:00"
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-18:00
 website: ""

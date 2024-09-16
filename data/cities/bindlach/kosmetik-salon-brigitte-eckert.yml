@@ -4,8 +4,8 @@ latitude: 49.9759
 longitude: 11.59986
 postcode: "95463"
 city: Bindlach
-street: "Erlenstraße"
-housenumber: 1
+street: Erlenstraße
+housenumber: "1"
 phone: ""
-opening_hours: "nach Vereinbarung"
+opening_hours: '"nach Vereinbarung"'
 website: ""

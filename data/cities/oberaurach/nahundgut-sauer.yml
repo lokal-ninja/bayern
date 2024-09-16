@@ -1,11 +1,11 @@
 id: 926398800
-type: way
+type: node
 latitude: 49.9262
 longitude: 10.65856
 postcode: "97514"
 city: Oberaurach
-street: "Conrad-Vetter-Straße"
-housenumber: 12
+street: Conrad-Vetter-Straße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

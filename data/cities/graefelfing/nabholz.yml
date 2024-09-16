@@ -1,11 +1,11 @@
 id: 204203619
-type: way
+type: node
 latitude: 48.12174
 longitude: 11.4514
 postcode: "82166"
 city: Gräfelfing
-street: "Lochhamer Schlag"
-housenumber: 15
+street: Lochhamer Schlag
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

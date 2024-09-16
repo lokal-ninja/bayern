@@ -1,11 +1,11 @@
 id: 1258107412
-type: way
+type: node
 latitude: 50.14821
 longitude: 10.01755
 postcode: "97717"
 city: Euerdorf
-street: "Im Bodes"
-housenumber: 1
+street: Im Bodes
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

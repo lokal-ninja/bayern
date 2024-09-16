@@ -4,8 +4,8 @@ latitude: 48.53824
 longitude: 12.15445
 postcode: "84028"
 city: Landshut
-street: "Neustadt"
-housenumber: 436
-phone: "+49 1758525058"
-opening_hours: "Mo-Fr 09:00-18:00, SA 10:00-16:00"
+street: Neustadt
+housenumber: "436"
+phone: +49 1758525058
+opening_hours: Mo-Fr 09:00-18:00, SA 10:00-16:00
 website: ""

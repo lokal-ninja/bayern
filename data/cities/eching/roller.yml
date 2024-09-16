@@ -1,11 +1,11 @@
 id: 17983673
-type: way
+type: node
 latitude: 48.30562
 longitude: 11.63505
 postcode: "85386"
 city: Eching
-street: "Liebigstraße"
-housenumber: 4
-phone: "+49 8165 92470"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 09:30-20:00; PH off"
-website: "https://www.roller.de/"
+street: Liebigstraße
+housenumber: "4"
+phone: +49 8165 92470
+opening_hours: Mo-Fr 10:00-20:00; Sa 09:30-20:00; PH off
+website: https://www.roller.de/

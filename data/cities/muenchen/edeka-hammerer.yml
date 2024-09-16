@@ -4,8 +4,8 @@ latitude: 48.14087
 longitude: 11.51894
 postcode: "80687"
 city: München
-street: "Elsenheimerstraße"
-housenumber: 1
+street: Elsenheimerstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
+opening_hours: Mo-Sa 07:00-20:00; PH off
 website: ""

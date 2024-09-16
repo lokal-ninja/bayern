@@ -1,11 +1,11 @@
 id: 161814072
-type: way
+type: node
 latitude: 47.83306
 longitude: 12.9983
 postcode: "5020"
 city: Salzburg
-street: "Münchner Bundesstraße"
-housenumber: 137
+street: Münchner Bundesstraße
+housenumber: "137"
 phone: ""
 opening_hours: ""
 website: ""

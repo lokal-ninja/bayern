@@ -1,11 +1,11 @@
 id: 241097476
-type: way
+type: node
 latitude: 48.33409
 longitude: 11.73265
 postcode: "85399"
 city: Hallbergmoos
-street: "Lindberghstraße"
-housenumber: 7
+street: Lindberghstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

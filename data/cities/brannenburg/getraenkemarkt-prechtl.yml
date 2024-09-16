@@ -1,11 +1,11 @@
 id: 34692961
-type: way
+type: node
 latitude: 47.73664
 longitude: 12.11248
 postcode: "83098"
 city: Brannenburg
-street: "Nußdorfer Straße"
-housenumber: 33
+street: Nußdorfer Straße
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
+opening_hours: Mo-Sa 08:00-20:00; PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 195996805
-type: way
+type: node
 latitude: 48.49081
 longitude: 10.91197
 postcode: "86508"
 city: Rehling
-street: "Unteracher Straße"
-housenumber: 1
+street: Unteracher Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

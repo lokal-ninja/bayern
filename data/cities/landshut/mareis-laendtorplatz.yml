@@ -4,8 +4,8 @@ latitude: 48.53512
 longitude: 12.14932
 postcode: "84028"
 city: Landshut
-street: "Ländtorplatz"
-housenumber: 1
+street: Ländtorplatz
+housenumber: "1"
 phone: "+4987143046104"
 opening_hours: ""
-website: "https://mareis.com"
+website: https://mareis.com

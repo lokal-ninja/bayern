@@ -4,8 +4,8 @@ latitude: 47.86368
 longitude: 12.00951
 postcode: "83043"
 city: Bad Aibling
-street: "Marienplatz"
-housenumber: 11
-phone: "+49 8061 4318"
-opening_hours: "Mo-Sa 10:00-13:00, Mo-Fr 14:00-18:00; Su,PH off"
-website: "https://www.szenario-trends.de/"
+street: Marienplatz
+housenumber: "11"
+phone: +49 8061 4318
+opening_hours: Mo-Sa 10:00-13:00, Mo-Fr 14:00-18:00; Su,PH off
+website: https://www.szenario-trends.de/

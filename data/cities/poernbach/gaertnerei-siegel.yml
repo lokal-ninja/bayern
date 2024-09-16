@@ -1,11 +1,11 @@
 id: 107542208
-type: way
+type: node
 latitude: 48.61563
 longitude: 11.45836
 postcode: "85309"
 city: Pörnbach
-street: "Blumenstraße"
-housenumber: 8
+street: Blumenstraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

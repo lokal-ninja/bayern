@@ -4,8 +4,8 @@ latitude: 48.71264
 longitude: 11.40416
 postcode: "85051"
 city: Ingolstadt
-street: "Wallmeisterstraße"
-housenumber: 2
-phone: "+49 8450 91499"
-opening_hours: "Mo 12:00-20:00; Tu-Fr 08:00-20:00; Sa 08:00-14:00"
-website: "http://www.hair-beauty-rapunzel.de"
+street: Wallmeisterstraße
+housenumber: "2"
+phone: +49 8450 91499
+opening_hours: Mo 12:00-20:00; Tu-Fr 08:00-20:00; Sa 08:00-14:00
+website: http://www.hair-beauty-rapunzel.de

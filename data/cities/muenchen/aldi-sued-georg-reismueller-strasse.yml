@@ -1,11 +1,11 @@
 id: 35020314
-type: way
+type: node
 latitude: 48.19328
 longitude: 11.46607
 postcode: "80999"
 city: München
-street: "Georg-Reismüller-Straße"
-housenumber: 16
+street: Georg-Reismüller-Straße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
-website: "https://filialen.aldi-sued.de/bayern/muenchen/georg-reismueller-strasse-16"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
+website: https://filialen.aldi-sued.de/bayern/muenchen/georg-reismueller-strasse-16

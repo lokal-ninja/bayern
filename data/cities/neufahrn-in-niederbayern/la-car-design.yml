@@ -1,11 +1,11 @@
 id: 1104987329
-type: way
+type: node
 latitude: 48.7189
 longitude: 12.18831
 postcode: "84088"
 city: Neufahrn in Niederbayern
-street: "Benzstraße"
+street: Benzstraße
 housenumber: 3b
-phone: "+49 176 433 433 01"
+phone: +49 176 433 433 01
 opening_hours: ""
-website: "https://www.la-cardesign.de"
+website: https://www.la-cardesign.de

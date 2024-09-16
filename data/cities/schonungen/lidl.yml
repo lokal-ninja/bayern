@@ -1,11 +1,11 @@
 id: 31857577
-type: way
+type: node
 latitude: 50.0437
 longitude: 10.31122
 postcode: "97453"
 city: Schonungen
-street: "Sandäcker"
-housenumber: 1
+street: Sandäcker
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.lidl.de/f/schonungen/sandaecker-1.html"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.lidl.de/f/schonungen/sandaecker-1.html

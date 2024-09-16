@@ -4,8 +4,8 @@ latitude: 48.13611
 longitude: 11.56982
 postcode: "80331"
 city: München
-street: "Hackenstraße"
-housenumber: 7
+street: Hackenstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 10:30-18:00"
+opening_hours: Mo-Sa 10:30-18:00
 website: ""

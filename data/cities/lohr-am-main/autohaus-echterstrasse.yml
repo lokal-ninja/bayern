@@ -1,11 +1,11 @@
 id: 33484258
-type: way
+type: node
 latitude: 49.98244
 longitude: 9.57635
 postcode: "97816"
 city: Lohr am Main
-street: "Bürgermeister-Dr.-Nebel-Straße"
-housenumber: 16
-phone: "+49 9352 87620"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 08:00-12:00"
+street: Bürgermeister-Dr.-Nebel-Straße
+housenumber: "16"
+phone: +49 9352 87620
+opening_hours: Mo-Fr 09:00-18:30; Sa 08:00-12:00
 website: ""

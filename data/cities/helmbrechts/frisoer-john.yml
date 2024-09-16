@@ -4,8 +4,8 @@ latitude: 50.24425
 longitude: 11.72002
 postcode: "95233"
 city: Helmbrechts
-street: "Ludwig-Thoma-Straße"
-housenumber: 8
+street: Ludwig-Thoma-Straße
+housenumber: "8"
 phone: ""
-opening_hours: "Tu-Th 08:00-18:00;Fr 08:00-19:00;Sa 07:00-13:00;Su-Mo off"
+opening_hours: Tu-Th 08:00-18:00;Fr 08:00-19:00;Sa 07:00-13:00;Su-Mo off
 website: ""

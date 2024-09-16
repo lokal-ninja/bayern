@@ -1,11 +1,11 @@
 id: 690172548
-type: way
+type: node
 latitude: 49.70402
 longitude: 10.26122
 postcode: "97346"
 city: Iphofen
-street: "Marktplatz"
-housenumber: 17
+street: Marktplatz
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

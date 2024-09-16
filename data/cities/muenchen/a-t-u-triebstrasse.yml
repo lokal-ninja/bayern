@@ -1,11 +1,11 @@
 id: 30067303
-type: way
+type: node
 latitude: 48.18707
 longitude: 11.53625
 postcode: "80993"
 city: München
-street: "Triebstraße"
-housenumber: 39
+street: Triebstraße
+housenumber: "39"
 phone: ""
 opening_hours: ""
 website: ""

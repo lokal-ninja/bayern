@@ -1,11 +1,11 @@
 id: 107425737
-type: way
+type: node
 latitude: 47.71414
 longitude: 10.31694
 postcode: "87435"
 city: Kempten (Allgäu)
-street: "Calgeerstraße"
-housenumber: 1
+street: Calgeerstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "http://www.allmobil.de"
+website: http://www.allmobil.de

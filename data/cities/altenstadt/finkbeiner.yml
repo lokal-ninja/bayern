@@ -1,11 +1,11 @@
 id: 240294977
-type: way
+type: node
 latitude: 48.16048
 longitude: 10.11401
 postcode: "89281"
 city: Altenstadt
-street: "Memminger Straße"
-housenumber: 58
+street: Memminger Straße
+housenumber: "58"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00;Sa 08:00-18:00"
+opening_hours: Mo-Fr 08:00-19:00;Sa 08:00-18:00
 website: ""

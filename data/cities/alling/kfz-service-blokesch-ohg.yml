@@ -1,11 +1,11 @@
 id: 169733585
-type: way
+type: node
 latitude: 48.1502
 longitude: 11.25841
 postcode: "82239"
 city: Alling
-street: "Angerstraße"
-housenumber: 17
+street: Angerstraße
+housenumber: "17"
 phone: ""
 opening_hours: ""
-website: "http://www.kfz-blokesch.de/"
+website: http://www.kfz-blokesch.de/

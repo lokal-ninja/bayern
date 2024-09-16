@@ -4,8 +4,8 @@ latitude: 48.18741
 longitude: 11.59028
 postcode: "80807"
 city: München
-street: "Frankfurter Ring"
-housenumber: 166
+street: Frankfurter Ring
+housenumber: "166"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00; Sa 09:30-13:30; Su 10:00-16:00"
+opening_hours: Mo-Fr 07:30-18:00; Sa 09:30-13:30; Su 10:00-16:00
 website: ""

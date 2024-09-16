@@ -4,8 +4,8 @@ latitude: 49.30196
 longitude: 10.57302
 postcode: "91522"
 city: Ansbach
-street: "Kannenstraße"
-housenumber: 14
+street: Kannenstraße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-13:30"
-website: "www.vomfass.de/ansbach"
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-13:30
+website: www.vomfass.de/ansbach

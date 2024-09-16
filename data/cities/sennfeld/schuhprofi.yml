@@ -1,11 +1,11 @@
 id: 87298851
-type: way
+type: node
 latitude: 50.0361
 longitude: 10.24867
 postcode: "97526"
 city: Sennfeld
-street: "Gutenbergstraße"
-housenumber: 8
+street: Gutenbergstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 09:30-19:00;Sa 09:30-17:00;Su off"
+opening_hours: Mo-Fr 09:30-19:00;Sa 09:30-17:00;Su off
 website: ""

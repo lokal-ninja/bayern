@@ -4,8 +4,8 @@ latitude: 47.93114
 longitude: 11.50118
 postcode: "82544"
 city: Egling
-street: "Gewerbering"
-housenumber: 20
+street: Gewerbering
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de

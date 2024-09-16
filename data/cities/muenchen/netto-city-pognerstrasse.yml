@@ -4,8 +4,8 @@ latitude: 48.10156
 longitude: 11.54591
 postcode: "81379"
 city: München
-street: "Pognerstraße"
-housenumber: 40
+street: Pognerstraße
+housenumber: "40"
 phone: "+498972430330"
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
-website: "https://www.netto-online.de/"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
+website: https://www.netto-online.de/

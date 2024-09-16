@@ -1,11 +1,11 @@
 id: 121206305
-type: way
+type: node
 latitude: 47.79292
 longitude: 11.68433
 postcode: "83666"
 city: Waakirchen
-street: "Alex-Gugler-Straße"
-housenumber: 11
+street: Alex-Gugler-Straße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

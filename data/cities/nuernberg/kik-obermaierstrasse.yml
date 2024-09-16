@@ -1,11 +1,11 @@
 id: 68741797
-type: way
+type: node
 latitude: 49.47034
 longitude: 11.07224
 postcode: "90408"
 city: Nürnberg
-street: "Obermaierstraße"
-housenumber: 1
+street: Obermaierstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

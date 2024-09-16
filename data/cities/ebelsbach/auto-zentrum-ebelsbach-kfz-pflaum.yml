@@ -1,11 +1,11 @@
 id: 425698381
-type: way
+type: node
 latitude: 49.98625
 longitude: 10.66573
 postcode: "97500"
 city: Ebelsbach
-street: "An der Lohwiese"
-housenumber: 16
+street: An der Lohwiese
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

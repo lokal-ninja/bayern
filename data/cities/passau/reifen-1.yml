@@ -1,11 +1,11 @@
 id: 206604432
-type: way
+type: node
 latitude: 48.57511
 longitude: 13.40502
 postcode: "94036"
 city: Passau
-street: "Holzmannstraße"
-housenumber: 33
+street: Holzmannstraße
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

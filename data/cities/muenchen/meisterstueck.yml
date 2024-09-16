@@ -4,8 +4,8 @@ latitude: 48.11751
 longitude: 11.58398
 postcode: "81541"
 city: München
-street: "Watzmannstraße"
-housenumber: 10
+street: Watzmannstraße
+housenumber: "10"
 phone: ""
-opening_hours: "Nach Vereinbarung"
-website: "https://meisterstueck-muenchen.de"
+opening_hours: '"Nach Vereinbarung"'
+website: https://meisterstueck-muenchen.de

@@ -4,8 +4,8 @@ latitude: 48.00504
 longitude: 11.4116
 postcode: "82319"
 city: Starnberg
-street: "Neufahrner Straße"
-housenumber: 6
-phone: "+49 8151 9711781"
-opening_hours: "Mo - Fr 09:00 - 18:30 Sa - 15:00"
-website: "https://www.starnberger-blumengarten.de/"
+street: Neufahrner Straße
+housenumber: "6"
+phone: +49 8151 9711781
+opening_hours: Mo - Fr 09:00 - 18:30 Sa - 15:00
+website: https://www.starnberger-blumengarten.de/

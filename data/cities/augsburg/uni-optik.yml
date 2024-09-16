@@ -4,8 +4,8 @@ latitude: 48.3339
 longitude: 10.90519
 postcode: "86159"
 city: Augsburg
-street: "Hermann-Köhl-Straße"
-housenumber: 9
-phone: "+49 821 574772"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:30-13:00"
-website: "https://www.unioptik.de/"
+street: Hermann-Köhl-Straße
+housenumber: "9"
+phone: +49 821 574772
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:30-13:00
+website: https://www.unioptik.de/

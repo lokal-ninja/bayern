@@ -1,11 +1,11 @@
 id: 148890063
-type: way
+type: node
 latitude: 49.96132
 longitude: 9.24597
 postcode: "63856"
 city: Bessenbach
-street: "Dorfstraße"
-housenumber: 2
-phone: "+49 6095 591"
+street: Dorfstraße
+housenumber: "2"
+phone: +49 6095 591
 opening_hours: ""
 website: ""

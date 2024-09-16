@@ -1,11 +1,11 @@
 id: 225830250
-type: way
+type: node
 latitude: 48.06022
 longitude: 12.1744
 postcode: "83512"
 city: Wasserburg am Inn
-street: "Staudhamer Feld"
-housenumber: 5
+street: Staudhamer Feld
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.bmw-wagner.de/"
+website: https://www.bmw-wagner.de/

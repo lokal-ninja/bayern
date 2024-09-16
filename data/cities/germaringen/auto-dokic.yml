@@ -1,11 +1,11 @@
 id: 218285968
-type: way
+type: node
 latitude: 47.92329
 longitude: 10.65751
 postcode: "87656"
 city: Germaringen
-street: "Rudolf-Diesel-Straße"
-housenumber: 12
+street: Rudolf-Diesel-Straße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

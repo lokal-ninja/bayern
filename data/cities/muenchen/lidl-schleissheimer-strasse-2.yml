@@ -4,8 +4,8 @@ latitude: 48.20728
 longitude: 11.56394
 postcode: "80935"
 city: München
-street: "Schleißheimer Straße"
-housenumber: 468
+street: Schleißheimer Straße
+housenumber: "468"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.lidl.de/f/muenchen/schleissheimer-strasse-468.html"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.lidl.de/f/muenchen/schleissheimer-strasse-468.html

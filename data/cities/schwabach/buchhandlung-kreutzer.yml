@@ -4,8 +4,8 @@ latitude: 49.32913
 longitude: 11.02022
 postcode: "91126"
 city: Schwabach
-street: "Königsplatz"
-housenumber: 14
-phone: "+49 9122 3288"
-opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-13:00, So,PH off"
-website: "http://www.buecher-kreutzer.com/"
+street: Königsplatz
+housenumber: "14"
+phone: +49 9122 3288
+opening_hours: Mo-Fr 09:00-18:00, Sa 09:00-13:00, So,PH off
+website: http://www.buecher-kreutzer.com/

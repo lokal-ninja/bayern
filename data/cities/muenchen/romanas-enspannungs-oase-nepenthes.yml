@@ -4,8 +4,8 @@ latitude: 48.19619
 longitude: 11.5516
 postcode: "80935"
 city: München
-street: "Geißblattstraße"
-housenumber: 4
+street: Geißblattstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Termine nach Vereinbarung"
+opening_hours: '"Termine nach Vereinbarung"'
 website: ""

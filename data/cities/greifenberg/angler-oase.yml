@@ -1,11 +1,11 @@
 id: 304194183
-type: way
+type: node
 latitude: 48.07091
 longitude: 11.08461
 postcode: "86926"
 city: Greifenberg
-street: "Hauptstraße"
-housenumber: 33
+street: Hauptstraße
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

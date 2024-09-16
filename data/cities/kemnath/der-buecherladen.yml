@@ -4,8 +4,9 @@ latitude: 49.87087
 longitude: 11.89014
 postcode: "95478"
 city: Kemnath
-street: "Stadtplatz"
-housenumber: 45
+street: Stadtplatz
+housenumber: "45"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 09:00-12:30,14:00-18:00; We 09:00-13:00; Sa 09:00-12:30; Su,PH off"
-website: "https://derbuecherladen-online.de/"
+opening_hours: Mo,Tu,Th,Fr 09:00-12:30,14:00-18:00; We 09:00-13:00; Sa 09:00-12:30;
+    Su,PH off
+website: https://derbuecherladen-online.de/

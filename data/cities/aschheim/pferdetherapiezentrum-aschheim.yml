@@ -1,11 +1,11 @@
 id: 29143389
-type: way
+type: node
 latitude: 48.18052
 longitude: 11.71916
 postcode: "85609"
 city: Aschheim
-street: "Weidachstraße"
-housenumber: 77
+street: Weidachstraße
+housenumber: "77"
 phone: ""
 opening_hours: ""
-website: "https://www.pferdetherapiezentrum-aschheim.de/"
+website: https://www.pferdetherapiezentrum-aschheim.de/

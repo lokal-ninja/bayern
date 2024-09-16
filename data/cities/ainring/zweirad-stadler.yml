@@ -1,11 +1,11 @@
 id: 285561833
-type: way
+type: node
 latitude: 47.79248
 longitude: 12.94461
 postcode: "83404"
 city: Ainring
-street: "Sägewerkstraße"
-housenumber: 4
-phone: "+498654 4880 0"
-opening_hours: "Mo-Fr 09:30-19:30; Sa 09:00-18:00"
-website: "https://zweirad-stadler.de/"
+street: Sägewerkstraße
+housenumber: "4"
+phone: +498654 4880 0
+opening_hours: Mo-Fr 09:30-19:30; Sa 09:00-18:00
+website: https://zweirad-stadler.de/

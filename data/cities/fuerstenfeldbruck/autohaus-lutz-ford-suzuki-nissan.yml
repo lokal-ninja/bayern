@@ -4,8 +4,8 @@ latitude: 48.19376
 longitude: 11.24975
 postcode: "82256"
 city: Fürstenfeldbruck
-street: "Hasenheide"
-housenumber: 2
-phone: "+49 81 41 4090 0"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://autowelt-lutz.de/"
+street: Hasenheide
+housenumber: "2"
+phone: +49 81 41 4090 0
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://autowelt-lutz.de/

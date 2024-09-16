@@ -4,8 +4,8 @@ latitude: 48.11906
 longitude: 11.54855
 postcode: "81371"
 city: München
-street: "Implerstraße"
-housenumber: 49
+street: Implerstraße
+housenumber: "49"
 phone: ""
-opening_hours: "Mo-Fr 06:30-17:00; Sa 07:00-17:00; Su 07:00-17:00"
-website: "https://www.baeckerei-wimmer.de/"
+opening_hours: Mo-Fr 06:30-17:00; Sa 07:00-17:00; Su 07:00-17:00
+website: https://www.baeckerei-wimmer.de/

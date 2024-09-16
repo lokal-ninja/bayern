@@ -1,11 +1,11 @@
 id: 120595525
-type: way
+type: node
 latitude: 48.48481
 longitude: 11.13939
 postcode: "86551"
 city: Aichach
-street: "Hochstattweg"
-housenumber: 3
+street: Hochstattweg
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

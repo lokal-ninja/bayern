@@ -1,11 +1,11 @@
 id: 1082384275
-type: way
+type: node
 latitude: 50.10444
 longitude: 11.43535
 postcode: "95326"
 city: Kulmbach
-street: "Lichtenfelser Straße"
-housenumber: 47
+street: Lichtenfelser Straße
+housenumber: "47"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH,Su off"
-website: "https://filialen.aldi-sued.de/bayern/kulmbach/lichtenfelser-strasse-47"
+opening_hours: Mo-Sa 08:00-20:00; PH,Su off
+website: https://filialen.aldi-sued.de/bayern/kulmbach/lichtenfelser-strasse-47

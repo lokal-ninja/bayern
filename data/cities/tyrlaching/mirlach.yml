@@ -1,11 +1,11 @@
 id: 120910964
-type: way
+type: node
 latitude: 48.06087
 longitude: 12.66802
 postcode: "84558"
 city: Tyrlaching
-street: "Rupertistraße"
-housenumber: 18
+street: Rupertistraße
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

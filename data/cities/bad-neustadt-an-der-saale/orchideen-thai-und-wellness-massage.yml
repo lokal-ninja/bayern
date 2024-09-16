@@ -4,8 +4,8 @@ latitude: 50.32373
 longitude: 10.22058
 postcode: "97616"
 city: Bad Neustadt an der Saale
-street: "Otto-Hahn-Straße"
-housenumber: 55
+street: Otto-Hahn-Straße
+housenumber: "55"
 phone: ""
-opening_hours: "Tu-Sa 10:00-19:00 Nur nach telefonischer Vereinbarung"
+opening_hours: Tu-Sa 10:00-19:00 "Nur nach telefonischer Vereinbarung"
 website: ""

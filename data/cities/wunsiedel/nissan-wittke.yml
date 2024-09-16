@@ -1,11 +1,11 @@
 id: 544115643
-type: way
+type: node
 latitude: 50.03302
 longitude: 12.003
 postcode: "95632"
 city: Wunsiedel
-street: "Luisenburgstraße"
-housenumber: 18
+street: Luisenburgstraße
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

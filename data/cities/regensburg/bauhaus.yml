@@ -1,11 +1,11 @@
 id: 31410869
-type: way
+type: node
 latitude: 48.99477
 longitude: 12.11634
 postcode: "93053"
 city: Regensburg
-street: "Langobardenstraße"
-housenumber: 1
+street: Langobardenstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

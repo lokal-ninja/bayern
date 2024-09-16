@@ -1,11 +1,11 @@
 id: 41768995
-type: way
+type: node
 latitude: 49.97621
 longitude: 11.6156
 postcode: "95463"
 city: Bindlach
-street: "Lehengraben"
-housenumber: 20
-phone: "+49 9208 1400"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00; PH off"
-website: "https://www.getraenkehaus.com/"
+street: Lehengraben
+housenumber: "20"
+phone: +49 9208 1400
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00; PH off
+website: https://www.getraenkehaus.com/

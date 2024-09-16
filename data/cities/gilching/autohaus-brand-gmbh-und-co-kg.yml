@@ -1,11 +1,11 @@
 id: 85943854
-type: way
+type: node
 latitude: 48.11042
 longitude: 11.28689
 postcode: "82205"
 city: Gilching
-street: "Lilienthalstraße"
-housenumber: 9
+street: Lilienthalstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
-website: "https://www.autohaus-brand-gilching.de/"
+website: https://www.autohaus-brand-gilching.de/

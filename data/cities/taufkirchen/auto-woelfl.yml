@@ -1,11 +1,11 @@
 id: 38810273
-type: way
+type: node
 latitude: 48.03267
 longitude: 11.61076
 postcode: "82024"
 city: Taufkirchen
-street: "Wettersteinstraße"
-housenumber: 14
+street: Wettersteinstraße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Th 07:30-18:00; Fr 07:30-16:00"
-website: "https://www.auto-woelfl.de/"
+opening_hours: Mo-Th 07:30-18:00; Fr 07:30-16:00
+website: https://www.auto-woelfl.de/

@@ -1,11 +1,11 @@
 id: 153223644
-type: way
+type: node
 latitude: 48.57519
 longitude: 13.46784
 postcode: "94032"
 city: Passau
-street: "Höllgasse"
-housenumber: 3
+street: Höllgasse
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

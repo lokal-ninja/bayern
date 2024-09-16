@@ -1,11 +1,11 @@
 id: 150661998
-type: way
+type: node
 latitude: 47.85085
 longitude: 12.14024
 postcode: "83022"
 city: Rosenheim
-street: "Königsseestraße"
-housenumber: 26
+street: Königsseestraße
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Fr 07:00-17:00; Sa 08:00-12:00; Su, PH off"
+opening_hours: Mo-Fr 07:00-17:00; Sa 08:00-12:00; Su, PH off
 website: ""

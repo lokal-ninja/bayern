@@ -1,11 +1,11 @@
 id: 44108836
-type: way
+type: node
 latitude: 49.41095
 longitude: 11.1389
 postcode: "90471"
 city: Nürnberg
-street: "Lübener Straße"
-housenumber: 18
+street: Lübener Straße
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Sa 07:30-20:00"
-website: "https://filialen.aldi-sued.de/bayern/nuernberg/luebener-strasse-18"
+opening_hours: Mo-Sa 07:30-20:00
+website: https://filialen.aldi-sued.de/bayern/nuernberg/luebener-strasse-18

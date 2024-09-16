@@ -4,8 +4,8 @@ latitude: 48.12317
 longitude: 11.57853
 postcode: "81541"
 city: München
-street: "Entenbachstraße"
-housenumber: 25
+street: Entenbachstraße
+housenumber: "25"
 phone: ""
-opening_hours: "Th,Fr 10:00-19:00; Sa 10:00-16:00"
-website: "https://fidelio-mobil.de"
+opening_hours: Th,Fr 10:00-19:00; Sa 10:00-16:00
+website: https://fidelio-mobil.de

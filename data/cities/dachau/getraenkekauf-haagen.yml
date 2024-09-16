@@ -4,8 +4,8 @@ latitude: 48.24267
 longitude: 11.45367
 postcode: "85221"
 city: Dachau
-street: "Aggensteinstraße"
-housenumber: 2
-phone: "+49 8131 52228"
-opening_hours: "Mo-Fr 08:30-18:30; Sa 08:00-15:00"
-website: "https://getraenkekauf-haagen.de/"
+street: Aggensteinstraße
+housenumber: "2"
+phone: +49 8131 52228
+opening_hours: Mo-Fr 08:30-18:30; Sa 08:00-15:00
+website: https://getraenkekauf-haagen.de/

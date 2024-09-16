@@ -1,11 +1,11 @@
 id: 131170930
-type: way
+type: node
 latitude: 48.75414
 longitude: 11.42953
 postcode: "85051"
 city: Ingolstadt
-street: "Haunwöhrer Straße"
-housenumber: 6
+street: Haunwöhrer Straße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH closed"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH closed
 website: ""

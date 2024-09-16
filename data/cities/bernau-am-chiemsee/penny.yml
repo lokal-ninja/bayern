@@ -1,11 +1,11 @@
 id: 123021104
-type: way
+type: node
 latitude: 47.80688
 longitude: 12.37797
 postcode: "83233"
 city: Bernau am Chiemsee
-street: "Rottauer Straße"
-housenumber: 20
+street: Rottauer Straße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

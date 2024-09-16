@@ -1,11 +1,11 @@
 id: 30730667
-type: way
+type: node
 latitude: 48.7436
 longitude: 11.4729
 postcode: "85053"
 city: Ingolstadt
-street: "Manchinger Straße"
-housenumber: 140
+street: Manchinger Straße
+housenumber: "140"
 phone: ""
 opening_hours: ""
-website: "https://jysk.de/filialen/ingolstadt/manchinger-strasse"
+website: https://jysk.de/filialen/ingolstadt/manchinger-strasse

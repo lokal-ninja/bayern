@@ -1,11 +1,11 @@
 id: 303084873
-type: way
+type: node
 latitude: 49.22407
 longitude: 12.67381
 postcode: "93413"
 city: Cham
-street: "Further Straße"
-housenumber: 18
-phone: "+49-9971-996707-0"
+street: Further Straße
+housenumber: "18"
+phone: +49-9971-996707-0
 opening_hours: ""
-website: "http://bruckbauer.de/hp435/Kunden-Center-Cham.htm"
+website: http://bruckbauer.de/hp435/Kunden-Center-Cham.htm

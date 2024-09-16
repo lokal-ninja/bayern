@@ -4,8 +4,8 @@ latitude: 48.36324
 longitude: 10.90262
 postcode: "86150"
 city: Augsburg
-street: "Bäckergasse"
-housenumber: 15
+street: Bäckergasse
+housenumber: "15"
 phone: ""
-opening_hours: "nach Vereinbarung"
+opening_hours: '"nach Vereinbarung"'
 website: ""

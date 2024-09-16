@@ -1,11 +1,11 @@
 id: 802142938
-type: way
+type: node
 latitude: 48.32864
 longitude: 11.73576
 postcode: "85399"
 city: Hallbergmoos
-street: "Fokkerstraße"
-housenumber: 7
-phone: "+49 811 12447942"
-opening_hours: "Tu,Th,Fr 10:00-12:30; Tu-Fr 13:30-18:00; Sa 10:00-14:00; Su,Mo off"
+street: Fokkerstraße
+housenumber: "7"
+phone: +49 811 12447942
+opening_hours: Tu,Th,Fr 10:00-12:30; Tu-Fr 13:30-18:00; Sa 10:00-14:00; Su,Mo off
 website: ""

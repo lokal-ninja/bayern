@@ -4,8 +4,8 @@ latitude: 49.43791
 longitude: 11.87762
 postcode: "92224"
 city: Amberg
-street: "Schwindstraße"
-housenumber: 1
-phone: "+49 9621 470498"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://mixmarkt.eu/de/germany/maerkte/184"
+street: Schwindstraße
+housenumber: "1"
+phone: +49 9621 470498
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
+website: https://mixmarkt.eu/de/germany/maerkte/184

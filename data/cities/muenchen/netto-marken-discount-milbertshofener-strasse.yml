@@ -4,8 +4,8 @@ latitude: 48.18468
 longitude: 11.56802
 postcode: "80807"
 city: München
-street: "Milbertshofener Straße"
-housenumber: 9
+street: Milbertshofener Straße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de

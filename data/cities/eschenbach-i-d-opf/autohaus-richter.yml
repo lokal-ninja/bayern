@@ -1,11 +1,11 @@
 id: 717379917
-type: way
+type: node
 latitude: 49.7569
 longitude: 11.84273
 postcode: "92676"
 city: Eschenbach i.d.OPf.
-street: "Pressather Straße"
-housenumber: 51
+street: Pressather Straße
+housenumber: "51"
 phone: ""
 opening_hours: ""
-website: "https://www.opel-richter-eschenbach.de/"
+website: https://www.opel-richter-eschenbach.de/

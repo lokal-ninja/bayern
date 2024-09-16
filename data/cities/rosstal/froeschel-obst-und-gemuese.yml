@@ -1,11 +1,11 @@
 id: 40399047
-type: way
+type: node
 latitude: 49.39628
 longitude: 10.88492
 postcode: "90574"
 city: Roßtal
-street: "Rathausgasse"
-housenumber: 22
+street: Rathausgasse
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

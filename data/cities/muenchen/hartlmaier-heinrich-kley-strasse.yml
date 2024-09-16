@@ -4,8 +4,8 @@ latitude: 48.17824
 longitude: 11.5878
 postcode: "80807"
 city: München
-street: "Heinrich-Kley-Straße"
-housenumber: 2
+street: Heinrich-Kley-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "bis auf weiteres geschlossen"
+opening_hours: '"bis auf weiteres geschlossen"'
 website: ""

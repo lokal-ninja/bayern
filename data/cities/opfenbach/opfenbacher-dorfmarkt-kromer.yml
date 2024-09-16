@@ -4,8 +4,8 @@ latitude: 47.62664
 longitude: 9.83461
 postcode: "88145"
 city: Opfenbach
-street: "Dammstraße"
-housenumber: 4
-phone: "+49 8385 92243-66"
-opening_hours: "Mo-Sa 07:00-12:30; Mo,Tu,Th,Fr 14:30-18:00"
+street: Dammstraße
+housenumber: "4"
+phone: +49 8385 92243-66
+opening_hours: Mo-Sa 07:00-12:30; Mo,Tu,Th,Fr 14:30-18:00
 website: ""

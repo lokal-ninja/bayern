@@ -1,11 +1,11 @@
 id: 779842661
-type: way
+type: node
 latitude: 50.24844
 longitude: 12.03766
 postcode: "95111"
 city: Rehau
-street: "Ludwigstraße"
-housenumber: 22
+street: Ludwigstraße
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

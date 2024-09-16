@@ -1,11 +1,11 @@
 id: 243347542
-type: way
+type: node
 latitude: 48.56508
 longitude: 11.26331
 postcode: "86529"
 city: Schrobenhausen
-street: "Regensburger Straße"
-housenumber: 15
+street: Regensburger Straße
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 411416095
-type: way
+type: node
 latitude: 50.12045
 longitude: 9.88271
 postcode: "97762"
 city: Hammelburg
-street: "Zur Rampe"
-housenumber: 4
+street: Zur Rampe
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

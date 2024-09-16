@@ -1,11 +1,11 @@
 id: 799423667
-type: way
+type: node
 latitude: 47.93179
 longitude: 11.39471
 postcode: "82335"
 city: Berg
-street: "Rosenstraße"
-housenumber: 7
-phone: "+498171-18067"
-opening_hours: "Mo-Fr 08:00-12:00,13:00-18:00"
-website: "https://www.demmel-kfz.de"
+street: Rosenstraße
+housenumber: "7"
+phone: +498171-18067
+opening_hours: Mo-Fr 08:00-12:00,13:00-18:00
+website: https://www.demmel-kfz.de

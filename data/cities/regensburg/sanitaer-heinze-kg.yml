@@ -1,11 +1,11 @@
 id: 111815766
-type: way
+type: node
 latitude: 49.01169
 longitude: 12.15969
 postcode: "93055"
 city: Regensburg
-street: "Irlmauth"
+street: Irlmauth
 housenumber: 2a
-phone: "+49 941 466293 0"
+phone: +49 941 466293 0
 opening_hours: ""
-website: "https://www.sanitaer-heinze.com/"
+website: https://www.sanitaer-heinze.com/

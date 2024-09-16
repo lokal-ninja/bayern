@@ -4,8 +4,8 @@ latitude: 47.63363
 longitude: 11.23369
 postcode: "82441"
 city: Ohlstadt
-street: "Hauptstraße"
-housenumber: 21
-phone: "+49 8841 7317"
-opening_hours: "Tu-Fr 08:00-12:00,13:00-18:00"
+street: Hauptstraße
+housenumber: "21"
+phone: +49 8841 7317
+opening_hours: Tu-Fr 08:00-12:00,13:00-18:00
 website: ""

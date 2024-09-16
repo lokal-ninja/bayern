@@ -4,8 +4,8 @@ latitude: 49.31027
 longitude: 10.55894
 postcode: "91522"
 city: Ansbach
-street: "Würzburger Landstraße"
-housenumber: 53
+street: Würzburger Landstraße
+housenumber: "53"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00"
-website: "https://www.ttl-ttm.de/standorte/bayern/ttl-ansbach.php"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-16:00
+website: https://www.ttl-ttm.de/standorte/bayern/ttl-ansbach.php

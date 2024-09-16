@@ -1,11 +1,11 @@
 id: 1020075741
-type: way
+type: node
 latitude: 48.2137
 longitude: 12.41108
 postcode: "84478"
 city: Waldkraiburg
-street: "Geretsrieder Straße"
-housenumber: 18
+street: Geretsrieder Straße
+housenumber: "18"
 phone: ""
 opening_hours: ""
-website: "https://www.anwan.de/"
+website: https://www.anwan.de/

@@ -4,8 +4,8 @@ latitude: 48.53669
 longitude: 12.1516
 postcode: "84028"
 city: Landshut
-street: "Altstadt"
-housenumber: 86
+street: Altstadt
+housenumber: "86"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-18:00"
-website: "https://bonita.de"
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-18:00
+website: https://bonita.de

@@ -4,8 +4,9 @@ latitude: 47.8717
 longitude: 11.98205
 postcode: "83043"
 city: Bad Aibling
-street: "Gewerbepark Markfeld"
+street: Gewerbepark Markfeld
 housenumber: 1a
-phone: "+49 8061 939 01 30"
-opening_hours: "Mo-Th 09:00-12:30, Mo-We 13:30-17:00, Th 13:30-18:00, Fr 09:00-14:00, Sa 09:00-12:00; PH off"
-website: "https://kompetenzzentrum-arbeitssicherheit.de/"
+phone: +49 8061 939 01 30
+opening_hours: Mo-Th 09:00-12:30, Mo-We 13:30-17:00, Th 13:30-18:00, Fr 09:00-14:00,
+    Sa 09:00-12:00; PH off
+website: https://kompetenzzentrum-arbeitssicherheit.de/

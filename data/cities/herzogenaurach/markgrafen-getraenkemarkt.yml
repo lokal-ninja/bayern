@@ -1,11 +1,11 @@
 id: 47738788
-type: way
+type: node
 latitude: 49.57657
 longitude: 10.88822
 postcode: "91074"
 city: Herzogenaurach
-street: "Röntgenstraße"
-housenumber: 5
-phone: "+49 9132 45 13"
-opening_hours: "Mo-Fr 08:30-18:30; Sa 08:00-15:00; PH off"
-website: "https://www.markgrafen.com/"
+street: Röntgenstraße
+housenumber: "5"
+phone: +49 9132 45 13
+opening_hours: Mo-Fr 08:30-18:30; Sa 08:00-15:00; PH off
+website: https://www.markgrafen.com/

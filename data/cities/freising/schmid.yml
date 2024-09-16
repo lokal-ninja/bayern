@@ -4,8 +4,8 @@ latitude: 48.40154
 longitude: 11.74605
 postcode: "85354"
 city: Freising
-street: "Untere Hauptstraße"
-housenumber: 19
-phone: "+49 8161 984890"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00"
-website: "https://www2.schuh-schmid.com/freising/"
+street: Untere Hauptstraße
+housenumber: "19"
+phone: +49 8161 984890
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-18:00
+website: https://www2.schuh-schmid.com/freising/

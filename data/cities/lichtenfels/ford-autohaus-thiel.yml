@@ -1,11 +1,11 @@
 id: 535729120
-type: way
+type: node
 latitude: 50.13411
 longitude: 11.05684
 postcode: "96215"
 city: Lichtenfels
-street: "Siedlerstraße"
-housenumber: 8
+street: Siedlerstraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

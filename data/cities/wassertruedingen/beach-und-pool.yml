@@ -1,11 +1,11 @@
 id: 224427746
-type: way
+type: node
 latitude: 49.04255
 longitude: 10.58855
 postcode: "91717"
 city: Wassertrüdingen
-street: "Am Krautgarten"
-housenumber: 4
-phone: "+499832706 815"
+street: Am Krautgarten
+housenumber: "4"
+phone: +499832706 815
 opening_hours: ""
-website: "https://www.beachandpool.de/"
+website: https://www.beachandpool.de/

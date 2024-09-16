@@ -1,11 +1,11 @@
 id: 125806450
-type: way
+type: node
 latitude: 48.35729
 longitude: 10.92194
 postcode: "86161"
 city: Augsburg
-street: "Alter Heuweg"
+street: Alter Heuweg
 housenumber: 20a
 phone: ""
 opening_hours: ""
-website: "https://www.auto-senninger.de/"
+website: https://www.auto-senninger.de/

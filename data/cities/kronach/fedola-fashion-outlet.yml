@@ -1,11 +1,11 @@
 id: 140560675
-type: way
+type: node
 latitude: 50.26794
 longitude: 11.30672
 postcode: "96317"
 city: Kronach
-street: "Gundelsdorfer Straße"
-housenumber: 14
+street: Gundelsdorfer Straße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 09:00-13:00"
-website: "https://fedola.de/"
+opening_hours: Mo-Fr 10:00-18:00; Sa 09:00-13:00
+website: https://fedola.de/

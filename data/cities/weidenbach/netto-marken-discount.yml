@@ -1,11 +1,11 @@
 id: 336097320
-type: way
+type: node
 latitude: 49.19462
 longitude: 10.65756
 postcode: "91746"
 city: Weidenbach
-street: "Wannenweg"
-housenumber: 6
+street: Wannenweg
+housenumber: "6"
 phone: ""
-opening_hours: "07:00-20:00"
-website: "https://www.netto-online.de"
+opening_hours: 07:00-20:00
+website: https://www.netto-online.de

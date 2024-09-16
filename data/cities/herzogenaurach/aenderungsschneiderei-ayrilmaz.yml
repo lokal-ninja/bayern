@@ -4,8 +4,9 @@ latitude: 49.57092
 longitude: 10.87725
 postcode: "91074"
 city: Herzogenaurach
-street: "Würzburger Straße"
-housenumber: 14
-phone: "+49 9132 836 6146"
-opening_hours: "Mo-We 09:00-13:00, 14:00-17:00; Th-Fr 09:00-13:00, 14:00-18:00; Sa 09:00-12:00; PH off"
-website: "https://schneiderei-herzogenaurach.de"
+street: Würzburger Straße
+housenumber: "14"
+phone: +49 9132 836 6146
+opening_hours: Mo-We 09:00-13:00, 14:00-17:00; Th-Fr 09:00-13:00, 14:00-18:00; Sa
+    09:00-12:00; PH off
+website: https://schneiderei-herzogenaurach.de

@@ -1,11 +1,11 @@
 id: 120080464
-type: way
+type: node
 latitude: 48.51139
 longitude: 11.1153
 postcode: "86570"
 city: Inchenhofen
-street: "Sankt-Leonhard-Straße"
-housenumber: 1
+street: Sankt-Leonhard-Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

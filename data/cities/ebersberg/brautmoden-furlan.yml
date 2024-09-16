@@ -4,8 +4,8 @@ latitude: 48.07848
 longitude: 11.96728
 postcode: "85560"
 city: Ebersberg
-street: "Ulrichstraße"
+street: Ulrichstraße
 housenumber: 4a
-phone: "+49 152 21846247"
-opening_hours: "nach Vereinbarung"
-website: "https://www.brautkleider-galina.de"
+phone: +49 152 21846247
+opening_hours: '"nach Vereinbarung"'
+website: https://www.brautkleider-galina.de

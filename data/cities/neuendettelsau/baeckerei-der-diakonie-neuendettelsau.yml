@@ -1,11 +1,11 @@
 id: 149584178
-type: way
+type: node
 latitude: 49.29123
 longitude: 10.78305
 postcode: "91564"
 city: Neuendettelsau
-street: "Altendettelsauer Straße"
-housenumber: 14
+street: Altendettelsauer Straße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 06:30-17:30; Sa 06:30-12:30"
-website: "http://www.diakonieneuendettelsau.de/leben-gestalten/einkaufen-und-bestellen/baeckerei/"
+opening_hours: Mo-Fr 06:30-17:30; Sa 06:30-12:30
+website: http://www.diakonieneuendettelsau.de/leben-gestalten/einkaufen-und-bestellen/baeckerei/

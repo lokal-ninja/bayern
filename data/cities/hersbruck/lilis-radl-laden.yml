@@ -4,8 +4,8 @@ latitude: 49.50809
 longitude: 11.43163
 postcode: "91217"
 city: Hersbruck
-street: "Martin-Luther-Straße"
-housenumber: 25
-phone: "+49 9151 9050580"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-13:00"
-website: "http://www.lilis-radlladen.de"
+street: Martin-Luther-Straße
+housenumber: "25"
+phone: +49 9151 9050580
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-13:00
+website: http://www.lilis-radlladen.de

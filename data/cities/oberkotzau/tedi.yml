@@ -1,11 +1,11 @@
 id: 198213228
-type: way
+type: node
 latitude: 50.26778
 longitude: 11.92857
 postcode: "95145"
 city: Oberkotzau
-street: "Hofer Straße"
-housenumber: 68
+street: Hofer Straße
+housenumber: "68"
 phone: ""
 opening_hours: ""
 website: ""

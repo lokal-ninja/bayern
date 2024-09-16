@@ -1,11 +1,11 @@
 id: 911865142
-type: way
+type: node
 latitude: 49.88274
 longitude: 12.32784
 postcode: "95643"
 city: Tirschenreuth
-street: "Mitterteicher Straße"
-housenumber: 20
+street: Mitterteicher Straße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

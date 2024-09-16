@@ -4,8 +4,8 @@ latitude: 49.03402
 longitude: 12.11832
 postcode: "93057"
 city: Regensburg
-street: "Isarstraße"
-housenumber: 19
+street: Isarstraße
+housenumber: "19"
 phone: ""
-opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-14:00; PH,Su,Mo off"
-website: "https://www.glissy-salon.de/"
+opening_hours: Tu-Fr 09:00-18:00; Sa 09:00-14:00; PH,Su,Mo off
+website: https://www.glissy-salon.de/

@@ -1,11 +1,11 @@
 id: 111088903
-type: way
+type: node
 latitude: 49.18051
 longitude: 11.1807
 postcode: "91161"
 city: Hilpoltstein
-street: "Siemensstraße"
-housenumber: 13
+street: Siemensstraße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

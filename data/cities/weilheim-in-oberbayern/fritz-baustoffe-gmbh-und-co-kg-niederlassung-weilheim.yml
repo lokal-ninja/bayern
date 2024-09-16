@@ -1,11 +1,11 @@
 id: 545836827
-type: way
+type: node
 latitude: 47.83103
 longitude: 11.12892
 postcode: "82362"
 city: Weilheim in Oberbayern
-street: "Trifthofstraße"
-housenumber: 52
+street: Trifthofstraße
+housenumber: "52"
 phone: "+498819245130"
-opening_hours: "Mo-Fr 06:30-17:00; Sa 08:00-12:00"
-website: "https://www.fritz-baustoffe.de/"
+opening_hours: Mo-Fr 06:30-17:00; Sa 08:00-12:00
+website: https://www.fritz-baustoffe.de/

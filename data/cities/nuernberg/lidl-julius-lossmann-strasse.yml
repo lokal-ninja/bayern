@@ -1,11 +1,11 @@
 id: 85810967
-type: way
+type: node
 latitude: 49.41638
 longitude: 11.08084
 postcode: "90469"
 city: Nürnberg
-street: "Julius-Loßmann-Straße"
-housenumber: 11
+street: Julius-Loßmann-Straße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
+opening_hours: Mo-Sa 07:00-20:00; PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 147076822
-type: way
+type: node
 latitude: 49.62643
 longitude: 9.90062
 postcode: "97232"
 city: Giebelstadt
-street: "Hauptstraße"
-housenumber: 7
+street: Hauptstraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

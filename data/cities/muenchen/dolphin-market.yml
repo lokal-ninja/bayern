@@ -1,11 +1,11 @@
 id: 91450308
-type: way
+type: node
 latitude: 48.18141
 longitude: 11.50616
 postcode: "80997"
 city: München
-street: "Gröbenzeller Straße"
-housenumber: 2
+street: Gröbenzeller Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:30-19:30"
-website: "http://www.dolphinmarket.de/"
+opening_hours: Mo-Sa 07:30-19:30
+website: http://www.dolphinmarket.de/

@@ -4,8 +4,8 @@ latitude: 47.49458
 longitude: 11.0922
 postcode: "82467"
 city: Garmisch-Partenkirchen
-street: "Am Kurpark"
-housenumber: 1
-phone: "+49 8821 969280"
-opening_hours: "Mo-Sa 09:00-18:00"
-website: "https://www.thalia.de/shop/home/filialen/showDetails/5853/"
+street: Am Kurpark
+housenumber: "1"
+phone: +49 8821 969280
+opening_hours: Mo-Sa 09:00-18:00
+website: https://www.thalia.de/shop/home/filialen/showDetails/5853/

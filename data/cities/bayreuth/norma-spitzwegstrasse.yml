@@ -1,11 +1,11 @@
 id: 228631567
-type: way
+type: node
 latitude: 49.93246
 longitude: 11.55547
 postcode: "95447"
 city: Bayreuth
-street: "Spitzwegstraße"
-housenumber: 59
+street: Spitzwegstraße
+housenumber: "59"
 phone: ""
 opening_hours: ""
 website: ""

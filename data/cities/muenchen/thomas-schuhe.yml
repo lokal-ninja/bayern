@@ -4,8 +4,8 @@ latitude: 48.13863
 longitude: 11.57531
 postcode: "80333"
 city: München
-street: "Weinstraße"
-housenumber: 9
+street: Weinstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:30"
+opening_hours: Mo-Sa 10:00-19:30
 website: ""

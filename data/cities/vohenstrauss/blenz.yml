@@ -4,8 +4,8 @@ latitude: 49.62539
 longitude: 12.34028
 postcode: "92648"
 city: Vohenstrauß
-street: "Bahnhofstraße"
-housenumber: 9
-phone: "+49 9651 2326"
-opening_hours: "Mo-Fr 08:30-12:30,14:00-18:00; Sa 08:30-12:30; PH,Su off"
+street: Bahnhofstraße
+housenumber: "9"
+phone: +49 9651 2326
+opening_hours: Mo-Fr 08:30-12:30,14:00-18:00; Sa 08:30-12:30; PH,Su off
 website: ""

@@ -1,11 +1,11 @@
 id: 198076956
-type: way
+type: node
 latitude: 48.3749
 longitude: 10.3109
 postcode: "89335"
 city: Ichenhausen
-street: "Günzburger Straße"
-housenumber: 57
+street: Günzburger Straße
+housenumber: "57"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
+opening_hours: Mo-Sa 07:00-20:00; PH off
 website: ""

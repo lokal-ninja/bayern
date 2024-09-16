@@ -4,8 +4,8 @@ latitude: 49.7207
 longitude: 11.05839
 postcode: "91301"
 city: Forchheim
-street: "Hauptstraße"
-housenumber: 7
+street: Hauptstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Su 06:00-21:00, Mo-Sa 09:30-12:00"
-website: "https://www.firstelephant.de/forchheim/"
+opening_hours: Mo-Su 06:00-21:00, Mo-Sa 09:30-12:00
+website: https://www.firstelephant.de/forchheim/

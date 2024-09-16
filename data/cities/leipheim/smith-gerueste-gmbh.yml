@@ -1,11 +1,11 @@
 id: 255388139
-type: way
+type: node
 latitude: 48.44231
 longitude: 10.23581
 postcode: "89340"
 city: Leipheim
-street: "Theodor-Heuss-Straße"
-housenumber: 26
+street: Theodor-Heuss-Straße
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

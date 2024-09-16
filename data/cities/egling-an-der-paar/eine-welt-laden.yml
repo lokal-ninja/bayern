@@ -4,8 +4,8 @@ latitude: 48.18502
 longitude: 10.97871
 postcode: "86492"
 city: Egling an der Paar
-street: "Hauptstraße"
-housenumber: 33
+street: Hauptstraße
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-We 09:00-10:30; Th 17:00-18:30; Fr-Sa 09:00-10:30; Su off"
-website: "http://www.weltladen-egling.de/"
+opening_hours: Mo-We 09:00-10:30; Th 17:00-18:30; Fr-Sa 09:00-10:30; Su off
+website: http://www.weltladen-egling.de/

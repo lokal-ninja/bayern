@@ -1,11 +1,11 @@
 id: 198948278
-type: way
+type: node
 latitude: 49.31089
 longitude: 12.16919
 postcode: "92442"
 city: Wackersdorf
-street: "Eichenstraße"
-housenumber: 2
+street: Eichenstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

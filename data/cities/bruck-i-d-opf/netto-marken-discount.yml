@@ -1,11 +1,11 @@
 id: 942455998
-type: way
+type: node
 latitude: 49.24366
 longitude: 12.30317
 postcode: "92436"
 city: Bruck i.d.OPf.
-street: "Nittenauer Straße"
-housenumber: 40
+street: Nittenauer Straße
+housenumber: "40"
 phone: ""
 opening_hours: ""
-website: "https://www.netto-online.de"
+website: https://www.netto-online.de

@@ -1,11 +1,11 @@
 id: 204037343
-type: way
+type: node
 latitude: 49.70416
 longitude: 9.28086
 postcode: "63927"
 city: Bürgstadt
-street: "Eichenbühler Straße"
-housenumber: 89
+street: Eichenbühler Straße
+housenumber: "89"
 phone: ""
 opening_hours: ""
-website: "https://hefner-boden.de"
+website: https://hefner-boden.de

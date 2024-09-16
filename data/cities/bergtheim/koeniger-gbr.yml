@@ -1,11 +1,11 @@
 id: 285391876
-type: way
+type: node
 latitude: 49.89897
 longitude: 10.07053
 postcode: "97241"
 city: Bergtheim
-street: "Untere Hauptstraße"
-housenumber: 11
+street: Untere Hauptstraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

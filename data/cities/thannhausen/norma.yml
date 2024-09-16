@@ -1,11 +1,11 @@
 id: 198225621
-type: way
+type: node
 latitude: 48.28277
 longitude: 10.4596
 postcode: "86470"
 city: Thannhausen
-street: "Bürgermeister-Raab-Straße"
-housenumber: 25
+street: Bürgermeister-Raab-Straße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

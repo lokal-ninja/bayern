@@ -1,11 +1,11 @@
 id: 90209905
-type: way
+type: node
 latitude: 47.75368
 longitude: 10.32803
 postcode: "87437"
 city: Kempten (Allgäu)
-street: "Johann-Abt-Straße"
-housenumber: 2
+street: Johann-Abt-Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.abt-sportsline.de/"
+website: https://www.abt-sportsline.de/

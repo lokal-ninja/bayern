@@ -1,11 +1,11 @@
 id: 943178498
-type: way
+type: node
 latitude: 49.86407
 longitude: 9.79913
 postcode: "97274"
 city: Leinach
-street: "Grupshausener Straße"
-housenumber: 2
-phone: "+49 9369 8212"
+street: Grupshausener Straße
+housenumber: "2"
+phone: +49 9369 8212
 opening_hours: ""
-website: "https://www.baeckerei-kachel.de/"
+website: https://www.baeckerei-kachel.de/

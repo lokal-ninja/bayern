@@ -4,8 +4,8 @@ latitude: 48.14437
 longitude: 11.43713
 postcode: "81243"
 city: München
-street: "Bodenseestraße"
-housenumber: 129
-phone: "+49 89 820 80 62 100"
-opening_hours: "Tu-Fr 10:00-13:00,14:00-19:00; Sa 10:00-16:00; Jun-Aug Sa 10:00-14:00"
-website: "https://www.nostraforma.com/"
+street: Bodenseestraße
+housenumber: "129"
+phone: +49 89 820 80 62 100
+opening_hours: Tu-Fr 10:00-13:00,14:00-19:00; Sa 10:00-16:00; Jun-Aug Sa 10:00-14:00
+website: https://www.nostraforma.com/

@@ -4,8 +4,8 @@ latitude: 48.14867
 longitude: 11.64076
 postcode: "81929"
 city: München
-street: "Posener Platz"
-housenumber: 1
-phone: "+49 89 931633"
-opening_hours: "Tu-Fr 09:00-13:30,14:30-18:00; Sa 09:00-12:00"
+street: Posener Platz
+housenumber: "1"
+phone: +49 89 931633
+opening_hours: Tu-Fr 09:00-13:30,14:30-18:00; Sa 09:00-12:00
 website: ""

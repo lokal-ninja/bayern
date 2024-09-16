@@ -1,11 +1,11 @@
 id: 125819511
-type: way
+type: node
 latitude: 49.92492
 longitude: 9.07878
 postcode: "63762"
 city: Großostheim
-street: "Aschaffenburger Straße"
-housenumber: 28
-phone: "+49 6026 95690 30"
+street: Aschaffenburger Straße
+housenumber: "28"
+phone: +49 6026 95690 30
 opening_hours: ""
-website: "https://www.hemdenfabrik.de/"
+website: https://www.hemdenfabrik.de/

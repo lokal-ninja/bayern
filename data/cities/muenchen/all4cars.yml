@@ -1,11 +1,11 @@
 id: 37331305
-type: way
+type: node
 latitude: 48.14204
 longitude: 11.42021
 postcode: "81249"
 city: München
-street: "Bodenseestraße"
-housenumber: 275
+street: Bodenseestraße
+housenumber: "275"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 09:00-16:00"
-website: "https://www.all4cars.de"
+opening_hours: Mo-Fr 08:00-19:00; Sa 09:00-16:00
+website: https://www.all4cars.de

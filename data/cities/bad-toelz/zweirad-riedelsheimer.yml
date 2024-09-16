@@ -4,8 +4,9 @@ latitude: 47.75925
 longitude: 11.57056
 postcode: "83646"
 city: Bad Tölz
-street: "Sachsenkamer Straße"
-housenumber: 2
+street: Sachsenkamer Straße
+housenumber: "2"
 phone: "+498041781222"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00; Nov-Feb: We 09:00-12:00; PH off"
-website: "https://www.radl-land.de"
+opening_hours: 'Mo-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00; Nov-Feb: We 09:00-12:00;
+    PH off'
+website: https://www.radl-land.de

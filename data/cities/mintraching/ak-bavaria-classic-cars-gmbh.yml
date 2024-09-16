@@ -1,11 +1,11 @@
 id: 704703249
-type: way
+type: node
 latitude: 48.98906
 longitude: 12.23846
 postcode: "93098"
 city: Mintraching
-street: "Germanenstraße"
-housenumber: 10
-phone: "+49 9406 95838 43"
-opening_hours: "Mo-Th 08:00-17:00; Fr 08:00-16:00"
-website: "https://www.bavaria-classic.de/"
+street: Germanenstraße
+housenumber: "10"
+phone: +49 9406 95838 43
+opening_hours: Mo-Th 08:00-17:00; Fr 08:00-16:00
+website: https://www.bavaria-classic.de/

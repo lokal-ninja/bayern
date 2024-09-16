@@ -4,8 +4,8 @@ latitude: 50.0921
 longitude: 11.58577
 postcode: "95339"
 city: Neuenmarkt
-street: "Laubenstraße"
-housenumber: 5
-phone: "+49 9227 4741"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00-13:00; PH off"
-website: "https://myposition.biz/"
+street: Laubenstraße
+housenumber: "5"
+phone: +49 9227 4741
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:00-13:00; PH off
+website: https://myposition.biz/

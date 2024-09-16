@@ -1,11 +1,11 @@
 id: 239549905
-type: way
+type: node
 latitude: 48.13505
 longitude: 11.46262
 postcode: "81241"
 city: München
-street: "Schlagweg"
-housenumber: 8
+street: Schlagweg
+housenumber: "8"
 phone: ""
-opening_hours: "Mo,We,Fr 12:00-18:00"
+opening_hours: Mo,We,Fr 12:00-18:00
 website: ""

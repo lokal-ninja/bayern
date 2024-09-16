@@ -4,8 +4,8 @@ latitude: 48.1377
 longitude: 11.55032
 postcode: "80336"
 city: München
-street: "Schwanthalerstraße"
-housenumber: 100
+street: Schwanthalerstraße
+housenumber: "100"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa Nach Vereinbarung; PH off"
+opening_hours: Mo-Fr 09:00-18:00; Sa "Nach Vereinbarung"; PH off
 website: ""

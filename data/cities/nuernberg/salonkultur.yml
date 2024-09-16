@@ -4,8 +4,8 @@ latitude: 49.45162
 longitude: 11.07327
 postcode: "90403"
 city: Nürnberg
-street: "Josephsplatz"
-housenumber: 12
+street: Josephsplatz
+housenumber: "12"
 phone: ""
-opening_hours: "Tu-Sa 09:00-18:00; Su,PH off"
-website: "https://www.friseur-salonkultur.de/"
+opening_hours: Tu-Sa 09:00-18:00; Su,PH off
+website: https://www.friseur-salonkultur.de/

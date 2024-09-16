@@ -1,11 +1,11 @@
 id: 753386105
-type: way
+type: node
 latitude: 49.16378
 longitude: 10.48044
 postcode: "91632"
 city: Wieseth
-street: "Talstraße"
-housenumber: 14
+street: Talstraße
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 257827052
-type: way
+type: node
 latitude: 48.29612
 longitude: 10.96467
 postcode: "86438"
 city: Kissing
-street: "Römerstraße"
-housenumber: 31
-phone: "+49 8233 5420"
-opening_hours: "Mo-Th 07:30-12:00, 13:15-18:00; Fr 07:30-12:00, 13:15-17:00; Sa 09:00-12:00"
-website: "https://autohaus-daum.de"
+street: Römerstraße
+housenumber: "31"
+phone: +49 8233 5420
+opening_hours: Mo-Th 07:30-12:00, 13:15-18:00; Fr 07:30-12:00, 13:15-17:00; Sa 09:00-12:00
+website: https://autohaus-daum.de

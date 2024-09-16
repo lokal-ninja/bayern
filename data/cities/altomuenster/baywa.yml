@@ -1,11 +1,11 @@
 id: 160675036
-type: way
+type: node
 latitude: 48.38498
 longitude: 11.25649
 postcode: "85250"
 city: Altomünster
-street: "Bahnhofstraße"
+street: Bahnhofstraße
 housenumber: 23 a
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,13:00-17:00; Sa 08:00-12:00"
-website: "https://www.baywa.de/de/i/standorte/"
+opening_hours: Mo-Fr 08:00-12:00,13:00-17:00; Sa 08:00-12:00
+website: https://www.baywa.de/de/i/standorte/

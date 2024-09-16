@@ -4,8 +4,8 @@ latitude: 49.45114
 longitude: 11.05022
 postcode: "90429"
 city: Nürnberg
-street: "Adam-Klein-Straße"
-housenumber: 30
+street: Adam-Klein-Straße
+housenumber: "30"
 phone: ""
-opening_hours: "Tu-Fr 12:00-19:00; Sa 11:00-18:00"
-website: "https://www.betterrun.shop"
+opening_hours: Tu-Fr 12:00-19:00; Sa 11:00-18:00
+website: https://www.betterrun.shop

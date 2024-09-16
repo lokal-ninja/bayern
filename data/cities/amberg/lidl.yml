@@ -1,11 +1,11 @@
 id: 112773805
-type: way
+type: node
 latitude: 49.4454
 longitude: 11.84197
 postcode: "92224"
 city: Amberg
-street: "Infanteriestraße"
-housenumber: 3
+street: Infanteriestraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

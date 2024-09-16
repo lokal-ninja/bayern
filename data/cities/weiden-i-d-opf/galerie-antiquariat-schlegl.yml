@@ -4,8 +4,8 @@ latitude: 49.67565
 longitude: 12.15783
 postcode: "92637"
 city: Weiden i.d.OPf.
-street: "Ringstraße"
-housenumber: 15
-phone: "+49 961 4702634"
-opening_hours: "Mo,Tu,Th,Fr 10:00-18:00; We,Sa 09:00-13:00; Su off"
+street: Ringstraße
+housenumber: "15"
+phone: +49 961 4702634
+opening_hours: Mo,Tu,Th,Fr 10:00-18:00; We,Sa 09:00-13:00; Su off
 website: ""

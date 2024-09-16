@@ -4,8 +4,8 @@ latitude: 50.22683
 longitude: 10.80486
 postcode: "96145"
 city: Seßlach
-street: "Am Roten Hügel"
-housenumber: 9
-phone: "+49 9567 209"
-opening_hours: "Mo-Fr 06:00-19:30; Sa 06:00-14:00; PH off"
-website: "http://www.biohuegel.de"
+street: Am Roten Hügel
+housenumber: "9"
+phone: +49 9567 209
+opening_hours: Mo-Fr 06:00-19:30; Sa 06:00-14:00; PH off
+website: http://www.biohuegel.de

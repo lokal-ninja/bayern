@@ -1,11 +1,11 @@
 id: 825463305
-type: way
+type: node
 latitude: 48.02583
 longitude: 12.28995
 postcode: "83123"
 city: Amerang
-street: "Forststraße"
-housenumber: 10
+street: Forststraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

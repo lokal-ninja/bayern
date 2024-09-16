@@ -4,8 +4,8 @@ latitude: 48.1161
 longitude: 11.52622
 postcode: "81369"
 city: München
-street: "Albert-Roßhaupter-Straße"
-housenumber: 73
-phone: "+49 89 74344410"
-opening_hours: "Mo-Fr 11:00-17:00, Sa 10:00-13:30"
-website: "https://www.tui.com/reisebuero/muenchen/albert-rosshaupter-strasse-73/"
+street: Albert-Roßhaupter-Straße
+housenumber: "73"
+phone: +49 89 74344410
+opening_hours: Mo-Fr 11:00-17:00, Sa 10:00-13:30
+website: https://www.tui.com/reisebuero/muenchen/albert-rosshaupter-strasse-73/

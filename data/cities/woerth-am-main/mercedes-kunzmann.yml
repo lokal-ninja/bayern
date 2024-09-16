@@ -1,11 +1,11 @@
 id: 378638182
-type: way
+type: node
 latitude: 49.79183
 longitude: 9.16384
 postcode: "63939"
 city: Wörth am Main
-street: "Landstraße"
-housenumber: 62
-phone: "+49 9372 9863 0"
+street: Landstraße
+housenumber: "62"
+phone: +49 9372 9863 0
 opening_hours: ""
-website: "https://www.kunzmann.de/de/standorte/woerth.htm"
+website: https://www.kunzmann.de/de/standorte/woerth.htm

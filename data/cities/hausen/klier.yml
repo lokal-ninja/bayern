@@ -4,8 +4,8 @@ latitude: 49.70171
 longitude: 11.04338
 postcode: "91353"
 city: Hausen
-street: "Pilatus Campus"
-housenumber: 4
-phone: "+49 91919788749"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 08:00-16:00"
-website: "https://www.klier.de/"
+street: Pilatus Campus
+housenumber: "4"
+phone: +49 91919788749
+opening_hours: Mo-Fr 09:00-19:00; Sa 08:00-16:00
+website: https://www.klier.de/

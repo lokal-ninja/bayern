@@ -1,11 +1,11 @@
 id: 693937969
-type: way
+type: node
 latitude: 49.98613
 longitude: 10.21772
 postcode: "97520"
 city: Röthlein
-street: "Barthstraße"
-housenumber: 11
+street: Barthstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 14:00-18:00; PH off"
+opening_hours: Mo-Fr 14:00-18:00; PH off
 website: ""

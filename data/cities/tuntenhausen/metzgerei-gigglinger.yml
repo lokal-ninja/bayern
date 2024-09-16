@@ -1,11 +1,11 @@
 id: 309622433
-type: way
+type: node
 latitude: 47.91989
 longitude: 12.01224
 postcode: "83104"
 city: Tuntenhausen
 street: ""
 housenumber: 1a
-phone: "+49 8067 88 17 35"
-opening_hours: "Tu-Fr 07:00-18:00; Sa 08:00-13:00, Su,Mo,PH off"
-website: "https://www.metzgerei-gigglinger.de"
+phone: +49 8067 88 17 35
+opening_hours: Tu-Fr 07:00-18:00; Sa 08:00-13:00, Su,Mo,PH off
+website: https://www.metzgerei-gigglinger.de

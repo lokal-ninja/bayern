@@ -1,11 +1,11 @@
 id: 258466452
-type: way
+type: node
 latitude: 47.84112
 longitude: 12.2048
 postcode: "83083"
 city: Riedering
-street: "Rosenheimer Straße"
-housenumber: 28
+street: Rosenheimer Straße
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

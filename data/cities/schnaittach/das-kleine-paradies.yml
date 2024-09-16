@@ -1,11 +1,11 @@
 id: 97283997
-type: way
+type: node
 latitude: 49.56922
 longitude: 11.34193
 postcode: "91220"
 city: Schnaittach
-street: "Dorfstraße"
-housenumber: 5
+street: Dorfstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 211972975
-type: way
+type: node
 latitude: 49.52778
 longitude: 11.15034
 postcode: "90562"
 city: Heroldsberg
-street: "Hauptstraße"
+street: Hauptstraße
 housenumber: 106B
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "http://www.edeka-gradl.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: http://www.edeka-gradl.de

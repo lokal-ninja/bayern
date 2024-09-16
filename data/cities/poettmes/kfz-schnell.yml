@@ -1,11 +1,11 @@
 id: 305191941
-type: way
+type: node
 latitude: 48.58179
 longitude: 11.12713
 postcode: "86554"
 city: Pöttmes
 street: ""
-housenumber: 1
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://kfz-schnell.go1a.de/"
+website: https://kfz-schnell.go1a.de/

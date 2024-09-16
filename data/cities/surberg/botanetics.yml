@@ -1,11 +1,11 @@
 id: 264446258
-type: way
+type: node
 latitude: 47.87357
 longitude: 12.66125
 postcode: "83362"
 city: Surberg
-street: "Im Wiesengrund"
-housenumber: 16
-phone: "+49-861-209161-07"
+street: Im Wiesengrund
+housenumber: "16"
+phone: +49-861-209161-07
 opening_hours: ""
-website: "https://www.botanetics.de/de/"
+website: https://www.botanetics.de/de/

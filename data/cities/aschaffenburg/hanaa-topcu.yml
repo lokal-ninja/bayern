@@ -4,8 +4,8 @@ latitude: 49.97444
 longitude: 9.14858
 postcode: "63739"
 city: Aschaffenburg
-street: "Sandgasse"
-housenumber: 25
-phone: "+49 6021 4427778"
-opening_hours: "Tu-Fr 10:00-20:00; Sa 10:00-18:00; Su,PH off"
-website: "https://hanaa-topcu.de"
+street: Sandgasse
+housenumber: "25"
+phone: +49 6021 4427778
+opening_hours: Tu-Fr 10:00-20:00; Sa 10:00-18:00; Su,PH off
+website: https://hanaa-topcu.de

@@ -4,8 +4,8 @@ latitude: 50.03034
 longitude: 10.52119
 postcode: "97437"
 city: Haßfurt
-street: "Zeiler Straße"
-housenumber: 14
-phone: "+49 9521 953580"
-opening_hours: "Mo-Sa 08:30-20:00"
-website: "https://www.mueller.de/meine-filiale/"
+street: Zeiler Straße
+housenumber: "14"
+phone: +49 9521 953580
+opening_hours: Mo-Sa 08:30-20:00
+website: https://www.mueller.de/meine-filiale/

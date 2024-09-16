@@ -1,11 +1,11 @@
 id: 151753074
-type: way
+type: node
 latitude: 47.85527
 longitude: 12.13841
 postcode: "83022"
 city: Rosenheim
-street: "Innstraße"
-housenumber: 63
-phone: "+49 8031 389370"
+street: Innstraße
+housenumber: "63"
+phone: +49 8031 389370
 opening_hours: ""
 website: ""

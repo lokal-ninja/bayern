@@ -4,8 +4,8 @@ latitude: 49.46322
 longitude: 11.08448
 postcode: "90409"
 city: Nürnberg
-street: "Goethestraße"
-housenumber: 18
-phone: "+49 911 352312"
-opening_hours: "Mo-Fr 09:00-13:00, Mo,Tu,Th,Fr 15:00-17:00; PH,Sa,Su off"
+street: Goethestraße
+housenumber: "18"
+phone: +49 911 352312
+opening_hours: Mo-Fr 09:00-13:00, Mo,Tu,Th,Fr 15:00-17:00; PH,Sa,Su off
 website: ""

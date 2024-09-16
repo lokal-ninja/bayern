@@ -4,8 +4,8 @@ latitude: 49.4285
 longitude: 11.0182
 postcode: "90449"
 city: Nürnberg
-street: "Südwestpark"
-housenumber: 76
+street: Südwestpark
+housenumber: "76"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00"
-website: "https://www.friseur-motschiedler.de/nuernberg/"
+opening_hours: Mo-Fr 09:00-19:00
+website: https://www.friseur-motschiedler.de/nuernberg/

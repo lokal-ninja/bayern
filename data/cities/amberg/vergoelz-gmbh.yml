@@ -1,11 +1,11 @@
 id: 112773799
-type: way
+type: node
 latitude: 49.44478
 longitude: 11.84309
 postcode: "92224"
 city: Amberg
-street: "Infanteriestraße"
-housenumber: 5
-phone: "+49 9621 14494"
+street: Infanteriestraße
+housenumber: "5"
+phone: +49 9621 14494
 opening_hours: ""
-website: "www.vergoelz.de"
+website: www.vergoelz.de

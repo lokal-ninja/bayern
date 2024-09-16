@@ -1,11 +1,11 @@
 id: 24960711
-type: way
+type: node
 latitude: 49.45461
 longitude: 11.00128
 postcode: "90763"
 city: Fürth
-street: "Magazinstraße"
-housenumber: 61
+street: Magazinstraße
+housenumber: "61"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://filialen.aldi-sued.de/bayern/fuerth/magazinstrasse-61"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://filialen.aldi-sued.de/bayern/fuerth/magazinstrasse-61

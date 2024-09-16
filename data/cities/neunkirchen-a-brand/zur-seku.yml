@@ -4,8 +4,8 @@ latitude: 49.61089
 longitude: 11.12841
 postcode: "91077"
 city: Neunkirchen a. Brand
-street: "Bahnhofstraße"
-housenumber: 2
+street: Bahnhofstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Tu-Fr 08:00-18:00; Sa 08:00-13:00"
-website: "https://www.zur-seku.de/metzgerei/"
+opening_hours: Tu-Fr 08:00-18:00; Sa 08:00-13:00
+website: https://www.zur-seku.de/metzgerei/

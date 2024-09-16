@@ -4,8 +4,8 @@ latitude: 49.99411
 longitude: 9.73239
 postcode: "97753"
 city: Karlstadt
-street: "Harrbacher Weg"
-housenumber: 36
-phone: "+49 9353 1524"
-opening_hours: "Mo-Sa 08:00-18:00; Su 08:00-16:00"
-website: "https://www.gold-obstbau.de/"
+street: Harrbacher Weg
+housenumber: "36"
+phone: +49 9353 1524
+opening_hours: Mo-Sa 08:00-18:00; Su 08:00-16:00
+website: https://www.gold-obstbau.de/

@@ -4,8 +4,8 @@ latitude: 47.90541
 longitude: 11.42922
 postcode: "82515"
 city: Wolfratshausen
-street: "Pfaffenrieder Straße"
-housenumber: 3
-phone: "+49 8171 76048"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 07:00-20:00"
-website: "https://www.orterer.de/"
+street: Pfaffenrieder Straße
+housenumber: "3"
+phone: +49 8171 76048
+opening_hours: Mo-Fr 08:00-20:00; Sa 07:00-20:00
+website: https://www.orterer.de/

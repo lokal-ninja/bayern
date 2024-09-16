@@ -1,11 +1,11 @@
 id: 54231423
-type: way
+type: node
 latitude: 50.01234
 longitude: 10.2123
 postcode: "97424"
 city: Schweinfurt
-street: "Lissabonstraße"
-housenumber: 3
+street: Lissabonstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 447553299
-type: way
+type: node
 latitude: 47.64435
 longitude: 11.74559
 postcode: "83708"
 city: Kreuth
-street: "Rathausweg"
-housenumber: 2
+street: Rathausweg
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

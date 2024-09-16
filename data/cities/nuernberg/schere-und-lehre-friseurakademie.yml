@@ -4,8 +4,8 @@ latitude: 49.47115
 longitude: 11.11069
 postcode: "90491"
 city: Nürnberg
-street: "Sonneberger Straße"
-housenumber: 12
-phone: "+49 911 5105791"
-opening_hours: "Tu-Fr 09:00-17:00; Sa 08:00-13:00"
+street: Sonneberger Straße
+housenumber: "12"
+phone: +49 911 5105791
+opening_hours: Tu-Fr 09:00-17:00; Sa 08:00-13:00
 website: ""

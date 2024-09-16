@@ -1,11 +1,11 @@
 id: 202164147
-type: way
+type: node
 latitude: 47.80423
 longitude: 11.65036
 postcode: "83679"
 city: Sachsenkam
-street: "Wagleitenstraße"
-housenumber: 2
-phone: "+49 8021 90655"
-opening_hours: "Mo,Tu,Th,Fr 9:00-13:00,15:00-17:30; We nach Vereinbarung"
-website: "https://pummer.de/"
+street: Wagleitenstraße
+housenumber: "2"
+phone: +49 8021 90655
+opening_hours: Mo,Tu,Th,Fr 9:00-13:00,15:00-17:30; We "nach Vereinbarung"
+website: https://pummer.de/

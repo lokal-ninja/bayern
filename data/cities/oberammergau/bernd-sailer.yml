@@ -4,8 +4,8 @@ latitude: 47.59711
 longitude: 11.06527
 postcode: "82487"
 city: Oberammergau
-street: "Schnitzlergasse"
-housenumber: 12
-phone: "+49 8845 7575199"
-opening_hours: "Mo,We-Fr 08:30-12:30,14:00-18:00; Sa 08:30-12:30"
-website: "sailer.bernd@online.de"
+street: Schnitzlergasse
+housenumber: "12"
+phone: +49 8845 7575199
+opening_hours: Mo,We-Fr 08:30-12:30,14:00-18:00; Sa 08:30-12:30
+website: sailer.bernd@online.de

@@ -4,8 +4,8 @@ latitude: 48.21409
 longitude: 12.05941
 postcode: "84424"
 city: Isen
-street: "Raiffeisenstraße"
-housenumber: 1
+street: Raiffeisenstraße
+housenumber: "1"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.rwg-erdinger-land.de"
+opening_hours: 24/7
+website: https://www.rwg-erdinger-land.de

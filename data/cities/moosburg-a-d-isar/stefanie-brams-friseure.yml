@@ -4,8 +4,8 @@ latitude: 48.46768
 longitude: 11.93646
 postcode: "85368"
 city: Moosburg a.d. Isar
-street: "Herrnstraße"
-housenumber: 11
-phone: "+49 8761 4107"
-opening_hours: "Mo 09:00-18:00; Th 08:00-19:00; Tu,We,Fr 08:00-18:00; Sa 08:00-12:00"
+street: Herrnstraße
+housenumber: "11"
+phone: +49 8761 4107
+opening_hours: Mo 09:00-18:00; Th 08:00-19:00; Tu,We,Fr 08:00-18:00; Sa 08:00-12:00
 website: ""

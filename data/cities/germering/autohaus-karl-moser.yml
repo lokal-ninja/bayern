@@ -1,11 +1,11 @@
 id: 493082307
-type: way
+type: node
 latitude: 48.14197
 longitude: 11.36635
 postcode: "82110"
 city: Germering
-street: "Maria-von-Linden-Straße"
-housenumber: 7
+street: Maria-von-Linden-Straße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://www.autohaus-moser.de/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://www.autohaus-moser.de/

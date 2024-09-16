@@ -1,11 +1,11 @@
 id: 1163056190
-type: way
+type: node
 latitude: 48.35327
 longitude: 10.89914
 postcode: "86161"
 city: Augsburg
-street: "Haunstetter Straße"
-housenumber: 36
+street: Haunstetter Straße
+housenumber: "36"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-16:00"
+opening_hours: Mo-Fr 09:00-18:00, Sa 09:00-16:00
 website: ""

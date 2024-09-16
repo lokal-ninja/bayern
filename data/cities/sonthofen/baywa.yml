@@ -1,11 +1,11 @@
 id: 95832961
-type: way
+type: node
 latitude: 47.51978
 longitude: 10.27185
 postcode: "87527"
 city: Sonthofen
-street: "Eichendorffstraße"
-housenumber: 15
+street: Eichendorffstraße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 07:00-17:30"
-website: "https://www.baywa.de/"
+opening_hours: Mo-Fr 07:00-17:30
+website: https://www.baywa.de/

@@ -1,11 +1,11 @@
 id: 91628561
-type: way
+type: node
 latitude: 48.34594
 longitude: 10.88189
 postcode: "86199"
 city: Augsburg
-street: "Edisonstraße"
-housenumber: 4
+street: Edisonstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://filialen.aldi-sued.de/bayern/augsburg/edisonstrasse-4"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://filialen.aldi-sued.de/bayern/augsburg/edisonstrasse-4

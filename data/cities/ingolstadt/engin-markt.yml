@@ -1,11 +1,11 @@
 id: 54169233
-type: way
+type: node
 latitude: 48.77934
 longitude: 11.40932
 postcode: "85057"
 city: Ingolstadt
-street: "Pfitznerstraße"
-housenumber: 20
+street: Pfitznerstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

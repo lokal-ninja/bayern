@@ -4,8 +4,8 @@ latitude: 50.33502
 longitude: 10.21917
 postcode: "97616"
 city: Bad Neustadt an der Saale
-street: "Industriestraße"
-housenumber: 1
-phone: "+49 9771 63502652"
-opening_hours: "Mo-Th 09:00-11:45,12:30-14:30; Fr 09:00-12:30"
+street: Industriestraße
+housenumber: "1"
+phone: +49 9771 63502652
+opening_hours: Mo-Th 09:00-11:45,12:30-14:30; Fr 09:00-12:30
 website: ""

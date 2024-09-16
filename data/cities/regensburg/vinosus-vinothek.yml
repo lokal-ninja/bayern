@@ -4,8 +4,8 @@ latitude: 49.02447
 longitude: 12.09774
 postcode: "93059"
 city: Regensburg
-street: "Andreasstraße"
-housenumber: 2
+street: Andreasstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Tu-Sa 14:00-19:00; PH off"
-website: "https://www.vinosus.de/"
+opening_hours: Tu-Sa 14:00-19:00; PH off
+website: https://www.vinosus.de/

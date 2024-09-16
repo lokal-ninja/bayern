@@ -1,11 +1,11 @@
 id: 822813492
-type: way
+type: node
 latitude: 50.22818
 longitude: 9.99086
 postcode: "97688"
 city: Bad Kissingen
-street: "Poppenrother Straße"
-housenumber: 43
+street: Poppenrother Straße
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

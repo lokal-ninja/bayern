@@ -1,11 +1,11 @@
 id: 932456272
-type: way
+type: node
 latitude: 47.89464
 longitude: 11.98447
 postcode: "83104"
 city: Tuntenhausen
-street: "Aiblinger Straße"
-housenumber: 7
-phone: "+49 8061 936 91 96"
-opening_hours: "Mo,Tu,Fr 09:00-18:00, Sa 09:00-14:00; We,Th,Su,PH off"
-website: "https://www.baumschule-sandmann.de/gartenhof/"
+street: Aiblinger Straße
+housenumber: "7"
+phone: +49 8061 936 91 96
+opening_hours: Mo,Tu,Fr 09:00-18:00, Sa 09:00-14:00; We,Th,Su,PH off
+website: https://www.baumschule-sandmann.de/gartenhof/

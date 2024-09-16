@@ -4,8 +4,8 @@ latitude: 49.47119
 longitude: 11.02601
 postcode: "90427"
 city: Nürnberg
-street: "Brettergartenstraße"
-housenumber: 84
+street: Brettergartenstraße
+housenumber: "84"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
-website: "https://www.lidl.de/f/nuernberg/brettergartenstr-84.html"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
+website: https://www.lidl.de/f/nuernberg/brettergartenstr-84.html

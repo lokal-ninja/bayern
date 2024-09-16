@@ -1,11 +1,11 @@
 id: 189867962
-type: way
+type: node
 latitude: 49.86233
 longitude: 10.22544
 postcode: "97332"
 city: Volkach
-street: "Am Alten Bahnhof"
-housenumber: 3
-phone: "+49 9381 717150"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00"
-website: "https://www.quick-schuh.com/"
+street: Am Alten Bahnhof
+housenumber: "3"
+phone: +49 9381 717150
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:00
+website: https://www.quick-schuh.com/

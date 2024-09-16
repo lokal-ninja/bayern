@@ -1,5 +1,5 @@
 id: 1018155285
-type: way
+type: node
 latitude: 50.2584
 longitude: 11.79232
 postcode: "95233"
@@ -8,4 +8,4 @@ street: ""
 housenumber: 20a
 phone: ""
 opening_hours: ""
-website: "https://ata-mobile.de/"
+website: https://ata-mobile.de/

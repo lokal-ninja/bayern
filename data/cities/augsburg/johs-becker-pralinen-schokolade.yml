@@ -4,8 +4,8 @@ latitude: 48.36745
 longitude: 10.89901
 postcode: "86150"
 city: Augsburg
-street: "Judenberg"
-housenumber: 7
+street: Judenberg
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00"
-website: "https://schoko-becker.de"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-16:00
+website: https://schoko-becker.de

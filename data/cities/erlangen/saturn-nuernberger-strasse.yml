@@ -1,11 +1,11 @@
 id: 430249652
-type: way
+type: node
 latitude: 49.5934
 longitude: 11.00383
 postcode: "91052"
 city: Erlangen
-street: "Nürnberger Straße"
-housenumber: 7
+street: Nürnberger Straße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00; Su off"
-website: "https://www.saturn.de/"
+opening_hours: Mo-Sa 10:00-19:00; Su off
+website: https://www.saturn.de/

@@ -1,11 +1,11 @@
 id: 166234060
-type: way
+type: node
 latitude: 47.84314
 longitude: 12.34608
 postcode: "83209"
 city: Prien am Chiemsee
-street: "Am Reitbach"
+street: Am Reitbach
 housenumber: 1a
-phone: "+49 8051 80470"
-opening_hours: "Mo-Fr 08:00-12:00,13:00-17:00"
+phone: +49 8051 80470
+opening_hours: Mo-Fr 08:00-12:00,13:00-17:00
 website: ""

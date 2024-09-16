@@ -1,11 +1,11 @@
 id: 184622328
-type: way
+type: node
 latitude: 48.68303
 longitude: 11.60076
 postcode: "85290"
 city: Geisenfeld
-street: "Augsburger Straße"
-housenumber: 75
+street: Augsburger Straße
+housenumber: "75"
 phone: ""
 opening_hours: ""
 website: ""

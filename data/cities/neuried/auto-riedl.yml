@@ -4,8 +4,8 @@ latitude: 48.08852
 longitude: 11.47599
 postcode: "82061"
 city: Neuried
-street: "Buchendorfer Straße"
-housenumber: 2
-phone: "+49 89 750600"
-opening_hours: "Mo-Th 07:30-17:00; Fr 07:30-15:00; Sa,Su,PH off"
-website: "https://www.auto-riedl.de/"
+street: Buchendorfer Straße
+housenumber: "2"
+phone: +49 89 750600
+opening_hours: Mo-Th 07:30-17:00; Fr 07:30-15:00; Sa,Su,PH off
+website: https://www.auto-riedl.de/

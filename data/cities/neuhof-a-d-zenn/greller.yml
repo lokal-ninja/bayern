@@ -1,11 +1,11 @@
 id: 220673285
-type: way
+type: node
 latitude: 49.45711
 longitude: 10.64376
 postcode: "90616"
 city: Neuhof a.d.Zenn
-street: "Marktplatz"
-housenumber: 9
+street: Marktplatz
+housenumber: "9"
 phone: ""
 opening_hours: ""
-website: "https://www.goldjunge-bäckerei.de/"
+website: https://www.goldjunge-bäckerei.de/

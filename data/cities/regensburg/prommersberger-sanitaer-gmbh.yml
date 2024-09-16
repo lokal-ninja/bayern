@@ -1,11 +1,11 @@
 id: 111815866
-type: way
+type: node
 latitude: 49.01206
 longitude: 12.15827
 postcode: "93055"
 city: Regensburg
-street: "Straubinger Straße"
-housenumber: 70
-phone: "+49 941 52291"
+street: Straubinger Straße
+housenumber: "70"
+phone: +49 941 52291
 opening_hours: ""
-website: "https://www.prommersberger-sanitaer.de/"
+website: https://www.prommersberger-sanitaer.de/

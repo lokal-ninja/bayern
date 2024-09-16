@@ -4,8 +4,8 @@ latitude: 48.09868
 longitude: 11.58328
 postcode: "81547"
 city: München
-street: "Peter-Auzinger-Straße"
-housenumber: 9
+street: Peter-Auzinger-Straße
+housenumber: "9"
 phone: ""
 opening_hours: ""
-website: "https://www.schoenbar.de/"
+website: https://www.schoenbar.de/

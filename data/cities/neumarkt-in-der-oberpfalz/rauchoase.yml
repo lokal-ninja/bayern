@@ -4,8 +4,8 @@ latitude: 49.28046
 longitude: 11.4597
 postcode: "92318"
 city: Neumarkt in der Oberpfalz
-street: "Klostergasse"
-housenumber: 5
+street: Klostergasse
+housenumber: "5"
 phone: "+4991818970808"
-opening_hours: "Mo-Fr 15:00-18:30; Sa 12:00-16:00"
-website: "https://www.rauchoase.com/"
+opening_hours: Mo-Fr 15:00-18:30; Sa 12:00-16:00
+website: https://www.rauchoase.com/

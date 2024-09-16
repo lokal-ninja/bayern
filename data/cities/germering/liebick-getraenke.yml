@@ -1,11 +1,11 @@
 id: 78282493
-type: way
+type: node
 latitude: 48.13398
 longitude: 11.38562
 postcode: "82110"
 city: Germering
-street: "Sankt-Cäcilia-Straße"
-housenumber: 14
-phone: "+49-89-842318"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 08:30-13:00"
-website: "https://www.landbierzentrale.de/"
+street: Sankt-Cäcilia-Straße
+housenumber: "14"
+phone: +49-89-842318
+opening_hours: Mo-Fr 09:00-18:00; Sa 08:30-13:00
+website: https://www.landbierzentrale.de/

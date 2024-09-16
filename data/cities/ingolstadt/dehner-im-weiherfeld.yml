@@ -1,11 +1,11 @@
 id: 400714062
-type: way
+type: node
 latitude: 48.70423
 longitude: 11.42059
 postcode: "85051"
 city: Ingolstadt
-street: "Im Weiherfeld"
-housenumber: 4
-phone: "+49 8450 9297270"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.dehner.de/"
+street: Im Weiherfeld
+housenumber: "4"
+phone: +49 8450 9297270
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.dehner.de/

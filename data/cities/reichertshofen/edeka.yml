@@ -1,11 +1,11 @@
 id: 201784626
-type: way
+type: node
 latitude: 48.65512
 longitude: 11.47546
 postcode: "85084"
 city: Reichertshofen
-street: "Münchner Straße"
-housenumber: 23
-phone: "+49 8453 3399246"
-opening_hours: "Mo-Sa 07:00-20:00"
+street: Münchner Straße
+housenumber: "23"
+phone: +49 8453 3399246
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

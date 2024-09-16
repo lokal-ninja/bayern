@@ -4,8 +4,8 @@ latitude: 50.23579
 longitude: 11.72631
 postcode: "95233"
 city: Helmbrechts
-street: "Gudrunstraße"
-housenumber: 2
-phone: "+49179 41 51 121"
-opening_hours: "Termine nur nach Vereinbarung"
+street: Gudrunstraße
+housenumber: "2"
+phone: +49179 41 51 121
+opening_hours: '"Termine nur nach Vereinbarung"'
 website: ""

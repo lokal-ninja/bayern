@@ -4,8 +4,8 @@ latitude: 49.91928
 longitude: 9.07646
 postcode: "63762"
 city: Großostheim
-street: "Bachstraße"
-housenumber: 46
-phone: "+49 6026 996685"
-opening_hours: "Mo-Fr 09:30-13:00,14:30-18:00; Sa 09:00-13:00"
-website: "https://www.buchhaus-grossostheim.de/"
+street: Bachstraße
+housenumber: "46"
+phone: +49 6026 996685
+opening_hours: Mo-Fr 09:30-13:00,14:30-18:00; Sa 09:00-13:00
+website: https://www.buchhaus-grossostheim.de/

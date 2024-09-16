@@ -1,11 +1,11 @@
 id: 290953662
-type: way
+type: node
 latitude: 49.79441
 longitude: 9.92987
 postcode: "97070"
 city: Würzburg
-street: "Unterer Markt"
-housenumber: 
+street: Unterer Markt
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-18:00"
-website: "https://gartenbau-reitzenstein.de/?page_id=1603"
+opening_hours: Mo-Sa 08:00-18:00
+website: https://gartenbau-reitzenstein.de/?page_id=1603

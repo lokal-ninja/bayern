@@ -1,11 +1,11 @@
 id: 235820452
-type: way
+type: node
 latitude: 49.11308
 longitude: 10.75442
 postcode: "91710"
 city: Gunzenhausen
-street: "Marktplatz"
-housenumber: 52
-phone: "+49 9831 9559"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00; PH off"
+street: Marktplatz
+housenumber: "52"
+phone: +49 9831 9559
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00; PH off
 website: ""

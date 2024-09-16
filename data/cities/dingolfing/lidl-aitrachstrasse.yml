@@ -1,11 +1,11 @@
 id: 258829529
-type: way
+type: node
 latitude: 48.63689
 longitude: 12.48436
 postcode: "84130"
 city: Dingolfing
-street: "Aitrachstraße"
-housenumber: 6
+street: Aitrachstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.16222
 longitude: 11.57453
 postcode: "80796"
 city: München
-street: "Belgradstraße"
-housenumber: 19
+street: Belgradstraße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-16:00"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-16:00
 website: ""

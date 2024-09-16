@@ -4,8 +4,8 @@ latitude: 48.2157
 longitude: 11.25774
 postcode: "82216"
 city: Maisach
-street: "Bahnhofstraße"
-housenumber: 14
-phone: "+49 8141 5335775"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; We,Sa 09:00-13:00"
-website: "https://www.schuhhaus-huttenloher.de"
+street: Bahnhofstraße
+housenumber: "14"
+phone: +49 8141 5335775
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00; We,Sa 09:00-13:00
+website: https://www.schuhhaus-huttenloher.de

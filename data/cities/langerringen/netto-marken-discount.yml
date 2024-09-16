@@ -1,11 +1,11 @@
 id: 85300163
-type: way
+type: node
 latitude: 48.16543
 longitude: 10.75741
 postcode: "86853"
 city: Langerringen
-street: "Unterer Riedweiler"
-housenumber: 2
+street: Unterer Riedweiler
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

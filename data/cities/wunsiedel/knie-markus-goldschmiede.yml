@@ -1,11 +1,11 @@
 id: 542889990
-type: way
+type: node
 latitude: 50.03715
 longitude: 12.00397
 postcode: "95632"
 city: Wunsiedel
-street: "Ludwigstraße"
-housenumber: 32
+street: Ludwigstraße
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.36822
 longitude: 10.89981
 postcode: "86150"
 city: Augsburg
-street: "Pfladergasse"
-housenumber: 3
-phone: "+49 1575 8179688"
-opening_hours: "Mo-Fr 10:00-18:00"
-website: "https://www.luvundleehautmanufaktur.de"
+street: Pfladergasse
+housenumber: "3"
+phone: +49 1575 8179688
+opening_hours: Mo-Fr 10:00-18:00
+website: https://www.luvundleehautmanufaktur.de

@@ -4,8 +4,8 @@ latitude: 48.36974
 longitude: 10.84648
 postcode: "86391"
 city: Stadtbergen
-street: "Hagenmähderstraße"
-housenumber: 10
-phone: "+49 821 2436523"
-opening_hours: "Mo-Fr 06:00-19:00; Sa 06:00-19:00; Su 07:30-17:00"
-website: "https://www.ihle.de/"
+street: Hagenmähderstraße
+housenumber: "10"
+phone: +49 821 2436523
+opening_hours: Mo-Fr 06:00-19:00; Sa 06:00-19:00; Su 07:30-17:00
+website: https://www.ihle.de/

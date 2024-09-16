@@ -1,11 +1,11 @@
 id: 210612545
-type: way
+type: node
 latitude: 48.45169
 longitude: 10.2928
 postcode: "89312"
 city: Günzburg
-street: "Augsburger Straße"
-housenumber: 82
+street: Augsburger Straße
+housenumber: "82"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de

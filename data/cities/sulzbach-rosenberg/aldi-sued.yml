@@ -1,11 +1,11 @@
 id: 102838872
-type: way
+type: node
 latitude: 49.4976
 longitude: 11.73364
 postcode: "92237"
 city: Sulzbach-Rosenberg
-street: "Dieselstraße"
-housenumber: 30
+street: Dieselstraße
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://filialen.aldi-sued.de/bayern/sulzbach-rosenberg/dieselstrasse-30"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://filialen.aldi-sued.de/bayern/sulzbach-rosenberg/dieselstrasse-30

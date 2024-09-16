@@ -1,11 +1,11 @@
 id: 260501539
-type: way
+type: node
 latitude: 47.98859
 longitude: 12.17615
 postcode: "83556"
 city: Griesstätt
-street: "Innthalstraße"
-housenumber: 3
+street: Innthalstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

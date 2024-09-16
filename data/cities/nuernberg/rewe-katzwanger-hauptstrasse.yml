@@ -1,11 +1,11 @@
 id: 28725107
-type: way
+type: node
 latitude: 49.36535
 longitude: 11.04887
 postcode: "90453"
 city: Nürnberg
-street: "Katzwanger Hauptstraße"
-housenumber: 102
+street: Katzwanger Hauptstraße
+housenumber: "102"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

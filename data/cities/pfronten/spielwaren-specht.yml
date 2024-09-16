@@ -4,8 +4,8 @@ latitude: 47.58317
 longitude: 10.56241
 postcode: "87459"
 city: Pfronten
-street: "Meilinger Straße"
-housenumber: 9
+street: Meilinger Straße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Tu, Th-Fr 09:00-12:30, 14:00-18:00; We, Sa 09:00-12:30"
-website: "https://www.spielwaren-specht.de/"
+opening_hours: Mo-Tu, Th-Fr 09:00-12:30, 14:00-18:00; We, Sa 09:00-12:30
+website: https://www.spielwaren-specht.de/

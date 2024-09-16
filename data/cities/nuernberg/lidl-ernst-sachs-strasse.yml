@@ -1,11 +1,11 @@
 id: 988820935
-type: way
+type: node
 latitude: 49.42777
 longitude: 11.05468
 postcode: "90441"
 city: Nürnberg
-street: "Ernst-Sachs-Straße"
-housenumber: 4
+street: Ernst-Sachs-Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

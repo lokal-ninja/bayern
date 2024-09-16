@@ -1,11 +1,11 @@
 id: 1188410199
-type: way
+type: node
 latitude: 49.89108
 longitude: 10.17744
 postcode: "97247"
 city: Eisenheim
-street: "Hertleinsweg"
-housenumber: 2
-phone: "+49 9386 9797580"
+street: Hertleinsweg
+housenumber: "2"
+phone: +49 9386 9797580
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 239236216
-type: way
+type: node
 latitude: 49.02811
 longitude: 12.12
 postcode: "93059"
 city: Regensburg
-street: "Weichser Weg"
-housenumber: 32
-phone: "+49 941 4092661"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00"
-website: "https://www.fristo.de/"
+street: Weichser Weg
+housenumber: "32"
+phone: +49 941 4092661
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-20:00
+website: https://www.fristo.de/

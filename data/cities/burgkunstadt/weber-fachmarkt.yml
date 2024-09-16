@@ -1,11 +1,11 @@
 id: 263204133
-type: way
+type: node
 latitude: 50.14197
 longitude: 11.24931
 postcode: "96224"
 city: Burgkunstadt
-street: "Rangengasse"
-housenumber: 8
-phone: "+49 9572 722 80"
+street: Rangengasse
+housenumber: "8"
+phone: +49 9572 722 80
 opening_hours: ""
-website: "https://www.weber-fachmarkt.de/"
+website: https://www.weber-fachmarkt.de/

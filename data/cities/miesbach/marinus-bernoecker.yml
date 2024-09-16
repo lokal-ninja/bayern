@@ -1,11 +1,11 @@
 id: 83249179
-type: way
+type: node
 latitude: 47.79703
 longitude: 11.83529
 postcode: "83714"
 city: Miesbach
-street: "Oskar-von-Miller-Straße"
-housenumber: 15
+street: Oskar-von-Miller-Straße
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

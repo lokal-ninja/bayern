@@ -1,11 +1,11 @@
 id: 647510928
-type: way
+type: node
 latitude: 48.62343
 longitude: 10.56974
 postcode: "89420"
 city: Höchstädt a.d.Donau
-street: "Oberglauheimer Straße"
-housenumber: 20
-phone: "+49 9074 92299-0"
-opening_hours: "Mo-Fr 08:00-12:00,13:00-17:00; Sa 08:00-13:00; PH off"
-website: "http://www.reichhardt-kfz.de/"
+street: Oberglauheimer Straße
+housenumber: "20"
+phone: +49 9074 92299-0
+opening_hours: Mo-Fr 08:00-12:00,13:00-17:00; Sa 08:00-13:00; PH off
+website: http://www.reichhardt-kfz.de/

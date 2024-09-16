@@ -1,11 +1,11 @@
 id: 862493135
-type: way
+type: node
 latitude: 48.97904
 longitude: 11.47645
 postcode: "92339"
 city: Beilngries
-street: "Im Schlott"
-housenumber: 15
+street: Im Schlott
+housenumber: "15"
 phone: ""
 opening_hours: ""
-website: "https://swerner-gruppe.de"
+website: https://swerner-gruppe.de

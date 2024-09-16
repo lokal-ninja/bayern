@@ -4,8 +4,8 @@ latitude: 49.01876
 longitude: 12.09752
 postcode: "93047"
 city: Regensburg
-street: "Drei-Helm-Gasse"
-housenumber: 3
+street: Drei-Helm-Gasse
+housenumber: "3"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

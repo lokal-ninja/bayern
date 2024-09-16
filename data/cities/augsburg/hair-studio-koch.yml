@@ -4,8 +4,8 @@ latitude: 48.3385
 longitude: 10.86761
 postcode: "86199"
 city: Augsburg
-street: "Wellenburger Straße"
-housenumber: 2
-phone: "+49 821 9982931"
-opening_hours: "Mo 10:00-18:00; We-Fr 08:30-18:00; Sa 08:00-12:00; Tu off"
+street: Wellenburger Straße
+housenumber: "2"
+phone: +49 821 9982931
+opening_hours: Mo 10:00-18:00; We-Fr 08:30-18:00; Sa 08:00-12:00; Tu off
 website: ""

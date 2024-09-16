@@ -4,8 +4,8 @@ latitude: 48.13413
 longitude: 11.55878
 postcode: "80336"
 city: München
-street: "Goethestraße"
-housenumber: 41
+street: Goethestraße
+housenumber: "41"
 phone: ""
-opening_hours: "Mo-Sa 11:00-17:00; PH closed"
+opening_hours: Mo-Sa 11:00-17:00; PH closed
 website: ""

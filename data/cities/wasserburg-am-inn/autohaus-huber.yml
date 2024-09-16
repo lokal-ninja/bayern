@@ -1,11 +1,11 @@
 id: 27811802
-type: way
+type: node
 latitude: 48.06347
 longitude: 12.20263
 postcode: "83512"
 city: Wasserburg am Inn
-street: "Anton-Woger-Straße"
-housenumber: 7
+street: Anton-Woger-Straße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 142100650
-type: way
+type: node
 latitude: 48.89714
 longitude: 11.64985
 postcode: "93336"
 city: Altmannstein
-street: "Bahnhofstraße"
-housenumber: 4
+street: Bahnhofstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

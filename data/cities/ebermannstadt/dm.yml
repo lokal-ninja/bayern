@@ -1,11 +1,11 @@
 id: 54937162
-type: way
+type: node
 latitude: 49.78324
 longitude: 11.18813
 postcode: "91320"
 city: Ebermannstadt
-street: "Markgrafenweg"
-housenumber: 13
-phone: "+49 9194 7245940"
-opening_hours: "Mo-Sa 08:00-20:00"
+street: Markgrafenweg
+housenumber: "13"
+phone: +49 9194 7245940
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

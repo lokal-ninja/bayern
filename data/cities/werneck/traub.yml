@@ -4,8 +4,8 @@ latitude: 49.98076
 longitude: 10.1007
 postcode: "97440"
 city: Werneck
-street: "Balthasar-Neumann-Platz"
-housenumber: 1
-phone: "+49 9722 944816"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "http://www.sanitaetshaus-traub.de/filialen/werneck-balthasar-neumann-platz.html"
+street: Balthasar-Neumann-Platz
+housenumber: "1"
+phone: +49 9722 944816
+opening_hours: Mo-Fr 09:00-18:00
+website: http://www.sanitaetshaus-traub.de/filialen/werneck-balthasar-neumann-platz.html

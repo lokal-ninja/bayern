@@ -1,11 +1,11 @@
 id: 1280341638
-type: way
+type: node
 latitude: 48.13336
 longitude: 11.56658
 postcode: "80336"
 city: München
-street: "Sendlinger-Tor-Platz"
-housenumber: 
+street: Sendlinger-Tor-Platz
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

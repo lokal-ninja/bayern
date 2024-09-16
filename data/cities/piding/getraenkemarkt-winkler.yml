@@ -1,11 +1,11 @@
 id: 219651765
-type: way
+type: node
 latitude: 47.75964
 longitude: 12.90944
 postcode: "83451"
 city: Piding
-street: "Bahnhofstraße"
-housenumber: 17
+street: Bahnhofstraße
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.3243
 longitude: 10.88484
 postcode: "86199"
 city: Augsburg
-street: "Bürgermeister-Ulrich-Straße"
-housenumber: 90
+street: Bürgermeister-Ulrich-Straße
+housenumber: "90"
 phone: ""
-opening_hours: "Mo-Th 09:30-18:00; Fr 09:30-15:30; PH off"
-website: "https://shop.fcaugsburg.de/"
+opening_hours: Mo-Th 09:30-18:00; Fr 09:30-15:30; PH off
+website: https://shop.fcaugsburg.de/

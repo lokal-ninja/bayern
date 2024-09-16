@@ -1,11 +1,11 @@
 id: 102166429
-type: way
+type: node
 latitude: 48.29248
 longitude: 10.89825
 postcode: "86343"
 city: Königsbrunn
-street: "Haunstetter Straße"
-housenumber: 3
+street: Haunstetter Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

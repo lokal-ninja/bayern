@@ -1,11 +1,11 @@
 id: 1119102227
-type: way
+type: node
 latitude: 48.66096
 longitude: 10.82761
 postcode: "86690"
 city: Mertingen
-street: "Gewerbepark Ost"
-housenumber: 2
+street: Gewerbepark Ost
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

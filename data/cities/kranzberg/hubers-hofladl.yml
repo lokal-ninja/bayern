@@ -1,11 +1,11 @@
 id: 951243174
-type: way
+type: node
 latitude: 48.42435
 longitude: 11.67746
 postcode: "85402"
 city: Kranzberg
 street: ""
-housenumber: 14
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Su 07:30-20:00"
+opening_hours: Mo-Su 07:30-20:00
 website: ""

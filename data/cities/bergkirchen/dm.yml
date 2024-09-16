@@ -4,8 +4,8 @@ latitude: 48.23657
 longitude: 11.35253
 postcode: "85232"
 city: Bergkirchen
-street: "Gadastraße"
-housenumber: 5
-phone: "+49 8142 2842455"
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
+street: Gadastraße
+housenumber: "5"
+phone: +49 8142 2842455
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
 website: ""

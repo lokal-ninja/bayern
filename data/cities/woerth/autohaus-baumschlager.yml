@@ -1,11 +1,11 @@
 id: 259889610
-type: way
+type: node
 latitude: 48.2459
 longitude: 11.90406
 postcode: "85457"
 city: Wörth
-street: "Hörlkofener Straße"
-housenumber: 
+street: Hörlkofener Straße
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00"
+opening_hours: Mo-Fr 09:00-17:00
 website: ""

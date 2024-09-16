@@ -1,11 +1,11 @@
 id: 156283495
-type: way
+type: node
 latitude: 49.62886
 longitude: 11.01201
 postcode: "91088"
 city: Bubenreuth
-street: "Am Bauhof"
-housenumber: 5
+street: Am Bauhof
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

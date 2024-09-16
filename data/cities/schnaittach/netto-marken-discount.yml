@@ -1,11 +1,11 @@
 id: 141135366
-type: way
+type: node
 latitude: 49.55885
 longitude: 11.34203
 postcode: "91220"
 city: Schnaittach
-street: "Festungsstraße"
-housenumber: 4
+street: Festungsstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

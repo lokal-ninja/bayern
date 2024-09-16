@@ -1,11 +1,11 @@
 id: 25623137
-type: way
+type: node
 latitude: 48.78489
 longitude: 11.47972
 postcode: "85055"
 city: Ingolstadt
-street: "Otto-Hahn-Straße"
+street: Otto-Hahn-Straße
 housenumber: 2-4
-phone: "+49 841 9013-0"
-opening_hours: "Mo-Fr 07:00-22:00; Sa 08:00-19:30; Su,PH off"
-website: "https://www.selgros.de/markt/ingolstadt"
+phone: +49 841 9013-0
+opening_hours: Mo-Fr 07:00-22:00; Sa 08:00-19:30; Su,PH off
+website: https://www.selgros.de/markt/ingolstadt

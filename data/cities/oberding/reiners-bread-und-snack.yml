@@ -4,8 +4,8 @@ latitude: 48.3201
 longitude: 11.84684
 postcode: "85445"
 city: Oberding
-street: "Hauptstraße"
-housenumber: 47
+street: Hauptstraße
+housenumber: "47"
 phone: ""
-opening_hours: "Mo-Fr 05:30-18:30; Sa 05:30-12:00; Su 07:00-11:30"
-website: "https://www.reiners-bread.de/"
+opening_hours: Mo-Fr 05:30-18:30; Sa 05:30-12:00; Su 07:00-11:30
+website: https://www.reiners-bread.de/

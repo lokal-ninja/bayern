@@ -4,8 +4,8 @@ latitude: 48.36856
 longitude: 10.89076
 postcode: "86150"
 city: Augsburg
-street: "Prinzregentenstraße"
-housenumber: 7
-phone: "+49 1575 8309657"
-opening_hours: "Di-Fr 11:00 - 18:00; Sa 11:00 - 15:00"
+street: Prinzregentenstraße
+housenumber: "7"
+phone: +49 1575 8309657
+opening_hours: Di-Fr 11:00 - 18:00; Sa 11:00 - 15:00
 website: ""

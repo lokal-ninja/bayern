@@ -1,11 +1,11 @@
 id: 26659325
-type: way
+type: node
 latitude: 49.31687
 longitude: 11.33952
 postcode: "90559"
 city: Burgthann
-street: "Espenpark"
-housenumber: 30
+street: Espenpark
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
-website: "https://filiale.kaufland.de/service/filiale/burgthann-7750.html"
+opening_hours: Mo-Sa 07:00-20:00; PH off
+website: https://filiale.kaufland.de/service/filiale/burgthann-7750.html

@@ -1,11 +1,11 @@
 id: 180315518
-type: way
+type: node
 latitude: 48.51507
 longitude: 10.94881
 postcode: "86447"
 city: Aindling
-street: "Hauptstraße"
-housenumber: 37
+street: Hauptstraße
+housenumber: "37"
 phone: ""
 opening_hours: ""
-website: "https://www.baywa.de/de/i/standorte/technik/aindling/baywa-ag-aindling/"
+website: https://www.baywa.de/de/i/standorte/technik/aindling/baywa-ag-aindling/

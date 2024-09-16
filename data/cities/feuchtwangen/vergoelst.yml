@@ -1,11 +1,11 @@
 id: 988342356
-type: way
+type: node
 latitude: 49.16998
 longitude: 10.32168
 postcode: "91555"
 city: Feuchtwangen
-street: "Crailsheimer Straße"
-housenumber: 30
-phone: "+499852 67970"
-opening_hours: "Mo-Fr 08:00-12:00 13:00-17:00"
+street: Crailsheimer Straße
+housenumber: "30"
+phone: +499852 67970
+opening_hours: Mo-Fr 08:00-12:00 13:00-17:00
 website: ""

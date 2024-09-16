@@ -4,8 +4,8 @@ latitude: 48.4529
 longitude: 11.12713
 postcode: "86551"
 city: Aichach
-street: "Augsburger Straße"
-housenumber: 29
-phone: "+49 8251 8969762"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa,Su,PH off"
-website: "https://www.zimmermann-vital.de/Sanitaetshaus-Aichach"
+street: Augsburger Straße
+housenumber: "29"
+phone: +49 8251 8969762
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00; Sa,Su,PH off
+website: https://www.zimmermann-vital.de/Sanitaetshaus-Aichach

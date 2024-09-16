@@ -1,11 +1,11 @@
 id: 147446739
-type: way
+type: node
 latitude: 48.12592
 longitude: 12.67566
 postcode: "84553"
 city: Halsbach
-street: "Dorfplatz"
-housenumber: 6
+street: Dorfplatz
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

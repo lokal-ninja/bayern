@@ -4,8 +4,8 @@ latitude: 48.13543
 longitude: 11.58583
 postcode: "80538"
 city: München
-street: "Adelgundenstraße"
-housenumber: 5
-phone: "+49 89 41115186"
-opening_hours: "Mo-Sa 11:00-14:30,16:30-20:00"
-website: "https://www.onkel-emma.eu/"
+street: Adelgundenstraße
+housenumber: "5"
+phone: +49 89 41115186
+opening_hours: Mo-Sa 11:00-14:30,16:30-20:00
+website: https://www.onkel-emma.eu/

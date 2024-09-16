@@ -4,8 +4,8 @@ latitude: 48.35864
 longitude: 10.90871
 postcode: "86161"
 city: Augsburg
-street: "Friedberger Straße"
-housenumber: 5
+street: Friedberger Straße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 06:00-23:00; Su off"
-website: "https://www.waschsalon.de/waschsalon-augsburg/"
+opening_hours: Mo-Sa 06:00-23:00; Su off
+website: https://www.waschsalon.de/waschsalon-augsburg/

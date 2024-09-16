@@ -4,8 +4,8 @@ latitude: 48.5507
 longitude: 11.26062
 postcode: "86529"
 city: Schrobenhausen
-street: "Augsburger Straße"
-housenumber: 45
-phone: "+49 8252-8812080"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-16:00; Su,PH off"
-website: "https://jysk.de/stores-locator?storeId=1694"
+street: Augsburger Straße
+housenumber: "45"
+phone: +49 8252-8812080
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-16:00; Su,PH off
+website: https://jysk.de/stores-locator?storeId=1694

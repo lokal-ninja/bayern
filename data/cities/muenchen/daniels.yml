@@ -4,8 +4,8 @@ latitude: 48.13884
 longitude: 11.57835
 postcode: "80539"
 city: München
-street: "Hofgraben"
-housenumber: 7
+street: Hofgraben
+housenumber: "7"
 phone: ""
-opening_hours: "Mo -Th 10:00-19:00; Fr-Sa 10:00-20:00"
-website: "https://www.daniels-shop.de/"
+opening_hours: Mo -Th 10:00-19:00; Fr-Sa 10:00-20:00
+website: https://www.daniels-shop.de/

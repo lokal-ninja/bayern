@@ -4,8 +4,8 @@ latitude: 48.14985
 longitude: 11.5636
 postcode: "80333"
 city: München
-street: "Steinheilstraße"
-housenumber: 21
+street: Steinheilstraße
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-We 11:00-19:00; Th 12:00-19:00; Fr 11:00-19:00; Sa 11:00-18:00"
+opening_hours: Mo-We 11:00-19:00; Th 12:00-19:00; Fr 11:00-19:00; Sa 11:00-18:00
 website: ""

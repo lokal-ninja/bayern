@@ -1,11 +1,11 @@
 id: 256310500
-type: way
+type: node
 latitude: 48.48791
 longitude: 10.91701
 postcode: "86508"
 city: Rehling
-street: "Langweider Straße"
-housenumber: 22
+street: Langweider Straße
+housenumber: "22"
 phone: ""
 opening_hours: ""
-website: "https://www.kastl-gmbh.de/"
+website: https://www.kastl-gmbh.de/

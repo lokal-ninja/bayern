@@ -1,11 +1,11 @@
 id: 260688605
-type: way
+type: node
 latitude: 48.75272
 longitude: 11.45231
 postcode: "85053"
 city: Ingolstadt
-street: "Manchinger Straße"
-housenumber: 86
-phone: "+49 841 965030"
+street: Manchinger Straße
+housenumber: "86"
+phone: +49 841 965030
 opening_hours: ""
-website: "http://www.hufnagl-autoteile.de"
+website: http://www.hufnagl-autoteile.de

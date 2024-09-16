@@ -4,8 +4,8 @@ latitude: 48.05523
 longitude: 11.60633
 postcode: "82008"
 city: Unterhaching
-street: "Grimmerweg"
-housenumber: 6
-phone: "+49 89 296601"
-opening_hours: "Tu-Fr 10:00-19:00; Sa 10:00-16:00"
-website: "https://www.artetdesign.de/"
+street: Grimmerweg
+housenumber: "6"
+phone: +49 89 296601
+opening_hours: Tu-Fr 10:00-19:00; Sa 10:00-16:00
+website: https://www.artetdesign.de/

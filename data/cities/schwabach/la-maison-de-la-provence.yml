@@ -1,11 +1,11 @@
 id: 95983996
-type: way
+type: node
 latitude: 49.32951
 longitude: 11.02117
 postcode: "91126"
 city: Schwabach
-street: "Fleischbrücke"
-housenumber: 3
+street: Fleischbrücke
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:00-16:00"
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:00-16:00
 website: ""

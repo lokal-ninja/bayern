@@ -4,8 +4,8 @@ latitude: 49.45237
 longitude: 11.07538
 postcode: "90403"
 city: Nürnberg
-street: "Kaiserstraße"
-housenumber: 24
+street: Kaiserstraße
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Sa 10:00-18:00"
-website: "https://www.robbeberking.com/"
+opening_hours: Mo-Sa 10:00-18:00
+website: https://www.robbeberking.com/

@@ -4,8 +4,8 @@ latitude: 49.43578
 longitude: 11.09269
 postcode: "90461"
 city: Nürnberg
-street: "Allersberger Straße"
-housenumber: 143
-phone: "+49 911 460060"
-opening_hours: "Tu,Th, Fr 08:30-17:30; We 08:30-20:00; Sa 08:30-13:00"
-website: "https://www.hairconcept-kaufmann.de/"
+street: Allersberger Straße
+housenumber: "143"
+phone: +49 911 460060
+opening_hours: Tu,Th, Fr 08:30-17:30; We 08:30-20:00; Sa 08:30-13:00
+website: https://www.hairconcept-kaufmann.de/

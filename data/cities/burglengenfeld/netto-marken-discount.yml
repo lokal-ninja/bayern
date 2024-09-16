@@ -1,11 +1,11 @@
 id: 491187195
-type: way
+type: node
 latitude: 49.20293
 longitude: 12.04718
 postcode: "93133"
 city: Burglengenfeld
-street: "Regensburger Straße"
-housenumber: 42
+street: Regensburger Straße
+housenumber: "42"
 phone: ""
 opening_hours: ""
-website: "https://www.netto-online.de"
+website: https://www.netto-online.de

@@ -1,11 +1,11 @@
 id: 224417549
-type: way
+type: node
 latitude: 48.42315
 longitude: 10.86624
 postcode: "86368"
 city: Gersthofen
-street: "Flotowstraße"
-housenumber: 2
+street: Flotowstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

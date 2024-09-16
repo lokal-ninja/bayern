@@ -1,11 +1,11 @@
 id: 215285281
-type: way
+type: node
 latitude: 48.64116
 longitude: 11.77788
 postcode: "84048"
 city: Mainburg
-street: "Pinskerstraße"
-housenumber: 2
+street: Pinskerstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 156291379
-type: way
+type: node
 latitude: 49.6271
 longitude: 10.92417
 postcode: "91093"
 city: Heßdorf
-street: "Im Gewerbepark"
-housenumber: 13
+street: Im Gewerbepark
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

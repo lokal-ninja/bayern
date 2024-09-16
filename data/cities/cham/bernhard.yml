@@ -1,11 +1,11 @@
 id: 272793008
-type: way
+type: node
 latitude: 49.21905
 longitude: 12.66507
 postcode: "93413"
 city: Cham
-street: "Hafnerstraße"
-housenumber: 2
-phone: "+49-9971-2298"
+street: Hafnerstraße
+housenumber: "2"
+phone: +49-9971-2298
 opening_hours: ""
-website: "https://www.juwelier-bernhard-cham.de/"
+website: https://www.juwelier-bernhard-cham.de/

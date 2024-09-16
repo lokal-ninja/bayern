@@ -1,11 +1,11 @@
 id: 125314162
-type: way
+type: node
 latitude: 48.84781
 longitude: 12.95945
 postcode: "94469"
 city: Deggendorf
-street: "Graflinger Straße"
-housenumber: 126
+street: Graflinger Straße
+housenumber: "126"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

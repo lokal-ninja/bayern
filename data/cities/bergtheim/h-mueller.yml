@@ -1,11 +1,11 @@
 id: 431073825
-type: way
+type: node
 latitude: 49.92222
 longitude: 10.07709
 postcode: "97241"
 city: Bergtheim
-street: "Jahnstraße"
-housenumber: 1
+street: Jahnstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

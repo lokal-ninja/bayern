@@ -4,8 +4,9 @@ latitude: 48.11249
 longitude: 11.55127
 postcode: "81371"
 city: München
-street: "Brudermühlstraße"
-housenumber: 18
-phone: "+49 89 41552074"
-opening_hours: "Mo 12:00-17:30; Tu 08:00-19:00; We 12:00-20:00; Th 12:00-19:00; Fr 10:00-14:00"
-website: "https://ritzelkitzel.com/"
+street: Brudermühlstraße
+housenumber: "18"
+phone: +49 89 41552074
+opening_hours: Mo 12:00-17:30; Tu 08:00-19:00; We 12:00-20:00; Th 12:00-19:00; Fr
+    10:00-14:00
+website: https://ritzelkitzel.com/

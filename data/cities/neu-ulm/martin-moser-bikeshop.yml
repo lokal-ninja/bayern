@@ -1,11 +1,11 @@
 id: 139440942
-type: way
+type: node
 latitude: 48.41306
 longitude: 10.07077
 postcode: "89233"
 city: Neu-Ulm
-street: "Waidmannstraße"
-housenumber: 40
-phone: "+49 731 71883019"
-opening_hours: "Mo-Fr 09:00-20:00; We off; Sa 09:00-15:00"
+street: Waidmannstraße
+housenumber: "40"
+phone: +49 731 71883019
+opening_hours: Mo-Fr 09:00-20:00; We off; Sa 09:00-15:00
 website: ""

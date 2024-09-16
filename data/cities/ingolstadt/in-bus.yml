@@ -1,11 +1,11 @@
 id: 30066049
-type: way
+type: node
 latitude: 48.74578
 longitude: 11.46252
 postcode: "85053"
 city: Ingolstadt
-street: "Messerschmittstraße"
-housenumber: 12
+street: Messerschmittstraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

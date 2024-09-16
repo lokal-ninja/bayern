@@ -1,11 +1,11 @@
 id: 131742626
-type: way
+type: node
 latitude: 48.38763
 longitude: 10.05991
 postcode: "89233"
 city: Neu-Ulm
-street: "Breitenhofstraße"
-housenumber: 110
-phone: "+49 731 722 001"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
-website: "http://blumen-weimar.com/"
+street: Breitenhofstraße
+housenumber: "110"
+phone: +49 731 722 001
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00
+website: http://blumen-weimar.com/

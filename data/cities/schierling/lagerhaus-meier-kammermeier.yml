@@ -1,11 +1,11 @@
 id: 405440619
-type: way
+type: node
 latitude: 48.83787
 longitude: 12.18389
 postcode: "84069"
 city: Schierling
-street: "Bahnhofstraße"
-housenumber: 1
-phone: "+49 9451 94330"
-opening_hours: "Mo-Fr 09:00-12:00,13:00-17:00"
-website: "https://www.meier-kammermeier.de/"
+street: Bahnhofstraße
+housenumber: "1"
+phone: +49 9451 94330
+opening_hours: Mo-Fr 09:00-12:00,13:00-17:00
+website: https://www.meier-kammermeier.de/

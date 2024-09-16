@@ -4,8 +4,8 @@ latitude: 48.36865
 longitude: 10.8964
 postcode: "86150"
 city: Augsburg
-street: "Annastraße"
-housenumber: 15
-phone: "+49 821 516572"
-opening_hours: "Mo-Sa 09:30-19:00; Su off"
-website: "https://www.eilles-tee.de"
+street: Annastraße
+housenumber: "15"
+phone: +49 821 516572
+opening_hours: Mo-Sa 09:30-19:00; Su off
+website: https://www.eilles-tee.de

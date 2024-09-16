@@ -1,11 +1,11 @@
 id: 381809600
-type: way
+type: node
 latitude: 48.45676
 longitude: 10.65919
 postcode: "86465"
 city: Welden
-street: "Bahnhofstraße"
-housenumber: 2
-phone: "+49 8293 90012"
+street: Bahnhofstraße
+housenumber: "2"
+phone: +49 8293 90012
 opening_hours: ""
-website: "https://www.alexandra-schuhe-welden.de"
+website: https://www.alexandra-schuhe-welden.de

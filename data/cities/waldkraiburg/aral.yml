@@ -1,11 +1,11 @@
 id: 88756263
-type: way
+type: node
 latitude: 48.21125
 longitude: 12.41749
 postcode: "84478"
 city: Waldkraiburg
-street: "Teplitzer Straße"
-housenumber: 24
+street: Teplitzer Straße
+housenumber: "24"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.10212
 longitude: 11.66277
 postcode: "81735"
 city: München
-street: "Franz-Heubl-Straße"
-housenumber: 39
-phone: "+49 89 370 313 40"
-opening_hours: "Tu-Fr 07:00-18:00; Sa-Su 08:30-18:00"
+street: Franz-Heubl-Straße
+housenumber: "39"
+phone: +49 89 370 313 40
+opening_hours: Tu-Fr 07:00-18:00; Sa-Su 08:30-18:00
 website: ""

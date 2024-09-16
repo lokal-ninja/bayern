@@ -4,8 +4,8 @@ latitude: 49.44449
 longitude: 11.85829
 postcode: "92224"
 city: Amberg
-street: "Salzstadelplatz"
-housenumber: 7
-phone: "+49 9621 6898986"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00"
-website: "http://www.stilgefuehl.net/"
+street: Salzstadelplatz
+housenumber: "7"
+phone: +49 9621 6898986
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-16:00
+website: http://www.stilgefuehl.net/

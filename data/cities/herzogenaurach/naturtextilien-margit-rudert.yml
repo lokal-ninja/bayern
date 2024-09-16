@@ -4,8 +4,8 @@ latitude: 49.5685
 longitude: 10.88248
 postcode: "91074"
 city: Herzogenaurach
-street: "Hauptstraße"
-housenumber: 14
-phone: "+49 9132 9717"
-opening_hours: "Mo,Tu,Th,Fr 10:00-13:00,14:30-17:00; We,Sa 10:00-13:00"
-website: "http://www.naturtextilien-rudert.de/"
+street: Hauptstraße
+housenumber: "14"
+phone: +49 9132 9717
+opening_hours: Mo,Tu,Th,Fr 10:00-13:00,14:30-17:00; We,Sa 10:00-13:00
+website: http://www.naturtextilien-rudert.de/

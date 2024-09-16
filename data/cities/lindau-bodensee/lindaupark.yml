@@ -1,11 +1,11 @@
 id: 69211123
-type: way
+type: node
 latitude: 47.55335
 longitude: 9.70277
 postcode: "88131"
 city: Lindau (Bodensee)
-street: "Kemptener Straße"
-housenumber: 1
+street: Kemptener Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:00"
-website: "https://www.lindaupark.de/"
+opening_hours: Mo-Sa 08:30-20:00
+website: https://www.lindaupark.de/

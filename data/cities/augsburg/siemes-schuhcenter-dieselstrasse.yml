@@ -1,11 +1,11 @@
 id: 209249781
-type: way
+type: node
 latitude: 48.38556
 longitude: 10.88191
 postcode: "86154"
 city: Augsburg
-street: "Dieselstraße"
-housenumber: 6
+street: Dieselstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

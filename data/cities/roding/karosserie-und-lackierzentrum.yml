@@ -1,11 +1,11 @@
 id: 357216674
-type: way
+type: node
 latitude: 49.19957
 longitude: 12.51044
 postcode: "93426"
 city: Roding
-street: "Hauptstraße"
-housenumber: 16
+street: Hauptstraße
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

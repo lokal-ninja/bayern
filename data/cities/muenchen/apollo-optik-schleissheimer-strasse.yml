@@ -4,8 +4,8 @@ latitude: 48.21265
 longitude: 11.56336
 postcode: "80933"
 city: München
-street: "Schleißheimer Straße"
-housenumber: 506
-phone: "+49 89 31813620"
-opening_hours: "Mo-Sa 09:30-20:00; PH off"
-website: "https://www.apollo.de/filialen/muenchen/schleissheimer-str-506-7482"
+street: Schleißheimer Straße
+housenumber: "506"
+phone: +49 89 31813620
+opening_hours: Mo-Sa 09:30-20:00; PH off
+website: https://www.apollo.de/filialen/muenchen/schleissheimer-str-506-7482

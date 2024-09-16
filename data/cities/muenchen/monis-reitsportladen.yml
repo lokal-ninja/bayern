@@ -1,11 +1,11 @@
 id: 221899984
-type: way
+type: node
 latitude: 48.09954
 longitude: 11.50479
 postcode: "81476"
 city: München
-street: "Kreuzhofstraße"
-housenumber: 15
+street: Kreuzhofstraße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 10:30-18:00; Sa 09:00-13:00"
+opening_hours: Mo-Fr 10:30-18:00; Sa 09:00-13:00
 website: ""

@@ -1,11 +1,11 @@
 id: 667216778
-type: way
+type: node
 latitude: 49.94949
 longitude: 12.23995
 postcode: "95666"
 city: Mitterteich
-street: "Vorstadt"
-housenumber: 25
+street: Vorstadt
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

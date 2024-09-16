@@ -1,11 +1,11 @@
 id: 53843229
-type: way
+type: node
 latitude: 48.79259
 longitude: 11.37483
 postcode: "85080"
 city: Gaimersheim
-street: "Siemensstraße"
-housenumber: 1
-phone: "+49 8458 3278-0"
-opening_hours: "Mo-Fr 10:00-19:30; Sa 09:30-18:00"
+street: Siemensstraße
+housenumber: "1"
+phone: +49 8458 3278-0
+opening_hours: Mo-Fr 10:00-19:30; Sa 09:30-18:00
 website: ""

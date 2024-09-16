@@ -4,8 +4,8 @@ latitude: 48.09779
 longitude: 11.5802
 postcode: "81547"
 city: München
-street: "Naupliastraße"
-housenumber: 6
+street: Naupliastraße
+housenumber: "6"
 phone: ""
-opening_hours: "We-Fr 10:00-17:00; Sa-Su 09:00-17:00"
-website: "https://www.maycake.de"
+opening_hours: We-Fr 10:00-17:00; Sa-Su 09:00-17:00
+website: https://www.maycake.de

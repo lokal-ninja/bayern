@@ -4,8 +4,8 @@ latitude: 49.80402
 longitude: 10.732
 postcode: "96138"
 city: Burgebrach
-street: "Hans-Thomann-Straße"
-housenumber: 1
+street: Hans-Thomann-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-16:00"
-website: "https://www.thomann.de/de/compinfo_route.html"
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-16:00
+website: https://www.thomann.de/de/compinfo_route.html

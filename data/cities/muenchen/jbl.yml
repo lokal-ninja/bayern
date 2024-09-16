@@ -4,8 +4,8 @@ latitude: 48.13472
 longitude: 11.56882
 postcode: "80331"
 city: München
-street: "Sendlinger Straße"
-housenumber: 46
-phone: "+49 89 358701400"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://de.harmanaudio.com/munich-store.html"
+street: Sendlinger Straße
+housenumber: "46"
+phone: +49 89 358701400
+opening_hours: Mo-Sa 10:00-19:00
+website: https://de.harmanaudio.com/munich-store.html

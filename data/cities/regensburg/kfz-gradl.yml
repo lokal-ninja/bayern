@@ -1,11 +1,11 @@
 id: 118550148
-type: way
+type: node
 latitude: 48.98444
 longitude: 12.14805
 postcode: "93055"
 city: Regensburg
-street: "Ohmstraße"
-housenumber: 6
-phone: "+49 941 703250"
+street: Ohmstraße
+housenumber: "6"
+phone: +49 941 703250
 opening_hours: ""
-website: "https://www.kfz-gradl.de/"
+website: https://www.kfz-gradl.de/

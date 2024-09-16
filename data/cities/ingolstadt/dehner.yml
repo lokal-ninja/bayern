@@ -1,11 +1,11 @@
 id: 28111883
-type: way
+type: node
 latitude: 48.76919
 longitude: 11.39406
 postcode: ""
 city: Ingolstadt
-street: "Degenhartstraße"
-housenumber: 2
+street: Degenhartstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00; PH off"
+opening_hours: Mo-Sa 09:00-20:00; PH off
 website: ""

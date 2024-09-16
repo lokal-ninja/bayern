@@ -1,11 +1,11 @@
 id: 87578446
-type: way
+type: node
 latitude: 48.98162
 longitude: 12.18604
 postcode: "93073"
 city: Neutraubling
-street: "Hartinger Straße"
-housenumber: 7
-phone: "+49 9401 913205"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 10:00-14:00"
-website: "https://www.weitmeier-berufsmoden.de/"
+street: Hartinger Straße
+housenumber: "7"
+phone: +49 9401 913205
+opening_hours: Mo-Fr 08:00-17:00; Sa 10:00-14:00
+website: https://www.weitmeier-berufsmoden.de/

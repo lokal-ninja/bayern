@@ -4,8 +4,8 @@ latitude: 49.82851
 longitude: 10.74944
 postcode: "96138"
 city: Burgebrach
-street: "Industriestraße"
-housenumber: 1
-phone: "+49 9546 6803"
-opening_hours: "Mo-Fr 08:00-18:00;Sa 08:00-13:00;PH off"
-website: "https://www.bauspezi-burgebrach.de"
+street: Industriestraße
+housenumber: "1"
+phone: +49 9546 6803
+opening_hours: Mo-Fr 08:00-18:00;Sa 08:00-13:00;PH off
+website: https://www.bauspezi-burgebrach.de

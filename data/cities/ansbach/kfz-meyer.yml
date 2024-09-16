@@ -1,11 +1,11 @@
 id: 819875551
-type: way
+type: node
 latitude: 49.29463
 longitude: 10.60201
 postcode: "91522"
 city: Ansbach
-street: "Windsbacher Straße"
-housenumber: 29
+street: Windsbacher Straße
+housenumber: "29"
 phone: ""
 opening_hours: ""
-website: "https://www.autolackiererei-meyer.de"
+website: https://www.autolackiererei-meyer.de

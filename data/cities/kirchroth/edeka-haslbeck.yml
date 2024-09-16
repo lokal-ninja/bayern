@@ -1,11 +1,11 @@
 id: 88113742
-type: way
+type: node
 latitude: 48.94776
 longitude: 12.54589
 postcode: "94356"
 city: Kirchroth
-street: "Otto-Hiendl-Straße"
-housenumber: 7
+street: Otto-Hiendl-Straße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:00 Sa 07:30-18:00"
+opening_hours: Mo-Fr 07:30-19:00 Sa 07:30-18:00
 website: ""

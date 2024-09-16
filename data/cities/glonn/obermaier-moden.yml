@@ -4,8 +4,8 @@ latitude: 47.98732
 longitude: 11.86704
 postcode: "85625"
 city: Glonn
-street: "Prof.-Lebsche-Straße"
-housenumber: 7
+street: Prof.-Lebsche-Straße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00; PH off"
-website: "https://www.obermaier-moden.de/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00; PH off
+website: https://www.obermaier-moden.de/

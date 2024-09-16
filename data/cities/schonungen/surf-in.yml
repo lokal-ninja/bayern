@@ -1,11 +1,11 @@
 id: 299493455
-type: way
+type: node
 latitude: 50.07402
 longitude: 10.39121
 postcode: "97453"
 city: Schonungen
-street: "Abersfelder Hauptstraße"
-housenumber: 60
+street: Abersfelder Hauptstraße
+housenumber: "60"
 phone: ""
 opening_hours: ""
 website: ""

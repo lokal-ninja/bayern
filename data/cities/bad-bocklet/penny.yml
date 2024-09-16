@@ -1,11 +1,11 @@
 id: 98704485
-type: way
+type: node
 latitude: 50.24547
 longitude: 10.07251
 postcode: "97708"
 city: Bad Bocklet
-street: "Mangelsfeld"
-housenumber: 2
+street: Mangelsfeld
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

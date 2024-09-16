@@ -1,11 +1,11 @@
 id: 238132016
-type: way
+type: node
 latitude: 48.4477
 longitude: 10.22944
 postcode: "89340"
 city: Leipheim
-street: "Maximilianstraße"
-housenumber: 28
+street: Maximilianstraße
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

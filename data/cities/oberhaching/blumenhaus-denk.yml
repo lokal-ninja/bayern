@@ -4,8 +4,8 @@ latitude: 48.02686
 longitude: 11.59921
 postcode: "82041"
 city: Oberhaching
-street: "Münchner Straße"
-housenumber: 2
+street: Münchner Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 08:00-18:00; We,Sa 08:00-12:00"
+opening_hours: Mo,Tu,Th,Fr 08:00-18:00; We,Sa 08:00-12:00
 website: ""

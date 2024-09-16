@@ -4,8 +4,8 @@ latitude: 48.35058
 longitude: 10.88085
 postcode: "86199"
 city: Augsburg
-street: "Depotstraße"
-housenumber: 5
+street: Depotstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00; PH off"
-website: "https://www.der-sozialmarkt.de/gebrauchtwaren"
+opening_hours: Mo-Fr 09:00-17:00; PH off
+website: https://www.der-sozialmarkt.de/gebrauchtwaren

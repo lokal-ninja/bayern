@@ -4,8 +4,8 @@ latitude: 49.45184
 longitude: 11.07452
 postcode: "90403"
 city: Nürnberg
-street: "Adlerstraße"
-housenumber: 40
+street: Adlerstraße
+housenumber: "40"
 phone: ""
-opening_hours: "Mo-Fr 11:00-19:00; Sa 10:00-19:00"
+opening_hours: Mo-Fr 11:00-19:00; Sa 10:00-19:00
 website: ""

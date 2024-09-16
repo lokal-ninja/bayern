@@ -4,8 +4,8 @@ latitude: 50.24861
 longitude: 10.96406
 postcode: "96450"
 city: Coburg
-street: "Bamberger Straße"
-housenumber: 34
-phone: "+49 9561 28909"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 07:00-16:00"
-website: "https://www.beiersdorfer-landbrot.de"
+street: Bamberger Straße
+housenumber: "34"
+phone: +49 9561 28909
+opening_hours: Mo-Fr 06:00-18:00; Sa 07:00-16:00
+website: https://www.beiersdorfer-landbrot.de

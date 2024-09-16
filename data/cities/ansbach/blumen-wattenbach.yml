@@ -4,8 +4,8 @@ latitude: 49.29599
 longitude: 10.57095
 postcode: "91522"
 city: Ansbach
-street: "Heilig-Kreuz-Straße"
-housenumber: 6
-phone: "+49 981 2649"
-opening_hours: "Mo,We,Fr 09:00-17:30; Tu 09:00-14:00; Sa 09:00-13:00"
+street: Heilig-Kreuz-Straße
+housenumber: "6"
+phone: +49 981 2649
+opening_hours: Mo,We,Fr 09:00-17:30; Tu 09:00-14:00; Sa 09:00-13:00
 website: ""

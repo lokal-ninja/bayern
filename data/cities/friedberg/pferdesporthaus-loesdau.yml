@@ -1,11 +1,11 @@
 id: 442603884
-type: way
+type: node
 latitude: 48.4067
 longitude: 10.94863
 postcode: "86316"
 city: Friedberg
-street: "Winterbruckenweg"
-housenumber: 56
+street: Winterbruckenweg
+housenumber: "56"
 phone: ""
 opening_hours: ""
-website: "https://www.loesdau.de/friedberg"
+website: https://www.loesdau.de/friedberg

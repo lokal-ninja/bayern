@@ -1,11 +1,11 @@
 id: 87424920
-type: way
+type: node
 latitude: 49.7073
 longitude: 10.80137
 postcode: "91315"
 city: Höchstadt a.d.Aisch
-street: "Rothenburger Straße"
-housenumber: 5
+street: Rothenburger Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

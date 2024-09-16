@@ -1,11 +1,11 @@
 id: 87278258
-type: way
+type: node
 latitude: 48.36284
 longitude: 10.92305
 postcode: "86161"
 city: Augsburg
-street: "Reichenberger Straße"
-housenumber: 49
+street: Reichenberger Straße
+housenumber: "49"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
+opening_hours: Mo-Sa 08:00-20:00; PH off
 website: ""

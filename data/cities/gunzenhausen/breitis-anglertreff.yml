@@ -1,11 +1,11 @@
 id: 140723149
-type: way
+type: node
 latitude: 49.10597
 longitude: 10.72635
 postcode: "91710"
 city: Gunzenhausen
-street: "Lindermer"
-housenumber: 1
+street: Lindermer
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.82605
 longitude: 12.10306
 postcode: "83026"
 city: Rosenheim
-street: "Aisinger Straße"
-housenumber: 111
-phone: "+49 8031 267494"
-opening_hours: "Mo-Tu, Th-Fr 08:30-12:30, 14:00-18:00; We 08:30-13:30; Sa 07:30-12:00"
-website: "https://www.fruga.de/standorte/"
+street: Aisinger Straße
+housenumber: "111"
+phone: +49 8031 267494
+opening_hours: Mo-Tu, Th-Fr 08:30-12:30, 14:00-18:00; We 08:30-13:30; Sa 07:30-12:00
+website: https://www.fruga.de/standorte/

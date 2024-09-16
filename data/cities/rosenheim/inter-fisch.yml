@@ -1,11 +1,11 @@
 id: 150665440
-type: way
+type: node
 latitude: 47.84984
 longitude: 12.13704
 postcode: "83022"
 city: Rosenheim
-street: "Chiemseestraße"
-housenumber: 41
+street: Chiemseestraße
+housenumber: "41"
 phone: ""
-opening_hours: "Mo-We 08:00-16:00; Th,Fr 08:00-18:00; Sa 09:00-14:00; PH,Su off"
+opening_hours: Mo-We 08:00-16:00; Th,Fr 08:00-18:00; Sa 09:00-14:00; PH,Su off
 website: ""

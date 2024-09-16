@@ -4,8 +4,9 @@ latitude: 48.38904
 longitude: 10.04464
 postcode: "89231"
 city: Neu-Ulm
-street: "Böttgerstraße"
-housenumber: 16
-phone: "+49 731 974650"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00; Su,PH off || Für Privatkunden Di-Sa geöffnet"
-website: "http://fein-fisch.de"
+street: Böttgerstraße
+housenumber: "16"
+phone: +49 731 974650
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00; Su,PH off || "Für Privatkunden Di-Sa
+    geöffnet"
+website: http://fein-fisch.de

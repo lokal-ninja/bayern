@@ -1,11 +1,12 @@
 id: 30091671
-type: way
+type: node
 latitude: 48.16494
 longitude: 11.72868
 postcode: "85609"
 city: Aschheim
-street: "Uhlandstraße"
-housenumber: 10
-phone: "+49 89 991542 0"
-opening_hours: "Mo,Tu,Th 05:00-14:00; We 05:00-20:00; Fr 05:00-13:00; Sa 05:00-09:00; Su,PH off"
-website: "https://www.landgard.de/"
+street: Uhlandstraße
+housenumber: "10"
+phone: +49 89 991542 0
+opening_hours: Mo,Tu,Th 05:00-14:00; We 05:00-20:00; Fr 05:00-13:00; Sa 05:00-09:00;
+    Su,PH off
+website: https://www.landgard.de/

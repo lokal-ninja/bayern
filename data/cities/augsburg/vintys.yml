@@ -4,8 +4,8 @@ latitude: 48.36934
 longitude: 10.90137
 postcode: "86152"
 city: Augsburg
-street: "Oberer Graben"
-housenumber: 4
-phone: "(0821) 34 96 028"
-opening_hours: "Tu-Fr 11:00-17:30; Sa 11:00-17:00"
-website: "https://www.vintys.de/shops/vintys-augsburg"
+street: Oberer Graben
+housenumber: "4"
+phone: (0821) 34 96 028
+opening_hours: Tu-Fr 11:00-17:30; Sa 11:00-17:00
+website: https://www.vintys.de/shops/vintys-augsburg

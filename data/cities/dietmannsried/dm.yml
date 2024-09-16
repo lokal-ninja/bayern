@@ -1,11 +1,11 @@
 id: 678609531
-type: way
+type: node
 latitude: 47.80443
 longitude: 10.29991
 postcode: "87463"
 city: Dietmannsried
-street: "Raiffeisenstraße"
-housenumber: 4
+street: Raiffeisenstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

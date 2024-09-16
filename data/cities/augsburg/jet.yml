@@ -1,11 +1,11 @@
 id: 110775694
-type: way
+type: node
 latitude: 48.3778
 longitude: 10.91344
 postcode: "86167"
 city: Augsburg
-street: "Schillstraße"
-housenumber: 5
-phone: "0821 713808"
-opening_hours: "Mo-Sa 06:00-24:00; Su 07:30-24:00"
-website: "https://www.jet.de/tankstellen/augsburg/schillstrasse-5"
+street: Schillstraße
+housenumber: "5"
+phone: 0821 713808
+opening_hours: Mo-Sa 06:00-24:00; Su 07:30-24:00
+website: https://www.jet.de/tankstellen/augsburg/schillstrasse-5

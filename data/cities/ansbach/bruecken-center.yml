@@ -1,11 +1,11 @@
 id: 25457676
-type: way
+type: node
 latitude: 49.3067
 longitude: 10.56853
 postcode: "91522"
 city: Ansbach
-street: "Residenzstraße"
+street: Residenzstraße
 housenumber: 2-6
 phone: ""
 opening_hours: ""
-website: "https://www.bc-ansbach.de"
+website: https://www.bc-ansbach.de

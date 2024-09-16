@@ -4,8 +4,8 @@ latitude: 47.75142
 longitude: 11.37467
 postcode: "82377"
 city: Penzberg
-street: "Friedrich-Ebert-Straße"
-housenumber: 2
-phone: "+49 8856 2237"
-opening_hours: "Mo-Fr 8:00-12:30, 14:00-18:00; Sa 9:00-13:00; PH off"
-website: "https://zankershop.de/"
+street: Friedrich-Ebert-Straße
+housenumber: "2"
+phone: +49 8856 2237
+opening_hours: Mo-Fr 8:00-12:30, 14:00-18:00; Sa 9:00-13:00; PH off
+website: https://zankershop.de/

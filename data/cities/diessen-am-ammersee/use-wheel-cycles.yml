@@ -4,8 +4,8 @@ latitude: 47.95079
 longitude: 11.10605
 postcode: "86911"
 city: Dießen am Ammersee
-street: "Bahnhofstraße"
-housenumber: 23
-phone: "+49 8807 9009440"
-opening_hours: "Tu-Fr 09:00-13:00, Tu,We,Fr 15:00-18:00, Th 15:00-17:00, Sa 09:00-13:00"
-website: "https://www.use-wheel.de"
+street: Bahnhofstraße
+housenumber: "23"
+phone: +49 8807 9009440
+opening_hours: Tu-Fr 09:00-13:00, Tu,We,Fr 15:00-18:00, Th 15:00-17:00, Sa 09:00-13:00
+website: https://www.use-wheel.de

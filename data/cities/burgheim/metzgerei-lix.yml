@@ -1,11 +1,11 @@
 id: 342867830
-type: way
+type: node
 latitude: 48.7003
 longitude: 11.01727
 postcode: "86666"
 city: Burgheim
-street: "Marktplatz"
-housenumber: 8
-phone: "+49 8432 240"
-opening_hours: "Mo-Th 07:00-13:00; Mo-Th 14:00-18:00; Fr 07:00-18:00; Sa 6:30-12:00"
+street: Marktplatz
+housenumber: "8"
+phone: +49 8432 240
+opening_hours: Mo-Th 07:00-13:00; Mo-Th 14:00-18:00; Fr 07:00-18:00; Sa 6:30-12:00
 website: ""

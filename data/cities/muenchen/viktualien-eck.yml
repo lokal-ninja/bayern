@@ -4,8 +4,8 @@ latitude: 48.16408
 longitude: 11.62871
 postcode: "81925"
 city: München
-street: "Cosimastraße"
-housenumber: 121
+street: Cosimastraße
+housenumber: "121"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00, Sa 07:00-16:00"
-website: "https://viktualieneck.wordpress.com/"
+opening_hours: Mo-Fr 07:00-19:00, Sa 07:00-16:00
+website: https://viktualieneck.wordpress.com/

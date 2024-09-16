@@ -4,8 +4,8 @@ latitude: 48.25018
 longitude: 11.6512
 postcode: "85748"
 city: Garching
-street: "Bürgerplatz"
-housenumber: 12
+street: Bürgerplatz
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00, Sa 10:00-14:00"
-website: "https://schuh-roos.de/"
+opening_hours: Mo-Fr 10:00-19:00, Sa 10:00-14:00
+website: https://schuh-roos.de/

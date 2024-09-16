@@ -1,11 +1,11 @@
 id: 173762701
-type: way
+type: node
 latitude: 50.30094
 longitude: 11.05397
 postcode: "96472"
 city: Rödental
-street: "Mönchrödener Straße"
-housenumber: 44
+street: Mönchrödener Straße
+housenumber: "44"
 phone: ""
 opening_hours: ""
 website: ""

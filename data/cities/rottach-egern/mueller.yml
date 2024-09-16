@@ -1,11 +1,11 @@
 id: 228110338
-type: way
+type: node
 latitude: 47.6909
 longitude: 11.77165
 postcode: "83700"
 city: Rottach-Egern
-street: "Ludwig-Thoma-Straße"
-housenumber: 4
+street: Ludwig-Thoma-Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

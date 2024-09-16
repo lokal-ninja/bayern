@@ -1,11 +1,11 @@
 id: 286671250
-type: way
+type: node
 latitude: 48.25246
 longitude: 12.53094
 postcode: "84453"
 city: Mühldorf am Inn
-street: "Bürgermeister-Hess-Straße"
-housenumber: 8
+street: Bürgermeister-Hess-Straße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 07:30-20:00"
+opening_hours: Mo-Sa 07:30-20:00
 website: ""

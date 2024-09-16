@@ -1,11 +1,11 @@
 id: 263306110
-type: way
+type: node
 latitude: 48.10102
 longitude: 10.48301
 postcode: "87775"
 city: Salgen
-street: "Mindelheimer Straße"
-housenumber: 61
+street: Mindelheimer Straße
+housenumber: "61"
 phone: ""
 opening_hours: ""
 website: ""

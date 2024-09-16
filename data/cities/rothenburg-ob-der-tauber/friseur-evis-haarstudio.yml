@@ -4,8 +4,8 @@ latitude: 49.37283
 longitude: 10.18058
 postcode: "91541"
 city: Rothenburg ob der Tauber
-street: "Spitalgasse"
-housenumber: 23
-phone: "+49 9861875385"
-opening_hours: "Mo off; Tu-Fr 08:00-12:00,14:00-18:00; Sa 08:00-12:00; Su off"
+street: Spitalgasse
+housenumber: "23"
+phone: +49 9861875385
+opening_hours: Mo off; Tu-Fr 08:00-12:00,14:00-18:00; Sa 08:00-12:00; Su off
 website: ""

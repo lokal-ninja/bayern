@@ -1,11 +1,11 @@
 id: 1222958352
-type: way
+type: node
 latitude: 48.75837
 longitude: 11.43322
 postcode: "85051"
 city: Ingolstadt
-street: "Stauffenbergstraße"
-housenumber: 11
+street: Stauffenbergstraße
+housenumber: "11"
 phone: ""
-opening_hours: "closed"
+opening_hours: closed
 website: ""

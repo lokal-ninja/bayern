@@ -1,11 +1,11 @@
 id: 65254859
-type: way
+type: node
 latitude: 50.3293
 longitude: 11.70749
 postcode: "95119"
 city: Naila
-street: "Neue Straße"
-housenumber: 10
+street: Neue Straße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

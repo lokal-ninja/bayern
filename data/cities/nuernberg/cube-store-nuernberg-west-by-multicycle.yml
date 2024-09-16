@@ -4,8 +4,8 @@ latitude: 49.44545
 longitude: 11.00694
 postcode: "90431"
 city: Nürnberg
-street: "Sigmundstraße"
-housenumber: 180
-phone: "+49 911 96 57 46 74"
-opening_hours: "Mo-Fr 10:00-18:30; Sa 09:00-15:00; Su,PH off"
-website: "https://multicycle.de/cube-store-nuernberg-west/"
+street: Sigmundstraße
+housenumber: "180"
+phone: +49 911 96 57 46 74
+opening_hours: Mo-Fr 10:00-18:30; Sa 09:00-15:00; Su,PH off
+website: https://multicycle.de/cube-store-nuernberg-west/

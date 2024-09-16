@@ -4,8 +4,8 @@ latitude: 48.13779
 longitude: 11.57317
 postcode: "80331"
 city: München
-street: "Kaufingerstraße"
-housenumber: 22
+street: Kaufingerstraße
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.hm.com/om/store-locator/germany/munich/kaufingerstrasse-22/"
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.hm.com/om/store-locator/germany/munich/kaufingerstrasse-22/

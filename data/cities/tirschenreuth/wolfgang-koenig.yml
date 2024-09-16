@@ -1,11 +1,11 @@
 id: 222782383
-type: way
+type: node
 latitude: 49.87943
 longitude: 12.33708
 postcode: "95643"
 city: Tirschenreuth
-street: "Koloman-Maurer-Straße"
-housenumber: 6
+street: Koloman-Maurer-Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

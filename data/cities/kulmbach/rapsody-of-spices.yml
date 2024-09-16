@@ -1,11 +1,11 @@
 id: 427822816
-type: way
+type: node
 latitude: 50.11068
 longitude: 11.43878
 postcode: "95326"
 city: Kulmbach
-street: "Adalbert-Raps-Straße"
-housenumber: 1
-phone: "+49 9221 807199"
-opening_hours: "Mo-Th 10:00-13:00,13:30-17:30; Fr 10:00-13:00,13:30-15:30"
-website: "https://www.rapsodyofspices.de/"
+street: Adalbert-Raps-Straße
+housenumber: "1"
+phone: +49 9221 807199
+opening_hours: Mo-Th 10:00-13:00,13:30-17:30; Fr 10:00-13:00,13:30-15:30
+website: https://www.rapsodyofspices.de/

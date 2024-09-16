@@ -1,11 +1,11 @@
 id: 108157017
-type: way
+type: node
 latitude: 47.74797
 longitude: 11.56575
 postcode: "83646"
 city: Bad Tölz
-street: "Lenggrieser Straße"
-housenumber: 87
+street: Lenggrieser Straße
+housenumber: "87"
 phone: ""
 opening_hours: ""
 website: ""

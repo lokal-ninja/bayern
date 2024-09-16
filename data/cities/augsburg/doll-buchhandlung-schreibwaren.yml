@@ -4,8 +4,8 @@ latitude: 48.39599
 longitude: 10.9125
 postcode: "86169"
 city: Augsburg
-street: "Karlsbader Straße"
-housenumber: 19
+street: Karlsbader Straße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:30; Sa 7:00-14:00"
-website: "http://www.doll-online.de/"
+opening_hours: Mo-Fr 07:00-18:30; Sa 7:00-14:00
+website: http://www.doll-online.de/

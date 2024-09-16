@@ -1,11 +1,11 @@
 id: 449768078
-type: way
+type: node
 latitude: 50.38946
 longitude: 11.87262
 postcode: "95183"
 city: Töpen
-street: "Schleizer Straße"
-housenumber: 31
+street: Schleizer Straße
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

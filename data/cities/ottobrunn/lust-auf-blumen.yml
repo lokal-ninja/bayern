@@ -4,8 +4,8 @@ latitude: 48.06155
 longitude: 11.66418
 postcode: "85521"
 city: Ottobrunn
-street: "Nimrodstraße"
-housenumber: 1
+street: Nimrodstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Tu-Th 09:00-23:00; Fr,Sa 09:00-23:00+; Su 09:00-16:00"
+opening_hours: Tu-Th 09:00-23:00; Fr,Sa 09:00-23:00+; Su 09:00-16:00
 website: ""

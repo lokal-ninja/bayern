@@ -1,11 +1,11 @@
 id: 95308802
-type: way
+type: node
 latitude: 48.43466
 longitude: 11.1114
 postcode: "86551"
 city: Aichach
-street: "Industriestraße"
-housenumber: 33
+street: Industriestraße
+housenumber: "33"
 phone: ""
 opening_hours: ""
-website: "https://www.auto-michael-klein.de/"
+website: https://www.auto-michael-klein.de/

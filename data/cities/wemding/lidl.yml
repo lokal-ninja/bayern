@@ -1,11 +1,11 @@
 id: 137971272
-type: way
+type: node
 latitude: 48.87369
 longitude: 10.70983
 postcode: "86650"
 city: Wemding
-street: "Bahnhofstraße"
-housenumber: 44
+street: Bahnhofstraße
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

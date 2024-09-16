@@ -4,8 +4,9 @@ latitude: 49.84337
 longitude: 9.1486
 postcode: "63785"
 city: Obernburg am Main
-street: "Römerstraße"
-housenumber: 85
-phone: "+49 6022 8585"
-opening_hours: "Tu 10:00-20:00, We,Th 08:00-18:00, Fr 10:00-20:00, Sa 08:00-14:00; PH off"
-website: "https://www.schramm-friseurteam.de/"
+street: Römerstraße
+housenumber: "85"
+phone: +49 6022 8585
+opening_hours: Tu 10:00-20:00, We,Th 08:00-18:00, Fr 10:00-20:00, Sa 08:00-14:00;
+    PH off
+website: https://www.schramm-friseurteam.de/

@@ -1,11 +1,11 @@
 id: 384423969
-type: way
+type: node
 latitude: 48.5679
 longitude: 10.84648
 postcode: "86707"
 city: Westendorf
-street: "Daimlerstraße"
-housenumber: 2
+street: Daimlerstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.camppartner24.de/"
+website: https://www.camppartner24.de/

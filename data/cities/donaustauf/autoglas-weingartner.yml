@@ -1,11 +1,11 @@
 id: 125096957
-type: way
+type: node
 latitude: 49.02967
 longitude: 12.20239
 postcode: "93093"
 city: Donaustauf
-street: "Bayerwaldstraße"
-housenumber: 1
+street: Bayerwaldstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

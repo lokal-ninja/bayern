@@ -4,8 +4,8 @@ latitude: 48.36939
 longitude: 10.89875
 postcode: "86150"
 city: Augsburg
-street: "Am Perlachberg"
-housenumber: 4
-phone: "+49 821 517 437"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00; Su off"
-website: "https://www.hemdenstadl.de"
+street: Am Perlachberg
+housenumber: "4"
+phone: +49 821 517 437
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-16:00; Su off
+website: https://www.hemdenstadl.de

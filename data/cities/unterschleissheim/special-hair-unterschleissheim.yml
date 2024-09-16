@@ -4,8 +4,8 @@ latitude: 48.27626
 longitude: 11.57293
 postcode: "85716"
 city: Unterschleißheim
-street: "Raiffeisenstraße"
-housenumber: 60
-phone: "+4989 310 13 10"
-opening_hours: "Tu,We 09:00-18:00; Th,Fr 09:00-20:00; Sa 08:00-13:00"
-website: "https://www.specialhair.de/"
+street: Raiffeisenstraße
+housenumber: "60"
+phone: +4989 310 13 10
+opening_hours: Tu,We 09:00-18:00; Th,Fr 09:00-20:00; Sa 08:00-13:00
+website: https://www.specialhair.de/

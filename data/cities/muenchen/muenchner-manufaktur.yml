@@ -4,8 +4,8 @@ latitude: 48.13441
 longitude: 11.59735
 postcode: "81667"
 city: München
-street: "Innere Wiener Straße"
-housenumber: 54
-phone: "+49 89 61457160"
-opening_hours: "Mo-Fr 10:30-19:00; Sa 10:30-17:00"
-website: "https://muenchner-manufaktur.de/"
+street: Innere Wiener Straße
+housenumber: "54"
+phone: +49 89 61457160
+opening_hours: Mo-Fr 10:30-19:00; Sa 10:30-17:00
+website: https://muenchner-manufaktur.de/

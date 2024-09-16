@@ -4,8 +4,8 @@ latitude: 48.0614
 longitude: 12.2309
 postcode: "83512"
 city: Wasserburg am Inn
-street: "Schustergasse"
-housenumber: 11
+street: Schustergasse
+housenumber: "11"
 phone: ""
-opening_hours: "Tu-Fr 10:00-18:00; Sa 10:00-16:00"
+opening_hours: Tu-Fr 10:00-18:00; Sa 10:00-16:00
 website: ""

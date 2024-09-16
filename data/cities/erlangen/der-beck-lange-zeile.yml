@@ -4,8 +4,8 @@ latitude: 49.59903
 longitude: 11.04223
 postcode: "91054"
 city: Erlangen
-street: "Lange Zeile"
-housenumber: 89
-phone: "+49 9131 50456"
-opening_hours: "Mo-Fr 06:00-16:00; Sa 06:00-14:00; Su 07:00-17:00"
+street: Lange Zeile
+housenumber: "89"
+phone: +49 9131 50456
+opening_hours: Mo-Fr 06:00-16:00; Sa 06:00-14:00; Su 07:00-17:00
 website: ""

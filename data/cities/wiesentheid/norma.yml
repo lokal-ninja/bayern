@@ -4,8 +4,8 @@ latitude: 49.78703
 longitude: 10.3419
 postcode: "97353"
 city: Wiesentheid
-street: "Korbacher Straße"
-housenumber: 2
+street: Korbacher Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH closed"
-website: "https://www.norma-online.de/de/angebote/"
+opening_hours: Mo-Sa 07:00-20:00; PH closed
+website: https://www.norma-online.de/de/angebote/

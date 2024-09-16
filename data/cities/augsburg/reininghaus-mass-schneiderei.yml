@@ -4,8 +4,8 @@ latitude: 48.36591
 longitude: 10.9011
 postcode: "86150"
 city: Augsburg
-street: "Hunoldsgraben"
-housenumber: 43
-phone: "+49 821 5407720"
-opening_hours: "Mo-Th 09:30-12:30,14:00-18:00"
-website: "https://reininghaus-massschneiderei.de"
+street: Hunoldsgraben
+housenumber: "43"
+phone: +49 821 5407720
+opening_hours: Mo-Th 09:30-12:30,14:00-18:00
+website: https://reininghaus-massschneiderei.de

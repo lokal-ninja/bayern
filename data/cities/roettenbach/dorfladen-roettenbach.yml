@@ -4,8 +4,8 @@ latitude: 49.1536
 longitude: 11.02227
 postcode: "91187"
 city: Röttenbach
-street: "Rathausplatz"
-housenumber: 5
-phone: "+49 9172 7004589"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 07:00-12:00; Su off"
-website: "https://www.xn--dorfladenrttenbach-m3b.de/"
+street: Rathausplatz
+housenumber: "5"
+phone: +49 9172 7004589
+opening_hours: Mo-Fr 07:30-18:00; Sa 07:00-12:00; Su off
+website: https://www.xn--dorfladenrttenbach-m3b.de/

@@ -4,8 +4,8 @@ latitude: 50.19051
 longitude: 11.78077
 postcode: "95213"
 city: Münchberg
-street: "Stammbacher Straße"
-housenumber: 23
-phone: "+49 9251 8171"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
-website: "https://www.expert.de/muenchberg"
+street: Stammbacher Straße
+housenumber: "23"
+phone: +49 9251 8171
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00
+website: https://www.expert.de/muenchberg

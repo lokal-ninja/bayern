@@ -1,11 +1,11 @@
 id: 1033344075
-type: way
+type: node
 latitude: 49.5692
 longitude: 10.99727
 postcode: "91058"
 city: Erlangen
-street: "Daimlerstraße"
+street: Daimlerstraße
 housenumber: 21a
-phone: "+49 9131 9089000"
+phone: +49 9131 9089000
 opening_hours: ""
 website: ""

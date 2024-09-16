@@ -1,11 +1,11 @@
 id: 121653820
-type: way
+type: node
 latitude: 48.86811
 longitude: 10.51683
 postcode: "86720"
 city: Nördlingen
-street: "Fritz-Hopf-Straße"
-housenumber: 3
+street: Fritz-Hopf-Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

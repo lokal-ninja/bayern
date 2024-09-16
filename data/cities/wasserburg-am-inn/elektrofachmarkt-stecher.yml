@@ -1,11 +1,11 @@
 id: 198278501
-type: way
+type: node
 latitude: 48.06206
 longitude: 12.22668
 postcode: "83512"
 city: Wasserburg am Inn
-street: "Knoppermühlweg"
-housenumber: 2
-phone: "+49 8071 3064"
+street: Knoppermühlweg
+housenumber: "2"
+phone: +49 8071 3064
 opening_hours: ""
 website: ""

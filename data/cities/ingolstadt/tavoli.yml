@@ -1,11 +1,11 @@
 id: 396370765
-type: way
+type: node
 latitude: 48.77769
 longitude: 11.38084
 postcode: "85049"
 city: Ingolstadt
-street: "Friedrichshofener Straße"
-housenumber: 20
+street: Friedrichshofener Straße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

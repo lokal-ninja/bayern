@@ -4,8 +4,8 @@ latitude: 47.82131
 longitude: 12.08418
 postcode: "83026"
 city: Rosenheim
-street: "Am Wasen"
-housenumber: 31
-phone: "+49 8031 67484"
-opening_hours: "24/7"
+street: Am Wasen
+housenumber: "31"
+phone: +49 8031 67484
+opening_hours: 24/7
 website: ""

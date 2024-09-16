@@ -1,11 +1,11 @@
 id: 198035429
-type: way
+type: node
 latitude: 49.98456
 longitude: 11.51273
 postcode: "95500"
 city: Heinersreuth
-street: "Unterwaizer Straße"
-housenumber: 2
-phone: "+49 9203 6861 690"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-12:00"
-website: "https://www.lc-lederwaren.de/"
+street: Unterwaizer Straße
+housenumber: "2"
+phone: +49 9203 6861 690
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-12:00
+website: https://www.lc-lederwaren.de/

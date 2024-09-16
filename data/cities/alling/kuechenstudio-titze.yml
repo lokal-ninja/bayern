@@ -1,11 +1,11 @@
 id: 345671134
-type: way
+type: node
 latitude: 48.1446
 longitude: 11.30164
 postcode: "82239"
 city: Alling
-street: "Hoflacher Straße"
-housenumber: 26
+street: Hoflacher Straße
+housenumber: "26"
 phone: ""
 opening_hours: ""
-website: "https://www.lh-kuechen.de/"
+website: https://www.lh-kuechen.de/

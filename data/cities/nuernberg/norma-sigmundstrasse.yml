@@ -1,11 +1,11 @@
 id: 96108064
-type: way
+type: node
 latitude: 49.45614
 longitude: 11.01922
 postcode: "90431"
 city: Nürnberg
-street: "Sigmundstraße"
-housenumber: 71
+street: Sigmundstraße
+housenumber: "71"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

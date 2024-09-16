@@ -4,8 +4,8 @@ latitude: 47.56767
 longitude: 10.70037
 postcode: "87629"
 city: Füssen
-street: "Brunnengasse"
-housenumber: 3
-phone: "+49 8362 6361"
-opening_hours: "Mo,Tu,Th,Fr 09:30-12:30, 14:00-18:00; We 09:30-12:30; Sa 09:30-13:00"
-website: "https://www.die-naehgalerie.de/"
+street: Brunnengasse
+housenumber: "3"
+phone: +49 8362 6361
+opening_hours: Mo,Tu,Th,Fr 09:30-12:30, 14:00-18:00; We 09:30-12:30; Sa 09:30-13:00
+website: https://www.die-naehgalerie.de/

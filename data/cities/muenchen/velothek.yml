@@ -4,8 +4,8 @@ latitude: 48.13131
 longitude: 11.59675
 postcode: "81667"
 city: München
-street: "Milchstraße"
-housenumber: 12
-phone: "+49 89 44 14 01 48"
-opening_hours: "Tu-Fr 10:00-19:00; Sa 10:00-14:00"
-website: "https://www.velothek.com/"
+street: Milchstraße
+housenumber: "12"
+phone: +49 89 44 14 01 48
+opening_hours: Tu-Fr 10:00-19:00; Sa 10:00-14:00
+website: https://www.velothek.com/

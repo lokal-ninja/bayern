@@ -4,8 +4,8 @@ latitude: 48.37376
 longitude: 10.89659
 postcode: "86152"
 city: Augsburg
-street: "Frauentorstraße"
-housenumber: 8
+street: Frauentorstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo,We,Fr 10:00-17:00; Sa 10:00-13:00; PH off"
-website: "https://www.tuff-jeans.com/"
+opening_hours: Mo,We,Fr 10:00-17:00; Sa 10:00-13:00; PH off
+website: https://www.tuff-jeans.com/

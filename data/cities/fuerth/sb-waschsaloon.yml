@@ -4,8 +4,8 @@ latitude: 49.47102
 longitude: 10.9965
 postcode: "90762"
 city: Fürth
-street: "Nürnberger Straße"
-housenumber: 32
+street: Nürnberger Straße
+housenumber: "32"
 phone: ""
-opening_hours: "PH,Mo-Su 06:00-22:00"
-website: "https://www.sb-waschsaloon.de/start.html"
+opening_hours: PH,Mo-Su 06:00-22:00
+website: https://www.sb-waschsaloon.de/start.html

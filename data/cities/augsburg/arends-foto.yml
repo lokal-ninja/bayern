@@ -4,8 +4,8 @@ latitude: 48.35513
 longitude: 10.9409
 postcode: "86163"
 city: Augsburg
-street: "Friedberger Straße"
-housenumber: 111
-phone: "+49 821 5407838"
-opening_hours: "Mo-Fr 09:00-17:30; Sa 09:00-13:00"
-website: "https://www.arends-foto.de/"
+street: Friedberger Straße
+housenumber: "111"
+phone: +49 821 5407838
+opening_hours: Mo-Fr 09:00-17:30; Sa 09:00-13:00
+website: https://www.arends-foto.de/

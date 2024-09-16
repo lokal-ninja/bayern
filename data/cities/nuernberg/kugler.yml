@@ -4,8 +4,8 @@ latitude: 49.45805
 longitude: 11.05319
 postcode: "90419"
 city: Nürnberg
-street: "Kirschgartenstraße"
-housenumber: 8
-phone: "+49 911 332605"
-opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-12:30"
-website: "http://www.baeckerei-kugler.de/"
+street: Kirschgartenstraße
+housenumber: "8"
+phone: +49 911 332605
+opening_hours: Mo-Fr 06:30-18:00; Sa 06:30-12:30
+website: http://www.baeckerei-kugler.de/

@@ -1,11 +1,11 @@
 id: 1308464899
-type: way
+type: node
 latitude: 49.37722
 longitude: 10.19029
 postcode: "91541"
 city: Rothenburg ob der Tauber
-street: "Bahnhofstraße"
-housenumber: 15
+street: Bahnhofstraße
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

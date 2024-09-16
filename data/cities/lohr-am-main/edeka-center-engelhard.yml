@@ -1,11 +1,11 @@
 id: 54225163
-type: way
+type: node
 latitude: 50.00287
 longitude: 9.57842
 postcode: "97816"
 city: Lohr am Main
-street: "Rexrothstraße"
-housenumber: 1
-phone: "+49 9352 89163"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.edeka.de/"
+street: Rexrothstraße
+housenumber: "1"
+phone: +49 9352 89163
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.edeka.de/

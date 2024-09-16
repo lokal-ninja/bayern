@@ -1,11 +1,11 @@
 id: 91731995
-type: way
+type: node
 latitude: 47.74294
 longitude: 10.30393
 postcode: "87439"
 city: Kempten (Allgäu)
-street: "Gewerbestraße"
-housenumber: 20
+street: Gewerbestraße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

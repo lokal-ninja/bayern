@@ -4,8 +4,8 @@ latitude: 49.57831
 longitude: 10.60569
 postcode: "91413"
 city: Neustadt an der Aisch
-street: "Wilhelmstraße"
-housenumber: 45
+street: Wilhelmstraße
+housenumber: "45"
 phone: "+4991618726726"
-opening_hours: "Mo-Fr 06:30 - 18:00, Sa 06:30 - 12:00, So 07:30 - 11:30"
-website: "https://backstube-merkel.de/"
+opening_hours: Mo-Fr 06:30 - 18:00, Sa 06:30 - 12:00, So 07:30 - 11:30
+website: https://backstube-merkel.de/

@@ -1,11 +1,11 @@
 id: 117849496
-type: way
+type: node
 latitude: 48.39732
 longitude: 10.01742
 postcode: "89231"
 city: Neu-Ulm
-street: "Borsigstraße"
-housenumber: 24
+street: Borsigstraße
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-12:00"
-website: "https://www.simple-repair.de/"
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-12:00
+website: https://www.simple-repair.de/

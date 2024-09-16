@@ -1,11 +1,11 @@
 id: 158293097
-type: way
+type: node
 latitude: 48.44956
 longitude: 10.08219
 postcode: "89275"
 city: Elchingen
-street: "Postgasse"
-housenumber: 1
+street: Postgasse
+housenumber: "1"
 phone: ""
-opening_hours: "Sa 05:30-13:00; Su 07:30-10:30; Mo-Fr 05:30-18:00"
+opening_hours: Sa 05:30-13:00; Su 07:30-10:30; Mo-Fr 05:30-18:00
 website: ""

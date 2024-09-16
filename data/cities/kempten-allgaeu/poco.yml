@@ -1,11 +1,11 @@
 id: 153017779
-type: way
+type: node
 latitude: 47.713
 longitude: 10.3237
 postcode: "87437"
 city: Kempten (Allgäu)
-street: "Ludwigstraße"
-housenumber: 14
+street: Ludwigstraße
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

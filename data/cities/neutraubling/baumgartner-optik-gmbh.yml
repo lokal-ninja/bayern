@@ -4,8 +4,8 @@ latitude: 48.99227
 longitude: 12.20016
 postcode: "93073"
 city: Neutraubling
-street: "Anton-Günther-Straße"
-housenumber: 2
-phone: "+49 9401 80896"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "http://www.baumgartner-optik-neutraubling.de/"
+street: Anton-Günther-Straße
+housenumber: "2"
+phone: +49 9401 80896
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: http://www.baumgartner-optik-neutraubling.de/

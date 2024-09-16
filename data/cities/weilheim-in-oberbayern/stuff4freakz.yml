@@ -4,8 +4,8 @@ latitude: 47.8387
 longitude: 11.14284
 postcode: "82362"
 city: Weilheim in Oberbayern
-street: "Hofstraße"
-housenumber: 5
-phone: "+49 881 92706815"
-opening_hours: "Mo,Tu,Th,Fr 11:00-19:00; Sa 10:00-16:00; PH off"
-website: "http://www.stuff4freakz.de/ladenWeilheim.html"
+street: Hofstraße
+housenumber: "5"
+phone: +49 881 92706815
+opening_hours: Mo,Tu,Th,Fr 11:00-19:00; Sa 10:00-16:00; PH off
+website: http://www.stuff4freakz.de/ladenWeilheim.html

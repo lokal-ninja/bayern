@@ -4,8 +4,8 @@ latitude: 49.79713
 longitude: 9.934
 postcode: "97070"
 city: Würzburg
-street: "Theaterstraße"
-housenumber: 1
-phone: "+49 931 26707"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:30-14:00"
-website: "https://www.augenblick-wue.de/"
+street: Theaterstraße
+housenumber: "1"
+phone: +49 931 26707
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:30-14:00
+website: https://www.augenblick-wue.de/

@@ -1,11 +1,11 @@
 id: 329546775
-type: way
+type: node
 latitude: 48.73937
 longitude: 12.87261
 postcode: "94527"
 city: Aholming
-street: "Schwaigstraße"
-housenumber: 19
+street: Schwaigstraße
+housenumber: "19"
 phone: ""
-opening_hours: "08:00-20:00"
+opening_hours: 08:00-20:00
 website: ""

@@ -4,8 +4,9 @@ latitude: 47.56988
 longitude: 9.63743
 postcode: "88142"
 city: Wasserburg (Bodensee)
-street: "Halbinselstraße"
-housenumber: 3
+street: Halbinselstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Tu,Th-Fr 09:00-12:30,14:30-18:00; We 09:00-12:30; Sa 09:00-13:00; PH off"
+opening_hours: Mo-Tu,Th-Fr 09:00-12:30,14:30-18:00; We 09:00-12:30; Sa 09:00-13:00;
+    PH off
 website: ""

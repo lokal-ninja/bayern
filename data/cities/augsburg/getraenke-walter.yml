@@ -1,11 +1,11 @@
 id: 116398646
-type: way
+type: node
 latitude: 48.37616
 longitude: 10.87173
 postcode: "86156"
 city: Augsburg
-street: "Offinger Straße"
-housenumber: 4
+street: Offinger Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 08:30-12:00,13:30-17:00, Sa 08:30-12:00"
+opening_hours: Mo-Fr 08:30-12:00,13:30-17:00, Sa 08:30-12:00
 website: ""

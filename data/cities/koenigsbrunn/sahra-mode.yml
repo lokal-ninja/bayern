@@ -4,8 +4,8 @@ latitude: 48.29045
 longitude: 10.88936
 postcode: "86343"
 city: Königsbrunn
-street: "Hunnenstraße"
-housenumber: 6
+street: Hunnenstraße
+housenumber: "6"
 phone: ""
-opening_hours: "nach Vereinbarung"
-website: "https://www.sarah-brautmode.de/"
+opening_hours: '"nach Vereinbarung"'
+website: https://www.sarah-brautmode.de/

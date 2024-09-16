@@ -1,11 +1,11 @@
 id: 120176538
-type: way
+type: node
 latitude: 49.8502
 longitude: 9.08819
 postcode: "63853"
 city: Mömlingen
-street: "Obernburger Straße"
-housenumber: 44
-phone: "+49 6022 680700"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "http://www.norma-online.de/"
+street: Obernburger Straße
+housenumber: "44"
+phone: +49 6022 680700
+opening_hours: Mo-Sa 08:00-20:00
+website: http://www.norma-online.de/

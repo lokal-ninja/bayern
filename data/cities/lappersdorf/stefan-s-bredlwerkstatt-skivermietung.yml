@@ -1,11 +1,11 @@
 id: 94930830
-type: way
+type: node
 latitude: 49.05717
 longitude: 12.08812
 postcode: "93138"
 city: Lappersdorf
-street: "Michael-Bauer-Straße"
-housenumber: 26
-phone: "+49 941 86192"
+street: Michael-Bauer-Straße
+housenumber: "26"
+phone: +49 941 86192
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.56925
 longitude: 10.88063
 postcode: "91074"
 city: Herzogenaurach
-street: "Hauptstraße"
-housenumber: 28
+street: Hauptstraße
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Fr 07:00-13:30; Sa 07:00-13:00"
-website: "https://www.baeckerei-polster.de/in-ihrer-n%C3%A4he/"
+opening_hours: Mo-Fr 07:00-13:30; Sa 07:00-13:00
+website: https://www.baeckerei-polster.de/in-ihrer-n%C3%A4he/

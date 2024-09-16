@@ -4,8 +4,8 @@ latitude: 48.82901
 longitude: 12.96269
 postcode: "94469"
 city: Deggendorf
-street: "Untere Vorstadt"
-housenumber: 8
+street: Untere Vorstadt
+housenumber: "8"
 phone: ""
-opening_hours: "Termine nach Vereinbarung"
+opening_hours: '"Termine nach Vereinbarung"'
 website: ""

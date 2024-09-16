@@ -4,8 +4,8 @@ latitude: 47.85698
 longitude: 12.34695
 postcode: "83209"
 city: Prien am Chiemsee
-street: "Hallwanger Straße"
-housenumber: 4
-phone: "+49 8051 966723"
+street: Hallwanger Straße
+housenumber: "4"
+phone: +49 8051 966723
 opening_hours: ""
-website: "https://www.bindewerk.de"
+website: https://www.bindewerk.de

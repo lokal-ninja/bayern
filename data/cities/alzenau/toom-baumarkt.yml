@@ -1,11 +1,11 @@
 id: 45964971
-type: way
+type: node
 latitude: 50.08892
 longitude: 9.04579
 postcode: "63755"
 city: Alzenau
-street: "Daimlerstraße"
-housenumber: 3
-phone: "+49 6023 947310"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://toom.de/m/alzenau/"
+street: Daimlerstraße
+housenumber: "3"
+phone: +49 6023 947310
+opening_hours: Mo-Sa 08:00-20:00
+website: https://toom.de/m/alzenau/

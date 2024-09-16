@@ -4,8 +4,8 @@ latitude: 48.39982
 longitude: 11.74282
 postcode: "85354"
 city: Freising
-street: "Obere Hauptstraße"
-housenumber: 17
-phone: "+49-8161-48450"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"
-website: "https://www.grimm-daheim.de/"
+street: Obere Hauptstraße
+housenumber: "17"
+phone: +49-8161-48450
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00
+website: https://www.grimm-daheim.de/

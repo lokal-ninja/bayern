@@ -1,11 +1,11 @@
 id: 94124196
-type: way
+type: node
 latitude: 48.16897
 longitude: 11.52777
 postcode: "80637"
 city: München
-street: "Baldurstraße"
-housenumber: 27
+street: Baldurstraße
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

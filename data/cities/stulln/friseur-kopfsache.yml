@@ -1,11 +1,11 @@
 id: 1000202199
-type: way
+type: node
 latitude: 49.42124
 longitude: 12.13902
 postcode: "92551"
 city: Stulln
-street: "Kirchstraße"
-housenumber: 5
-phone: "+49 94353 00232"
-opening_hours: "Mo 08:00-19:00; Tu-Th 08:00-18:00; Fr 08:00-19:00; Sa 08:00-13:00"
-website: "https://friseur-kopfsache-andrea-kraus.de"
+street: Kirchstraße
+housenumber: "5"
+phone: +49 94353 00232
+opening_hours: Mo 08:00-19:00; Tu-Th 08:00-18:00; Fr 08:00-19:00; Sa 08:00-13:00
+website: https://friseur-kopfsache-andrea-kraus.de

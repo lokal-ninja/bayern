@@ -1,11 +1,11 @@
 id: 49935306
-type: way
+type: node
 latitude: 48.09253
 longitude: 11.50417
 postcode: ""
 city: München
-street: "Barmseestraße"
-housenumber: 10
-phone: "+49-89-3535-50"
-opening_hours: "Mo-Fr 07:00-18:30; Sa 08:00-16:00"
-website: "https://www.bmw-muenchen.de/de/ueber-uns/standorte-teams/filiale-solln/"
+street: Barmseestraße
+housenumber: "10"
+phone: +49-89-3535-50
+opening_hours: Mo-Fr 07:00-18:30; Sa 08:00-16:00
+website: https://www.bmw-muenchen.de/de/ueber-uns/standorte-teams/filiale-solln/

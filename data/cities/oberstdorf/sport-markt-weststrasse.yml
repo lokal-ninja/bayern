@@ -4,8 +4,8 @@ latitude: 47.40825
 longitude: 10.27708
 postcode: "87561"
 city: Oberstdorf
-street: "Weststraße"
-housenumber: 6
+street: Weststraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://sport-markt.com"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://sport-markt.com

@@ -4,8 +4,8 @@ latitude: 48.14613
 longitude: 11.54057
 postcode: "80636"
 city: München
-street: "Weiglstraße"
-housenumber: 5
+street: Weiglstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Tu-Fr 09:00-13:00; 14:00-18:00; Sa 08:30-12:30"
+opening_hours: Tu-Fr 09:00-13:00; 14:00-18:00; Sa 08:30-12:30
 website: ""

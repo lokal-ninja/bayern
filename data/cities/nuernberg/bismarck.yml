@@ -4,8 +4,8 @@ latitude: 49.46363
 longitude: 11.10125
 postcode: "90491"
 city: Nürnberg
-street: "Bismarckstraße"
-housenumber: 17
+street: Bismarckstraße
+housenumber: "17"
 phone: ""
-opening_hours: "nur nach Vereinbarung"
+opening_hours: '"nur nach Vereinbarung"'
 website: ""

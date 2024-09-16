@@ -4,8 +4,8 @@ latitude: 49.5776
 longitude: 11.00143
 postcode: "91058"
 city: Erlangen
-street: "Siemenspromenade"
-housenumber: 3
+street: Siemenspromenade
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00; Su,PH off"
-website: "https://www.schlenkrich-hairstyle.de/erlangen-siemens-campus/index.html"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00; Su,PH off
+website: https://www.schlenkrich-hairstyle.de/erlangen-siemens-campus/index.html

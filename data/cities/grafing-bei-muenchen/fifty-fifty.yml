@@ -4,8 +4,8 @@ latitude: 48.0467
 longitude: 11.96423
 postcode: "85567"
 city: Grafing bei München
-street: "Lagerhausstraße"
-housenumber: 6
-phone: "+49 8092 709352"
-opening_hours: "Mo,Tu 12:00-18:00; We-Fr 14:00-18:00; Sa 10:00-13:00"
+street: Lagerhausstraße
+housenumber: "6"
+phone: +49 8092 709352
+opening_hours: Mo,Tu 12:00-18:00; We-Fr 14:00-18:00; Sa 10:00-13:00
 website: ""

@@ -1,11 +1,11 @@
 id: 230227434
-type: way
+type: node
 latitude: 48.17001
 longitude: 10.75795
 postcode: "86830"
 city: Schwabmünchen
-street: "Kaufbeurer Straße"
-housenumber: 53
+street: Kaufbeurer Straße
+housenumber: "53"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

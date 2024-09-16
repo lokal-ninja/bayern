@@ -5,7 +5,7 @@ longitude: 10.9161
 postcode: ""
 city: Augsburg
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.rewe.de/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.rewe.de/

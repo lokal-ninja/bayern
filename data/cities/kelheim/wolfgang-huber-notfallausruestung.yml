@@ -1,11 +1,11 @@
 id: 376292363
-type: way
+type: node
 latitude: 48.9106
 longitude: 11.87642
 postcode: "93309"
 city: Kelheim
-street: "Regensburger Straße"
-housenumber: 32
-phone: "+49 9441 294179"
-opening_hours: "Mo-Fr 08:30-17:00"
-website: "https://www.wolfganghuber.com/"
+street: Regensburger Straße
+housenumber: "32"
+phone: +49 9441 294179
+opening_hours: Mo-Fr 08:30-17:00
+website: https://www.wolfganghuber.com/

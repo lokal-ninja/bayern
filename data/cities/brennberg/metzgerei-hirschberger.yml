@@ -1,11 +1,11 @@
 id: 122051007
-type: way
+type: node
 latitude: 49.07118
 longitude: 12.39544
 postcode: "93179"
 city: Brennberg
-street: "Reimarstraße"
+street: Reimarstraße
 housenumber: 3a
-phone: "+49 9484 951820"
-opening_hours: "Mo 09:00-12:30; Tu-Th 06:00-18:00; Fr 6:00-20:00; Sa 7:00-14:00"
+phone: +49 9484 951820
+opening_hours: Mo 09:00-12:30; Tu-Th 06:00-18:00; Fr 6:00-20:00; Sa 7:00-14:00
 website: ""

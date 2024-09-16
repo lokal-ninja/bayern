@@ -1,11 +1,11 @@
 id: 641809828
-type: way
+type: node
 latitude: 47.78814
 longitude: 11.84462
 postcode: "83714"
 city: Miesbach
-street: "Rosenheimer Straße"
-housenumber: 70
+street: Rosenheimer Straße
+housenumber: "70"
 phone: ""
 opening_hours: ""
-website: "https://www.autohaus-miesbach.de"
+website: https://www.autohaus-miesbach.de

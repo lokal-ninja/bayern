@@ -1,11 +1,11 @@
 id: 48923121
-type: way
+type: node
 latitude: 48.49495
 longitude: 12.07019
 postcode: "84174"
 city: Eching
-street: "Aster Straße"
-housenumber: 16
-phone: "+49 8709 928771"
-opening_hours: "Mo,Th,Fr 08:00-18:00; Sa 10:00-17:00; Tu,We off"
-website: "https://www.buerger-optik.de/"
+street: Aster Straße
+housenumber: "16"
+phone: +49 8709 928771
+opening_hours: Mo,Th,Fr 08:00-18:00; Sa 10:00-17:00; Tu,We off
+website: https://www.buerger-optik.de/

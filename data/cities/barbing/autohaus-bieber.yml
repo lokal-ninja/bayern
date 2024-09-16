@@ -1,11 +1,11 @@
 id: 125625454
-type: way
+type: node
 latitude: 49.01119
 longitude: 12.22781
 postcode: "93092"
 city: Barbing
-street: "Heisinger Straße"
-housenumber: 7
-phone: "+49 9403 9503 0"
+street: Heisinger Straße
+housenumber: "7"
+phone: +49 9403 9503 0
 opening_hours: ""
-website: "https://www.autohaus-bieber.de/"
+website: https://www.autohaus-bieber.de/

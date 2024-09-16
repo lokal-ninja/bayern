@@ -4,8 +4,8 @@ latitude: 49.42962
 longitude: 11.10203
 postcode: "90461"
 city: Nürnberg
-street: "Ingolstädter Straße"
+street: Ingolstädter Straße
 housenumber: 20-22
-phone: "+49 911 439400"
-opening_hours: "Mo-We 10:00-19:00;Th-Sa 10:00-20:00"
+phone: +49 911 439400
+opening_hours: Mo-We 10:00-19:00;Th-Sa 10:00-20:00
 website: ""

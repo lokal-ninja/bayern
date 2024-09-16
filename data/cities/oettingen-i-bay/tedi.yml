@@ -1,11 +1,11 @@
 id: 431212959
-type: way
+type: node
 latitude: 48.95654
 longitude: 10.60378
 postcode: "86732"
 city: Oettingen i.Bay.
-street: "Georg-Friedrich-Steinmeyer-Straße"
-housenumber: 4
+street: Georg-Friedrich-Steinmeyer-Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

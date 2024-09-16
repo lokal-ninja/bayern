@@ -1,11 +1,11 @@
 id: 106260645
-type: way
+type: node
 latitude: 49.57689
 longitude: 11.20378
 postcode: "90542"
 city: Eckental
-street: "Schulstraße"
-housenumber: 9
-phone: "+49 9126 26150"
-opening_hours: "Mo-Fr 07:30-18:00, Sa 9:00-12:00"
-website: "https://www.autohaus-eckental.de/"
+street: Schulstraße
+housenumber: "9"
+phone: +49 9126 26150
+opening_hours: Mo-Fr 07:30-18:00, Sa 9:00-12:00
+website: https://www.autohaus-eckental.de/

@@ -1,11 +1,11 @@
 id: 151544419
-type: way
+type: node
 latitude: 48.53936
 longitude: 10.99549
 postcode: "86574"
 city: Petersdorf
-street: "Brunnenstraße"
-housenumber: 10
+street: Brunnenstraße
+housenumber: "10"
 phone: ""
-opening_hours: "Th-Sa"
+opening_hours: Th-Sa
 website: ""

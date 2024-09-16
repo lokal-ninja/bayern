@@ -4,8 +4,8 @@ latitude: 47.93521
 longitude: 12.93103
 postcode: "83410"
 city: Laufen
-street: "Teisendorfer Straße"
-housenumber: 15
-phone: "+49 8682 569"
-opening_hours: "Mo,Di,Do,Fr 09:00-12:00,15:00-18:00; Mi 09:00-12:00; Sa 09:00-12:00"
-website: "https://iq-elektrohaus-salomon.de/"
+street: Teisendorfer Straße
+housenumber: "15"
+phone: +49 8682 569
+opening_hours: Mo,Di,Do,Fr 09:00-12:00,15:00-18:00; Mi 09:00-12:00; Sa 09:00-12:00
+website: https://iq-elektrohaus-salomon.de/

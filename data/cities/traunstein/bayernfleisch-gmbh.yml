@@ -1,11 +1,11 @@
 id: 93772815
-type: way
+type: node
 latitude: 47.88788
 longitude: 12.62793
 postcode: "83278"
 city: Traunstein
-street: "Industriestraße"
-housenumber: 10
+street: Industriestraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
-website: "https://www.bayernfleisch.de/"
+website: https://www.bayernfleisch.de/

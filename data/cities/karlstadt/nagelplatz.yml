@@ -4,8 +4,8 @@ latitude: 49.96316
 longitude: 9.76538
 postcode: "97753"
 city: Karlstadt
-street: "Brunnengasse"
-housenumber: 15
+street: Brunnengasse
+housenumber: "15"
 phone: ""
-opening_hours: "Nach Vereinbarung"
+opening_hours: '"Nach Vereinbarung"'
 website: ""

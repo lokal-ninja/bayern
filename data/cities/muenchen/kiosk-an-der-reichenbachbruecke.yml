@@ -1,11 +1,11 @@
 id: 108574652
-type: way
+type: node
 latitude: 48.12766
 longitude: 11.57613
 postcode: "80469"
 city: München
-street: "Fraunhoferstraße"
-housenumber: 46
+street: Fraunhoferstraße
+housenumber: "46"
 phone: ""
-opening_hours: "Mo-Su 06:00-05:00"
+opening_hours: Mo-Su 06:00-05:00
 website: ""

@@ -1,11 +1,11 @@
 id: 214120208
-type: way
+type: node
 latitude: 48.34515
 longitude: 10.59265
 postcode: "86424"
 city: Dinkelscherben
-street: "Ustersbacher Straße"
-housenumber: 3
+street: Ustersbacher Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

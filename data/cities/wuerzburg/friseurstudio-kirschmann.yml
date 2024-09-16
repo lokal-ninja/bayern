@@ -4,8 +4,8 @@ latitude: 49.82029
 longitude: 9.9622
 postcode: "97078"
 city: Würzburg
-street: "Versbacher Straße"
-housenumber: 180
-phone: "+49 931 35822036"
-opening_hours: "Tu,We,Fr 09:00-18:00; Th 09:00-19:00; Sa 09:00-14:00"
-website: "https://www.friseur-kirschmann.de/"
+street: Versbacher Straße
+housenumber: "180"
+phone: +49 931 35822036
+opening_hours: Tu,We,Fr 09:00-18:00; Th 09:00-19:00; Sa 09:00-14:00
+website: https://www.friseur-kirschmann.de/

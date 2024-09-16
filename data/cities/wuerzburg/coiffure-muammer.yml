@@ -4,8 +4,8 @@ latitude: 49.79472
 longitude: 9.93249
 postcode: "97070"
 city: Würzburg
-street: "Herrnstraße"
-housenumber: 5
+street: Herrnstraße
+housenumber: "5"
 phone: ""
-opening_hours: "nach Vereinbarung"
+opening_hours: '"nach Vereinbarung"'
 website: ""

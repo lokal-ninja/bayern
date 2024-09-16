@@ -4,8 +4,8 @@ latitude: 48.38662
 longitude: 10.00252
 postcode: "89231"
 city: Neu-Ulm
-street: "Memminger Straße"
-housenumber: 51
-phone: "+49 731 980 60 43"
-opening_hours: "Mar-Sep: Mo-Sa 09:00-20:00; Oct-Feb: Mo-Sa 09:00-19:00; Su off"
-website: "https://www.louis.de/filialen/louis-neu-ulm"
+street: Memminger Straße
+housenumber: "51"
+phone: +49 731 980 60 43
+opening_hours: 'Mar-Sep: Mo-Sa 09:00-20:00; Oct-Feb: Mo-Sa 09:00-19:00; Su off'
+website: https://www.louis.de/filialen/louis-neu-ulm

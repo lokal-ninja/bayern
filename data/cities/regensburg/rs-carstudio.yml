@@ -1,11 +1,11 @@
 id: 127271020
-type: way
+type: node
 latitude: 49.03766
 longitude: 12.13472
 postcode: "93055"
 city: Regensburg
-street: "Grünthaler Straße"
-housenumber: 4
+street: Grünthaler Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

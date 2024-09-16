@@ -1,11 +1,11 @@
 id: 70139047
-type: way
+type: node
 latitude: 48.13186
 longitude: 11.366
 postcode: "82110"
 city: Germering
-street: "Eugen-Papst-Straße"
-housenumber: 2
+street: Eugen-Papst-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:30-12:30,14:00-18:00; Sa 08:30-12:30"
+opening_hours: Mo-Fr 08:30-12:30,14:00-18:00; Sa 08:30-12:30
 website: ""

@@ -1,11 +1,11 @@
 id: 308278592
-type: way
+type: node
 latitude: 48.17102
 longitude: 10.48439
 postcode: ""
 city: Kirchheim in Schwaben
-street: "Hauptstraße"
-housenumber: 35
+street: Hauptstraße
+housenumber: "35"
 phone: ""
 opening_hours: ""
 website: ""

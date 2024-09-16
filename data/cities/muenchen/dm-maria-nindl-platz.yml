@@ -4,8 +4,8 @@ latitude: 48.16367
 longitude: 11.63037
 postcode: "81927"
 city: München
-street: "Maria-Nindl-Platz"
-housenumber: 2
+street: Maria-Nindl-Platz
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

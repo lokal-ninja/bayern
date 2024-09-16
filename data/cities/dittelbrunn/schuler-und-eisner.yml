@@ -1,11 +1,11 @@
 id: 364708337
-type: way
+type: node
 latitude: 50.07008
 longitude: 10.22298
 postcode: "97456"
 city: Dittelbrunn
-street: "Hauptstraße"
-housenumber: 3
+street: Hauptstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

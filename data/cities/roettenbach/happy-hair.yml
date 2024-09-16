@@ -4,8 +4,8 @@ latitude: 49.66803
 longitude: 10.93091
 postcode: "91341"
 city: Röttenbach
-street: "Ringstraße"
-housenumber: 21
-phone: "+49 9195 923462"
-opening_hours: "nach Vereinbarung"
+street: Ringstraße
+housenumber: "21"
+phone: +49 9195 923462
+opening_hours: '"nach Vereinbarung"'
 website: ""

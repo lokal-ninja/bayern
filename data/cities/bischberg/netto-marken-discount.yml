@@ -1,11 +1,11 @@
 id: 30797292
-type: way
+type: node
 latitude: 49.91641
 longitude: 10.81297
 postcode: "96120"
 city: Bischberg
-street: "Industriestraße"
-housenumber: 2
+street: Industriestraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

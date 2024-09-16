@@ -4,8 +4,8 @@ latitude: 48.13647
 longitude: 11.61373
 postcode: "81675"
 city: München
-street: "Einsteinstraße"
-housenumber: 130
-phone: "+49 89 47087959"
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
-website: "https://www.netto-online.de/"
+street: Einsteinstraße
+housenumber: "130"
+phone: +49 89 47087959
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
+website: https://www.netto-online.de/

@@ -1,11 +1,11 @@
 id: 66130859
-type: way
+type: node
 latitude: 47.84662
 longitude: 12.34778
 postcode: "83209"
 city: Prien am Chiemsee
-street: "Systemformstraße"
-housenumber: 3
+street: Systemformstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.norma-online.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.norma-online.de

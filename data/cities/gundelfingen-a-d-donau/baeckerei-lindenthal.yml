@@ -1,11 +1,11 @@
 id: 245831049
-type: way
+type: node
 latitude: 48.55025
 longitude: 10.37069
 postcode: "89423"
 city: Gundelfingen a.d.Donau
-street: "Bahnhofstraße"
-housenumber: 19
+street: Bahnhofstraße
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

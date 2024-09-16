@@ -1,11 +1,11 @@
 id: 102531999
-type: way
+type: node
 latitude: 48.36487
 longitude: 10.93712
 postcode: "86163"
 city: Augsburg
-street: "Zugspitzstraße"
-housenumber: 102
-phone: "+49 821 65215"
+street: Zugspitzstraße
+housenumber: "102"
+phone: +49 821 65215
 opening_hours: ""
 website: ""

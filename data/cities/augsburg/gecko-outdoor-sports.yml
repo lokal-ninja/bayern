@@ -1,11 +1,11 @@
 id: 106271830
-type: way
+type: node
 latitude: 48.35279
 longitude: 10.92827
 postcode: "86161"
 city: Augsburg
-street: "Hornungstraße"
-housenumber: 51
-phone: "+49 821 553030"
+street: Hornungstraße
+housenumber: "51"
+phone: +49 821 553030
 opening_hours: ""
-website: "http://www.gecko-sports.de"
+website: http://www.gecko-sports.de

@@ -1,11 +1,11 @@
 id: 77910602
-type: way
+type: node
 latitude: 49.90751
 longitude: 10.35337
 postcode: "97447"
 city: Gerolzhofen
-street: "Spielsee"
-housenumber: 5
+street: Spielsee
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.59612
 longitude: 11.00453
 postcode: "91054"
 city: Erlangen
-street: "Hugenottenplatz"
-housenumber: 6
-phone: "+49 9131 78090"
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://www.thalia.de"
+street: Hugenottenplatz
+housenumber: "6"
+phone: +49 9131 78090
+opening_hours: Mo-Sa 09:30-19:00
+website: https://www.thalia.de

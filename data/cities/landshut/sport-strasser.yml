@@ -4,8 +4,8 @@ latitude: 48.538
 longitude: 12.15225
 postcode: "84028"
 city: Landshut
-street: "Altstadt"
-housenumber: 102
-phone: "+49 871 27021"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-17:00"
-website: "https://www.sport-strasser.de/"
+street: Altstadt
+housenumber: "102"
+phone: +49 871 27021
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-17:00
+website: https://www.sport-strasser.de/

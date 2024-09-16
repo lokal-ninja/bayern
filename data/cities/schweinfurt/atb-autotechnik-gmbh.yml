@@ -1,11 +1,11 @@
 id: 391736729
-type: way
+type: node
 latitude: 50.0302
 longitude: 10.23089
 postcode: "97424"
 city: Schweinfurt
-street: "Sven-Wingquist-Straße"
-housenumber: 4
+street: Sven-Wingquist-Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

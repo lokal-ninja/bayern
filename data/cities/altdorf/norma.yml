@@ -1,11 +1,11 @@
 id: 94159282
-type: way
+type: node
 latitude: 48.54675
 longitude: 12.09716
 postcode: "84032"
 city: Altdorf
-street: "Opalstraße"
-housenumber: 10
+street: Opalstraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

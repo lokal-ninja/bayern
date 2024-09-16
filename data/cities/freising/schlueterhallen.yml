@@ -1,11 +1,11 @@
 id: 116885107
-type: way
+type: node
 latitude: 48.38699
 longitude: 11.73613
 postcode: "85354"
 city: Freising
-street: "Münchner Straße"
-housenumber: 32
+street: Münchner Straße
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

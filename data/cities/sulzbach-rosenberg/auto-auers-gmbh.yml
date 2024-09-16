@@ -1,11 +1,11 @@
 id: 274224313
-type: way
+type: node
 latitude: 49.48748
 longitude: 11.78471
 postcode: "92237"
 city: Sulzbach-Rosenberg
-street: "Europastraße"
-housenumber: 2
-phone: "+49 9661/1206"
+street: Europastraße
+housenumber: "2"
+phone: +49 9661/1206
 opening_hours: ""
-website: "https://www.autoauers.de/"
+website: https://www.autoauers.de/

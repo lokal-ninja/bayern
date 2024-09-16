@@ -4,8 +4,8 @@ latitude: 48.41073
 longitude: 10.8243
 postcode: "86356"
 city: Neusäß
-street: "Portnerstraße"
-housenumber: 8
-phone: "+49 821 4554420"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00"
-website: "http://www.durz.de/"
+street: Portnerstraße
+housenumber: "8"
+phone: +49 821 4554420
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00
+website: http://www.durz.de/

@@ -1,11 +1,11 @@
 id: 247174664
-type: way
+type: node
 latitude: 48.30169
 longitude: 11.36436
 postcode: "85247"
 city: Schwabhausen
-street: "Lindenstraße"
-housenumber: 2
+street: Lindenstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

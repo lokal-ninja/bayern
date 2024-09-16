@@ -4,8 +4,8 @@ latitude: 47.85481
 longitude: 12.34461
 postcode: "83209"
 city: Prien am Chiemsee
-street: "Bernauer Straße"
-housenumber: 8
-phone: "+49 8051 1001"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 09:30-15:00"
-website: "https://www.rosso-prien.de/"
+street: Bernauer Straße
+housenumber: "8"
+phone: +49 8051 1001
+opening_hours: Mo-Fr 10:00-18:00; Sa 09:30-15:00
+website: https://www.rosso-prien.de/

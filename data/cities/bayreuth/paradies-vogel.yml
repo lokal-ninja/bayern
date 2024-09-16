@@ -4,8 +4,8 @@ latitude: 49.94338
 longitude: 11.57753
 postcode: "95444"
 city: Bayreuth
-street: "Maximilianstraße"
-housenumber: 5
+street: Maximilianstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
 website: ""

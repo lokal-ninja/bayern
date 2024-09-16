@@ -1,11 +1,11 @@
 id: 115994222
-type: way
+type: node
 latitude: 48.41774
 longitude: 12.81927
 postcode: "84332"
 city: Hebertsfelden
-street: "Mühlstraße"
-housenumber: 2
+street: Mühlstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00"
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-18:00
 website: ""

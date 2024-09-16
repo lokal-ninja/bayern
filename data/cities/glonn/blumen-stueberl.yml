@@ -4,8 +4,8 @@ latitude: 47.98825
 longitude: 11.86328
 postcode: "85625"
 city: Glonn
-street: "Kastenseestraße"
-housenumber: 2
-phone: "+49 8093 1241"
-opening_hours: "Mo-Fr 08:30-12:00,14:30-18:00; We,Sa 08:30-12:00"
+street: Kastenseestraße
+housenumber: "2"
+phone: +49 8093 1241
+opening_hours: Mo-Fr 08:30-12:00,14:30-18:00; We,Sa 08:30-12:00
 website: ""

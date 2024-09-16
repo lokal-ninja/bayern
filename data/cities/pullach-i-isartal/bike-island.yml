@@ -4,8 +4,8 @@ latitude: 48.05636
 longitude: 11.523
 postcode: "82049"
 city: Pullach i. Isartal
-street: "Kirchplatz"
-housenumber: 5
-phone: "+49-89-20084210"
-opening_hours: "Mo,Tu,Th,Fr 10:00-13:00,15:00-19:00; Sa 10:00-14:00, We,Su off"
-website: "https://www.bike-island.de"
+street: Kirchplatz
+housenumber: "5"
+phone: +49-89-20084210
+opening_hours: Mo,Tu,Th,Fr 10:00-13:00,15:00-19:00; Sa 10:00-14:00, We,Su off
+website: https://www.bike-island.de

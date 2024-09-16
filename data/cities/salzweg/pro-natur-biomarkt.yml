@@ -1,11 +1,11 @@
 id: 38481608
-type: way
+type: node
 latitude: 48.61895
 longitude: 13.4823
 postcode: "94121"
 city: Salzweg
-street: "Passauer Straße"
-housenumber: 16
+street: Passauer Straße
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

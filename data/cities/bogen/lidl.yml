@@ -1,11 +1,11 @@
 id: 53083221
-type: way
+type: node
 latitude: 48.91975
 longitude: 12.67002
 postcode: "94327"
 city: Bogen
-street: "Petersgewanne"
-housenumber: 1
+street: Petersgewanne
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.lidl.de/f/bogen/oberalteich-petersgewanne-1.html"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.lidl.de/f/bogen/oberalteich-petersgewanne-1.html

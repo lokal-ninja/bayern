@@ -4,8 +4,8 @@ latitude: 48.1261
 longitude: 11.56773
 postcode: "80469"
 city: München
-street: "Am Glockenbach"
-housenumber: 10
-phone: "+49 89 71674735"
-opening_hours: "Tu-Fr 12:00-19:00; Sa 10:00-16:00"
-website: "https://www.rocky-mountain-and-friends.de/"
+street: Am Glockenbach
+housenumber: "10"
+phone: +49 89 71674735
+opening_hours: Tu-Fr 12:00-19:00; Sa 10:00-16:00
+website: https://www.rocky-mountain-and-friends.de/

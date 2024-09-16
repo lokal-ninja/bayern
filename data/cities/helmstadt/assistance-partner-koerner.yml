@@ -4,8 +4,8 @@ latitude: 49.75885
 longitude: 9.71579
 postcode: "97264"
 city: Helmstadt
-street: "Prinz-Ludwig-Straße"
-housenumber: 2
-phone: "+49 172 8012461"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.koerner-autoservice.de/"
+street: Prinz-Ludwig-Straße
+housenumber: "2"
+phone: +49 172 8012461
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.koerner-autoservice.de/

@@ -4,8 +4,8 @@ latitude: 48.29685
 longitude: 11.89849
 postcode: "85435"
 city: Erding
-street: "Merowingerstraße"
-housenumber: 14
+street: Merowingerstraße
+housenumber: "14"
 phone: ""
-opening_hours: "|| nach Vereinbarung"
-website: "https://www.etsy.com/shop/Miananniforyou"
+opening_hours: '|| "nach Vereinbarung"'
+website: https://www.etsy.com/shop/Miananniforyou

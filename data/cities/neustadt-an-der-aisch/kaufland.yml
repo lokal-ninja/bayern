@@ -1,11 +1,11 @@
 id: 204333135
-type: way
+type: node
 latitude: 49.58139
 longitude: 10.63643
 postcode: "91413"
 city: Neustadt an der Aisch
-street: "Robert-Bosch-Straße"
-housenumber: 2
+street: Robert-Bosch-Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

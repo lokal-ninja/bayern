@@ -1,11 +1,11 @@
 id: 233090862
-type: way
+type: node
 latitude: 49.62583
 longitude: 10.9382
 postcode: "91056"
 city: Erlangen
-street: "Anzengruberweg"
-housenumber: 9
-phone: "+49 9135 8619"
+street: Anzengruberweg
+housenumber: "9"
+phone: +49 9135 8619
 opening_hours: ""
 website: ""

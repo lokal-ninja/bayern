@@ -4,8 +4,8 @@ latitude: 48.24069
 longitude: 12.68706
 postcode: "84524"
 city: Neuötting
-street: "Ludwigstraße"
-housenumber: 81
-phone: "+49 8671 98 57 34"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.werbeagentur-pur.de/"
+street: Ludwigstraße
+housenumber: "81"
+phone: +49 8671 98 57 34
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.werbeagentur-pur.de/

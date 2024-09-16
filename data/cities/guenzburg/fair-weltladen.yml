@@ -4,8 +4,8 @@ latitude: 48.45482
 longitude: 10.27733
 postcode: "89312"
 city: Günzburg
-street: "Kapuzinergasse"
-housenumber: 1
-phone: "+49 8221 930 1244"
-opening_hours: "Mo-Fr 10:00-18:00, Sa 10:00-13:00"
+street: Kapuzinergasse
+housenumber: "1"
+phone: +49 8221 930 1244
+opening_hours: Mo-Fr 10:00-18:00, Sa 10:00-13:00
 website: ""

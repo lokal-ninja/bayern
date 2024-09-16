@@ -1,11 +1,11 @@
 id: 297882793
-type: way
+type: node
 latitude: 49.8765
 longitude: 9.16756
 postcode: "63839"
 city: Kleinwallstadt
-street: "Frühlingstraße"
+street: Frühlingstraße
 housenumber: 10-12
-phone: "+49 6022 662685"
-opening_hours: "Mo-Sa 08:30-12:00,14:00-17:00; Mi,Sa 08:30-12:00"
+phone: +49 6022 662685
+opening_hours: Mo-Sa 08:30-12:00,14:00-17:00; Mi,Sa 08:30-12:00
 website: ""

@@ -1,11 +1,11 @@
 id: 369006784
-type: way
+type: node
 latitude: 48.88254
 longitude: 12.6088
 postcode: "94315"
 city: Straubing
-street: "Hirschberger Ring"
+street: Hirschberger Ring
 housenumber: 31a
-phone: "+49 9421 9976 0"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
-website: "https://www.elements-show.de/straubing"
+phone: +49 9421 9976 0
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00
+website: https://www.elements-show.de/straubing

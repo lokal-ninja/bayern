@@ -1,11 +1,11 @@
 id: 141865002
-type: way
+type: node
 latitude: 48.29038
 longitude: 10.65516
 postcode: "86850"
 city: Fischach
-street: "Poststraße"
-housenumber: 1
-phone: "+49 8236 1309"
+street: Poststraße
+housenumber: "1"
+phone: +49 8236 1309
 opening_hours: ""
-website: "https://www.moebel-schissler.de"
+website: https://www.moebel-schissler.de

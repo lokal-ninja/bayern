@@ -1,11 +1,11 @@
 id: 67505329
-type: way
+type: node
 latitude: 48.3945
 longitude: 10.01742
 postcode: "89231"
 city: Neu-Ulm
-street: "Borsigstraße"
-housenumber: 12
+street: Borsigstraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
-website: "https://www.baywa.de/"
+website: https://www.baywa.de/

@@ -1,11 +1,11 @@
 id: 37538060
-type: way
+type: node
 latitude: 47.94882
 longitude: 11.59786
 postcode: "82054"
 city: Sauerlach
-street: "Eichenhausener Straße"
-housenumber: 43
-phone: "+49 8104 9754"
+street: Eichenhausener Straße
+housenumber: "43"
+phone: +49 8104 9754
 opening_hours: ""
-website: "https://www.schnapsweber.de/"
+website: https://www.schnapsweber.de/

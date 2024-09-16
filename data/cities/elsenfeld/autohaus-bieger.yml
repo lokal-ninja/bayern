@@ -1,11 +1,11 @@
 id: 303203450
-type: way
+type: node
 latitude: 49.83606
 longitude: 9.15838
 postcode: "63820"
 city: Elsenfeld
-street: "Am Stachus"
-housenumber: 1
-phone: "+49 6022 2636-0"
-opening_hours: "Mo-Fr 08:30-18:30; Sa 09:00-13:00; PH off"
-website: "https://www.autohaus-bieger.de/"
+street: Am Stachus
+housenumber: "1"
+phone: +49 6022 2636-0
+opening_hours: Mo-Fr 08:30-18:30; Sa 09:00-13:00; PH off
+website: https://www.autohaus-bieger.de/

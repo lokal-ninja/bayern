@@ -1,11 +1,11 @@
 id: 121821447
-type: way
+type: node
 latitude: 48.38805
 longitude: 10.03585
 postcode: "89231"
 city: Neu-Ulm
-street: "Otto-Hahn-Straße"
-housenumber: 4
+street: Otto-Hahn-Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-19:00"
-website: "http://www.neuneuulm.de/"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-19:00
+website: http://www.neuneuulm.de/

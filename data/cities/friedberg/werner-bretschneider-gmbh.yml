@@ -4,8 +4,8 @@ latitude: 48.3494
 longitude: 10.99485
 postcode: "86316"
 city: Friedberg
-street: "Probststraße"
-housenumber: 6
-phone: "+49 821 26 99 10"
-opening_hours: "Mo-Fr 08:00-12:00,13:00-17:30; Sa 09:00-12:00"
-website: "https://www.fliesen-bretschneider.de"
+street: Probststraße
+housenumber: "6"
+phone: +49 821 26 99 10
+opening_hours: Mo-Fr 08:00-12:00,13:00-17:30; Sa 09:00-12:00
+website: https://www.fliesen-bretschneider.de

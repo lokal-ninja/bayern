@@ -1,11 +1,11 @@
 id: 232829440
-type: way
+type: node
 latitude: 49.22731
 longitude: 12.67395
 postcode: "93413"
 city: Cham
-street: "Darsteinstraße"
-housenumber: 10
-phone: "+49 9971 3927961"
+street: Darsteinstraße
+housenumber: "10"
+phone: +49 9971 3927961
 opening_hours: ""
-website: "https://www.edeka.de/"
+website: https://www.edeka.de/

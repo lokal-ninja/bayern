@@ -4,8 +4,8 @@ latitude: 48.03115
 longitude: 11.58438
 postcode: ""
 city: Oberhaching
-street: "Kolpingring"
-housenumber: 4
-phone: "+49 89 666 822 72"
-opening_hours: "Mo-Th 07:30-12:00,12:45-18:00; Fr 07:30-12:00,12:45-15:00"
-website: "https://www.autoservice-oberhaching.de/"
+street: Kolpingring
+housenumber: "4"
+phone: +49 89 666 822 72
+opening_hours: Mo-Th 07:30-12:00,12:45-18:00; Fr 07:30-12:00,12:45-15:00
+website: https://www.autoservice-oberhaching.de/

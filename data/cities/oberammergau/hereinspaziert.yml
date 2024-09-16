@@ -4,8 +4,8 @@ latitude: 47.59802
 longitude: 11.06302
 postcode: "82487"
 city: Oberammergau
-street: "Ludwig-Thoma-Straße"
-housenumber: 6
-phone: "+49 8822 94 96 97"
-opening_hours: "Mo-Su 09:30-19:00"
+street: Ludwig-Thoma-Straße
+housenumber: "6"
+phone: +49 8822 94 96 97
+opening_hours: Mo-Su 09:30-19:00
 website: ""

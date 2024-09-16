@@ -1,11 +1,11 @@
 id: 187423227
-type: way
+type: node
 latitude: 49.59282
 longitude: 11.00427
 postcode: "91052"
 city: Erlangen
-street: "Nürnberger Straße"
-housenumber: 7
+street: Nürnberger Straße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 09:30-20:00; Su,PH off"
+opening_hours: Mo-Sa 09:30-20:00; Su,PH off
 website: ""

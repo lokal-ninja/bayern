@@ -1,11 +1,11 @@
 id: 547474615
-type: way
+type: node
 latitude: 48.15693
 longitude: 10.8356
 postcode: "86836"
 city: Klosterlechfeld
-street: "Am Wäldle"
-housenumber: 2
+street: Am Wäldle
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de

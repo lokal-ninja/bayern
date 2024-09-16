@@ -1,11 +1,11 @@
 id: 119393057
-type: way
+type: node
 latitude: 48.63779
 longitude: 11.10488
 postcode: "86676"
 city: Ehekirchen
-street: "Neuburger Straße"
-housenumber: 16
+street: Neuburger Straße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Tu 08:30-18:00, We 08:30-12:30, Th-Fr 08:30-18:00, Sa 08:30-12:30"
-website: "https://hoerl-getraenke.de/"
+opening_hours: Mo-Tu 08:30-18:00, We 08:30-12:30, Th-Fr 08:30-18:00, Sa 08:30-12:30
+website: https://hoerl-getraenke.de/

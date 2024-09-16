@@ -1,11 +1,11 @@
 id: 267936447
-type: way
+type: node
 latitude: 48.22613
 longitude: 10.59232
 postcode: "86877"
 city: Walkertshofen
-street: "Grimoldsrieder Straße"
-housenumber: 2
-phone: "+49  8239 507"
+street: Grimoldsrieder Straße
+housenumber: "2"
+phone: +49  8239 507
 opening_hours: ""
-website: "https://staudenbraeu.de/"
+website: https://staudenbraeu.de/

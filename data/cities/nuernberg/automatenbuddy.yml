@@ -4,8 +4,8 @@ latitude: 49.44823
 longitude: 11.07921
 postcode: "90402"
 city: Nürnberg
-street: "Luitpoldstraße"
-housenumber: 10
+street: Luitpoldstraße
+housenumber: "10"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

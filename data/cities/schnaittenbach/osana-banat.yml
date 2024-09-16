@@ -1,11 +1,11 @@
 id: 50443844
-type: way
+type: node
 latitude: 49.54875
 longitude: 12.00633
 postcode: "92253"
 city: Schnaittenbach
-street: "Wernberger Straße"
-housenumber: 22
+street: Wernberger Straße
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

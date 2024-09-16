@@ -4,8 +4,8 @@ latitude: 48.15814
 longitude: 11.53852
 postcode: "80637"
 city: München
-street: "Hübnerstraße"
-housenumber: 5
-phone: "+49 89 1293992"
-opening_hours: "Tu-Fr 15:00-18:00; Sa 13:00-16:00"
-website: "http://www.galerie-ch-duerr.de/"
+street: Hübnerstraße
+housenumber: "5"
+phone: +49 89 1293992
+opening_hours: Tu-Fr 15:00-18:00; Sa 13:00-16:00
+website: http://www.galerie-ch-duerr.de/

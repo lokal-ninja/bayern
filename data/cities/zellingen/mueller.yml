@@ -1,11 +1,11 @@
 id: 1036019253
-type: way
+type: node
 latitude: 49.91034
 longitude: 9.81449
 postcode: "97225"
 city: Zellingen
-street: "Am Güßgraben"
-housenumber: 4
+street: Am Güßgraben
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.44465
 longitude: 11.85474
 postcode: "92224"
 city: Amberg
-street: "Georgenstraße"
-housenumber: 30
-phone: "+49 9621 914047"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-15:00"
-website: "https://www.o2online.de"
+street: Georgenstraße
+housenumber: "30"
+phone: +49 9621 914047
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-15:00
+website: https://www.o2online.de

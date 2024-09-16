@@ -4,8 +4,8 @@ latitude: 48.21152
 longitude: 12.05738
 postcode: "84424"
 city: Isen
-street: "Bischof-Josef-Straße"
-housenumber: 4
-phone: "+49 8083 90 83 470"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:00, Sa 09:00-12:00"
-website: "https://www.pepperweber.de/"
+street: Bischof-Josef-Straße
+housenumber: "4"
+phone: +49 8083 90 83 470
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:00, Sa 09:00-12:00
+website: https://www.pepperweber.de/

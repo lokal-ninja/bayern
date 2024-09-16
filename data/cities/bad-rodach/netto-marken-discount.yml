@@ -1,11 +1,11 @@
 id: 1288657123
-type: way
+type: node
 latitude: 50.34182
 longitude: 10.7693
 postcode: "96476"
 city: Bad Rodach
-street: "Hildburghäuser Straße"
-housenumber: 56
+street: Hildburghäuser Straße
+housenumber: "56"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
+opening_hours: Mo-Sa 07:00-20:00; PH off
 website: ""

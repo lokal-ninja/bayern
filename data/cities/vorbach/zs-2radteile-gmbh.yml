@@ -1,11 +1,11 @@
 id: 439065485
-type: way
+type: node
 latitude: 49.80373
 longitude: 11.76367
 postcode: "95519"
 city: Vorbach
-street: "Unterbibracherstraße"
-housenumber: 3
+street: Unterbibracherstraße
+housenumber: "3"
 phone: "+4992059881760"
-opening_hours: "Mo-Fr 09:00-19:00; Mar-Sep Sa 09:00-14:00; PH closed"
-website: "https://www.zweiradteile.net/"
+opening_hours: Mo-Fr 09:00-19:00; Mar-Sep Sa 09:00-14:00; PH closed
+website: https://www.zweiradteile.net/

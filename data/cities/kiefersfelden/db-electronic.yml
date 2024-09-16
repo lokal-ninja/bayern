@@ -1,11 +1,11 @@
 id: 105274932
-type: way
+type: node
 latitude: 47.61312
 longitude: 12.18677
 postcode: "83088"
 city: Kiefersfelden
-street: "Dorfstraße"
-housenumber: 30
+street: Dorfstraße
+housenumber: "30"
 phone: ""
-opening_hours: "Mo,We,Fr 10:00-17:00"
-website: "https://www.db-electronic.de/"
+opening_hours: Mo,We,Fr 10:00-17:00
+website: https://www.db-electronic.de/

@@ -4,8 +4,8 @@ latitude: 49.73866
 longitude: 10.16077
 postcode: "97318"
 city: Kitzingen
-street: "Kaiserstraße"
-housenumber: 23
-phone: "+49 9321 4400"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-15:00"
-website: "https://ottomode.de/"
+street: Kaiserstraße
+housenumber: "23"
+phone: +49 9321 4400
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-15:00
+website: https://ottomode.de/

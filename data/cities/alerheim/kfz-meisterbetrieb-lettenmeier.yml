@@ -1,11 +1,11 @@
 id: 565892076
-type: way
+type: node
 latitude: 48.84359
 longitude: 10.62019
 postcode: "86733"
 city: Alerheim
-street: "Ringstraße"
-housenumber: 18
+street: Ringstraße
+housenumber: "18"
 phone: "+499085212"
 opening_hours: ""
-website: "https://www.kfz-lettenmeier.de/start.htm"
+website: https://www.kfz-lettenmeier.de/start.htm

@@ -1,11 +1,11 @@
 id: 217805981
-type: way
+type: node
 latitude: 48.88996
 longitude: 12.62456
 postcode: "94315"
 city: Straubing
-street: "Borsigstraße"
-housenumber: 15
+street: Borsigstraße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:30; Sa 08:30-12:00"
-website: "https://www.se-huber.de/"
+opening_hours: Mo-Fr 08:00-17:30; Sa 08:30-12:00
+website: https://www.se-huber.de/

@@ -4,8 +4,8 @@ latitude: 48.13846
 longitude: 11.5686
 postcode: "80331"
 city: München
-street: "Neuhauser Straße"
-housenumber: 29
+street: Neuhauser Straße
+housenumber: "29"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.jack-wolfskin.de"
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.jack-wolfskin.de

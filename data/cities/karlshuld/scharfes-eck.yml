@@ -1,11 +1,11 @@
 id: 238662981
-type: way
+type: node
 latitude: 48.68241
 longitude: 11.28747
 postcode: "86668"
 city: Karlshuld
-street: "Hauptstraße"
-housenumber: 1
+street: Hauptstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

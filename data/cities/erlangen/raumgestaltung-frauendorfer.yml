@@ -4,8 +4,8 @@ latitude: 49.59624
 longitude: 11.0114
 postcode: "91054"
 city: Erlangen
-street: "Bohlenplatz"
-housenumber: 24
-phone: "+49 9131 23657"
-opening_hours: "Mo-Fr 09:30-13:00,14:30-18:00"
-website: "https://www.raumausstattung-frauendorfer.de/"
+street: Bohlenplatz
+housenumber: "24"
+phone: +49 9131 23657
+opening_hours: Mo-Fr 09:30-13:00,14:30-18:00
+website: https://www.raumausstattung-frauendorfer.de/

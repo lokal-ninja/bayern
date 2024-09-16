@@ -4,8 +4,8 @@ latitude: 49.79856
 longitude: 9.93413
 postcode: "97070"
 city: Würzburg
-street: "Kaiserstraße"
-housenumber: 12
-phone: "+49 700 4959 6979"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.bijou-brigitte.com/"
+street: Kaiserstraße
+housenumber: "12"
+phone: +49 700 4959 6979
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.bijou-brigitte.com/

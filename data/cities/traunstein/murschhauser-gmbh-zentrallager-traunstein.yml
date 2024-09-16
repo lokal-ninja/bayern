@@ -1,11 +1,11 @@
 id: 255660669
-type: way
+type: node
 latitude: 47.85556
 longitude: 12.63554
 postcode: "83278"
 city: Traunstein
-street: "Mühlwiesen"
-housenumber: 1
+street: Mühlwiesen
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.murschhauser.de/"
+website: https://www.murschhauser.de/

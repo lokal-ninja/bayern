@@ -4,8 +4,8 @@ latitude: 47.8604
 longitude: 12.36346
 postcode: "83209"
 city: Prien am Chiemsee
-street: "Seestraße"
-housenumber: 104
-phone: "+49 8051 609960"
-opening_hours: "08:00-23:00; Tu off"
-website: "http://www.neuer-am-see.de/"
+street: Seestraße
+housenumber: "104"
+phone: +49 8051 609960
+opening_hours: 08:00-23:00; Tu off
+website: http://www.neuer-am-see.de/

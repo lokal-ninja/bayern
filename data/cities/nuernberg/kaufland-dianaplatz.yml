@@ -4,8 +4,8 @@ latitude: 49.42751
 longitude: 11.06626
 postcode: "90443"
 city: Nürnberg
-street: "Dianaplatz"
+street: Dianaplatz
 housenumber: 23-25
-phone: "+49 911 941710"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.kaufland.de/service/filiale.storeName"
+phone: +49 911 941710
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.kaufland.de/service/filiale.storeName

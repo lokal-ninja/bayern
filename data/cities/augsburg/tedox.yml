@@ -1,11 +1,11 @@
 id: 88091479
-type: way
+type: node
 latitude: 48.37915
 longitude: 10.93316
 postcode: "86165"
 city: Augsburg
-street: "Brixener Straße"
-housenumber: 1
-phone: "+49 821 7908670"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-19:00"
-website: "https://www.tedox.de/shoplist/index/detail/?id=54"
+street: Brixener Straße
+housenumber: "1"
+phone: +49 821 7908670
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-19:00
+website: https://www.tedox.de/shoplist/index/detail/?id=54

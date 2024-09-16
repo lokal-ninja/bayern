@@ -1,11 +1,11 @@
 id: 50907703
-type: way
+type: node
 latitude: 48.07392
 longitude: 11.53732
 postcode: "82049"
 city: Pullach im Isartal
-street: "Bahnhofplatz"
-housenumber: 3
+street: Bahnhofplatz
+housenumber: "3"
 phone: ""
-opening_hours: "closed"
+opening_hours: closed
 website: ""

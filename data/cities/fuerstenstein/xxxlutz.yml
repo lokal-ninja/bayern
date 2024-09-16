@@ -1,11 +1,11 @@
 id: 222820822
-type: way
+type: node
 latitude: 48.71641
 longitude: 13.32681
 postcode: "94538"
 city: Fürstenstein
-street: "Peigertinger Straße"
-housenumber: 9
+street: Peigertinger Straße
+housenumber: "9"
 phone: ""
 opening_hours: ""
-website: "https://www.xxxlutz.de/filiale/xxxlutz-fuerstenstein/FT"
+website: https://www.xxxlutz.de/filiale/xxxlutz-fuerstenstein/FT

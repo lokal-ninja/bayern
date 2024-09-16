@@ -1,11 +1,11 @@
 id: 130063931
-type: way
+type: node
 latitude: 47.86983
 longitude: 12.61625
 postcode: "83278"
 city: Traunstein
-street: "Grabenstätter Straße"
+street: Grabenstätter Straße
 housenumber: 2, 4
-phone: "+49 861 708695 0"
+phone: +49 861 708695 0
 opening_hours: ""
-website: "https://www.audi-osenstaetter.de/"
+website: https://www.audi-osenstaetter.de/

@@ -1,11 +1,11 @@
 id: 126048536
-type: way
+type: node
 latitude: 49.44042
 longitude: 10.95544
 postcode: "90513"
 city: Zirndorf
-street: "Schwabacher Straße"
-housenumber: 1
+street: Schwabacher Straße
+housenumber: "1"
 phone: "+49911606760"
 opening_hours: ""
-website: "http://www.auto-hirmer.de/"
+website: http://www.auto-hirmer.de/

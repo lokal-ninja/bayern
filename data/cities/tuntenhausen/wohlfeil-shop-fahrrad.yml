@@ -4,8 +4,8 @@ latitude: 47.94533
 longitude: 12.03836
 postcode: "83104"
 city: Tuntenhausen
-street: "Wendelsteinstraße"
-housenumber: 35
-phone: "+49 8067 8815415"
-opening_hours: "Mo-Fr 10:00-17:00"
-website: "https://www.ebay.de/str/wohlfeilshop?_tab=1"
+street: Wendelsteinstraße
+housenumber: "35"
+phone: +49 8067 8815415
+opening_hours: Mo-Fr 10:00-17:00
+website: https://www.ebay.de/str/wohlfeilshop?_tab=1

@@ -4,8 +4,8 @@ latitude: 49.00663
 longitude: 12.06179
 postcode: "93051"
 city: Regensburg
-street: "Dr.-Gessler-Straße"
-housenumber: 45
-phone: "+49 941 2 80 63 68"
-opening_hours: "Mo-Sa 8:00-20:00"
-website: "https://www.edeka.de/"
+street: Dr.-Gessler-Straße
+housenumber: "45"
+phone: +49 941 2 80 63 68
+opening_hours: Mo-Sa 8:00-20:00
+website: https://www.edeka.de/

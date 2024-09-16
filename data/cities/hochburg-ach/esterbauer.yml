@@ -1,11 +1,11 @@
 id: 121724553
-type: way
+type: node
 latitude: 48.15697
 longitude: 12.84008
 postcode: "5122"
 city: Hochburg-Ach
-street: "Braunauerstraße"
-housenumber: 1
+street: Braunauerstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

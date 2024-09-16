@@ -1,11 +1,11 @@
 id: 41901218
-type: way
+type: node
 latitude: 50.1027
 longitude: 11.59948
 postcode: "95339"
 city: Wirsberg
-street: "Tischeräcker"
-housenumber: 4
+street: Tischeräcker
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
-website: "https://www.norma-online.de/"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
+website: https://www.norma-online.de/

@@ -1,11 +1,11 @@
 id: 741802701
-type: way
+type: node
 latitude: 49.04655
 longitude: 10.60022
 postcode: "91717"
 city: Wassertrüdingen
-street: "Ansbacher Straße"
-housenumber: 20
+street: Ansbacher Straße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

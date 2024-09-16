@@ -4,8 +4,8 @@ latitude: 48.87472
 longitude: 12.57253
 postcode: "94315"
 city: Straubing
-street: "Landshuter Straße"
-housenumber: 26
-phone: "+49 9421 50892"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa 10:00-13:00"
-website: "https://www.haus-der-kueche.de/"
+street: Landshuter Straße
+housenumber: "26"
+phone: +49 9421 50892
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00; Sa 10:00-13:00
+website: https://www.haus-der-kueche.de/

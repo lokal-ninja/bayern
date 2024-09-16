@@ -1,11 +1,11 @@
 id: 538574588
-type: way
+type: node
 latitude: 49.9306
 longitude: 11.29804
 postcode: "96142"
 city: Hollfeld
-street: "Bahnhofstraße"
-housenumber: 35
-phone: "+49 9274 80400"
-opening_hours: "Mo-Fr 06:30-20:00; Sa 07:30-19:00; PH,Su 09:00-19:00"
+street: Bahnhofstraße
+housenumber: "35"
+phone: +49 9274 80400
+opening_hours: Mo-Fr 06:30-20:00; Sa 07:30-19:00; PH,Su 09:00-19:00
 website: ""

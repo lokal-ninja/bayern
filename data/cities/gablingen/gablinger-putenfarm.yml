@@ -4,8 +4,8 @@ latitude: 48.46311
 longitude: 10.81515
 postcode: "86456"
 city: Gablingen
-street: "Schlauenweg"
-housenumber: 9
-phone: "+49 8230 1636"
-opening_hours: "Mo-Fr 06:00-17:00; Sa 07:00-13:00; PH off"
-website: "https://gablinger-putenfarm.de"
+street: Schlauenweg
+housenumber: "9"
+phone: +49 8230 1636
+opening_hours: Mo-Fr 06:00-17:00; Sa 07:00-13:00; PH off
+website: https://gablinger-putenfarm.de

@@ -4,8 +4,8 @@ latitude: 50.19021
 longitude: 11.78327
 postcode: "95213"
 city: Münchberg
-street: "Stammbacher Straße"
-housenumber: 3
+street: Stammbacher Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 07:00-20:00"
-website: "https://www.fickenschers-backhaus.de/"
+opening_hours: Mo-Fr 07:00-20:00
+website: https://www.fickenschers-backhaus.de/

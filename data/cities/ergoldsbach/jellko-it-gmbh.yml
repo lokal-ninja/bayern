@@ -4,8 +4,8 @@ latitude: 48.69022
 longitude: 12.20399
 postcode: "84061"
 city: Ergoldsbach
-street: "Hauptstraße"
-housenumber: 7
+street: Hauptstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Th 15:00-18:00, Fr 15:00-17:00 || und nach Vereinbarung"
-website: "https://www.jellko.de"
+opening_hours: Mo-Th 15:00-18:00, Fr 15:00-17:00 || "und nach Vereinbarung"
+website: https://www.jellko.de

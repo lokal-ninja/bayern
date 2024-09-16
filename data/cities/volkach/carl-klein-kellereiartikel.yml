@@ -1,11 +1,11 @@
 id: 389413753
-type: way
+type: node
 latitude: 49.85879
 longitude: 10.22775
 postcode: "97332"
 city: Volkach
-street: "Industriestraße"
-housenumber: 2
-phone: "+49 9381 7188150"
-opening_hours: "Mo-Fr 08:00-12:00,13:00-17:00"
+street: Industriestraße
+housenumber: "2"
+phone: +49 9381 7188150
+opening_hours: Mo-Fr 08:00-12:00,13:00-17:00
 website: ""

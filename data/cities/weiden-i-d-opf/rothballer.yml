@@ -4,8 +4,8 @@ latitude: 49.67453
 longitude: 12.1612
 postcode: "92637"
 city: Weiden i.d.OPf.
-street: "Stadtmühlweg"
-housenumber: 3
+street: Stadtmühlweg
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:30-14:00; PH,Su off"
-website: "https://www.rothballer.de/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:30-14:00; PH,Su off
+website: https://www.rothballer.de/

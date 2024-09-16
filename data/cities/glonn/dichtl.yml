@@ -1,11 +1,11 @@
 id: 76674642
-type: way
+type: node
 latitude: 47.99061
 longitude: 11.86552
 postcode: "85625"
 city: Glonn
-street: "Bahnhofstraße"
-housenumber: 14
+street: Bahnhofstraße
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

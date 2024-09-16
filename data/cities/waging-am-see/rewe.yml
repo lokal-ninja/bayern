@@ -1,11 +1,11 @@
 id: 844511893
-type: way
+type: node
 latitude: 47.933
 longitude: 12.72448
 postcode: "83329"
 city: Waging am See
-street: "Ottinger Straße"
-housenumber: 12
+street: Ottinger Straße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

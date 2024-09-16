@@ -1,11 +1,11 @@
 id: 101940673
-type: way
+type: node
 latitude: 48.74602
 longitude: 11.45452
 postcode: "85053"
 city: Ingolstadt
-street: "Odilostraße"
-housenumber: 18
-phone: "+49 841 66892"
-opening_hours: "Tu,Th,Fr 09:00-18:00; Sa 09:00-12:00"
+street: Odilostraße
+housenumber: "18"
+phone: +49 841 66892
+opening_hours: Tu,Th,Fr 09:00-18:00; Sa 09:00-12:00
 website: ""

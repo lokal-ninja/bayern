@@ -1,11 +1,12 @@
 id: 131065338
-type: way
+type: node
 latitude: 49.54401
 longitude: 11.94426
 postcode: "92242"
 city: Hirschau
-street: "Klostergasse"
-housenumber: 11
+street: Klostergasse
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00; Mo,Tu, Th, Fr 14:30-17:00; Sa 09:00-11:00; Su, PH off"
+opening_hours: Mo-Fr 09:00-12:00; Mo,Tu, Th, Fr 14:30-17:00; Sa 09:00-11:00; Su, PH
+    off
 website: ""

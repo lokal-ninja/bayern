@@ -1,11 +1,11 @@
 id: 141254625
-type: way
+type: node
 latitude: 50.08805
 longitude: 10.78574
 postcode: "96106"
 city: Ebern
-street: "Rudolf-Diesel-Straße"
-housenumber: 1
+street: Rudolf-Diesel-Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

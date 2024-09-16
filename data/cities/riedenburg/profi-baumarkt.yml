@@ -1,11 +1,11 @@
 id: 293868074
-type: way
+type: node
 latitude: 48.96536
 longitude: 11.68068
 postcode: "93339"
 city: Riedenburg
-street: "Austraße"
-housenumber: 30
+street: Austraße
+housenumber: "30"
 phone: ""
 opening_hours: ""
-website: "https://profi-neustadt.de/unsere-maerkte/profi-riedenburg"
+website: https://profi-neustadt.de/unsere-maerkte/profi-riedenburg

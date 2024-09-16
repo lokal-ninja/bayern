@@ -4,8 +4,8 @@ latitude: 49.01892
 longitude: 12.0877
 postcode: "93047"
 city: Regensburg
-street: "Jakobstraße"
-housenumber: 12
-phone: "+49 941 565400"
-opening_hours: "Tu-Fr 15:00-20:00; Sa 11:00-16:00; Su,Mo,PH off"
-website: "https://www.rossini-weine.de"
+street: Jakobstraße
+housenumber: "12"
+phone: +49 941 565400
+opening_hours: Tu-Fr 15:00-20:00; Sa 11:00-16:00; Su,Mo,PH off
+website: https://www.rossini-weine.de

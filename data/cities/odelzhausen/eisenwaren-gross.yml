@@ -1,11 +1,11 @@
 id: 326523211
-type: way
+type: node
 latitude: 48.31552
 longitude: 11.20874
 postcode: "85235"
 city: Odelzhausen
-street: "Dorfstraße"
-housenumber: 16
+street: Dorfstraße
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

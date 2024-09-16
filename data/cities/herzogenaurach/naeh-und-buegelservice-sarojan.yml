@@ -4,8 +4,8 @@ latitude: 49.57068
 longitude: 10.88133
 postcode: "91074"
 city: Herzogenaurach
-street: "Hintere Gasse"
-housenumber: 41
-phone: "+49 9132 7917179"
-opening_hours: "Mo-We,Fr 09:00-17:00; Th 09:00-15:00; Sa 09:00-12:00"
+street: Hintere Gasse
+housenumber: "41"
+phone: +49 9132 7917179
+opening_hours: Mo-We,Fr 09:00-17:00; Th 09:00-15:00; Sa 09:00-12:00
 website: ""

@@ -1,11 +1,11 @@
 id: 379781276
-type: way
+type: node
 latitude: 50.15087
 longitude: 10.38036
 postcode: "97488"
 city: Stadtlauringen
-street: "Uferstraße"
-housenumber: 
+street: Uferstraße
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

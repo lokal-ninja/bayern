@@ -4,8 +4,8 @@ latitude: 48.1967
 longitude: 11.61476
 postcode: "80939"
 city: München
-street: "Leutkircher Straße"
-housenumber: 1
-phone: "+49 162 5131293"
-opening_hours: "nach Vereinbarung"
+street: Leutkircher Straße
+housenumber: "1"
+phone: +49 162 5131293
+opening_hours: '"nach Vereinbarung"'
 website: ""

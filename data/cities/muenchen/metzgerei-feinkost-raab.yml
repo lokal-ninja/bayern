@@ -4,8 +4,8 @@ latitude: 48.16456
 longitude: 11.46535
 postcode: "81247"
 city: München
-street: "Verdistraße"
-housenumber: 113
-phone: "+49 89 811 13 52"
-opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-12:00"
-website: "https://raab.digitale-theke.com/"
+street: Verdistraße
+housenumber: "113"
+phone: +49 89 811 13 52
+opening_hours: Mo-Fr 06:30-18:00; Sa 06:30-12:00
+website: https://raab.digitale-theke.com/

@@ -1,11 +1,11 @@
 id: 228410090
-type: way
+type: node
 latitude: 48.28161
 longitude: 11.57857
 postcode: "85716"
 city: Unterschleißheim
-street: "Alleestraße"
-housenumber: 14
+street: Alleestraße
+housenumber: "14"
 phone: ""
-opening_hours: "Tu-Fr,Su 11:30-14:30,17:30-22:00; Sa 17:30-22:00"
+opening_hours: Tu-Fr,Su 11:30-14:30,17:30-22:00; Sa 17:30-22:00
 website: ""

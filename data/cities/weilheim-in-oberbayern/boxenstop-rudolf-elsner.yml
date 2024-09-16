@@ -1,11 +1,11 @@
 id: 295201958
-type: way
+type: node
 latitude: 47.85022
 longitude: 11.13834
 postcode: "82362"
 city: Weilheim in Oberbayern
-street: "Paradeisstraße"
-housenumber: 63
+street: Paradeisstraße
+housenumber: "63"
 phone: ""
 opening_hours: ""
-website: "http://www.boxenstop-elsner.de/"
+website: http://www.boxenstop-elsner.de/

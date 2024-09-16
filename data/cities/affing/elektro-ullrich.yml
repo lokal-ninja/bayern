@@ -1,11 +1,11 @@
 id: 127431412
-type: way
+type: node
 latitude: 48.45256
 longitude: 10.98425
 postcode: "86444"
 city: Affing
-street: "Sommerstraße"
+street: Sommerstraße
 housenumber: 4a
 phone: ""
 opening_hours: ""
-website: "https://elektro-ullrich.bayern/"
+website: https://elektro-ullrich.bayern/

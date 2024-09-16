@@ -1,11 +1,11 @@
 id: 887998747
-type: way
+type: node
 latitude: 50.20128
 longitude: 12.09762
 postcode: "95173"
 city: Schönwald
-street: "Oststraße"
-housenumber: 20
-phone: "+49 9287 58021"
+street: Oststraße
+housenumber: "20"
+phone: +49 9287 58021
 opening_hours: ""
-website: "https://www.lackiererei-thumser.de/"
+website: https://www.lackiererei-thumser.de/

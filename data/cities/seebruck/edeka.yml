@@ -1,11 +1,11 @@
 id: 105332048
-type: way
+type: node
 latitude: 47.94075
 longitude: 12.47893
 postcode: "83358"
 city: Seebruck
-street: "Pullacher Straße"
-housenumber: 14
-phone: "+49 8667 7564"
-opening_hours: "Mo-Fr 07:15-20:00; Sa 07:00-20:00"
-website: "https://www.edeka-pfeilstetter.de/"
+street: Pullacher Straße
+housenumber: "14"
+phone: +49 8667 7564
+opening_hours: Mo-Fr 07:15-20:00; Sa 07:00-20:00
+website: https://www.edeka-pfeilstetter.de/

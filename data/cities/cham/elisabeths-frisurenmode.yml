@@ -1,11 +1,11 @@
 id: 234834028
-type: way
+type: node
 latitude: 49.21982
 longitude: 12.66406
 postcode: "93413"
 city: Cham
-street: "Ludwigstraße"
-housenumber: 4
-phone: "+49 9971 1401"
+street: Ludwigstraße
+housenumber: "4"
+phone: +49 9971 1401
 opening_hours: ""
-website: "http://www.salon-ehrl.de/"
+website: http://www.salon-ehrl.de/

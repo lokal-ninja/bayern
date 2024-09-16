@@ -1,11 +1,11 @@
 id: 188442361
-type: way
+type: node
 latitude: 47.92426
 longitude: 12.38103
 postcode: "83125"
 city: Eggstätt
-street: "Priener Straße"
-housenumber: 25
+street: Priener Straße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:30, 13:30-18:00; Sa 08:00-12:00"
+opening_hours: Mo-Fr 08:00-12:30, 13:30-18:00; Sa 08:00-12:00
 website: ""

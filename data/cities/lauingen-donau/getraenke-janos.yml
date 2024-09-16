@@ -1,11 +1,11 @@
 id: 198674478
-type: way
+type: node
 latitude: 48.5637
 longitude: 10.40286
 postcode: "89415"
 city: Lauingen (Donau)
-street: "Gundelfinger Straße"
-housenumber: 60
+street: Gundelfinger Straße
+housenumber: "60"
 phone: ""
 opening_hours: ""
 website: ""

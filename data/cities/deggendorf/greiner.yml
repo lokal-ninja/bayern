@@ -1,11 +1,11 @@
 id: 91237324
-type: way
+type: node
 latitude: 48.85466
 longitude: 12.96113
 postcode: "94469"
 city: Deggendorf
-street: "Graflinger Straße"
-housenumber: 155
-phone: "+49991-250130"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00"
-website: "https://www.auto-greiner.de/"
+street: Graflinger Straße
+housenumber: "155"
+phone: +49991-250130
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-13:00
+website: https://www.auto-greiner.de/

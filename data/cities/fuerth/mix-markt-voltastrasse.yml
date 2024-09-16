@@ -1,11 +1,11 @@
 id: 329581469
-type: way
+type: node
 latitude: 49.48232
 longitude: 10.95488
 postcode: "90766"
 city: Fürth
-street: "Voltastraße"
-housenumber: 9
-phone: "+49 911 97499740"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 08:00-20:00"
-website: "https://www.mixmarkt.eu/de/germany/maerkte/162/"
+street: Voltastraße
+housenumber: "9"
+phone: +49 911 97499740
+opening_hours: Mo-Fr 09:00-20:00; Sa 08:00-20:00
+website: https://www.mixmarkt.eu/de/germany/maerkte/162/

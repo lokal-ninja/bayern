@@ -1,11 +1,11 @@
 id: 83692228
-type: way
+type: node
 latitude: 48.6868
 longitude: 12.69137
 postcode: "94405"
 city: Landau an der Isar
-street: "Straubinger Straße"
-housenumber: 75
+street: Straubinger Straße
+housenumber: "75"
 phone: ""
 opening_hours: ""
 website: ""

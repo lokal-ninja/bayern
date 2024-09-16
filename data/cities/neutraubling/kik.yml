@@ -1,11 +1,11 @@
 id: 187936314
-type: way
+type: node
 latitude: 48.98499
 longitude: 12.19697
 postcode: "93073"
 city: Neutraubling
-street: "Bayerwaldstraße"
-housenumber: 57
+street: Bayerwaldstraße
+housenumber: "57"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
-website: "https://www.kik-textilien.de/"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00
+website: https://www.kik-textilien.de/

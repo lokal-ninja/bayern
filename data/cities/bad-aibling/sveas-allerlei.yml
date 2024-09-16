@@ -4,8 +4,8 @@ latitude: 47.86297
 longitude: 12.01151
 postcode: "83043"
 city: Bad Aibling
-street: "Rosenheimer Straße"
-housenumber: 11
-phone: "+49 8061 89 93"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:00;Sa 10:00-14:00;PH off"
-website: "https://www.sveas-allerlei.de/"
+street: Rosenheimer Straße
+housenumber: "11"
+phone: +49 8061 89 93
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:00;Sa 10:00-14:00;PH off
+website: https://www.sveas-allerlei.de/

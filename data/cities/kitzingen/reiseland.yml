@@ -4,8 +4,8 @@ latitude: 49.73917
 longitude: 10.16197
 postcode: "97318"
 city: Kitzingen
-street: "Marktstraße"
-housenumber: 28
-phone: "+49 9321 8012"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://www.reiseland.de/reisebueros/reiseland-kitzingen/f1f61367afe85806b1ef6180fd878396/?buero=67&tx_bueros_smsbueros%5Bbuero%5D=67&tx_bueros_smsbueros%5Baction%5D=show&tx_bueros_smsbueros%5Bcontroller%5D=Reisebuero"
+street: Marktstraße
+housenumber: "28"
+phone: +49 9321 8012
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://www.reiseland.de/reisebueros/reiseland-kitzingen/f1f61367afe85806b1ef6180fd878396/?buero=67&tx_bueros_smsbueros%5Bbuero%5D=67&tx_bueros_smsbueros%5Baction%5D=show&tx_bueros_smsbueros%5Bcontroller%5D=Reisebuero

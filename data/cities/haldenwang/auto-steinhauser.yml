@@ -1,11 +1,11 @@
 id: 167302197
-type: way
+type: node
 latitude: 47.77289
 longitude: 10.34663
 postcode: "87490"
 city: Haldenwang
-street: "Staudach"
-housenumber: 3
+street: Staudach
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

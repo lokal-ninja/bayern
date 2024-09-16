@@ -1,11 +1,11 @@
 id: 207916564
-type: way
+type: node
 latitude: 48.11608
 longitude: 11.53238
 postcode: "81369"
 city: München
-street: "Albert-Roßhaupter-Straße"
-housenumber: 37
+street: Albert-Roßhaupter-Straße
+housenumber: "37"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH closed"
-website: "https://www.dm.de/"
+opening_hours: Mo-Sa 08:00-20:00; PH closed
+website: https://www.dm.de/

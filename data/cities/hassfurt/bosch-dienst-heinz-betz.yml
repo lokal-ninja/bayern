@@ -1,11 +1,11 @@
 id: 89857994
-type: way
+type: node
 latitude: 50.03317
 longitude: 10.526
 postcode: "97437"
 city: Haßfurt
-street: "Industriestraße"
-housenumber: 36
+street: Industriestraße
+housenumber: "36"
 phone: ""
 opening_hours: ""
 website: ""

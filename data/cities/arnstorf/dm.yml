@@ -1,11 +1,11 @@
 id: 382722777
-type: way
+type: node
 latitude: 48.55213
 longitude: 12.80715
 postcode: "94424"
 city: Arnstorf
-street: "Bürgermeister-Haberl-Straße"
+street: Bürgermeister-Haberl-Straße
 housenumber: 1a
-phone: "+49 8723 9785910"
-opening_hours: "Mo-Sa 08:00-20:00"
+phone: +49 8723 9785910
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

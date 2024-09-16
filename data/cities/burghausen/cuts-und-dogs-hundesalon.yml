@@ -4,8 +4,8 @@ latitude: 48.17163
 longitude: 12.8345
 postcode: "84489"
 city: Burghausen
-street: "Max-Eyth-Straße"
-housenumber: 4
+street: Max-Eyth-Straße
+housenumber: "4"
 phone: "+4917655538982"
-opening_hours: "nach telefonischer Terminvereinbarung!"
-website: "http://cutsanddogs.de/"
+opening_hours: '"nach telefonischer Terminvereinbarung!"'
+website: http://cutsanddogs.de/

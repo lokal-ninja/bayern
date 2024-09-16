@@ -1,11 +1,11 @@
 id: 320246649
-type: way
+type: node
 latitude: 50.09001
 longitude: 10.78574
 postcode: "96106"
 city: Ebern
-street: "Heubacher Straße"
-housenumber: 17
+street: Heubacher Straße
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

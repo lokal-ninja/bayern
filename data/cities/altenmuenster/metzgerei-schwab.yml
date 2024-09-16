@@ -1,11 +1,11 @@
 id: 279991870
-type: way
+type: node
 latitude: 48.46445
 longitude: 10.59056
 postcode: "86450"
 city: Altenmünster
-street: "Hauptstraße"
-housenumber: 31
+street: Hauptstraße
+housenumber: "31"
 phone: ""
 opening_hours: ""
-website: "https://www.fleischerei-schwab.de/"
+website: https://www.fleischerei-schwab.de/

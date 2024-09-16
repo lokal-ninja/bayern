@@ -1,11 +1,11 @@
 id: 195186874
-type: way
+type: node
 latitude: 48.25462
 longitude: 10.98663
 postcode: "86415"
 city: Mering
-street: "Wallbergstraße"
-housenumber: 20
+street: Wallbergstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://filialen.aldi-sued.de/bayern/mering/wallbergstrasse-20"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://filialen.aldi-sued.de/bayern/mering/wallbergstrasse-20

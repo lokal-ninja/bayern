@@ -1,11 +1,11 @@
 id: 215426732
-type: way
+type: node
 latitude: 49.4349
 longitude: 10.97081
 postcode: "90522"
 city: Oberasbach
-street: "Kurt-Schumacher-Straße"
-housenumber: 2
+street: Kurt-Schumacher-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://filialen.aldi-sued.de/bayern/oberasbach/kurt-schumacher-strasse-2"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://filialen.aldi-sued.de/bayern/oberasbach/kurt-schumacher-strasse-2

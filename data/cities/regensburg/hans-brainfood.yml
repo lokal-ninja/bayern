@@ -4,8 +4,8 @@ latitude: 49.01682
 longitude: 12.09513
 postcode: "93047"
 city: Regensburg
-street: "Obermünsterstraße"
-housenumber: 3
+street: Obermünsterstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://hans-brainfood.de/"
+website: https://hans-brainfood.de/

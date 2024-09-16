@@ -4,8 +4,8 @@ latitude: 49.57185
 longitude: 10.88056
 postcode: "91074"
 city: Herzogenaurach
-street: "Goethestraße"
-housenumber: 7
+street: Goethestraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 07:00-13:00"
-website: "http://www.blumen-gauch.de/"
+opening_hours: Mo-Fr 08:00-18:00; Sa 07:00-13:00
+website: http://www.blumen-gauch.de/

@@ -1,11 +1,11 @@
 id: 126290417
-type: way
+type: node
 latitude: 48.30385
 longitude: 11.35476
 postcode: "85247"
 city: Schwabhausen
-street: "Augsburger Straße"
-housenumber: 6
-phone: "+49 8138 668161"
+street: Augsburger Straße
+housenumber: "6"
+phone: +49 8138 668161
 opening_hours: ""
-website: "http://www.atos-autoteile.de"
+website: http://www.atos-autoteile.de

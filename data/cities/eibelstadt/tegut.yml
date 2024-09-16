@@ -1,11 +1,11 @@
 id: 22877392
-type: way
+type: node
 latitude: 49.73023
 longitude: 9.99344
 postcode: "97246"
 city: Eibelstadt
-street: "Würzburger Straße"
-housenumber: 45
-phone: "+49 9303 90790"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.tegut.com"
+street: Würzburger Straße
+housenumber: "45"
+phone: +49 9303 90790
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.tegut.com

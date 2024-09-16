@@ -4,8 +4,8 @@ latitude: 48.36976
 longitude: 10.89793
 postcode: "86150"
 city: Augsburg
-street: "Karolinenstraße"
-housenumber: 13
+street: Karolinenstraße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa,Su,PH off"
-website: "https://www.amplifon.com/de/"
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00; Sa,Su,PH off
+website: https://www.amplifon.com/de/

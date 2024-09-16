@@ -4,8 +4,8 @@ latitude: 49.51625
 longitude: 11.03117
 postcode: "90427"
 city: Nürnberg
-street: "Am Sportplatz"
-housenumber: 4
-phone: "+49 911 302785"
-opening_hours: "Sep-Apr: Sa 08:00-12:00"
-website: "https://fischwedel.de/"
+street: Am Sportplatz
+housenumber: "4"
+phone: +49 911 302785
+opening_hours: 'Sep-Apr: Sa 08:00-12:00'
+website: https://fischwedel.de/

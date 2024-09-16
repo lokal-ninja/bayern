@@ -1,11 +1,11 @@
 id: 238008515
-type: way
+type: node
 latitude: 47.80174
 longitude: 12.86515
 postcode: "83454"
 city: Anger
-street: "Salzstraße"
-housenumber: 10
-phone: "+49 8656 615"
-opening_hours: "Mo-Fr 07:45-12:00, 13:00-17:00"
-website: "https://autohaus-hogger.go1a.de/"
+street: Salzstraße
+housenumber: "10"
+phone: +49 8656 615
+opening_hours: Mo-Fr 07:45-12:00, 13:00-17:00
+website: https://autohaus-hogger.go1a.de/

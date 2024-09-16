@@ -4,8 +4,9 @@ latitude: 48.04606
 longitude: 11.96829
 postcode: "85567"
 city: Grafing bei München
-street: "Münchener Straße"
-housenumber: 6
-phone: "+49 8092 861557"
-opening_hours: "Tu 10:00-12:30,14:30-17:30; We,Fr 09:00-12:30,14:30-17:30; Th 09:30-12:30,14:30-17:30; Sa 09:00-12:30; PH off"
-website: "https://www.bangkokshop-grafing.de/"
+street: Münchener Straße
+housenumber: "6"
+phone: +49 8092 861557
+opening_hours: Tu 10:00-12:30,14:30-17:30; We,Fr 09:00-12:30,14:30-17:30; Th 09:30-12:30,14:30-17:30;
+    Sa 09:00-12:30; PH off
+website: https://www.bangkokshop-grafing.de/

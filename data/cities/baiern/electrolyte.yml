@@ -4,8 +4,8 @@ latitude: 47.95762
 longitude: 11.8972
 postcode: "85625"
 city: Baiern
-street: "Raphaelweg"
-housenumber: 1
+street: Raphaelweg
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; PH closed"
-website: "https://electrolyte.bike/"
+opening_hours: Mo-Fr 10:00-18:00; PH closed
+website: https://electrolyte.bike/

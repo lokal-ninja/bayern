@@ -1,11 +1,11 @@
 id: 52572681
-type: way
+type: node
 latitude: 48.76511
 longitude: 11.4258
 postcode: "85049"
 city: Ingolstadt
-street: "Milchstraße"
-housenumber: 21
-phone: "+49 841 95676939"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-16:00; Su,PH 07:30-16:00"
-website: "https://sipl.de"
+street: Milchstraße
+housenumber: "21"
+phone: +49 841 95676939
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-16:00; Su,PH 07:30-16:00
+website: https://sipl.de

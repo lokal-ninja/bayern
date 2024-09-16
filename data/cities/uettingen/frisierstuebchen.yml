@@ -1,11 +1,11 @@
 id: 744841960
-type: way
+type: node
 latitude: 49.79558
 longitude: 9.72589
 postcode: "97292"
 city: Uettingen
-street: "Münchener Straße"
-housenumber: 1
-phone: "+49 9369 8132"
-opening_hours: "Tu,We,Fr 09:00-17:00; Th 09:00-18:00; Sa 08:30-12:00"
+street: Münchener Straße
+housenumber: "1"
+phone: +49 9369 8132
+opening_hours: Tu,We,Fr 09:00-17:00; Th 09:00-18:00; Sa 08:30-12:00
 website: ""

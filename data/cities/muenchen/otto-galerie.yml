@@ -4,8 +4,8 @@ latitude: 48.14854
 longitude: 11.5624
 postcode: "80333"
 city: München
-street: "Augustenstraße"
-housenumber: 45
-phone: "+49 89 52 93 92"
-opening_hours: "Mo-Fr 15:00-18:00"
-website: "http://www.otto-galerie.de/"
+street: Augustenstraße
+housenumber: "45"
+phone: +49 89 52 93 92
+opening_hours: Mo-Fr 15:00-18:00
+website: http://www.otto-galerie.de/

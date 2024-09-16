@@ -4,8 +4,8 @@ latitude: 48.99039
 longitude: 12.15236
 postcode: "93055"
 city: Regensburg
-street: "Junkersstraße"
-housenumber: 11
-phone: "+49 941 75005"
-opening_hours: "Mo-Th 08:00-12:00,13:00-16:30; Fr 08:00-12:00,13:00-15:30"
-website: "https://www.seyboth.de/"
+street: Junkersstraße
+housenumber: "11"
+phone: +49 941 75005
+opening_hours: Mo-Th 08:00-12:00,13:00-16:30; Fr 08:00-12:00,13:00-15:30
+website: https://www.seyboth.de/

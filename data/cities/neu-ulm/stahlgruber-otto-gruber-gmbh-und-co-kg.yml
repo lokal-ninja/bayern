@@ -1,11 +1,11 @@
 id: 105787869
-type: way
+type: node
 latitude: 48.38835
 longitude: 10.04246
 postcode: "89231"
 city: Neu-Ulm
-street: "Böttgerstraße"
-housenumber: 8
+street: Böttgerstraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "https://www.stahlgruber.de/"
+website: https://www.stahlgruber.de/

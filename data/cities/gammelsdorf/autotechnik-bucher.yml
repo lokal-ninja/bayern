@@ -5,7 +5,7 @@ longitude: 11.94137
 postcode: "85408"
 city: Gammelsdorf
 street: ""
-housenumber: 6
-phone: "+49 8766 588"
+housenumber: "6"
+phone: +49 8766 588
 opening_hours: ""
-website: "https://www.autotechnik-bucher.de/"
+website: https://www.autotechnik-bucher.de/

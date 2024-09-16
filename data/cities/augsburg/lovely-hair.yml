@@ -1,11 +1,11 @@
 id: 92425034
-type: way
+type: node
 latitude: 48.37576
 longitude: 10.89894
 postcode: ""
 city: Augsburg
-street: "Stephansplatz"
-housenumber: 7
-phone: "+49 821 24402019"
-opening_hours: "Tu-Fr 10:00-18:30, Sa 09:00-15:00"
-website: "https://lovely-hair.de"
+street: Stephansplatz
+housenumber: "7"
+phone: +49 821 24402019
+opening_hours: Tu-Fr 10:00-18:30, Sa 09:00-15:00
+website: https://lovely-hair.de

@@ -4,8 +4,8 @@ latitude: 48.0457
 longitude: 11.96789
 postcode: "85567"
 city: Grafing b. München
-street: "Marktplatz"
-housenumber: 15
-phone: "+49 8092 32946"
-opening_hours: "Mo 09:00-14:00; Tu-Fr 09:00-18:00; Sa 09:00-13:30; PH off"
-website: "https://www.vomfass.de/grafing"
+street: Marktplatz
+housenumber: "15"
+phone: +49 8092 32946
+opening_hours: Mo 09:00-14:00; Tu-Fr 09:00-18:00; Sa 09:00-13:30; PH off
+website: https://www.vomfass.de/grafing

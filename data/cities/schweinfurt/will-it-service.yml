@@ -4,8 +4,8 @@ latitude: 50.04392
 longitude: 10.23551
 postcode: "97421"
 city: Schweinfurt
-street: "Judengasse"
-housenumber: 9
-phone: "+49 9721 9782362"
-opening_hours: "Mo-Fr 09:00-12:00, 12:45-17:00"
-website: "https://itwill.de/"
+street: Judengasse
+housenumber: "9"
+phone: +49 9721 9782362
+opening_hours: Mo-Fr 09:00-12:00, 12:45-17:00
+website: https://itwill.de/

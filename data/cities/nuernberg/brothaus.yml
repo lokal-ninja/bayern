@@ -4,8 +4,8 @@ latitude: 49.47105
 longitude: 11.10221
 postcode: "90491"
 city: Nürnberg
-street: "Äußere Bayreuther Straße"
-housenumber: 100
-phone: "+49 911 56149166"
-opening_hours: "Mo-Sa 06:00-19:00; Su 07:00-18:00"
-website: "https://brot-haus.de/"
+street: Äußere Bayreuther Straße
+housenumber: "100"
+phone: +49 911 56149166
+opening_hours: Mo-Sa 06:00-19:00; Su 07:00-18:00
+website: https://brot-haus.de/

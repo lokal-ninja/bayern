@@ -1,11 +1,11 @@
 id: 336973483
-type: way
+type: node
 latitude: 49.61929
 longitude: 12.34684
 postcode: "92648"
 city: Vohenstrauß
-street: "Waidhauser Straße"
+street: Waidhauser Straße
 housenumber: 26a
-phone: "+49 9651 9180326"
-opening_hours: "Mo-Sa 08:00-20:00; Su, PH Off"
+phone: +49 9651 9180326
+opening_hours: Mo-Sa 08:00-20:00; Su, PH Off
 website: ""

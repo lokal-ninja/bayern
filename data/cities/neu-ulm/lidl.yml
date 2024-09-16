@@ -1,11 +1,11 @@
 id: 83702568
-type: way
+type: node
 latitude: 48.37703
 longitude: 10.00547
 postcode: "89231"
 city: Neu-Ulm
-street: "Wegenerstraße"
-housenumber: 5
-phone: "+49 800 / 43 53 361"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.lidl.de/"
+street: Wegenerstraße
+housenumber: "5"
+phone: +49 800 / 43 53 361
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.lidl.de/

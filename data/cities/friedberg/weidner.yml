@@ -1,11 +1,11 @@
 id: 183904419
-type: way
+type: node
 latitude: 48.36655
 longitude: 10.95617
 postcode: "86316"
 city: Friedberg
-street: "Paul-Lenz-Straße"
-housenumber: 6
+street: Paul-Lenz-Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "https://www.weidner.de/"
+website: https://www.weidner.de/

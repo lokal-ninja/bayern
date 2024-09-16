@@ -1,11 +1,11 @@
 id: 97324596
-type: way
+type: node
 latitude: 50.2397
 longitude: 11.3249
 postcode: "96317"
 city: Kronach
-street: "Hussitenplatz"
-housenumber: 1
+street: Hussitenplatz
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://weka-shop.de/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
+website: https://weka-shop.de/

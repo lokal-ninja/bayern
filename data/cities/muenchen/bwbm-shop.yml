@@ -4,8 +4,8 @@ latitude: 48.16764
 longitude: 11.53963
 postcode: "80637"
 city: München
-street: "Dachauer Straße"
-housenumber: 128
+street: Dachauer Straße
+housenumber: "128"
 phone: ""
-opening_hours: "Mo-We 08:00-16:00; Th 08:00-17:00; Fr 08:00-15:00"
-website: "https://www.bwbm.de/"
+opening_hours: Mo-We 08:00-16:00; Th 08:00-17:00; Fr 08:00-15:00
+website: https://www.bwbm.de/

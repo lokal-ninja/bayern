@@ -1,11 +1,11 @@
 id: 26191008
-type: way
+type: node
 latitude: 49.60877
 longitude: 11.35485
 postcode: "91245"
 city: Simmelsdorf
-street: "Mühlstraße"
-housenumber: 1
+street: Mühlstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

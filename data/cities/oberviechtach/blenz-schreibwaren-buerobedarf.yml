@@ -4,8 +4,8 @@ latitude: 49.46
 longitude: 12.4189
 postcode: "92526"
 city: Oberviechtach
-street: "Marktplatz"
-housenumber: 2
-phone: "+49 9671 1520"
-opening_hours: "Mo-Sa 08:00-12:00, Mo-Fr 14:00-18:00"
-website: "https://www.blenz-gmbh.de/"
+street: Marktplatz
+housenumber: "2"
+phone: +49 9671 1520
+opening_hours: Mo-Sa 08:00-12:00, Mo-Fr 14:00-18:00
+website: https://www.blenz-gmbh.de/

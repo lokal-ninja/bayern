@@ -4,8 +4,8 @@ latitude: 48.36312
 longitude: 10.87217
 postcode: "86157"
 city: Augsburg
-street: "Augsburger Straße"
-housenumber: 21
+street: Augsburger Straße
+housenumber: "21"
 phone: "+498214481313"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-13:00"
-website: "https://www.ottillinger.de/"
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-13:00
+website: https://www.ottillinger.de/

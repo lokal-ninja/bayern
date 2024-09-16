@@ -1,11 +1,11 @@
 id: 523287370
-type: way
+type: node
 latitude: 49.99068
 longitude: 10.24848
 postcode: "97525"
 city: Schwebheim
-street: "Hauptstraße"
-housenumber: 38
+street: Hauptstraße
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

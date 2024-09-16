@@ -1,11 +1,11 @@
 id: 127872270
-type: way
+type: node
 latitude: 47.85878
 longitude: 11.48179
 postcode: "82538"
 city: Geretsried
-street: "Sudetenstraße"
-housenumber: 4
+street: Sudetenstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

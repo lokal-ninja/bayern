@@ -1,11 +1,11 @@
 id: 164755673
-type: way
+type: node
 latitude: 49.06619
 longitude: 11.88932
 postcode: "93164"
 city: Laaber
-street: "Regensburger Straße"
-housenumber: 9
+street: Regensburger Straße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

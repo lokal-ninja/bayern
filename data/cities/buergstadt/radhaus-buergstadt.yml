@@ -1,11 +1,12 @@
 id: 204037385
-type: way
+type: node
 latitude: 49.70719
 longitude: 9.26365
 postcode: "63927"
 city: Bürgstadt
-street: "Am Stadtweg"
+street: Am Stadtweg
 housenumber: 4a
-phone: "+49 9371 4147"
-opening_hours: "Tu,We,Fr 10:00-13:00,14:00-18:00; Th 10:00-13:00,14:00-19:00; Sa 09:00-15:00; Mo,PH off"
-website: "http://www.radhaus-buergstadt.de"
+phone: +49 9371 4147
+opening_hours: Tu,We,Fr 10:00-13:00,14:00-18:00; Th 10:00-13:00,14:00-19:00; Sa 09:00-15:00;
+    Mo,PH off
+website: http://www.radhaus-buergstadt.de

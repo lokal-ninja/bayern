@@ -4,8 +4,8 @@ latitude: 47.85383
 longitude: 12.12131
 postcode: "83022"
 city: Rosenheim
-street: "Samerstraße"
-housenumber: 4
+street: Samerstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-We 13:30-18:30, Th-Fr 11:30-18:30, Sa 11:00-15:00"
-website: "https://www.bebop-schallplatten.de/"
+opening_hours: Mo-We 13:30-18:30, Th-Fr 11:30-18:30, Sa 11:00-15:00
+website: https://www.bebop-schallplatten.de/

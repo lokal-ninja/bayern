@@ -1,11 +1,11 @@
 id: 43704930
-type: way
+type: node
 latitude: 49.44219
 longitude: 10.96735
 postcode: "90513"
 city: Zirndorf
-street: "Jahnstraße"
-housenumber: 1
+street: Jahnstraße
+housenumber: "1"
 phone: "+49911603636"
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.59705
 longitude: 11.01776
 postcode: "91052"
 city: Erlangen
-street: "Luitpoldstraße"
-housenumber: 32
+street: Luitpoldstraße
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Fr 07:00-17:00"
-website: "https://bergmueller-energie.de"
+opening_hours: Mo-Fr 07:00-17:00
+website: https://bergmueller-energie.de

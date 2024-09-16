@@ -1,11 +1,11 @@
 id: 51350575
-type: way
+type: node
 latitude: 50.14946
 longitude: 11.08033
 postcode: "96215"
 city: Lichtenfels
-street: "Zur Heide"
-housenumber: 26
+street: Zur Heide
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
+opening_hours: Mo-Sa 07:00-20:00; PH off
 website: ""

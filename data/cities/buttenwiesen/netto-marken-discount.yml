@@ -1,11 +1,11 @@
 id: 220396958
-type: way
+type: node
 latitude: 48.60125
 longitude: 10.71811
 postcode: "86647"
 city: Buttenwiesen
-street: "Wertinger Straße"
-housenumber: 42
+street: Wertinger Straße
+housenumber: "42"
 phone: ""
 opening_hours: ""
-website: "https://www.netto-online.de"
+website: https://www.netto-online.de

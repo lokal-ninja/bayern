@@ -1,11 +1,11 @@
 id: 121816522
-type: way
+type: node
 latitude: 48.38515
 longitude: 10.02893
 postcode: "89231"
 city: Neu-Ulm
-street: "Von-Liebig-Straße"
-housenumber: 2
+street: Von-Liebig-Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.15669
 longitude: 11.56604
 postcode: "80798"
 city: München
-street: "Hiltenspergerstraße"
-housenumber: 8
+street: Hiltenspergerstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Tu-Fr 10:00-20:00; Sa 09:00-16:00"
+opening_hours: Tu-Fr 10:00-20:00; Sa 09:00-16:00
 website: ""

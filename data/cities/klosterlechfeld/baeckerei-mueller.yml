@@ -4,8 +4,8 @@ latitude: 48.15818
 longitude: 10.83093
 postcode: "86836"
 city: Klosterlechfeld
-street: "Franziskanerplatz"
-housenumber: 4
-phone: "+49 8232 3848"
-opening_hours: "Mo-Fr 05:30-18:00; Sa 05:30-17:00; Su 08:00-17:00"
-website: "https://www.mueller-aus-tradition.de"
+street: Franziskanerplatz
+housenumber: "4"
+phone: +49 8232 3848
+opening_hours: Mo-Fr 05:30-18:00; Sa 05:30-17:00; Su 08:00-17:00
+website: https://www.mueller-aus-tradition.de

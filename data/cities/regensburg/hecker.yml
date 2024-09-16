@@ -4,8 +4,8 @@ latitude: 49.01097
 longitude: 12.09678
 postcode: "93053"
 city: Regensburg
-street: "Paracelsusstraße"
-housenumber: 2
-phone: "+49 941 5840436"
-opening_hours: "Mo 10:00-19:00; Tu-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.friseur-hecker.de/"
+street: Paracelsusstraße
+housenumber: "2"
+phone: +49 941 5840436
+opening_hours: Mo 10:00-19:00; Tu-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.friseur-hecker.de/

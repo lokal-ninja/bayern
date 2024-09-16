@@ -4,8 +4,8 @@ latitude: 49.47772
 longitude: 11.07681
 postcode: "90425"
 city: Nürnberg
-street: "Mittelstraße"
-housenumber: 67
-phone: "+49 911 34868"
-opening_hours: "Mo-Fr 07:00-12:00, Mo-Th 13:00-17:00, Fr 13:00-14:30"
-website: "https://autoburk.de/"
+street: Mittelstraße
+housenumber: "67"
+phone: +49 911 34868
+opening_hours: Mo-Fr 07:00-12:00, Mo-Th 13:00-17:00, Fr 13:00-14:30
+website: https://autoburk.de/

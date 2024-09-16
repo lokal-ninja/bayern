@@ -1,11 +1,11 @@
 id: 435816420
-type: way
+type: node
 latitude: 49.98847
 longitude: 9.17327
 postcode: "63773"
 city: Goldbach
-street: "An der Lache"
+street: An der Lache
 housenumber: 135-137
-phone: "+49 6021 90162-0"
-opening_hours: "Mo-Sa 09:00-19:00; Su 11:00-13:00"
-website: "http://gaertnerei-loewer.de/unsere-standorte/goldbach-aschaffenburg/"
+phone: +49 6021 90162-0
+opening_hours: Mo-Sa 09:00-19:00; Su 11:00-13:00
+website: http://gaertnerei-loewer.de/unsere-standorte/goldbach-aschaffenburg/

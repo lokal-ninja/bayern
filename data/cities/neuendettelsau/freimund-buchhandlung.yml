@@ -4,8 +4,8 @@ latitude: 49.28739
 longitude: 10.7876
 postcode: "91564"
 city: Neuendettelsau
-street: "Hauptstraße"
-housenumber: 2
+street: Hauptstraße
+housenumber: "2"
 phone: "+4998746899590"
-opening_hours: "Mo-Fr 08:30-12:30,13:30-18:00; Sa 08:30-12:00"
-website: "https://www.freimund-buchhandlung.de"
+opening_hours: Mo-Fr 08:30-12:30,13:30-18:00; Sa 08:30-12:00
+website: https://www.freimund-buchhandlung.de

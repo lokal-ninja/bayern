@@ -1,11 +1,11 @@
 id: 314065585
-type: way
+type: node
 latitude: 48.35413
 longitude: 10.15696
 postcode: "89284"
 city: Pfaffenhofen a.d.Roth
-street: "Espach"
+street: Espach
 housenumber: 1a
-phone: "+49 7302 4001"
+phone: +49 7302 4001
 opening_hours: ""
-website: "http://www.kottmayr.de/"
+website: http://www.kottmayr.de/

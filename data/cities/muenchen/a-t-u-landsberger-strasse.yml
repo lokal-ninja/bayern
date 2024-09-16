@@ -1,11 +1,11 @@
 id: 54060017
-type: way
+type: node
 latitude: 48.14217
 longitude: 11.5164
 postcode: "80687"
 city: München
-street: "Landsberger Straße"
-housenumber: 208
+street: Landsberger Straße
+housenumber: "208"
 phone: ""
-opening_hours: "Mo-Fr 07:30-20:00; Sa 08:00-16:00"
+opening_hours: Mo-Fr 07:30-20:00; Sa 08:00-16:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.01841
 longitude: 10.27359
 postcode: "87781"
 city: Ungerhausen
-street: "Gutenbergstraße"
-housenumber: 2
+street: Gutenbergstraße
+housenumber: "2"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.total.de/"
+opening_hours: 24/7
+website: https://www.total.de/

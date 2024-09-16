@@ -1,11 +1,11 @@
 id: 134140281
-type: way
+type: node
 latitude: 49.05801
 longitude: 12.12843
 postcode: "93057"
 city: Regensburg
-street: "Münchberger Straße"
-housenumber: 7
-phone: "+49 941 630435 0"
+street: Münchberger Straße
+housenumber: "7"
+phone: +49 941 630435 0
 opening_hours: ""
-website: "https://www.schoenholzhandel.de/"
+website: https://www.schoenholzhandel.de/

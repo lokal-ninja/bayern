@@ -1,11 +1,11 @@
 id: 61894239
-type: way
+type: node
 latitude: 49.4728
 longitude: 11.08051
 postcode: "90425"
 city: Nürnberg
-street: "Rollnerstraße"
-housenumber: 175
+street: Rollnerstraße
+housenumber: "175"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-12:00"
-website: "https://www.reifen-lorenz.de/"
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-12:00
+website: https://www.reifen-lorenz.de/

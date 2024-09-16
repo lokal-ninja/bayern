@@ -1,11 +1,11 @@
 id: 327674779
-type: way
+type: node
 latitude: 50.10016
 longitude: 11.37556
 postcode: "95336"
 city: Mainleus
-street: "Hauptstraße"
-housenumber: 31
+street: Hauptstraße
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

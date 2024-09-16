@@ -1,11 +1,11 @@
 id: 241916394
-type: way
+type: node
 latitude: 48.4168
 longitude: 10.87584
 postcode: "86368"
 city: Gersthofen
-street: "Annastraße"
-housenumber: 38
+street: Annastraße
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

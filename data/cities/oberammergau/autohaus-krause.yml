@@ -4,8 +4,8 @@ latitude: 47.59984
 longitude: 11.05231
 postcode: "82487"
 city: Oberammergau
-street: "Rottenbucher Straße"
-housenumber: 5
-phone: "+49 8822 63 65"
-opening_hours: "Mo-Fr 7:30-12:00, Mo-Fr 13:00-17:00, Sa 9:00-12:00"
-website: "https://www.opelkrause.de"
+street: Rottenbucher Straße
+housenumber: "5"
+phone: +49 8822 63 65
+opening_hours: Mo-Fr 7:30-12:00, Mo-Fr 13:00-17:00, Sa 9:00-12:00
+website: https://www.opelkrause.de

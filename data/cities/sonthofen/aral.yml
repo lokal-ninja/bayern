@@ -1,11 +1,11 @@
 id: 117167790
-type: way
+type: node
 latitude: 47.52392
 longitude: 10.26241
 postcode: "87527"
 city: Sonthofen
-street: "Illerstraße"
-housenumber: 12
+street: Illerstraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

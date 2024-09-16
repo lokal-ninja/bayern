@@ -1,11 +1,11 @@
 id: 86543839
-type: way
+type: node
 latitude: 49.46416
 longitude: 11.01763
 postcode: "90429"
 city: Nürnberg
-street: "Fürther Straße"
+street: Fürther Straße
 housenumber: 356-358
 phone: ""
-opening_hours: "Mo-We 10:00-19:00; Th-Sa 10:00-20:00"
+opening_hours: Mo-We 10:00-19:00; Th-Sa 10:00-20:00
 website: ""

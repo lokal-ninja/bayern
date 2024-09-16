@@ -1,11 +1,11 @@
 id: 429300040
-type: way
+type: node
 latitude: 49.5095
 longitude: 12.5472
 postcode: "92539"
 city: Schönsee
-street: "Weidinger Straße"
-housenumber: 2
-phone: "+49 9674 9258552"
+street: Weidinger Straße
+housenumber: "2"
+phone: +49 9674 9258552
 opening_hours: ""
-website: "http://www.getraenke-burger.de/"
+website: http://www.getraenke-burger.de/

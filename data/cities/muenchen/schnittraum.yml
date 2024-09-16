@@ -4,8 +4,8 @@ latitude: 48.13214
 longitude: 11.56686
 postcode: "80337"
 city: München
-street: "Thalkirchner Straße"
-housenumber: 1
-phone: "+49 89 26015878"
-opening_hours: "Mo-Fr 08:00-22:00; Sa 09:00-18:00; Su off"
-website: "https://schnittraum-muenchen.de/"
+street: Thalkirchner Straße
+housenumber: "1"
+phone: +49 89 26015878
+opening_hours: Mo-Fr 08:00-22:00; Sa 09:00-18:00; Su off
+website: https://schnittraum-muenchen.de/

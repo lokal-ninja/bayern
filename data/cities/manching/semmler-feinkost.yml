@@ -1,11 +1,11 @@
 id: 51983665
-type: way
+type: node
 latitude: 48.71228
 longitude: 11.47639
 postcode: "85077"
 city: Manching
-street: "Gerberstraße"
-housenumber: 16
+street: Gerberstraße
+housenumber: "16"
 phone: ""
 opening_hours: ""
-website: "https://www.semmler-feinkost.de"
+website: https://www.semmler-feinkost.de

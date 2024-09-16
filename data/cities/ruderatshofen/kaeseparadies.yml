@@ -4,8 +4,8 @@ latitude: 47.81924
 longitude: 10.5921
 postcode: "87674"
 city: Ruderatshofen
-street: "Hauptstraße"
-housenumber: 2
-phone: "+49 8343 92390"
-opening_hours: "Mo-Fr 07:00-17:30; Sa 07:00-12:00; PH,Su off"
-website: "https://www.kaeserei-stich.de/index.php"
+street: Hauptstraße
+housenumber: "2"
+phone: +49 8343 92390
+opening_hours: Mo-Fr 07:00-17:30; Sa 07:00-12:00; PH,Su off
+website: https://www.kaeserei-stich.de/index.php

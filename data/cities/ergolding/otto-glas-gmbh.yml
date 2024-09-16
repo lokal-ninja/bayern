@@ -1,11 +1,11 @@
 id: 603893809
-type: way
+type: node
 latitude: 48.56414
 longitude: 12.16037
 postcode: "84030"
 city: Ergolding
-street: "Mühlenstraße"
-housenumber: 2
+street: Mühlenstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

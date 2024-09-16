@@ -1,11 +1,11 @@
 id: 101014562
-type: way
+type: node
 latitude: 49.78256
 longitude: 9.98275
 postcode: "97218"
 city: Gerbrunn
-street: "Mühlweg"
-housenumber: 34
+street: Mühlweg
+housenumber: "34"
 phone: ""
 opening_hours: ""
 website: ""

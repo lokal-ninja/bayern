@@ -1,11 +1,11 @@
 id: 100550642
-type: way
+type: node
 latitude: 50.00942
 longitude: 10.18517
 postcode: "97493"
 city: Bergrheinfeld
-street: "Goethestraße"
-housenumber: 4
-phone: "+49 9721 7990"
-opening_hours: "Mo-Fr 08:00-17:30; Sa 08:00-12:00"
-website: "https://amrhein.de/"
+street: Goethestraße
+housenumber: "4"
+phone: +49 9721 7990
+opening_hours: Mo-Fr 08:00-17:30; Sa 08:00-12:00
+website: https://amrhein.de/

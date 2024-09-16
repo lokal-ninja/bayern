@@ -1,11 +1,12 @@
 id: 83737521
-type: way
+type: node
 latitude: 47.61628
 longitude: 12.18786
 postcode: "83088"
 city: Kiefersfelden
-street: "Thierseestraße"
-housenumber: 2
+street: Thierseestraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo 07:00-12:00,14:30-18:00; Tu 07:00-12:00; We-Fr 07:00-12:00,14:30-18:00; Sa 07:00-12:00"
+opening_hours: Mo 07:00-12:00,14:30-18:00; Tu 07:00-12:00; We-Fr 07:00-12:00,14:30-18:00;
+    Sa 07:00-12:00
 website: ""

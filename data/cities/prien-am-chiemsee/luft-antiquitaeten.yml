@@ -1,11 +1,11 @@
 id: 166234074
-type: way
+type: node
 latitude: 47.84471
 longitude: 12.34645
 postcode: "83209"
 city: Prien am Chiemsee
-street: "Hochriesstraße"
-housenumber: 59
+street: Hochriesstraße
+housenumber: "59"
 phone: ""
 opening_hours: ""
 website: ""

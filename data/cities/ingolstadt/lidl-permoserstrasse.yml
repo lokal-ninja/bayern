@@ -1,11 +1,11 @@
 id: 31026111
-type: way
+type: node
 latitude: 48.77034
 longitude: 11.39611
 postcode: "85057"
 city: Ingolstadt
-street: "Permoserstraße"
-housenumber: 81
+street: Permoserstraße
+housenumber: "81"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
+opening_hours: Mo-Sa 07:00-20:00; PH off
 website: ""

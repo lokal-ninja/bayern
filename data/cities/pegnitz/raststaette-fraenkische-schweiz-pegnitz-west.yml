@@ -1,11 +1,11 @@
 id: 70101874
-type: way
+type: node
 latitude: 49.74699
 longitude: 11.51029
 postcode: "91257"
 city: Pegnitz
-street: "An der A9"
-housenumber: 
-phone: "+49 9241 4944537"
-opening_hours: "24/7"
-website: "https://www.serways.de/standorte/standortdetails/fraenkische-schweizpegnitz-west/"
+street: An der A9
+housenumber: ""
+phone: +49 9241 4944537
+opening_hours: 24/7
+website: https://www.serways.de/standorte/standortdetails/fraenkische-schweizpegnitz-west/

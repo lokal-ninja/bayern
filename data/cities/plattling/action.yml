@@ -1,11 +1,11 @@
 id: 201254850
-type: way
+type: node
 latitude: 48.78139
 longitude: 12.87067
 postcode: "94447"
 city: Plattling
-street: "Dr.-Kiefl-Straße"
-housenumber: 4
+street: Dr.-Kiefl-Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00"
+opening_hours: Mo-Fr 09:00-20:00
 website: ""

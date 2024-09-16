@@ -1,11 +1,11 @@
 id: 494265149
-type: way
+type: node
 latitude: 49.42492
 longitude: 11.0089
 postcode: "90449"
 city: Nürnberg
-street: "Gebersdorfer Straße"
-housenumber: 120
-phone: "+49 911 674284"
-opening_hours: "Mo-Th 07:00-13:00,15:00-17:00; Fr 07:00-18:00; Sa 07:00-12:00"
+street: Gebersdorfer Straße
+housenumber: "120"
+phone: +49 911 674284
+opening_hours: Mo-Th 07:00-13:00,15:00-17:00; Fr 07:00-18:00; Sa 07:00-12:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.63089
 longitude: 13.18909
 postcode: "94474"
 city: Vilshofen an der Donau
-street: "Vilsvorstadt"
-housenumber: 18
-phone: "+49 8541 8385"
-opening_hours: "Mo-Fr 8:00-18:00; Sa 8:00-12:00"
-website: "http://www.elektrodobler.de/"
+street: Vilsvorstadt
+housenumber: "18"
+phone: +49 8541 8385
+opening_hours: Mo-Fr 8:00-18:00; Sa 8:00-12:00
+website: http://www.elektrodobler.de/

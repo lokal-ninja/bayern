@@ -1,11 +1,11 @@
 id: 136476811
-type: way
+type: node
 latitude: 48.88383
 longitude: 12.35541
 postcode: "93104"
 city: Sünching
-street: "Bahnhofstraße"
-housenumber: 31
+street: Bahnhofstraße
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su, PH off"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-20:00; Su, PH off
+website: https://www.netto-online.de

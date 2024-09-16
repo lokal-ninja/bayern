@@ -4,8 +4,8 @@ latitude: 48.06499
 longitude: 11.6614
 postcode: "85521"
 city: Ottobrunn
-street: "Rosenheimer Landstraße"
-housenumber: 63
-phone: "+49 89 683068"
-opening_hours: "Mo-Fr 09:00-14:00; Sa,Su,PH off || Nach Vereinbarung"
-website: "https://www.trauerdienste.info/"
+street: Rosenheimer Landstraße
+housenumber: "63"
+phone: +49 89 683068
+opening_hours: Mo-Fr 09:00-14:00; Sa,Su,PH off || "Nach Vereinbarung"
+website: https://www.trauerdienste.info/

@@ -4,8 +4,8 @@ latitude: 49.57579
 longitude: 10.986
 postcode: "91058"
 city: Erlangen
-street: "Fürther Straße"
-housenumber: 3
+street: Fürther Straße
+housenumber: "3"
 phone: ""
-opening_hours: "nach telefonischer Vereinbarung"
+opening_hours: '"nach telefonischer Vereinbarung"'
 website: ""

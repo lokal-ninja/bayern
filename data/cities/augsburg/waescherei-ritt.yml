@@ -4,8 +4,8 @@ latitude: 48.35238
 longitude: 10.89647
 postcode: "86159"
 city: Augsburg
-street: "Firnhaberstraße"
-housenumber: 3
+street: Firnhaberstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Th 09:00-15:00; Fr 09:00-17:00; Sa 09:00-13:00; PH,Su off"
+opening_hours: Mo-Th 09:00-15:00; Fr 09:00-17:00; Sa 09:00-13:00; PH,Su off
 website: ""

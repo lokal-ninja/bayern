@@ -4,8 +4,8 @@ latitude: 48.01895
 longitude: 11.59066
 postcode: "82041"
 city: Oberhaching
-street: "Hubertusstraße"
-housenumber: 1
-phone: "+49 89 46098097"
-opening_hours: "Mo, Th, We, Fr 09:00-13:00,16:00-18:30; Sa 10:00-15:00"
-website: "https://velo-klug.de/"
+street: Hubertusstraße
+housenumber: "1"
+phone: +49 89 46098097
+opening_hours: Mo, Th, We, Fr 09:00-13:00,16:00-18:30; Sa 10:00-15:00
+website: https://velo-klug.de/

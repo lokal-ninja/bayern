@@ -4,8 +4,8 @@ latitude: 48.35473
 longitude: 10.94284
 postcode: "86163"
 city: Augsburg
-street: "Friedberger Straße"
-housenumber: 130
-phone: "+49 821 61425"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00, Sa 09:00-13:00; Su,PH off"
-website: "https://www.kuenzel-optik.de/"
+street: Friedberger Straße
+housenumber: "130"
+phone: +49 821 61425
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00, Sa 09:00-13:00; Su,PH off
+website: https://www.kuenzel-optik.de/

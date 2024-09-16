@@ -1,11 +1,11 @@
 id: 52994888
-type: way
+type: node
 latitude: 48.76496
 longitude: 11.42171
 postcode: "85049"
 city: Ingolstadt
-street: "Kupferstraße"
-housenumber: 26
+street: Kupferstraße
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

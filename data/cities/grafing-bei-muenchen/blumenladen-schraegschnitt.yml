@@ -4,8 +4,8 @@ latitude: 48.04458
 longitude: 11.96447
 postcode: "85567"
 city: Grafing bei München
-street: "Gartenstraße"
-housenumber: 2
-phone: "+49 8092 1224"
-opening_hours: "Tu-Fr 08:30-13:00,15:00-18:00; Sa 08:00-12:00; PH off"
+street: Gartenstraße
+housenumber: "2"
+phone: +49 8092 1224
+opening_hours: Tu-Fr 08:30-13:00,15:00-18:00; Sa 08:00-12:00; PH off
 website: ""

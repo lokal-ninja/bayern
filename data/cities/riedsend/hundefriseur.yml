@@ -1,11 +1,11 @@
 id: 650251976
-type: way
+type: node
 latitude: 48.52596
 longitude: 10.5901
 postcode: "86637"
 city: Riedsend
-street: "Viehweidstraße"
-housenumber: 15
+street: Viehweidstraße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

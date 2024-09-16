@@ -1,11 +1,11 @@
 id: 93204151
-type: way
+type: node
 latitude: 48.54386
 longitude: 10.85436
 postcode: "86405"
 city: Meitingen
-street: "Römerstraße"
-housenumber: 18
+street: Römerstraße
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 08:00-13:00; PH off"
-website: "http://s515699232.website-start.de/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 08:00-13:00; PH off
+website: http://s515699232.website-start.de/

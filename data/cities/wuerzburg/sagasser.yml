@@ -4,8 +4,8 @@ latitude: 49.80022
 longitude: 9.97129
 postcode: "97076"
 city: Würzburg
-street: "Ohmstraße"
-housenumber: 4
+street: Ohmstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:30; Sa 08:00-18:00; PH off"
-website: "https://www.sagasser.de"
+opening_hours: Mo-Fr 08:00-19:30; Sa 08:00-18:00; PH off
+website: https://www.sagasser.de

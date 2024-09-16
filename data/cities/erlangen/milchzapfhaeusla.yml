@@ -1,11 +1,11 @@
 id: 422980648
-type: way
+type: node
 latitude: 49.55176
 longitude: 11.00775
 postcode: "91058"
 city: Erlangen
-street: "Weinstraße"
-housenumber: 50
+street: Weinstraße
+housenumber: "50"
 phone: ""
-opening_hours: "Mo-Su,PH 07:30-20:00"
-website: "https://www.erlebnishof-eichenmueller.de/"
+opening_hours: Mo-Su,PH 07:30-20:00
+website: https://www.erlebnishof-eichenmueller.de/

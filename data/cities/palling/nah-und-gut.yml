@@ -1,11 +1,12 @@
 id: 258020120
-type: way
+type: node
 latitude: 48.03619
 longitude: 12.6582
 postcode: "83349"
 city: Palling
-street: "Hauptstraße"
-housenumber: 19
+street: Hauptstraße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; 12:00-13:30 closed; We 12:00-18:00 closed; Sa 07:00-12:00; Su,PH closed"
+opening_hours: Mo-Fr 07:00-18:00; 12:00-13:30 closed; We 12:00-18:00 closed; Sa 07:00-12:00;
+    Su,PH closed
 website: ""

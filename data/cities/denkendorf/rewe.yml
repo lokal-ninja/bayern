@@ -1,11 +1,11 @@
 id: 1240909772
-type: way
+type: node
 latitude: 48.93545
 longitude: 11.46094
 postcode: "85095"
 city: Denkendorf
-street: "Alemannenstraße"
-housenumber: 6
+street: Alemannenstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

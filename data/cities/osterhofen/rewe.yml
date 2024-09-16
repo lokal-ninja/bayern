@@ -1,11 +1,11 @@
 id: 167529486
-type: way
+type: node
 latitude: 48.7085
 longitude: 13.00799
 postcode: "94486"
 city: Osterhofen
-street: "Industriestraße"
-housenumber: 3
+street: Industriestraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

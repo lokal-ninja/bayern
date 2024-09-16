@@ -4,8 +4,8 @@ latitude: 48.36834
 longitude: 10.8963
 postcode: "86150"
 city: Augsburg
-street: "Annastraße"
-housenumber: 19
+street: Annastraße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Sa 09:30-20:00; Su,PH off"
-website: "https://www.tkmaxx.de/"
+opening_hours: Mo-Sa 09:30-20:00; Su,PH off
+website: https://www.tkmaxx.de/

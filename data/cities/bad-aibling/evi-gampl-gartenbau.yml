@@ -1,11 +1,11 @@
 id: 1051527549
-type: way
+type: node
 latitude: 47.8679
 longitude: 12.02822
 postcode: "83043"
 city: Bad Aibling
-street: "Zeller Weg"
-housenumber: 4
-phone: "+49 8061 15 85"
-opening_hours: "Mo-Fr 08:00-16:00; Sa 08:00-13:00; Dec-Feb off; PH off"
-website: "https://evi-gampl.de/unsere-gaertnerei/"
+street: Zeller Weg
+housenumber: "4"
+phone: +49 8061 15 85
+opening_hours: Mo-Fr 08:00-16:00; Sa 08:00-13:00; Dec-Feb off; PH off
+website: https://evi-gampl.de/unsere-gaertnerei/

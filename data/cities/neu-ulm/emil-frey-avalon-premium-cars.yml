@@ -1,11 +1,11 @@
 id: 782049104
-type: way
+type: node
 latitude: 48.38635
 longitude: 10.03935
 postcode: "89231"
 city: Neu-Ulm
-street: "Von-Liebig-Straße"
-housenumber: 30
+street: Von-Liebig-Straße
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-13:00"
-website: "https://www.emilfrey.de/"
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-13:00
+website: https://www.emilfrey.de/

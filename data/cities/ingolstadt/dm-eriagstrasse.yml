@@ -4,8 +4,8 @@ latitude: 48.74819
 longitude: 11.47482
 postcode: "85053"
 city: Ingolstadt
-street: "Eriagstraße"
-housenumber: 30
-phone: "+49 841 88197908"
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
-website: "https://www.dm.de/store/de-2682/ingolstadt/eriagstrasse-30"
+street: Eriagstraße
+housenumber: "30"
+phone: +49 841 88197908
+opening_hours: Mo-Sa 07:00-20:00; PH off
+website: https://www.dm.de/store/de-2682/ingolstadt/eriagstrasse-30

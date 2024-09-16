@@ -1,11 +1,11 @@
 id: 293366912
-type: way
+type: node
 latitude: 48.39766
 longitude: 12.75066
 postcode: "84307"
 city: Eggenfelden
-street: "Lauterbachstraße"
-housenumber: 43
+street: Lauterbachstraße
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

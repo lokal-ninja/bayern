@@ -1,11 +1,11 @@
 id: 736526325
-type: way
+type: node
 latitude: 49.95722
 longitude: 12.25157
 postcode: "95666"
 city: Mitterteich
-street: "Waldsassener Straße"
-housenumber: 38
-phone: "+49 9633 92110"
+street: Waldsassener Straße
+housenumber: "38"
+phone: +49 9633 92110
 opening_hours: ""
 website: ""

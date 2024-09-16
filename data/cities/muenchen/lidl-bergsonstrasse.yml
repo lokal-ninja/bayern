@@ -1,11 +1,11 @@
 id: 32670787
-type: way
+type: node
 latitude: 48.1606
 longitude: 11.42388
 postcode: "81245"
 city: München
-street: "Bergsonstraße"
-housenumber: 147
+street: Bergsonstraße
+housenumber: "147"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
-website: "https://www.lidl.de/f/muenchen/aubing-bergsonstr-147.html"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
+website: https://www.lidl.de/f/muenchen/aubing-bergsonstr-147.html

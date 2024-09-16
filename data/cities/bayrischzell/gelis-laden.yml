@@ -4,8 +4,8 @@ latitude: 47.67343
 longitude: 12.01328
 postcode: "83735"
 city: Bayrischzell
-street: "Schulstraße"
-housenumber: 8
+street: Schulstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo,Tu,Th 14:00-17:00; We 10:00-12:00"
+opening_hours: Mo,Tu,Th 14:00-17:00; We 10:00-12:00
 website: ""

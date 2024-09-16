@@ -4,8 +4,8 @@ latitude: 49.01911
 longitude: 12.09695
 postcode: "93047"
 city: Regensburg
-street: "Residenzstraße"
-housenumber: 2
+street: Residenzstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-16:00"
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-16:00
 website: ""

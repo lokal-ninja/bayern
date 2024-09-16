@@ -1,11 +1,11 @@
 id: 162250602
-type: way
+type: node
 latitude: 49.97184
 longitude: 10.66707
 postcode: "97483"
 city: Eltmann
-street: "Schottenstraße"
-housenumber: 1
+street: Schottenstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

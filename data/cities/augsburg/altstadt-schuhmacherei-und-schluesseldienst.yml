@@ -4,8 +4,8 @@ latitude: 48.36751
 longitude: 10.89991
 postcode: "86150"
 city: Augsburg
-street: "Weiße Gasse"
-housenumber: 7
-phone: "+49 821 47089271"
-opening_hours: "Mo off,Tu-Fr 10:00-13:00,14:00-18:00,Sa 10:00-14:00,Su off"
-website: "https://www.schuhmacherei-augsburg.de/"
+street: Weiße Gasse
+housenumber: "7"
+phone: +49 821 47089271
+opening_hours: Mo off,Tu-Fr 10:00-13:00,14:00-18:00,Sa 10:00-14:00,Su off
+website: https://www.schuhmacherei-augsburg.de/

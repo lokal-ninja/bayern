@@ -1,11 +1,11 @@
 id: 512060083
-type: way
+type: node
 latitude: 48.71402
 longitude: 13.26543
 postcode: "94535"
 city: Eging am See
-street: "Deggendorfer Straße"
-housenumber: 9
-phone: "+49 8544 3096375"
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+street: Deggendorfer Straße
+housenumber: "9"
+phone: +49 8544 3096375
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

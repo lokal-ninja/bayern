@@ -4,8 +4,9 @@ latitude: 50.25429
 longitude: 12.03847
 postcode: "95111"
 city: Rehau
-street: "Regnitzlosauer Straße"
-housenumber: 12
-phone: "+49 (0)9283  8989420"
-opening_hours: "Montag, Dienstag, Donnerstag, Freitag 09:00 Uhr - 13:00 Uhr 14:30 Uhr - 18:00 Uhr  Mittwoch 09:00 Uhr - 13:00 Uhr  Samstag 09:00 Uhr - 12:00 Uhr"
+street: Regnitzlosauer Straße
+housenumber: "12"
+phone: +49 (0)9283  8989420
+opening_hours: Montag, Dienstag, Donnerstag, Freitag 09:00 Uhr - 13:00 Uhr 14:30 Uhr
+    - 18:00 Uhr  Mittwoch 09:00 Uhr - 13:00 Uhr  Samstag 09:00 Uhr - 12:00 Uhr
 website: ""

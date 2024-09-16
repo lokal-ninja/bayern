@@ -4,8 +4,8 @@ latitude: 48.54564
 longitude: 10.85376
 postcode: "86405"
 city: Meitingen
-street: "Römerstraße"
-housenumber: 6
-phone: "+49 171 3343612"
-opening_hours: "We-Fr 14:30-18:00; Sa 10:00-13:00"
-website: "https://radsportstudio-meitingen.de/"
+street: Römerstraße
+housenumber: "6"
+phone: +49 171 3343612
+opening_hours: We-Fr 14:30-18:00; Sa 10:00-13:00
+website: https://radsportstudio-meitingen.de/

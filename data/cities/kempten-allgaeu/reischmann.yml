@@ -1,11 +1,11 @@
 id: 91043395
-type: way
+type: node
 latitude: 47.72621
 longitude: 10.31416
 postcode: "87435"
 city: Kempten (Allgäu)
-street: "Klostersteige"
-housenumber: 9
+street: Klostersteige
+housenumber: "9"
 phone: ""
 opening_hours: ""
-website: "http://www.reischmann-mode.de"
+website: http://www.reischmann-mode.de

@@ -4,8 +4,8 @@ latitude: 48.24666
 longitude: 10.35963
 postcode: "86381"
 city: Krumbach (Schwaben)
-street: "Bahnhofstraße"
-housenumber: 47
+street: Bahnhofstraße
+housenumber: "47"
 phone: ""
-opening_hours: "Mo-Fr 08:30-12:30,14:00-18:00"
-website: "https://www.hoertechnik-lengdobler.de/"
+opening_hours: Mo-Fr 08:30-12:30,14:00-18:00
+website: https://www.hoertechnik-lengdobler.de/

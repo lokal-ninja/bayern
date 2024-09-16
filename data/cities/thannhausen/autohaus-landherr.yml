@@ -1,11 +1,11 @@
 id: 441343622
-type: way
+type: node
 latitude: 48.28795
 longitude: 10.45583
 postcode: "86470"
 city: Thannhausen
-street: "Edelstetter Straße"
-housenumber: 41
+street: Edelstetter Straße
+housenumber: "41"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 125222219
-type: way
+type: node
 latitude: 48.49501
 longitude: 11.18006
 postcode: "86556"
 city: Kühbach
-street: "Dieselstraße"
-housenumber: 5
+street: Dieselstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

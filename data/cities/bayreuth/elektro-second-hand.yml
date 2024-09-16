@@ -4,8 +4,8 @@ latitude: 49.9314
 longitude: 11.58175
 postcode: "95447"
 city: Bayreuth
-street: "Eichendorffring"
-housenumber: 36
+street: Eichendorffring
+housenumber: "36"
 phone: ""
-opening_hours: "Tu,Th,Sa"
+opening_hours: Tu,Th,Sa
 website: ""

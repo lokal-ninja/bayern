@@ -1,11 +1,11 @@
 id: 359633658
-type: way
+type: node
 latitude: 48.14734
 longitude: 11.79091
 postcode: "85599"
 city: Vaterstetten
-street: "Taxetstraße"
-housenumber: 4
+street: Taxetstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-17:00; Su off"
-website: "https://www.tesla.com"
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-17:00; Su off
+website: https://www.tesla.com

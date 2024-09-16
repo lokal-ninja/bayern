@@ -1,11 +1,12 @@
 id: 626422117
-type: way
+type: node
 latitude: 50.22446
 longitude: 11.31895
 postcode: "96317"
 city: Kronach
-street: "Fröschbrunn"
-housenumber: 8
+street: Fröschbrunn
+housenumber: "8"
 phone: ""
-opening_hours: "Feb-Oct Mo-Fr 10:00-19:00; Nov-Jan Mo-Fr 10:00-18:00; Sa 09:00-16:00; PH off"
+opening_hours: Feb-Oct Mo-Fr 10:00-19:00; Nov-Jan Mo-Fr 10:00-18:00; Sa 09:00-16:00;
+    PH off
 website: ""

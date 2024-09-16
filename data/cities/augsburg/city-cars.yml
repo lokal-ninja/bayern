@@ -4,8 +4,8 @@ latitude: 48.37562
 longitude: 10.87044
 postcode: "86156"
 city: Augsburg
-street: "Reinöhlstraße"
-housenumber: 83
-phone: "+49 821 26 70 199"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:30-15:30"
-website: "http://www.kfz-citycars.de/"
+street: Reinöhlstraße
+housenumber: "83"
+phone: +49 821 26 70 199
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:30-15:30
+website: http://www.kfz-citycars.de/

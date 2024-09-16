@@ -4,8 +4,8 @@ latitude: 48.40425
 longitude: 11.98994
 postcode: "85456"
 city: Wartenberg
-street: "Obere Hauptstraße"
-housenumber: 3
-phone: "+49 8762 7116"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-14:00"
-website: "https://www.nkd.com/"
+street: Obere Hauptstraße
+housenumber: "3"
+phone: +49 8762 7116
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-14:00
+website: https://www.nkd.com/

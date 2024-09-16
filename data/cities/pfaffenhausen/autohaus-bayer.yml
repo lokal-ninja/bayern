@@ -1,11 +1,11 @@
 id: 298554000
-type: way
+type: node
 latitude: 48.11813
 longitude: 10.46952
 postcode: "87775"
 city: Pfaffenhausen
-street: "Gewerbepark"
-housenumber: 2
+street: Gewerbepark
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

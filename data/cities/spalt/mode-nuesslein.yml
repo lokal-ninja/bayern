@@ -4,8 +4,8 @@ latitude: 49.17645
 longitude: 10.92498
 postcode: "91174"
 city: Spalt
-street: "Hauptstraße"
-housenumber: 32
-phone: "+49 9175 381"
-opening_hours: "Mo,Tu,Th,Fr 08:15-12:30,14:00-18:00; We,Sa 08:15-12:30"
-website: "https://www.mode-nuesslein.de/index.php"
+street: Hauptstraße
+housenumber: "32"
+phone: +49 9175 381
+opening_hours: Mo,Tu,Th,Fr 08:15-12:30,14:00-18:00; We,Sa 08:15-12:30
+website: https://www.mode-nuesslein.de/index.php

@@ -1,11 +1,11 @@
 id: 56226004
-type: way
+type: node
 latitude: 48.7636
 longitude: 11.42434
 postcode: "85049"
 city: Ingolstadt
-street: "Moritzstraße"
-housenumber: 9
+street: Moritzstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; PH off"
+opening_hours: Mo-Fr 07:00-18:00; PH off
 website: ""

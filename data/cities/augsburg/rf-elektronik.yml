@@ -4,8 +4,8 @@ latitude: 48.37084
 longitude: 10.89716
 postcode: "86150"
 city: Augsburg
-street: "Karlstraße"
-housenumber: 2
+street: Karlstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 10:00-14:00"
-website: "https://www.rf-elektronik.de/"
+opening_hours: Mo-Fr 10:00-14:00
+website: https://www.rf-elektronik.de/

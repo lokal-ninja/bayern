@@ -4,8 +4,8 @@ latitude: 48.48733
 longitude: 10.85779
 postcode: "86462"
 city: Langweid am Lech
-street: "Zugspitzstraße"
-housenumber: 1
-phone: "+49 8230 6321"
-opening_hours: "Mo,We-Fr 9:30-12:00, 14:00-18:00; Sa 9:00-13:00"
-website: "https://www.bike-radsport.de/"
+street: Zugspitzstraße
+housenumber: "1"
+phone: +49 8230 6321
+opening_hours: Mo,We-Fr 9:30-12:00, 14:00-18:00; Sa 9:00-13:00
+website: https://www.bike-radsport.de/

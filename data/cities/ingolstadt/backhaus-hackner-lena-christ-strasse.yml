@@ -4,8 +4,8 @@ latitude: 48.78014
 longitude: 11.43912
 postcode: "85055"
 city: Ingolstadt
-street: "Lena-Christ-Straße"
-housenumber: 2
-phone: "+49 841 9513810"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-13:00; Su,PH closed"
-website: "https://www.backhaus-hackner.de"
+street: Lena-Christ-Straße
+housenumber: "2"
+phone: +49 841 9513810
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-13:00; Su,PH closed
+website: https://www.backhaus-hackner.de

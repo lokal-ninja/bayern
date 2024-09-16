@@ -1,11 +1,11 @@
 id: 30186178
-type: way
+type: node
 latitude: 49.9276
 longitude: 11.56589
 postcode: "95447"
 city: Bayreuth
-street: "Glockenstraße"
-housenumber: 7
+street: Glockenstraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

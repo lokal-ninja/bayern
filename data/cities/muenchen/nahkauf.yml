@@ -4,8 +4,8 @@ latitude: 48.20416
 longitude: 11.59949
 postcode: "80939"
 city: München
-street: "Werner-Egk-Bogen"
-housenumber: 21
-phone: "+49 89 250065330"
-opening_hours: "Mo-Sa 07:00-20:00"
+street: Werner-Egk-Bogen
+housenumber: "21"
+phone: +49 89 250065330
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

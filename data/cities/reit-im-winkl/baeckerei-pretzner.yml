@@ -4,8 +4,8 @@ latitude: 47.67736
 longitude: 12.47071
 postcode: "83242"
 city: Reit im Winkl
-street: "Dorfstraße"
-housenumber: 4
-phone: "+49 8640 976969"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-12:30; PH,Su 06:00-10:00"
-website: "https://baeckerei.pretzner.de"
+street: Dorfstraße
+housenumber: "4"
+phone: +49 8640 976969
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-12:30; PH,Su 06:00-10:00
+website: https://baeckerei.pretzner.de

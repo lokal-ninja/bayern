@@ -1,11 +1,11 @@
 id: 125827243
-type: way
+type: node
 latitude: 49.92263
 longitude: 9.07377
 postcode: "63762"
 city: Großostheim
-street: "Bahnhofstraße"
-housenumber: 11
+street: Bahnhofstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-15:00"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-15:00
 website: ""

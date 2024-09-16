@@ -1,11 +1,11 @@
 id: 296853632
-type: way
+type: node
 latitude: 49.64084
 longitude: 10.59374
 postcode: "91481"
 city: Münchsteinach
-street: "Steigerwaldstraße"
-housenumber: 26
+street: Steigerwaldstraße
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://brauerei-loscher.de/brauerei-getraenkemarkt/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://brauerei-loscher.de/brauerei-getraenkemarkt/

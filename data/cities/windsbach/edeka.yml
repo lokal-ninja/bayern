@@ -1,11 +1,11 @@
 id: 102455562
-type: way
+type: node
 latitude: 49.24961
 longitude: 10.83959
 postcode: "91575"
 city: Windsbach
-street: "Fohlenhof"
-housenumber: 9
+street: Fohlenhof
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

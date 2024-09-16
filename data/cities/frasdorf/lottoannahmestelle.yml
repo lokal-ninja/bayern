@@ -1,11 +1,11 @@
 id: 265748033
-type: way
+type: node
 latitude: 47.80287
 longitude: 12.28502
 postcode: "83112"
 city: Frasdorf
-street: "Hauptstraße"
-housenumber: 17
+street: Hauptstraße
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

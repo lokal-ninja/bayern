@@ -1,11 +1,11 @@
 id: 227407274
-type: way
+type: node
 latitude: 47.55994
 longitude: 11.12889
 postcode: "82496"
 city: Oberau
-street: "Ettaler Straße"
-housenumber: 18
+street: Ettaler Straße
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,13:00-17:00"
+opening_hours: Mo-Fr 08:00-12:00,13:00-17:00
 website: ""

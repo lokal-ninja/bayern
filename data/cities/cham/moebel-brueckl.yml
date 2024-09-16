@@ -1,11 +1,11 @@
 id: 232829439
-type: way
+type: node
 latitude: 49.2255
 longitude: 12.67571
 postcode: "93413"
 city: Cham
-street: "Further Straße"
-housenumber: 37
-phone: "+49 9971 85680"
+street: Further Straße
+housenumber: "37"
+phone: +49 9971 85680
 opening_hours: ""
-website: "https://www.brueckl-wohnen.de/"
+website: https://www.brueckl-wohnen.de/

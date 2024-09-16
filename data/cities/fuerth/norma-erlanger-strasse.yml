@@ -1,11 +1,11 @@
 id: 53655366
-type: way
+type: node
 latitude: 49.4836
 longitude: 10.9984
 postcode: "90765"
 city: Fürth
-street: "Erlanger Straße"
-housenumber: 52
+street: Erlanger Straße
+housenumber: "52"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

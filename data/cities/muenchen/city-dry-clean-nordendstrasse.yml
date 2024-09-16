@@ -4,8 +4,9 @@ latitude: 48.15799
 longitude: 11.5748
 postcode: "80801"
 city: München
-street: "Nordendstraße"
-housenumber: 41
+street: Nordendstraße
+housenumber: "41"
 phone: ""
-opening_hours: "Reinigung: Mo-Fr 08:00-18:00; Sa 09:00-16:00; Su,Ph off; SB Waschcenter: Mo-So 07:00-23:00 Uhr"
+opening_hours: '"Reinigung: Mo-Fr 08:00-18:00; Sa 09:00-16:00; Su,Ph off; SB Waschcenter:
+    Mo-So 07:00-23:00 Uhr"'
 website: ""

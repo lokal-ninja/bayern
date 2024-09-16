@@ -1,11 +1,11 @@
 id: 38372113
-type: way
+type: node
 latitude: 49.52294
 longitude: 11.34453
 postcode: "91233"
 city: Neunkirchen a. Sand
-street: "Industriestraße"
-housenumber: 26
-phone: "+49 9153 925 282"
-opening_hours: "Mo-Fr 07:00-20:00"
-website: "http://www.bernd-maussner.de"
+street: Industriestraße
+housenumber: "26"
+phone: +49 9153 925 282
+opening_hours: Mo-Fr 07:00-20:00
+website: http://www.bernd-maussner.de

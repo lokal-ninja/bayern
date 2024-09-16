@@ -4,8 +4,9 @@ latitude: 47.82964
 longitude: 11.99457
 postcode: "83043"
 city: Bad Aibling
-street: "Feilnbacher Straße"
-housenumber: 10
-phone: "+49 175 18 38 192"
-opening_hours: "Jan,Feb: Fr,Sa 09:00-12:00, Fr 14:00-17:00; Mar-Dec: Mo-Sa 09:00-12:00, Fr 14:00-17:00; Su,PH off"
-website: "https://www.fischzucht-eulenau.de/"
+street: Feilnbacher Straße
+housenumber: "10"
+phone: +49 175 18 38 192
+opening_hours: 'Jan,Feb: Fr,Sa 09:00-12:00, Fr 14:00-17:00; Mar-Dec: Mo-Sa 09:00-12:00,
+    Fr 14:00-17:00; Su,PH off'
+website: https://www.fischzucht-eulenau.de/

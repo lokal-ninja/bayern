@@ -1,11 +1,11 @@
 id: 144653097
-type: way
+type: node
 latitude: 48.46056
 longitude: 11.12922
 postcode: "86551"
 city: Aichach
-street: "Prieferstraße"
-housenumber: 20
+street: Prieferstraße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

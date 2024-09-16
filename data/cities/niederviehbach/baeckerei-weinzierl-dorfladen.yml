@@ -4,8 +4,8 @@ latitude: 48.6121
 longitude: 12.38204
 postcode: "84183"
 city: Niederviehbach
-street: "Hauptstraße"
-housenumber: 66
-phone: "+49 8702 947378"
-opening_hours: "Mo-Fr 06:00-12:30,14:00-18:00; Sa 06:00-12:00"
+street: Hauptstraße
+housenumber: "66"
+phone: +49 8702 947378
+opening_hours: Mo-Fr 06:00-12:30,14:00-18:00; Sa 06:00-12:00
 website: ""

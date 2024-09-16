@@ -4,8 +4,8 @@ latitude: 49.14285
 longitude: 12.33556
 postcode: "93192"
 city: Wald
-street: "Bahnhofstraße"
-housenumber: 5
+street: Bahnhofstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo,We,Fr 13:30-18:00, Fr 09:00-12:00; Sa 08:00-12:00"
+opening_hours: Mo,We,Fr 13:30-18:00, Fr 09:00-12:00; Sa 08:00-12:00
 website: ""

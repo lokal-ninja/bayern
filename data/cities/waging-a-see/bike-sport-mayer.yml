@@ -1,11 +1,11 @@
 id: 118939908
-type: way
+type: node
 latitude: 47.93295
 longitude: 12.73313
 postcode: "83329"
 city: Waging a. See
-street: "Bahnhofstraße"
-housenumber: 2
-phone: "+49 (0) 8681-871"
-opening_hours: "Mo,Tu,Th,Fr 09:00-12:30,14:00-18:00; Sa 09:00-12:00"
-website: "www.bikesport-mayer.de"
+street: Bahnhofstraße
+housenumber: "2"
+phone: +49 (0) 8681-871
+opening_hours: Mo,Tu,Th,Fr 09:00-12:30,14:00-18:00; Sa 09:00-12:00
+website: www.bikesport-mayer.de

@@ -4,8 +4,9 @@ latitude: 47.87659
 longitude: 11.96271
 postcode: "83052"
 city: Bruckmühl
-street: "Pettenkoferstraße"
-housenumber: 15
-phone: "+49 8061 397 31 0"
-opening_hours: "Mar Su[-1]-Oct Su[-1] -1 day Mo-Fr 06:30-17:00, Sa 07:00-13:00, Oct Su[-1]-Mar Su[-1] -1 day Mo-Fr 07:00-17:00, Sa 08:00-13:00; Su,PH off"
-website: "https://www.schneider-baucentrum.de/standorte/bruckmuehl/"
+street: Pettenkoferstraße
+housenumber: "15"
+phone: +49 8061 397 31 0
+opening_hours: Mar Su[-1]-Oct Su[-1] -1 day Mo-Fr 06:30-17:00, Sa 07:00-13:00, Oct
+    Su[-1]-Mar Su[-1] -1 day Mo-Fr 07:00-17:00, Sa 08:00-13:00; Su,PH off
+website: https://www.schneider-baucentrum.de/standorte/bruckmuehl/

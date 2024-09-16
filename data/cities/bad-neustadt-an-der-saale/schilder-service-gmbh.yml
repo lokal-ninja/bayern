@@ -1,11 +1,12 @@
 id: 780581990
-type: way
+type: node
 latitude: 50.32722
 longitude: 10.22416
 postcode: "97616"
 city: Bad Neustadt an der Saale
-street: "Siemensstraße"
+street: Siemensstraße
 housenumber: 10 1/4
-phone: "+49 9771 3954"
-opening_hours: "Mo,We 08:00-12:00; Tu,Th 08:00-12:00,13:30-15:30; Fr 08:00-12:30; Sa,Su,PH off"
-website: "https://www.kennzeichen.de/schilderservice-bad-neustadt.html"
+phone: +49 9771 3954
+opening_hours: Mo,We 08:00-12:00; Tu,Th 08:00-12:00,13:30-15:30; Fr 08:00-12:30; Sa,Su,PH
+    off
+website: https://www.kennzeichen.de/schilderservice-bad-neustadt.html

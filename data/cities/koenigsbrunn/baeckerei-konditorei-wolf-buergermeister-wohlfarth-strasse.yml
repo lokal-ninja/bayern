@@ -4,8 +4,8 @@ latitude: 48.2681
 longitude: 10.88707
 postcode: "86343"
 city: Königsbrunn
-street: "Bürgermeister-Wohlfarth-Straße"
-housenumber: 72
-phone: "+49 8231 988479"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 06:30-14:00; Su 08:00-17:00"
-website: "https://www.baeckerei-wolf.de/"
+street: Bürgermeister-Wohlfarth-Straße
+housenumber: "72"
+phone: +49 8231 988479
+opening_hours: Mo-Fr 07:00-18:00; Sa 06:30-14:00; Su 08:00-17:00
+website: https://www.baeckerei-wolf.de/

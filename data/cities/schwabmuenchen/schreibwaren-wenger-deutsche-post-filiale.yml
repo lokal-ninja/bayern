@@ -4,8 +4,8 @@ latitude: 48.17808
 longitude: 10.75899
 postcode: "86830"
 city: Schwabmünchen
-street: "Schrannenplatz"
-housenumber: 9
-phone: "+49 823 279644"
-opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-12:30"
-website: "https://www.schreibwaren-wenger.de/"
+street: Schrannenplatz
+housenumber: "9"
+phone: +49 823 279644
+opening_hours: Mo-Fr 09:00-18:00, Sa 09:00-12:30
+website: https://www.schreibwaren-wenger.de/

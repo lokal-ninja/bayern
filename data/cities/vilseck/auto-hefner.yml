@@ -1,11 +1,11 @@
 id: 372460787
-type: way
+type: node
 latitude: 49.61689
 longitude: 11.79354
 postcode: "92249"
 city: Vilseck
-street: "Robert-Bosch-Straße"
-housenumber: 6
+street: Robert-Bosch-Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "https://www.auto-hefner.de/"
+website: https://www.auto-hefner.de/

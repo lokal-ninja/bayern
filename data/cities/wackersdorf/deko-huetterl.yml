@@ -1,11 +1,11 @@
 id: 591366384
-type: way
+type: node
 latitude: 49.30866
 longitude: 12.16777
 postcode: "92442"
 city: Wackersdorf
-street: "Rosenstraße"
-housenumber: 10
-phone: "+49 9431 4709993"
-opening_hours: "We,Fr 15:00-19:00; Sa 10:00-16:00; PH off"
-website: "https://www.deko-huetterl.de/"
+street: Rosenstraße
+housenumber: "10"
+phone: +49 9431 4709993
+opening_hours: We,Fr 15:00-19:00; Sa 10:00-16:00; PH off
+website: https://www.deko-huetterl.de/

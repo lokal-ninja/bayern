@@ -4,8 +4,8 @@ latitude: 48.39612
 longitude: 10.91518
 postcode: "86169"
 city: Augsburg
-street: "Neuburger Straße"
-housenumber: 229
+street: Neuburger Straße
+housenumber: "229"
 phone: ""
-opening_hours: "Mo 10:00-18:00, Tu 18:00, Sa 08:00-16:00, We 09:00-20:00"
-website: "https://www.friseur-team-giovanni.de/"
+opening_hours: Mo 10:00-18:00, Tu 18:00, Sa 08:00-16:00, We 09:00-20:00
+website: https://www.friseur-team-giovanni.de/

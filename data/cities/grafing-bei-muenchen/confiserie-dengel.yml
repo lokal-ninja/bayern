@@ -4,8 +4,8 @@ latitude: 48.04608
 longitude: 11.96779
 postcode: "85567"
 city: Grafing bei München
-street: "Münchener Straße"
-housenumber: 1
-phone: "+49 8092 70 81 86"
-opening_hours: "Mo-Fr 09:15-13:00,13:30-18:00; Sa 09:15-14:00; PH off"
-website: "https://confiserie-dengel.de"
+street: Münchener Straße
+housenumber: "1"
+phone: +49 8092 70 81 86
+opening_hours: Mo-Fr 09:15-13:00,13:30-18:00; Sa 09:15-14:00; PH off
+website: https://confiserie-dengel.de

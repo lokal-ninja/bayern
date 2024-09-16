@@ -1,11 +1,11 @@
 id: 217895035
-type: way
+type: node
 latitude: 49.74695
 longitude: 10.12775
 postcode: "97318"
 city: Kitzingen
-street: "Alte Reichsstraße"
-housenumber: 10
+street: Alte Reichsstraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 163195527
-type: way
+type: node
 latitude: 48.37866
 longitude: 10.8491
 postcode: "86391"
 city: Stadtbergen
-street: "Benzstraße"
-housenumber: 14
+street: Benzstraße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

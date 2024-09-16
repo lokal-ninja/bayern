@@ -1,11 +1,11 @@
 id: 144701718
-type: way
+type: node
 latitude: 50.10504
 longitude: 11.00801
 postcode: "96231"
 city: Bad Staffelstein
-street: "Lichtenfelser Straße"
-housenumber: 44
+street: Lichtenfelser Straße
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:30; Sa 08:30-16:00; PH off"
+opening_hours: Mo-Fr 08:30-18:30; Sa 08:30-16:00; PH off
 website: ""

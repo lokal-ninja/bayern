@@ -1,11 +1,11 @@
 id: 83737513
-type: way
+type: node
 latitude: 47.61395
 longitude: 12.18876
 postcode: "83088"
 city: Kiefersfelden
-street: "Kufsteiner Straße"
-housenumber: 15
-phone: "+49 8033 7676"
+street: Kufsteiner Straße
+housenumber: "15"
+phone: +49 8033 7676
 opening_hours: ""
-website: "https://schneider-kiefersfelden.de/"
+website: https://schneider-kiefersfelden.de/

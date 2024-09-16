@@ -1,11 +1,11 @@
 id: 1161134763
-type: way
+type: node
 latitude: 50.27225
 longitude: 10.36552
 postcode: "97633"
 city: Großbardorf
-street: "An der Lehmgrube"
-housenumber: 8
+street: An der Lehmgrube
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Su 07:00-20:00"
-website: "https://www.schmitts-biohof.de/"
+opening_hours: Mo-Su 07:00-20:00
+website: https://www.schmitts-biohof.de/

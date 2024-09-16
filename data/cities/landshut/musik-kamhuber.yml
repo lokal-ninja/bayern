@@ -4,8 +4,8 @@ latitude: 48.53607
 longitude: 12.15433
 postcode: "84028"
 city: Landshut
-street: "Neustadt"
-housenumber: 517
-phone: "+49 871 22402"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 10:00-14:00"
-website: "https://www.kamhuber.de/"
+street: Neustadt
+housenumber: "517"
+phone: +49 871 22402
+opening_hours: Mo-Fr 09:30-18:30; Sa 10:00-14:00
+website: https://www.kamhuber.de/

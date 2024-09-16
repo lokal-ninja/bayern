@@ -1,11 +1,11 @@
 id: 271977722
-type: way
+type: node
 latitude: 48.55435
 longitude: 11.74005
 postcode: "84072"
 city: Au i.d. Hallertau
-street: "Hochfeldstraße"
-housenumber: 28
-phone: "+49 171 2188344"
+street: Hochfeldstraße
+housenumber: "28"
+phone: +49 171 2188344
 opening_hours: ""
-website: "http://www.startseite.ws-aquaristik.de/"
+website: http://www.startseite.ws-aquaristik.de/

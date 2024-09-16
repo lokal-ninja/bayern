@@ -4,8 +4,8 @@ latitude: 48.12849
 longitude: 11.57071
 postcode: "80469"
 city: München
-street: "Klenzestraße"
-housenumber: 54
-phone: "+49 89 23076177"
-opening_hours: "Mo 16:00-20:00; Tu-Fr 12:00-20:00; Sa 11:00-20:00"
-website: "https://www.lesamisduvin.de/"
+street: Klenzestraße
+housenumber: "54"
+phone: +49 89 23076177
+opening_hours: Mo 16:00-20:00; Tu-Fr 12:00-20:00; Sa 11:00-20:00
+website: https://www.lesamisduvin.de/

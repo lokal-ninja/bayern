@@ -1,11 +1,11 @@
 id: 297729251
-type: way
+type: node
 latitude: 50.10018
 longitude: 10.14543
 postcode: "97490"
 city: Poppenhausen
-street: "Obere Straße"
-housenumber: 2
+street: Obere Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://metzgerei-mai.de/"
+website: https://metzgerei-mai.de/

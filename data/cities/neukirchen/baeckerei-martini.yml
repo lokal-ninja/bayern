@@ -1,11 +1,12 @@
 id: 246612792
-type: way
+type: node
 latitude: 49.55772
 longitude: 11.64479
 postcode: "92259"
 city: Neukirchen
 street: ""
-housenumber: 51
+housenumber: "51"
 phone: ""
-opening_hours: "Mo-Th 05:30-12:00,16:00-18:00; Fr 05:30-18:00; Sa 05:30-12:00; Su,PH off"
+opening_hours: Mo-Th 05:30-12:00,16:00-18:00; Fr 05:30-18:00; Sa 05:30-12:00; Su,PH
+    off
 website: ""

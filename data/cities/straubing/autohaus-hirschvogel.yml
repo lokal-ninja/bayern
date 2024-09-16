@@ -1,11 +1,11 @@
 id: 101717211
-type: way
+type: node
 latitude: 48.89284
 longitude: 12.60779
 postcode: "94315"
 city: Straubing
-street: "Osserstraße"
-housenumber: 2
-phone: "+49 9421 7307 0"
+street: Osserstraße
+housenumber: "2"
+phone: +49 9421 7307 0
 opening_hours: ""
 website: ""

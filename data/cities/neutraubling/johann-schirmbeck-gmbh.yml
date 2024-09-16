@@ -1,11 +1,11 @@
 id: 126838291
-type: way
+type: node
 latitude: 48.97593
 longitude: 12.19159
 postcode: "93073"
 city: Neutraubling
-street: "Waldkraiburger Straße"
-housenumber: 8
+street: Waldkraiburger Straße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:30-13:00"
-website: "https://www.neutraubling.schirmbeck.com/"
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:30-13:00
+website: https://www.neutraubling.schirmbeck.com/

@@ -4,8 +4,8 @@ latitude: 48.76278
 longitude: 11.42384
 postcode: "85049"
 city: Ingolstadt
-street: "Sauerstraße"
-housenumber: 7
-phone: "+49 841 33811"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-14:00"
-website: "https://www.goldschmiede-pitzl.de/"
+street: Sauerstraße
+housenumber: "7"
+phone: +49 841 33811
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-14:00
+website: https://www.goldschmiede-pitzl.de/

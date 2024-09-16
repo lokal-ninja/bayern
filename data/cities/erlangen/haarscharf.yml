@@ -4,8 +4,8 @@ latitude: 49.5661
 longitude: 10.96321
 postcode: "91056"
 city: Erlangen
-street: "Gostenhofer Straße"
-housenumber: 9
-phone: "+49 9131 994365"
-opening_hours: "Tu-Fr 09:00-18:00; Sa by appointment"
-website: "https://www.friseur-heike-bauer.de/"
+street: Gostenhofer Straße
+housenumber: "9"
+phone: +49 9131 994365
+opening_hours: Tu-Fr 09:00-18:00; Sa "by appointment"
+website: https://www.friseur-heike-bauer.de/

@@ -4,8 +4,8 @@ latitude: 48.05131
 longitude: 10.87705
 postcode: "86899"
 city: Landsberg am Lech
-street: "Schulgasse"
-housenumber: 292
-phone: "+49 8191 33116 46"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:00-15:00"
-website: "https://hallingers.de/"
+street: Schulgasse
+housenumber: "292"
+phone: +49 8191 33116 46
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:00-15:00
+website: https://hallingers.de/

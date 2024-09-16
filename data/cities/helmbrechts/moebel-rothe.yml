@@ -1,11 +1,11 @@
 id: 176797749
-type: way
+type: node
 latitude: 50.24284
 longitude: 11.71429
 postcode: "95233"
 city: Helmbrechts
-street: "Hadergasse"
-housenumber: 4
+street: Hadergasse
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

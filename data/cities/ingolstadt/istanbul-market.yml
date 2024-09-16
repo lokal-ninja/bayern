@@ -1,11 +1,11 @@
 id: 53291717
-type: way
+type: node
 latitude: 48.77428
 longitude: 11.42903
 postcode: "85057"
 city: Ingolstadt
-street: "Hindenburgstraße"
-housenumber: 21
+street: Hindenburgstraße
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

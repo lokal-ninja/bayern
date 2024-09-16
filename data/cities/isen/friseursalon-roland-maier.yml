@@ -4,8 +4,9 @@ latitude: 48.21268
 longitude: 12.05543
 postcode: "84424"
 city: Isen
-street: "Am Gries"
-housenumber: 5
-phone: "+49 8083 9540"
-opening_hours: "Mo off; Tu 08:30-12:00,13:00-18:00; We 08:30-12:00; Th 08:30-12:00,13:00-20:00; Fr 08:00-12:00,13:00-18:00; Sa 07:30-12:30; Su off; PH off"
-website: "https://friseur-isen.de/"
+street: Am Gries
+housenumber: "5"
+phone: +49 8083 9540
+opening_hours: Mo off; Tu 08:30-12:00,13:00-18:00; We 08:30-12:00; Th 08:30-12:00,13:00-20:00;
+    Fr 08:00-12:00,13:00-18:00; Sa 07:30-12:30; Su off; PH off
+website: https://friseur-isen.de/

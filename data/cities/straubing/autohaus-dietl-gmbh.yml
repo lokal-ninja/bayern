@@ -1,11 +1,11 @@
 id: 223125733
-type: way
+type: node
 latitude: 48.88888
 longitude: 12.56105
 postcode: "94315"
 city: Straubing
-street: "Helfrichstraße"
-housenumber: 10
-phone: "+49 9421 1325"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-12:00"
-website: "https://www.autohaus-dietl.de/"
+street: Helfrichstraße
+housenumber: "10"
+phone: +49 9421 1325
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-12:00
+website: https://www.autohaus-dietl.de/

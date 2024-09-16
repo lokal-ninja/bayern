@@ -5,7 +5,7 @@ longitude: 11.73158
 postcode: "92265"
 city: Edelsfeld
 street: ""
-housenumber: 55
-phone: "+49 9665 95015"
+housenumber: "55"
+phone: +49 9665 95015
 opening_hours: ""
-website: "https://www.hutzelhof.de/"
+website: https://www.hutzelhof.de/

@@ -1,11 +1,11 @@
 id: 444446697
-type: way
+type: node
 latitude: 49.10509
 longitude: 10.99005
 postcode: "91785"
 city: Pleinfeld
-street: "Nürnberger Straße"
-housenumber: 16
-phone: "+499144 269"
+street: Nürnberger Straße
+housenumber: "16"
+phone: +499144 269
 opening_hours: ""
-website: "https://zahnriemenwechsel24.de/"
+website: https://zahnriemenwechsel24.de/

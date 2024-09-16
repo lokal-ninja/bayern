@@ -4,8 +4,8 @@ latitude: 47.72247
 longitude: 11.33149
 postcode: "82404"
 city: Sindelsdorf
-street: "Mühlgasse"
-housenumber: 1
+street: Mühlgasse
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 07:00-12:00,13:00-18:00; Sa 09:00-12:00; PH off"
-website: "https://www.off-muehle.de/"
+opening_hours: Mo-Fr 07:00-12:00,13:00-18:00; Sa 09:00-12:00; PH off
+website: https://www.off-muehle.de/

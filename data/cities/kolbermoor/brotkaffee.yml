@@ -4,8 +4,8 @@ latitude: 47.84235
 longitude: 12.04635
 postcode: "83059"
 city: Kolbermoor
-street: "Zugspitzstraße"
-housenumber: 32
-phone: "+49 8031 79 80 550"
-opening_hours: "Mo-Fr 06:30-17:00, Sa 06:30-12:00, Su 07:00-11:00"
-website: "http://www.brotkaffee.de"
+street: Zugspitzstraße
+housenumber: "32"
+phone: +49 8031 79 80 550
+opening_hours: Mo-Fr 06:30-17:00, Sa 06:30-12:00, Su 07:00-11:00
+website: http://www.brotkaffee.de

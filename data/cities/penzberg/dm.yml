@@ -1,11 +1,11 @@
 id: 1232761619
-type: way
+type: node
 latitude: 47.75668
 longitude: 11.38293
 postcode: "82377"
 city: Penzberg
-street: "Grube"
-housenumber: 
+street: Grube
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

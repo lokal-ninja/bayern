@@ -4,8 +4,8 @@ latitude: 49.50344
 longitude: 10.4168
 postcode: "91438"
 city: Bad Windsheim
-street: "Pastoriusstraße"
-housenumber: 6
-phone: "+49 9841 65458"
-opening_hours: "Mo-Fr 07:00-18:00,Sa 07:00-13:00"
-website: "https://www.baecker-wimmer.de/"
+street: Pastoriusstraße
+housenumber: "6"
+phone: +49 9841 65458
+opening_hours: Mo-Fr 07:00-18:00,Sa 07:00-13:00
+website: https://www.baecker-wimmer.de/

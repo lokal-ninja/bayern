@@ -5,7 +5,8 @@ longitude: 9.14634
 postcode: "63785"
 city: Obernburg am Main
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo,Tu 08:00-16:00; We 08:00-12:00; Th 08:00-18:00; Fr 08:00-13:00; PH off"
+opening_hours: Mo,Tu 08:00-16:00; We 08:00-12:00; Th 08:00-18:00; Fr 08:00-13:00;
+    PH off
 website: ""

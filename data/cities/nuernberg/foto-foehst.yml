@@ -4,8 +4,8 @@ latitude: 49.4427
 longitude: 11.12443
 postcode: "90480"
 city: Nürnberg
-street: "Zerzabelshofer Hauptstraße"
-housenumber: 20
+street: Zerzabelshofer Hauptstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-We 10:00-12:00,14:00-16:00"
-website: "https://foto-foehst.de/"
+opening_hours: Mo-We 10:00-12:00,14:00-16:00
+website: https://foto-foehst.de/

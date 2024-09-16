@@ -1,11 +1,11 @@
 id: 198419333
-type: way
+type: node
 latitude: 50.15173
 longitude: 11.06814
 postcode: "96215"
 city: Lichtenfels
-street: "Mainau"
-housenumber: 16
+street: Mainau
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

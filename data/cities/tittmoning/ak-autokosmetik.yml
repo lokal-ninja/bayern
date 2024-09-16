@@ -1,11 +1,11 @@
 id: 516913899
-type: way
+type: node
 latitude: 48.05844
 longitude: 12.77036
 postcode: "84529"
 city: Tittmoning
-street: "Laufener Straße"
-housenumber: 17
+street: Laufener Straße
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

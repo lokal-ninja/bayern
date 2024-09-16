@@ -4,8 +4,8 @@ latitude: 50.3223
 longitude: 10.2149
 postcode: "97616"
 city: Bad Neustadt an der Saale
-street: "Spitalgasse"
-housenumber: 3
+street: Spitalgasse
+housenumber: "3"
 phone: ""
-opening_hours: "Tu-Fr 08:30-18:00; Sa 08:00-13:00; Mo,Su,Ph off"
+opening_hours: Tu-Fr 08:30-18:00; Sa 08:00-13:00; Mo,Su,Ph off
 website: ""

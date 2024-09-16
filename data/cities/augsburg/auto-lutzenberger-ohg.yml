@@ -1,11 +1,11 @@
 id: 187623084
-type: way
+type: node
 latitude: 48.32296
 longitude: 10.89983
 postcode: "86179"
 city: Augsburg
-street: "Bischofsackerweg"
-housenumber: 8
-phone: "+49 821 808540"
-opening_hours: "Mo-Fr 07:30-17:30, Sa 09:00-13:00"
-website: "https://auto-lutzenberger.de"
+street: Bischofsackerweg
+housenumber: "8"
+phone: +49 821 808540
+opening_hours: Mo-Fr 07:30-17:30, Sa 09:00-13:00
+website: https://auto-lutzenberger.de

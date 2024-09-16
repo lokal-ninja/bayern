@@ -1,11 +1,11 @@
 id: 33767424
-type: way
+type: node
 latitude: 48.11214
 longitude: 11.77942
 postcode: "85591"
 city: Vaterstetten
-street: "Johann-Sebastian-Bach-Straße"
-housenumber: 44
+street: Johann-Sebastian-Bach-Straße
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
-website: "http://www.norma-discount.de"
+opening_hours: Mo-Sa 07:00-20:00; PH off
+website: http://www.norma-discount.de

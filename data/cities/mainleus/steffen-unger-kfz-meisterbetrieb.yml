@@ -1,11 +1,11 @@
 id: 587301431
-type: way
+type: node
 latitude: 50.09831
 longitude: 11.3764
 postcode: "95336"
 city: Mainleus
-street: "Schulstraße"
-housenumber: 8
-phone: "+49 9229 359"
+street: Schulstraße
+housenumber: "8"
+phone: +49 9229 359
 opening_hours: ""
-website: "https://www.unger-mainleus.de/"
+website: https://www.unger-mainleus.de/

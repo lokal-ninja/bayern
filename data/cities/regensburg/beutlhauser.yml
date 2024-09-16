@@ -1,11 +1,11 @@
 id: 91328106
-type: way
+type: node
 latitude: 49.0574
 longitude: 12.13189
 postcode: "93057"
 city: Regensburg
-street: "Hofer Straße"
-housenumber: 4
-phone: "+49 941 695660"
+street: Hofer Straße
+housenumber: "4"
+phone: +49 941 695660
 opening_hours: ""
-website: "https://www.beutlhauser.de/"
+website: https://www.beutlhauser.de/

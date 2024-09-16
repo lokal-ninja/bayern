@@ -1,11 +1,11 @@
 id: 405084295
-type: way
+type: node
 latitude: 48.39538
 longitude: 10.01077
 postcode: "89231"
 city: Neu-Ulm
-street: "Industriestraße"
-housenumber: 8
-phone: "+49 731 97757628"
-opening_hours: "Mo-Fr 15:00-18:00; Sa 09:00-13:00"
-website: "https://www.blechgewitter.de/"
+street: Industriestraße
+housenumber: "8"
+phone: +49 731 97757628
+opening_hours: Mo-Fr 15:00-18:00; Sa 09:00-13:00
+website: https://www.blechgewitter.de/

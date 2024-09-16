@@ -1,11 +1,11 @@
 id: 96290879
-type: way
+type: node
 latitude: 49.00825
 longitude: 12.07857
 postcode: "93051"
 city: Regensburg
-street: "Königswiesenweg"
-housenumber: 17
+street: Königswiesenweg
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-14:00; PH,Su 08:00-11:00"
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-14:00; PH,Su 08:00-11:00
 website: ""

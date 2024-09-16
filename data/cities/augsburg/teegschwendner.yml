@@ -4,8 +4,8 @@ latitude: 48.37002
 longitude: 10.89651
 postcode: "86150"
 city: Augsburg
-street: "Karlstraße"
-housenumber: 15
-phone: "+49 821 512661"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-17:00"
-website: "https://www.teegschwendner.de"
+street: Karlstraße
+housenumber: "15"
+phone: +49 821 512661
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-17:00
+website: https://www.teegschwendner.de

@@ -1,11 +1,11 @@
 id: 155802141
-type: way
+type: node
 latitude: 50.20123
 longitude: 11.77877
 postcode: "95213"
 city: Münchberg
-street: "August-Horch-Straße"
-housenumber: 24
+street: August-Horch-Straße
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
-website: "https://filialen.aldi-sued.de/bayern/muenchberg/august-horch-strasse-24"
+opening_hours: Mo-Sa 08:00-20:00; PH off
+website: https://filialen.aldi-sued.de/bayern/muenchberg/august-horch-strasse-24

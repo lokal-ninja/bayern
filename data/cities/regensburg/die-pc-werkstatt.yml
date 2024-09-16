@@ -4,8 +4,8 @@ latitude: 49.0076
 longitude: 12.11571
 postcode: "93053"
 city: Regensburg
-street: "Landshuter Straße"
-housenumber: 68
-phone: "+49 941 7977227"
-opening_hours: "Mo-Th 12:00-18:30; Fr 12:00-19:00"
-website: "https://www.diepcwerkstatt.de/"
+street: Landshuter Straße
+housenumber: "68"
+phone: +49 941 7977227
+opening_hours: Mo-Th 12:00-18:30; Fr 12:00-19:00
+website: https://www.diepcwerkstatt.de/

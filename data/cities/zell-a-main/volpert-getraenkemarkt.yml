@@ -4,8 +4,8 @@ latitude: 49.82235
 longitude: 9.86769
 postcode: "97299"
 city: Zell a. Main
-street: "Margetshöchheimer Straße"
-housenumber: 94
-phone: "+49 931 468 700"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 08:30-14:00"
-website: "https://www.getraenke-volpert.de/getraenkemarkt"
+street: Margetshöchheimer Straße
+housenumber: "94"
+phone: +49 931 468 700
+opening_hours: Mo-Fr 09:00-18:00; Sa 08:30-14:00
+website: https://www.getraenke-volpert.de/getraenkemarkt

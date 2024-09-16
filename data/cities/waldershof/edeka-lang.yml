@@ -1,11 +1,11 @@
 id: 260259034
-type: way
+type: node
 latitude: 49.98278
 longitude: 12.06712
 postcode: "95679"
 city: Waldershof
-street: "Marktredwitzer Straße"
-housenumber: 37
+street: Marktredwitzer Straße
+housenumber: "37"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

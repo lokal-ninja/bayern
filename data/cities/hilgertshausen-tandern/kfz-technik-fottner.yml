@@ -1,11 +1,11 @@
 id: 1085626486
-type: way
+type: node
 latitude: 48.43533
 longitude: 11.35242
 postcode: "86567"
 city: Hilgertshausen-Tandern
-street: "Gewerbestraße"
-housenumber: 1
+street: Gewerbestraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.kfz-technik-fottner.de/"
+website: https://www.kfz-technik-fottner.de/

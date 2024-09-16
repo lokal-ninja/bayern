@@ -1,11 +1,11 @@
 id: 536691235
-type: way
+type: node
 latitude: 48.70485
 longitude: 12.29569
 postcode: "84092"
 city: Bayerbach bei Ergoldsbach
-street: "Ergoldsbacher Straße"
-housenumber: 11
+street: Ergoldsbacher Straße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

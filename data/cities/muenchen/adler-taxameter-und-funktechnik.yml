@@ -1,11 +1,11 @@
 id: 146575817
-type: way
+type: node
 latitude: 48.20174
 longitude: 11.59072
 postcode: "80939"
 city: München
-street: "Heidemannstraße"
-housenumber: 37
-phone: "+49 89 25544114"
+street: Heidemannstraße
+housenumber: "37"
+phone: +49 89 25544114
 opening_hours: ""
 website: ""

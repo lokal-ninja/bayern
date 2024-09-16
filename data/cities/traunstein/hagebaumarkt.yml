@@ -1,11 +1,11 @@
 id: 129954631
-type: way
+type: node
 latitude: 47.85357
 longitude: 12.6284
 postcode: "83278"
 city: Traunstein
-street: "Haslacher Feld"
-housenumber: 7
+street: Haslacher Feld
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00
 website: ""

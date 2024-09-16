@@ -4,8 +4,8 @@ latitude: 47.98852
 longitude: 11.8644
 postcode: "85625"
 city: Glonn
-street: "Münchener Straße"
-housenumber: 8
+street: Münchener Straße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 10:00-12:00,15:00-17:00; Mo-Fr open Nach Vereinbarung; PH closed"
+opening_hours: Mo-Fr 10:00-12:00,15:00-17:00; Mo-Fr open "Nach Vereinbarung"; PH closed
 website: ""

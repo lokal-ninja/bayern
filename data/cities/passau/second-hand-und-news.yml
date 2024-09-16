@@ -1,11 +1,11 @@
 id: 137897778
-type: way
+type: node
 latitude: 48.57254
 longitude: 13.46136
 postcode: "94032"
 city: Passau
-street: "Oberer Sand"
-housenumber: 20
+street: Oberer Sand
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

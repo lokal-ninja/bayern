@@ -1,11 +1,11 @@
 id: 68534920
-type: way
+type: node
 latitude: 48.48191
 longitude: 11.68776
 postcode: "85395"
 city: Wolfersdorf
-street: "Eichenstraße"
-housenumber: 2
+street: Eichenstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,13:00-18:00"
+opening_hours: Mo-Fr 08:00-12:00,13:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 94778158
-type: way
+type: node
 latitude: 49.02866
 longitude: 12.1201
 postcode: "93059"
 city: Regensburg
-street: "Donaustaufer Straße"
-housenumber: 118
+street: Donaustaufer Straße
+housenumber: "118"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
+opening_hours: Mo-Sa 07:00-20:00; PH off
 website: ""

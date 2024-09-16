@@ -1,11 +1,11 @@
 id: 436696444
-type: way
+type: node
 latitude: 49.539
 longitude: 10.24312
 postcode: ""
 city: Uffenheim
-street: "Am Hochholz"
-housenumber: 6
+street: Am Hochholz
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

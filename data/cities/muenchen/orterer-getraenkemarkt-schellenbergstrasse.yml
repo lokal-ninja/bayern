@@ -4,8 +4,8 @@ latitude: 48.1056
 longitude: 11.57459
 postcode: "81547"
 city: München
-street: "Schellenbergstraße"
-housenumber: 2
-phone: "+49 89 6514535"
-opening_hours: "Sa 08:00-13:00; PH off; Mo-Fr 09:00-18:30"
-website: "https://www.orterer.de/"
+street: Schellenbergstraße
+housenumber: "2"
+phone: +49 89 6514535
+opening_hours: Sa 08:00-13:00; PH off; Mo-Fr 09:00-18:30
+website: https://www.orterer.de/

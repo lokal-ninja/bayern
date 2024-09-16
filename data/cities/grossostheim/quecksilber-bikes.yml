@@ -4,8 +4,8 @@ latitude: 49.89492
 longitude: 9.04735
 postcode: "63762"
 city: Großostheim
-street: "Balduinistraße"
-housenumber: 9
+street: Balduinistraße
+housenumber: "9"
 phone: "+491777051830"
-opening_hours: "nach Vereinbarung"
+opening_hours: '"nach Vereinbarung"'
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.36894
 longitude: 10.8968
 postcode: "86150"
 city: Augsburg
-street: "Unter dem Bogen"
-housenumber: 2
-phone: "+49 821 313023"
-opening_hours: "Mo-Fr 09:30-18:00, Tu 09:30-16:00"
-website: "https://www.fotoexpress-augsburg.de/"
+street: Unter dem Bogen
+housenumber: "2"
+phone: +49 821 313023
+opening_hours: Mo-Fr 09:30-18:00, Tu 09:30-16:00
+website: https://www.fotoexpress-augsburg.de/

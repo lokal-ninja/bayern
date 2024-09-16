@@ -1,11 +1,11 @@
 id: 144832109
-type: way
+type: node
 latitude: 48.50806
 longitude: 11.19398
 postcode: "86556"
 city: Kühbach
-street: "Winden"
-housenumber: 8
-phone: "+49 8257 927890"
+street: Winden
+housenumber: "8"
+phone: +49 8257 927890
 opening_hours: ""
-website: "https://www.aidelsburger-ofenbau.de/"
+website: https://www.aidelsburger-ofenbau.de/

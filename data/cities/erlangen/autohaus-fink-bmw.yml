@@ -1,11 +1,12 @@
 id: 32611544
-type: way
+type: node
 latitude: 49.57412
 longitude: 11.00102
 postcode: "91058"
 city: Erlangen
-street: "Günther-Scharowsky-Straße"
-housenumber: 8
+street: Günther-Scharowsky-Straße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:30, Sa 09:00-14:00, Mo-Fr 08:00-17:00, Mo-Th 07:00-18:00, Fr 16:30-18:00"
-website: "https://autohausfink.de/"
+opening_hours: Mo-Fr 07:30-19:30, Sa 09:00-14:00, Mo-Fr 08:00-17:00, Mo-Th 07:00-18:00,
+    Fr 16:30-18:00
+website: https://autohausfink.de/

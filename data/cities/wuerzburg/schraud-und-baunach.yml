@@ -1,11 +1,11 @@
 id: 118635700
-type: way
+type: node
 latitude: 49.79514
 longitude: 9.9971
 postcode: "97076"
 city: Würzburg
-street: "Louis-Pasteur-Straße"
-housenumber: 5
+street: Louis-Pasteur-Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

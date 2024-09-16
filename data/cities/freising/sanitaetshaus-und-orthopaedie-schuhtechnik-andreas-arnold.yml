@@ -4,8 +4,8 @@ latitude: 48.40414
 longitude: 11.747
 postcode: "85354"
 city: Freising
-street: "Mainburger Straße"
-housenumber: 15
-phone: "+49-8161-807999"
-opening_hours: "Mo-Fr 08:00-14:00"
-website: "http://www.sanitaetshaus-freising.de/"
+street: Mainburger Straße
+housenumber: "15"
+phone: +49-8161-807999
+opening_hours: Mo-Fr 08:00-14:00
+website: http://www.sanitaetshaus-freising.de/

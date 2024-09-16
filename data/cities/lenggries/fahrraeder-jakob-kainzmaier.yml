@@ -1,11 +1,11 @@
 id: 110434814
-type: way
+type: node
 latitude: 47.66683
 longitude: 11.57401
 postcode: "83661"
 city: Lenggries
-street: "Jachenauer Straße"
-housenumber: 6
+street: Jachenauer Straße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:30;Sa 07:30-14:00"
+opening_hours: Mo-Fr 07:30-18:30;Sa 07:30-14:00
 website: ""

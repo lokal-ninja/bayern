@@ -1,11 +1,11 @@
 id: 118608030
-type: way
+type: node
 latitude: 47.50419
 longitude: 10.35908
 postcode: "87541"
 city: Bad Hindelang
-street: "Sonthofer Straße"
-housenumber: 31
+street: Sonthofer Straße
+housenumber: "31"
 phone: "+498324445"
-opening_hours: "Mo-Th 07:30-17:00, Fr 07:30-16:00"
+opening_hours: Mo-Th 07:30-17:00, Fr 07:30-16:00
 website: ""

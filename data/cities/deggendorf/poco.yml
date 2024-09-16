@@ -4,8 +4,8 @@ latitude: 48.84929
 longitude: 12.98521
 postcode: "94469"
 city: Deggendorf
-street: "Ruselstraße"
-housenumber: 78
+street: Ruselstraße
+housenumber: "78"
 phone: ""
-opening_hours: "Mo-Sa 9:30-19:00"
-website: "https://www.poco.de/"
+opening_hours: Mo-Sa 9:30-19:00
+website: https://www.poco.de/

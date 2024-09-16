@@ -1,11 +1,11 @@
 id: 142179681
-type: way
+type: node
 latitude: 47.77244
 longitude: 12.32523
 postcode: "83229"
 city: Aschau im Chiemgau
-street: "Kampenwandstraße"
-housenumber: 43
-phone: "+49 8052 1442"
-opening_hours: "Mo off; Tu-Su,PH 10:00-17:30"
-website: "http://www.cafe-koenig-konditorei.de/"
+street: Kampenwandstraße
+housenumber: "43"
+phone: +49 8052 1442
+opening_hours: Mo off; Tu-Su,PH 10:00-17:30
+website: http://www.cafe-koenig-konditorei.de/

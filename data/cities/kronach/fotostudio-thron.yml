@@ -4,8 +4,8 @@ latitude: 50.24075
 longitude: 11.32339
 postcode: "96317"
 city: Kronach
-street: "Schwedenstraße"
-housenumber: 11
+street: Schwedenstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"
-website: "https://www.fotothron.de/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00
+website: https://www.fotothron.de/

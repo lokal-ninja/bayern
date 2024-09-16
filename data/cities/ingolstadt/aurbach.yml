@@ -4,8 +4,8 @@ latitude: 48.76555
 longitude: 11.42718
 postcode: "85049"
 city: Ingolstadt
-street: "Holzmarkt"
-housenumber: 9
-phone: "+49 841 34336"
+street: Holzmarkt
+housenumber: "9"
+phone: +49 841 34336
 opening_hours: ""
-website: "http://www.aurbach.de"
+website: http://www.aurbach.de

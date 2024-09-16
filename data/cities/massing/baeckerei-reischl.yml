@@ -1,11 +1,11 @@
 id: 366476030
-type: way
+type: node
 latitude: 48.39227
 longitude: 12.6082
 postcode: "84323"
 city: Massing
-street: "Marktplatz"
-housenumber: 31
+street: Marktplatz
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

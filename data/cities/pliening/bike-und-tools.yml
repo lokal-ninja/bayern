@@ -4,8 +4,9 @@ latitude: 48.18925
 longitude: 11.78005
 postcode: "85652"
 city: Pliening
-street: "Am Moosrain"
-housenumber: 5
+street: Am Moosrain
+housenumber: "5"
 phone: ""
-opening_hours: "Mar-Oct: Tu-Fr 09:00-12:00,13:00-19:00; Sa 09:00-16:00; Su,PH off; Nov-Feb: Tu-Fr 10:00-12:00,13:00-18:00; Sa 09:00-16:00; Su,PH off"
+opening_hours: 'Mar-Oct: Tu-Fr 09:00-12:00,13:00-19:00; Sa 09:00-16:00; Su,PH off;
+    Nov-Feb: Tu-Fr 10:00-12:00,13:00-18:00; Sa 09:00-16:00; Su,PH off'
 website: ""

@@ -1,11 +1,11 @@
 id: 198947349
-type: way
+type: node
 latitude: 48.57475
 longitude: 10.44769
 postcode: "89415"
 city: Lauingen (Donau)
-street: "Werner-von-Siemens-Straße"
-housenumber: 2
+street: Werner-von-Siemens-Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

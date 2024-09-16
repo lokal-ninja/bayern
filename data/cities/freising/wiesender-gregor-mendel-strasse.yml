@@ -4,8 +4,8 @@ latitude: 48.39782
 longitude: 11.72208
 postcode: "85354"
 city: Freising
-street: "Gregor-Mendel-Straße"
-housenumber: 1
-phone: "+49-152-25843701"
-opening_hours: "Mo-Sa 07:00-18:00; Su 07:30-18:00"
-website: "https://www.wiesender.de/naturbackstuben.html"
+street: Gregor-Mendel-Straße
+housenumber: "1"
+phone: +49-152-25843701
+opening_hours: Mo-Sa 07:00-18:00; Su 07:30-18:00
+website: https://www.wiesender.de/naturbackstuben.html

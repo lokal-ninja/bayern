@@ -4,8 +4,8 @@ latitude: 48.1738
 longitude: 12.14194
 postcode: "83527"
 city: Haag i.OB
-street: "Dorfstraße"
-housenumber: 80
+street: Dorfstraße
+housenumber: "80"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00, 13:00-17:00"
-website: "https://www.kfzbetriebott.de/"
+opening_hours: Mo-Fr 08:00-12:00, 13:00-17:00
+website: https://www.kfzbetriebott.de/

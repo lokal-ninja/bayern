@@ -1,11 +1,11 @@
 id: 51449667
-type: way
+type: node
 latitude: 49.389
 longitude: 10.90038
 postcode: "90574"
 city: Roßtal
-street: "Gewerbering"
-housenumber: 14
+street: Gewerbering
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Sa 08:30 - 20:00"
+opening_hours: Mo-Sa 08:30 - 20:00
 website: ""

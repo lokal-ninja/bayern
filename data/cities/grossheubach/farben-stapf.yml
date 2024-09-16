@@ -4,8 +4,8 @@ latitude: 49.72012
 longitude: 9.22869
 postcode: "63920"
 city: Großheubach
-street: "Industriestraße"
-housenumber: 2
-phone: "+49 9371 3650"
-opening_hours: "Mo-Fr 08:00-12:00,13:30-18:00; Sa 08:00-12:00; PH off"
-website: "http://www.stapf-farben.de/"
+street: Industriestraße
+housenumber: "2"
+phone: +49 9371 3650
+opening_hours: Mo-Fr 08:00-12:00,13:30-18:00; Sa 08:00-12:00; PH off
+website: http://www.stapf-farben.de/

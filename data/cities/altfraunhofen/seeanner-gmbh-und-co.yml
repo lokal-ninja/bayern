@@ -1,11 +1,11 @@
 id: 264999995
-type: way
+type: node
 latitude: 48.45383
 longitude: 12.17188
 postcode: "84169"
 city: Altfraunhofen
-street: "Landshuter Straße"
-housenumber: 30
+street: Landshuter Straße
+housenumber: "30"
 phone: ""
 opening_hours: ""
-website: "https://www.waldland.de/"
+website: https://www.waldland.de/

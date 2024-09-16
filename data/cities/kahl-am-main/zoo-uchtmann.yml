@@ -4,8 +4,9 @@ latitude: 50.06027
 longitude: 8.99942
 postcode: "63796"
 city: Kahl am Main
-street: "Bergwerkstraße"
-housenumber: 6
-phone: "+49 6188 81770"
-opening_hours: "Mo-We 09:30-12:30,15:00-19:00;Th 17:00-19:00;Fr 09:30-12:30,15:00-19:00;Sa 09:30-13:00"
-website: "http://www.zoo-uchtmann.de/"
+street: Bergwerkstraße
+housenumber: "6"
+phone: +49 6188 81770
+opening_hours: Mo-We 09:30-12:30,15:00-19:00;Th 17:00-19:00;Fr 09:30-12:30,15:00-19:00;Sa
+    09:30-13:00
+website: http://www.zoo-uchtmann.de/

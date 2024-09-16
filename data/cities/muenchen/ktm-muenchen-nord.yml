@@ -4,8 +4,8 @@ latitude: 48.18833
 longitude: 11.58398
 postcode: "80807"
 city: München
-street: "Ingolstädter Straße"
-housenumber: 43
-phone: "+49 89 309053740"
-opening_hours: "Mo-Fr 10:00-13:00,14:00-18:00; Sa 10:00-13:00; Su,PH off"
-website: "https://ktmmotorrad.de/"
+street: Ingolstädter Straße
+housenumber: "43"
+phone: +49 89 309053740
+opening_hours: Mo-Fr 10:00-13:00,14:00-18:00; Sa 10:00-13:00; Su,PH off
+website: https://ktmmotorrad.de/

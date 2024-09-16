@@ -1,11 +1,11 @@
 id: 193869147
-type: way
+type: node
 latitude: 48.73398
 longitude: 12.18631
 postcode: "84088"
 city: Neufahrn in Niederbayern
-street: "Rottenburger Straße"
-housenumber: 26
+street: Rottenburger Straße
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
+opening_hours: Mo-Sa 07:00-20:00; PH off
 website: ""

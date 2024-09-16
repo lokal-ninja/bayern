@@ -4,8 +4,8 @@ latitude: 48.01874
 longitude: 11.71225
 postcode: "85635"
 city: Höhenkirchen-Siegertsbrunn
-street: "Rosenheimer Straße"
-housenumber: 7
-phone: "+49 8102 4650"
-opening_hours: "Mo-Sa 10:00-12:30; Tu, Th, Fr 15:00-18:00"
-website: "http://www.trachten-landhaus.de/hoehenkirchen.php"
+street: Rosenheimer Straße
+housenumber: "7"
+phone: +49 8102 4650
+opening_hours: Mo-Sa 10:00-12:30; Tu, Th, Fr 15:00-18:00
+website: http://www.trachten-landhaus.de/hoehenkirchen.php

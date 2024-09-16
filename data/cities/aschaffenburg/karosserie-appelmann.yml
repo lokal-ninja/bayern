@@ -1,11 +1,11 @@
 id: 124387271
-type: way
+type: node
 latitude: 49.96325
 longitude: 9.14931
 postcode: "63743"
 city: Aschaffenburg
-street: "Bavariastraße"
-housenumber: 32
+street: Bavariastraße
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

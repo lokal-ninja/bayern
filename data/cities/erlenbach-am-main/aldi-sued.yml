@@ -1,11 +1,11 @@
 id: 733888733
-type: way
+type: node
 latitude: 49.80505
 longitude: 9.16335
 postcode: "63906"
 city: Erlenbach am Main
-street: "Seeweg"
+street: Seeweg
 housenumber: 27 A
-phone: "+49 800 800 2534"
-opening_hours: "Mo-We,Fr-Sa 08:00-20:00"
-website: "https://filialen.aldi-sued.de/bayern/erlenbach/seeweg-27-c"
+phone: +49 800 800 2534
+opening_hours: Mo-We,Fr-Sa 08:00-20:00
+website: https://filialen.aldi-sued.de/bayern/erlenbach/seeweg-27-c

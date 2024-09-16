@@ -1,11 +1,11 @@
 id: 666080470
-type: way
+type: node
 latitude: 49.95145
 longitude: 12.24364
 postcode: "95666"
 city: Mitterteich
-street: "Oberer Marktplatz"
-housenumber: 2
+street: Oberer Marktplatz
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 169336884
-type: way
+type: node
 latitude: 48.01615
 longitude: 11.47658
 postcode: "82065"
 city: Baierbrunn
-street: "Schorner Straße"
-housenumber: 5
+street: Schorner Straße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://filialen.aldi-sued.de/bayern/baierbrunn/schorner-strasse-5"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://filialen.aldi-sued.de/bayern/baierbrunn/schorner-strasse-5

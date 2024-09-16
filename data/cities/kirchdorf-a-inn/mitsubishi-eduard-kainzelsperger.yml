@@ -1,11 +1,11 @@
 id: 243263478
-type: way
+type: node
 latitude: 48.25134
 longitude: 12.98492
 postcode: "84375"
 city: Kirchdorf a. Inn
-street: "Hauptstraße"
-housenumber: 56
-phone: "+49 8571 1749"
-opening_hours: "Mo-Fr 07:45-12:00,13:00-17:00; Sa 09:30-12:00"
-website: "https://www.auto-kainzelsperger.de/"
+street: Hauptstraße
+housenumber: "56"
+phone: +49 8571 1749
+opening_hours: Mo-Fr 07:45-12:00,13:00-17:00; Sa 09:30-12:00
+website: https://www.auto-kainzelsperger.de/

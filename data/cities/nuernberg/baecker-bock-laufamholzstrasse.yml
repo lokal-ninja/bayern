@@ -4,8 +4,8 @@ latitude: 49.46303
 longitude: 11.14295
 postcode: "90482"
 city: Nürnberg
-street: "Laufamholzstraße"
-housenumber: 100
-phone: "+49 911 5063103"
-opening_hours: "Mo-Sa 06:00-20:00; Su 07:30-18:00"
-website: "https://www.baecker-bock.de/"
+street: Laufamholzstraße
+housenumber: "100"
+phone: +49 911 5063103
+opening_hours: Mo-Sa 06:00-20:00; Su 07:30-18:00
+website: https://www.baecker-bock.de/

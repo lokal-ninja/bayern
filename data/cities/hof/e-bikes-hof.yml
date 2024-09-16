@@ -1,11 +1,11 @@
 id: 687228852
-type: way
+type: node
 latitude: 50.33515
 longitude: 11.90092
 postcode: "95030"
 city: Hof
-street: "Saalestraße"
-housenumber: 8
+street: Saalestraße
+housenumber: "8"
 phone: "092815075351"
 opening_hours: ""
-website: "https://www.ebikes-hof.de/"
+website: https://www.ebikes-hof.de/

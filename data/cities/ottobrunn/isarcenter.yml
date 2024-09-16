@@ -1,11 +1,11 @@
 id: 1022282925
-type: way
+type: node
 latitude: 48.06299
 longitude: 11.65143
 postcode: "85521"
 city: Ottobrunn
-street: "Unterhachinger Straße"
-housenumber: 28
+street: Unterhachinger Straße
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 169337436
-type: way
+type: node
 latitude: 48.806
 longitude: 11.46065
 postcode: "85101"
 city: Lenting
-street: "Hofmark"
-housenumber: 8
+street: Hofmark
+housenumber: "8"
 phone: ""
-opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-16:00; Su,Mo,PH off"
+opening_hours: Tu-Fr 09:00-18:00; Sa 09:00-16:00; Su,Mo,PH off
 website: ""

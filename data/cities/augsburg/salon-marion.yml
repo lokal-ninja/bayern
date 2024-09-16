@@ -4,8 +4,8 @@ latitude: 48.32172
 longitude: 10.90672
 postcode: "86179"
 city: Augsburg
-street: "Hötzelstraße"
-housenumber: 11
+street: Hötzelstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Tu-Fr 08:00-13:00,14:00-18:00"
+opening_hours: Tu-Fr 08:00-13:00,14:00-18:00
 website: ""

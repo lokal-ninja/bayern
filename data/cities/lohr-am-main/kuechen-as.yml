@@ -1,11 +1,12 @@
 id: 33484261
-type: way
+type: node
 latitude: 49.98408
 longitude: 9.57493
 postcode: "97816"
 city: Lohr am Main
-street: "Am Landgraben"
-housenumber: 4
-phone: "+49 9352 87400"
-opening_hours: "Mo,Tu,Th,Fr 09:00-12:00,13:00-18:00; We 09:00-01:00; Sa 09:00-13:00; PH off"
-website: "https://www.kuechen-as.de/"
+street: Am Landgraben
+housenumber: "4"
+phone: +49 9352 87400
+opening_hours: Mo,Tu,Th,Fr 09:00-12:00,13:00-18:00; We 09:00-01:00; Sa 09:00-13:00;
+    PH off
+website: https://www.kuechen-as.de/

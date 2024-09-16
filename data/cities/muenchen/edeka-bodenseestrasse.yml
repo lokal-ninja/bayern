@@ -1,11 +1,11 @@
 id: 27273864
-type: way
+type: node
 latitude: 48.14243
 longitude: 11.42353
 postcode: "81249"
 city: München
-street: "Bodenseestraße"
-housenumber: 253
+street: Bodenseestraße
+housenumber: "253"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
-website: "https://www.edeka.de/eh/s%C3%BCdbayern/e-center-bodenseestra%C3%9Fe-253/index.jsp"
+opening_hours: Mo-Sa 07:00-20:00; PH off
+website: https://www.edeka.de/eh/s%C3%BCdbayern/e-center-bodenseestra%C3%9Fe-253/index.jsp

@@ -4,8 +4,8 @@ latitude: 48.12229
 longitude: 11.5861
 postcode: "81541"
 city: München
-street: "Regerstraße"
-housenumber: 68
+street: Regerstraße
+housenumber: "68"
 phone: ""
-opening_hours: "Mo-Sa 11:00-20:00"
-website: "https://www.shisha-ssm.de/"
+opening_hours: Mo-Sa 11:00-20:00
+website: https://www.shisha-ssm.de/

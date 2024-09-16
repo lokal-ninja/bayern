@@ -1,11 +1,11 @@
 id: 45520703
-type: way
+type: node
 latitude: 49.51566
 longitude: 11.28836
 postcode: "91207"
 city: Lauf a.d. Pegnitz
-street: "Hersbrucker Straße"
-housenumber: 51
+street: Hersbrucker Straße
+housenumber: "51"
 phone: ""
 opening_hours: ""
-website: "http://www.orterer.de/fraenky/"
+website: http://www.orterer.de/fraenky/

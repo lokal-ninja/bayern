@@ -1,11 +1,11 @@
 id: 140755042
-type: way
+type: node
 latitude: 49.11312
 longitude: 10.74731
 postcode: "91710"
 city: Gunzenhausen
-street: "Oettinger Straße"
-housenumber: 17
+street: Oettinger Straße
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

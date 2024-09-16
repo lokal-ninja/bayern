@@ -1,11 +1,11 @@
 id: 858340565
-type: way
+type: node
 latitude: 48.31061
 longitude: 11.88933
 postcode: "85435"
 city: Erding
-street: "Anton-Huber-Straße"
-housenumber: 4
-phone: "+49 231 55 57 70"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.kaufda.de/Filialen/Erding/TEDi/v-r255"
+street: Anton-Huber-Straße
+housenumber: "4"
+phone: +49 231 55 57 70
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.kaufda.de/Filialen/Erding/TEDi/v-r255

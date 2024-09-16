@@ -1,11 +1,11 @@
 id: 744477012
-type: way
+type: node
 latitude: 47.76339
 longitude: 11.82869
 postcode: "83734"
 city: Hausham
-street: "Obere Tiefenbachstraße"
-housenumber: 6
-phone: "+49 800 4353361"
-opening_hours: "Mo-Sa 08:00-20:00"
+street: Obere Tiefenbachstraße
+housenumber: "6"
+phone: +49 800 4353361
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

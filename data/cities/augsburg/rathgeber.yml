@@ -4,8 +4,8 @@ latitude: 48.36697
 longitude: 10.89842
 postcode: "86150"
 city: Augsburg
-street: "Maximilianstraße"
-housenumber: 24
+street: Maximilianstraße
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00, 09:00-18:00; Sa 10:00-16:00"
-website: "https://www.trauringe-rathgeber.de/"
+opening_hours: Mo-Fr 10:00-18:00, 09:00-18:00; Sa 10:00-16:00
+website: https://www.trauringe-rathgeber.de/

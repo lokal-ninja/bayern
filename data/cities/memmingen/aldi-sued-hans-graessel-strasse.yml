@@ -1,11 +1,11 @@
 id: 35804351
-type: way
+type: node
 latitude: 47.99258
 longitude: 10.18742
 postcode: "87700"
 city: Memmingen
-street: "Hans-Grässel-Straße"
-housenumber: 6
+street: Hans-Grässel-Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "https://filialen.aldi-sued.de/bayern/memmingen/hans-graessel-strasse-6"
+website: https://filialen.aldi-sued.de/bayern/memmingen/hans-graessel-strasse-6

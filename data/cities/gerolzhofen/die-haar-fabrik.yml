@@ -1,11 +1,11 @@
 id: 251453087
-type: way
+type: node
 latitude: 49.90109
 longitude: 10.35063
 postcode: "97447"
 city: Gerolzhofen
-street: "Ludwig-Derleth-Straße"
-housenumber: 2
+street: Ludwig-Derleth-Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

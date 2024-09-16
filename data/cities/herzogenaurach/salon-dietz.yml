@@ -4,8 +4,8 @@ latitude: 49.56925
 longitude: 10.88275
 postcode: "91074"
 city: Herzogenaurach
-street: "Kirchenplatz"
-housenumber: 3
-phone: "+49 9132 732 0 645"
-opening_hours: "We-Fr 09:00-20:00; Sa 09:00-16:00"
-website: "https://salonralfdietz.de/"
+street: Kirchenplatz
+housenumber: "3"
+phone: +49 9132 732 0 645
+opening_hours: We-Fr 09:00-20:00; Sa 09:00-16:00
+website: https://salonralfdietz.de/

@@ -1,11 +1,11 @@
 id: 1000447716
-type: way
+type: node
 latitude: 49.04093
 longitude: 12.12502
 postcode: "93057"
 city: Regensburg
-street: "Aussiger Straße"
+street: Aussiger Straße
 housenumber: 8 a
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

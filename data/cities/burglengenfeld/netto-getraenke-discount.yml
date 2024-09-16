@@ -1,11 +1,11 @@
 id: 479739056
-type: way
+type: node
 latitude: 49.204
 longitude: 12.04827
 postcode: "93133"
 city: Burglengenfeld
-street: "Regensburger Straße"
-housenumber: 57
+street: Regensburger Straße
+housenumber: "57"
 phone: ""
 opening_hours: ""
 website: ""

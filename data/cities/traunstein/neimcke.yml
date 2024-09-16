@@ -1,11 +1,11 @@
 id: 239913430
-type: way
+type: node
 latitude: 47.87113
 longitude: 12.61391
 postcode: "83278"
 city: Traunstein
-street: "Grabenstätter Straße"
-housenumber: 5
-phone: "+49 861 98889 20"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-12:00"
-website: "https://www.neimcke.de/"
+street: Grabenstätter Straße
+housenumber: "5"
+phone: +49 861 98889 20
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-12:00
+website: https://www.neimcke.de/

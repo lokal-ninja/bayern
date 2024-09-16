@@ -1,11 +1,11 @@
 id: 321660923
-type: way
+type: node
 latitude: 50.1408
 longitude: 11.0613
 postcode: "96215"
 city: Lichtenfels
-street: "Viktor-von-Scheffel-Straße"
-housenumber: 31
+street: Viktor-von-Scheffel-Straße
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

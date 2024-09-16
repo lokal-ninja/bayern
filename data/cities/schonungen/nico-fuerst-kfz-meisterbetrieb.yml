@@ -1,11 +1,11 @@
 id: 215481948
-type: way
+type: node
 latitude: 50.03895
 longitude: 10.31605
 postcode: "97453"
 city: Schonungen
-street: "Tiefer Graben"
-housenumber: 5
+street: Tiefer Graben
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

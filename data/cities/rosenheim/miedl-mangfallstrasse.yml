@@ -4,8 +4,8 @@ latitude: 47.844
 longitude: 12.11142
 postcode: "83026"
 city: Rosenheim
-street: "Mangfallstraße"
-housenumber: 18
-phone: "+49 8031 8072146"
-opening_hours: "Mo-Fr 07:00-12:00; Sa,Su 07:00-13:00"
+street: Mangfallstraße
+housenumber: "18"
+phone: +49 8031 8072146
+opening_hours: Mo-Fr 07:00-12:00; Sa,Su 07:00-13:00
 website: ""

@@ -1,11 +1,11 @@
 id: 499678462
-type: way
+type: node
 latitude: 48.43777
 longitude: 10.94979
 postcode: "86444"
 city: Affing
-street: "Pfaffensteig"
+street: Pfaffensteig
 housenumber: 2a
 phone: ""
-opening_hours: "24/7"
-website: "http://www.matzerhof.de"
+opening_hours: 24/7
+website: http://www.matzerhof.de

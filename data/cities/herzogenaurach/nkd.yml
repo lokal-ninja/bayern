@@ -4,8 +4,8 @@ latitude: 49.56821
 longitude: 10.88314
 postcode: "91074"
 city: Herzogenaurach
-street: "Hauptstraße"
-housenumber: 11
+street: Hauptstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-15:00"
-website: "https://www.nkd.com/filialen/herzogenaurach"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-15:00
+website: https://www.nkd.com/filialen/herzogenaurach

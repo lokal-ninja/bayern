@@ -4,8 +4,9 @@ latitude: 48.04314
 longitude: 10.91669
 postcode: "86899"
 city: Landsberg am Lech
-street: "Thalerseestraße"
-housenumber: 2
-phone: "+49 8191 2416"
-opening_hours: "Mo 08:00-12:00; Tu 08:00-18:00; We,Th 08:00-12:00,14:30-18:00; Fr 07:30-18:00; Sa 07:30-12:00; PH off"
-website: "https://www.metzgerei-lechle.de/filiale-reisch.html"
+street: Thalerseestraße
+housenumber: "2"
+phone: +49 8191 2416
+opening_hours: Mo 08:00-12:00; Tu 08:00-18:00; We,Th 08:00-12:00,14:30-18:00; Fr 07:30-18:00;
+    Sa 07:30-12:00; PH off
+website: https://www.metzgerei-lechle.de/filiale-reisch.html

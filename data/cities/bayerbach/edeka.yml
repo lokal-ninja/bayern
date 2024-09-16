@@ -1,11 +1,11 @@
 id: 279965827
-type: way
+type: node
 latitude: 48.41484
 longitude: 13.13694
 postcode: "94137"
 city: Bayerbach
-street: "Eichfeld"
-housenumber: 1
-phone: "+49 8532 924234"
+street: Eichfeld
+housenumber: "1"
+phone: +49 8532 924234
 opening_hours: ""
-website: "https://www.edeka.de/"
+website: https://www.edeka.de/

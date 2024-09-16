@@ -1,5 +1,5 @@
 id: 68693357
-type: way
+type: node
 latitude: 47.87336
 longitude: 12.42726
 postcode: "83256"
@@ -8,4 +8,4 @@ street: ""
 housenumber: 4a
 phone: ""
 opening_hours: ""
-website: "https://www.inseltoepferei.de/"
+website: https://www.inseltoepferei.de/

@@ -4,8 +4,8 @@ latitude: 49.01438
 longitude: 12.11801
 postcode: "93055"
 city: Regensburg
-street: "Greflingerstraße"
-housenumber: 53
+street: Greflingerstraße
+housenumber: "53"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://lukullus-laden.de/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
+website: https://lukullus-laden.de/

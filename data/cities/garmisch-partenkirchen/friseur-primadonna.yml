@@ -4,8 +4,8 @@ latitude: 47.49416
 longitude: 11.11073
 postcode: "82467"
 city: Garmisch-Partenkirchen
-street: "Ludwigstraße"
-housenumber: 56
-phone: "+49 8821 9668642"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-13:00; PH Su off"
-website: "https://haarstudio-primadonna.de/"
+street: Ludwigstraße
+housenumber: "56"
+phone: +49 8821 9668642
+opening_hours: Tu-Fr 09:00-18:00; Sa 09:00-13:00; PH Su off
+website: https://haarstudio-primadonna.de/

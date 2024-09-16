@@ -4,8 +4,8 @@ latitude: 48.06942
 longitude: 11.60655
 postcode: "82008"
 city: Unterhaching
-street: "Blütenweg"
-housenumber: 9
+street: Blütenweg
+housenumber: "9"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 08:00-12:00,14:00-17:30; We,Sa off"
+opening_hours: Mo,Tu,Th,Fr 08:00-12:00,14:00-17:30; We,Sa off
 website: ""

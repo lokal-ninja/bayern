@@ -4,8 +4,8 @@ latitude: 49.52793
 longitude: 11.01077
 postcode: "90427"
 city: Nürnberg
-street: "Großgründlacher Hauptstraße"
-housenumber: 19
+street: Großgründlacher Hauptstraße
+housenumber: "19"
 phone: ""
-opening_hours: "Tu-Fr 08:00-18:00, Sa 07:00-12:00"
-website: "https://www.salonkrehan.de/"
+opening_hours: Tu-Fr 08:00-18:00, Sa 07:00-12:00
+website: https://www.salonkrehan.de/

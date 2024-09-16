@@ -1,11 +1,11 @@
 id: 53291654
-type: way
+type: node
 latitude: 48.78089
 longitude: 11.42298
 postcode: "85057"
 city: Ingolstadt
-street: "Ringlerstraße"
-housenumber: 
+street: Ringlerstraße
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

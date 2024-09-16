@@ -1,11 +1,11 @@
 id: 229715696
-type: way
+type: node
 latitude: 50.2861
 longitude: 10.98037
 postcode: "96450"
 city: Coburg
-street: "Niorter Straße"
-housenumber: 6
+street: Niorter Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

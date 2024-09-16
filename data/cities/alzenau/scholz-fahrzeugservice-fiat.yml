@@ -4,8 +4,8 @@ latitude: 50.09071
 longitude: 9.0591
 postcode: "63755"
 city: Alzenau
-street: "Brentanostraße"
-housenumber: 10
-phone: "+49 6023 97330"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 07:30-13:00"
-website: "https://www.scholz-alzenau.de/"
+street: Brentanostraße
+housenumber: "10"
+phone: +49 6023 97330
+opening_hours: Mo-Fr 07:30-18:00; Sa 07:30-13:00
+website: https://www.scholz-alzenau.de/

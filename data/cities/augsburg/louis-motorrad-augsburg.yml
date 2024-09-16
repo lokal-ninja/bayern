@@ -4,8 +4,9 @@ latitude: 48.38367
 longitude: 10.93744
 postcode: "86165"
 city: Augsburg
-street: "Meraner Straße"
-housenumber: 24
-phone: "+49 821 729 32 63"
-opening_hours: "Mar-Sep: Mo-Sa 09:00-20:00; Oct-Feb: Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su off"
-website: "https://www.louis.de/filialen/louis-augsburg"
+street: Meraner Straße
+housenumber: "24"
+phone: +49 821 729 32 63
+opening_hours: 'Mar-Sep: Mo-Sa 09:00-20:00; Oct-Feb: Mo-Fr 09:00-19:00; Sa 09:00-18:00;
+    Su off'
+website: https://www.louis.de/filialen/louis-augsburg

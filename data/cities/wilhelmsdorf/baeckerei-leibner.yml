@@ -4,8 +4,8 @@ latitude: 49.56367
 longitude: 10.7383
 postcode: "91489"
 city: Wilhelmsdorf
-street: "Von-Buirette-Straße"
-housenumber: 10
+street: Von-Buirette-Straße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo 05:30-13:00; Tu-Fr 05:30-13:00,14:00-18:00; Sa 05:30-14:00"
-website: "http://www.baeckerei-leibner.de"
+opening_hours: Mo 05:30-13:00; Tu-Fr 05:30-13:00,14:00-18:00; Sa 05:30-14:00
+website: http://www.baeckerei-leibner.de

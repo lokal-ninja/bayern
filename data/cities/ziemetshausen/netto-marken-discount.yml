@@ -1,11 +1,11 @@
 id: 1094078647
-type: way
+type: node
 latitude: 48.29331
 longitude: 10.54709
 postcode: "86473"
 city: Ziemetshausen
-street: "Augsburger Straße"
-housenumber: 44
+street: Augsburger Straße
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

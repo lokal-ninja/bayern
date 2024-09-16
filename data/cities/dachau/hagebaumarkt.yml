@@ -1,11 +1,11 @@
 id: 29459454
-type: way
+type: node
 latitude: 48.26036
 longitude: 11.47416
 postcode: "85221"
 city: Dachau
-street: "Kopernikusstraße"
-housenumber: 6
+street: Kopernikusstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://hagebaumarkt-muenchen.de/maerkte-events/dachau/mn_27239"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://hagebaumarkt-muenchen.de/maerkte-events/dachau/mn_27239

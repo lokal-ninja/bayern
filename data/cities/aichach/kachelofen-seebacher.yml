@@ -1,11 +1,11 @@
 id: 143774307
-type: way
+type: node
 latitude: 48.41408
 longitude: 11.10277
 postcode: "86551"
 city: Aichach
-street: "Röckerszeller Weg"
-housenumber: 2
+street: Röckerszeller Weg
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

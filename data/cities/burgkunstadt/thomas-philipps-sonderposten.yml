@@ -1,11 +1,11 @@
 id: 53187544
-type: way
+type: node
 latitude: 50.13396
 longitude: 11.2549
 postcode: "96224"
 city: Burgkunstadt
-street: "Kulmbacher Straße"
-housenumber: 102
+street: Kulmbacher Straße
+housenumber: "102"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00; PH,Su off"
+opening_hours: Mo-Sa 09:00-19:00; PH,Su off
 website: ""

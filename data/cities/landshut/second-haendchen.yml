@@ -4,8 +4,8 @@ latitude: 48.54328
 longitude: 12.16533
 postcode: "84028"
 city: Landshut
-street: "Schützenstraße"
-housenumber: 2
+street: Schützenstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 10:00-12:00"
-website: "https://www.familienzentrum-landshut.de/second-haendchen-2.html"
+opening_hours: Mo-Fr 10:00-12:00
+website: https://www.familienzentrum-landshut.de/second-haendchen-2.html

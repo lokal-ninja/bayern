@@ -1,11 +1,11 @@
 id: 120141188
-type: way
+type: node
 latitude: 47.51789
 longitude: 10.27205
 postcode: "87527"
 city: Sonthofen
-street: "Eichendorffstraße"
-housenumber: 11
+street: Eichendorffstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 06:30-20:00"
+opening_hours: Mo-Sa 06:30-20:00
 website: ""

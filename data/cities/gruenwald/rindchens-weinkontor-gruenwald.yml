@@ -4,8 +4,8 @@ latitude: 48.03951
 longitude: 11.52362
 postcode: "82031"
 city: Grünwald
-street: "Marktplatz"
-housenumber: 2
-phone: "+49 89 66612830"
-opening_hours: "Tu-Fr 10:00-19:00; Sa 10:00-16:00"
-website: "https://www.rindchen.de/kontore/kontor-muenchen-gruenwald"
+street: Marktplatz
+housenumber: "2"
+phone: +49 89 66612830
+opening_hours: Tu-Fr 10:00-19:00; Sa 10:00-16:00
+website: https://www.rindchen.de/kontore/kontor-muenchen-gruenwald

@@ -1,11 +1,11 @@
 id: 302526937
-type: way
+type: node
 latitude: 48.54566
 longitude: 13.22342
 postcode: "94496"
 city: Ortenburg
-street: "Marktplatz"
-housenumber: 24
+street: Marktplatz
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

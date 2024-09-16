@@ -4,8 +4,8 @@ latitude: 49.01659
 longitude: 12.10054
 postcode: "93047"
 city: Regensburg
-street: "Maximilianstraße"
-housenumber: 11
+street: Maximilianstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 09:30-19:30; Sa 09:30-19:30"
+opening_hours: Mo-Fr 09:30-19:30; Sa 09:30-19:30
 website: ""

@@ -1,11 +1,11 @@
 id: 60362300
-type: way
+type: node
 latitude: 48.01159
 longitude: 10.30426
 postcode: "87784"
 city: Westerheim
-street: "Ottobeurer Straße"
-housenumber: 1
+street: Ottobeurer Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "http://www.hebel-wohnen.de"
+website: http://www.hebel-wohnen.de

@@ -4,8 +4,9 @@ latitude: 48.07172
 longitude: 11.65525
 postcode: "85521"
 city: Ottobrunn
-street: "Alte Landstraße"
-housenumber: 5
+street: Alte Landstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Tu,Th 09:00-17:00; Fr 13:00-17:00; We,Sa,Su,PH off; Mo 09:00-12:00 nur Spendenannahme"
-website: "https://klawotte.de/ueber-die-klawotte/klawotte-ottobrunn/"
+opening_hours: Tu,Th 09:00-17:00; Fr 13:00-17:00; We,Sa,Su,PH off; Mo 09:00-12:00
+    "nur Spendenannahme"
+website: https://klawotte.de/ueber-die-klawotte/klawotte-ottobrunn/

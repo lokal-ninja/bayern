@@ -1,11 +1,11 @@
 id: 34201728
-type: way
+type: node
 latitude: 48.00261
 longitude: 10.16731
 postcode: "87700"
 city: Memmingen
-street: "Fraunhoferstraße"
-housenumber: 9
+street: Fraunhoferstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.mediamarkt.de/de/store/memmingen-584"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.mediamarkt.de/de/store/memmingen-584

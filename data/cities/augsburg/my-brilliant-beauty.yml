@@ -4,8 +4,8 @@ latitude: 48.35423
 longitude: 10.88291
 postcode: "86159"
 city: Augsburg
-street: "Gögginger Straße"
-housenumber: 72
-phone: "+49 1523 7594753"
-opening_hours: "nach Vereinbarung"
-website: "https://www.mybrilliantbeauty-kosmetikstudio.de/"
+street: Gögginger Straße
+housenumber: "72"
+phone: +49 1523 7594753
+opening_hours: '"nach Vereinbarung"'
+website: https://www.mybrilliantbeauty-kosmetikstudio.de/

@@ -1,11 +1,11 @@
 id: 163835726
-type: way
+type: node
 latitude: 48.81173
 longitude: 11.85816
 postcode: "93326"
 city: Abensberg
-street: "Straubinger Straße"
-housenumber: 47
+street: Straubinger Straße
+housenumber: "47"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://filialen.aldi-sued.de/bayern/abensberg/straubinger-strasse-47"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://filialen.aldi-sued.de/bayern/abensberg/straubinger-strasse-47

@@ -1,11 +1,11 @@
 id: 284835528
-type: way
+type: node
 latitude: 49.88445
 longitude: 10.30945
 postcode: "97447"
 city: Frankenwinheim
-street: "Rimbacher Weg"
-housenumber: 18
+street: Rimbacher Weg
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

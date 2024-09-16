@@ -4,8 +4,9 @@ latitude: 49.87228
 longitude: 9.1646
 postcode: "63839"
 city: Kleinwallstadt
-street: "Marktstraße"
+street: Marktstraße
 housenumber: 5-7
 phone: ""
-opening_hours: "Mo-We 05:30-12:30; Th-Fr 05:30-12:30,14:30-18:00; Sa 05:30-12:00; Su off"
+opening_hours: Mo-We 05:30-12:30; Th-Fr 05:30-12:30,14:30-18:00; Sa 05:30-12:00; Su
+    off
 website: ""

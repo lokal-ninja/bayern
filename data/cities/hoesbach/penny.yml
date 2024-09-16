@@ -1,11 +1,11 @@
 id: 1001557623
-type: way
+type: node
 latitude: 50.00599
 longitude: 9.2174
 postcode: "63768"
 city: Hösbach
-street: "Daimlerstraße"
-housenumber: 2
+street: Daimlerstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

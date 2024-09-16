@@ -1,11 +1,11 @@
 id: 205937590
-type: way
+type: node
 latitude: 48.04003
 longitude: 11.65648
 postcode: "82024"
 city: Taufkirchen
-street: "Brunnthaler Straße"
-housenumber: 1
+street: Brunnthaler Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.ikea.com/de/de/stores/muenchen-brunnthal/"
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.ikea.com/de/de/stores/muenchen-brunnthal/

@@ -4,8 +4,8 @@ latitude: 50.04306
 longitude: 10.22852
 postcode: "97421"
 city: Schweinfurt
-street: "Jägersbrunnen"
-housenumber: 9
-phone: "+49 9721 474290"
-opening_hours: "Mo-Sa 9:30-19:00; Su,PH off"
-website: "https://www.tkmaxx.de/filialen/TK_Maxx_Schweinfurt"
+street: Jägersbrunnen
+housenumber: "9"
+phone: +49 9721 474290
+opening_hours: Mo-Sa 9:30-19:00; Su,PH off
+website: https://www.tkmaxx.de/filialen/TK_Maxx_Schweinfurt

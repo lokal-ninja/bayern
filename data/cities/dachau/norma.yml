@@ -1,11 +1,11 @@
 id: 294248008
-type: way
+type: node
 latitude: 48.26233
 longitude: 11.4394
 postcode: "85221"
 city: Dachau
-street: "Ludwig-Thoma-Straße"
-housenumber: 30
+street: Ludwig-Thoma-Straße
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

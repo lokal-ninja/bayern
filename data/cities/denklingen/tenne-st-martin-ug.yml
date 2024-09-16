@@ -1,11 +1,11 @@
 id: 97473670
-type: way
+type: node
 latitude: 47.93171
 longitude: 10.8673
 postcode: "86920"
 city: Denklingen
-street: "Mühlstraße"
-housenumber: 11
-phone: "+49 8243 9935858"
-opening_hours: "Mo-Fr 11:00-19:00; Sa 10:00-16:00"
-website: "http://stiftung-lebensfreude.de"
+street: Mühlstraße
+housenumber: "11"
+phone: +49 8243 9935858
+opening_hours: Mo-Fr 11:00-19:00; Sa 10:00-16:00
+website: http://stiftung-lebensfreude.de

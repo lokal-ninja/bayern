@@ -1,11 +1,11 @@
 id: 143903199
-type: way
+type: node
 latitude: 49.11439
 longitude: 10.7539
 postcode: "91710"
 city: Gunzenhausen
-street: "Marktplatz"
-housenumber: 26
+street: Marktplatz
+housenumber: "26"
 phone: ""
 opening_hours: ""
-website: "https://www.bonita.de/"
+website: https://www.bonita.de/

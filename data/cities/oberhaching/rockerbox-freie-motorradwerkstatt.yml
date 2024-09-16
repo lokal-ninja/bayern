@@ -5,7 +5,7 @@ longitude: 11.56092
 postcode: "82041"
 city: Oberhaching
 street: ""
-housenumber: 2
-phone: "+49 89 134435"
+housenumber: "2"
+phone: +49 89 134435
 opening_hours: ""
-website: "https://rockerbox.org/"
+website: https://rockerbox.org/

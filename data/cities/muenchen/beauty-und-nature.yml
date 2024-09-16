@@ -4,8 +4,8 @@ latitude: 48.13516
 longitude: 11.57953
 postcode: "80331"
 city: München
-street: "Westenriederstraße"
-housenumber: 35
-phone: "+49 89 24231233"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.beautyandnature.de/"
+street: Westenriederstraße
+housenumber: "35"
+phone: +49 89 24231233
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.beautyandnature.de/

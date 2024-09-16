@@ -4,8 +4,8 @@ latitude: 49.3012
 longitude: 10.57213
 postcode: "91522"
 city: Ansbach
-street: "Neustadt"
-housenumber: 4
+street: Neustadt
+housenumber: "4"
 phone: ""
-opening_hours: "Tu-Fri 10:00-18:30; Sa 10:00-15:00"
-website: "https://www.michels-whisky-kontor.de/"
+opening_hours: Tu-Fri 10:00-18:30; Sa 10:00-15:00
+website: https://www.michels-whisky-kontor.de/

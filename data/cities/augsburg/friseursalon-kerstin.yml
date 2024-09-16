@@ -4,8 +4,8 @@ latitude: 48.31177
 longitude: 10.90684
 postcode: "86179"
 city: Augsburg
-street: "Hofackerstraße"
-housenumber: 10
-phone: "+49821/881122"
-opening_hours: "Tu-Fr 08:00-18:30"
+street: Hofackerstraße
+housenumber: "10"
+phone: +49821/881122
+opening_hours: Tu-Fr 08:00-18:30
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.16511
 longitude: 11.4906
 postcode: "81247"
 city: München
-street: "Amalienburgstraße"
-housenumber: 6
+street: Amalienburgstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

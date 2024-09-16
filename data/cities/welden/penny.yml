@@ -1,11 +1,11 @@
 id: 264954678
-type: way
+type: node
 latitude: 48.46153
 longitude: 10.65509
 postcode: "86465"
 city: Welden
-street: "Uzstraße"
-housenumber: 41
+street: Uzstraße
+housenumber: "41"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

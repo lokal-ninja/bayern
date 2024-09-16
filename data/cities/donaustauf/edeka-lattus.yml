@@ -1,11 +1,11 @@
 id: 510454384
-type: way
+type: node
 latitude: 49.02842
 longitude: 12.20209
 postcode: "93093"
 city: Donaustauf
-street: "Regensburger Straße"
-housenumber: 11
+street: Regensburger Straße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

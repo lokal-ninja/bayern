@@ -1,11 +1,11 @@
 id: 921801892
-type: way
+type: node
 latitude: 47.74502
 longitude: 10.23984
 postcode: "87487"
 city: Wiggensbach
-street: "Feuerwehrstraße"
-housenumber: 9
-phone: "+49 8370 976487"
-opening_hours: "Tu-Fr 07:00-12:30,15:00-18:00; Sa 09:00-12:00"
-website: "http://www.kfz-fleschutz.de"
+street: Feuerwehrstraße
+housenumber: "9"
+phone: +49 8370 976487
+opening_hours: Tu-Fr 07:00-12:30,15:00-18:00; Sa 09:00-12:00
+website: http://www.kfz-fleschutz.de

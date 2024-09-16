@@ -1,11 +1,11 @@
 id: 456367262
-type: way
+type: node
 latitude: 48.6451
 longitude: 12.48638
 postcode: "84130"
 city: Dingolfing
-street: "Landshuter Straße"
-housenumber: 5
-phone: "+49 8731 73133"
-opening_hours: "Mo-Fr 07:00-18:00, Sa 09:00-13:00"
+street: Landshuter Straße
+housenumber: "5"
+phone: +49 8731 73133
+opening_hours: Mo-Fr 07:00-18:00, Sa 09:00-13:00
 website: ""

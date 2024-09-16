@@ -1,11 +1,11 @@
 id: 681308893
-type: way
+type: node
 latitude: 49.16216
 longitude: 10.56747
 postcode: "91572"
 city: Bechhofen an der Heide
-street: "Gottlieb-Daimler-Straße"
-housenumber: 3
-phone: "+49 9822 3299932"
+street: Gottlieb-Daimler-Straße
+housenumber: "3"
+phone: +49 9822 3299932
 opening_hours: ""
 website: ""

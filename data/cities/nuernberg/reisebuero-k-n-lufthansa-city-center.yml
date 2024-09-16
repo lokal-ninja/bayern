@@ -4,8 +4,8 @@ latitude: 49.44676
 longitude: 11.07188
 postcode: "90443"
 city: Nürnberg
-street: "Zeltnerstraße"
+street: Zeltnerstraße
 housenumber: 1-3
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00; Sa 10:00-14:00"
-website: "https://www.lcc-nuernberg.de/"
+opening_hours: Mo-Fr 09:30-18:00; Sa 10:00-14:00
+website: https://www.lcc-nuernberg.de/

@@ -1,11 +1,11 @@
 id: 132318312
-type: way
+type: node
 latitude: 48.56476
 longitude: 11.28895
 postcode: "86529"
 city: Schrobenhausen
-street: "Rinderhofer Breite"
-housenumber: 1
+street: Rinderhofer Breite
+housenumber: "1"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.zieglmeier.de/tanken/standorte/"
+opening_hours: 24/7
+website: https://www.zieglmeier.de/tanken/standorte/

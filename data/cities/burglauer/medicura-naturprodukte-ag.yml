@@ -1,11 +1,11 @@
 id: 157261642
-type: way
+type: node
 latitude: 50.27776
 longitude: 10.17745
 postcode: "97724"
 city: Burglauer
-street: "Tulpenweg"
-housenumber: 6
+street: Tulpenweg
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "http://www.medicura.de"
+website: http://www.medicura.de

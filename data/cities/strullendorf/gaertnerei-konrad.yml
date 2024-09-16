@@ -1,11 +1,11 @@
 id: 179010046
-type: way
+type: node
 latitude: 49.84433
 longitude: 10.97774
 postcode: "96129"
 city: Strullendorf
-street: "Eggerten"
-housenumber: 2
+street: Eggerten
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

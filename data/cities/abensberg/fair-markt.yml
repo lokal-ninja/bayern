@@ -4,8 +4,8 @@ latitude: 48.82655
 longitude: 11.86572
 postcode: "93326"
 city: Abensberg
-street: "Regensburger Straße"
-housenumber: 60
-phone: "+49 9443 709-228"
-opening_hours: "Mo-Th 8:00-18:00; Fr 8:00-13:00"
-website: "https://www.bbw-abensberg.de/fairmarkt"
+street: Regensburger Straße
+housenumber: "60"
+phone: +49 9443 709-228
+opening_hours: Mo-Th 8:00-18:00; Fr 8:00-13:00
+website: https://www.bbw-abensberg.de/fairmarkt

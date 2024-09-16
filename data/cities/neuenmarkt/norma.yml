@@ -1,11 +1,11 @@
 id: 210755103
-type: way
+type: node
 latitude: 50.09917
 longitude: 11.59172
 postcode: "95339"
 city: Neuenmarkt
-street: "Auf der Höh"
-housenumber: 2
+street: Auf der Höh
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

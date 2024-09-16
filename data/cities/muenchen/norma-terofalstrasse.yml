@@ -4,8 +4,8 @@ latitude: 48.12476
 longitude: 11.47666
 postcode: "80689"
 city: München
-street: "Terofalstraße"
-housenumber: 19
+street: Terofalstraße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Sa 7:00-20:00; PH off"
-website: "https://www.norma-online.de/"
+opening_hours: Mo-Sa 7:00-20:00; PH off
+website: https://www.norma-online.de/

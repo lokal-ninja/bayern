@@ -1,11 +1,11 @@
 id: 243999840
-type: way
+type: node
 latitude: 49.91017
 longitude: 10.99727
 postcode: "96123"
 city: Litzendorf
-street: "Hollfelder Straße"
-housenumber: 25
+street: Hollfelder Straße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

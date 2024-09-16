@@ -1,11 +1,11 @@
 id: 114603107
-type: way
+type: node
 latitude: 48.24252
 longitude: 11.44835
 postcode: "85221"
 city: Dachau
-street: "Wettersteinring"
-housenumber: 8
+street: Wettersteinring
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
-website: "https://filialen.aldi-sued.de/bayern/dachau/wettersteinring-8"
+opening_hours: Mo-Sa 08:00-20:00; PH off
+website: https://filialen.aldi-sued.de/bayern/dachau/wettersteinring-8

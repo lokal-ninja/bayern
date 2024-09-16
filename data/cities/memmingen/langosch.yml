@@ -4,8 +4,8 @@ latitude: 47.95362
 longitude: 10.16519
 postcode: "87700"
 city: Memmingen
-street: "Volkratshofer Weg"
-housenumber: 8
+street: Volkratshofer Weg
+housenumber: "8"
 phone: ""
-opening_hours: "Nur nach Vereinbarung"
+opening_hours: '"Nur nach Vereinbarung"'
 website: ""

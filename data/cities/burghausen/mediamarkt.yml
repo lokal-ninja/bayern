@@ -1,11 +1,11 @@
 id: 118907672
-type: way
+type: node
 latitude: 48.17057
 longitude: 12.8186
 postcode: "84489"
 city: Burghausen
-street: "Burgkirchener Straße"
-housenumber: 66
-phone: "+49 8677 88170"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:00-18:00"
-website: "https://www.mediamarkt.de/de/store/burghausen-1841"
+street: Burgkirchener Straße
+housenumber: "66"
+phone: +49 8677 88170
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:00-18:00
+website: https://www.mediamarkt.de/de/store/burghausen-1841

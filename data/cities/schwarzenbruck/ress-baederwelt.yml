@@ -1,11 +1,11 @@
 id: 31022323
-type: way
+type: node
 latitude: 49.35991
 longitude: 11.2536
 postcode: "90592"
 city: Schwarzenbruck
-street: "Frauenfeldstraße"
-housenumber: 14
+street: Frauenfeldstraße
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

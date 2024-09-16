@@ -1,11 +1,11 @@
 id: 206286611
-type: way
+type: node
 latitude: 48.77708
 longitude: 11.40487
 postcode: "85057"
 city: Ingolstadt
-street: "Gaimersheimer Straße"
-housenumber: 57
+street: Gaimersheimer Straße
+housenumber: "57"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
-website: "http://www.norma-online.de/"
+opening_hours: Mo-Sa 07:00-20:00; PH off
+website: http://www.norma-online.de/

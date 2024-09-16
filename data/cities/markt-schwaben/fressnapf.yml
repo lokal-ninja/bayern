@@ -4,8 +4,8 @@ latitude: 48.1911
 longitude: 11.85085
 postcode: "85570"
 city: Markt Schwaben
-street: "Gutenbergstraße"
-housenumber: 1
-phone: "+49 8121 4738671"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; PH off"
-website: "https://www.fressnapf.de/stores/fressnapf-schwaben/"
+street: Gutenbergstraße
+housenumber: "1"
+phone: +49 8121 4738671
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00; PH off
+website: https://www.fressnapf.de/stores/fressnapf-schwaben/

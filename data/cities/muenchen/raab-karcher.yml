@@ -1,11 +1,11 @@
 id: 38527166
-type: way
+type: node
 latitude: 48.1435
 longitude: 11.43406
 postcode: "81243"
 city: München
-street: "Bodenseestraße"
-housenumber: 151
+street: Bodenseestraße
+housenumber: "151"
 phone: ""
 opening_hours: ""
 website: ""

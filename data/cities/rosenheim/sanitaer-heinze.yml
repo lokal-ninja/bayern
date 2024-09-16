@@ -1,11 +1,11 @@
 id: 278944492
-type: way
+type: node
 latitude: 47.81848
 longitude: 12.12175
 postcode: "83026"
 city: Rosenheim
-street: "Am Oberfeld"
-housenumber: 1
+street: Am Oberfeld
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.sanitaer-heinze.com/"
+website: https://www.sanitaer-heinze.com/

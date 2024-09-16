@@ -1,11 +1,11 @@
 id: 71027691
-type: way
+type: node
 latitude: 49.60832
 longitude: 11.12241
 postcode: "91077"
 city: Neunkirchen a.Brand
-street: "Zum Neuntagwerk"
-housenumber: 9
+street: Zum Neuntagwerk
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.37017
 longitude: 10.89514
 postcode: "86152"
 city: Augsburg
-street: "Ludwigstraße"
-housenumber: 4
-phone: "+49 821 3196144"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:30"
-website: "https://cutting-friends.de"
+street: Ludwigstraße
+housenumber: "4"
+phone: +49 821 3196144
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:30
+website: https://cutting-friends.de

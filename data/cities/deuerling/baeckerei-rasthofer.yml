@@ -1,11 +1,11 @@
 id: 159076903
-type: way
+type: node
 latitude: 49.0354
 longitude: 11.90777
 postcode: "93180"
 city: Deuerling
-street: "Regensburger Straße"
-housenumber: 18
-phone: "+49 9498 905421"
-opening_hours: "Mo-Fr 06:00-12:00; Sa 06:00-11:00; Su,PH off"
+street: Regensburger Straße
+housenumber: "18"
+phone: +49 9498 905421
+opening_hours: Mo-Fr 06:00-12:00; Sa 06:00-11:00; Su,PH off
 website: ""

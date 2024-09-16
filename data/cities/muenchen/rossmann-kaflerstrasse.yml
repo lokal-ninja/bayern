@@ -4,8 +4,8 @@ latitude: 48.14944
 longitude: 11.45977
 postcode: "81241"
 city: München
-street: "Kaflerstraße"
-housenumber: 2
+street: Kaflerstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-20:00; PH off"
+opening_hours: Mo-Fr 07:00-20:00; Sa 07:00-20:00; PH off
 website: ""

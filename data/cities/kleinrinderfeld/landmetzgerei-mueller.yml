@@ -4,8 +4,9 @@ latitude: 49.69904
 longitude: 9.84352
 postcode: "97271"
 city: Kleinrinderfeld
-street: "Hauptstraße"
-housenumber: 24
+street: Hauptstraße
+housenumber: "24"
 phone: ""
-opening_hours: "Mo 07:30-13:00; Tu-Th 07:30-13:00,14:30-18:00; Fr 07:30-18:00; Sa 06:30-13:00; Su off"
+opening_hours: Mo 07:30-13:00; Tu-Th 07:30-13:00,14:30-18:00; Fr 07:30-18:00; Sa 06:30-13:00;
+    Su off
 website: ""

@@ -1,11 +1,11 @@
 id: 30334068
-type: way
+type: node
 latitude: 49.74699
 longitude: 11.53842
 postcode: "91257"
 city: Pegnitz
-street: "Sauerbruchstraße"
-housenumber: 34
+street: Sauerbruchstraße
+housenumber: "34"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

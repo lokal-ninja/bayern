@@ -1,11 +1,11 @@
 id: 44384151
-type: way
+type: node
 latitude: 48.11277
 longitude: 11.52979
 postcode: "81369"
 city: München
-street: "Johann-Clanze-Straße"
-housenumber: 41
-phone: "+49 89 760 71 80"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00"
-website: "https://www.orterer.de/"
+street: Johann-Clanze-Straße
+housenumber: "41"
+phone: +49 89 760 71 80
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-16:00
+website: https://www.orterer.de/

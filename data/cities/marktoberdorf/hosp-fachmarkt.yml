@@ -1,11 +1,11 @@
 id: 159992960
-type: way
+type: node
 latitude: 47.77092
 longitude: 10.58297
 postcode: "87616"
 city: Marktoberdorf
-street: "Siemensring"
-housenumber: 40
-phone: "+49 8342 96150"
-opening_hours: "Mo-Fr 08:30-12:30, 13:30-18:00; Sa 09:00-12:30; Su,PH off"
-website: "https://hosp-weine.de/"
+street: Siemensring
+housenumber: "40"
+phone: +49 8342 96150
+opening_hours: Mo-Fr 08:30-12:30, 13:30-18:00; Sa 09:00-12:30; Su,PH off
+website: https://hosp-weine.de/

@@ -1,11 +1,11 @@
 id: 236675649
-type: way
+type: node
 latitude: 47.88204
 longitude: 12.63396
 postcode: "83278"
 city: Traunstein
-street: "Wasserburger Straße"
-housenumber: 63
+street: Wasserburger Straße
+housenumber: "63"
 phone: ""
 opening_hours: ""
 website: ""

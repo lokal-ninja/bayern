@@ -4,8 +4,8 @@ latitude: 49.59611
 longitude: 11.01796
 postcode: "91052"
 city: Erlangen
-street: "Gebbertstraße"
-housenumber: 10
+street: Gebbertstraße
+housenumber: "10"
 phone: ""
-opening_hours: "Tu-Fr 09:30-17:30; Sa 08:00-13:00; PH off"
-website: "http://herbst.meinfriesenmacher.de/"
+opening_hours: Tu-Fr 09:30-17:30; Sa 08:00-13:00; PH off
+website: http://herbst.meinfriesenmacher.de/

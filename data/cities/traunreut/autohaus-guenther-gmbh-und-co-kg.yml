@@ -1,11 +1,11 @@
 id: 264792042
-type: way
+type: node
 latitude: 47.96112
 longitude: 12.60797
 postcode: "83301"
 city: Traunreut
-street: "Trostberger Straße"
-housenumber: 4
+street: Trostberger Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

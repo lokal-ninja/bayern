@@ -1,11 +1,11 @@
 id: 118560443
-type: way
+type: node
 latitude: 49.98211
 longitude: 9.11749
 postcode: "63741"
 city: Aschaffenburg
-street: "Linkstraße"
-housenumber: 61
+street: Linkstraße
+housenumber: "61"
 phone: ""
 opening_hours: ""
 website: ""

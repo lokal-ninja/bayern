@@ -1,11 +1,11 @@
 id: 245848682
-type: way
+type: node
 latitude: 49.55612
 longitude: 11.64793
 postcode: "92259"
 city: Neukirchen
 street: ""
-housenumber: 14
+housenumber: "14"
 phone: ""
 opening_hours: ""
-website: "https://www.cds-ehrenreich.de/"
+website: https://www.cds-ehrenreich.de/

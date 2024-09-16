@@ -4,8 +4,8 @@ latitude: 47.64643
 longitude: 12.17223
 postcode: "83080"
 city: Oberaudorf
-street: "Oberfeldweg"
-housenumber: 6
-phone: "+49 8033 1542"
-opening_hours: "Mo-Sa 09:00-12:00, Mo-Th 16:30-18:00; PH off"
-website: "https://www.ofensetzer.com/"
+street: Oberfeldweg
+housenumber: "6"
+phone: +49 8033 1542
+opening_hours: Mo-Sa 09:00-12:00, Mo-Th 16:30-18:00; PH off
+website: https://www.ofensetzer.com/

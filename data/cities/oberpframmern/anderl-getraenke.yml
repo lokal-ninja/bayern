@@ -4,8 +4,8 @@ latitude: 48.0239
 longitude: 11.80861
 postcode: "85667"
 city: Oberpframmern
-street: "Münchener Straße"
-housenumber: 30
-phone: "+49 8093 5224"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"
+street: Münchener Straße
+housenumber: "30"
+phone: +49 8093 5224
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00
 website: ""

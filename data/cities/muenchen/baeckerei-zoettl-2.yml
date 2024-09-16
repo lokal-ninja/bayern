@@ -5,7 +5,7 @@ longitude: 11.56344
 postcode: ""
 city: München
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 06:30-17:00"
-website: "https://zoettl.de/baeckereien/"
+opening_hours: Mo-Sa 06:30-17:00
+website: https://zoettl.de/baeckereien/

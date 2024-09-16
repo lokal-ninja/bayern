@@ -4,8 +4,8 @@ latitude: 49.5953
 longitude: 11.00409
 postcode: "91054"
 city: Erlangen
-street: "Innere Brucker Straße"
-housenumber: 4
-phone: "+49 9131 22014"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:00"
-website: "https://www.frisoer-schalk.de/"
+street: Innere Brucker Straße
+housenumber: "4"
+phone: +49 9131 22014
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-17:00
+website: https://www.frisoer-schalk.de/

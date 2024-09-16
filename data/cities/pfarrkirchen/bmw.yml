@@ -1,11 +1,11 @@
 id: 330795105
-type: way
+type: node
 latitude: 48.41806
 longitude: 12.93876
 postcode: "84347"
 city: Pfarrkirchen
-street: "Franz-Stelzenberger-Straße"
-housenumber: 5
+street: Franz-Stelzenberger-Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 234589446
-type: way
+type: node
 latitude: 49.59509
 longitude: 10.94947
 postcode: "91056"
 city: Erlangen
-street: "Mönaustraße"
-housenumber: 75
+street: Mönaustraße
+housenumber: "75"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
-website: "https://www.lidl.de/"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
+website: https://www.lidl.de/

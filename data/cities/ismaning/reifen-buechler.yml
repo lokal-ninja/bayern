@@ -1,11 +1,11 @@
 id: 38251927
-type: way
+type: node
 latitude: 48.23329
 longitude: 11.6869
 postcode: "85737"
 city: Ismaning
-street: "Max-von-Eyth-Straße"
-housenumber: 13
+street: Max-von-Eyth-Straße
+housenumber: "13"
 phone: ""
 opening_hours: ""
-website: "https://www.reifen-buechler.de/"
+website: https://www.reifen-buechler.de/

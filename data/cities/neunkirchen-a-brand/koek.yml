@@ -1,11 +1,11 @@
 id: 348767965
-type: way
+type: node
 latitude: 49.60415
 longitude: 11.13829
 postcode: "91077"
 city: Neunkirchen a.Brand
-street: "Fritz-Ritter-Straße"
-housenumber: 4
+street: Fritz-Ritter-Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

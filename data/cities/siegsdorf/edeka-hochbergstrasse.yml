@@ -1,11 +1,11 @@
 id: 106494154
-type: way
+type: node
 latitude: 47.82802
 longitude: 12.65058
 postcode: "83313"
 city: Siegsdorf
-street: "Hochbergstraße"
-housenumber: 24
+street: Hochbergstraße
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Sa 7:30-20:00"
+opening_hours: Mo-Sa 7:30-20:00
 website: ""

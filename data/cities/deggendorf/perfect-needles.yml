@@ -4,8 +4,8 @@ latitude: 48.83284
 longitude: 12.96296
 postcode: "94469"
 city: Deggendorf
-street: "Bräugasse"
-housenumber: 3
+street: Bräugasse
+housenumber: "3"
 phone: ""
-opening_hours: "Tu-Fr 10:00-17:00; Sa 10:00-14:00"
+opening_hours: Tu-Fr 10:00-17:00; Sa 10:00-14:00
 website: ""

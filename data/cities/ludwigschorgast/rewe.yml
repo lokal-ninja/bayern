@@ -1,11 +1,11 @@
 id: 391517209
-type: way
+type: node
 latitude: 50.12699
 longitude: 11.55303
 postcode: "95364"
 city: Ludwigschorgast
-street: "An der Arnitz"
-housenumber: 22
+street: An der Arnitz
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

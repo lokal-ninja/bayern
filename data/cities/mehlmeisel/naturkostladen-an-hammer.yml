@@ -1,11 +1,11 @@
 id: 335017287
-type: way
+type: node
 latitude: 49.97665
 longitude: 11.86739
 postcode: "95694"
 city: Mehlmeisel
-street: "Mitterlinder Straße"
-housenumber: 4
+street: Mitterlinder Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

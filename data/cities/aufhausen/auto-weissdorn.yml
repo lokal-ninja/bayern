@@ -1,11 +1,11 @@
 id: 135456694
-type: way
+type: node
 latitude: 48.87214
 longitude: 12.27417
 postcode: "93089"
 city: Aufhausen
-street: "Seidenbuschstraße"
-housenumber: 78
-phone: "+49 9454 94905 00"
-opening_hours: "Mo-Fr 07:30-12:00,13:00-18:00; Sa 08:00-12:00"
-website: "https://www.autoweissdorn.de/"
+street: Seidenbuschstraße
+housenumber: "78"
+phone: +49 9454 94905 00
+opening_hours: Mo-Fr 07:30-12:00,13:00-18:00; Sa 08:00-12:00
+website: https://www.autoweissdorn.de/

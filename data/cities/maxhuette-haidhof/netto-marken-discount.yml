@@ -1,11 +1,11 @@
 id: 30180188
-type: way
+type: node
 latitude: 49.19252
 longitude: 12.10058
 postcode: "93142"
 city: Maxhütte-Haidhof
-street: "Nordgaustraße"
-housenumber: 4
+street: Nordgaustraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

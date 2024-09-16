@@ -4,8 +4,8 @@ latitude: 49.80255
 longitude: 9.95109
 postcode: "97080"
 city: Würzburg
-street: "Robert-Koch-Straße"
-housenumber: 9
+street: Robert-Koch-Straße
+housenumber: "9"
 phone: ""
-opening_hours: "nach Vereinbarung"
+opening_hours: '"nach Vereinbarung"'
 website: ""

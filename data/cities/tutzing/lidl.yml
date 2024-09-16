@@ -1,11 +1,11 @@
 id: 276276913
-type: way
+type: node
 latitude: 47.9168
 longitude: 11.28513
 postcode: "82327"
 city: Tutzing
-street: "Hauptstraße"
-housenumber: 109
+street: Hauptstraße
+housenumber: "109"
 phone: ""
 opening_hours: ""
-website: "https://www.lidl.de/"
+website: https://www.lidl.de/

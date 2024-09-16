@@ -4,8 +4,8 @@ latitude: 49.01759
 longitude: 12.10395
 postcode: "93047"
 city: Regensburg
-street: "Fahrbeckgasse"
-housenumber: 9
-phone: "+49 941 52307"
+street: Fahrbeckgasse
+housenumber: "9"
+phone: +49 941 52307
 opening_hours: ""
-website: "https://www.lohberger-sitech.de/"
+website: https://www.lohberger-sitech.de/

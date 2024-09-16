@@ -4,8 +4,8 @@ latitude: 48.25425
 longitude: 10.35382
 postcode: ""
 city: Krumbach (Schwaben)
-street: "Höllgehau"
-housenumber: 2
-phone: "+49 8282 8815410"
-opening_hours: "Mo-Sa 08:00-18:00"
-website: "https://toom.de/m/krumbach/"
+street: Höllgehau
+housenumber: "2"
+phone: +49 8282 8815410
+opening_hours: Mo-Sa 08:00-18:00
+website: https://toom.de/m/krumbach/

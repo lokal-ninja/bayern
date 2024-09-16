@@ -4,8 +4,8 @@ latitude: 48.04989
 longitude: 10.87832
 postcode: "86899"
 city: Landsberg am Lech
-street: "Spitalplatz"
-housenumber: 392
-phone: "+49 8191 308 884"
-opening_hours: "Th,Fr 09:00-17:00; Sa 10:00-13:00"
-website: "http://ruth-hecking.de/"
+street: Spitalplatz
+housenumber: "392"
+phone: +49 8191 308 884
+opening_hours: Th,Fr 09:00-17:00; Sa 10:00-13:00
+website: http://ruth-hecking.de/

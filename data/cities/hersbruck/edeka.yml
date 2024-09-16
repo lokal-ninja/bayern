@@ -1,11 +1,11 @@
 id: 32142108
-type: way
+type: node
 latitude: 49.50367
 longitude: 11.44045
 postcode: "91217"
 city: Hersbruck
-street: "Happurger Straße"
-housenumber: 31
+street: Happurger Straße
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

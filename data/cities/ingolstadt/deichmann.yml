@@ -4,8 +4,8 @@ latitude: 48.74785
 longitude: 11.46958
 postcode: "85053"
 city: Ingolstadt
-street: "Eriagstraße"
-housenumber: 6
-phone: "+49 841 8863764"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://stores.deichmann.com/bayern/ingolstadt/eriagstrasse-6.html"
+street: Eriagstraße
+housenumber: "6"
+phone: +49 841 8863764
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://stores.deichmann.com/bayern/ingolstadt/eriagstrasse-6.html

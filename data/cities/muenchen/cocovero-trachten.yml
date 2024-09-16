@@ -4,8 +4,8 @@ latitude: 48.13897
 longitude: 11.57504
 postcode: "80333"
 city: München
-street: "Schäfflerstraße"
-housenumber: 3
+street: Schäfflerstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Tu-Fr 10:30-19:00; Sa 10:00-18:00"
-website: "https://cocovero.com/"
+opening_hours: Tu-Fr 10:30-19:00; Sa 10:00-18:00
+website: https://cocovero.com/

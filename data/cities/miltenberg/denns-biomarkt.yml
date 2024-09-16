@@ -1,11 +1,11 @@
 id: 222514915
-type: way
+type: node
 latitude: 49.70484
 longitude: 9.24974
 postcode: "63897"
 city: Miltenberg
-street: "Brückenstraße"
-housenumber: 31
-phone: "+49 9371 6500653"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.biomarkt.de/6210_BioMarkt_Hense.html"
+street: Brückenstraße
+housenumber: "31"
+phone: +49 9371 6500653
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.biomarkt.de/6210_BioMarkt_Hense.html

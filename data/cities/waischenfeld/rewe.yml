@@ -1,11 +1,11 @@
 id: 275820062
-type: way
+type: node
 latitude: 49.84796
 longitude: 11.34412
 postcode: "91344"
 city: Waischenfeld
-street: "Hauptstraße"
-housenumber: 42
+street: Hauptstraße
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
+opening_hours: Mo-Sa 07:00-20:00; PH off
 website: ""

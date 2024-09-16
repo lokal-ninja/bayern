@@ -1,11 +1,11 @@
 id: 303197016
-type: way
+type: node
 latitude: 48.14506
 longitude: 11.60543
 postcode: "81679"
 city: München
-street: "Sternwartstraße"
-housenumber: 20
+street: Sternwartstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Tu-Fr 08:30-13:00,14:00-18:00; Sa 08:30-13:00; PH off"
+opening_hours: Tu-Fr 08:30-13:00,14:00-18:00; Sa 08:30-13:00; PH off
 website: ""

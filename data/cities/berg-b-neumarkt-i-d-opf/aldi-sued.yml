@@ -1,11 +1,11 @@
 id: 31008142
-type: way
+type: node
 latitude: 49.31192
 longitude: 11.47205
 postcode: "92348"
 city: Berg b.Neumarkt i.d.OPf.
-street: "Karl-Schiller-Straße"
-housenumber: 2
+street: Karl-Schiller-Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://filialen.aldi-sued.de/bayern/berg/karl-schiller-strasse-2"
+website: https://filialen.aldi-sued.de/bayern/berg/karl-schiller-strasse-2

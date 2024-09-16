@@ -1,11 +1,11 @@
 id: 50319921
-type: way
+type: node
 latitude: 48.10787
 longitude: 11.30181
 postcode: "82205"
 city: Gilching
-street: "Römerstraße"
-housenumber: 13
-phone: "+49 8105 4400"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-14:00"
-website: "https://www.intersport-haindl.de/"
+street: Römerstraße
+housenumber: "13"
+phone: +49 8105 4400
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-14:00
+website: https://www.intersport-haindl.de/

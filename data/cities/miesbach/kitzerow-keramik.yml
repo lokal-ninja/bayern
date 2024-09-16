@@ -1,11 +1,11 @@
 id: 49481416
-type: way
+type: node
 latitude: 47.79057
 longitude: 11.84287
 postcode: "83714"
 city: Miesbach
-street: "Bodenschneidstraße"
-housenumber: 7
-phone: "+49 8025 3044"
+street: Bodenschneidstraße
+housenumber: "7"
+phone: +49 8025 3044
 opening_hours: ""
-website: "https://www.kitzerow-keramik.de/"
+website: https://www.kitzerow-keramik.de/

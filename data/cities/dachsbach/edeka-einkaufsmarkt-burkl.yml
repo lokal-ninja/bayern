@@ -1,11 +1,11 @@
 id: 286440342
-type: way
+type: node
 latitude: 49.63606
 longitude: 10.70334
 postcode: "91462"
 city: Dachsbach
-street: "Neustädter Straße"
-housenumber: 19
+street: Neustädter Straße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

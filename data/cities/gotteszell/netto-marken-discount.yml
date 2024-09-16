@@ -1,11 +1,11 @@
 id: 1038143281
-type: way
+type: node
 latitude: 48.95833
 longitude: 12.97486
 postcode: "94239"
 city: Gotteszell
-street: "Schulstraße"
-housenumber: 32
+street: Schulstraße
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

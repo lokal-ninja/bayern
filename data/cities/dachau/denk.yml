@@ -4,8 +4,8 @@ latitude: 48.25589
 longitude: 11.43757
 postcode: "85221"
 city: Dachau
-street: "Münchner Straße"
-housenumber: 11
-phone: "+49 8131 72632"
-opening_hours: "Mo-Fr 05:00-18:00; Sa 05:00-12:00; Su 07:30-11:30"
-website: "https://baeckerei-denk.de"
+street: Münchner Straße
+housenumber: "11"
+phone: +49 8131 72632
+opening_hours: Mo-Fr 05:00-18:00; Sa 05:00-12:00; Su 07:30-11:30
+website: https://baeckerei-denk.de

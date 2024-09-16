@@ -1,11 +1,11 @@
 id: 107819279
-type: way
+type: node
 latitude: 47.90701
 longitude: 12.53884
 postcode: "83339"
 city: Chieming
-street: "Goriweg"
-housenumber: 2
+street: Goriweg
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

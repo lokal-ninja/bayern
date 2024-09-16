@@ -1,11 +1,11 @@
 id: 306674936
-type: way
+type: node
 latitude: 50.33702
 longitude: 10.22612
 postcode: "97616"
 city: Bad Neustadt an der Saale
-street: "Rudolf-Diesel-Ring"
-housenumber: 36
+street: Rudolf-Diesel-Ring
+housenumber: "36"
 phone: ""
 opening_hours: ""
 website: ""

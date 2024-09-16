@@ -1,11 +1,11 @@
 id: 221266707
-type: way
+type: node
 latitude: 48.54021
 longitude: 12.1441
 postcode: "84034"
 city: Landshut
-street: "Papiererstraße"
-housenumber: 34
+street: Papiererstraße
+housenumber: "34"
 phone: ""
 opening_hours: ""
 website: ""

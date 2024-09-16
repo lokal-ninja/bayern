@@ -1,11 +1,11 @@
 id: 38372450
-type: way
+type: node
 latitude: 49.51908
 longitude: 11.33286
 postcode: "91242"
 city: Ottensoos
-street: "Bräunleinsberg"
-housenumber: 16
-phone: "+49 9123 941054"
+street: Bräunleinsberg
+housenumber: "16"
+phone: +49 9123 941054
 opening_hours: ""
-website: "https://www.scoretex.com/"
+website: https://www.scoretex.com/

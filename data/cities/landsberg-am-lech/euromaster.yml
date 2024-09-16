@@ -1,11 +1,11 @@
 id: 107557432
-type: way
+type: node
 latitude: 48.05084
 longitude: 10.85729
 postcode: "86899"
 city: Landsberg am Lech
-street: "Holzhauser Straße"
-housenumber: 12
+street: Holzhauser Straße
+housenumber: "12"
 phone: ""
 opening_hours: ""
-website: "https://filiale.euromaster.de/23170-euromaster-landsberg-lech"
+website: https://filiale.euromaster.de/23170-euromaster-landsberg-lech

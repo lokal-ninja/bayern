@@ -4,8 +4,8 @@ latitude: 49.44608
 longitude: 11.85829
 postcode: "92224"
 city: Amberg
-street: "Herrnstraße"
-housenumber: 5
-phone: "+49 9621 12964"
-opening_hours: "Mo-Fr 09:00-13:00,14:15-18:00; Sa 09:00-15:00"
-website: "https://www.selig-baby.de/"
+street: Herrnstraße
+housenumber: "5"
+phone: +49 9621 12964
+opening_hours: Mo-Fr 09:00-13:00,14:15-18:00; Sa 09:00-15:00
+website: https://www.selig-baby.de/

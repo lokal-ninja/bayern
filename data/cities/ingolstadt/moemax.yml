@@ -1,11 +1,11 @@
 id: 30084857
-type: way
+type: node
 latitude: 48.74968
 longitude: 11.47376
 postcode: "85053"
 city: Ingolstadt
-street: "Eriagstraße"
-housenumber: 27
-phone: "+49 30 255498910"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.moemax.de/filiale/moemax-ingolstadt/IG"
+street: Eriagstraße
+housenumber: "27"
+phone: +49 30 255498910
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.moemax.de/filiale/moemax-ingolstadt/IG

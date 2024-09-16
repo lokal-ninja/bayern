@@ -1,11 +1,11 @@
 id: 762656487
-type: way
+type: node
 latitude: 49.22517
 longitude: 11.45599
 postcode: "92369"
 city: Sengenthal
-street: "Schlierfer Holz"
-housenumber: 2
+street: Schlierfer Holz
+housenumber: "2"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

@@ -1,11 +1,11 @@
 id: 749818258
-type: way
+type: node
 latitude: 47.54354
 longitude: 9.68521
 postcode: "88131"
 city: Lindau (Bodensee)
-street: "Römerschanze"
-housenumber: 1
+street: Römerschanze
+housenumber: "1"
 phone: ""
-opening_hours: "summer"
+opening_hours: summer
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.16669
 longitude: 11.57939
 postcode: "80803"
 city: München
-street: "Karl-Theodor-Straße"
-housenumber: 56
-phone: "+49 89 33 37 01"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.orterer.de/"
+street: Karl-Theodor-Straße
+housenumber: "56"
+phone: +49 89 33 37 01
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.orterer.de/

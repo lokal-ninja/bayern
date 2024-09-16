@@ -4,8 +4,8 @@ latitude: 48.06073
 longitude: 12.23243
 postcode: "83512"
 city: Wasserburg am Inn
-street: "Marienplatz"
-housenumber: 8
-phone: "+49 8071 9213695"
-opening_hours: "Mo-Fr 07:00-17:00; Sa 07:00-13:00"
-website: "http://www.baeckerei-bergmeister.de/wasserburg.html"
+street: Marienplatz
+housenumber: "8"
+phone: +49 8071 9213695
+opening_hours: Mo-Fr 07:00-17:00; Sa 07:00-13:00
+website: http://www.baeckerei-bergmeister.de/wasserburg.html

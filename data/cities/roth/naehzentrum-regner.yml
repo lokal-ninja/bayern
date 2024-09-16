@@ -4,8 +4,8 @@ latitude: 49.24805
 longitude: 11.09009
 postcode: "91154"
 city: Roth
-street: "Bahnhofstraße"
-housenumber: 3
-phone: "+49 9171 851 2227"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://naehzentrum-regner.de/"
+street: Bahnhofstraße
+housenumber: "3"
+phone: +49 9171 851 2227
+opening_hours: Mo-Fr 09:00-18:00
+website: https://naehzentrum-regner.de/

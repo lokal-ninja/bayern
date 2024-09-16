@@ -4,8 +4,8 @@ latitude: 50.25985
 longitude: 10.9652
 postcode: "96450"
 city: Coburg
-street: "Spitalgasse"
-housenumber: 26
+street: Spitalgasse
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-15:00; Su,PH off"
-website: "https://www.juwelier-stahl.de/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-15:00; Su,PH off
+website: https://www.juwelier-stahl.de/

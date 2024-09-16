@@ -4,8 +4,8 @@ latitude: 50.0431
 longitude: 9.03299
 postcode: "63791"
 city: Karlstein am Main
-street: "Schulstraße"
-housenumber: 27
+street: Schulstraße
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,15:00-18:30; We,Sa 09:00-13:00; Su,PH off"
+opening_hours: Mo-Fr 09:00-13:00,15:00-18:30; We,Sa 09:00-13:00; Su,PH off
 website: ""

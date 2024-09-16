@@ -4,8 +4,8 @@ latitude: 48.17265
 longitude: 11.5654
 postcode: "80809"
 city: München
-street: "Schleißheimer Straße"
-housenumber: 260
+street: Schleißheimer Straße
+housenumber: "260"
 phone: ""
-opening_hours: "Mo-Sa 07:30-20:00"
-website: "https://www.penny.de/"
+opening_hours: Mo-Sa 07:30-20:00
+website: https://www.penny.de/

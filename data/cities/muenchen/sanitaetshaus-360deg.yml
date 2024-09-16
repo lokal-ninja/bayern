@@ -4,8 +4,8 @@ latitude: 48.14937
 longitude: 11.43467
 postcode: "81243"
 city: München
-street: "Radolfzeller Straße"
-housenumber: 13
+street: Radolfzeller Straße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Th 08:00-13:00,14:00-18:00; Fr 08:00-14:00; We off"
-website: "https://www.med360grad.de/leistungsangebot/sanitaetshaus/"
+opening_hours: Mo-Th 08:00-13:00,14:00-18:00; Fr 08:00-14:00; We off
+website: https://www.med360grad.de/leistungsangebot/sanitaetshaus/

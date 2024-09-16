@@ -1,11 +1,11 @@
 id: 534274997
-type: way
+type: node
 latitude: 49.4676
 longitude: 10.77424
 postcode: "90579"
 city: Keidenzell
-street: "Hubertusstraße"
-housenumber: 4
-phone: "+49 9101 9020980"
-opening_hours: "Mo-Fr 08:00-12:00,12:45-17:30; Sa 09:00-12:30"
-website: "https://www.goos-sportiv.de"
+street: Hubertusstraße
+housenumber: "4"
+phone: +49 9101 9020980
+opening_hours: Mo-Fr 08:00-12:00,12:45-17:30; Sa 09:00-12:30
+website: https://www.goos-sportiv.de

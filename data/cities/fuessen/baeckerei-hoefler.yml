@@ -4,8 +4,8 @@ latitude: 47.56893
 longitude: 10.70045
 postcode: "87629"
 city: Füssen
-street: "Schrannengasse"
-housenumber: 3
-phone: "+49 8362 6124"
-opening_hours: "Mo-Fr 07:00-18:30; Sa 07:00-17:00"
+street: Schrannengasse
+housenumber: "3"
+phone: +49 8362 6124
+opening_hours: Mo-Fr 07:00-18:30; Sa 07:00-17:00
 website: ""

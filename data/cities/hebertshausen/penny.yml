@@ -1,11 +1,11 @@
 id: 955317668
-type: way
+type: node
 latitude: 48.30041
 longitude: 11.48553
 postcode: "85241"
 city: Hebertshausen
-street: "Dachauer Straße"
-housenumber: 43
+street: Dachauer Straße
+housenumber: "43"
 phone: ""
-opening_hours: "Mo-Sa 7:00-20:00"
+opening_hours: Mo-Sa 7:00-20:00
 website: ""

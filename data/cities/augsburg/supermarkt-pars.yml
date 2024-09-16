@@ -4,8 +4,8 @@ latitude: 48.37285
 longitude: 10.89095
 postcode: "86152"
 city: Augsburg
-street: "Auf dem Kreuz"
-housenumber: 51
-phone: "+49 821 50871820"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su,PH off"
-website: "https://superpars.de/"
+street: Auf dem Kreuz
+housenumber: "51"
+phone: +49 821 50871820
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su,PH off
+website: https://superpars.de/

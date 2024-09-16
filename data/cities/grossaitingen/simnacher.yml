@@ -1,11 +1,11 @@
 id: 271954492
-type: way
+type: node
 latitude: 48.22694
 longitude: 10.77946
 postcode: "86845"
 city: Großaitingen
-street: "Cyrill-Kistler-Weg"
-housenumber: 5
-phone: "+49 8203 6660"
+street: Cyrill-Kistler-Weg
+housenumber: "5"
+phone: +49 8203 6660
 opening_hours: ""
 website: ""

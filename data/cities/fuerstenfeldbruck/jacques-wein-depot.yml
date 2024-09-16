@@ -4,8 +4,8 @@ latitude: 48.17956
 longitude: 11.25589
 postcode: "82256"
 city: Fürstenfeldbruck
-street: "Dachauer Straße"
-housenumber: 6
-phone: "+49 8141 530 195"
-opening_hours: "Mo-Tu 15:00-19:00;We-Fr 11:00-18:00;Sa 10:00-17:00"
-website: "https://www.jacques.de/depot/235/fuerstenfeldbruck"
+street: Dachauer Straße
+housenumber: "6"
+phone: +49 8141 530 195
+opening_hours: Mo-Tu 15:00-19:00;We-Fr 11:00-18:00;Sa 10:00-17:00
+website: https://www.jacques.de/depot/235/fuerstenfeldbruck

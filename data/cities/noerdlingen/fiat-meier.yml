@@ -1,11 +1,11 @@
 id: 121671780
-type: way
+type: node
 latitude: 48.85756
 longitude: 10.50969
 postcode: "86720"
 city: Nördlingen
-street: "Gewerbestraße"
-housenumber: 8
+street: Gewerbestraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

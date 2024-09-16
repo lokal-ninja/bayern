@@ -1,11 +1,11 @@
 id: 305041974
-type: way
+type: node
 latitude: 49.34552
 longitude: 11.11095
 postcode: "90530"
 city: Wendelstein
-street: "Rangaustraße"
+street: Rangaustraße
 housenumber: 2b
-phone: "+49 9129 1473956"
-opening_hours: "Tu-Th 09:00-18:00; Fr 09:00-18:00; Sa 09:00-14:00"
-website: "https://friseur-makas.de/"
+phone: +49 9129 1473956
+opening_hours: Tu-Th 09:00-18:00; Fr 09:00-18:00; Sa 09:00-14:00
+website: https://friseur-makas.de/

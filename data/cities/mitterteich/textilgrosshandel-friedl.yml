@@ -1,11 +1,11 @@
 id: 668482598
-type: way
+type: node
 latitude: 49.95131
 longitude: 12.23819
 postcode: "95666"
 city: Mitterteich
-street: "Bräugasse"
-housenumber: 3
+street: Bräugasse
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

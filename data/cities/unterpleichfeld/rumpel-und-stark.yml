@@ -1,11 +1,11 @@
 id: 215098961
-type: way
+type: node
 latitude: 49.87137
 longitude: 10.04743
 postcode: "97294"
 city: Unterpleichfeld
-street: "Ölbergstraße"
-housenumber: 4
+street: Ölbergstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

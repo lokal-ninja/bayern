@@ -1,11 +1,11 @@
 id: 485851408
-type: way
+type: node
 latitude: 48.81009
 longitude: 13.55119
 postcode: "94078"
 city: Freyung
-street: "Böhmerwaldstraße"
-housenumber: 26
+street: Böhmerwaldstraße
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

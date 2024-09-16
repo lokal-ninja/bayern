@@ -1,11 +1,11 @@
 id: 214235933
-type: way
+type: node
 latitude: 49.73379
 longitude: 10.19331
 postcode: "97318"
 city: Kitzingen
-street: "Otto-Hahn-Straße"
-housenumber: 2
+street: Otto-Hahn-Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

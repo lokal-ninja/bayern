@@ -1,11 +1,11 @@
 id: 1017389100
-type: way
+type: node
 latitude: 48.60004
 longitude: 11.87225
 postcode: "84106"
 city: Volkenschwand
-street: "Mainburger Straße"
-housenumber: 3
+street: Mainburger Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

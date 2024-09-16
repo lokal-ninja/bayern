@@ -4,8 +4,8 @@ latitude: 50.06248
 longitude: 9.67769
 postcode: "97737"
 city: Gemünden am Main
-street: "Würzburger Straße"
-housenumber: 73
+street: Würzburger Straße
+housenumber: "73"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:30; Sa 10:00-16:00"
-website: "https://www.expert.de/gemuenden"
+opening_hours: Mo-Fr 09:30-18:30; Sa 10:00-16:00
+website: https://www.expert.de/gemuenden

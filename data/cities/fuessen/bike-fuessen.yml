@@ -4,8 +4,8 @@ latitude: 47.57915
 longitude: 10.70538
 postcode: "87629"
 city: Füssen
-street: "Augsburger Straße"
-housenumber: 39
-phone: "+49 174 1825489"
-opening_hours: "09:00-18:00"
-website: "https://bikefuessen.de/"
+street: Augsburger Straße
+housenumber: "39"
+phone: +49 174 1825489
+opening_hours: 09:00-18:00
+website: https://bikefuessen.de/

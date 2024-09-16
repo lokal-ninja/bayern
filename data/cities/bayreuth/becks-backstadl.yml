@@ -4,8 +4,8 @@ latitude: 49.95424
 longitude: 11.59729
 postcode: "95448"
 city: Bayreuth
-street: "Bernecker Straße"
-housenumber: 34
-phone: "+49 921 24378"
+street: Bernecker Straße
+housenumber: "34"
+phone: +49 921 24378
 opening_hours: ""
-website: "https://www.becks-backstadl.com/"
+website: https://www.becks-backstadl.com/

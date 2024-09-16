@@ -1,11 +1,11 @@
 id: 154236336
-type: way
+type: node
 latitude: 48.41765
 longitude: 11.09745
 postcode: "86551"
 city: Aichach
-street: "Sankt-Stefan-Straße"
-housenumber: 51
+street: Sankt-Stefan-Straße
+housenumber: "51"
 phone: ""
 opening_hours: ""
 website: ""

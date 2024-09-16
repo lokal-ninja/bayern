@@ -4,8 +4,8 @@ latitude: 48.14155
 longitude: 11.58528
 postcode: "80538"
 city: München
-street: "Christophstraße"
-housenumber: 9
-phone: "+49 89 221813"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.edeka.de/eh/s%C3%BCdbayern/e-xpress-christophstra%C3%9Fe-9/index.jsp"
+street: Christophstraße
+housenumber: "9"
+phone: +49 89 221813
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.edeka.de/eh/s%C3%BCdbayern/e-xpress-christophstra%C3%9Fe-9/index.jsp

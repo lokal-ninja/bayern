@@ -1,11 +1,11 @@
 id: 227843435
-type: way
+type: node
 latitude: 48.11951
 longitude: 11.68155
 postcode: "81827"
 city: München
-street: "Wasserburger Landstraße"
-housenumber: 81
-phone: "+49 89 51020"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 09:00-14:00"
-website: "https://automag.de/filiale-trudering/"
+street: Wasserburger Landstraße
+housenumber: "81"
+phone: +49 89 51020
+opening_hours: Mo-Fr 07:00-19:00; Sa 09:00-14:00
+website: https://automag.de/filiale-trudering/

@@ -4,8 +4,8 @@ latitude: 48.06211
 longitude: 12.23267
 postcode: "83512"
 city: Wasserburg am Inn
-street: "Salzsenderzeile"
-housenumber: 22
-phone: "+49 8071 925293"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-13:00"
-website: "https://www.heisler-parfuemerie.de/"
+street: Salzsenderzeile
+housenumber: "22"
+phone: +49 8071 925293
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-13:00
+website: https://www.heisler-parfuemerie.de/

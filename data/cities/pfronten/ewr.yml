@@ -4,8 +4,8 @@ latitude: 47.58417
 longitude: 10.55858
 postcode: "87459"
 city: Pfronten
-street: "Krankenhausstraße"
-housenumber: 3
+street: Krankenhausstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Th 07:30-12:00,13:00-17:00; Fr 07:30-12:00"
-website: "https://www.ewr-technik.com/"
+opening_hours: Mo-Th 07:30-12:00,13:00-17:00; Fr 07:30-12:00
+website: https://www.ewr-technik.com/

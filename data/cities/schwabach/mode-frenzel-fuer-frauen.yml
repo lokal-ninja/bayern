@@ -4,8 +4,8 @@ latitude: 49.32909
 longitude: 11.02364
 postcode: "91126"
 city: Schwabach
-street: "Ludwigstraße"
-housenumber: 5
-phone: "+49 9122 603350"
-opening_hours: "Mo-Fr 09:30-19:00, Sa 09:30-16:00"
-website: "https://mode-frenzel.de"
+street: Ludwigstraße
+housenumber: "5"
+phone: +49 9122 603350
+opening_hours: Mo-Fr 09:30-19:00, Sa 09:30-16:00
+website: https://mode-frenzel.de

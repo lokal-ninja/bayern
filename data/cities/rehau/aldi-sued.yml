@@ -1,11 +1,11 @@
 id: 75804960
-type: way
+type: node
 latitude: 50.23888
 longitude: 12.02941
 postcode: "95111"
 city: Rehau
-street: "Pilgramsreuther Straße"
-housenumber: 74
+street: Pilgramsreuther Straße
+housenumber: "74"
 phone: ""
 opening_hours: ""
-website: "https://filialen.aldi-sued.de/bayern/rehau/pilgramsreuther-strasse-74"
+website: https://filialen.aldi-sued.de/bayern/rehau/pilgramsreuther-strasse-74

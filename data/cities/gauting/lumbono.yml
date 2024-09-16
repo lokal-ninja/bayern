@@ -4,8 +4,8 @@ latitude: 48.09219
 longitude: 11.40229
 postcode: "82131"
 city: Gauting
-street: "Bahnstraße"
-housenumber: 35
+street: Bahnstraße
+housenumber: "35"
 phone: ""
-opening_hours: "We,Sa-Mo 09:00-18:00; Th,Fr 09:00-22:00"
-website: "https://lumbono.com/"
+opening_hours: We,Sa-Mo 09:00-18:00; Th,Fr 09:00-22:00
+website: https://lumbono.com/

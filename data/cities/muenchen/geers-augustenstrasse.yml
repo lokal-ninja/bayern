@@ -4,8 +4,8 @@ latitude: 48.15448
 longitude: 11.56658
 postcode: "80798"
 city: München
-street: "Augustenstraße"
-housenumber: 114
+street: Augustenstraße
+housenumber: "114"
 phone: ""
-opening_hours: "Mo-Th 09:00-13:00; Fr off"
-website: "https://www.geers.de/"
+opening_hours: Mo-Th 09:00-13:00; Fr off
+website: https://www.geers.de/

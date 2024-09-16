@@ -4,8 +4,8 @@ latitude: 49.59835
 longitude: 11.01524
 postcode: "91054"
 city: Erlangen
-street: "Universitätsstraße"
-housenumber: 31
-phone: "+49 9131 807310"
-opening_hours: "Mo-Fr 09:00-13:00,15:30-18:00"
-website: "https://www.druckladen.de/"
+street: Universitätsstraße
+housenumber: "31"
+phone: +49 9131 807310
+opening_hours: Mo-Fr 09:00-13:00,15:30-18:00
+website: https://www.druckladen.de/

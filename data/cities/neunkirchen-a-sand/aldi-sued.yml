@@ -1,11 +1,11 @@
 id: 38369590
-type: way
+type: node
 latitude: 49.521
 longitude: 11.33652
 postcode: "91233"
 city: Neunkirchen a.Sand
-street: "Seeäckerstraße"
-housenumber: 2
+street: Seeäckerstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://filialen.aldi-sued.de/bayern/neunkirchen-am-sand/seeaeckerstrasse-2"
+website: https://filialen.aldi-sued.de/bayern/neunkirchen-am-sand/seeaeckerstrasse-2

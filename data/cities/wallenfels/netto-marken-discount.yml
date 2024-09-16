@@ -1,11 +1,11 @@
 id: 276027797
-type: way
+type: node
 latitude: 50.27588
 longitude: 11.45549
 postcode: "96346"
 city: Wallenfels
-street: "Bahnhofstraße"
-housenumber: 16
+street: Bahnhofstraße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
+opening_hours: Mo-Sa 07:00-20:00; PH off
 website: ""

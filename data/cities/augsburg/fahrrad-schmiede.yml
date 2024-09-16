@@ -4,8 +4,8 @@ latitude: 48.37408
 longitude: 10.89623
 postcode: "86152"
 city: Augsburg
-street: "Frauentorstraße"
-housenumber: 11
-phone: "+49 821 4509622"
-opening_hours: "Mo-Fr 13:00-18:00; PH off"
-website: "https://www.fahrrad-schmiede-augsburg.de"
+street: Frauentorstraße
+housenumber: "11"
+phone: +49 821 4509622
+opening_hours: Mo-Fr 13:00-18:00; PH off
+website: https://www.fahrrad-schmiede-augsburg.de

@@ -4,8 +4,8 @@ latitude: 50.01453
 longitude: 10.58373
 postcode: "97475"
 city: Zeil am Main
-street: "Wildgarten"
-housenumber: 4
+street: Wildgarten
+housenumber: "4"
 phone: "09524303981"
-opening_hours: "Tu-Sa"
-website: "http://www.ofengalerie.info/"
+opening_hours: Tu-Sa
+website: http://www.ofengalerie.info/

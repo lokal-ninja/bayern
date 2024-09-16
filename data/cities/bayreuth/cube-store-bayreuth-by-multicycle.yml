@@ -4,8 +4,8 @@ latitude: 49.96894
 longitude: 11.60691
 postcode: "95448"
 city: Bayreuth
-street: "Bindlacher Straße"
-housenumber: 4
-phone: "+49 921 83710"
-opening_hours: "Mo-Fr 10:00-18:30; Sa 09:00-15:00; Su,PH off"
-website: "https://www.multicycle.de/cube-store-bayreuth"
+street: Bindlacher Straße
+housenumber: "4"
+phone: +49 921 83710
+opening_hours: Mo-Fr 10:00-18:30; Sa 09:00-15:00; Su,PH off
+website: https://www.multicycle.de/cube-store-bayreuth

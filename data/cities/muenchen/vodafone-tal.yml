@@ -4,8 +4,8 @@ latitude: 48.13594
 longitude: 11.58011
 postcode: "80331"
 city: München
-street: "Tal"
-housenumber: 21
+street: Tal
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
+opening_hours: Mo-Sa 10:00-20:00
 website: ""

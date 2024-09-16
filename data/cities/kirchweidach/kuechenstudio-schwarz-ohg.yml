@@ -1,11 +1,11 @@
 id: 317251262
-type: way
+type: node
 latitude: 48.08649
 longitude: 12.64349
 postcode: "84558"
 city: Kirchweidach
-street: "Hauptstraße"
-housenumber: 25
+street: Hauptstraße
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

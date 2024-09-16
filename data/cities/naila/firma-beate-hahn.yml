@@ -1,11 +1,11 @@
 id: 387929861
-type: way
+type: node
 latitude: 50.29798
 longitude: 11.69296
 postcode: "95119"
 city: Naila
-street: "Feldstraße"
-housenumber: 2
+street: Feldstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

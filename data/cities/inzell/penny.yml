@@ -1,11 +1,11 @@
 id: 100393362
-type: way
+type: node
 latitude: 47.76161
 longitude: 12.75638
 postcode: "83334"
 city: Inzell
-street: "Adlgasser Straße"
-housenumber: 46
+street: Adlgasser Straße
+housenumber: "46"
 phone: ""
-opening_hours: "Mo-Sa 07:30-20:00"
+opening_hours: Mo-Sa 07:30-20:00
 website: ""

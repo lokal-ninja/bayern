@@ -4,8 +4,8 @@ latitude: 49.4501
 longitude: 11.06157
 postcode: "90429"
 city: Nürnberg
-street: "Bleichstraße"
-housenumber: 26
+street: Bleichstraße
+housenumber: "26"
 phone: "+499112777571"
-opening_hours: "by appointment"
-website: "https://web.archive.org/web/20180314080808/http://lang-haar.de/"
+opening_hours: '"by appointment"'
+website: https://web.archive.org/web/20180314080808/http://lang-haar.de/

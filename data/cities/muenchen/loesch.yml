@@ -4,8 +4,8 @@ latitude: 48.10648
 longitude: 11.59736
 postcode: "81549"
 city: München
-street: "Schwanseestraße"
-housenumber: 53
+street: Schwanseestraße
+housenumber: "53"
 phone: ""
-opening_hours: "Mo-Th 07:00-17:00; Fr 07:00-16:00"
-website: "https://loesch-shop.de"
+opening_hours: Mo-Th 07:00-17:00; Fr 07:00-16:00
+website: https://loesch-shop.de

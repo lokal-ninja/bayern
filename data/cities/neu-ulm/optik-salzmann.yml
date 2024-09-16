@@ -4,8 +4,8 @@ latitude: 48.39472
 longitude: 9.9996
 postcode: "89231"
 city: Neu-Ulm
-street: "Augsburger Straße"
-housenumber: 7
+street: Augsburger Straße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-14:00"
-website: "https://www.salzmann-optik.de/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-14:00
+website: https://www.salzmann-optik.de/

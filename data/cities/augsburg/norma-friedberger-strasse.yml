@@ -1,11 +1,11 @@
 id: 98784758
-type: way
+type: node
 latitude: 48.35477
 longitude: 10.94433
 postcode: "86163"
 city: Augsburg
-street: "Friedberger Straße"
-housenumber: 136
+street: Friedberger Straße
+housenumber: "136"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
-website: "https://www.norma-online.de/"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
+website: https://www.norma-online.de/

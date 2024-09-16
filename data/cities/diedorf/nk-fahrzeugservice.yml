@@ -4,8 +4,8 @@ latitude: 48.3508
 longitude: 10.77057
 postcode: "86420"
 city: Diedorf
-street: "Hauptstraße"
-housenumber: 64
-phone: "+49 8238 60030"
-opening_hours: "Mo-Th 07:30-12:00,13:00-17:00; Fr 07:30-12:00,13:00-15:00"
+street: Hauptstraße
+housenumber: "64"
+phone: +49 8238 60030
+opening_hours: Mo-Th 07:30-12:00,13:00-17:00; Fr 07:30-12:00,13:00-15:00
 website: ""

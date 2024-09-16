@@ -1,11 +1,11 @@
 id: 669436359
-type: way
+type: node
 latitude: 48.7032
 longitude: 12.29824
 postcode: "84092"
 city: Bayerbach bei Ergoldsbach
-street: "Dorfstraße"
-housenumber: 12
-phone: "+49 8774 237"
+street: Dorfstraße
+housenumber: "12"
+phone: +49 8774 237
 opening_hours: ""
-website: "https://www.kfz-eisgruber.de/"
+website: https://www.kfz-eisgruber.de/

@@ -1,11 +1,11 @@
 id: 271692407
-type: way
+type: node
 latitude: 49.4494
 longitude: 11.83042
 postcode: "92224"
 city: Amberg
-street: "Katharinenfriedhofstraße"
-housenumber: 39
-phone: "+49 9621 49020"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "http://www.kuszmann.de"
+street: Katharinenfriedhofstraße
+housenumber: "39"
+phone: +49 9621 49020
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: http://www.kuszmann.de

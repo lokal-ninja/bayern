@@ -1,11 +1,11 @@
 id: 155582491
-type: way
+type: node
 latitude: 49.25121
 longitude: 10.83985
 postcode: "91575"
 city: Windsbach
-street: "Fohlenhof"
-housenumber: 27
+street: Fohlenhof
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
-website: "https://filialen.aldi-sued.de/bayern/windsbach/fohlenhof-27"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
+website: https://filialen.aldi-sued.de/bayern/windsbach/fohlenhof-27

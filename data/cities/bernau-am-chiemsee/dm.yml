@@ -4,8 +4,8 @@ latitude: 47.82568
 longitude: 12.38506
 postcode: "83233"
 city: Bernau am Chiemsee
-street: "Chiemseestraße"
-housenumber: 89
-phone: "+49 8051 6970920"
-opening_hours: "Mo-Fr 08:00-20:00"
-website: "https://www.dm.de/store/de-3011/bernau-am-chiemsee/chiemseestrasse-89"
+street: Chiemseestraße
+housenumber: "89"
+phone: +49 8051 6970920
+opening_hours: Mo-Fr 08:00-20:00
+website: https://www.dm.de/store/de-3011/bernau-am-chiemsee/chiemseestrasse-89

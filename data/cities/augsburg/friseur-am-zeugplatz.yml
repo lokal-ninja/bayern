@@ -4,8 +4,8 @@ latitude: 48.36576
 longitude: 10.89743
 postcode: "86150"
 city: Augsburg
-street: "Zeugplatz"
-housenumber: 9
+street: Zeugplatz
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00
 website: ""

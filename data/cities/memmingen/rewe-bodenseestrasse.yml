@@ -1,11 +1,11 @@
 id: 154232709
-type: way
+type: node
 latitude: 47.98021
 longitude: 10.17382
 postcode: "87700"
 city: Memmingen
-street: "Bodenseestraße"
-housenumber: 27
+street: Bodenseestraße
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

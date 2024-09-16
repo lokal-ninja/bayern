@@ -4,8 +4,8 @@ latitude: 47.99919
 longitude: 11.34175
 postcode: "82319"
 city: Starnberg
-street: "Hauptstraße"
-housenumber: 6
+street: Hauptstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "http://www.radhaus-starnberg.de/"
+website: http://www.radhaus-starnberg.de/

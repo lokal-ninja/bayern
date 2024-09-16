@@ -1,11 +1,11 @@
 id: 37618064
-type: way
+type: node
 latitude: 48.31805
 longitude: 11.69175
 postcode: "85375"
 city: Neufahrn bei Freising
-street: "Münchner Straße"
+street: Münchner Straße
 housenumber: 11a
-phone: "+49 8165 66442"
-opening_hours: "24/7"
-website: "https://store.total.de/de_DE/ND038414"
+phone: +49 8165 66442
+opening_hours: 24/7
+website: https://store.total.de/de_DE/ND038414

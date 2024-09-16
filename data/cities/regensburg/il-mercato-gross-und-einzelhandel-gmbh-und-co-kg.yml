@@ -1,11 +1,11 @@
 id: 99938165
-type: way
+type: node
 latitude: 49.01349
 longitude: 12.07546
 postcode: "93049"
 city: Regensburg
-street: "Dechbettener Straße"
-housenumber: 55
-phone: "+49 941 56816761"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.ilmercato-italiano.de/"
+street: Dechbettener Straße
+housenumber: "55"
+phone: +49 941 56816761
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.ilmercato-italiano.de/

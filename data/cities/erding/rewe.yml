@@ -1,11 +1,11 @@
 id: 1145353956
-type: way
+type: node
 latitude: 48.29343
 longitude: 11.91004
 postcode: "85435"
 city: Erding
-street: "Ardeostraße"
-housenumber: 22
+street: Ardeostraße
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

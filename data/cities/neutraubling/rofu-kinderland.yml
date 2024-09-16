@@ -1,11 +1,11 @@
 id: 96095496
-type: way
+type: node
 latitude: 48.98058
 longitude: 12.19432
 postcode: "93073"
 city: Neutraubling
-street: "Pommernstraße"
-housenumber: 15
-phone: "+49 9401 522575"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://www.rofu.de/"
+street: Pommernstraße
+housenumber: "15"
+phone: +49 9401 522575
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
+website: https://www.rofu.de/

@@ -4,8 +4,8 @@ latitude: 49.58916
 longitude: 11.01167
 postcode: "91052"
 city: Erlangen
-street: "Zeppelinstraße"
-housenumber: 4
-phone: "+49 9131 37534"
-opening_hours: "Tu-Fr 09:00-19:00; Sa 09:00-14:00"
-website: "https://haarstudio-pepp.de/"
+street: Zeppelinstraße
+housenumber: "4"
+phone: +49 9131 37534
+opening_hours: Tu-Fr 09:00-19:00; Sa 09:00-14:00
+website: https://haarstudio-pepp.de/

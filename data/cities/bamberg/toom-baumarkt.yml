@@ -1,11 +1,11 @@
 id: 153940172
-type: way
+type: node
 latitude: 49.8888
 longitude: 10.91446
 postcode: "96050"
 city: Bamberg
-street: "Geisfelder Straße"
-housenumber: 4
-phone: "+49 951 91527-0"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://toom.de/m/bamberg/"
+street: Geisfelder Straße
+housenumber: "4"
+phone: +49 951 91527-0
+opening_hours: Mo-Sa 08:00-20:00
+website: https://toom.de/m/bamberg/

@@ -4,8 +4,8 @@ latitude: 48.13494
 longitude: 11.56604
 postcode: "80331"
 city: München
-street: "Sonnenstraße"
-housenumber: 29
-phone: "+49 89 593524"
-opening_hours: "Mo-Fr 09:30-18:15; Sa 10:00-16:00"
-website: "https://kuechen-knauseder.de/"
+street: Sonnenstraße
+housenumber: "29"
+phone: +49 89 593524
+opening_hours: Mo-Fr 09:30-18:15; Sa 10:00-16:00
+website: https://kuechen-knauseder.de/

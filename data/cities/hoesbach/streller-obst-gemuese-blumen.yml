@@ -1,11 +1,11 @@
 id: 400707008
-type: way
+type: node
 latitude: 50.03793
 longitude: 9.23253
 postcode: "63768"
 city: Hösbach
-street: "Gräfenbergstraße"
-housenumber: 13
+street: Gräfenbergstraße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

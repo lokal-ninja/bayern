@@ -1,11 +1,11 @@
 id: 87311595
-type: way
+type: node
 latitude: 50.28605
 longitude: 11.00384
 postcode: "96487"
 city: Dörfles-Esbach
-street: "Ziegelei"
-housenumber: 11
+street: Ziegelei
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
 website: ""

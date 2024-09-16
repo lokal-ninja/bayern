@@ -1,11 +1,11 @@
 id: 312747643
-type: way
+type: node
 latitude: 48.53398
 longitude: 11.49103
 postcode: "85276"
 city: Pfaffenhofen a.d. Ilm
-street: "Hohenwarter Straße"
-housenumber: 81
-phone: "+49 8441 72270"
-opening_hours: "Mo-Sa 07:00-20:00"
+street: Hohenwarter Straße
+housenumber: "81"
+phone: +49 8441 72270
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

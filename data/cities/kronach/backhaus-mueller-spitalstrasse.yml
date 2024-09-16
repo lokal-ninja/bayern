@@ -4,8 +4,8 @@ latitude: 50.23888
 longitude: 11.32492
 postcode: "96317"
 city: Kronach
-street: "Spitalstraße"
-housenumber: 3
+street: Spitalstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:00"
-website: "https://www.muellersbackhaus.de/"
+opening_hours: Mo-Fr 06:30-18:00
+website: https://www.muellersbackhaus.de/

@@ -1,11 +1,11 @@
 id: 81641071
-type: way
+type: node
 latitude: 48.3864
 longitude: 10.84638
 postcode: "86156"
 city: Augsburg
-street: "Kobelweg"
-housenumber: 80
+street: Kobelweg
+housenumber: "80"
 phone: ""
 opening_hours: ""
 website: ""

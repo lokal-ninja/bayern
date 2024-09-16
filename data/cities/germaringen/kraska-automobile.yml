@@ -4,8 +4,8 @@ latitude: 47.92145
 longitude: 10.65244
 postcode: "87656"
 city: Germaringen
-street: "Carl-Benz-Straße"
-housenumber: 3
+street: Carl-Benz-Straße
+housenumber: "3"
 phone: "+4983417150903"
-opening_hours: "Mo-Fr 09:00-18:00; We 09:00-13:00; PH off"
-website: "https://www.kraska-automobile.de"
+opening_hours: Mo-Fr 09:00-18:00; We 09:00-13:00; PH off
+website: https://www.kraska-automobile.de

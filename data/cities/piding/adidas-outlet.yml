@@ -1,11 +1,11 @@
 id: 104848142
-type: way
+type: node
 latitude: 47.76568
 longitude: 12.90707
 postcode: "83451"
 city: Piding
-street: "Lattenbergstraße"
-housenumber: 6
+street: Lattenbergstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

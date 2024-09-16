@@ -1,11 +1,11 @@
 id: 93484849
-type: way
+type: node
 latitude: 50.23144
 longitude: 11.72004
 postcode: "95233"
 city: Helmbrechts
-street: "Max-Planck-Straße"
+street: Max-Planck-Straße
 housenumber: 22A
-phone: "+49 9252350375"
+phone: +49 9252350375
 opening_hours: ""
-website: "https://www.lackiertechnik-feilner.de/"
+website: https://www.lackiertechnik-feilner.de/

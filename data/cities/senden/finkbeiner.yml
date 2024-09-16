@@ -1,11 +1,11 @@
 id: 441390656
-type: way
+type: node
 latitude: 48.33377
 longitude: 10.03852
 postcode: "89250"
 city: Senden
-street: "Berliner Straße"
-housenumber: 17
+street: Berliner Straße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.finkbeiner.biz/"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.finkbeiner.biz/

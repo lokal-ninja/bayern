@@ -1,11 +1,11 @@
 id: 136115829
-type: way
+type: node
 latitude: 49.99799
 longitude: 9.56618
 postcode: "97816"
 city: Lohr am Main
-street: "Partensteiner Straße"
-housenumber: 18
-phone: "+49(0) 177 3529441"
+street: Partensteiner Straße
+housenumber: "18"
+phone: +49(0) 177 3529441
 opening_hours: ""
 website: ""

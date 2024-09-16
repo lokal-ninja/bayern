@@ -1,11 +1,11 @@
 id: 117424090
-type: way
+type: node
 latitude: 47.75946
 longitude: 11.50057
 postcode: "83646"
 city: Wackersberg
 street: ""
-housenumber: 108
-phone: "+49 8041 3801"
+housenumber: "108"
+phone: +49 8041 3801
 opening_hours: ""
-website: "edelbraende-schauer.de"
+website: edelbraende-schauer.de

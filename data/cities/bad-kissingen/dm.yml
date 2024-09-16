@@ -1,11 +1,11 @@
 id: 437563127
-type: way
+type: node
 latitude: 50.20262
 longitude: 10.08566
 postcode: "97688"
 city: Bad Kissingen
-street: "Hartmannstraße"
+street: Hartmannstraße
 housenumber: 30a
-phone: "+49 971 78530272"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.dm.de/store/de-2425/bad-kissingen/hartmannstrasse-30a"
+phone: +49 971 78530272
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.dm.de/store/de-2425/bad-kissingen/hartmannstrasse-30a

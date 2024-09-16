@@ -1,11 +1,11 @@
 id: 285239384
-type: way
+type: node
 latitude: 49.66116
 longitude: 10.45795
 postcode: "91443"
 city: Scheinfeld
-street: "Bauhofstraße"
-housenumber: 8
+street: Bauhofstraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

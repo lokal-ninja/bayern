@@ -1,11 +1,11 @@
 id: 474082723
-type: way
+type: node
 latitude: 48.59526
 longitude: 13.78065
 postcode: "94110"
 city: Wegscheid
-street: "Passauer Straße"
-housenumber: 60
+street: Passauer Straße
+housenumber: "60"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

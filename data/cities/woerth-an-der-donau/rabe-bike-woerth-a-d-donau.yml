@@ -1,11 +1,11 @@
 id: 1022971208
-type: way
+type: node
 latitude: 49.0009
 longitude: 12.3647
 postcode: "93086"
 city: Wörth an der Donau
-street: "Gewerbepark B"
-housenumber: 5
-phone: "+49 9482 6439999"
-opening_hours: "Tu-Fr 12:00-19:00; Sa 09:00-16:00"
-website: "https://www.rabe-bike.de/de/filialen/woerth"
+street: Gewerbepark B
+housenumber: "5"
+phone: +49 9482 6439999
+opening_hours: Tu-Fr 12:00-19:00; Sa 09:00-16:00
+website: https://www.rabe-bike.de/de/filialen/woerth

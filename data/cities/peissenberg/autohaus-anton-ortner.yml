@@ -1,11 +1,11 @@
 id: 326748154
-type: way
+type: node
 latitude: 47.78435
 longitude: 11.05044
 postcode: "82380"
 city: Peißenberg
-street: "Schongauer Straße"
-housenumber: 115
+street: Schongauer Straße
+housenumber: "115"
 phone: ""
 opening_hours: ""
-website: "https://ortner-gruppe.de/"
+website: https://ortner-gruppe.de/

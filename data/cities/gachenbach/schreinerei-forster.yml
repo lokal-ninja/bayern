@@ -1,11 +1,11 @@
 id: 246723623
-type: way
+type: node
 latitude: 48.49595
 longitude: 11.23814
 postcode: "86565"
 city: Gachenbach
-street: "Schönbacher Straße"
-housenumber: 11
+street: Schönbacher Straße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

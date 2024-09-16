@@ -1,11 +1,11 @@
 id: 572898109
-type: way
+type: node
 latitude: 48.17232
 longitude: 12.23111
 postcode: "84437"
 city: Reichertsheim
-street: "Schulstraße"
-housenumber: 8
+street: Schulstraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

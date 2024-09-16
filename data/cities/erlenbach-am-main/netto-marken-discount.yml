@@ -1,11 +1,11 @@
 id: 359980412
-type: way
+type: node
 latitude: 49.80593
 longitude: 9.16068
 postcode: "63906"
 city: Erlenbach am Main
-street: "Pfützenäcker"
-housenumber: 4
+street: Pfützenäcker
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.netto-online.de"
+website: https://www.netto-online.de

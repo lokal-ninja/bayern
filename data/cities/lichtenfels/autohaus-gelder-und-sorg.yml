@@ -1,11 +1,11 @@
 id: 235045005
-type: way
+type: node
 latitude: 50.13679
 longitude: 11.06334
 postcode: "96215"
 city: Lichtenfels
-street: "Grünewaldstraße"
-housenumber: 2
+street: Grünewaldstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

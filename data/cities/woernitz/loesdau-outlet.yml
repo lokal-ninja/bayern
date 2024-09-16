@@ -1,11 +1,11 @@
 id: 110221742
-type: way
+type: node
 latitude: 49.25994
 longitude: 10.24104
 postcode: "91637"
 city: Wörnitz
-street: "Am Kreisel"
-housenumber: 3
+street: Am Kreisel
+housenumber: "3"
 phone: ""
-opening_hours: "Th,Fr 12:00-19:00; Sa 10:00-16:00"
-website: "https://m.loesdau.de/pferdesporthaeuser/loesdau-woernitz/"
+opening_hours: Th,Fr 12:00-19:00; Sa 10:00-16:00
+website: https://m.loesdau.de/pferdesporthaeuser/loesdau-woernitz/

@@ -1,11 +1,11 @@
 id: 579375955
-type: way
+type: node
 latitude: 49.01578
 longitude: 12.13164
 postcode: "93055"
 city: Regensburg
-street: "Auweg"
+street: Auweg
 housenumber: 42 a
-phone: "+49 941 99221262"
-opening_hours: "Mo-Fr 12:00-19:00; Sa 10:00-16:00"
-website: "https://www.growartprofitechnik.de/"
+phone: +49 941 99221262
+opening_hours: Mo-Fr 12:00-19:00; Sa 10:00-16:00
+website: https://www.growartprofitechnik.de/

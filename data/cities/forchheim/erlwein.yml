@@ -1,11 +1,11 @@
 id: 37429684
-type: way
+type: node
 latitude: 49.70422
 longitude: 11.06434
 postcode: "91301"
 city: Forchheim
-street: "Dieselstraße"
-housenumber: 5
-phone: "+49 9191 72360"
+street: Dieselstraße
+housenumber: "5"
+phone: +49 9191 72360
 opening_hours: ""
-website: "https://www.erlwein.com/"
+website: https://www.erlwein.com/

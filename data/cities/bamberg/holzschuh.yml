@@ -4,8 +4,8 @@ latitude: 49.90031
 longitude: 10.90199
 postcode: "96052"
 city: Bamberg
-street: "Brennerstraße"
-housenumber: 8
+street: Brennerstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-We, Fr 09:00-18:00; Sa 09:00-13:00"
-website: "http://naehzentrum-bamberg.de/#kontakt"
+opening_hours: Mo-We, Fr 09:00-18:00; Sa 09:00-13:00
+website: http://naehzentrum-bamberg.de/#kontakt

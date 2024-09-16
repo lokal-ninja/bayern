@@ -1,11 +1,11 @@
 id: 222141300
-type: way
+type: node
 latitude: 48.15612
 longitude: 11.99858
 postcode: "85664"
 city: Hohenlinden
-street: "Hauptstraße"
-housenumber: 22
-phone: "+49 8124 443317"
-opening_hours: "Mo-Fr 06:00-18:00; Sa,Su,PH 07:00-17:00"
-website: "https://www.mein-hasi.de/"
+street: Hauptstraße
+housenumber: "22"
+phone: +49 8124 443317
+opening_hours: Mo-Fr 06:00-18:00; Sa,Su,PH 07:00-17:00
+website: https://www.mein-hasi.de/

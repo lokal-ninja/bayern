@@ -4,8 +4,8 @@ latitude: 49.03319
 longitude: 12.1155
 postcode: "93057"
 city: Regensburg
-street: "Isarstraße"
-housenumber: 8
+street: Isarstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00, Sa 08:00-14:00"
-website: "http://www.die-kleine-feine-sonne.de/"
+opening_hours: Mo-Fr 08:00-18:00, Sa 08:00-14:00
+website: http://www.die-kleine-feine-sonne.de/

@@ -4,8 +4,8 @@ latitude: 48.12309
 longitude: 11.54207
 postcode: "81373"
 city: München
-street: "Spitzwegstraße"
-housenumber: 6
-phone: "+49 174 6941397;+49 89 6928552"
-opening_hours: "Termine nach Vereinbarung"
+street: Spitzwegstraße
+housenumber: "6"
+phone: +49 174 6941397;+49 89 6928552
+opening_hours: '"Termine nach Vereinbarung"'
 website: ""

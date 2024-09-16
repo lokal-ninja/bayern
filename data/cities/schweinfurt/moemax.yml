@@ -4,8 +4,8 @@ latitude: 50.02161
 longitude: 10.22123
 postcode: "97424"
 city: Schweinfurt
-street: "Amsterdamstraße"
-housenumber: 5
+street: Amsterdamstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00-19:00"
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:00-19:00
 website: ""

@@ -4,8 +4,9 @@ latitude: 49.84116
 longitude: 9.14675
 postcode: "63785"
 city: Obernburg am Main
-street: "Römerstraße"
-housenumber: 39
-phone: "+49 6022 2747400"
-opening_hours: "Mo,Tu,Th 09:00-12:30,14:00-18:00; We 09:00-12:30; Fr 08:30-12:30,14:00-18:00; Sa 08:30-12:30; PH off"
-website: "http://www.schatztruhe-elsenfeld.de"
+street: Römerstraße
+housenumber: "39"
+phone: +49 6022 2747400
+opening_hours: Mo,Tu,Th 09:00-12:30,14:00-18:00; We 09:00-12:30; Fr 08:30-12:30,14:00-18:00;
+    Sa 08:30-12:30; PH off
+website: http://www.schatztruhe-elsenfeld.de

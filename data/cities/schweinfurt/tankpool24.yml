@@ -1,11 +1,11 @@
 id: 455057108
-type: way
+type: node
 latitude: 50.02035
 longitude: 10.21406
 postcode: "97424"
 city: Schweinfurt
-street: "Straßburgstraße"
-housenumber: 9
+street: Straßburgstraße
+housenumber: "9"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.tankpool24.eu"
+opening_hours: 24/7
+website: https://www.tankpool24.eu

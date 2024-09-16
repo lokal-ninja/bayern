@@ -1,11 +1,11 @@
 id: 222805542
-type: way
+type: node
 latitude: 48.41118
 longitude: 11.74802
 postcode: "85356"
 city: Freising
-street: "Weinmiller-Straße"
-housenumber: 5
+street: Weinmiller-Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

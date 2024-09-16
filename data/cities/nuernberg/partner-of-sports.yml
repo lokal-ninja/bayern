@@ -4,8 +4,8 @@ latitude: 49.46094
 longitude: 11.09269
 postcode: "90489"
 city: Nürnberg
-street: "Rennweg"
+street: Rennweg
 housenumber: 7-9
-phone: "+49 911 538530"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-15:00"
-website: "https://pos-nuernberg.de/"
+phone: +49 911 538530
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-15:00
+website: https://pos-nuernberg.de/

@@ -4,8 +4,8 @@ latitude: 48.20339
 longitude: 11.61781
 postcode: "80939"
 city: München
-street: "Muthmannstraße"
-housenumber: 4
-phone: "+49 89 32197912"
-opening_hours: "Mo-Fr 07:00-17:00; Sa 07:00-16:00"
-website: "https://www.boels.com/de-de/"
+street: Muthmannstraße
+housenumber: "4"
+phone: +49 89 32197912
+opening_hours: Mo-Fr 07:00-17:00; Sa 07:00-16:00
+website: https://www.boels.com/de-de/

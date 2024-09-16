@@ -1,11 +1,11 @@
 id: 199045010
-type: way
+type: node
 latitude: 48.57757
 longitude: 10.47249
 postcode: "89407"
 city: Dillingen a.d.Donau
-street: "Johannes-Scheiffele-Straße"
-housenumber: 19
+street: Johannes-Scheiffele-Straße
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

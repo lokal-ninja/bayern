@@ -4,8 +4,8 @@ latitude: 48.46759
 longitude: 11.93697
 postcode: "85368"
 city: Moosburg a.d. Isar
-street: "Herrnstraße"
-housenumber: 14
-phone: "+49 8761 2311"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-13:00"
-website: "https://lida-moosburg.de/"
+street: Herrnstraße
+housenumber: "14"
+phone: +49 8761 2311
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-13:00
+website: https://lida-moosburg.de/

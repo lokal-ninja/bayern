@@ -4,8 +4,8 @@ latitude: 49.93478
 longitude: 11.57926
 postcode: "95447"
 city: Bayreuth
-street: "Herderstraße"
-housenumber: 2
-phone: "+49 921 6 28 80"
-opening_hours: "Tu-Fr 09:00-18:00, Sa 07:00-12:00; Mo,Su off"
+street: Herderstraße
+housenumber: "2"
+phone: +49 921 6 28 80
+opening_hours: Tu-Fr 09:00-18:00, Sa 07:00-12:00; Mo,Su off
 website: ""

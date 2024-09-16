@@ -4,8 +4,8 @@ latitude: 49.84939
 longitude: 9.96501
 postcode: "97222"
 city: Rimpar
-street: "Kettelerstraße"
-housenumber: 3
-phone: "+49 9365 8891909"
-opening_hours: "Mo-Sa 07:00-20:00"
+street: Kettelerstraße
+housenumber: "3"
+phone: +49 9365 8891909
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 450451206
-type: way
+type: node
 latitude: 48.19876
 longitude: 12.39451
 postcode: "84478"
 city: Waldkraiburg
-street: "Aussiger Straße"
-housenumber: 27
+street: Aussiger Straße
+housenumber: "27"
 phone: ""
 opening_hours: ""
-website: "https://www.netto-online.de"
+website: https://www.netto-online.de

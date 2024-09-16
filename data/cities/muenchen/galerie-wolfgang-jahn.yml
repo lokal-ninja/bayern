@@ -4,8 +4,8 @@ latitude: 48.12927
 longitude: 11.57605
 postcode: "80469"
 city: München
-street: "Reichenbachstraße"
-housenumber: 47
-phone: "+49 89 29 79 69"
-opening_hours: "Tu-Fr 13:00-18:00; Sa 12:00-16:00"
-website: "https://galeriejahn.com/de"
+street: Reichenbachstraße
+housenumber: "47"
+phone: +49 89 29 79 69
+opening_hours: Tu-Fr 13:00-18:00; Sa 12:00-16:00
+website: https://galeriejahn.com/de

@@ -1,11 +1,11 @@
 id: 306989704
-type: way
+type: node
 latitude: 49.71903
 longitude: 12.15516
 postcode: "92665"
 city: Altenstadt a.d.Waldnaab
-street: "An den Gärten"
-housenumber: 5
+street: An den Gärten
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

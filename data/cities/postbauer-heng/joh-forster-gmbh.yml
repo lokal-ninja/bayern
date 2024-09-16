@@ -1,11 +1,11 @@
 id: 1229515482
-type: way
+type: node
 latitude: 49.31235
 longitude: 11.35281
 postcode: "92353"
 city: Postbauer-Heng
-street: "Hauptstraße"
-housenumber: 6
+street: Hauptstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 142749989
-type: way
+type: node
 latitude: 47.88234
 longitude: 10.61887
 postcode: "87600"
 city: Kaufbeuren
-street: "Josef-Landes-Straße"
-housenumber: 44
+street: Josef-Landes-Straße
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 123825388
-type: way
+type: node
 latitude: 49.98852
 longitude: 9.13356
 postcode: "63741"
 city: Aschaffenburg
-street: "Dorfstraße"
+street: Dorfstraße
 housenumber: 3a
 phone: ""
 opening_hours: ""
-website: "https://www.schnarr-floristik.de/"
+website: https://www.schnarr-floristik.de/

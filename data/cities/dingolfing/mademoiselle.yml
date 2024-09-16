@@ -4,8 +4,8 @@ latitude: 48.62983
 longitude: 12.49733
 postcode: "84130"
 city: Dingolfing
-street: "Lederergasse"
-housenumber: 6
-phone: "+49 8731 319 78 46"
-opening_hours: "Mo-Fr 09:30-12:30; Sa 09:00-13:00"
-website: "https://www.dessous-mademoiselle.de/"
+street: Lederergasse
+housenumber: "6"
+phone: +49 8731 319 78 46
+opening_hours: Mo-Fr 09:30-12:30; Sa 09:00-13:00
+website: https://www.dessous-mademoiselle.de/

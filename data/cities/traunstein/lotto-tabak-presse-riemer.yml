@@ -1,11 +1,11 @@
 id: 1077412992
-type: way
+type: node
 latitude: 47.87165
 longitude: 12.63738
 postcode: "83278"
 city: Traunstein
-street: "Theresienstraße"
-housenumber: 2
+street: Theresienstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

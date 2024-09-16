@@ -1,11 +1,11 @@
 id: 178772995
-type: way
+type: node
 latitude: 50.1969
 longitude: 11.7917
 postcode: "95213"
 city: Münchberg
-street: "Helmbrechtser Straße"
-housenumber: 4
+street: Helmbrechtser Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

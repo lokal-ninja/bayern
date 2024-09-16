@@ -4,8 +4,8 @@ latitude: 48.15192
 longitude: 11.57717
 postcode: "80799"
 city: München
-street: "Türkenstraße"
-housenumber: 90
+street: Türkenstraße
+housenumber: "90"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-14:00"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-14:00
 website: ""

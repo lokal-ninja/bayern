@@ -1,11 +1,11 @@
 id: 333469311
-type: way
+type: node
 latitude: 49.63279
 longitude: 12.32823
 postcode: "92648"
 city: Vohenstrauß
-street: "Weidener Straße"
-housenumber: 26
-phone: "+49 9651 92070"
+street: Weidener Straße
+housenumber: "26"
+phone: +49 9651 92070
 opening_hours: ""
-website: "www.ep-haberkorn.de"
+website: www.ep-haberkorn.de

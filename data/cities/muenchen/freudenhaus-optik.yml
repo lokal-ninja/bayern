@@ -4,8 +4,8 @@ latitude: 48.14314
 longitude: 11.5782
 postcode: "80539"
 city: München
-street: "Odeonsplatz"
-housenumber: 15
-phone: "+49 89 333336"
-opening_hours: "Mo-Fr 10:30-20:00; Sa 10:30-18:00"
-website: "https://www.freudenhaus.com/"
+street: Odeonsplatz
+housenumber: "15"
+phone: +49 89 333336
+opening_hours: Mo-Fr 10:30-20:00; Sa 10:30-18:00
+website: https://www.freudenhaus.com/

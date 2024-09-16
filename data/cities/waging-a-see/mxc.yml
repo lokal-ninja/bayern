@@ -1,11 +1,11 @@
 id: 249670358
-type: way
+type: node
 latitude: 47.92579
 longitude: 12.70463
 postcode: "83329"
 city: Waging a. See
-street: "Scharlinger Feld"
-housenumber: 5
-phone: "+49 8681 45200"
-opening_hours: "We,Th 09:00-12:00,14:00-18:00; Mo,Fr 13:00-18:00; PH off"
-website: "https://www.mxc.de/"
+street: Scharlinger Feld
+housenumber: "5"
+phone: +49 8681 45200
+opening_hours: We,Th 09:00-12:00,14:00-18:00; Mo,Fr 13:00-18:00; PH off
+website: https://www.mxc.de/

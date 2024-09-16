@@ -1,11 +1,11 @@
 id: 975476813
-type: way
+type: node
 latitude: 48.41606
 longitude: 11.47485
 postcode: "85238"
 city: Petershausen
-street: "Industriering"
-housenumber: 19
+street: Industriering
+housenumber: "19"
 phone: "+498137510"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-12:00"
-website: "https://www.baywa-baustoffe.de/b2b/de/store-finder/map/petershausen"
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-12:00
+website: https://www.baywa-baustoffe.de/b2b/de/store-finder/map/petershausen

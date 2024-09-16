@@ -4,8 +4,8 @@ latitude: 48.99415
 longitude: 12.11389
 postcode: "93053"
 city: Regensburg
-street: "Bajuwarenstraße"
-housenumber: 29
-phone: "+49 941 78864 13"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.zooundco-regensburg.de/"
+street: Bajuwarenstraße
+housenumber: "29"
+phone: +49 941 78864 13
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.zooundco-regensburg.de/

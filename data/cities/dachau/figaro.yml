@@ -4,8 +4,8 @@ latitude: 48.2619
 longitude: 11.43063
 postcode: "85221"
 city: Dachau
-street: "Augsburger Straße"
-housenumber: 45
+street: Augsburger Straße
+housenumber: "45"
 phone: ""
 opening_hours: ""
-website: "http://figaro-dachau.de"
+website: http://figaro-dachau.de

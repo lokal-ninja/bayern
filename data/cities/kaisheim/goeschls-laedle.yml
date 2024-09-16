@@ -4,8 +4,8 @@ latitude: 48.76719
 longitude: 10.79715
 postcode: "86687"
 city: Kaisheim
-street: "Abteistraße"
-housenumber: 11
-phone: "+49 9099 1805"
-opening_hours: "Mo-Fr 06:30-18:00"
-website: "http://www.goeschls-laedle.de"
+street: Abteistraße
+housenumber: "11"
+phone: +49 9099 1805
+opening_hours: Mo-Fr 06:30-18:00
+website: http://www.goeschls-laedle.de

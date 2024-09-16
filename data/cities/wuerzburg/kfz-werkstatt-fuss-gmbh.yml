@@ -1,11 +1,11 @@
 id: 1216077206
-type: way
+type: node
 latitude: 49.79996
 longitude: 9.89521
 postcode: "97080"
 city: Würzburg
-street: "Südliche Hafenstraße"
-housenumber: 5
+street: Südliche Hafenstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:00"
+opening_hours: Mo-Fr 08:30-18:00
 website: ""

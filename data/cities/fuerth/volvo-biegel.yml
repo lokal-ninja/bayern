@@ -1,11 +1,11 @@
 id: 55311248
-type: way
+type: node
 latitude: 49.47751
 longitude: 11.01227
 postcode: "90765"
 city: Fürth
-street: "Hans-Vogel-Straße"
+street: Hans-Vogel-Straße
 housenumber: 1-5
 phone: ""
 opening_hours: ""
-website: "https://www.volvocars-haendler.de/biegel"
+website: https://www.volvocars-haendler.de/biegel

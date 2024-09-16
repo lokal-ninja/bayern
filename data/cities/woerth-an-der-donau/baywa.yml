@@ -1,11 +1,11 @@
 id: 1013336550
-type: way
+type: node
 latitude: 49.00215
 longitude: 12.369
 postcode: "93086"
 city: Wörth an der Donau
-street: "Gewerbepark B"
-housenumber: 6
+street: Gewerbepark B
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 07:00-17:30; Sa 08:00-12:00"
-website: "https://www.baywa-baustoffe.de/b2b/de/i/standorte/baustoffe/worth/baywa-ag-woerth-donau/"
+opening_hours: Mo-Fr 07:00-17:30; Sa 08:00-12:00
+website: https://www.baywa-baustoffe.de/b2b/de/i/standorte/baustoffe/worth/baywa-ag-woerth-donau/

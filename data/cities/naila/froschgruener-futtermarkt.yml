@@ -1,11 +1,11 @@
 id: 68579574
-type: way
+type: node
 latitude: 50.32819
 longitude: 11.7057
 postcode: "95119"
 city: Naila
-street: "Kurze Straße"
-housenumber: 1
+street: Kurze Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "http://www.froschgrüner.de/"
+website: http://www.froschgrüner.de/

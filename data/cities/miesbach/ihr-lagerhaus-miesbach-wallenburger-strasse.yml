@@ -1,11 +1,11 @@
 id: 1308855807
-type: way
+type: node
 latitude: 47.79384
 longitude: 11.83232
 postcode: "83714"
 city: Miesbach
-street: "Wallenburger Straße"
-housenumber: 29
+street: Wallenburger Straße
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.82242
 longitude: 11.28675
 postcode: "82402"
 city: Seeshaupt
-street: "Flurweg"
-housenumber: 12
-phone: "+49 8801 90900"
-opening_hours: "Mo-Fr 07:30-12:00,13:00-17:00; Sa 09:00-12:00"
-website: "https://www.zellmer-maschinen.de"
+street: Flurweg
+housenumber: "12"
+phone: +49 8801 90900
+opening_hours: Mo-Fr 07:30-12:00,13:00-17:00; Sa 09:00-12:00
+website: https://www.zellmer-maschinen.de

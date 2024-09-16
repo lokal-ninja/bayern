@@ -4,8 +4,8 @@ latitude: 48.57138
 longitude: 12.13314
 postcode: "84030"
 city: Landshut
-street: "Klosterholzweg"
-housenumber: 9
-phone: "+49 871 72954"
-opening_hours: "Mo-Fr 7:00-18:00; Sa 7:00-12:00"
-website: "https://www.schmid-seyfferth.de/"
+street: Klosterholzweg
+housenumber: "9"
+phone: +49 871 72954
+opening_hours: Mo-Fr 7:00-18:00; Sa 7:00-12:00
+website: https://www.schmid-seyfferth.de/

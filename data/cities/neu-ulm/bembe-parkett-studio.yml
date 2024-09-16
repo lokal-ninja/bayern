@@ -1,11 +1,11 @@
 id: 105742435
-type: way
+type: node
 latitude: 48.36838
 longitude: 10.00849
 postcode: "89231"
 city: Neu-Ulm
-street: "Memminger Straße"
-housenumber: 165
+street: Memminger Straße
+housenumber: "165"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 313361722
-type: way
+type: node
 latitude: 50.28142
 longitude: 10.99479
 postcode: "96487"
 city: Dörfles-Esbach
-street: "Am Pollergarten"
-housenumber: 2
-phone: "+49 9561 68886"
+street: Am Pollergarten
+housenumber: "2"
+phone: +49 9561 68886
 opening_hours: ""
-website: "https://www.yamaha-heilmann.de/"
+website: https://www.yamaha-heilmann.de/

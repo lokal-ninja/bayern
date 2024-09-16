@@ -4,8 +4,8 @@ latitude: 48.30281
 longitude: 11.90725
 postcode: "85435"
 city: Erding
-street: "Haager Straße"
-housenumber: 22
-phone: "+49 8122 6086"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:00, Sa 09:00-12:00, Th 14:00-19:00"
-website: "https://www.plochmann.de/"
+street: Haager Straße
+housenumber: "22"
+phone: +49 8122 6086
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:00, Sa 09:00-12:00, Th 14:00-19:00
+website: https://www.plochmann.de/

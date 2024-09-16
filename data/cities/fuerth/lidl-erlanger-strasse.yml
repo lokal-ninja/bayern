@@ -1,11 +1,11 @@
 id: 320317097
-type: way
+type: node
 latitude: 49.49314
 longitude: 10.98995
 postcode: "90765"
 city: Fürth
-street: "Erlanger Straße"
-housenumber: 192
+street: Erlanger Straße
+housenumber: "192"
 phone: ""
 opening_hours: ""
 website: ""

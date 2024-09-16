@@ -4,8 +4,8 @@ latitude: 47.89218
 longitude: 12.19998
 postcode: "83134"
 city: Prutting
-street: "Rosenheimer Straße"
-housenumber: 18
-phone: "+49 8036 30353333"
-opening_hours: "Mo-Fr 06:15-18:00; Sa 06:15-12:00; Su 07:15-11:15"
-website: "https://www.der-dorfbaecker.de/"
+street: Rosenheimer Straße
+housenumber: "18"
+phone: +49 8036 30353333
+opening_hours: Mo-Fr 06:15-18:00; Sa 06:15-12:00; Su 07:15-11:15
+website: https://www.der-dorfbaecker.de/

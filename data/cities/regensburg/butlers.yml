@@ -4,8 +4,8 @@ latitude: 49.01831
 longitude: 12.09438
 postcode: "93047"
 city: Regensburg
-street: "Gesandtenstraße"
-housenumber: 1
-phone: "+49 941 29861665"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "http://www.butlers.de"
+street: Gesandtenstraße
+housenumber: "1"
+phone: +49 941 29861665
+opening_hours: Mo-Sa 10:00-20:00
+website: http://www.butlers.de

@@ -1,11 +1,11 @@
 id: 27908862
-type: way
+type: node
 latitude: 49.60596
 longitude: 11.3317
 postcode: "91245"
 city: Simmelsdorf
-street: "Haunachstraße"
-housenumber: 19
+street: Haunachstraße
+housenumber: "19"
 phone: ""
 opening_hours: ""
-website: "https://auto-hirluksch.de"
+website: https://auto-hirluksch.de

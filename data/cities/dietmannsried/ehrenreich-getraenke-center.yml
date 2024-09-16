@@ -1,11 +1,11 @@
 id: 170446457
-type: way
+type: node
 latitude: 47.80763
 longitude: 10.29798
 postcode: "87463"
 city: Dietmannsried
-street: "Fuggerstraße"
-housenumber: 3
+street: Fuggerstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://www.getraenke-ehrenreich.de/markt/dietm.html"
+website: https://www.getraenke-ehrenreich.de/markt/dietm.html

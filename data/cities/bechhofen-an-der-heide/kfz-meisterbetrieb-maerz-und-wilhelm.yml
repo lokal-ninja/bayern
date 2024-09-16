@@ -1,11 +1,11 @@
 id: 182820756
-type: way
+type: node
 latitude: 49.16305
 longitude: 10.56244
 postcode: "91572"
 city: Bechhofen an der Heide
-street: "Freiherr-von-Drais-Straße"
-housenumber: 12
+street: Freiherr-von-Drais-Straße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00"
-website: "https://mw-kfzmeisterbetrieb.de/"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-12:00
+website: https://mw-kfzmeisterbetrieb.de/

@@ -1,11 +1,11 @@
 id: 30072118
-type: way
+type: node
 latitude: 48.77567
 longitude: 11.38673
 postcode: "85057"
 city: Ingolstadt
-street: "Am Westpark"
-housenumber: 5
+street: Am Westpark
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
+opening_hours: Mo-Sa 08:00-20:00; PH off
 website: ""

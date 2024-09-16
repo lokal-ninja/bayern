@@ -4,8 +4,8 @@ latitude: 49.46149
 longitude: 11.13681
 postcode: "90482"
 city: Nürnberg
-street: "Laufamholzstraße"
-housenumber: 40
+street: Laufamholzstraße
+housenumber: "40"
 phone: "+499115441984"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.ebl-naturkost.de/maerkte/markt-moegeldorf/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.ebl-naturkost.de/maerkte/markt-moegeldorf/

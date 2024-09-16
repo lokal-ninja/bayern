@@ -4,8 +4,8 @@ latitude: 49.01512
 longitude: 11.40736
 postcode: "85125"
 city: Kinding
-street: "Seestraße"
-housenumber: 9
+street: Seestraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo,Tu,Fr 10:00-12:00,14:00-18:00; Sa 10:00-14:00"
+opening_hours: Mo,Tu,Fr 10:00-12:00,14:00-18:00; Sa 10:00-14:00
 website: ""

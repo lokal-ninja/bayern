@@ -4,8 +4,8 @@ latitude: 49.20692
 longitude: 12.66605
 postcode: "93413"
 city: Cham
-street: "Werner-von-Siemens-Straße"
-housenumber: 18
-phone: "+49 9971 7603074"
-opening_hours: "Mo-Fr 06:00-20:00"
-website: "https://www.baeckerei-schifferl.de/"
+street: Werner-von-Siemens-Straße
+housenumber: "18"
+phone: +49 9971 7603074
+opening_hours: Mo-Fr 06:00-20:00
+website: https://www.baeckerei-schifferl.de/

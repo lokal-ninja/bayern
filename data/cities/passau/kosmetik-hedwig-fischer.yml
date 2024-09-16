@@ -1,11 +1,11 @@
 id: 222386482
-type: way
+type: node
 latitude: 48.57092
 longitude: 13.46774
 postcode: "94032"
 city: Passau
-street: "Schmiedgasse"
-housenumber: 19
+street: Schmiedgasse
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

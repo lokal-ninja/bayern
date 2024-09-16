@@ -1,11 +1,11 @@
 id: 502770166
-type: way
+type: node
 latitude: 50.36419
 longitude: 11.34431
 postcode: "96332"
 city: Pressig
 street: ""
-housenumber: 52
+housenumber: "52"
 phone: ""
 opening_hours: ""
 website: ""

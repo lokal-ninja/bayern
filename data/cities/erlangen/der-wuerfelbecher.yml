@@ -4,8 +4,8 @@ latitude: 49.59732
 longitude: 11.00268
 postcode: "91054"
 city: Erlangen
-street: "Helmstraße"
-housenumber: 4
-phone: "+49 151 26616994"
-opening_hours: "Tu-Fr 15:30-19:00; Sa 11:00-16:00; PH off"
-website: "https://www.wuerfelbecher.com/"
+street: Helmstraße
+housenumber: "4"
+phone: +49 151 26616994
+opening_hours: Tu-Fr 15:30-19:00; Sa 11:00-16:00; PH off
+website: https://www.wuerfelbecher.com/

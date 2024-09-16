@@ -1,11 +1,11 @@
 id: 277134594
-type: way
+type: node
 latitude: 49.01404
 longitude: 12.14752
 postcode: "93055"
 city: Regensburg
-street: "Bukarester Straße"
-housenumber: 2
+street: Bukarester Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "http://www.gaeubodenbaecker.de/"
+opening_hours: Mo-Sa 08:00-20:00
+website: http://www.gaeubodenbaecker.de/

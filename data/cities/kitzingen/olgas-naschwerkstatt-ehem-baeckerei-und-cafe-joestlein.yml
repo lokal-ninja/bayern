@@ -4,8 +4,8 @@ latitude: 49.74066
 longitude: 10.16855
 postcode: "97318"
 city: Kitzingen
-street: "Mainbernheimer Straße"
-housenumber: 20
-phone: "+49 176 41964309"
-opening_hours: "We-Fr 10:00-16:00; Sa-Su 12:30-15:30"
-website: "https://www.olgas-naschwerkstatt.de/"
+street: Mainbernheimer Straße
+housenumber: "20"
+phone: +49 176 41964309
+opening_hours: We-Fr 10:00-16:00; Sa-Su 12:30-15:30
+website: https://www.olgas-naschwerkstatt.de/

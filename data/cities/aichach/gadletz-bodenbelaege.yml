@@ -1,11 +1,11 @@
 id: 106426698
-type: way
+type: node
 latitude: 48.43537
 longitude: 11.11686
 postcode: "86551"
 city: Aichach
-street: "Ludwig-Erhard-Straße"
-housenumber: 8
+street: Ludwig-Erhard-Straße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

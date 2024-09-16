@@ -4,8 +4,8 @@ latitude: 49.0134
 longitude: 12.05268
 postcode: "93049"
 city: Regensburg
-street: "Stromerstraße"
-housenumber: 3
+street: Stromerstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Su 09:00-22:00"
-website: "https://www.rennplatzzentrum.de/dienstleistungen/sun-sun-sonnenstudio/"
+opening_hours: Mo-Su 09:00-22:00
+website: https://www.rennplatzzentrum.de/dienstleistungen/sun-sun-sonnenstudio/

@@ -4,8 +4,8 @@ latitude: 48.46743
 longitude: 11.93429
 postcode: "85368"
 city: Moosburg a.d. Isar
-street: "Bahnhofstraße"
-housenumber: 5
-phone: "+49 8761 7262990"
-opening_hours: "nach Vereinbarung"
-website: "http://www.reisebuero-meiler.de/"
+street: Bahnhofstraße
+housenumber: "5"
+phone: +49 8761 7262990
+opening_hours: '"nach Vereinbarung"'
+website: http://www.reisebuero-meiler.de/

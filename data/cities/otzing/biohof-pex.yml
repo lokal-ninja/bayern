@@ -5,7 +5,7 @@ longitude: 12.83263
 postcode: "94563"
 city: Otzing
 street: ""
-housenumber: 1
+housenumber: "1"
 phone: ""
-opening_hours: "Mo 10:00-19:00; Tu-Sa 08:00-19:00; Su 10:00-14:00"
+opening_hours: Mo 10:00-19:00; Tu-Sa 08:00-19:00; Su 10:00-14:00
 website: ""

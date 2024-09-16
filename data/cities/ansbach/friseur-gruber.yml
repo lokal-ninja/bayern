@@ -4,8 +4,8 @@ latitude: 49.31025
 longitude: 10.56595
 postcode: "91522"
 city: Ansbach
-street: "Breitstraße"
-housenumber: 12
+street: Breitstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-We,Fr 08:00-17:00; Th 08:00-18:00; Sa 08:00-13:00"
+opening_hours: Mo-We,Fr 08:00-17:00; Th 08:00-18:00; Sa 08:00-13:00
 website: ""

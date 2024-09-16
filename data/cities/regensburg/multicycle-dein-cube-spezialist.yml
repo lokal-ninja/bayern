@@ -4,8 +4,8 @@ latitude: 49.02739
 longitude: 12.11224
 postcode: "93059"
 city: Regensburg
-street: "Abensstraße"
-housenumber: 3
-phone: "+49 941 46 39 95 60"
-opening_hours: "Mo-Fr 10:00-18:30; Sa 09:00-15:00; Su,PH off"
-website: "https://www.multicycle.de/filiale-regensburg"
+street: Abensstraße
+housenumber: "3"
+phone: +49 941 46 39 95 60
+opening_hours: Mo-Fr 10:00-18:30; Sa 09:00-15:00; Su,PH off
+website: https://www.multicycle.de/filiale-regensburg

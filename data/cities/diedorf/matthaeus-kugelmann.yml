@@ -1,11 +1,11 @@
 id: 414271907
-type: way
+type: node
 latitude: 48.35009
 longitude: 10.77126
 postcode: "86420"
 city: Diedorf
-street: "Anhauser Straße"
-housenumber: 3
-phone: "+49 8238 7033"
+street: Anhauser Straße
+housenumber: "3"
+phone: +49 8238 7033
 opening_hours: ""
 website: ""

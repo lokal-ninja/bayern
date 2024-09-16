@@ -1,11 +1,11 @@
 id: 121165570
-type: way
+type: node
 latitude: 47.84316
 longitude: 11.14719
 postcode: "82362"
 city: Weilheim in Oberbayern
-street: "Andreas-Schmidtner-Straße"
-housenumber: 11
+street: Andreas-Schmidtner-Straße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

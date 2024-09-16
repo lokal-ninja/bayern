@@ -1,11 +1,11 @@
 id: 333894864
-type: way
+type: node
 latitude: 49.69484
 longitude: 12.15749
 postcode: "92637"
 city: Weiden i.d.OPf.
-street: "Otto-Hahn-Straße"
-housenumber: 7
+street: Otto-Hahn-Straße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

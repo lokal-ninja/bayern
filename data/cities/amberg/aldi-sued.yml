@@ -1,11 +1,11 @@
 id: 29408722
-type: way
+type: node
 latitude: 49.44437
 longitude: 11.83753
 postcode: "92224"
 city: Amberg
-street: "Rammertshofer Weg"
-housenumber: 2
+street: Rammertshofer Weg
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://filialen.aldi-sued.de/bayern/amberg/rammertshofer-weg-2"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://filialen.aldi-sued.de/bayern/amberg/rammertshofer-weg-2

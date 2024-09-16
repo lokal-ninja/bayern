@@ -4,8 +4,8 @@ latitude: 48.37026
 longitude: 10.89563
 postcode: "86152"
 city: Augsburg
-street: "Ludwigstraße"
-housenumber: 2
-phone: "+49 800 000 22 33"
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
-website: "https://www.tegut.com/"
+street: Ludwigstraße
+housenumber: "2"
+phone: +49 800 000 22 33
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
+website: https://www.tegut.com/

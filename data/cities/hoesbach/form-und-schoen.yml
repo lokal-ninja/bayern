@@ -1,11 +1,11 @@
 id: 235280357
-type: way
+type: node
 latitude: 50.0094
 longitude: 9.2171
 postcode: "63768"
 city: Hösbach
-street: "Frohnradstraße"
-housenumber: 4
-phone: "+49 6021 581 79 08"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00"
-website: "https://www.form-und-schoen.de/"
+street: Frohnradstraße
+housenumber: "4"
+phone: +49 6021 581 79 08
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00
+website: https://www.form-und-schoen.de/

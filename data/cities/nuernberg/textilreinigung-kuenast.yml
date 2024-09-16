@@ -4,8 +4,8 @@ latitude: 49.4536
 longitude: 11.08731
 postcode: "90489"
 city: Nürnberg
-street: "Laufertorgraben"
-housenumber: 4
-phone: "+49 911 221506"
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "https://www.textilreinigung-kuenast.de/"
+street: Laufertorgraben
+housenumber: "4"
+phone: +49 911 221506
+opening_hours: Mo-Fr 08:00-18:00
+website: https://www.textilreinigung-kuenast.de/

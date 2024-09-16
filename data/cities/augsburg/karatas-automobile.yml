@@ -1,11 +1,11 @@
 id: 103529389
-type: way
+type: node
 latitude: 48.36489
 longitude: 10.93656
 postcode: "86163"
 city: Augsburg
-street: "Schöneckstraße"
-housenumber: 2
-phone: "+49 821 6600888"
+street: Schöneckstraße
+housenumber: "2"
+phone: +49 821 6600888
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.30993
 longitude: 10.89016
 postcode: "86179"
 city: Augsburg
-street: "Inninger Straße"
-housenumber: 99
-phone: "+49 (0)821 6084769"
-opening_hours: "24/7"
-website: "https://togo.rewe.de/standorte"
+street: Inninger Straße
+housenumber: "99"
+phone: +49 (0)821 6084769
+opening_hours: 24/7
+website: https://togo.rewe.de/standorte

@@ -4,8 +4,8 @@ latitude: 49.45846
 longitude: 11.12812
 postcode: "90482"
 city: Nürnberg
-street: "Ostendstraße"
-housenumber: 202
+street: Ostendstraße
+housenumber: "202"
 phone: ""
-opening_hours: "We,Fr 09:00-18:00; Tu,Th 09:00-19:00; Sa 09:00-14:00"
+opening_hours: We,Fr 09:00-18:00; Tu,Th 09:00-19:00; Sa 09:00-14:00
 website: ""

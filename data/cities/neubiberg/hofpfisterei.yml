@@ -4,8 +4,8 @@ latitude: 48.07676
 longitude: 11.66055
 postcode: "85579"
 city: Neubiberg
-street: "Hauptstraße"
-housenumber: 5
+street: Hauptstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00; Sa 06:30-13:30"
-website: "https://www.hofpfisterei.de/"
+opening_hours: Mo-Fr 07:30-18:00; Sa 06:30-13:30
+website: https://www.hofpfisterei.de/

@@ -1,11 +1,11 @@
 id: 89206659
-type: way
+type: node
 latitude: 49.79402
 longitude: 10.00478
 postcode: "97076"
 city: Würzburg
-street: "Nürnberger Straße"
-housenumber: 133
+street: Nürnberger Straße
+housenumber: "133"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:00; Sa 07:00-12:30"
+opening_hours: Mo-Fr 06:30-18:00; Sa 07:00-12:30
 website: ""

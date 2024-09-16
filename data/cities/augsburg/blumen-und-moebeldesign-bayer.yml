@@ -4,8 +4,8 @@ latitude: 48.36336
 longitude: 10.87221
 postcode: "86157"
 city: Augsburg
-street: "Kirchbergstraße"
-housenumber: 2
+street: Kirchbergstraße
+housenumber: "2"
 phone: "+49821523385"
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-16:00; Su,PH 10:00-12:00"
-website: "https://www.blumenbayer.com/"
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:00-16:00; Su,PH 10:00-12:00
+website: https://www.blumenbayer.com/

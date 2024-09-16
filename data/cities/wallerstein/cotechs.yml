@@ -1,11 +1,11 @@
 id: 127503463
-type: way
+type: node
 latitude: 48.88637
 longitude: 10.4713
 postcode: "86757"
 city: Wallerstein
-street: "Hauptstraße"
-housenumber: 37
+street: Hauptstraße
+housenumber: "37"
 phone: ""
 opening_hours: ""
 website: ""

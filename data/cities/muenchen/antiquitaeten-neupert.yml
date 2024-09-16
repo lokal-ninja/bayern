@@ -4,8 +4,8 @@ latitude: 48.15086
 longitude: 11.57429
 postcode: "80799"
 city: München
-street: "Schellingstraße"
-housenumber: 46
+street: Schellingstraße
+housenumber: "46"
 phone: ""
-opening_hours: "Mo-Fr 11:00-13:00,14:00-18:00; Sa 11:00-14:00"
-website: "https://antiques-shop.de/"
+opening_hours: Mo-Fr 11:00-13:00,14:00-18:00; Sa 11:00-14:00
+website: https://antiques-shop.de/

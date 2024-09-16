@@ -1,11 +1,11 @@
 id: 58276468
-type: way
+type: node
 latitude: 47.79426
 longitude: 11.83898
 postcode: "83714"
 city: Miesbach
-street: "Am Windfeld"
-housenumber: 8
-phone: "+49 8025 29730"
-opening_hours: "Mo-Sa 08:00-19:00"
-website: "https://www.hagebaumarkt-muenchen.de/standorte/miesbach/mn_19128"
+street: Am Windfeld
+housenumber: "8"
+phone: +49 8025 29730
+opening_hours: Mo-Sa 08:00-19:00
+website: https://www.hagebaumarkt-muenchen.de/standorte/miesbach/mn_19128

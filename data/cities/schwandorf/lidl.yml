@@ -1,11 +1,11 @@
 id: 569414194
-type: way
+type: node
 latitude: 49.32509
 longitude: 12.10881
 postcode: "92421"
 city: Schwandorf
-street: "Paul-von-Denis-Straße"
-housenumber: 4
+street: Paul-von-Denis-Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 87304309
-type: way
+type: node
 latitude: 50.03872
 longitude: 10.24222
 postcode: "97526"
 city: Sennfeld
-street: "Schweinfurter Straße"
-housenumber: 4
+street: Schweinfurter Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

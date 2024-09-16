@@ -1,11 +1,11 @@
 id: 35917960
-type: way
+type: node
 latitude: 49.82887
 longitude: 9.89522
 postcode: "97209"
 city: Veitshöchheim
-street: "Oberdürrbacher Straße"
-housenumber: 2
+street: Oberdürrbacher Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

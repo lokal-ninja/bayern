@@ -5,7 +5,7 @@ longitude: 12.73127
 postcode: "84567"
 city: Erlbach
 street: ""
-housenumber: 44
+housenumber: "44"
 phone: ""
 opening_hours: ""
-website: "https://www.schaechnerhof.com/"
+website: https://www.schaechnerhof.com/

@@ -1,11 +1,11 @@
 id: 300287331
-type: way
+type: node
 latitude: 49.45137
 longitude: 10.64517
 postcode: "90616"
 city: Neuhof a.d.Zenn
-street: "Industriestraße"
-housenumber: 25
-phone: "+49 800 3335211"
-opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-20:00"
+street: Industriestraße
+housenumber: "25"
+phone: +49 800 3335211
+opening_hours: Mo-Fr 07:00-20:00; Sa 07:00-20:00
 website: ""

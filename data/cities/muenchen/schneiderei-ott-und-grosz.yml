@@ -4,8 +4,8 @@ latitude: 48.11758
 longitude: 11.58436
 postcode: "81541"
 city: München
-street: "Watzmannstraße"
-housenumber: 11
+street: Watzmannstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 08:00-18:00; We 14:00-18:00; Sa 10:00-13:00"
+opening_hours: Mo,Tu,Th,Fr 08:00-18:00; We 14:00-18:00; Sa 10:00-13:00
 website: ""

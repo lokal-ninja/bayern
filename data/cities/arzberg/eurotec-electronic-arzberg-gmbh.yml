@@ -1,11 +1,11 @@
 id: 118672755
-type: way
+type: node
 latitude: 50.06598
 longitude: 12.19839
 postcode: "95659"
 city: Arzberg
-street: "Ringstraße"
-housenumber: 38
+street: Ringstraße
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

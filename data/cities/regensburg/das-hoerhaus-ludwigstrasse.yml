@@ -4,8 +4,8 @@ latitude: 49.01982
 longitude: 12.09042
 postcode: "93047"
 city: Regensburg
-street: "Ludwigstraße"
-housenumber: 6
+street: Ludwigstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; PH off"
-website: "https://das-hoerhaus.de/filialen/ludwigstrasse/"
+opening_hours: Mo-Fr 09:00-18:00; PH off
+website: https://das-hoerhaus.de/filialen/ludwigstrasse/

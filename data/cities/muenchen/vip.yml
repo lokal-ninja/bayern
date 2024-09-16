@@ -4,8 +4,8 @@ latitude: 48.1573
 longitude: 11.5752
 postcode: "80801"
 city: München
-street: "Nordendstraße"
-housenumber: 50
+street: Nordendstraße
+housenumber: "50"
 phone: ""
-opening_hours: "Mo-Fr 12:00-19:00; Sa 12:00-16:00"
+opening_hours: Mo-Fr 12:00-19:00; Sa 12:00-16:00
 website: ""

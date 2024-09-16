@@ -4,8 +4,8 @@ latitude: 49.96071
 longitude: 9.17599
 postcode: "63743"
 city: Aschaffenburg
-street: "Steubenstraße"
-housenumber: 77
-phone: "+49 6021 95603"
-opening_hours: "Mo-Fr 06:30-17:00; Su 08:00-11:00; Sa off"
-website: "http://www.baeckerei-wenzel.de/html/schweinheim.html"
+street: Steubenstraße
+housenumber: "77"
+phone: +49 6021 95603
+opening_hours: Mo-Fr 06:30-17:00; Su 08:00-11:00; Sa off
+website: http://www.baeckerei-wenzel.de/html/schweinheim.html

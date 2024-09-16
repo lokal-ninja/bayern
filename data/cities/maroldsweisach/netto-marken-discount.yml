@@ -4,8 +4,8 @@ latitude: 50.20054
 longitude: 10.65447
 postcode: "96126"
 city: Maroldsweisach
-street: "Bleichäcker"
-housenumber: 1
+street: Bleichäcker
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de

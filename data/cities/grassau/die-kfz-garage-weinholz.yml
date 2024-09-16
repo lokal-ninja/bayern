@@ -4,8 +4,8 @@ latitude: 47.79315
 longitude: 12.41316
 postcode: "83224"
 city: Grassau
-street: "Grassauer Straße"
-housenumber: 8
-phone: "+49 8641 5910032"
-opening_hours: "Mo-Fr 08:30-17:30"
-website: "https://die-kfz-garage.de"
+street: Grassauer Straße
+housenumber: "8"
+phone: +49 8641 5910032
+opening_hours: Mo-Fr 08:30-17:30
+website: https://die-kfz-garage.de

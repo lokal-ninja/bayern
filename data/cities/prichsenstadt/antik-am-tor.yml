@@ -4,8 +4,8 @@ latitude: 49.81765
 longitude: 10.35128
 postcode: "97357"
 city: Prichsenstadt
-street: "Luitpoldstraße"
-housenumber: 17
+street: Luitpoldstraße
+housenumber: "17"
 phone: ""
-opening_hours: "Fr 14:00-18:00; Sa 10:00-16:00"
-website: "http://www.antik-am-tor.de/"
+opening_hours: Fr 14:00-18:00; Sa 10:00-16:00
+website: http://www.antik-am-tor.de/

@@ -4,8 +4,8 @@ latitude: 48.35523
 longitude: 10.94527
 postcode: "86163"
 city: Augsburg
-street: "Friedberger Straße"
-housenumber: 135
+street: Friedberger Straße
+housenumber: "135"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-14:00"
-website: "http://www.diecomputerwerkstatt.com"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-14:00
+website: http://www.diecomputerwerkstatt.com

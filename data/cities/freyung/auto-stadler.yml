@@ -5,7 +5,7 @@ longitude: 13.54803
 postcode: "94078"
 city: Freyung
 street: ""
-housenumber: 13
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00"
-website: "https://www.auto-stadler.eu/"
+opening_hours: Mo-Fr 08:00-12:00
+website: https://www.auto-stadler.eu/

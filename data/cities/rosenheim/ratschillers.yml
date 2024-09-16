@@ -1,11 +1,11 @@
 id: 169243145
-type: way
+type: node
 latitude: 47.82838
 longitude: 12.10431
 postcode: "83026"
 city: Rosenheim
-street: "Aisinger Straße"
-housenumber: 90
+street: Aisinger Straße
+housenumber: "90"
 phone: ""
-opening_hours: "Mo-Fr 05:30-18:30; Sa 05:30-17:00; PH,Su 07:00-17:00"
+opening_hours: Mo-Fr 05:30-18:30; Sa 05:30-17:00; PH,Su 07:00-17:00
 website: ""

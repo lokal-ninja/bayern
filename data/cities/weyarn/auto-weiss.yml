@@ -1,11 +1,11 @@
 id: 89405659
-type: way
+type: node
 latitude: 47.82299
 longitude: 11.83564
 postcode: "83629"
 city: Weyarn
-street: "Dorfstraße"
-housenumber: 2
-phone: "+49 8025 6076"
+street: Dorfstraße
+housenumber: "2"
+phone: +49 8025 6076
 opening_hours: ""
-website: "http://www.auto-weiss.eu"
+website: http://www.auto-weiss.eu

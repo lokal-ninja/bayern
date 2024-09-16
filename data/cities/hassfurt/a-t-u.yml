@@ -1,11 +1,11 @@
 id: 95451492
-type: way
+type: node
 latitude: 50.031
 longitude: 10.52977
 postcode: "97437"
 city: Haßfurt
-street: "Am Sterzelbach"
-housenumber: 10
-phone: "+49 180 52727543"
+street: Am Sterzelbach
+housenumber: "10"
+phone: +49 180 52727543
 opening_hours: ""
 website: ""

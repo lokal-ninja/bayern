@@ -1,11 +1,11 @@
 id: 337812613
-type: way
+type: node
 latitude: 48.96194
 longitude: 12.38384
 postcode: "93102"
 city: Pfatter
-street: "Ringstraße"
-housenumber: 27
-phone: "+49 9481 240"
+street: Ringstraße
+housenumber: "27"
+phone: +49 9481 240
 opening_hours: ""
-website: "https://www.zaech-juwelen.de/"
+website: https://www.zaech-juwelen.de/

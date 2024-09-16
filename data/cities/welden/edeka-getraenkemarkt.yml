@@ -1,11 +1,11 @@
 id: 239133274
-type: way
+type: node
 latitude: 48.45239
 longitude: 10.66146
 postcode: "86465"
 city: Welden
-street: "Bahnhofstraße"
-housenumber: 16
+street: Bahnhofstraße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 52037037
-type: way
+type: node
 latitude: 49.4016
 longitude: 11.11687
 postcode: "90469"
 city: Nürnberg
-street: "Zollhausstraße"
-housenumber: 26
+street: Zollhausstraße
+housenumber: "26"
 phone: ""
 opening_hours: ""
-website: "https://www.atu.de/pages/service/filialen/f_detail.html?nr=259"
+website: https://www.atu.de/pages/service/filialen/f_detail.html?nr=259

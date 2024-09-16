@@ -1,11 +1,11 @@
 id: 43061086
-type: way
+type: node
 latitude: 49.47585
 longitude: 10.98896
 postcode: "90762"
 city: Fürth
-street: "Schwabacher Straße"
-housenumber: 5
+street: Schwabacher Straße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.flair-fuerth.de/"
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.flair-fuerth.de/

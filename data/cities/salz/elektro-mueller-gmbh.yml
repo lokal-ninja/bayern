@@ -1,11 +1,11 @@
 id: 160278883
-type: way
+type: node
 latitude: 50.30914
 longitude: 10.20839
 postcode: "97616"
 city: Salz
-street: "Hauptstraße"
-housenumber: 31
-phone: "+49 9771 61620"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00"
-website: "http://www.muellersalz.de/"
+street: Hauptstraße
+housenumber: "31"
+phone: +49 9771 61620
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-13:00
+website: http://www.muellersalz.de/

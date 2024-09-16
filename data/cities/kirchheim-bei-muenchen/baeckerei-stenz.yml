@@ -1,11 +1,11 @@
 id: 157384648
-type: way
+type: node
 latitude: 48.16008
 longitude: 11.75449
 postcode: "85551"
 city: Kirchheim bei München
-street: "Hauptstraße"
-housenumber: 12
+street: Hauptstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 06:30-18:00; Su 13:00-17:00"
+opening_hours: Mo-Sa 06:30-18:00; Su 13:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 238413901
-type: way
+type: node
 latitude: 49.69066
 longitude: 12.16947
 postcode: "92637"
 city: Weiden i.d.OPf.
-street: "Hammerweg"
-housenumber: 64
+street: Hammerweg
+housenumber: "64"
 phone: ""
 opening_hours: ""
 website: ""

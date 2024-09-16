@@ -1,11 +1,11 @@
 id: 47703412
-type: way
+type: node
 latitude: 49.57672
 longitude: 10.89826
 postcode: "91074"
 city: Herzogenaurach
-street: "Zeppelinstraße"
-housenumber: 5
-phone: "+49 9132 7877 0"
-opening_hours: "Mo-Fr 06:30-17:00; Sa 07:00-13:00"
-website: "https://www.daigfuss.de/"
+street: Zeppelinstraße
+housenumber: "5"
+phone: +49 9132 7877 0
+opening_hours: Mo-Fr 06:30-17:00; Sa 07:00-13:00
+website: https://www.daigfuss.de/

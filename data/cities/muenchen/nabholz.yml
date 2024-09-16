@@ -1,11 +1,11 @@
 id: 126246532
-type: way
+type: node
 latitude: 48.11348
 longitude: 11.53089
 postcode: "81369"
 city: München
-street: "Johann-Clanze-Straße"
-housenumber: 38
+street: Johann-Clanze-Straße
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

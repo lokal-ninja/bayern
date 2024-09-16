@@ -1,11 +1,11 @@
 id: 43979056
-type: way
+type: node
 latitude: 49.50938
 longitude: 11.42371
 postcode: "91217"
 city: Hersbruck
-street: "Nürnberger Straße"
-housenumber: 41
+street: Nürnberger Straße
+housenumber: "41"
 phone: "+4991513434"
-opening_hours: "Mo-Fr 07:30-18:00, Sa 09:00-13:00"
-website: "https://www.monza-autozubehoer.de/"
+opening_hours: Mo-Fr 07:30-18:00, Sa 09:00-13:00
+website: https://www.monza-autozubehoer.de/

@@ -4,8 +4,8 @@ latitude: 47.94802
 longitude: 11.10584
 postcode: "86911"
 city: Dießen am Ammersee
-street: "Fischerei"
-housenumber: 19
-phone: "+49 8807 229"
-opening_hours: "Tu-Fr 07:45-13:00, Tu-Fr 15:00-18:00, Sa 07:30-12:00; PH off"
-website: "https://www.metzgerei-riess.de"
+street: Fischerei
+housenumber: "19"
+phone: +49 8807 229
+opening_hours: Tu-Fr 07:45-13:00, Tu-Fr 15:00-18:00, Sa 07:30-12:00; PH off
+website: https://www.metzgerei-riess.de

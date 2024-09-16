@@ -4,8 +4,8 @@ latitude: 48.22283
 longitude: 10.0982
 postcode: "89257"
 city: Illertissen
-street: "Friedrich-Ebert-Straße"
-housenumber: 9
+street: Friedrich-Ebert-Straße
+housenumber: "9"
 phone: "+497303902388"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.dm.de/store/d27l/illertissen/friedrich-ebert-strasse-9"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.dm.de/store/d27l/illertissen/friedrich-ebert-strasse-9

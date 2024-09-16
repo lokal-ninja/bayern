@@ -1,11 +1,11 @@
 id: 358317536
-type: way
+type: node
 latitude: 49.58729
 longitude: 11.00321
 postcode: "91052"
 city: Erlangen
-street: "Hilpertstraße"
-housenumber: 22
-phone: "+49 9131 1206562"
+street: Hilpertstraße
+housenumber: "22"
+phone: +49 9131 1206562
 opening_hours: ""
-website: "https://www.baywa.de/"
+website: https://www.baywa.de/

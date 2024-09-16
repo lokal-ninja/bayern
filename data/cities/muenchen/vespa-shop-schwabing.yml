@@ -4,8 +4,8 @@ latitude: 48.16365
 longitude: 11.58874
 postcode: "80802"
 city: München
-street: "Marschallstraße"
-housenumber: 3
+street: Marschallstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:30,13:30-18:00; Sa 09:00-12:00"
+opening_hours: Mo-Fr 09:00-12:30,13:30-18:00; Sa 09:00-12:00
 website: ""

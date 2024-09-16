@@ -1,11 +1,11 @@
 id: 307231991
-type: way
+type: node
 latitude: 48.0322
 longitude: 10.71041
 postcode: "86807"
 city: Buchloe
-street: "Karwendelstraße"
-housenumber: 49
+street: Karwendelstraße
+housenumber: "49"
 phone: ""
 opening_hours: ""
 website: ""

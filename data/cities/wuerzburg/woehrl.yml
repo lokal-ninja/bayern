@@ -1,11 +1,11 @@
 id: 159679234
-type: way
+type: node
 latitude: 49.79301
 longitude: 9.92803
 postcode: "97070"
 city: Würzburg
-street: "Beim Grafeneckart"
-housenumber: 10
+street: Beim Grafeneckart
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00; PH,Su off"
+opening_hours: Mo-Sa 10:00-19:00; PH,Su off
 website: ""

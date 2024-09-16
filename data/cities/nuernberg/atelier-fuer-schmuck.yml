@@ -4,8 +4,8 @@ latitude: 49.45442
 longitude: 11.08116
 postcode: ""
 city: Nürnberg
-street: "Tucherstraße"
-housenumber: 22
+street: Tucherstraße
+housenumber: "22"
 phone: ""
-opening_hours: "We-Fr 13:00-18:00; Sa 11:00-16:00"
-website: "http://www.barbaraweinberger.de/"
+opening_hours: We-Fr 13:00-18:00; Sa 11:00-16:00
+website: http://www.barbaraweinberger.de/

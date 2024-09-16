@@ -4,8 +4,8 @@ latitude: 48.99453
 longitude: 12.08364
 postcode: "93051"
 city: Regensburg
-street: "Karl-Stieler-Straße"
-housenumber: 56
-phone: "+49 941 974 31"
-opening_hours: "Tu-Th 09:00-18:00; Fr 09:00-17:00; Sa 09:00-13:00"
+street: Karl-Stieler-Straße
+housenumber: "56"
+phone: +49 941 974 31
+opening_hours: Tu-Th 09:00-18:00; Fr 09:00-17:00; Sa 09:00-13:00
 website: ""

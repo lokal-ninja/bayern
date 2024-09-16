@@ -1,11 +1,11 @@
 id: 738079321
-type: way
+type: node
 latitude: 50.24921
 longitude: 10.96297
 postcode: "96450"
 city: Coburg
-street: "Bamberger Straße"
-housenumber: 32
+street: Bamberger Straße
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 09:00-20:00; Su,PH off
 website: ""

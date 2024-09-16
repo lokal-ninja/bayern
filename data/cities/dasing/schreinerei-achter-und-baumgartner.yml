@@ -1,11 +1,11 @@
 id: 91949403
-type: way
+type: node
 latitude: 48.39415
 longitude: 11.0549
 postcode: "86453"
 city: Dasing
-street: "Taitinger Straße"
-housenumber: 67
+street: Taitinger Straße
+housenumber: "67"
 phone: ""
 opening_hours: ""
-website: "https://www.achter-baumgartner.de/"
+website: https://www.achter-baumgartner.de/

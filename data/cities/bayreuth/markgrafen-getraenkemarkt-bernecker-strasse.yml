@@ -1,11 +1,11 @@
 id: 194290735
-type: way
+type: node
 latitude: 49.9559
 longitude: 11.60541
 postcode: "95448"
 city: Bayreuth
-street: "Bernecker Straße"
-housenumber: 73
+street: Bernecker Straße
+housenumber: "73"
 phone: ""
 opening_hours: ""
 website: ""

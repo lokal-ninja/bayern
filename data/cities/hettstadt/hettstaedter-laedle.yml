@@ -1,11 +1,11 @@
 id: 229609849
-type: way
+type: node
 latitude: 49.80134
 longitude: 9.8149
 postcode: "97265"
 city: Hettstadt
-street: "Würzburger Straße"
-housenumber: 31
+street: Würzburger Straße
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

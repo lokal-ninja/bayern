@@ -4,8 +4,8 @@ latitude: 49.47134
 longitude: 11.10946
 postcode: "90491"
 city: Nürnberg
-street: "Leipziger Straße"
-housenumber: 31
-phone: "+49 911 594992"
-opening_hours: "Mo-Fr 08:00-13:00,14:00-18:00; Sa,Su off"
-website: "https://www.richterpaedie.de/"
+street: Leipziger Straße
+housenumber: "31"
+phone: +49 911 594992
+opening_hours: Mo-Fr 08:00-13:00,14:00-18:00; Sa,Su off
+website: https://www.richterpaedie.de/

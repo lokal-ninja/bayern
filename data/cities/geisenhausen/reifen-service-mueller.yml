@@ -4,8 +4,8 @@ latitude: 48.48278
 longitude: 12.24195
 postcode: "84144"
 city: Geisenhausen
-street: "Benzstraße"
-housenumber: 40
-phone: "+49 8743 9695 0"
-opening_hours: "Mo-Fr 08:00-12:00,13:00-17:30; Mar-Dec: Sa 08:00-12:00"
+street: Benzstraße
+housenumber: "40"
+phone: +49 8743 9695 0
+opening_hours: 'Mo-Fr 08:00-12:00,13:00-17:30; Mar-Dec: Sa 08:00-12:00'
 website: ""

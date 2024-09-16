@@ -4,8 +4,8 @@ latitude: 49.5976
 longitude: 11.00317
 postcode: "91054"
 city: Erlangen
-street: "Marktplatz"
-housenumber: 4
+street: Marktplatz
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.norma-online.de"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.norma-online.de

@@ -4,8 +4,8 @@ latitude: 48.28519
 longitude: 11.89642
 postcode: "85435"
 city: Erding
-street: "Otto-Hahn-Straße"
-housenumber: 14
-phone: "+49 8122 54580"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:30-12:00"
-website: "https://reifen-pfleger.de/"
+street: Otto-Hahn-Straße
+housenumber: "14"
+phone: +49 8122 54580
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:30-12:00
+website: https://reifen-pfleger.de/

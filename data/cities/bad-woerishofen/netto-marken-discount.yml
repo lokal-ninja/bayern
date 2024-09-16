@@ -1,11 +1,11 @@
 id: 195817576
-type: way
+type: node
 latitude: 48.01884
 longitude: 10.60392
 postcode: "86825"
 city: Bad Wörishofen
-street: "Karl-Benz-Straße"
-housenumber: 27
+street: Karl-Benz-Straße
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
+opening_hours: Mo-Sa 07:00-20:00; PH off
 website: ""

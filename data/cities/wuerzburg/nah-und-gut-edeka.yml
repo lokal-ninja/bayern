@@ -1,11 +1,11 @@
 id: 88214308
-type: way
+type: node
 latitude: 49.74718
 longitude: 9.95675
 postcode: "97084"
 city: Würzburg
-street: "Place de Caen"
-housenumber: 4
+street: Place de Caen
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

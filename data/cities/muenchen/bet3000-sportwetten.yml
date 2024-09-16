@@ -4,8 +4,8 @@ latitude: 48.1406
 longitude: 11.51881
 postcode: "80687"
 city: München
-street: "Elsenheimerstraße"
-housenumber: 3
+street: Elsenheimerstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 11:00-23:00; Sa,Su 10:00-23:00"
-website: "https://bet3000.de/home"
+opening_hours: Mo-Fr 11:00-23:00; Sa,Su 10:00-23:00
+website: https://bet3000.de/home

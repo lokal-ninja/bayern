@@ -1,11 +1,11 @@
 id: 33196554
-type: way
+type: node
 latitude: 49.4533
 longitude: 11.12165
 postcode: "90480"
 city: Nürnberg
-street: "Gleißhammerstraße"
-housenumber: 111
-phone: "+49 911 5063188"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"
-website: "https://www.fristo.de/"
+street: Gleißhammerstraße
+housenumber: "111"
+phone: +49 911 5063188
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00
+website: https://www.fristo.de/

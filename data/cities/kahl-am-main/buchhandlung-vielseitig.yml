@@ -4,8 +4,8 @@ latitude: 50.06958
 longitude: 9.00523
 postcode: "63796"
 city: Kahl am Main
-street: "Hanauer Landstraße"
-housenumber: 5
-phone: "+49 6188 8955"
-opening_hours: "Mo-Fr 08:30-12:30,14:30-18:00; Sa 08:30-12:30"
-website: "https://www.vielseitig.de/"
+street: Hanauer Landstraße
+housenumber: "5"
+phone: +49 6188 8955
+opening_hours: Mo-Fr 08:30-12:30,14:30-18:00; Sa 08:30-12:30
+website: https://www.vielseitig.de/

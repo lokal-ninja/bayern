@@ -4,8 +4,8 @@ latitude: 48.04961
 longitude: 10.48729
 postcode: "87719"
 city: Mindelheim
-street: "Am Alten Krankenhaus"
-housenumber: 31
-phone: "+49 8261 20592"
-opening_hours: "Nach Vereinbarung"
-website: "http://www.kims-nagelstudio.de/"
+street: Am Alten Krankenhaus
+housenumber: "31"
+phone: +49 8261 20592
+opening_hours: '"Nach Vereinbarung"'
+website: http://www.kims-nagelstudio.de/

@@ -4,8 +4,8 @@ latitude: 49.20238
 longitude: 12.6578
 postcode: "93413"
 city: Cham
-street: "Rodinger Straße"
-housenumber: 3
+street: Rodinger Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.mueller.de/meine-filiale/cham/rodinger-str-3/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.mueller.de/meine-filiale/cham/rodinger-str-3/

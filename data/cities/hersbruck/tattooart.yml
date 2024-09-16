@@ -4,8 +4,8 @@ latitude: 49.5082
 longitude: 11.43168
 postcode: "91217"
 city: Hersbruck
-street: "Martin-Luther-Straße"
-housenumber: 25
+street: Martin-Luther-Straße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 14:00-18:00, Mo,Tu,Th-Sa 10:00-12:00, Sa 13:00+"
+opening_hours: Mo,Tu,Th,Fr 14:00-18:00, Mo,Tu,Th-Sa 10:00-12:00, Sa 13:00+
 website: ""

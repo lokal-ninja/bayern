@@ -1,11 +1,11 @@
 id: 239358618
-type: way
+type: node
 latitude: 48.36123
 longitude: 10.95615
 postcode: "86316"
 city: Friedberg
-street: "Josef-Wassermann-Straße"
-housenumber: 3
-phone: "+49 821 3499752"
+street: Josef-Wassermann-Straße
+housenumber: "3"
+phone: +49 821 3499752
 opening_hours: ""
-website: "https://www.schreiz.de/"
+website: https://www.schreiz.de/

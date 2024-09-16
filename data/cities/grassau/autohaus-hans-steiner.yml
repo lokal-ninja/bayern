@@ -1,11 +1,11 @@
 id: 185475694
-type: way
+type: node
 latitude: 47.77827
 longitude: 12.44171
 postcode: "83224"
 city: Grassau
-street: "Kucheln"
-housenumber: 15
+street: Kucheln
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

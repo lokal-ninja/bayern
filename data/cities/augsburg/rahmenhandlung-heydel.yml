@@ -4,8 +4,8 @@ latitude: 48.36338
 longitude: 10.90229
 postcode: "86150"
 city: Augsburg
-street: "Bäckergasse"
-housenumber: 16
-phone: "+49 821 65058465"
-opening_hours: "Tu-Fr 09:00-13:00,14:00-18:00; Sa 10:00-14:00"
-website: "https://www.rahmenhandlung.net"
+street: Bäckergasse
+housenumber: "16"
+phone: +49 821 65058465
+opening_hours: Tu-Fr 09:00-13:00,14:00-18:00; Sa 10:00-14:00
+website: https://www.rahmenhandlung.net

@@ -1,11 +1,11 @@
 id: 53901288
-type: way
+type: node
 latitude: 48.16273
 longitude: 11.57406
 postcode: "80796"
 city: München
-street: "Herzogstraße"
-housenumber: 74
-phone: "+49 89 297989; +49 172 6513618"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
-website: "https://diehautfee.de/"
+street: Herzogstraße
+housenumber: "74"
+phone: +49 89 297989; +49 172 6513618
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00
+website: https://diehautfee.de/

@@ -1,11 +1,11 @@
 id: 201735712
-type: way
+type: node
 latitude: 49.62587
 longitude: 10.91989
 postcode: "91093"
 city: Heßdorf
-street: "Im Gewerbepark"
-housenumber: 37
+street: Im Gewerbepark
+housenumber: "37"
 phone: ""
 opening_hours: ""
 website: ""

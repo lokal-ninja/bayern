@@ -1,11 +1,11 @@
 id: 299353861
-type: way
+type: node
 latitude: 48.11882
 longitude: 10.45183
 postcode: "87772"
 city: Pfaffenhausen
-street: "Hauptstraße"
-housenumber: 3
+street: Hauptstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

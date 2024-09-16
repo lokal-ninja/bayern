@@ -1,11 +1,11 @@
 id: 584481741
-type: way
+type: node
 latitude: 48.5472
 longitude: 10.85379
 postcode: "86405"
 city: Meitingen
-street: "Donauwörther Straße"
-housenumber: 2
+street: Donauwörther Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.optik-gleich.de/"
+website: https://www.optik-gleich.de/

@@ -4,8 +4,8 @@ latitude: 48.36708
 longitude: 10.89512
 postcode: "86150"
 city: Augsburg
-street: "Annastraße"
-housenumber: 39
-phone: "+49 821 345370"
-opening_hours: "Mo-Sa 09:30-18:30"
-website: "https://www.yeanshalle.de/portfolio/augsburg-annastrasse/"
+street: Annastraße
+housenumber: "39"
+phone: +49 821 345370
+opening_hours: Mo-Sa 09:30-18:30
+website: https://www.yeanshalle.de/portfolio/augsburg-annastrasse/

@@ -1,11 +1,11 @@
 id: 303087928
-type: way
+type: node
 latitude: 47.9967
 longitude: 11.27781
 postcode: "82319"
 city: Starnberg
-street: "Pöckinger Straße"
-housenumber: 34
+street: Pöckinger Straße
+housenumber: "34"
 phone: ""
 opening_hours: ""
 website: ""

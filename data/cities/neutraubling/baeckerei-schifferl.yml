@@ -1,11 +1,11 @@
 id: 303229389
-type: way
+type: node
 latitude: 48.98911
 longitude: 12.19004
 postcode: "93073"
 city: Neutraubling
-street: "Gleiwitzer Straße"
-housenumber: 6
+street: Gleiwitzer Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

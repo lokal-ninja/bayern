@@ -4,8 +4,8 @@ latitude: 48.12959
 longitude: 11.57596
 postcode: "80469"
 city: München
-street: "Reichenbachstraße"
-housenumber: 41
+street: Reichenbachstraße
+housenumber: "41"
 phone: ""
-opening_hours: "Mo-Fr 11:00-19:00; Sa 11:00-18:00"
-website: "https://heisseliebe.store/"
+opening_hours: Mo-Fr 11:00-19:00; Sa 11:00-18:00
+website: https://heisseliebe.store/

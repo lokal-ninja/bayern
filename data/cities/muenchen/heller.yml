@@ -4,8 +4,8 @@ latitude: 48.11574
 longitude: 11.62487
 postcode: "81735"
 city: München
-street: "Jäcklinstraße"
-housenumber: 11
-phone: "+49 89 400182"
-opening_hours: "Mo,Tu,Th,Fr 08:00-18:00; We 08:00-12:30; Sa 09:00-12:30; Su 10:00-12:00"
-website: "https://www.blumen-heller.de"
+street: Jäcklinstraße
+housenumber: "11"
+phone: +49 89 400182
+opening_hours: Mo,Tu,Th,Fr 08:00-18:00; We 08:00-12:30; Sa 09:00-12:30; Su 10:00-12:00
+website: https://www.blumen-heller.de

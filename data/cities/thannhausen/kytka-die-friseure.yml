@@ -4,8 +4,8 @@ latitude: 48.27552
 longitude: 10.46952
 postcode: "86470"
 city: Thannhausen
-street: "Bäckerstraße"
-housenumber: 14
-phone: "+49 8281 1318"
-opening_hours: "Tu-Fr 09:00-12:30, 13:30-18:00; Sa 08:30-13:00"
-website: "https://www.friseur-kytka.de/"
+street: Bäckerstraße
+housenumber: "14"
+phone: +49 8281 1318
+opening_hours: Tu-Fr 09:00-12:30, 13:30-18:00; Sa 08:30-13:00
+website: https://www.friseur-kytka.de/

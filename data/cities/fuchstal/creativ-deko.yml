@@ -1,11 +1,11 @@
 id: 1287401584
-type: way
+type: node
 latitude: 47.9303
 longitude: 10.82997
 postcode: "86925"
 city: Fuchstal
-street: "Hauptstraße"
-housenumber: 75
+street: Hauptstraße
+housenumber: "75"
 phone: ""
 opening_hours: ""
 website: ""

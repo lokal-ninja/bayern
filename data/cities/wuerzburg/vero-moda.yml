@@ -4,8 +4,8 @@ latitude: 49.79809
 longitude: 9.93348
 postcode: "97070"
 city: Würzburg
-street: "Kaiserstraße"
-housenumber: 3
-phone: "+49 931 30418632"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.only.com/de/de/home"
+street: Kaiserstraße
+housenumber: "3"
+phone: +49 931 30418632
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.only.com/de/de/home

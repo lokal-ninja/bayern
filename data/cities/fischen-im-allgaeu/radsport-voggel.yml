@@ -1,11 +1,11 @@
 id: 118484942
-type: way
+type: node
 latitude: 47.46124
 longitude: 10.27216
 postcode: "87538"
 city: Fischen im Allgäu
-street: "Weilerstraße"
-housenumber: 5
+street: Weilerstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

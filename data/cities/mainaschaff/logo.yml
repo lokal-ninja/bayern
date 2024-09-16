@@ -1,11 +1,11 @@
 id: 123746462
-type: way
+type: node
 latitude: 49.98036
 longitude: 9.10573
 postcode: "63814"
 city: Mainaschaff
-street: "Hauptstraße"
-housenumber: 204
+street: Hauptstraße
+housenumber: "204"
 phone: ""
 opening_hours: ""
 website: ""

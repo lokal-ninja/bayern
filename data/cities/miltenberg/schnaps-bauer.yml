@@ -4,8 +4,8 @@ latitude: 49.69931
 longitude: 9.25223
 postcode: "63897"
 city: Miltenberg
-street: "Hauptstraße"
-housenumber: 163
+street: Hauptstraße
+housenumber: "163"
 phone: ""
-opening_hours: "Th,Fr 11:00-17:00; Sa 10:00-14:00; PH,Su 12:00-17:00"
-website: "https://www.bauers-wildsau.de/index.php/verkaufsgeschaeft-miltenberg"
+opening_hours: Th,Fr 11:00-17:00; Sa 10:00-14:00; PH,Su 12:00-17:00
+website: https://www.bauers-wildsau.de/index.php/verkaufsgeschaeft-miltenberg

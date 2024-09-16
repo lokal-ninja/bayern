@@ -4,8 +4,8 @@ latitude: 50.04415
 longitude: 10.23302
 postcode: "97421"
 city: Schweinfurt
-street: "Spitalstraße"
-housenumber: 20
-phone: "+499721 1745"
+street: Spitalstraße
+housenumber: "20"
+phone: +499721 1745
 opening_hours: ""
-website: "https://bavaria-reisebuero.de"
+website: https://bavaria-reisebuero.de

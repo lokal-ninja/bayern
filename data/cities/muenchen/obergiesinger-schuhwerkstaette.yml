@@ -4,8 +4,8 @@ latitude: 48.11808
 longitude: 11.58488
 postcode: "81541"
 city: München
-street: "Zugspitzstraße"
-housenumber: 4
+street: Zugspitzstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 08:30-19:00; Sa 08:30-13:00"
+opening_hours: Mo,Tu,Th,Fr 08:30-19:00; Sa 08:30-13:00
 website: ""

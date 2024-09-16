@@ -1,11 +1,11 @@
 id: 103034307
-type: way
+type: node
 latitude: 49.49633
 longitude: 10.40796
 postcode: "91438"
 city: Bad Windsheim
-street: "Illesheimer Straße"
-housenumber: 5
+street: Illesheimer Straße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00; PH off"
-website: "https://www.action.com/"
+opening_hours: Mo-Sa 09:00-20:00; PH off
+website: https://www.action.com/

@@ -1,11 +1,11 @@
 id: 134424540
-type: way
+type: node
 latitude: 47.82888
 longitude: 12.1065
 postcode: "83026"
 city: Rosenheim
-street: "Aisinger Straße"
-housenumber: 89
-phone: "+49 8031 66185"
-opening_hours: "Tu-Fr 07:00-13:30, 15:00-18:00; Sa 07:00-12:30"
-website: "https://www.metzgerei-magg.de/index.php?PageID=165"
+street: Aisinger Straße
+housenumber: "89"
+phone: +49 8031 66185
+opening_hours: Tu-Fr 07:00-13:30, 15:00-18:00; Sa 07:00-12:30
+website: https://www.metzgerei-magg.de/index.php?PageID=165

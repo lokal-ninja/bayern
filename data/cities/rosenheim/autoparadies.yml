@@ -1,11 +1,11 @@
 id: 110279619
-type: way
+type: node
 latitude: 47.84781
 longitude: 12.12174
 postcode: "83026"
 city: Rosenheim
-street: "Klepperstraße"
-housenumber: 21
+street: Klepperstraße
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

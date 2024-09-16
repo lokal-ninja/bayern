@@ -1,11 +1,11 @@
 id: 127060743
-type: way
+type: node
 latitude: 49.82794
 longitude: 10.20868
 postcode: "97334"
 city: Sommerach
-street: "Frankenstraße"
-housenumber: 
+street: Frankenstraße
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

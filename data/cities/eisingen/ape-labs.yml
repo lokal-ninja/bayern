@@ -1,11 +1,11 @@
 id: 426423380
-type: way
+type: node
 latitude: 49.76094
 longitude: 9.84465
 postcode: "97249"
 city: Eisingen
-street: "Landwehrstraße"
-housenumber: 26
+street: Landwehrstraße
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

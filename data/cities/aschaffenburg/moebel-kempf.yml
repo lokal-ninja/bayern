@@ -1,11 +1,11 @@
 id: 45124462
-type: way
+type: node
 latitude: 49.94499
 longitude: 9.10122
 postcode: "63741"
 city: Aschaffenburg
-street: "Niedernberger Straße"
-housenumber: 8
+street: Niedernberger Straße
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "https://www.moebel-kempf.de/"
+website: https://www.moebel-kempf.de/

@@ -4,8 +4,8 @@ latitude: 48.40135
 longitude: 11.74739
 postcode: "85354"
 city: Freising
-street: "Untere Hauptstraße"
-housenumber: 38
-phone: "+49 8161 5969"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "http://www.thalhuber.de/"
+street: Untere Hauptstraße
+housenumber: "38"
+phone: +49 8161 5969
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: http://www.thalhuber.de/

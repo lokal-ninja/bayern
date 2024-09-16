@@ -4,8 +4,8 @@ latitude: 49.50678
 longitude: 11.48432
 postcode: "91224"
 city: Pommelsbrunn
-street: "Happurger Straße"
-housenumber: 13
+street: Happurger Straße
+housenumber: "13"
 phone: ""
-opening_hours: "Tu-Fr 08:00-18:00; Sa 07:00-13:00"
-website: "https://www.baeren-brot.de/"
+opening_hours: Tu-Fr 08:00-18:00; Sa 07:00-13:00
+website: https://www.baeren-brot.de/

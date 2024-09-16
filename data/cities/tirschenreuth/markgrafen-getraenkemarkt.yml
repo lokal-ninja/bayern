@@ -1,11 +1,11 @@
 id: 931683898
-type: way
+type: node
 latitude: 49.87188
 longitude: 12.34138
 postcode: "95643"
 city: Tirschenreuth
-street: "Mitterweg"
-housenumber: 1
-phone: "+49 9631 17 74"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 08:00-14:00; PH off"
-website: "https://www.markgrafen.com/portfolio-items/tirschenreuth/"
+street: Mitterweg
+housenumber: "1"
+phone: +49 9631 17 74
+opening_hours: Mo-Fr 09:00-18:00; Sa 08:00-14:00; PH off
+website: https://www.markgrafen.com/portfolio-items/tirschenreuth/

@@ -4,8 +4,8 @@ latitude: 47.83916
 longitude: 11.14379
 postcode: "82362"
 city: Weilheim in Oberbayern
-street: "Admiral-Hipper-Straße"
-housenumber: 15
-phone: "+49 881 64992"
-opening_hours: "Tu-Fr 06:30-17:30; Sa 07:00-12:00"
-website: "https://www.baeckerei-gloeckler.de"
+street: Admiral-Hipper-Straße
+housenumber: "15"
+phone: +49 881 64992
+opening_hours: Tu-Fr 06:30-17:30; Sa 07:00-12:00
+website: https://www.baeckerei-gloeckler.de

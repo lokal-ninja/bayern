@@ -1,11 +1,11 @@
 id: 48918343
-type: way
+type: node
 latitude: 48.33924
 longitude: 10.86858
 postcode: "86199"
 city: Augsburg
-street: "Bürgermeister-Aurnhammer-Straße"
-housenumber: 29
+street: Bürgermeister-Aurnhammer-Straße
+housenumber: "29"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-14:00"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-14:00
 website: ""

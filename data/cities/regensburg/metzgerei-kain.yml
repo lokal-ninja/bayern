@@ -4,8 +4,8 @@ latitude: 49.02084
 longitude: 12.09493
 postcode: "93047"
 city: Regensburg
-street: "Fischmarkt"
-housenumber: 9
-phone: "+49 941 561180"
-opening_hours: "Mo-Fr 07:00-18:30; Sa 07:00-13:00"
-website: "http://www.metzgerei-kain.de/"
+street: Fischmarkt
+housenumber: "9"
+phone: +49 941 561180
+opening_hours: Mo-Fr 07:00-18:30; Sa 07:00-13:00
+website: http://www.metzgerei-kain.de/

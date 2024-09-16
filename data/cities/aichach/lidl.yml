@@ -4,8 +4,8 @@ latitude: 48.45354
 longitude: 11.12802
 postcode: "86551"
 city: Aichach
-street: "Augsburger Straße"
-housenumber: 25
+street: Augsburger Straße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
-website: "https://www.lidl.de/f/aichach/augsburger-str-23.html"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
+website: https://www.lidl.de/f/aichach/augsburger-str-23.html

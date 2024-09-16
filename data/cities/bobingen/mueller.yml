@@ -1,11 +1,11 @@
 id: 33172738
-type: way
+type: node
 latitude: 48.26551
 longitude: 10.83938
 postcode: "86399"
 city: Bobingen
-street: "Königsbrunner Straße"
-housenumber: 7
-phone: "+49 8234 969190"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
+street: Königsbrunner Straße
+housenumber: "7"
+phone: +49 8234 969190
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
 website: ""

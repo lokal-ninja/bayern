@@ -1,11 +1,11 @@
 id: 55617407
-type: way
+type: node
 latitude: 49.6645
 longitude: 10.9254
 postcode: "91341"
 city: Röttenbach
-street: "Kapellenstraße"
-housenumber: 23
+street: Kapellenstraße
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

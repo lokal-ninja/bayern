@@ -4,8 +4,8 @@ latitude: 48.15476
 longitude: 11.8579
 postcode: "85646"
 city: Anzing
-street: "Hirnerstraße"
-housenumber: 23
+street: Hirnerstraße
+housenumber: "23"
 phone: ""
-opening_hours: "Tu-Fr 9:30-12:30, Tu-Fr 13:30-18:00, Sa 09:30-13:00"
-website: "https://www.ic-intercamp.de/"
+opening_hours: Tu-Fr 9:30-12:30, Tu-Fr 13:30-18:00, Sa 09:30-13:00
+website: https://www.ic-intercamp.de/

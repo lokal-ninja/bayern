@@ -1,11 +1,11 @@
 id: 32369533
-type: way
+type: node
 latitude: 48.10089
 longitude: 11.52832
 postcode: "81379"
 city: München
-street: "Hofmannstraße"
-housenumber: 16
+street: Hofmannstraße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

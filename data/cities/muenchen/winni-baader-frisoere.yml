@@ -4,8 +4,8 @@ latitude: 48.15498
 longitude: 11.58609
 postcode: "80802"
 city: München
-street: "Giselastraße"
-housenumber: 12
-phone: "+49 89 396532"
-opening_hours: "PH,Su,Mo off"
+street: Giselastraße
+housenumber: "12"
+phone: +49 89 396532
+opening_hours: PH,Su,Mo off
 website: ""

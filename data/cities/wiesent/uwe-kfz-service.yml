@@ -1,11 +1,11 @@
 id: 699214589
-type: way
+type: node
 latitude: 49.00846
 longitude: 12.37547
 postcode: "93109"
 city: Wiesent
-street: "Regensburger Straße"
-housenumber: 14
+street: Regensburger Straße
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

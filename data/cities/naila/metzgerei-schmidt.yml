@@ -1,11 +1,11 @@
 id: 67602591
-type: way
+type: node
 latitude: 50.32861
 longitude: 11.70942
 postcode: "95119"
 city: Naila
-street: "Kronacher Straße"
-housenumber: 7
+street: Kronacher Straße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

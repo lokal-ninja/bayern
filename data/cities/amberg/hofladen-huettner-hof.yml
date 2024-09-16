@@ -1,11 +1,11 @@
 id: 320016238
-type: way
+type: node
 latitude: 49.43642
 longitude: 11.81412
 postcode: "92224"
 city: Amberg
-street: "Zum Espan"
-housenumber: 12
+street: Zum Espan
+housenumber: "12"
 phone: ""
-opening_hours: "Th 14:00-17:00"
+opening_hours: Th 14:00-17:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.36101
 longitude: 10.89129
 postcode: "86150"
 city: Augsburg
-street: "Stettenstraße"
-housenumber: 36
+street: Stettenstraße
+housenumber: "36"
 phone: ""
-opening_hours: "nach Vereinbarung"
+opening_hours: '"nach Vereinbarung"'
 website: ""

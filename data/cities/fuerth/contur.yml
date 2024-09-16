@@ -4,8 +4,8 @@ latitude: 49.46213
 longitude: 10.98473
 postcode: "90763"
 city: Fürth
-street: "Kaiserstraße"
-housenumber: 11
-phone: "+49 911 - 78 08 329"
-opening_hours: "Tu-Fr 08:00-18:00; Sa 08:00-12:00; Mo Nach Vereinbarung"
-website: "https://www.friseur-contur.de/"
+street: Kaiserstraße
+housenumber: "11"
+phone: +49 911 - 78 08 329
+opening_hours: Tu-Fr 08:00-18:00; Sa 08:00-12:00; Mo "Nach Vereinbarung"
+website: https://www.friseur-contur.de/

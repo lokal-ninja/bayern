@@ -1,11 +1,11 @@
 id: 202382492
-type: way
+type: node
 latitude: 47.82864
 longitude: 12.97393
 postcode: "83395"
 city: Freilassing
-street: "Reichenhaller Straße"
-housenumber: 84
-phone: "+49 800 4353 361"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.lidl.de/"
+street: Reichenhaller Straße
+housenumber: "84"
+phone: +49 800 4353 361
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.lidl.de/

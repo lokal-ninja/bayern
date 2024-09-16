@@ -1,11 +1,11 @@
 id: 107241834
-type: way
+type: node
 latitude: 47.75886
 longitude: 11.58684
 postcode: "83646"
 city: Bad Tölz
-street: "Gewerbering"
-housenumber: 19
-phone: "+49 8041 7929149"
+street: Gewerbering
+housenumber: "19"
+phone: +49 8041 7929149
 opening_hours: ""
 website: ""

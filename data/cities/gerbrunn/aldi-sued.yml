@@ -1,11 +1,11 @@
 id: 141473048
-type: way
+type: node
 latitude: 49.78731
 longitude: 9.99029
 postcode: "97218"
 city: Gerbrunn
-street: "Oberer Kirschberg"
-housenumber: 8
+street: Oberer Kirschberg
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://filialen.aldi-sued.de/bayern/gerbrunn/oberer-kirschberg-8"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://filialen.aldi-sued.de/bayern/gerbrunn/oberer-kirschberg-8

@@ -4,8 +4,8 @@ latitude: 48.35368
 longitude: 10.77578
 postcode: "86420"
 city: Diedorf
-street: "Hauptstraße"
-housenumber: 30
-phone: "+49 8238 9666186"
-opening_hours: "Mo - Fr 06:30 - 18:30 ; Sa 06:30 - 14:00"
-website: "https://www.herzstueck-horgau.de/"
+street: Hauptstraße
+housenumber: "30"
+phone: +49 8238 9666186
+opening_hours: Mo - Fr 06:30 - 18:30 ; Sa 06:30 - 14:00
+website: https://www.herzstueck-horgau.de/

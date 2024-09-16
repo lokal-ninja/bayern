@@ -4,8 +4,8 @@ latitude: 48.17544
 longitude: 10.75065
 postcode: "86830"
 city: Schwabmünchen
-street: "Mindelheimer Straße"
-housenumber: 43
+street: Mindelheimer Straße
+housenumber: "43"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de

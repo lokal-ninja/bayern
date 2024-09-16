@@ -1,11 +1,11 @@
 id: 138468878
-type: way
+type: node
 latitude: 48.08266
 longitude: 11.82127
 postcode: "85604"
 city: Zorneding
-street: "Münchner Straße"
-housenumber: 15
+street: Münchner Straße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

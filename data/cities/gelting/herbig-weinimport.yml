@@ -1,11 +1,11 @@
 id: 191173975
-type: way
+type: node
 latitude: 47.8856
 longitude: 11.43492
 postcode: "82538"
 city: Gelting
-street: "Lauterbachstraße"
-housenumber: 42
+street: Lauterbachstraße
+housenumber: "42"
 phone: ""
 opening_hours: ""
 website: ""

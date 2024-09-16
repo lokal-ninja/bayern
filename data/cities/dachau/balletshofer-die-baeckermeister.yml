@@ -4,8 +4,8 @@ latitude: 48.25024
 longitude: 11.44346
 postcode: "85221"
 city: Dachau
-street: "Münchner Straße"
-housenumber: 64
-phone: "+49 8131 6150380"
-opening_hours: "Mo-Sa 06:30-18:00; Su 07:30-17:00"
-website: "https://www.balletshofer.de/dachau-mvz.html"
+street: Münchner Straße
+housenumber: "64"
+phone: +49 8131 6150380
+opening_hours: Mo-Sa 06:30-18:00; Su 07:30-17:00
+website: https://www.balletshofer.de/dachau-mvz.html

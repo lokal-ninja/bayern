@@ -4,8 +4,8 @@ latitude: 49.95886
 longitude: 11.60773
 postcode: "95448"
 city: Bayreuth
-street: "Bernecker Straße"
-housenumber: 79
-phone: "+49 921 9800603"
-opening_hours: "Mo-Sa 09:00-20:00; Su,PH off"
-website: "https://www.polo-motorrad.de/"
+street: Bernecker Straße
+housenumber: "79"
+phone: +49 921 9800603
+opening_hours: Mo-Sa 09:00-20:00; Su,PH off
+website: https://www.polo-motorrad.de/

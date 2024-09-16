@@ -1,11 +1,12 @@
 id: 103835251
-type: way
+type: node
 latitude: 48.76042
 longitude: 10.71079
 postcode: "86655"
 city: Harburg (Schwaben)
-street: "Alemannenstraße"
-housenumber: 1
-phone: "+49 9080 9239429"
-opening_hours: "Mo-Tu 08:00-18:00; We 08:00-13:00; Th-Fr 08:00-18:00; Sa 07:30-12:00; Su off"
-website: "https://metzgerei-goschenhofer.de"
+street: Alemannenstraße
+housenumber: "1"
+phone: +49 9080 9239429
+opening_hours: Mo-Tu 08:00-18:00; We 08:00-13:00; Th-Fr 08:00-18:00; Sa 07:30-12:00;
+    Su off
+website: https://metzgerei-goschenhofer.de

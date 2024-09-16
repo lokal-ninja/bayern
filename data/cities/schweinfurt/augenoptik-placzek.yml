@@ -4,8 +4,8 @@ latitude: 50.04476
 longitude: 10.23285
 postcode: "97421"
 city: Schweinfurt
-street: "Keßlergasse"
-housenumber: 16
-phone: "+49 9721 28700"
-opening_hours: "Mo-Fr 09:30-18:00, Sa 09:30-14:00"
-website: "https://www.placzek-augenoptik.de/"
+street: Keßlergasse
+housenumber: "16"
+phone: +49 9721 28700
+opening_hours: Mo-Fr 09:30-18:00, Sa 09:30-14:00
+website: https://www.placzek-augenoptik.de/

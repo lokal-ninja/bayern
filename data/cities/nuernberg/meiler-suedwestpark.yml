@@ -4,8 +4,8 @@ latitude: 49.42958
 longitude: 11.01689
 postcode: "90449"
 city: Nürnberg
-street: "Südwestpark"
-housenumber: 64
-phone: "+49 911 671790"
-opening_hours: "Mo-Fr 07:00-17:00; Sa 08:00-12:00"
-website: "https://metzgerei-meiler.de/"
+street: Südwestpark
+housenumber: "64"
+phone: +49 911 671790
+opening_hours: Mo-Fr 07:00-17:00; Sa 08:00-12:00
+website: https://metzgerei-meiler.de/

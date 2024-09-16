@@ -1,11 +1,11 @@
 id: 61414040
-type: way
+type: node
 latitude: 47.47961
 longitude: 11.05529
 postcode: "82491"
 city: Grainau
-street: "An der Zugspitze"
-housenumber: 8
+street: An der Zugspitze
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

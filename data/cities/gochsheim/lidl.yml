@@ -1,11 +1,11 @@
 id: 160413229
-type: way
+type: node
 latitude: 50.02609
 longitude: 10.26748
 postcode: "97469"
 city: Gochsheim
-street: "Industriestraße"
-housenumber: 20
+street: Industriestraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 136390028
-type: way
+type: node
 latitude: 49.7938
 longitude: 9.94635
 postcode: "97072"
 city: Würzburg
-street: "Annastraße"
-housenumber: 16
-phone: "+49 931 13087"
-opening_hours: "24/7"
-website: "http://www.bestattungen-abschied.de/"
+street: Annastraße
+housenumber: "16"
+phone: +49 931 13087
+opening_hours: 24/7
+website: http://www.bestattungen-abschied.de/

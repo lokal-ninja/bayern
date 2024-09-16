@@ -4,8 +4,8 @@ latitude: 48.83428
 longitude: 12.96487
 postcode: "94469"
 city: Deggendorf
-street: "Nördlicher Stadtgraben"
-housenumber: 33
+street: Nördlicher Stadtgraben
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-13:00"
-website: "https://www.weltladen-deggendorf.de/"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-13:00
+website: https://www.weltladen-deggendorf.de/

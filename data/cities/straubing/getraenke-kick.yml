@@ -1,11 +1,11 @@
 id: 284252421
-type: way
+type: node
 latitude: 48.88836
 longitude: 12.63825
 postcode: "94315"
 city: Straubing
-street: "Ittlinger Hauptstraße"
-housenumber: 55
-phone: "+49 9421 63900"
+street: Ittlinger Hauptstraße
+housenumber: "55"
+phone: +49 9421 63900
 opening_hours: ""
-website: "https://www.kick-getraenke.de/"
+website: https://www.kick-getraenke.de/

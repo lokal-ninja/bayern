@@ -1,11 +1,11 @@
 id: 91910560
-type: way
+type: node
 latitude: 49.7616
 longitude: 9.84577
 postcode: "97249"
 city: Eisingen
-street: "Landwehrstraße"
-housenumber: 19
+street: Landwehrstraße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://filialen.aldi-sued.de/bayern/eisingen/landwehrstrasse-19"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://filialen.aldi-sued.de/bayern/eisingen/landwehrstrasse-19

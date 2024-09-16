@@ -1,11 +1,11 @@
 id: 32253335
-type: way
+type: node
 latitude: 48.77568
 longitude: 11.42805
 postcode: "85057"
 city: Ingolstadt
-street: "Hindenburgstraße"
-housenumber: 20
-phone: "+49 841 379 363 30"
+street: Hindenburgstraße
+housenumber: "20"
+phone: +49 841 379 363 30
 opening_hours: ""
 website: ""

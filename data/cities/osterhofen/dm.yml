@@ -1,11 +1,11 @@
 id: 167529457
-type: way
+type: node
 latitude: 48.70817
 longitude: 13.00959
 postcode: "94486"
 city: Osterhofen
-street: "Plattlinger Straße"
-housenumber: 57
+street: Plattlinger Straße
+housenumber: "57"
 phone: ""
 opening_hours: ""
 website: ""

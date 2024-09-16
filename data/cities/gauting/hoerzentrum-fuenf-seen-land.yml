@@ -1,11 +1,11 @@
 id: 126330367
-type: way
+type: node
 latitude: 48.06374
 longitude: 11.37758
 postcode: "82131"
 city: Gauting
-street: "Starnberger Straße"
-housenumber: 25
-phone: "+49 89 8503566"
+street: Starnberger Straße
+housenumber: "25"
+phone: +49 89 8503566
 opening_hours: ""
-website: "https://www.hoergeraete-isma.de/"
+website: https://www.hoergeraete-isma.de/

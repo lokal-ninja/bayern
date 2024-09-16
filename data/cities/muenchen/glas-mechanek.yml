@@ -1,11 +1,11 @@
 id: 143183019
-type: way
+type: node
 latitude: 48.13543
 longitude: 11.41233
 postcode: "81249"
 city: München
-street: "Anton-Böck-Straße"
-housenumber: 34
+street: Anton-Böck-Straße
+housenumber: "34"
 phone: ""
 opening_hours: ""
 website: ""

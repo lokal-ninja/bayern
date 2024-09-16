@@ -1,11 +1,11 @@
 id: 123519701
-type: way
+type: node
 latitude: 48.03922
 longitude: 10.71864
 postcode: "86807"
 city: Buchloe
-street: "Justus-von-Liebig-Straße"
-housenumber: 1
+street: Justus-von-Liebig-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

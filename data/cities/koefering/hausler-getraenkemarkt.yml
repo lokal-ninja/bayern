@@ -1,11 +1,11 @@
 id: 133000622
-type: way
+type: node
 latitude: 48.94006
 longitude: 12.20182
 postcode: "93096"
 city: Köfering
-street: "Scheuerer Straße"
+street: Scheuerer Straße
 housenumber: 1a
 phone: ""
-opening_hours: "Mo 10:00-18:00; Tu-Fr 09:00-18:00; Sa 09:00-14:00; PH off"
+opening_hours: Mo 10:00-18:00; Tu-Fr 09:00-18:00; Sa 09:00-14:00; PH off
 website: ""

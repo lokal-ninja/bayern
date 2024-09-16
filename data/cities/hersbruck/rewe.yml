@@ -4,8 +4,8 @@ latitude: 49.51114
 longitude: 11.43136
 postcode: "91217"
 city: Hersbruck
-street: "Steingasse"
-housenumber: 5
+street: Steingasse
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.rewe.de/marktseite/rewe-markt-hersbruck-steingasse-5"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.rewe.de/marktseite/rewe-markt-hersbruck-steingasse-5

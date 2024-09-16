@@ -4,8 +4,8 @@ latitude: 48.12591
 longitude: 11.55355
 postcode: "80337"
 city: München
-street: "Zenettistraße"
-housenumber: 43
-phone: "+49 175 5713832"
-opening_hours: "Mo-Th 10:00-00:00; Fr,Sa 10:00-01:00, Su 10:00-22:00"
-website: "https://www.bierkiste-muenchen.de/"
+street: Zenettistraße
+housenumber: "43"
+phone: +49 175 5713832
+opening_hours: Mo-Th 10:00-00:00; Fr,Sa 10:00-01:00, Su 10:00-22:00
+website: https://www.bierkiste-muenchen.de/

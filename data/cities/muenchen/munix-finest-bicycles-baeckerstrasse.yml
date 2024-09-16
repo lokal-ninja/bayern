@@ -4,8 +4,8 @@ latitude: 48.14799
 longitude: 11.4616
 postcode: "81241"
 city: München
-street: "Bäckerstraße"
-housenumber: 3
+street: Bäckerstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Tu-Fr 10:00-18:30; Sa 10:00-15:00"
-website: "https://www.munixfinestbicycles.de/standorte/mfb-pasing-baeckerstrasse"
+opening_hours: Tu-Fr 10:00-18:30; Sa 10:00-15:00
+website: https://www.munixfinestbicycles.de/standorte/mfb-pasing-baeckerstrasse

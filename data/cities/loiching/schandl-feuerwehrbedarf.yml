@@ -1,11 +1,11 @@
 id: 224749925
-type: way
+type: node
 latitude: 48.55673
 longitude: 12.41149
 postcode: "84180"
 city: Loiching
-street: "Finkenweg"
-housenumber: 7
+street: Finkenweg
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

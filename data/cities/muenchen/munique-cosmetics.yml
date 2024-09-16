@@ -4,8 +4,8 @@ latitude: 48.20425
 longitude: 11.55981
 postcode: "80935"
 city: München
-street: "Mitteisstraße"
-housenumber: 19
-phone: "+49 89 52062663"
-opening_hours: "nach Vereinbarung"
+street: Mitteisstraße
+housenumber: "19"
+phone: +49 89 52062663
+opening_hours: '"nach Vereinbarung"'
 website: ""

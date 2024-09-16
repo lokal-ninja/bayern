@@ -1,11 +1,11 @@
 id: 92722293
-type: way
+type: node
 latitude: 50.13529
 longitude: 12.01048
 postcode: "95168"
 city: Marktleuthen
-street: "Siemensstraße"
-housenumber: 7
+street: Siemensstraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

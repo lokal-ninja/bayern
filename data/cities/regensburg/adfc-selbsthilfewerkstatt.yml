@@ -4,8 +4,8 @@ latitude: 49.02465
 longitude: 12.07624
 postcode: "93049"
 city: Regensburg
-street: "Weinweg"
-housenumber: 2
+street: Weinweg
+housenumber: "2"
 phone: ""
-opening_hours: "Mar-Nov Tu, Th 18:00-20:00; PH off"
-website: "https://regensburg.adfc-bayern.de/selbsthilfewerkstatt/"
+opening_hours: Mar-Nov Tu, Th 18:00-20:00; PH off
+website: https://regensburg.adfc-bayern.de/selbsthilfewerkstatt/

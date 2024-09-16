@@ -4,8 +4,8 @@ latitude: 48.36641
 longitude: 10.90149
 postcode: "86150"
 city: Augsburg
-street: "Vorderer Lech"
-housenumber: 21
+street: Vorderer Lech
+housenumber: "21"
 phone: "+491775315104"
-opening_hours: "Tu-Fr 12:00-18:00; Sa 11:00-16:00"
-website: "http://www.goldschmiede-schweizer.de/"
+opening_hours: Tu-Fr 12:00-18:00; Sa 11:00-16:00
+website: http://www.goldschmiede-schweizer.de/

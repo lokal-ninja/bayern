@@ -1,11 +1,11 @@
 id: 104242028
-type: way
+type: node
 latitude: 47.79837
 longitude: 12.17128
 postcode: "83101"
 city: Rohrdorf
-street: "Achentalstraße"
-housenumber: 30
-phone: "+49 8032 5204"
+street: Achentalstraße
+housenumber: "30"
+phone: +49 8032 5204
 opening_hours: ""
-website: "http://www.schwaigermuehle.de"
+website: http://www.schwaigermuehle.de

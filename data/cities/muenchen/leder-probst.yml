@@ -4,8 +4,8 @@ latitude: 48.14658
 longitude: 11.57702
 postcode: "80333"
 city: München
-street: "Fürstenstraße"
-housenumber: 9
+street: Fürstenstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Th 09:00-17:00; Fr 09:00-14:00; Sa,Su,PH off"
+opening_hours: Mo-Th 09:00-17:00; Fr 09:00-14:00; Sa,Su,PH off
 website: ""

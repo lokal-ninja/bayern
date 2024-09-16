@@ -1,11 +1,11 @@
 id: 396473279
-type: way
+type: node
 latitude: 48.54686
 longitude: 11.20637
 postcode: "86529"
 city: Schrobenhausen
-street: "Hagenauer Straße"
-housenumber: 6
+street: Hagenauer Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

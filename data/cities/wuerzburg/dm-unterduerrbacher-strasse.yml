@@ -1,11 +1,11 @@
 id: 370169534
-type: way
+type: node
 latitude: 49.80309
 longitude: 9.89596
 postcode: "97080"
 city: Würzburg
-street: "Unterdürrbacher Straße"
+street: Unterdürrbacher Straße
 housenumber: 2-8
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off; Sep 11-16: off"
+opening_hours: 'Mo-Sa 07:00-20:00; Su,PH off; Sep 11-16: off'
 website: ""

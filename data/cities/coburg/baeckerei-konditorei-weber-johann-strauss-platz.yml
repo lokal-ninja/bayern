@@ -1,11 +1,11 @@
 id: 372703242
-type: way
+type: node
 latitude: 50.25719
 longitude: 10.97382
 postcode: "96450"
 city: Coburg
-street: "Johann-Strauß-Platz"
-housenumber: 1
+street: Johann-Strauß-Platz
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

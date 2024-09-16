@@ -4,8 +4,8 @@ latitude: 48.39751
 longitude: 10.01662
 postcode: "89231"
 city: Neu-Ulm
-street: "Borsigstraße"
-housenumber: 24
+street: Borsigstraße
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Th 08:00-17:00; Fr 08:00-15:30"
-website: "https://schreiner-schuehle.de"
+opening_hours: Mo-Th 08:00-17:00; Fr 08:00-15:30
+website: https://schreiner-schuehle.de

@@ -4,8 +4,8 @@ latitude: 48.05889
 longitude: 11.67448
 postcode: ""
 city: Hohenbrunn
-street: "Auenstraße"
-housenumber: 38
+street: Auenstraße
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00,13:00-16:00; Sa 09:00-12:00"
-website: "https://fesey.de/"
+opening_hours: Mo-Fr 09:00-12:00,13:00-16:00; Sa 09:00-12:00
+website: https://fesey.de/

@@ -4,8 +4,8 @@ latitude: 49.59545
 longitude: 11.006
 postcode: "91054"
 city: Erlangen
-street: "Friedrichstraße"
-housenumber: 9
-phone: "+49 9131 8260810"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00"
-website: "http://www.buero-haas.com/"
+street: Friedrichstraße
+housenumber: "9"
+phone: +49 9131 8260810
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-16:00
+website: http://www.buero-haas.com/

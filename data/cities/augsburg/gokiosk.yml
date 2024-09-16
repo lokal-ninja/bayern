@@ -4,8 +4,8 @@ latitude: 48.3085
 longitude: 10.90162
 postcode: "86179"
 city: Augsburg
-street: "Inninger Straße"
-housenumber: 19
+street: Inninger Straße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Th 07:00-12:30,14:30-18:00; Fr 07:00-18:00; Sa 07:00-12:30"
-website: "https://www.mykiosk.com/"
+opening_hours: Mo-Th 07:00-12:30,14:30-18:00; Fr 07:00-18:00; Sa 07:00-12:30
+website: https://www.mykiosk.com/

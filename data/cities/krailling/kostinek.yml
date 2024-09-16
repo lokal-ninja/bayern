@@ -1,11 +1,11 @@
 id: 155616939
-type: way
+type: node
 latitude: 48.09537
 longitude: 11.36189
 postcode: "82152"
 city: Krailling
-street: "Konrad-Zuse-Bogen"
-housenumber: 12
+street: Konrad-Zuse-Bogen
+housenumber: "12"
 phone: ""
 opening_hours: ""
-website: "https://www.auto-martin.de/"
+website: https://www.auto-martin.de/

@@ -4,8 +4,8 @@ latitude: 49.56837
 longitude: 10.88327
 postcode: "91074"
 city: Herzogenaurach
-street: "Hauptstraße"
-housenumber: 6
-phone: "+49 162 6000301"
+street: Hauptstraße
+housenumber: "6"
+phone: +49 162 6000301
 opening_hours: ""
-website: "https://wunderschmie.de/"
+website: https://wunderschmie.de/

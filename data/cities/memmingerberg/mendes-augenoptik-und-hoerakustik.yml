@@ -4,8 +4,8 @@ latitude: 47.99027
 longitude: 10.21643
 postcode: "87766"
 city: Memmingerberg
-street: "Augsburger Straße"
-housenumber: 64
+street: Augsburger Straße
+housenumber: "64"
 phone: "+4983319616220"
-opening_hours: "Mo-Fr 09:00-13:00 14:00-18:00"
-website: "https://mendes.de/"
+opening_hours: Mo-Fr 09:00-13:00 14:00-18:00
+website: https://mendes.de/

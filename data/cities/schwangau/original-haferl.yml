@@ -4,8 +4,8 @@ latitude: 47.5804
 longitude: 10.74048
 postcode: "87645"
 city: Schwangau
-street: "Alemannenweg"
-housenumber: 7
-phone: "+49 8362 987353"
-opening_hours: "Mo 10:00-12:30; Th 14:00-18:00; Fr 10:00-12:30; Sa 10:00-13:00"
-website: "https://haferl.com/"
+street: Alemannenweg
+housenumber: "7"
+phone: +49 8362 987353
+opening_hours: Mo 10:00-12:30; Th 14:00-18:00; Fr 10:00-12:30; Sa 10:00-13:00
+website: https://haferl.com/

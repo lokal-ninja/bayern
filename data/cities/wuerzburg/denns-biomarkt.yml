@@ -4,8 +4,8 @@ latitude: 49.79712
 longitude: 9.93167
 postcode: "97070"
 city: Würzburg
-street: "Juliuspromenade"
-housenumber: 64
-phone: "+49 931 46795160"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.denns-biomarkt.de/"
+street: Juliuspromenade
+housenumber: "64"
+phone: +49 931 46795160
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.denns-biomarkt.de/

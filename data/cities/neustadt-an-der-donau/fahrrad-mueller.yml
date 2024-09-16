@@ -4,8 +4,8 @@ latitude: 48.80946
 longitude: 11.76185
 postcode: "93333"
 city: Neustadt an der Donau
-street: "Rambaldistraße"
-housenumber: 3
-phone: "+49 9445 7960"
-opening_hours: "Mo-Sa 08:00-13:00, 14:00-18:00"
+street: Rambaldistraße
+housenumber: "3"
+phone: +49 9445 7960
+opening_hours: Mo-Sa 08:00-13:00, 14:00-18:00
 website: ""

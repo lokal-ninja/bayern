@@ -1,11 +1,11 @@
 id: 50539264
-type: way
+type: node
 latitude: 49.54781
 longitude: 12.00362
 postcode: "92253"
 city: Schnaittenbach
-street: "Hauptstraße"
-housenumber: 24
-phone: "+49 9622 2637"
-opening_hours: "Mo-Fr 08:00-12:30, 13:30-18:00, Sa 08:00-12:30; Su, PH off"
+street: Hauptstraße
+housenumber: "24"
+phone: +49 9622 2637
+opening_hours: Mo-Fr 08:00-12:30, 13:30-18:00, Sa 08:00-12:30; Su, PH off
 website: ""

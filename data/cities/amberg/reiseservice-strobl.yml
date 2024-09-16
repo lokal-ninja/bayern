@@ -4,8 +4,8 @@ latitude: 49.44468
 longitude: 11.85485
 postcode: "92224"
 city: Amberg
-street: "Georgenstraße"
-housenumber: 28
-phone: "+49 9621 14253"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 10:00-14:00"
-website: "https://www.reiseservice-strobl.de/"
+street: Georgenstraße
+housenumber: "28"
+phone: +49 9621 14253
+opening_hours: Mo-Fr 09:30-18:00; Sa 10:00-14:00
+website: https://www.reiseservice-strobl.de/

@@ -1,11 +1,11 @@
 id: 52572065
-type: way
+type: node
 latitude: 48.76422
 longitude: 11.42656
 postcode: "85049"
 city: Ingolstadt
-street: "Mauthstraße"
-housenumber: 2
+street: Mauthstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

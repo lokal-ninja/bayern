@@ -1,11 +1,11 @@
 id: 205556136
-type: way
+type: node
 latitude: 48.56823
 longitude: 12.15445
 postcode: "84030"
 city: Ergolding
-street: "Albert-Einstein-Straße"
-housenumber: 2
+street: Albert-Einstein-Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

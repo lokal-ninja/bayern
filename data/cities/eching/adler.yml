@@ -1,11 +1,11 @@
 id: 24639422
-type: way
+type: node
 latitude: 48.30376
 longitude: 11.62958
 postcode: "85386"
 city: Eching
-street: "Heisenbergstraße"
-housenumber: 6
+street: Heisenbergstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00"
+opening_hours: Mo-Fr 10:00-18:00
 website: ""

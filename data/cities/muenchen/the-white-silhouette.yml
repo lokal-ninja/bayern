@@ -4,8 +4,8 @@ latitude: 48.11386
 longitude: 11.69998
 postcode: "81827"
 city: München
-street: "Häherweg"
-housenumber: 1
+street: Häherweg
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 11:00-19:00; Su off"
+opening_hours: Mo-Sa 11:00-19:00; Su off
 website: ""

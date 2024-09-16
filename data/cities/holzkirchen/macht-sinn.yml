@@ -4,8 +4,8 @@ latitude: 47.88133
 longitude: 11.7152
 postcode: "83607"
 city: Holzkirchen
-street: "Raiffeisenstraße"
-housenumber: 8
-phone: "+498024 6088924"
-opening_hours: "Di-Do: 10:00-19:00; Fr: 10:00-23:00"
-website: "https://machtsinn.bayern/"
+street: Raiffeisenstraße
+housenumber: "8"
+phone: +498024 6088924
+opening_hours: 'Di-Do: 10:00-19:00; Fr: 10:00-23:00'
+website: https://machtsinn.bayern/

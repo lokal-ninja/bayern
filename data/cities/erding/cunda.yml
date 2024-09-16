@@ -4,8 +4,8 @@ latitude: 48.30822
 longitude: 11.89077
 postcode: "85435"
 city: Erding
-street: "Anton-Huber-Straße"
-housenumber: 1
-phone: "+49 8122 2276268"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.c-and-a.com/"
+street: Anton-Huber-Straße
+housenumber: "1"
+phone: +49 8122 2276268
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.c-and-a.com/

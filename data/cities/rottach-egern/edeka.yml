@@ -1,11 +1,11 @@
 id: 228111979
-type: way
+type: node
 latitude: 47.68997
 longitude: 11.77165
 postcode: "83700"
 city: Rottach-Egern
-street: "Leo-Slezak-Straße"
+street: Leo-Slezak-Straße
 housenumber: 4a
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.edeka.de/eh/s%C3%BCdbayern/edeka-niedermaier-leo-slezak-stra%C3%9Fe-4a/index.jsp"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.edeka.de/eh/s%C3%BCdbayern/edeka-niedermaier-leo-slezak-stra%C3%9Fe-4a/index.jsp

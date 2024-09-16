@@ -1,11 +1,11 @@
 id: 56189879
-type: way
+type: node
 latitude: 47.8162
 longitude: 12.38209
 postcode: "83233"
 city: Bernau am Chiemsee
-street: "Kapellenweg"
-housenumber: 4
-phone: "+49 8051 89238"
+street: Kapellenweg
+housenumber: "4"
+phone: +49 8051 89238
 opening_hours: ""
-website: "https://www.ramsl.de/"
+website: https://www.ramsl.de/

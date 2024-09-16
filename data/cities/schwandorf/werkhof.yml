@@ -1,11 +1,11 @@
 id: 499220867
-type: way
+type: node
 latitude: 49.3225
 longitude: 12.10527
 postcode: "92421"
 city: Schwandorf
-street: "Hertzstraße"
-housenumber: 12
+street: Hertzstraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

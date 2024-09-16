@@ -4,8 +4,8 @@ latitude: 49.56852
 longitude: 10.8824
 postcode: "91074"
 city: Herzogenaurach
-street: "Hauptstraße"
-housenumber: 14
-phone: "+49 9132 8916"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:30"
-website: "https://duerninger.de"
+street: Hauptstraße
+housenumber: "14"
+phone: +49 9132 8916
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:30
+website: https://duerninger.de

@@ -1,11 +1,11 @@
 id: 39300608
-type: way
+type: node
 latitude: 48.12843
 longitude: 11.36583
 postcode: "82110"
 city: Germering
-street: "Untere Bahnhofstraße"
-housenumber: 51
+street: Untere Bahnhofstraße
+housenumber: "51"
 phone: ""
 opening_hours: ""
-website: "https://www.vitalia-reformhaus.de/"
+website: https://www.vitalia-reformhaus.de/

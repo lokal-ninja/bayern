@@ -4,8 +4,8 @@ latitude: 48.10281
 longitude: 11.54621
 postcode: ""
 city: München
-street: "Alfred-Schmidt-Straße"
-housenumber: 34
+street: Alfred-Schmidt-Straße
+housenumber: "34"
 phone: ""
-opening_hours: "Nach Vereinbarung"
+opening_hours: '"Nach Vereinbarung"'
 website: ""

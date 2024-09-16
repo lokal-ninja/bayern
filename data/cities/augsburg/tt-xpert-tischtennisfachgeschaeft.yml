@@ -4,8 +4,8 @@ latitude: 48.39969
 longitude: 10.88139
 postcode: "86154"
 city: Augsburg
-street: "Donauwörther Straße"
-housenumber: 228
-phone: "+49 821 3199049"
-opening_hours: "Mo-Fr 11:00-18:00; Sa 10:00-14:00"
-website: "https://tt-xpert.de"
+street: Donauwörther Straße
+housenumber: "228"
+phone: +49 821 3199049
+opening_hours: Mo-Fr 11:00-18:00; Sa 10:00-14:00
+website: https://tt-xpert.de

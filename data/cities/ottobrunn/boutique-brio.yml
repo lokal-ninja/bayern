@@ -4,8 +4,8 @@ latitude: 48.06344
 longitude: 11.67723
 postcode: "85521"
 city: Ottobrunn
-street: "Mozartstraße"
-housenumber: 125
+street: Mozartstraße
+housenumber: "125"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-15:00"
-website: "https://boutique-brio.de"
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-15:00
+website: https://boutique-brio.de

@@ -1,11 +1,11 @@
 id: 316142534
-type: way
+type: node
 latitude: 49.39921
 longitude: 10.89023
 postcode: "90574"
 city: Roßtal
-street: "Untere Bahnhofstraße"
-housenumber: 12
-phone: "+49 9127 904499 - 0"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "http://www.lebensmittel-peipp.de/"
+street: Untere Bahnhofstraße
+housenumber: "12"
+phone: +49 9127 904499 - 0
+opening_hours: Mo-Sa 07:00-20:00
+website: http://www.lebensmittel-peipp.de/

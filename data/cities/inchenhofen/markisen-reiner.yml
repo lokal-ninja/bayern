@@ -1,11 +1,11 @@
 id: 209104196
-type: way
+type: node
 latitude: 48.50838
 longitude: 11.09774
 postcode: "86570"
 city: Inchenhofen
-street: "Hauptstraße"
-housenumber: 34
+street: Hauptstraße
+housenumber: "34"
 phone: ""
 opening_hours: ""
 website: ""

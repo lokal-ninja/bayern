@@ -4,8 +4,8 @@ latitude: 49.72655
 longitude: 11.05784
 postcode: "91301"
 city: Forchheim
-street: "Bamberger Straße"
-housenumber: 57
+street: Bamberger Straße
+housenumber: "57"
 phone: "+4991917169724"
-opening_hours: "Mo-Fr 10:00-18:00"
-website: "https://www.trail-on.de/"
+opening_hours: Mo-Fr 10:00-18:00
+website: https://www.trail-on.de/

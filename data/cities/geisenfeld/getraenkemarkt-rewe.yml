@@ -1,11 +1,11 @@
 id: 252775019
-type: way
+type: node
 latitude: 48.67856
 longitude: 11.61673
 postcode: "85290"
 city: Geisenfeld
-street: "Bahnhofstraße"
-housenumber: 1
+street: Bahnhofstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

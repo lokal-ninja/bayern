@@ -4,8 +4,8 @@ latitude: 49.81226
 longitude: 9.99887
 postcode: "97076"
 city: Würzburg
-street: "Seepfad"
-housenumber: 60
+street: Seepfad
+housenumber: "60"
 phone: ""
-opening_hours: "by appointment"
+opening_hours: '"by appointment"'
 website: ""

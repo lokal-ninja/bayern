@@ -4,8 +4,8 @@ latitude: 49.59632
 longitude: 11.01728
 postcode: "91052"
 city: Erlangen
-street: "Werner-von-Siemens-Straße"
-housenumber: 3
+street: Werner-von-Siemens-Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Tu-Fr 09:00-18:30; Sa 08:00-14:00; PH off"
-website: "https://www.schnittstelle-erlangen.de/"
+opening_hours: Tu-Fr 09:00-18:30; Sa 08:00-14:00; PH off
+website: https://www.schnittstelle-erlangen.de/

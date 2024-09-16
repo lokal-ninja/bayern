@@ -4,8 +4,8 @@ latitude: 48.24089
 longitude: 12.68521
 postcode: "84524"
 city: Neuötting
-street: "Ludwigstraße"
-housenumber: 38
-phone: "+49 8671 28 02"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 07:30-12:00"
-website: "https://www.metzgerei-magg.de/"
+street: Ludwigstraße
+housenumber: "38"
+phone: +49 8671 28 02
+opening_hours: Mo-Fr 08:00-18:00; Sa 07:30-12:00
+website: https://www.metzgerei-magg.de/

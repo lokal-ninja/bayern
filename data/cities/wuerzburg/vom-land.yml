@@ -4,8 +4,8 @@ latitude: 49.80191
 longitude: 9.94577
 postcode: "97080"
 city: Würzburg
-street: "Petrinistraße"
-housenumber: 2
-phone: "+49 931 35959855"
-opening_hours: "Tu-Fr 10:00-18:00; Sa 09:30-14:00"
-website: "https://vom-land.eu/"
+street: Petrinistraße
+housenumber: "2"
+phone: +49 931 35959855
+opening_hours: Tu-Fr 10:00-18:00; Sa 09:30-14:00
+website: https://vom-land.eu/

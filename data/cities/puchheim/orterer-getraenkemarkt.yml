@@ -1,11 +1,11 @@
 id: 27565851
-type: way
+type: node
 latitude: 48.17406
 longitude: 11.36748
 postcode: "82178"
 city: Puchheim
-street: "Dieselstraße"
-housenumber: 1
-phone: "+49 (89) 80048428"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.orterer.de/component/filialfinder/detail/163-orterer-getraenkemaerkte-gmbh?Itemid=331"
+street: Dieselstraße
+housenumber: "1"
+phone: +49 (89) 80048428
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.orterer.de/component/filialfinder/detail/163-orterer-getraenkemaerkte-gmbh?Itemid=331

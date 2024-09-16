@@ -1,11 +1,11 @@
 id: 30559464
-type: way
+type: node
 latitude: 48.21469
 longitude: 12.41635
 postcode: "84478"
 city: Waldkraiburg
-street: "Traunreuter Straße"
-housenumber: 11
+street: Traunreuter Straße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 08:00-19:00"
-website: "https://www.baywa-baumarkt.de/"
+opening_hours: Mo-Sa 08:00-19:00
+website: https://www.baywa-baumarkt.de/

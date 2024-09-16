@@ -1,11 +1,11 @@
 id: 888227891
-type: way
+type: node
 latitude: 48.00408
 longitude: 10.16771
 postcode: "87700"
 city: Memmingen
-street: "Fraunhoferstraße"
-housenumber: 8
+street: Fraunhoferstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

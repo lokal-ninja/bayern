@@ -1,11 +1,11 @@
 id: 30730727
-type: way
+type: node
 latitude: 48.73804
 longitude: 11.47044
 postcode: "85053"
 city: Ingolstadt
-street: "Joseph-Baader-Straße"
-housenumber: 4
+street: Joseph-Baader-Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

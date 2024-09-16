@@ -1,11 +1,11 @@
 id: 630639329
-type: way
+type: node
 latitude: 49.02647
 longitude: 11.95572
 postcode: "93152"
 city: Nittendorf
-street: "Regensburger Straße"
-housenumber: 5
+street: Regensburger Straße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

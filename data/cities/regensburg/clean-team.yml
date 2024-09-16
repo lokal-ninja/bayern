@@ -4,8 +4,8 @@ latitude: 49.01341
 longitude: 12.05191
 postcode: "93049"
 city: Regensburg
-street: "Franz-von-Taxis-Ring"
-housenumber: 53
-phone: "+49 941 37 82 903"
-opening_hours: "Mo-Fr 8:00-19:00, Sa 8:00-16:00"
-website: "http://www.clean-team-rgbg.net"
+street: Franz-von-Taxis-Ring
+housenumber: "53"
+phone: +49 941 37 82 903
+opening_hours: Mo-Fr 8:00-19:00, Sa 8:00-16:00
+website: http://www.clean-team-rgbg.net

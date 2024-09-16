@@ -1,11 +1,11 @@
 id: 357182864
-type: way
+type: node
 latitude: 49.54097
 longitude: 10.24211
 postcode: "97215"
 city: Uffenheim
-street: "Nürnberger Straße"
-housenumber: 2
+street: Nürnberger Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:30-19:00; Sa 08:00-16:00"
+opening_hours: Mo-Fr 08:30-19:00; Sa 08:00-16:00
 website: ""

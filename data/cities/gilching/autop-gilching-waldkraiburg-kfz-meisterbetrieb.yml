@@ -4,8 +4,8 @@ latitude: 48.10804
 longitude: 11.28545
 postcode: "82205"
 city: Gilching
-street: "Talhofstraße"
-housenumber: 24
-phone: "+49 8105 278600"
-opening_hours: "Mo-Fr 08:00-12:00, 13:00-18:00"
-website: "https://autopgmbh.de/"
+street: Talhofstraße
+housenumber: "24"
+phone: +49 8105 278600
+opening_hours: Mo-Fr 08:00-12:00, 13:00-18:00
+website: https://autopgmbh.de/

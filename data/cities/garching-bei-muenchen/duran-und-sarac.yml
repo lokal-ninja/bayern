@@ -1,11 +1,11 @@
 id: 172208472
-type: way
+type: node
 latitude: 48.25003
 longitude: 11.60482
 postcode: "85748"
 city: Garching bei München
-street: "Schleißheimer Straße"
-housenumber: 126
+street: Schleißheimer Straße
+housenumber: "126"
 phone: ""
 opening_hours: ""
-website: "https://duran-sarac.go1a.de/"
+website: https://duran-sarac.go1a.de/

@@ -4,8 +4,8 @@ latitude: 48.73172
 longitude: 13.60201
 postcode: "94065"
 city: Waldkirchen
-street: "Schmiedgasse"
-housenumber: 9
+street: Schmiedgasse
+housenumber: "9"
 phone: "+498581910606"
-opening_hours: "Mo-Fr 08:30-13:00,14:00-18:00, Sa 09:00-12:00"
-website: "https://www.maispassau.de"
+opening_hours: Mo-Fr 08:30-13:00,14:00-18:00, Sa 09:00-12:00
+website: https://www.maispassau.de

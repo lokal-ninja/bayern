@@ -1,11 +1,11 @@
 id: 166877158
-type: way
+type: node
 latitude: 49.528
 longitude: 11.62303
 postcode: "92259"
 city: Neukirchen
-street: "Am Wildgraben"
-housenumber: 6
+street: Am Wildgraben
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "https://radsport-neumueller.de/"
+website: https://radsport-neumueller.de/

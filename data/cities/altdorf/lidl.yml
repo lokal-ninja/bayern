@@ -1,11 +1,11 @@
 id: 96759074
-type: way
+type: node
 latitude: 48.54614
 longitude: 12.09409
 postcode: "84032"
 city: Altdorf
-street: "Kristallstraße"
-housenumber: 2
+street: Kristallstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
+opening_hours: Mo-Sa 07:00-20:00; PH off
 website: ""

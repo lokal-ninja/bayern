@@ -4,8 +4,8 @@ latitude: 48.57421
 longitude: 13.46797
 postcode: "94032"
 city: Passau
-street: "Residenzplatz"
-housenumber: 2
+street: Residenzplatz
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 10:00-13:00,14:00-18:00; Sa 10:00-13:00"
+opening_hours: Mo-Fr 10:00-13:00,14:00-18:00; Sa 10:00-13:00
 website: ""

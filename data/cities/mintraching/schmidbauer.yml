@@ -1,11 +1,11 @@
 id: 366307114
-type: way
+type: node
 latitude: 48.95369
 longitude: 12.24071
 postcode: "93098"
 city: Mintraching
-street: "Hauptstraße"
-housenumber: 17
-phone: "+49 9406 9583947"
-opening_hours: "Mo-Sa 06:30-12:00"
-website: "https://www.baeckerei-schmidbauer.de/filialen/mintraching.html"
+street: Hauptstraße
+housenumber: "17"
+phone: +49 9406 9583947
+opening_hours: Mo-Sa 06:30-12:00
+website: https://www.baeckerei-schmidbauer.de/filialen/mintraching.html

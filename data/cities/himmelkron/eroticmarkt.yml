@@ -1,11 +1,11 @@
 id: 131039912
-type: way
+type: node
 latitude: 50.05257
 longitude: 11.61863
 postcode: "95502"
 city: Himmelkron
-street: "Kulmbacher Straße"
-housenumber: 10
+street: Kulmbacher Straße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

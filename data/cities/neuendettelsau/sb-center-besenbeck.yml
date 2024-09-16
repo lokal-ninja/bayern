@@ -1,11 +1,11 @@
 id: 108193305
-type: way
+type: node
 latitude: 49.28214
 longitude: 10.79893
 postcode: "91564"
 city: Neuendettelsau
-street: "Reuther Straße"
-housenumber: 20
+street: Reuther Straße
+housenumber: "20"
 phone: ""
 opening_hours: ""
-website: "http://www.besenbeck.de/"
+website: http://www.besenbeck.de/

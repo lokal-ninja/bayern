@@ -4,8 +4,8 @@ latitude: 49.22389
 longitude: 11.54071
 postcode: "92364"
 city: Deining
-street: "Untere Hauptstraße"
-housenumber: 7
-phone: "+49 9841 801384"
-opening_hours: "https://www.zellermuehle.bayern/oeffnungszeiten.html"
-website: "https://www.zellermuehle.bayern/bio-hofladen.html"
+street: Untere Hauptstraße
+housenumber: "7"
+phone: +49 9841 801384
+opening_hours: https://www.zellermuehle.bayern/oeffnungszeiten.html
+website: https://www.zellermuehle.bayern/bio-hofladen.html

@@ -1,11 +1,11 @@
 id: 298103425
-type: way
+type: node
 latitude: 50.19492
 longitude: 10.07746
 postcode: "97688"
 city: Bad Kissingen
-street: "Lindesmühlpromenade"
-housenumber: 2
-phone: "+49 971 3257"
-opening_hours: "Mo-Fr 14:30-18:00; Sa,Su 11:00-16:00"
-website: "https://www.kunsthaus-hassloch.de"
+street: Lindesmühlpromenade
+housenumber: "2"
+phone: +49 971 3257
+opening_hours: Mo-Fr 14:30-18:00; Sa,Su 11:00-16:00
+website: https://www.kunsthaus-hassloch.de

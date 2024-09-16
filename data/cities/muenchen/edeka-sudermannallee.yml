@@ -4,8 +4,8 @@ latitude: 48.09865
 longitude: 11.65352
 postcode: "81737"
 city: München
-street: "Sudermannallee"
-housenumber: 8
-phone: "+49 89 62837404"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.edeka.de/eh/s%C3%BCdbayern/edeka-t%C3%BCfekci-sudermannallee-8/index.jsp"
+street: Sudermannallee
+housenumber: "8"
+phone: +49 89 62837404
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.edeka.de/eh/s%C3%BCdbayern/edeka-t%C3%BCfekci-sudermannallee-8/index.jsp

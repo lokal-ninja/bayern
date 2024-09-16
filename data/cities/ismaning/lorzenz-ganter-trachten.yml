@@ -4,8 +4,8 @@ latitude: 48.23057
 longitude: 11.67038
 postcode: "85737"
 city: Ismaning
-street: "Auenstraße"
-housenumber: 41
-phone: "+49 89 968512"
-opening_hours: "Mo-Th 08:00-18:00; Fr 08:00-16:00; Sa 09:00-12:00"
+street: Auenstraße
+housenumber: "41"
+phone: +49 89 968512
+opening_hours: Mo-Th 08:00-18:00; Fr 08:00-16:00; Sa 09:00-12:00
 website: ""

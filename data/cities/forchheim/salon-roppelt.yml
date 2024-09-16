@@ -4,8 +4,8 @@ latitude: 49.71866
 longitude: 11.05994
 postcode: "91301"
 city: Forchheim
-street: "Burgerhofstraße"
-housenumber: 7
-phone: "+49 9191 80749"
-opening_hours: "Tu-Fr 08:30-18:00; Sa 08:00-13:00; PH off"
-website: "http://www.salon-roppelt.de/"
+street: Burgerhofstraße
+housenumber: "7"
+phone: +49 9191 80749
+opening_hours: Tu-Fr 08:30-18:00; Sa 08:00-13:00; PH off
+website: http://www.salon-roppelt.de/

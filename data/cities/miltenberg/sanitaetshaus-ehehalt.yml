@@ -4,8 +4,8 @@ latitude: 49.70189
 longitude: 9.2584
 postcode: "63897"
 city: Miltenberg
-street: "Hauptstraße"
-housenumber: 48
-phone: "+49 9371 4089 0"
-opening_hours: "Mo-Fr 08:30-12:30,14:00-18:00; PH off"
-website: "http://ehehalt.biz/"
+street: Hauptstraße
+housenumber: "48"
+phone: +49 9371 4089 0
+opening_hours: Mo-Fr 08:30-12:30,14:00-18:00; PH off
+website: http://ehehalt.biz/

@@ -4,8 +4,8 @@ latitude: 48.15305
 longitude: 11.53398
 postcode: "80634"
 city: München
-street: "Nymphenburger Straße"
-housenumber: 160
+street: Nymphenburger Straße
+housenumber: "160"
 phone: "+494052868158"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.blume2000.de/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.blume2000.de/

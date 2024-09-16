@@ -1,11 +1,11 @@
 id: 258516929
-type: way
+type: node
 latitude: 47.87345
 longitude: 12.58957
 postcode: "83355"
 city: Grabenstätt
-street: "Römerstraße"
-housenumber: 2
+street: Römerstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

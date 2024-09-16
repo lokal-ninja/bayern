@@ -1,11 +1,11 @@
 id: 903836333
-type: way
+type: node
 latitude: 49.87718
 longitude: 11.77392
 postcode: "95469"
 city: Speichersdorf
-street: "Weidener Straße"
-housenumber: 29
+street: Weidener Straße
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

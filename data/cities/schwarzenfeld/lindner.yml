@@ -1,11 +1,11 @@
 id: 401954530
-type: way
+type: node
 latitude: 49.3894
 longitude: 12.13906
 postcode: "92521"
 city: Schwarzenfeld
-street: "Hauptstraße"
-housenumber: 17
+street: Hauptstraße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Su 05:00-..."
+opening_hours: Mo-Su 05:00-...
 website: ""

@@ -1,11 +1,11 @@
 id: 599443315
-type: way
+type: node
 latitude: 49.72058
 longitude: 9.23193
 postcode: "63920"
 city: Großheubach
-street: "Miltenberger Straße"
-housenumber: 61
+street: Miltenberger Straße
+housenumber: "61"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

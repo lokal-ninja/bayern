@@ -4,8 +4,8 @@ latitude: 48.06468
 longitude: 11.37831
 postcode: "82131"
 city: Gauting
-street: "Starnberger Straße"
-housenumber: 22
+street: Starnberger Straße
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.kik.de/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.kik.de/

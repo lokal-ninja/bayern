@@ -1,11 +1,11 @@
 id: 747322551
-type: way
+type: node
 latitude: 49.37349
 longitude: 10.18717
 postcode: "91541"
 city: Rothenburg ob der Tauber
-street: "Erlbacher Straße"
-housenumber: 48
+street: Erlbacher Straße
+housenumber: "48"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su off"
+opening_hours: Mo-Sa 07:00-20:00; Su off
 website: ""

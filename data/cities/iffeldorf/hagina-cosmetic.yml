@@ -1,11 +1,11 @@
 id: 312632297
-type: way
+type: node
 latitude: 47.78472
 longitude: 11.32773
 postcode: "82393"
 city: Iffeldorf
-street: "Seeshaupter Straße"
-housenumber: 7
-phone: "+49 8856 2068"
+street: Seeshaupter Straße
+housenumber: "7"
+phone: +49 8856 2068
 opening_hours: ""
-website: "https://www.hagina-cosmetic.de/"
+website: https://www.hagina-cosmetic.de/

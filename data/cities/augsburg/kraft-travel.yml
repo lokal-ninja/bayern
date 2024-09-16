@@ -4,8 +4,8 @@ latitude: 48.35801
 longitude: 10.8874
 postcode: "86159"
 city: Augsburg
-street: "Elisenstraße"
-housenumber: 2
+street: Elisenstraße
+housenumber: "2"
 phone: "+498215704545"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-17:00; Sa,Su off"
-website: "https://kraft-travel-augsburg.de/site/startseite/"
+opening_hours: Mo-Fr 09:00-13:00,14:00-17:00; Sa,Su off
+website: https://kraft-travel-augsburg.de/site/startseite/

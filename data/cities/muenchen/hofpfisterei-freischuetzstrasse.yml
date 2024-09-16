@@ -4,8 +4,8 @@ latitude: 48.15817
 longitude: 11.64087
 postcode: "81927"
 city: München
-street: "Freischützstraße"
-housenumber: 17
-phone: "+49 89 936469"
-opening_hours: "Mo-Fr 07:00-18:30; Sa 07:00-13:30"
-website: "https://www.hofpfisterei.de/"
+street: Freischützstraße
+housenumber: "17"
+phone: +49 89 936469
+opening_hours: Mo-Fr 07:00-18:30; Sa 07:00-13:30
+website: https://www.hofpfisterei.de/

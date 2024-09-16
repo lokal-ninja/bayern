@@ -1,11 +1,11 @@
 id: 253837858
-type: way
+type: node
 latitude: 50.06482
 longitude: 12.192
 postcode: "95659"
 city: Arzberg
-street: "Schäfergässlein"
-housenumber: 12
+street: Schäfergässlein
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 141558589
-type: way
+type: node
 latitude: 48.05269
 longitude: 10.89548
 postcode: "86899"
 city: Landsberg am Lech
-street: "Am Penzinger Feld"
-housenumber: 1
+street: Am Penzinger Feld
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.reisacher.de/"
+website: https://www.reisacher.de/

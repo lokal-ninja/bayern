@@ -1,11 +1,11 @@
 id: 93583216
-type: way
+type: node
 latitude: 48.35687
 longitude: 10.97441
 postcode: "86316"
 city: Friedberg
-street: "Augsburger Straße"
-housenumber: 12
+street: Augsburger Straße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.rewe.de/marktseite/friedberg/440810/rewe-markt-augsburger-str-12/"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.rewe.de/marktseite/friedberg/440810/rewe-markt-augsburger-str-12/

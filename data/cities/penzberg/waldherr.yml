@@ -4,8 +4,8 @@ latitude: 47.75109
 longitude: 11.37926
 postcode: "82377"
 city: Penzberg
-street: "Karlstraße"
-housenumber: 8
+street: Karlstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Th,Fr 10:00-13:00,14:30-18:00;Sa 10:00-13:00;PH off"
-website: "https://dekowald.de"
+opening_hours: Th,Fr 10:00-13:00,14:30-18:00;Sa 10:00-13:00;PH off
+website: https://dekowald.de

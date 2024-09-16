@@ -1,11 +1,11 @@
 id: 56218799
-type: way
+type: node
 latitude: 48.09142
 longitude: 11.50755
 postcode: "81477"
 city: München
-street: "Meglingerstraße"
-housenumber: 27
-phone: "+49 89 78060790"
-opening_hours: "Mo-Sa 09:00-19:00; PH closed"
-website: "https://www.dehner.de/market/dehner-gartencenter-muenchen-forstenried/"
+street: Meglingerstraße
+housenumber: "27"
+phone: +49 89 78060790
+opening_hours: Mo-Sa 09:00-19:00; PH closed
+website: https://www.dehner.de/market/dehner-gartencenter-muenchen-forstenried/

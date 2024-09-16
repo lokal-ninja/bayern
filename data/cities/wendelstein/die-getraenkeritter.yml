@@ -4,8 +4,8 @@ latitude: 49.35223
 longitude: 11.16216
 postcode: "90530"
 city: Wendelstein
-street: "Richtweg"
-housenumber: 60
+street: Richtweg
+housenumber: "60"
 phone: ""
-opening_hours: "Mo-Fr 08:30-19:00, Sa 08:00-16:00"
-website: "http://www.getraenkeritter.de"
+opening_hours: Mo-Fr 08:30-19:00, Sa 08:00-16:00
+website: http://www.getraenkeritter.de

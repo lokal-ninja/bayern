@@ -4,8 +4,8 @@ latitude: 49.73905
 longitude: 10.16238
 postcode: "97318"
 city: Kitzingen
-street: "Marktstraße"
-housenumber: 17
-phone: "+49 9321 927963"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
-website: "https://filialen.apollo.de/bayern/kitzingen/marktstr--17.html"
+street: Marktstraße
+housenumber: "17"
+phone: +49 9321 927963
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00
+website: https://filialen.apollo.de/bayern/kitzingen/marktstr--17.html

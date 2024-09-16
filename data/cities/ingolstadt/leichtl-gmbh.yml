@@ -4,8 +4,8 @@ latitude: 48.7475
 longitude: 11.46195
 postcode: "85053"
 city: Ingolstadt
-street: "Heinkelstraße"
-housenumber: 2
-phone: "+49 841 64699"
-opening_hours: "Mo-Fr 08:00-12:00,13:00-16:00"
+street: Heinkelstraße
+housenumber: "2"
+phone: +49 841 64699
+opening_hours: Mo-Fr 08:00-12:00,13:00-16:00
 website: ""

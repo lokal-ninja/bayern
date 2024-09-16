@@ -4,8 +4,8 @@ latitude: 49.45294
 longitude: 11.05212
 postcode: "90429"
 city: Nürnberg
-street: "Bärenschanzstraße"
-housenumber: 103
+street: Bärenschanzstraße
+housenumber: "103"
 phone: ""
-opening_hours: "Th 15:00-18:00"
-website: "https://www.schwesterngeheimnis.de/"
+opening_hours: Th 15:00-18:00
+website: https://www.schwesterngeheimnis.de/

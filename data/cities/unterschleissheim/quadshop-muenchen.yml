@@ -1,11 +1,11 @@
 id: 238430750
-type: way
+type: node
 latitude: 48.27878
 longitude: 11.56177
 postcode: "85716"
 city: Unterschleißheim
-street: "Furtweg"
-housenumber: 23
+street: Furtweg
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

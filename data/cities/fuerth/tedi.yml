@@ -4,8 +4,8 @@ latitude: 49.47051
 longitude: 10.99412
 postcode: "90762"
 city: Fürth
-street: "Gabelsbergerstraße"
-housenumber: 1
+street: Gabelsbergerstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.tedi.com/"
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.tedi.com/

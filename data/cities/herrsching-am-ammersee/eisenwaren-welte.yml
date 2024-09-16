@@ -1,11 +1,11 @@
 id: 72843802
-type: way
+type: node
 latitude: 47.99896
 longitude: 11.17864
 postcode: "82211"
 city: Herrsching am Ammersee
-street: "Luitpoldstraße"
-housenumber: 8
+street: Luitpoldstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 08:30-12:30, Mo,Tu,Th,Fr 14:00-18:00"
+opening_hours: Mo-Sa 08:30-12:30, Mo,Tu,Th,Fr 14:00-18:00
 website: ""

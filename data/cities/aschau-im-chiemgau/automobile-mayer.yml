@@ -1,11 +1,11 @@
 id: 128934938
-type: way
+type: node
 latitude: 47.76322
 longitude: 12.32484
 postcode: "83229"
 city: Aschau im Chiemgau
-street: "Brunnsteinweg"
-housenumber: 2
+street: Brunnsteinweg
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

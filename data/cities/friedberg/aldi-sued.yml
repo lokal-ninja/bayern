@@ -1,11 +1,11 @@
 id: 149991855
-type: way
+type: node
 latitude: 48.36264
 longitude: 10.95689
 postcode: "86316"
 city: Friedberg
-street: "Lechhauser Straße"
-housenumber: 42
+street: Lechhauser Straße
+housenumber: "42"
 phone: ""
 opening_hours: ""
-website: "https://filialen.aldi-sued.de/bayern/friedberg/lechhauser-strasse-42"
+website: https://filialen.aldi-sued.de/bayern/friedberg/lechhauser-strasse-42

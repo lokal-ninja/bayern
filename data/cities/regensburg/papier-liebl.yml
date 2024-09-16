@@ -1,11 +1,11 @@
 id: 30601911
-type: way
+type: node
 latitude: 49.0025
 longitude: 12.10797
 postcode: "93053"
 city: Regensburg
-street: "Hermann-Geib-Straße"
-housenumber: 16
+street: Hermann-Geib-Straße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00"
+opening_hours: Mo-Sa 09:00-19:00
 website: ""

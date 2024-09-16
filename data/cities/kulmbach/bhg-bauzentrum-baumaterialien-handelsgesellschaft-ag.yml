@@ -1,11 +1,11 @@
 id: 427753466
-type: way
+type: node
 latitude: 50.10985
 longitude: 11.44237
 postcode: "95326"
 city: Kulmbach
-street: "Gummistraße"
-housenumber: 22
+street: Gummistraße
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

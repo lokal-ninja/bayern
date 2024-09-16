@@ -1,11 +1,12 @@
 id: 23399836
-type: way
+type: node
 latitude: 48.43547
 longitude: 11.10695
 postcode: "86551"
 city: Aichach
-street: "Industriestraße"
-housenumber: 41
+street: Industriestraße
+housenumber: "41"
 phone: ""
-opening_hours: "Mo-Fr 05:00-22:00; Sa 06:00-22:00; Su,PH 07:00-22:00; Dec 24 06:00-17:00; Jan 1 10:00-22:00; Jan 2-5 06:00-22:00"
-website: "https://www.essofuelfinder.de/426654-hermann-schweighofer-gmbh-aichach"
+opening_hours: Mo-Fr 05:00-22:00; Sa 06:00-22:00; Su,PH 07:00-22:00; Dec 24 06:00-17:00;
+    Jan 1 10:00-22:00; Jan 2-5 06:00-22:00
+website: https://www.essofuelfinder.de/426654-hermann-schweighofer-gmbh-aichach

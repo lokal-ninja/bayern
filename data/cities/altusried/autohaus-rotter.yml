@@ -1,11 +1,11 @@
 id: 447103090
-type: way
+type: node
 latitude: 47.79814
 longitude: 10.15924
 postcode: "87452"
 city: Altusried
-street: "Legauer Straße"
-housenumber: 3
-phone: "+49 8373 8242"
+street: Legauer Straße
+housenumber: "3"
+phone: +49 8373 8242
 opening_hours: ""
-website: "https://www.opel-rotter-altusried.de/"
+website: https://www.opel-rotter-altusried.de/

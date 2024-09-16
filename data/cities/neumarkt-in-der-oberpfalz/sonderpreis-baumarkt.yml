@@ -1,11 +1,11 @@
 id: 115939017
-type: way
+type: node
 latitude: 49.26348
 longitude: 11.47335
 postcode: "92318"
 city: Neumarkt in der Oberpfalz
-street: "Gutenbergstraße"
-housenumber: 2
+street: Gutenbergstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.sonderpreis-baumarkt.de/"
+website: https://www.sonderpreis-baumarkt.de/

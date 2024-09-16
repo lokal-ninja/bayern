@@ -4,8 +4,8 @@ latitude: 48.2652
 longitude: 10.32805
 postcode: "86489"
 city: Deisenhausen
-street: "Nordhofen"
-housenumber: 9
-phone: "+49 8282 8824906"
-opening_hours: "24/7"
+street: Nordhofen
+housenumber: "9"
+phone: +49 8282 8824906
+opening_hours: 24/7
 website: ""

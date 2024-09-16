@@ -4,8 +4,8 @@ latitude: 49.00771
 longitude: 12.11555
 postcode: "93053"
 city: Regensburg
-street: "Landshuter Straße"
-housenumber: 66
-phone: "+49 941 6304630"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://www.glaserei-rosenhammer.de/"
+street: Landshuter Straße
+housenumber: "66"
+phone: +49 941 6304630
+opening_hours: Mo-Fr 09:00-17:00
+website: https://www.glaserei-rosenhammer.de/

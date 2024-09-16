@@ -1,11 +1,11 @@
 id: 36069218
-type: way
+type: node
 latitude: 47.77682
 longitude: 10.61193
 postcode: "87616"
 city: Marktoberdorf
-street: "Johann-Georg-Fendt-Straße"
-housenumber: 33
+street: Johann-Georg-Fendt-Straße
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

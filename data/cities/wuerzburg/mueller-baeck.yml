@@ -4,8 +4,8 @@ latitude: 49.7928
 longitude: 9.92467
 postcode: "97082"
 city: Würzburg
-street: "Saalgasse"
-housenumber: 1
-phone: "+49 931 3042417"
-opening_hours: "05:30-18:00"
-website: "http://www.dermuellerbaeck.de/de/filialen/filialen/wue-saalgasse.php"
+street: Saalgasse
+housenumber: "1"
+phone: +49 931 3042417
+opening_hours: 05:30-18:00
+website: http://www.dermuellerbaeck.de/de/filialen/filialen/wue-saalgasse.php

@@ -1,11 +1,11 @@
 id: 214450528
-type: way
+type: node
 latitude: 47.72336
 longitude: 12.87052
 postcode: "83435"
 city: Bad Reichenhall
-street: "Reichenbachstraße"
-housenumber: 7
+street: Reichenbachstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
+opening_hours: Mo-Sa 07:00-20:00; PH off
 website: ""

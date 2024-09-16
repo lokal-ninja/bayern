@@ -1,11 +1,11 @@
 id: 26463328
-type: way
+type: node
 latitude: 47.87536
 longitude: 11.70542
 postcode: "83607"
 city: Holzkirchen
-street: "Wagnerbreite"
-housenumber: 3
+street: Wagnerbreite
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

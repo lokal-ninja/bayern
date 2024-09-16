@@ -1,11 +1,11 @@
 id: 89216077
-type: way
+type: node
 latitude: 48.39537
 longitude: 10.82453
 postcode: "86356"
 city: Neusäß
-street: "Siemensstraße"
-housenumber: 15
+street: Siemensstraße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00"
+opening_hours: Mo-Sa 09:00-19:00
 website: ""

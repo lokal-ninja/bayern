@@ -1,11 +1,11 @@
 id: 321788545
-type: way
+type: node
 latitude: 48.39042
 longitude: 12.6057
 postcode: "84323"
 city: Massing
-street: "Im Moos"
-housenumber: 24
+street: Im Moos
+housenumber: "24"
 phone: ""
 opening_hours: ""
-website: "https://radl-huettner.de/"
+website: https://radl-huettner.de/

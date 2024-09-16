@@ -4,8 +4,8 @@ latitude: 49.00421
 longitude: 12.1078
 postcode: "93053"
 city: Regensburg
-street: "Hermann-Geib-Straße"
-housenumber: 12
+street: Hermann-Geib-Straße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 08:30-17:30; Sa 08:30-12:00"
-website: "https://www.kbh-regensburg.de/"
+opening_hours: Mo-Fr 08:30-17:30; Sa 08:30-12:00
+website: https://www.kbh-regensburg.de/

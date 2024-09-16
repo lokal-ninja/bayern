@@ -4,8 +4,8 @@ latitude: 49.46422
 longitude: 11.08178
 postcode: "90408"
 city: Nürnberg
-street: "Innere Kobergerstraße"
-housenumber: 3
+street: Innere Kobergerstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Tu,Th,Fr 14:00-17:00; We,Sa 09:00-12:00"
+opening_hours: Tu,Th,Fr 14:00-17:00; We,Sa 09:00-12:00
 website: ""

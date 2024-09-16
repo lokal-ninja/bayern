@@ -1,11 +1,11 @@
 id: 273011336
-type: way
+type: node
 latitude: 49.37606
 longitude: 12.70589
 postcode: "93449"
 city: Waldmünchen
-street: "Schmiedstraße"
-housenumber: 1
+street: Schmiedstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "http://www.wegbekleider.de/"
+website: http://www.wegbekleider.de/

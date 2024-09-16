@@ -1,11 +1,11 @@
 id: 200589011
-type: way
+type: node
 latitude: 48.02504
 longitude: 12.5603
 postcode: "83308"
 city: Trostberg
-street: "Pallinger Straße"
-housenumber: 16
+street: Pallinger Straße
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

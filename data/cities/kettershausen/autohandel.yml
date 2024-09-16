@@ -1,11 +1,11 @@
 id: 124045940
-type: way
+type: node
 latitude: 48.18381
 longitude: 10.25878
 postcode: "86498"
 city: Kettershausen
-street: "Waldstraße"
-housenumber: 4
+street: Waldstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

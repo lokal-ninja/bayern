@@ -1,11 +1,11 @@
 id: 340059155
-type: way
+type: node
 latitude: 47.51743
 longitude: 11.10504
 postcode: "82467"
 city: Garmisch-Partenkirchen
-street: "Schloßwaldstraße"
+street: Schloßwaldstraße
 housenumber: 1a
 phone: ""
-opening_hours: "Mo-Fr 06:30-12:00; Sa 07:30-12:00; Su 07:30-11:30"
+opening_hours: Mo-Fr 06:30-12:00; Sa 07:30-12:00; Su 07:30-11:30
 website: ""

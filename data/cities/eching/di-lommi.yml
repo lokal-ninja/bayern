@@ -4,8 +4,8 @@ latitude: 48.29929
 longitude: 11.6197
 postcode: "85386"
 city: Eching
-street: "Bahnhofstraße"
-housenumber: 17
-phone: "+49 170 898 1728"
-opening_hours: "Fr 9:00-17:00|| by appointment"
-website: "https://www.dilommi.de/"
+street: Bahnhofstraße
+housenumber: "17"
+phone: +49 170 898 1728
+opening_hours: Fr 9:00-17:00|| "by appointment"
+website: https://www.dilommi.de/

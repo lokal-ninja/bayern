@@ -4,8 +4,8 @@ latitude: 48.3641
 longitude: 10.85072
 postcode: "86391"
 city: Stadtbergen
-street: "Oberer Stadtweg"
-housenumber: 50
-phone: "+49 821 44 80 30 9"
-opening_hours: "We, Fr 08:00-18:00; Th, Sa 08:00-16:00"
+street: Oberer Stadtweg
+housenumber: "50"
+phone: +49 821 44 80 30 9
+opening_hours: We, Fr 08:00-18:00; Th, Sa 08:00-16:00
 website: ""

@@ -1,11 +1,11 @@
 id: 657043070
-type: way
+type: node
 latitude: 47.98201
 longitude: 11.91359
 postcode: "85625"
 city: Baiern
-street: "Lärchenstraße"
-housenumber: 17
-phone: "+49 8093 905505"
-opening_hours: "Mo-Fr 08:00-12:00,13:00-17:30; PH off"
-website: "http://www.konis-autowerkstatt.de/"
+street: Lärchenstraße
+housenumber: "17"
+phone: +49 8093 905505
+opening_hours: Mo-Fr 08:00-12:00,13:00-17:30; PH off
+website: http://www.konis-autowerkstatt.de/

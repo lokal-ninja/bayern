@@ -1,11 +1,11 @@
 id: 1314419377
-type: way
+type: node
 latitude: 50.08509
 longitude: 11.24072
 postcode: "96260"
 city: Weismain
-street: "Am Markt"
-housenumber: 7
+street: Am Markt
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

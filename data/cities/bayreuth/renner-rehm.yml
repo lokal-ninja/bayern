@@ -1,11 +1,11 @@
 id: 122285942
-type: way
+type: node
 latitude: 49.95965
 longitude: 11.60952
 postcode: "95448"
 city: Bayreuth
-street: "Christian-Ritter-von-Langheinrich-Straße"
-housenumber: 14
+street: Christian-Ritter-von-Langheinrich-Straße
+housenumber: "14"
 phone: "+49921914301"
-opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-13:00"
-website: "https://www.renner-rehm.de/fachmarkt-bayreuth.html"
+opening_hours: Mo-Fr 09:00-18:00, Sa 09:00-13:00
+website: https://www.renner-rehm.de/fachmarkt-bayreuth.html

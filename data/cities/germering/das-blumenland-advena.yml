@@ -1,11 +1,11 @@
 id: 73899904
-type: way
+type: node
 latitude: 48.13584
 longitude: 11.3661
 postcode: "82110"
 city: Germering
-street: "Hörwegstraße"
-housenumber: 13
+street: Hörwegstraße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

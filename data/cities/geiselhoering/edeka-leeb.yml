@@ -1,11 +1,11 @@
 id: 227478861
-type: way
+type: node
 latitude: 48.82019
 longitude: 12.3774
 postcode: "94333"
 city: Geiselhöring
-street: "Landshuter Straße"
-housenumber: 88
-phone: "+49 9423 943061"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.lebensmittel-leeb.de/edeka-geiselhoering"
+street: Landshuter Straße
+housenumber: "88"
+phone: +49 9423 943061
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.lebensmittel-leeb.de/edeka-geiselhoering

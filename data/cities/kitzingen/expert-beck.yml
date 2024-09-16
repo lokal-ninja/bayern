@@ -4,8 +4,8 @@ latitude: 49.73265
 longitude: 10.17335
 postcode: "97318"
 city: Kitzingen
-street: "Marktbreiter Straße"
-housenumber: 1
-phone: "+49 9321 1329 0"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.expert.de/kitzingen"
+street: Marktbreiter Straße
+housenumber: "1"
+phone: +49 9321 1329 0
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.expert.de/kitzingen

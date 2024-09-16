@@ -1,11 +1,11 @@
 id: 313057619
-type: way
+type: node
 latitude: 48.39181
 longitude: 12.60846
 postcode: "84323"
 city: Massing
-street: "Marktplatz"
-housenumber: 26
+street: Marktplatz
+housenumber: "26"
 phone: ""
 opening_hours: ""
-website: "https://mandi-sport.de/"
+website: https://mandi-sport.de/

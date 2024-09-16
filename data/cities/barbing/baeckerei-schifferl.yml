@@ -1,11 +1,11 @@
 id: 1009568483
-type: way
+type: node
 latitude: 49.0038
 longitude: 12.19614
 postcode: "93092"
 city: Barbing
-street: "Regensburger Straße"
-housenumber: 8
+street: Regensburger Straße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 05:30-18:00"
+opening_hours: Mo-Sa 05:30-18:00
 website: ""

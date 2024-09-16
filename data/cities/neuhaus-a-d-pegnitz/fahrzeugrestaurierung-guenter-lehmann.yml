@@ -1,11 +1,11 @@
 id: 506535723
-type: way
+type: node
 latitude: 49.6326
 longitude: 11.57114
 postcode: "91284"
 city: Neuhaus a.d.Pegnitz
-street: "Krottenseer Hauptstraße"
-housenumber: 16
+street: Krottenseer Hauptstraße
+housenumber: "16"
 phone: ""
 opening_hours: ""
-website: "https://guenter-lehmann.de"
+website: https://guenter-lehmann.de

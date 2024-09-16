@@ -1,11 +1,11 @@
 id: 352867613
-type: way
+type: node
 latitude: 50.04365
 longitude: 11.6686
 postcode: "95460"
 city: Bad Berneck
-street: "Bahnhofstraße"
-housenumber: 97
+street: Bahnhofstraße
+housenumber: "97"
 phone: ""
 opening_hours: ""
 website: ""

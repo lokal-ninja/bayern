@@ -1,11 +1,11 @@
 id: 332105635
-type: way
+type: node
 latitude: 48.25835
 longitude: 11.47413
 postcode: "85221"
 city: Dachau
-street: "Siemensstraße"
-housenumber: 13
+street: Siemensstraße
+housenumber: "13"
 phone: ""
 opening_hours: ""
-website: "https://www.auto-rauscher.de/"
+website: https://www.auto-rauscher.de/

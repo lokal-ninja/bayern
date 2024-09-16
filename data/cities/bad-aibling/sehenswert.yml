@@ -4,8 +4,8 @@ latitude: 47.8641
 longitude: 12.0111
 postcode: "83043"
 city: Bad Aibling
-street: "Kirchzeile"
-housenumber: 4
-phone: "+49 8061 37 00 467"
-opening_hours: "Mo-Sa 09:00-13:00,14:00-18:00;We,Sa 14:00-18:00 off;PH off"
-website: "https://www.sehenswertaugenoptik.de/"
+street: Kirchzeile
+housenumber: "4"
+phone: +49 8061 37 00 467
+opening_hours: Mo-Sa 09:00-13:00,14:00-18:00;We,Sa 14:00-18:00 off;PH off
+website: https://www.sehenswertaugenoptik.de/

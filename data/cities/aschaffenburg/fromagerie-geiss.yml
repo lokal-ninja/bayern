@@ -4,8 +4,9 @@ latitude: 49.97441
 longitude: 9.14875
 postcode: "63739"
 city: Aschaffenburg
-street: "Sandgasse"
+street: Sandgasse
 housenumber: 25 - 27
 phone: ""
-opening_hours: "Mo,Tu 09:30-15:00; We 09:30-18:00; Th,Fr 09:30-18:00; Sa 09:00-14:00; PH off"
-website: "https://www.kaesebestellen.de/"
+opening_hours: Mo,Tu 09:30-15:00; We 09:30-18:00; Th,Fr 09:30-18:00; Sa 09:00-14:00;
+    PH off
+website: https://www.kaesebestellen.de/

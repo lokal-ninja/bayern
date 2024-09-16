@@ -4,8 +4,8 @@ latitude: 49.42979
 longitude: 11.0572
 postcode: "90441"
 city: Nürnberg
-street: "Nopitschstraße"
-housenumber: 63
-phone: "+49 9 11 424980"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-12:00"
-website: "https://nuernberg-sued.reifen-lorenz.de/"
+street: Nopitschstraße
+housenumber: "63"
+phone: +49 9 11 424980
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-12:00
+website: https://nuernberg-sued.reifen-lorenz.de/

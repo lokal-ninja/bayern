@@ -4,8 +4,8 @@ latitude: 48.27617
 longitude: 10.84153
 postcode: "86399"
 city: Bobingen
-street: "Bischof-Ulrich-Straße"
-housenumber: 6
+street: Bischof-Ulrich-Straße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.ihle.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.ihle.de

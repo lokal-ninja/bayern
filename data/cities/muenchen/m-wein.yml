@@ -4,8 +4,8 @@ latitude: 48.13585
 longitude: 11.60816
 postcode: "81675"
 city: München
-street: "Einsteinstraße"
-housenumber: 102
+street: Einsteinstraße
+housenumber: "102"
 phone: ""
 opening_hours: ""
-website: "https://m-wein.de"
+website: https://m-wein.de

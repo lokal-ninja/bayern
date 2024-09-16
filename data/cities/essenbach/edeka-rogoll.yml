@@ -1,11 +1,11 @@
 id: 107670453
-type: way
+type: node
 latitude: 48.61206
 longitude: 12.21529
 postcode: "84051"
 city: Essenbach
-street: "Schardthof"
-housenumber: 4
+street: Schardthof
+housenumber: "4"
 phone: "+4987038665"
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

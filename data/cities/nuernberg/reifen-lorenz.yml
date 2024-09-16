@@ -4,8 +4,8 @@ latitude: 49.45497
 longitude: 11.04126
 postcode: "90429"
 city: Nürnberg
-street: "Maximilianstraße"
+street: Maximilianstraße
 housenumber: 43a
-phone: "+49 911 270573"
-opening_hours: "Mo-Fr 08:00-18:00, Sa 09:00-13:00"
-website: "https://nuernberg-west.reifen-lorenz.de/"
+phone: +49 911 270573
+opening_hours: Mo-Fr 08:00-18:00, Sa 09:00-13:00
+website: https://nuernberg-west.reifen-lorenz.de/

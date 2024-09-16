@@ -1,11 +1,11 @@
 id: 307660902
-type: way
+type: node
 latitude: 48.17925
 longitude: 11.50585
 postcode: "80992"
 city: München
-street: "Bunzlauer Platz"
-housenumber: 
+street: Bunzlauer Platz
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "http://www.meile-moosach.de"
+opening_hours: Mo-Sa 09:00-20:00
+website: http://www.meile-moosach.de

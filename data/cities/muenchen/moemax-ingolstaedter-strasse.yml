@@ -4,8 +4,8 @@ latitude: 48.20414
 longitude: 11.58883
 postcode: "80939"
 city: München
-street: "Ingolstädter Straße"
-housenumber: 172
+street: Ingolstädter Straße
+housenumber: "172"
 phone: ""
-opening_hours: "Tu 10:00-20:00; Th-Sa 10:00-20:00"
-website: "https://www.moemax.de/filiale/moemax-muenchen/M3"
+opening_hours: Tu 10:00-20:00; Th-Sa 10:00-20:00
+website: https://www.moemax.de/filiale/moemax-muenchen/M3

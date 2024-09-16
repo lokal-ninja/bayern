@@ -1,11 +1,11 @@
 id: 441404639
-type: way
+type: node
 latitude: 50.26289
 longitude: 10.95792
 postcode: "96450"
 city: Coburg
-street: "Lossaustraße"
-housenumber: 6
+street: Lossaustraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00; Sa 08:00-15:00; PH,Su 09:00-18:00"
-website: "https://www.yormas.de/"
+opening_hours: Mo-Fr 06:00-18:00; Sa 08:00-15:00; PH,Su 09:00-18:00
+website: https://www.yormas.de/

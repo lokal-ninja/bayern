@@ -1,11 +1,11 @@
 id: 323144557
-type: way
+type: node
 latitude: 48.08439
 longitude: 12.64177
 postcode: "84558"
 city: Kirchweidach
-street: "Hauptstraße"
-housenumber: 10
-phone: "+49 8623 242"
-opening_hours: "Mo-Fr 09:00-18:00;Sa 09:00-13:00"
-website: "https://moebelhaus-schwarz.europa-moebel.de/"
+street: Hauptstraße
+housenumber: "10"
+phone: +49 8623 242
+opening_hours: Mo-Fr 09:00-18:00;Sa 09:00-13:00
+website: https://moebelhaus-schwarz.europa-moebel.de/

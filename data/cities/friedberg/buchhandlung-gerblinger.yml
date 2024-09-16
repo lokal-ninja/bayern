@@ -4,8 +4,8 @@ latitude: 48.35492
 longitude: 10.98077
 postcode: "86316"
 city: Friedberg
-street: "Ludwigstraße"
-housenumber: 18
-phone: "+49 821 650 746 -41"
-opening_hours: "Mo-Th 09:00-18:00; Fr 08:30-18:00; Sa 08:30-12:30"
-website: "https://www.dergerblinger.de/"
+street: Ludwigstraße
+housenumber: "18"
+phone: +49 821 650 746 -41
+opening_hours: Mo-Th 09:00-18:00; Fr 08:30-18:00; Sa 08:30-12:30
+website: https://www.dergerblinger.de/

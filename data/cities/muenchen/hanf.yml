@@ -4,8 +4,8 @@ latitude: 48.13716
 longitude: 11.61568
 postcode: "81677"
 city: München
-street: "Einsteinstraße"
-housenumber: 163
+street: Einsteinstraße
+housenumber: "163"
 phone: ""
-opening_hours: "Tu-Fr 11:00-19:00, Sa 11:00-16:00"
-website: "https://hanf.com/"
+opening_hours: Tu-Fr 11:00-19:00, Sa 11:00-16:00
+website: https://hanf.com/

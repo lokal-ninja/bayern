@@ -1,11 +1,11 @@
 id: 349303874
-type: way
+type: node
 latitude: 48.58011
 longitude: 11.34511
 postcode: "86579"
 city: Waidhofen
-street: "Ostendstraße"
-housenumber: 2
+street: Ostendstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-12:30"
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-12:30
 website: ""

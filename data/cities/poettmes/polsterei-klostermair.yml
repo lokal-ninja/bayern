@@ -1,11 +1,11 @@
 id: 142977277
-type: way
+type: node
 latitude: 48.53936
 longitude: 11.04873
 postcode: "86554"
 city: Pöttmes
-street: "Pfarrer-Kessler-Straße"
-housenumber: 12
+street: Pfarrer-Kessler-Straße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

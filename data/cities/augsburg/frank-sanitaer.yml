@@ -4,8 +4,8 @@ latitude: 48.36452
 longitude: 10.87651
 postcode: "86157"
 city: Augsburg
-street: "Augsburger Straße"
-housenumber: 4
-phone: "+49 821 4559900"
-opening_hours: "Mo-Th 08:00-12:00,13:00-17:00"
-website: "https://frank-sanitaer.de"
+street: Augsburger Straße
+housenumber: "4"
+phone: +49 821 4559900
+opening_hours: Mo-Th 08:00-12:00,13:00-17:00
+website: https://frank-sanitaer.de

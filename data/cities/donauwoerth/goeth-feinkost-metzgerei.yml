@@ -4,8 +4,8 @@ latitude: 48.72471
 longitude: 10.77801
 postcode: "86609"
 city: Donauwörth
-street: "Berger Allee"
-housenumber: 6
-phone: "+49 906 3351"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 06:30-12:00"
-website: "http://www.goeth-metzgerei.de"
+street: Berger Allee
+housenumber: "6"
+phone: +49 906 3351
+opening_hours: Mo-Fr 07:30-18:00; Sa 06:30-12:00
+website: http://www.goeth-metzgerei.de

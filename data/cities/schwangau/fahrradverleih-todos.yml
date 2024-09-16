@@ -4,8 +4,8 @@ latitude: 47.57545
 longitude: 10.73527
 postcode: "87645"
 city: Schwangau
-street: "Füssener Straße"
-housenumber: 13
-phone: "+49 8362 9251970"
-opening_hours: "Mo-Fr 09:00-19:00,Sa 09:00-13:00, May-Sep: Su 09:00-13:00"
-website: "http://www.fahrradverleih-todos.de"
+street: Füssener Straße
+housenumber: "13"
+phone: +49 8362 9251970
+opening_hours: 'Mo-Fr 09:00-19:00,Sa 09:00-13:00, May-Sep: Su 09:00-13:00'
+website: http://www.fahrradverleih-todos.de

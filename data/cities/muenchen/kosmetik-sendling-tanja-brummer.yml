@@ -4,8 +4,8 @@ latitude: 48.12207
 longitude: 11.53536
 postcode: "81373"
 city: München
-street: "Hansastraße"
-housenumber: 99
-phone: "+49 89 95842005"
+street: Hansastraße
+housenumber: "99"
+phone: +49 89 95842005
 opening_hours: ""
-website: "https://kosmetik-sendling.de/"
+website: https://kosmetik-sendling.de/

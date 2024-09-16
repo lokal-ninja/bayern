@@ -1,11 +1,11 @@
 id: 49796832
-type: way
+type: node
 latitude: 49.59049
 longitude: 10.96444
 postcode: "91056"
 city: Erlangen
-street: "Dorfstraße"
+street: Dorfstraße
 housenumber: 23a
-phone: "+49 9131 993192"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00; Su, PH off"
-website: "https://www.blumenwerkstatt-erlangen.de/"
+phone: +49 9131 993192
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00; Su, PH off
+website: https://www.blumenwerkstatt-erlangen.de/

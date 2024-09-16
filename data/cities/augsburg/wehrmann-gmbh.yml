@@ -1,11 +1,11 @@
 id: 100322703
-type: way
+type: node
 latitude: 48.34074
 longitude: 10.90004
 postcode: "86159"
 city: Augsburg
-street: "Werner-von-Siemens-Straße"
-housenumber: 5
-phone: "+49 821 257910"
-opening_hours: "Mo-Fr 07:30-18:00; Sa,Su off"
-website: "https://www.wehrmann-gmbh.de"
+street: Werner-von-Siemens-Straße
+housenumber: "5"
+phone: +49 821 257910
+opening_hours: Mo-Fr 07:30-18:00; Sa,Su off
+website: https://www.wehrmann-gmbh.de

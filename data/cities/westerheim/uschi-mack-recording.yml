@@ -1,11 +1,11 @@
 id: 62183352
-type: way
+type: node
 latitude: 48.01598
 longitude: 10.29569
 postcode: "87784"
 city: Westerheim
-street: "Sportplatzstraße"
-housenumber: 13
+street: Sportplatzstraße
+housenumber: "13"
 phone: ""
 opening_hours: ""
-website: "https://www.midispecial.de/"
+website: https://www.midispecial.de/

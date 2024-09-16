@@ -1,11 +1,11 @@
 id: 145409653
-type: way
+type: node
 latitude: 48.36479
 longitude: 11.02002
 postcode: "86316"
 city: Friedberg
 street: ""
-housenumber: 12
+housenumber: "12"
 phone: ""
 opening_hours: ""
-website: "https://www.woerle-obsthof.de/"
+website: https://www.woerle-obsthof.de/

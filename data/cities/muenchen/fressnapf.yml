@@ -4,8 +4,8 @@ latitude: 48.1239
 longitude: 11.67081
 postcode: "81825"
 city: München
-street: "Bognerhofweg"
-housenumber: 12
+street: Bognerhofweg
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.fressnapf.de"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.fressnapf.de

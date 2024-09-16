@@ -4,8 +4,8 @@ latitude: 48.36699
 longitude: 10.89484
 postcode: "86150"
 city: Augsburg
-street: "Annastraße"
-housenumber: 32
+street: Annastraße
+housenumber: "32"
 phone: ""
 opening_hours: ""
-website: "https://sockatomica.com/de"
+website: https://sockatomica.com/de

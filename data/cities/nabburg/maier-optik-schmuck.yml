@@ -4,8 +4,8 @@ latitude: 49.45197
 longitude: 12.18243
 postcode: "92507"
 city: Nabburg
-street: "Georgenstraße"
-housenumber: 32
-phone: "+49 9433 201170"
-opening_hours: "Mo-Fr 09:00-12:30 14:00-18:00, Sa 09:00-12:30"
-website: "https://www.optik-maier.de"
+street: Georgenstraße
+housenumber: "32"
+phone: +49 9433 201170
+opening_hours: Mo-Fr 09:00-12:30 14:00-18:00, Sa 09:00-12:30
+website: https://www.optik-maier.de

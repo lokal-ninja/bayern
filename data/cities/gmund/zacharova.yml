@@ -1,11 +1,11 @@
 id: 106467383
-type: way
+type: node
 latitude: 47.75053
 longitude: 11.73657
 postcode: ""
 city: Gmund
-street: "Wiesseer Straße"
-housenumber: 4
+street: Wiesseer Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "http://zacharova.de"
+website: http://zacharova.de

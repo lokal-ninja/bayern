@@ -4,8 +4,8 @@ latitude: 48.33957
 longitude: 10.94697
 postcode: "86163"
 city: Augsburg
-street: "Friedrich-Deffner-Straße"
-housenumber: 1
+street: Friedrich-Deffner-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Sa 11:00-16:00"
-website: "https://www.usa-world.de/"
+opening_hours: Sa 11:00-16:00
+website: https://www.usa-world.de/

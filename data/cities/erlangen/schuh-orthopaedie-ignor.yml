@@ -4,8 +4,8 @@ latitude: 49.59596
 longitude: 11.00552
 postcode: "91054"
 city: Erlangen
-street: "Neustädter Kirchenplatz"
-housenumber: 3
-phone: "+49 9131 21139"
-opening_hours: "Mo-Fr 09:00-18:00; PH,Sa,Su off"
-website: "https://www.ignor-erlangen.de"
+street: Neustädter Kirchenplatz
+housenumber: "3"
+phone: +49 9131 21139
+opening_hours: Mo-Fr 09:00-18:00; PH,Sa,Su off
+website: https://www.ignor-erlangen.de

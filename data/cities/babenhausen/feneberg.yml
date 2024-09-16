@@ -4,8 +4,8 @@ latitude: 48.14634
 longitude: 10.25681
 postcode: "87727"
 city: Babenhausen
-street: "Krumbacher Straße"
-housenumber: 15
-phone: "+49 8333 93513"
-opening_hours: "Mo-Fr 08:00-19:00, Sa 07:30-16:00"
-website: "https://www.feneberg.de/"
+street: Krumbacher Straße
+housenumber: "15"
+phone: +49 8333 93513
+opening_hours: Mo-Fr 08:00-19:00, Sa 07:30-16:00
+website: https://www.feneberg.de/

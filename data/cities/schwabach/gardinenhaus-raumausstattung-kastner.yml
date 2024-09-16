@@ -4,8 +4,8 @@ latitude: 49.33067
 longitude: 11.02391
 postcode: "91126"
 city: Schwabach
-street: "Neutorstraße"
-housenumber: 11
-phone: "+49 9122 5210"
-opening_hours: "Mo-Fr 09:00-18:00; Sa,So,PH off"
-website: "https://www.raumausstattung-kastner.de/"
+street: Neutorstraße
+housenumber: "11"
+phone: +49 9122 5210
+opening_hours: Mo-Fr 09:00-18:00; Sa,So,PH off
+website: https://www.raumausstattung-kastner.de/

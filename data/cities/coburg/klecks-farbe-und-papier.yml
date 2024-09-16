@@ -4,8 +4,8 @@ latitude: 50.25612
 longitude: 10.9642
 postcode: "96450"
 city: Coburg
-street: "Ketschengasse"
-housenumber: 35
-phone: "+49 9561 90298"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 09:00-14:00; Su,PH off"
-website: "http://www.klecks-coburg.de"
+street: Ketschengasse
+housenumber: "35"
+phone: +49 9561 90298
+opening_hours: Mo-Fr 07:30-18:00; Sa 09:00-14:00; Su,PH off
+website: http://www.klecks-coburg.de

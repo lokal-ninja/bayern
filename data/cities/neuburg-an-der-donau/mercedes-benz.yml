@@ -1,11 +1,11 @@
 id: 191470113
-type: way
+type: node
 latitude: 48.72769
 longitude: 11.20088
 postcode: "86633"
 city: Neuburg an der Donau
-street: "Münchener Straße"
-housenumber: 134
+street: Münchener Straße
+housenumber: "134"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 220963073
-type: way
+type: node
 latitude: 48.56381
 longitude: 12.20449
 postcode: "84036"
 city: Landshut
-street: "Auloh"
-housenumber: 6
-phone: "+49 871 9538 9112"
+street: Auloh
+housenumber: "6"
+phone: +49 871 9538 9112
 opening_hours: ""
-website: "https://www.druck-plus.de/"
+website: https://www.druck-plus.de/

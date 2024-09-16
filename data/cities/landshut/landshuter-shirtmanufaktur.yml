@@ -4,8 +4,8 @@ latitude: 48.53833
 longitude: 12.11541
 postcode: "84034"
 city: Landshut
-street: "Fragnerstraße"
-housenumber: 2
-phone: "+49 871 96549821"
-opening_hours: "Mo-Fr 10:00-12:00,13:00-17:00,|| nach Vereinbarung; PH off"
-website: "https://www.la-shirts.de"
+street: Fragnerstraße
+housenumber: "2"
+phone: +49 871 96549821
+opening_hours: Mo-Fr 10:00-12:00,13:00-17:00,|| "nach Vereinbarung"; PH off
+website: https://www.la-shirts.de

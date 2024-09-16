@@ -1,11 +1,11 @@
 id: 194169813
-type: way
+type: node
 latitude: 48.39669
 longitude: 10.60678
 postcode: "86441"
 city: Zusmarshausen
-street: "Melanderstraße"
-housenumber: 2
+street: Melanderstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://filialen.aldi-sued.de/bayern/zusmarshausen/melanderstrasse-2"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://filialen.aldi-sued.de/bayern/zusmarshausen/melanderstrasse-2

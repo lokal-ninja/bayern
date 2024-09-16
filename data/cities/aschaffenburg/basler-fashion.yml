@@ -1,11 +1,11 @@
 id: 118560451
-type: way
+type: node
 latitude: 49.9822
 longitude: 9.11609
 postcode: "63741"
 city: Aschaffenburg
-street: "Schwalbenrainweg"
-housenumber: 36
+street: Schwalbenrainweg
+housenumber: "36"
 phone: ""
 opening_hours: ""
 website: ""

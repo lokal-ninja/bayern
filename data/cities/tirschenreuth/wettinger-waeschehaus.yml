@@ -1,11 +1,11 @@
 id: 222782385
-type: way
+type: node
 latitude: 49.87812
 longitude: 12.33816
 postcode: "95643"
 city: Tirschenreuth
-street: "Maximilianplatz"
-housenumber: 13
+street: Maximilianplatz
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

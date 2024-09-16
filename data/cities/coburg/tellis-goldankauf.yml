@@ -4,8 +4,8 @@ latitude: 50.26199
 longitude: 10.96335
 postcode: "96450"
 city: Coburg
-street: "Hindenburgstraße"
-housenumber: 5
-phone: "+49 9561 8531453"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 10:00-13:00"
-website: "https://www.tellis-goldankauf.de"
+street: Hindenburgstraße
+housenumber: "5"
+phone: +49 9561 8531453
+opening_hours: Mo-Fr 09:00-17:00; Sa 10:00-13:00
+website: https://www.tellis-goldankauf.de

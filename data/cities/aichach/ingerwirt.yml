@@ -1,11 +1,11 @@
 id: 24203901
-type: way
+type: node
 latitude: 48.44876
 longitude: 11.08916
 postcode: "86551"
 city: Aichach
-street: "Bürgerstraße"
-housenumber: 11
-phone: "+49 8251 7375"
+street: Bürgerstraße
+housenumber: "11"
+phone: +49 8251 7375
 opening_hours: ""
-website: "https://ingerwirt-oberschneitbach.de/"
+website: https://ingerwirt-oberschneitbach.de/

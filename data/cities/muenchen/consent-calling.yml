@@ -4,8 +4,8 @@ latitude: 48.12534
 longitude: 11.60535
 postcode: "81671"
 city: München
-street: "Atelierstraße"
-housenumber: 4
+street: Atelierstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Th,Fr 14:00-19:00; Sa 12:00-19:00"
-website: "https://consentcalling.de/"
+opening_hours: Th,Fr 14:00-19:00; Sa 12:00-19:00
+website: https://consentcalling.de/

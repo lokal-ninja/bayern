@@ -1,11 +1,11 @@
 id: 122134918
-type: way
+type: node
 latitude: 48.184
 longitude: 11.57197
 postcode: "80807"
 city: München
-street: "Knorrstraße"
-housenumber: 57
+street: Knorrstraße
+housenumber: "57"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

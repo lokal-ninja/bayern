@@ -4,8 +4,8 @@ latitude: 48.08659
 longitude: 11.60795
 postcode: "81549"
 city: München
-street: "Landrichterstraße"
-housenumber: 30
+street: Landrichterstraße
+housenumber: "30"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 08:00-17:00; We 08:00-12:00"
+opening_hours: Mo,Tu,Th,Fr 08:00-17:00; We 08:00-12:00
 website: ""

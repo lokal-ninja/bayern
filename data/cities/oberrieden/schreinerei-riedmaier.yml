@@ -1,11 +1,11 @@
 id: 234144412
-type: way
+type: node
 latitude: 48.0858
 longitude: 10.42533
 postcode: "87769"
 city: Oberrieden
-street: "Hauptstraße"
-housenumber: 54
+street: Hauptstraße
+housenumber: "54"
 phone: ""
 opening_hours: ""
 website: ""

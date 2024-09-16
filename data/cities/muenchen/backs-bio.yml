@@ -4,8 +4,8 @@ latitude: 48.13384
 longitude: 11.56378
 postcode: "80336"
 city: München
-street: "Mathildenstraße"
-housenumber: 7
+street: Mathildenstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Th 09:00-16:30"
-website: "http://www.backs-bio.de/"
+opening_hours: Mo-Th 09:00-16:30
+website: http://www.backs-bio.de/

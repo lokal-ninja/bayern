@@ -4,8 +4,8 @@ latitude: 48.06934
 longitude: 11.67706
 postcode: "85521"
 city: Ottobrunn
-street: "Am Brunneck"
-housenumber: 4
-phone: "+49 89 20352114"
-opening_hours: "nach telefonischer Vereinbarung"
+street: Am Brunneck
+housenumber: "4"
+phone: +49 89 20352114
+opening_hours: '"nach telefonischer Vereinbarung"'
 website: ""

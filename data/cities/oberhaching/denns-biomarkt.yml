@@ -4,8 +4,8 @@ latitude: 48.01852
 longitude: 11.59097
 postcode: "82041"
 city: Oberhaching
-street: "Tisinstraße"
-housenumber: 17
-phone: "+49 89 67989546"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.biomarkt.de/"
+street: Tisinstraße
+housenumber: "17"
+phone: +49 89 67989546
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.biomarkt.de/

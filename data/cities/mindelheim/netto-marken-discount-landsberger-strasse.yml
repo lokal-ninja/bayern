@@ -1,11 +1,11 @@
 id: 127334706
-type: way
+type: node
 latitude: 48.04802
 longitude: 10.50346
 postcode: "87719"
 city: Mindelheim
-street: "Landsberger Straße"
-housenumber: 44
+street: Landsberger Straße
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
+opening_hours: Mo-Sa 07:00-20:00; PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 96236738
-type: way
+type: node
 latitude: 48.2519
 longitude: 11.60504
 postcode: "85748"
 city: Garching bei München
-street: "Carl-Zeiss-Straße"
-housenumber: 14
+street: Carl-Zeiss-Straße
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

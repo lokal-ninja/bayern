@@ -4,8 +4,8 @@ latitude: 49.79438
 longitude: 9.92808
 postcode: "97070"
 city: Würzburg
-street: "Rückermainstraße"
-housenumber: 1
-phone: "+49 931 12955"
-opening_hours: "Mo-We,Sa 09:30-18:00; Th,Fr 09:30-19:00; PH off"
-website: "https://naturkaufhaus.de/"
+street: Rückermainstraße
+housenumber: "1"
+phone: +49 931 12955
+opening_hours: Mo-We,Sa 09:30-18:00; Th,Fr 09:30-19:00; PH off
+website: https://naturkaufhaus.de/

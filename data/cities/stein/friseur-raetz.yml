@@ -4,8 +4,8 @@ latitude: 49.41476
 longitude: 11.01326
 postcode: "90547"
 city: Stein
-street: "Wilhelmstraße"
-housenumber: 3
-phone: "+49 911 676417"
-opening_hours: "Tu,We,Fr 08:30-17:00; Th 08:30-19:00; Sa 08:00-13:00"
-website: "https://www.friseur-raetz.de/"
+street: Wilhelmstraße
+housenumber: "3"
+phone: +49 911 676417
+opening_hours: Tu,We,Fr 08:30-17:00; Th 08:30-19:00; Sa 08:00-13:00
+website: https://www.friseur-raetz.de/

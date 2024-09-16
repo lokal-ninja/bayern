@@ -1,11 +1,11 @@
 id: 265601773
-type: way
+type: node
 latitude: 50.48516
 longitude: 11.38784
 postcode: "96337"
 city: Ludwigsstadt
-street: "Lindenstraße"
-housenumber: 4
+street: Lindenstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

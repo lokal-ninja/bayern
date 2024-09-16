@@ -4,8 +4,9 @@ latitude: 48.2814
 longitude: 10.89291
 postcode: "86343"
 city: Königsbrunn
-street: "Haunstetter Straße"
-housenumber: 82
-phone: "+49 8231 859 56"
-opening_hours: "Mo,Tu,Th,Fr 09:00-12:00,14:00-18:00; We,Su off||nach Vereinbahrung; Sa off"
-website: "https://fliesen-pistauer.de/"
+street: Haunstetter Straße
+housenumber: "82"
+phone: +49 8231 859 56
+opening_hours: Mo,Tu,Th,Fr 09:00-12:00,14:00-18:00; We,Su off||"nach Vereinbahrung";
+    Sa off
+website: https://fliesen-pistauer.de/

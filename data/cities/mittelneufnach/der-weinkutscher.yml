@@ -4,8 +4,8 @@ latitude: 48.19678
 longitude: 10.5938
 postcode: "86868"
 city: Mittelneufnach
-street: "Blumenstraße"
+street: Blumenstraße
 housenumber: 5a
-phone: "+49 8262 968910"
-opening_hours: "Nach telefonischer Vereinbarung"
-website: "http://www.der-weinkutscher.de"
+phone: +49 8262 968910
+opening_hours: '"Nach telefonischer Vereinbarung"'
+website: http://www.der-weinkutscher.de

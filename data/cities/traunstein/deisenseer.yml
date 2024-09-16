@@ -1,11 +1,11 @@
 id: 198756601
-type: way
+type: node
 latitude: 47.87073
 longitude: 12.65093
 postcode: "83278"
 city: Traunstein
-street: "Schützenstraße"
-housenumber: 24
+street: Schützenstraße
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

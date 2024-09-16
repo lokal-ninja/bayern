@@ -1,11 +1,11 @@
 id: 391049925
-type: way
+type: node
 latitude: 47.76203
 longitude: 11.56251
 postcode: "83646"
 city: Bad Tölz
-street: "Mühlgasse"
-housenumber: 2
+street: Mühlgasse
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 287134544
-type: way
+type: node
 latitude: 49.42145
 longitude: 10.85317
 postcode: "90614"
 city: Ammerndorf
-street: "Cadolzburger Straße"
-housenumber: 2
+street: Cadolzburger Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

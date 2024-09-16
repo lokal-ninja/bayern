@@ -4,8 +4,8 @@ latitude: 48.12472
 longitude: 11.65565
 postcode: "81825"
 city: München
-street: "Kreillerstraße"
-housenumber: 151
-phone: "+49 89 421535"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-15:00"
-website: "https://www.buchhandlung-schatzbogen.de/"
+street: Kreillerstraße
+housenumber: "151"
+phone: +49 89 421535
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-15:00
+website: https://www.buchhandlung-schatzbogen.de/

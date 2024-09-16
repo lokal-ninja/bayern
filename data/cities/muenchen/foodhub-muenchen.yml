@@ -4,8 +4,8 @@ latitude: 48.1134
 longitude: 11.58502
 postcode: "81539"
 city: München
-street: "Deisenhofener Straße"
-housenumber: 40
-phone: "+49 89 246 026 86"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://foodhub-muenchen.de/"
+street: Deisenhofener Straße
+housenumber: "40"
+phone: +49 89 246 026 86
+opening_hours: Mo-Sa 08:00-20:00
+website: https://foodhub-muenchen.de/

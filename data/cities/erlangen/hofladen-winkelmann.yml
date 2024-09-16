@@ -4,8 +4,8 @@ latitude: 49.58918
 longitude: 10.95959
 postcode: "91056"
 city: Erlangen
-street: "Häuslinger Straße"
-housenumber: 1
+street: Häuslinger Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:00; Fr 11:00-18:30 bakery"
+opening_hours: Mo-Sa 09:00-18:00; Fr 11:00-18:30 "bakery"
 website: ""

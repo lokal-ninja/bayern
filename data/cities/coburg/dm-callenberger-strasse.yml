@@ -1,11 +1,11 @@
 id: 362728418
-type: way
+type: node
 latitude: 50.26556
 longitude: 10.96202
 postcode: "96450"
 city: Coburg
-street: "Callenberger Straße"
-housenumber: 16
+street: Callenberger Straße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.dm.de/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.dm.de/

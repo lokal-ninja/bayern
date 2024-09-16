@@ -4,8 +4,8 @@ latitude: 48.83728
 longitude: 10.8461
 postcode: "86653"
 city: Monheim
-street: "Kölburger Straße"
-housenumber: 2
-phone: "+49 9091 509763"
-opening_hours: "Mo-Fr 08:30 - 18:00, Sa 08:30 - 13:00"
+street: Kölburger Straße
+housenumber: "2"
+phone: +49 9091 509763
+opening_hours: Mo-Fr 08:30 - 18:00, Sa 08:30 - 13:00
 website: ""

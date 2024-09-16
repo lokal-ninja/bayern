@@ -1,11 +1,11 @@
 id: 26603517
-type: way
+type: node
 latitude: 47.8805
 longitude: 11.70972
 postcode: "83607"
 city: Holzkirchen
-street: "Industriestraße"
-housenumber: 33
+street: Industriestraße
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.anderl-getraenke.de/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.anderl-getraenke.de/

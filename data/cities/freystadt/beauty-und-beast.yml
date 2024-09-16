@@ -1,11 +1,11 @@
 id: 403148318
-type: way
+type: node
 latitude: 49.19984
 longitude: 11.32728
 postcode: "92342"
 city: Freystadt
-street: "Marktplatz"
-housenumber: 58
+street: Marktplatz
+housenumber: "58"
 phone: ""
 opening_hours: ""
 website: ""

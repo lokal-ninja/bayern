@@ -4,8 +4,8 @@ latitude: 49.79548
 longitude: 9.72856
 postcode: "97292"
 city: Uettingen
-street: "Goethestraße"
-housenumber: 4
-phone: "+49 9369 982070"
-opening_hours: "Mo-Fr 12:00-18:00; Sa 10:00-15:00"
-website: "http://www.wasserbettenerlebnishaus.de/"
+street: Goethestraße
+housenumber: "4"
+phone: +49 9369 982070
+opening_hours: Mo-Fr 12:00-18:00; Sa 10:00-15:00
+website: http://www.wasserbettenerlebnishaus.de/

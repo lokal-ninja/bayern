@@ -1,11 +1,11 @@
 id: 113678840
-type: way
+type: node
 latitude: 49.51343
 longitude: 11.38178
 postcode: "91244"
 city: Reichenschwand
-street: "Hersbrucker Straße"
-housenumber: 25
+street: Hersbrucker Straße
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

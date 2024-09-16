@@ -1,11 +1,11 @@
 id: 163093363
-type: way
+type: node
 latitude: 49.02676
 longitude: 12.13136
 postcode: "93059"
 city: Regensburg
-street: "Zimmerstraße"
-housenumber: 28
-phone: "+49 941 7845956 0"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-12:00"
-website: "http://www.autoarena-regensburg.de/"
+street: Zimmerstraße
+housenumber: "28"
+phone: +49 941 7845956 0
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-12:00
+website: http://www.autoarena-regensburg.de/

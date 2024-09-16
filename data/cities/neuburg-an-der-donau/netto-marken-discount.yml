@@ -1,11 +1,11 @@
 id: 153280922
-type: way
+type: node
 latitude: 48.72604
 longitude: 11.19445
 postcode: "86633"
 city: Neuburg an der Donau
-street: "Längenmühlweg"
-housenumber: 26
+street: Längenmühlweg
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

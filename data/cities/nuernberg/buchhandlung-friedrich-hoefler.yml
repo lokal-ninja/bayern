@@ -4,8 +4,8 @@ latitude: 49.3799
 longitude: 11.03074
 postcode: "90453"
 city: Nürnberg
-street: "Waldstromerstraße"
-housenumber: 9
-phone: "0911 630990"
-opening_hours: "Mo-Fr 08:00-17:00"
+street: Waldstromerstraße
+housenumber: "9"
+phone: 0911 630990
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

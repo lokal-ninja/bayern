@@ -1,11 +1,11 @@
 id: 40860911
-type: way
+type: node
 latitude: 49.88342
 longitude: 10.92346
 postcode: "96050"
 city: Bamberg
-street: "Gutenbergstraße"
-housenumber: 2
+street: Gutenbergstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-12:00"
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-12:00
 website: ""

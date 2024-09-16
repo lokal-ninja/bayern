@@ -1,11 +1,11 @@
 id: 542132814
-type: way
+type: node
 latitude: 50.03756
 longitude: 12.00098
 postcode: "95632"
 city: Wunsiedel
-street: "Maximilianstraße"
-housenumber: 16
+street: Maximilianstraße
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

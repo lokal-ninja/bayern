@@ -4,8 +4,8 @@ latitude: 48.10618
 longitude: 11.59284
 postcode: "81549"
 city: München
-street: "Chiemgaustraße"
-housenumber: 79
+street: Chiemgaustraße
+housenumber: "79"
 phone: ""
-opening_hours: "nach Vereinbarung"
+opening_hours: '"nach Vereinbarung"'
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.36267
 longitude: 10.8703
 postcode: "86157"
 city: Augsburg
-street: "Augsburger Straße"
-housenumber: 29
-phone: "+49 821 4981979"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-15:00"
-website: "https://www.tanagelstudio.com"
+street: Augsburger Straße
+housenumber: "29"
+phone: +49 821 4981979
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-15:00
+website: https://www.tanagelstudio.com

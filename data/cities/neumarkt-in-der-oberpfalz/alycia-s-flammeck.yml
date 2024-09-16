@@ -1,11 +1,12 @@
 id: 495929129
-type: way
+type: node
 latitude: 49.27239
 longitude: 11.45529
 postcode: "92318"
 city: Neumarkt in der Oberpfalz
-street: "Dreichlingerstraße"
+street: Dreichlingerstraße
 housenumber: 17 c
-phone: "+49 9181 / 26 45 039"
-opening_hours: "Mo-Th 07:30-21:30; Fr 1:00-5:00,7:30-22:30; Sa 1:00-5:00,9:00-23:00; Su 09:30-17:00"
+phone: +49 9181 / 26 45 039
+opening_hours: Mo-Th 07:30-21:30; Fr 1:00-5:00,7:30-22:30; Sa 1:00-5:00,9:00-23:00;
+    Su 09:30-17:00
 website: ""

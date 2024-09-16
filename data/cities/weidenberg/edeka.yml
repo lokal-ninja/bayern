@@ -1,11 +1,11 @@
 id: 196487586
-type: way
+type: node
 latitude: 49.94079
 longitude: 11.73752
 postcode: "95466"
 city: Weidenberg
-street: "Winter-Ring"
-housenumber: 2
+street: Winter-Ring
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

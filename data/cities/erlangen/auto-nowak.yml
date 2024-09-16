@@ -4,8 +4,8 @@ latitude: 49.5628
 longitude: 10.92763
 postcode: "91056"
 city: Erlangen
-street: "Neuseser Straße"
-housenumber: 11
+street: Neuseser Straße
+housenumber: "11"
 phone: "+4991325426"
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "https://www.autoservice.com/autowerkstatt/details/auto-nowak-erlangen-wid-172965.aspx"
+opening_hours: Mo-Fr 08:00-18:00
+website: https://www.autoservice.com/autowerkstatt/details/auto-nowak-erlangen-wid-172965.aspx

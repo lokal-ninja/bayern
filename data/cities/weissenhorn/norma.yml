@@ -1,11 +1,11 @@
 id: 130769825
-type: way
+type: node
 latitude: 48.30256
 longitude: 10.15205
 postcode: "89264"
 city: Weißenhorn
-street: "Herzog-Georg-Straße"
-housenumber: 3
+street: Herzog-Georg-Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "http://www.norma-online.de/"
+opening_hours: Mo-Sa 08:00-20:00
+website: http://www.norma-online.de/

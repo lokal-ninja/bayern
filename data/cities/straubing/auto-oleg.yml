@@ -1,11 +1,11 @@
 id: 319445094
-type: way
+type: node
 latitude: 48.87431
 longitude: 12.5838
 postcode: "94315"
 city: Straubing
-street: "Steinweg"
-housenumber: 15
-phone: "+49 9421 756551"
+street: Steinweg
+housenumber: "15"
+phone: +49 9421 756551
 opening_hours: ""
 website: ""

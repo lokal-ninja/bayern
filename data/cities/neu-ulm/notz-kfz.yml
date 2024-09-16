@@ -1,11 +1,11 @@
 id: 231686036
-type: way
+type: node
 latitude: 48.40824
 longitude: 10.0336
 postcode: "89233"
 city: Neu-Ulm
-street: "Friedrichsaustraße"
+street: Friedrichsaustraße
 housenumber: 11a
 phone: ""
-opening_hours: "Mo-Th 07:30-12:00,13:00-17:00; Fr 07:30-13:00"
-website: "http://www.notz-kfz.de/"
+opening_hours: Mo-Th 07:30-12:00,13:00-17:00; Fr 07:30-13:00
+website: http://www.notz-kfz.de/

@@ -1,11 +1,11 @@
 id: 123843176
-type: way
+type: node
 latitude: 49.02334
 longitude: 12.16367
 postcode: "93105"
 city: Tegernheim
-street: "Von-Heyden-Straße"
-housenumber: 2
+street: Von-Heyden-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de

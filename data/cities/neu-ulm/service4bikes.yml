@@ -1,11 +1,11 @@
 id: 275355831
-type: way
+type: node
 latitude: 48.36469
 longitude: 10.01068
 postcode: "89231"
 city: Neu-Ulm
-street: "Memminger Straße"
-housenumber: 190
-phone: "+49 731 25086886"
+street: Memminger Straße
+housenumber: "190"
+phone: +49 731 25086886
 opening_hours: ""
-website: "https://www.service4bikes.de"
+website: https://www.service4bikes.de

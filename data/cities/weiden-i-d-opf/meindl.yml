@@ -4,8 +4,9 @@ latitude: 49.67677
 longitude: 12.16285
 postcode: "92637"
 city: Weiden i.d.OPf.
-street: "Bürgermeister-Prechtl-Straße"
-housenumber: 24
+street: Bürgermeister-Prechtl-Straße
+housenumber: "24"
 phone: ""
-opening_hours: "Mo 07:30-13:00; Tu-Fr 07:30-13:00,14:30-18:00; Sa 07:30-12:00; PH,Su off"
+opening_hours: Mo 07:30-13:00; Tu-Fr 07:30-13:00,14:30-18:00; Sa 07:30-12:00; PH,Su
+    off
 website: ""

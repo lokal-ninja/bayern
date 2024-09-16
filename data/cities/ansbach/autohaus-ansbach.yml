@@ -1,11 +1,11 @@
 id: 101966452
-type: way
+type: node
 latitude: 49.29475
 longitude: 10.55993
 postcode: "91522"
 city: Ansbach
-street: "Feuchtwanger Straße"
-housenumber: 36
+street: Feuchtwanger Straße
+housenumber: "36"
 phone: ""
 opening_hours: ""
-website: "https://www.autohaus-ansbach.de/"
+website: https://www.autohaus-ansbach.de/

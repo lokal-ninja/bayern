@@ -1,11 +1,11 @@
 id: 205700484
-type: way
+type: node
 latitude: 48.44916
 longitude: 10.09849
 postcode: "89275"
 city: Elchingen
-street: "Nersinger Straße"
-housenumber: 26
+street: Nersinger Straße
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://www.thomas-philipps.de/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
+website: https://www.thomas-philipps.de/

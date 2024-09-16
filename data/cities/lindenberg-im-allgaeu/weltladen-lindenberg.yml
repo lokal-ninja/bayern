@@ -4,8 +4,8 @@ latitude: 47.60034
 longitude: 9.88651
 postcode: "88161"
 city: Lindenberg im Allgäu
-street: "Hauptstraße"
-housenumber: 67
+street: Hauptstraße
+housenumber: "67"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:30,14:30-18:00; Sa 09:00-12:30"
-website: "https://weltladen-lindenberg.org/"
+opening_hours: Mo-Fr 09:00-12:30,14:30-18:00; Sa 09:00-12:30
+website: https://weltladen-lindenberg.org/

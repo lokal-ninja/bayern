@@ -1,11 +1,11 @@
 id: 1170669573
-type: way
+type: node
 latitude: 48.32644
 longitude: 11.74817
 postcode: "85399"
 city: Hallbergmoos
-street: "Wilhelmstraße"
-housenumber: 13
-phone: "+49 811 1090"
+street: Wilhelmstraße
+housenumber: "13"
+phone: +49 811 1090
 opening_hours: ""
-website: "https://www.bockhorni-verleih.de/"
+website: https://www.bockhorni-verleih.de/

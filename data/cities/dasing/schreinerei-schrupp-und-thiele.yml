@@ -1,11 +1,11 @@
 id: 132761050
-type: way
+type: node
 latitude: 48.38888
 longitude: 11.05863
 postcode: "86453"
 city: Dasing
-street: "Messerschmittstraße"
-housenumber: 9
+street: Messerschmittstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
-website: "http://www.schrupp-thiele.de/"
+website: http://www.schrupp-thiele.de/

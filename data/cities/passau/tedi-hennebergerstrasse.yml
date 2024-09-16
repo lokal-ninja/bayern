@@ -4,8 +4,8 @@ latitude: 48.58434
 longitude: 13.39552
 postcode: "94036"
 city: Passau
-street: "Hennebergerstraße"
-housenumber: 4
+street: Hennebergerstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00"
-website: "https://www.tedi.com/stores/6734/de/BAYERN/Passau/Henneberger-Strasse-4Alte-Raiffeisenstrasse-3"
+opening_hours: Mo-Fr 09:00-19:00
+website: https://www.tedi.com/stores/6734/de/BAYERN/Passau/Henneberger-Strasse-4Alte-Raiffeisenstrasse-3

@@ -4,8 +4,8 @@ latitude: 48.16292
 longitude: 11.48791
 postcode: "81247"
 city: München
-street: "Pagodenburgstraße"
-housenumber: 8
-phone: "+49 89 8116528"
-opening_hours: "Mo-Fr 08:00-16:00"
-website: "https://www.finsterwalder-charly.de"
+street: Pagodenburgstraße
+housenumber: "8"
+phone: +49 89 8116528
+opening_hours: Mo-Fr 08:00-16:00
+website: https://www.finsterwalder-charly.de

@@ -4,8 +4,8 @@ latitude: 48.06107
 longitude: 10.86749
 postcode: "86899"
 city: Landsberg am Lech
-street: "Augsburger Straße"
-housenumber: 52
-phone: "+49 8191 922383"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; PH Su off"
-website: "https://stores.deichmann.com/de-de/de/bayern/landsberg/augsburger-strasse-52"
+street: Augsburger Straße
+housenumber: "52"
+phone: +49 8191 922383
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00; PH Su off
+website: https://stores.deichmann.com/de-de/de/bayern/landsberg/augsburger-strasse-52

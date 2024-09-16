@@ -1,11 +1,11 @@
 id: 122170081
-type: way
+type: node
 latitude: 48.49086
 longitude: 11.18168
 postcode: "86556"
 city: Kühbach
-street: "Aichacher Straße"
-housenumber: 4
+street: Aichacher Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

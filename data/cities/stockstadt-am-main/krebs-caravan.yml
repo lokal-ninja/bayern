@@ -1,11 +1,11 @@
 id: 835854019
-type: way
+type: node
 latitude: 49.96222
 longitude: 9.08645
 postcode: "63811"
 city: Stockstadt am Main
-street: "Ostendstraße"
-housenumber: 4
+street: Ostendstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:30,13:30-18:00; Sa 09:30-13:30"
+opening_hours: Mo-Fr 09:00-12:30,13:30-18:00; Sa 09:30-13:30
 website: ""

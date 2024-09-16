@@ -1,11 +1,11 @@
 id: 387155900
-type: way
+type: node
 latitude: 48.61872
 longitude: 12.38366
 postcode: "84183"
 city: Niederviehbach
-street: "Gummeringer Straße"
-housenumber: 4
+street: Gummeringer Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.3872
 longitude: 11.76208
 postcode: "85356"
 city: Freising
-street: "Am Lohmühlbach"
-housenumber: 16
+street: Am Lohmühlbach
+housenumber: "16"
 phone: ""
-opening_hours: "Th-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://www.diecaffewerkstatt.de/"
+opening_hours: Th-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://www.diecaffewerkstatt.de/

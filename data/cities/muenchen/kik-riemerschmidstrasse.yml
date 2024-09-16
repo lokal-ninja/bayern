@@ -4,8 +4,8 @@ latitude: 48.20868
 longitude: 11.55079
 postcode: "80933"
 city: München
-street: "Riemerschmidstraße"
-housenumber: 2
+street: Riemerschmidstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-19:00"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-19:00
 website: ""

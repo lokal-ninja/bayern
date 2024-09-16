@@ -1,11 +1,11 @@
 id: 293827296
-type: way
+type: node
 latitude: 48.57486
 longitude: 10.4966
 postcode: "89407"
 city: Dillingen a.d.Donau
-street: "Am Lustgarten"
-housenumber: 26
-phone: "+49 9071 2423"
+street: Am Lustgarten
+housenumber: "26"
+phone: +49 9071 2423
 opening_hours: ""
 website: ""

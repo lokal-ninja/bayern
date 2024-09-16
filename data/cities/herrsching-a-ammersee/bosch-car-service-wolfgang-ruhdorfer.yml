@@ -4,8 +4,8 @@ latitude: 48.00559
 longitude: 11.17541
 postcode: "82211"
 city: Herrsching a. Ammersee
-street: "Gewerbestraße"
-housenumber: 74
+street: Gewerbestraße
+housenumber: "74"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,13:00-18:00"
-website: "https://www.ruhdorfer-bosch.de/"
+opening_hours: Mo-Fr 08:00-12:00,13:00-18:00
+website: https://www.ruhdorfer-bosch.de/

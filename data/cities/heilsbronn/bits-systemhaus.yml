@@ -4,8 +4,8 @@ latitude: 49.33833
 longitude: 10.7906
 postcode: "91560"
 city: Heilsbronn
-street: "Hauptstraße"
-housenumber: 2
-phone: "+49 9872 365 933 0"
+street: Hauptstraße
+housenumber: "2"
+phone: +49 9872 365 933 0
 opening_hours: ""
-website: "https://bits-systemhaus.de/"
+website: https://bits-systemhaus.de/

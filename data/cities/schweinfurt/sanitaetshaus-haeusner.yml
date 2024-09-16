@@ -4,8 +4,8 @@ latitude: 50.04035
 longitude: 10.22324
 postcode: "97421"
 city: Schweinfurt
-street: "Luitpoldstraße"
-housenumber: 25
-phone: "+49 9721 70080"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00"
-website: "https://haeusner.de"
+street: Luitpoldstraße
+housenumber: "25"
+phone: +49 9721 70080
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00
+website: https://haeusner.de

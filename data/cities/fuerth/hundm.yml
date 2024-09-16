@@ -5,7 +5,7 @@ longitude: 10.98929
 postcode: "90762"
 city: Fürth
 street: ""
-housenumber: 
+housenumber: ""
 phone: "+498006655900"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.hm.com"
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.hm.com

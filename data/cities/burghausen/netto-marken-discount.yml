@@ -1,11 +1,11 @@
 id: 118907675
-type: way
+type: node
 latitude: 48.17083
 longitude: 12.8193
 postcode: "84489"
 city: Burghausen
-street: "Burgkirchener Straße"
-housenumber: 62
+street: Burgkirchener Straße
+housenumber: "62"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de

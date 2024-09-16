@@ -1,11 +1,11 @@
 id: 135296825
-type: way
+type: node
 latitude: 47.55769
 longitude: 10.09128
 postcode: "87534"
 city: Oberstaufen
-street: "Salzstraße"
-housenumber: 19
+street: Salzstraße
+housenumber: "19"
 phone: ""
 opening_hours: ""
-website: "http://www.skidoo-schmeiser.de/"
+website: http://www.skidoo-schmeiser.de/

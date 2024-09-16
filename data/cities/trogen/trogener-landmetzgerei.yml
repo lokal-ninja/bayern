@@ -1,11 +1,12 @@
 id: 984677518
-type: way
+type: node
 latitude: 50.3635
 longitude: 11.95191
 postcode: "95183"
 city: Trogen
-street: "Hauptstraße"
-housenumber: 14
+street: Hauptstraße
+housenumber: "14"
 phone: "+49928143132"
-opening_hours: "Mo 8:00-12:00; Tu-Th 8:00-12:00, 14:00-17:00; Fr 8:00-17:00; Sa 7:00-11:00; Su off"
+opening_hours: Mo 8:00-12:00; Tu-Th 8:00-12:00, 14:00-17:00; Fr 8:00-17:00; Sa 7:00-11:00;
+    Su off
 website: ""

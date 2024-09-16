@@ -4,8 +4,8 @@ latitude: 48.10126
 longitude: 11.58042
 postcode: "81547"
 city: München
-street: "Resedenweg"
-housenumber: 4
+street: Resedenweg
+housenumber: "4"
 phone: ""
-opening_hours: "Fr 12:30-18:00; Sa 10:00-13:00"
-website: "https://mehrzweckraum-harlaching.de"
+opening_hours: Fr 12:30-18:00; Sa 10:00-13:00
+website: https://mehrzweckraum-harlaching.de

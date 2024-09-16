@@ -1,11 +1,11 @@
 id: 166247269
-type: way
+type: node
 latitude: 47.77141
 longitude: 10.40724
 postcode: "87499"
 city: Wildpoldsried
-street: "Badenberg"
-housenumber: 32
+street: Badenberg
+housenumber: "32"
 phone: ""
 opening_hours: ""
-website: "http://www.autohaus-reichart.de"
+website: http://www.autohaus-reichart.de

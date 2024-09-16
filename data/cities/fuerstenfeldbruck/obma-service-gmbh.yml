@@ -1,11 +1,11 @@
 id: 104381939
-type: way
+type: node
 latitude: 48.17869
 longitude: 11.23
 postcode: "82256"
 city: Fürstenfeldbruck
-street: "Landsberger Straße"
-housenumber: 69
+street: Landsberger Straße
+housenumber: "69"
 phone: "+498141323420"
 opening_hours: ""
-website: "https://inninger-autohandel.de/"
+website: https://inninger-autohandel.de/

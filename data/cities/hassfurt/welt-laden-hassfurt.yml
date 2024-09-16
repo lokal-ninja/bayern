@@ -4,8 +4,8 @@ latitude: 50.03225
 longitude: 10.50729
 postcode: "97437"
 city: Haßfurt
-street: "Lucengasse"
-housenumber: 4
+street: Lucengasse
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 09:30-13:00, Sa 10:00-13:00, Mo,Tu,Th,Fr 14:00-18:00"
-website: "https://www.weltladen-hassfurt.de/"
+opening_hours: Mo-Fr 09:30-13:00, Sa 10:00-13:00, Mo,Tu,Th,Fr 14:00-18:00
+website: https://www.weltladen-hassfurt.de/

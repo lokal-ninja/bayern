@@ -1,11 +1,11 @@
 id: 172326529
-type: way
+type: node
 latitude: 48.3012
 longitude: 11.36831
 postcode: "85247"
 city: Schwabhausen
-street: "Münchener Straße"
-housenumber: 41
+street: Münchener Straße
+housenumber: "41"
 phone: ""
 opening_hours: ""
 website: ""

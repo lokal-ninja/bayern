@@ -4,8 +4,8 @@ latitude: 49.97432
 longitude: 9.15032
 postcode: "63739"
 city: Aschaffenburg
-street: "Sandgasse"
-housenumber: 51
-phone: "+49 6021 5844166"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 10:00-16:00"
-website: "https://www.damfastore.de"
+street: Sandgasse
+housenumber: "51"
+phone: +49 6021 5844166
+opening_hours: Mo-Fr 09:30-18:00; Sa 10:00-16:00
+website: https://www.damfastore.de

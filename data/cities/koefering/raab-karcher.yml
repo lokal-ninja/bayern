@@ -1,11 +1,11 @@
 id: 1037713032
-type: way
+type: node
 latitude: 48.94542
 longitude: 12.19443
 postcode: "93096"
 city: Köfering
-street: "Waldbreite"
-housenumber: 7
+street: Waldbreite
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

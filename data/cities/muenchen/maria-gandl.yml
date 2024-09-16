@@ -4,8 +4,8 @@ latitude: 48.13974
 longitude: 11.58719
 postcode: "80538"
 city: München
-street: "Sankt-Anna-Platz"
-housenumber: 1
-phone: "+49 89 29162525"
-opening_hours: "Su off, Mo-Sa 09:00-01:00"
-website: "https://www.gandl.de/"
+street: Sankt-Anna-Platz
+housenumber: "1"
+phone: +49 89 29162525
+opening_hours: Su off, Mo-Sa 09:00-01:00
+website: https://www.gandl.de/

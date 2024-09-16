@@ -4,8 +4,8 @@ latitude: 48.02679
 longitude: 11.59916
 postcode: "82041"
 city: Oberhaching
-street: "Münchner Straße"
-housenumber: 2
+street: Münchner Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-12:00, Mo,Tu,Th,Fr 14:00-17:00"
-website: "https://www.trauerhilfe-denk.de/"
+opening_hours: Mo-Sa 08:00-12:00, Mo,Tu,Th,Fr 14:00-17:00
+website: https://www.trauerhilfe-denk.de/

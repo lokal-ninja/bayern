@@ -4,8 +4,8 @@ latitude: 49.45224
 longitude: 11.07739
 postcode: "90402"
 city: Nürnberg
-street: "Königstraße"
-housenumber: 4
-phone: "+49 1729429527"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.bolia.com/"
+street: Königstraße
+housenumber: "4"
+phone: +49 1729429527
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.bolia.com/

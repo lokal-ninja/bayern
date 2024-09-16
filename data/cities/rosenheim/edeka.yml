@@ -1,11 +1,11 @@
 id: 98220849
-type: way
+type: node
 latitude: 47.85871
 longitude: 12.11689
 postcode: "83022"
 city: Rosenheim
-street: "Küpferlingstraße"
-housenumber: 2
+street: Küpferlingstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

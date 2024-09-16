@@ -4,8 +4,8 @@ latitude: 48.09019
 longitude: 11.55752
 postcode: "81545"
 city: München
-street: "Theodolindenplatz"
-housenumber: 5
+street: Theodolindenplatz
+housenumber: "5"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 10:00-13:00,14:00-18:00; Sa 10:00-13:00"
+opening_hours: Mo,Tu,Th,Fr 10:00-13:00,14:00-18:00; Sa 10:00-13:00
 website: ""

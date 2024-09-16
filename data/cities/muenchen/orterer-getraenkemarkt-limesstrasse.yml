@@ -1,11 +1,11 @@
 id: 110240861
-type: way
+type: node
 latitude: 48.14918
 longitude: 11.42104
 postcode: "81243"
 city: München
-street: "Limesstraße"
-housenumber: 51
-phone: "+49 89 87 03 62"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 08:00-18:00"
-website: "https://www.orterer.de/component/filialfinder/detail/100-orterer-getraenkemaerkte-gmbh?Itemid=331"
+street: Limesstraße
+housenumber: "51"
+phone: +49 89 87 03 62
+opening_hours: Mo-Fr 09:00-19:00; Sa 08:00-18:00
+website: https://www.orterer.de/component/filialfinder/detail/100-orterer-getraenkemaerkte-gmbh?Itemid=331

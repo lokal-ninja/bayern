@@ -4,8 +4,8 @@ latitude: 48.26207
 longitude: 11.47531
 postcode: "85221"
 city: Dachau
-street: "Kopernikusstraße"
-housenumber: 2
-phone: "+49 871 40439750"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.incenter-dachau.de/"
+street: Kopernikusstraße
+housenumber: "2"
+phone: +49 871 40439750
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.incenter-dachau.de/

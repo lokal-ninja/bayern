@@ -4,8 +4,8 @@ latitude: 47.99836
 longitude: 11.3425
 postcode: "82319"
 city: Starnberg
-street: "Wittelsbacherstraße"
-housenumber: 9
-phone: "+49 8151 744174"
-opening_hours: "Mo-Fr 08:00-19:00;Sa 08:00-14:00"
-website: "https://www.naturkostinsel.com/starnberg"
+street: Wittelsbacherstraße
+housenumber: "9"
+phone: +49 8151 744174
+opening_hours: Mo-Fr 08:00-19:00;Sa 08:00-14:00
+website: https://www.naturkostinsel.com/starnberg

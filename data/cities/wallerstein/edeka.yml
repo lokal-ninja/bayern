@@ -1,11 +1,11 @@
 id: 127419803
-type: way
+type: node
 latitude: 48.888
 longitude: 10.46555
 postcode: "86757"
 city: Wallerstein
-street: "Praterweg"
-housenumber: 2
+street: Praterweg
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.37828
 longitude: 10.91285
 postcode: "86167"
 city: Augsburg
-street: "Turnerstraße"
-housenumber: 1
+street: Turnerstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:00-14:00"
-website: "http://www.kvaugsburg-stadt.brk.de/brk-laedle/lechhausen"
+opening_hours: Mo-Fr 09:00-14:00
+website: http://www.kvaugsburg-stadt.brk.de/brk-laedle/lechhausen

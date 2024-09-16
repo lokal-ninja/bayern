@@ -4,8 +4,8 @@ latitude: 48.10266
 longitude: 11.59588
 postcode: ""
 city: München
-street: "Stadelheimer Straße"
-housenumber: 71
+street: Stadelheimer Straße
+housenumber: "71"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.penny.de/"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.penny.de/

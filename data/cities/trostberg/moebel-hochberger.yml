@@ -1,11 +1,11 @@
 id: 225476433
-type: way
+type: node
 latitude: 48.0252
 longitude: 12.54219
 postcode: "83308"
 city: Trostberg
-street: "Weissauer Straße"
-housenumber: 2
+street: Weissauer Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "www.moebel-hochberger.de"
+website: www.moebel-hochberger.de

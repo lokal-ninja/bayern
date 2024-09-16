@@ -1,11 +1,11 @@
 id: 161231763
-type: way
+type: node
 latitude: 48.39103
 longitude: 10.8564
 postcode: "86156"
 city: Augsburg
-street: "Holzweg"
-housenumber: 45
+street: Holzweg
+housenumber: "45"
 phone: ""
 opening_hours: ""
 website: ""

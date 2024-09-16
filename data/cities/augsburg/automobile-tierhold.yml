@@ -1,11 +1,11 @@
 id: 53535619
-type: way
+type: node
 latitude: 48.31848
 longitude: 10.89194
 postcode: "86179"
 city: Augsburg
-street: "Unterer Talweg"
-housenumber: 48
-phone: "+49 821 80899-0"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 09:00-13:00"
-website: "https://tierhold.com/"
+street: Unterer Talweg
+housenumber: "48"
+phone: +49 821 80899-0
+opening_hours: Mo-Fr 07:30-18:00; Sa 09:00-13:00
+website: https://tierhold.com/

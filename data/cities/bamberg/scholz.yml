@@ -1,11 +1,11 @@
 id: 33113327
-type: way
+type: node
 latitude: 49.9193
 longitude: 10.90264
 postcode: "96052"
 city: Bamberg
-street: "Kronacher Straße"
-housenumber: 51
+street: Kronacher Straße
+housenumber: "51"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 8010600
-type: way
+type: node
 latitude: 48.19348
 longitude: 11.59471
 postcode: "80939"
 city: München
-street: "Maria-Probst-Straße"
-housenumber: 19
+street: Maria-Probst-Straße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
+opening_hours: Mo-Sa 10:00-20:00
 website: ""

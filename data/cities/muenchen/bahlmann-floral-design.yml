@@ -4,8 +4,8 @@ latitude: 48.12663
 longitude: 11.55855
 postcode: "80337"
 city: München
-street: "Häberlstraße"
-housenumber: 23
-phone: "+49 89 225561"
-opening_hours: "Mo,Di,Do,Fr 09:30-18:30 Sa 10:00-18:00"
-website: "https://www.bahlmann.flowers/"
+street: Häberlstraße
+housenumber: "23"
+phone: +49 89 225561
+opening_hours: Mo,Di,Do,Fr 09:30-18:30 Sa 10:00-18:00
+website: https://www.bahlmann.flowers/

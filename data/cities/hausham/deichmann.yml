@@ -4,8 +4,8 @@ latitude: 47.76225
 longitude: 11.82712
 postcode: "83734"
 city: Hausham
-street: "Marktstraße"
-housenumber: 12
-phone: "+49 8026 93079"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:00"
+street: Marktstraße
+housenumber: "12"
+phone: +49 8026 93079
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-17:00
 website: ""

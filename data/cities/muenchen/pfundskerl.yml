@@ -1,11 +1,11 @@
 id: 8010723
-type: way
+type: node
 latitude: 48.19152
 longitude: 11.59391
 postcode: "80939"
 city: München
-street: "Lotte-Branz-Straße"
-housenumber: 8
+street: Lotte-Branz-Straße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00-18:00"
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:00-18:00
 website: ""

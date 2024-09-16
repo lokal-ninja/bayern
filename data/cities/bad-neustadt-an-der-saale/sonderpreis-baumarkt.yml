@@ -1,11 +1,11 @@
 id: 423021672
-type: way
+type: node
 latitude: 50.32691
 longitude: 10.22342
 postcode: "97616"
 city: Bad Neustadt an der Saale
-street: "Rederstraße"
-housenumber: 22
+street: Rederstraße
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00; Su,PH off"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-16:00; Su,PH off
 website: ""

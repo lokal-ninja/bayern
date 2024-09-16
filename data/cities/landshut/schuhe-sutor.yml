@@ -4,8 +4,8 @@ latitude: 48.53732
 longitude: 12.15245
 postcode: "84028"
 city: Landshut
-street: "Altstadt"
-housenumber: 361
+street: Altstadt
+housenumber: "361"
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://sutor.de"
+opening_hours: Mo-Sa 09:30-19:00
+website: https://sutor.de

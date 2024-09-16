@@ -1,11 +1,11 @@
 id: 59556227
-type: way
+type: node
 latitude: 49.1825
 longitude: 11.18407
 postcode: "91161"
 city: Hilpoltstein
-street: "Siemensstraße"
-housenumber: 4
+street: Siemensstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://filialen.aldi-sued.de/bayern/hilpoltstein/siemensstrasse-4"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://filialen.aldi-sued.de/bayern/hilpoltstein/siemensstrasse-4

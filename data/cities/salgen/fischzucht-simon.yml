@@ -1,11 +1,11 @@
 id: 96965636
-type: way
+type: node
 latitude: 48.09959
 longitude: 10.47958
 postcode: "87775"
 city: Salgen
-street: "Weiherweg"
-housenumber: 6
+street: Weiherweg
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

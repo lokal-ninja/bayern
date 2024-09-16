@@ -1,11 +1,11 @@
 id: 801793902
-type: way
+type: node
 latitude: 49.90511
 longitude: 12.18502
 postcode: "95676"
 city: Wiesau
-street: "Egerstraße"
-housenumber: 23
-phone: "+49 9634 7939020"
-opening_hours: "Mo-Sa 07:00-20:00"
+street: Egerstraße
+housenumber: "23"
+phone: +49 9634 7939020
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

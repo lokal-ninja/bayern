@@ -4,8 +4,8 @@ latitude: 48.14797
 longitude: 11.46093
 postcode: "81241"
 city: München
-street: "Am Schützeneck"
-housenumber: 8
-phone: "+49 89 82 92 07 0"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00; Su,PH off"
-website: "http://www.danzeisen.com/"
+street: Am Schützeneck
+housenumber: "8"
+phone: +49 89 82 92 07 0
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00; Su,PH off
+website: http://www.danzeisen.com/

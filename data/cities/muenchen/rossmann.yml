@@ -4,8 +4,8 @@ latitude: 48.15778
 longitude: 11.64152
 postcode: "81927"
 city: München
-street: "Freischützstraße"
-housenumber: 11
+street: Freischützstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off
 website: ""

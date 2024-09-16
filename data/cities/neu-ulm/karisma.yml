@@ -1,11 +1,11 @@
 id: 324298353
-type: way
+type: node
 latitude: 48.396
 longitude: 10.01082
 postcode: "89231"
 city: Neu-Ulm
-street: "Industriestraße"
-housenumber: 7
-phone: "+49 731 71101841"
-opening_hours: "Mo-Fr 08:00-17:30; Sa 09:00-13:00"
-website: "https://www.karisma-nu.de/"
+street: Industriestraße
+housenumber: "7"
+phone: +49 731 71101841
+opening_hours: Mo-Fr 08:00-17:30; Sa 09:00-13:00
+website: https://www.karisma-nu.de/

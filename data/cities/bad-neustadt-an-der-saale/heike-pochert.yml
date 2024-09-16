@@ -1,11 +1,11 @@
 id: 103025132
-type: way
+type: node
 latitude: 50.32166
 longitude: 10.19678
 postcode: "97616"
 city: Bad Neustadt an der Saale
-street: "Nürnberger Straße"
-housenumber: 9
+street: Nürnberger Straße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

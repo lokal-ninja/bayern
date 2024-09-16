@@ -1,11 +1,11 @@
 id: 223299362
-type: way
+type: node
 latitude: 50.01399
 longitude: 10.28257
 postcode: "97469"
 city: Gochsheim
-street: "Lindestraße"
-housenumber: 13
+street: Lindestraße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

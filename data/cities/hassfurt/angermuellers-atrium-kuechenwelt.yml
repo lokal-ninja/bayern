@@ -1,11 +1,11 @@
 id: 90077517
-type: way
+type: node
 latitude: 50.03178
 longitude: 10.51861
 postcode: "97437"
 city: Haßfurt
-street: "Zeiler Straße"
-housenumber: 29
+street: Zeiler Straße
+housenumber: "29"
 phone: ""
 opening_hours: ""
-website: "https://www.kuechen-angermueller.de/"
+website: https://www.kuechen-angermueller.de/

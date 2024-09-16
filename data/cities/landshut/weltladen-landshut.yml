@@ -4,8 +4,8 @@ latitude: 48.53609
 longitude: 12.15302
 postcode: "84028"
 city: Landshut
-street: "Grasgasse"
-housenumber: 318
-phone: "+498 71 8 91 46"
-opening_hours: "Mo-Fr 09:00-18:00 Sa 10:00-16:00"
-website: "https://www.aksolidarischeweltla.de/"
+street: Grasgasse
+housenumber: "318"
+phone: +498 71 8 91 46
+opening_hours: Mo-Fr 09:00-18:00 Sa 10:00-16:00
+website: https://www.aksolidarischeweltla.de/

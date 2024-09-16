@@ -4,8 +4,8 @@ latitude: 49.59032
 longitude: 11.01703
 postcode: "91052"
 city: Erlangen
-street: "Gebbertstraße"
-housenumber: 62
-phone: "+49 9131 8291293"
-opening_hours: "Mo-Fr 09:45-18:00; We 09:45-20:00; Sa 09:45-14:00; PH off"
+street: Gebbertstraße
+housenumber: "62"
+phone: +49 9131 8291293
+opening_hours: Mo-Fr 09:45-18:00; We 09:45-20:00; Sa 09:45-14:00; PH off
 website: ""

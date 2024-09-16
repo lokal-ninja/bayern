@@ -4,8 +4,8 @@ latitude: 48.84395
 longitude: 12.96773
 postcode: "94469"
 city: Deggendorf
-street: "Ruselstraße"
-housenumber: 30
-phone: "+49 991 3201784"
-opening_hours: "Mo-Sa 06:00-19:00; Su 07:00-17:00"
-website: "https://www.gaeubodenbaecker.de/hahn/"
+street: Ruselstraße
+housenumber: "30"
+phone: +49 991 3201784
+opening_hours: Mo-Sa 06:00-19:00; Su 07:00-17:00
+website: https://www.gaeubodenbaecker.de/hahn/

@@ -1,11 +1,11 @@
 id: 287034186
-type: way
+type: node
 latitude: 48.84908
 longitude: 13.48291
 postcode: "94545"
 city: Hohenau
-street: "Im Gewerbepark"
-housenumber: 2
+street: Im Gewerbepark
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
+opening_hours: Mo-Sa 08:00-20:00; PH off
 website: ""

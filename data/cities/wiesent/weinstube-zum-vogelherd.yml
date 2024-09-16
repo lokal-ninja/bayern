@@ -4,8 +4,8 @@ latitude: 49.01564
 longitude: 12.33504
 postcode: "93109"
 city: Wiesent
-street: "Kruckenberg"
-housenumber: 56
+street: Kruckenberg
+housenumber: "56"
 phone: ""
-opening_hours: "18:00-20:00; Su,PH off"
+opening_hours: 18:00-20:00; Su,PH off
 website: ""

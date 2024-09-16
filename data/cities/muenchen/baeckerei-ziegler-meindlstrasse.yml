@@ -4,8 +4,8 @@ latitude: 48.11931
 longitude: 11.53811
 postcode: "81373"
 city: München
-street: "Meindlstraße"
-housenumber: 6
+street: Meindlstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-12:00; Su 08:00-11:00"
-website: "https://www.baeckerei-ziegler.de/"
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-12:00; Su 08:00-11:00
+website: https://www.baeckerei-ziegler.de/

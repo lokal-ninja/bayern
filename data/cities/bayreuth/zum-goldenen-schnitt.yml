@@ -4,8 +4,8 @@ latitude: 49.93915
 longitude: 11.57151
 postcode: "95444"
 city: Bayreuth
-street: "Rathenaustraße"
-housenumber: 12
+street: Rathenaustraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00, Fr 08:00-14:00"
-website: "https://www.zumgoldenenschnitt.de"
+opening_hours: Mo-Fr 08:00-18:00, Fr 08:00-14:00
+website: https://www.zumgoldenenschnitt.de

@@ -1,11 +1,11 @@
 id: 35640882
-type: way
+type: node
 latitude: 49.58296
 longitude: 10.96372
 postcode: "91056"
 city: Erlangen
-street: "Gundstraße"
-housenumber: 7
+street: Gundstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 08:15-17:00; Sa 08:30-12:30"
-website: "https://www.stahlgruber.de/"
+opening_hours: Mo-Fr 08:15-17:00; Sa 08:30-12:30
+website: https://www.stahlgruber.de/

@@ -1,11 +1,11 @@
 id: 29561227
-type: way
+type: node
 latitude: 50.04249
 longitude: 10.31286
 postcode: "97453"
 city: Schonungen
-street: "Goldellern"
-housenumber: 2
-phone: "+49 9721 94 65 490"
-opening_hours: "Tu-Fr 09:30-18:00; Sa 09:00-15:00; Su, Mo, PH off"
-website: "https://multicycle.de/cube-store-schweinfurt/"
+street: Goldellern
+housenumber: "2"
+phone: +49 9721 94 65 490
+opening_hours: Tu-Fr 09:30-18:00; Sa 09:00-15:00; Su, Mo, PH off
+website: https://multicycle.de/cube-store-schweinfurt/

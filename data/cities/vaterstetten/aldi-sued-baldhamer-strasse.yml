@@ -1,11 +1,11 @@
 id: 33767423
-type: way
+type: node
 latitude: 48.11228
 longitude: 11.78034
 postcode: "85591"
 city: Vaterstetten
-street: "Baldhamer Straße"
-housenumber: 97
+street: Baldhamer Straße
+housenumber: "97"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://filialen.aldi-sued.de/bayern/vaterstetten/baldhamer-strasse-97"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://filialen.aldi-sued.de/bayern/vaterstetten/baldhamer-strasse-97

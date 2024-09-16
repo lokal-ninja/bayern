@@ -4,8 +4,9 @@ latitude: 47.6245
 longitude: 9.97278
 postcode: "88167"
 city: Röthenbach (Allgäu)
-street: "Birkenweg"
+street: Birkenweg
 housenumber: 1A
 phone: ""
-opening_hours: "Mo-Tu 6:30-12:30, 14:00-18:00; We 6:30-12:30; Th-Fr 6:30-12:30, 14:00-18:00; Sa 6:30-12:00; PH off"
+opening_hours: Mo-Tu 6:30-12:30, 14:00-18:00; We 6:30-12:30; Th-Fr 6:30-12:30, 14:00-18:00;
+    Sa 6:30-12:00; PH off
 website: ""

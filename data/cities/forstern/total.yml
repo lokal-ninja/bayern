@@ -1,11 +1,11 @@
 id: 310788946
-type: way
+type: node
 latitude: 48.18665
 longitude: 11.97501
 postcode: ""
 city: Forstern
-street: "Hauptstraße"
-housenumber: 40
-phone: "+49 8124 444842"
-opening_hours: "24/7"
-website: "https://store.total.de/de_DE/ND162560"
+street: Hauptstraße
+housenumber: "40"
+phone: +49 8124 444842
+opening_hours: 24/7
+website: https://store.total.de/de_DE/ND162560

@@ -1,11 +1,11 @@
 id: 288598967
-type: way
+type: node
 latitude: 48.25155
 longitude: 12.51123
 postcode: "84453"
 city: Mühldorf a. Inn
-street: "Felix-Gebhardt-Straße"
-housenumber: 6
+street: Felix-Gebhardt-Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

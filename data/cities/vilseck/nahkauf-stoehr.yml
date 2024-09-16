@@ -1,11 +1,11 @@
 id: 205828918
-type: way
+type: node
 latitude: 49.61765
 longitude: 11.79164
 postcode: "92249"
 city: Vilseck
-street: "Robert-Bosch-Straße"
-housenumber: 2
+street: Robert-Bosch-Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

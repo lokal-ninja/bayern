@@ -1,11 +1,11 @@
 id: 222784841
-type: way
+type: node
 latitude: 49.80247
 longitude: 9.98008
 postcode: "97076"
 city: Würzburg
-street: "Werner-von-Siemens-Straße"
-housenumber: 44
+street: Werner-von-Siemens-Straße
+housenumber: "44"
 phone: ""
 opening_hours: ""
 website: ""

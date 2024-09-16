@@ -1,11 +1,11 @@
 id: 37639935
-type: way
+type: node
 latitude: 48.39774
 longitude: 10.82466
 postcode: "86356"
 city: Neusäß
-street: "Lohwaldstraße"
-housenumber: 62
+street: Lohwaldstraße
+housenumber: "62"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://filialen.aldi-sued.de/bayern/neusaess/lohwaldstrasse-62"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://filialen.aldi-sued.de/bayern/neusaess/lohwaldstrasse-62

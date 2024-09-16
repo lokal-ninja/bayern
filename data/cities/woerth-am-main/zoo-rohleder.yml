@@ -1,11 +1,11 @@
 id: 331652461
-type: way
+type: node
 latitude: 49.78466
 longitude: 9.17288
 postcode: "63939"
 city: Wörth am Main
-street: "Dr.-Konrad-Wiegand-Straße"
-housenumber: 1
-phone: "+49 9372 3262"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 10:00-16:00"
+street: Dr.-Konrad-Wiegand-Straße
+housenumber: "1"
+phone: +49 9372 3262
+opening_hours: Mo-Fr 09:00-18:30; Sa 10:00-16:00
 website: ""

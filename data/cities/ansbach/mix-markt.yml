@@ -1,11 +1,11 @@
 id: 202776214
-type: way
+type: node
 latitude: 49.29738
 longitude: 10.56838
 postcode: "91522"
 city: Ansbach
-street: "Oberhäuserstraße"
-housenumber: 9
+street: Oberhäuserstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
 website: ""

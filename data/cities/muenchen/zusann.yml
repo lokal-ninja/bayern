@@ -4,8 +4,8 @@ latitude: 48.13438
 longitude: 11.59685
 postcode: "81667"
 city: München
-street: "Wiener Platz"
-housenumber: 8
+street: Wiener Platz
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
 website: ""

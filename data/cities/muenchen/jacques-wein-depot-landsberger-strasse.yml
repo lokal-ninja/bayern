@@ -4,8 +4,8 @@ latitude: 48.14354
 longitude: 11.50085
 postcode: "80687"
 city: München
-street: "Landsberger Straße"
-housenumber: 302
-phone: "+49 89 2371 9718"
-opening_hours: "Mo-Th 13:00-19:00; Fr 12:00-19:00; Sa 10:00-16:00"
-website: "https://www.jacques.de/depot/299/muenchen-laim"
+street: Landsberger Straße
+housenumber: "302"
+phone: +49 89 2371 9718
+opening_hours: Mo-Th 13:00-19:00; Fr 12:00-19:00; Sa 10:00-16:00
+website: https://www.jacques.de/depot/299/muenchen-laim

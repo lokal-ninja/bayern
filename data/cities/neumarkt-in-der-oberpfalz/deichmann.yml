@@ -4,8 +4,9 @@ latitude: 49.281
 longitude: 11.45827
 postcode: "92318"
 city: Neumarkt in der Oberpfalz
-street: "Untere Marktstraße"
-housenumber: 7
+street: Untere Marktstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo 09:00-19:00; Tu 09:00-19:00; We 09:00-19:00; Th 09:00-19:00; Fr 09:00-19:00; Sa 09:00-18:00"
+opening_hours: Mo 09:00-19:00; Tu 09:00-19:00; We 09:00-19:00; Th 09:00-19:00; Fr
+    09:00-19:00; Sa 09:00-18:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.14132
 longitude: 11.58398
 postcode: "80538"
 city: München
-street: "Christophstraße"
-housenumber: 3
-phone: "+49 89 21938124"
-opening_hours: "Mo 12:00-20:00; We 12:00-20:00; Fr 12:00-20:00"
-website: "https://www.avisio-muenchen.de"
+street: Christophstraße
+housenumber: "3"
+phone: +49 89 21938124
+opening_hours: Mo 12:00-20:00; We 12:00-20:00; Fr 12:00-20:00
+website: https://www.avisio-muenchen.de

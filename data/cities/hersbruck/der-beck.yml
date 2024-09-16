@@ -1,11 +1,11 @@
 id: 28736782
-type: way
+type: node
 latitude: 49.50866
 longitude: 11.40839
 postcode: "91217"
 city: Hersbruck
-street: "Nürnberger Straße"
-housenumber: 135
+street: Nürnberger Straße
+housenumber: "135"
 phone: ""
-opening_hours: "Mo-Fr 05:30-18:00; Sa 06:00-17:00; Su 07:30-17:00; PH 07:30-17:00"
+opening_hours: Mo-Fr 05:30-18:00; Sa 06:00-17:00; Su 07:30-17:00; PH 07:30-17:00
 website: ""

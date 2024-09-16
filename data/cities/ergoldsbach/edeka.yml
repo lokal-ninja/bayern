@@ -1,11 +1,11 @@
 id: 299191594
-type: way
+type: node
 latitude: 48.69232
 longitude: 12.20479
 postcode: "84061"
 city: Ergoldsbach
-street: "Hauptstraße"
-housenumber: 30
+street: Hauptstraße
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

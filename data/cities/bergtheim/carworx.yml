@@ -1,11 +1,11 @@
 id: 760560743
-type: way
+type: node
 latitude: 49.90297
 longitude: 10.06461
 postcode: "97241"
 city: Bergtheim
-street: "Am Eulenberg"
-housenumber: 4
+street: Am Eulenberg
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

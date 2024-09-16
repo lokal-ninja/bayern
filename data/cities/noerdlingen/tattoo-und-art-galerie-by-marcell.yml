@@ -1,11 +1,11 @@
 id: 108208517
-type: way
+type: node
 latitude: 48.84901
 longitude: 10.48955
 postcode: "86720"
 city: Nördlingen
-street: "Brettermarkt"
-housenumber: 12
+street: Brettermarkt
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

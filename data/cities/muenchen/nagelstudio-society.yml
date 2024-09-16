@@ -4,8 +4,8 @@ latitude: 48.11504
 longitude: 11.48212
 postcode: "81375"
 city: München
-street: "Würmtalstraße"
-housenumber: 104
-phone: "+49 89 7140642"
-opening_hours: "Termine nach Vereinbarung"
+street: Würmtalstraße
+housenumber: "104"
+phone: +49 89 7140642
+opening_hours: '"Termine nach Vereinbarung"'
 website: ""

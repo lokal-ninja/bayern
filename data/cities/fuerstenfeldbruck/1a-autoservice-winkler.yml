@@ -4,8 +4,8 @@ latitude: 48.1771
 longitude: 11.24313
 postcode: "82256"
 city: Fürstenfeldbruck
-street: "Schillerstraße"
-housenumber: 7
+street: Schillerstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Th 08:00-12:00,13:00-17:30"
-website: "https://winkler.go1a.de/"
+opening_hours: Mo-Th 08:00-12:00,13:00-17:30
+website: https://winkler.go1a.de/

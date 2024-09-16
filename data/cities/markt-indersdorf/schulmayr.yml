@@ -1,11 +1,11 @@
 id: 311500345
-type: way
+type: node
 latitude: 48.36187
 longitude: 11.37605
 postcode: "85229"
 city: Markt Indersdorf
-street: "Angerweg"
-housenumber: 5
+street: Angerweg
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://schulmayr.de/"
+website: https://schulmayr.de/

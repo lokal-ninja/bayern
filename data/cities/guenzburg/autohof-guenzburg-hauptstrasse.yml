@@ -1,11 +1,11 @@
 id: 151461879
-type: way
+type: node
 latitude: 48.43347
 longitude: 10.29262
 postcode: "89312"
 city: Günzburg
-street: "Hauptstraße"
-housenumber: 2
+street: Hauptstraße
+housenumber: "2"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

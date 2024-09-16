@@ -4,8 +4,8 @@ latitude: 48.15012
 longitude: 11.64081
 postcode: "81927"
 city: München
-street: "Ostpreußenstraße"
-housenumber: 38
+street: Ostpreußenstraße
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Fr 09:30-12:30,14:00-18:30; Sa 09:30-12:30"
-website: "https://www.optikschlierf.de/"
+opening_hours: Mo-Fr 09:30-12:30,14:00-18:30; Sa 09:30-12:30
+website: https://www.optikschlierf.de/

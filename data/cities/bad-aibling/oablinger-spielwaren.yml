@@ -4,8 +4,8 @@ latitude: 47.86558
 longitude: 12.01033
 postcode: "83043"
 city: Bad Aibling
-street: "Kirchzeile"
-housenumber: 15
-phone: "+49 8061 280 36 12"
-opening_hours: "Tu-Fr 09:30-13:00,14:30-18:00, Sa 09:00-13:00; Su,Mo,PH off"
+street: Kirchzeile
+housenumber: "15"
+phone: +49 8061 280 36 12
+opening_hours: Tu-Fr 09:30-13:00,14:30-18:00, Sa 09:00-13:00; Su,Mo,PH off
 website: ""

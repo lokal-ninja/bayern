@@ -1,11 +1,11 @@
 id: 180657694
-type: way
+type: node
 latitude: 47.44548
 longitude: 11.26594
 postcode: "82481"
 city: Mittenwald
-street: "Schöttlkarstraße"
-housenumber: 18
+street: Schöttlkarstraße
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

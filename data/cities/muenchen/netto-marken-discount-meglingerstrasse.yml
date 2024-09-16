@@ -1,11 +1,11 @@
 id: 65492581
-type: way
+type: node
 latitude: 48.09363
 longitude: 11.50631
 postcode: "81477"
 city: München
-street: "Meglingerstraße"
-housenumber: 6
+street: Meglingerstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de/filialen/muenchen/meglinger-str-6/8386"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de/filialen/muenchen/meglinger-str-6/8386

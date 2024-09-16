@@ -4,8 +4,8 @@ latitude: 48.3548
 longitude: 10.94114
 postcode: "86163"
 city: Augsburg
-street: "Friedberger Straße"
-housenumber: 116
-phone: "+49 821 667509"
-opening_hours: "Mo-Fr 10:00-13:00,14:00-18:00; Sa 10:00-14:00"
-website: "https://www.chill-out.net/"
+street: Friedberger Straße
+housenumber: "116"
+phone: +49 821 667509
+opening_hours: Mo-Fr 10:00-13:00,14:00-18:00; Sa 10:00-14:00
+website: https://www.chill-out.net/

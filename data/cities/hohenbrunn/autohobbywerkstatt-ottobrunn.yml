@@ -1,11 +1,11 @@
 id: 52521038
-type: way
+type: node
 latitude: 48.05401
 longitude: 11.67117
 postcode: "85521"
 city: Hohenbrunn
-street: "Otto-Hahn-Straße"
+street: Otto-Hahn-Straße
 housenumber: 4 b
-phone: "+49 89 9450 0225"
-opening_hours: "Mo-Fr 09:00-23:00; Sa 09:00-21:00; Su,PH off"
-website: "https://www.autohobbyottobrunn.de/"
+phone: +49 89 9450 0225
+opening_hours: Mo-Fr 09:00-23:00; Sa 09:00-21:00; Su,PH off
+website: https://www.autohobbyottobrunn.de/

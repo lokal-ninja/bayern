@@ -1,11 +1,11 @@
 id: 191945413
-type: way
+type: node
 latitude: 48.38202
 longitude: 11.42046
 postcode: "85258"
 city: Weichs
-street: "Gewerbering"
-housenumber: 20
+street: Gewerbering
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

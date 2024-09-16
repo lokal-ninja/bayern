@@ -1,11 +1,11 @@
 id: 227101708
-type: way
+type: node
 latitude: 48.85716
 longitude: 12.91299
 postcode: "94526"
 city: Metten
-street: "Eichenhainstraße"
-housenumber: 2
+street: Eichenhainstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

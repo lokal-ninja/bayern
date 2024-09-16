@@ -1,11 +1,11 @@
 id: 993473780
-type: way
+type: node
 latitude: 48.05566
 longitude: 10.63514
 postcode: "86842"
 city: Türkheim
-street: "Wörishofer Straße"
-housenumber: 28
+street: Wörishofer Straße
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

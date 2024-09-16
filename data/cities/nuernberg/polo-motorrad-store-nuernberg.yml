@@ -4,8 +4,8 @@ latitude: 49.43468
 longitude: 11.03722
 postcode: "90431"
 city: Nürnberg
-street: "Am Tillypark"
-housenumber: 8
-phone: "+49 911 312464"
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://www.polo-motorrad.de/"
+street: Am Tillypark
+housenumber: "8"
+phone: +49 911 312464
+opening_hours: Mo-Sa 09:30-19:00
+website: https://www.polo-motorrad.de/

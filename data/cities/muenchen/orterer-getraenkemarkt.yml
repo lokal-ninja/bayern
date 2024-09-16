@@ -4,8 +4,8 @@ latitude: 48.11489
 longitude: 11.6447
 postcode: "81735"
 city: München
-street: "Heinrich-Wieland-Straße"
-housenumber: 79
-phone: "+49 89 422758"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.orterer.de/"
+street: Heinrich-Wieland-Straße
+housenumber: "79"
+phone: +49 89 422758
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.orterer.de/

@@ -1,11 +1,11 @@
 id: 192501701
-type: way
+type: node
 latitude: 48.46586
 longitude: 12.73048
 postcode: "84326"
 city: Falkenberg
-street: "Eggenfeldener Straße"
-housenumber: 50
+street: Eggenfeldener Straße
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

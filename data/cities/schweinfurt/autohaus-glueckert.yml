@@ -1,11 +1,11 @@
 id: 776340728
-type: way
+type: node
 latitude: 50.02931
 longitude: 10.20229
 postcode: "97424"
 city: Schweinfurt
-street: "Engelbert-Fries-Straße"
-housenumber: 7
+street: Engelbert-Fries-Straße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 105469520
-type: way
+type: node
 latitude: 48.35592
 longitude: 10.91853
 postcode: "86161"
 city: Augsburg
-street: "Friedberger Straße"
-housenumber: 47
+street: Friedberger Straße
+housenumber: "47"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00; PH off"
-website: "https://www.action.com/de-de/laden/augsburg/"
+opening_hours: Mo-Sa 09:00-20:00; PH off
+website: https://www.action.com/de-de/laden/augsburg/

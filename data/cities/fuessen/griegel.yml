@@ -1,11 +1,11 @@
 id: 87436832
-type: way
+type: node
 latitude: 47.5758
 longitude: 10.67579
 postcode: "87629"
 city: Füssen
-street: "Schäfflerstraße"
-housenumber: 6
-phone: "+49 8362 7271"
+street: Schäfflerstraße
+housenumber: "6"
+phone: +49 8362 7271
 opening_hours: ""
-website: "https://www.griegel.de/"
+website: https://www.griegel.de/

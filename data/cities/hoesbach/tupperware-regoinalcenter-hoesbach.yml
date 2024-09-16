@@ -1,11 +1,11 @@
 id: 45034853
-type: way
+type: node
 latitude: 50.00299
 longitude: 9.20181
 postcode: "63768"
 city: Hösbach
-street: "Hauptstraße"
-housenumber: 92
+street: Hauptstraße
+housenumber: "92"
 phone: ""
 opening_hours: ""
 website: ""

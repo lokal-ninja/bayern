@@ -1,11 +1,12 @@
 id: 201825996
-type: way
+type: node
 latitude: 48.74077
 longitude: 11.42067
 postcode: "85051"
 city: Ingolstadt
-street: "Am Pulverl"
-housenumber: 76
-phone: "+49 841 99478098"
-opening_hours: "Mo-Tu 10:00-13:00,14:00-18:00; We 10:00-14:00; Th-Fr 10:00-13:00,14:00-18:00; Sa 10:00-13:00; PH off || Mo-Sa 06:00-22:00 nach Vereinbarung; PH off"
-website: "http://www.sas-com.de/"
+street: Am Pulverl
+housenumber: "76"
+phone: +49 841 99478098
+opening_hours: Mo-Tu 10:00-13:00,14:00-18:00; We 10:00-14:00; Th-Fr 10:00-13:00,14:00-18:00;
+    Sa 10:00-13:00; PH off || Mo-Sa 06:00-22:00 "nach Vereinbarung"; PH off
+website: http://www.sas-com.de/

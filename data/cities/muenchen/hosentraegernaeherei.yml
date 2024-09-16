@@ -4,8 +4,8 @@ latitude: 48.12026
 longitude: 11.57508
 postcode: "81543"
 city: München
-street: "Oefelestraße"
-housenumber: 3
+street: Oefelestraße
+housenumber: "3"
 phone: ""
-opening_hours: "We 14:00-18:00"
-website: "https://www.hosentraegernaeherei.de/"
+opening_hours: We 14:00-18:00
+website: https://www.hosentraegernaeherei.de/

@@ -1,11 +1,11 @@
 id: 231364081
-type: way
+type: node
 latitude: 49.75523
 longitude: 9.97645
 postcode: "97084"
 city: Würzburg
-street: "Winterhäuser Straße"
+street: Winterhäuser Straße
 housenumber: 95 c
-phone: "+49 931 7841900"
-opening_hours: "Mo-Fr 07:30-17:00"
-website: "https://www.hs-kfz-werkstatt.de/"
+phone: +49 931 7841900
+opening_hours: Mo-Fr 07:30-17:00
+website: https://www.hs-kfz-werkstatt.de/

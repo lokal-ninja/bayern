@@ -1,11 +1,11 @@
 id: 169230590
-type: way
+type: node
 latitude: 47.74582
 longitude: 11.45404
 postcode: "83670"
 city: Bad Heilbrunn
-street: "Parkweg"
-housenumber: 2
+street: Parkweg
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

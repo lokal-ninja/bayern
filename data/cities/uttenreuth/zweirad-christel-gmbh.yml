@@ -1,11 +1,11 @@
 id: 278910442
-type: way
+type: node
 latitude: 49.59517
 longitude: 11.09135
 postcode: "91080"
 city: Uttenreuth
-street: "Leitenäckerstraße"
-housenumber: 6
-phone: "+49 9131 54544"
+street: Leitenäckerstraße
+housenumber: "6"
+phone: +49 9131 54544
 opening_hours: ""
-website: "https://www.zweirad-christel.de/"
+website: https://www.zweirad-christel.de/

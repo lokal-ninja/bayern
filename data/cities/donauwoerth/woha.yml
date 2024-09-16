@@ -1,11 +1,11 @@
 id: 25786346
-type: way
+type: node
 latitude: 48.71568
 longitude: 10.7754
 postcode: "86609"
 city: Donauwörth
-street: "Bahnhofstraße"
-housenumber: 12
+street: Bahnhofstraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
-website: "https://www.woha.de/"
+website: https://www.woha.de/

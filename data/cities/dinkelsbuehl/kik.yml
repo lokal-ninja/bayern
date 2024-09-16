@@ -1,11 +1,11 @@
 id: 254060216
-type: way
+type: node
 latitude: 49.06526
 longitude: 10.34295
 postcode: "91550"
 city: Dinkelsbühl
-street: "Wassertrüdinger Straße"
-housenumber: 55
+street: Wassertrüdinger Straße
+housenumber: "55"
 phone: ""
 opening_hours: ""
 website: ""

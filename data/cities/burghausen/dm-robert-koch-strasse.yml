@@ -1,11 +1,11 @@
 id: 732953767
-type: way
+type: node
 latitude: 48.17174
 longitude: 12.83074
 postcode: "84489"
 city: Burghausen
-street: "Robert-Koch-Straße"
-housenumber: 15
+street: Robert-Koch-Straße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

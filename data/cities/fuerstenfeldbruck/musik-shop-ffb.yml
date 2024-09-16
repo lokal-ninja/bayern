@@ -4,8 +4,8 @@ latitude: 48.18115
 longitude: 11.25473
 postcode: "82256"
 city: Fürstenfeldbruck
-street: "Maisacher Straße"
-housenumber: 6
+street: Maisacher Straße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 14:30-19:00, Tu,Th 09:30-12:30, Sa 09:00-13:00"
-website: "https://www.musik-shop-ffb.de/"
+opening_hours: Mo-Fr 14:30-19:00, Tu,Th 09:30-12:30, Sa 09:00-13:00
+website: https://www.musik-shop-ffb.de/

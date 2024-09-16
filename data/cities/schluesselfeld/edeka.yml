@@ -1,11 +1,11 @@
 id: 104478266
-type: way
+type: node
 latitude: 49.76252
 longitude: 10.62391
 postcode: "96132"
 city: Schlüsselfeld
-street: "Tannenberg"
-housenumber: 2
+street: Tannenberg
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

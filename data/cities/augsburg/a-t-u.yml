@@ -1,11 +1,11 @@
 id: 53535560
-type: way
+type: node
 latitude: 48.31049
 longitude: 10.88842
 postcode: "86179"
 city: Augsburg
-street: "Inninger Straße"
-housenumber: 107
+street: Inninger Straße
+housenumber: "107"
 phone: ""
 opening_hours: ""
 website: ""

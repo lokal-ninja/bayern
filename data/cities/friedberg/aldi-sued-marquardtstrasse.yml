@@ -1,11 +1,11 @@
 id: 197159213
-type: way
+type: node
 latitude: 48.34813
 longitude: 10.9988
 postcode: "86316"
 city: Friedberg
-street: "Marquardtstraße"
-housenumber: 2
+street: Marquardtstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://filialen.aldi-sued.de/bayern/friedberg/marquardtstrasse-2"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://filialen.aldi-sued.de/bayern/friedberg/marquardtstrasse-2

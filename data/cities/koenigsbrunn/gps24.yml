@@ -4,8 +4,8 @@ latitude: 48.27735
 longitude: 10.8925
 postcode: "86343"
 city: Königsbrunn
-street: "Peter-Dörfler-Straße"
-housenumber: 2
+street: Peter-Dörfler-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "nach Terminvereinbarung per E-Mail: info@gps24.de"
-website: "https://www.gps24.de"
+opening_hours: '"nach Terminvereinbarung per E-Mail: info@gps24.de"'
+website: https://www.gps24.de

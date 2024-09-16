@@ -1,11 +1,11 @@
 id: 225477175
-type: way
+type: node
 latitude: 49.78631
 longitude: 10.02902
 postcode: "97228"
 city: Rottendorf
-street: "Am Moritzberg"
-housenumber: 6
-phone: "+49-9302-9889325"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.moebelum.de/"
+street: Am Moritzberg
+housenumber: "6"
+phone: +49-9302-9889325
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.moebelum.de/

@@ -4,8 +4,8 @@ latitude: 47.67719
 longitude: 12.47074
 postcode: "83242"
 city: Reit im Winkl
-street: "Dorfstraße"
-housenumber: 8
-phone: "+49 8640 8953"
-opening_hours: "Mo-Fr 09:30-12:00,16:00-17:30; Sa,Su 10:00-12:00"
-website: "http://www.knoll-reisen.de/"
+street: Dorfstraße
+housenumber: "8"
+phone: +49 8640 8953
+opening_hours: Mo-Fr 09:30-12:00,16:00-17:30; Sa,Su 10:00-12:00
+website: http://www.knoll-reisen.de/

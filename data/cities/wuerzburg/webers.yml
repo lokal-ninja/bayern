@@ -4,8 +4,8 @@ latitude: 49.784
 longitude: 9.93491
 postcode: "97072"
 city: Würzburg
-street: "Weingartenstraße"
-housenumber: 24
-phone: "+49 931 3297989"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-14:00; Su 07:30-10:30"
-website: "https://www.backkunst.de/de/filialen/wuerzburg_weingartenstrasse"
+street: Weingartenstraße
+housenumber: "24"
+phone: +49 931 3297989
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-14:00; Su 07:30-10:30
+website: https://www.backkunst.de/de/filialen/wuerzburg_weingartenstrasse

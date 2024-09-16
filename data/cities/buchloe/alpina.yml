@@ -1,11 +1,11 @@
 id: 107789746
-type: way
+type: node
 latitude: 48.03158
 longitude: 10.73037
 postcode: "86807"
 city: Buchloe
-street: "Alpenstraße"
-housenumber: 37
+street: Alpenstraße
+housenumber: "37"
 phone: ""
 opening_hours: ""
-website: "https://www.alpina-automobiles.com/"
+website: https://www.alpina-automobiles.com/

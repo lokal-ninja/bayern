@@ -4,8 +4,8 @@ latitude: 49.79103
 longitude: 9.92867
 postcode: "97070"
 city: Würzburg
-street: "Augustinerstraße"
-housenumber: 22
-phone: "+49 931 2079010"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00; PH,Su off"
-website: "https://www.livingforme.de/"
+street: Augustinerstraße
+housenumber: "22"
+phone: +49 931 2079010
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-16:00; PH,Su off
+website: https://www.livingforme.de/

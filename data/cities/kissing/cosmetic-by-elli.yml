@@ -4,8 +4,8 @@ latitude: 48.30603
 longitude: 10.97005
 postcode: "86438"
 city: Kissing
-street: "Kornstraße"
-housenumber: 41
-phone: "+49 1575 1586699"
-opening_hours: "nach Vereinbarung"
-website: "https://www.cosmeticbyelli.de/"
+street: Kornstraße
+housenumber: "41"
+phone: +49 1575 1586699
+opening_hours: '"nach Vereinbarung"'
+website: https://www.cosmeticbyelli.de/

@@ -1,11 +1,11 @@
 id: 230588177
-type: way
+type: node
 latitude: 47.8054
 longitude: 12.5904
 postcode: "83346"
 city: Bergen
-street: "Hochfellnstraße"
-housenumber: 12
+street: Hochfellnstraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
-website: "http://www.waescherei-sadic.de"
+website: http://www.waescherei-sadic.de

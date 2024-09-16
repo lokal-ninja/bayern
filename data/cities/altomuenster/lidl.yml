@@ -1,11 +1,11 @@
 id: 199823174
-type: way
+type: node
 latitude: 48.38046
 longitude: 11.26025
 postcode: "85250"
 city: Altomünster
-street: "Stumpfenbacher Straße"
-housenumber: 49
+street: Stumpfenbacher Straße
+housenumber: "49"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

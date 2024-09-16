@@ -1,11 +1,11 @@
 id: 50849027
-type: way
+type: node
 latitude: 48.73812
 longitude: 11.21302
 postcode: "86633"
 city: Neuburg an der Donau
-street: "Nördliche Grünauer Straße"
-housenumber: 4
+street: Nördliche Grünauer Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

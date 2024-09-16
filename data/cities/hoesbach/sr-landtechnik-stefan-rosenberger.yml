@@ -1,11 +1,11 @@
 id: 409691776
-type: way
+type: node
 latitude: 50.04197
 longitude: 9.20737
 postcode: "63768"
 city: Hösbach
-street: "Starweg"
-housenumber: 24
+street: Starweg
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

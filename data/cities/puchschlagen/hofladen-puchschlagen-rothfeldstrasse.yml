@@ -1,11 +1,11 @@
 id: 1249167163
-type: way
+type: node
 latitude: 48.28634
 longitude: 11.34674
 postcode: "85247"
 city: Puchschlagen
-street: "Rothfeldstraße"
-housenumber: 5
+street: Rothfeldstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

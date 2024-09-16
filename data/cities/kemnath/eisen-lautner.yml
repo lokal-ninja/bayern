@@ -1,11 +1,11 @@
 id: 1019923598
-type: way
+type: node
 latitude: 49.87245
 longitude: 11.89113
 postcode: "95478"
 city: Kemnath
-street: "Wunsiedler Straße"
-housenumber: 24
+street: Wunsiedler Straße
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Fr 08:30-12:00; Mo-Tu,Th-Fr 14:00-17:30; Sa 09:00-12:00; PH off"
-website: "https://www.eisen-lautner.de/"
+opening_hours: Mo-Fr 08:30-12:00; Mo-Tu,Th-Fr 14:00-17:30; Sa 09:00-12:00; PH off
+website: https://www.eisen-lautner.de/

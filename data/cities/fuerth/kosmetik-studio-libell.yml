@@ -4,8 +4,8 @@ latitude: 49.49307
 longitude: 10.91286
 postcode: "90768"
 city: Fürth
-street: "Narzissenstraße"
-housenumber: 42
+street: Narzissenstraße
+housenumber: "42"
 phone: ""
-opening_hours: "Nach Vereinbarung"
-website: "https://www.kosmetikstudio-libell.de/"
+opening_hours: '"Nach Vereinbarung"'
+website: https://www.kosmetikstudio-libell.de/

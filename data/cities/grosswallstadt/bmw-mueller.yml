@@ -1,11 +1,11 @@
 id: 280507423
-type: way
+type: node
 latitude: 49.87437
 longitude: 9.15052
 postcode: "63868"
 city: Großwallstadt
-street: "Grundtalring"
-housenumber: 33
-phone: "+49 6022 5075140"
+street: Grundtalring
+housenumber: "33"
+phone: +49 6022 5075140
 opening_hours: ""
-website: "https://www.bmw-mueller.com/unternehmen/standorte/grosswallstadt/"
+website: https://www.bmw-mueller.com/unternehmen/standorte/grosswallstadt/

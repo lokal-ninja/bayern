@@ -4,8 +4,8 @@ latitude: 47.85759
 longitude: 11.48597
 postcode: "82538"
 city: Geretsried
-street: "Marienburgweg"
-housenumber: 25
-phone: "+49 8171 31993"
-opening_hours: "Mo-Sa 09:00-12:00, Mo-Do 14:00-17:00"
-website: "https://gg-radsport.business.site/"
+street: Marienburgweg
+housenumber: "25"
+phone: +49 8171 31993
+opening_hours: Mo-Sa 09:00-12:00, Mo-Do 14:00-17:00
+website: https://gg-radsport.business.site/

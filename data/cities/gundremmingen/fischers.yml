@@ -1,11 +1,11 @@
 id: 386173156
-type: way
+type: node
 latitude: 48.49384
 longitude: 10.3924
 postcode: "89355"
 city: Gundremmingen
-street: "Am Hirschbach"
-housenumber: 10
+street: Am Hirschbach
+housenumber: "10"
 phone: ""
 opening_hours: ""
-website: "http://www.fischers.de/"
+website: http://www.fischers.de/

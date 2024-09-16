@@ -4,8 +4,8 @@ latitude: 48.369
 longitude: 10.89349
 postcode: "86150"
 city: Augsburg
-street: "Fuggerstraße"
-housenumber: 16
-phone: "+49 821 345000"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://www.hoermann-reisen.de/"
+street: Fuggerstraße
+housenumber: "16"
+phone: +49 821 345000
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://www.hoermann-reisen.de/

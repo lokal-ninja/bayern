@@ -1,11 +1,11 @@
 id: 104706605
-type: way
+type: node
 latitude: 47.76411
 longitude: 10.32834
 postcode: "87437"
 city: Kempten (Allgäu)
-street: "Heisinger Straße"
-housenumber: 43
+street: Heisinger Straße
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 77750355
-type: way
+type: node
 latitude: 49.98035
 longitude: 9.13446
 postcode: "63739"
 city: Aschaffenburg
-street: "Hanauer Straße"
-housenumber: 28
-phone: "+49 6021 3505-0"
+street: Hanauer Straße
+housenumber: "28"
+phone: +49 6021 3505-0
 opening_hours: ""
-website: "https://adrian-kuechen.de"
+website: https://adrian-kuechen.de

@@ -1,11 +1,11 @@
 id: 334368380
-type: way
+type: node
 latitude: 48.43363
 longitude: 10.41804
 postcode: "89331"
 city: Burgau
-street: "Industriestraße"
-housenumber: 43
+street: Industriestraße
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

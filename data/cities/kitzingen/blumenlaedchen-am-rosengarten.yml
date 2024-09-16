@@ -1,11 +1,11 @@
 id: 132519423
-type: way
+type: node
 latitude: 49.73524
 longitude: 10.15937
 postcode: "97318"
 city: Kitzingen
-street: "Friedrich-Ebert-Straße"
+street: Friedrich-Ebert-Straße
 housenumber: 1a
 phone: ""
-opening_hours: "Mo, We, Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://blumenlaedchen.info/"
+opening_hours: Mo, We, Fr 09:00-18:00; Sa 09:00-13:00
+website: https://blumenlaedchen.info/

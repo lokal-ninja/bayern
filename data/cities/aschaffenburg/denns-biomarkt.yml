@@ -4,8 +4,8 @@ latitude: 49.98194
 longitude: 9.14187
 postcode: "63741"
 city: Aschaffenburg
-street: "Lange Straße"
-housenumber: 19
-phone: "+49 6021 4471835"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.denns-biomarkt.de/"
+street: Lange Straße
+housenumber: "19"
+phone: +49 6021 4471835
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.denns-biomarkt.de/

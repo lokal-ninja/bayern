@@ -4,8 +4,8 @@ latitude: 48.1095
 longitude: 11.57579
 postcode: "81547"
 city: München
-street: "Wettersteinplatz"
-housenumber: 2
+street: Wettersteinplatz
+housenumber: "2"
 phone: "+49896929923"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00; Su,PH off"
-website: "https://buchhandlungamwettersteinplatz.buchkatalog.de/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00; Su,PH off
+website: https://buchhandlungamwettersteinplatz.buchkatalog.de/

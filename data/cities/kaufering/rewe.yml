@@ -1,11 +1,11 @@
 id: 108580415
-type: way
+type: node
 latitude: 48.09143
 longitude: 10.85679
 postcode: "86916"
 city: Kaufering
-street: "Kolpingstraße"
-housenumber: 12
+street: Kolpingstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

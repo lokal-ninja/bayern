@@ -4,8 +4,8 @@ latitude: 48.31663
 longitude: 11.66249
 postcode: "85375"
 city: Neufahrn
-street: "Bahnhofstraße"
-housenumber: 30
+street: Bahnhofstraße
+housenumber: "30"
 phone: ""
-opening_hours: "Nach Vereinbarung"
-website: "https://www.fotoprofile.de/"
+opening_hours: '"Nach Vereinbarung"'
+website: https://www.fotoprofile.de/

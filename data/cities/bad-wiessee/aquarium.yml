@@ -1,11 +1,11 @@
 id: 154935316
-type: way
+type: node
 latitude: 47.70568
 longitude: 11.74
 postcode: "83707"
 city: Bad Wiessee
-street: "Überfahrtweg"
-housenumber: 15
+street: Überfahrtweg
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

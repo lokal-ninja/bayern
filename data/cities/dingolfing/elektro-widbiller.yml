@@ -1,11 +1,11 @@
 id: 205194979
-type: way
+type: node
 latitude: 48.63801
 longitude: 12.48773
 postcode: "84130"
 city: Dingolfing
-street: "Bayernwerkstraße"
-housenumber: 11
+street: Bayernwerkstraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

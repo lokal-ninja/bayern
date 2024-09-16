@@ -1,11 +1,11 @@
 id: 247604084
-type: way
+type: node
 latitude: 49.9207
 longitude: 10.59941
 postcode: "97514"
 city: Oberaurach
-street: "Rieneckstraße"
-housenumber: 6
-phone: "+49 9529 326"
-opening_hours: "Sa 17:00-23:00, Su 14:00-23:00"
-website: "https://www.weingut-scholtens.com"
+street: Rieneckstraße
+housenumber: "6"
+phone: +49 9529 326
+opening_hours: Sa 17:00-23:00, Su 14:00-23:00
+website: https://www.weingut-scholtens.com

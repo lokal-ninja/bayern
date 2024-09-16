@@ -1,11 +1,11 @@
 id: 132026835
-type: way
+type: node
 latitude: 48.17005
 longitude: 11.80281
 postcode: "85586"
 city: Poing
-street: "Gruber Straße"
+street: Gruber Straße
 housenumber: 59b
-phone: "+49 8121 98 06 92"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.orterer.de/"
+phone: +49 8121 98 06 92
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.orterer.de/

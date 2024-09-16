@@ -1,11 +1,11 @@
 id: 24662839
-type: way
+type: node
 latitude: 49.98598
 longitude: 9.14934
 postcode: "63741"
 city: Aschaffenburg
-street: "Schönbornstraße"
-housenumber: 1
+street: Schönbornstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 7:00-20:00"
+opening_hours: Mo-Sa 7:00-20:00
 website: ""

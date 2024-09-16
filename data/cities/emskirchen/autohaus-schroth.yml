@@ -1,11 +1,11 @@
 id: 300629098
-type: way
+type: node
 latitude: 49.55439
 longitude: 10.70885
 postcode: "91448"
 city: Emskirchen
-street: "Bahnhofstraße"
-housenumber: 25
+street: Bahnhofstraße
+housenumber: "25"
 phone: "+499104671"
 opening_hours: ""
-website: "https://ford-schroth-emskirchen.de/"
+website: https://ford-schroth-emskirchen.de/

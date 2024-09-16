@@ -4,8 +4,8 @@ latitude: 50.23795
 longitude: 11.71522
 postcode: "95233"
 city: Helmbrechts
-street: "Pressecker Straße"
-housenumber: 1
-phone: "+499252 927830"
-opening_hours: "Mo,Tu,Th,Fr 08:00-17:00; We 08:00-14:00; PH,Sa,Su off"
+street: Pressecker Straße
+housenumber: "1"
+phone: +499252 927830
+opening_hours: Mo,Tu,Th,Fr 08:00-17:00; We 08:00-14:00; PH,Sa,Su off
 website: ""

@@ -1,11 +1,11 @@
 id: 161511485
-type: way
+type: node
 latitude: 47.8442
 longitude: 12.47717
 postcode: "83236"
 city: Übersee
-street: "Julius-Exter-Promenade"
-housenumber: 23
+street: Julius-Exter-Promenade
+housenumber: "23"
 phone: ""
-opening_hours: "PH,Mo-Su 12:00-18:00+"
+opening_hours: PH,Mo-Su 12:00-18:00+
 website: ""

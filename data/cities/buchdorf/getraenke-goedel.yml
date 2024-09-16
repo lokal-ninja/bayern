@@ -4,8 +4,8 @@ latitude: 48.7852
 longitude: 10.82303
 postcode: "86675"
 city: Buchdorf
-street: "Hauptstraße"
-housenumber: 32
-phone: "+49 9099 920469"
-opening_hours: "Mo-Fr 09:00-12:00, 14:00-18:00; Sa 09:00-12:30"
-website: "www.getränke-gödel.de"
+street: Hauptstraße
+housenumber: "32"
+phone: +49 9099 920469
+opening_hours: Mo-Fr 09:00-12:00, 14:00-18:00; Sa 09:00-12:30
+website: www.getränke-gödel.de

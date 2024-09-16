@@ -4,8 +4,8 @@ latitude: 48.40116
 longitude: 11.74581
 postcode: "85354"
 city: Freising
-street: "Untere Hauptstraße"
-housenumber: 18
-phone: "+49-8161-13064"
-opening_hours: "Mo,Th 09:30-12:30,15:00-18:00; Tu,We,Fr,Sa 09:30-12:30; Su,PH off"
-website: "https://www.foto-werkmeister.de/"
+street: Untere Hauptstraße
+housenumber: "18"
+phone: +49-8161-13064
+opening_hours: Mo,Th 09:30-12:30,15:00-18:00; Tu,We,Fr,Sa 09:30-12:30; Su,PH off
+website: https://www.foto-werkmeister.de/

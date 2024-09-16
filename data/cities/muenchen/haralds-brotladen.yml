@@ -4,8 +4,8 @@ latitude: 48.11569
 longitude: 11.57067
 postcode: "81543"
 city: München
-street: "Winterstraße"
-housenumber: 15
-phone: "+49 89 651 60 90"
-opening_hours: "Mo-Fr 06:00-17:00; Sa 06:30-12:30"
+street: Winterstraße
+housenumber: "15"
+phone: +49 89 651 60 90
+opening_hours: Mo-Fr 06:00-17:00; Sa 06:30-12:30
 website: ""

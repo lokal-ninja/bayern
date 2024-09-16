@@ -1,11 +1,11 @@
 id: 189867958
-type: way
+type: node
 latitude: 49.86071
 longitude: 10.22526
 postcode: "97332"
 city: Volkach
-street: "Am Alten Bahnhof"
-housenumber: 2
+street: Am Alten Bahnhof
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
+opening_hours: Mo-Sa 07:00-20:00; PH off
 website: ""

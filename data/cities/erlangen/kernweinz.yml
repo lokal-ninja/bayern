@@ -4,8 +4,8 @@ latitude: 49.59632
 longitude: 11.0089
 postcode: "91054"
 city: Erlangen
-street: "Fahrstraße"
-housenumber: 14
+street: Fahrstraße
+housenumber: "14"
 phone: ""
-opening_hours: "Sa 09:00-16:00; Mo-We,Fr 09:00-18:00; Th 13:00-18:00"
+opening_hours: Sa 09:00-16:00; Mo-We,Fr 09:00-18:00; Th 13:00-18:00
 website: ""

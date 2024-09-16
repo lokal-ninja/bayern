@@ -4,8 +4,8 @@ latitude: 48.71563
 longitude: 10.77326
 postcode: "86609"
 city: Donauwörth
-street: "Bahnhofstraße"
-housenumber: 24
-phone: "+49 906 6440"
-opening_hours: "Mo-Fr 08:30-12:30,13:30-17:00; We 08:30-12:30; Sa 09:00-12:30; PH off"
-website: "https://www.hauser-repro.de/"
+street: Bahnhofstraße
+housenumber: "24"
+phone: +49 906 6440
+opening_hours: Mo-Fr 08:30-12:30,13:30-17:00; We 08:30-12:30; Sa 09:00-12:30; PH off
+website: https://www.hauser-repro.de/

@@ -1,11 +1,11 @@
 id: 194642098
-type: way
+type: node
 latitude: 48.02224
 longitude: 10.30432
 postcode: "87784"
 city: Westerheim
-street: "Energiepark"
-housenumber: 2
-phone: "+49 151 22448000"
+street: Energiepark
+housenumber: "2"
+phone: +49 151 22448000
 opening_hours: ""
-website: "https://home.mobile.de/FRITZAUTOMOBILEWESTERHEIM"
+website: https://home.mobile.de/FRITZAUTOMOBILEWESTERHEIM

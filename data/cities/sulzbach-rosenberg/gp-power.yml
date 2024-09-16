@@ -4,8 +4,8 @@ latitude: 49.48662
 longitude: 11.7823
 postcode: "92237"
 city: Sulzbach-Rosenberg
-street: "Lohestraße"
-housenumber: 5
-phone: "+49 9661 906264"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-18:00"
-website: "https://www.gp-power.de/"
+street: Lohestraße
+housenumber: "5"
+phone: +49 9661 906264
+opening_hours: Mo-Fr 10:00-20:00; Sa 10:00-18:00
+website: https://www.gp-power.de/

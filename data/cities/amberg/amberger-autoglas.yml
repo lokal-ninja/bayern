@@ -1,11 +1,11 @@
 id: 440342179
-type: way
+type: node
 latitude: 49.43106
 longitude: 11.88797
 postcode: "92224"
 city: Amberg
-street: "An den Franzosenäckern"
-housenumber: 19
+street: An den Franzosenäckern
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

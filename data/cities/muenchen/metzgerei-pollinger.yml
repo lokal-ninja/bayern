@@ -4,8 +4,8 @@ latitude: 48.11294
 longitude: 11.52001
 postcode: "81369"
 city: München
-street: "Johann-Clanze-Straße"
-housenumber: 112
-phone: "+49 89 39292315"
-opening_hours: "Mo,Tu,Th,Fr 07:00-13:00, Th,Fr 16:00-18:00, Sa 07:00-12:00"
+street: Johann-Clanze-Straße
+housenumber: "112"
+phone: +49 89 39292315
+opening_hours: Mo,Tu,Th,Fr 07:00-13:00, Th,Fr 16:00-18:00, Sa 07:00-12:00
 website: ""

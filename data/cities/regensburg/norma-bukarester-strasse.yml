@@ -1,11 +1,11 @@
 id: 111699784
-type: way
+type: node
 latitude: 49.0141
 longitude: 12.14755
 postcode: "93055"
 city: Regensburg
-street: "Bukarester Straße"
-housenumber: 2
+street: Bukarester Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "http://norma-online.de/"
+opening_hours: Mo-Sa 08:00-20:00
+website: http://norma-online.de/

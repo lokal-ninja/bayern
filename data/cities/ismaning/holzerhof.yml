@@ -4,8 +4,8 @@ latitude: 48.22275
 longitude: 11.66783
 postcode: "85737"
 city: Ismaning
-street: "Münchener Straße"
-housenumber: 70
-phone: "+49 89 966402"
-opening_hours: "Mo,Fr 08:30-18:30; Sa 08:30-13:30"
-website: "https://www.holzerhof.eu/"
+street: Münchener Straße
+housenumber: "70"
+phone: +49 89 966402
+opening_hours: Mo,Fr 08:30-18:30; Sa 08:30-13:30
+website: https://www.holzerhof.eu/

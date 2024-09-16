@@ -4,8 +4,8 @@ latitude: 48.17698
 longitude: 12.82397
 postcode: "84489"
 city: Burghausen
-street: "Burgkirchener Straße"
-housenumber: 16
+street: Burgkirchener Straße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.lidl.de/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.lidl.de/

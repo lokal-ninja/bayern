@@ -4,8 +4,8 @@ latitude: 48.13031
 longitude: 11.60388
 postcode: "81667"
 city: München
-street: "Breisacher Straße"
-housenumber: 12
-phone: "+49 89 4802495"
-opening_hours: "Mo,Tu,Th,Fr 10:00-19:00; Sa 10:00-14:00; We,Su,PH off"
-website: "https://www.oekoesel.de/"
+street: Breisacher Straße
+housenumber: "12"
+phone: +49 89 4802495
+opening_hours: Mo,Tu,Th,Fr 10:00-19:00; Sa 10:00-14:00; We,Su,PH off
+website: https://www.oekoesel.de/

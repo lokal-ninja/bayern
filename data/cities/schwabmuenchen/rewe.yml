@@ -1,11 +1,11 @@
 id: 270181451
-type: way
+type: node
 latitude: 48.18244
 longitude: 10.75937
 postcode: "86830"
 city: Schwabmünchen
-street: "Gartenstraße"
-housenumber: 12
-phone: "+49 8232 1847524"
-opening_hours: "Mo-Sa 08:00-20:00"
+street: Gartenstraße
+housenumber: "12"
+phone: +49 8232 1847524
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

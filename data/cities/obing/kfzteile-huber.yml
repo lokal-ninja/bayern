@@ -4,8 +4,8 @@ latitude: 47.99841
 longitude: 12.40515
 postcode: "83119"
 city: Obing
-street: "Poststraße"
-housenumber: 22
-phone: "+49(8624)8797180"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 09:00-12:00; PH off"
-website: "https://www.kfzteile-huber.de/"
+street: Poststraße
+housenumber: "22"
+phone: +49(8624)8797180
+opening_hours: Mo-Fr 08:00-17:00; Sa 09:00-12:00; PH off
+website: https://www.kfzteile-huber.de/

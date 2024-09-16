@@ -1,11 +1,11 @@
 id: 117215425
-type: way
+type: node
 latitude: 48.38335
 longitude: 10.00449
 postcode: "89231"
 city: Neu-Ulm
-street: "Memminger Straße"
-housenumber: 69
-phone: "+49 731 9806113"
-opening_hours: "Mo-Fr 10:00-19:00, Sa 10:00-18:00"
-website: "https://www.polo-motorrad.de/cms/store/details/polo-store-neu-ulm"
+street: Memminger Straße
+housenumber: "69"
+phone: +49 731 9806113
+opening_hours: Mo-Fr 10:00-19:00, Sa 10:00-18:00
+website: https://www.polo-motorrad.de/cms/store/details/polo-store-neu-ulm

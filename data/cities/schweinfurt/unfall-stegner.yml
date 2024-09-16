@@ -1,11 +1,11 @@
 id: 184005224
-type: way
+type: node
 latitude: 50.05607
 longitude: 10.2299
 postcode: "97422"
 city: Schweinfurt
-street: "Dittelbrunner Straße"
-housenumber: 29
+street: Dittelbrunner Straße
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 127419805
-type: way
+type: node
 latitude: 48.88867
 longitude: 10.46495
 postcode: "86757"
 city: Wallerstein
-street: "Benzenzimmerner Straße"
-housenumber: 1
+street: Benzenzimmerner Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

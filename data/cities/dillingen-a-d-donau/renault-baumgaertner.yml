@@ -1,11 +1,11 @@
 id: 252476080
-type: way
+type: node
 latitude: 48.58849
 longitude: 10.51839
 postcode: "89407"
 city: Dillingen a.d.Donau
-street: "Otto-Hahn-Straße"
-housenumber: 6
+street: Otto-Hahn-Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

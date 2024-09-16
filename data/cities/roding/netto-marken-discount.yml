@@ -1,11 +1,11 @@
 id: 126979187
-type: way
+type: node
 latitude: 49.19851
 longitude: 12.52422
 postcode: "93426"
 city: Roding
-street: "Further Straße"
-housenumber: 25
+street: Further Straße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 397643260
-type: way
+type: node
 latitude: 48.60044
 longitude: 10.71783
 postcode: "86647"
 city: Buttenwiesen
-street: "Wertinger Straße"
-housenumber: 44
+street: Wertinger Straße
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

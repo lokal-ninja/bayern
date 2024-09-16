@@ -1,11 +1,11 @@
 id: 83371194
-type: way
+type: node
 latitude: 49.51888
 longitude: 11.33374
 postcode: "91242"
 city: Ottensoos
-street: "Bräunleinsberg"
-housenumber: 2
-phone: "+49 9123 1660"
+street: Bräunleinsberg
+housenumber: "2"
+phone: +49 9123 1660
 opening_hours: ""
-website: "https://www.getraenkeziegler.de/"
+website: https://www.getraenkeziegler.de/

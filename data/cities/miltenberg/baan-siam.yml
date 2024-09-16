@@ -4,8 +4,8 @@ latitude: 49.70016
 longitude: 9.25423
 postcode: "63897"
 city: Miltenberg
-street: "Mainstraße"
-housenumber: 43
-phone: "+49 9371 9893600"
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-16:00"
-website: "https://baan-siam.de"
+street: Mainstraße
+housenumber: "43"
+phone: +49 9371 9893600
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-16:00
+website: https://baan-siam.de

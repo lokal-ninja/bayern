@@ -4,8 +4,8 @@ latitude: 49.79538
 longitude: 9.93073
 postcode: "97070"
 city: Würzburg
-street: "Schönbornstraße"
-housenumber: 3
-phone: "+49 931 30880"
-opening_hours: "Mo-Sa 09:00-20:00, PH off"
-website: "https://www.galeria.de/filialen/l/wurzburg"
+street: Schönbornstraße
+housenumber: "3"
+phone: +49 931 30880
+opening_hours: Mo-Sa 09:00-20:00, PH off
+website: https://www.galeria.de/filialen/l/wurzburg

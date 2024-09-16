@@ -1,11 +1,11 @@
 id: 571053928
-type: way
+type: node
 latitude: 48.05568
 longitude: 11.59751
 postcode: "82008"
 city: Unterhaching
-street: "Parkackerstraße"
-housenumber: 2
+street: Parkackerstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-18:00"
-website: "https://www.fritz-berger.de/filiale/unterhaching/"
+opening_hours: Mo-Sa 08:00-18:00
+website: https://www.fritz-berger.de/filiale/unterhaching/

@@ -4,8 +4,8 @@ latitude: 47.86292
 longitude: 12.00674
 postcode: "83043"
 city: Bad Aibling
-street: "Sedanstraße"
-housenumber: 2
-phone: "+49 8061 939 07 60"
-opening_hours: "Mo,Tu,Th,Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00; We,Su,PH off"
-website: "https://www.coffeevent.de/"
+street: Sedanstraße
+housenumber: "2"
+phone: +49 8061 939 07 60
+opening_hours: Mo,Tu,Th,Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00; We,Su,PH off
+website: https://www.coffeevent.de/

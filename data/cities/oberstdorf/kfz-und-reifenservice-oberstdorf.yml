@@ -4,8 +4,8 @@ latitude: 47.41499
 longitude: 10.27993
 postcode: "87561"
 city: Oberstdorf
-street: "Alpgaustraße"
-housenumber: 6
-phone: "+49 8322 9408090"
-opening_hours: "Mo-Fr 08:00-12:00,13:00-17:00"
-website: "https://www.reifenservice-oberstdorf.de/"
+street: Alpgaustraße
+housenumber: "6"
+phone: +49 8322 9408090
+opening_hours: Mo-Fr 08:00-12:00,13:00-17:00
+website: https://www.reifenservice-oberstdorf.de/

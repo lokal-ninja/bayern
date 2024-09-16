@@ -1,11 +1,11 @@
 id: 303540627
-type: way
+type: node
 latitude: 49.02693
 longitude: 12.11138
 postcode: "93059"
 city: Regensburg
-street: "Abensstraße"
-housenumber: 8
+street: Abensstraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

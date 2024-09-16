@@ -1,11 +1,11 @@
 id: 45736968
-type: way
+type: node
 latitude: 48.53137
 longitude: 11.53181
 postcode: "85276"
 city: Pfaffenhofen a.d. Ilm
-street: "Max-Weinberger-Straße"
-housenumber: 3
+street: Max-Weinberger-Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://filialen.aldi-sued.de/bayern/pfaffenhofen/max-weinberger-strasse-3"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://filialen.aldi-sued.de/bayern/pfaffenhofen/max-weinberger-strasse-3

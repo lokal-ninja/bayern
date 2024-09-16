@@ -1,11 +1,11 @@
 id: 136275082
-type: way
+type: node
 latitude: 50.02066
 longitude: 10.82879
 postcode: "96182"
 city: Reckendorf
-street: "Schloßgasse"
-housenumber: 2
+street: Schloßgasse
+housenumber: "2"
 phone: ""
-opening_hours: "Mo off; Tu-Fr 06:30-18:00; Sa 06:00-12:30"
-website: "http://www.reckenbeck.de/"
+opening_hours: Mo off; Tu-Fr 06:30-18:00; Sa 06:00-12:30
+website: http://www.reckenbeck.de/

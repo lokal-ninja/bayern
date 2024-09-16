@@ -1,11 +1,11 @@
 id: 520131568
-type: way
+type: node
 latitude: 48.44985
 longitude: 12.0826
 postcode: "84186"
 city: Vilsheim
 street: ""
-housenumber: 2
+housenumber: "2"
 phone: ""
-opening_hours: "Nach Vereinbarung"
+opening_hours: '"Nach Vereinbarung"'
 website: ""

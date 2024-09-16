@@ -4,8 +4,8 @@ latitude: 48.34848
 longitude: 10.94483
 postcode: "86163"
 city: Augsburg
-street: "Höfatsstraße"
-housenumber: 38
-phone: "+49 821 4555711"
-opening_hours: "Mo-Th 07:00-13:30,14:30-18:00; Fr 07:00-18:00; Sa 07:00-12:00; Su 08:00-12:00"
-website: "https://www.baeckerei-wolf.de/"
+street: Höfatsstraße
+housenumber: "38"
+phone: +49 821 4555711
+opening_hours: Mo-Th 07:00-13:30,14:30-18:00; Fr 07:00-18:00; Sa 07:00-12:00; Su 08:00-12:00
+website: https://www.baeckerei-wolf.de/

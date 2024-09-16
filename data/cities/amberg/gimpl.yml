@@ -4,8 +4,8 @@ latitude: 49.44626
 longitude: 11.87217
 postcode: "92224"
 city: Amberg
-street: "Baumannstraße"
-housenumber: 6
-phone: "+49 9621 24522"
-opening_hours: "Mo 9:00-18:00; Tu-Fr 08:30-18:00; Sa 08:00-14:00"
-website: "https://www.salon-gimpl.de/"
+street: Baumannstraße
+housenumber: "6"
+phone: +49 9621 24522
+opening_hours: Mo 9:00-18:00; Tu-Fr 08:30-18:00; Sa 08:00-14:00
+website: https://www.salon-gimpl.de/

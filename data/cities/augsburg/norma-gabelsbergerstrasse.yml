@@ -1,11 +1,11 @@
 id: 224833423
-type: way
+type: node
 latitude: 48.3473
 longitude: 10.86998
 postcode: "86199"
 city: Augsburg
-street: "Gabelsbergerstraße"
+street: Gabelsbergerstraße
 housenumber: 7a
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.norma-online.de/"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.norma-online.de/

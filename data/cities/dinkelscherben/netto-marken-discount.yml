@@ -1,11 +1,11 @@
 id: 214120278
-type: way
+type: node
 latitude: 48.34811
 longitude: 10.59871
 postcode: "86424"
 city: Dinkelscherben
-street: "Augsburger Straße"
-housenumber: 66
+street: Augsburger Straße
+housenumber: "66"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
+opening_hours: Mo-Sa 07:00-20:00; PH off
 website: ""

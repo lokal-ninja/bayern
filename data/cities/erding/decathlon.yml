@@ -1,11 +1,11 @@
 id: 819185664
-type: way
+type: node
 latitude: 48.31027
 longitude: 11.88906
 postcode: "85435"
 city: Erding
-street: "Anton-Huber-Straße"
-housenumber: 4
+street: Anton-Huber-Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.decathlon.de/store-view/filiale-erding-0070225702257"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.decathlon.de/store-view/filiale-erding-0070225702257

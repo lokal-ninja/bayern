@@ -4,8 +4,8 @@ latitude: 48.01904
 longitude: 11.59116
 postcode: "82041"
 city: Oberhaching
-street: "Tisinstraße"
-housenumber: 54
-phone: "+49 89 66 68 22 66"
-opening_hours: "Tu, We, Th 09:00 -13:00; 14:00-18:00"
-website: "https://www.hoergeraete-reichart.de/"
+street: Tisinstraße
+housenumber: "54"
+phone: +49 89 66 68 22 66
+opening_hours: Tu, We, Th 09:00 -13:00; 14:00-18:00
+website: https://www.hoergeraete-reichart.de/

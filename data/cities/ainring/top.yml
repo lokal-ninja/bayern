@@ -1,11 +1,11 @@
 id: 122259362
-type: way
+type: node
 latitude: 47.82038
 longitude: 12.95312
 postcode: "83404"
 city: Ainring
-street: "Industriestraße"
-housenumber: 1
+street: Industriestraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

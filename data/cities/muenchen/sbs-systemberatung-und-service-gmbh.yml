@@ -4,8 +4,8 @@ latitude: 48.14971
 longitude: 11.54141
 postcode: "80636"
 city: München
-street: "Blutenburgstraße"
-housenumber: 82
+street: Blutenburgstraße
+housenumber: "82"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00"
-website: "https://sbs-gmbh.de"
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00
+website: https://sbs-gmbh.de

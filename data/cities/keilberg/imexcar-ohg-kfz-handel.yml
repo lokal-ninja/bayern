@@ -1,11 +1,11 @@
 id: 148093550
-type: way
+type: node
 latitude: 49.99511
 longitude: 9.24367
 postcode: "63856"
 city: Keilberg
-street: "Am Beetacker"
-housenumber: 1
+street: Am Beetacker
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "http://www.imexcar.de"
+website: http://www.imexcar.de

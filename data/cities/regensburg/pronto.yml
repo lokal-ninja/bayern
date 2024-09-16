@@ -1,11 +1,11 @@
 id: 436686806
-type: way
+type: node
 latitude: 49.01232
 longitude: 12.09968
 postcode: "93047"
 city: Regensburg
-street: "Bahnhofstraße"
-housenumber: 18
+street: Bahnhofstraße
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

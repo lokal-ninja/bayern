@@ -1,11 +1,11 @@
 id: 202304050
-type: way
+type: node
 latitude: 49.24118
 longitude: 11.07206
 postcode: "91154"
 city: Roth
-street: "Westring"
-housenumber: 2
+street: Westring
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.netto-online.de"
+website: https://www.netto-online.de

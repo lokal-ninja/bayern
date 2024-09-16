@@ -1,11 +1,11 @@
 id: 337276868
-type: way
+type: node
 latitude: 48.03111
 longitude: 11.20561
 postcode: "82229"
 city: Seefeld
-street: "Graf-Toerring-Seefeld-Straße"
-housenumber: 13
+street: Graf-Toerring-Seefeld-Straße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Sa 10:00-18:00"
+opening_hours: Mo-Sa 10:00-18:00
 website: ""

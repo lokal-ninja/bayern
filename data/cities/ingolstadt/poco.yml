@@ -1,11 +1,11 @@
 id: 53522277
-type: way
+type: node
 latitude: 48.77967
 longitude: 11.43138
 postcode: "85055"
 city: Ingolstadt
-street: "Siemensstraße"
-housenumber: 3
+street: Siemensstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://www.poco.de/"
+website: https://www.poco.de/

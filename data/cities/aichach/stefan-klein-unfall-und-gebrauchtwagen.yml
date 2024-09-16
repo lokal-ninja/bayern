@@ -1,11 +1,11 @@
 id: 106426604
-type: way
+type: node
 latitude: 48.43525
 longitude: 11.11653
 postcode: "86551"
 city: Aichach
-street: "Ludwig-Erhard-Straße"
-housenumber: 9
+street: Ludwig-Erhard-Straße
+housenumber: "9"
 phone: ""
 opening_hours: ""
-website: "https://home.mobile.de/KFZ-KLEIN#ses"
+website: https://home.mobile.de/KFZ-KLEIN#ses

@@ -1,11 +1,12 @@
 id: 238550151
-type: way
+type: node
 latitude: 49.82086
 longitude: 9.25603
 postcode: "63863"
 city: Eschau
-street: "Elsavastraße"
-housenumber: 91
+street: Elsavastraße
+housenumber: "91"
 phone: "+49937499977"
-opening_hours: "Mo,Tu,Th,Fr 09:00-12:30,14:00-18:00; We 09:00-12:30; Sa 09:00-12:30; PH off"
-website: "https://www.optik-filbert.de/standorte/eschau/"
+opening_hours: Mo,Tu,Th,Fr 09:00-12:30,14:00-18:00; We 09:00-12:30; Sa 09:00-12:30;
+    PH off
+website: https://www.optik-filbert.de/standorte/eschau/

@@ -4,8 +4,8 @@ latitude: 50.0517
 longitude: 9.01382
 postcode: "63791"
 city: Karlstein am Main
-street: "Kahler Straße"
-housenumber: 19
-phone: "+49 6188 81996"
-opening_hours: "Mo-Sa 09:00-12:00"
+street: Kahler Straße
+housenumber: "19"
+phone: +49 6188 81996
+opening_hours: Mo-Sa 09:00-12:00
 website: ""

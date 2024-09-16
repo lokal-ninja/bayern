@@ -4,8 +4,8 @@ latitude: 49.5698
 longitude: 10.87974
 postcode: "91074"
 city: Herzogenaurach
-street: "Hauptstraße"
-housenumber: 40
-phone: "+49 9132 2035"
-opening_hours: "Mo,Tu,Th,Fr 09:00-18:00, Sa 09:00-13:00; PH off"
-website: "https://www.grillfachwerk.de/"
+street: Hauptstraße
+housenumber: "40"
+phone: +49 9132 2035
+opening_hours: Mo,Tu,Th,Fr 09:00-18:00, Sa 09:00-13:00; PH off
+website: https://www.grillfachwerk.de/

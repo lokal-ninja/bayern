@@ -4,8 +4,8 @@ latitude: 48.12063
 longitude: 11.53452
 postcode: "81373"
 city: München
-street: "Hansastraße"
-housenumber: 134
-phone: "+4989 74373863"
-opening_hours: "7:00-20:00"
-website: "https://www.rewe.de/"
+street: Hansastraße
+housenumber: "134"
+phone: +4989 74373863
+opening_hours: 7:00-20:00
+website: https://www.rewe.de/

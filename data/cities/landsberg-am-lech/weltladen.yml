@@ -4,8 +4,8 @@ latitude: 48.0509
 longitude: 10.87598
 postcode: "86899"
 city: Landsberg am Lech
-street: "Ludwigstraße"
-housenumber: 167
-phone: "+49 8191 308809"
-opening_hours: "Mo-Fr 10:00-18:00, Sa 10:00-13:00"
-website: "https://weltlaeden.de/landsberg/"
+street: Ludwigstraße
+housenumber: "167"
+phone: +49 8191 308809
+opening_hours: Mo-Fr 10:00-18:00, Sa 10:00-13:00
+website: https://weltlaeden.de/landsberg/

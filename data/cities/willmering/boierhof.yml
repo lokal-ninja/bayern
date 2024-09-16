@@ -1,11 +1,11 @@
 id: 744694920
-type: way
+type: node
 latitude: 49.24295
 longitude: 12.67324
 postcode: "93497"
 city: Willmering
-street: "Boierhof"
-housenumber: 1
-phone: "+49 9971 7639818"
-opening_hours: "Th,Fr 08:00-20:00; Sa 08:00-14:00; PH off"
-website: "https://www.boierhof.com/"
+street: Boierhof
+housenumber: "1"
+phone: +49 9971 7639818
+opening_hours: Th,Fr 08:00-20:00; Sa 08:00-14:00; PH off
+website: https://www.boierhof.com/

@@ -1,11 +1,11 @@
 id: 382452750
-type: way
+type: node
 latitude: 49.10812
 longitude: 10.30547
 postcode: "91626"
 city: Schopfloch
 street: ""
 housenumber: 23a
-phone: "+49 9857 97770"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-12:00"
-website: "http://www.autohaus-schuelein.de/"
+phone: +49 9857 97770
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-12:00
+website: http://www.autohaus-schuelein.de/

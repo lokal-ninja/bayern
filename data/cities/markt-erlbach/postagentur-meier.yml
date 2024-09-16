@@ -4,8 +4,8 @@ latitude: 49.49321
 longitude: 10.65115
 postcode: "91459"
 city: Markt Erlbach
-street: "Hauptstraße"
-housenumber: 46
+street: Hauptstraße
+housenumber: "46"
 phone: ""
-opening_hours: "Mo-Fr 08:30-12:00,14:00-18:00; Sa 08:30-12:00"
+opening_hours: Mo-Fr 08:30-12:00,14:00-18:00; Sa 08:30-12:00
 website: ""

@@ -1,11 +1,11 @@
 id: 386854856
-type: way
+type: node
 latitude: 50.07687
 longitude: 12.23159
 postcode: "95706"
 city: Schirnding
-street: "Waldsassener Straße"
-housenumber: 12
+street: Waldsassener Straße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

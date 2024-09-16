@@ -1,11 +1,11 @@
 id: 95852269
-type: way
+type: node
 latitude: 49.01418
 longitude: 13.24899
 postcode: "94227"
 city: Zwiesel
-street: "Frauenauer Straße"
-housenumber: 105
+street: Frauenauer Straße
+housenumber: "105"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de

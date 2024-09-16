@@ -1,11 +1,11 @@
 id: 23859017
-type: way
+type: node
 latitude: 49.87023
 longitude: 10.04744
 postcode: "97294"
 city: Unterpleichfeld
-street: "Hauptstraße"
-housenumber: 47
+street: Hauptstraße
+housenumber: "47"
 phone: ""
 opening_hours: ""
-website: "https://www.getraenkequelle.org"
+website: https://www.getraenkequelle.org

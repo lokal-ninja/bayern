@@ -1,11 +1,11 @@
 id: 54243222
-type: way
+type: node
 latitude: 49.81754
 longitude: 10.98667
 postcode: "96114"
 city: Hirschaid
-street: "Bamberger Straße"
-housenumber: 12
+street: Bamberger Straße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

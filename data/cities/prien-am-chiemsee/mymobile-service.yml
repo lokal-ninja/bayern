@@ -4,8 +4,8 @@ latitude: 47.85537
 longitude: 12.34569
 postcode: "83209"
 city: Prien am Chiemsee
-street: "Bahnhofstraße"
-housenumber: 7
+street: Bahnhofstraße
+housenumber: "7"
 phone: "+4980516639698"
-opening_hours: "Mo-Fr 09:30-18:30, Sa 09:30-14:00"
-website: "https://mymobileservice.de/"
+opening_hours: Mo-Fr 09:30-18:30, Sa 09:30-14:00
+website: https://mymobileservice.de/

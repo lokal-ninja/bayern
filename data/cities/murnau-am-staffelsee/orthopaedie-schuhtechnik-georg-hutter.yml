@@ -4,8 +4,8 @@ latitude: 47.68047
 longitude: 11.19697
 postcode: "82418"
 city: Murnau am Staffelsee
-street: "Bahnhofstraße"
-housenumber: 25
+street: Bahnhofstraße
+housenumber: "25"
 phone: "088415103"
-opening_hours: "Mo-Fr 09:00-12:30, Mo,Tu,Th,Fr 14:30-18:00"
-website: "https://orthohutter.de/"
+opening_hours: Mo-Fr 09:00-12:30, Mo,Tu,Th,Fr 14:30-18:00
+website: https://orthohutter.de/

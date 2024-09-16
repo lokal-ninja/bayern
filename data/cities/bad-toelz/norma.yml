@@ -1,11 +1,11 @@
 id: 664750554
-type: way
+type: node
 latitude: 47.75942
 longitude: 11.57287
 postcode: "83646"
 city: Bad Tölz
-street: "Sachsenkamer Straße"
-housenumber: 21
+street: Sachsenkamer Straße
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

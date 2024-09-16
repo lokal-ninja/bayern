@@ -4,8 +4,8 @@ latitude: 47.77466
 longitude: 12.0054
 postcode: "83075"
 city: Bad Feilnbach
-street: "Kufsteiner Straße"
-housenumber: 13
+street: Kufsteiner Straße
+housenumber: "13"
 phone: ""
-opening_hours: "Tu,TH,Fr 09:00-12:30,14:00-19:00;We,Sa 09:00-14:00;Su,PH off"
-website: "http://www.pede-pedalo-bike.de/"
+opening_hours: Tu,TH,Fr 09:00-12:30,14:00-19:00;We,Sa 09:00-14:00;Su,PH off
+website: http://www.pede-pedalo-bike.de/

@@ -4,8 +4,8 @@ latitude: 50.2323
 longitude: 11.3334
 postcode: "96317"
 city: Kronach
-street: "Industriestraße"
-housenumber: 14
+street: Industriestraße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:00; Su off"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-17:00; Su off
 website: ""

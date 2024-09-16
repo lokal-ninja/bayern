@@ -4,8 +4,8 @@ latitude: 47.98361
 longitude: 10.18236
 postcode: "87700"
 city: Memmingen
-street: "Kramerstraße"
-housenumber: 43
+street: Kramerstraße
+housenumber: "43"
 phone: ""
-opening_hours: "Mo-Fr 09:30-12:30,14:00-18:00; Sa 09:30-14:00"
-website: "https://www.123-allerlei.de/"
+opening_hours: Mo-Fr 09:30-12:30,14:00-18:00; Sa 09:30-14:00
+website: https://www.123-allerlei.de/

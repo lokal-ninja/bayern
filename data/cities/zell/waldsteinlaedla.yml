@@ -1,11 +1,11 @@
 id: 131621529
-type: way
+type: node
 latitude: 50.13546
 longitude: 11.82048
 postcode: "95239"
 city: Zell
-street: "Fritz-Müller-Straße"
-housenumber: 1
+street: Fritz-Müller-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.markt-zell.de/leben-in-zell/einrichtungen/waldsteinlaedla/"
+opening_hours: 24/7
+website: https://www.markt-zell.de/leben-in-zell/einrichtungen/waldsteinlaedla/

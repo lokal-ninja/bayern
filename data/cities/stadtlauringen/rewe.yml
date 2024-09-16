@@ -1,11 +1,11 @@
 id: 97971218
-type: way
+type: node
 latitude: 50.18313
 longitude: 10.36953
 postcode: "97488"
 city: Stadtlauringen
-street: "Sulzdorfer Straße"
-housenumber: 1
+street: Sulzdorfer Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

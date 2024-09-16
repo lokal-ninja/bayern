@@ -1,11 +1,11 @@
 id: 207655906
-type: way
+type: node
 latitude: 48.02738
 longitude: 10.43916
 postcode: ""
 city: Stetten
-street: "Hochstraße"
-housenumber: 8
+street: Hochstraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

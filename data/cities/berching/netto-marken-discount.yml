@@ -1,11 +1,11 @@
 id: 394918769
-type: way
+type: node
 latitude: 49.1054
 longitude: 11.44648
 postcode: "92334"
 city: Berching
-street: "Neumarkter Straße"
-housenumber: 2
+street: Neumarkter Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.netto-online.de"
+website: https://www.netto-online.de

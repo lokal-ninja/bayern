@@ -1,11 +1,11 @@
 id: 184978695
-type: way
+type: node
 latitude: 49.66215
 longitude: 10.07602
 postcode: "97199"
 city: Ochsenfurt
-street: "Pestalozzistraße"
-housenumber: 2
+street: Pestalozzistraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://filialen.aldi-sued.de/bayern/ochsenfurt/pestalozzistrasse-2"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://filialen.aldi-sued.de/bayern/ochsenfurt/pestalozzistrasse-2

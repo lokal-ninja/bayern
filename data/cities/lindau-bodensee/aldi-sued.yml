@@ -1,11 +1,11 @@
 id: 85333856
-type: way
+type: node
 latitude: 47.55053
 longitude: 9.72277
 postcode: "88131"
 city: Lindau (Bodensee)
-street: "Von-Behring-Straße"
-housenumber: 4
+street: Von-Behring-Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://filialen.aldi-sued.de/bayern/lindau/von-behring-strasse-4"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://filialen.aldi-sued.de/bayern/lindau/von-behring-strasse-4

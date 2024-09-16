@@ -4,8 +4,8 @@ latitude: 48.16689
 longitude: 11.57803
 postcode: "80803"
 city: München
-street: "Bonner Platz"
-housenumber: 1
+street: Bonner Platz
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

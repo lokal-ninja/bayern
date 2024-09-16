@@ -4,8 +4,8 @@ latitude: 48.5333
 longitude: 12.14994
 postcode: "84028"
 city: Landshut
-street: "Altstadt"
-housenumber: 23
-phone: "+49 871 9656898"
-opening_hours: "Mo-We,Fr 09:30-13:00,14:00-18:00, Th 14:00-19:00, Sa 09:30-16:00"
+street: Altstadt
+housenumber: "23"
+phone: +49 871 9656898
+opening_hours: Mo-We,Fr 09:30-13:00,14:00-18:00, Th 14:00-19:00, Sa 09:30-16:00
 website: ""

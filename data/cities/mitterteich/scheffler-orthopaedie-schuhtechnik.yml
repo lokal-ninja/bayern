@@ -1,11 +1,11 @@
 id: 667406673
-type: way
+type: node
 latitude: 49.94898
 longitude: 12.24153
 postcode: "95666"
 city: Mitterteich
-street: "Martin-Zehendner-Straße"
-housenumber: 5
+street: Martin-Zehendner-Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

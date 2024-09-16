@@ -4,8 +4,8 @@ latitude: 48.16866
 longitude: 11.79217
 postcode: "85586"
 city: Poing
-street: "Gruber Straße"
-housenumber: 80
-phone: "+49 8121 25440"
-opening_hours: "24/7"
-website: "https://www.tankstellepoing.de/"
+street: Gruber Straße
+housenumber: "80"
+phone: +49 8121 25440
+opening_hours: 24/7
+website: https://www.tankstellepoing.de/

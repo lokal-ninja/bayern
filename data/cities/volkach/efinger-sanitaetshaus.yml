@@ -4,8 +4,8 @@ latitude: 49.86441
 longitude: 10.22747
 postcode: "97332"
 city: Volkach
-street: "Professor-Jäcklein-Straße"
-housenumber: 1
-phone: "+49 9381 5179091"
-opening_hours: "Mo-Fr 13:30-17:00,09:00-12:30"
-website: "https://www.efinger-ot.de/"
+street: Professor-Jäcklein-Straße
+housenumber: "1"
+phone: +49 9381 5179091
+opening_hours: Mo-Fr 13:30-17:00,09:00-12:30
+website: https://www.efinger-ot.de/

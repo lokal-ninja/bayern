@@ -1,11 +1,11 @@
 id: 90422357
-type: way
+type: node
 latitude: 47.88789
 longitude: 10.62683
 postcode: "87600"
 city: Kaufbeuren
-street: "Neugablonzer Straße"
-housenumber: 65
+street: Neugablonzer Straße
+housenumber: "65"
 phone: ""
 opening_hours: ""
-website: "https://filialen.aldi-sued.de/bayern/kaufbeuren/neugablonzer-strasse-65"
+website: https://filialen.aldi-sued.de/bayern/kaufbeuren/neugablonzer-strasse-65

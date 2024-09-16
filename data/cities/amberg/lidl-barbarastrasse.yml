@@ -1,11 +1,11 @@
 id: 134589077
-type: way
+type: node
 latitude: 49.43429
 longitude: 11.87871
 postcode: "92224"
 city: Amberg
-street: "Barbarastraße"
-housenumber: 20
+street: Barbarastraße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

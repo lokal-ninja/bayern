@@ -4,8 +4,8 @@ latitude: 48.34338
 longitude: 10.99585
 postcode: "86316"
 city: Friedberg
-street: "Pallottiweg"
-housenumber: 5
+street: Pallottiweg
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Th 07:30-12:00,13:00-17:00; Fr 07:30-12:00,13:00-15:00"
+opening_hours: Mo-Th 07:30-12:00,13:00-17:00; Fr 07:30-12:00,13:00-15:00
 website: ""

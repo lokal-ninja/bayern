@@ -4,8 +4,8 @@ latitude: 49.47196
 longitude: 11.08801
 postcode: "90409"
 city: Nürnberg
-street: "Schleifweg"
-housenumber: 53
-phone: "0911-27460066"
-opening_hours: "Mo-Fr 10:00-17:00"
-website: "https://www.lemonshox.com/"
+street: Schleifweg
+housenumber: "53"
+phone: 0911-27460066
+opening_hours: Mo-Fr 10:00-17:00
+website: https://www.lemonshox.com/

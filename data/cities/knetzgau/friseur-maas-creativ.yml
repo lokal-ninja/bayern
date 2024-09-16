@@ -1,11 +1,11 @@
 id: 231416021
-type: way
+type: node
 latitude: 49.99583
 longitude: 10.54582
 postcode: "97478"
 city: Knetzgau
-street: "Hauptstraße"
-housenumber: 45
-phone: "+49 9527 310"
-opening_hours: "Mo,Su off; Tu-Fr 08:00-18:00; Sa 07:30-13:30"
-website: "https://www.maas-creativ.de/2021/09/24/knetzgau/"
+street: Hauptstraße
+housenumber: "45"
+phone: +49 9527 310
+opening_hours: Mo,Su off; Tu-Fr 08:00-18:00; Sa 07:30-13:30
+website: https://www.maas-creativ.de/2021/09/24/knetzgau/

@@ -1,11 +1,11 @@
 id: 170087353
-type: way
+type: node
 latitude: 47.80646
 longitude: 10.29557
 postcode: "87463"
 city: Dietmannsried
-street: "Steinriesel"
-housenumber: 18
+street: Steinriesel
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

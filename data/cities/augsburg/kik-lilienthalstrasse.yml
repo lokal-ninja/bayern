@@ -4,8 +4,8 @@ latitude: 48.33435
 longitude: 10.90613
 postcode: "86159"
 city: Augsburg
-street: "Lilienthalstraße"
-housenumber: 31
+street: Lilienthalstraße
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-19:00"
-website: "https://www.kik.de/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-19:00
+website: https://www.kik.de/

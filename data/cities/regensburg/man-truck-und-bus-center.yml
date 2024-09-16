@@ -1,11 +1,11 @@
 id: 155364336
-type: way
+type: node
 latitude: 48.98788
 longitude: 12.1533
 postcode: "93055"
 city: Regensburg
-street: "Junkersstraße"
-housenumber: 15
-phone: "+49 941 79883 0"
+street: Junkersstraße
+housenumber: "15"
+phone: +49 941 79883 0
 opening_hours: ""
-website: "http://www.man.eu/"
+website: http://www.man.eu/

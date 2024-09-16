@@ -4,8 +4,8 @@ latitude: 48.39903
 longitude: 11.74081
 postcode: "85354"
 city: Freising
-street: "Obere Hauptstraße"
-housenumber: 43
-phone: "+49-8161-9861978"
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-17:00; Su,PH off"
-website: "https://www.andreas-muschler.de/"
+street: Obere Hauptstraße
+housenumber: "43"
+phone: +49-8161-9861978
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:30-17:00; Su,PH off
+website: https://www.andreas-muschler.de/

@@ -1,11 +1,11 @@
 id: 322686155
-type: way
+type: node
 latitude: 49.70484
 longitude: 9.27005
 postcode: "63897"
 city: Miltenberg
-street: "Eichenbühler Straße"
-housenumber: 78
-phone: "+49 9371 650310"
-opening_hours: "mo-fr 08:00-17:00; sa 08:00-12:00; PH off"
-website: "https://miltenberg.reifen-mueller.com"
+street: Eichenbühler Straße
+housenumber: "78"
+phone: +49 9371 650310
+opening_hours: mo-fr 08:00-17:00; sa 08:00-12:00; PH off
+website: https://miltenberg.reifen-mueller.com

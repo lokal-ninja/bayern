@@ -1,11 +1,11 @@
 id: 29128153
-type: way
+type: node
 latitude: 49.33918
 longitude: 12.39358
 postcode: "92431"
 city: Neunburg vorm Wald
-street: "Industriestraße"
-housenumber: 1
+street: Industriestraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

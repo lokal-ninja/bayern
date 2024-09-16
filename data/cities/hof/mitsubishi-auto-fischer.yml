@@ -1,11 +1,11 @@
 id: 24351233
-type: way
+type: node
 latitude: 50.28649
 longitude: 11.92777
 postcode: "95032"
 city: Hof
-street: "Pfeilschmidtstraße"
-housenumber: 3
-phone: "+49 9281 5553"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 09:00-14:00"
-website: "https://www.auto-fischer-hof.de/"
+street: Pfeilschmidtstraße
+housenumber: "3"
+phone: +49 9281 5553
+opening_hours: Mo-Fr 08:00-17:00; Sa 09:00-14:00
+website: https://www.auto-fischer-hof.de/

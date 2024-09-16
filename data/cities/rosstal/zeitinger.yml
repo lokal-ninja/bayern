@@ -1,11 +1,11 @@
 id: 40460585
-type: way
+type: node
 latitude: 49.396
 longitude: 10.88425
 postcode: "90574"
 city: Roßtal
-street: "Felsenstraße"
-housenumber: 33
-phone: "+49 9127 579495"
-opening_hours: "Tu-Fr 07:30-18:00, Sa 07:30-12:30"
-website: "http://www.metzgerei-zeitinger.de"
+street: Felsenstraße
+housenumber: "33"
+phone: +49 9127 579495
+opening_hours: Tu-Fr 07:30-18:00, Sa 07:30-12:30
+website: http://www.metzgerei-zeitinger.de

@@ -1,11 +1,11 @@
 id: 405787098
-type: way
+type: node
 latitude: 48.20199
 longitude: 12.38781
 postcode: "84478"
 city: Waldkraiburg
-street: "Aussiger Straße"
-housenumber: 14
+street: Aussiger Straße
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

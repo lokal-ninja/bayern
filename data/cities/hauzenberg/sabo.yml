@@ -1,11 +1,11 @@
 id: 317453124
-type: way
+type: node
 latitude: 48.65217
 longitude: 13.62208
 postcode: ""
 city: Hauzenberg
-street: "Im Tränental"
-housenumber: 8
+street: Im Tränental
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

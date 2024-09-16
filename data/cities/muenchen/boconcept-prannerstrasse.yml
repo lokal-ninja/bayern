@@ -4,8 +4,8 @@ latitude: 48.14121
 longitude: 11.57365
 postcode: "80333"
 city: München
-street: "Prannerstraße"
-housenumber: 4
+street: Prannerstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:30; Sa 10:00-18:00"
+opening_hours: Mo-Fr 10:00-19:30; Sa 10:00-18:00
 website: ""

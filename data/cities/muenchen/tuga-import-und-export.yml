@@ -4,8 +4,8 @@ latitude: 48.10976
 longitude: 11.59535
 postcode: "81539"
 city: München
-street: "Schwanseestraße"
-housenumber: 3
-phone: "+49 89 2488 6404"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00-19:00"
-website: "https://www.tuga-import.de"
+street: Schwanseestraße
+housenumber: "3"
+phone: +49 89 2488 6404
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:00-19:00
+website: https://www.tuga-import.de

@@ -4,8 +4,8 @@ latitude: 49.00529
 longitude: 12.11538
 postcode: "93053"
 city: Regensburg
-street: "Hornstraße"
-housenumber: 6
+street: Hornstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.backstube-wuensche.de/"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.backstube-wuensche.de/

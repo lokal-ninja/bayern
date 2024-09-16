@@ -4,8 +4,8 @@ latitude: 48.34269
 longitude: 10.88621
 postcode: "86199"
 city: Augsburg
-street: "Bergiusstraße"
-housenumber: 1
+street: Bergiusstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 09:30-18:00; PH off"
+opening_hours: Mo-Sa 09:30-18:00; PH off
 website: ""

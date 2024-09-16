@@ -4,8 +4,8 @@ latitude: 48.46479
 longitude: 10.26692
 postcode: "89312"
 city: Günzburg
-street: "Heidenheimer Straße"
-housenumber: 11
-phone: "+49 8221 9000-0"
-opening_hours: "Mo-Fr 08:00-18:00, Sa 08:30-12:30"
-website: "https://www.autokoenig.de"
+street: Heidenheimer Straße
+housenumber: "11"
+phone: +49 8221 9000-0
+opening_hours: Mo-Fr 08:00-18:00, Sa 08:30-12:30
+website: https://www.autokoenig.de

@@ -1,11 +1,11 @@
 id: 255323499
-type: way
+type: node
 latitude: 47.49024
 longitude: 11.07525
 postcode: "82467"
 city: Garmisch-Partenkirchen
-street: "Zugspitzstraße"
-housenumber: 48
+street: Zugspitzstraße
+housenumber: "48"
 phone: ""
 opening_hours: ""
 website: ""

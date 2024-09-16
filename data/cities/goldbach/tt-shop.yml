@@ -4,8 +4,8 @@ latitude: 49.99966
 longitude: 9.1832
 postcode: "63773"
 city: Goldbach
-street: "Hauptstraße"
-housenumber: 46
-phone: "+49 173 9284188"
-opening_hours: "Th 17:00-19:00"
-website: "https://www.tt-monster.de/startseite/"
+street: Hauptstraße
+housenumber: "46"
+phone: +49 173 9284188
+opening_hours: Th 17:00-19:00
+website: https://www.tt-monster.de/startseite/

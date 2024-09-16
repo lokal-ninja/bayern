@@ -4,8 +4,9 @@ latitude: 48.30294
 longitude: 10.96084
 postcode: "86438"
 city: Kissing
-street: "Bahnhofsallee"
-housenumber: 13
+street: Bahnhofsallee
+housenumber: "13"
 phone: ""
-opening_hours: "Mo,Tu,Th 09:00-12:00,14:30-18:00; We 09:00-12:00; Fr 09:00-12:00,14:30-17:00; Sa 09:00-12:00"
-website: "https://sp-fimpel.de/"
+opening_hours: Mo,Tu,Th 09:00-12:00,14:30-18:00; We 09:00-12:00; Fr 09:00-12:00,14:30-17:00;
+    Sa 09:00-12:00
+website: https://sp-fimpel.de/

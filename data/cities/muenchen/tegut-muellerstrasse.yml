@@ -4,8 +4,8 @@ latitude: 48.13133
 longitude: 11.56812
 postcode: "80469"
 city: München
-street: "Müllerstraße"
-housenumber: 45
+street: Müllerstraße
+housenumber: "45"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.tegut.com/maerkte/markt/tegut-muenchen-glockenbachviertel-muellerstrasse-45.html"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.tegut.com/maerkte/markt/tegut-muenchen-glockenbachviertel-muellerstrasse-45.html

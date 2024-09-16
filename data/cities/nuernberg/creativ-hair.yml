@@ -4,8 +4,8 @@ latitude: 49.40604
 longitude: 11.03401
 postcode: "90451"
 city: Nürnberg
-street: "Castellstraße"
-housenumber: 8
+street: Castellstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Tu-Fr 09:00-18:00; Sa by appointment"
+opening_hours: Tu-Fr 09:00-18:00; Sa "by appointment"
 website: ""

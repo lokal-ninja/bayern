@@ -1,11 +1,11 @@
 id: 812846380
-type: way
+type: node
 latitude: 49.97608
 longitude: 10.07714
 postcode: "97440"
 city: Werneck
-street: "Oberes Tor"
-housenumber: 9
-phone: "+49 9722 3344"
-opening_hours: "Mo 17:00-20:00; Tu off; We-Fr 11:00-20:00; Sa 10:00-16:00; Su 11:00-14:00"
-website: "http://www.zum-auerhahn.de"
+street: Oberes Tor
+housenumber: "9"
+phone: +49 9722 3344
+opening_hours: Mo 17:00-20:00; Tu off; We-Fr 11:00-20:00; Sa 10:00-16:00; Su 11:00-14:00
+website: http://www.zum-auerhahn.de

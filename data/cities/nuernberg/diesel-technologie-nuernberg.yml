@@ -4,8 +4,8 @@ latitude: 49.46973
 longitude: 11.07522
 postcode: "90408"
 city: Nürnberg
-street: "Röthensteig"
-housenumber: 25
+street: Röthensteig
+housenumber: "25"
 phone: "+499119373991"
-opening_hours: "Mo-Th 8:00-17:00; Fr 8:00-15:00"
-website: "https://www.dtn-nuernberg.de/"
+opening_hours: Mo-Th 8:00-17:00; Fr 8:00-15:00
+website: https://www.dtn-nuernberg.de/

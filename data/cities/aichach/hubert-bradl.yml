@@ -1,11 +1,11 @@
 id: 212076771
-type: way
+type: node
 latitude: 48.44217
 longitude: 11.01794
 postcode: "86551"
 city: Aichach
-street: "Dorfstraße"
-housenumber: 67
-phone: "+49 8207 1004"
+street: Dorfstraße
+housenumber: "67"
+phone: +49 8207 1004
 opening_hours: ""
 website: ""

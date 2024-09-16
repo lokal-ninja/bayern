@@ -1,11 +1,11 @@
 id: 130278613
-type: way
+type: node
 latitude: 48.15174
 longitude: 11.34474
 postcode: "82178"
 city: Puchheim
-street: "Dorfstraße"
-housenumber: 45
+street: Dorfstraße
+housenumber: "45"
 phone: ""
 opening_hours: ""
 website: ""

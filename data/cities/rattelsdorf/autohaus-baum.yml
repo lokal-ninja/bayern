@@ -1,11 +1,11 @@
 id: 94788259
-type: way
+type: node
 latitude: 50.08015
 longitude: 10.86644
 postcode: "96179"
 city: Rattelsdorf
 street: ""
-housenumber: 41
+housenumber: "41"
 phone: ""
 opening_hours: ""
 website: ""

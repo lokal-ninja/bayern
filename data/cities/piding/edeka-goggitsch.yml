@@ -1,11 +1,11 @@
 id: 219651848
-type: way
+type: node
 latitude: 47.75838
 longitude: 12.90906
 postcode: "83451"
 city: Piding
-street: "Auenstraße"
-housenumber: 13
+street: Auenstraße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Sa 07:30-20:00; PH off"
+opening_hours: Mo-Sa 07:30-20:00; PH off
 website: ""

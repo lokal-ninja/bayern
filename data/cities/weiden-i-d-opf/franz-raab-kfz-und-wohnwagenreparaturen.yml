@@ -1,11 +1,11 @@
 id: 224944594
-type: way
+type: node
 latitude: 49.67729
 longitude: 12.17564
 postcode: "92637"
 city: Weiden i.d.OPf.
-street: "Friedrich-Ebert-Straße"
-housenumber: 40
+street: Friedrich-Ebert-Straße
+housenumber: "40"
 phone: ""
 opening_hours: ""
 website: ""

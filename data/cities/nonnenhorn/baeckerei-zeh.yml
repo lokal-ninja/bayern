@@ -4,8 +4,8 @@ latitude: 47.5761
 longitude: 9.61208
 postcode: "88149"
 city: Nonnenhorn
-street: "Seehalde"
-housenumber: 15
+street: Seehalde
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Sa 06:45-12:30; Th-Fr 14:30-18:00"
-website: "https://baeckerei-zeh.de/"
+opening_hours: Mo-Sa 06:45-12:30; Th-Fr 14:30-18:00
+website: https://baeckerei-zeh.de/

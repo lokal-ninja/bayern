@@ -1,11 +1,11 @@
 id: 28100804
-type: way
+type: node
 latitude: 50.06943
 longitude: 10.2233
 postcode: "97456"
 city: Dittelbrunn
-street: "Hauptstraße"
-housenumber: 1
+street: Hauptstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

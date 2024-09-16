@@ -1,11 +1,11 @@
 id: 51678770
-type: way
+type: node
 latitude: 48.61188
 longitude: 11.61731
 postcode: "85283"
 city: Wolnzach
-street: "Hopfenstraße"
-housenumber: 60
+street: Hopfenstraße
+housenumber: "60"
 phone: ""
-opening_hours: "Mo-Sa 07:30-20:00; PH off"
-website: "https://filialen.aldi-sued.de/bayern/wolnzach/hopfenstrasse-60"
+opening_hours: Mo-Sa 07:30-20:00; PH off
+website: https://filialen.aldi-sued.de/bayern/wolnzach/hopfenstrasse-60

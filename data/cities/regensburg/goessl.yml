@@ -4,8 +4,8 @@ latitude: 49.01999
 longitude: 12.0938
 postcode: "93047"
 city: Regensburg
-street: "Neue-Waag-Gasse"
-housenumber: 2
+street: Neue-Waag-Gasse
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.goessl.com/goessl-regensburg"
+website: https://www.goessl.com/goessl-regensburg

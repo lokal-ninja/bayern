@@ -4,8 +4,9 @@ latitude: 49.62827
 longitude: 11.01288
 postcode: "91088"
 city: Bubenreuth
-street: "Frankenstraße"
-housenumber: 75
-phone: "+49-9131-926 64 23"
-opening_hours: "Tu 11:00-20:00; We 09:00-18:00; Th 11:00-20:00; Fr 09:00-18:00; Sa 08:00-14:00"
-website: "https://www.hairlicher.de/"
+street: Frankenstraße
+housenumber: "75"
+phone: +49-9131-926 64 23
+opening_hours: Tu 11:00-20:00; We 09:00-18:00; Th 11:00-20:00; Fr 09:00-18:00; Sa
+    08:00-14:00
+website: https://www.hairlicher.de/

@@ -4,8 +4,8 @@ latitude: 49.39946
 longitude: 10.51335
 postcode: "91604"
 city: Flachslanden
-street: "Marktplatz"
-housenumber: 5
-phone: "+49-9829-242"
-opening_hours: "Tu-Fr 09:00-12:00, 13:00-18:00; Sa 09:00-14:00"
-website: "https://www.schmidts-radladen.de"
+street: Marktplatz
+housenumber: "5"
+phone: +49-9829-242
+opening_hours: Tu-Fr 09:00-12:00, 13:00-18:00; Sa 09:00-14:00
+website: https://www.schmidts-radladen.de

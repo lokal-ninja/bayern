@@ -4,8 +4,8 @@ latitude: 48.38782
 longitude: 10.92995
 postcode: "86167"
 city: Augsburg
-street: "Mühlmahdweg"
-housenumber: 4
-phone: "+49 821 722196"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-13:00"
-website: "https://www.automobile-emir.com/"
+street: Mühlmahdweg
+housenumber: "4"
+phone: +49 821 722196
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-13:00
+website: https://www.automobile-emir.com/

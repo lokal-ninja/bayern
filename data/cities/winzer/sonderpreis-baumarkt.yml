@@ -1,11 +1,11 @@
 id: 131346438
-type: way
+type: node
 latitude: 48.72952
 longitude: 13.06536
 postcode: "94577"
 city: Winzer
-street: "Aupoint"
-housenumber: 3
+street: Aupoint
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

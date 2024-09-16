@@ -4,8 +4,8 @@ latitude: 49.68395
 longitude: 10.93737
 postcode: "91334"
 city: Hemhofen
-street: "Schulgasse"
-housenumber: 3
-phone: "+49 9195 1467"
-opening_hours: "Tu-Fr 08:00-12:30, 13:30-18:00, Sa 08:00-13:00"
+street: Schulgasse
+housenumber: "3"
+phone: +49 9195 1467
+opening_hours: Tu-Fr 08:00-12:30, 13:30-18:00, Sa 08:00-13:00
 website: ""

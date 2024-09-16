@@ -4,8 +4,8 @@ latitude: 48.97065
 longitude: 10.45585
 postcode: "86742"
 city: Fremdingen
-street: "Hauptstraße"
-housenumber: 6
-phone: "+49 9086 9209730"
-opening_hours: "Mo-Th 05:30-12:30; Fr 05:30-12:30,14:00-18:00; Sa 06:00-12:30; Su07:30-10:30"
+street: Hauptstraße
+housenumber: "6"
+phone: +49 9086 9209730
+opening_hours: Mo-Th 05:30-12:30; Fr 05:30-12:30,14:00-18:00; Sa 06:00-12:30; Su07:30-10:30
 website: ""

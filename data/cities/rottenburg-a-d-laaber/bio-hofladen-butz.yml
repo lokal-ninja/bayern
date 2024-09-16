@@ -1,11 +1,11 @@
 id: 485552088
-type: way
+type: node
 latitude: 48.68151
 longitude: 12.01698
 postcode: "84056"
 city: Rottenburg a. d. Laaber
-street: "Viehhausen"
-housenumber: 2
-phone: "+49 8781 3350"
-opening_hours: "Th,Fr 09:00-18:00; Sa 9:00-12:00"
+street: Viehhausen
+housenumber: "2"
+phone: +49 8781 3350
+opening_hours: Th,Fr 09:00-18:00; Sa 9:00-12:00
 website: ""

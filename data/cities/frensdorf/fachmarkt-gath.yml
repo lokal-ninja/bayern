@@ -1,11 +1,11 @@
 id: 105569700
-type: way
+type: node
 latitude: 49.79465
 longitude: 10.88416
 postcode: "96158"
 city: Frensdorf
-street: "Kirchäcker"
-housenumber: 1
+street: Kirchäcker
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

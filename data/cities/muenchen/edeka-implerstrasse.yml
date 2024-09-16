@@ -4,8 +4,8 @@ latitude: 48.12235
 longitude: 11.55035
 postcode: "81371"
 city: München
-street: "Implerstraße"
-housenumber: 17
-phone: "+49 89 72016000"
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
-website: "https://www.edeka.de/eh/s%C3%BCdbayern/edeka-implerstra%C3%9Fe-17/index.jsp"
+street: Implerstraße
+housenumber: "17"
+phone: +49 89 72016000
+opening_hours: Mo-Sa 07:00-20:00; PH off
+website: https://www.edeka.de/eh/s%C3%BCdbayern/edeka-implerstra%C3%9Fe-17/index.jsp

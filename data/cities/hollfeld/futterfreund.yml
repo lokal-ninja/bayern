@@ -4,8 +4,8 @@ latitude: 49.92848
 longitude: 11.29916
 postcode: "96142"
 city: Hollfeld
-street: "Flurstraße"
-housenumber: 2
-phone: "+49 9274 80251"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00"
-website: "https://www.futterfreund.de/"
+street: Flurstraße
+housenumber: "2"
+phone: +49 9274 80251
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-13:00
+website: https://www.futterfreund.de/

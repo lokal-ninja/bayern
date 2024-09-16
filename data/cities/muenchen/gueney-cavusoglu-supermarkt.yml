@@ -4,8 +4,8 @@ latitude: 48.12169
 longitude: 11.54874
 postcode: "81371"
 city: München
-street: "Implerstraße"
-housenumber: 23
+street: Implerstraße
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://gcavusoglu.de/"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://gcavusoglu.de/

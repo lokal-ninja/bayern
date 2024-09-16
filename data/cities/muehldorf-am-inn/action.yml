@@ -4,8 +4,8 @@ latitude: 48.23497
 longitude: 12.54297
 postcode: "84453"
 city: Mühldorf am Inn
-street: "Oderstraße"
-housenumber: 27
+street: Oderstraße
+housenumber: "27"
 phone: ""
-opening_hours: "Mo,Sa 09:00-20:00; Su off"
-website: "https://www.action.com/de-de/laden/muhldorf-am-inn-oderstrabe/"
+opening_hours: Mo,Sa 09:00-20:00; Su off
+website: https://www.action.com/de-de/laden/muhldorf-am-inn-oderstrabe/

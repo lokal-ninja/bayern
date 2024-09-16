@@ -4,8 +4,8 @@ latitude: 48.39145
 longitude: 10.85489
 postcode: "86156"
 city: Augsburg
-street: "Holzweg"
-housenumber: 55
+street: Holzweg
+housenumber: "55"
 phone: ""
 opening_hours: ""
-website: "https://e-drive-point.de/"
+website: https://e-drive-point.de/

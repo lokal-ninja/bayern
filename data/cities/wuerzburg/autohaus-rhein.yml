@@ -1,11 +1,11 @@
 id: 94165520
-type: way
+type: node
 latitude: 49.79295
 longitude: 9.99669
 postcode: "97076"
 city: Würzburg
-street: "Louis-Pasteur-Straße"
-housenumber: 14
-phone: "+49 931 27885 0"
+street: Louis-Pasteur-Straße
+housenumber: "14"
+phone: +49 931 27885 0
 opening_hours: ""
-website: "https://www.rhein-bmw.de/"
+website: https://www.rhein-bmw.de/

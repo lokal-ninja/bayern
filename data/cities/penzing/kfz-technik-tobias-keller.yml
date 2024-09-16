@@ -1,11 +1,11 @@
 id: 156001155
-type: way
+type: node
 latitude: 48.07101
 longitude: 10.92417
 postcode: "86929"
 city: Penzing
-street: "Schwiftinger Straße"
-housenumber: 2
-phone: "+49 8191 8616"
+street: Schwiftinger Straße
+housenumber: "2"
+phone: +49 8191 8616
 opening_hours: ""
-website: "https://kfz-technik-tobiaskeller.de"
+website: https://kfz-technik-tobiaskeller.de

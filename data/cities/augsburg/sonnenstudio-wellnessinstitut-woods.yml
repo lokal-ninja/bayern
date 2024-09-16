@@ -4,8 +4,8 @@ latitude: 48.36401
 longitude: 10.87401
 postcode: "86157"
 city: Augsburg
-street: "Augsburger Straße"
-housenumber: 10
-phone: "+49 821 50874546"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-18:00"
-website: "https://david-j-woods.com/"
+street: Augsburger Straße
+housenumber: "10"
+phone: +49 821 50874546
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-18:00
+website: https://david-j-woods.com/

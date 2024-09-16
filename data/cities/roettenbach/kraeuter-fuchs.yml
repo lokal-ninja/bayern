@@ -1,11 +1,11 @@
 id: 54185628
-type: way
+type: node
 latitude: 49.66942
 longitude: 10.92459
 postcode: "91341"
 city: Röttenbach
-street: "Hauptstraße"
-housenumber: 44
+street: Hauptstraße
+housenumber: "44"
 phone: ""
 opening_hours: ""
-website: "https://www.kraeuter-fuchs.de/"
+website: https://www.kraeuter-fuchs.de/

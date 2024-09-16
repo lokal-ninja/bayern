@@ -1,11 +1,11 @@
 id: 494278544
-type: way
+type: node
 latitude: 48.24913
 longitude: 10.87482
 postcode: "86343"
 city: Königsbrunn
-street: "Lilienthalstraße"
-housenumber: 2
+street: Lilienthalstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

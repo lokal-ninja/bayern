@@ -4,8 +4,8 @@ latitude: 49.59508
 longitude: 11.00252
 postcode: "91054"
 city: Erlangen
-street: "Innere Brucker Straße"
-housenumber: 22
-phone: "+49 9131 28591"
-opening_hours: "Mo-Tu 11:00-18:30; Th-Fr 11:00-18:30; Sa 11:00-16:00; We off"
-website: "https://www.alpinist-globetrotter.de/"
+street: Innere Brucker Straße
+housenumber: "22"
+phone: +49 9131 28591
+opening_hours: Mo-Tu 11:00-18:30; Th-Fr 11:00-18:30; Sa 11:00-16:00; We off
+website: https://www.alpinist-globetrotter.de/

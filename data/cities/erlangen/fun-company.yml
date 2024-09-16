@@ -4,8 +4,8 @@ latitude: 49.59497
 longitude: 11.00268
 postcode: "91054"
 city: Erlangen
-street: "Innere Brucker Straße"
-housenumber: 17
-phone: "+49 9131 203817"
-opening_hours: "Mo,Tu,Th,Fr 10:00-16:15; Sa 10:00-14:00"
-website: "http://www.fun-company.de/"
+street: Innere Brucker Straße
+housenumber: "17"
+phone: +49 9131 203817
+opening_hours: Mo,Tu,Th,Fr 10:00-16:15; Sa 10:00-14:00
+website: http://www.fun-company.de/

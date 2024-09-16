@@ -4,8 +4,8 @@ latitude: 47.886
 longitude: 11.43607
 postcode: "82538"
 city: Geretsried
-street: "Leitenstraße"
-housenumber: 65
-phone: "+49 170 4310748"
-opening_hours: "Mo-Fr 16:00-19:30"
-website: "https://www.kfz-stoiber.de/"
+street: Leitenstraße
+housenumber: "65"
+phone: +49 170 4310748
+opening_hours: Mo-Fr 16:00-19:30
+website: https://www.kfz-stoiber.de/

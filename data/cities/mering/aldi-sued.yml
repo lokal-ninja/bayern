@@ -1,11 +1,11 @@
 id: 153529779
-type: way
+type: node
 latitude: 48.27412
 longitude: 10.97522
 postcode: "86415"
 city: Mering
-street: "Holzgartenstraße"
-housenumber: 17
+street: Holzgartenstraße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
-website: "https://filialen.aldi-sued.de/bayern/mering/holzgartenstrasse-17"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
+website: https://filialen.aldi-sued.de/bayern/mering/holzgartenstrasse-17

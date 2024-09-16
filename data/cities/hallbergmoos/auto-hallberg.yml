@@ -1,11 +1,11 @@
 id: 241643397
-type: way
+type: node
 latitude: 48.32738
 longitude: 11.73829
 postcode: "85399"
 city: Hallbergmoos
-street: "Am Söldnermoos"
-housenumber: 39
-phone: "+49 811 3806"
+street: Am Söldnermoos
+housenumber: "39"
+phone: +49 811 3806
 opening_hours: ""
-website: "https://autohallberg.de/"
+website: https://autohallberg.de/

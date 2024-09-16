@@ -4,8 +4,8 @@ latitude: 48.91198
 longitude: 11.89349
 postcode: "93309"
 city: Kelheim
-street: "Rennweg"
-housenumber: 122
+street: Rennweg
+housenumber: "122"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de

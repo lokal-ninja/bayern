@@ -4,8 +4,8 @@ latitude: 48.39938
 longitude: 11.74177
 postcode: "85354"
 city: Freising
-street: "Obere Hauptstraße"
-housenumber: 27
-phone: "+49-8161-41631"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 07:30-13:00; Su,PH off"
-website: "https://www.kasdandler.de/"
+street: Obere Hauptstraße
+housenumber: "27"
+phone: +49-8161-41631
+opening_hours: Mo-Fr 09:00-18:00; Sa 07:30-13:00; Su,PH off
+website: https://www.kasdandler.de/

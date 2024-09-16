@@ -4,8 +4,8 @@ latitude: 49.43256
 longitude: 11.1287
 postcode: "90480"
 city: Nürnberg
-street: "Regensburger Straße"
-housenumber: 330
-phone: "+49 911 40089940"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.dehner.de/"
+street: Regensburger Straße
+housenumber: "330"
+phone: +49 911 40089940
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.dehner.de/

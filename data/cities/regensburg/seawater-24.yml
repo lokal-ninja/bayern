@@ -1,11 +1,11 @@
 id: 127271107
-type: way
+type: node
 latitude: 49.03737
 longitude: 12.13353
 postcode: "93055"
 city: Regensburg
-street: "Grünthaler Straße"
-housenumber: 6
+street: Grünthaler Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "http://seawater24.de/"
+website: http://seawater24.de/

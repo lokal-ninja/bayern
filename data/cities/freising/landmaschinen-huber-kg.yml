@@ -1,11 +1,11 @@
 id: 123203736
-type: way
+type: node
 latitude: 48.40416
 longitude: 11.74765
 postcode: "85356"
 city: Freising
-street: "Mainburger Straße"
-housenumber: 12
+street: Mainburger Straße
+housenumber: "12"
 phone: ""
 opening_hours: ""
-website: "https://www.landmaschinen-huber.de/"
+website: https://www.landmaschinen-huber.de/

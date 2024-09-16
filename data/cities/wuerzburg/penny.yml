@@ -4,8 +4,8 @@ latitude: 49.79247
 longitude: 9.92915
 postcode: "97070"
 city: Würzburg
-street: "Wolfhartsgasse"
-housenumber: 3
+street: Wolfhartsgasse
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 07:30-20:00"
-website: "https://www.penny.de/"
+opening_hours: Mo-Sa 07:30-20:00
+website: https://www.penny.de/

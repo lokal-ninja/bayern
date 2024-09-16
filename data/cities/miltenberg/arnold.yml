@@ -4,8 +4,8 @@ latitude: 49.69942
 longitude: 9.25289
 postcode: "63897"
 city: Miltenberg
-street: "Hauptstraße"
-housenumber: 150
-phone: "+49 9371 2145"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-16:00"
-website: "https://arnold-mode.de/"
+street: Hauptstraße
+housenumber: "150"
+phone: +49 9371 2145
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-16:00
+website: https://arnold-mode.de/

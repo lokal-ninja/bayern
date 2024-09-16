@@ -1,11 +1,11 @@
 id: 423950278
-type: way
+type: node
 latitude: 48.73069
 longitude: 11.17758
 postcode: "86633"
 city: Neuburg an der Donau
-street: "Brüdergarten"
-housenumber: 2
-phone: "+49 8431 6486977"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00"
-website: "https://www.hoergeraete-langer.de/"
+street: Brüdergarten
+housenumber: "2"
+phone: +49 8431 6486977
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00
+website: https://www.hoergeraete-langer.de/

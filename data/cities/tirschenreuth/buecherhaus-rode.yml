@@ -1,11 +1,11 @@
 id: 222890188
-type: way
+type: node
 latitude: 49.87893
 longitude: 12.3373
 postcode: "95643"
 city: Tirschenreuth
-street: "Maximilianplatz"
-housenumber: 6
-phone: "+49 9631 6633"
-opening_hours: "Mo-Fr 14:00-18:00,09:00-12:30; Sa 09:00-12:30"
-website: "https://www.buecherhausrode.de/"
+street: Maximilianplatz
+housenumber: "6"
+phone: +49 9631 6633
+opening_hours: Mo-Fr 14:00-18:00,09:00-12:30; Sa 09:00-12:30
+website: https://www.buecherhausrode.de/

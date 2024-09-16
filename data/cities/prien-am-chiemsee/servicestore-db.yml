@@ -4,8 +4,8 @@ latitude: 47.85518
 longitude: 12.34659
 postcode: "83209"
 city: Prien am Chiemsee
-street: "Bahnhofplatz"
-housenumber: 2
-phone: "+49 8051 9658450"
-opening_hours: "Mo-Su 08:00-16:00"
-website: "https://www.servicestoredb.de/sst-de"
+street: Bahnhofplatz
+housenumber: "2"
+phone: +49 8051 9658450
+opening_hours: Mo-Su 08:00-16:00
+website: https://www.servicestoredb.de/sst-de

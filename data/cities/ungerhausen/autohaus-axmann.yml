@@ -1,11 +1,11 @@
 id: 103204300
-type: way
+type: node
 latitude: 48.00407
 longitude: 10.26291
 postcode: "87781"
 city: Ungerhausen
-street: "Memminger Straße"
-housenumber: 16
-phone: "+49 8393 333"
-opening_hours: "Mo-Fr 07:30-12:00,13:00-18:00; Sa 09:00-12:00"
-website: "https://www.autohaus-axmann.de/ungerhausen/"
+street: Memminger Straße
+housenumber: "16"
+phone: +49 8393 333
+opening_hours: Mo-Fr 07:30-12:00,13:00-18:00; Sa 09:00-12:00
+website: https://www.autohaus-axmann.de/ungerhausen/

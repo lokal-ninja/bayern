@@ -4,8 +4,8 @@ latitude: 49.37786
 longitude: 10.1794
 postcode: "91541"
 city: Rothenburg ob der Tauber
-street: "Markt"
-housenumber: 10
-phone: "+49-9861-7653"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-14:00"
-website: "http://www.juwelier-wegmershaus.de"
+street: Markt
+housenumber: "10"
+phone: +49-9861-7653
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-14:00
+website: http://www.juwelier-wegmershaus.de

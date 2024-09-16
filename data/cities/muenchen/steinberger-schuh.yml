@@ -4,8 +4,8 @@ latitude: 48.16527
 longitude: 11.57945
 postcode: "80803"
 city: München
-street: "Viktoriastraße"
-housenumber: 26
+street: Viktoriastraße
+housenumber: "26"
 phone: ""
-opening_hours: "Tu-Fr 08:30-18:00; Sa 10:00-13:00"
-website: "https://www.schuhmacherei-steinberger.de"
+opening_hours: Tu-Fr 08:30-18:00; Sa 10:00-13:00
+website: https://www.schuhmacherei-steinberger.de

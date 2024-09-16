@@ -1,11 +1,11 @@
 id: 47738769
-type: way
+type: node
 latitude: 49.5786
 longitude: 10.88967
 postcode: "91074"
 city: Herzogenaurach
-street: "Röntgenstraße"
-housenumber: 28
-phone: "+49 9132 4844"
-opening_hours: "Mo-Fr 07:30-12:00,13:00-17:00; Sa 09:00-12:00"
-website: "https://www.auto-postler.de/"
+street: Röntgenstraße
+housenumber: "28"
+phone: +49 9132 4844
+opening_hours: Mo-Fr 07:30-12:00,13:00-17:00; Sa 09:00-12:00
+website: https://www.auto-postler.de/

@@ -1,11 +1,11 @@
 id: 206603164
-type: way
+type: node
 latitude: 48.60265
 longitude: 13.41921
 postcode: "94034"
 city: Passau
-street: "Tittlinger Straße"
-housenumber: 25
+street: Tittlinger Straße
+housenumber: "25"
 phone: ""
 opening_hours: ""
-website: "https://www.run-race.de/"
+website: https://www.run-race.de/

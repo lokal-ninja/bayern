@@ -4,8 +4,8 @@ latitude: 49.93988
 longitude: 11.57642
 postcode: "95444"
 city: Bayreuth
-street: "Jean-Paul-Straße"
-housenumber: 7
-phone: "+49 921 64408"
-opening_hours: "Tu-Fr 06:30-18:00; Sa 06:30-12:00; Su off"
-website: "https://www.baeckerei-lang.de/"
+street: Jean-Paul-Straße
+housenumber: "7"
+phone: +49 921 64408
+opening_hours: Tu-Fr 06:30-18:00; Sa 06:30-12:00; Su off
+website: https://www.baeckerei-lang.de/

@@ -1,11 +1,11 @@
 id: 132729123
-type: way
+type: node
 latitude: 48.55044
 longitude: 12.15267
 postcode: "84030"
 city: Landshut
-street: "Ottostraße"
-housenumber: 15
+street: Ottostraße
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

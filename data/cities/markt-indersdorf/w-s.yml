@@ -1,11 +1,11 @@
 id: 202755582
-type: way
+type: node
 latitude: 48.34887
 longitude: 11.37219
 postcode: "85229"
 city: Markt Indersdorf
-street: "Lorenz-Braren-Straße"
-housenumber: 31
+street: Lorenz-Braren-Straße
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

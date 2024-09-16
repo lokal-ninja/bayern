@@ -1,11 +1,11 @@
 id: 265128845
-type: way
+type: node
 latitude: 48.16413
 longitude: 11.50201
 postcode: "80638"
 city: München
-street: "Menzinger Straße"
-housenumber: 65
+street: Menzinger Straße
+housenumber: "65"
 phone: ""
-opening_hours: "PH,Mo-Su 09:00-16:15; PH off"
-website: "https://botmuc.snsb.de/shop/"
+opening_hours: PH,Mo-Su 09:00-16:15; PH off
+website: https://botmuc.snsb.de/shop/

@@ -4,8 +4,8 @@ latitude: 49.44386
 longitude: 11.10468
 postcode: "90478"
 city: Nürnberg
-street: "Scharrerstraße"
-housenumber: 13
-phone: "+49 911 486440"
-opening_hours: "Mo-Fr 08:00-17:30; Sa 09:00-12:00"
-website: "https://www.british-cars-kolb.de/"
+street: Scharrerstraße
+housenumber: "13"
+phone: +49 911 486440
+opening_hours: Mo-Fr 08:00-17:30; Sa 09:00-12:00
+website: https://www.british-cars-kolb.de/

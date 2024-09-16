@@ -1,11 +1,11 @@
 id: 51353913
-type: way
+type: node
 latitude: 49.66996
 longitude: 11.04412
 postcode: "91083"
 city: Baiersdorf
-street: "An der Galgenbrücke"
-housenumber: 12
+street: An der Galgenbrücke
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 53535564
-type: way
+type: node
 latitude: 48.31067
 longitude: 10.88961
 postcode: "86179"
 city: Augsburg
-street: "Unterer Talweg"
-housenumber: 131
+street: Unterer Talweg
+housenumber: "131"
 phone: ""
 opening_hours: ""
 website: ""

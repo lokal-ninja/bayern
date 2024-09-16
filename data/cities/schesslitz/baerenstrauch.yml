@@ -1,11 +1,11 @@
 id: 30151090
-type: way
+type: node
 latitude: 49.97076
 longitude: 11.02438
 postcode: "96110"
 city: Scheßlitz
-street: "Bamberger Straße"
-housenumber: 22
+street: Bamberger Straße
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

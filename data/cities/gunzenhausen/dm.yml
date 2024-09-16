@@ -4,8 +4,8 @@ latitude: 49.10646
 longitude: 10.76139
 postcode: "91710"
 city: Gunzenhausen
-street: "Weißenburger Straße"
-housenumber: 87
-phone: "+49 9831613295"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.dm.de/store/de-711/gunzenhausen/weissenburger-strasse-87"
+street: Weißenburger Straße
+housenumber: "87"
+phone: +49 9831613295
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.dm.de/store/de-711/gunzenhausen/weissenburger-strasse-87

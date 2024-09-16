@@ -4,8 +4,8 @@ latitude: 49.33724
 longitude: 10.78874
 postcode: "91560"
 city: Heilsbronn
-street: "Hauptstraße"
-housenumber: 22
+street: Hauptstraße
+housenumber: "22"
 phone: ""
-opening_hours: "Fr 14:00-18:00; Sa 11:00-18:00; Su 13:00-17:00"
-website: "https://zuckermeisterei.com/"
+opening_hours: Fr 14:00-18:00; Sa 11:00-18:00; Su 13:00-17:00
+website: https://zuckermeisterei.com/

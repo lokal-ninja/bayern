@@ -4,8 +4,8 @@ latitude: 49.48104
 longitude: 11.23209
 postcode: "90552"
 city: Röthenbach a.d.Pegnitz
-street: "Bahnhofstraße"
-housenumber: 16
-phone: "+49 911 95339739"
-opening_hours: "Mo-Sa 07:00 - 20:00"
-website: "https://www.rewe.de/"
+street: Bahnhofstraße
+housenumber: "16"
+phone: +49 911 95339739
+opening_hours: Mo-Sa 07:00 - 20:00
+website: https://www.rewe.de/

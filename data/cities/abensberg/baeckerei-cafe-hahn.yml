@@ -1,11 +1,11 @@
 id: 913561777
-type: way
+type: node
 latitude: 48.8087
 longitude: 11.89468
 postcode: "93326"
 city: Abensberg
-street: "Frönaustraße"
-housenumber: 43
-phone: "+49 9443 9279904"
-opening_hours: "Mo-Fr 06:00-19:00; Sa, Su 06:00-17:00"
+street: Frönaustraße
+housenumber: "43"
+phone: +49 9443 9279904
+opening_hours: Mo-Fr 06:00-19:00; Sa, Su 06:00-17:00
 website: ""

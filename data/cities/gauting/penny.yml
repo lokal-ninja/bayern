@@ -1,11 +1,11 @@
 id: 147004735
-type: way
+type: node
 latitude: 48.07091
 longitude: 11.35873
 postcode: "82131"
 city: Gauting
-street: "Ammerseestraße"
-housenumber: 130
+street: Ammerseestraße
+housenumber: "130"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.penny.de/"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.penny.de/

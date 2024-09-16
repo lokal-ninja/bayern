@@ -4,8 +4,8 @@ latitude: 48.39715
 longitude: 10.02574
 postcode: "89231"
 city: Neu-Ulm
-street: "Lessingstraße"
-housenumber: 3
+street: Lessingstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://salzer-neumann.de/"
+website: https://salzer-neumann.de/

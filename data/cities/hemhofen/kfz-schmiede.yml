@@ -1,11 +1,11 @@
 id: 543411937
-type: way
+type: node
 latitude: 49.68172
 longitude: 10.93552
 postcode: "91334"
 city: Hemhofen
-street: "Apostelstraße"
-housenumber: 7
+street: Apostelstraße
+housenumber: "7"
 phone: ""
-opening_hours: "nach Vereinbarung"
+opening_hours: '"nach Vereinbarung"'
 website: ""

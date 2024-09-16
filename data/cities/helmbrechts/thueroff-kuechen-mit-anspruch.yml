@@ -4,8 +4,8 @@ latitude: 50.23305
 longitude: 11.72621
 postcode: "95233"
 city: Helmbrechts
-street: "Max-Planck-Straße"
-housenumber: 5
+street: Max-Planck-Straße
+housenumber: "5"
 phone: ""
-opening_hours: "nach Vereinbarung"
+opening_hours: '"nach Vereinbarung"'
 website: ""

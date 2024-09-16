@@ -1,11 +1,12 @@
 id: 265720602
-type: way
+type: node
 latitude: 47.89308
 longitude: 12.94464
 postcode: "83416"
 city: Saaldorf-Surheim
-street: "Gausburg"
-housenumber: 47
-phone: "+49 (0)8682 1867"
-opening_hours: "Th 13:00-16:00; Fr 13:30-17:00; Sa 09:00-14:00, if the farmer is there it is already open"
-website: "https://www.paulbauernhof.de/"
+street: Gausburg
+housenumber: "47"
+phone: +49 (0)8682 1867
+opening_hours: Th 13:00-16:00; Fr 13:30-17:00; Sa 09:00-14:00, "if the farmer is there
+    it is already open"
+website: https://www.paulbauernhof.de/

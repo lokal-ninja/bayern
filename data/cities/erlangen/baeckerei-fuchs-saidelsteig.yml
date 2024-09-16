@@ -4,8 +4,8 @@ latitude: 49.5535
 longitude: 11.02262
 postcode: "91058"
 city: Erlangen
-street: "Saidelsteig"
-housenumber: 15
-phone: "+49 9131 9332076"
-opening_hours: "Mo-Sa 07:00-18:00"
-website: "https://www.baeckerei-fuchs.de/"
+street: Saidelsteig
+housenumber: "15"
+phone: +49 9131 9332076
+opening_hours: Mo-Sa 07:00-18:00
+website: https://www.baeckerei-fuchs.de/

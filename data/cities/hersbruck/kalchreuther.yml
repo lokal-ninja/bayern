@@ -4,8 +4,8 @@ latitude: 49.51102
 longitude: 11.43121
 postcode: "91217"
 city: Hersbruck
-street: "Steingasse"
-housenumber: 5
+street: Steingasse
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://der-kalchreuther-baecker.de/"
+website: https://der-kalchreuther-baecker.de/

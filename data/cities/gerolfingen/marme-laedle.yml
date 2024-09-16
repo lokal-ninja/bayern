@@ -1,11 +1,11 @@
 id: 140308523
-type: way
+type: node
 latitude: 49.04027
 longitude: 10.49892
 postcode: "91726"
 city: Gerolfingen
-street: "Irsingen"
-housenumber: 18
-phone: "+499854 1513"
+street: Irsingen
+housenumber: "18"
+phone: +499854 1513
 opening_hours: ""
-website: "https://www.hoffmann-feinkost.de/"
+website: https://www.hoffmann-feinkost.de/

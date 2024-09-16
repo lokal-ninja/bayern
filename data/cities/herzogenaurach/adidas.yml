@@ -1,11 +1,11 @@
 id: 172704365
-type: way
+type: node
 latitude: 49.57439
 longitude: 10.91577
 postcode: "91074"
 city: Herzogenaurach
-street: "Olympiaring"
-housenumber: 3
+street: Olympiaring
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su off"
-website: "https://www.adidas.de/stores"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su off
+website: https://www.adidas.de/stores

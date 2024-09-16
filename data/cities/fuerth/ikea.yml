@@ -1,11 +1,11 @@
 id: 146483381
-type: way
+type: node
 latitude: 49.48435
 longitude: 11.01002
 postcode: "90765"
 city: Fürth
-street: "Hans-Vogel-Straße"
-housenumber: 110
+street: Hans-Vogel-Straße
+housenumber: "110"
 phone: ""
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://www.ikea.com/de/de/store/fuerth"
+opening_hours: Mo-Sa 09:30-20:00
+website: https://www.ikea.com/de/de/store/fuerth

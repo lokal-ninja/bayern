@@ -1,11 +1,11 @@
 id: 142977128
-type: way
+type: node
 latitude: 48.54057
 longitude: 11.04531
 postcode: "86554"
 city: Pöttmes
-street: "Bürgermeister-Mörtl-Straße"
-housenumber: 46
+street: Bürgermeister-Mörtl-Straße
+housenumber: "46"
 phone: ""
 opening_hours: ""
 website: ""

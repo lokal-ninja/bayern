@@ -4,8 +4,8 @@ latitude: 48.44917
 longitude: 12.35422
 postcode: "84137"
 city: Vilsbiburg
-street: "Stadtplatz"
-housenumber: 34
+street: Stadtplatz
+housenumber: "34"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 08:00-17:00"
-website: "https://www.nkd.com/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 08:00-17:00
+website: https://www.nkd.com/

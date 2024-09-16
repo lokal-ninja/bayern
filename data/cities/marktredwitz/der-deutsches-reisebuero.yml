@@ -4,8 +4,8 @@ latitude: 50.0002
 longitude: 12.08547
 postcode: "95615"
 city: Marktredwitz
-street: "Ottostraße"
-housenumber: 10
+street: Ottostraße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://www.der.com/reisebuero/Marktredwitz-Ottostrasse-10"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://www.der.com/reisebuero/Marktredwitz-Ottostrasse-10

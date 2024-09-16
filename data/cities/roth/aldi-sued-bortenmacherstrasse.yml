@@ -1,11 +1,11 @@
 id: 32881020
-type: way
+type: node
 latitude: 49.24707
 longitude: 11.12023
 postcode: "91154"
 city: Roth
-street: "Bortenmacherstraße"
-housenumber: 4
+street: Bortenmacherstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://filialen.aldi-sued.de/bayern/roth/bortenmacherstrasse-4"
+website: https://filialen.aldi-sued.de/bayern/roth/bortenmacherstrasse-4

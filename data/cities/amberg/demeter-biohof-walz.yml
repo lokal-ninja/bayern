@@ -4,8 +4,8 @@ latitude: 49.46127
 longitude: 11.8093
 postcode: "92224"
 city: Amberg
-street: "In der Schäflohe"
-housenumber: 4
-phone: "+49 9621 470680"
-opening_hours: "Fr 10:00-19:00; Sa 09:00-13:00"
-website: "https://www.bio-walz.de/"
+street: In der Schäflohe
+housenumber: "4"
+phone: +49 9621 470680
+opening_hours: Fr 10:00-19:00; Sa 09:00-13:00
+website: https://www.bio-walz.de/

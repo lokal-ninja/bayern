@@ -1,11 +1,11 @@
 id: 343961685
-type: way
+type: node
 latitude: 48.09253
 longitude: 10.42513
 postcode: "87769"
 city: Oberrieden
-street: "Mittelrieder Straße"
-housenumber: 12
+street: Mittelrieder Straße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

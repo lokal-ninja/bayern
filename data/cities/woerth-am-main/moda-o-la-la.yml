@@ -4,8 +4,8 @@ latitude: 49.79696
 longitude: 9.15785
 postcode: "63939"
 city: Wörth am Main
-street: "Landstraße"
-housenumber: 11
-phone: "+49 157 79175370"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00; PH off"
+street: Landstraße
+housenumber: "11"
+phone: +49 157 79175370
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00; PH off
 website: ""

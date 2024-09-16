@@ -1,11 +1,11 @@
 id: 307451871
-type: way
+type: node
 latitude: 47.96661
 longitude: 12.61024
 postcode: "83301"
 city: Traunreut
-street: "Trostberger Straße"
-housenumber: 23
+street: Trostberger Straße
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

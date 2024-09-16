@@ -1,11 +1,11 @@
 id: 1032672642
-type: way
+type: node
 latitude: 48.20836
 longitude: 12.41741
 postcode: "84478"
 city: Waldkraiburg
-street: "Bahnhofstraße"
-housenumber: 6
+street: Bahnhofstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

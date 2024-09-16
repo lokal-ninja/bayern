@@ -1,11 +1,11 @@
 id: 1155718880
-type: way
+type: node
 latitude: 50.18972
 longitude: 11.78829
 postcode: "95213"
 city: Münchberg
-street: "Bayreuther Straße"
-housenumber: 6
+street: Bayreuther Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

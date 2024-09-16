@@ -4,8 +4,8 @@ latitude: 47.62952
 longitude: 10.79858
 postcode: "87642"
 city: Halblech
-street: "Illasbergstraße"
-housenumber: 25
-phone: "+49 (0)8368 - 293"
-opening_hours: "Mo-Tu,Th-Fr 06:30-12:00,14:30-18:00; We,Sa 06:30-12:00"
+street: Illasbergstraße
+housenumber: "25"
+phone: +49 (0)8368 - 293
+opening_hours: Mo-Tu,Th-Fr 06:30-12:00,14:30-18:00; We,Sa 06:30-12:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.44509
 longitude: 11.85654
 postcode: "92224"
 city: Amberg
-street: "Georgenstraße"
-housenumber: 10
-phone: "+49 9621 973344"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.rupprecht.de/shop/action/mymagazine/96469/filiale.html"
+street: Georgenstraße
+housenumber: "10"
+phone: +49 9621 973344
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.rupprecht.de/shop/action/mymagazine/96469/filiale.html

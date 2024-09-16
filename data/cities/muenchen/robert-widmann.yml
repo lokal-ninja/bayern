@@ -4,8 +4,8 @@ latitude: 48.14724
 longitude: 11.56068
 postcode: "80333"
 city: München
-street: "Brienner Straße"
-housenumber: 48
+street: Brienner Straße
+housenumber: "48"
 phone: ""
-opening_hours: "Sa 10:00-15:00"
-website: "http://www.robertwidmann.de/"
+opening_hours: Sa 10:00-15:00
+website: http://www.robertwidmann.de/

@@ -1,11 +1,11 @@
 id: 87585520
-type: way
+type: node
 latitude: 50.16747
 longitude: 12.1198
 postcode: "95100"
 city: Selb
-street: "Professor-Fritz-Klee-Straße"
-housenumber: 67
+street: Professor-Fritz-Klee-Straße
+housenumber: "67"
 phone: ""
 opening_hours: ""
 website: ""

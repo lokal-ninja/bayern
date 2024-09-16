@@ -1,11 +1,11 @@
 id: 52123031
-type: way
+type: node
 latitude: 47.78283
 longitude: 11.83633
 postcode: "83714"
 city: Miesbach
-street: "Stadlbergstraße"
-housenumber: 5
+street: Stadlbergstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1295451242
-type: way
+type: node
 latitude: 47.79709
 longitude: 12.16868
 postcode: "83101"
 city: Rohrdorf
-street: "Dorfplatz"
-housenumber: 12
+street: Dorfplatz
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

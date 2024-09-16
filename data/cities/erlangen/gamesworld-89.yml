@@ -1,11 +1,11 @@
 id: 44797625
-type: way
+type: node
 latitude: 49.57017
 longitude: 10.98702
 postcode: "91058"
 city: Erlangen
-street: "Tennenloher Straße"
-housenumber: 12
+street: Tennenloher Straße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00"
+opening_hours: Mo-Fr 09:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 108041939
-type: way
+type: node
 latitude: 49.49203
 longitude: 10.65706
 postcode: "91459"
 city: Markt Erlbach
-street: "Neue Straße"
-housenumber: 9
+street: Neue Straße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

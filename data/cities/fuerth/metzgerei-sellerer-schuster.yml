@@ -4,8 +4,8 @@ latitude: 49.47554
 longitude: 10.98827
 postcode: "90762"
 city: Fürth
-street: "Hirschenstraße"
-housenumber: 15
+street: Hirschenstraße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00; Sa 07:30-12:30"
-website: "https://www.ideenmetzger.de/"
+opening_hours: Mo-Fr 07:30-18:00; Sa 07:30-12:30
+website: https://www.ideenmetzger.de/

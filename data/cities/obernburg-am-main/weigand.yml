@@ -4,8 +4,8 @@ latitude: 49.84254
 longitude: 9.14796
 postcode: "63785"
 city: Obernburg am Main
-street: "Römerstraße"
-housenumber: 71
-phone: "+49 6022 5646"
-opening_hours: "Mo-Fr 07:15-18:00; Sa 07:15-12:00"
-website: "http://www.weigand-brot.de"
+street: Römerstraße
+housenumber: "71"
+phone: +49 6022 5646
+opening_hours: Mo-Fr 07:15-18:00; Sa 07:15-12:00
+website: http://www.weigand-brot.de

@@ -1,11 +1,11 @@
 id: 322355943
-type: way
+type: node
 latitude: 48.51019
 longitude: 11.11568
 postcode: "86570"
 city: Inchenhofen
-street: "Aichacher Straße"
-housenumber: 5
-phone: "+49 8257 597"
+street: Aichacher Straße
+housenumber: "5"
+phone: +49 8257 597
 opening_hours: ""
-website: "https://www.fliesen-frank-gmbh.de/"
+website: https://www.fliesen-frank-gmbh.de/

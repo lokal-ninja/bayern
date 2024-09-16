@@ -4,8 +4,8 @@ latitude: 48.23434
 longitude: 11.06284
 postcode: "82278"
 city: Althegnenberg
-street: "Augsburger Straße"
-housenumber: 1
-phone: "+49 8202 8209"
-opening_hours: "Mo-Fr 07:30-12:00,13:00-18:00; Sa 08:00-12:00"
-website: "https://www.auto-dieter.de/"
+street: Augsburger Straße
+housenumber: "1"
+phone: +49 8202 8209
+opening_hours: Mo-Fr 07:30-12:00,13:00-18:00; Sa 08:00-12:00
+website: https://www.auto-dieter.de/

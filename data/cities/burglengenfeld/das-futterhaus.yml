@@ -4,8 +4,8 @@ latitude: 49.19664
 longitude: 12.05648
 postcode: "93133"
 city: Burglengenfeld
-street: "Regensburger Straße"
-housenumber: 60
+street: Regensburger Straße
+housenumber: "60"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.futterhaus.de/service/filialen/burglengenfeld/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.futterhaus.de/service/filialen/burglengenfeld/

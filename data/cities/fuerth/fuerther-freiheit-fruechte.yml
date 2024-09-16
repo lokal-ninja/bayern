@@ -4,8 +4,8 @@ latitude: 49.46751
 longitude: 10.99148
 postcode: "90763"
 city: Fürth
-street: "Amalienstraße"
-housenumber: 61
-phone: "+49 171 4961410"
-opening_hours: "Mo-Sa 07:00-18:00"
-website: "http://www.sinanakarca.de"
+street: Amalienstraße
+housenumber: "61"
+phone: +49 171 4961410
+opening_hours: Mo-Sa 07:00-18:00
+website: http://www.sinanakarca.de

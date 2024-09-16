@@ -1,11 +1,11 @@
 id: 87277531
-type: way
+type: node
 latitude: 49.42718
 longitude: 11.54547
 postcode: "91236"
 city: Alfeld
-street: "Kauerheimer Straße"
-housenumber: 5
-phone: "+49 9157 926016"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 07:30-13:00"
+street: Kauerheimer Straße
+housenumber: "5"
+phone: +49 9157 926016
+opening_hours: Mo-Fr 08:00-18:00; Sa 07:30-13:00
 website: ""

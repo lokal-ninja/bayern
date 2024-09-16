@@ -4,8 +4,8 @@ latitude: 48.15846
 longitude: 12.83951
 postcode: "5122"
 city: Hochburg-Ach
-street: "Athalerstraße"
-housenumber: 5
-phone: "+43 7727 2256"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:00, Sa 09:00-12:00"
-website: "https://www.angelsport-kinzl.at/"
+street: Athalerstraße
+housenumber: "5"
+phone: +43 7727 2256
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:00, Sa 09:00-12:00
+website: https://www.angelsport-kinzl.at/

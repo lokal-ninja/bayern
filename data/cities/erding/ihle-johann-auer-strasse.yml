@@ -4,8 +4,8 @@ latitude: 48.30745
 longitude: 11.88798
 postcode: "85435"
 city: Erding
-street: "Johann-Auer-Straße"
-housenumber: 11
-phone: "+49 8122 22 89 111"
-opening_hours: "Mo-Sa 06:00-19:00; Su 07:00-17:00"
+street: Johann-Auer-Straße
+housenumber: "11"
+phone: +49 8122 22 89 111
+opening_hours: Mo-Sa 06:00-19:00; Su 07:00-17:00
 website: ""

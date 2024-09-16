@@ -1,11 +1,11 @@
 id: 81111463
-type: way
+type: node
 latitude: 48.88959
 longitude: 12.57748
 postcode: "94315"
 city: Straubing
-street: "Chamer Straße"
-housenumber: 42
+street: Chamer Straße
+housenumber: "42"
 phone: ""
 opening_hours: ""
-website: "https://filialen.aldi-sued.de/bayern/straubing/chamer-strasse-42"
+website: https://filialen.aldi-sued.de/bayern/straubing/chamer-strasse-42

@@ -5,7 +5,8 @@ longitude: 12.30258
 postcode: "84082"
 city: Laberweinting
 street: ""
-housenumber: 29
+housenumber: "29"
 phone: ""
-opening_hours: "Mo 08:00-11:30; We 14:00-17:00; Fr 07:30-17:30; Sa 07:00-12:00; PH closed"
+opening_hours: Mo 08:00-11:30; We 14:00-17:00; Fr 07:30-17:30; Sa 07:00-12:00; PH
+    closed
 website: ""

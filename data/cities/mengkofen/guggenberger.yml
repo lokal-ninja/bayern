@@ -1,11 +1,11 @@
 id: 953943423
-type: way
+type: node
 latitude: 48.70807
 longitude: 12.37247
 postcode: "84152"
 city: Mengkofen
-street: "Süßkofen"
-housenumber: 32
-phone: "+49 8733 9389 801"
+street: Süßkofen
+housenumber: "32"
+phone: +49 8733 9389 801
 opening_hours: ""
-website: "http://www.guggenberger-mich.de/"
+website: http://www.guggenberger-mich.de/

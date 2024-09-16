@@ -1,11 +1,11 @@
 id: 34244930
-type: way
+type: node
 latitude: 49.55243
 longitude: 11.33312
 postcode: "91220"
 city: Schnaittach
-street: "Nürnberger Straße"
-housenumber: 93
+street: Nürnberger Straße
+housenumber: "93"
 phone: "+499153925913"
-opening_hours: "Mo-Sa 08:00-19:00"
+opening_hours: Mo-Sa 08:00-19:00
 website: ""

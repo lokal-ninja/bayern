@@ -4,8 +4,8 @@ latitude: 48.36906
 longitude: 10.8984
 postcode: "86150"
 city: Augsburg
-street: "Rathausplatz"
-housenumber: 6
+street: Rathausplatz
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 09:00-23:00, So+PH 10:00:23:00"
+opening_hours: Mo-Fr 09:00-23:00, So+PH 10:00:23:00
 website: ""

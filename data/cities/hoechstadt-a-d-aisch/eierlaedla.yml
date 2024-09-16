@@ -1,11 +1,11 @@
 id: 818780261
-type: way
+type: node
 latitude: 49.73529
 longitude: 10.84908
 postcode: "91315"
 city: Höchstadt a.d.Aisch
-street: "Bösenbechhofen"
-housenumber: 1
-phone: "+49 9193 2717"
-opening_hours: "24/7"
-website: "https://forstunternehmen-firnkaes.de/eierlaedla/"
+street: Bösenbechhofen
+housenumber: "1"
+phone: +49 9193 2717
+opening_hours: 24/7
+website: https://forstunternehmen-firnkaes.de/eierlaedla/

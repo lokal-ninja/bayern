@@ -1,11 +1,13 @@
 id: 211161473
-type: way
+type: node
 latitude: 48.43612
 longitude: 10.44768
 postcode: "89356"
 city: Haldenwang
-street: "Hauptstraße"
-housenumber: 24
-phone: "08222 4013850"
-opening_hours: "Donnerstag: 06:00-12:30 Freitag: 06:00-12:30, 16:00-18:00 Samstag: 06:00-12:00 Sonntag: Geschlossen Montag: 06:00-12:30, 16:00-18:00 Dienstag: 06:00-12:30 Mittwoch: 06:00-12:30, 16:00-18:00"
+street: Hauptstraße
+housenumber: "24"
+phone: 08222 4013850
+opening_hours: 'Donnerstag: 06:00-12:30 Freitag: 06:00-12:30, 16:00-18:00 Samstag:
+    06:00-12:00 Sonntag: Geschlossen Montag: 06:00-12:30, 16:00-18:00 Dienstag: 06:00-12:30
+    Mittwoch: 06:00-12:30, 16:00-18:00'
 website: ""

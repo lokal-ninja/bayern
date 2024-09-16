@@ -4,8 +4,9 @@ latitude: 49.41643
 longitude: 11.00825
 postcode: "90547"
 city: Stein
-street: "Mühlstraße"
-housenumber: 41
+street: Mühlstraße
+housenumber: "41"
 phone: "+4991147897762"
-opening_hours: "Mo,Tu 08:00-13:00,15:00-18:00; We-Fr 08:00-13:00,14:00-18:00; Sa 08:00-14:00; PH off"
+opening_hours: Mo,Tu 08:00-13:00,15:00-18:00; We-Fr 08:00-13:00,14:00-18:00; Sa 08:00-14:00;
+    PH off
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.56837
 longitude: 10.8835
 postcode: "91074"
 city: Herzogenaurach
-street: "Hauptstraße"
-housenumber: 4
+street: Hauptstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00"
-website: "https://www.hangausbarbershop.de/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:00
+website: https://www.hangausbarbershop.de/

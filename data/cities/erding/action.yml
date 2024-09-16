@@ -4,8 +4,8 @@ latitude: 48.3128
 longitude: 11.89073
 postcode: "85435"
 city: Erding
-street: "Franz-Brombach-Straße"
-housenumber: 11
+street: Franz-Brombach-Straße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00; Su,PH off"
-website: "https://www.action.com/de-de/laden/erding-franz-brombach-strabe/"
+opening_hours: Mo-Sa 09:00-20:00; Su,PH off
+website: https://www.action.com/de-de/laden/erding-franz-brombach-strabe/

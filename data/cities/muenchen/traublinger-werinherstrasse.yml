@@ -4,8 +4,8 @@ latitude: 48.11513
 longitude: 11.59309
 postcode: "81541"
 city: München
-street: "Werinherstraße"
-housenumber: 65
-phone: "+49 89 6913509"
-opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-12:00"
-website: "https://www.traublinger.de/"
+street: Werinherstraße
+housenumber: "65"
+phone: +49 89 6913509
+opening_hours: Mo-Fr 06:30-18:00; Sa 06:30-12:00
+website: https://www.traublinger.de/

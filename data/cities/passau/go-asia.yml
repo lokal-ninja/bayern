@@ -4,8 +4,8 @@ latitude: 48.57473
 longitude: 13.45193
 postcode: "94032"
 city: Passau
-street: "Bahnhofstraße"
-housenumber: 24
+street: Bahnhofstraße
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:30, Sa 09:30-17:30"
-website: "https://goasia.net"
+opening_hours: Mo-Fr 09:30-18:30, Sa 09:30-17:30
+website: https://goasia.net

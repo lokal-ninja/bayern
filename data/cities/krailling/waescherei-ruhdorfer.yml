@@ -1,11 +1,11 @@
 id: 262465239
-type: way
+type: node
 latitude: 48.0979
 longitude: 11.41761
 postcode: "82152"
 city: Krailling
-street: "Gautinger Straße"
-housenumber: 17
+street: Gautinger Straße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00; Sa 09:00-12:00; PH off"
-website: "https://www.ruhdorfer-waescherei.de/"
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:00; Sa 09:00-12:00; PH off
+website: https://www.ruhdorfer-waescherei.de/

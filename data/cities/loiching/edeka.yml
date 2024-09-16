@@ -1,11 +1,11 @@
 id: 253077423
-type: way
+type: node
 latitude: 48.63915
 longitude: 12.42372
 postcode: "84180"
 city: Loiching
-street: "Landshuter Straße"
-housenumber: 16
+street: Landshuter Straße
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

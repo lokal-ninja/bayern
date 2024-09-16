@@ -1,11 +1,11 @@
 id: 199211870
-type: way
+type: node
 latitude: 47.6652
 longitude: 10.30399
 postcode: "87448"
 city: Waltenhofen
-street: "Bahnhofstraße"
-housenumber: 42
+street: Bahnhofstraße
+housenumber: "42"
 phone: ""
 opening_hours: ""
-website: "http://www.kleinlein-baustoffe.de"
+website: http://www.kleinlein-baustoffe.de

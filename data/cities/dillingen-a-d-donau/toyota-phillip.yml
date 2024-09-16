@@ -1,11 +1,11 @@
 id: 252476081
-type: way
+type: node
 latitude: 48.5862
 longitude: 10.5183
 postcode: "89407"
 city: Dillingen a.d.Donau
-street: "Einsteinstraße"
-housenumber: 8
+street: Einsteinstraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1252130750
-type: way
+type: node
 latitude: 49.79448
 longitude: 9.92981
 postcode: "97070"
 city: Würzburg
-street: "Unterer Markt"
-housenumber: 
+street: Unterer Markt
+housenumber: ""
 phone: ""
-opening_hours: "Tu-Sa 10:30-18:00"
-website: "https://lantipasto-wuerzburg.de/#lage"
+opening_hours: Tu-Sa 10:30-18:00
+website: https://lantipasto-wuerzburg.de/#lage

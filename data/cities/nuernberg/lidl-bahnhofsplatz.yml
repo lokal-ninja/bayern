@@ -1,11 +1,11 @@
 id: 432736850
-type: way
+type: node
 latitude: 49.44639
 longitude: 11.0816
 postcode: "90443"
 city: Nürnberg
-street: "Bahnhofsplatz"
-housenumber: 9
+street: Bahnhofsplatz
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 07:00-20:00; Sa,Su,PH 08:00-18:00"
-website: "https://www.lidl.de/f/nuernberg/bahnhofsplatz-9.html"
+opening_hours: Mo-Fr 07:00-20:00; Sa,Su,PH 08:00-18:00
+website: https://www.lidl.de/f/nuernberg/bahnhofsplatz-9.html

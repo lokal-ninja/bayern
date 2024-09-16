@@ -1,11 +1,11 @@
 id: 158241772
-type: way
+type: node
 latitude: 47.84062
 longitude: 11.13857
 postcode: "82362"
 city: Weilheim in Oberbayern
-street: "Lohgasse"
-housenumber: 4
+street: Lohgasse
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-20:00; PH off
+website: https://www.netto-online.de

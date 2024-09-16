@@ -4,8 +4,8 @@ latitude: 48.37151
 longitude: 10.89231
 postcode: "86152"
 city: Augsburg
-street: "Heilig-Kreuz-Straße"
-housenumber: 8
-phone: "+49 821 65079883"
-opening_hours: "Mo-Fr 10:00-12:00"
-website: "https://www.konzerteimfronhof.de"
+street: Heilig-Kreuz-Straße
+housenumber: "8"
+phone: +49 821 65079883
+opening_hours: Mo-Fr 10:00-12:00
+website: https://www.konzerteimfronhof.de

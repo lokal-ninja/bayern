@@ -4,8 +4,8 @@ latitude: 48.11273
 longitude: 11.70203
 postcode: "81827"
 city: München
-street: "Wasserburger Landstraße"
-housenumber: 214
+street: Wasserburger Landstraße
+housenumber: "214"
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:00; Sa 07:30-14:00"
-website: "https://www.hofpfisterei.de/"
+opening_hours: Mo-Fr 07:30-19:00; Sa 07:30-14:00
+website: https://www.hofpfisterei.de/

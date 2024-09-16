@@ -1,11 +1,11 @@
 id: 523363199
-type: way
+type: node
 latitude: 48.5669
 longitude: 12.15639
 postcode: "84030"
 city: Ergolding
-street: "Mendelstraße"
-housenumber: 11
+street: Mendelstraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

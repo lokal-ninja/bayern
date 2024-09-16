@@ -1,11 +1,11 @@
 id: 67499747
-type: way
+type: node
 latitude: 48.38848
 longitude: 10.03317
 postcode: "89231"
 city: Neu-Ulm
-street: "Leibnizstraße"
-housenumber: 15
-phone: "+49 731 9707900"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.dehner.de/"
+street: Leibnizstraße
+housenumber: "15"
+phone: +49 731 9707900
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.dehner.de/

@@ -4,8 +4,8 @@ latitude: 47.85337
 longitude: 11.15171
 postcode: "82362"
 city: Weilheim in Oberbayern
-street: "Münchener Straße"
-housenumber: 75
+street: Münchener Straße
+housenumber: "75"
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:00; Su,PH off"
-website: "https://www.mediamarkt.de/de/store/weilheim-583"
+opening_hours: Mo-Sa 09:30-19:00; Su,PH off
+website: https://www.mediamarkt.de/de/store/weilheim-583

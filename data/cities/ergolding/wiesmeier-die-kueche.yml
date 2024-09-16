@@ -4,8 +4,8 @@ latitude: 48.55051
 longitude: 12.16142
 postcode: "84030"
 city: Ergolding
-street: "Alte Regensburger Straße"
-housenumber: 12
-phone: "+49 871 275603"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00; PH off"
-website: "https://www.wiesmeier-kuechen.de"
+street: Alte Regensburger Straße
+housenumber: "12"
+phone: +49 871 275603
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00; PH off
+website: https://www.wiesmeier-kuechen.de

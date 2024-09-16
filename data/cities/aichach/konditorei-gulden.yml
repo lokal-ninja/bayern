@@ -4,8 +4,8 @@ latitude: 48.45646
 longitude: 11.12873
 postcode: "86551"
 city: Aichach
-street: "Werlbergerstraße"
-housenumber: 19
-phone: "+49 8251 2458"
-opening_hours: "Tu-Fr 06:30-17:30; Sa 06:30-13:00; Mo,Su,PH off"
-website: "https://www.konditorei-gulden.com/"
+street: Werlbergerstraße
+housenumber: "19"
+phone: +49 8251 2458
+opening_hours: Tu-Fr 06:30-17:30; Sa 06:30-13:00; Mo,Su,PH off
+website: https://www.konditorei-gulden.com/

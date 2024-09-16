@@ -1,11 +1,11 @@
 id: 30821558
-type: way
+type: node
 latitude: 49.91148
 longitude: 10.98221
 postcode: "96123"
 city: Litzendorf
-street: "Schlemmerwiesen"
-housenumber: 4
+street: Schlemmerwiesen
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

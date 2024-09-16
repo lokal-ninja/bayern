@@ -4,8 +4,8 @@ latitude: 48.75428
 longitude: 10.95038
 postcode: "86688"
 city: Marxheim
-street: "Diepoldstraße"
-housenumber: 32
+street: Diepoldstraße
+housenumber: "32"
 phone: ""
-opening_hours: "Mo,Th,Fr 07:00-18:00; Tu,We 07:00-13:00; Sa 07:00-12:00"
+opening_hours: Mo,Th,Fr 07:00-18:00; Tu,We 07:00-13:00; Sa 07:00-12:00
 website: ""

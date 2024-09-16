@@ -1,11 +1,11 @@
 id: 373229299
-type: way
+type: node
 latitude: 49.35859
 longitude: 11.05559
 postcode: "90453"
 city: Nürnberg
-street: "Marienburger Straße"
-housenumber: 2
+street: Marienburger Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Tu-Th 09:00-12:00,15:00-18:00"
+opening_hours: Tu-Th 09:00-12:00,15:00-18:00
 website: ""

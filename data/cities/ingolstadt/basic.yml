@@ -4,8 +4,8 @@ latitude: 48.77137
 longitude: 11.38627
 postcode: "85049"
 city: Ingolstadt
-street: "Levelingstraße"
-housenumber: 3
-phone: "+49 841 1425370"
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
-website: "https://basicbio.de/maerkte"
+street: Levelingstraße
+housenumber: "3"
+phone: +49 841 1425370
+opening_hours: Mo-Sa 08:00-20:00; PH off
+website: https://basicbio.de/maerkte

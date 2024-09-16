@@ -1,11 +1,11 @@
 id: 40703180
-type: way
+type: node
 latitude: 48.85156
 longitude: 11.45664
 postcode: "85134"
 city: Stammham
-street: "Stadtweg"
-housenumber: 
+street: Stadtweg
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.79561
 longitude: 9.93341
 postcode: "97070"
 city: Würzburg
-street: "Eichhornstraße"
-housenumber: 15
+street: Eichhornstraße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Sa 09:30-18:30; PH,Su off"
-website: "https://brotzeitbar.de/"
+opening_hours: Mo-Sa 09:30-18:30; PH,Su off
+website: https://brotzeitbar.de/

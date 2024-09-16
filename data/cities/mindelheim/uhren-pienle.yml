@@ -4,8 +4,8 @@ latitude: 48.04194
 longitude: 10.49281
 postcode: "87719"
 city: Mindelheim
-street: "Krankenhausstraße"
-housenumber: 9
+street: Krankenhausstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
-website: "http://pienle.de/"
+website: http://pienle.de/

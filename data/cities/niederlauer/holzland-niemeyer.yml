@@ -1,11 +1,11 @@
 id: 156585108
-type: way
+type: node
 latitude: 50.29763
 longitude: 10.18564
 postcode: "97618"
 city: Niederlauer
-street: "Brückenstraße"
+street: Brückenstraße
 housenumber: 4a
-phone: "+49 9771 61880"
-opening_hours: "Mo-Fr 09:00-18:00; Th 09:00-19:00; Sa 09:00-13:00"
-website: "https://www.holzland-niemeyer.de/"
+phone: +49 9771 61880
+opening_hours: Mo-Fr 09:00-18:00; Th 09:00-19:00; Sa 09:00-13:00
+website: https://www.holzland-niemeyer.de/

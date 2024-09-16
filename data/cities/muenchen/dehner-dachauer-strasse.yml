@@ -1,11 +1,11 @@
 id: 37208023
-type: way
+type: node
 latitude: 48.19198
 longitude: 11.50126
 postcode: "80993"
 city: München
-street: "Dachauer Straße"
-housenumber: 543
+street: Dachauer Straße
+housenumber: "543"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00"
+opening_hours: Mo-Sa 09:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 97098549
-type: way
+type: node
 latitude: 48.11975
 longitude: 10.46161
 postcode: "87772"
 city: Pfaffenhausen
-street: "Industriestraße"
-housenumber: 4
+street: Industriestraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 118146778
-type: way
+type: node
 latitude: 49.49753
 longitude: 10.41063
 postcode: "91438"
 city: Bad Windsheim
-street: "Rothenburger Straße"
-housenumber: 47
-phone: "+49 9841 68930"
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
-website: "https://www.kaufland.de/"
+street: Rothenburger Straße
+housenumber: "47"
+phone: +49 9841 68930
+opening_hours: Mo-Sa 07:00-20:00; PH off
+website: https://www.kaufland.de/

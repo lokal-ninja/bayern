@@ -4,8 +4,8 @@ latitude: 49.43607
 longitude: 11.09234
 postcode: "90461"
 city: Nürnberg
-street: "Allersberger Straße"
-housenumber: 139
+street: Allersberger Straße
+housenumber: "139"
 phone: "+499114749957"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-13:00"
-website: "https://www.orthopoint.de/orthopoint-home.php"
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-13:00
+website: https://www.orthopoint.de/orthopoint-home.php

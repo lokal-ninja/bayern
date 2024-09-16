@@ -1,11 +1,11 @@
 id: 116509016
-type: way
+type: node
 latitude: 49.25812
 longitude: 11.45623
 postcode: "92318"
 city: Neumarkt in der Oberpfalz
-street: "Moosweg"
-housenumber: 8
-phone: "+49 (0) 9181 2596-0"
+street: Moosweg
+housenumber: "8"
+phone: +49 (0) 9181 2596-0
 opening_hours: ""
-website: "https://www.online-pen.de/"
+website: https://www.online-pen.de/

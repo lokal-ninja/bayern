@@ -4,8 +4,8 @@ latitude: 47.49316
 longitude: 11.11207
 postcode: "82467"
 city: Garmisch-Partenkirchen
-street: "Ludwigstraße"
-housenumber: 38
+street: Ludwigstraße
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-13:00"
-website: "https://www.dieseifensieder.de"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-13:00
+website: https://www.dieseifensieder.de

@@ -4,8 +4,8 @@ latitude: 50.31484
 longitude: 11.90106
 postcode: "95030"
 city: Hof
-street: "Dr.-Enders-Straße"
-housenumber: 1
-phone: "+49 9281 784090"
-opening_hours: "Mo-Fr 06:30-14:00; Sa 06:30-12:00; Su 07:30-11:00"
-website: "https://www.fickenschers-backhaus.de/"
+street: Dr.-Enders-Straße
+housenumber: "1"
+phone: +49 9281 784090
+opening_hours: Mo-Fr 06:30-14:00; Sa 06:30-12:00; Su 07:30-11:00
+website: https://www.fickenschers-backhaus.de/

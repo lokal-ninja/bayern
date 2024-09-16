@@ -1,11 +1,11 @@
 id: 165620818
-type: way
+type: node
 latitude: 48.31778
 longitude: 10.86271
 postcode: "86199"
 city: Augsburg
-street: "Bobinger Straße"
-housenumber: 33
+street: Bobinger Straße
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
-website: "http://www.edeka-gropper.de"
+opening_hours: Mo-Sa 08:00-20:00; PH off
+website: http://www.edeka-gropper.de

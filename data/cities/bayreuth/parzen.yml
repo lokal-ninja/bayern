@@ -4,8 +4,8 @@ latitude: 49.93925
 longitude: 11.59632
 postcode: "95448"
 city: Bayreuth
-street: "Königsallee"
-housenumber: 52
-phone: "+49 921 97494"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 07:15-13:00"
-website: "https://metzgerei-parzen.de"
+street: Königsallee
+housenumber: "52"
+phone: +49 921 97494
+opening_hours: Mo-Fr 07:30-18:00; Sa 07:15-13:00
+website: https://metzgerei-parzen.de

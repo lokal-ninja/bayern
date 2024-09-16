@@ -1,11 +1,11 @@
 id: 262068693
-type: way
+type: node
 latitude: 49.1586
 longitude: 11.62889
 postcode: "92358"
 city: Seubersdorf in der Oberpfalz
-street: "Regensburger Straße"
-housenumber: 44
+street: Regensburger Straße
+housenumber: "44"
 phone: ""
 opening_hours: ""
 website: ""

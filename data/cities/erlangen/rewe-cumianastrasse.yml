@@ -1,11 +1,11 @@
 id: 32611633
-type: way
+type: node
 latitude: 49.57581
 longitude: 11.00137
 postcode: "91058"
 city: Erlangen
-street: "Cumianastraße"
-housenumber: 4
+street: Cumianastraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

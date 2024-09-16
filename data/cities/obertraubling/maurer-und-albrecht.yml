@@ -1,11 +1,11 @@
 id: 118288580
-type: way
+type: node
 latitude: 48.97683
 longitude: 12.15906
 postcode: "93083"
 city: Obertraubling
-street: "Ernst-Frenzel-Straße"
-housenumber: 6
-phone: "+49 9401 96280"
-opening_hours: "Mo,Th 09:00-20:00; Tu-Fr 09:00-18:00; Sa 10:00-17:00"
-website: "https://www.maurer-albrecht.de/"
+street: Ernst-Frenzel-Straße
+housenumber: "6"
+phone: +49 9401 96280
+opening_hours: Mo,Th 09:00-20:00; Tu-Fr 09:00-18:00; Sa 10:00-17:00
+website: https://www.maurer-albrecht.de/

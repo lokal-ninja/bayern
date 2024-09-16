@@ -1,11 +1,11 @@
 id: 265220641
-type: way
+type: node
 latitude: 49.51626
 longitude: 11.28974
 postcode: "91207"
 city: Lauf a.d. Pegnitz
-street: "Hersbrucker Straße"
-housenumber: 57
+street: Hersbrucker Straße
+housenumber: "57"
 phone: ""
 opening_hours: ""
 website: ""

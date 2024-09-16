@@ -1,11 +1,11 @@
 id: 329171663
-type: way
+type: node
 latitude: 49.87485
 longitude: 12.3414
 postcode: "95643"
 city: Tirschenreuth
-street: "Äußere Regensburger Straße"
+street: Äußere Regensburger Straße
 housenumber: 81a
-phone: "+49 9631 7 98 03 90"
-opening_hours: "Mo-Sa 08:00-20:00"
+phone: +49 9631 7 98 03 90
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.13728
 longitude: 11.54383
 postcode: "80339"
 city: München
-street: "Parkstraße"
-housenumber: 8
+street: Parkstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo 06:00-24:00; Tu,We 07:00-23:00; Th 07:00-23:00; Fr-Su 06:00-24:00"
-website: "http://www.waschomat.de"
+opening_hours: Mo 06:00-24:00; Tu,We 07:00-23:00; Th 07:00-23:00; Fr-Su 06:00-24:00
+website: http://www.waschomat.de

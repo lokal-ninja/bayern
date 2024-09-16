@@ -1,11 +1,11 @@
 id: 53271573
-type: way
+type: node
 latitude: 48.27844
 longitude: 10.65315
 postcode: "86850"
 city: Fischach
-street: "Erkstraße"
-housenumber: 8
+street: Erkstraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

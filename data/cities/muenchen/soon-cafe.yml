@@ -4,8 +4,8 @@ latitude: 48.15414
 longitude: 11.5532
 postcode: "80335"
 city: München
-street: "Lothstraße"
-housenumber: 15
-phone: "+49 89 20062770"
-opening_hours: "Mo-Fr 07:00-18:30; Sa 08:00-16:00; Su 09:00-14:00"
-website: "https://soon-coffee.de/"
+street: Lothstraße
+housenumber: "15"
+phone: +49 89 20062770
+opening_hours: Mo-Fr 07:00-18:30; Sa 08:00-16:00; Su 09:00-14:00
+website: https://soon-coffee.de/

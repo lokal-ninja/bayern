@@ -1,11 +1,11 @@
 id: 93708777
-type: way
+type: node
 latitude: 49.96677
 longitude: 9.07799
 postcode: "63811"
 city: Stockstadt
-street: "An der Dohne"
-housenumber: 5
+street: An der Dohne
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

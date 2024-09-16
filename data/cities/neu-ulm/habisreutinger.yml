@@ -1,11 +1,11 @@
 id: 85077610
-type: way
+type: node
 latitude: 48.37529
 longitude: 10.006
 postcode: "89231"
 city: Neu-Ulm
-street: "Wegenerstraße"
+street: Wegenerstraße
 housenumber: 9/1
-phone: "+49 731 / 98578-0"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:30-12:30"
-website: "https://www.habisreutinger.de/"
+phone: +49 731 / 98578-0
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:30-12:30
+website: https://www.habisreutinger.de/

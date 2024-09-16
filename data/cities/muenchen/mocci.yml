@@ -4,8 +4,8 @@ latitude: 48.13505
 longitude: 11.5781
 postcode: "80331"
 city: München
-street: "Westenriederstraße"
-housenumber: 17
-phone: "089 21028371"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00-17:00"
-website: "https://www.salon-mocci.com/"
+street: Westenriederstraße
+housenumber: "17"
+phone: 089 21028371
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:00-17:00
+website: https://www.salon-mocci.com/

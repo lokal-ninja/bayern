@@ -4,8 +4,8 @@ latitude: 48.427
 longitude: 10.2876
 postcode: "89312"
 city: Günzburg
-street: "Wilhelm-Maybach-Straße"
-housenumber: 3
-phone: "+49 8221 204400"
+street: Wilhelm-Maybach-Straße
+housenumber: "3"
+phone: +49 8221 204400
 opening_hours: ""
-website: "http://www.autohof-guenzburg.info"
+website: http://www.autohof-guenzburg.info

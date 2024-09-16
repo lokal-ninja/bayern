@@ -1,11 +1,11 @@
 id: 206451056
-type: way
+type: node
 latitude: 48.50028
 longitude: 11.00375
 postcode: "86447"
 city: Aindling
-street: "Amselstraße"
-housenumber: 10
+street: Amselstraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

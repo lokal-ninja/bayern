@@ -1,11 +1,11 @@
 id: 156670131
-type: way
+type: node
 latitude: 49.22107
 longitude: 12.07903
 postcode: "93158"
 city: Teublitz
-street: "Regensburger Straße"
-housenumber: 75
+street: Regensburger Straße
+housenumber: "75"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

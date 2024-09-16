@@ -1,11 +1,11 @@
 id: 102006544
-type: way
+type: node
 latitude: 50.32031
 longitude: 10.20742
 postcode: "97616"
 city: Bad Neustadt an der Saale
-street: "Schweinfurter Straße"
-housenumber: 28
+street: Schweinfurter Straße
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

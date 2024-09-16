@@ -1,11 +1,11 @@
 id: 603890594
-type: way
+type: node
 latitude: 48.71508
 longitude: 13.33004
 postcode: "94538"
 city: Fürstenstein
-street: "Vilshofener Straße"
-housenumber: 13
+street: Vilshofener Straße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
-website: "https://www.edeka.de/eh/südbayern/edeka-buchbauer-vilshofener-straße-13/index.jsp"
+opening_hours: Mo-Sa 07:00-20:00; PH off
+website: https://www.edeka.de/eh/südbayern/edeka-buchbauer-vilshofener-straße-13/index.jsp

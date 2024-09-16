@@ -1,11 +1,12 @@
 id: 59241043
-type: way
+type: node
 latitude: 49.44234
 longitude: 11.85914
 postcode: "92224"
 city: Amberg
-street: "Am Anschuss"
-housenumber: 3
-phone: "+49 96211 3113"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00; Su 10:00-12:00; Apr-May, Oct-Dec Sa 08:00-14:00"
-website: "https://www.gaertnerei-naegele.de/"
+street: Am Anschuss
+housenumber: "3"
+phone: +49 96211 3113
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-12:00; Su 10:00-12:00; Apr-May, Oct-Dec
+    Sa 08:00-14:00
+website: https://www.gaertnerei-naegele.de/

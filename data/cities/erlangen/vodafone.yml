@@ -4,8 +4,8 @@ latitude: 49.59355
 longitude: 11.00507
 postcode: "91052"
 city: Erlangen
-street: "Nürnberger Straße"
-housenumber: 11
-phone: "+49 172 8994001"
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://shops.vodafone.de/erlangen/nuernberger-str.-11"
+street: Nürnberger Straße
+housenumber: "11"
+phone: +49 172 8994001
+opening_hours: Mo-Sa 09:30-19:00
+website: https://shops.vodafone.de/erlangen/nuernberger-str.-11

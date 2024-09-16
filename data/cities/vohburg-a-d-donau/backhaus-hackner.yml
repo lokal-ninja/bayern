@@ -4,8 +4,8 @@ latitude: 48.76489
 longitude: 11.6255
 postcode: "85088"
 city: Vohburg a.d.Donau
-street: "Hartackerstraße"
-housenumber: 35
+street: Hartackerstraße
+housenumber: "35"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-13:00"
-website: "https://www.backhaus-hackner.de"
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-13:00
+website: https://www.backhaus-hackner.de

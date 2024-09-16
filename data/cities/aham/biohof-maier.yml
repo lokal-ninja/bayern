@@ -1,11 +1,11 @@
 id: 517435852
-type: way
+type: node
 latitude: 48.53438
 longitude: 12.47029
 postcode: "84168"
 city: Aham
-street: "Mühlenweg"
-housenumber: 2
+street: Mühlenweg
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

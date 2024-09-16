@@ -1,11 +1,11 @@
 id: 49069975
-type: way
+type: node
 latitude: 48.37189
 longitude: 10.86678
 postcode: "86156"
 city: Augsburg
-street: "Pearl-S.-Buck-Straße"
-housenumber: 10
+street: Pearl-S.-Buck-Straße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su off"
-website: "https://www.lidl.de"
+opening_hours: Mo-Sa 07:00-20:00; Su off
+website: https://www.lidl.de

@@ -1,11 +1,11 @@
 id: 231889151
-type: way
+type: node
 latitude: 48.44036
 longitude: 10.41116
 postcode: "89331"
 city: Burgau
-street: "Robert-Bosch-Straße"
-housenumber: 5
+street: Robert-Bosch-Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://filialen.aldi-sued.de/bayern/burgau/robert-bosch-strasse-5"
+website: https://filialen.aldi-sued.de/bayern/burgau/robert-bosch-strasse-5

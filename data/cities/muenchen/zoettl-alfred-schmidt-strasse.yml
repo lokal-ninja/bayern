@@ -4,8 +4,8 @@ latitude: 48.10318
 longitude: 11.54622
 postcode: "81379"
 city: München
-street: "Alfred-Schmidt-Straße"
-housenumber: 43
+street: Alfred-Schmidt-Straße
+housenumber: "43"
 phone: "+498985631720"
-opening_hours: "Mo-Sa 07:00-20:00; Su 07:00-17:00"
-website: "https://zoettl.de/"
+opening_hours: Mo-Sa 07:00-20:00; Su 07:00-17:00
+website: https://zoettl.de/

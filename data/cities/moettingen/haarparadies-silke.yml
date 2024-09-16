@@ -4,8 +4,8 @@ latitude: 48.80888
 longitude: 10.59065
 postcode: "86753"
 city: Möttingen
-street: "Romantische Straße"
-housenumber: 22
+street: Romantische Straße
+housenumber: "22"
 phone: ""
-opening_hours: "Tu-We 09:00-18:00; Th 09:00-14:00; Fr 09:00-18:00; Sa 08:00-13:00"
-website: "http://www.haarparadies-silke.de"
+opening_hours: Tu-We 09:00-18:00; Th 09:00-14:00; Fr 09:00-18:00; Sa 08:00-13:00
+website: http://www.haarparadies-silke.de

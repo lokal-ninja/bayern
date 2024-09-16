@@ -4,8 +4,8 @@ latitude: 47.72231
 longitude: 11.82891
 postcode: "83727"
 city: Schliersee
-street: "Hennererstraße"
-housenumber: 36
+street: Hennererstraße
+housenumber: "36"
 phone: ""
-opening_hours: "Fr-Su,PH 12:00-17:00"
-website: "https://www.hennerer.com/"
+opening_hours: Fr-Su,PH 12:00-17:00
+website: https://www.hennerer.com/

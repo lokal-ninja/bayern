@@ -4,8 +4,8 @@ latitude: 47.82481
 longitude: 12.59443
 postcode: "83346"
 city: Bergen
-street: "Bahnhofstraße"
-housenumber: 182
-phone: "+49 8662 8660"
-opening_hours: "Mo-Fr 07:00-13:00,15:00-18:00; Sa 07:00-13:00; PH off"
-website: "https://www.edeka-pfeilstetter.de/standorte/edeka-pfeilstetter-in-bernhaupten/"
+street: Bahnhofstraße
+housenumber: "182"
+phone: +49 8662 8660
+opening_hours: Mo-Fr 07:00-13:00,15:00-18:00; Sa 07:00-13:00; PH off
+website: https://www.edeka-pfeilstetter.de/standorte/edeka-pfeilstetter-in-bernhaupten/

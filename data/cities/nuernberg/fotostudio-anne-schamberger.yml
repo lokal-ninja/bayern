@@ -4,8 +4,8 @@ latitude: 49.46213
 longitude: 11.13782
 postcode: "90482"
 city: Nürnberg
-street: "Laufamholzstraße"
-housenumber: 57
-phone: "+49 911 542652"
-opening_hours: "Mo-Fr 09:30-13:00,14:00-18:30; Sa 09:30-13:00"
-website: "https://www.foto-studio-schamberger.de/"
+street: Laufamholzstraße
+housenumber: "57"
+phone: +49 911 542652
+opening_hours: Mo-Fr 09:30-13:00,14:00-18:30; Sa 09:30-13:00
+website: https://www.foto-studio-schamberger.de/

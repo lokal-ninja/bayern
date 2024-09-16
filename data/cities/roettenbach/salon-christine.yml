@@ -1,11 +1,11 @@
 id: 48728808
-type: way
+type: node
 latitude: 49.66326
 longitude: 10.92702
 postcode: "91341"
 city: Röttenbach
-street: "Mühlbergstraße"
-housenumber: 29
+street: Mühlbergstraße
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

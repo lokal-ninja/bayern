@@ -1,11 +1,11 @@
 id: 122048061
-type: way
+type: node
 latitude: 47.84602
 longitude: 12.34937
 postcode: "83209"
 city: Prien am Chiemsee
-street: "Hochriesstraße"
-housenumber: 49
+street: Hochriesstraße
+housenumber: "49"
 phone: ""
-opening_hours: "Mo-Fr 06:30-17:00; Sa 08:00-12:00; Su off"
-website: "https://www.baywa.de/de/i/standorte/?location=576427f5-91ab-45ce-8b66-5884bbe18905"
+opening_hours: Mo-Fr 06:30-17:00; Sa 08:00-12:00; Su off
+website: https://www.baywa.de/de/i/standorte/?location=576427f5-91ab-45ce-8b66-5884bbe18905

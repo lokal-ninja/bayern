@@ -1,11 +1,11 @@
 id: 238885474
-type: way
+type: node
 latitude: 48.28907
 longitude: 10.45411
 postcode: "86470"
 city: Thannhausen
-street: "Edelstetter Straße"
-housenumber: 28
+street: Edelstetter Straße
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

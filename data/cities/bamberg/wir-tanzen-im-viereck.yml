@@ -4,8 +4,8 @@ latitude: 49.88971
 longitude: 10.88569
 postcode: "96049"
 city: Bamberg
-street: "Judenstraße"
-housenumber: 6
+street: Judenstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Tu,We,Fr 11:00-18:00; Sa 11:00-15:00"
+opening_hours: Tu,We,Fr 11:00-18:00; Sa 11:00-15:00
 website: ""

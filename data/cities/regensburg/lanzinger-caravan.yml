@@ -1,11 +1,11 @@
 id: 112973248
-type: way
+type: node
 latitude: 49.02895
 longitude: 12.11912
 postcode: "93059"
 city: Regensburg
-street: "Donaustaufer Straße"
-housenumber: 112
+street: Donaustaufer Straße
+housenumber: "112"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "http://www.lanzinger-caravan.de"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: http://www.lanzinger-caravan.de

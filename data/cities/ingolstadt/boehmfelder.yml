@@ -4,8 +4,8 @@ latitude: 48.76611
 longitude: 11.43919
 postcode: "85055"
 city: Ingolstadt
-street: "Frühlingstraße"
-housenumber: 35
-phone: "+49 841 3700991"
-opening_hours: "Mo-Th 08:00-18:00; Fr 07:00-18:00; Sa 07:00-18:00; PH closed; Su closed"
+street: Frühlingstraße
+housenumber: "35"
+phone: +49 841 3700991
+opening_hours: Mo-Th 08:00-18:00; Fr 07:00-18:00; Sa 07:00-18:00; PH closed; Su closed
 website: ""

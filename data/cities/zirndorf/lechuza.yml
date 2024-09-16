@@ -1,11 +1,11 @@
 id: 37757063
-type: way
+type: node
 latitude: 49.42889
 longitude: 10.9419
 postcode: "90513"
 city: Zirndorf
-street: "Brandstätterstraße"
+street: Brandstätterstraße
 housenumber: 2-10
-phone: "+49-911-9666-2660"
+phone: +49-911-9666-2660
 opening_hours: ""
-website: "https://www.lechuza.de/"
+website: https://www.lechuza.de/

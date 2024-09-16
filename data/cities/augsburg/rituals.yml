@@ -4,8 +4,8 @@ latitude: 48.36639
 longitude: 10.89501
 postcode: "86150"
 city: Augsburg
-street: "Bürgermeister-Fischer-Straße"
-housenumber: 11
+street: Bürgermeister-Fischer-Straße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.rituals.com/de-de/home"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.rituals.com/de-de/home

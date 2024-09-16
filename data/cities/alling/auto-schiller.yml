@@ -1,11 +1,11 @@
 id: 345615583
-type: way
+type: node
 latitude: 48.14227
 longitude: 11.30053
 postcode: "82239"
 city: Alling
-street: "Hoflacher Straße"
-housenumber: 9
+street: Hoflacher Straße
+housenumber: "9"
 phone: ""
 opening_hours: ""
-website: "https://autoschiller.de/"
+website: https://autoschiller.de/

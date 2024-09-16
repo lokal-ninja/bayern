@@ -1,11 +1,11 @@
 id: 30811137
-type: way
+type: node
 latitude: 49.91227
 longitude: 10.91214
 postcode: "96052"
 city: Bamberg
-street: "An der Breitenau"
-housenumber: 2
+street: An der Breitenau
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

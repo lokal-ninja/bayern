@@ -1,11 +1,11 @@
 id: 95256900
-type: way
+type: node
 latitude: 49.84811
 longitude: 10.48936
 postcode: "96157"
 city: Ebrach
-street: "Würzburger Straße"
-housenumber: 11
+street: Würzburger Straße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Th 08:00-16:00; Fr 08:00-12:00"
+opening_hours: Mo-Th 08:00-16:00; Fr 08:00-12:00
 website: ""

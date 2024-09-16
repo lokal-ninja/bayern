@@ -4,8 +4,8 @@ latitude: 49.01849
 longitude: 12.09388
 postcode: "93047"
 city: Regensburg
-street: "Rote-Hahnen-Gasse"
-housenumber: 7
-phone: "+49 941 59529 0"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-16:30"
-website: "https://fotohaus-zacharias.de/"
+street: Rote-Hahnen-Gasse
+housenumber: "7"
+phone: +49 941 59529 0
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-16:30
+website: https://fotohaus-zacharias.de/

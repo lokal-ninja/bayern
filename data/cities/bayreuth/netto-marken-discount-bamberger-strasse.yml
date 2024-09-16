@@ -1,11 +1,11 @@
 id: 42899799
-type: way
+type: node
 latitude: 49.93707
 longitude: 11.55339
 postcode: "95445"
 city: Bayreuth
-street: "Bamberger Straße"
-housenumber: 38
+street: Bamberger Straße
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.52906
 longitude: 11.50498
 postcode: "85276"
 city: Pfaffenhofen a.d. Ilm
-street: "Auenstraße"
-housenumber: 4
-phone: "+49 8441 71936"
-opening_hours: "Mo-Sa 09:00-13:00, Mo-Fr 14:00-18:00"
-website: "http://wortreich-pfaffenhofen.de"
+street: Auenstraße
+housenumber: "4"
+phone: +49 8441 71936
+opening_hours: Mo-Sa 09:00-13:00, Mo-Fr 14:00-18:00
+website: http://wortreich-pfaffenhofen.de

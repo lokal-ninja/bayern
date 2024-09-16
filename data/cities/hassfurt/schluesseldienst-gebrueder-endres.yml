@@ -4,8 +4,9 @@ latitude: 50.03139
 longitude: 10.50361
 postcode: "97437"
 city: Haßfurt
-street: "Hauptstraße"
-housenumber: 73
+street: Hauptstraße
+housenumber: "73"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:30,14:00-17:30; Tu 08:00-13:00,14:00-17:30; Sa 07:30-12:30; PH off"
+opening_hours: Mo-Fr 08:00-12:30,14:00-17:30; Tu 08:00-13:00,14:00-17:30; Sa 07:30-12:30;
+    PH off
 website: ""

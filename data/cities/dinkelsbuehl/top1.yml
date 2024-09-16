@@ -1,11 +1,11 @@
 id: 254145772
-type: way
+type: node
 latitude: 49.07062
 longitude: 10.32838
 postcode: "91550"
 city: Dinkelsbühl
-street: "Von-Raumer-Straße"
-housenumber: 15
-phone: "+49 9851 554682"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-15:00"
-website: "https://www.hauf-bier.de/top-1-getraumlnke-drive.html"
+street: Von-Raumer-Straße
+housenumber: "15"
+phone: +49 9851 554682
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-15:00
+website: https://www.hauf-bier.de/top-1-getraumlnke-drive.html

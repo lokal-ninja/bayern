@@ -4,8 +4,8 @@ latitude: 49.58571
 longitude: 10.17544
 postcode: "97258"
 city: Ippesheim
-street: "Industriestraße"
-housenumber: 1
-phone: "+49 9339 98910"
-opening_hours: "24/7"
-website: "https://www.kempes-autohof.de/gollhofen"
+street: Industriestraße
+housenumber: "1"
+phone: +49 9339 98910
+opening_hours: 24/7
+website: https://www.kempes-autohof.de/gollhofen

@@ -4,8 +4,8 @@ latitude: 49.96602
 longitude: 11.44179
 postcode: "95488"
 city: Eckersdorf
-street: "Neustädtlein"
-housenumber: 44
+street: Neustädtlein
+housenumber: "44"
 phone: ""
-opening_hours: "Tu-Th 06:00-14:00; Fr 06:00-18:00; Sa 06:00-12:00"
-website: "https://www.dergenussbaecker.de/"
+opening_hours: Tu-Th 06:00-14:00; Fr 06:00-18:00; Sa 06:00-12:00
+website: https://www.dergenussbaecker.de/

@@ -1,11 +1,11 @@
 id: 330192477
-type: way
+type: node
 latitude: 48.43385
 longitude: 10.40692
 postcode: "89331"
 city: Burgau
-street: "Kapuzinerstraße"
-housenumber: 16
+street: Kapuzinerstraße
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

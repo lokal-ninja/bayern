@@ -4,8 +4,8 @@ latitude: 47.87649
 longitude: 11.7011
 postcode: "83607"
 city: Holzkirchen
-street: "Marktplatz"
-housenumber: 12
+street: Marktplatz
+housenumber: "12"
 phone: "+4980246467330"
-opening_hours: "Mo-Fr 12:00-18:00 S0 Sa on appointment"
-website: "https://www.tintenherzl.de"
+opening_hours: Mo-Fr 12:00-18:00 S0 Sa "on appointment"
+website: https://www.tintenherzl.de

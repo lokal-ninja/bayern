@@ -4,8 +4,8 @@ latitude: 48.39716
 longitude: 10.85573
 postcode: "86156"
 city: Augsburg
-street: "Zaunkönigweg"
-housenumber: 7
+street: Zaunkönigweg
+housenumber: "7"
 phone: "+4982134321366"
 opening_hours: ""
-website: "https://www.weindotcom.de/"
+website: https://www.weindotcom.de/

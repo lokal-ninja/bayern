@@ -4,8 +4,8 @@ latitude: 49.60316
 longitude: 11.00415
 postcode: "91054"
 city: Erlangen
-street: "Hauptstraße"
-housenumber: 118
-phone: "+49 9131 9077226"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 10:00-14:30"
-website: "https://www.velocita.de/"
+street: Hauptstraße
+housenumber: "118"
+phone: +49 9131 9077226
+opening_hours: Mo-Fr 09:30-18:30; Sa 10:00-14:30
+website: https://www.velocita.de/

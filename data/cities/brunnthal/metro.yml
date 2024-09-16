@@ -1,11 +1,11 @@
 id: 24150351
-type: way
+type: node
 latitude: 48.03921
 longitude: 11.65705
 postcode: "85649"
 city: Brunnthal
-street: "Zusestraße"
-housenumber: 6
-phone: "+49 89 242079 0"
-opening_hours: "Mo-Fr 07:00-22:00; Sa 07:00-20:00"
-website: "https://www.metro.de/standorte/brunnthal"
+street: Zusestraße
+housenumber: "6"
+phone: +49 89 242079 0
+opening_hours: Mo-Fr 07:00-22:00; Sa 07:00-20:00
+website: https://www.metro.de/standorte/brunnthal

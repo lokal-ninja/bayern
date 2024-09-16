@@ -1,11 +1,11 @@
 id: 285386595
-type: way
+type: node
 latitude: 48.25465
 longitude: 12.54319
 postcode: "84453"
 city: Mühldorf am Inn
-street: "Leisederstraße"
-housenumber: 1
-phone: "+49 8631 98800"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 09:00-13:00"
-website: "https://www.bmw-vogl.de/"
+street: Leisederstraße
+housenumber: "1"
+phone: +49 8631 98800
+opening_hours: Mo-Fr 07:30-18:00; Sa 09:00-13:00
+website: https://www.bmw-vogl.de/

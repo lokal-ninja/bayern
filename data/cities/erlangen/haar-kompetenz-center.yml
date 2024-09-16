@@ -4,8 +4,8 @@ latitude: 49.55255
 longitude: 11.02211
 postcode: "91058"
 city: Erlangen
-street: "Lachnerstraße"
-housenumber: 45
+street: Lachnerstraße
+housenumber: "45"
 phone: ""
-opening_hours: "Mo-Fr 08:30-17:00"
-website: "https://www.haar-kompetenz-center.de/"
+opening_hours: Mo-Fr 08:30-17:00
+website: https://www.haar-kompetenz-center.de/

@@ -1,11 +1,11 @@
 id: 357830469
-type: way
+type: node
 latitude: 49.91275
 longitude: 9.9991
 postcode: "97262"
 city: Hausen bei Würzburg
-street: "Am Wiesenweg"
-housenumber: 11
+street: Am Wiesenweg
+housenumber: "11"
 phone: ""
 opening_hours: ""
-website: "https://www.24-autohof.de/autohof/gramschatzer-wald"
+website: https://www.24-autohof.de/autohof/gramschatzer-wald

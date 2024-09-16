@@ -1,11 +1,11 @@
 id: 461839389
-type: way
+type: node
 latitude: 50.31104
 longitude: 10.97839
 postcode: "96486"
 city: Lautertal
-street: "Frankenstraße"
-housenumber: 42
+street: Frankenstraße
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Th 07:00-13:00; Fr 07:00-13:00,14:30-18:00; Sa 07:00-12:00"
+opening_hours: Mo-Th 07:00-13:00; Fr 07:00-13:00,14:30-18:00; Sa 07:00-12:00
 website: ""

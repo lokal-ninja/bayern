@@ -1,11 +1,11 @@
 id: 24685211
-type: way
+type: node
 latitude: 48.46633
 longitude: 11.14355
 postcode: "86551"
 city: Aichach
-street: "Schrobenhausener Straße"
-housenumber: 46
+street: Schrobenhausener Straße
+housenumber: "46"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; Sa,PH off"
-website: "http://www.rieger-ludwig.de/"
+opening_hours: Mo-Fr 08:00-17:00; Sa,PH off
+website: http://www.rieger-ludwig.de/

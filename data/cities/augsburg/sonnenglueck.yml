@@ -1,11 +1,11 @@
 id: 1292796540
-type: way
+type: node
 latitude: 48.35864
 longitude: 10.87655
 postcode: "86159"
 city: Augsburg
-street: "Stadionstraße"
-housenumber: 11
+street: Stadionstraße
+housenumber: "11"
 phone: ""
-opening_hours: "10:00-22:00"
+opening_hours: 10:00-22:00
 website: ""

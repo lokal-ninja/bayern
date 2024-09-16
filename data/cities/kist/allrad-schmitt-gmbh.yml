@@ -1,11 +1,11 @@
 id: 930917638
-type: way
+type: node
 latitude: 49.73835
 longitude: 9.84022
 postcode: "97270"
 city: Kist
-street: "Sonnleite"
-housenumber: 8
+street: Sonnleite
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

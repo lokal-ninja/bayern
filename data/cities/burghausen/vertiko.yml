@@ -1,11 +1,11 @@
 id: 123193023
-type: way
+type: node
 latitude: 48.15472
 longitude: 12.82591
 postcode: "84489"
 city: Burghausen
-street: "Mautnerstraße"
-housenumber: 238
-phone: "+49 8677 63494"
+street: Mautnerstraße
+housenumber: "238"
+phone: +49 8677 63494
 opening_hours: ""
-website: "http://www.trauring-beratung.de/"
+website: http://www.trauring-beratung.de/

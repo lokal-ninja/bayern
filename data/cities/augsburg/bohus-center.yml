@@ -1,11 +1,11 @@
 id: 91054260
-type: way
+type: node
 latitude: 48.36485
 longitude: 10.88763
 postcode: "86150"
 city: Augsburg
-street: "Halderstraße"
-housenumber: 29
+street: Halderstraße
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

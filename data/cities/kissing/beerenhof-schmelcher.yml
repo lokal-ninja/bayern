@@ -5,7 +5,7 @@ longitude: 10.98485
 postcode: "86438"
 city: Kissing
 street: ""
-housenumber: 1
-phone: "+49 8233 8135"
+housenumber: "1"
+phone: +49 8233 8135
 opening_hours: ""
-website: "https://www.beerenhof-schmelcher-kissing.de/"
+website: https://www.beerenhof-schmelcher-kissing.de/

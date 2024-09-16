@@ -1,11 +1,11 @@
 id: 250855669
-type: way
+type: node
 latitude: 49.82377
 longitude: 9.40759
 postcode: "97901"
 city: Altenbuch
-street: "Hauptstraße"
-housenumber: 57
+street: Hauptstraße
+housenumber: "57"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 203142884
-type: way
+type: node
 latitude: 48.25059
 longitude: 10.35819
 postcode: "86381"
 city: Krumbach (Schwaben)
-street: "Bahnhofstraße"
-housenumber: 94
+street: Bahnhofstraße
+housenumber: "94"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

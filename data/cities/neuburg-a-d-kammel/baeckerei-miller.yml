@@ -1,11 +1,11 @@
 id: 389501106
-type: way
+type: node
 latitude: 48.29642
 longitude: 10.39498
 postcode: "86476"
 city: Neuburg a.d.Kammel
-street: "Attenhauser Straße"
-housenumber: 2
+street: Attenhauser Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

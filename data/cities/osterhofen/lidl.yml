@@ -1,11 +1,11 @@
 id: 167529492
-type: way
+type: node
 latitude: 48.70725
 longitude: 13.00922
 postcode: "94486"
 city: Osterhofen
-street: "Blumenstraße"
-housenumber: 4
+street: Blumenstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

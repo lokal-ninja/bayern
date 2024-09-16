@@ -4,8 +4,8 @@ latitude: 48.30804
 longitude: 11.8908
 postcode: "85435"
 city: Erding
-street: "Anton-Huber-Straße"
-housenumber: 1
-phone: "+49 8122 559380"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://www.tkmaxx.de/"
+street: Anton-Huber-Straße
+housenumber: "1"
+phone: +49 8122 559380
+opening_hours: Mo-Sa 09:30-20:00
+website: https://www.tkmaxx.de/

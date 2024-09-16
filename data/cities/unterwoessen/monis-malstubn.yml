@@ -1,11 +1,11 @@
 id: 133318449
-type: way
+type: node
 latitude: 47.71228
 longitude: 12.48614
 postcode: "83246"
 city: Unterwössen
-street: "Hammerergraben"
-housenumber: 29
+street: Hammerergraben
+housenumber: "29"
 phone: ""
 opening_hours: ""
-website: "https://art-monistein.de/"
+website: https://art-monistein.de/

@@ -1,11 +1,11 @@
 id: 29346005
-type: way
+type: node
 latitude: 49.36151
 longitude: 11.25032
 postcode: "90592"
 city: Schwarzenbruck
-street: "Bahnhofstraße"
-housenumber: 2
+street: Bahnhofstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-17:00"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-17:00
 website: ""

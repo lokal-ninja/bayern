@@ -4,8 +4,8 @@ latitude: 49.7856
 longitude: 9.17074
 postcode: "63939"
 city: Wörth am Main
-street: "Dr.-Konrad-Wiegand-Straße"
-housenumber: 10
-phone: "+49 9372 72417"
+street: Dr.-Konrad-Wiegand-Straße
+housenumber: "10"
+phone: +49 9372 72417
 opening_hours: ""
-website: "https://www.autobayram.de/home"
+website: https://www.autobayram.de/home

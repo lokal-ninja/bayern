@@ -4,8 +4,8 @@ latitude: 48.40578
 longitude: 11.98647
 postcode: "85456"
 city: Wartenberg
-street: "Strogenstraße"
-housenumber: 41
+street: Strogenstraße
+housenumber: "41"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.kik.de/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.kik.de/

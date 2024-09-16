@@ -1,11 +1,11 @@
 id: 125607332
-type: way
+type: node
 latitude: 49.88343
 longitude: 12.326
 postcode: "95643"
 city: Tirschenreuth
-street: "Mitterteicher Straße"
-housenumber: 24
-phone: "+49 9631 603 0"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-16:00; PH off"
-website: "https://www.stabilo-fachmarkt.de/baumaerkte/tirschenreuth/"
+street: Mitterteicher Straße
+housenumber: "24"
+phone: +49 9631 603 0
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-16:00; PH off
+website: https://www.stabilo-fachmarkt.de/baumaerkte/tirschenreuth/

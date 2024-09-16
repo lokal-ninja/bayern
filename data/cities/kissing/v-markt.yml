@@ -1,11 +1,11 @@
 id: 149226443
-type: way
+type: node
 latitude: 48.30478
 longitude: 10.96144
 postcode: "86438"
 city: Kissing
-street: "Grünzweigstraße"
-housenumber: 1
-phone: "+49 8233 795790"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 07:30-20:00; PH off"
-website: "https://www.v-markt.de/so/v-markt-kissing/56"
+street: Grünzweigstraße
+housenumber: "1"
+phone: +49 8233 795790
+opening_hours: Mo-Fr 08:00-20:00; Sa 07:30-20:00; PH off
+website: https://www.v-markt.de/so/v-markt-kissing/56

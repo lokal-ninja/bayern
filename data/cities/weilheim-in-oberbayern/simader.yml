@@ -4,8 +4,9 @@ latitude: 47.83974
 longitude: 11.14149
 postcode: "82362"
 city: Weilheim in Oberbayern
-street: "Marienplatz"
-housenumber: 18
-phone: "+49 881 3000"
-opening_hours: "Mo-We 09:00-18:00; Th 09:00-18:30; Fr 08:00-18:30; Sa 09:00-16:00; PH off"
-website: "https://www.derpart.com/reisebuerosimader"
+street: Marienplatz
+housenumber: "18"
+phone: +49 881 3000
+opening_hours: Mo-We 09:00-18:00; Th 09:00-18:30; Fr 08:00-18:30; Sa 09:00-16:00;
+    PH off
+website: https://www.derpart.com/reisebuerosimader

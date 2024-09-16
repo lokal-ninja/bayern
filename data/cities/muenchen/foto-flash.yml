@@ -4,8 +4,9 @@ latitude: 48.12488
 longitude: 11.5503
 postcode: "80337"
 city: München
-street: "Ruppertstraße"
-housenumber: 32
-phone: "+49 89 72016123"
-opening_hours: "Mo,We,Fr 08:00-13:00, Tu 08:30-13:00, Th 08:30-18:00, Mo,Tu 14:00-18:00, We 15:00-18:00; PH off"
+street: Ruppertstraße
+housenumber: "32"
+phone: +49 89 72016123
+opening_hours: Mo,We,Fr 08:00-13:00, Tu 08:30-13:00, Th 08:30-18:00, Mo,Tu 14:00-18:00,
+    We 15:00-18:00; PH off
 website: ""

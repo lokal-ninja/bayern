@@ -4,8 +4,8 @@ latitude: 48.13625
 longitude: 11.60818
 postcode: "81675"
 city: München
-street: "Einsteinstraße"
-housenumber: 123
-phone: "+49 89 4484619"
-opening_hours: "Mo-Fr 10:30-18:30; Sa 10:30-14:00"
-website: "https://www.folkladen.de/"
+street: Einsteinstraße
+housenumber: "123"
+phone: +49 89 4484619
+opening_hours: Mo-Fr 10:30-18:30; Sa 10:30-14:00
+website: https://www.folkladen.de/

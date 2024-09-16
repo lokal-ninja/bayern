@@ -1,11 +1,11 @@
 id: 72735529
-type: way
+type: node
 latitude: 48.08176
 longitude: 10.85987
 postcode: "86916"
 city: Kaufering
-street: "Viktor-Frankl-Straße"
-housenumber: 2
+street: Viktor-Frankl-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://filialen.aldi-sued.de/bayern/kaufering/viktor-frankl-strasse-2"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://filialen.aldi-sued.de/bayern/kaufering/viktor-frankl-strasse-2

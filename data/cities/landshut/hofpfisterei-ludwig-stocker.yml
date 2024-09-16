@@ -4,8 +4,8 @@ latitude: 48.53565
 longitude: 12.15101
 postcode: "84028"
 city: Landshut
-street: "Altstadt"
-housenumber: 75
-phone: "+49 871 26532"
-opening_hours: "Mo-Fr 07:45-18:30,Sa 07:45-15:00"
-website: "https://hofpfisterei.de/verkaufsstellen.php"
+street: Altstadt
+housenumber: "75"
+phone: +49 871 26532
+opening_hours: Mo-Fr 07:45-18:30,Sa 07:45-15:00
+website: https://hofpfisterei.de/verkaufsstellen.php

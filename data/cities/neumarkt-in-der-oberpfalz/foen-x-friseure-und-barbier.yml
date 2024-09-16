@@ -4,8 +4,9 @@ latitude: 49.28042
 longitude: 11.4594
 postcode: "92318"
 city: Neumarkt in der Oberpfalz
-street: "Klostergasse"
+street: Klostergasse
 housenumber: 4a
-phone: "+49 9181 2634029"
-opening_hours: "Tu 09:00-19:00; We 09:00-19:00; Th 09:00-19:00; Fr 09:00-19:00; Sa 09:00-18:00; Mo off"
-website: "https://xn--fn-x-friseure-imb.de/"
+phone: +49 9181 2634029
+opening_hours: Tu 09:00-19:00; We 09:00-19:00; Th 09:00-19:00; Fr 09:00-19:00; Sa
+    09:00-18:00; Mo off
+website: https://xn--fn-x-friseure-imb.de/

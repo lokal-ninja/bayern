@@ -1,11 +1,11 @@
 id: 52040155
-type: way
+type: node
 latitude: 49.34033
 longitude: 11.01921
 postcode: "91126"
 city: Schwabach
-street: "Berlichingenstraße"
-housenumber: 13
+street: Berlichingenstraße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

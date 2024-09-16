@@ -1,11 +1,11 @@
 id: 276543530
-type: way
+type: node
 latitude: 48.36471
 longitude: 10.95153
 postcode: "86316"
 city: Friedberg
-street: "Balthasar-Schaller-Straße"
-housenumber: 7
+street: Balthasar-Schaller-Straße
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "http://www.autohaus-stegmair.de/"
+website: http://www.autohaus-stegmair.de/

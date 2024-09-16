@@ -4,8 +4,8 @@ latitude: 50.04342
 longitude: 10.23238
 postcode: ""
 city: Schweinfurt
-street: "Spitalstraße"
-housenumber: 37
+street: Spitalstraße
+housenumber: "37"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:30; PH,Su off"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-16:30; PH,Su off
 website: ""

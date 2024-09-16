@@ -1,11 +1,11 @@
 id: 59698793
-type: way
+type: node
 latitude: 48.12134
 longitude: 11.51898
 postcode: "81377"
 city: München
-street: "Garmischer Straße"
-housenumber: 197
+street: Garmischer Straße
+housenumber: "197"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

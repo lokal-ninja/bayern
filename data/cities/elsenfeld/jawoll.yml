@@ -1,11 +1,11 @@
 id: 312645683
-type: way
+type: node
 latitude: 49.84111
 longitude: 9.15695
 postcode: "63820"
 city: Elsenfeld
-street: "Erlenbacher Straße"
-housenumber: 10
-phone: "+49 5191 98030"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:00"
-website: "https://www.jawoll.de/"
+street: Erlenbacher Straße
+housenumber: "10"
+phone: +49 5191 98030
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-17:00
+website: https://www.jawoll.de/

@@ -1,11 +1,11 @@
 id: 65985300
-type: way
+type: node
 latitude: 49.00245
 longitude: 12.17718
 postcode: "93055"
 city: Regensburg
-street: "Sulzfeldstraße"
-housenumber: 7
+street: Sulzfeldstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.ikea.com/de/de/store/regensburg"
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.ikea.com/de/de/store/regensburg

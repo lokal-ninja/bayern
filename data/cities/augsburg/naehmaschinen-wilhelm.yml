@@ -4,8 +4,8 @@ latitude: 48.38226
 longitude: 10.88027
 postcode: "86154"
 city: Augsburg
-street: "Donauwörther Straße"
-housenumber: 25
+street: Donauwörther Straße
+housenumber: "25"
 phone: ""
-opening_hours: "Tu-Fr 10:00-18:00; Sa 10:00-13:00; PH off"
-website: "https://www.naehmaschinen-wilhelm.de/"
+opening_hours: Tu-Fr 10:00-18:00; Sa 10:00-13:00; PH off
+website: https://www.naehmaschinen-wilhelm.de/

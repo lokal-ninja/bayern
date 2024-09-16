@@ -4,8 +4,8 @@ latitude: 48.36889
 longitude: 10.89702
 postcode: "86150"
 city: Augsburg
-street: "Unter dem Bogen"
-housenumber: 2
+street: Unter dem Bogen
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 12:00-19:00; Sa 11:00-20:00"
-website: "https://www.regardezvintage.de/vintage-laden-in-augsburg/"
+opening_hours: Mo-Fr 12:00-19:00; Sa 11:00-20:00
+website: https://www.regardezvintage.de/vintage-laden-in-augsburg/

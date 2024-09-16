@@ -4,8 +4,8 @@ latitude: 49.43516
 longitude: 10.95921
 postcode: "90513"
 city: Zirndorf
-street: "Rothenburger Straße"
-housenumber: 20
+street: Rothenburger Straße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.futterhaus.de/"
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.futterhaus.de/

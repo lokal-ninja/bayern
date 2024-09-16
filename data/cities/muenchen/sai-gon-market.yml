@@ -4,8 +4,8 @@ latitude: 48.15342
 longitude: 11.53582
 postcode: "80634"
 city: München
-street: "Leonrodstraße"
-housenumber: 16
-phone: "+49 89 133404"
-opening_hours: "Mo-Fr 09:30-20:00"
-website: "https://saigonmarket.de/"
+street: Leonrodstraße
+housenumber: "16"
+phone: +49 89 133404
+opening_hours: Mo-Fr 09:30-20:00
+website: https://saigonmarket.de/

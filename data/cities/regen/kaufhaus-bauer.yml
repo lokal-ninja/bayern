@@ -1,11 +1,11 @@
 id: 157329309
-type: way
+type: node
 latitude: 48.97187
 longitude: 13.13548
 postcode: "94209"
 city: Regen
-street: "Zwieseler Straße"
-housenumber: 23
+street: Zwieseler Straße
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

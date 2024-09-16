@@ -4,8 +4,8 @@ latitude: 49.78874
 longitude: 9.93057
 postcode: "97070"
 city: Würzburg
-street: "Sanderstraße"
-housenumber: 10
-phone: "+49 931 14300"
-opening_hours: "Mo-Fr 08:30-18:00; PH,Sa,Su off"
-website: "https://www.copyshop-wuerzburg.de/"
+street: Sanderstraße
+housenumber: "10"
+phone: +49 931 14300
+opening_hours: Mo-Fr 08:30-18:00; PH,Sa,Su off
+website: https://www.copyshop-wuerzburg.de/

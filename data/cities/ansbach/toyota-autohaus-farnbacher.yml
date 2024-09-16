@@ -1,11 +1,11 @@
 id: 377051151
-type: way
+type: node
 latitude: 49.2937
 longitude: 10.60305
 postcode: "91522"
 city: Ansbach
-street: "Windsbacher Straße"
-housenumber: 22
+street: Windsbacher Straße
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

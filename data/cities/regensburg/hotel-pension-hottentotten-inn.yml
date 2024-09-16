@@ -1,11 +1,11 @@
 id: 110999140
-type: way
+type: node
 latitude: 49.01678
 longitude: 12.1228
 postcode: "93055"
 city: Regensburg
-street: "Auweg"
+street: Auweg
 housenumber: 1a
-phone: "+49 941 690999 99"
+phone: +49 941 690999 99
 opening_hours: ""
-website: "http://www.hotel-hottentotten.de/"
+website: http://www.hotel-hottentotten.de/

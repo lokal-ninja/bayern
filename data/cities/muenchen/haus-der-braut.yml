@@ -4,8 +4,8 @@ latitude: 48.15284
 longitude: 11.50835
 postcode: "80639"
 city: München
-street: "Hirschgartenallee"
-housenumber: 26
+street: Hirschgartenallee
+housenumber: "26"
 phone: ""
-opening_hours: "Nach Vereinbarung: https://www.hausderbraut.de/termin-in-m%C3%BCnchen"
+opening_hours: '"Nach Vereinbarung: https://www.hausderbraut.de/termin-in-m%C3%BCnchen"'
 website: ""

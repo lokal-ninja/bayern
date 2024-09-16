@@ -4,8 +4,8 @@ latitude: 48.40166
 longitude: 10.0166
 postcode: "89231"
 city: Neu-Ulm
-street: "Schubertstraße"
-housenumber: 11
-phone: "+49 731 / 7054355"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-19:00; Sa 09:00-15:00"
+street: Schubertstraße
+housenumber: "11"
+phone: +49 731 / 7054355
+opening_hours: Mo-Fr 09:00-12:00,14:00-19:00; Sa 09:00-15:00
 website: ""

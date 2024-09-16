@@ -1,11 +1,11 @@
 id: 103434076
-type: way
+type: node
 latitude: 48.75407
 longitude: 11.43999
 postcode: "85053"
 city: Ingolstadt
-street: "Feselenstraße"
+street: Feselenstraße
 housenumber: 1a
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00; PH,Su off"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-16:00; PH,Su off
 website: ""

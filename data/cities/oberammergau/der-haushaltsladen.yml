@@ -4,8 +4,8 @@ latitude: 47.59917
 longitude: 11.0639
 postcode: "82487"
 city: Oberammergau
-street: "Theaterstraße"
-housenumber: 5
-phone: "+49 8822 935300"
-opening_hours: "Mo-Fr 10:00-12:00,14:30-18:00; Sa 10:00-12:30"
-website: "https://www.ammergauer-alpen.de/oberammergau/Media/Attraktionen/Der-Haushaltsladen-Oberammergau"
+street: Theaterstraße
+housenumber: "5"
+phone: +49 8822 935300
+opening_hours: Mo-Fr 10:00-12:00,14:30-18:00; Sa 10:00-12:30
+website: https://www.ammergauer-alpen.de/oberammergau/Media/Attraktionen/Der-Haushaltsladen-Oberammergau

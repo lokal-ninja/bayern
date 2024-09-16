@@ -1,11 +1,11 @@
 id: 198947313
-type: way
+type: node
 latitude: 48.57501
 longitude: 10.44969
 postcode: "89415"
 city: Lauingen (Donau)
-street: "Werner-von-Siemens-Straße"
-housenumber: 10
+street: Werner-von-Siemens-Straße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://filialen.aldi-sued.de/bayern/lauingen/werner-von-siemens-str-10"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://filialen.aldi-sued.de/bayern/lauingen/werner-von-siemens-str-10

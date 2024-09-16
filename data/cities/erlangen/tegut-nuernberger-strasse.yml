@@ -1,11 +1,11 @@
 id: 228343660
-type: way
+type: node
 latitude: 49.5923
 longitude: 11.00472
 postcode: "91052"
 city: Erlangen
-street: "Nürnberger Straße"
-housenumber: 7
-phone: "+49 9131 4000695"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.tegut.com/"
+street: Nürnberger Straße
+housenumber: "7"
+phone: +49 9131 4000695
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.tegut.com/

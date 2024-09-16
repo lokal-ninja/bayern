@@ -4,8 +4,8 @@ latitude: 50.10768
 longitude: 11.45495
 postcode: "95326"
 city: Kulmbach
-street: "Holzmarkt"
-housenumber: 11
-phone: "+49 9221 827862"
-opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-14:00; Su,PH off"
-website: "https://www.xn--bckerei-schleicher-ltb.de/filialen/kulmbach-holzmarkt/"
+street: Holzmarkt
+housenumber: "11"
+phone: +49 9221 827862
+opening_hours: Mo-Fr 06:30-18:00; Sa 06:30-14:00; Su,PH off
+website: https://www.xn--bckerei-schleicher-ltb.de/filialen/kulmbach-holzmarkt/

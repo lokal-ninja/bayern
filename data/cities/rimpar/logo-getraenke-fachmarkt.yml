@@ -1,11 +1,11 @@
 id: 977881124
-type: way
+type: node
 latitude: 49.86059
 longitude: 9.96653
 postcode: "97222"
 city: Rimpar
-street: "Burggrumbacher Straße"
-housenumber: 1
+street: Burggrumbacher Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.logo-getraenke.de/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.logo-getraenke.de/

@@ -1,11 +1,11 @@
 id: 237804993
-type: way
+type: node
 latitude: 49.1206
 longitude: 10.76273
 postcode: "91710"
 city: Gunzenhausen
-street: "Nürnberger Straße"
-housenumber: 58
+street: Nürnberger Straße
+housenumber: "58"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://filialen.aldi-sued.de/bayern/gunzenhausen/nuernberger-strasse-58"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://filialen.aldi-sued.de/bayern/gunzenhausen/nuernberger-strasse-58

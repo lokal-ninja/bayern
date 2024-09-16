@@ -1,11 +1,11 @@
 id: 337375862
-type: way
+type: node
 latitude: 47.80079
 longitude: 11.80806
 postcode: "83714"
 city: Miesbach
-street: "Oberlinner"
-housenumber: 60
-phone: "+49 8025 995754"
-opening_hours: "Mo-Su 06:00-21:00"
-website: "https://www.biohof-oberlinner.de/hofladen-oberlinner/"
+street: Oberlinner
+housenumber: "60"
+phone: +49 8025 995754
+opening_hours: Mo-Su 06:00-21:00
+website: https://www.biohof-oberlinner.de/hofladen-oberlinner/

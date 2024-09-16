@@ -4,8 +4,8 @@ latitude: 49.45782
 longitude: 11.12474
 postcode: "90482"
 city: Nürnberg
-street: "Ostendstraße"
-housenumber: 173
-phone: "+49 911 543505"
-opening_hours: "Tu-Fr 11:00-16:00; PH,Su 13:00-16:00; Sa 08:00-13:00; Mo off"
-website: "https://www.konditorei-peter.de/"
+street: Ostendstraße
+housenumber: "173"
+phone: +49 911 543505
+opening_hours: Tu-Fr 11:00-16:00; PH,Su 13:00-16:00; Sa 08:00-13:00; Mo off
+website: https://www.konditorei-peter.de/

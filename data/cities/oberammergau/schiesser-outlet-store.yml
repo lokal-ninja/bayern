@@ -4,8 +4,8 @@ latitude: 47.59828
 longitude: 11.06462
 postcode: "82487"
 city: Oberammergau
-street: "Dorfstraße"
-housenumber: 21
-phone: "+49 88229359865"
-opening_hours: "Mo-Fr 10:00-17:00; Sa 10:00-16:00"
-website: "https://www.schiesser.com"
+street: Dorfstraße
+housenumber: "21"
+phone: +49 88229359865
+opening_hours: Mo-Fr 10:00-17:00; Sa 10:00-16:00
+website: https://www.schiesser.com

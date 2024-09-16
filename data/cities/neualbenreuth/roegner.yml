@@ -1,11 +1,11 @@
 id: 585935653
-type: way
+type: node
 latitude: 49.97944
 longitude: 12.43936
 postcode: "95698"
 city: Neualbenreuth
-street: "Am Kirchberg"
-housenumber: 3
+street: Am Kirchberg
+housenumber: "3"
 phone: ""
-opening_hours: "Tu,We 09:00-13:00; Th,Fr 09:00-17:00"
+opening_hours: Tu,We 09:00-13:00; Th,Fr 09:00-17:00
 website: ""

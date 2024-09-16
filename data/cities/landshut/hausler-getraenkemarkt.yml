@@ -1,11 +1,11 @@
 id: 155191336
-type: way
+type: node
 latitude: 48.52759
 longitude: 12.13936
 postcode: "84036"
 city: Landshut
-street: "Äußere Münchener Straße"
-housenumber: 80
-phone: "+49 871 44116"
-opening_hours: "Mo-Fr 08:00-14:00; Sa 08:00-14:00; PH off"
-website: "https://www.hausler-getraenke.de/"
+street: Äußere Münchener Straße
+housenumber: "80"
+phone: +49 871 44116
+opening_hours: Mo-Fr 08:00-14:00; Sa 08:00-14:00; PH off
+website: https://www.hausler-getraenke.de/

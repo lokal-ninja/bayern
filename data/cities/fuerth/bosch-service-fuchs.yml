@@ -4,8 +4,8 @@ latitude: 49.44652
 longitude: 10.99478
 postcode: "90763"
 city: Fürth
-street: "Georg-Benda-Straße"
-housenumber: 7
-phone: "+49-911-7849081"
-opening_hours: "Mo-Th 07:45-17:00; Fr 07:45-16:00"
-website: "https://www.boschcarservice.com/de/de/werkstatt/fuchs-fuerth"
+street: Georg-Benda-Straße
+housenumber: "7"
+phone: +49-911-7849081
+opening_hours: Mo-Th 07:45-17:00; Fr 07:45-16:00
+website: https://www.boschcarservice.com/de/de/werkstatt/fuchs-fuerth

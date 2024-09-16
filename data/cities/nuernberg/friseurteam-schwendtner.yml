@@ -4,8 +4,8 @@ latitude: 49.46361
 longitude: 11.0824
 postcode: "90409"
 city: Nürnberg
-street: "Goethestraße"
-housenumber: 1
-phone: "+49 911 35 37 47"
-opening_hours: "Tu-Fr 08:30-18:00; Sa 08:00-14:00; Mo off"
-website: "http://friseurteam-schwendtner.de/"
+street: Goethestraße
+housenumber: "1"
+phone: +49 911 35 37 47
+opening_hours: Tu-Fr 08:30-18:00; Sa 08:00-14:00; Mo off
+website: http://friseurteam-schwendtner.de/

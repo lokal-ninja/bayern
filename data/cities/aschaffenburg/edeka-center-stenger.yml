@@ -1,11 +1,11 @@
 id: 24662323
-type: way
+type: node
 latitude: 49.96213
 longitude: 9.17526
 postcode: "63743"
 city: Aschaffenburg
-street: "Würzburger Straße"
-housenumber: 188
-phone: "+49 6021 371 041"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://edeka-stenger.de/maerkte/aschaffenburg-wuerzburger-str-188"
+street: Würzburger Straße
+housenumber: "188"
+phone: +49 6021 371 041
+opening_hours: Mo-Sa 08:00-20:00
+website: https://edeka-stenger.de/maerkte/aschaffenburg-wuerzburger-str-188

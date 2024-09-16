@@ -4,8 +4,8 @@ latitude: 48.18277
 longitude: 10.75783
 postcode: "86830"
 city: Schwabmünchen
-street: "Fuggerstraße"
-housenumber: 38
-phone: "+49 8232 4647"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
-website: "https://www.flamingo-reinigung.de"
+street: Fuggerstraße
+housenumber: "38"
+phone: +49 8232 4647
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00
+website: https://www.flamingo-reinigung.de

@@ -4,8 +4,8 @@ latitude: 48.17175
 longitude: 11.65776
 postcode: "81929"
 city: München
-street: "Am Schwarzfeld"
-housenumber: 16
+street: Am Schwarzfeld
+housenumber: "16"
 phone: ""
-opening_hours: "Tu 09:00-12:00; Th 17:00-19:00, Fr 14:00-18:00, Sa 09:00-12:00"
-website: "http://www.wiesheu-hof.de"
+opening_hours: Tu 09:00-12:00; Th 17:00-19:00, Fr 14:00-18:00, Sa 09:00-12:00
+website: http://www.wiesheu-hof.de

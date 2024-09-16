@@ -4,8 +4,9 @@ latitude: 48.33897
 longitude: 10.87489
 postcode: "86199"
 city: Augsburg
-street: "Merowingerstraße"
-housenumber: 9
-phone: "+49 821 99 22 78"
-opening_hours: "Mo,Sa 07:00-12:00; Tu-Th 07:00-12:30,14:30-18:00; Fr 07:00-18:00; PH off"
+street: Merowingerstraße
+housenumber: "9"
+phone: +49 821 99 22 78
+opening_hours: Mo,Sa 07:00-12:00; Tu-Th 07:00-12:30,14:30-18:00; Fr 07:00-18:00; PH
+    off
 website: ""

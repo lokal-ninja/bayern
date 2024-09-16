@@ -1,11 +1,11 @@
 id: 121541587
-type: way
+type: node
 latitude: 48.39935
 longitude: 10.01974
 postcode: "89231"
 city: Neu-Ulm
-street: "Schwabenstraße"
-housenumber: 60
+street: Schwabenstraße
+housenumber: "60"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:30, 14:00-19:00; Sa 08:00-14:00"
-website: "https://www.finkbeiner.biz/"
+opening_hours: Mo-Fr 09:00-12:30, 14:00-19:00; Sa 08:00-14:00
+website: https://www.finkbeiner.biz/

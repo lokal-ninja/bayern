@@ -4,8 +4,8 @@ latitude: 49.71965
 longitude: 11.05983
 postcode: "91301"
 city: Forchheim
-street: "Apothekenstraße"
-housenumber: 11
+street: Apothekenstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Tu-Fr 10:00-18:00; Sa 10:00-14:00"
+opening_hours: Tu-Fr 10:00-18:00; Sa 10:00-14:00
 website: ""

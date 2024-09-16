@@ -1,11 +1,11 @@
 id: 223054419
-type: way
+type: node
 latitude: 50.16516
 longitude: 12.13675
 postcode: "95100"
 city: Selb
-street: "Hohenberger Straße"
-housenumber: 49
+street: Hohenberger Straße
+housenumber: "49"
 phone: ""
 opening_hours: ""
 website: ""

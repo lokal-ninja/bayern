@@ -4,8 +4,8 @@ latitude: 47.86502
 longitude: 12.0098
 postcode: "83043"
 city: Bad Aibling
-street: "Färbergasse"
-housenumber: 6
-phone: "+49 8061 5088"
-opening_hours: "Mo-Fr 09:00-12:30,14:00-18:00;Sa 09:30-13:00;PH off"
-website: "https://www.optik-parzinger.de/"
+street: Färbergasse
+housenumber: "6"
+phone: +49 8061 5088
+opening_hours: Mo-Fr 09:00-12:30,14:00-18:00;Sa 09:30-13:00;PH off
+website: https://www.optik-parzinger.de/

@@ -4,8 +4,8 @@ latitude: 48.1484
 longitude: 11.53243
 postcode: "80634"
 city: München
-street: "Hirschbergstraße"
-housenumber: 19
+street: Hirschbergstraße
+housenumber: "19"
 phone: ""
-opening_hours: "Tu-Su 08:00-12:00,14:00-18:00; Sa 09:00-12:00"
+opening_hours: Tu-Su 08:00-12:00,14:00-18:00; Sa 09:00-12:00
 website: ""

@@ -1,11 +1,11 @@
 id: 110514304
-type: way
+type: node
 latitude: 49.84987
 longitude: 9.96653
 postcode: "97222"
 city: Rimpar
-street: "Engelbert-Kraus-Straße"
-housenumber: 4
+street: Engelbert-Kraus-Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

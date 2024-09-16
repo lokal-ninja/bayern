@@ -4,8 +4,8 @@ latitude: 48.8759
 longitude: 12.57393
 postcode: "94315"
 city: Straubing
-street: "Hebbelstraße"
-housenumber: 6
-phone: "+49 9421 520474"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.klier.de/salons/details/kaufland92"
+street: Hebbelstraße
+housenumber: "6"
+phone: +49 9421 520474
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.klier.de/salons/details/kaufland92

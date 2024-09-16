@@ -4,8 +4,9 @@ latitude: 48.25332
 longitude: 12.08155
 postcode: "84435"
 city: Lengdorf-Kopfsburg
-street: "Hofmarkstraße"
-housenumber: 16
+street: Hofmarkstraße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo,We-Th 07:30-11:30,12:30-17:30; Fr 07:30-11:30,12:30-16:00; PH,Sa-Su closed; Tu 07:30-11:30,12:30-17:00"
-website: "https://www.waxenberger-kfz.de/"
+opening_hours: Mo,We-Th 07:30-11:30,12:30-17:30; Fr 07:30-11:30,12:30-16:00; PH,Sa-Su
+    closed; Tu 07:30-11:30,12:30-17:00
+website: https://www.waxenberger-kfz.de/

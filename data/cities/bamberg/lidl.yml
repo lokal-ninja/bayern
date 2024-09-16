@@ -1,11 +1,11 @@
 id: 30833343
-type: way
+type: node
 latitude: 49.90887
 longitude: 10.90114
 postcode: "96052"
 city: Bamberg
-street: "Villachstraße"
-housenumber: 2
+street: Villachstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH,Su off"
+opening_hours: Mo-Sa 07:00-20:00; PH,Su off
 website: ""

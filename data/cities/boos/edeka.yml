@@ -1,11 +1,11 @@
 id: 252236403
-type: way
+type: node
 latitude: 48.07686
 longitude: 10.19591
 postcode: "87737"
 city: Boos
-street: "An der Molkereischule"
-housenumber: 1
+street: An der Molkereischule
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

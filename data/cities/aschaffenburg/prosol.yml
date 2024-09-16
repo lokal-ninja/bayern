@@ -1,11 +1,11 @@
 id: 124180625
-type: way
+type: node
 latitude: 49.98313
 longitude: 9.14721
 postcode: "63741"
 city: Aschaffenburg
-street: "Schneidmühlweg"
-housenumber: 12
+street: Schneidmühlweg
+housenumber: "12"
 phone: ""
 opening_hours: ""
-website: "https://www.prosol-farben.de/"
+website: https://www.prosol-farben.de/

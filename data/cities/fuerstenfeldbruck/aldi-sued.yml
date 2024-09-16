@@ -1,11 +1,11 @@
 id: 15967583
-type: way
+type: node
 latitude: 48.19282
 longitude: 11.25589
 postcode: "82256"
 city: Fürstenfeldbruck
-street: "Maisacher Straße"
-housenumber: 123
+street: Maisacher Straße
+housenumber: "123"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://filialen.aldi-sued.de/bayern/fuerstenfeldbruck/maisacher-strasse-123"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://filialen.aldi-sued.de/bayern/fuerstenfeldbruck/maisacher-strasse-123

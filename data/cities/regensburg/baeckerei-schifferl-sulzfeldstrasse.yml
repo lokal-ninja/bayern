@@ -4,8 +4,8 @@ latitude: 49.00207
 longitude: 12.17545
 postcode: "93055"
 city: Regensburg
-street: "Sulzfeldstraße"
-housenumber: 3
-phone: "+49 941 78039912"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.baeckerei-schifferl.de/"
+street: Sulzfeldstraße
+housenumber: "3"
+phone: +49 941 78039912
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.baeckerei-schifferl.de/

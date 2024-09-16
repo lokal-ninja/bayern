@@ -4,8 +4,8 @@ latitude: 48.52782
 longitude: 11.5072
 postcode: "85276"
 city: Pfaffenhofen a.d. Ilm
-street: "Schulstraße"
-housenumber: 9
-phone: "+49 8441 7482"
-opening_hours: "Tu-Fr 09:00-18:30; Sa 08:00-15:00"
-website: "https://www.wein-weinzierl.de/"
+street: Schulstraße
+housenumber: "9"
+phone: +49 8441 7482
+opening_hours: Tu-Fr 09:00-18:30; Sa 08:00-15:00
+website: https://www.wein-weinzierl.de/

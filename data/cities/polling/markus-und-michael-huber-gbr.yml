@@ -1,11 +1,11 @@
 id: 1112584232
-type: way
+type: node
 latitude: 47.82069
 longitude: 11.13195
 postcode: "82398"
 city: Polling
-street: "Tiefenbachring"
-housenumber: 11
+street: Tiefenbachring
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

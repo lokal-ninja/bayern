@@ -4,8 +4,8 @@ latitude: 48.35933
 longitude: 10.88927
 postcode: "86159"
 city: Augsburg
-street: "Gögginger Straße"
-housenumber: 9
-phone: "+49 821 907 26 900"
-opening_hours: "Mo,Tu,Th 13:00-18:00; We 13:00-17:00; Fr,Sa,Su,PH off"
-website: "https://repsepp.de/"
+street: Gögginger Straße
+housenumber: "9"
+phone: +49 821 907 26 900
+opening_hours: Mo,Tu,Th 13:00-18:00; We 13:00-17:00; Fr,Sa,Su,PH off
+website: https://repsepp.de/

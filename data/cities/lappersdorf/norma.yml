@@ -1,11 +1,11 @@
 id: 29466071
-type: way
+type: node
 latitude: 49.05951
 longitude: 12.0911
 postcode: "93138"
 city: Lappersdorf
-street: "Regendorfer Straße"
-housenumber: 7
+street: Regendorfer Straße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

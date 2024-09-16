@@ -1,11 +1,11 @@
 id: 197532855
-type: way
+type: node
 latitude: 50.05903
 longitude: 12.1774
 postcode: "95659"
 city: Arzberg
-street: "Thiersheimer Straße"
-housenumber: 20
+street: Thiersheimer Straße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

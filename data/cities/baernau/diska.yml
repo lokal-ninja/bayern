@@ -1,11 +1,11 @@
 id: 838289064
-type: way
+type: node
 latitude: 49.81038
 longitude: 12.43995
 postcode: "95671"
 city: Bärnau
-street: "Tachauer Straße"
-housenumber: 45
+street: Tachauer Straße
+housenumber: "45"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

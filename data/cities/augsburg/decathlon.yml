@@ -1,11 +1,11 @@
 id: 1019708360
-type: way
+type: node
 latitude: 48.38273
 longitude: 10.93044
 postcode: "86165"
 city: Augsburg
-street: "Albert-Schenavsky-Straße"
-housenumber: 5
+street: Albert-Schenavsky-Straße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 10:00-20:00; Su,PH off
 website: ""

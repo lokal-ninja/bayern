@@ -4,8 +4,8 @@ latitude: 48.10845
 longitude: 11.43199
 postcode: "82152"
 city: Planegg
-street: "Robert-Koch-Straße"
-housenumber: 4
+street: Robert-Koch-Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://vinus.wine/"
+website: https://vinus.wine/

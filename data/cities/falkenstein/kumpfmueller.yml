@@ -4,8 +4,8 @@ latitude: 49.09876
 longitude: 12.4856
 postcode: "93167"
 city: Falkenstein
-street: "Marktplatz"
-housenumber: 7
-phone: "+49 9462 911 168"
-opening_hours: "Mo-Fr 09:00-12:30,14:30-18:00; Sa 09:00-12:00"
-website: "http://www.kumpfmueller.info/"
+street: Marktplatz
+housenumber: "7"
+phone: +49 9462 911 168
+opening_hours: Mo-Fr 09:00-12:30,14:30-18:00; Sa 09:00-12:00
+website: http://www.kumpfmueller.info/

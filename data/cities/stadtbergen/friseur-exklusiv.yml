@@ -4,8 +4,8 @@ latitude: 48.36605
 longitude: 10.8533
 postcode: "86391"
 city: Stadtbergen
-street: "Bismarckstraße"
-housenumber: 52
-phone: "+49 821 24 29 41 04"
-opening_hours: "nach Vereinbarung"
-website: "https://friseur-exklusive.jimdofree.com/"
+street: Bismarckstraße
+housenumber: "52"
+phone: +49 821 24 29 41 04
+opening_hours: '"nach Vereinbarung"'
+website: https://friseur-exklusive.jimdofree.com/

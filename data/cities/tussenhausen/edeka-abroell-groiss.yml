@@ -1,11 +1,11 @@
 id: 185955798
-type: way
+type: node
 latitude: 48.09971
 longitude: 10.55564
 postcode: "86874"
 city: Tussenhausen
-street: "Obere Viehweide"
-housenumber: 2
+street: Obere Viehweide
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

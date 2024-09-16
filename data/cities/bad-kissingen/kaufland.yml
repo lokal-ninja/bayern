@@ -1,11 +1,11 @@
 id: 227520260
-type: way
+type: node
 latitude: 50.20891
 longitude: 10.08118
 postcode: "97688"
 city: Bad Kissingen
-street: "Steubenstraße"
-housenumber: 1
-phone: "+49 971 785980"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.kaufland.de/"
+street: Steubenstraße
+housenumber: "1"
+phone: +49 971 785980
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.kaufland.de/

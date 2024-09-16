@@ -4,8 +4,8 @@ latitude: 49.53361
 longitude: 11.80276
 postcode: "92256"
 city: Hahnbach
-street: "Hauptstraße"
-housenumber: 37
-phone: "+49 9664 1636"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-12:00"
-website: "https://www.baeckerei-wiesnet.de"
+street: Hauptstraße
+housenumber: "37"
+phone: +49 9664 1636
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-12:00
+website: https://www.baeckerei-wiesnet.de

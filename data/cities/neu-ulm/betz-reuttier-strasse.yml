@@ -1,11 +1,11 @@
 id: 335667641
-type: way
+type: node
 latitude: 48.38846
 longitude: 10.01581
 postcode: "89231"
 city: Neu-Ulm
-street: "Reuttier Straße"
-housenumber: 72
+street: Reuttier Straße
+housenumber: "72"
 phone: ""
-opening_hours: "Mo-Fr 05:30-18:00; Sa 05:30-17:00; Su,PH 08:00-17:00"
+opening_hours: Mo-Fr 05:30-18:00; Sa 05:30-17:00; Su,PH 08:00-17:00
 website: ""

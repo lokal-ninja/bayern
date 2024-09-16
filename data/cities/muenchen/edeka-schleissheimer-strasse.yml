@@ -4,8 +4,8 @@ latitude: 48.20404
 longitude: 11.5634
 postcode: "80935"
 city: München
-street: "Schleißheimer Straße"
-housenumber: 413
+street: Schleißheimer Straße
+housenumber: "413"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.edeka.de/"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.edeka.de/

@@ -4,8 +4,8 @@ latitude: 49.66304
 longitude: 12.14871
 postcode: "92637"
 city: Weiden i.d.OPf.
-street: "Robert-Bosch-Straße"
-housenumber: 3
-phone: "+49 961 47059403"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off"
-website: "https://www.rossmann.de"
+street: Robert-Bosch-Straße
+housenumber: "3"
+phone: +49 961 47059403
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off
+website: https://www.rossmann.de

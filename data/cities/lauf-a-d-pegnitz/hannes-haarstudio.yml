@@ -1,11 +1,11 @@
 id: 143020186
-type: way
+type: node
 latitude: 49.49025
 longitude: 11.31625
 postcode: "91207"
 city: Lauf a.d.Pegnitz
-street: "Rothenbergstraße"
-housenumber: 4
+street: Rothenbergstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

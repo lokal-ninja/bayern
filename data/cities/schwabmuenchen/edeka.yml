@@ -1,11 +1,11 @@
 id: 25869516
-type: way
+type: node
 latitude: 48.17272
 longitude: 10.7412
 postcode: "86830"
 city: Schwabmünchen
-street: "Falkensteinstraße"
-housenumber: 2
+street: Falkensteinstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

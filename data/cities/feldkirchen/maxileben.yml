@@ -4,8 +4,8 @@ latitude: 48.14722
 longitude: 11.73045
 postcode: "85622"
 city: Feldkirchen
-street: "Hohenlindner Straße"
-housenumber: 6
-phone: "+49 89 416177590"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-14:00"
-website: "https://maxileben.de"
+street: Hohenlindner Straße
+housenumber: "6"
+phone: +49 89 416177590
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-14:00
+website: https://maxileben.de

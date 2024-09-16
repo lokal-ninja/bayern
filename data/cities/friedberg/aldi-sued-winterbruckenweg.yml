@@ -1,11 +1,12 @@
 id: 400512846
-type: way
+type: node
 latitude: 48.40629
 longitude: 10.95104
 postcode: "86316"
 city: Friedberg
-street: "Winterbruckenweg"
-housenumber: 62
+street: Winterbruckenweg
+housenumber: "62"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Dec 24 08:00-14:00; Dec 29-30 07:00-20:00; Dec 31 07:00-16:00; PH off"
-website: "https://filialen.aldi-sued.de/bayern/friedberg/winterbruckenweg-62"
+opening_hours: Mo-Sa 08:00-20:00; Dec 24 08:00-14:00; Dec 29-30 07:00-20:00; Dec 31
+    07:00-16:00; PH off
+website: https://filialen.aldi-sued.de/bayern/friedberg/winterbruckenweg-62

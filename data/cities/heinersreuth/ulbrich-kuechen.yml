@@ -1,11 +1,11 @@
 id: 184390402
-type: way
+type: node
 latitude: 49.96432
 longitude: 11.535
 postcode: "95500"
 city: Heinersreuth
-street: "Bayreuther Straße"
-housenumber: 30
+street: Bayreuther Straße
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

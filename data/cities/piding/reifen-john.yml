@@ -1,11 +1,11 @@
 id: 1047720952
-type: way
+type: node
 latitude: 47.75231
 longitude: 12.90376
 postcode: "83451"
 city: Piding
-street: "Ahornstraße"
-housenumber: 9
+street: Ahornstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

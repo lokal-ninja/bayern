@@ -1,11 +1,11 @@
 id: 132621803
-type: way
+type: node
 latitude: 49.2932
 longitude: 10.60451
 postcode: "91522"
 city: Ansbach
-street: "Eichenbachstraße"
-housenumber: 2
+street: Eichenbachstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

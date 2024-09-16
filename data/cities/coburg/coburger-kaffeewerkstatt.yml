@@ -4,8 +4,8 @@ latitude: 50.25859
 longitude: 10.96493
 postcode: "96450"
 city: Coburg
-street: "Markt"
-housenumber: 10
+street: Markt
+housenumber: "10"
 phone: ""
-opening_hours: "Tu-Sa 09:00-17:00; Su,Mo,PH off"
-website: "https://www.cafe-schubart.de/"
+opening_hours: Tu-Sa 09:00-17:00; Su,Mo,PH off
+website: https://www.cafe-schubart.de/

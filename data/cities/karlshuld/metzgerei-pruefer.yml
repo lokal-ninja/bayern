@@ -1,11 +1,11 @@
 id: 259444348
-type: way
+type: node
 latitude: 48.67889
 longitude: 11.27533
 postcode: "86668"
 city: Karlshuld
-street: "Augsburger Straße"
-housenumber: 45
+street: Augsburger Straße
+housenumber: "45"
 phone: ""
 opening_hours: ""
 website: ""

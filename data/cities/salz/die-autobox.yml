@@ -1,11 +1,11 @@
 id: 724303469
-type: way
+type: node
 latitude: 50.29848
 longitude: 10.19231
 postcode: "97616"
 city: Salz
-street: "Am Kebigsgraben"
-housenumber: 7
-phone: "+49 9771 635 48 47"
-opening_hours: "Mo-Fr 10:00-13:00,14:30-18:00; Sa 10:00-13:00; Su,Tu,PH off"
-website: "http://die-autobox.de/"
+street: Am Kebigsgraben
+housenumber: "7"
+phone: +49 9771 635 48 47
+opening_hours: Mo-Fr 10:00-13:00,14:30-18:00; Sa 10:00-13:00; Su,Tu,PH off
+website: http://die-autobox.de/

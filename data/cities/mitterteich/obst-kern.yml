@@ -4,8 +4,8 @@ latitude: 49.95118
 longitude: 12.24409
 postcode: "95666"
 city: Mitterteich
-street: "Oberer Marktplatz"
-housenumber: 24
-phone: "+49 9633 91 94 21"
-opening_hours: "Mo-Fr 08:00-12:00, 14:00-18:00, Sa 07:30-12:00"
-website: "https://www.obst-gemuese-kern.de/"
+street: Oberer Marktplatz
+housenumber: "24"
+phone: +49 9633 91 94 21
+opening_hours: Mo-Fr 08:00-12:00, 14:00-18:00, Sa 07:30-12:00
+website: https://www.obst-gemuese-kern.de/

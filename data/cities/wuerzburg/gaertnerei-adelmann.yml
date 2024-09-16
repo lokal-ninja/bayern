@@ -1,11 +1,11 @@
 id: 460428638
-type: way
+type: node
 latitude: 49.76949
 longitude: 9.94298
 postcode: "97084"
 city: Würzburg
-street: "Wiesenweg"
-housenumber: 16
+street: Wiesenweg
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,14:30-18:00; sa 09:00-13:00"
+opening_hours: Mo-Fr 09:00-13:00,14:30-18:00; sa 09:00-13:00
 website: ""

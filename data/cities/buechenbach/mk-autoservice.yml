@@ -1,11 +1,11 @@
 id: 380634554
-type: way
+type: node
 latitude: 49.28855
 longitude: 11.03749
 postcode: "91186"
 city: Büchenbach
-street: "Zum Hirschenbuck"
-housenumber: 2
+street: Zum Hirschenbuck
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

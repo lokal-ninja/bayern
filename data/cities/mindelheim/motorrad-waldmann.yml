@@ -1,11 +1,11 @@
 id: 103725348
-type: way
+type: node
 latitude: 48.03389
 longitude: 10.49825
 postcode: ""
 city: Mindelheim
-street: "Widdersteinstraße"
-housenumber: 7
-phone: "+49 8261 737384"
-opening_hours: "Tu-Fr 09:00-12:00,13:00-18:00"
-website: "http://www.suzuki-waldmann.de/"
+street: Widdersteinstraße
+housenumber: "7"
+phone: +49 8261 737384
+opening_hours: Tu-Fr 09:00-12:00,13:00-18:00
+website: http://www.suzuki-waldmann.de/

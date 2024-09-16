@@ -1,11 +1,11 @@
 id: 94509587
-type: way
+type: node
 latitude: 48.56097
 longitude: 12.15779
 postcode: "84030"
 city: Ergolding
-street: "Moosfeldstraße"
-housenumber: 32
+street: Moosfeldstraße
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

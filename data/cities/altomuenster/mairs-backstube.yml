@@ -4,8 +4,9 @@ latitude: 48.38817
 longitude: 11.25586
 postcode: "85250"
 city: Altomünster
-street: "Herzog-Georg-Straße"
-housenumber: 6
+street: Herzog-Georg-Straße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo 06:00-13:00; Tu-Fr 06:00-13:00,14:30-18:00; Sa 06:00-16:00; Su 07:00-17:00; PH off"
-website: "https://www.mairsbackstube.de/"
+opening_hours: Mo 06:00-13:00; Tu-Fr 06:00-13:00,14:30-18:00; Sa 06:00-16:00; Su 07:00-17:00;
+    PH off
+website: https://www.mairsbackstube.de/

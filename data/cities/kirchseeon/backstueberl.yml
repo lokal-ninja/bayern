@@ -4,8 +4,9 @@ latitude: 48.07082
 longitude: 11.8892
 postcode: "85614"
 city: Kirchseeon
-street: "Marktplatz"
-housenumber: 10
-phone: "+49 8091 9333"
-opening_hours: "Mo,Tu 05:30-12:00; Th 05:30-12:30,14:00-18:00; Fr 05:30-12:30,14:00-17:00; Sa 06:30-12:00"
+street: Marktplatz
+housenumber: "10"
+phone: +49 8091 9333
+opening_hours: Mo,Tu 05:30-12:00; Th 05:30-12:30,14:00-18:00; Fr 05:30-12:30,14:00-17:00;
+    Sa 06:30-12:00
 website: ""

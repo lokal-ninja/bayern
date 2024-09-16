@@ -4,8 +4,8 @@ latitude: 50.12992
 longitude: 11.24214
 postcode: "96264"
 city: Altenkunstadt
-street: "Weismainer Straße"
-housenumber: 29
+street: Weismainer Straße
+housenumber: "29"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:00"
-website: "https://www.spielkiste-lang.de/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-17:00
+website: https://www.spielkiste-lang.de/

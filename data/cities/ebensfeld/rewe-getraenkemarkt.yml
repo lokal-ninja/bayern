@@ -1,11 +1,11 @@
 id: 35145987
-type: way
+type: node
 latitude: 50.06995
 longitude: 10.96182
 postcode: "96250"
 city: Ebensfeld
-street: "Rinnigstraße"
-housenumber: 1
+street: Rinnigstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

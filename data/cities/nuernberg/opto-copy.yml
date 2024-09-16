@@ -4,8 +4,8 @@ latitude: 49.45204
 longitude: 11.08014
 postcode: "90402"
 city: Nürnberg
-street: "Oberer Bergauerplatz"
-housenumber: 1
-phone: "+49 911 222044"
-opening_hours: "Mo-Fr 08:00-18:00, Sa 10:00-14:00"
+street: Oberer Bergauerplatz
+housenumber: "1"
+phone: +49 911 222044
+opening_hours: Mo-Fr 08:00-18:00, Sa 10:00-14:00
 website: ""

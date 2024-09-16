@@ -5,7 +5,7 @@ longitude: 11.45833
 postcode: ""
 city: Schäftlarn
 street: ""
-housenumber: 
+housenumber: ""
 phone: "+49817895185"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.edeka.de/eh/s%C3%BCdbayern/edeka-rodelweg-7/index.jsp"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.edeka.de/eh/s%C3%BCdbayern/edeka-rodelweg-7/index.jsp

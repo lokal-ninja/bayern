@@ -1,11 +1,11 @@
 id: 182276953
-type: way
+type: node
 latitude: 50.03963
 longitude: 11.99661
 postcode: "95632"
 city: Wunsiedel
-street: "Hofer Straße"
-housenumber: 17
+street: Hofer Straße
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

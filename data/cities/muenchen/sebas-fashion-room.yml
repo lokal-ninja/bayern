@@ -4,8 +4,8 @@ latitude: 48.13101
 longitude: 11.57012
 postcode: "80469"
 city: München
-street: "Angertorstraße"
-housenumber: 7
+street: Angertorstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 11:00-19:00; Sa 11:00-17:00"
+opening_hours: Mo-Fr 11:00-19:00; Sa 11:00-17:00
 website: ""

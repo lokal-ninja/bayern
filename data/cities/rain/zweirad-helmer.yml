@@ -4,8 +4,8 @@ latitude: 48.66107
 longitude: 10.95704
 postcode: "86641"
 city: Rain
-street: "Sallacher Straße"
-housenumber: 24
-phone: "+49 9090 96 22 46"
-opening_hours: "Mo-Fr 07:30-12:00,12:45-18:00; Sa 08:00-12:00"
-website: "https://www.zweirad-helmer.de/"
+street: Sallacher Straße
+housenumber: "24"
+phone: +49 9090 96 22 46
+opening_hours: Mo-Fr 07:30-12:00,12:45-18:00; Sa 08:00-12:00
+website: https://www.zweirad-helmer.de/

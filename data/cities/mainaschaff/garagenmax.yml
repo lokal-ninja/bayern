@@ -1,11 +1,11 @@
 id: 576337538
-type: way
+type: node
 latitude: 49.98527
 longitude: 9.09521
 postcode: "63814"
 city: Mainaschaff
-street: "Im Hofgewann"
-housenumber: 2
+street: Im Hofgewann
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://garagenmax.de/"
+website: https://garagenmax.de/

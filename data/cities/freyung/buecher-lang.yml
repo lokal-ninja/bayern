@@ -4,8 +4,8 @@ latitude: 48.80877
 longitude: 13.54732
 postcode: "94078"
 city: Freyung
-street: "Stadtplatz"
-housenumber: 4
+street: Stadtplatz
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00; Dec 24,Dec 31 09:00-14:00; PH off"
-website: "http://www.buecherlang.de"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00; Dec 24,Dec 31 09:00-14:00; PH off
+website: http://www.buecherlang.de

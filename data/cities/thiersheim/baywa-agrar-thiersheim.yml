@@ -1,11 +1,11 @@
 id: 256611870
-type: way
+type: node
 latitude: 50.07739
 longitude: 12.12048
 postcode: "95707"
 city: Thiersheim
-street: "Bahnhofstraße"
-housenumber: 28
+street: Bahnhofstraße
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

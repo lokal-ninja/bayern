@@ -1,11 +1,11 @@
 id: 118959060
-type: way
+type: node
 latitude: 49.00114
 longitude: 13.21824
 postcode: "94227"
 city: Zwiesel
-street: "Bärnzeller Straße"
-housenumber: 2
+street: Bärnzeller Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://filialen.aldi-sued.de/bayern/zwiesel/baernzeller-strasse-2"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://filialen.aldi-sued.de/bayern/zwiesel/baernzeller-strasse-2

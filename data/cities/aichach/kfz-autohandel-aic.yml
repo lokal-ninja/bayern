@@ -1,11 +1,11 @@
 id: 110121398
-type: way
+type: node
 latitude: 48.44992
 longitude: 11.12644
 postcode: "86551"
 city: Aichach
-street: "Augsburger Straße"
-housenumber: 37
+street: Augsburger Straße
+housenumber: "37"
 phone: ""
 opening_hours: ""
-website: "https://home.mobile.de/KFZAUTOHANDELAIC#about"
+website: https://home.mobile.de/KFZAUTOHANDELAIC#about

@@ -1,11 +1,11 @@
 id: 196365076
-type: way
+type: node
 latitude: 48.39868
 longitude: 10.87166
 postcode: "86154"
 city: Augsburg
-street: "Stuttgarter Straße"
-housenumber: 23
-phone: "+49 8212183890"
-opening_hours: "Mo-Sa 10:00-20:00"
+street: Stuttgarter Straße
+housenumber: "23"
+phone: +49 8212183890
+opening_hours: Mo-Sa 10:00-20:00
 website: ""

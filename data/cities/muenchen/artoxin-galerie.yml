@@ -4,8 +4,8 @@ latitude: 48.13402
 longitude: 11.6012
 postcode: "81675"
 city: München
-street: "Kirchenstraße"
-housenumber: 23
-phone: "+49 89 890 836 65"
-opening_hours: "We-Fr 14:00-20:00; Sa 12:00-18:00 || nach Vereinbarung"
-website: "https://www.artoxin.de/"
+street: Kirchenstraße
+housenumber: "23"
+phone: +49 89 890 836 65
+opening_hours: We-Fr 14:00-20:00; Sa 12:00-18:00 || "nach Vereinbarung"
+website: https://www.artoxin.de/

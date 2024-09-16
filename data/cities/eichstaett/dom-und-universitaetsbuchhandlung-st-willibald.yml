@@ -4,8 +4,8 @@ latitude: 48.89281
 longitude: 11.18321
 postcode: "85072"
 city: Eichstätt
-street: "Marktplatz"
-housenumber: 5
-phone: "+49 8421 80326"
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-12:30"
-website: "https://www.broenner-daentler.de/"
+street: Marktplatz
+housenumber: "5"
+phone: +49 8421 80326
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:30-12:30
+website: https://www.broenner-daentler.de/

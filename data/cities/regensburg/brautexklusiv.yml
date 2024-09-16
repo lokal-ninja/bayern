@@ -4,8 +4,8 @@ latitude: 49.03305
 longitude: 12.09818
 postcode: "93059"
 city: Regensburg
-street: "Lappersdorfer Straße"
-housenumber: 36
-phone: "+49 157 72083966"
-opening_hours: "Termine nach Vereinbarung"
-website: "http://www.brautexklusiv.de/"
+street: Lappersdorfer Straße
+housenumber: "36"
+phone: +49 157 72083966
+opening_hours: '"Termine nach Vereinbarung"'
+website: http://www.brautexklusiv.de/

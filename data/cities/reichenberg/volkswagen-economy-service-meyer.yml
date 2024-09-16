@@ -1,11 +1,11 @@
 id: 973172254
-type: way
+type: node
 latitude: 49.69088
 longitude: 9.94356
 postcode: "97234"
 city: Reichenberg
-street: "Georg-Heinrich-Appl-Straße"
-housenumber: 12
+street: Georg-Heinrich-Appl-Straße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

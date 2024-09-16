@@ -1,11 +1,11 @@
 id: 103961460
-type: way
+type: node
 latitude: 47.77033
 longitude: 11.72377
 postcode: "83703"
 city: Gmund
-street: "Am Eisweiher"
-housenumber: 2
-phone: "+49 8021 5062000"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 9:00-18:00"
-website: "https://www.bergzeit.de/"
+street: Am Eisweiher
+housenumber: "2"
+phone: +49 8021 5062000
+opening_hours: Mo-Fr 10:00-19:00; Sa 9:00-18:00
+website: https://www.bergzeit.de/

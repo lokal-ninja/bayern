@@ -4,8 +4,8 @@ latitude: 48.09251
 longitude: 11.53912
 postcode: "81379"
 city: München
-street: "Wolfratshauser Straße"
-housenumber: 90
+street: Wolfratshauser Straße
+housenumber: "90"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.tegut.com/"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.tegut.com/

@@ -1,11 +1,11 @@
 id: 259448377
-type: way
+type: node
 latitude: 49.46315
 longitude: 10.85918
 postcode: "90556"
 city: Cadolzburg
-street: "Nürnberger Straße"
-housenumber: 39
+street: Nürnberger Straße
+housenumber: "39"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-15:00"
+opening_hours: Mo-Fr 09:00-18:00, Sa 09:00-15:00
 website: ""

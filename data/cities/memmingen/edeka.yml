@@ -1,11 +1,11 @@
 id: 1267644335
-type: way
+type: node
 latitude: 47.971
 longitude: 10.18333
 postcode: "87700"
 city: Memmingen
-street: "Woringer Straße"
-housenumber: 6
+street: Woringer Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

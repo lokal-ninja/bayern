@@ -1,11 +1,11 @@
 id: 217200232
-type: way
+type: node
 latitude: 49.17646
 longitude: 12.85768
 postcode: "93444"
 city: Bad Kötzting
-street: "Jahnstraße"
+street: Jahnstraße
 housenumber: 11-15
-phone: "+49 9941 1321"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 9:00-13:00"
-website: "http://baerwurzerei-liebl.de"
+phone: +49 9941 1321
+opening_hours: Mo-Fr 09:00-18:00; Sa 9:00-13:00
+website: http://baerwurzerei-liebl.de

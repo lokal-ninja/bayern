@@ -4,8 +4,8 @@ latitude: 50.04451
 longitude: 10.23189
 postcode: "97421"
 city: Schweinfurt
-street: "Kirchgasse"
-housenumber: 2
+street: Kirchgasse
+housenumber: "2"
 phone: "097215330530"
-opening_hours: "Mo-Sa 7:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 7:00-20:00; Su,PH off
 website: ""

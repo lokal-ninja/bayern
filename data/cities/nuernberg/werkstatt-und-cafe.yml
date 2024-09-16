@@ -1,11 +1,11 @@
 id: 97828965
-type: way
+type: node
 latitude: 49.44421
 longitude: 11.00775
 postcode: "90431"
 city: Nürnberg
-street: "Franz-Hoffmann-Straße"
-housenumber: 1
+street: Franz-Hoffmann-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo,We,Fr 08:00-17:00; Tu,Sa 08:00-20:00"
+opening_hours: Mo,We,Fr 08:00-17:00; Tu,Sa 08:00-20:00
 website: ""

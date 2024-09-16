@@ -4,8 +4,8 @@ latitude: 48.15252
 longitude: 11.5653
 postcode: ""
 city: München
-street: "Augustenstraße"
-housenumber: 98
+street: Augustenstraße
+housenumber: "98"
 phone: ""
-opening_hours: "Tu-Fr 09:00-19:00; Sa 09:00-14:00"
-website: "https://www.el-corte.de/"
+opening_hours: Tu-Fr 09:00-19:00; Sa 09:00-14:00
+website: https://www.el-corte.de/

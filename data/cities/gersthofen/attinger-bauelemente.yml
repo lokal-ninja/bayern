@@ -1,11 +1,11 @@
 id: 196476173
-type: way
+type: node
 latitude: 48.43781
 longitude: 10.87617
 postcode: "86368"
 city: Gersthofen
-street: "Röntgenstraße"
-housenumber: 10
+street: Röntgenstraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
-website: "https://www.attinger-augsburg.de"
+website: https://www.attinger-augsburg.de

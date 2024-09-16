@@ -4,8 +4,8 @@ latitude: 48.24713
 longitude: 10.9879
 postcode: "86504"
 city: Merching
-street: "Hauptstraße"
-housenumber: 28
+street: Hauptstraße
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00,13:00-17:00; Sa 08:30-16:00||zur Erntezeit"
+opening_hours: Mo-Fr 09:00-12:00,13:00-17:00; Sa 08:30-16:00||"zur Erntezeit"
 website: ""

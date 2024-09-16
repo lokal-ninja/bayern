@@ -1,11 +1,11 @@
 id: 60988913
-type: way
+type: node
 latitude: 49.50494
 longitude: 11.00839
 postcode: "90765"
 city: Fürth
-street: "Gründlacher Straße"
-housenumber: 248
-phone: "+49911 93035 0"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.zweirad-stadler.de/"
+street: Gründlacher Straße
+housenumber: "248"
+phone: +49911 93035 0
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.zweirad-stadler.de/

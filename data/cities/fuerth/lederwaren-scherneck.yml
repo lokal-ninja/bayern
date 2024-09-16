@@ -4,8 +4,8 @@ latitude: 49.47547
 longitude: 10.98881
 postcode: "90762"
 city: Fürth
-street: "Schwabacher Straße"
-housenumber: 12
+street: Schwabacher Straße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:30; Sa 10:00-18:00"
-website: "https://www.scherneck.de/"
+opening_hours: Mo-Fr 09:30-18:30; Sa 10:00-18:00
+website: https://www.scherneck.de/

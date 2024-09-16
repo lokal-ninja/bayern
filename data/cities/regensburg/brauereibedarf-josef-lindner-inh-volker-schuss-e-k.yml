@@ -1,11 +1,11 @@
 id: 91328103
-type: way
+type: node
 latitude: 49.06452
 longitude: 12.13543
 postcode: "93057"
 city: Regensburg
-street: "Auerbacher Straße"
-housenumber: 3
+street: Auerbacher Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

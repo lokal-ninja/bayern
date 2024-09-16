@@ -1,11 +1,11 @@
 id: 767897478
-type: way
+type: node
 latitude: 48.06301
 longitude: 11.6206
 postcode: "82008"
 city: Unterhaching
-street: "Schrenkstraße"
-housenumber: 2
+street: Schrenkstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.bistro-kiosk.de"
+website: https://www.bistro-kiosk.de

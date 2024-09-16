@@ -1,11 +1,11 @@
 id: 421289818
-type: way
+type: node
 latitude: 50.18906
 longitude: 11.77649
 postcode: "95213"
 city: Münchberg
-street: "Theodor-Heuss-Straße"
-housenumber: 4
+street: Theodor-Heuss-Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

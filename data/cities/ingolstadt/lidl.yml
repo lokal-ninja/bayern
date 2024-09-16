@@ -1,11 +1,11 @@
 id: 26180730
-type: way
+type: node
 latitude: 48.77313
 longitude: 11.44404
 postcode: "85055"
 city: Ingolstadt
-street: "Goethestraße"
-housenumber: 61
+street: Goethestraße
+housenumber: "61"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.79342
 longitude: 9.93039
 postcode: "97070"
 city: Würzburg
-street: "Domstraße"
-housenumber: 19
-phone: "+49 931 4652780"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:30-18:30"
-website: "https://www.teegschwendner.de/"
+street: Domstraße
+housenumber: "19"
+phone: +49 931 4652780
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:30-18:30
+website: https://www.teegschwendner.de/

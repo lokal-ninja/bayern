@@ -4,8 +4,8 @@ latitude: 48.91802
 longitude: 11.87352
 postcode: "93309"
 city: Kelheim
-street: "Ludwigsplatz"
-housenumber: 11
-phone: "+49 94 419143"
-opening_hours: "Mo-Fr 09:30-12:30,14:30-18:00; Sa 09:00-12:00"
-website: "https://chocomanie.de"
+street: Ludwigsplatz
+housenumber: "11"
+phone: +49 94 419143
+opening_hours: Mo-Fr 09:30-12:30,14:30-18:00; Sa 09:00-12:00
+website: https://chocomanie.de

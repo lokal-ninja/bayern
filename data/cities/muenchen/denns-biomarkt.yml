@@ -4,8 +4,8 @@ latitude: 48.16499
 longitude: 11.46158
 postcode: "81247"
 city: München
-street: "Verdistraße"
-housenumber: 130
+street: Verdistraße
+housenumber: "130"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.biomarkt.de/muenchen-verdistr-130/marktseite"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.biomarkt.de/muenchen-verdistr-130/marktseite

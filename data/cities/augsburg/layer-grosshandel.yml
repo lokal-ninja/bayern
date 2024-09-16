@@ -4,8 +4,8 @@ latitude: 48.35865
 longitude: 10.85371
 postcode: "86157"
 city: Augsburg
-street: "Walchstraße"
-housenumber: 4
+street: Walchstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 07:00-17:00; Sa,Su off"
-website: "https://shop.layer-grosshandel.de/augsburg.html"
+opening_hours: Mo-Fr 07:00-17:00; Sa,Su off
+website: https://shop.layer-grosshandel.de/augsburg.html

@@ -4,8 +4,8 @@ latitude: 48.1507
 longitude: 11.54379
 postcode: "80636"
 city: München
-street: "Nymphenburger Straße"
-housenumber: 96
-phone: "+49 89 12003316"
-opening_hours: "Tu,We 11:00-16:00; Th,Fr 11:00-18:30; Sa 10:00-14:00; PH off"
-website: "https://diemercerie.com"
+street: Nymphenburger Straße
+housenumber: "96"
+phone: +49 89 12003316
+opening_hours: Tu,We 11:00-16:00; Th,Fr 11:00-18:30; Sa 10:00-14:00; PH off
+website: https://diemercerie.com

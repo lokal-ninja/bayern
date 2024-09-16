@@ -1,11 +1,11 @@
 id: 298217867
-type: way
+type: node
 latitude: 48.03076
 longitude: 10.73457
 postcode: "86807"
 city: Buchloe
-street: "Münchener Straße"
-housenumber: 42
-phone: "+49 8241 9971131"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00"
-website: "https://gartencenter-gilg.de"
+street: Münchener Straße
+housenumber: "42"
+phone: +49 8241 9971131
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-16:00
+website: https://gartencenter-gilg.de

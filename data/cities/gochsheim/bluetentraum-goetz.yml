@@ -4,8 +4,9 @@ latitude: 50.02249
 longitude: 10.3143
 postcode: "97469"
 city: Gochsheim
-street: "Hauptstraße"
-housenumber: 6
+street: Hauptstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Oct-Jun: Mo 09:00-17:00; Jul-Sep: Mo 09:00-13:00; Tu off; We 09:00-13:00; Th-Fr 09:00-17:00; Sa 09:00-13:00"
-website: "https://www.bluetentraum-goetz.de/"
+opening_hours: 'Oct-Jun: Mo 09:00-17:00; Jul-Sep: Mo 09:00-13:00; Tu off; We 09:00-13:00;
+    Th-Fr 09:00-17:00; Sa 09:00-13:00'
+website: https://www.bluetentraum-goetz.de/

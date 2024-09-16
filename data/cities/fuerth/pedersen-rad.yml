@@ -4,8 +4,8 @@ latitude: 49.47983
 longitude: 10.98762
 postcode: "90762"
 city: Fürth
-street: "Gustavstraße"
-housenumber: 56
+street: Gustavstraße
+housenumber: "56"
 phone: ""
-opening_hours: "nach Vereinbarung"
-website: "http://pedersen-rad.de/"
+opening_hours: '"nach Vereinbarung"'
+website: http://pedersen-rad.de/

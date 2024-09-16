@@ -1,11 +1,11 @@
 id: 105400022
-type: way
+type: node
 latitude: 47.68941
 longitude: 11.74676
 postcode: "83700"
 city: Kreuth
-street: "Wiesseer Straße"
-housenumber: 41
+street: Wiesseer Straße
+housenumber: "41"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://filialen.aldi-sued.de/bayern/kreuth-weissach/wiesseer-strasse-41"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://filialen.aldi-sued.de/bayern/kreuth-weissach/wiesseer-strasse-41

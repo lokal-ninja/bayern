@@ -1,11 +1,11 @@
 id: 186807128
-type: way
+type: node
 latitude: 47.78002
 longitude: 12.21227
 postcode: "83122"
 city: Samerberg
-street: "Am Anger"
-housenumber: 1
+street: Am Anger
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.schuh-auer.de/"
+website: https://www.schuh-auer.de/

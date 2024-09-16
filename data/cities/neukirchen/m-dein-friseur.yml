@@ -1,11 +1,11 @@
 id: 140758794
-type: way
+type: node
 latitude: 49.52673
 longitude: 11.6229
 postcode: "92259"
 city: Neukirchen
-street: "Bahnhofstraße"
-housenumber: 15
+street: Bahnhofstraße
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

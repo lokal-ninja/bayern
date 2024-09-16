@@ -1,11 +1,11 @@
 id: 294666388
-type: way
+type: node
 latitude: 48.76339
 longitude: 13.62804
 postcode: "94065"
 city: Waldkirchen
-street: "Böhmzwiesel"
-housenumber: 3
+street: Böhmzwiesel
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 06:00-10:00"
+opening_hours: Mo-Sa 06:00-10:00
 website: ""

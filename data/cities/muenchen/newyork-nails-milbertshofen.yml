@@ -1,11 +1,11 @@
 id: 88588994
-type: way
+type: node
 latitude: 48.18321
 longitude: 11.57326
 postcode: "80807"
 city: München
-street: "Knorrstraße"
-housenumber: 48
-phone: "+49 89 24605128"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.treatwell.de/ort/new-york-nails-bei-greta/"
+street: Knorrstraße
+housenumber: "48"
+phone: +49 89 24605128
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.treatwell.de/ort/new-york-nails-bei-greta/

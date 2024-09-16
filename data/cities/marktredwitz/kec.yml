@@ -1,11 +1,11 @@
 id: 32667760
-type: way
+type: node
 latitude: 50.00052
 longitude: 12.08857
 postcode: "95615"
 city: Marktredwitz
-street: "Leopoldstraße"
-housenumber: 30
+street: Leopoldstraße
+housenumber: "30"
 phone: ""
 opening_hours: ""
-website: "https://www.kec-marktredwitz.de/"
+website: https://www.kec-marktredwitz.de/

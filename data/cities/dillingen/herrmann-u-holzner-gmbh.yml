@@ -1,11 +1,11 @@
 id: 240802049
-type: way
+type: node
 latitude: 48.58443
 longitude: 10.49001
 postcode: "89407"
 city: Dillingen
-street: "Robert-Bosch-Straße"
-housenumber: 14
+street: Robert-Bosch-Straße
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

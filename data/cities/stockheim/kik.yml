@@ -1,11 +1,11 @@
 id: 206020474
-type: way
+type: node
 latitude: 50.29942
 longitude: 11.28756
 postcode: "96342"
 city: Stockheim
-street: "Kronacher Straße"
-housenumber: 75
+street: Kronacher Straße
+housenumber: "75"
 phone: ""
 opening_hours: ""
 website: ""

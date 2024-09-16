@@ -1,11 +1,11 @@
 id: 102722323
-type: way
+type: node
 latitude: 48.03346
 longitude: 10.50505
 postcode: ""
 city: Mindelheim
-street: "Rubihornstraße"
-housenumber: 2
+street: Rubihornstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

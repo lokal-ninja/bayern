@@ -1,11 +1,11 @@
 id: 223023756
-type: way
+type: node
 latitude: 49.00029
 longitude: 12.12378
 postcode: "93053"
 city: Regensburg
-street: "Bajuwarenstraße"
+street: Bajuwarenstraße
 housenumber: 2f
-phone: "+49 941 792091"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.compustore.de/"
+phone: +49 941 792091
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.compustore.de/

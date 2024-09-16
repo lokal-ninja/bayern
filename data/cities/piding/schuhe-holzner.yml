@@ -1,11 +1,11 @@
 id: 154490319
-type: way
+type: node
 latitude: 47.76962
 longitude: 12.91431
 postcode: "83451"
 city: Piding
-street: "Salzburger Straße"
-housenumber: 10
+street: Salzburger Straße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

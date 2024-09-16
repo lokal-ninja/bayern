@@ -1,11 +1,11 @@
 id: 38628164
-type: way
+type: node
 latitude: 49.98592
 longitude: 9.15109
 postcode: "63741"
 city: Aschaffenburg
-street: "Neue Glattbacher Straße"
-housenumber: 2
+street: Neue Glattbacher Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.selgros.de/markt/aschaffenburg"
+website: https://www.selgros.de/markt/aschaffenburg

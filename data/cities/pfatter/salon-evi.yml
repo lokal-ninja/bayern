@@ -1,11 +1,11 @@
 id: 277905961
-type: way
+type: node
 latitude: 48.96792
 longitude: 12.3904
 postcode: "93102"
 city: Pfatter
-street: "Zur Steinwand"
+street: Zur Steinwand
 housenumber: 5a
-phone: "+49 9481 1490"
-opening_hours: "Th 09:00-18:00; Fr 08:00-18:00; Sa 07:30-12:30"
+phone: +49 9481 1490
+opening_hours: Th 09:00-18:00; Fr 08:00-18:00; Sa 07:30-12:30
 website: ""

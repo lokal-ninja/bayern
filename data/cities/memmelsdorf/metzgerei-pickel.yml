@@ -1,11 +1,11 @@
 id: 42201035
-type: way
+type: node
 latitude: 49.93285
 longitude: 10.95493
 postcode: "96117"
 city: Memmelsdorf
-street: "Hauptstraße"
-housenumber: 26
+street: Hauptstraße
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

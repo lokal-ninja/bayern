@@ -1,11 +1,11 @@
 id: 154520780
-type: way
+type: node
 latitude: 47.84328
 longitude: 12.13272
 postcode: "83026"
 city: Rosenheim
-street: "Traberhofstraße"
-housenumber: 103
+street: Traberhofstraße
+housenumber: "103"
 phone: ""
-opening_hours: "Mo-Fr 07:45-12:00,13:30-17:30; Sa 09:00-12:00; PH closed"
+opening_hours: Mo-Fr 07:45-12:00,13:30-17:30; Sa 09:00-12:00; PH closed
 website: ""

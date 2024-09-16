@@ -1,11 +1,11 @@
 id: 149484375
-type: way
+type: node
 latitude: 48.22339
 longitude: 11.33291
 postcode: "82140"
 city: Olching
-street: "Hermann-Böcker-Straße"
-housenumber: 2
+street: Hermann-Böcker-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

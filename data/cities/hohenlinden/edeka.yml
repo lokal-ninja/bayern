@@ -1,11 +1,11 @@
 id: 222141326
-type: way
+type: node
 latitude: 48.15626
 longitude: 11.99805
 postcode: "85664"
 city: Hohenlinden
-street: "Hauptstraße"
-housenumber: 20
-phone: "+49 8124 52081"
-opening_hours: "Mo-Fr 07:00-19:30; Sa 07:00-17:00; Su,PH off"
-website: "https://www.edeka.de/"
+street: Hauptstraße
+housenumber: "20"
+phone: +49 8124 52081
+opening_hours: Mo-Fr 07:00-19:30; Sa 07:00-17:00; Su,PH off
+website: https://www.edeka.de/

@@ -4,8 +4,8 @@ latitude: 48.3648
 longitude: 10.84735
 postcode: "86391"
 city: Stadtbergen
-street: "Am Hopfengarten"
-housenumber: 8
-phone: "+49 821 151066"
-opening_hours: "Mo-Fr: nach Vereinbarung"
-website: "https://reisebuero-stiller.de"
+street: Am Hopfengarten
+housenumber: "8"
+phone: +49 821 151066
+opening_hours: 'Mo-Fr: nach Vereinbarung'
+website: https://reisebuero-stiller.de

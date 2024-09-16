@@ -4,8 +4,8 @@ latitude: 47.76238
 longitude: 12.64672
 postcode: "83324"
 city: Ruhpolding
-street: "Hauptstraße"
-housenumber: 53
+street: Hauptstraße
+housenumber: "53"
 phone: "+4986631753"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-13:00; Su 07:00-17:00"
-website: "https://www.baeckerei-kreidl.de/"
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-13:00; Su 07:00-17:00
+website: https://www.baeckerei-kreidl.de/

@@ -4,8 +4,8 @@ latitude: 48.16294
 longitude: 11.57015
 postcode: "80796"
 city: München
-street: "Herzogstraße"
-housenumber: 99
+street: Herzogstraße
+housenumber: "99"
 phone: ""
-opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-17:00"
+opening_hours: Mo-Fr 10:00-20:00; Sa 10:00-17:00
 website: ""

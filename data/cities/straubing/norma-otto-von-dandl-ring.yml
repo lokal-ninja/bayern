@@ -1,11 +1,11 @@
 id: 35017942
-type: way
+type: node
 latitude: 48.87586
 longitude: 12.55092
 postcode: "94315"
 city: Straubing
-street: "Otto-von-Dandl-Ring"
-housenumber: 8
+street: Otto-von-Dandl-Ring
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

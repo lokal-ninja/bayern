@@ -4,8 +4,8 @@ latitude: 49.01411
 longitude: 12.11013
 postcode: "93055"
 city: Regensburg
-street: "Richard-Wagner-Straße"
-housenumber: 22
-phone: "+49 941 4671152"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00"
+street: Richard-Wagner-Straße
+housenumber: "22"
+phone: +49 941 4671152
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-18:00
 website: ""

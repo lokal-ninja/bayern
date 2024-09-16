@@ -1,11 +1,11 @@
 id: 137187353
-type: way
+type: node
 latitude: 48.19309
 longitude: 11.87131
 postcode: "85570"
 city: Markt Schwaben
-street: "Melanchthonweg"
-housenumber: 9
+street: Melanchthonweg
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

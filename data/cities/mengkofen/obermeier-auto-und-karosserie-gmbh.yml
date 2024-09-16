@@ -1,11 +1,11 @@
 id: 540525691
-type: way
+type: node
 latitude: 48.70596
 longitude: 12.37196
 postcode: "84152"
 city: Mengkofen
-street: "Süßkofen"
-housenumber: 11
-phone: "+49 8733 9399 0"
+street: Süßkofen
+housenumber: "11"
+phone: +49 8733 9399 0
 opening_hours: ""
-website: "https://www.karosserie-obermeier.de/"
+website: https://www.karosserie-obermeier.de/

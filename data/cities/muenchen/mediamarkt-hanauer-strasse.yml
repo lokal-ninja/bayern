@@ -1,11 +1,11 @@
 id: 205131340
-type: way
+type: node
 latitude: 48.18373
 longitude: 11.52948
 postcode: "80993"
 city: München
-street: "Hanauer Straße"
-housenumber: 77
-phone: "+49 89 143270"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.mediamarkt.de/de/store/muenchen-oez-11"
+street: Hanauer Straße
+housenumber: "77"
+phone: +49 89 143270
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.mediamarkt.de/de/store/muenchen-oez-11

@@ -4,8 +4,8 @@ latitude: 49.79603
 longitude: 9.93432
 postcode: "97070"
 city: Würzburg
-street: "Theaterstraße"
-housenumber: 12
-phone: "+49-931-55592"
-opening_hours: "Mo,Tu,Th,Fr 09:00-18:00; Sa 10:00-14:00; We 09:00-13:00"
-website: "https://www.optik-wiegand.de/"
+street: Theaterstraße
+housenumber: "12"
+phone: +49-931-55592
+opening_hours: Mo,Tu,Th,Fr 09:00-18:00; Sa 10:00-14:00; We 09:00-13:00
+website: https://www.optik-wiegand.de/

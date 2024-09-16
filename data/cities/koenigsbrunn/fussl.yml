@@ -4,8 +4,8 @@ latitude: 48.28532
 longitude: 10.88004
 postcode: "86343"
 city: Königsbrunn
-street: "Hunnenstraße"
-housenumber: 39
-phone: "+49 8231 9259579"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.fussl.at"
+street: Hunnenstraße
+housenumber: "39"
+phone: +49 8231 9259579
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.fussl.at

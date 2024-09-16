@@ -4,8 +4,8 @@ latitude: 48.31381
 longitude: 10.81921
 postcode: "86199"
 city: Augsburg
-street: "Bannackerstraße"
-housenumber: 2
+street: Bannackerstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Th off; Fr 17:00-20:00; Sa 13:00-19:00; Su off"
-website: "https://www.rotespony.de"
+opening_hours: Mo-Th off; Fr 17:00-20:00; Sa 13:00-19:00; Su off
+website: https://www.rotespony.de

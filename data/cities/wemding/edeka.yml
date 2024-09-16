@@ -1,11 +1,11 @@
 id: 137953143
-type: way
+type: node
 latitude: 48.8746
 longitude: 10.72857
 postcode: "86650"
 city: Wemding
-street: "Monheimer Straße"
-housenumber: 12
+street: Monheimer Straße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

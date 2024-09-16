@@ -4,8 +4,8 @@ latitude: 47.8575
 longitude: 12.12847
 postcode: "83022"
 city: Rosenheim
-street: "Kaiserstraße"
-housenumber: 12
-phone: "+49 8031 2728808"
-opening_hours: "Mo-Fr 11:00-18:00; Sa 11:00-15:00"
-website: "https://hanfladen-rosenheim.de"
+street: Kaiserstraße
+housenumber: "12"
+phone: +49 8031 2728808
+opening_hours: Mo-Fr 11:00-18:00; Sa 11:00-15:00
+website: https://hanfladen-rosenheim.de

@@ -4,8 +4,8 @@ latitude: 49.79326
 longitude: 9.93111
 postcode: "97070"
 city: Würzburg
-street: "Domstraße"
-housenumber: 38
-phone: "+49 931 99135930"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-19:00"
+street: Domstraße
+housenumber: "38"
+phone: +49 931 99135930
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-19:00
 website: ""

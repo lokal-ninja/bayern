@@ -1,11 +1,11 @@
 id: 99289357
-type: way
+type: node
 latitude: 47.81023
 longitude: 10.8754
 postcode: "86956"
 city: Schongau
-street: "Ingenrieder Straße"
-housenumber: 6
+street: Ingenrieder Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

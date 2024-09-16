@@ -1,11 +1,11 @@
 id: 29709703
-type: way
+type: node
 latitude: 48.26315
 longitude: 11.47258
 postcode: "85221"
 city: Dachau
-street: "Fraunhoferstraße"
-housenumber: 3
+street: Fraunhoferstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 07:30-20:00; PH off"
-website: "https://filialen.aldi-sued.de/bayern/dachau/fraunhoferstrasse-3"
+opening_hours: Mo-Sa 07:30-20:00; PH off
+website: https://filialen.aldi-sued.de/bayern/dachau/fraunhoferstrasse-3

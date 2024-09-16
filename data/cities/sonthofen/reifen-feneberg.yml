@@ -1,11 +1,11 @@
 id: 117189827
-type: way
+type: node
 latitude: 47.5217
 longitude: 10.26179
 postcode: "87527"
 city: Sonthofen
-street: "Albert-Schweitzer-Straße"
-housenumber: 6
+street: Albert-Schweitzer-Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 232229304
-type: way
+type: node
 latitude: 49.12416
 longitude: 10.76627
 postcode: "91710"
 city: Gunzenhausen
-street: "Nürnberger Straße"
-housenumber: 91
+street: Nürnberger Straße
+housenumber: "91"
 phone: ""
 opening_hours: ""
 website: ""

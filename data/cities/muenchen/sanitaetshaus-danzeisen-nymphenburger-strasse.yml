@@ -4,8 +4,8 @@ latitude: 48.15215
 longitude: 11.53487
 postcode: "80634"
 city: München
-street: "Nymphenburger Straße"
-housenumber: 153
-phone: "+49 89 166356"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa,Su,PH off"
-website: "http://www.danzeisen.com/"
+street: Nymphenburger Straße
+housenumber: "153"
+phone: +49 89 166356
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00; Sa,Su,PH off
+website: http://www.danzeisen.com/

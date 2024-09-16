@@ -1,11 +1,11 @@
 id: 351153610
-type: way
+type: node
 latitude: 49.1956
 longitude: 12.51747
 postcode: "93426"
 city: Roding
-street: "Schulstraße"
-housenumber: 8
+street: Schulstraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

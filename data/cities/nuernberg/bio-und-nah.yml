@@ -4,8 +4,8 @@ latitude: 49.45049
 longitude: 11.06197
 postcode: "90429"
 city: Nürnberg
-street: "Rosenaustraße"
-housenumber: 16
+street: Rosenaustraße
+housenumber: "16"
 phone: "+4991118070746"
-opening_hours: "Sa 09:00-14:00; Mo-Fr 10:00-14:00,15:00-19:00"
-website: "https://www.bioundnah.de/"
+opening_hours: Sa 09:00-14:00; Mo-Fr 10:00-14:00,15:00-19:00
+website: https://www.bioundnah.de/

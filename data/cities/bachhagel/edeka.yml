@@ -1,11 +1,11 @@
 id: 205825919
-type: way
+type: node
 latitude: 48.63352
 longitude: 10.31222
 postcode: "89429"
 city: Bachhagel
-street: "Schreiäcker"
-housenumber: 2
+street: Schreiäcker
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

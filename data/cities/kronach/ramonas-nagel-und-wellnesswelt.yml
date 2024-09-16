@@ -4,8 +4,8 @@ latitude: 50.23911
 longitude: 11.32113
 postcode: "96317"
 city: Kronach
-street: "Bahnhofsplatz"
-housenumber: 2
+street: Bahnhofsplatz
+housenumber: "2"
 phone: ""
-opening_hours: "Mo,We,Fr 08:00-17:00; Tu,Th 08:00-18:00; Sa 08:00-12:00; Su off"
-website: "https://www.ramonas-wellnesswelt.de/"
+opening_hours: Mo,We,Fr 08:00-17:00; Tu,Th 08:00-18:00; Sa 08:00-12:00; Su off
+website: https://www.ramonas-wellnesswelt.de/

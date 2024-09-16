@@ -4,8 +4,8 @@ latitude: 48.1491
 longitude: 11.54578
 postcode: "80636"
 city: München
-street: "Maillingerstraße"
-housenumber: 8
+street: Maillingerstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Tu-Fr 09:00-19:00; Sa 09:00-16:00; Su,Mo,PH off"
+opening_hours: Tu-Fr 09:00-19:00; Sa 09:00-16:00; Su,Mo,PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 136088857
-type: way
+type: node
 latitude: 50.23069
 longitude: 11.73147
 postcode: "95233"
 city: Helmbrechts
-street: "Gunterstraße"
-housenumber: 36
+street: Gunterstraße
+housenumber: "36"
 phone: "+49925299550"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00"
-website: "http://www.rohde.mazda-autohaus.de"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-12:00
+website: http://www.rohde.mazda-autohaus.de

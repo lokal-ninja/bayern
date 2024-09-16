@@ -4,8 +4,8 @@ latitude: 49.89468
 longitude: 10.90063
 postcode: "96050"
 city: Bamberg
-street: "Peuntstraße"
-housenumber: 12
+street: Peuntstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo,Tu,Th 09:30-13:00,14:30-17:30; We,Fr 09:30-14:00; PH,Sa,Su off"
+opening_hours: Mo,Tu,Th 09:30-13:00,14:30-17:30; We,Fr 09:30-14:00; PH,Sa,Su off
 website: ""

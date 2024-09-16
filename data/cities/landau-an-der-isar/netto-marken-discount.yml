@@ -1,11 +1,11 @@
 id: 83692671
-type: way
+type: node
 latitude: 48.67098
 longitude: 12.68793
 postcode: "94405"
 city: Landau an der Isar
-street: "Alte Umgehungsstraße"
-housenumber: 17
+street: Alte Umgehungsstraße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
+opening_hours: Mo-Sa 07:00-20:00; PH off
 website: ""

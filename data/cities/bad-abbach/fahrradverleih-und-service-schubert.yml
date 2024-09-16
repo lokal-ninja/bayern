@@ -4,8 +4,8 @@ latitude: 48.93164
 longitude: 12.01019
 postcode: "93077"
 city: Bad Abbach
-street: "Am Rosenberg"
-housenumber: 9
-phone: "+49 1514 2026978"
-opening_hours: "Tu-Fr 13:00-18:00"
+street: Am Rosenberg
+housenumber: "9"
+phone: +49 1514 2026978
+opening_hours: Tu-Fr 13:00-18:00
 website: ""

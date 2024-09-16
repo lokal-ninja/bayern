@@ -1,11 +1,11 @@
 id: 245304811
-type: way
+type: node
 latitude: 48.58686
 longitude: 12.19101
 postcode: "84051"
 city: Essenbach
-street: "Daimlerstraße"
-housenumber: 4
+street: Daimlerstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

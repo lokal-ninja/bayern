@@ -4,8 +4,8 @@ latitude: 48.31353
 longitude: 11.66371
 postcode: "85375"
 city: Neufahrn b. Freising
-street: "Bahnhofstraße"
-housenumber: 4
+street: Bahnhofstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Tu-Fr 09:00-12:00,14:30-18:00; Sa 09:00-12:00"
-website: "https://www.vogl-optikstudio.de/"
+opening_hours: Tu-Fr 09:00-12:00,14:30-18:00; Sa 09:00-12:00
+website: https://www.vogl-optikstudio.de/

@@ -1,11 +1,11 @@
 id: 87588124
-type: way
+type: node
 latitude: 48.20665
 longitude: 11.17337
 postcode: "82291"
 city: Mammendorf
-street: "Eichenstraße"
-housenumber: 24
+street: Eichenstraße
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-We 09:30-18:30; Th,Fr 09:30-19:00; Sa 09:30-16:00"
-website: "https://emverbund.de/"
+opening_hours: Mo-We 09:30-18:30; Th,Fr 09:30-19:00; Sa 09:30-16:00
+website: https://emverbund.de/

@@ -4,8 +4,8 @@ latitude: 48.11354
 longitude: 11.47622
 postcode: "81377"
 city: München
-street: "Sauerbruchstraße"
-housenumber: 10
-phone: "+49 89 703894"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00"
-website: "https://www.copyshop-grosshadern.de/"
+street: Sauerbruchstraße
+housenumber: "10"
+phone: +49 89 703894
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00
+website: https://www.copyshop-grosshadern.de/

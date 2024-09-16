@@ -1,11 +1,11 @@
 id: 32124891
-type: way
+type: node
 latitude: 48.76768
 longitude: 11.42213
 postcode: "85049"
 city: Ingolstadt
-street: "Harderstraße"
-housenumber: 33
+street: Harderstraße
+housenumber: "33"
 phone: ""
-opening_hours: "Tu-Sa 08:30-12:00; Su,Mo,PH closed"
-website: "https://www.backhaus-hackner.de"
+opening_hours: Tu-Sa 08:30-12:00; Su,Mo,PH closed
+website: https://www.backhaus-hackner.de

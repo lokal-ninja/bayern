@@ -1,11 +1,11 @@
 id: 94914285
-type: way
+type: node
 latitude: 49.0209
 longitude: 12.05453
 postcode: "93049"
 city: Regensburg
-street: "Wernerwerkstraße"
+street: Wernerwerkstraße
 housenumber: 2b
 phone: ""
-opening_hours: "Mo-Sa 7:00-20:00"
+opening_hours: Mo-Sa 7:00-20:00
 website: ""

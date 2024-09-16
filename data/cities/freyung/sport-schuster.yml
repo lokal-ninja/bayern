@@ -4,8 +4,8 @@ latitude: 48.80724
 longitude: 13.54776
 postcode: "94078"
 city: Freyung
-street: "Abteistraße"
-housenumber: 3
-phone: "+49 8551 91670"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00; PH off"
-website: "https://www.sport-schuster.de"
+street: Abteistraße
+housenumber: "3"
+phone: +49 8551 91670
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00; PH off
+website: https://www.sport-schuster.de

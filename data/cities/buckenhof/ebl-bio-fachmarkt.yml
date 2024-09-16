@@ -1,11 +1,11 @@
 id: 54639600
-type: way
+type: node
 latitude: 49.5957
 longitude: 11.05484
 postcode: "91054"
 city: Buckenhof
-street: "Am Tennenbach"
-housenumber: 4
+street: Am Tennenbach
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

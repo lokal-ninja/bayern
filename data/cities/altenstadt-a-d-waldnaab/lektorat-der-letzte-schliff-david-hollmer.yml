@@ -1,11 +1,11 @@
 id: 309364309
-type: way
+type: node
 latitude: 49.71016
 longitude: 12.15876
 postcode: "92665"
 city: Altenstadt a.d. Waldnaab
-street: "Christian-Kreuzer-Straße"
-housenumber: 5
+street: Christian-Kreuzer-Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

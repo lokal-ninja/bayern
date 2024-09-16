@@ -4,8 +4,8 @@ latitude: 49.35956
 longitude: 11.25451
 postcode: "90592"
 city: Schwarzenbruck
-street: "Regensburger Straße"
-housenumber: 1
-phone: "+49 9128 8574"
-opening_hours: "Tu-Fr 08:00-18:00; Sa 08:00-13:00; PH off"
-website: "https://haarwerk-schwarzenbruck.de/#home"
+street: Regensburger Straße
+housenumber: "1"
+phone: +49 9128 8574
+opening_hours: Tu-Fr 08:00-18:00; Sa 08:00-13:00; PH off
+website: https://haarwerk-schwarzenbruck.de/#home

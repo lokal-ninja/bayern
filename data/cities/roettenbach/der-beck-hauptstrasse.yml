@@ -1,11 +1,11 @@
 id: 54848648
-type: way
+type: node
 latitude: 49.67268
 longitude: 10.92873
 postcode: "91341"
 city: Röttenbach
-street: "Hauptstraße"
-housenumber: 6
+street: Hauptstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 5:30-19:00; Sa 5:30-16:00; Su 8:00-17:00"
+opening_hours: Mo-Fr 5:30-19:00; Sa 5:30-16:00; Su 8:00-17:00
 website: ""

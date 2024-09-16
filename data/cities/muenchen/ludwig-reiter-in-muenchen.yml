@@ -1,11 +1,11 @@
 id: 125294896
-type: way
+type: node
 latitude: 48.13768
 longitude: 11.57779
 postcode: "80331"
 city: München
-street: "Burgstraße"
-housenumber: 8
+street: Burgstraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

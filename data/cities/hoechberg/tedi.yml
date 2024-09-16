@@ -4,8 +4,8 @@ latitude: 49.7721
 longitude: 9.86778
 postcode: "97204"
 city: Höchberg
-street: "Leibnizstraße"
-housenumber: 2
-phone: "+49 231 555770"
-opening_hours: "Mo-Sa 09:00-19:00"
+street: Leibnizstraße
+housenumber: "2"
+phone: +49 231 555770
+opening_hours: Mo-Sa 09:00-19:00
 website: ""

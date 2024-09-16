@@ -4,8 +4,8 @@ latitude: 48.5352
 longitude: 12.15124
 postcode: "84028"
 city: Landshut
-street: "Altstadt"
-housenumber: 262
-phone: "+49871 22870"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 07:30-13:30"
+street: Altstadt
+housenumber: "262"
+phone: +49871 22870
+opening_hours: Mo-Fr 08:00-18:00; Sa 07:30-13:30
 website: ""

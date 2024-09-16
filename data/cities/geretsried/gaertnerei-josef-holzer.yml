@@ -1,11 +1,11 @@
 id: 55015303
-type: way
+type: node
 latitude: 47.89799
 longitude: 11.42109
 postcode: "82538"
 city: Geretsried
-street: "Am Kanal"
-housenumber: 12
-phone: "+49 8171 18091"
-opening_hours: "Mo,Tu,Th,Fr 08:00-12:30, Mo-Fr 13:30-18:00, We 08:00-12:30, Sa 08:00-12:00"
+street: Am Kanal
+housenumber: "12"
+phone: +49 8171 18091
+opening_hours: Mo,Tu,Th,Fr 08:00-12:30, Mo-Fr 13:30-18:00, We 08:00-12:30, Sa 08:00-12:00
 website: ""

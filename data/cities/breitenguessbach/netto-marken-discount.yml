@@ -1,11 +1,11 @@
 id: 118783660
-type: way
+type: node
 latitude: 49.97198
 longitude: 10.88211
 postcode: "96149"
 city: Breitengüßbach
-street: "Baunacher Straße"
-housenumber: 15
+street: Baunacher Straße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

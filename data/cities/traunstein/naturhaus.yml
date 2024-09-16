@@ -1,11 +1,11 @@
 id: 237416706
-type: way
+type: node
 latitude: 47.87543
 longitude: 12.63778
 postcode: "83278"
 city: Traunstein
-street: "Wasserburger Straße"
-housenumber: 29
-phone: "+49 (0)861-165476"
-opening_hours: "Mo-Fr 09:00-18:00; PH off"
-website: "http://www.naturhaus-ts.de/"
+street: Wasserburger Straße
+housenumber: "29"
+phone: +49 (0)861-165476
+opening_hours: Mo-Fr 09:00-18:00; PH off
+website: http://www.naturhaus-ts.de/

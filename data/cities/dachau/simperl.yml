@@ -4,8 +4,8 @@ latitude: 48.26399
 longitude: 11.43486
 postcode: "85221"
 city: Dachau
-street: "Steinkirchener Straße"
-housenumber: 1
-phone: "+49 8131 3379923"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 08:00-12:30"
-website: "https://simpel-unverpackt.de/"
+street: Steinkirchener Straße
+housenumber: "1"
+phone: +49 8131 3379923
+opening_hours: Tu-Fr 09:00-18:00; Sa 08:00-12:30
+website: https://simpel-unverpackt.de/

@@ -1,11 +1,12 @@
 id: 1294723229
-type: way
+type: node
 latitude: 47.88361
 longitude: 11.93339
 postcode: "83052"
 city: Bruckmühl
-street: "Marie-Curie-Allee"
-housenumber: 1
+street: Marie-Curie-Allee
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 07:30-12:00, Mo-Th 13:00-17:30, Fr 13:00-16:30, Sa 10:00-12:00; Su,PH off"
+opening_hours: Mo-Fr 07:30-12:00, Mo-Th 13:00-17:30, Fr 13:00-16:30, Sa 10:00-12:00;
+    Su,PH off
 website: ""

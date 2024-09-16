@@ -1,11 +1,11 @@
 id: 83200105
-type: way
+type: node
 latitude: 49.42099
 longitude: 10.8548
 postcode: "90614"
 city: Ammerndorf
-street: "Rothenburger Straße"
-housenumber: 7
-phone: "+49 9127 90 22 22"
+street: Rothenburger Straße
+housenumber: "7"
+phone: +49 9127 90 22 22
 opening_hours: ""
-website: "http://campingoase-dvorak.de/"
+website: http://campingoase-dvorak.de/

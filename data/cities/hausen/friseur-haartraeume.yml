@@ -4,8 +4,8 @@ latitude: 49.69362
 longitude: 11.02572
 postcode: "91353"
 city: Hausen
-street: "Heroldsbacher Straße"
-housenumber: 52
+street: Heroldsbacher Straße
+housenumber: "52"
 phone: ""
-opening_hours: "Tu,We,Fr 09:00-18:00; Th 09:00-19:00; Sa 08:00-13:00"
-website: "https://www.haartraeume-hausen.de/"
+opening_hours: Tu,We,Fr 09:00-18:00; Th 09:00-19:00; Sa 08:00-13:00
+website: https://www.haartraeume-hausen.de/

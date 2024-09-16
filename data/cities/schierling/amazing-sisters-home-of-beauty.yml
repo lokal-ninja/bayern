@@ -1,11 +1,11 @@
 id: 136791103
-type: way
+type: node
 latitude: 48.8369
 longitude: 12.18029
 postcode: "84069"
 city: Schierling
-street: "Pfarrer-Schnirle-Straße"
-housenumber: 2
+street: Pfarrer-Schnirle-Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

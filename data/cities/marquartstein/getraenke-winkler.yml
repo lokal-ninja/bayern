@@ -1,11 +1,11 @@
 id: 264017574
-type: way
+type: node
 latitude: 47.76149
 longitude: 12.46295
 postcode: "83250"
 city: Marquartstein
-street: "Staudacher Straße"
+street: Staudacher Straße
 housenumber: 9 a
-phone: "+49 8641 61219"
-opening_hours: "Mo-Fr 8:00-12:30, 13:30-18:30; Sa 08:00-14:00"
-website: "https://www.winkler-getraenke.de/portfolio/marquartstein-staudacherstr-9a/"
+phone: +49 8641 61219
+opening_hours: Mo-Fr 8:00-12:30, 13:30-18:30; Sa 08:00-14:00
+website: https://www.winkler-getraenke.de/portfolio/marquartstein-staudacherstr-9a/

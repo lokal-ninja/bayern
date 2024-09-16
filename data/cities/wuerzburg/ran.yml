@@ -1,11 +1,11 @@
 id: 94417276
-type: way
+type: node
 latitude: 49.79679
 longitude: 9.97899
 postcode: "97076"
 city: Würzburg
-street: "Nürnberger Straße"
-housenumber: 59
-phone: "+49 931 20091031"
-opening_hours: "24/7"
-website: "https://www.ran-tankstellen.de/tankstelle-wuerzburg"
+street: Nürnberger Straße
+housenumber: "59"
+phone: +49 931 20091031
+opening_hours: 24/7
+website: https://www.ran-tankstellen.de/tankstelle-wuerzburg

@@ -1,11 +1,11 @@
 id: 150661992
-type: way
+type: node
 latitude: 47.85124
 longitude: 12.13832
 postcode: "83022"
 city: Rosenheim
-street: "Simsseestraße"
-housenumber: 4
+street: Simsseestraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

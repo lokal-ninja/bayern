@@ -1,11 +1,11 @@
 id: 636462750
-type: way
+type: node
 latitude: 48.08209
 longitude: 12.63916
 postcode: "84558"
 city: Kirchweidach
-street: "Trostberger Straße"
-housenumber: 9
+street: Trostberger Straße
+housenumber: "9"
 phone: ""
 opening_hours: ""
-website: "http://www.pauli-parts.de/"
+website: http://www.pauli-parts.de/

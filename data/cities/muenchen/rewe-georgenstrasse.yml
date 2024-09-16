@@ -4,8 +4,8 @@ latitude: 48.15625
 longitude: 11.57183
 postcode: ""
 city: München
-street: "Georgenstraße"
-housenumber: 78
+street: Georgenstraße
+housenumber: "78"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 123619834
-type: way
+type: node
 latitude: 49.02512
 longitude: 12.14493
 postcode: "93055"
 city: Regensburg
-street: "Donaustaufer Straße"
-housenumber: 300
-phone: "+49 941 742 59"
+street: Donaustaufer Straße
+housenumber: "300"
+phone: +49 941 742 59
 opening_hours: ""
-website: "http://abschleppdienst-schoberth.de/"
+website: http://abschleppdienst-schoberth.de/

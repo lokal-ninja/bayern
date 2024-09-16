@@ -1,11 +1,11 @@
 id: 56218797
-type: way
+type: node
 latitude: 48.09029
 longitude: 11.50593
 postcode: "81477"
 city: München
-street: "Meglingerstraße"
-housenumber: 33
+street: Meglingerstraße
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
-website: "https://filialen.aldi-sued.de/bayern/muenchen/meglingerstrasse-33"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
+website: https://filialen.aldi-sued.de/bayern/muenchen/meglingerstrasse-33

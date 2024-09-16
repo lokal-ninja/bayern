@@ -1,11 +1,11 @@
 id: 1228280049
-type: way
+type: node
 latitude: 48.85093
 longitude: 12.96064
 postcode: "94469"
 city: Deggendorf
-street: "Industriestraße"
-housenumber: 15
+street: Industriestraße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,13:00-17:00"
+opening_hours: Mo-Fr 08:00-12:00,13:00-17:00
 website: ""

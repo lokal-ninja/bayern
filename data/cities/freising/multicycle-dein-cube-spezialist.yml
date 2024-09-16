@@ -4,8 +4,8 @@ latitude: 48.39975
 longitude: 11.77176
 postcode: "85356"
 city: Freising
-street: "Rudolf-Diesel-Straße"
-housenumber: 10
-phone: "+49 81 61 185 13 80"
-opening_hours: "Tu-Fr 09:30-18:00; Sa 09:00-15:00; Su, Mo, PH off"
-website: "https://multicycle.de/filiale-freising/"
+street: Rudolf-Diesel-Straße
+housenumber: "10"
+phone: +49 81 61 185 13 80
+opening_hours: Tu-Fr 09:30-18:00; Sa 09:00-15:00; Su, Mo, PH off
+website: https://multicycle.de/filiale-freising/

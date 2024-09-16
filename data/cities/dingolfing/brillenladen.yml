@@ -1,11 +1,11 @@
 id: 364904894
-type: way
+type: node
 latitude: 48.62908
 longitude: 12.49744
 postcode: "84130"
 city: Dingolfing
-street: "Bruckstraße"
-housenumber: 3
+street: Bruckstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-12:00"
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-12:00
 website: ""

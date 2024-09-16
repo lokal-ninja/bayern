@@ -1,11 +1,11 @@
 id: 185650913
-type: way
+type: node
 latitude: 47.80684
 longitude: 12.11672
 postcode: "83064"
 city: Raubling
-street: "Breiteicher Straße"
-housenumber: 28
+street: Breiteicher Straße
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

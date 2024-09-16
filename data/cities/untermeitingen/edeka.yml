@@ -1,11 +1,11 @@
 id: 385917462
-type: way
+type: node
 latitude: 48.16085
 longitude: 10.82089
 postcode: "86836"
 city: Untermeitingen
-street: "Lechring"
-housenumber: 1
+street: Lechring
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

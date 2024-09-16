@@ -5,7 +5,7 @@ longitude: 11.7408
 postcode: "92237"
 city: Sulzbach-Rosenberg
 street: ""
-housenumber: 2
-phone: "+49 9661 9069999"
+housenumber: "2"
+phone: +49 9661 9069999
 opening_hours: ""
-website: "https://www.generation-snow.de/"
+website: https://www.generation-snow.de/

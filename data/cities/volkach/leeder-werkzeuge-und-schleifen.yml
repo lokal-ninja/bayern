@@ -1,11 +1,11 @@
 id: 836182670
-type: way
+type: node
 latitude: 49.88492
 longitude: 10.28955
 postcode: "97332"
 city: Volkach
-street: "Landstraße"
-housenumber: 1
+street: Landstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

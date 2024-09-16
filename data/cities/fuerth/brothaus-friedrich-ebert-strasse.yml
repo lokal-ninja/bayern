@@ -1,11 +1,11 @@
 id: 331505165
-type: way
+type: node
 latitude: 49.4831
 longitude: 10.97049
 postcode: "90766"
 city: Fürth
-street: "Friedrich-Ebert-Straße"
-housenumber: 6
+street: Friedrich-Ebert-Straße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 05:30-18:00; Sa 05:30-17:00; Su 05:30-17:00"
+opening_hours: Mo-Fr 05:30-18:00; Sa 05:30-17:00; Su 05:30-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 34023441
-type: way
+type: node
 latitude: 49.36995
 longitude: 11.20709
 postcode: "90537"
 city: Feucht
-street: "Schwabacher Straße"
-housenumber: 44
-phone: "+49 9128 4004570"
+street: Schwabacher Straße
+housenumber: "44"
+phone: +49 9128 4004570
 opening_hours: ""
 website: ""

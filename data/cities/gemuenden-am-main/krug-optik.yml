@@ -4,8 +4,8 @@ latitude: 50.05569
 longitude: 9.69036
 postcode: "97737"
 city: Gemünden am Main
-street: "Obertorstraße"
-housenumber: 14
-phone: "+49 9351 605599"
-opening_hours: "Mo-Tu, Th-Fr 09:00-13:00, 14:00-18:00; We, Sa 09:00-13:00"
-website: "https://www.krug-optik.de/"
+street: Obertorstraße
+housenumber: "14"
+phone: +49 9351 605599
+opening_hours: Mo-Tu, Th-Fr 09:00-13:00, 14:00-18:00; We, Sa 09:00-13:00
+website: https://www.krug-optik.de/

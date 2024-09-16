@@ -4,8 +4,9 @@ latitude: 49.90126
 longitude: 10.89351
 postcode: "96052"
 city: Bamberg
-street: "Heiliggrabstraße"
-housenumber: 32
+street: Heiliggrabstraße
+housenumber: "32"
 phone: ""
-opening_hours: "May-Jun Mo-Sa 09:00-18:00; Jul-Apr Tu,We,Fr 09:00-17:00; Jul-Apr Sa 09:00-13:00"
+opening_hours: May-Jun Mo-Sa 09:00-18:00; Jul-Apr Tu,We,Fr 09:00-17:00; Jul-Apr Sa
+    09:00-13:00
 website: ""

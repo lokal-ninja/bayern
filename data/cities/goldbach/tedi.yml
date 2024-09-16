@@ -4,8 +4,8 @@ latitude: 49.99428
 longitude: 9.17873
 postcode: "63773"
 city: Goldbach
-street: "Bayernstraße"
-housenumber: 9
+street: Bayernstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-13:00"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-13:00
 website: ""

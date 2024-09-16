@@ -1,11 +1,11 @@
 id: 136022765
-type: way
+type: node
 latitude: 48.60812
 longitude: 11.57964
 postcode: "85296"
 city: Rohrbach
-street: "Lilienthalstraße"
-housenumber: 15
+street: Lilienthalstraße
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

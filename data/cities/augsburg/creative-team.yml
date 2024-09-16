@@ -4,8 +4,8 @@ latitude: 48.36269
 longitude: 10.86971
 postcode: "86157"
 city: Augsburg
-street: "Augsburger Straße"
-housenumber: 34
-phone: "+49 821 268 439 93"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-15:00"
-website: "http://creative-team-augsburg.de"
+street: Augsburger Straße
+housenumber: "34"
+phone: +49 821 268 439 93
+opening_hours: Tu-Fr 09:00-18:00; Sa 09:00-15:00
+website: http://creative-team-augsburg.de

@@ -1,11 +1,11 @@
 id: 436774063
-type: way
+type: node
 latitude: 49.00395
 longitude: 12.08481
 postcode: "93051"
 city: Regensburg
-street: "Karthauser Straße"
-housenumber: 8
-phone: "+49 941 94666144"
-opening_hours: "Mo-Fr 10:00-13:00,14:00-18:00"
+street: Karthauser Straße
+housenumber: "8"
+phone: +49 941 94666144
+opening_hours: Mo-Fr 10:00-13:00,14:00-18:00
 website: ""

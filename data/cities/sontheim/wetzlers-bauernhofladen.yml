@@ -4,8 +4,8 @@ latitude: 47.99253
 longitude: 10.36577
 postcode: "87776"
 city: Sontheim
-street: "Lindenhöf"
-housenumber: 3
-phone: "+49 8336 7846"
-opening_hours: "Th 18:00-20:00; Fr 14:00-16:30; Sa 08:00-12:00; oder nach Vereinbarung"
-website: "http://www.wetzlersbauernladen.de/"
+street: Lindenhöf
+housenumber: "3"
+phone: +49 8336 7846
+opening_hours: Th 18:00-20:00; Fr 14:00-16:30; Sa 08:00-12:00; "oder nach Vereinbarung"
+website: http://www.wetzlersbauernladen.de/

@@ -4,8 +4,8 @@ latitude: 48.12375
 longitude: 11.56735
 postcode: "80469"
 city: München
-street: "Auenstraße"
-housenumber: 29
+street: Auenstraße
+housenumber: "29"
 phone: ""
-opening_hours: "13:00-19:00; Sa 11:00-17:00"
-website: "https://www.ryzon.net/"
+opening_hours: 13:00-19:00; Sa 11:00-17:00
+website: https://www.ryzon.net/

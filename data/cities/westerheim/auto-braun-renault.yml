@@ -1,11 +1,11 @@
 id: 60356438
-type: way
+type: node
 latitude: 48.0122
 longitude: 10.3076
 postcode: "87784"
 city: Westerheim
-street: "Sontheimer Straße"
-housenumber: 16
+street: Sontheimer Straße
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

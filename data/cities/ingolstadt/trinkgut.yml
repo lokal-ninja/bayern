@@ -1,11 +1,11 @@
 id: 121462345
-type: way
+type: node
 latitude: 48.73878
 longitude: 11.43761
 postcode: "85051"
 city: Ingolstadt
-street: "Münchener Straße"
-housenumber: 140
+street: Münchener Straße
+housenumber: "140"
 phone: ""
 opening_hours: ""
 website: ""

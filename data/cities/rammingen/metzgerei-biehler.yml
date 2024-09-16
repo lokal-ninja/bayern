@@ -1,11 +1,11 @@
 id: 107161783
-type: way
+type: node
 latitude: 48.06176
 longitude: 10.58407
 postcode: "86871"
 city: Rammingen
-street: "Hauptstraße"
-housenumber: 52
+street: Hauptstraße
+housenumber: "52"
 phone: ""
 opening_hours: ""
 website: ""

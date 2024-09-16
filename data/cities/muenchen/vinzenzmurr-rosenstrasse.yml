@@ -4,8 +4,8 @@ latitude: 48.13655
 longitude: 11.57354
 postcode: "80331"
 city: München
-street: "Rosenstraße"
-housenumber: 7
+street: Rosenstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00"
+opening_hours: Mo-Sa 09:00-19:00
 website: ""

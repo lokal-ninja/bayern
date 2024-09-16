@@ -1,11 +1,11 @@
 id: 240217699
-type: way
+type: node
 latitude: 48.24072
 longitude: 10.8751
 postcode: "86343"
 city: Königsbrunn
-street: "Landsberger Straße"
-housenumber: 129
-phone: "08231 4734"
+street: Landsberger Straße
+housenumber: "129"
+phone: 08231 4734
 opening_hours: ""
 website: ""

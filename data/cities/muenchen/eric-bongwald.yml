@@ -4,8 +4,8 @@ latitude: 48.12892
 longitude: 11.56978
 postcode: "80469"
 city: München
-street: "Hans-Sachs-Straße"
-housenumber: 22
-phone: "+49 89 26022212"
+street: Hans-Sachs-Straße
+housenumber: "22"
+phone: +49 89 26022212
 opening_hours: ""
-website: "https://friseurericbongwald.de/"
+website: https://friseurericbongwald.de/

@@ -1,11 +1,11 @@
 id: 576760718
-type: way
+type: node
 latitude: 49.55475
 longitude: 10.53889
 postcode: "91463"
 city: Dietersheim
-street: "Beerbacher Straße"
-housenumber: 2
+street: Beerbacher Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

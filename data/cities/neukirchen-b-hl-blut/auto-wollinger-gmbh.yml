@@ -1,11 +1,11 @@
 id: 256557900
-type: way
+type: node
 latitude: 49.25147
 longitude: 12.97739
 postcode: "93453"
 city: Neukirchen b. Hl. Blut
-street: "Lamer Straße"
-housenumber: 35
-phone: "+49 9947 905150"
+street: Lamer Straße
+housenumber: "35"
+phone: +49 9947 905150
 opening_hours: ""
-website: "https://www.auto-wollinger.de/"
+website: https://www.auto-wollinger.de/

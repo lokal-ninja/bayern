@@ -1,11 +1,11 @@
 id: 88142785
-type: way
+type: node
 latitude: 47.86943
 longitude: 11.16356
 postcode: "82407"
 city: Wielenbach
-street: "Blumenstraße"
-housenumber: 35
-phone: "+49 881 934115"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-16:00,09:30-18:00"
-website: "https://www.sport-conrad.com/blog/de/filiale-wielenbach/"
+street: Blumenstraße
+housenumber: "35"
+phone: +49 881 934115
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-16:00,09:30-18:00
+website: https://www.sport-conrad.com/blog/de/filiale-wielenbach/

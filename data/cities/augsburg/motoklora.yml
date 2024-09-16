@@ -1,11 +1,11 @@
 id: 53535603
-type: way
+type: node
 latitude: 48.3203
 longitude: 10.89273
 postcode: "86179"
 city: Augsburg
-street: "Unterer Talweg"
-housenumber: 38
-phone: "+49 821 8 77 55"
-opening_hours: "Mo-Fr 08:30-18:30; Sa 08:30-14:00"
-website: "http://www.motoklora.com/"
+street: Unterer Talweg
+housenumber: "38"
+phone: +49 821 8 77 55
+opening_hours: Mo-Fr 08:30-18:30; Sa 08:30-14:00
+website: http://www.motoklora.com/

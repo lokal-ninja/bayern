@@ -1,11 +1,11 @@
 id: 183266190
-type: way
+type: node
 latitude: 49.95916
 longitude: 11.60509
 postcode: "95448"
 city: Bayreuth
-street: "Theodor-Schmidt-Straße"
-housenumber: 12
+street: Theodor-Schmidt-Straße
+housenumber: "12"
 phone: ""
 opening_hours: ""
-website: "https://filialen.aldi-sued.de/bayern/bayreuth/theodor-schmidt-strasse-12"
+website: https://filialen.aldi-sued.de/bayern/bayreuth/theodor-schmidt-strasse-12

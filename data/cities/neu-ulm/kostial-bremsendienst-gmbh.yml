@@ -1,11 +1,11 @@
 id: 105787769
-type: way
+type: node
 latitude: 48.38856
 longitude: 10.04437
 postcode: "89231"
 city: Neu-Ulm
-street: "Böttgerstraße"
-housenumber: 12
+street: Böttgerstraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

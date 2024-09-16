@@ -1,11 +1,11 @@
 id: 112410816
-type: way
+type: node
 latitude: 47.73531
 longitude: 10.3811
 postcode: "87488"
 city: Betzigau
-street: "Kempter-Wald-Straße"
-housenumber: 11
+street: Kempter-Wald-Straße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

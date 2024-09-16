@@ -1,11 +1,11 @@
 id: 43519242
-type: way
+type: node
 latitude: 49.58037
 longitude: 10.97336
 postcode: "91056"
 city: Erlangen
-street: "Schallershofer Straße"
-housenumber: 114
+street: Schallershofer Straße
+housenumber: "114"
 phone: ""
 opening_hours: ""
 website: ""

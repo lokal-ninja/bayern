@@ -1,11 +1,11 @@
 id: 71283412
-type: way
+type: node
 latitude: 49.55816
 longitude: 11.34378
 postcode: "91220"
 city: Schnaittach
-street: "Hersbrucker Straße"
-housenumber: 14
+street: Hersbrucker Straße
+housenumber: "14"
 phone: "+4991534162"
-opening_hours: "Mo-Fr 9:00-18:00; Sa 9:30-13:00"
-website: "http://www.fernseh-conny.de/"
+opening_hours: Mo-Fr 9:00-18:00; Sa 9:30-13:00
+website: http://www.fernseh-conny.de/

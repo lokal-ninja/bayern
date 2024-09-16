@@ -4,8 +4,8 @@ latitude: 49.67185
 longitude: 10.72
 postcode: "91486"
 city: Uehlfeld
-street: "Neuweststraße"
-housenumber: 4
+street: Neuweststraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://db-motorsport.de/"
+website: https://db-motorsport.de/

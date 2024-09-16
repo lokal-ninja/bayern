@@ -1,11 +1,11 @@
 id: 440671823
-type: way
+type: node
 latitude: 48.93302
 longitude: 12.20231
 postcode: "93096"
 city: Köfering
-street: "Straßäcker"
-housenumber: 4
+street: Straßäcker
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

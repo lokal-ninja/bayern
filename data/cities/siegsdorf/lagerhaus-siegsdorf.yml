@@ -4,8 +4,8 @@ latitude: 47.82262
 longitude: 12.64618
 postcode: "83313"
 city: Siegsdorf
-street: "Raiffeisenstraße"
-housenumber: 2
-phone: "+49 8662 7976"
-opening_hours: "Mo-Fr 07:30-17:00; Sa 08:00-12:00"
-website: "https://www.vr-lagerhaus-obb-so.de/"
+street: Raiffeisenstraße
+housenumber: "2"
+phone: +49 8662 7976
+opening_hours: Mo-Fr 07:30-17:00; Sa 08:00-12:00
+website: https://www.vr-lagerhaus-obb-so.de/

@@ -4,8 +4,8 @@ latitude: 49.73065
 longitude: 10.19586
 postcode: "97318"
 city: Kitzingen
-street: "Max-Planck-Straße"
-housenumber: 8
-phone: "+49 9321 3826337"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://www.thomas-philipps.de/de/"
+street: Max-Planck-Straße
+housenumber: "8"
+phone: +49 9321 3826337
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
+website: https://www.thomas-philipps.de/de/

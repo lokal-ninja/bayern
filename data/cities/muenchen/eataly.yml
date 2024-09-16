@@ -4,8 +4,8 @@ latitude: 48.13444
 longitude: 11.57455
 postcode: "80331"
 city: München
-street: "Viktualienmarkt"
-housenumber: 15
+street: Viktualienmarkt
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://www.eataly.net/de_de/geschaefte/muenchen/"
+opening_hours: Mo-Sa 09:30-20:00
+website: https://www.eataly.net/de_de/geschaefte/muenchen/

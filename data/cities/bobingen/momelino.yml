@@ -4,8 +4,8 @@ latitude: 48.27093
 longitude: 10.83419
 postcode: "86399"
 city: Bobingen
-street: "Hochstraße"
-housenumber: 15
+street: Hochstraße
+housenumber: "15"
 phone: "+4982349986229"
-opening_hours: "Mo-Th 09:30-13:30; Fr 09:30-17:30,Sa 09:30-13:30"
-website: "https://www.momelino.com/"
+opening_hours: Mo-Th 09:30-13:30; Fr 09:30-17:30,Sa 09:30-13:30
+website: https://www.momelino.com/

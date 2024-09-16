@@ -1,11 +1,11 @@
 id: 238175024
-type: way
+type: node
 latitude: 49.12113
 longitude: 10.77816
 postcode: "91710"
 city: Gunzenhausen
-street: "Heidestraße"
-housenumber: 20
+street: Heidestraße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

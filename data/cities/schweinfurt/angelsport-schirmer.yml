@@ -1,11 +1,11 @@
 id: 87317928
-type: way
+type: node
 latitude: 50.03056
 longitude: 10.23738
 postcode: "97424"
 city: Schweinfurt
-street: "Heini-Dittmar-Straße"
-housenumber: 10
+street: Heini-Dittmar-Straße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 465216313
-type: way
+type: node
 latitude: 48.3946
 longitude: 10.69267
 postcode: "86497"
 city: Horgau
-street: "Augsburger Straße"
-housenumber: 8
+street: Augsburger Straße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

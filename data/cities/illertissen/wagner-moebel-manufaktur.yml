@@ -1,11 +1,11 @@
 id: 780595374
-type: way
+type: node
 latitude: 48.21801
 longitude: 10.12625
 postcode: "89257"
 city: Illertissen
-street: "Leitschäcker"
-housenumber: 5
+street: Leitschäcker
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 10:00-14:00"
-website: "https://www.wagner-moebel.de/"
+opening_hours: Mo-Fr 08:00-18:00; Sa 10:00-14:00
+website: https://www.wagner-moebel.de/

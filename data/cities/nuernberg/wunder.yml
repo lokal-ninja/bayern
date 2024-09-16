@@ -4,8 +4,8 @@ latitude: 49.40751
 longitude: 11.04064
 postcode: "90451"
 city: Nürnberg
-street: "Hafenstraße"
-housenumber: 54
-phone: "+49 911 6427654"
-opening_hours: "Mo-Fr 05:30-17:00"
+street: Hafenstraße
+housenumber: "54"
+phone: +49 911 6427654
+opening_hours: Mo-Fr 05:30-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 89858032
-type: way
+type: node
 latitude: 50.03213
 longitude: 10.53331
 postcode: "97437"
 city: Haßfurt
-street: "Siemensstraße"
-housenumber: 11
+street: Siemensstraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

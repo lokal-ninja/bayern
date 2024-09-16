@@ -4,8 +4,8 @@ latitude: 48.13098
 longitude: 11.51111
 postcode: "80686"
 city: München
-street: "Fachnerstraße"
-housenumber: 41
+street: Fachnerstraße
+housenumber: "41"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.penny.de/"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.penny.de/

@@ -4,8 +4,8 @@ latitude: 48.74906
 longitude: 11.47263
 postcode: "85053"
 city: Ingolstadt
-street: "Eriagstraße"
-housenumber: 23
+street: Eriagstraße
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:00; Sa 08:00-17:00; Su,PH closed"
-website: "https://www.backhaus-hackner.de"
+opening_hours: Mo-Fr 06:30-18:00; Sa 08:00-17:00; Su,PH closed
+website: https://www.backhaus-hackner.de

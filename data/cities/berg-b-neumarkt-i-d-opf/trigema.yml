@@ -1,11 +1,11 @@
 id: 31008144
-type: way
+type: node
 latitude: 49.31204
 longitude: 11.4739
 postcode: "92348"
 city: Berg b.Neumarkt i.d.OPf.
-street: "Karl-Schiller-Straße"
-housenumber: 8
+street: Karl-Schiller-Straße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

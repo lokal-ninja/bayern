@@ -1,11 +1,11 @@
 id: 89848120
-type: way
+type: node
 latitude: 50.03753
 longitude: 10.53501
 postcode: "97437"
 city: Haßfurt
-street: "Ohmstraße"
-housenumber: 4
+street: Ohmstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

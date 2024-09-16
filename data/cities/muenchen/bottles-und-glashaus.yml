@@ -4,8 +4,8 @@ latitude: 48.13663
 longitude: 11.56808
 postcode: "80331"
 city: München
-street: "Josephspitalstraße"
-housenumber: 6
-phone: "+49 89 263135"
-opening_hours: "Mo-Fr 12:00-18:00"
-website: "https://www.bottles.de/"
+street: Josephspitalstraße
+housenumber: "6"
+phone: +49 89 263135
+opening_hours: Mo-Fr 12:00-18:00
+website: https://www.bottles.de/

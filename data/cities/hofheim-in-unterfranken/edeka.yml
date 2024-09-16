@@ -1,11 +1,11 @@
 id: 170028300
-type: way
+type: node
 latitude: 50.13479
 longitude: 10.52514
 postcode: "97461"
 city: Hofheim in Unterfranken
-street: "Am Sänniggrund"
-housenumber: 8
+street: Am Sänniggrund
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
+opening_hours: Mo-Sa 07:00-20:00; PH off
 website: ""

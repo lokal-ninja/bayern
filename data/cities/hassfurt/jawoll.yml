@@ -4,8 +4,8 @@ latitude: 50.03035
 longitude: 10.52178
 postcode: "97437"
 city: Haßfurt
-street: "Am Wasserwerk"
-housenumber: 2
+street: Am Wasserwerk
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.jawoll.de/filialen/hassfurt"
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.jawoll.de/filialen/hassfurt

@@ -1,11 +1,11 @@
 id: 24662335
-type: way
+type: node
 latitude: 49.96319
 longitude: 9.17461
 postcode: "63743"
 city: Aschaffenburg
-street: "Würzburger Straße"
-housenumber: 180
+street: Würzburger Straße
+housenumber: "180"
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:00; Sa 08:00-16:00"
+opening_hours: Mo-Fr 07:30-19:00; Sa 08:00-16:00
 website: ""

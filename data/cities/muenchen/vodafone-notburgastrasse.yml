@@ -4,8 +4,8 @@ latitude: 48.15758
 longitude: 11.51121
 postcode: "80639"
 city: München
-street: "Notburgastraße"
-housenumber: 4
+street: Notburgastraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 10:00-13:00,14:00-18:00"
+opening_hours: Mo-Fr 10:00-13:00,14:00-18:00
 website: ""

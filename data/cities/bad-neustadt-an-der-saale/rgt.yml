@@ -1,11 +1,11 @@
 id: 98730654
-type: way
+type: node
 latitude: 50.31822
 longitude: 10.20408
 postcode: "97616"
 city: Bad Neustadt an der Saale
-street: "Saalestraße"
-housenumber: 15
+street: Saalestraße
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

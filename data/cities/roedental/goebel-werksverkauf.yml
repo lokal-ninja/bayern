@@ -1,11 +1,11 @@
 id: 143763286
-type: way
+type: node
 latitude: 50.28782
 longitude: 11.02138
 postcode: "96472"
 city: Rödental
-street: "Coburger Straße"
-housenumber: 6
+street: Coburger Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

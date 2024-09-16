@@ -4,8 +4,8 @@ latitude: 50.37705
 longitude: 9.90946
 postcode: "97772"
 city: Wildflecken
-street: "Sonnenstraße"
-housenumber: 35
-phone: "+49 9745 1261"
-opening_hours: "Mo,Tu off; We-Fr 18:00-01:00, Sa,Su 10:00+"
-website: "https://www.wuerzburger-hof.net/"
+street: Sonnenstraße
+housenumber: "35"
+phone: +49 9745 1261
+opening_hours: Mo,Tu off; We-Fr 18:00-01:00, Sa,Su 10:00+
+website: https://www.wuerzburger-hof.net/

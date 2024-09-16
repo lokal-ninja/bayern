@@ -1,11 +1,11 @@
 id: 162007950
-type: way
+type: node
 latitude: 49.67107
 longitude: 9.95742
 postcode: ""
 city: Giebelstadt
-street: "Adenauerstraße"
-housenumber: 5
+street: Adenauerstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

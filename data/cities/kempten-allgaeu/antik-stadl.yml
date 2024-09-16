@@ -1,11 +1,11 @@
 id: 100871994
-type: way
+type: node
 latitude: 47.75346
 longitude: 10.28938
 postcode: "87439"
 city: Kempten (Allgäu)
-street: "Wiggensbacher Straße"
-housenumber: 49
+street: Wiggensbacher Straße
+housenumber: "49"
 phone: ""
 opening_hours: ""
 website: ""

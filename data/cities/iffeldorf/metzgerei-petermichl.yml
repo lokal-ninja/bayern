@@ -1,11 +1,11 @@
 id: 312674301
-type: way
+type: node
 latitude: 47.77693
 longitude: 11.32556
 postcode: "82393"
 city: Iffeldorf
-street: "Alpenstraße"
-housenumber: 2
-phone: "+49 8856 2642"
+street: Alpenstraße
+housenumber: "2"
+phone: +49 8856 2642
 opening_hours: ""
 website: ""

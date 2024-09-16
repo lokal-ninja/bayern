@@ -1,11 +1,11 @@
 id: 143183020
-type: way
+type: node
 latitude: 48.13568
 longitude: 11.41238
 postcode: "81249"
 city: München
-street: "Anton-Böck-Straße"
-housenumber: 32
-phone: "+49 89 89796030"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:00-17:00"
-website: "https://www.house-of-flames.com"
+street: Anton-Böck-Straße
+housenumber: "32"
+phone: +49 89 89796030
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:00-17:00
+website: https://www.house-of-flames.com

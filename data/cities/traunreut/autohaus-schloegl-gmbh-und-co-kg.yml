@@ -1,11 +1,11 @@
 id: 264732788
-type: way
+type: node
 latitude: 47.96134
 longitude: 12.60649
 postcode: "83301"
 city: Traunreut
-street: "Trostberger Straße"
-housenumber: 3
+street: Trostberger Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 07:00-17:00; Sa 09:00-12:00"
-website: "https://www.schloegl.de/"
+opening_hours: Mo-Fr 07:00-17:00; Sa 09:00-12:00
+website: https://www.schloegl.de/

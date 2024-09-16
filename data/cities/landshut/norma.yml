@@ -4,8 +4,8 @@ latitude: 48.554
 longitude: 12.14746
 postcode: "84030"
 city: Landshut
-street: "Siemensstraße"
-housenumber: 7
+street: Siemensstraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://norma-online.de"
+website: https://norma-online.de

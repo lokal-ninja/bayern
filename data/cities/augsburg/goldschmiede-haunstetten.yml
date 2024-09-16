@@ -4,8 +4,8 @@ latitude: 48.31201
 longitude: 10.9064
 postcode: "86179"
 city: Augsburg
-street: "Hofackerstraße"
-housenumber: 9
+street: Hofackerstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 09:30-13:00, Mo,We-Fr 14:30-18:00, Sa 09:30-13:00"
-website: "https://silberschmiede.de/filialen"
+opening_hours: Mo-Fr 09:30-13:00, Mo,We-Fr 14:30-18:00, Sa 09:30-13:00
+website: https://silberschmiede.de/filialen

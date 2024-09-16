@@ -1,11 +1,11 @@
 id: 536691236
-type: way
+type: node
 latitude: 48.70403
 longitude: 12.29501
 postcode: "84092"
 city: Bayerbach bei Ergoldsbach
-street: "Feuchtener Straße"
-housenumber: 2
-phone: "+49 8774 593"
+street: Feuchtener Straße
+housenumber: "2"
+phone: +49 8774 593
 opening_hours: ""
-website: "https://www.opel-rieder-bayerbach.de"
+website: https://www.opel-rieder-bayerbach.de

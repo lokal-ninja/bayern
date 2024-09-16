@@ -1,11 +1,11 @@
 id: 53588988
-type: way
+type: node
 latitude: 48.2031
 longitude: 11.54436
 postcode: "80995"
 city: München
-street: "Lerchenstraße"
-housenumber: 20
+street: Lerchenstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Th 08:00-12:30,13:30-18:00; Fr 08:00-12:30,13:30-16:00"
-website: "https://www.boxer-werk.de/"
+opening_hours: Mo-Th 08:00-12:30,13:30-18:00; Fr 08:00-12:30,13:30-16:00
+website: https://www.boxer-werk.de/

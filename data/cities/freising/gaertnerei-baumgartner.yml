@@ -1,11 +1,11 @@
 id: 32637000
-type: way
+type: node
 latitude: 48.39517
 longitude: 11.77693
 postcode: "85356"
 city: Freising
-street: "Kepserstraße"
-housenumber: 88
+street: Kepserstraße
+housenumber: "88"
 phone: ""
 opening_hours: ""
 website: ""

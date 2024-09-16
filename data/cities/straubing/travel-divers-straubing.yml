@@ -1,11 +1,11 @@
 id: 368085938
-type: way
+type: node
 latitude: 48.87903
 longitude: 12.5662
 postcode: "94315"
 city: Straubing
-street: "Max-Gerhaher-Straße"
-housenumber: 14
+street: Max-Gerhaher-Straße
+housenumber: "14"
 phone: ""
 opening_hours: ""
-website: "http://www.travel-divers-straubing.de/"
+website: http://www.travel-divers-straubing.de/

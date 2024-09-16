@@ -1,11 +1,11 @@
 id: 131448119
-type: way
+type: node
 latitude: 49.48729
 longitude: 11.00368
 postcode: "90765"
 city: Fürth
-street: "Alte Reutstraße"
-housenumber: 99
+street: Alte Reutstraße
+housenumber: "99"
 phone: ""
 opening_hours: ""
 website: ""

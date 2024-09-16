@@ -1,11 +1,11 @@
 id: 318306655
-type: way
+type: node
 latitude: 48.4437
 longitude: 11.36435
 postcode: "85305"
 city: Jetzendorf
-street: "Dorfstraße"
-housenumber: 9
+street: Dorfstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-14:00"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-14:00
 website: ""

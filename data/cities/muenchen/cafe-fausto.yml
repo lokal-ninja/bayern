@@ -4,8 +4,8 @@ latitude: 48.10567
 longitude: 11.56662
 postcode: "81543"
 city: München
-street: "Birkenleiten"
-housenumber: 43
-phone: "+49 89 62231113"
-opening_hours: "Mo-Fr 11:00-19:00; Sa 10:00-19:00"
+street: Birkenleiten
+housenumber: "43"
+phone: +49 89 62231113
+opening_hours: Mo-Fr 11:00-19:00; Sa 10:00-19:00
 website: ""

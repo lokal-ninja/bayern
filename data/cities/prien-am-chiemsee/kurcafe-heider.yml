@@ -4,8 +4,8 @@ latitude: 47.856
 longitude: 12.34408
 postcode: "83209"
 city: Prien am Chiemsee
-street: "Marktplatz"
-housenumber: 6
-phone: "+49 8051 1534"
-opening_hours: "Tu-Sa 08:00-18:00; Su 08:30-18:00; Mo off"
-website: "http://www.cafe-heider.de/"
+street: Marktplatz
+housenumber: "6"
+phone: +49 8051 1534
+opening_hours: Tu-Sa 08:00-18:00; Su 08:30-18:00; Mo off
+website: http://www.cafe-heider.de/

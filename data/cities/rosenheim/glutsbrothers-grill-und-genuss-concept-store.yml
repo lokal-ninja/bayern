@@ -4,8 +4,8 @@ latitude: 47.82501
 longitude: 12.09703
 postcode: "83026"
 city: Rosenheim
-street: "Panger Straße"
-housenumber: 27
-phone: "+49 8031 67904"
-opening_hours: "Mo-Fr 09:00-12:00, 14:00-18:00; Sa 09:00-12:00"
-website: "https://glutsbrothers.de"
+street: Panger Straße
+housenumber: "27"
+phone: +49 8031 67904
+opening_hours: Mo-Fr 09:00-12:00, 14:00-18:00; Sa 09:00-12:00
+website: https://glutsbrothers.de

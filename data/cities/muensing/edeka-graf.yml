@@ -4,8 +4,8 @@ latitude: 47.90365
 longitude: 11.36976
 postcode: "82541"
 city: Münsing
-street: "Bachstraße"
-housenumber: 3
+street: Bachstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 07:00-12:30, Mo,Tu,Th,Fr 14:15-18:00"
-website: "https://www.edeka.de"
+opening_hours: Mo-Sa 07:00-12:30, Mo,Tu,Th,Fr 14:15-18:00
+website: https://www.edeka.de

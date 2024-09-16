@@ -1,11 +1,11 @@
 id: 215429805
-type: way
+type: node
 latitude: 50.21893
 longitude: 10.11171
 postcode: "97720"
 city: Nüdlingen
-street: "Am Sinnberg"
-housenumber: 2
+street: Am Sinnberg
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Th 08:00-12:00,13:00-17:00; Fr 08:00-12:00,13:00-15:00"
+opening_hours: Mo-Th 08:00-12:00,13:00-17:00; Fr 08:00-12:00,13:00-15:00
 website: ""

@@ -1,11 +1,11 @@
 id: 179712064
-type: way
+type: node
 latitude: 49.09564
 longitude: 10.99246
 postcode: "91785"
 city: Pleinfeld
-street: "Gewerbepark"
-housenumber: 4
+street: Gewerbepark
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

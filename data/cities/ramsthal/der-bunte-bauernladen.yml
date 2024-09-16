@@ -4,8 +4,8 @@ latitude: 50.13978
 longitude: 10.06773
 postcode: "97729"
 city: Ramsthal
-street: "Hauptstraße"
-housenumber: 11
-phone: "+49 9704 6983"
-opening_hours: "Tu 16:00-19:00; Fr 16:00-19:00; Sa 08:00-11:00 || nach Vereinbarung"
-website: "https://www.regionales-bayern.de/anbieter/der-bunte-bauernladen-11955/"
+street: Hauptstraße
+housenumber: "11"
+phone: +49 9704 6983
+opening_hours: Tu 16:00-19:00; Fr 16:00-19:00; Sa 08:00-11:00 || "nach Vereinbarung"
+website: https://www.regionales-bayern.de/anbieter/der-bunte-bauernladen-11955/

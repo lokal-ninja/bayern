@@ -1,11 +1,11 @@
 id: 100513760
-type: way
+type: node
 latitude: 48.33317
 longitude: 10.04108
 postcode: "89250"
 city: Senden
-street: "Danziger Straße"
-housenumber: 9
+street: Danziger Straße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://aldi-sued.de/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://aldi-sued.de/

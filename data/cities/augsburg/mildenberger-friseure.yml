@@ -4,8 +4,8 @@ latitude: 48.3872
 longitude: 10.91389
 postcode: "86167"
 city: Augsburg
-street: "Linke Brandstraße"
-housenumber: 24
-phone: "+49 821 7956949"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-15:00; Mo Off ||nach Vereinbarung"
-website: "https://www.mildenberger-friseure.de/"
+street: Linke Brandstraße
+housenumber: "24"
+phone: +49 821 7956949
+opening_hours: Tu-Fr 09:00-18:00; Sa 09:00-15:00; Mo Off ||"nach Vereinbarung"
+website: https://www.mildenberger-friseure.de/

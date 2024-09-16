@@ -1,11 +1,11 @@
 id: 297535593
-type: way
+type: node
 latitude: 49.342
 longitude: 10.79757
 postcode: "91560"
 city: Heilsbronn
-street: "Nürnberger Straße"
-housenumber: 25
-phone: "+49 9872 9716 0"
-opening_hours: "Mo-Th 07:30-17:15; Fr 07:30-16:00; Sa 08:00-12:00"
-website: "https://www.breitschwert.de/"
+street: Nürnberger Straße
+housenumber: "25"
+phone: +49 9872 9716 0
+opening_hours: Mo-Th 07:30-17:15; Fr 07:30-16:00; Sa 08:00-12:00
+website: https://www.breitschwert.de/

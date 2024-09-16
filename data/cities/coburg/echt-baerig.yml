@@ -4,8 +4,8 @@ latitude: 50.26001
 longitude: 10.96373
 postcode: "96450"
 city: Coburg
-street: "Webergasse"
-housenumber: 29
-phone: "+49 9561 799090"
-opening_hours: "Mo-Fr 10:00-16:00; Sa 10:00-13:00"
-website: "http://www.echt-baerig-coburg.de/"
+street: Webergasse
+housenumber: "29"
+phone: +49 9561 799090
+opening_hours: Mo-Fr 10:00-16:00; Sa 10:00-13:00
+website: http://www.echt-baerig-coburg.de/

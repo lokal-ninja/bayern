@@ -4,8 +4,8 @@ latitude: 48.1387
 longitude: 11.57766
 postcode: "80331"
 city: München
-street: "Dienerstraße"
-housenumber: 12
-phone: "+49 89 23545900"
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://www.manufactum.de/manufactum-muenchen-c199359/"
+street: Dienerstraße
+housenumber: "12"
+phone: +49 89 23545900
+opening_hours: Mo-Sa 09:30-19:00
+website: https://www.manufactum.de/manufactum-muenchen-c199359/

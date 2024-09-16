@@ -1,11 +1,11 @@
 id: 705712795
-type: way
+type: node
 latitude: 47.63363
 longitude: 11.224
 postcode: "82441"
 city: Ohlstadt
-street: "Partenkirchner Straße"
-housenumber: 20
-phone: "+49 8841 6722296"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 07:30-18:00"
+street: Partenkirchner Straße
+housenumber: "20"
+phone: +49 8841 6722296
+opening_hours: Mo-Fr 08:00-20:00; Sa 07:30-18:00
 website: ""

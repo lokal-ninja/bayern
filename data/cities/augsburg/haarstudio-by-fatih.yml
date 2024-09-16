@@ -4,8 +4,8 @@ latitude: 48.36805
 longitude: 10.91283
 postcode: "86153"
 city: Augsburg
-street: "Schäfflerbachstraße"
-housenumber: 1
-phone: "+49 821 47016708"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:00"
+street: Schäfflerbachstraße
+housenumber: "1"
+phone: +49 821 47016708
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-17:00
 website: ""

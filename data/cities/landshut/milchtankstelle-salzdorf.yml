@@ -1,11 +1,11 @@
 id: 785651251
-type: way
+type: node
 latitude: 48.51969
 longitude: 12.17463
 postcode: "84036"
 city: Landshut
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

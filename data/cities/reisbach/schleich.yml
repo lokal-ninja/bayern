@@ -1,11 +1,11 @@
 id: 704119930
-type: way
+type: node
 latitude: 48.57235
 longitude: 12.62703
 postcode: "94419"
 city: Reisbach
-street: "Marktplatz"
-housenumber: 20
+street: Marktplatz
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 05:45-13:30; Sa 07:00-12:00; PH closed"
-website: "https://www.baeckerei-schleich.de/"
+opening_hours: Mo-Fr 05:45-13:30; Sa 07:00-12:00; PH closed
+website: https://www.baeckerei-schleich.de/

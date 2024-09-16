@@ -1,11 +1,11 @@
 id: 102300392
-type: way
+type: node
 latitude: 49.34747
 longitude: 10.80293
 postcode: "91560"
 city: Heilsbronn
-street: "Gutenbergstraße"
-housenumber: 16
-phone: "+49 9872 9771 50"
-opening_hours: "Tu-Fr 09:00-12:30, 13:30-18:00; Sa 09:00-13:00"
-website: "www.hele.de"
+street: Gutenbergstraße
+housenumber: "16"
+phone: +49 9872 9771 50
+opening_hours: Tu-Fr 09:00-12:30, 13:30-18:00; Sa 09:00-13:00
+website: www.hele.de

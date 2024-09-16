@@ -1,11 +1,11 @@
 id: 110514298
-type: way
+type: node
 latitude: 49.85003
 longitude: 9.96521
 postcode: "97222"
 city: Rimpar
-street: "Kettelerstraße"
-housenumber: 1
-phone: "+49 9365 1000"
-opening_hours: "Mo-Th 08:00-17:30; Fr 08:00-16:30"
-website: "http://www.auto-mannert.de/"
+street: Kettelerstraße
+housenumber: "1"
+phone: +49 9365 1000
+opening_hours: Mo-Th 08:00-17:30; Fr 08:00-16:30
+website: http://www.auto-mannert.de/

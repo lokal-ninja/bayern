@@ -4,8 +4,8 @@ latitude: 47.56954
 longitude: 10.70048
 postcode: "87629"
 city: Füssen
-street: "Reichenstraße"
-housenumber: 40
+street: Reichenstraße
+housenumber: "40"
 phone: ""
-opening_hours: "Mo-Sa 10:00-17:00"
-website: "https://www.modeja.de/"
+opening_hours: Mo-Sa 10:00-17:00
+website: https://www.modeja.de/

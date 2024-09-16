@@ -4,8 +4,8 @@ latitude: 48.00171
 longitude: 11.35319
 postcode: "82319"
 city: Starnberg
-street: "Petersbrunner Straße"
-housenumber: 14
+street: Petersbrunner Straße
+housenumber: "14"
 phone: ""
-opening_hours: "Fr 14:00-18:00; Sa 10:00-14:00; PH off"
-website: "https://www.fahrrad-anhaenger.de/"
+opening_hours: Fr 14:00-18:00; Sa 10:00-14:00; PH off
+website: https://www.fahrrad-anhaenger.de/

@@ -1,11 +1,11 @@
 id: 231241734
-type: way
+type: node
 latitude: 48.88489
 longitude: 12.56818
 postcode: "94315"
 city: Straubing
-street: "Hagen Allee"
-housenumber: 8
-phone: "+49 9421 12538"
-opening_hours: "Mo-Th 07:00-12:00,13:00-16:30; Fr 07:00-12:00"
-website: "http://www.glaserei-kronacker.de/"
+street: Hagen Allee
+housenumber: "8"
+phone: +49 9421 12538
+opening_hours: Mo-Th 07:00-12:00,13:00-16:30; Fr 07:00-12:00
+website: http://www.glaserei-kronacker.de/

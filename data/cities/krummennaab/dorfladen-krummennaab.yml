@@ -4,8 +4,8 @@ latitude: 49.83106
 longitude: 12.1005
 postcode: "92703"
 city: Krummennaab
-street: "Hauptstraße"
-housenumber: 7
+street: Hauptstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo,We,Fr,Sa 7:00-12:30, 14:30-18:00; Tu, Th 7:00-12:30"
+opening_hours: Mo,We,Fr,Sa 7:00-12:30, 14:30-18:00; Tu, Th 7:00-12:30
 website: ""

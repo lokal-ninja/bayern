@@ -1,11 +1,11 @@
 id: 30773068
-type: way
+type: node
 latitude: 48.74788
 longitude: 11.47112
 postcode: "85053"
 city: Ingolstadt
-street: "Eriagstraße"
-housenumber: 10
+street: Eriagstraße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://filialen.aldi-sued.de/bayern/ingolstadt/eriagstrasse-10"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://filialen.aldi-sued.de/bayern/ingolstadt/eriagstrasse-10

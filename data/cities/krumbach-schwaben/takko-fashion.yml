@@ -1,11 +1,11 @@
 id: 95034290
-type: way
+type: node
 latitude: 48.25474
 longitude: 10.35577
 postcode: "86381"
 city: Krumbach (Schwaben)
-street: "Nordstraße"
-housenumber: 13
+street: Nordstraße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 134704220
-type: way
+type: node
 latitude: 49.43753
 longitude: 11.87178
 postcode: "92224"
 city: Amberg
-street: "Merzstraße"
-housenumber: 3
+street: Merzstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

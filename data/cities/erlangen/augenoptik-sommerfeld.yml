@@ -4,8 +4,8 @@ latitude: 49.59566
 longitude: 11.00654
 postcode: "91054"
 city: Erlangen
-street: "Friedrichstraße"
-housenumber: 2
-phone: "+49 9131 23883"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 10:00-15:00"
-website: "https://www.augenoptik-sommerfeld.de/"
+street: Friedrichstraße
+housenumber: "2"
+phone: +49 9131 23883
+opening_hours: Mo-Fr 09:30-19:00; Sa 10:00-15:00
+website: https://www.augenoptik-sommerfeld.de/

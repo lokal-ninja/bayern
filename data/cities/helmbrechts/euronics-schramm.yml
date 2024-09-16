@@ -4,8 +4,8 @@ latitude: 50.23738
 longitude: 11.72268
 postcode: "95233"
 city: Helmbrechts
-street: "Ottostraße"
-housenumber: 7
+street: Ottostraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 09:00-12:00; We,Sa 09:00-12:00 || Nach Vereinbarung"
+opening_hours: Mo,Tu,Th,Fr 09:00-12:00; We,Sa 09:00-12:00 || "Nach Vereinbarung"
 website: ""

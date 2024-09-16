@@ -1,11 +1,11 @@
 id: 49056812
-type: way
+type: node
 latitude: 49.31122
 longitude: 12.09803
 postcode: "92421"
 city: Schwandorf
-street: "Otto-Hahn-Straße"
-housenumber: 1
+street: Otto-Hahn-Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

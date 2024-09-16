@@ -4,8 +4,8 @@ latitude: 49.37502
 longitude: 11.21018
 postcode: "90537"
 city: Feucht
-street: "Schloßweg"
-housenumber: 4
-phone: "+49 9128 925 11 79"
-opening_hours: "Termine nach Vereinbarung"
-website: "https://www.computerhilfe-feucht.de"
+street: Schloßweg
+housenumber: "4"
+phone: +49 9128 925 11 79
+opening_hours: '"Termine nach Vereinbarung"'
+website: https://www.computerhilfe-feucht.de

@@ -1,11 +1,11 @@
 id: 95939937
-type: way
+type: node
 latitude: 47.90509
 longitude: 11.42936
 postcode: "82515"
 city: Wolfratshausen
-street: "Pfaffenrieder Straße"
+street: Pfaffenrieder Straße
 housenumber: 3a
-phone: "+49 8171 418190"
-opening_hours: "Mo-Sa 09:00-19:00; Mar-Jun Mo-Sa 09:00-20:00; PH off"
+phone: +49 8171 418190
+opening_hours: Mo-Sa 09:00-19:00; Mar-Jun Mo-Sa 09:00-20:00; PH off
 website: ""

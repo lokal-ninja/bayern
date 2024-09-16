@@ -4,8 +4,8 @@ latitude: 48.89657
 longitude: 11.17504
 postcode: "85072"
 city: Eichstätt
-street: "Weißenburger Straße"
-housenumber: 43
+street: Weißenburger Straße
+housenumber: "43"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
-website: "https://www.lidl.de/f/eichstaett/weissenburger-str-43.html"
+opening_hours: Mo-Sa 07:00-20:00; PH off
+website: https://www.lidl.de/f/eichstaett/weissenburger-str-43.html

@@ -4,8 +4,9 @@ latitude: 48.06406
 longitude: 11.64985
 postcode: "85521"
 city: Ottobrunn
-street: "Daimlerstraße"
-housenumber: 9
+street: Daimlerstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mar-Oct Mo-Fr 09:30-19:00; Sa 09:30-18:00; Mar-Oct Sa 09:30-18:00; Nov-Feb Mo-Fr 09:30-18:00; Nov-Feb Sa 09:30-16:00"
-website: "https://www.fahrrad-sperk.de/"
+opening_hours: Mar-Oct Mo-Fr 09:30-19:00; Sa 09:30-18:00; Mar-Oct Sa 09:30-18:00;
+    Nov-Feb Mo-Fr 09:30-18:00; Nov-Feb Sa 09:30-16:00
+website: https://www.fahrrad-sperk.de/

@@ -4,8 +4,8 @@ latitude: 47.75489
 longitude: 11.37286
 postcode: "82377"
 city: Penzberg
-street: "Christianstraße"
-housenumber: 8
+street: Christianstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Fr[3] 14:30-17:30"
-website: "https://www.vhs-penzberg.de/service/reparatur-cafe-penzberg/"
+opening_hours: Fr[3] 14:30-17:30
+website: https://www.vhs-penzberg.de/service/reparatur-cafe-penzberg/

@@ -1,11 +1,11 @@
 id: 1188532393
-type: way
+type: node
 latitude: 49.92535
 longitude: 11.97052
 postcode: "95700"
 city: Neusorg
-street: "Am Steinbruch"
-housenumber: 2
-phone: "+49 9234 8165"
-opening_hours: "Mo-Sa 07:00-20:00"
+street: Am Steinbruch
+housenumber: "2"
+phone: +49 9234 8165
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

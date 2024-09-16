@@ -1,11 +1,11 @@
 id: 237846866
-type: way
+type: node
 latitude: 48.51411
 longitude: 10.5235
 postcode: "89438"
 city: Holzheim
-street: "Römerstraße"
-housenumber: 13
+street: Römerstraße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 07:30-20:00; Sa 07:30-18:00"
+opening_hours: Mo-Fr 07:30-20:00; Sa 07:30-18:00
 website: ""

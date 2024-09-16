@@ -1,11 +1,11 @@
 id: 201491608
-type: way
+type: node
 latitude: 48.53608
 longitude: 12.12112
 postcode: "84034"
 city: Landshut
-street: "Watzmannstraße"
-housenumber: 54
+street: Watzmannstraße
+housenumber: "54"
 phone: ""
 opening_hours: ""
 website: ""

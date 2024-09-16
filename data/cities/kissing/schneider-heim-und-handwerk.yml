@@ -4,8 +4,8 @@ latitude: 48.29301
 longitude: 10.96533
 postcode: "86438"
 city: Kissing
-street: "Münchner Straße"
-housenumber: 53
-phone: "+49 8233 7950905"
-opening_hours: "Mo,Tu,Th,Fr 09:00-18:00; We 09:00-13:00; Sa 09:00-13:00; Su,PH off"
-website: "https://schneider-kissing.de"
+street: Münchner Straße
+housenumber: "53"
+phone: +49 8233 7950905
+opening_hours: Mo,Tu,Th,Fr 09:00-18:00; We 09:00-13:00; Sa 09:00-13:00; Su,PH off
+website: https://schneider-kissing.de

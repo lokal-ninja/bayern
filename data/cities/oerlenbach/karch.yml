@@ -1,11 +1,11 @@
 id: 380260283
-type: way
+type: node
 latitude: 50.15816
 longitude: 10.12111
 postcode: "97714"
 city: Oerlenbach
-street: "Wittelsbacher Straße"
-housenumber: 5
+street: Wittelsbacher Straße
+housenumber: "5"
 phone: ""
-opening_hours: "06:00-12:00"
+opening_hours: 06:00-12:00
 website: ""

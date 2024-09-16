@@ -1,11 +1,11 @@
 id: 55824100
-type: way
+type: node
 latitude: 47.70885
 longitude: 10.31288
 postcode: "87435"
 city: Kempten (Allgäu)
-street: "Bahnhofstraße"
-housenumber: 84
+street: Bahnhofstraße
+housenumber: "84"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

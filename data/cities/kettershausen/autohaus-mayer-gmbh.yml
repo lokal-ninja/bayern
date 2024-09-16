@@ -1,11 +1,11 @@
 id: 124042002
-type: way
+type: node
 latitude: 48.1805
 longitude: 10.25662
 postcode: "86498"
 city: Kettershausen
-street: "Dorfstraße"
-housenumber: 2
+street: Dorfstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

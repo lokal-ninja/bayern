@@ -1,11 +1,11 @@
 id: 298862271
-type: way
+type: node
 latitude: 48.88662
 longitude: 12.50143
 postcode: "94348"
 city: Atting
-street: "Laubental"
+street: Laubental
 housenumber: 1a
-phone: "+49 9421 968998"
-opening_hours: "Mo-Fr 08:00-17:30"
-website: "https://www.amann-kfz.de/"
+phone: +49 9421 968998
+opening_hours: Mo-Fr 08:00-17:30
+website: https://www.amann-kfz.de/

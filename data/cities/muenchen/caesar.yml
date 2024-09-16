@@ -4,8 +4,8 @@ latitude: 48.13558
 longitude: 11.55601
 postcode: "80336"
 city: München
-street: "Paul-Heyse-Straße"
-housenumber: 31
+street: Paul-Heyse-Straße
+housenumber: "31"
 phone: ""
-opening_hours: "egal war seine Antwort"
+opening_hours: '"egal war seine Antwort"'
 website: ""

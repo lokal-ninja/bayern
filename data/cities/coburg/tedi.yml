@@ -4,8 +4,8 @@ latitude: 50.26207
 longitude: 10.96344
 postcode: "96450"
 city: Coburg
-street: "Hindenburgstraße"
-housenumber: 5
-phone: "+49 231 555770"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.tedi.com/stores/5971/de/BAYERN/Coburg/Hindenburgstr-5"
+street: Hindenburgstraße
+housenumber: "5"
+phone: +49 231 555770
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.tedi.com/stores/5971/de/BAYERN/Coburg/Hindenburgstr-5

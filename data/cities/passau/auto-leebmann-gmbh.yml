@@ -1,11 +1,11 @@
 id: 294752531
-type: way
+type: node
 latitude: 48.55512
 longitude: 13.41636
 postcode: "94036"
 city: Passau
-street: "Traminer Straße"
-housenumber: 1
-phone: "+49 851 70010"
-opening_hours: "Mo-Fr 08:00-18:00;Sa 09:00-12:00"
-website: "https://www.leebmann.de/"
+street: Traminer Straße
+housenumber: "1"
+phone: +49 851 70010
+opening_hours: Mo-Fr 08:00-18:00;Sa 09:00-12:00
+website: https://www.leebmann.de/

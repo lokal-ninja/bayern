@@ -4,8 +4,8 @@ latitude: 49.3669
 longitude: 11.04746
 postcode: "90453"
 city: Nürnberg
-street: "Franz-Liszt-Straße"
-housenumber: 1
+street: Franz-Liszt-Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "http://www.radsport-goletz.de/"
+website: http://www.radsport-goletz.de/

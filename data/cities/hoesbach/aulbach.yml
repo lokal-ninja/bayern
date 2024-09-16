@@ -1,11 +1,11 @@
 id: 38920269
-type: way
+type: node
 latitude: 50.00756
 longitude: 9.21964
 postcode: "63768"
 city: Hösbach
-street: "Siemensstraße"
-housenumber: 9
+street: Siemensstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

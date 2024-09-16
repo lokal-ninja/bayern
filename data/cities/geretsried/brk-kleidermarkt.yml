@@ -4,8 +4,8 @@ latitude: 47.85618
 longitude: 11.47949
 postcode: "82538"
 city: Geretsried
-street: "Johann-Sebastian-Bach-Straße"
-housenumber: 13
+street: Johann-Sebastian-Bach-Straße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00, Tu,Th,Fr 15:00-18:30"
-website: "http://www.kvtoel.brk.de/angebote/kleidermaerkte.html"
+opening_hours: Mo-Fr 09:00-13:00, Tu,Th,Fr 15:00-18:30
+website: http://www.kvtoel.brk.de/angebote/kleidermaerkte.html

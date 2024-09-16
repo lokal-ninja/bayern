@@ -1,11 +1,11 @@
 id: 29326418
-type: way
+type: node
 latitude: 49.09033
 longitude: 12.24667
 postcode: "93170"
 city: Bernhardswald
-street: "Regensburger Straße"
-housenumber: 29
+street: Regensburger Straße
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

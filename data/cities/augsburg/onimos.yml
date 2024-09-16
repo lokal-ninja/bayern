@@ -4,8 +4,8 @@ latitude: 48.37074
 longitude: 10.89609
 postcode: "86152"
 city: Augsburg
-street: "Obstmarkt"
-housenumber: 11
-phone: "+49 821 50844078"
-opening_hours: "Mo-Sa 11:00-19:00"
-website: "https://www.onimos.com/"
+street: Obstmarkt
+housenumber: "11"
+phone: +49 821 50844078
+opening_hours: Mo-Sa 11:00-19:00
+website: https://www.onimos.com/

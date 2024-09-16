@@ -1,11 +1,11 @@
 id: 134650724
-type: way
+type: node
 latitude: 48.364
 longitude: 12.24795
 postcode: "84149"
 city: Velden
-street: "Babinger Straße"
-housenumber: 2
+street: Babinger Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

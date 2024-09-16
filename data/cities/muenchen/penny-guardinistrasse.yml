@@ -4,8 +4,8 @@ latitude: 48.11891
 longitude: 11.49091
 postcode: "81375"
 city: München
-street: "Guardinistraße"
-housenumber: 92
+street: Guardinistraße
+housenumber: "92"
 phone: ""
-opening_hours: "Mo-Fr 7:00-20:00"
-website: "https://www.penny.de/"
+opening_hours: Mo-Fr 7:00-20:00
+website: https://www.penny.de/

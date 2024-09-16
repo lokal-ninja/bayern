@@ -1,11 +1,11 @@
 id: 958777138
-type: way
+type: node
 latitude: 47.99028
 longitude: 10.21696
 postcode: "87766"
 city: Memmingerberg
-street: "Augsburger Straße"
-housenumber: 70
+street: Augsburger Straße
+housenumber: "70"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

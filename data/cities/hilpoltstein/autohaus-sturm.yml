@@ -1,11 +1,11 @@
 id: 144985172
-type: way
+type: node
 latitude: 49.17991
 longitude: 11.17818
 postcode: "91161"
 city: Hilpoltstein
-street: "Boschring"
-housenumber: 1
+street: Boschring
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.ford-sturm-hilpoltstein.de/"
+website: https://www.ford-sturm-hilpoltstein.de/

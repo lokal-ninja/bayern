@@ -1,11 +1,11 @@
 id: 141253998
-type: way
+type: node
 latitude: 50.08958
 longitude: 10.78679
 postcode: "96106"
 city: Ebern
-street: "Carl-Benz-Straße"
-housenumber: 2
+street: Carl-Benz-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 37429934
-type: way
+type: node
 latitude: 48.37649
 longitude: 10.84633
 postcode: "86391"
 city: Stadtbergen
-street: "Benzstraße"
-housenumber: 7
+street: Benzstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00, Sa 09:00-18:00"
-website: "https://www.thomas-philipps.de/de/Stores/Details/stadtbergen"
+opening_hours: Mo-Fr 09:00-19:00, Sa 09:00-18:00
+website: https://www.thomas-philipps.de/de/Stores/Details/stadtbergen

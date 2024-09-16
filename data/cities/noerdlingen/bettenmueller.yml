@@ -1,11 +1,11 @@
 id: 732270315
-type: way
+type: node
 latitude: 48.85794
 longitude: 10.48161
 postcode: "86720"
 city: Nördlingen
-street: "Raiffeisenstraße"
-housenumber: 4
+street: Raiffeisenstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.2563
 longitude: 10.96328
 postcode: "96450"
 city: Coburg
-street: "Albertsplatz"
-housenumber: 2
+street: Albertsplatz
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-17:00; Su 07:00-11:00"
-website: "https://nahrstedt.de/standorte/markthalle-coburg"
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-17:00; Su 07:00-11:00
+website: https://nahrstedt.de/standorte/markthalle-coburg

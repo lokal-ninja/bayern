@@ -4,8 +4,8 @@ latitude: 48.18129
 longitude: 11.55276
 postcode: "80809"
 city: München
-street: "Helene-Mayer-Ring"
-housenumber: 15
-phone: "+49 89 35095900"
-opening_hours: "Mo-Fr 08:00-13:00,17:00-18:00"
-website: "https://www.olympiawerk.de/"
+street: Helene-Mayer-Ring
+housenumber: "15"
+phone: +49 89 35095900
+opening_hours: Mo-Fr 08:00-13:00,17:00-18:00
+website: https://www.olympiawerk.de/

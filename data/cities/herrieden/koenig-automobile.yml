@@ -1,11 +1,11 @@
 id: 102852545
-type: way
+type: node
 latitude: 49.24143
 longitude: 10.48986
 postcode: "91567"
 city: Herrieden
-street: "Am Burgerfeld"
-housenumber: 6
+street: Am Burgerfeld
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

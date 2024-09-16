@@ -1,11 +1,11 @@
 id: 148015088
-type: way
+type: node
 latitude: 48.14214
 longitude: 11.63485
 postcode: "81929"
 city: München
-street: "Eggenfeldener Straße"
-housenumber: 55
-phone: "+49 89 93 16 04"
-opening_hours: "Tu-Sa 09:00-12:30; Tu-Fr 14:00-18:00"
-website: "https://blumen-mehnert.de"
+street: Eggenfeldener Straße
+housenumber: "55"
+phone: +49 89 93 16 04
+opening_hours: Tu-Sa 09:00-12:30; Tu-Fr 14:00-18:00
+website: https://blumen-mehnert.de

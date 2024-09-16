@@ -4,8 +4,8 @@ latitude: 48.31515
 longitude: 10.8203
 postcode: "86199"
 city: Augsburg
-street: "Hauptstraße"
-housenumber: 38
-phone: "+49 821 99880399"
-opening_hours: "Fr 09:00-17:00; Sa 08:00-12:00; PH off"
-website: "https://www.storks-metzgerei.de/"
+street: Hauptstraße
+housenumber: "38"
+phone: +49 821 99880399
+opening_hours: Fr 09:00-17:00; Sa 08:00-12:00; PH off
+website: https://www.storks-metzgerei.de/

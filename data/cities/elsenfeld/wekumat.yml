@@ -1,11 +1,11 @@
 id: 331709330
-type: way
+type: node
 latitude: 49.83694
 longitude: 9.18995
 postcode: "63820"
 city: Elsenfeld
-street: "Toni-Schecher-Straße"
-housenumber: 1
-phone: "+49 6022 5050"
+street: Toni-Schecher-Straße
+housenumber: "1"
+phone: +49 6022 5050
 opening_hours: ""
-website: "https://www.wekumat.de"
+website: https://www.wekumat.de

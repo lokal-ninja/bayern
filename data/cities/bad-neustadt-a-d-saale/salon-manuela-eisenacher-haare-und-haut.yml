@@ -4,8 +4,8 @@ latitude: 50.32954
 longitude: 10.2364
 postcode: "97616"
 city: Bad Neustadt a.d. Saale
-street: "Burgaradweg"
-housenumber: 14
+street: Burgaradweg
+housenumber: "14"
 phone: ""
-opening_hours: "Tu-Fr 08:30-18:00; Th 09:00-19:00; Sa 07:45-13:00; Su,Mo off"
-website: "https://www.salon-eisenacher.de/"
+opening_hours: Tu-Fr 08:30-18:00; Th 09:00-19:00; Sa 07:45-13:00; Su,Mo off
+website: https://www.salon-eisenacher.de/

@@ -1,11 +1,11 @@
 id: 29093092
-type: way
+type: node
 latitude: 49.96235
 longitude: 11.92147
 postcode: "95682"
 city: Brand
-street: "Nageler Straße"
-housenumber: 4
+street: Nageler Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://auto-brucker.de/"
+website: https://auto-brucker.de/

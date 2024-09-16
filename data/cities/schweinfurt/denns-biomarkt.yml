@@ -1,11 +1,11 @@
 id: 89488639
-type: way
+type: node
 latitude: 50.05028
 longitude: 10.23442
 postcode: "97422"
 city: Schweinfurt
-street: "Schützenstraße"
-housenumber: 4
+street: Schützenstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

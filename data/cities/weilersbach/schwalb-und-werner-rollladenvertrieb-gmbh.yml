@@ -4,8 +4,8 @@ latitude: 49.74364
 longitude: 11.13153
 postcode: "91365"
 city: Weilersbach
-street: "Am Willberg"
-housenumber: 4
-phone: "+49 9191 9010"
-opening_hours: "Mo-Th 10:00-16:00, Fr 09:00-12:00"
-website: "https://www.schwalb-werner.de/"
+street: Am Willberg
+housenumber: "4"
+phone: +49 9191 9010
+opening_hours: Mo-Th 10:00-16:00, Fr 09:00-12:00
+website: https://www.schwalb-werner.de/

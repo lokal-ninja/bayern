@@ -4,8 +4,8 @@ latitude: 48.46106
 longitude: 11.12347
 postcode: "86551"
 city: Aichach
-street: "Bahnhofstraße"
-housenumber: 20
+street: Bahnhofstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 08:00-12:30,13:30-17:00; We 08:00-12:30; PH off"
+opening_hours: Mo,Tu,Th,Fr 08:00-12:30,13:30-17:00; We 08:00-12:30; PH off
 website: ""

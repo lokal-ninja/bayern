@@ -1,11 +1,11 @@
 id: 1300689052
-type: way
+type: node
 latitude: 50.17562
 longitude: 9.57437
 postcode: "97773"
 city: Aura im Sinngrund
-street: "Staatsstraße"
-housenumber: 12
+street: Staatsstraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

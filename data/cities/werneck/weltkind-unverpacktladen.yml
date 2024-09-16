@@ -1,11 +1,11 @@
 id: 961334525
-type: way
+type: node
 latitude: 49.98263
 longitude: 10.09773
 postcode: "97440"
 city: Werneck
-street: "Julius-Echter-Straße"
-housenumber: 11
-phone: "+49 9722 9476906"
-opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-13:00; PH off"
-website: "https://weltkind.bio/unverpackt/"
+street: Julius-Echter-Straße
+housenumber: "11"
+phone: +49 9722 9476906
+opening_hours: Mo-Fr 09:00-18:00, Sa 09:00-13:00; PH off
+website: https://weltkind.bio/unverpackt/

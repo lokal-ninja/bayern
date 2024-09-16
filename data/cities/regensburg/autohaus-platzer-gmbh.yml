@@ -1,11 +1,11 @@
 id: 111815800
-type: way
+type: node
 latitude: 49.01303
 longitude: 12.15466
 postcode: "93055"
 city: Regensburg
-street: "Straubinger Straße"
-housenumber: 60
-phone: "+49 941 60495 0"
-opening_hours: "Mo-Fr 07:30-17:00; Sa 08:00-12:00"
-website: "http://toyota-regensburg.com/"
+street: Straubinger Straße
+housenumber: "60"
+phone: +49 941 60495 0
+opening_hours: Mo-Fr 07:30-17:00; Sa 08:00-12:00
+website: http://toyota-regensburg.com/

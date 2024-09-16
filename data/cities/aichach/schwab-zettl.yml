@@ -1,11 +1,11 @@
 id: 124826261
-type: way
+type: node
 latitude: 48.45824
 longitude: 11.13855
 postcode: "86551"
 city: Aichach
-street: "Schulstraße"
-housenumber: 15
+street: Schulstraße
+housenumber: "15"
 phone: ""
-opening_hours: "während der Pfingstferien und 2 Wochen im Sommer geschlossen."
+opening_hours: '"während der Pfingstferien und 2 Wochen im Sommer geschlossen."'
 website: ""

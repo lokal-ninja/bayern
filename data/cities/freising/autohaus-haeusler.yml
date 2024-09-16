@@ -1,11 +1,11 @@
 id: 124792678
-type: way
+type: node
 latitude: 48.39747
 longitude: 11.77058
 postcode: "85356"
 city: Freising
-street: "Haggertystraße"
-housenumber: 2
+street: Haggertystraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

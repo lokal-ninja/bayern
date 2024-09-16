@@ -1,11 +1,11 @@
 id: 455725988
-type: way
+type: node
 latitude: 49.98516
 longitude: 10.24462
 postcode: "97525"
 city: Schwebheim
-street: "Heidenfelder Straße"
-housenumber: 9
-phone: "+49 9723 91550"
-opening_hours: "Mo-Fr 9:00-18:00; Sa 9:00-13:00; Su, PH off"
-website: "https://www.autohaus-pfister.de/"
+street: Heidenfelder Straße
+housenumber: "9"
+phone: +49 9723 91550
+opening_hours: Mo-Fr 9:00-18:00; Sa 9:00-13:00; Su, PH off
+website: https://www.autohaus-pfister.de/

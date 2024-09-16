@@ -1,11 +1,11 @@
 id: 557120780
-type: way
+type: node
 latitude: 49.67553
 longitude: 11.17238
 postcode: "91358"
 city: Kunreuth
 street: ""
-housenumber: 135
-phone: "+49 9199 697948"
+housenumber: "135"
+phone: +49 9199 697948
 opening_hours: ""
 website: ""

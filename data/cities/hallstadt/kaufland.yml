@@ -1,11 +1,11 @@
 id: 28311607
-type: way
+type: node
 latitude: 49.91454
 longitude: 10.86517
 postcode: "96103"
 city: Hallstadt
-street: "Emil-Kemmer-Straße"
-housenumber: 2
+street: Emil-Kemmer-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

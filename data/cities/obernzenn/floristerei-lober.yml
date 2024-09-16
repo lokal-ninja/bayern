@@ -1,11 +1,11 @@
 id: 457824804
-type: way
+type: node
 latitude: 49.44809
 longitude: 10.46694
 postcode: "91619"
 city: Obernzenn
-street: "Ansbacher Straße"
-housenumber: 2
+street: Ansbacher Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

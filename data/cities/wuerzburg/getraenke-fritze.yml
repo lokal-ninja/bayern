@@ -4,8 +4,8 @@ latitude: 49.73126
 longitude: 9.95636
 postcode: "97084"
 city: Würzburg
-street: "Ossietzkystraße"
-housenumber: 12
+street: Ossietzkystraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.getraenke-fritze.de"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.getraenke-fritze.de

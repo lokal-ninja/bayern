@@ -1,11 +1,11 @@
 id: 206010964
-type: way
+type: node
 latitude: 49.99872
 longitude: 12.07463
 postcode: "95615"
 city: Marktredwitz
-street: "Waldershofer Straße"
-housenumber: 14
+street: Waldershofer Straße
+housenumber: "14"
 phone: ""
 opening_hours: ""
-website: "https://www.vw-ziegler.de"
+website: https://www.vw-ziegler.de

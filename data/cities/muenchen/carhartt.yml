@@ -4,8 +4,8 @@ latitude: 48.16181
 longitude: 11.58687
 postcode: "80802"
 city: München
-street: "Münchner Freiheit"
-housenumber: 2
-phone: "+49 89 33038836"
-opening_hours: "Mo-Sa 11:00-19:00"
+street: Münchner Freiheit
+housenumber: "2"
+phone: +49 89 33038836
+opening_hours: Mo-Sa 11:00-19:00
 website: ""

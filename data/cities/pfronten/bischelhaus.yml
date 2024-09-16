@@ -1,11 +1,11 @@
 id: 167796183
-type: way
+type: node
 latitude: 47.58149
 longitude: 10.55669
 postcode: "87459"
 city: Pfronten
-street: "Vilstalstraße"
-housenumber: 6
+street: Vilstalstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

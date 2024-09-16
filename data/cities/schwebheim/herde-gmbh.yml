@@ -1,11 +1,11 @@
 id: 131099534
-type: way
+type: node
 latitude: 49.98691
 longitude: 10.24518
 postcode: "97525"
 city: Schwebheim
-street: "Gulbranssonstraße"
-housenumber: 17
+street: Gulbranssonstraße
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

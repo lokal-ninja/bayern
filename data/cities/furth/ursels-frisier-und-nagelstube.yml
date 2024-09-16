@@ -1,11 +1,11 @@
 id: 178882479
-type: way
+type: node
 latitude: 48.59149
 longitude: 12.01995
 postcode: "84095"
 city: Furth
-street: "Lodronstraße"
-housenumber: 8
-phone: "+49 8704 8301"
+street: Lodronstraße
+housenumber: "8"
+phone: +49 8704 8301
 opening_hours: ""
-website: "http://www.ursels-frisierstube.de/"
+website: http://www.ursels-frisierstube.de/

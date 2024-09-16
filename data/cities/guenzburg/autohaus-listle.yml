@@ -1,11 +1,11 @@
 id: 238117876
-type: way
+type: node
 latitude: 48.45309
 longitude: 10.28826
 postcode: "89312"
 city: Günzburg
-street: "Augsburger Straße"
-housenumber: 57
-phone: "+49 8221 5121"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00; PH off"
-website: "https://autohaus-listle.de"
+street: Augsburger Straße
+housenumber: "57"
+phone: +49 8221 5121
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00; PH off
+website: https://autohaus-listle.de

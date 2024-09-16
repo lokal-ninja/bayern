@@ -1,11 +1,11 @@
 id: 118873498
-type: way
+type: node
 latitude: 47.75553
 longitude: 12.90854
 postcode: "83451"
 city: Piding
-street: "Ahornstraße"
-housenumber: 38
+street: Ahornstraße
+housenumber: "38"
 phone: ""
 opening_hours: ""
-website: "https://www.penny.de/"
+website: https://www.penny.de/

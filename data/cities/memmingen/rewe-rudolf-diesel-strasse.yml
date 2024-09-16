@@ -4,8 +4,8 @@ latitude: 48.00145
 longitude: 10.16803
 postcode: "87700"
 city: Memmingen
-street: "Rudolf-Diesel-Straße"
-housenumber: 16
-phone: "+49 8331 9949740"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.rewe.de/marktseite/memmingen/1910042/rewe-markt-rudolf-diesel-str-16/"
+street: Rudolf-Diesel-Straße
+housenumber: "16"
+phone: +49 8331 9949740
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.rewe.de/marktseite/memmingen/1910042/rewe-markt-rudolf-diesel-str-16/

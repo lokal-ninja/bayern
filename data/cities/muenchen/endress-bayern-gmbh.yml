@@ -4,8 +4,8 @@ latitude: 48.12025
 longitude: 11.50287
 postcode: "81377"
 city: München
-street: "Fürstenrieder Straße"
-housenumber: 173
-phone: "+49 89 7415150"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 09:00-13:00"
-website: "https://www.endress-shop.de/"
+street: Fürstenrieder Straße
+housenumber: "173"
+phone: +49 89 7415150
+opening_hours: Mo-Fr 07:30-18:00; Sa 09:00-13:00
+website: https://www.endress-shop.de/

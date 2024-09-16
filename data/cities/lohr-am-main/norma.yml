@@ -1,11 +1,11 @@
 id: 54632519
-type: way
+type: node
 latitude: 50.0031
 longitude: 9.58117
 postcode: "97816"
 city: Lohr am Main
-street: "Walter-Senger-Straße"
-housenumber: 4
+street: Walter-Senger-Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

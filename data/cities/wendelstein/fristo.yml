@@ -1,11 +1,11 @@
 id: 795929752
-type: way
+type: node
 latitude: 49.35061
 longitude: 11.16077
 postcode: "90530"
 city: Wendelstein
-street: "Richtwiese"
-housenumber: 2
+street: Richtwiese
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

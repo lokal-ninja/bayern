@@ -1,11 +1,11 @@
 id: 109229848
-type: way
+type: node
 latitude: 48.14585
 longitude: 10.24026
 postcode: "87727"
 city: Babenhausen
-street: "Schöneggweg"
-housenumber: 15
-phone: "+49 8333 3090"
+street: Schöneggweg
+housenumber: "15"
+phone: +49 8333 3090
 opening_hours: ""
-website: "https://www.bihler-co.de/"
+website: https://www.bihler-co.de/

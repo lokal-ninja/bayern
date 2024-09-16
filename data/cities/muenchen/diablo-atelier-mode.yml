@@ -4,8 +4,8 @@ latitude: 48.15892
 longitude: 11.57454
 postcode: "80796"
 city: München
-street: "Bauerstraße"
-housenumber: 2
+street: Bauerstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Tu-Fr 11:00-18:30; Sa 11:00-16:00; Mo,Ph off"
+opening_hours: Tu-Fr 11:00-18:30; Sa 11:00-16:00; Mo,Ph off
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.36977
 longitude: 10.89593
 postcode: "86150"
 city: Augsburg
-street: "Annastraße"
-housenumber: 2
-phone: "+49 821 39646"
+street: Annastraße
+housenumber: "2"
+phone: +49 821 39646
 opening_hours: ""
-website: "https://www.abele-optik.de"
+website: https://www.abele-optik.de

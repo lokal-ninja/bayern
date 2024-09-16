@@ -1,11 +1,11 @@
 id: 129818791
-type: way
+type: node
 latitude: 50.30333
 longitude: 11.28501
 postcode: "96342"
 city: Stockheim
-street: "Rathausstraße"
-housenumber: 2
+street: Rathausstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:30-12:00,14:00-17:30; Sa 08:30-12:00; PH off"
+opening_hours: Mo-Fr 08:30-12:00,14:00-17:30; Sa 08:30-12:00; PH off
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.46503
 longitude: 10.98666
 postcode: "90763"
 city: Fürth
-street: "Holzstraße"
-housenumber: 25
-phone: "+49 911 777712"
+street: Holzstraße
+housenumber: "25"
+phone: +49 911 777712
 opening_hours: ""
-website: "http://www.auto-schwarz-fürth.de/"
+website: http://www.auto-schwarz-fürth.de/

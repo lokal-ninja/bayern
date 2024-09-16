@@ -1,11 +1,11 @@
 id: 675985563
-type: way
+type: node
 latitude: 49.54139
 longitude: 12.15616
 postcode: "92533"
 city: Wernberg-Köblitz
-street: "Am Franzosengraben"
-housenumber: 6
+street: Am Franzosengraben
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

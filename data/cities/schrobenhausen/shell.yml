@@ -1,11 +1,11 @@
 id: 1213955471
-type: way
+type: node
 latitude: 48.5663
 longitude: 11.28863
 postcode: "86529"
 city: Schrobenhausen
-street: "Rudolf-Diesel-Straße"
-housenumber: 1
-phone: "+49 8252 915626"
-opening_hours: "Mo-Su 05:00-23:00"
-website: "https://find.shell.com/de/fuel/12592584-schrobenhausen-rudolf-diesel-str/de_DE"
+street: Rudolf-Diesel-Straße
+housenumber: "1"
+phone: +49 8252 915626
+opening_hours: Mo-Su 05:00-23:00
+website: https://find.shell.com/de/fuel/12592584-schrobenhausen-rudolf-diesel-str/de_DE

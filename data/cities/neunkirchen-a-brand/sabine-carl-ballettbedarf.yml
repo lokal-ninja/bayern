@@ -4,8 +4,8 @@ latitude: 49.61073
 longitude: 11.12226
 postcode: "91077"
 city: Neunkirchen a. Brand
-street: "Raudnitzer Straße"
-housenumber: 3
-phone: "+49 9134 4758"
-opening_hours: "nach Vereinbarung"
-website: "https://ballettbedarf-carl.de/"
+street: Raudnitzer Straße
+housenumber: "3"
+phone: +49 9134 4758
+opening_hours: '"nach Vereinbarung"'
+website: https://ballettbedarf-carl.de/

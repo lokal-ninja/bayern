@@ -4,8 +4,8 @@ latitude: 48.36671
 longitude: 10.89681
 postcode: "86150"
 city: Augsburg
-street: "Moritzplatz"
-housenumber: 7
+street: Moritzplatz
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.woehrl.de"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.woehrl.de

@@ -1,11 +1,11 @@
 id: 301813396
-type: way
+type: node
 latitude: 50.40213
 longitude: 11.38667
 postcode: "96358"
 city: Teuschnitz
-street: "Weidenstraße"
-housenumber: 30
+street: Weidenstraße
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

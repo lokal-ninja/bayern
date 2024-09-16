@@ -4,8 +4,8 @@ latitude: 48.12956
 longitude: 11.57832
 postcode: "80469"
 city: München
-street: "Corneliusstraße"
-housenumber: 44
-phone: "+49 89 2016351"
-opening_hours: "Mo-Th 08:00-17:00; Fr 08:00-14:30"
-website: "https://maxsüss.de/"
+street: Corneliusstraße
+housenumber: "44"
+phone: +49 89 2016351
+opening_hours: Mo-Th 08:00-17:00; Fr 08:00-14:30
+website: https://maxsüss.de/

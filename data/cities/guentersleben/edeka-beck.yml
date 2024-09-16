@@ -1,11 +1,11 @@
 id: 95596608
-type: way
+type: node
 latitude: 49.8634
 longitude: 9.90139
 postcode: "97261"
 city: Güntersleben
-street: "Würzburger Straße"
+street: Würzburger Straße
 housenumber: 52-54
-phone: "+49 9365 8971900"
-opening_hours: "Mo-Fr 07:00-20:00, Sa 07:00-18:00"
-website: "https://www.edeka.de/eh/nordbayern-sachsen-th%C3%BCringen/edeka-beck-w%C3%BCrzburger-stra%C3%9Fe-52-54/index.jsp"
+phone: +49 9365 8971900
+opening_hours: Mo-Fr 07:00-20:00, Sa 07:00-18:00
+website: https://www.edeka.de/eh/nordbayern-sachsen-th%C3%BCringen/edeka-beck-w%C3%BCrzburger-stra%C3%9Fe-52-54/index.jsp

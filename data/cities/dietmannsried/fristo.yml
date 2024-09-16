@@ -1,11 +1,11 @@
 id: 170482663
-type: way
+type: node
 latitude: 47.80649
 longitude: 10.29804
 postcode: "87463"
 city: Dietmannsried
-street: "Welserstraße"
-housenumber: 7
+street: Welserstraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://www.fristo.de/"
+website: https://www.fristo.de/

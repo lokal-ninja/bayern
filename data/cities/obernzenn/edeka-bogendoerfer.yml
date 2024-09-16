@@ -1,11 +1,11 @@
 id: 457825210
-type: way
+type: node
 latitude: 49.45132
 longitude: 10.46594
 postcode: "91619"
 city: Obernzenn
-street: "Am Plärrer"
-housenumber: 5
+street: Am Plärrer
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

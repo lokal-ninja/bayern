@@ -4,8 +4,8 @@ latitude: 48.15685
 longitude: 11.56885
 postcode: "80798"
 city: München
-street: "Tengstraße"
-housenumber: 14
+street: Tengstraße
+housenumber: "14"
 phone: ""
-opening_hours: "Th,Fr 15:00-18:00; Sa 14:00-18:00; Su-We,PH off"
+opening_hours: Th,Fr 15:00-18:00; Sa 14:00-18:00; Su-We,PH off
 website: ""

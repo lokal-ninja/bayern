@@ -1,11 +1,11 @@
 id: 105590783
-type: way
+type: node
 latitude: 48.35535
 longitude: 10.91565
 postcode: "86161"
 city: Augsburg
-street: "Gentnerstraße"
-housenumber: 79
+street: Gentnerstraße
+housenumber: "79"
 phone: ""
-opening_hours: "Mo 07:30-13:30; Tu-Fr 07:30-18:00; Sa 07:30-12:30; Su,PH off"
+opening_hours: Mo 07:30-13:30; Tu-Fr 07:30-18:00; Sa 07:30-12:30; Su,PH off
 website: ""

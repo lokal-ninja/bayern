@@ -1,11 +1,11 @@
 id: 115384046
-type: way
+type: node
 latitude: 47.84977
 longitude: 12.12765
 postcode: "83022"
 city: Rosenheim
-street: "Kufsteiner Straße"
-housenumber: 50
+street: Kufsteiner Straße
+housenumber: "50"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:30-13:00; PH,Su off"
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:30-13:00; PH,Su off
 website: ""

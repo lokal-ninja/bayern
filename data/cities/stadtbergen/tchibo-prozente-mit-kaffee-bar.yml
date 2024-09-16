@@ -1,11 +1,11 @@
 id: 111740892
-type: way
+type: node
 latitude: 48.37657
 longitude: 10.8427
 postcode: "86391"
 city: Stadtbergen
-street: "Wankelstraße"
-housenumber: 10
-phone: "+49 800 3000111"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.tchibo.de/service/storefinder/store/100007791"
+street: Wankelstraße
+housenumber: "10"
+phone: +49 800 3000111
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.tchibo.de/service/storefinder/store/100007791

@@ -1,11 +1,11 @@
 id: 444369981
-type: way
+type: node
 latitude: 49.1051
 longitude: 10.98417
 postcode: "91785"
 city: Pleinfeld
-street: "Seilergasse"
-housenumber: 4
-phone: "+499144 201421"
+street: Seilergasse
+housenumber: "4"
+phone: +499144 201421
 opening_hours: ""
-website: "https://brille-am-see.de/"
+website: https://brille-am-see.de/

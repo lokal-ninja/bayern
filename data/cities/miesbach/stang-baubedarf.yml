@@ -1,11 +1,11 @@
 id: 48673300
-type: way
+type: node
 latitude: 47.79851
 longitude: 11.83141
 postcode: "83714"
 city: Miesbach
-street: "Am Windfeld"
-housenumber: 43
+street: Am Windfeld
+housenumber: "43"
 phone: ""
-opening_hours: "Mo-Fr 07:00-17:00"
+opening_hours: Mo-Fr 07:00-17:00
 website: ""

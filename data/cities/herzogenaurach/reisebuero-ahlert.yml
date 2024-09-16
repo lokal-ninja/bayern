@@ -4,8 +4,8 @@ latitude: 49.56733
 longitude: 10.89536
 postcode: "91074"
 city: Herzogenaurach
-street: "Rathgeberstraße"
-housenumber: 43
-phone: "+49 9132 798920"
-opening_hours: "Mo-Fr 10:00-12:00,14:00-17:00; Sa 10:00-12:00; Su,PH off"
-website: "https://reisebuero-ahlert.de/"
+street: Rathgeberstraße
+housenumber: "43"
+phone: +49 9132 798920
+opening_hours: Mo-Fr 10:00-12:00,14:00-17:00; Sa 10:00-12:00; Su,PH off
+website: https://reisebuero-ahlert.de/

@@ -1,11 +1,11 @@
 id: 331000476
-type: way
+type: node
 latitude: 48.56067
 longitude: 12.13553
 postcode: "84030"
 city: Landshut
-street: "Straubinger Straße"
-housenumber: 1
+street: Straubinger Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

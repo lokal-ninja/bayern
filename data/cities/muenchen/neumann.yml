@@ -4,8 +4,8 @@ latitude: 48.11217
 longitude: 11.55089
 postcode: "81371"
 city: München
-street: "Bruderhofstraße"
-housenumber: 1
+street: Bruderhofstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-We 09:00-13:00, 14:00-17:00; Th 09:00-13:00, 14:00-18:00; Fr 09:00-14:00"
+opening_hours: Mo-We 09:00-13:00, 14:00-17:00; Th 09:00-13:00, 14:00-18:00; Fr 09:00-14:00
 website: ""

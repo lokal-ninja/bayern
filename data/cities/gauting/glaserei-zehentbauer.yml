@@ -1,11 +1,11 @@
 id: 136172792
-type: way
+type: node
 latitude: 48.06542
 longitude: 11.37871
 postcode: "82131"
 city: Gauting
-street: "Starnberger Straße"
-housenumber: 16
+street: Starnberger Straße
+housenumber: "16"
 phone: ""
 opening_hours: ""
-website: "https://zehentbauer-dieglaserei.de"
+website: https://zehentbauer-dieglaserei.de

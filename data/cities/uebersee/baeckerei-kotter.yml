@@ -4,8 +4,8 @@ latitude: 47.81962
 longitude: 12.49608
 postcode: "83236"
 city: Übersee
-street: "Bahnhofstraße"
-housenumber: 85
-phone: "+49 8642 595644"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.baeckerei-kotter.de/"
+street: Bahnhofstraße
+housenumber: "85"
+phone: +49 8642 595644
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.baeckerei-kotter.de/

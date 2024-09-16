@@ -1,11 +1,11 @@
 id: 739110341
-type: way
+type: node
 latitude: 48.39738
 longitude: 10.85705
 postcode: "86156"
 city: Augsburg
-street: "Zaunkönigweg"
-housenumber: 4
+street: Zaunkönigweg
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su off"
+opening_hours: Mo-Sa 07:00-20:00; Su off
 website: ""

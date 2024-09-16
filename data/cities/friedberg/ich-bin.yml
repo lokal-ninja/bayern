@@ -4,8 +4,8 @@ latitude: 48.3803
 longitude: 10.98981
 postcode: "86316"
 city: Friedberg
-street: "Radegundisstraße"
-housenumber: 1
-phone: "+49 159 01943417"
-opening_hours: "Mo-Fr 08:00-18:00  nach Vereinbarung"
-website: "http://ichbin-reflex.com/"
+street: Radegundisstraße
+housenumber: "1"
+phone: +49 159 01943417
+opening_hours: Mo-Fr 08:00-18:00 " nach Vereinbarung"
+website: http://ichbin-reflex.com/

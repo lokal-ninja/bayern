@@ -4,8 +4,8 @@ latitude: 48.24958
 longitude: 11.65052
 postcode: "85748"
 city: Garching bei München
-street: "Schleißheimer Straße"
-housenumber: 10
-phone: "+49 176 20030424"
-opening_hours: "Mo-Fr 08:00-19:00, Sa 08:00-15:00"
-website: "http://biomarkt-garching.de/"
+street: Schleißheimer Straße
+housenumber: "10"
+phone: +49 176 20030424
+opening_hours: Mo-Fr 08:00-19:00, Sa 08:00-15:00
+website: http://biomarkt-garching.de/

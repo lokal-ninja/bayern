@@ -1,11 +1,11 @@
 id: 758400575
-type: way
+type: node
 latitude: 49.7868
 longitude: 9.83367
 postcode: "97297"
 city: Waldbüttelbrunn
-street: "Raiffeisenstraße"
-housenumber: 3
+street: Raiffeisenstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

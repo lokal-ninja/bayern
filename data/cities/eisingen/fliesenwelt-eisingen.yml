@@ -1,11 +1,11 @@
 id: 426423381
-type: way
+type: node
 latitude: 49.76082
 longitude: 9.84395
 postcode: "97249"
 city: Eisingen
-street: "Landwehrstraße"
-housenumber: 24
+street: Landwehrstraße
+housenumber: "24"
 phone: ""
 opening_hours: ""
-website: "https://www.fliesenwelt-eisingen.de/"
+website: https://www.fliesenwelt-eisingen.de/

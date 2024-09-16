@@ -4,8 +4,8 @@ latitude: 48.40134
 longitude: 11.74875
 postcode: "85354"
 city: Freising
-street: "Heiliggeistgasse"
-housenumber: 1
+street: Heiliggeistgasse
+housenumber: "1"
 phone: ""
-opening_hours: "1x im Monat, Samstags"
-website: "https://www.prop-ev.de/angebote/beratung-begleitung/kontakt-und-begegnungsstaette-freising/kob-laedchen.html"
+opening_hours: '"1x im Monat, Samstags"'
+website: https://www.prop-ev.de/angebote/beratung-begleitung/kontakt-und-begegnungsstaette-freising/kob-laedchen.html

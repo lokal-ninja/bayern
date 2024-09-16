@@ -4,8 +4,8 @@ latitude: 49.44527
 longitude: 11.85927
 postcode: "92224"
 city: Amberg
-street: "Rathausstraße"
-housenumber: 6
-phone: "+49 9621 33307"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-16:00"
-website: "http://www.porzellan-galerie.de/"
+street: Rathausstraße
+housenumber: "6"
+phone: +49 9621 33307
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-16:00
+website: http://www.porzellan-galerie.de/

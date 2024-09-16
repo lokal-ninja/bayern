@@ -1,11 +1,11 @@
 id: 444751658
-type: way
+type: node
 latitude: 49.99774
 longitude: 9.18595
 postcode: "63773"
 city: Goldbach
-street: "Hauptstraße"
-housenumber: 100
+street: Hauptstraße
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

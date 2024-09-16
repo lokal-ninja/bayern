@@ -4,8 +4,8 @@ latitude: 48.12496
 longitude: 11.60597
 postcode: "81671"
 city: München
-street: "Atelierstraße"
-housenumber: 14
+street: Atelierstraße
+housenumber: "14"
 phone: ""
 opening_hours: ""
-website: "https://buycycle.com/"
+website: https://buycycle.com/

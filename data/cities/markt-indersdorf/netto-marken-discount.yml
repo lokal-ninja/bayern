@@ -1,11 +1,11 @@
 id: 202745341
-type: way
+type: node
 latitude: 48.3497
 longitude: 11.3736
 postcode: "85229"
 city: Markt Indersdorf
-street: "Industriestraße"
-housenumber: 28
+street: Industriestraße
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

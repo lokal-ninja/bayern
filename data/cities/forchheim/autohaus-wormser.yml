@@ -1,11 +1,11 @@
 id: 37429725
-type: way
+type: node
 latitude: 49.70507
 longitude: 11.06588
 postcode: "91301"
 city: Forchheim
-street: "Hans-Böckler-Straße"
-housenumber: 1
+street: Hans-Böckler-Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

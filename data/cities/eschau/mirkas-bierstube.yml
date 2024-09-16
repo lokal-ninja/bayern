@@ -1,11 +1,11 @@
 id: 173254575
-type: way
+type: node
 latitude: 49.82211
 longitude: 9.25478
 postcode: "63863"
 city: Eschau
-street: "Elsavastraße"
-housenumber: 109
+street: Elsavastraße
+housenumber: "109"
 phone: ""
 opening_hours: ""
 website: ""

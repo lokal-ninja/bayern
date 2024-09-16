@@ -1,11 +1,11 @@
 id: 27273869
-type: way
+type: node
 latitude: 48.14115
 longitude: 11.42354
 postcode: ""
 city: München
-street: "Brunhamstraße"
-housenumber: 18
+street: Brunhamstraße
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH,Su off"
-website: "https://www.lidl.de/f/muenchen/aubing-brunhamstr-18.html"
+opening_hours: Mo-Sa 07:00-20:00; PH,Su off
+website: https://www.lidl.de/f/muenchen/aubing-brunhamstr-18.html

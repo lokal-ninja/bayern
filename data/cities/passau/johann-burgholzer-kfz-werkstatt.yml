@@ -4,8 +4,8 @@ latitude: 48.5628
 longitude: 13.47521
 postcode: "94032"
 city: Passau
-street: "Mühltalstraße"
-housenumber: 36
-phone: "+49 851 4907234"
-opening_hours: "Mo-Fr 08:00-17:00"
+street: Mühltalstraße
+housenumber: "36"
+phone: +49 851 4907234
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 121494146
-type: way
+type: node
 latitude: 49.84061
 longitude: 9.1552
 postcode: "63820"
 city: Elsenfeld
-street: "Bahnhofstraße"
-housenumber: 27
+street: Bahnhofstraße
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

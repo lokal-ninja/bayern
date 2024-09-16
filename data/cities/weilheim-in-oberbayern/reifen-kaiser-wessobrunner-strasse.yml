@@ -1,11 +1,11 @@
 id: 92500040
-type: way
+type: node
 latitude: 47.84553
 longitude: 11.12861
 postcode: "82362"
 city: Weilheim in Oberbayern
-street: "Wessobrunner Straße"
-housenumber: 43
+street: Wessobrunner Straße
+housenumber: "43"
 phone: ""
 opening_hours: ""
-website: "https://reifenkaiser.de/"
+website: https://reifenkaiser.de/

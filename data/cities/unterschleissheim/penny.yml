@@ -1,11 +1,11 @@
 id: 377313611
-type: way
+type: node
 latitude: 48.2818
 longitude: 11.56423
 postcode: "85716"
 city: Unterschleißheim
-street: "Landshuter straße"
-housenumber: 16
+street: Landshuter straße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

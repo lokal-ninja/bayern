@@ -4,8 +4,8 @@ latitude: 49.49507
 longitude: 10.99499
 postcode: "90765"
 city: Fürth
-street: "Seeackerstraße"
-housenumber: 33
+street: Seeackerstraße
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.tedi.com/"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.tedi.com/

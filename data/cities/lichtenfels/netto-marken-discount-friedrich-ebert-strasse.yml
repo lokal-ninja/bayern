@@ -1,11 +1,11 @@
 id: 136512208
-type: way
+type: node
 latitude: 50.15896
 longitude: 11.06775
 postcode: "96215"
 city: Lichtenfels
-street: "Friedrich-Ebert-Straße"
-housenumber: 15
+street: Friedrich-Ebert-Straße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
+opening_hours: Mo-Sa 07:00-20:00; PH off
 website: ""

@@ -4,8 +4,9 @@ latitude: 49.06717
 longitude: 12.7241
 postcode: "94357"
 city: Konzell
-street: "Hadermühl"
-housenumber: 3
-phone: "+49 9963 2667"
-opening_hours: "Keine fixen Öffnungszeiten - Bitte telefonisch einen Termin vereinbaren: +49 09963 2667"
+street: Hadermühl
+housenumber: "3"
+phone: +49 9963 2667
+opening_hours: 'Keine fixen Öffnungszeiten - Bitte telefonisch einen Termin vereinbaren:
+    +49 09963 2667'
 website: ""

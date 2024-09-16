@@ -4,8 +4,8 @@ latitude: 49.44872
 longitude: 11.06796
 postcode: "90402"
 city: Nürnberg
-street: "Ludwigstraße"
-housenumber: 67
-phone: "+49911 47867857"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://o2shop-nbg.de"
+street: Ludwigstraße
+housenumber: "67"
+phone: +49911 47867857
+opening_hours: Mo-Sa 10:00-19:00
+website: https://o2shop-nbg.de

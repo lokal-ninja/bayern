@@ -1,11 +1,11 @@
 id: 37426417
-type: way
+type: node
 latitude: 49.81073
 longitude: 9.74754
 postcode: "97259"
 city: Greußenheim
-street: "Am Biotop"
-housenumber: 10
+street: Am Biotop
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

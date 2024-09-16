@@ -4,8 +4,8 @@ latitude: 48.16273
 longitude: 11.58122
 postcode: "80803"
 city: München
-street: "Herzogstraße"
-housenumber: 32
+street: Herzogstraße
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Fr 11:00-15:00"
+opening_hours: Mo-Fr 11:00-15:00
 website: ""

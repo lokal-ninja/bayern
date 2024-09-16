@@ -4,8 +4,8 @@ latitude: 49.79812
 longitude: 9.95066
 postcode: "97080"
 city: Würzburg
-street: "Raiffeisenstraße"
-housenumber: 3
+street: Raiffeisenstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-16:00; Mo off"
+opening_hours: Tu-Fr 09:00-18:00; Sa 09:00-16:00; Mo off
 website: ""

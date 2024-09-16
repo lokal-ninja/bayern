@@ -1,11 +1,11 @@
 id: 126057747
-type: way
+type: node
 latitude: 48.90097
 longitude: 11.93621
 postcode: "93342"
 city: Saal a.d.Donau
-street: "Hauptstraße"
-housenumber: 64
+street: Hauptstraße
+housenumber: "64"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de/Filial-Angebote.chtm"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de/Filial-Angebote.chtm

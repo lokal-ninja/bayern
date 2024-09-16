@@ -4,8 +4,8 @@ latitude: 49.84234
 longitude: 9.14736
 postcode: "63785"
 city: Obernburg am Main
-street: "Schillerstraße"
-housenumber: 2
-phone: "+49 6022 7103181"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
-website: "https://beautylounge-obernburg.de"
+street: Schillerstraße
+housenumber: "2"
+phone: +49 6022 7103181
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00
+website: https://beautylounge-obernburg.de

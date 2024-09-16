@@ -4,8 +4,8 @@ latitude: 48.69246
 longitude: 12.20023
 postcode: "84061"
 city: Ergoldsbach
-street: "Am Alten Sägewerk"
-housenumber: 1
-phone: "+49 8771 3112"
-opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-12:00"
-website: "https://www.baumann-metzgerei.de/"
+street: Am Alten Sägewerk
+housenumber: "1"
+phone: +49 8771 3112
+opening_hours: Mo-Fr 06:30-18:00; Sa 06:30-12:00
+website: https://www.baumann-metzgerei.de/

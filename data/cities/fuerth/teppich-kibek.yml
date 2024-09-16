@@ -1,11 +1,11 @@
 id: 253219077
-type: way
+type: node
 latitude: 49.52132
 longitude: 10.99308
 postcode: "90765"
 city: Fürth
-street: "In der Schmalau"
-housenumber: 50
+street: In der Schmalau
+housenumber: "50"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

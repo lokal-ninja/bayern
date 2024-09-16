@@ -4,8 +4,8 @@ latitude: 49.44788
 longitude: 11.07808
 postcode: "90402"
 city: Nürnberg
-street: "Vordere Sterngasse"
-housenumber: 16
+street: Vordere Sterngasse
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Th 12:00-20:00; Fr,Sa 11:00-20:00"
-website: "https://www.body-attack-nuernberg.de/"
+opening_hours: Mo-Th 12:00-20:00; Fr,Sa 11:00-20:00
+website: https://www.body-attack-nuernberg.de/

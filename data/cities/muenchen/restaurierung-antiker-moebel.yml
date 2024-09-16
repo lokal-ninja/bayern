@@ -4,8 +4,8 @@ latitude: 48.14771
 longitude: 11.57552
 postcode: "80333"
 city: München
-street: "Theresienstraße"
-housenumber: 27
+street: Theresienstraße
+housenumber: "27"
 phone: "089288244"
-opening_hours: "Mo-Fr 10:00-18:00"
-website: "https://www.hofrestaurator.de/"
+opening_hours: Mo-Fr 10:00-18:00
+website: https://www.hofrestaurator.de/

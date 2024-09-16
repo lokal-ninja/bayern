@@ -4,8 +4,8 @@ latitude: 48.12729
 longitude: 11.63264
 postcode: "81673"
 city: München
-street: "Kreillerstraße"
-housenumber: 18
+street: Kreillerstraße
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.gering-cycles.de/"
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.gering-cycles.de/

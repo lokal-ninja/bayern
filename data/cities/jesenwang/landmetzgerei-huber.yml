@@ -4,8 +4,9 @@ latitude: 48.16605
 longitude: 11.13163
 postcode: "82287"
 city: Jesenwang
-street: "Grafrather Straße"
-housenumber: 2
-phone: "+49 8146 260"
-opening_hours: "Mo-Th 07:00-13:00,14:30-18:00; Fr 07:00-18:00; Sa 07:00-12:00; PH Su off"
-website: "https://www.landmetzgerei-huber.de/"
+street: Grafrather Straße
+housenumber: "2"
+phone: +49 8146 260
+opening_hours: Mo-Th 07:00-13:00,14:30-18:00; Fr 07:00-18:00; Sa 07:00-12:00; PH Su
+    off
+website: https://www.landmetzgerei-huber.de/

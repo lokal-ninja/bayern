@@ -1,11 +1,11 @@
 id: 237819879
-type: way
+type: node
 latitude: 48.03716
 longitude: 12.23856
 postcode: "83549"
 city: Eiselfing
-street: "Rosenheimer Straße"
-housenumber: 22
+street: Rosenheimer Straße
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

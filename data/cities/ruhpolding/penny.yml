@@ -1,11 +1,11 @@
 id: 50731307
-type: way
+type: node
 latitude: 47.76074
 longitude: 12.65522
 postcode: "83324"
 city: Ruhpolding
-street: "Zeller Straße"
-housenumber: 26
+street: Zeller Straße
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

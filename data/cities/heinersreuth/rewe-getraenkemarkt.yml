@@ -1,11 +1,11 @@
 id: 232962715
-type: way
+type: node
 latitude: 49.97183
 longitude: 11.52895
 postcode: "95500"
 city: Heinersreuth
-street: "Fehringer Platz"
-housenumber: 1
+street: Fehringer Platz
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 06:00-20:00"
+opening_hours: Mo-Sa 06:00-20:00
 website: ""

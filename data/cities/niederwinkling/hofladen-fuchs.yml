@@ -4,8 +4,9 @@ latitude: 48.88562
 longitude: 12.79913
 postcode: "94559"
 city: Niederwinkling
-street: "Bajuwarenstraße"
-housenumber: 
+street: Bajuwarenstraße
+housenumber: ""
 phone: ""
-opening_hours: "Oct-Mar Mo-Fr 07:00-19:00; Oct-Mar Sa,Su 07:00-18:00; Apr-Sep Mo-Su 07:00-20:00"
+opening_hours: Oct-Mar Mo-Fr 07:00-19:00; Oct-Mar Sa,Su 07:00-18:00; Apr-Sep Mo-Su
+    07:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 170970104
-type: way
+type: node
 latitude: 48.58134
 longitude: 11.08551
 postcode: "86554"
 city: Pöttmes
-street: "Augsburger Straße"
-housenumber: 13
+street: Augsburger Straße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 53589000
-type: way
+type: node
 latitude: 48.2028
 longitude: 11.54383
 postcode: "80995"
 city: München
-street: "Lerchenstraße"
-housenumber: 20
+street: Lerchenstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Th 08:30-17:00; Fr 08:30-14:00"
+opening_hours: Mo-Th 08:30-17:00; Fr 08:30-14:00
 website: ""

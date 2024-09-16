@@ -4,8 +4,8 @@ latitude: 48.13582
 longitude: 11.60622
 postcode: "81675"
 city: München
-street: "Einsteinstraße"
-housenumber: 105
+street: Einsteinstraße
+housenumber: "105"
 phone: ""
-opening_hours: "Mo-Fr 09:00 -20:00; Sa 09:00-18:00"
+opening_hours: Mo-Fr 09:00 -20:00; Sa 09:00-18:00
 website: ""

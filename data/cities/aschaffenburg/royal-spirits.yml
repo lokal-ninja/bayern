@@ -4,8 +4,8 @@ latitude: 49.97394
 longitude: 9.14544
 postcode: "63739"
 city: Aschaffenburg
-street: "Dalbergstraße"
-housenumber: 5
-phone: "+49 6021 8627785"
-opening_hours: "Th,Fr 11:00-18:00; Sa 11:00-15:00"
-website: "https://www.royalspirits.de/"
+street: Dalbergstraße
+housenumber: "5"
+phone: +49 6021 8627785
+opening_hours: Th,Fr 11:00-18:00; Sa 11:00-15:00
+website: https://www.royalspirits.de/

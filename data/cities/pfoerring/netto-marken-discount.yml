@@ -4,8 +4,8 @@ latitude: 48.80635
 longitude: 11.68873
 postcode: "85104"
 city: Pförring
-street: "Donaustraße"
-housenumber: 2
+street: Donaustraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de

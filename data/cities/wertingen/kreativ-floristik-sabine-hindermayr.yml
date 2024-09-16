@@ -1,11 +1,11 @@
 id: 488219434
-type: way
+type: node
 latitude: 48.56388
 longitude: 10.74505
 postcode: "86637"
 city: Wertingen
-street: "Am Plattenberg"
-housenumber: 3
-phone: "+49 8272 804753"
+street: Am Plattenberg
+housenumber: "3"
+phone: +49 8272 804753
 opening_hours: ""
-website: "https://www.kreativ-floristik.de/"
+website: https://www.kreativ-floristik.de/

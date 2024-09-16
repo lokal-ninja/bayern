@@ -4,8 +4,8 @@ latitude: 48.11798
 longitude: 11.52229
 postcode: "81373"
 city: München
-street: "Ohlstadter Straße"
-housenumber: 22
+street: Ohlstadter Straße
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Sa 07:30-20:00"
-website: "https://www.penny.de/"
+opening_hours: Mo-Sa 07:30-20:00
+website: https://www.penny.de/

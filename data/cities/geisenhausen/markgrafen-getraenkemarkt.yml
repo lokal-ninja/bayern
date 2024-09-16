@@ -1,11 +1,11 @@
 id: 364772630
-type: way
+type: node
 latitude: 48.47946
 longitude: 12.24388
 postcode: "84144"
 city: Geisenhausen
-street: "Landshuter Straße"
-housenumber: 60
+street: Landshuter Straße
+housenumber: "60"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-13:00; PH off"
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:00-13:00; PH off
 website: ""

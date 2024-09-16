@@ -1,11 +1,11 @@
 id: 172422270
-type: way
+type: node
 latitude: 48.56446
 longitude: 11.25363
 postcode: "86529"
 city: Schrobenhausen
-street: "Pöttmeser Straße"
-housenumber: 14
+street: Pöttmeser Straße
+housenumber: "14"
 phone: ""
 opening_hours: ""
-website: "http://www.ellwanger.com"
+website: http://www.ellwanger.com

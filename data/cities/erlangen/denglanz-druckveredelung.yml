@@ -1,11 +1,11 @@
 id: 203325508
-type: way
+type: node
 latitude: 49.55384
 longitude: 11.00006
 postcode: "91058"
 city: Erlangen
-street: "Weinstraße"
-housenumber: 27
-phone: "+49 9131 7508560"
-opening_hours: "Mo-Fr 07:30-16:30"
-website: "https://www.denglanz.de/"
+street: Weinstraße
+housenumber: "27"
+phone: +49 9131 7508560
+opening_hours: Mo-Fr 07:30-16:30
+website: https://www.denglanz.de/

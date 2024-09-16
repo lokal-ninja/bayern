@@ -1,11 +1,11 @@
 id: 185465062
-type: way
+type: node
 latitude: 50.03752
 longitude: 11.6795
 postcode: "95460"
 city: Bad Berneck
-street: "Maintalstraße"
-housenumber: 161
+street: Maintalstraße
+housenumber: "161"
 phone: ""
 opening_hours: ""
-website: "https://filialen.aldi-sued.de/bayern/bad-berneck/maintalstrasse-161"
+website: https://filialen.aldi-sued.de/bayern/bad-berneck/maintalstrasse-161

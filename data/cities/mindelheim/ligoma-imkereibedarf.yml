@@ -1,11 +1,11 @@
 id: 665958351
-type: way
+type: node
 latitude: 48.03293
 longitude: 10.50247
 postcode: "87719"
 city: Mindelheim
-street: "Rubihornstraße"
-housenumber: 8
+street: Rubihornstraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

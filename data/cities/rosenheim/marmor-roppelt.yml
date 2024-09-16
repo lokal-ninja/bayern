@@ -1,11 +1,11 @@
 id: 184610706
-type: way
+type: node
 latitude: 47.84301
 longitude: 12.09248
 postcode: "83026"
 city: Rosenheim
-street: "Krainstraße"
-housenumber: 55
+street: Krainstraße
+housenumber: "55"
 phone: ""
 opening_hours: ""
-website: "https://marmor-roppelt.de/"
+website: https://marmor-roppelt.de/

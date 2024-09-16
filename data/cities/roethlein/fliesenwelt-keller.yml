@@ -1,11 +1,11 @@
 id: 696148689
-type: way
+type: node
 latitude: 49.98933
 longitude: 10.23853
 postcode: "97520"
 city: Röthlein
-street: "Am Etzberg"
-housenumber: 8
-phone: "+49 9723 3002"
-opening_hours: "Mo-Fr 09:00-12:30; Mo-Fr 13:30-17:30; Sa 10:15-13:00"
-website: "https://www.fliesenwelt-keller.de/"
+street: Am Etzberg
+housenumber: "8"
+phone: +49 9723 3002
+opening_hours: Mo-Fr 09:00-12:30; Mo-Fr 13:30-17:30; Sa 10:15-13:00
+website: https://www.fliesenwelt-keller.de/

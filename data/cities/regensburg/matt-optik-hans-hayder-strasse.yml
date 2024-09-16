@@ -4,8 +4,8 @@ latitude: 49.0335
 longitude: 12.11276
 postcode: "93059"
 city: Regensburg
-street: "Hans-Hayder-Straße"
-housenumber: 2
-phone: "+49941 / 42909"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00"
-website: "https://www.matt.de/"
+street: Hans-Hayder-Straße
+housenumber: "2"
+phone: +49941 / 42909
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-16:00
+website: https://www.matt.de/

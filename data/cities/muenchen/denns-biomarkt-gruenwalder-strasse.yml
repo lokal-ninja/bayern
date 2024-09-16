@@ -4,8 +4,8 @@ latitude: 48.09547
 longitude: 11.563
 postcode: "81545"
 city: München
-street: "Grünwalder Straße"
-housenumber: 190
-phone: "+49 89 96990849"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.biomarkt.de/"
+street: Grünwalder Straße
+housenumber: "190"
+phone: +49 89 96990849
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.biomarkt.de/

@@ -1,11 +1,11 @@
 id: 27262165
-type: way
+type: node
 latitude: 49.69552
 longitude: 9.22038
 postcode: "63897"
 city: Miltenberg
-street: "Spessartstraße"
-housenumber: 6
+street: Spessartstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00
 website: ""

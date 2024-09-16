@@ -1,11 +1,11 @@
 id: 307823245
-type: way
+type: node
 latitude: 47.95995
 longitude: 12.58645
 postcode: "83301"
 city: Traunreut
-street: "Traunring"
-housenumber: 26
+street: Traunring
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

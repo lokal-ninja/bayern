@@ -4,8 +4,8 @@ latitude: 48.71172
 longitude: 11.80068
 postcode: "84094"
 city: Elsendorf
-street: "Mainburger Straße"
-housenumber: 21
-phone: "+49 8753 237"
-opening_hours: "Tu-We 08:00-12:00,14:00-18:00; Fr 08:00-12:00,12:00-18:00; Sa 08:00,12:00; "
+street: Mainburger Straße
+housenumber: "21"
+phone: +49 8753 237
+opening_hours: 'Tu-We 08:00-12:00,14:00-18:00; Fr 08:00-12:00,12:00-18:00; Sa 08:00,12:00; '
 website: ""

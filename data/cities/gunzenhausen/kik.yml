@@ -1,11 +1,11 @@
 id: 235799016
-type: way
+type: node
 latitude: 49.1142
 longitude: 10.75467
 postcode: "91710"
 city: Gunzenhausen
-street: "Marktplatz"
-housenumber: 33
+street: Marktplatz
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-15:00"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-15:00
 website: ""

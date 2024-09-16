@@ -1,11 +1,11 @@
 id: 191173995
-type: way
+type: node
 latitude: 47.88637
 longitude: 11.43291
 postcode: "82538"
 city: Gelting
-street: "Breitenbachstraße"
-housenumber: 2
+street: Breitenbachstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

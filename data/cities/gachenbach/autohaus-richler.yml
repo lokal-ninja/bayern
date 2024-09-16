@@ -1,11 +1,11 @@
 id: 260844585
-type: way
+type: node
 latitude: 48.48509
 longitude: 11.26174
 postcode: "86565"
 city: Gachenbach
-street: "Dorfstraße"
-housenumber: 86
+street: Dorfstraße
+housenumber: "86"
 phone: ""
 opening_hours: ""
 website: ""

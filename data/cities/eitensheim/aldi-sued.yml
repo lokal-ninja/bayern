@@ -1,11 +1,11 @@
 id: 1135829876
-type: way
+type: node
 latitude: 48.82812
 longitude: 11.31474
 postcode: "85117"
 city: Eitensheim
-street: "Robert-Bosch-Straße"
-housenumber: 6
+street: Robert-Bosch-Straße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://filialen.aldi-sued.de/bayern/eitensheim/robert-bosch-strasse-6"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://filialen.aldi-sued.de/bayern/eitensheim/robert-bosch-strasse-6

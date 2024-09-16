@@ -1,11 +1,11 @@
 id: 364938982
-type: way
+type: node
 latitude: 49.08279
 longitude: 12.87805
 postcode: "94234"
 city: Viechtach
-street: "Krumwiesenweg"
-housenumber: 8
+street: Krumwiesenweg
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

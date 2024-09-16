@@ -1,11 +1,11 @@
 id: 1011867190
-type: way
+type: node
 latitude: 49.90913
 longitude: 9.1565
 postcode: "63834"
 city: Sulzbach am Main
-street: "Jahnstraße"
-housenumber: 3
+street: Jahnstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

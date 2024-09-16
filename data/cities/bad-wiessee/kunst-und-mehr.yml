@@ -4,8 +4,8 @@ latitude: 47.71427
 longitude: 11.724
 postcode: "83707"
 city: Bad Wiessee
-street: "Setzbergstraße"
-housenumber: 4
+street: Setzbergstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo,Tu,We 09:00-12:00; We 14:00-18:00; Sa 10:00-14:00"
+opening_hours: Mo,Tu,We 09:00-12:00; We 14:00-18:00; Sa 10:00-14:00
 website: ""

@@ -1,11 +1,11 @@
 id: 338002252
-type: way
+type: node
 latitude: 49.15764
 longitude: 10.55652
 postcode: "91572"
 city: Bechhofen an der Heide
-street: "Gunzenhausener Straße"
-housenumber: 51
+street: Gunzenhausener Straße
+housenumber: "51"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

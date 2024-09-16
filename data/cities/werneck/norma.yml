@@ -1,11 +1,11 @@
 id: 741297710
-type: way
+type: node
 latitude: 49.98085
 longitude: 10.09747
 postcode: "97440"
 city: Werneck
-street: "Otto-Hahn-Straße"
-housenumber: 5
+street: Otto-Hahn-Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

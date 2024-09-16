@@ -4,8 +4,8 @@ latitude: 49.58066
 longitude: 10.81396
 postcode: "91086"
 city: Aurachtal
-street: "Wirtsgrund"
-housenumber: 6
+street: Wirtsgrund
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Th 08:30-16:00; Fr 08:30-14:00"
-website: "https://www.tintenalarm.de/"
+opening_hours: Mo-Th 08:30-16:00; Fr 08:30-14:00
+website: https://www.tintenalarm.de/

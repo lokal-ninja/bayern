@@ -4,8 +4,8 @@ latitude: 49.59355
 longitude: 10.97001
 postcode: "91056"
 city: Erlangen
-street: "Am Europakanal"
-housenumber: 30
-phone: "+49 9131 41332"
-opening_hours: "Tu-Fr 08:00-18:00; Sa 08:00-14:00; Mo,Su,PH off"
-website: "https://haargenau-erlangen.de/"
+street: Am Europakanal
+housenumber: "30"
+phone: +49 9131 41332
+opening_hours: Tu-Fr 08:00-18:00; Sa 08:00-14:00; Mo,Su,PH off
+website: https://haargenau-erlangen.de/

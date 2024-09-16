@@ -1,11 +1,12 @@
 id: 204203617
-type: way
+type: node
 latitude: 48.12234
 longitude: 11.45162
 postcode: "82166"
 city: Gräfelfing
-street: "Lochhamer Schlag"
-housenumber: 13
+street: Lochhamer Schlag
+housenumber: "13"
 phone: ""
-opening_hours: "Mar-Oct Mo-Fr 09:00-13:00,14:00-19:00; Mar-Oct Sa 09:00-14:00; Nov-Feb Mo-Fr 10:00-18:00; Nov-Feb Sa 10:00-13:00"
-website: "https://www.tommy-wagner.com/"
+opening_hours: Mar-Oct Mo-Fr 09:00-13:00,14:00-19:00; Mar-Oct Sa 09:00-14:00; Nov-Feb
+    Mo-Fr 10:00-18:00; Nov-Feb Sa 10:00-13:00
+website: https://www.tommy-wagner.com/

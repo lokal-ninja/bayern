@@ -1,11 +1,11 @@
 id: 110891011
-type: way
+type: node
 latitude: 49.01605
 longitude: 12.13676
 postcode: "93055"
 city: Regensburg
-street: "Ditthornstraße"
-housenumber: 26
-phone: "+49 941 793343"
-opening_hours: "Mo-Th 08:00-12:00,13:00-16:45; Fr 08:00-12:00,13:00-16:00"
-website: "https://www.streit-kg-regensburg.de/"
+street: Ditthornstraße
+housenumber: "26"
+phone: +49 941 793343
+opening_hours: Mo-Th 08:00-12:00,13:00-16:45; Fr 08:00-12:00,13:00-16:00
+website: https://www.streit-kg-regensburg.de/

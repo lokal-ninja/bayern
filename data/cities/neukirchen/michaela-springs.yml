@@ -1,11 +1,11 @@
 id: 172705971
-type: way
+type: node
 latitude: 49.52725
 longitude: 11.62518
 postcode: "92259"
 city: Neukirchen
-street: "Siedlerstraße"
-housenumber: 7
+street: Siedlerstraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

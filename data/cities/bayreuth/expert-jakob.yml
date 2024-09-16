@@ -1,11 +1,11 @@
 id: 24698389
-type: way
+type: node
 latitude: 49.96791
 longitude: 11.60697
 postcode: "95448"
 city: Bayreuth
-street: "Bindlacher Straße"
-housenumber: 8
-phone: "+49 921 7977 0"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; PH off"
-website: "https://www.expert.de/jakob"
+street: Bindlacher Straße
+housenumber: "8"
+phone: +49 921 7977 0
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00; PH off
+website: https://www.expert.de/jakob

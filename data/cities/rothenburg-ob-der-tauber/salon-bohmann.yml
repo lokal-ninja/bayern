@@ -4,8 +4,8 @@ latitude: 49.3776
 longitude: 10.18058
 postcode: "91541"
 city: Rothenburg ob der Tauber
-street: "Milchmarkt"
-housenumber: 15
-phone: "+49-9861-8933"
-opening_hours: "Mo 09:00-17:30; Tu-Fr 08:00-18:00; Sa 07:00-12:00; Su off"
-website: "https://www.salon-bohmann.de/"
+street: Milchmarkt
+housenumber: "15"
+phone: +49-9861-8933
+opening_hours: Mo 09:00-17:30; Tu-Fr 08:00-18:00; Sa 07:00-12:00; Su off
+website: https://www.salon-bohmann.de/

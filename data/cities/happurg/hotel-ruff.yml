@@ -1,11 +1,11 @@
 id: 43031743
-type: way
+type: node
 latitude: 49.48998
 longitude: 11.47636
 postcode: "91230"
 city: Happurg
-street: "Höhenweg"
-housenumber: 29
-phone: "+49 9151 4423"
+street: Höhenweg
+housenumber: "29"
+phone: +49 9151 4423
 opening_hours: ""
-website: "https://www.hotel-ruff.de/"
+website: https://www.hotel-ruff.de/

@@ -4,8 +4,8 @@ latitude: 48.53796
 longitude: 12.12554
 postcode: "84034"
 city: Landshut
-street: "Rennweg"
-housenumber: 119
+street: Rennweg
+housenumber: "119"
 phone: ""
 opening_hours: ""
-website: "https://action.com/de-de"
+website: https://action.com/de-de

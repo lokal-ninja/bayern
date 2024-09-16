@@ -4,8 +4,8 @@ latitude: 49.88957
 longitude: 10.17887
 postcode: "97247"
 city: Eisenheim
-street: "Hauptstraße"
-housenumber: 10
-phone: "+49 9386 230"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 09:00-14:00"
-website: "https://www.daerr-tische.de"
+street: Hauptstraße
+housenumber: "10"
+phone: +49 9386 230
+opening_hours: Mo-Fr 07:00-18:00; Sa 09:00-14:00
+website: https://www.daerr-tische.de

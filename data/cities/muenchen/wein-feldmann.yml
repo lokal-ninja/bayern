@@ -4,8 +4,8 @@ latitude: 48.14905
 longitude: 11.54257
 postcode: "80636"
 city: München
-street: "Elvirastraße"
-housenumber: 11
+street: Elvirastraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 16:00+"
-website: "https://www.weinstube-muenchen.de"
+opening_hours: Mo-Sa 16:00+
+website: https://www.weinstube-muenchen.de

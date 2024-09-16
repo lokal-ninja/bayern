@@ -4,8 +4,9 @@ latitude: 49.70804
 longitude: 11.06015
 postcode: "91301"
 city: Forchheim
-street: "Boschstraße"
-housenumber: 6
+street: Boschstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo 09:00-14:00; Tu,We,Fr 09:00-18:00; Th 09:00-20:00; Sa 08:00-14:00; PH off"
-website: "https://www.die-haarmanufaktur.de/"
+opening_hours: Mo 09:00-14:00; Tu,We,Fr 09:00-18:00; Th 09:00-20:00; Sa 08:00-14:00;
+    PH off
+website: https://www.die-haarmanufaktur.de/

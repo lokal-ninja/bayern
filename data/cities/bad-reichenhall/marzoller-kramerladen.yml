@@ -1,11 +1,11 @@
 id: 233310487
-type: way
+type: node
 latitude: 47.75667
 longitude: 12.92767
 postcode: "83435"
 city: Bad Reichenhall
-street: "Untersbergstraße"
-housenumber: 42
+street: Untersbergstraße
+housenumber: "42"
 phone: ""
 opening_hours: ""
 website: ""

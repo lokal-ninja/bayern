@@ -1,11 +1,11 @@
 id: 239002176
-type: way
+type: node
 latitude: 48.36852
 longitude: 12.2402
 postcode: "84149"
 city: Velden
-street: "Gewerbering"
-housenumber: 8
-phone: "+49 8742 967241"
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
-website: "https://www.edeka.de/eh/s%c3%bcdbayern/edeka-dreifke-gewerbering-8/index.jsp"
+street: Gewerbering
+housenumber: "8"
+phone: +49 8742 967241
+opening_hours: Mo-Sa 07:00-20:00; PH off
+website: https://www.edeka.de/eh/s%c3%bcdbayern/edeka-dreifke-gewerbering-8/index.jsp

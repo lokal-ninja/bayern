@@ -1,11 +1,11 @@
 id: 438265787
-type: way
+type: node
 latitude: 48.43449
 longitude: 11.10752
 postcode: "86551"
 city: Aichach
-street: "Industriestraße"
+street: Industriestraße
 housenumber: 39d
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:00-16:00; PH off"
-website: "https://jysk.de/filialen/aichach/industriestrasse"
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:00-16:00; PH off
+website: https://jysk.de/filialen/aichach/industriestrasse

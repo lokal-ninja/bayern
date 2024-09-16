@@ -4,8 +4,8 @@ latitude: 48.29085
 longitude: 11.04292
 postcode: "86510"
 city: Ried
-street: "Bachernstraße"
-housenumber: 6
+street: Bachernstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Tu[2] 16:00-18:00; Tu[4] 16:00-18:00; Sa[1] 09:00-11:00"
+opening_hours: Tu[2] 16:00-18:00; Tu[4] 16:00-18:00; Sa[1] 09:00-11:00
 website: ""

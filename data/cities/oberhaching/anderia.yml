@@ -4,8 +4,8 @@ latitude: 48.02041
 longitude: 11.58441
 postcode: "82041"
 city: Oberhaching
-street: "Bahnhofsplatz"
-housenumber: 5
-phone: "+49 89 94504514"
-opening_hours: "Mo-Fr 09:00-12:45,15:00-17:45; Sa 09:00-13:00"
+street: Bahnhofsplatz
+housenumber: "5"
+phone: +49 89 94504514
+opening_hours: Mo-Fr 09:00-12:45,15:00-17:45; Sa 09:00-13:00
 website: ""

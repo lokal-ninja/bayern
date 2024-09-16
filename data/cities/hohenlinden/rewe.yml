@@ -1,11 +1,11 @@
 id: 32391391
-type: way
+type: node
 latitude: 48.15613
 longitude: 11.9996
 postcode: "85664"
 city: Hohenlinden
-street: "Hauptstraße"
-housenumber: 25
-phone: "+49 8124 443106"
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
-website: "https://www.rewe.de/"
+street: Hauptstraße
+housenumber: "25"
+phone: +49 8124 443106
+opening_hours: Mo-Sa 07:00-20:00; PH off
+website: https://www.rewe.de/

@@ -1,11 +1,11 @@
 id: 96096486
-type: way
+type: node
 latitude: 48.41221
 longitude: 10.8722
 postcode: "86368"
 city: Gersthofen
-street: "Wernher-von-Braun-Straße"
-housenumber: 8
+street: Wernher-von-Braun-Straße
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "https://www.fega-schmitt.de/"
+website: https://www.fega-schmitt.de/

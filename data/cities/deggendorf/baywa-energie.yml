@@ -4,8 +4,8 @@ latitude: 48.81045
 longitude: 12.97258
 postcode: "94469"
 city: Deggendorf
-street: "Wallnerlände"
-housenumber: 34
-phone: "+49 991 3722212"
-opening_hours: "Mo-Th 07:30-12:00,13:00-17:00; Fr 07:30-12:00,13:00-16:00"
-website: "https://www.baywa.de/de/i/standorte/energie/deggendorf/baywa-ag-deggendorf/"
+street: Wallnerlände
+housenumber: "34"
+phone: +49 991 3722212
+opening_hours: Mo-Th 07:30-12:00,13:00-17:00; Fr 07:30-12:00,13:00-16:00
+website: https://www.baywa.de/de/i/standorte/energie/deggendorf/baywa-ag-deggendorf/

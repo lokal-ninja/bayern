@@ -1,11 +1,11 @@
 id: 89663602
-type: way
+type: node
 latitude: 47.72103
 longitude: 10.32542
 postcode: "87437"
 city: Kempten (Allgäu)
-street: "Füssener Straße"
-housenumber: 58
+street: Füssener Straße
+housenumber: "58"
 phone: ""
 opening_hours: ""
 website: ""

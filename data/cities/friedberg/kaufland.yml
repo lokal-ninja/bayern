@@ -4,8 +4,8 @@ latitude: 48.34823
 longitude: 10.99602
 postcode: "86316"
 city: Friedberg
-street: "Marquardtstraße"
-housenumber: 1
+street: Marquardtstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.kaufland.de/Home/index.jsp?PageId=3&FilialID=5030"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.kaufland.de/Home/index.jsp?PageId=3&FilialID=5030

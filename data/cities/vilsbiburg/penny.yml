@@ -1,11 +1,11 @@
 id: 223615369
-type: way
+type: node
 latitude: 48.45038
 longitude: 12.35685
 postcode: "84137"
 city: Vilsbiburg
-street: "Frontenhausener Straße"
-housenumber: 32
+street: Frontenhausener Straße
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
+opening_hours: Mo-Sa 07:00-20:00; PH off
 website: ""

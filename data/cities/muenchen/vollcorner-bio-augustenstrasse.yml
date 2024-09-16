@@ -4,8 +4,8 @@ latitude: 48.14939
 longitude: 11.5629
 postcode: "80333"
 city: München
-street: "Augustenstraße"
-housenumber: 55
+street: Augustenstraße
+housenumber: "55"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.vollcorner.de/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.vollcorner.de/

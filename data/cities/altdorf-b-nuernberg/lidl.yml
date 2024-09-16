@@ -1,11 +1,11 @@
 id: 31795297
-type: way
+type: node
 latitude: 49.38501
 longitude: 11.35059
 postcode: "90518"
 city: Altdorf b.Nürnberg
-street: "Nürnberger Straße"
-housenumber: 11
+street: Nürnberger Straße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

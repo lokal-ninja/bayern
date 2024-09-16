@@ -1,11 +1,11 @@
 id: 38364560
-type: way
+type: node
 latitude: 48.69026
 longitude: 10.92961
 postcode: "86641"
 city: Rain
-street: "Erlenweg"
-housenumber: 7
+street: Erlenweg
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://filialen.aldi-sued.de/bayern/rain/erlenweg-5"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://filialen.aldi-sued.de/bayern/rain/erlenweg-5

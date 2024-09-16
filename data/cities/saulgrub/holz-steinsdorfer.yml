@@ -4,8 +4,8 @@ latitude: 47.65015
 longitude: 10.99845
 postcode: "82442"
 city: Saulgrub
-street: "Unternoggstraße"
-housenumber: 15
+street: Unternoggstraße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 08:15-12:00,13:30-17:30; Sa 09:00-12:00"
-website: "https://www.holz-steinsdorfer.de/"
+opening_hours: Mo-Fr 08:15-12:00,13:30-17:30; Sa 09:00-12:00
+website: https://www.holz-steinsdorfer.de/

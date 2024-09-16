@@ -1,11 +1,11 @@
 id: 198509694
-type: way
+type: node
 latitude: 48.28965
 longitude: 10.46484
 postcode: "86470"
 city: Thannhausen
-street: "Bahnhofstraße"
-housenumber: 
+street: Bahnhofstraße
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 365663010
-type: way
+type: node
 latitude: 48.21885
 longitude: 12.4157
 postcode: "84478"
 city: Waldkraiburg
-street: "Zirndorfer Straße"
-housenumber: 7
+street: Zirndorfer Straße
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://matgmbh.com/pkw/waldkraiburg/"
+website: https://matgmbh.com/pkw/waldkraiburg/

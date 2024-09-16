@@ -4,8 +4,8 @@ latitude: 48.15662
 longitude: 11.56248
 postcode: "80797"
 city: München
-street: "Schleißheimer Straße"
-housenumber: 102
+street: Schleißheimer Straße
+housenumber: "102"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:30"
-website: "https://www.evalesc.com/"
+opening_hours: Mo-Fr 09:00-17:30
+website: https://www.evalesc.com/

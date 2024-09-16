@@ -1,11 +1,11 @@
 id: 241756392
-type: way
+type: node
 latitude: 48.43537
 longitude: 10.86568
 postcode: "86368"
 city: Gersthofen
-street: "Senefelderstraße"
-housenumber: 22
+street: Senefelderstraße
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://filialen.aldi-sued.de/bayern/gersthofen/senefelder-strasse-22"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://filialen.aldi-sued.de/bayern/gersthofen/senefelder-strasse-22

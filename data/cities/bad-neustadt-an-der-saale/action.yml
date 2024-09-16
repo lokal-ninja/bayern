@@ -1,11 +1,11 @@
 id: 780588362
-type: way
+type: node
 latitude: 50.32641
 longitude: 10.22371
 postcode: "97616"
 city: Bad Neustadt an der Saale
-street: "Rederstraße"
-housenumber: 20
+street: Rederstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.action.com/de-de/laden/bad-neustadt-an-der-saale-rederstrabe/"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.action.com/de-de/laden/bad-neustadt-an-der-saale-rederstrabe/

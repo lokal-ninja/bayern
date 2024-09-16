@@ -1,11 +1,11 @@
 id: 48406253
-type: way
+type: node
 latitude: 49.98806
 longitude: 10.85431
 postcode: "96148"
 city: Baunach
-street: "Bahnhofstraße"
-housenumber: 10
+street: Bahnhofstraße
+housenumber: "10"
 phone: ""
-opening_hours: "Th-Fr 14:00-18:00; Sa 10:00-13:00"
-website: "https://schoener-leben-outlet.de/"
+opening_hours: Th-Fr 14:00-18:00; Sa 10:00-13:00
+website: https://schoener-leben-outlet.de/

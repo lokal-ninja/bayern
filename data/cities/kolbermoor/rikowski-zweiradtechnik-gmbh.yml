@@ -1,5 +1,5 @@
 id: 245298115
-type: way
+type: node
 latitude: 47.84913
 longitude: 12.01498
 postcode: "83059"
@@ -8,4 +8,4 @@ street: ""
 housenumber: 4a
 phone: ""
 opening_hours: ""
-website: "https://www.ducati-rikowski.de/"
+website: https://www.ducati-rikowski.de/

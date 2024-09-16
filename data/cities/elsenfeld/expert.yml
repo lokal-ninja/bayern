@@ -4,8 +4,8 @@ latitude: 49.85166
 longitude: 9.16376
 postcode: "63820"
 city: Elsenfeld
-street: "Goethestraße"
-housenumber: 42
-phone: "+49 6022 710920-0"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 10:00-16:00; PH off"
-website: "https://expert.de/elsenfeld"
+street: Goethestraße
+housenumber: "42"
+phone: +49 6022 710920-0
+opening_hours: Mo-Fr 09:30-18:30; Sa 10:00-16:00; PH off
+website: https://expert.de/elsenfeld

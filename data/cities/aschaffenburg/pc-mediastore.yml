@@ -4,8 +4,8 @@ latitude: 49.96223
 longitude: 9.17616
 postcode: "63743"
 city: Aschaffenburg
-street: "Würzburger Straße"
-housenumber: 188
+street: Würzburger Straße
+housenumber: "188"
 phone: ""
-opening_hours: "Mo, Tu, Th, Fr 10:00-19:00"
-website: "https://www.ep-mediastore-ab.de/"
+opening_hours: Mo, Tu, Th, Fr 10:00-19:00
+website: https://www.ep-mediastore-ab.de/

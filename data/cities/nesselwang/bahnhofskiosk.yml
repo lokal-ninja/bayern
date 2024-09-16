@@ -1,11 +1,11 @@
 id: 319423808
-type: way
+type: node
 latitude: 47.62422
 longitude: 10.50426
 postcode: "87484"
 city: Nesselwang
-street: "Bahnhofstraße"
-housenumber: 16
+street: Bahnhofstraße
+housenumber: "16"
 phone: ""
-opening_hours: "closed"
+opening_hours: closed
 website: ""

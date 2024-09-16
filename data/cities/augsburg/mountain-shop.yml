@@ -4,8 +4,8 @@ latitude: 48.36975
 longitude: 10.89671
 postcode: "86150"
 city: Augsburg
-street: "Steingasse"
-housenumber: 11
-phone: "+49 8218 1560200"
-opening_hours: "Mo-Sa 10:00-18:00; Su off"
-website: "https://www.mountain-shop.com/de/store/augsburg-84"
+street: Steingasse
+housenumber: "11"
+phone: +49 8218 1560200
+opening_hours: Mo-Sa 10:00-18:00; Su off
+website: https://www.mountain-shop.com/de/store/augsburg-84

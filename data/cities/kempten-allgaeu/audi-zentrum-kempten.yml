@@ -1,11 +1,11 @@
 id: 107425740
-type: way
+type: node
 latitude: 47.71412
 longitude: 10.31667
 postcode: "87435"
 city: Kempten (Allgäu)
-street: "Calgeerstraße"
-housenumber: 7
+street: Calgeerstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Th 07:00-18:00; Fr 07:00-17:00; Sa 09:00-13:00"
-website: "https://www.autohaus-seitz.de/"
+opening_hours: Mo-Th 07:00-18:00; Fr 07:00-17:00; Sa 09:00-13:00
+website: https://www.autohaus-seitz.de/

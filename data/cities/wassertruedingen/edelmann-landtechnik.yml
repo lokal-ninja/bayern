@@ -1,11 +1,11 @@
 id: 668953661
-type: way
+type: node
 latitude: 49.05858
 longitude: 10.65629
 postcode: "91717"
 city: Wassertrüdingen
-street: "Obermögersheim"
-housenumber: 107
+street: Obermögersheim
+housenumber: "107"
 phone: ""
 opening_hours: ""
 website: ""

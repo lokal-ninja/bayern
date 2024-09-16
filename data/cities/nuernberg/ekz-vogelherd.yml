@@ -1,11 +1,11 @@
 id: 144869067
-type: way
+type: node
 latitude: 49.46697
 longitude: 11.05805
 postcode: "90425"
 city: Nürnberg
-street: "Kölner Straße"
-housenumber: 21
+street: Kölner Straße
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

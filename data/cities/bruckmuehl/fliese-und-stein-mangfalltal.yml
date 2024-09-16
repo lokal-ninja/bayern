@@ -1,11 +1,11 @@
 id: 148703462
-type: way
+type: node
 latitude: 47.884
 longitude: 11.93229
 postcode: "83052"
 city: Bruckmühl
-street: "Siemensstraße"
-housenumber: 15
+street: Siemensstraße
+housenumber: "15"
 phone: ""
 opening_hours: ""
-website: "https://fliese-stein-mangfalltal.de/"
+website: https://fliese-stein-mangfalltal.de/

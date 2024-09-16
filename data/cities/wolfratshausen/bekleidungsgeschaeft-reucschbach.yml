@@ -4,8 +4,8 @@ latitude: 47.91227
 longitude: 11.4174
 postcode: "82515"
 city: Wolfratshausen
-street: "Obermarkt"
-housenumber: 34
-phone: "+49 8171 7989"
-opening_hours: "Di-Fr 10:00-12:30, Di-Fr 14:30-18:00, Sa 10:00-14:00"
-website: "https://www.hjr-massbekleidung.de/"
+street: Obermarkt
+housenumber: "34"
+phone: +49 8171 7989
+opening_hours: Di-Fr 10:00-12:30, Di-Fr 14:30-18:00, Sa 10:00-14:00
+website: https://www.hjr-massbekleidung.de/

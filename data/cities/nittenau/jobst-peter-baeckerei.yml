@@ -1,11 +1,11 @@
 id: 504626228
-type: way
+type: node
 latitude: 49.19667
 longitude: 12.27079
 postcode: "93149"
 city: Nittenau
-street: "Gerichtsstraße"
-housenumber: 2
+street: Gerichtsstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

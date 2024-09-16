@@ -4,8 +4,8 @@ latitude: 48.35545
 longitude: 10.97786
 postcode: "86316"
 city: Friedberg
-street: "Marienplatz"
-housenumber: 4
-phone: "+49 821 6610 9996"
-opening_hours: "Fr 15:00-17:00 ||nach Vereinbarung"
-website: "https://kosmetik-gall.de/"
+street: Marienplatz
+housenumber: "4"
+phone: +49 821 6610 9996
+opening_hours: Fr 15:00-17:00 ||"nach Vereinbarung"
+website: https://kosmetik-gall.de/

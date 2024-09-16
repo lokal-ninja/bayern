@@ -4,8 +4,8 @@ latitude: 49.33064
 longitude: 11.02354
 postcode: "91126"
 city: Schwabach
-street: "Neutorstraße"
-housenumber: 7
-phone: "+49 9122 14007"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00; So,PH off"
-website: "https://www.optiker-schwabach.de/"
+street: Neutorstraße
+housenumber: "7"
+phone: +49 9122 14007
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00; So,PH off
+website: https://www.optiker-schwabach.de/

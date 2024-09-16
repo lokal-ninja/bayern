@@ -1,11 +1,11 @@
 id: 53013351
-type: way
+type: node
 latitude: 49.66528
 longitude: 11.04286
 postcode: "91083"
 city: Baiersdorf
-street: "Industriestraße"
-housenumber: 33
-phone: "+49-9133-767640"
-opening_hours: "Mo-Fr 8:00-17:00; Sa 8:00-12:00; Su,Ph off"
-website: "https://autohaus-loew.business.site/"
+street: Industriestraße
+housenumber: "33"
+phone: +49-9133-767640
+opening_hours: Mo-Fr 8:00-17:00; Sa 8:00-12:00; Su,Ph off
+website: https://autohaus-loew.business.site/

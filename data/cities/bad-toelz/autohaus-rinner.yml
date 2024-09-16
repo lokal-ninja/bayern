@@ -1,11 +1,11 @@
 id: 96359923
-type: way
+type: node
 latitude: 47.74891
 longitude: 11.56481
 postcode: "83646"
 city: Bad Tölz
-street: "Demmeljochstraße"
-housenumber: 50
+street: Demmeljochstraße
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

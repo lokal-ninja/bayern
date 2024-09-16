@@ -4,8 +4,9 @@ latitude: 48.25721
 longitude: 10.98681
 postcode: "86415"
 city: Mering
-street: "Alpspitzstraße"
-housenumber: 3
-phone: "+49 8233 4017"
-opening_hours: "Mo-Th 08:30-12:00,13:00-18:00; Fr 08:30-12:00,13:00-17:00; Sa 09:00-12:00; PH,Su off"
-website: "https://autohaus-sedlmair.de/"
+street: Alpspitzstraße
+housenumber: "3"
+phone: +49 8233 4017
+opening_hours: Mo-Th 08:30-12:00,13:00-18:00; Fr 08:30-12:00,13:00-17:00; Sa 09:00-12:00;
+    PH,Su off
+website: https://autohaus-sedlmair.de/

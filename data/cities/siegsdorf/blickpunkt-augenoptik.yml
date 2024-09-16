@@ -4,8 +4,8 @@ latitude: 47.82234
 longitude: 12.64431
 postcode: "83313"
 city: Siegsdorf
-street: "Hauptstraße"
-housenumber: 7
-phone: "+49 8662 661044"
-opening_hours: "Mo-Fr 9:00-12:00, Sa 9:00-12:00, We off"
-website: "https://www.optik-siegsdorf.de/"
+street: Hauptstraße
+housenumber: "7"
+phone: +49 8662 661044
+opening_hours: Mo-Fr 9:00-12:00, Sa 9:00-12:00, We off
+website: https://www.optik-siegsdorf.de/

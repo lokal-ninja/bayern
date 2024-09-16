@@ -4,8 +4,8 @@ latitude: 49.58276
 longitude: 11.00624
 postcode: "91052"
 city: Erlangen
-street: "Karl-Zucker-Straße"
-housenumber: 17
+street: Karl-Zucker-Straße
+housenumber: "17"
 phone: "+49913133641"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://erlangen-autowerkstatt.de/"
+opening_hours: Mo-Fr 08:00-17:00
+website: https://erlangen-autowerkstatt.de/

@@ -1,11 +1,11 @@
 id: 115131576
-type: way
+type: node
 latitude: 49.93827
 longitude: 12.22735
 postcode: "95666"
 city: Mitterteich
-street: "Gottlieb-Daimler-Straße"
-housenumber: 2
+street: Gottlieb-Daimler-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.ids.q8.com"
+opening_hours: 24/7
+website: https://www.ids.q8.com

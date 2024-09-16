@@ -1,11 +1,11 @@
 id: 104798884
-type: way
+type: node
 latitude: 48.09688
 longitude: 11.58115
 postcode: "81547"
 city: München
-street: "Oberbiberger Straße"
-housenumber: 1
-phone: "+49 89 69341913"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.edeka.de"
+street: Oberbiberger Straße
+housenumber: "1"
+phone: +49 89 69341913
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.edeka.de

@@ -4,8 +4,8 @@ latitude: 49.09595
 longitude: 12.48764
 postcode: "93167"
 city: Falkenstein
-street: "Bavariastraße"
-housenumber: 4
-phone: "+49 9462 4139986"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-16:00"
+street: Bavariastraße
+housenumber: "4"
+phone: +49 9462 4139986
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-16:00
 website: ""

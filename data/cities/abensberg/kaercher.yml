@@ -1,11 +1,11 @@
 id: 380194156
-type: way
+type: node
 latitude: 48.80446
 longitude: 11.87802
 postcode: "93326"
 city: Abensberg
-street: "Rudolf-Diesel-Straße"
-housenumber: 3
+street: Rudolf-Diesel-Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

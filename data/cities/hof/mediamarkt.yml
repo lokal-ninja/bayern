@@ -4,8 +4,8 @@ latitude: 50.32287
 longitude: 11.92261
 postcode: "95028"
 city: Hof
-street: "An der Michaelisbrücke"
-housenumber: 2
+street: An der Michaelisbrücke
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00"
-website: "https://www.mediamarkt.de/de/store/hof-467"
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-18:00
+website: https://www.mediamarkt.de/de/store/hof-467

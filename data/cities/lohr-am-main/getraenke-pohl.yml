@@ -1,11 +1,11 @@
 id: 33484222
-type: way
+type: node
 latitude: 49.97934
 longitude: 9.57636
 postcode: "97816"
 city: Lohr am Main
-street: "Bürgermeister-Dr.-Nebel-Straße"
+street: Bürgermeister-Dr.-Nebel-Straße
 housenumber: 9a
-phone: "+49 9352 60130"
-opening_hours: "Mo-Fr 08:30-19:00; Sa 08:30-18:00"
-website: "https://www.getraenke-pohl.com/"
+phone: +49 9352 60130
+opening_hours: Mo-Fr 08:30-19:00; Sa 08:30-18:00
+website: https://www.getraenke-pohl.com/

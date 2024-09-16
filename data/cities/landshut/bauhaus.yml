@@ -1,11 +1,11 @@
 id: 110307778
-type: way
+type: node
 latitude: 48.55406
 longitude: 12.15697
 postcode: "84030"
 city: Landshut
-street: "Porschestraße"
-housenumber: 22
-phone: "+49 871 43072-0"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.bauhaus.info/fachcentren/fachcentrum-landshut/fc/606"
+street: Porschestraße
+housenumber: "22"
+phone: +49 871 43072-0
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.bauhaus.info/fachcentren/fachcentrum-landshut/fc/606

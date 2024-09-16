@@ -1,11 +1,11 @@
 id: 95636971
-type: way
+type: node
 latitude: 48.29336
 longitude: 10.66118
 postcode: "86850"
 city: Fischach
-street: "Augsburger Straße"
-housenumber: 43
+street: Augsburger Straße
+housenumber: "43"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su off; PH off"
+opening_hours: Mo-Sa 08:00-20:00; Su off; PH off
 website: ""

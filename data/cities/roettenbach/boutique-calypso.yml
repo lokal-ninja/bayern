@@ -4,8 +4,8 @@ latitude: 49.66339
 longitude: 10.92155
 postcode: "91341"
 city: Röttenbach
-street: "Forstacker"
-housenumber: 1
-phone: "+49 9195 8315"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
+street: Forstacker
+housenumber: "1"
+phone: +49 9195 8315
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
 website: ""

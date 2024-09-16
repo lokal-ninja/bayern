@@ -4,8 +4,8 @@ latitude: 48.10968
 longitude: 11.71739
 postcode: "85540"
 city: Haar
-street: "Hans-Stießberger-Straße"
-housenumber: 3
+street: Hans-Stießberger-Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Tu-Fr 08:30-18:00; Sa 08:30-12:30"
-website: "https://salon-aha.de/"
+opening_hours: Tu-Fr 08:30-18:00; Sa 08:30-12:30
+website: https://salon-aha.de/

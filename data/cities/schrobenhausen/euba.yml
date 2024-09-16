@@ -1,11 +1,11 @@
 id: 288546661
-type: way
+type: node
 latitude: 48.57557
 longitude: 11.1717
 postcode: "86529"
 city: Schrobenhausen
-street: "Katharinenweg"
-housenumber: 26
+street: Katharinenweg
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

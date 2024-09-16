@@ -4,8 +4,8 @@ latitude: 48.78
 longitude: 11.43661
 postcode: ""
 city: Ingolstadt
-street: "Lena-Christ-Straße"
-housenumber: 1
+street: Lena-Christ-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:30-20:00;Sa 09:00-19:00"
-website: "https://www.schuhmuecke.de/"
+opening_hours: Mo-Fr 09:30-20:00;Sa 09:00-19:00
+website: https://www.schuhmuecke.de/

@@ -1,11 +1,11 @@
 id: 90211487
-type: way
+type: node
 latitude: 48.09449
 longitude: 11.41245
 postcode: "82152"
 city: Krailling
-street: "Gautinger Straße"
-housenumber: 51
+street: Gautinger Straße
+housenumber: "51"
 phone: "+49898574835"
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
-website: "https://www.edeka.de/"
+opening_hours: Mo-Sa 07:00-20:00; PH off
+website: https://www.edeka.de/

@@ -1,11 +1,11 @@
 id: 160314348
-type: way
+type: node
 latitude: 48.76886
 longitude: 11.39931
 postcode: "85057"
 city: Ingolstadt
-street: "Neuburger Straße"
-housenumber: 75
+street: Neuburger Straße
+housenumber: "75"
 phone: ""
-opening_hours: "Mo-Fr 06:00-21:00; Sa 08:00-13:00; PH off"
+opening_hours: Mo-Fr 06:00-21:00; Sa 08:00-13:00; PH off
 website: ""

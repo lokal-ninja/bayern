@@ -1,11 +1,11 @@
 id: 183540542
-type: way
+type: node
 latitude: 48.87165
 longitude: 12.57437
 postcode: "94315"
 city: Straubing
-street: "Johannes-Kepler-Straße"
-housenumber: 11
-phone: "+49 9421 30422"
-opening_hours: "Mo-Fr 08:30-12:00,13:30-17:00; Sa 09:00-12:00"
-website: "https://www.dekogietl.de/"
+street: Johannes-Kepler-Straße
+housenumber: "11"
+phone: +49 9421 30422
+opening_hours: Mo-Fr 08:30-12:00,13:30-17:00; Sa 09:00-12:00
+website: https://www.dekogietl.de/

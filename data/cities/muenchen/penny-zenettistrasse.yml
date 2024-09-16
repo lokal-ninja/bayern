@@ -4,8 +4,8 @@ latitude: 48.12664
 longitude: 11.55309
 postcode: "80337"
 city: München
-street: "Zenettistraße"
-housenumber: 48
+street: Zenettistraße
+housenumber: "48"
 phone: ""
-opening_hours: "Mo-Sa 07:30-20:00"
-website: "https://www.penny.de/"
+opening_hours: Mo-Sa 07:30-20:00
+website: https://www.penny.de/

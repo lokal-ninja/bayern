@@ -4,8 +4,8 @@ latitude: 48.20852
 longitude: 11.3317
 postcode: "82140"
 city: Olching
-street: "Fritzstraße"
-housenumber: 7
-phone: "+49 8142 13222"
-opening_hours: "Tu-Sa 12:00-19:00"
+street: Fritzstraße
+housenumber: "7"
+phone: +49 8142 13222
+opening_hours: Tu-Sa 12:00-19:00
 website: ""

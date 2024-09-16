@@ -4,8 +4,8 @@ latitude: 48.10973
 longitude: 11.726
 postcode: "85540"
 city: Haar
-street: "Salmdorfer Straße"
-housenumber: 1
+street: Salmdorfer Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-18:00; Su 07:00-15:00"
-website: "https://dinkelking.de/"
+opening_hours: Mo-Fr 06:30-18:00; Sa 06:30-18:00; Su 07:00-15:00
+website: https://dinkelking.de/

@@ -1,11 +1,11 @@
 id: 427258005
-type: way
+type: node
 latitude: 50.10507
 longitude: 11.42993
 postcode: "95326"
 city: Kulmbach
-street: "Lichtenfelser Straße"
-housenumber: 52
+street: Lichtenfelser Straße
+housenumber: "52"
 phone: ""
 opening_hours: ""
 website: ""

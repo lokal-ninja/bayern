@@ -4,8 +4,8 @@ latitude: 48.37053
 longitude: 10.89298
 postcode: "86152"
 city: Augsburg
-street: "Theaterstraße"
-housenumber: 8
-phone: "+49 821 517694"
-opening_hours: "Nach Vereinbarung"
-website: "https://www.wieland-weiss.de/"
+street: Theaterstraße
+housenumber: "8"
+phone: +49 821 517694
+opening_hours: '"Nach Vereinbarung"'
+website: https://www.wieland-weiss.de/

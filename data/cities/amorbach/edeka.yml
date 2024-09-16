@@ -1,11 +1,11 @@
 id: 1272079149
-type: way
+type: node
 latitude: 49.64827
 longitude: 9.21859
 postcode: "63916"
 city: Amorbach
-street: "Krummwiese"
-housenumber: 4
+street: Krummwiese
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 704703248
-type: way
+type: node
 latitude: 48.98943
 longitude: 12.23914
 postcode: "93098"
 city: Mintraching
-street: "Germanenstraße"
-housenumber: 16
+street: Germanenstraße
+housenumber: "16"
 phone: ""
 opening_hours: ""
-website: "https://www.roadrocketgarage.com/"
+website: https://www.roadrocketgarage.com/

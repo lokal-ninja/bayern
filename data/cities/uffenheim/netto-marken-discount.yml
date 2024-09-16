@@ -1,11 +1,11 @@
 id: 610048174
-type: way
+type: node
 latitude: 49.54856
 longitude: 10.22268
 postcode: "97215"
 city: Uffenheim
-street: "Gollachweg"
-housenumber: 2
+street: Gollachweg
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.netto-online.de"
+website: https://www.netto-online.de

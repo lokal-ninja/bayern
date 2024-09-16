@@ -1,11 +1,11 @@
 id: 340073822
-type: way
+type: node
 latitude: 48.53451
 longitude: 12.02723
 postcode: "84079"
 city: Bruckberg
-street: "Hauptstraße"
-housenumber: 3
+street: Hauptstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 05:30-18:00; Sa 05:30-12:00"
+opening_hours: Mo-Fr 05:30-18:00; Sa 05:30-12:00
 website: ""

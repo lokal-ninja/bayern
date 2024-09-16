@@ -1,11 +1,11 @@
 id: 178069300
-type: way
+type: node
 latitude: 48.49833
 longitude: 11.24014
 postcode: "86565"
 city: Gachenbach
-street: "Untere Ortsstraße"
-housenumber: 3
+street: Untere Ortsstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://www.metzgereirupp.de/"
+website: https://www.metzgereirupp.de/

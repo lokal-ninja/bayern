@@ -1,11 +1,11 @@
 id: 40236294
-type: way
+type: node
 latitude: 48.80929
 longitude: 11.48582
 postcode: "85092"
 city: Kösching
-street: "Ingolstädter Straße"
-housenumber: 97
+street: Ingolstädter Straße
+housenumber: "97"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH closed"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH closed
 website: ""

@@ -1,11 +1,11 @@
 id: 408296696
-type: way
+type: node
 latitude: 48.128
 longitude: 11.36556
 postcode: "82110"
 city: Germering
-street: "Frühlingstraße"
-housenumber: 1
+street: Frühlingstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-19:00"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-19:00
 website: ""

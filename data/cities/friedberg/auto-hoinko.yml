@@ -1,11 +1,11 @@
 id: 123115176
-type: way
+type: node
 latitude: 48.40814
 longitude: 10.95583
 postcode: "86316"
 city: Friedberg
-street: "Egerländer Straße"
-housenumber: 16
+street: Egerländer Straße
+housenumber: "16"
 phone: ""
 opening_hours: ""
-website: "https://www.auto-hoinko.de/"
+website: https://www.auto-hoinko.de/

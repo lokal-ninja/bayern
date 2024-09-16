@@ -4,8 +4,8 @@ latitude: 48.12917
 longitude: 11.60251
 postcode: "81667"
 city: München
-street: "Wörthstraße"
-housenumber: 47
+street: Wörthstraße
+housenumber: "47"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:00"
-website: "https://www.messiabedrosian.de/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-17:00
+website: https://www.messiabedrosian.de/

@@ -1,11 +1,11 @@
 id: 102198937
-type: way
+type: node
 latitude: 47.85672
 longitude: 12.63473
 postcode: "83278"
 city: Traunstein
-street: "Mühlgasse"
-housenumber: 19
+street: Mühlgasse
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Fr 07:30-17:30; Sa 08:30-12:30"
+opening_hours: Mo-Fr 07:30-17:30; Sa 08:30-12:30
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.44948
 longitude: 11.07901
 postcode: "90402"
 city: Nürnberg
-street: "Hallplatz"
-housenumber: 2
-phone: "+49 911 2448272"
-opening_hours: "closed"
-website: "https://www.hussel.de/"
+street: Hallplatz
+housenumber: "2"
+phone: +49 911 2448272
+opening_hours: closed
+website: https://www.hussel.de/

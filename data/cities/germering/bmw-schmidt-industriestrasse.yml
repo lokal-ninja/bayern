@@ -1,11 +1,11 @@
 id: 37545844
-type: way
+type: node
 latitude: 48.13118
 longitude: 11.37447
 postcode: "82110"
 city: Germering
-street: "Industriestraße"
-housenumber: 8
+street: Industriestraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

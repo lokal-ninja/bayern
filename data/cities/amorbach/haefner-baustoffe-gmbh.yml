@@ -1,11 +1,11 @@
 id: 484308788
-type: way
+type: node
 latitude: 49.64977
 longitude: 9.22075
 postcode: "63916"
 city: Amorbach
-street: "Weilbacher Straße"
-housenumber: 13
+street: Weilbacher Straße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

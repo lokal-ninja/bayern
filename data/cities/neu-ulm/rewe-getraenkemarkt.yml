@@ -1,11 +1,11 @@
 id: 118819602
-type: way
+type: node
 latitude: 48.40569
 longitude: 10.0371
 postcode: "89233"
 city: Neu-Ulm
-street: "Leipheimer Straße"
-housenumber: 55
+street: Leipheimer Straße
+housenumber: "55"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

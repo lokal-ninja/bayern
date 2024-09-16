@@ -1,11 +1,11 @@
 id: 90247246
-type: way
+type: node
 latitude: 48.15968
 longitude: 11.54831
 postcode: "80636"
 city: München
-street: "Dachauer Straße"
-housenumber: 116
+street: Dachauer Straße
+housenumber: "116"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1225738626
-type: way
+type: node
 latitude: 48.82278
 longitude: 12.94954
 postcode: "94469"
 city: Deggendorf
-street: "Hauptstraße"
+street: Hauptstraße
 housenumber: 27a
 phone: ""
 opening_hours: ""
-website: "https://www.autohaus-griesbeck.de/"
+website: https://www.autohaus-griesbeck.de/

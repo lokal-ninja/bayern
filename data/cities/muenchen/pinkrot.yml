@@ -4,8 +4,8 @@ latitude: 48.13295
 longitude: 11.60847
 postcode: "81675"
 city: München
-street: "Kirchenstraße"
-housenumber: 87
-phone: "+49 89 24244747"
+street: Kirchenstraße
+housenumber: "87"
+phone: +49 89 24244747
 opening_hours: ""
-website: "https://pinkrot.de/"
+website: https://pinkrot.de/

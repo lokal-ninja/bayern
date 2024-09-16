@@ -1,11 +1,11 @@
 id: 109568491
-type: way
+type: node
 latitude: 47.83185
 longitude: 11.47937
 postcode: "82549"
 city: Königsdorf
-street: "Kiefernstraße"
-housenumber: 5
+street: Kiefernstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00, Mo-Fr 13:00-17:00, Sa 09:00-12:00"
+opening_hours: Mo-Fr 08:00-12:00, Mo-Fr 13:00-17:00, Sa 09:00-12:00
 website: ""

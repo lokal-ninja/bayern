@@ -4,8 +4,8 @@ latitude: 48.08028
 longitude: 11.69212
 postcode: "85640"
 city: Putzbrunn
-street: "Innstraße"
-housenumber: 5
+street: Innstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.anderl-getraenke.de/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.anderl-getraenke.de/

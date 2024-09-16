@@ -1,11 +1,11 @@
 id: 375238700
-type: way
+type: node
 latitude: 50.00153
 longitude: 10.24278
 postcode: "97525"
 city: Schwebheim
-street: "Schweinfurter Straße"
-housenumber: 39
+street: Schweinfurter Straße
+housenumber: "39"
 phone: ""
 opening_hours: ""
 website: ""

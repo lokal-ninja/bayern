@@ -4,8 +4,8 @@ latitude: 49.45017
 longitude: 11.07504
 postcode: "90402"
 city: Nürnberg
-street: "Breite Gasse"
-housenumber: 40
-phone: "0911 / 98 200 465"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.secondchance-repair.de/"
+street: Breite Gasse
+housenumber: "40"
+phone: 0911 / 98 200 465
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.secondchance-repair.de/

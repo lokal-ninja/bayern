@@ -1,11 +1,11 @@
 id: 198206448
-type: way
+type: node
 latitude: 50.27277
 longitude: 11.92329
 postcode: "95145"
 city: Oberkotzau
-street: "Ziegeleistraße"
-housenumber: 3
+street: Ziegeleistraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

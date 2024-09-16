@@ -4,8 +4,8 @@ latitude: 50.00112
 longitude: 12.08332
 postcode: "95615"
 city: Marktredwitz
-street: "Markt"
-housenumber: 2
+street: Markt
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.tui-reisecenter.de/"
+website: https://www.tui-reisecenter.de/

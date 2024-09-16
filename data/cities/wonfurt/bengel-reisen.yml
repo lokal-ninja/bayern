@@ -1,11 +1,11 @@
 id: 128243311
-type: way
+type: node
 latitude: 50.01533
 longitude: 10.46893
 postcode: "97539"
 city: Wonfurt
-street: "Altachweg"
-housenumber: 3
+street: Altachweg
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://www.bengel-reisen.de/"
+website: https://www.bengel-reisen.de/

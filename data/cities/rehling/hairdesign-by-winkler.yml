@@ -1,11 +1,12 @@
 id: 192774455
-type: way
+type: node
 latitude: 48.48657
 longitude: 10.92926
 postcode: "86508"
 city: Rehling
-street: "Alte Bergstraße"
-housenumber: 2
-phone: "+49 8237 5961"
-opening_hours: "Tu 08:30-12:00, 14:00-17:30; We 08:00-12:00; Fr 08:00-18:00; Sa 08:00-14:00; Th 08:00-12:00, 14:00-17:30"
-website: "https://www.hairdesignbywinkler.de/"
+street: Alte Bergstraße
+housenumber: "2"
+phone: +49 8237 5961
+opening_hours: Tu 08:30-12:00, 14:00-17:30; We 08:00-12:00; Fr 08:00-18:00; Sa 08:00-14:00;
+    Th 08:00-12:00, 14:00-17:30
+website: https://www.hairdesignbywinkler.de/

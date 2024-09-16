@@ -1,11 +1,11 @@
 id: 93708667
-type: way
+type: node
 latitude: 49.96251
 longitude: 9.08203
 postcode: ""
 city: Stockstadt am Main
-street: "Taunusstraße"
-housenumber: 7
+street: Taunusstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00"
-website: "https://filialen.aldi-sued.de/bayern/stockstadt/taunusstrasse-7"
+opening_hours: Mo-Fr 08:00-20:00
+website: https://filialen.aldi-sued.de/bayern/stockstadt/taunusstrasse-7

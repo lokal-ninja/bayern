@@ -5,7 +5,7 @@ longitude: 12.25604
 postcode: "84166"
 city: Adlkofen
 street: ""
-housenumber: 3
-phone: "+49 8707 93 24 42"
+housenumber: "3"
+phone: +49 8707 93 24 42
 opening_hours: ""
-website: "http://beim-hoga.de"
+website: http://beim-hoga.de

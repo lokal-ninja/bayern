@@ -4,8 +4,8 @@ latitude: 48.5387
 longitude: 12.63856
 postcode: "94419"
 city: Reisbach
-street: "Thannenmais-Dobl"
-housenumber: 15
-phone: "+49 174 7363921"
-opening_hours: "Mo, Sa 09:00-12:00; Th, Fr 14:00-18:00"
-website: "https://www.hofgutamdobl.de/"
+street: Thannenmais-Dobl
+housenumber: "15"
+phone: +49 174 7363921
+opening_hours: Mo, Sa 09:00-12:00; Th, Fr 14:00-18:00
+website: https://www.hofgutamdobl.de/

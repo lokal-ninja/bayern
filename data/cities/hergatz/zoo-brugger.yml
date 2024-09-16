@@ -4,8 +4,8 @@ latitude: 47.65898
 longitude: 9.85353
 postcode: "88145"
 city: Hergatz
-street: "Wangener Straße"
-housenumber: 7
-phone: "+49 8385 9551"
-opening_hours: "Mo-Th 17:00-19:00, Fr 15:30-19:00, Sa 09:00-13:00; PH off"
-website: "http://www.zoo-brugger.de/"
+street: Wangener Straße
+housenumber: "7"
+phone: +49 8385 9551
+opening_hours: Mo-Th 17:00-19:00, Fr 15:30-19:00, Sa 09:00-13:00; PH off
+website: http://www.zoo-brugger.de/

@@ -1,11 +1,11 @@
 id: 253278090
-type: way
+type: node
 latitude: 47.89027
 longitude: 12.5371
 postcode: "83339"
 city: Chieming
-street: "Hauptstraße"
-housenumber: 23
+street: Hauptstraße
+housenumber: "23"
 phone: ""
 opening_hours: ""
-website: "https://www.autowallner.de/"
+website: https://www.autowallner.de/

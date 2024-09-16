@@ -4,8 +4,8 @@ latitude: 49.59499
 longitude: 11.00486
 postcode: "91054"
 city: Erlangen
-street: "Hauptstraße"
-housenumber: 8
+street: Hauptstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 06:30-19:00; Sa 06:30-18:00"
+opening_hours: Mo-Fr 06:30-19:00; Sa 06:30-18:00
 website: ""

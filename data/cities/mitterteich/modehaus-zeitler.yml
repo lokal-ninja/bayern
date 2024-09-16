@@ -1,11 +1,11 @@
 id: 666651798
-type: way
+type: node
 latitude: 49.95063
 longitude: 12.24234
 postcode: "95666"
 city: Mitterteich
-street: "Unterer Marktplatz"
-housenumber: 14
+street: Unterer Marktplatz
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

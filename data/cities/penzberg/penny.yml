@@ -1,11 +1,11 @@
 id: 187899647
-type: way
+type: node
 latitude: 47.75648
 longitude: 11.37584
 postcode: "82377"
 city: Penzberg
-street: "Im Thal"
-housenumber: 5
+street: Im Thal
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
+opening_hours: Mo-Sa 07:00-20:00; PH off
 website: ""

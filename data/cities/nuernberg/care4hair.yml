@@ -4,8 +4,8 @@ latitude: 49.46226
 longitude: 11.15524
 postcode: "90482"
 city: Nürnberg
-street: "Rehhofstraße"
-housenumber: 142
-phone: "+49 911 95338444"
-opening_hours: "Mo off; Tu-Fr 09:00-18:00; Sa 08:30-13:00"
+street: Rehhofstraße
+housenumber: "142"
+phone: +49 911 95338444
+opening_hours: Mo off; Tu-Fr 09:00-18:00; Sa 08:30-13:00
 website: ""

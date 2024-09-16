@@ -4,8 +4,8 @@ latitude: 48.31623
 longitude: 10.89261
 postcode: "86179"
 city: Augsburg
-street: "Im Tal"
-housenumber: 9
+street: Im Tal
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.rewe.de/"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.rewe.de/

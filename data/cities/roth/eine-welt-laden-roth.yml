@@ -1,11 +1,11 @@
 id: 123723254
-type: way
+type: node
 latitude: 49.24599
 longitude: 11.09147
 postcode: "91154"
 city: Roth
-street: "Kirchplatz"
-housenumber: 8
+street: Kirchplatz
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

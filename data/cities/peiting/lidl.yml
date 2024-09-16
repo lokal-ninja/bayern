@@ -1,11 +1,11 @@
 id: 164730561
-type: way
+type: node
 latitude: 47.80411
 longitude: 10.93511
 postcode: "86971"
 city: Peiting
-street: "Münchener Straße"
-housenumber: 66
+street: Münchener Straße
+housenumber: "66"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

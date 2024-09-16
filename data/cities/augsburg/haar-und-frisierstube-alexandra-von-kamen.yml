@@ -4,8 +4,8 @@ latitude: 48.35443
 longitude: 10.88223
 postcode: "86159"
 city: Augsburg
-street: "Imhofstraße"
-housenumber: 75
-phone: "+49 15787166071"
-opening_hours: "nach telefonischer Vereinbarung"
+street: Imhofstraße
+housenumber: "75"
+phone: +49 15787166071
+opening_hours: '"nach telefonischer Vereinbarung"'
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.34519
 longitude: 10.88475
 postcode: "86199"
 city: Augsburg
-street: "Edisonstraße"
-housenumber: 12
+street: Edisonstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00; PH off"
-website: "https://www.hei-ma.de/"
+opening_hours: Mo-Sa 09:00-19:00; PH off
+website: https://www.hei-ma.de/

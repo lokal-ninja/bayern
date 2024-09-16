@@ -1,11 +1,11 @@
 id: 211197219
-type: way
+type: node
 latitude: 49.17113
 longitude: 11.44899
 postcode: "92360"
 city: Mühlhausen
-street: "Bahnhofstraße"
-housenumber: 11
+street: Bahnhofstraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

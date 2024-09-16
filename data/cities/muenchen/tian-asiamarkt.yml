@@ -4,8 +4,8 @@ latitude: 48.1473
 longitude: 11.46119
 postcode: "81241"
 city: München
-street: "Bäckerstraße"
-housenumber: 8
+street: Bäckerstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

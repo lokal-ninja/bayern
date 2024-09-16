@@ -1,11 +1,11 @@
 id: 41130730
-type: way
+type: node
 latitude: 48.15166
 longitude: 11.68555
 postcode: "85609"
 city: Aschheim
-street: "Ohmstraße"
-housenumber: 5
+street: Ohmstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

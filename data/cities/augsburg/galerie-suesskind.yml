@@ -4,8 +4,8 @@ latitude: 48.36563
 longitude: 10.90028
 postcode: "86150"
 city: Augsburg
-street: "Dominikanergasse"
-housenumber: 9
-phone: "+49 8248841550"
-opening_hours: "Di-Fr 11:00-18:00, Sa 11:00-16:00"
-website: "http://galeriesuesskind.blogspot.com/"
+street: Dominikanergasse
+housenumber: "9"
+phone: +49 8248841550
+opening_hours: Di-Fr 11:00-18:00, Sa 11:00-16:00
+website: http://galeriesuesskind.blogspot.com/

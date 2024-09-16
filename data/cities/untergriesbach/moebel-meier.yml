@@ -1,11 +1,11 @@
 id: 193170261
-type: way
+type: node
 latitude: 48.57329
 longitude: 13.68135
 postcode: "94107"
 city: Untergriesbach
-street: "Wegscheider Straße"
-housenumber: 18
+street: Wegscheider Straße
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

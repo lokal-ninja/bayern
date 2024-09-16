@@ -4,8 +4,8 @@ latitude: 49.79942
 longitude: 9.90673
 postcode: "97082"
 city: Würzburg
-street: "Daimlerstraße"
-housenumber: 8
+street: Daimlerstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00;Sa 09:00-16:00;Su,PH off"
+opening_hours: Mo-Fr 09:00-18:00;Sa 09:00-16:00;Su,PH off
 website: ""

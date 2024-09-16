@@ -4,8 +4,8 @@ latitude: 49.32951
 longitude: 11.02273
 postcode: "91126"
 city: Schwabach
-street: "Pfarrgasse"
-housenumber: 1
-phone: "+49 9122 630777"
-opening_hours: "Di-Fr 10:00-18:00; Sa 10:00-14:00; PH off"
-website: "https://www.lippmann-goldschmiede.de/"
+street: Pfarrgasse
+housenumber: "1"
+phone: +49 9122 630777
+opening_hours: Di-Fr 10:00-18:00; Sa 10:00-14:00; PH off
+website: https://www.lippmann-goldschmiede.de/

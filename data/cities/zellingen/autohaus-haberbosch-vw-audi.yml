@@ -1,11 +1,11 @@
 id: 819610139
-type: way
+type: node
 latitude: 49.89053
 longitude: 9.8258
 postcode: "97225"
 city: Zellingen
-street: "Stützenbergstraße"
-housenumber: 1
-phone: "+49 9364 8176090"
-opening_hours: "Mo-Fr 07:00-18:00"
-website: "https://www.autohaus-haberbosch.de/"
+street: Stützenbergstraße
+housenumber: "1"
+phone: +49 9364 8176090
+opening_hours: Mo-Fr 07:00-18:00
+website: https://www.autohaus-haberbosch.de/

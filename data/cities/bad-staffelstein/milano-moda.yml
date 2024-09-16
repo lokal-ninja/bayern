@@ -1,11 +1,11 @@
 id: 236524635
-type: way
+type: node
 latitude: 50.1053
 longitude: 11.00809
 postcode: "96231"
 city: Bad Staffelstein
-street: "Lichtenfelser Straße"
-housenumber: 44
+street: Lichtenfelser Straße
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-16:00"
-website: "http://bad-staffelstein.chisu.de/"
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-16:00
+website: http://bad-staffelstein.chisu.de/

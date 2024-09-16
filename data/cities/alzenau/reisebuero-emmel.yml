@@ -4,8 +4,8 @@ latitude: 50.0862
 longitude: 9.07322
 postcode: "63755"
 city: Alzenau
-street: "Marktplatz"
-housenumber: 2
+street: Marktplatz
+housenumber: "2"
 phone: ""
-opening_hours: "Mo,Fr 10:00-17:00; We 09:00-13:00"
-website: "https://www.emmel-reisen.de/"
+opening_hours: Mo,Fr 10:00-17:00; We 09:00-13:00
+website: https://www.emmel-reisen.de/

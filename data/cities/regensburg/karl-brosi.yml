@@ -4,8 +4,8 @@ latitude: 49.02455
 longitude: 12.09714
 postcode: "93059"
 city: Regensburg
-street: "Am Brückenfuß"
-housenumber: 5
-phone: "+49 941 82113"
-opening_hours: "Mo-Fr 08:00-13:00,14:00-18:00; Sa 09:00-13:30"
-website: "https://www.schuh-hand-werk.de/index.html"
+street: Am Brückenfuß
+housenumber: "5"
+phone: +49 941 82113
+opening_hours: Mo-Fr 08:00-13:00,14:00-18:00; Sa 09:00-13:30
+website: https://www.schuh-hand-werk.de/index.html

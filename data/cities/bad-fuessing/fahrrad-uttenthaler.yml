@@ -4,8 +4,8 @@ latitude: 48.34591
 longitude: 13.32767
 postcode: "94072"
 city: Bad Füssing
-street: "Inntalstraße"
-housenumber: 50
-phone: "+49 8531 92190"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:30; Su,PH off"
-website: "https://www.fahrrad-uttenthaler.de/"
+street: Inntalstraße
+housenumber: "50"
+phone: +49 8531 92190
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:30; Su,PH off
+website: https://www.fahrrad-uttenthaler.de/

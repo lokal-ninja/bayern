@@ -1,11 +1,11 @@
 id: 450057374
-type: way
+type: node
 latitude: 48.03985
 longitude: 11.66011
 postcode: "85649"
 city: Brunnthal
-street: "Zusestraße"
-housenumber: 2
-phone: "+49 89 6656159-0"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.hagebaumarkt-muenchen.de/maerkte-events/brunnthal/mn_27238"
+street: Zusestraße
+housenumber: "2"
+phone: +49 89 6656159-0
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.hagebaumarkt-muenchen.de/maerkte-events/brunnthal/mn_27238

@@ -1,11 +1,11 @@
 id: 79515021
-type: way
+type: node
 latitude: 48.97502
 longitude: 12.18345
 postcode: "93073"
 city: Obertraubling
-street: "Berliner Straße"
-housenumber: 34
-phone: "+49 9401 92530"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.dehner.de/market/?mt=32"
+street: Berliner Straße
+housenumber: "34"
+phone: +49 9401 92530
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.dehner.de/market/?mt=32

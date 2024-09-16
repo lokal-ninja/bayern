@@ -5,7 +5,7 @@ longitude: 12.07211
 postcode: "83558"
 city: Maitenbeth
 street: ""
-housenumber: 3
-phone: "+49 8076 1869"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00; Sa 7:30-12:00"
+housenumber: "3"
+phone: +49 8076 1869
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:00; Sa 7:30-12:00
 website: ""

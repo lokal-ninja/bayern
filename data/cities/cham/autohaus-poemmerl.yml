@@ -1,11 +1,11 @@
 id: 334238782
-type: way
+type: node
 latitude: 49.22701
 longitude: 12.65352
 postcode: "93413"
 city: Cham
-street: "Von-Reinhardstöttner-Straße"
-housenumber: 1
+street: Von-Reinhardstöttner-Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "www.poemmerl.de"
+website: www.poemmerl.de

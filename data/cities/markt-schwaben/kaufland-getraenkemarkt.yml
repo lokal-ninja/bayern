@@ -4,8 +4,8 @@ latitude: 48.19093
 longitude: 11.85083
 postcode: "85570"
 city: Markt Schwaben
-street: "Gutenbergstraße"
-housenumber: 1
+street: Gutenbergstraße
+housenumber: "1"
 phone: "+49812122410"
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
-website: "https://filiale.kaufland.de/service/filiale.storeName=DE5870.html"
+opening_hours: Mo-Sa 07:00-20:00; PH off
+website: https://filiale.kaufland.de/service/filiale.storeName=DE5870.html

@@ -4,8 +4,8 @@ latitude: 47.8561
 longitude: 12.12937
 postcode: "83022"
 city: Rosenheim
-street: "Ludwigsplatz"
-housenumber: 7
+street: Ludwigsplatz
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 11:00-16:00"
+opening_hours: Mo-Fr 10:00-18:00; Sa 11:00-16:00
 website: ""

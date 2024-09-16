@@ -4,8 +4,8 @@ latitude: 48.36968
 longitude: 10.89627
 postcode: "86150"
 city: Augsburg
-street: "Annastraße"
-housenumber: 
+street: Annastraße
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 10:00-17:00"
-website: "https://www.gusti-leder.de"
+opening_hours: Mo-Sa 10:00-17:00
+website: https://www.gusti-leder.de

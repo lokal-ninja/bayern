@@ -1,11 +1,11 @@
 id: 180530818
-type: way
+type: node
 latitude: 48.53534
 longitude: 12.14954
 postcode: "84028"
 city: Landshut
-street: "Ländtorplatz"
-housenumber: 9
-phone: "+49 871 922380"
-opening_hours: "Mo-Sa 09:00-19:00; PH off"
-website: "https://www.c-and-a.com/stores/de-de/bayern/landshut/laendtorplatz-9.html"
+street: Ländtorplatz
+housenumber: "9"
+phone: +49 871 922380
+opening_hours: Mo-Sa 09:00-19:00; PH off
+website: https://www.c-and-a.com/stores/de-de/bayern/landshut/laendtorplatz-9.html

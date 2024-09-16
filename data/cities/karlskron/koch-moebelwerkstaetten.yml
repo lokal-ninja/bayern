@@ -1,11 +1,11 @@
 id: 498757814
-type: way
+type: node
 latitude: 48.67727
 longitude: 11.40413
 postcode: "85123"
 city: Karlskron
-street: "Ringstraße"
-housenumber: 36
+street: Ringstraße
+housenumber: "36"
 phone: ""
 opening_hours: ""
-website: "https://www.koch-moebel.de/"
+website: https://www.koch-moebel.de/

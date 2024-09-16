@@ -4,8 +4,8 @@ latitude: 47.85759
 longitude: 11.99428
 postcode: "83043"
 city: Bad Aibling
-street: "Kampenwandstraße"
-housenumber: 5
-phone: "+49 8061 90 60 0"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:30-16:00; PH,Su off"
-website: "https://boxhammer.de/"
+street: Kampenwandstraße
+housenumber: "5"
+phone: +49 8061 90 60 0
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:30-16:00; PH,Su off
+website: https://boxhammer.de/

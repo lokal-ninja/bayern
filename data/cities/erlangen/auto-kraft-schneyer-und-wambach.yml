@@ -4,8 +4,8 @@ latitude: 49.57333
 longitude: 10.99954
 postcode: "91058"
 city: Erlangen
-street: "Felix-Klein-Straße"
-housenumber: 71
-phone: "+49 9131 66370"
-opening_hours: "Mo-Th 08:00-17:00; Fr 08:00-14:30"
-website: "https://www.kfz-schneyerwambach.de/"
+street: Felix-Klein-Straße
+housenumber: "71"
+phone: +49 9131 66370
+opening_hours: Mo-Th 08:00-17:00; Fr 08:00-14:30
+website: https://www.kfz-schneyerwambach.de/

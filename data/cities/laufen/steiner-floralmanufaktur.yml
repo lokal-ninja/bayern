@@ -1,11 +1,11 @@
 id: 132043599
-type: way
+type: node
 latitude: 47.92564
 longitude: 12.92306
 postcode: "83410"
 city: Laufen
 street: ""
-housenumber: 1
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.steiner-floral.de/"
+website: https://www.steiner-floral.de/

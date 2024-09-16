@@ -1,11 +1,11 @@
 id: 589614274
-type: way
+type: node
 latitude: 49.84912
 longitude: 11.45393
 postcode: "95491"
 city: Ahorntal
 street: ""
-housenumber: 35
+housenumber: "35"
 phone: ""
 opening_hours: ""
-website: "https://www.getraenke-hubert.de/"
+website: https://www.getraenke-hubert.de/

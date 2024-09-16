@@ -1,11 +1,11 @@
 id: 233490859
-type: way
+type: node
 latitude: 47.80181
 longitude: 10.22406
 postcode: "87452"
 city: Altusried
-street: "Am Kuhnenberg"
-housenumber: 13
+street: Am Kuhnenberg
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH closed"
+opening_hours: Mo-Sa 07:00-20:00; PH closed
 website: ""

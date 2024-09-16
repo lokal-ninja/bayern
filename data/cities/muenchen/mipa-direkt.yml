@@ -4,8 +4,8 @@ latitude: 48.12323
 longitude: 11.58891
 postcode: "81541"
 city: München
-street: "Senftlstraße"
-housenumber: 3
+street: Senftlstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Th 07:00-12:30, 13:00-17:00; Fr 07:00-14:00; Sa,Su off"
-website: "https://www.mipa-direkt.com/startseite/"
+opening_hours: Mo-Th 07:00-12:30, 13:00-17:00; Fr 07:00-14:00; Sa,Su off
+website: https://www.mipa-direkt.com/startseite/

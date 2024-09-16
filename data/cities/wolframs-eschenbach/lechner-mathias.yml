@@ -1,11 +1,11 @@
 id: 463746594
-type: way
+type: node
 latitude: 49.21887
 longitude: 10.72777
 postcode: "91639"
 city: Wolframs-Eschenbach
-street: "Biederbacher Straße"
-housenumber: 33
+street: Biederbacher Straße
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

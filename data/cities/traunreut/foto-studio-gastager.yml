@@ -4,8 +4,8 @@ latitude: 47.96281
 longitude: 12.59211
 postcode: "83301"
 city: Traunreut
-street: "Elbestraße"
-housenumber: 1
+street: Elbestraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 09:00-13:00,14:00-18:00; We,Sa 09:00-12:30"
+opening_hours: Mo,Tu,Th,Fr 09:00-13:00,14:00-18:00; We,Sa 09:00-12:30
 website: ""

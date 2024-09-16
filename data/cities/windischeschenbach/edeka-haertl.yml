@@ -1,11 +1,11 @@
 id: 335532908
-type: way
+type: node
 latitude: 49.79637
 longitude: 12.15267
 postcode: "92670"
 city: Windischeschenbach
-street: "Neustädter Straße"
-housenumber: 66
+street: Neustädter Straße
+housenumber: "66"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 52512039
-type: way
+type: node
 latitude: 48.76434
 longitude: 11.42374
 postcode: "85049"
 city: Ingolstadt
-street: "Theresienstraße"
-housenumber: 5
+street: Theresienstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-17:00"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-17:00
 website: ""

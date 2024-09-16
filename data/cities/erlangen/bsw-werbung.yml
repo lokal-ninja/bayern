@@ -4,8 +4,8 @@ latitude: 49.59016
 longitude: 11.00574
 postcode: "91052"
 city: Erlangen
-street: "Bauhofstraße"
-housenumber: 1
+street: Bauhofstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00,13:00-16:00; Sa,Su,PH off"
+opening_hours: Mo-Fr 09:00-12:00,13:00-16:00; Sa,Su,PH off
 website: ""

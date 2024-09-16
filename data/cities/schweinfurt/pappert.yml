@@ -4,8 +4,8 @@ latitude: 50.0616
 longitude: 10.1935
 postcode: "97424"
 city: Schweinfurt
-street: "Gretel-Baumbach-Straße"
-housenumber: 3
-phone: "+49 9721 4997484"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-17:00; Su,PH 07:00-17:00"
-website: "https://www.papperts.de/"
+street: Gretel-Baumbach-Straße
+housenumber: "3"
+phone: +49 9721 4997484
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-17:00; Su,PH 07:00-17:00
+website: https://www.papperts.de/

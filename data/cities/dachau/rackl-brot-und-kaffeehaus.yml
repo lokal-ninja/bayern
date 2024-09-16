@@ -4,8 +4,8 @@ latitude: 48.26491
 longitude: 11.43803
 postcode: "85221"
 city: Dachau
-street: "Mittermayerstraße"
-housenumber: 57
-phone: "+49 81319986990"
-opening_hours: "Mo-Sa 06:30-18:30; Su,PH 07:00-18:00"
-website: "https://www.rackls-backstubn.de/"
+street: Mittermayerstraße
+housenumber: "57"
+phone: +49 81319986990
+opening_hours: Mo-Sa 06:30-18:30; Su,PH 07:00-18:00
+website: https://www.rackls-backstubn.de/

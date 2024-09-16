@@ -1,11 +1,11 @@
 id: 138684101
-type: way
+type: node
 latitude: 48.06864
 longitude: 11.37849
 postcode: "82131"
 city: Gauting
-street: "Bergstraße"
-housenumber: 4
+street: Bergstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

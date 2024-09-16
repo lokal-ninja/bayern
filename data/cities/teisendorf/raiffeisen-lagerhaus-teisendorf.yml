@@ -1,11 +1,11 @@
 id: 242767192
-type: way
+type: node
 latitude: 47.84756
 longitude: 12.83654
 postcode: "83317"
 city: Teisendorf
-street: "Bahnhofstraße"
-housenumber: 71
+street: Bahnhofstraße
+housenumber: "71"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 38503126
-type: way
+type: node
 latitude: 48.13216
 longitude: 11.3802
 postcode: "82110"
 city: Germering
-street: "Industriestraße"
-housenumber: 24
+street: Industriestraße
+housenumber: "24"
 phone: ""
-opening_hours: "Mo 07:00-20:00; Mo-Sa 07:00-20:00"
-website: "https://filialen.aldi-sued.de/bayern/germering/industriestrasse-24"
+opening_hours: Mo 07:00-20:00; Mo-Sa 07:00-20:00
+website: https://filialen.aldi-sued.de/bayern/germering/industriestrasse-24

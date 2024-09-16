@@ -1,11 +1,11 @@
 id: 100876664
-type: way
+type: node
 latitude: 48.17156
 longitude: 10.48382
 postcode: ""
 city: Kirchheim in Schwaben
-street: "Hauptstraße"
-housenumber: 41
+street: Hauptstraße
+housenumber: "41"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 07:00-19:00"
+opening_hours: Mo-Fr 08:00-19:00; Sa 07:00-19:00
 website: ""

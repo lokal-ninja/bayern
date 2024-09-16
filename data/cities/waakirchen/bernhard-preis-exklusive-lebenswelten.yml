@@ -1,11 +1,11 @@
 id: 388673473
-type: way
+type: node
 latitude: 47.79567
 longitude: 11.68002
 postcode: "83666"
 city: Waakirchen
-street: "Taubenbergweg"
-housenumber: 15
+street: Taubenbergweg
+housenumber: "15"
 phone: ""
 opening_hours: ""
-website: "https://www.bernhardpreis.de/"
+website: https://www.bernhardpreis.de/

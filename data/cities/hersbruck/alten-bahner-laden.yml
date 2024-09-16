@@ -4,8 +4,9 @@ latitude: 49.50071
 longitude: 11.43768
 postcode: "91217"
 city: Hersbruck
-street: "Leutenbachstraße"
-housenumber: 17
+street: Leutenbachstraße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo,Tu,Th 06:30-12:00,14:00-18:00; We 06:30-12:00; Fr 06:30-18:00; Sa 07:00-12:00"
+opening_hours: Mo,Tu,Th 06:30-12:00,14:00-18:00; We 06:30-12:00; Fr 06:30-18:00; Sa
+    07:00-12:00
 website: ""

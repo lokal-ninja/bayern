@@ -1,11 +1,11 @@
 id: 357148457
-type: way
+type: node
 latitude: 48.15171
 longitude: 11.25802
 postcode: "82239"
 city: Alling
-street: "Kirchstraße"
-housenumber: 8
+street: Kirchstraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

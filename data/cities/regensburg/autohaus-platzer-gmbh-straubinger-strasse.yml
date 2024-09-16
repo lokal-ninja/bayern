@@ -1,11 +1,11 @@
 id: 299379024
-type: way
+type: node
 latitude: 49.0132
 longitude: 12.15357
 postcode: "93055"
 city: Regensburg
-street: "Straubinger Straße"
-housenumber: 60
-phone: "+49 941 646623 0"
+street: Straubinger Straße
+housenumber: "60"
+phone: +49 941 646623 0
 opening_hours: ""
-website: "http://hyundai-regensburg.com/"
+website: http://hyundai-regensburg.com/

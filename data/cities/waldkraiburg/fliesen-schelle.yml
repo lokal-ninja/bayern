@@ -1,11 +1,11 @@
 id: 365661902
-type: way
+type: node
 latitude: 48.21421
 longitude: 12.41501
 postcode: "84478"
 city: Waldkraiburg
-street: "Traunreuter Straße"
-housenumber: 26
+street: Traunreuter Straße
+housenumber: "26"
 phone: ""
 opening_hours: ""
-website: "https://www.fliesen-schelle.de/"
+website: https://www.fliesen-schelle.de/

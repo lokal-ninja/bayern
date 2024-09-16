@@ -5,7 +5,7 @@ longitude: 12.23964
 postcode: "83112"
 city: Frasdorf
 street: ""
-housenumber: 13
-phone: "+49 8032 98966-0"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://www.albrechts-schokoladen.de/"
+housenumber: "13"
+phone: +49 8032 98966-0
+opening_hours: Mo-Fr 09:00-17:00
+website: https://www.albrechts-schokoladen.de/

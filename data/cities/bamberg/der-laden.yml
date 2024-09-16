@@ -4,8 +4,8 @@ latitude: 49.89077
 longitude: 10.88603
 postcode: "96049"
 city: Bamberg
-street: "Herrenstraße"
-housenumber: 8
-phone: "+49 951 55435"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-15:00"
+street: Herrenstraße
+housenumber: "8"
+phone: +49 951 55435
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-15:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.46745
 longitude: 11.93622
 postcode: "85368"
 city: Moosburg a.d. Isar
-street: "Herrnstraße"
-housenumber: 6
+street: Herrnstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-14:00"
-website: "https://www.mode-neu.de/"
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-14:00
+website: https://www.mode-neu.de/

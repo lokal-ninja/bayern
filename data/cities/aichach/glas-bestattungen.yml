@@ -1,11 +1,11 @@
 id: 124986325
-type: way
+type: node
 latitude: 48.45958
 longitude: 11.13493
 postcode: "86551"
 city: Aichach
-street: "Sankt-Michael-Straße"
-housenumber: 5
+street: Sankt-Michael-Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

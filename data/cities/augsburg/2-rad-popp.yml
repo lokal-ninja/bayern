@@ -4,8 +4,8 @@ latitude: 48.29926
 longitude: 10.9005
 postcode: "86179"
 city: Augsburg
-street: "Albert-Leidl-Straße"
-housenumber: 2
+street: Albert-Leidl-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo,We,Fr 10:00-12:00,15:00-18:00; Sa 10:00-12:00; Tu,Th,Su,PH off"
+opening_hours: Mo,We,Fr 10:00-12:00,15:00-18:00; Sa 10:00-12:00; Tu,Th,Su,PH off
 website: ""

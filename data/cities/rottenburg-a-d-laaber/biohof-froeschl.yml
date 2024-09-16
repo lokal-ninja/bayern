@@ -4,8 +4,8 @@ latitude: 48.74582
 longitude: 12.00248
 postcode: "84056"
 city: Rottenburg a.d. Laaber
-street: "Schollenweg"
-housenumber: 12
+street: Schollenweg
+housenumber: "12"
 phone: ""
-opening_hours: "Fr 13:00 - 19:00"
-website: "https://www.biohof-froeschl.de/"
+opening_hours: Fr 13:00 - 19:00
+website: https://www.biohof-froeschl.de/

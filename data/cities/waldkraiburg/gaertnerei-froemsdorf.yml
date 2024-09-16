@@ -1,11 +1,11 @@
 id: 589837314
-type: way
+type: node
 latitude: 48.21056
 longitude: 12.3886
 postcode: "84478"
 city: Waldkraiburg
-street: "Hermann-Löns-Straße"
-housenumber: 22
+street: Hermann-Löns-Straße
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

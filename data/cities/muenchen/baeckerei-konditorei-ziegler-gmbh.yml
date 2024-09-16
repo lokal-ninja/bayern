@@ -4,8 +4,8 @@ latitude: 48.15569
 longitude: 11.57307
 postcode: "80799"
 city: München
-street: "Arcisstraße"
-housenumber: 59
+street: Arcisstraße
+housenumber: "59"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:30; Sa 06:00-14:00; Su 08:00-11:00"
-website: "https://www.baeckerei-ziegler.de/"
+opening_hours: Mo-Fr 06:00-18:30; Sa 06:00-14:00; Su 08:00-11:00
+website: https://www.baeckerei-ziegler.de/

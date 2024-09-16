@@ -4,8 +4,8 @@ latitude: 48.81614
 longitude: 11.69384
 postcode: "85104"
 city: Pförring
-street: "Max-Pollin-Straße"
-housenumber: 4
-phone: "+49 8403 938 639"
+street: Max-Pollin-Straße
+housenumber: "4"
+phone: +49 8403 938 639
 opening_hours: ""
-website: "https://www.edeka.de/"
+website: https://www.edeka.de/

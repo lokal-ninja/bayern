@@ -1,11 +1,11 @@
 id: 125101709
-type: way
+type: node
 latitude: 49.0595
 longitude: 12.12628
 postcode: "93057"
 city: Regensburg
-street: "Arzberger Straße"
-housenumber: 7
-phone: "+49 941 64176"
+street: Arzberger Straße
+housenumber: "7"
+phone: +49 941 64176
 opening_hours: ""
-website: "https://www.karosseriebau-wachtveitl.de/"
+website: https://www.karosseriebau-wachtveitl.de/

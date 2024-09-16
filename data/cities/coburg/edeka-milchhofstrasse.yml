@@ -1,11 +1,11 @@
 id: 551069646
-type: way
+type: node
 latitude: 50.26828
 longitude: 10.95781
 postcode: "96450"
 city: Coburg
-street: "Milchhofstraße"
-housenumber: 1
+street: Milchhofstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

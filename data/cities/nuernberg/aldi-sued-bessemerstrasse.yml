@@ -1,11 +1,11 @@
 id: 1156962844
-type: way
+type: node
 latitude: 49.47414
 longitude: 11.10392
 postcode: "90411"
 city: Nürnberg
-street: "Bessemerstraße"
-housenumber: 6
+street: Bessemerstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://filialen.aldi-sued.de/bayern/nuernberg/bessemer-strasse-6"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://filialen.aldi-sued.de/bayern/nuernberg/bessemer-strasse-6

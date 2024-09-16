@@ -4,8 +4,8 @@ latitude: 48.17731
 longitude: 11.58606
 postcode: "80805"
 city: München
-street: "Schenkendorfstraße"
-housenumber: 92
+street: Schenkendorfstraße
+housenumber: "92"
 phone: ""
-opening_hours: "Nach Vereinbarung"
-website: "http://led-munich.de/"
+opening_hours: '"Nach Vereinbarung"'
+website: http://led-munich.de/

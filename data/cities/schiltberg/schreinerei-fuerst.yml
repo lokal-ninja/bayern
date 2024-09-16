@@ -1,11 +1,11 @@
 id: 184635753
-type: way
+type: node
 latitude: 48.47241
 longitude: 11.2511
 postcode: "86576"
 city: Schiltberg
-street: "Dieselstraße"
-housenumber: 4
+street: Dieselstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.schreinerei-fuerst.com"
+website: https://www.schreinerei-fuerst.com

@@ -4,8 +4,8 @@ latitude: 48.14863
 longitude: 11.64078
 postcode: "81929"
 city: München
-street: "Posener Platz"
-housenumber: 1
-phone: "+49 89 939 40 232"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-14:00"
-website: "https://www.reisebuero-denning.de/"
+street: Posener Platz
+housenumber: "1"
+phone: +49 89 939 40 232
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-14:00
+website: https://www.reisebuero-denning.de/

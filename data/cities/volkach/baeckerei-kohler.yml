@@ -4,8 +4,8 @@ latitude: 49.8638
 longitude: 10.22682
 postcode: "97332"
 city: Volkach
-street: "Oberer Markt"
-housenumber: 8
-phone: "+49 9381 4664"
-opening_hours: "Sa 05:00-13:00; Mo-Fr 05:00-18:00"
-website: "https://www.baeckereikohler.de/"
+street: Oberer Markt
+housenumber: "8"
+phone: +49 9381 4664
+opening_hours: Sa 05:00-13:00; Mo-Fr 05:00-18:00
+website: https://www.baeckereikohler.de/

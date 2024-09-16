@@ -1,11 +1,11 @@
 id: 117577413
-type: way
+type: node
 latitude: 48.58093
 longitude: 11.17805
 postcode: "86529"
 city: Schrobenhausen
-street: "Sankt-Peter-Straße"
-housenumber: 8
+street: Sankt-Peter-Straße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

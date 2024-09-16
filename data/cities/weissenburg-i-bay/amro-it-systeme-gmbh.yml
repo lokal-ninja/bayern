@@ -1,11 +1,11 @@
 id: 308306091
-type: way
+type: node
 latitude: 49.01893
 longitude: 10.96071
 postcode: "91781"
 city: Weißenburg i. Bay.
-street: "Treuchtlinger Straße"
-housenumber: 1
-phone: "+49 9141 9019-0"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.amro.de"
+street: Treuchtlinger Straße
+housenumber: "1"
+phone: +49 9141 9019-0
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.amro.de

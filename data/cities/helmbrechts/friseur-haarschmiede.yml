@@ -4,8 +4,8 @@ latitude: 50.23681
 longitude: 11.71653
 postcode: "95233"
 city: Helmbrechts
-street: "Friedrich-Ebert-Straße"
-housenumber: 4
+street: Friedrich-Ebert-Straße
+housenumber: "4"
 phone: "+499252251700"
-opening_hours: "Mo 08:00-12:00; Tu-Fr 08:00-12:00,13:30-18:00; Sa Nach Vereinbarung"
+opening_hours: Mo 08:00-12:00; Tu-Fr 08:00-12:00,13:30-18:00; Sa "Nach Vereinbarung"
 website: ""

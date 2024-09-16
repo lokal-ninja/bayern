@@ -4,8 +4,8 @@ latitude: 48.12995
 longitude: 11.48653
 postcode: "80689"
 city: München
-street: "Senftenauerstraße"
-housenumber: 101
+street: Senftenauerstraße
+housenumber: "101"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

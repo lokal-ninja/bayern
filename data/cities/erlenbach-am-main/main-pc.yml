@@ -4,8 +4,8 @@ latitude: 49.80199
 longitude: 9.16055
 postcode: "63906"
 city: Erlenbach am Main
-street: "Elsenfelder Straße"
-housenumber: 
+street: Elsenfelder Straße
+housenumber: ""
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 10:00-12:00,16:00-18:00; We,Sa 10:00-12:00; PH off"
-website: "https://www.main-pc.de"
+opening_hours: Mo,Tu,Th,Fr 10:00-12:00,16:00-18:00; We,Sa 10:00-12:00; PH off
+website: https://www.main-pc.de

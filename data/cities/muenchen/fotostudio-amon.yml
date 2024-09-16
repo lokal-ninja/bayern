@@ -4,8 +4,8 @@ latitude: 48.15654
 longitude: 11.57754
 postcode: "80801"
 city: München
-street: "Habsburgerstraße"
-housenumber: 3
-phone: "+49 89 38899890"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://markusamon.com/"
+street: Habsburgerstraße
+housenumber: "3"
+phone: +49 89 38899890
+opening_hours: Mo-Fr 09:00-18:00
+website: https://markusamon.com/

@@ -4,8 +4,8 @@ latitude: 48.14479
 longitude: 11.57821
 postcode: "80539"
 city: München
-street: "Ludwigstraße"
-housenumber: 7
+street: Ludwigstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Tu-Fr 11:00-18:00; Sa 11:00-15:00"
+opening_hours: Tu-Fr 11:00-18:00; Sa 11:00-15:00
 website: ""

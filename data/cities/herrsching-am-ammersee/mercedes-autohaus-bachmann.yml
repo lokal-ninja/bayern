@@ -4,8 +4,8 @@ latitude: 48.00441
 longitude: 11.17404
 postcode: "82211"
 city: Herrsching am Ammersee
-street: "Gewerbestraße"
-housenumber: 64
-phone: "+49 8152 93050"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-12:00"
-website: "https://www.mercedes-benz-sternpark.de"
+street: Gewerbestraße
+housenumber: "64"
+phone: +49 8152 93050
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-12:00
+website: https://www.mercedes-benz-sternpark.de

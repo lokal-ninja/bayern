@@ -1,11 +1,11 @@
 id: 122555356
-type: way
+type: node
 latitude: 49.34679
 longitude: 10.80225
 postcode: "91560"
 city: Heilsbronn
-street: "Gutenbergstraße"
-housenumber: 14
+street: Gutenbergstraße
+housenumber: "14"
 phone: ""
 opening_hours: ""
-website: "https://www.feyl-automobile.de/"
+website: https://www.feyl-automobile.de/

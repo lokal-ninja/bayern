@@ -4,8 +4,8 @@ latitude: 48.10929
 longitude: 11.57842
 postcode: "81547"
 city: München
-street: "Otkerstraße"
-housenumber: 2
+street: Otkerstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Nach Vereinbarung"
+opening_hours: '"Nach Vereinbarung"'
 website: ""

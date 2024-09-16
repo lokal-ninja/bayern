@@ -1,11 +1,11 @@
 id: 160271369
-type: way
+type: node
 latitude: 48.40122
 longitude: 10.02299
 postcode: "89231"
 city: Neu-Ulm
-street: "Heinrich-Heine-Straße"
+street: Heinrich-Heine-Straße
 housenumber: 2/1
-phone: "+49 731 97876-0"
-opening_hours: "Mo-Fr 08:30-19:00; Sa 08:30-16:00"
-website: "https://www.mueller.de/"
+phone: +49 731 97876-0
+opening_hours: Mo-Fr 08:30-19:00; Sa 08:30-16:00
+website: https://www.mueller.de/

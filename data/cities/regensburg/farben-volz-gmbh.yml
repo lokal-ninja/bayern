@@ -1,11 +1,11 @@
 id: 165242938
-type: way
+type: node
 latitude: 49.00534
 longitude: 12.1467
 postcode: "93055"
 city: Regensburg
-street: "Werner-Heisenberg-Straße"
-housenumber: 1
-phone: "+49 941 79509 0"
-opening_hours: "Mo-Th 07:00-17:00; Fr 07:00-15:00"
-website: "https://farben-volz.de/"
+street: Werner-Heisenberg-Straße
+housenumber: "1"
+phone: +49 941 79509 0
+opening_hours: Mo-Th 07:00-17:00; Fr 07:00-15:00
+website: https://farben-volz.de/

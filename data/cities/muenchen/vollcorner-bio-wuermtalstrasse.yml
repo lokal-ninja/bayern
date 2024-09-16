@@ -4,8 +4,8 @@ latitude: 48.11472
 longitude: 11.48147
 postcode: "81375"
 city: München
-street: "Würmtalstraße"
-housenumber: 95
+street: Würmtalstraße
+housenumber: "95"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
-website: "https://www.vollcorner.de/"
+opening_hours: Mo-Sa 08:00-20:00; PH off
+website: https://www.vollcorner.de/

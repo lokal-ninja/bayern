@@ -1,11 +1,11 @@
 id: 156702361
-type: way
+type: node
 latitude: 48.69262
 longitude: 12.64844
 postcode: "94431"
 city: Pilsting
-street: "Harburger Straße"
-housenumber: 6
+street: Harburger Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "https://www.lau-fahrzeugbau.de/"
+website: https://www.lau-fahrzeugbau.de/

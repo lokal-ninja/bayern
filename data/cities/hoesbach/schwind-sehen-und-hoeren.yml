@@ -4,8 +4,8 @@ latitude: 50.001
 longitude: 9.195
 postcode: "63768"
 city: Hösbach
-street: "Hauptstraße"
-housenumber: 7
-phone: "+49 6021 540548"
-opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-13:00"
-website: "https://www.schwind-sehen-hoeren.de/store-hoesbach"
+street: Hauptstraße
+housenumber: "7"
+phone: +49 6021 540548
+opening_hours: Mo-Fr 09:00-18:00, Sa 09:00-13:00
+website: https://www.schwind-sehen-hoeren.de/store-hoesbach

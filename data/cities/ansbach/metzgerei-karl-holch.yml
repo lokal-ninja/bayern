@@ -4,8 +4,8 @@ latitude: 49.29908
 longitude: 10.57575
 postcode: "91522"
 city: Ansbach
-street: "Karlstraße"
-housenumber: 21
+street: Karlstraße
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-12:00"
-website: "http://www.metzgerei-holch.de/"
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-12:00
+website: http://www.metzgerei-holch.de/

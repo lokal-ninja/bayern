@@ -1,11 +1,11 @@
 id: 1301290187
-type: way
+type: node
 latitude: 49.66361
 longitude: 12.14975
 postcode: "92637"
 city: Weiden i.d.OPf.
-street: "Robert-Bosch-Straße"
-housenumber: 2
+street: Robert-Bosch-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Su 07:00-20:00"
+opening_hours: Mo-Su 07:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 276543532
-type: way
+type: node
 latitude: 48.36542
 longitude: 10.95361
 postcode: "86316"
 city: Friedberg
-street: "Sebastian-Mayr-Straße"
-housenumber: 8
+street: Sebastian-Mayr-Straße
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "https://batz-burgel.com/"
+website: https://batz-burgel.com/

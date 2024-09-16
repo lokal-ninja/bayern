@@ -1,11 +1,11 @@
 id: 221900300
-type: way
+type: node
 latitude: 48.15705
 longitude: 12
 postcode: "85664"
 city: Hohenlinden
-street: "Isener Straße"
-housenumber: 7
+street: Isener Straße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 456312886
-type: way
+type: node
 latitude: 49.99799
 longitude: 9.18163
 postcode: "63773"
 city: Goldbach
-street: "Sachsenhausen"
-housenumber: 8
+street: Sachsenhausen
+housenumber: "8"
 phone: ""
-opening_hours: "nach Vereinbarung"
+opening_hours: '"nach Vereinbarung"'
 website: ""

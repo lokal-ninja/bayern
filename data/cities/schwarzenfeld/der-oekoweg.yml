@@ -1,11 +1,11 @@
 id: 374417449
-type: way
+type: node
 latitude: 49.3884
 longitude: 12.13703
 postcode: "92521"
 city: Schwarzenfeld
-street: "Amberger Straße"
-housenumber: 22
+street: Amberger Straße
+housenumber: "22"
 phone: ""
-opening_hours: "We-Fr 09:30-12:00,14:00-18:00; Sa 10:00-12:00"
+opening_hours: We-Fr 09:30-12:00,14:00-18:00; Sa 10:00-12:00
 website: ""

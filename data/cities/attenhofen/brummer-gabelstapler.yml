@@ -1,11 +1,11 @@
 id: 445369730
-type: way
+type: node
 latitude: 48.67259
 longitude: 11.82794
 postcode: "84091"
 city: Attenhofen
-street: "Hauptstraße"
-housenumber: 11
+street: Hauptstraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

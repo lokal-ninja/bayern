@@ -1,11 +1,11 @@
 id: 140251865
-type: way
+type: node
 latitude: 50.15558
 longitude: 11.51507
 postcode: "95346"
 city: Stadtsteinach
 street: ""
-housenumber: 2
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

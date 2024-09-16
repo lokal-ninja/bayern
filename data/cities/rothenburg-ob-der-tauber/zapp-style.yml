@@ -4,8 +4,8 @@ latitude: 49.37842
 longitude: 10.18062
 postcode: "91541"
 city: Rothenburg ob der Tauber
-street: "Galgengasse"
-housenumber: 1
-phone: "+49-9861-8755587"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 10:00-18:00"
-website: "https://www.zappstyle-rothenburg.com/"
+street: Galgengasse
+housenumber: "1"
+phone: +49-9861-8755587
+opening_hours: Mo-Fr 09:30-18:00; Sa 10:00-18:00
+website: https://www.zappstyle-rothenburg.com/

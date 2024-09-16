@@ -1,11 +1,11 @@
 id: 208771168
-type: way
+type: node
 latitude: 48.18548
 longitude: 11.3856
 postcode: "82194"
 city: Gröbenzell
-street: "Olchinger Straße"
-housenumber: 70
+street: Olchinger Straße
+housenumber: "70"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://filialen.aldi-sued.de/bayern/groebenzell/olchinger-strasse-70"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://filialen.aldi-sued.de/bayern/groebenzell/olchinger-strasse-70

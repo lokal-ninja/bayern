@@ -1,11 +1,11 @@
 id: 327475939
-type: way
+type: node
 latitude: 47.87135
 longitude: 11.90089
 postcode: "83052"
 city: Bruckmühl
-street: "Mittenkirchener Straße"
-housenumber: 
+street: Mittenkirchener Straße
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

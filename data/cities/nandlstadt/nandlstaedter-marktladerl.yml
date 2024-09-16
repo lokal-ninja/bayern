@@ -4,8 +4,8 @@ latitude: 48.5371
 longitude: 11.80544
 postcode: "85405"
 city: Nandlstadt
-street: "Marktstraße"
-housenumber: 2
+street: Marktstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Tu-Sa 08:30-12:00"
-website: "http://www.hofstetter-nandlstadt.de/kontakt/"
+opening_hours: Tu-Sa 08:30-12:00
+website: http://www.hofstetter-nandlstadt.de/kontakt/

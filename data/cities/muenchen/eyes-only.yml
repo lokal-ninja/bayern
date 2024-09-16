@@ -4,8 +4,8 @@ latitude: 48.151
 longitude: 11.5741
 postcode: "80799"
 city: München
-street: "Schellingstraße"
-housenumber: 48
-phone: "+49 89 41902828"
-opening_hours: "Mo-Sa 10:00-18:00"
-website: "https://eyesonly.gallery/"
+street: Schellingstraße
+housenumber: "48"
+phone: +49 89 41902828
+opening_hours: Mo-Sa 10:00-18:00
+website: https://eyesonly.gallery/

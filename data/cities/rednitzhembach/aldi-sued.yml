@@ -1,11 +1,11 @@
 id: 974996415
-type: way
+type: node
 latitude: 49.31427
 longitude: 11.05522
 postcode: "91126"
 city: Rednitzhembach
-street: "Penzendorfer Straße"
-housenumber: 1
+street: Penzendorfer Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://filialen.aldi-sued.de/bayern/schwabach/penzendorfer-strasse-1-3"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://filialen.aldi-sued.de/bayern/schwabach/penzendorfer-strasse-1-3

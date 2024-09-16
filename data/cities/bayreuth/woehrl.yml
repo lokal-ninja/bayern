@@ -4,8 +4,8 @@ latitude: 49.94517
 longitude: 11.57059
 postcode: "95444"
 city: Bayreuth
-street: "Hohenzollernring"
-housenumber: 60
+street: Hohenzollernring
+housenumber: "60"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.woehrl.de/"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.woehrl.de/

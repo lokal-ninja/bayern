@@ -4,8 +4,8 @@ latitude: 48.45936
 longitude: 11.13028
 postcode: "86551"
 city: Aichach
-street: "Hubmannstraße"
-housenumber: 6
-phone: "+49 8251 5960"
+street: Hubmannstraße
+housenumber: "6"
+phone: +49 8251 5960
 opening_hours: ""
-website: "https://www.simone-brandmeir.de/"
+website: https://www.simone-brandmeir.de/

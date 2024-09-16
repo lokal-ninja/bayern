@@ -4,8 +4,8 @@ latitude: 49.12148
 longitude: 10.30458
 postcode: "91626"
 city: Schopfloch
-street: "Bahnhofstraße"
-housenumber: 2
-phone: "+49 9857 7983"
-opening_hours: "Mo-Fr 05:30-18:00; Sa 05:30-12:30"
+street: Bahnhofstraße
+housenumber: "2"
+phone: +49 9857 7983
+opening_hours: Mo-Fr 05:30-18:00; Sa 05:30-12:30
 website: ""

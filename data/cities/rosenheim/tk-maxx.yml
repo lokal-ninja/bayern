@@ -1,11 +1,11 @@
 id: 104680374
-type: way
+type: node
 latitude: 47.84948
 longitude: 12.09226
 postcode: "83026"
 city: Rosenheim
-street: "Georg-Aicher-Straße"
-housenumber: 2
+street: Georg-Aicher-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 10:00-20:00; Su,PH off
 website: ""

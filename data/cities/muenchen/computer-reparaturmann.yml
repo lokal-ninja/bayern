@@ -4,8 +4,8 @@ latitude: 48.16838
 longitude: 11.64407
 postcode: "81927"
 city: München
-street: "Freischützstraße"
-housenumber: 98
-phone: "+49 89 93938700"
-opening_hours: "Tu-Fr 11:00-19:00"
-website: "https://reparaturmann.de/"
+street: Freischützstraße
+housenumber: "98"
+phone: +49 89 93938700
+opening_hours: Tu-Fr 11:00-19:00
+website: https://reparaturmann.de/

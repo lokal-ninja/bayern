@@ -1,11 +1,11 @@
 id: 179793007
-type: way
+type: node
 latitude: 49.31499
 longitude: 12.84518
 postcode: "93437"
 city: Furth im Wald
-street: "Hochstraße"
-housenumber: 8
+street: Hochstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

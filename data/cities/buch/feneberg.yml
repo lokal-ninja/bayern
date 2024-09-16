@@ -1,11 +1,11 @@
 id: 1136150668
-type: way
+type: node
 latitude: 48.23114
 longitude: 10.17433
 postcode: "89290"
 city: Buch
-street: "Gewerbestraße"
-housenumber: 1
+street: Gewerbestraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

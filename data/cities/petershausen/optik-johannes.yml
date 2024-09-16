@@ -4,8 +4,8 @@ latitude: 48.412
 longitude: 11.47046
 postcode: "85238"
 city: Petershausen
-street: "Bahnhofstraße"
-housenumber: 27
-phone: "+49 8137 8426"
-opening_hours: "Mo-Tu, Th-Fr 09:00-12:00, 14:00-18:00; We 09:00-12:00"
-website: "https://www.johannes-optik.de/"
+street: Bahnhofstraße
+housenumber: "27"
+phone: +49 8137 8426
+opening_hours: Mo-Tu, Th-Fr 09:00-12:00, 14:00-18:00; We 09:00-12:00
+website: https://www.johannes-optik.de/

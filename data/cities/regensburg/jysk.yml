@@ -4,8 +4,8 @@ latitude: 49.00739
 longitude: 12.06235
 postcode: "93051"
 city: Regensburg
-street: "Dr.-Gessler-Straße"
-housenumber: 47
-phone: "+49 941 920640"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://jysk.de/stores-locator"
+street: Dr.-Gessler-Straße
+housenumber: "47"
+phone: +49 941 920640
+opening_hours: Mo-Sa 09:30-20:00
+website: https://jysk.de/stores-locator

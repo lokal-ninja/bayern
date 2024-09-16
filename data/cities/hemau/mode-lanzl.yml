@@ -4,8 +4,8 @@ latitude: 49.05127
 longitude: 11.78325
 postcode: "93155"
 city: Hemau
-street: "Stadtplatz"
-housenumber: 18
-phone: "+49 9491 454"
-opening_hours: "Mo-Fr 08:30-12:00,14:00-18:00; Sa 09:00-12:00"
-website: "https://www.mode-lanzl.de/"
+street: Stadtplatz
+housenumber: "18"
+phone: +49 9491 454
+opening_hours: Mo-Fr 08:30-12:00,14:00-18:00; Sa 09:00-12:00
+website: https://www.mode-lanzl.de/

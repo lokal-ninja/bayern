@@ -4,8 +4,8 @@ latitude: 49.00001
 longitude: 12.10974
 postcode: "93053"
 city: Regensburg
-street: "Asternweg"
-housenumber: 1
+street: Asternweg
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

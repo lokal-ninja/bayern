@@ -1,11 +1,11 @@
 id: 351438373
-type: way
+type: node
 latitude: 49.4487
 longitude: 11.01511
 postcode: "90431"
 city: Nürnberg
-street: "Lenkersheimer Straße"
-housenumber: 19
+street: Lenkersheimer Straße
+housenumber: "19"
 phone: ""
 opening_hours: ""
-website: "http://autologistik.bayern/"
+website: http://autologistik.bayern/

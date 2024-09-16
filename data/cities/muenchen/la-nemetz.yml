@@ -4,8 +4,8 @@ latitude: 48.14472
 longitude: 11.59356
 postcode: "80538"
 city: München
-street: "Oettingenstraße"
-housenumber: 26
+street: Oettingenstraße
+housenumber: "26"
 phone: ""
-opening_hours: "Tu-Fr 10:00-13:00, 16:00-20:00"
+opening_hours: Tu-Fr 10:00-13:00, 16:00-20:00
 website: ""

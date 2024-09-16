@@ -4,8 +4,8 @@ latitude: 48.0635
 longitude: 10.85845
 postcode: "86899"
 city: Landsberg am Lech
-street: "Max-Planck-Straße"
-housenumber: 4
-phone: "+49 8191 33570"
-opening_hours: "Mo-Fr 07:00-17:30; Sa 08:00-13:00"
-website: "https://www.renner-baustoffe.de/"
+street: Max-Planck-Straße
+housenumber: "4"
+phone: +49 8191 33570
+opening_hours: Mo-Fr 07:00-17:30; Sa 08:00-13:00
+website: https://www.renner-baustoffe.de/

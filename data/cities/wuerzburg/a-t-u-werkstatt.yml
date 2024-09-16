@@ -1,11 +1,11 @@
 id: 1092682233
-type: way
+type: node
 latitude: 49.79899
 longitude: 9.90243
 postcode: "97082"
 city: Würzburg
-street: "Mainaustraße"
-housenumber: 46
+street: Mainaustraße
+housenumber: "46"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-14:00"
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-14:00
 website: ""

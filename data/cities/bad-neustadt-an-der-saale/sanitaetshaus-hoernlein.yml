@@ -4,8 +4,8 @@ latitude: 50.32295
 longitude: 10.21545
 postcode: "97616"
 city: Bad Neustadt an der Saale
-street: "Marktplatz"
-housenumber: 29
-phone: "+49 9771 2567"
-opening_hours: "Mo-Fr 08:30-18:00; Sa 09:00-12:00; Su,Ph off"
-website: "https://www.sanitaetshaus-hoernlein.de"
+street: Marktplatz
+housenumber: "29"
+phone: +49 9771 2567
+opening_hours: Mo-Fr 08:30-18:00; Sa 09:00-12:00; Su,Ph off
+website: https://www.sanitaetshaus-hoernlein.de

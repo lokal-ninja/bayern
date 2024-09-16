@@ -1,11 +1,11 @@
 id: 300801844
-type: way
+type: node
 latitude: 48.71406
 longitude: 12.43082
 postcode: "84152"
 city: Mengkofen
-street: "Hans-Spielbauer-Straße"
-housenumber: 2
-phone: "+49 8733 9392812"
-opening_hours: "Mo-Fr 07:00-20:00"
+street: Hans-Spielbauer-Straße
+housenumber: "2"
+phone: +49 8733 9392812
+opening_hours: Mo-Fr 07:00-20:00
 website: ""

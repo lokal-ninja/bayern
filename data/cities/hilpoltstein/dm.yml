@@ -1,11 +1,11 @@
 id: 358479756
-type: way
+type: node
 latitude: 49.19705
 longitude: 11.18626
 postcode: "91161"
 city: Hilpoltstein
-street: "Allersberger Straße"
-housenumber: 21
+street: Allersberger Straße
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

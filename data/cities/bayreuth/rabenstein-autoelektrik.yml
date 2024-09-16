@@ -1,11 +1,11 @@
 id: 283347272
-type: way
+type: node
 latitude: 49.93565
 longitude: 11.59114
 postcode: "95444"
 city: Bayreuth
-street: "Prieserstraße"
-housenumber: 17
+street: Prieserstraße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Th 07:00-16:30; Fr 07:00-13:30"
+opening_hours: Mo-Th 07:00-16:30; Fr 07:00-13:30
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.55092
 longitude: 10.71502
 postcode: "91448"
 city: Emskirchen
-street: "Wiesenweg"
-housenumber: 1
+street: Wiesenweg
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
-website: "https://www.norma-online.de/de/filialfinder/suchergebnis?lng=10.71507&lat=49.55094&r=300"
+opening_hours: Mo-Sa 07:00-20:00; PH off
+website: https://www.norma-online.de/de/filialfinder/suchergebnis?lng=10.71507&lat=49.55094&r=300

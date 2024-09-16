@@ -1,11 +1,11 @@
 id: 241367796
-type: way
+type: node
 latitude: 50.0518
 longitude: 11.14143
 postcode: "96215"
 city: Lichtenfels
-street: "Zum Hohenberg"
-housenumber: 10
+street: Zum Hohenberg
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

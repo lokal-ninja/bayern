@@ -4,8 +4,8 @@ latitude: 49.59059
 longitude: 11.00652
 postcode: "91052"
 city: Erlangen
-street: "Rathausplatz"
-housenumber: 3
-phone: "+49 9131 4000166"
-opening_hours: "Mo-Fr 06:00-20:00; Sa-Su 06:00-18:00"
-website: "https://www.der-kalchreuther-baecker.de/hp617/Erlangen.htm"
+street: Rathausplatz
+housenumber: "3"
+phone: +49 9131 4000166
+opening_hours: Mo-Fr 06:00-20:00; Sa-Su 06:00-18:00
+website: https://www.der-kalchreuther-baecker.de/hp617/Erlangen.htm

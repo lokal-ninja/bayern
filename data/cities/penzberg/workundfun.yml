@@ -4,8 +4,8 @@ latitude: 47.75054
 longitude: 11.37312
 postcode: "82377"
 city: Penzberg
-street: "Philippstraße"
-housenumber: 25
-phone: "+49 8856 4464"
-opening_hours: "Mo-Fr 9:00-18:30; Sa 9:00-14:00"
-website: "https://www.schwab-edv.de/Ladengeschaeft/"
+street: Philippstraße
+housenumber: "25"
+phone: +49 8856 4464
+opening_hours: Mo-Fr 9:00-18:30; Sa 9:00-14:00
+website: https://www.schwab-edv.de/Ladengeschaeft/

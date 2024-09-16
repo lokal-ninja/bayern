@@ -1,11 +1,11 @@
 id: 90917977
-type: way
+type: node
 latitude: 48.37921
 longitude: 10.93348
 postcode: "86165"
 city: Augsburg
-street: "Brixener Straße"
-housenumber: 6
+street: Brixener Straße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:00-18:00; Su,PH off"
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:00-18:00; Su,PH off
 website: ""

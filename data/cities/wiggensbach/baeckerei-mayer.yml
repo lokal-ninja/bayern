@@ -4,8 +4,8 @@ latitude: 47.74452
 longitude: 10.23266
 postcode: "87487"
 city: Wiggensbach
-street: "Sonnenstraße"
-housenumber: 9
+street: Sonnenstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-16:00; Su 08:00-11:00"
-website: "https://der-baecker-mayer.de/"
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-16:00; Su 08:00-11:00
+website: https://der-baecker-mayer.de/

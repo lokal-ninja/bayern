@@ -1,11 +1,11 @@
 id: 429630756
-type: way
+type: node
 latitude: 47.76232
 longitude: 12.64637
 postcode: "83324"
 city: Ruhpolding
-street: "Hauptstraße"
-housenumber: 50
+street: Hauptstraße
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

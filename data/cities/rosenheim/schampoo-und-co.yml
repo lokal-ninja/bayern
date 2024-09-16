@@ -4,8 +4,8 @@ latitude: 47.83622
 longitude: 12.11747
 postcode: "83026"
 city: Rosenheim
-street: "Zugspitzstraße"
-housenumber: 8
-phone: "+49 8031 66019"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 08:00-13:00; PH off"
-website: "https://www.shampooundco.de/"
+street: Zugspitzstraße
+housenumber: "8"
+phone: +49 8031 66019
+opening_hours: Tu-Fr 09:00-18:00; Sa 08:00-13:00; PH off
+website: https://www.shampooundco.de/

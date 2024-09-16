@@ -4,8 +4,8 @@ latitude: 48.22264
 longitude: 10.10375
 postcode: "89257"
 city: Illertissen
-street: "Hauptstraße"
-housenumber: 19
+street: Hauptstraße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Fr 9:30-12:30, 14:00-18:00 Sa 9:00-13:00"
-website: "https://reisewelt-illertissen.de/"
+opening_hours: Mo-Fr 9:30-12:30, 14:00-18:00 Sa 9:00-13:00
+website: https://reisewelt-illertissen.de/

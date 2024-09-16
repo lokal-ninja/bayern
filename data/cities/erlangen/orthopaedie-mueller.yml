@@ -4,8 +4,8 @@ latitude: 49.59106
 longitude: 11.00486
 postcode: "91052"
 city: Erlangen
-street: "Sedanstraße"
-housenumber: 2
-phone: "+49 9131 978990"
-opening_hours: "Mo-Fr 09:00-13:00,13:30-18:00; Sa,Su,PH off"
-website: "https://www.omueller.de/"
+street: Sedanstraße
+housenumber: "2"
+phone: +49 9131 978990
+opening_hours: Mo-Fr 09:00-13:00,13:30-18:00; Sa,Su,PH off
+website: https://www.omueller.de/

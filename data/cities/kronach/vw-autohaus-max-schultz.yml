@@ -1,11 +1,11 @@
 id: 90607750
-type: way
+type: node
 latitude: 50.23375
 longitude: 11.34052
 postcode: "96317"
 city: Kronach
-street: "Im Eichicht"
-housenumber: 1
+street: Im Eichicht
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:30-12:30; Su off"
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:30-12:30; Su off
 website: ""

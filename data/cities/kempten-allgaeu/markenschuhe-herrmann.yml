@@ -1,11 +1,11 @@
 id: 89033845
-type: way
+type: node
 latitude: 47.72973
 longitude: 10.31671
 postcode: "87437"
 city: Kempten (Allgäu)
-street: "Weidacher Weg"
-housenumber: 4
+street: Weidacher Weg
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

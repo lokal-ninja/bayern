@@ -4,8 +4,8 @@ latitude: 50.31683
 longitude: 11.91558
 postcode: "95028"
 city: Hof
-street: "Altstadt"
-housenumber: 43
-phone: "+49 9281 14456-0"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.thalia.de/shop/home/filialen/showDetails/5659/"
+street: Altstadt
+housenumber: "43"
+phone: +49 9281 14456-0
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.thalia.de/shop/home/filialen/showDetails/5659/

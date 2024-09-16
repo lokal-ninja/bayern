@@ -4,8 +4,8 @@ latitude: 48.12858
 longitude: 11.55378
 postcode: "80336"
 city: München
-street: "Platenstraße"
-housenumber: 4
+street: Platenstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://muenchen.adfc.de/"
+website: https://muenchen.adfc.de/

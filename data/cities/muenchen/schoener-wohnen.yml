@@ -4,8 +4,8 @@ latitude: 48.11301
 longitude: 11.53876
 postcode: "81369"
 city: München
-street: "Engelhardstraße"
-housenumber: 12
+street: Engelhardstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00; PH off"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00; PH off
 website: ""

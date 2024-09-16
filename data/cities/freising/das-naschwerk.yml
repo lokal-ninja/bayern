@@ -4,8 +4,8 @@ latitude: 48.40172
 longitude: 11.74949
 postcode: "85354"
 city: Freising
-street: "Angerbadergasse"
-housenumber: 6
-phone: "+49-8161-872277"
-opening_hours: "Tu-Fr 08:30-18:00; Sa 08:30-16:00; Su,PH 11:00-16:00"
-website: "https://www.das-naschwerk.de/"
+street: Angerbadergasse
+housenumber: "6"
+phone: +49-8161-872277
+opening_hours: Tu-Fr 08:30-18:00; Sa 08:30-16:00; Su,PH 11:00-16:00
+website: https://www.das-naschwerk.de/

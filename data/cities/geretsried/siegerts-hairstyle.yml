@@ -4,8 +4,8 @@ latitude: 47.87524
 longitude: 11.46556
 postcode: "82538"
 city: Geretsried
-street: "Karl-Lederer-Platz"
-housenumber: 9
-phone: "+49 8171 4829891"
-opening_hours: "Tu 09:00-20:00, We 09:00-18:00, Th 09:00-20:00, Fr 08:00-18:00"
-website: "https://siegerts-hairstyle.de/"
+street: Karl-Lederer-Platz
+housenumber: "9"
+phone: +49 8171 4829891
+opening_hours: Tu 09:00-20:00, We 09:00-18:00, Th 09:00-20:00, Fr 08:00-18:00
+website: https://siegerts-hairstyle.de/

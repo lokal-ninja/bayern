@@ -4,8 +4,8 @@ latitude: 47.93614
 longitude: 10.8344
 postcode: "86925"
 city: Fuchstal
-street: "Bahnhofstraße"
-housenumber: 30
+street: Bahnhofstraße
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,13:00-18:00; Sa 08:00-16:00"
-website: "https://www.eisenwaren-prinzing.de"
+opening_hours: Mo-Fr 08:00-12:00,13:00-18:00; Sa 08:00-16:00
+website: https://www.eisenwaren-prinzing.de

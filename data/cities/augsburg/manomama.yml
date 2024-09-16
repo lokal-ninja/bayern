@@ -4,8 +4,8 @@ latitude: 48.36968
 longitude: 10.89716
 postcode: "86150"
 city: Augsburg
-street: "Steingasse"
-housenumber: 10
-phone: "+49 821 45566440"
-opening_hours: "Mo-Fr 11:00-18:00; Sa 10:00-19:00"
-website: "https://www.manomama.de/Kontakt/Vor-Ort/"
+street: Steingasse
+housenumber: "10"
+phone: +49 821 45566440
+opening_hours: Mo-Fr 11:00-18:00; Sa 10:00-19:00
+website: https://www.manomama.de/Kontakt/Vor-Ort/

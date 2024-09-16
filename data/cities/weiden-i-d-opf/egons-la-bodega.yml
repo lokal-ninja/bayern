@@ -4,8 +4,9 @@ latitude: 49.67578
 longitude: 12.16377
 postcode: "92637"
 city: Weiden i.d.OPf.
-street: "Unterer Markt"
-housenumber: 3
-phone: "+49 961 4016239"
-opening_hours: "Tu 11:00-14:30,17:00-23:00; We 11:00-14:30; Th,Fr 11:00-14:30,17:00-00:00; Sa 10:00-15:00; Su,Mo,PH off"
-website: "https://www.egons-labodega.de/"
+street: Unterer Markt
+housenumber: "3"
+phone: +49 961 4016239
+opening_hours: Tu 11:00-14:30,17:00-23:00; We 11:00-14:30; Th,Fr 11:00-14:30,17:00-00:00;
+    Sa 10:00-15:00; Su,Mo,PH off
+website: https://www.egons-labodega.de/

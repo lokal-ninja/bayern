@@ -1,11 +1,11 @@
 id: 858149840
-type: way
+type: node
 latitude: 47.99191
 longitude: 11.33018
 postcode: "82319"
 city: Starnberg
-street: "Weilheimer Straße"
-housenumber: 14
+street: Weilheimer Straße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 77034511
-type: way
+type: node
 latitude: 47.58521
 longitude: 9.85527
 postcode: "88175"
 city: Scheidegg
-street: "Bahnhofstraße"
-housenumber: 48
+street: Bahnhofstraße
+housenumber: "48"
 phone: ""
-opening_hours: "Mo-Sa 07:00-18:00"
+opening_hours: Mo-Sa 07:00-18:00
 website: ""

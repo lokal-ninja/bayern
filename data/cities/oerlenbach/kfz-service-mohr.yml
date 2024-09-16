@@ -1,11 +1,11 @@
 id: 260029787
-type: way
+type: node
 latitude: 50.14702
 longitude: 10.12674
 postcode: "97714"
 city: Oerlenbach
-street: "Am Kreisel"
-housenumber: 12
+street: Am Kreisel
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

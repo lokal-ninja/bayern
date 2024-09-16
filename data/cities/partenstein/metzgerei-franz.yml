@@ -4,8 +4,8 @@ latitude: 50.04294
 longitude: 9.51409
 postcode: "97846"
 city: Partenstein
-street: "Hauptstraße"
-housenumber: 50
-phone: "+49 9355 326"
-opening_hours: "Mo-Tu, Th-Fr 07:30-18:00; Sa 08:00-12:00"
-website: "https://www.franz-metzgerei.de/"
+street: Hauptstraße
+housenumber: "50"
+phone: +49 9355 326
+opening_hours: Mo-Tu, Th-Fr 07:30-18:00; Sa 08:00-12:00
+website: https://www.franz-metzgerei.de/

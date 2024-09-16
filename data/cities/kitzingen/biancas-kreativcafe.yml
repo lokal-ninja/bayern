@@ -4,8 +4,8 @@ latitude: 49.73804
 longitude: 10.15929
 postcode: "97318"
 city: Kitzingen
-street: "Kaiserstraße"
-housenumber: 34
-phone: "+49 9321 25307"
-opening_hours: "Mo-We 12:00-18:00; Th,Fr 10:00-18:00; Sa 09:00-13:00"
-website: "http://www.bianca-kreativ.de/"
+street: Kaiserstraße
+housenumber: "34"
+phone: +49 9321 25307
+opening_hours: Mo-We 12:00-18:00; Th,Fr 10:00-18:00; Sa 09:00-13:00
+website: http://www.bianca-kreativ.de/

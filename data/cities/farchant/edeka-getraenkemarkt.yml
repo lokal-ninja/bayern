@@ -1,11 +1,11 @@
 id: 291278391
-type: way
+type: node
 latitude: 47.51828
 longitude: 11.11038
 postcode: "82490"
 city: Farchant
-street: "Partenkirchner Straße"
-housenumber: 63
+street: Partenkirchner Straße
+housenumber: "63"
 phone: ""
 opening_hours: ""
 website: ""

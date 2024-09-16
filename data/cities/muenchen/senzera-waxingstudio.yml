@@ -4,8 +4,8 @@ latitude: 48.12861
 longitude: 11.59986
 postcode: "81667"
 city: München
-street: "Pariser Platz"
-housenumber: 2
+street: Pariser Platz
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-We,Fr 10:00-19:00; Th 09:00-20:00; Sa 09:00-16:00"
+opening_hours: Mo-We,Fr 10:00-19:00; Th 09:00-20:00; Sa 09:00-16:00
 website: ""

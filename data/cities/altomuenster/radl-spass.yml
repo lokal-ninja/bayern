@@ -4,8 +4,8 @@ latitude: 48.38857
 longitude: 11.2556
 postcode: "85250"
 city: Altomünster
-street: "Herzog-Georg-Straße"
-housenumber: 14
+street: Herzog-Georg-Straße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo off; Tu-Fr 08:30-12:30,14:00-18:00; Sa 08:30-12:30"
-website: "https://www.radlspass.de/"
+opening_hours: Mo off; Tu-Fr 08:30-12:30,14:00-18:00; Sa 08:30-12:30
+website: https://www.radlspass.de/

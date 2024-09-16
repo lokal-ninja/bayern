@@ -1,11 +1,11 @@
 id: 196493584
-type: way
+type: node
 latitude: 50.00805
 longitude: 12.30959
 postcode: "95652"
 city: Waldsassen
-street: "Egerer Straße"
-housenumber: 
+street: Egerer Straße
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 35803730
-type: way
+type: node
 latitude: 47.99489
 longitude: 10.18268
 postcode: "87700"
 city: Memmingen
-street: "Colmarer Straße"
-housenumber: 
+street: Colmarer Straße
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

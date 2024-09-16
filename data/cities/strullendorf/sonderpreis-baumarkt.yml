@@ -1,11 +1,11 @@
 id: 35809670
-type: way
+type: node
 latitude: 49.83982
 longitude: 10.97464
 postcode: "96129"
 city: Strullendorf
-street: "Martin-Luther-Straße"
-housenumber: 49
+street: Martin-Luther-Straße
+housenumber: "49"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-16:00
 website: ""

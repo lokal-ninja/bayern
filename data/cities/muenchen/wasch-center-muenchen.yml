@@ -4,8 +4,8 @@ latitude: 48.09891
 longitude: 11.52311
 postcode: "81379"
 city: München
-street: "Aidenbachstraße"
-housenumber: 30
-phone: "+49 89 41 22 76 44"
-opening_hours: "Mo,Fr,Sa,Su 06:00-24:00; Tu-Th 07:00-23:00"
-website: "https://www.waschomat.de/standorte/m3.htm"
+street: Aidenbachstraße
+housenumber: "30"
+phone: +49 89 41 22 76 44
+opening_hours: Mo,Fr,Sa,Su 06:00-24:00; Tu-Th 07:00-23:00
+website: https://www.waschomat.de/standorte/m3.htm

@@ -4,8 +4,8 @@ latitude: 49.49546
 longitude: 11.00125
 postcode: "90765"
 city: Fürth
-street: "Fritz-Gastreich-Straße"
-housenumber: 3
-phone: "+49 911 792979"
-opening_hours: "Mo-Th 10:00-19:00; Fr-Sa 10:00-20:00"
-website: "http://www.skan-design.de"
+street: Fritz-Gastreich-Straße
+housenumber: "3"
+phone: +49 911 792979
+opening_hours: Mo-Th 10:00-19:00; Fr-Sa 10:00-20:00
+website: http://www.skan-design.de

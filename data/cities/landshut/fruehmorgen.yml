@@ -4,8 +4,8 @@ latitude: 48.54393
 longitude: 12.1352
 postcode: "84034"
 city: Landshut
-street: "Rupprechtstraße"
-housenumber: 20
-phone: "+49 871 96549851"
-opening_hours: "Mo-Fr 06:30-20:00; Sa 07:00-20:00; Su,PH 08:00-11:00"
-website: "https://www.baeckerei-fruehmorgen.de"
+street: Rupprechtstraße
+housenumber: "20"
+phone: +49 871 96549851
+opening_hours: Mo-Fr 06:30-20:00; Sa 07:00-20:00; Su,PH 08:00-11:00
+website: https://www.baeckerei-fruehmorgen.de

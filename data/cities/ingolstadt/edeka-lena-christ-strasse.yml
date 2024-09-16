@@ -1,11 +1,11 @@
 id: 31402776
-type: way
+type: node
 latitude: 48.7801
 longitude: 11.43721
 postcode: ""
 city: Ingolstadt
-street: "Lena-Christ-Straße"
-housenumber: 1
+street: Lena-Christ-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 06:00-20:00"
+opening_hours: Mo-Sa 06:00-20:00
 website: ""

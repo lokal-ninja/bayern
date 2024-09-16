@@ -1,11 +1,11 @@
 id: 194258195
-type: way
+type: node
 latitude: 48.3924
 longitude: 10.43837
 postcode: "89343"
 city: Jettingen-Scheppach
-street: "Hauptstraße"
-housenumber: 102
+street: Hauptstraße
+housenumber: "102"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

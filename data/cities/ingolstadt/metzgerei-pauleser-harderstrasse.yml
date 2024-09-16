@@ -4,8 +4,8 @@ latitude: 48.76708
 longitude: 11.42233
 postcode: "85049"
 city: Ingolstadt
-street: "Harderstraße"
-housenumber: 23
-phone: "+49 841 93 11 052"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 06:30-14:00; PH off"
-website: "https://metzgerei-pauleser.de"
+street: Harderstraße
+housenumber: "23"
+phone: +49 841 93 11 052
+opening_hours: Mo-Fr 07:00-18:00; Sa 06:30-14:00; PH off
+website: https://metzgerei-pauleser.de

@@ -4,8 +4,8 @@ latitude: 49.56896
 longitude: 10.95832
 postcode: "91056"
 city: Erlangen
-street: "Herzogenauracher Straße"
-housenumber: 20
-phone: "+49 9131 61 03 86 8"
-opening_hours: "Fr 10:00-13:00, 16:00-18:00; Sa 9:00-12:00"
-website: "https://www.nudeln-aus-erlangen.de/"
+street: Herzogenauracher Straße
+housenumber: "20"
+phone: +49 9131 61 03 86 8
+opening_hours: Fr 10:00-13:00, 16:00-18:00; Sa 9:00-12:00
+website: https://www.nudeln-aus-erlangen.de/

@@ -4,8 +4,8 @@ latitude: 48.53541
 longitude: 12.15303
 postcode: "84028"
 city: Landshut
-street: "Steckengasse"
-housenumber: 302
+street: Steckengasse
+housenumber: "302"
 phone: ""
 opening_hours: ""
-website: "http://www.haar-em.de/index.html"
+website: http://www.haar-em.de/index.html

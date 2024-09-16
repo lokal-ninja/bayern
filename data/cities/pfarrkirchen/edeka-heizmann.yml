@@ -1,11 +1,11 @@
 id: 319479342
-type: way
+type: node
 latitude: 48.44248
 longitude: 12.93387
 postcode: "84347"
 city: Pfarrkirchen
-street: "Falkenstraße"
-housenumber: 1
-phone: "+49 8561 9896530"
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
-website: "https://edeka-heizmann.de/"
+street: Falkenstraße
+housenumber: "1"
+phone: +49 8561 9896530
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
+website: https://edeka-heizmann.de/

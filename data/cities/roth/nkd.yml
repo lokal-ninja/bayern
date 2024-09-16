@@ -1,11 +1,11 @@
 id: 123723204
-type: way
+type: node
 latitude: 49.24762
 longitude: 11.09145
 postcode: "91154"
 city: Roth
-street: "Hauptstraße"
-housenumber: 34
-phone: "+49 9171 98830"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-15:00"
-website: "https://nkd.de/"
+street: Hauptstraße
+housenumber: "34"
+phone: +49 9171 98830
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-15:00
+website: https://nkd.de/

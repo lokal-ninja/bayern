@@ -4,8 +4,8 @@ latitude: 48.13279
 longitude: 11.60786
 postcode: "81675"
 city: München
-street: "Kirchenstraße"
-housenumber: 86
+street: Kirchenstraße
+housenumber: "86"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
-website: "https://www.lidl.de/"
+opening_hours: Mo-Sa 07:00-20:00; PH off
+website: https://www.lidl.de/

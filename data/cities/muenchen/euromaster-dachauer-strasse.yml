@@ -1,11 +1,11 @@
 id: 164938594
-type: way
+type: node
 latitude: 48.18884
 longitude: 11.5018
 postcode: "80993"
 city: München
-street: "Dachauer Straße"
+street: Dachauer Straße
 housenumber: 509a
-phone: "+49 89 1434086-0"
-opening_hours: "Mo-Fr 08:00-12:00,13:00-17:00"
-website: "https://www.euromaster.de/"
+phone: +49 89 1434086-0
+opening_hours: Mo-Fr 08:00-12:00,13:00-17:00
+website: https://www.euromaster.de/

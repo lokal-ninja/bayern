@@ -4,8 +4,8 @@ latitude: 49.97881
 longitude: 9.14298
 postcode: "63739"
 city: Aschaffenburg
-street: "Weißenburger Straße"
-housenumber: 44
+street: Weißenburger Straße
+housenumber: "44"
 phone: ""
 opening_hours: ""
-website: "https://www.venavital.de/index.html"
+website: https://www.venavital.de/index.html

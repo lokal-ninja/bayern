@@ -1,11 +1,11 @@
 id: 66462045
-type: way
+type: node
 latitude: 50.3295
 longitude: 11.70918
 postcode: "95119"
 city: Naila
-street: "Hauptstraße"
-housenumber: 14
+street: Hauptstraße
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

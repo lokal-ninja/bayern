@@ -1,11 +1,11 @@
 id: 127572386
-type: way
+type: node
 latitude: 48.46535
 longitude: 11.1381
 postcode: "86551"
 city: Aichach
-street: "Adalbert-Stifter-Straße"
-housenumber: 15
-phone: "+49 8251 2528"
+street: Adalbert-Stifter-Straße
+housenumber: "15"
+phone: +49 8251 2528
 opening_hours: ""
 website: ""

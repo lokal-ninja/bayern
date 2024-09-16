@@ -4,8 +4,8 @@ latitude: 48.1396
 longitude: 11.56316
 postcode: "80335"
 city: München
-street: "Schützenstraße"
-housenumber: 3
+street: Schützenstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
+opening_hours: Mo-Sa 10:00-20:00
 website: ""

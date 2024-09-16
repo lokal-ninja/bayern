@@ -1,11 +1,11 @@
 id: 143434251
-type: way
+type: node
 latitude: 49.95368
 longitude: 11.55011
 postcode: "95445"
 city: Bayreuth
-street: "Peter-Henlein-Straße"
-housenumber: 3
+street: Peter-Henlein-Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://www.mgs-autozentrum.de/"
+website: https://www.mgs-autozentrum.de/

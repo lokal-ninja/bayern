@@ -4,8 +4,8 @@ latitude: 49.59826
 longitude: 11.00347
 postcode: "91054"
 city: Erlangen
-street: "Hauptstraße"
-housenumber: 33
-phone: "+49 9131 92 46 101"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00"
-website: "https://www.geers.de/"
+street: Hauptstraße
+housenumber: "33"
+phone: +49 9131 92 46 101
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00
+website: https://www.geers.de/

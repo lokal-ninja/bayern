@@ -1,11 +1,11 @@
 id: 103263850
-type: way
+type: node
 latitude: 47.79701
 longitude: 12.14784
 postcode: "83115"
 city: Neubeuern
-street: "Winkl"
-housenumber: 22
-phone: "+49 8035 2936"
-opening_hours: "Tu-Fr 09:00-17:00; Sa 09:00-12:00"
+street: Winkl
+housenumber: "22"
+phone: +49 8035 2936
+opening_hours: Tu-Fr 09:00-17:00; Sa 09:00-12:00
 website: ""

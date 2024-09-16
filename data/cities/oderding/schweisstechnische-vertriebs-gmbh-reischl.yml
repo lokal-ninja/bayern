@@ -1,11 +1,11 @@
 id: 449152819
-type: way
+type: node
 latitude: 47.81894
 longitude: 11.11065
 postcode: "82398"
 city: Oderding
-street: "Dorfstraße"
-housenumber: 25
-phone: "+49  881 4633"
+street: Dorfstraße
+housenumber: "25"
+phone: +49  881 4633
 opening_hours: ""
 website: ""

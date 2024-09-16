@@ -4,8 +4,8 @@ latitude: 48.18633
 longitude: 11.55902
 postcode: "80809"
 city: München
-street: "Moosacher Straße"
-housenumber: 49
+street: Moosacher Straße
+housenumber: "49"
 phone: ""
-opening_hours: "Mo-Th 07:30-17:00; Fr 07:30-16:00"
-website: "http://www.michlbauer-baugeraete.de"
+opening_hours: Mo-Th 07:30-17:00; Fr 07:30-16:00
+website: http://www.michlbauer-baugeraete.de

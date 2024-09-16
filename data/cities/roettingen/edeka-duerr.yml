@@ -1,11 +1,11 @@
 id: 155170299
-type: way
+type: node
 latitude: 49.51183
 longitude: 9.97624
 postcode: "97285"
 city: Röttingen
-street: "Rothenburger Straße"
-housenumber: 22
+street: Rothenburger Straße
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

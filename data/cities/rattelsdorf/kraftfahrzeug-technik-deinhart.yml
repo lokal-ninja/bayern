@@ -1,11 +1,11 @@
 id: 121012391
-type: way
+type: node
 latitude: 50.01039
 longitude: 10.88566
 postcode: "96179"
 city: Rattelsdorf
-street: "Bamberger Straße"
-housenumber: 9
+street: Bamberger Straße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00
 website: ""

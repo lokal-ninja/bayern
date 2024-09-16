@@ -4,8 +4,8 @@ latitude: 48.64298
 longitude: 12.49144
 postcode: "84130"
 city: Dingolfing
-street: "Kreuzstraße"
-housenumber: 12
-phone: "+49 8731 73575"
-opening_hours: "Mo-Fr 07:00-12:30,14:00-18:00; Fr 07:00-18:00; Sa 06:45-12:00"
-website: "https://metzgerei-santl-dgf.de/"
+street: Kreuzstraße
+housenumber: "12"
+phone: +49 8731 73575
+opening_hours: Mo-Fr 07:00-12:30,14:00-18:00; Fr 07:00-18:00; Sa 06:45-12:00
+website: https://metzgerei-santl-dgf.de/

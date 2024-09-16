@@ -4,8 +4,8 @@ latitude: 49.8817
 longitude: 9.1397
 postcode: "63868"
 city: Großwallstadt
-street: "Flurbereinigungsweg"
-housenumber: 3
-phone: "+49 6022 66210"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
-website: "https://www.helmstetter.de/"
+street: Flurbereinigungsweg
+housenumber: "3"
+phone: +49 6022 66210
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00
+website: https://www.helmstetter.de/

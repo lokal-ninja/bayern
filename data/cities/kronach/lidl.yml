@@ -1,11 +1,11 @@
 id: 90607796
-type: way
+type: node
 latitude: 50.23446
 longitude: 11.3457
 postcode: "96317"
 city: Kronach
-street: "Kehläcker"
-housenumber: 2
+street: Kehläcker
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su off"
+opening_hours: Mo-Sa 07:00-20:00; Su off
 website: ""

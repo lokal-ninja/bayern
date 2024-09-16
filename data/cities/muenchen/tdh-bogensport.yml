@@ -4,8 +4,8 @@ latitude: 48.13503
 longitude: 11.52414
 postcode: "80686"
 city: München
-street: "Westendstraße"
-housenumber: 179
+street: Westendstraße
+housenumber: "179"
 phone: ""
 opening_hours: ""
-website: "https://tdh-bogensport.de/"
+website: https://tdh-bogensport.de/

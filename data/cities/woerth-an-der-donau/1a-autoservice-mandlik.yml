@@ -1,11 +1,11 @@
 id: 1197571008
-type: way
+type: node
 latitude: 48.99403
 longitude: 12.35346
 postcode: "93086"
 city: Wörth an der Donau
-street: "Kiefenholz"
+street: Kiefenholz
 housenumber: 15 b
-phone: "+49 9482 3000"
+phone: +49 9482 3000
 opening_hours: ""
-website: "https://mandlik.go1a.de/"
+website: https://mandlik.go1a.de/

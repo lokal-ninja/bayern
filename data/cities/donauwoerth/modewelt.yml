@@ -4,8 +4,8 @@ latitude: 48.71219
 longitude: 10.75855
 postcode: "86609"
 city: Donauwörth
-street: "Joseph-Gänsler-Straße"
-housenumber: 3
+street: Joseph-Gänsler-Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-We 09:00-19:00; Th,Fr 09:00-20:00; Sa 09:00-18:00; PH off"
-website: "http://www.modewelt-donauwoerth.de/"
+opening_hours: Mo-We 09:00-19:00; Th,Fr 09:00-20:00; Sa 09:00-18:00; PH off
+website: http://www.modewelt-donauwoerth.de/

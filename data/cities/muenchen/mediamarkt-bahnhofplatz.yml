@@ -1,11 +1,11 @@
 id: 326738796
-type: way
+type: node
 latitude: 48.14701
 longitude: 11.46394
 postcode: "81241"
 city: München
-street: "Bahnhofplatz"
-housenumber: 5
+street: Bahnhofplatz
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 09:30-20:00"
+opening_hours: Mo-Sa 09:30-20:00
 website: ""

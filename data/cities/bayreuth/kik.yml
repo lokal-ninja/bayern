@@ -1,11 +1,11 @@
 id: 149398057
-type: way
+type: node
 latitude: 49.93196
 longitude: 11.55574
 postcode: "95447"
 city: Bayreuth
-street: "Spitzwegstraße"
-housenumber: 57
+street: Spitzwegstraße
+housenumber: "57"
 phone: ""
 opening_hours: ""
-website: "https://www.kik-textilien.de/"
+website: https://www.kik-textilien.de/

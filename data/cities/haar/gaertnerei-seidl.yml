@@ -1,11 +1,11 @@
 id: 219409436
-type: way
+type: node
 latitude: 48.13224
 longitude: 11.73519
 postcode: ""
 city: Haar
-street: "Paul-Keller-Weg"
-housenumber: 3
+street: Paul-Keller-Weg
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

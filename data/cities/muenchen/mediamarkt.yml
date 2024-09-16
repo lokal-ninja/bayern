@@ -4,8 +4,8 @@ latitude: 48.13622
 longitude: 11.6142
 postcode: "81675"
 city: München
-street: "Einsteinstraße"
-housenumber: 130
-phone: "+49 89 41317-0"
-opening_hours: "Mo-Sa 10:00-20:00; Su,PH off"
-website: "https://www.mediamarkt.de/de/store/muenchen-haidhausen-496"
+street: Einsteinstraße
+housenumber: "130"
+phone: +49 89 41317-0
+opening_hours: Mo-Sa 10:00-20:00; Su,PH off
+website: https://www.mediamarkt.de/de/store/muenchen-haidhausen-496

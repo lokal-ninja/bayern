@@ -1,11 +1,11 @@
 id: 53655386
-type: way
+type: node
 latitude: 49.49425
 longitude: 10.98935
 postcode: "90765"
 city: Fürth
-street: "Erlanger Straße"
-housenumber: 200
+street: Erlanger Straße
+housenumber: "200"
 phone: ""
 opening_hours: ""
-website: "https://filialen.aldi-sued.de/bayern/fuerth/erlanger-str-200"
+website: https://filialen.aldi-sued.de/bayern/fuerth/erlanger-str-200

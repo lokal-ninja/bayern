@@ -4,8 +4,8 @@ latitude: 49.83543
 longitude: 9.14312
 postcode: "63785"
 city: Obernburg am Main
-street: "Deckelmannstraße"
-housenumber: 3
-phone: "+49 6022 8618"
-opening_hours: "Th 17:00-19:00; Fr 09:00-20:00"
-website: "http://www.brigittes-frischfisch.de"
+street: Deckelmannstraße
+housenumber: "3"
+phone: +49 6022 8618
+opening_hours: Th 17:00-19:00; Fr 09:00-20:00
+website: http://www.brigittes-frischfisch.de

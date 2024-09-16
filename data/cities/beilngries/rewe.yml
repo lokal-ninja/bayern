@@ -1,11 +1,11 @@
 id: 100324347
-type: way
+type: node
 latitude: 49.03997
 longitude: 11.47712
 postcode: "92339"
 city: Beilngries
-street: "Im Oehl"
-housenumber: 8
+street: Im Oehl
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
-website: "https://www.rewe.de/"
+opening_hours: Mo-Sa 07:00-20:00; PH off
+website: https://www.rewe.de/

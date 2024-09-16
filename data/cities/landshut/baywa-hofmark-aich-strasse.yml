@@ -1,11 +1,11 @@
 id: 192157699
-type: way
+type: node
 latitude: 48.54895
 longitude: 12.14385
 postcode: "84030"
 city: Landshut
-street: "Hofmark-Aich-Straße"
-housenumber: 8
+street: Hofmark-Aich-Straße
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "https://baywa.de"
+website: https://baywa.de

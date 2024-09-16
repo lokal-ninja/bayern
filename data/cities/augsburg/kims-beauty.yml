@@ -4,8 +4,8 @@ latitude: 48.3628
 longitude: 10.87008
 postcode: "86157"
 city: Augsburg
-street: "Augsburger Straße"
-housenumber: 30
-phone: "+49 821 90794063"
-opening_hours: "Mo-Sa 09:00-19:00; Su off"
-website: "https://www.diva-nails-augsburg.de"
+street: Augsburger Straße
+housenumber: "30"
+phone: +49 821 90794063
+opening_hours: Mo-Sa 09:00-19:00; Su off
+website: https://www.diva-nails-augsburg.de

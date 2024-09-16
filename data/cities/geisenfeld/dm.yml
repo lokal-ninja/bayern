@@ -1,11 +1,11 @@
 id: 544237798
-type: way
+type: node
 latitude: 48.69276
 longitude: 11.6121
 postcode: "85290"
 city: Geisenfeld
-street: "Nöttinger Straße"
-housenumber: 25
+street: Nöttinger Straße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.dm.de/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.dm.de/

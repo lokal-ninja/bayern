@@ -1,11 +1,11 @@
 id: 90917976
-type: way
+type: node
 latitude: 48.38239
 longitude: 10.93406
 postcode: "86165"
 city: Augsburg
-street: "Meraner Straße"
-housenumber: 15
+street: Meraner Straße
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.01069
 longitude: 12.1006
 postcode: "93053"
 city: Regensburg
-street: "Friedenstraße"
-housenumber: 23
-phone: "+49 941 560525"
-opening_hours: "Mo-Fr 09:30-20:00"
-website: "https://www.matt.de/"
+street: Friedenstraße
+housenumber: "23"
+phone: +49 941 560525
+opening_hours: Mo-Fr 09:30-20:00
+website: https://www.matt.de/

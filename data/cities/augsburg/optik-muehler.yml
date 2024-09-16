@@ -4,8 +4,8 @@ latitude: 48.36442
 longitude: 10.87681
 postcode: "86157"
 city: Augsburg
-street: "Augsburger Straße"
-housenumber: 5
+street: Augsburger Straße
+housenumber: "5"
 phone: "+49821509420"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://www.optik-muehler.de/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://www.optik-muehler.de/

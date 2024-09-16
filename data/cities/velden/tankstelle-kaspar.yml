@@ -1,11 +1,11 @@
 id: 304962814
-type: way
+type: node
 latitude: 48.36749
 longitude: 12.23942
 postcode: "84149"
 city: Velden
-street: "Gewerbering"
-housenumber: 2
-phone: "+49 8742 967095"
-opening_hours: "Mo-Fr 05:00-23:00; Sa,Su,PH 05:30-23:00"
-website: "https://www.tankstelle-kaspar.de/"
+street: Gewerbering
+housenumber: "2"
+phone: +49 8742 967095
+opening_hours: Mo-Fr 05:00-23:00; Sa,Su,PH 05:30-23:00
+website: https://www.tankstelle-kaspar.de/

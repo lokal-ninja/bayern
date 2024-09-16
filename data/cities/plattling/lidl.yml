@@ -1,11 +1,11 @@
 id: 143419877
-type: way
+type: node
 latitude: 48.78697
 longitude: 12.89532
 postcode: "94447"
 city: Plattling
-street: "Otto-Brindl-Straße"
-housenumber: 2
+street: Otto-Brindl-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

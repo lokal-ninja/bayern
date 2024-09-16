@@ -1,11 +1,11 @@
 id: 225898443
-type: way
+type: node
 latitude: 49.00278
 longitude: 12.22077
 postcode: "93092"
 city: Barbing
-street: "Gerstenweg"
-housenumber: 8
-phone: "+49 9401 9133970"
-opening_hours: "Mo-Fr 17:00-20:00; Sa 08:00-12:00"
+street: Gerstenweg
+housenumber: "8"
+phone: +49 9401 9133970
+opening_hours: Mo-Fr 17:00-20:00; Sa 08:00-12:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.13768
 longitude: 11.58097
 postcode: "80331"
 city: München
-street: "Neuturmstraße"
-housenumber: 3
+street: Neuturmstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00
 website: ""

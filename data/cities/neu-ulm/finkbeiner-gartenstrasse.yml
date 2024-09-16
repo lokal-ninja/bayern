@@ -1,11 +1,11 @@
 id: 91236038
-type: way
+type: node
 latitude: 48.39139
 longitude: 9.9986
 postcode: "89231"
 city: Neu-Ulm
-street: "Gartenstraße"
+street: Gartenstraße
 housenumber: 30-34
 phone: ""
-opening_hours: "Mo-Fr 08:30-19:00; Sa 08:00-18:00"
-website: "https://www.finkbeiner.biz/"
+opening_hours: Mo-Fr 08:30-19:00; Sa 08:00-18:00
+website: https://www.finkbeiner.biz/

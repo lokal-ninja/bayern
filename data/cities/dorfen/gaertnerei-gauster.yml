@@ -1,11 +1,11 @@
 id: 232888754
-type: way
+type: node
 latitude: 48.27268
 longitude: 12.14786
 postcode: "84405"
 city: Dorfen
-street: "Isener Straße"
-housenumber: 5
-phone: "+49 8081 2423"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
-website: "https://www.gauster.de/"
+street: Isener Straße
+housenumber: "5"
+phone: +49 8081 2423
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00
+website: https://www.gauster.de/

@@ -1,11 +1,11 @@
 id: 109076991
-type: way
+type: node
 latitude: 50.05339
 longitude: 11.6161
 postcode: "95502"
 city: Himmelkron
-street: "Bahnhofstraße"
-housenumber: 32
+street: Bahnhofstraße
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.1819
 longitude: 11.5721
 postcode: "80807"
 city: München
-street: "Keferloherstraße"
-housenumber: 99
-phone: "+49 89 52059749"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://batterien-zentrale.de/"
+street: Keferloherstraße
+housenumber: "99"
+phone: +49 89 52059749
+opening_hours: Mo-Fr 09:00-18:00
+website: https://batterien-zentrale.de/

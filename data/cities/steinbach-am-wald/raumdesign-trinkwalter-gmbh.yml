@@ -4,8 +4,8 @@ latitude: 50.44105
 longitude: 11.37391
 postcode: "96361"
 city: Steinbach am Wald
-street: "Rennsteigstraße"
-housenumber: 52
+street: Rennsteigstraße
+housenumber: "52"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 08:00-12:00,14:00-18:00; We,Sa 08:00-12:00; Su,PH off"
+opening_hours: Mo,Tu,Th,Fr 08:00-12:00,14:00-18:00; We,Sa 08:00-12:00; Su,PH off
 website: ""

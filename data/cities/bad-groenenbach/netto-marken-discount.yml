@@ -1,11 +1,11 @@
 id: 304374683
-type: way
+type: node
 latitude: 47.87753
 longitude: 10.22844
 postcode: "87730"
 city: Bad Grönenbach
-street: "Bahnhofstraße"
-housenumber: 22
+street: Bahnhofstraße
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de/filialen/bad-groenenbach/bahnhofstr-22/4226"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de/filialen/bad-groenenbach/bahnhofstr-22/4226

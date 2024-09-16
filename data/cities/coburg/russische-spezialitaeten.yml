@@ -4,8 +4,8 @@ latitude: 50.26658
 longitude: 10.96529
 postcode: "96450"
 city: Coburg
-street: "Kasernenstraße"
+street: Kasernenstraße
 housenumber: 6c
-phone: "+49 151 21416066"
-opening_hours: "geöffnet nach Anruf"
+phone: +49 151 21416066
+opening_hours: '"geöffnet nach Anruf"'
 website: ""

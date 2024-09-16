@@ -4,8 +4,8 @@ latitude: 49.7371
 longitude: 10.16132
 postcode: "97318"
 city: Kitzingen
-street: "Ritterstraße"
-housenumber: 20
-phone: "+49 9321 9264422"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-16:00"
-website: "https://www.oberndorfer-mode.de/"
+street: Ritterstraße
+housenumber: "20"
+phone: +49 9321 9264422
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-16:00
+website: https://www.oberndorfer-mode.de/

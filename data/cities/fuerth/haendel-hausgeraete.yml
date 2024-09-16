@@ -1,11 +1,11 @@
 id: 194261476
-type: way
+type: node
 latitude: 49.48125
 longitude: 10.95579
 postcode: "90766"
 city: Fürth
-street: "Soldnerstraße"
-housenumber: 39
+street: Soldnerstraße
+housenumber: "39"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00; Tu 09:00-14:00; We 09:00-19:00"
+opening_hours: Mo-Fr 09:00-17:00; Tu 09:00-14:00; We 09:00-19:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.46102
 longitude: 11.08162
 postcode: "90408"
 city: Nürnberg
-street: "Pirckheimerstraße"
-housenumber: 61
-phone: "+49 911 355329"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://www.optik-henze.de/"
+street: Pirckheimerstraße
+housenumber: "61"
+phone: +49 911 355329
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://www.optik-henze.de/

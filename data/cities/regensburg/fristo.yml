@@ -1,11 +1,11 @@
 id: 31829578
-type: way
+type: node
 latitude: 49.00977
 longitude: 12.08185
 postcode: "93051"
 city: Regensburg
-street: "Balwinusstraße"
-housenumber: 4
-phone: "+49 941 2806238"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.fristo.de/markt/regensburg-balwinusstrasse-4/"
+street: Balwinusstraße
+housenumber: "4"
+phone: +49 941 2806238
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.fristo.de/markt/regensburg-balwinusstrasse-4/

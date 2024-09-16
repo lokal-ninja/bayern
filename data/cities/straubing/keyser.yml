@@ -1,11 +1,11 @@
 id: 388536584
-type: way
+type: node
 latitude: 48.88747
 longitude: 12.62394
 postcode: "94315"
 city: Straubing
-street: "Senefelderstraße"
-housenumber: 35
-phone: "+49 9421 6411"
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-14:00"
-website: "http://www.der-raumausstatter-keyser.de/"
+street: Senefelderstraße
+housenumber: "35"
+phone: +49 9421 6411
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:30-14:00
+website: http://www.der-raumausstatter-keyser.de/

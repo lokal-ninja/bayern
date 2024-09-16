@@ -1,11 +1,11 @@
 id: 193059114
-type: way
+type: node
 latitude: 48.32127
 longitude: 11.66819
 postcode: "85375"
 city: Neufahrn
-street: "Galgenbachweg"
-housenumber: 24
+street: Galgenbachweg
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

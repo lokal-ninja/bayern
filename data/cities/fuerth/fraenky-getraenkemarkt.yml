@@ -4,8 +4,8 @@ latitude: 49.48337
 longitude: 10.96999
 postcode: "90766"
 city: Fürth
-street: "Friedrich-Ebert-Straße"
-housenumber: 13
-phone: "+49 911 739 50 37"
-opening_hours: "Mo-Sa 08:00-19:00"
-website: "https://www.fraenky-getraenke.de/fr%C3%A4nky-m%C3%A4rkte/detail/13-fraenky-getraenkemarkt-ag"
+street: Friedrich-Ebert-Straße
+housenumber: "13"
+phone: +49 911 739 50 37
+opening_hours: Mo-Sa 08:00-19:00
+website: https://www.fraenky-getraenke.de/fr%C3%A4nky-m%C3%A4rkte/detail/13-fraenky-getraenkemarkt-ag

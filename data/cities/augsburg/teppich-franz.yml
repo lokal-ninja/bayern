@@ -4,8 +4,8 @@ latitude: 48.35499
 longitude: 10.94719
 postcode: "86163"
 city: Augsburg
-street: "Friedberger Straße"
-housenumber: 152
-phone: "+49 821 20911603"
-opening_hours: "Mo-Fr 10:00-18:00 ||nach Vereinbarung"
-website: "https://teppich-haus-franz.yooco.de/home.html"
+street: Friedberger Straße
+housenumber: "152"
+phone: +49 821 20911603
+opening_hours: Mo-Fr 10:00-18:00 ||"nach Vereinbarung"
+website: https://teppich-haus-franz.yooco.de/home.html

@@ -1,11 +1,11 @@
 id: 91238998
-type: way
+type: node
 latitude: 47.74301
 longitude: 10.30541
 postcode: "87439"
 city: Kempten (Allgäu)
-street: "Memminger Straße"
-housenumber: 132
+street: Memminger Straße
+housenumber: "132"
 phone: ""
-opening_hours: "Mo-Fr 7:00-18:00, Sa 9:00-13:00"
-website: "https://autohaus-seitz.de/unternehmen/standorte/standort-skoda-zentrum-kempten"
+opening_hours: Mo-Fr 7:00-18:00, Sa 9:00-13:00
+website: https://autohaus-seitz.de/unternehmen/standorte/standort-skoda-zentrum-kempten

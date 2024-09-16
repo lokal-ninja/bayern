@@ -1,11 +1,11 @@
 id: 123891481
-type: way
+type: node
 latitude: 49.83518
 longitude: 9.1121
 postcode: "63785"
 city: Obernburg am Main
-street: "Mühlstraße"
-housenumber: 8
-phone: "+49 6022 31288"
-opening_hours: "Mo,We-Fr 08:30-12:00,13:00-18:00; Sa 08:30-12:30; PH off"
+street: Mühlstraße
+housenumber: "8"
+phone: +49 6022 31288
+opening_hours: Mo,We-Fr 08:30-12:00,13:00-18:00; Sa 08:30-12:30; PH off
 website: ""

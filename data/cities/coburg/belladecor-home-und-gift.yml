@@ -4,8 +4,8 @@ latitude: 50.25858
 longitude: 10.96331
 postcode: "96450"
 city: Coburg
-street: "Judengasse"
-housenumber: 6
-phone: "+49 9561 7095344"
-opening_hours: "Tu-Fr 10:00-18:00; Sa 10:00-14:00"
-website: "https://www.belladecor.eu"
+street: Judengasse
+housenumber: "6"
+phone: +49 9561 7095344
+opening_hours: Tu-Fr 10:00-18:00; Sa 10:00-14:00
+website: https://www.belladecor.eu

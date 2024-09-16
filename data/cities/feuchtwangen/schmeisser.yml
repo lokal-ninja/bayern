@@ -5,7 +5,7 @@ longitude: 10.30354
 postcode: "91555"
 city: Feuchtwangen
 street: ""
-housenumber: 21
-phone: "+49 9852 2348"
+housenumber: "21"
+phone: +49 9852 2348
 opening_hours: ""
-website: "http://www.schmeisser-technik.de/fahrräder"
+website: http://www.schmeisser-technik.de/fahrräder

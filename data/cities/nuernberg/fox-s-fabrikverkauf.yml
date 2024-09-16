@@ -4,8 +4,8 @@ latitude: 49.51823
 longitude: 11.00554
 postcode: "90427"
 city: Nürnberg
-street: "Wiesbadener Straße"
-housenumber: 25
-phone: "+49 911 5861315"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00"
-website: "https://www.foxs-mode.de/"
+street: Wiesbadener Straße
+housenumber: "25"
+phone: +49 911 5861315
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-16:00
+website: https://www.foxs-mode.de/

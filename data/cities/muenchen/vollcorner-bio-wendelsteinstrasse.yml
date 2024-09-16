@@ -4,8 +4,8 @@ latitude: 48.11672
 longitude: 11.58138
 postcode: "81541"
 city: München
-street: "Wendelsteinstraße"
-housenumber: 3
+street: Wendelsteinstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.vollcorner.de/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.vollcorner.de/

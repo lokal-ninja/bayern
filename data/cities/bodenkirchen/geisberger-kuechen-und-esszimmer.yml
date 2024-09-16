@@ -1,11 +1,11 @@
 id: 581663847
-type: way
+type: node
 latitude: 48.40618
 longitude: 12.39925
 postcode: "84155"
 city: Bodenkirchen
-street: "Langquarter Straße"
-housenumber: 24
-phone: "+49 874596040"
+street: Langquarter Straße
+housenumber: "24"
+phone: +49 874596040
 opening_hours: ""
-website: "https://www.geisberger-kuechen.de"
+website: https://www.geisberger-kuechen.de

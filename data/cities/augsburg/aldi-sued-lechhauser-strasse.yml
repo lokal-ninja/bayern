@@ -1,11 +1,11 @@
 id: 110079916
-type: way
+type: node
 latitude: 48.37398
 longitude: 10.91003
 postcode: "86153"
 city: Augsburg
-street: "Lechhauser Straße"
+street: Lechhauser Straße
 housenumber: 15a
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://filialen.aldi-sued.de/bayern/augsburg/lechhauser-strasse-15a"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://filialen.aldi-sued.de/bayern/augsburg/lechhauser-strasse-15a

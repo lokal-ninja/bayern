@@ -1,11 +1,11 @@
 id: 38048935
-type: way
+type: node
 latitude: 49.66367
 longitude: 11.03562
 postcode: "91083"
 city: Baiersdorf
-street: "Forchheimer Straße"
-housenumber: 49
+street: Forchheimer Straße
+housenumber: "49"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.rewe.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.rewe.de

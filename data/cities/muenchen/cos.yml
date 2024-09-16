@@ -4,8 +4,8 @@ latitude: 48.13789
 longitude: 11.57498
 postcode: ""
 city: München
-street: "Weinstraße"
-housenumber: 3
+street: Weinstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
+opening_hours: Mo-Sa 10:00-20:00
 website: ""

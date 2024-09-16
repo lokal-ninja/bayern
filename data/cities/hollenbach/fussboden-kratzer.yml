@@ -1,11 +1,11 @@
 id: 133782459
-type: way
+type: node
 latitude: 48.48896
 longitude: 11.07926
 postcode: "86568"
 city: Hollenbach
-street: "Hauptstraße"
-housenumber: 12
+street: Hauptstraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
-website: "https://www.fussboden-kratzer.de/"
+website: https://www.fussboden-kratzer.de/

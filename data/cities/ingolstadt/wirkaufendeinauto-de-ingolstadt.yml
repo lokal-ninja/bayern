@@ -4,8 +4,9 @@ latitude: 48.78331
 longitude: 11.47467
 postcode: "85055"
 city: Ingolstadt
-street: "Marie-Curie-Straße"
-housenumber: 14
+street: Marie-Curie-Straße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-We 09:00-17:00; Th 09:00-13:00; Fr 10:00-19:00; Sa 09:00-13:00; Su,PH off"
-website: "https://www.wirkaufendeinauto.de/standorte/ingolstadt-85055/?kw=gmb"
+opening_hours: Mo-We 09:00-17:00; Th 09:00-13:00; Fr 10:00-19:00; Sa 09:00-13:00;
+    Su,PH off
+website: https://www.wirkaufendeinauto.de/standorte/ingolstadt-85055/?kw=gmb

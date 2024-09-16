@@ -1,11 +1,11 @@
 id: 130734220
-type: way
+type: node
 latitude: 49.02068
 longitude: 12.30551
 postcode: "93090"
 city: Bach an der Donau
-street: "Hauptstraße"
-housenumber: 44
-phone: "+49 9403 1881"
+street: Hauptstraße
+housenumber: "44"
+phone: +49 9403 1881
 opening_hours: ""
-website: "https://www.pension-metzgerei-held.de/"
+website: https://www.pension-metzgerei-held.de/

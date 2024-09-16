@@ -4,8 +4,8 @@ latitude: 49.18798
 longitude: 11.19163
 postcode: "91161"
 city: Hilpoltstein
-street: "Christoph-Sturm-Straße"
-housenumber: 14
+street: Christoph-Sturm-Straße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo, Th 09:00-13:00, 14:00-18:00; Tu, We, Fr ausschließlich nach Terminvergabe"
+opening_hours: Mo, Th 09:00-13:00, 14:00-18:00; Tu, We, Fr "ausschließlich nach Terminvergabe"
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.04269
 longitude: 10.8675
 postcode: "86899"
 city: Landsberg am Lech
-street: "Saarburgstraße"
-housenumber: 1
-phone: "+49 8191 33818"
-opening_hours: "Mo,Tu,Th,Fr 09:00-17:00; Sa 09:00-13:00"
-website: "https://www.berggeist24.net/"
+street: Saarburgstraße
+housenumber: "1"
+phone: +49 8191 33818
+opening_hours: Mo,Tu,Th,Fr 09:00-17:00; Sa 09:00-13:00
+website: https://www.berggeist24.net/

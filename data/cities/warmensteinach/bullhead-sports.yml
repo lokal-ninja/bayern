@@ -1,11 +1,11 @@
 id: 93492025
-type: way
+type: node
 latitude: 50.0129
 longitude: 11.80778
 postcode: "95485"
 city: Warmensteinach
-street: "Fleckl"
-housenumber: 36
+street: Fleckl
+housenumber: "36"
 phone: ""
 opening_hours: ""
 website: ""

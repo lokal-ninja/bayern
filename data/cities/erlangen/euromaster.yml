@@ -1,11 +1,11 @@
 id: 35642459
-type: way
+type: node
 latitude: 49.58807
 longitude: 10.97362
 postcode: "91056"
 city: Erlangen
-street: "Ulrich-Schalk-Straße"
-housenumber: 7
+street: Ulrich-Schalk-Straße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,13:00-17:00"
+opening_hours: Mo-Fr 08:00-12:00,13:00-17:00
 website: ""

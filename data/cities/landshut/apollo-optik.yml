@@ -4,8 +4,8 @@ latitude: 48.53949
 longitude: 12.15116
 postcode: "84028"
 city: Landshut
-street: "Zweibrückenstraße"
-housenumber: 655
+street: Zweibrückenstraße
+housenumber: "655"
 phone: ""
 opening_hours: ""
-website: "https://apollo.de"
+website: https://apollo.de

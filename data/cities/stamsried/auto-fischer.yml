@@ -1,11 +1,11 @@
 id: 1002577284
-type: way
+type: node
 latitude: 49.26829
 longitude: 12.52474
 postcode: "93491"
 city: Stamsried
-street: "Bernbachstraße"
-housenumber: 11
-phone: "+49 9466 423"
+street: Bernbachstraße
+housenumber: "11"
+phone: +49 9466 423
 opening_hours: ""
-website: "http://www.auto-fischer.net/"
+website: http://www.auto-fischer.net/

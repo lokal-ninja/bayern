@@ -4,8 +4,8 @@ latitude: 48.16345
 longitude: 11.58342
 postcode: "80803"
 city: München
-street: "Clemensstraße"
-housenumber: 15
+street: Clemensstraße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr nach Vereinbarung"
+opening_hours: '"Mo-Fr nach Vereinbarung"'
 website: ""

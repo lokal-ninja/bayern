@@ -4,8 +4,8 @@ latitude: 47.75026
 longitude: 11.37413
 postcode: "82377"
 city: Penzberg
-street: "Bahnhofstraße"
-housenumber: 17
+street: Bahnhofstraße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
-website: "https://www.purzmurzel-spielhaus.de/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00
+website: https://www.purzmurzel-spielhaus.de/

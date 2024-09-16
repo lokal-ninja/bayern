@@ -4,8 +4,9 @@ latitude: 48.40026
 longitude: 11.73853
 postcode: "85354"
 city: Freising
-street: "Kammergasse"
-housenumber: 13
+street: Kammergasse
+housenumber: "13"
 phone: ""
-opening_hours: "Tu,Th,Fr 08:00-12:00,12:30-17:30; We 08:00-13:00; Sa 08:00-12:00; Su-Mo,PH off"
+opening_hours: Tu,Th,Fr 08:00-12:00,12:30-17:30; We 08:00-13:00; Sa 08:00-12:00; Su-Mo,PH
+    off
 website: ""

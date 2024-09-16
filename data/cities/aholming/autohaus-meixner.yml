@@ -1,11 +1,11 @@
 id: 329546767
-type: way
+type: node
 latitude: 48.73303
 longitude: 12.88043
 postcode: "94527"
 city: Aholming
-street: "Plattlinger Straße"
-housenumber: 10
+street: Plattlinger Straße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.72738
 longitude: 10.3134
 postcode: "87435"
 city: Kempten (Allgäu)
-street: "Residenzplatz"
-housenumber: 1
-phone: "+49 831 56569220"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://www.zr-hoersysteme.de"
+street: Residenzplatz
+housenumber: "1"
+phone: +49 831 56569220
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://www.zr-hoersysteme.de

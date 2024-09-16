@@ -4,8 +4,8 @@ latitude: 49.58765
 longitude: 10.977
 postcode: "91056"
 city: Erlangen
-street: "Neumühle"
-housenumber: 4
+street: Neumühle
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.lidl.de/"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.lidl.de/

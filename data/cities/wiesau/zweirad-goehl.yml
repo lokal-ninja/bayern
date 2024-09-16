@@ -4,8 +4,8 @@ latitude: 49.91073
 longitude: 12.17583
 postcode: "95676"
 city: Wiesau
-street: "Ottobadstraße"
-housenumber: 5
-phone: "+499634 9159090"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://www.zweirad-goehl.de/"
+street: Ottobadstraße
+housenumber: "5"
+phone: +499634 9159090
+opening_hours: Mo-Fr 09:00-17:00
+website: https://www.zweirad-goehl.de/

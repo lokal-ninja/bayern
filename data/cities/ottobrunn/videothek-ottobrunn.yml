@@ -4,8 +4,8 @@ latitude: 48.06887
 longitude: 11.65833
 postcode: "85521"
 city: Ottobrunn
-street: "Rosenheimer Landstraße"
-housenumber: 25
+street: Rosenheimer Landstraße
+housenumber: "25"
 phone: ""
-opening_hours: "24/7"
-website: "http://www.videothek-ottobrunn.de"
+opening_hours: 24/7
+website: http://www.videothek-ottobrunn.de

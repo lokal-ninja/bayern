@@ -4,8 +4,8 @@ latitude: 49.79703
 longitude: 9.93089
 postcode: "97070"
 city: Würzburg
-street: "Innerer Graben"
-housenumber: 61
-phone: "+49 931 58379"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-16:00"
-website: "https://www.hampelmann.de/"
+street: Innerer Graben
+housenumber: "61"
+phone: +49 931 58379
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-16:00
+website: https://www.hampelmann.de/

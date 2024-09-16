@@ -1,11 +1,11 @@
 id: 46923056
-type: way
+type: node
 latitude: 47.69945
 longitude: 10.34199
 postcode: "87471"
 city: Durach
-street: "Füssener Straße"
-housenumber: 11
+street: Füssener Straße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 07:00-20:00"
+opening_hours: Mo-Fr 08:00-20:00; Sa 07:00-20:00
 website: ""

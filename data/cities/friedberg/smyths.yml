@@ -1,11 +1,11 @@
 id: 93583214
-type: way
+type: node
 latitude: 48.35772
 longitude: 10.97302
 postcode: "86316"
 city: Friedberg
-street: "Augsburger Straße"
-housenumber: 18
+street: Augsburger Straße
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:30; Su,PH off"
+opening_hours: Mo-Sa 09:30-19:30; Su,PH off
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.63325
 longitude: 13.18845
 postcode: "94474"
 city: Vilshofen an der Donau
-street: "Stadtplatz"
-housenumber: 45
+street: Stadtplatz
+housenumber: "45"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-12:30 || on appointment"
-website: "https://www.kaps.de/"
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:30-12:30 || "on appointment"
+website: https://www.kaps.de/

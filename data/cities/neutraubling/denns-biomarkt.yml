@@ -4,8 +4,8 @@ latitude: 48.9791
 longitude: 12.19443
 postcode: "93073"
 city: Neutraubling
-street: "Pommernstraße"
-housenumber: 19
-phone: "+49 9401 5280390"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.denns-biomarkt.de/neutraubling-pommernstr-17/marktseite/"
+street: Pommernstraße
+housenumber: "19"
+phone: +49 9401 5280390
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.denns-biomarkt.de/neutraubling-pommernstr-17/marktseite/

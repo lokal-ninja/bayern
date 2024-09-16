@@ -1,11 +1,11 @@
 id: 239955697
-type: way
+type: node
 latitude: 48.993
 longitude: 12.1092
 postcode: "93053"
 city: Regensburg
-street: "Franz-Hartl-Straße"
-housenumber: 6
+street: Franz-Hartl-Straße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 09:00-24:00; PH,Su 14:00-24:00"
+opening_hours: Mo-Sa 09:00-24:00; PH,Su 14:00-24:00
 website: ""

@@ -1,11 +1,11 @@
 id: 99191879
-type: way
+type: node
 latitude: 49.42526
 longitude: 11.08445
 postcode: "90461"
 city: Nürnberg
-street: "Katzwanger Straße"
-housenumber: 140
+street: Katzwanger Straße
+housenumber: "140"
 phone: ""
 opening_hours: ""
-website: "https://filialen.aldi-sued.de/bayern/nuernberg/katzwanger-strasse-140"
+website: https://filialen.aldi-sued.de/bayern/nuernberg/katzwanger-strasse-140

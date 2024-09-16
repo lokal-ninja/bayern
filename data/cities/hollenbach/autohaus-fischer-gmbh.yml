@@ -1,11 +1,11 @@
 id: 154931792
-type: way
+type: node
 latitude: 48.48702
 longitude: 11.06863
 postcode: "86568"
 city: Hollenbach
-street: "Hauptstraße"
-housenumber: 71
+street: Hauptstraße
+housenumber: "71"
 phone: ""
-opening_hours: "Mo-Fr 07:30-12:00, 13:00-18:00; Sa 09:00-12:00"
+opening_hours: Mo-Fr 07:30-12:00, 13:00-18:00; Sa 09:00-12:00
 website: ""

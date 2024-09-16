@@ -1,11 +1,11 @@
 id: 146584407
-type: way
+type: node
 latitude: 49.81682
 longitude: 10.98886
 postcode: "96114"
 city: Hirschaid
-street: "Luitpoldstraße"
-housenumber: 1
+street: Luitpoldstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

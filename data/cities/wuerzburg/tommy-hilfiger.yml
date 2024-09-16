@@ -4,8 +4,8 @@ latitude: 49.79402
 longitude: 9.93078
 postcode: "97070"
 city: Würzburg
-street: "Kürschnerhof"
-housenumber: 9
-phone: "+49 931 45227710"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://de.tommy.com/store-locator"
+street: Kürschnerhof
+housenumber: "9"
+phone: +49 931 45227710
+opening_hours: Mo-Sa 10:00-19:00
+website: https://de.tommy.com/store-locator

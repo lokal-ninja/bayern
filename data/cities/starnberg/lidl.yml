@@ -1,11 +1,11 @@
 id: 132788899
-type: way
+type: node
 latitude: 48.01081
 longitude: 11.34777
 postcode: ""
 city: Starnberg
-street: "Gautinger Straße"
-housenumber: 37
+street: Gautinger Straße
+housenumber: "37"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.lidl.de/"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.lidl.de/

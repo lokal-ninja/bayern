@@ -4,8 +4,8 @@ latitude: 48.17659
 longitude: 11.44276
 postcode: "81247"
 city: München
-street: "Goteboldstraße"
-housenumber: 9
+street: Goteboldstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00; Su 10:00-12:00; Su nur Verkauf von Blumen und Pflanzen"
-website: "https://www.pflanzen-koelle.de/filialen/muenchen/"
+opening_hours: Mo-Sa 09:00-19:00; Su 10:00-12:00; "Su nur Verkauf von Blumen und Pflanzen"
+website: https://www.pflanzen-koelle.de/filialen/muenchen/

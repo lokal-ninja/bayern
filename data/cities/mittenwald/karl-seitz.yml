@@ -4,8 +4,8 @@ latitude: 47.44212
 longitude: 11.25933
 postcode: "82481"
 city: Mittenwald
-street: "Prof.-Schreyögg-Platz"
-housenumber: 1
+street: Prof.-Schreyögg-Platz
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:30-12:30,14:00-18:00; Sa 09:30-12:15; PH,Su off"
-website: "https://www.haushalt-seitz.de/"
+opening_hours: Mo-Fr 09:30-12:30,14:00-18:00; Sa 09:30-12:15; PH,Su off
+website: https://www.haushalt-seitz.de/

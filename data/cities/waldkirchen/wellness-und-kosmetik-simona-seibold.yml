@@ -1,11 +1,11 @@
 id: 489244200
-type: way
+type: node
 latitude: 48.70114
 longitude: 13.59275
 postcode: "94065"
 city: Waldkirchen
-street: "Stocking"
-housenumber: 5
+street: Stocking
+housenumber: "5"
 phone: "+498581987227"
 opening_hours: ""
-website: "https://www.simona-seibold.de/"
+website: https://www.simona-seibold.de/

@@ -1,11 +1,11 @@
 id: 109749310
-type: way
+type: node
 latitude: 49.43162
 longitude: 11.85991
 postcode: "92224"
 city: Amberg
-street: "Heinrich-Hertz-Straße"
-housenumber: 2
+street: Heinrich-Hertz-Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

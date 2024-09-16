@@ -1,11 +1,11 @@
 id: 47519273
-type: way
+type: node
 latitude: 48.49816
 longitude: 12.05957
 postcode: "84174"
 city: Eching
-street: "Hauptstraße"
-housenumber: 15
-phone: "+49 8709 95526"
-opening_hours: "Mo-Fr 07:00-20:00, Sa 07:00-16:00"
-website: "https://edeka-steinmaier.de/edeka-in-viecht/"
+street: Hauptstraße
+housenumber: "15"
+phone: +49 8709 95526
+opening_hours: Mo-Fr 07:00-20:00, Sa 07:00-16:00
+website: https://edeka-steinmaier.de/edeka-in-viecht/

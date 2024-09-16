@@ -1,11 +1,11 @@
 id: 198985634
-type: way
+type: node
 latitude: 48.27852
 longitude: 10.46348
 postcode: "86470"
 city: Thannhausen
-street: "Sudetenlandstraße"
-housenumber: 4
-phone: "+49 8281 79 75 12"
-opening_hours: "Mo-Fr 08:00-17:30; Sa 09:30-12:30"
-website: "http://www.okisport.de/"
+street: Sudetenlandstraße
+housenumber: "4"
+phone: +49 8281 79 75 12
+opening_hours: Mo-Fr 08:00-17:30; Sa 09:30-12:30
+website: http://www.okisport.de/

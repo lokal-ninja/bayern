@@ -4,8 +4,8 @@ latitude: 48.14969
 longitude: 11.65743
 postcode: "81929"
 city: München
-street: "Burgauerstraße"
-housenumber: 117
-phone: "+49 89 93939157"
-opening_hours: "Mo 14:30-18:00; Tu-Fr 09:00-18:00; Sa,Su off; PH off"
-website: "https://www.top-fahrrad.de/"
+street: Burgauerstraße
+housenumber: "117"
+phone: +49 89 93939157
+opening_hours: Mo 14:30-18:00; Tu-Fr 09:00-18:00; Sa,Su off; PH off
+website: https://www.top-fahrrad.de/

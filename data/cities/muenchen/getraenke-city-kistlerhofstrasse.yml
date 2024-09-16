@@ -4,8 +4,8 @@ latitude: 48.09406
 longitude: 11.50874
 postcode: "81379"
 city: München
-street: "Kistlerhofstraße"
-housenumber: 243
+street: Kistlerhofstraße
+housenumber: "243"
 phone: ""
-opening_hours: "Mo-Sa 08:00-19:00"
-website: "https://www.getraenkecity.de/"
+opening_hours: Mo-Sa 08:00-19:00
+website: https://www.getraenkecity.de/

@@ -1,11 +1,11 @@
 id: 38373714
-type: way
+type: node
 latitude: 49.52764
 longitude: 11.34095
 postcode: "91233"
 city: Neunkirchen a. Sand
-street: "Hersbrucker Straße"
-housenumber: 7
-phone: "+49 9153 9709845"
+street: Hersbrucker Straße
+housenumber: "7"
+phone: +49 9153 9709845
 opening_hours: ""
-website: "www.fg-automobile.de"
+website: www.fg-automobile.de

@@ -1,11 +1,11 @@
 id: 103079142
-type: way
+type: node
 latitude: 49.77056
 longitude: 9.8654
 postcode: "97204"
 city: Höchberg
-street: "Leibnizstraße"
-housenumber: 8
-phone: "+49 931 4042504"
-opening_hours: "Mo-Sa 09:00-18:00"
-website: "https://www.fressnapf.de/stores/fressnapf-hoechberg/"
+street: Leibnizstraße
+housenumber: "8"
+phone: +49 931 4042504
+opening_hours: Mo-Sa 09:00-18:00
+website: https://www.fressnapf.de/stores/fressnapf-hoechberg/

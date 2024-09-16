@@ -4,8 +4,8 @@ latitude: 49.56567
 longitude: 10.8963
 postcode: "91074"
 city: Herzogenaurach
-street: "Erlanger Straße"
-housenumber: 60
+street: Erlanger Straße
+housenumber: "60"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su off; PH off"
-website: "https://www.edeka.de/eh/nordbayern-sachsen-th%C3%BCringen/e-center-b%C3%A4chmann-erlanger-stra%C3%9Fe-60/index.jsp"
+opening_hours: Mo-Sa 07:00-20:00; Su off; PH off
+website: https://www.edeka.de/eh/nordbayern-sachsen-th%C3%BCringen/e-center-b%C3%A4chmann-erlanger-stra%C3%9Fe-60/index.jsp

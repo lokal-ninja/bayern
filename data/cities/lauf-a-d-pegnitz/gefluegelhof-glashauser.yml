@@ -4,8 +4,8 @@ latitude: 49.49195
 longitude: 11.34564
 postcode: "91207"
 city: Lauf a.d.Pegnitz
-street: "Kohlschlag"
-housenumber: 1
-phone: "+49 9123 5192"
-opening_hours: "Mo - Mi: nach telefonischer Absprache; Sa: 9:00 - 13:00 Uhr"
-website: "www.instagram.com/gefluegelhof_glashauser"
+street: Kohlschlag
+housenumber: "1"
+phone: +49 9123 5192
+opening_hours: 'Mo - Mi: nach telefonischer Absprache; Sa: 9:00 - 13:00 Uhr'
+website: www.instagram.com/gefluegelhof_glashauser

@@ -1,11 +1,12 @@
 id: 240302873
-type: way
+type: node
 latitude: 48.10016
 longitude: 11.55851
 postcode: ""
 city: München
-street: "Tierparkstraße"
-housenumber: 37
+street: Tierparkstraße
+housenumber: "37"
 phone: ""
-opening_hours: "Mo-Su 11:00-19:00; Öffnungszeiten varieeren je nach Jahreszeit und Wetter. Bei gutem Wetter mit viel Betrieb im Tierpark lange geöffnet."
+opening_hours: Mo-Su 11:00-19:00; "Öffnungszeiten varieeren je nach Jahreszeit und
+    Wetter. Bei gutem Wetter mit viel Betrieb im Tierpark lange geöffnet."
 website: ""

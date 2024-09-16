@@ -4,8 +4,8 @@ latitude: 50.29382
 longitude: 10.18661
 postcode: "97618"
 city: Niederlauer
-street: "Industriestraße"
-housenumber: 1
-phone: "09771 995231"
-opening_hours: "Mo-Sa 08:00-18:00"
-website: "https://www.autowelt1.de/de/"
+street: Industriestraße
+housenumber: "1"
+phone: 09771 995231
+opening_hours: Mo-Sa 08:00-18:00
+website: https://www.autowelt1.de/de/

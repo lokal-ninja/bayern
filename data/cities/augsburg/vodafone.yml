@@ -4,8 +4,8 @@ latitude: 48.36664
 longitude: 10.89303
 postcode: "86150"
 city: Augsburg
-street: "Schaezlerstraße"
-housenumber: 2
-phone: "+49 821 3497353"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 10:00-19:00; PH off"
-website: "http://www.vodafone.de/shopadressen/Ort_Augsburg.html"
+street: Schaezlerstraße
+housenumber: "2"
+phone: +49 821 3497353
+opening_hours: Mo-Fr 09:30-19:00; Sa 10:00-19:00; PH off
+website: http://www.vodafone.de/shopadressen/Ort_Augsburg.html

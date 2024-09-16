@@ -4,8 +4,8 @@ latitude: 49.17927
 longitude: 11.37066
 postcode: "92342"
 city: Freystadt
-street: "Oberndorf A"
-housenumber: 1
-phone: "+49 9179 941318"
-opening_hours: "Mo-Th 08:00-12:00,14:00-17:30; Fr 08:00-17:30; Sa 08:00-12:00"
+street: Oberndorf A
+housenumber: "1"
+phone: +49 9179 941318
+opening_hours: Mo-Th 08:00-12:00,14:00-17:30; Fr 08:00-17:30; Sa 08:00-12:00
 website: ""

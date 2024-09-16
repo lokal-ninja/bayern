@@ -1,11 +1,11 @@
 id: 174822071
-type: way
+type: node
 latitude: 48.25997
 longitude: 12.20948
 postcode: "84405"
 city: Dorfen
 street: ""
-housenumber: 2
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

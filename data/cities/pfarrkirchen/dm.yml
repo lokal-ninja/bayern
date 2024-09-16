@@ -1,11 +1,11 @@
 id: 732893831
-type: way
+type: node
 latitude: 48.41943
 longitude: 12.94301
 postcode: "84347"
 city: Pfarrkirchen
-street: "Max-Lanz-Straße"
-housenumber: 2
+street: Max-Lanz-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

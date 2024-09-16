@@ -1,11 +1,11 @@
 id: 134148296
-type: way
+type: node
 latitude: 49.47954
 longitude: 11.19286
 postcode: "90571"
 city: Schwaig b.Nürnberg
-street: "Norisstraße"
-housenumber: 32
-phone: "+49 (0)170 - 3806501"
+street: Norisstraße
+housenumber: "32"
+phone: +49 (0)170 - 3806501
 opening_hours: ""
-website: "http://AMD-Automarkt.de"
+website: http://AMD-Automarkt.de

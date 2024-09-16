@@ -1,11 +1,11 @@
 id: 299447194
-type: way
+type: node
 latitude: 48.1166
 longitude: 10.44843
 postcode: "87772"
 city: Pfaffenhausen
-street: "Memminger Straße"
-housenumber: 20
-phone: "+49 8265 9678555"
+street: Memminger Straße
+housenumber: "20"
+phone: +49 8265 9678555
 opening_hours: ""
-website: "https://www.kirchmayer-schuetz.de/filialdetails/pfaffenhausen/11.html"
+website: https://www.kirchmayer-schuetz.de/filialdetails/pfaffenhausen/11.html

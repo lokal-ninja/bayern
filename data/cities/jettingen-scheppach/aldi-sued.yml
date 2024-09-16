@@ -1,11 +1,11 @@
 id: 231342208
-type: way
+type: node
 latitude: 48.40894
 longitude: 10.43577
 postcode: "89343"
 city: Jettingen-Scheppach
-street: "Messerschmittstraße"
-housenumber: 1
+street: Messerschmittstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://filialen.aldi-sued.de/bayern/jettingen-scheppach/messerschmittstrasse-1"
+website: https://filialen.aldi-sued.de/bayern/jettingen-scheppach/messerschmittstrasse-1

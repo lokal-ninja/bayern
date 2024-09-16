@@ -4,8 +4,8 @@ latitude: 49.20783
 longitude: 12.66588
 postcode: "93413"
 city: Cham
-street: "Werner-von-Siemens-Straße"
-housenumber: 14
-phone: "+49 9971 761000"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "http://www.toom-baumarkt.de/"
+street: Werner-von-Siemens-Straße
+housenumber: "14"
+phone: +49 9971 761000
+opening_hours: Mo-Sa 08:00-20:00
+website: http://www.toom-baumarkt.de/

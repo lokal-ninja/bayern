@@ -1,11 +1,11 @@
 id: 185650911
-type: way
+type: node
 latitude: 47.80652
 longitude: 12.11971
 postcode: "83064"
 city: Raubling
-street: "Rosenheimer Straße"
-housenumber: 99
+street: Rosenheimer Straße
+housenumber: "99"
 phone: ""
 opening_hours: ""
-website: "https://autohemmerle.de/raubling-bei-rosenheim/"
+website: https://autohemmerle.de/raubling-bei-rosenheim/

@@ -1,11 +1,11 @@
 id: 98224721
-type: way
+type: node
 latitude: 48.30809
 longitude: 10.89687
 postcode: "86179"
 city: Augsburg
-street: "Hopfenstraße"
-housenumber: 10
+street: Hopfenstraße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00, Sa 08:00-13:00"
+opening_hours: Mo-Fr 09:00-18:00, Sa 08:00-13:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.69539
 longitude: 11.07234
 postcode: "91301"
 city: Forchheim
-street: "Sandäcker"
-housenumber: 1
-phone: "+49 9191 2006"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-16:00; PH off"
-website: "https://sagasser.de/"
+street: Sandäcker
+housenumber: "1"
+phone: +49 9191 2006
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-16:00; PH off
+website: https://sagasser.de/

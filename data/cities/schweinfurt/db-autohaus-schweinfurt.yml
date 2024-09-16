@@ -1,11 +1,11 @@
 id: 87315576
-type: way
+type: node
 latitude: 50.03243
 longitude: 10.2327
 postcode: "97424"
 city: Schweinfurt
-street: "Robert-Bosch-Straße"
-housenumber: 7
+street: Robert-Bosch-Straße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:30-14:00; Su 10:00-16:00"
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:30-14:00; Su 10:00-16:00
 website: ""

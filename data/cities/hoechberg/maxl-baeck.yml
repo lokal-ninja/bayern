@@ -1,11 +1,11 @@
 id: 480663206
-type: way
+type: node
 latitude: 49.77271
 longitude: 9.8692
 postcode: "97204"
 city: Höchberg
-street: "Einsteinstraße"
-housenumber: 6
+street: Einsteinstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:00 Sa:06:30-14:00 So:07:30-10:30"
+opening_hours: Mo-Fr 06:30-18:00 Sa:06:30-14:00 So:07:30-10:30
 website: ""

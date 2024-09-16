@@ -1,11 +1,11 @@
 id: 257594922
-type: way
+type: node
 latitude: 48.03418
 longitude: 12.46698
 postcode: "83361"
 city: Kienberg
-street: "Trostberger Straße"
-housenumber: 27
-phone: "+49 8628 254"
+street: Trostberger Straße
+housenumber: "27"
+phone: +49 8628 254
 opening_hours: ""
 website: ""

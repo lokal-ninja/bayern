@@ -1,11 +1,11 @@
 id: 265384148
-type: way
+type: node
 latitude: 50.48505
 longitude: 11.38897
 postcode: "96337"
 city: Ludwigsstadt
-street: "Marktplatz"
-housenumber: 13
+street: Marktplatz
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

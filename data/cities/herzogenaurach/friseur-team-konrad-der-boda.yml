@@ -4,8 +4,8 @@ latitude: 49.5758
 longitude: 10.88146
 postcode: "91074"
 city: Herzogenaurach
-street: "Breslauer Straße"
-housenumber: 18
-phone: "+49 9132 5421"
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:00-13:00"
-website: "https://barbershop-herzogenaurach.de/"
+street: Breslauer Straße
+housenumber: "18"
+phone: +49 9132 5421
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:00-13:00
+website: https://barbershop-herzogenaurach.de/

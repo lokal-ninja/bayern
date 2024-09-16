@@ -4,8 +4,8 @@ latitude: 48.14546
 longitude: 11.46632
 postcode: "81241"
 city: München
-street: "Landsberger Straße"
-housenumber: 475
+street: Landsberger Straße
+housenumber: "475"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00"
-website: "https://www.kik.de/"
+opening_hours: Mo-Fr 09:00-20:00
+website: https://www.kik.de/

@@ -4,8 +4,8 @@ latitude: 49.50884
 longitude: 11.43074
 postcode: "91217"
 city: Hersbruck
-street: "Kugelgasse"
-housenumber: 8
+street: Kugelgasse
+housenumber: "8"
 phone: ""
-opening_hours: "Tu,Th,Fr 10:00-18:00; We,Sa 10:00-13:00"
+opening_hours: Tu,Th,Fr 10:00-18:00; We,Sa 10:00-13:00
 website: ""

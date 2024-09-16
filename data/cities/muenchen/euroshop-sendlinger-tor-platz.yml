@@ -4,8 +4,8 @@ latitude: 48.13281
 longitude: 11.56609
 postcode: "80336"
 city: München
-street: "Sendlinger-Tor-Platz"
-housenumber: 6
+street: Sendlinger-Tor-Platz
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-20:00"
-website: "https://euroshop-online.de/shop/"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-20:00
+website: https://euroshop-online.de/shop/

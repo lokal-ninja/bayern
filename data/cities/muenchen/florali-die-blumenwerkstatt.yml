@@ -1,11 +1,11 @@
 id: 117966960
-type: way
+type: node
 latitude: 48.07614
 longitude: 11.51588
 postcode: "81479"
 city: München
-street: "Herterichstraße"
-housenumber: 57
-phone: "+49-897911155"
-opening_hours: "Mo-Fr 08:30-13:00,14:00-18:30, Sa 08:30-13:00"
-website: "https://www.florali.eu/"
+street: Herterichstraße
+housenumber: "57"
+phone: +49-897911155
+opening_hours: Mo-Fr 08:30-13:00,14:00-18:30, Sa 08:30-13:00
+website: https://www.florali.eu/

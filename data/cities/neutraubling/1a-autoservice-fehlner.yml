@@ -1,11 +1,11 @@
 id: 310548814
-type: way
+type: node
 latitude: 48.98768
 longitude: 12.19788
 postcode: "93073"
 city: Neutraubling
-street: "Neudeker Straße"
-housenumber: 5
-phone: "+49 9401 80515"
-opening_hours: "Mo-Fr 08:00-12:00,13:00-18:00; Sa 09:00-13:00"
-website: "https://autoservicefehlner.go1a.de/"
+street: Neudeker Straße
+housenumber: "5"
+phone: +49 9401 80515
+opening_hours: Mo-Fr 08:00-12:00,13:00-18:00; Sa 09:00-13:00
+website: https://autoservicefehlner.go1a.de/

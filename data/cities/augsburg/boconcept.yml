@@ -4,8 +4,8 @@ latitude: 48.37009
 longitude: 10.89424
 postcode: "86150"
 city: Augsburg
-street: "Grottenau"
-housenumber: 2
-phone: "+49 821 44428080"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su off"
-website: "https://www.boconcept.com/de-de/stores/boconcept-augsburg-am-rathausplatz/"
+street: Grottenau
+housenumber: "2"
+phone: +49 821 44428080
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su off
+website: https://www.boconcept.com/de-de/stores/boconcept-augsburg-am-rathausplatz/

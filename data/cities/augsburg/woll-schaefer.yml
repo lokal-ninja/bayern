@@ -4,8 +4,8 @@ latitude: 48.36707
 longitude: 10.89888
 postcode: "86150"
 city: Augsburg
-street: "Maximilianstraße"
-housenumber: 33
-phone: "+49 821 518405"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 10:00-16:00; Su off"
-website: "https://www.woll-schaefer.de"
+street: Maximilianstraße
+housenumber: "33"
+phone: +49 821 518405
+opening_hours: Mo-Fr 09:30-18:00; Sa 10:00-16:00; Su off
+website: https://www.woll-schaefer.de

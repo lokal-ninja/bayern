@@ -5,7 +5,7 @@ longitude: 11.43948
 postcode: "85051"
 city: Ingolstadt
 street: ""
-housenumber: 146
-phone: "+49 841 99353164"
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
-website: "https://www.backhaus-hackner.de"
+housenumber: "146"
+phone: +49 841 99353164
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
+website: https://www.backhaus-hackner.de

@@ -4,8 +4,8 @@ latitude: 49.46458
 longitude: 10.85839
 postcode: ""
 city: Cadolzburg
-street: "Tiembacher Straße"
-housenumber: 11
+street: Tiembacher Straße
+housenumber: "11"
 phone: ""
-opening_hours: "Sep-May: Mo-Fr 09:00-18:00;Jun-Aug: Th-Fr 09:00-18:00;Sa 09:00-14:00"
-website: "https://riegelein.de/deutsch/chocothek-cadolzburg.html"
+opening_hours: 'Sep-May: Mo-Fr 09:00-18:00;Jun-Aug: Th-Fr 09:00-18:00;Sa 09:00-14:00'
+website: https://riegelein.de/deutsch/chocothek-cadolzburg.html

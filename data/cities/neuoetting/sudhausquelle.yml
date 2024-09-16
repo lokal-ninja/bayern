@@ -4,8 +4,8 @@ latitude: 48.24009
 longitude: 12.69217
 postcode: "84524"
 city: Neuötting
-street: "Burghauser Straße"
-housenumber: 2
+street: Burghauser Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 07:00-17:00, Sa 08:00-12:00"
-website: "https://www.muellerbraeu.de/genussmarkt.html"
+opening_hours: Mo-Fr 07:00-17:00, Sa 08:00-12:00
+website: https://www.muellerbraeu.de/genussmarkt.html

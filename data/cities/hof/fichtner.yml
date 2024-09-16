@@ -4,8 +4,8 @@ latitude: 50.31463
 longitude: 11.88066
 postcode: "95030"
 city: Hof
-street: "An der Hohensaas"
-housenumber: 8
+street: An der Hohensaas
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 07:30-17:00"
-website: "https://www.fichtnerhof.de/"
+opening_hours: Mo-Fr 07:30-17:00
+website: https://www.fichtnerhof.de/

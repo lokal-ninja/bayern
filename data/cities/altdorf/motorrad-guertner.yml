@@ -4,8 +4,8 @@ latitude: 48.5569
 longitude: 12.10844
 postcode: "84032"
 city: Altdorf
-street: "Hauptstraße"
-housenumber: 17
-phone: "+49 871 933390"
-opening_hours: "Mo-Fr 09:00-12:30,13:30-18:00; Sa 09:00-13:00"
-website: "https://www.motorrad-guertner.de/"
+street: Hauptstraße
+housenumber: "17"
+phone: +49 871 933390
+opening_hours: Mo-Fr 09:00-12:30,13:30-18:00; Sa 09:00-13:00
+website: https://www.motorrad-guertner.de/

@@ -1,11 +1,11 @@
 id: 650251944
-type: way
+type: node
 latitude: 48.5245
 longitude: 10.5929
 postcode: "86637"
 city: Riedsend
-street: "Riedstraße"
-housenumber: 27
+street: Riedstraße
+housenumber: "27"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

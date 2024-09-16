@@ -1,11 +1,11 @@
 id: 492640020
-type: way
+type: node
 latitude: 49.72393
 longitude: 10.00022
 postcode: "97246"
 city: Eibelstadt
-street: "Marktplatz"
-housenumber: 3
-phone: "+49 9303 9849977"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-13:00; PH,Su 07:30-10:30"
+street: Marktplatz
+housenumber: "3"
+phone: +49 9303 9849977
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-13:00; PH,Su 07:30-10:30
 website: ""

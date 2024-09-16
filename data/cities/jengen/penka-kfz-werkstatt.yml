@@ -1,11 +1,11 @@
 id: 330947129
-type: way
+type: node
 latitude: 48.00104
 longitude: 10.72322
 postcode: "86860"
 city: Jengen
-street: "Alleestraße"
-housenumber: 4
-phone: "+49 8241 998979"
+street: Alleestraße
+housenumber: "4"
+phone: +49 8241 998979
 opening_hours: ""
-website: "http://abschleppdienst-penka.de/"
+website: http://abschleppdienst-penka.de/

@@ -1,11 +1,11 @@
 id: 228399172
-type: way
+type: node
 latitude: 48.29693
 longitude: 11.56476
 postcode: "85778"
 city: Haimhausen
-street: "Moosweg"
-housenumber: 8
+street: Moosweg
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "https://www.ersatzteile-nutzfahrzeuge.de/"
+website: https://www.ersatzteile-nutzfahrzeuge.de/

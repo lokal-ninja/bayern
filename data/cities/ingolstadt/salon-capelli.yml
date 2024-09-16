@@ -4,8 +4,9 @@ latitude: 48.76278
 longitude: 11.4237
 postcode: "85049"
 city: Ingolstadt
-street: "Sauerstraße"
-housenumber: 7
-phone: "+49 841 9316175"
-opening_hours: "Mo off, Tu,Th 09:00-19:00; We,Fr 09:00-18:00; Sa 09:00-13:00 || nach Vereinbarung"
-website: "https://www.salon-capelli.com/"
+street: Sauerstraße
+housenumber: "7"
+phone: +49 841 9316175
+opening_hours: Mo off, Tu,Th 09:00-19:00; We,Fr 09:00-18:00; Sa 09:00-13:00 || "nach
+    Vereinbarung"
+website: https://www.salon-capelli.com/

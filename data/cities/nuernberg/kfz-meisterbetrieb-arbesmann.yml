@@ -4,8 +4,8 @@ latitude: 49.39702
 longitude: 11.17439
 postcode: "90475"
 city: Nürnberg
-street: "Bregenzer Straße"
-housenumber: 27
+street: Bregenzer Straße
+housenumber: "27"
 phone: "+4917642744003"
-opening_hours: "Mo-Fr 08:00-12:00,13:00-17:00"
-website: "https://www.arbesmann-kfz.de/"
+opening_hours: Mo-Fr 08:00-12:00,13:00-17:00
+website: https://www.arbesmann-kfz.de/

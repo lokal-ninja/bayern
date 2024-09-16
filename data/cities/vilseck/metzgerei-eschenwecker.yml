@@ -1,11 +1,11 @@
 id: 527137230
-type: way
+type: node
 latitude: 49.61179
 longitude: 11.80981
 postcode: "92249"
 city: Vilseck
-street: "Grabenstraße"
-housenumber: 17
+street: Grabenstraße
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

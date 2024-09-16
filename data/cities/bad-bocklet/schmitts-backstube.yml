@@ -4,8 +4,8 @@ latitude: 50.28508
 longitude: 10.0976
 postcode: "97708"
 city: Bad Bocklet
-street: "Riemenschneiderstraße"
-housenumber: 21
-phone: "+49 9708 6271"
-opening_hours: "Mo-Sa 06:00-12:30; Su 07:30-10:30; PH off"
-website: "https://www.schmitts-backstube.de/"
+street: Riemenschneiderstraße
+housenumber: "21"
+phone: +49 9708 6271
+opening_hours: Mo-Sa 06:00-12:30; Su 07:30-10:30; PH off
+website: https://www.schmitts-backstube.de/

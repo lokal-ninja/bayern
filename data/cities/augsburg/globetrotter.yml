@@ -4,8 +4,8 @@ latitude: 48.36917
 longitude: 10.89653
 postcode: "86150"
 city: Augsburg
-street: "Annastraße"
-housenumber: 11
+street: Annastraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.globetrotter.de/filialen/augsburg/"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.globetrotter.de/filialen/augsburg/

@@ -1,11 +1,11 @@
 id: 198572301
-type: way
+type: node
 latitude: 50.00174
 longitude: 12.29931
 postcode: "95652"
 city: Waldsassen
-street: "Mitterteicher Straße"
-housenumber: 1
+street: Mitterteicher Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.14978
 longitude: 11.54111
 postcode: "80636"
 city: München
-street: "Blutenburgstraße"
-housenumber: 84
+street: Blutenburgstraße
+housenumber: "84"
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:00; Sa 08:00-14:00; Su 08:00-11:00"
+opening_hours: Mo-Fr 07:30-19:00; Sa 08:00-14:00; Su 08:00-11:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.08155
 longitude: 11.52898
 postcode: "81479"
 city: München
-street: "Wolfratshauser Straße"
-housenumber: 204
-phone: "+49 89796785"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.augenoptik-deuschle.de/"
+street: Wolfratshauser Straße
+housenumber: "204"
+phone: +49 89796785
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.augenoptik-deuschle.de/

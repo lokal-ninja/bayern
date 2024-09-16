@@ -4,8 +4,8 @@ latitude: 48.35904
 longitude: 10.78446
 postcode: "86420"
 city: Diedorf
-street: "Gewerbestraße"
-housenumber: 5
-phone: "+49 8238 959156"
-opening_hours: "Mo-Sa 06:00-20:00; Su 08:00-11:00"
+street: Gewerbestraße
+housenumber: "5"
+phone: +49 8238 959156
+opening_hours: Mo-Sa 06:00-20:00; Su 08:00-11:00
 website: ""

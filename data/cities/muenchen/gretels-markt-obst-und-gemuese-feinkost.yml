@@ -4,8 +4,8 @@ latitude: 48.11938
 longitude: 11.58367
 postcode: "81541"
 city: München
-street: "Sankt-Bonifatius-Straße"
-housenumber: 5
-phone: "+49 89 69759888"
-opening_hours: "Mo-Th 08:00-20:00, Fr 07:00-20:00, Sa 07:00-16:00"
-website: "https://gretels-markt.de"
+street: Sankt-Bonifatius-Straße
+housenumber: "5"
+phone: +49 89 69759888
+opening_hours: Mo-Th 08:00-20:00, Fr 07:00-20:00, Sa 07:00-16:00
+website: https://gretels-markt.de

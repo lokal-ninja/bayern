@@ -1,11 +1,11 @@
 id: 224112404
-type: way
+type: node
 latitude: 48.58331
 longitude: 10.50059
 postcode: "89407"
 city: Dillingen a.d.Donau
-street: "Donauwörther Straße"
-housenumber: 35
+street: Donauwörther Straße
+housenumber: "35"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de/filialen/dillingen/donauwoerther-str-35/7981"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de/filialen/dillingen/donauwoerther-str-35/7981

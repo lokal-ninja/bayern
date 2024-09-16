@@ -1,11 +1,11 @@
 id: 54042499
-type: way
+type: node
 latitude: 48.14544
 longitude: 11.48432
 postcode: "80687"
 city: München
-street: "Landsberger Straße"
-housenumber: 390
-phone: "+49 89 54614826"
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
+street: Landsberger Straße
+housenumber: "390"
+phone: +49 89 54614826
+opening_hours: Mo-Sa 07:00-20:00; PH off
 website: ""

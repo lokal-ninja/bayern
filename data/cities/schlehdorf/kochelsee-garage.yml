@@ -1,11 +1,11 @@
 id: 258751768
-type: way
+type: node
 latitude: 47.65253
 longitude: 11.31021
 postcode: "82444"
 city: Schlehdorf
-street: "Schleißheimer Straße"
-housenumber: 6
-phone: "+49 8851 923819"
-opening_hours: "Mo-Th 8:00-12:00,13:00-17:00, Fr 8:00-12:00"
-website: "http://www.kochelsee-garage.de/"
+street: Schleißheimer Straße
+housenumber: "6"
+phone: +49 8851 923819
+opening_hours: Mo-Th 8:00-12:00,13:00-17:00, Fr 8:00-12:00
+website: http://www.kochelsee-garage.de/

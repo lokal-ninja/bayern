@@ -1,11 +1,11 @@
 id: 154529395
-type: way
+type: node
 latitude: 49.02785
 longitude: 11.58151
 postcode: "92345"
 city: Dietfurt
-street: "Am Wittl-Hammer"
-housenumber: 1
-phone: "+49 8464 642 8030"
-opening_hours: "Tu-Fr 10:00-18:00; Sa 09:00-13:00; PH off"
-website: "https://radraum7.de/"
+street: Am Wittl-Hammer
+housenumber: "1"
+phone: +49 8464 642 8030
+opening_hours: Tu-Fr 10:00-18:00; Sa 09:00-13:00; PH off
+website: https://radraum7.de/

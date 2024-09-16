@@ -1,11 +1,11 @@
 id: 155566204
-type: way
+type: node
 latitude: 49.90989
 longitude: 10.34159
 postcode: "97447"
 city: Gerolzhofen
-street: "Albert-Einstein-Straße"
-housenumber: 10
+street: Albert-Einstein-Straße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.80815
 longitude: 11.8776
 postcode: "93326"
 city: Abensberg
-street: "Werkstraße"
-housenumber: 13
-phone: "+49 9443 91530"
+street: Werkstraße
+housenumber: "13"
+phone: +49 9443 91530
 opening_hours: ""
-website: "https://www.hofmann.auto/standort/abensberg"
+website: https://www.hofmann.auto/standort/abensberg

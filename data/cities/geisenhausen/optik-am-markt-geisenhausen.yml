@@ -4,8 +4,8 @@ latitude: 48.47427
 longitude: 12.25722
 postcode: "84144"
 city: Geisenhausen
-street: "Hauptstraße"
-housenumber: 3
-phone: "+49 8743 919939"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00"
-website: "https://optik-geisenhausen.de/"
+street: Hauptstraße
+housenumber: "3"
+phone: +49 8743 919939
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00
+website: https://optik-geisenhausen.de/

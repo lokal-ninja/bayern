@@ -1,11 +1,11 @@
 id: 29419410
-type: way
+type: node
 latitude: 49.93483
 longitude: 11.54961
 postcode: "95447"
 city: Bayreuth
-street: "Adolf-Wächter-Straße"
-housenumber: 1
+street: Adolf-Wächter-Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

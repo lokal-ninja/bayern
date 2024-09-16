@@ -1,11 +1,11 @@
 id: 225015004
-type: way
+type: node
 latitude: 48.39353
 longitude: 11.05613
 postcode: "86453"
 city: Dasing
-street: "Taitinger Straße"
-housenumber: 64
+street: Taitinger Straße
+housenumber: "64"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,13:00-18:00; Sa 08:00-12:30"
-website: "https://www.kunzmann-getraenkemarkt.de/"
+opening_hours: Mo-Fr 08:00-12:00,13:00-18:00; Sa 08:00-12:30
+website: https://www.kunzmann-getraenkemarkt.de/

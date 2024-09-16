@@ -4,8 +4,8 @@ latitude: 47.88172
 longitude: 11.98586
 postcode: "83043"
 city: Bad Aibling
-street: "Carl-von-Ossietzky-Straße"
-housenumber: 12
-phone: "+49 8061 38 98 340"
-opening_hours: "Mo-Fr 07:30-12:00,13:00-18:00; Sa 09:00-13:00; PH off"
-website: "https://auto-heindl.go1a.de"
+street: Carl-von-Ossietzky-Straße
+housenumber: "12"
+phone: +49 8061 38 98 340
+opening_hours: Mo-Fr 07:30-12:00,13:00-18:00; Sa 09:00-13:00; PH off
+website: https://auto-heindl.go1a.de

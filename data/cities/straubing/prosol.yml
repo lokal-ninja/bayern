@@ -1,11 +1,11 @@
 id: 187114091
-type: way
+type: node
 latitude: 48.8891
 longitude: 12.62327
 postcode: "94315"
 city: Straubing
-street: "Philipp-Reis-Straße"
-housenumber: 15
-phone: "+49 9421 189709 0"
-opening_hours: "Mo-Fr 07:00-17:00; Sa 09:00-13:00"
-website: "https://www.prosol-farben.de/standorte/straubing/"
+street: Philipp-Reis-Straße
+housenumber: "15"
+phone: +49 9421 189709 0
+opening_hours: Mo-Fr 07:00-17:00; Sa 09:00-13:00
+website: https://www.prosol-farben.de/standorte/straubing/

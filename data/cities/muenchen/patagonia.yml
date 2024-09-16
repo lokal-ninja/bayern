@@ -4,8 +4,8 @@ latitude: 48.16015
 longitude: 11.58549
 postcode: "80802"
 city: München
-street: "Leopoldstraße"
-housenumber: 47
+street: Leopoldstraße
+housenumber: "47"
 phone: ""
-opening_hours: "Sa 10:30-18:00; Mo-Fr 11:00-18:30"
-website: "https://www.patagonia.com/stores/de/munchen/leopoldstr-47/store_munich.html"
+opening_hours: Sa 10:30-18:00; Mo-Fr 11:00-18:30
+website: https://www.patagonia.com/stores/de/munchen/leopoldstr-47/store_munich.html

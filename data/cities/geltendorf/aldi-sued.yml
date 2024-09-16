@@ -1,11 +1,11 @@
 id: 506737330
-type: way
+type: node
 latitude: 48.12253
 longitude: 10.99834
 postcode: "82269"
 city: Geltendorf
-street: "Mühlweg"
-housenumber: 3
+street: Mühlweg
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://filialen.aldi-sued.de/bayern/geltendorf/muehlweg-3"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://filialen.aldi-sued.de/bayern/geltendorf/muehlweg-3

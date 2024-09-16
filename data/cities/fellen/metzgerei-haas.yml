@@ -4,8 +4,8 @@ latitude: 50.15301
 longitude: 9.58856
 postcode: "97778"
 city: Fellen
-street: "Spessartstraße"
-housenumber: 3
-phone: "+49 9356 1361"
-opening_hours: "Mo-Tu 08:00-12:00; We-Fr 08:00-12:00,14:00-18:00; Sa 07:00-12:00"
-website: "https://www.metzgerei-haas.com"
+street: Spessartstraße
+housenumber: "3"
+phone: +49 9356 1361
+opening_hours: Mo-Tu 08:00-12:00; We-Fr 08:00-12:00,14:00-18:00; Sa 07:00-12:00
+website: https://www.metzgerei-haas.com

@@ -1,11 +1,11 @@
 id: 149910544
-type: way
+type: node
 latitude: 47.8422
 longitude: 12.12445
 postcode: "83026"
 city: Rosenheim
-street: "Isarstraße"
+street: Isarstraße
 housenumber: 1c
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de

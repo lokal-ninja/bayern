@@ -1,11 +1,11 @@
 id: 151502761
-type: way
+type: node
 latitude: 49.75083
 longitude: 11.40142
 postcode: "91278"
 city: Pottenstein
 street: ""
-housenumber: 5
-phone: "+49 9243 1769"
+housenumber: "5"
+phone: +49 9243 1769
 opening_hours: ""
-website: "www.toepferei-schacht.de"
+website: www.toepferei-schacht.de

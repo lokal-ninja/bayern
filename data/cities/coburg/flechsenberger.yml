@@ -1,11 +1,11 @@
 id: 48708835
-type: way
+type: node
 latitude: 50.24325
 longitude: 10.96912
 postcode: "96450"
 city: Coburg
-street: "Wassergasse"
-housenumber: 28
+street: Wassergasse
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

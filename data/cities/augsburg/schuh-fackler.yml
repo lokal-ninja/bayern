@@ -4,8 +4,8 @@ latitude: 48.33952
 longitude: 10.86786
 postcode: "86199"
 city: Augsburg
-street: "Bürgermeister-Aurnhammer-Straße"
-housenumber: 20
-phone: "+49 821 92706"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 09:00-13:00"
-website: "http://www.schuh-fackler.de"
+street: Bürgermeister-Aurnhammer-Straße
+housenumber: "20"
+phone: +49 821 92706
+opening_hours: Mo-Fr 10:00-18:00; Sa 09:00-13:00
+website: http://www.schuh-fackler.de

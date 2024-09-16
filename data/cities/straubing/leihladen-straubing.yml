@@ -4,8 +4,8 @@ latitude: 48.87069
 longitude: 12.58296
 postcode: "94315"
 city: Straubing
-street: "Steinweg"
-housenumber: 56
-phone: "+49 9421 7889537"
-opening_hours: "Donnerstag 17:00-19:00, Samstag 11:00-13:00 Uhr"
-website: "https://www.leihladen-straubing.de"
+street: Steinweg
+housenumber: "56"
+phone: +49 9421 7889537
+opening_hours: Donnerstag 17:00-19:00, Samstag 11:00-13:00 Uhr
+website: https://www.leihladen-straubing.de

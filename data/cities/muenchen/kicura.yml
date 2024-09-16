@@ -4,8 +4,8 @@ latitude: 48.1582
 longitude: 11.54452
 postcode: "80636"
 city: München
-street: "Leonrodstraße"
-housenumber: 73
-phone: "+49 89 2368 7623"
+street: Leonrodstraße
+housenumber: "73"
+phone: +49 89 2368 7623
 opening_hours: ""
-website: "https://www.kicura.de"
+website: https://www.kicura.de

@@ -1,11 +1,11 @@
 id: 93852370
-type: way
+type: node
 latitude: 47.86805
 longitude: 12.63152
 postcode: "83278"
 city: Traunstein
-street: "Jahnstraße"
-housenumber: 42
-phone: "+49 861 98871 0"
+street: Jahnstraße
+housenumber: "42"
+phone: +49 861 98871 0
 opening_hours: ""
 website: ""

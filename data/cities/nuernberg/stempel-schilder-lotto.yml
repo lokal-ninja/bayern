@@ -4,8 +4,8 @@ latitude: 49.4632
 longitude: 11.08238
 postcode: "90408"
 city: Nürnberg
-street: "Rollnerstraße"
-housenumber: 50
-phone: "+49 911 35 37 76"
-opening_hours: "Mo-Fr 09:00-15:00; PH,Sa,Su off"
+street: Rollnerstraße
+housenumber: "50"
+phone: +49 911 35 37 76
+opening_hours: Mo-Fr 09:00-15:00; PH,Sa,Su off
 website: ""

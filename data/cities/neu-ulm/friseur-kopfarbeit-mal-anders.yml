@@ -1,11 +1,11 @@
 id: 236524863
-type: way
+type: node
 latitude: 48.34302
 longitude: 10.03866
 postcode: "89233"
 city: Neu-Ulm
-street: "St.-Wolfgang-Straße"
-housenumber: 18
+street: St.-Wolfgang-Straße
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

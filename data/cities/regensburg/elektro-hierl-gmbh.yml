@@ -4,8 +4,8 @@ latitude: 49.01864
 longitude: 12.08742
 postcode: "93047"
 city: Regensburg
-street: "Jakobstraße"
-housenumber: 7
-phone: "+49 941 563549"
-opening_hours: "Mo-Fr 09:00-12:00, Mo-Th 13:00-17:00"
-website: "https://www.elektro-hierl.com/"
+street: Jakobstraße
+housenumber: "7"
+phone: +49 941 563549
+opening_hours: Mo-Fr 09:00-12:00, Mo-Th 13:00-17:00
+website: https://www.elektro-hierl.com/

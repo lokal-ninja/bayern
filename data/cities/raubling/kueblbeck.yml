@@ -1,11 +1,11 @@
 id: 218636868
-type: way
+type: node
 latitude: 47.80832
 longitude: 12.11984
 postcode: "83064"
 city: Raubling
-street: "Rosenheimer Straße"
-housenumber: 103
+street: Rosenheimer Straße
+housenumber: "103"
 phone: ""
 opening_hours: ""
 website: ""

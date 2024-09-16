@@ -1,11 +1,11 @@
 id: 192001876
-type: way
+type: node
 latitude: 50.0578
 longitude: 10.19136
 postcode: "97424"
 city: Schweinfurt
-street: "Adolf-Ley-Straße"
-housenumber: 19
+street: Adolf-Ley-Straße
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

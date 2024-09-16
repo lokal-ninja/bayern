@@ -1,11 +1,11 @@
 id: 222871055
-type: way
+type: node
 latitude: 49.84314
 longitude: 10.0189
 postcode: "97273"
 city: Kürnach
-street: "Wachtelberg"
-housenumber: 
+street: Wachtelberg
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

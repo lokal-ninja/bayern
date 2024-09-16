@@ -1,11 +1,11 @@
 id: 83692771
-type: way
+type: node
 latitude: 48.68703
 longitude: 12.71132
 postcode: ""
 city: Landau an der Isar
-street: "Kleegartenstraße"
-housenumber: 53
+street: Kleegartenstraße
+housenumber: "53"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00, Sa 08:00-12:00"
-website: "https://www.josefsteiner.de/"
+opening_hours: Mo-Fr 07:00-18:00, Sa 08:00-12:00
+website: https://www.josefsteiner.de/

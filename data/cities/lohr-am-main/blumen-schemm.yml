@@ -4,8 +4,8 @@ latitude: 49.99551
 longitude: 9.5755
 postcode: "97816"
 city: Lohr am Main
-street: "Haaggasse"
-housenumber: 3
-phone: "+49 9352 4217"
-opening_hours: "Mo-Fr 08:30-18:00, Sa 08:30-13:00"
+street: Haaggasse
+housenumber: "3"
+phone: +49 9352 4217
+opening_hours: Mo-Fr 08:30-18:00, Sa 08:30-13:00
 website: ""

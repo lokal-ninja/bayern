@@ -1,11 +1,11 @@
 id: 128399427
-type: way
+type: node
 latitude: 47.84866
 longitude: 11.47543
 postcode: "82538"
 city: Geretsried
-street: "Richard-Wagner-Straße"
-housenumber: 100
-phone: "+49 8171 31267"
-opening_hours: "Di-Fr 08:00-12:00, Di-Fr 14:00-18:00"
+street: Richard-Wagner-Straße
+housenumber: "100"
+phone: +49 8171 31267
+opening_hours: Di-Fr 08:00-12:00, Di-Fr 14:00-18:00
 website: ""

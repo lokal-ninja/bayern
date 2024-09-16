@@ -1,11 +1,11 @@
 id: 170482668
-type: way
+type: node
 latitude: 47.80693
 longitude: 10.29605
 postcode: "87463"
 city: Dietmannsried
-street: "Heisinger Straße"
-housenumber: 25
+street: Heisinger Straße
+housenumber: "25"
 phone: ""
 opening_hours: ""
-website: "https://www.aral-dietmannsried.de/"
+website: https://www.aral-dietmannsried.de/

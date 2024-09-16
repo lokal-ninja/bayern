@@ -4,8 +4,8 @@ latitude: 48.52748
 longitude: 11.50112
 postcode: "85276"
 city: Pfaffenhofen a.d. Ilm
-street: "Scheyerer Straße"
-housenumber: 42
-phone: "+49 8441 71020"
-opening_hours: "Mo,Tu,Th,Fr 14:00-19:00"
-website: "https://www.dn-computer.de"
+street: Scheyerer Straße
+housenumber: "42"
+phone: +49 8441 71020
+opening_hours: Mo,Tu,Th,Fr 14:00-19:00
+website: https://www.dn-computer.de

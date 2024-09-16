@@ -4,8 +4,8 @@ latitude: 49.59637
 longitude: 11.00602
 postcode: "91054"
 city: Erlangen
-street: "Weiße Herzstraße"
-housenumber: 1
-phone: "+49 9131 26495"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-15:00"
-website: "https://www.fielmann.de"
+street: Weiße Herzstraße
+housenumber: "1"
+phone: +49 9131 26495
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-15:00
+website: https://www.fielmann.de

@@ -1,11 +1,11 @@
 id: 233055169
-type: way
+type: node
 latitude: 49.97519
 longitude: 10.5005
 postcode: "97478"
 city: Knetzgau
-street: "Doktor-Stettler-Straße"
-housenumber: 34
+street: Doktor-Stettler-Straße
+housenumber: "34"
 phone: "+4995277200"
-opening_hours: "Tu-Fr 08:30-18:00; Sa 08:00-13:00"
+opening_hours: Tu-Fr 08:30-18:00; Sa 08:00-13:00
 website: ""

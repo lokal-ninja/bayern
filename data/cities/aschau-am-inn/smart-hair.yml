@@ -1,11 +1,11 @@
 id: 292914307
-type: way
+type: node
 latitude: 48.19751
 longitude: 12.3498
 postcode: "84544"
 city: Aschau am Inn
-street: "Hauptstraße"
-housenumber: 2
+street: Hauptstraße
+housenumber: "2"
 phone: ""
-opening_hours: "08:00-18:00, Sa 08:00-12:00"
+opening_hours: 08:00-18:00, Sa 08:00-12:00
 website: ""

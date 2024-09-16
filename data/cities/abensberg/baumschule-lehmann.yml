@@ -1,11 +1,11 @@
 id: 386857955
-type: way
+type: node
 latitude: 48.82567
 longitude: 11.88418
 postcode: "93326"
 city: Abensberg
-street: "Arnhofen"
-housenumber: 80
+street: Arnhofen
+housenumber: "80"
 phone: ""
 opening_hours: ""
 website: ""

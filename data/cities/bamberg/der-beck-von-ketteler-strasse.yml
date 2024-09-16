@@ -1,11 +1,11 @@
 id: 199030329
-type: way
+type: node
 latitude: 49.8868
 longitude: 10.92046
 postcode: "96050"
 city: Bamberg
-street: "Von-Ketteler-Straße"
-housenumber: 7
+street: Von-Ketteler-Straße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 05:30-17:00; Su 07:00-17:00"
+opening_hours: Mo-Sa 05:30-17:00; Su 07:00-17:00
 website: ""

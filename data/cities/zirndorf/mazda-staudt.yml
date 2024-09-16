@@ -1,11 +1,11 @@
 id: 169723364
-type: way
+type: node
 latitude: 49.43305
 longitude: 10.94308
 postcode: "90513"
 city: Zirndorf
-street: "Robert-Bosch-Straße"
-housenumber: 4
-phone: "+49 911 697420"
+street: Robert-Bosch-Straße
+housenumber: "4"
+phone: +49 911 697420
 opening_hours: ""
-website: "https://auto-staudt.de/"
+website: https://auto-staudt.de/

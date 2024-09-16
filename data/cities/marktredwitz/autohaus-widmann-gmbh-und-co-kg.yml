@@ -1,11 +1,11 @@
 id: 206010962
-type: way
+type: node
 latitude: 50.00373
 longitude: 12.07717
 postcode: "95615"
 city: Marktredwitz
-street: "Bayreuther Straße"
-housenumber: 2
-phone: "+49 9231 952870"
+street: Bayreuther Straße
+housenumber: "2"
+phone: +49 9231 952870
 opening_hours: ""
 website: ""

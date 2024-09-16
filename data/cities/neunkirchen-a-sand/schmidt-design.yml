@@ -1,11 +1,11 @@
 id: 38371266
-type: way
+type: node
 latitude: 49.52291
 longitude: 11.34536
 postcode: "91233"
 city: Neunkirchen a. Sand
-street: "Industriestraße"
-housenumber: 38
-phone: "+49 9153 9708755"
-opening_hours: "Mo-Fr 07:30-17:00"
-website: "https://www.sd-lackierung.de"
+street: Industriestraße
+housenumber: "38"
+phone: +49 9153 9708755
+opening_hours: Mo-Fr 07:30-17:00
+website: https://www.sd-lackierung.de

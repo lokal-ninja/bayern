@@ -4,8 +4,8 @@ latitude: 49.94471
 longitude: 11.572
 postcode: "95444"
 city: Bayreuth
-street: "Maximilianstraße"
-housenumber: 73
+street: Maximilianstraße
+housenumber: "73"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-16:00; Su off"
-website: "https://www.daswuerzhaus.de/"
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-16:00; Su off
+website: https://www.daswuerzhaus.de/

@@ -4,8 +4,8 @@ latitude: 49.02954
 longitude: 12.21017
 postcode: "93093"
 city: Donaustauf
-street: "Maxstraße"
-housenumber: 4
-phone: "+49 9403 518503"
-opening_hours: "Tu-Fr 10:00-13:00,15:00-18:00, Sa 10:00-13:00"
-website: "http://www.barbara-chicandmore.de"
+street: Maxstraße
+housenumber: "4"
+phone: +49 9403 518503
+opening_hours: Tu-Fr 10:00-13:00,15:00-18:00, Sa 10:00-13:00
+website: http://www.barbara-chicandmore.de

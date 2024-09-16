@@ -1,11 +1,11 @@
 id: 138226737
-type: way
+type: node
 latitude: 49.49325
 longitude: 11.05282
 postcode: "90427"
 city: Nürnberg
-street: "Johann-Sperl-Straße"
-housenumber: 61
+street: Johann-Sperl-Straße
+housenumber: "61"
 phone: ""
 opening_hours: ""
 website: ""

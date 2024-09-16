@@ -4,8 +4,8 @@ latitude: 49.54877
 longitude: 10.23828
 postcode: "97215"
 city: Uffenheim
-street: "Geckenheimer Straße"
-housenumber: 4
-phone: "+49 9842 7287"
-opening_hours: "Fr 09:00-14:00"
-website: "https://www.reginswind.de"
+street: Geckenheimer Straße
+housenumber: "4"
+phone: +49 9842 7287
+opening_hours: Fr 09:00-14:00
+website: https://www.reginswind.de

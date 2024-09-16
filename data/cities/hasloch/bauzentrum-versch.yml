@@ -1,11 +1,11 @@
 id: 232367168
-type: way
+type: node
 latitude: 49.79285
 longitude: 9.49271
 postcode: "97907"
 city: Hasloch
-street: "Am Witzpfad"
-housenumber: 3
+street: Am Witzpfad
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

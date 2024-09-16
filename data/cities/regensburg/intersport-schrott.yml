@@ -4,8 +4,8 @@ latitude: 49.01943
 longitude: 12.09353
 postcode: "93047"
 city: Regensburg
-street: "Vor der Grieb"
-housenumber: 7
+street: Vor der Grieb
+housenumber: "7"
 phone: ""
-opening_hours: "Tu-Fr 10:00-18:30; Mo 11:00-18:30; Sa 10:00-18:00"
-website: "https://www.sport-schrott.de"
+opening_hours: Tu-Fr 10:00-18:30; Mo 11:00-18:30; Sa 10:00-18:00
+website: https://www.sport-schrott.de

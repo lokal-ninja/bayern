@@ -1,11 +1,11 @@
 id: 262854104
-type: way
+type: node
 latitude: 47.95149
 longitude: 12.27656
 postcode: "83128"
 city: Halfing
-street: "Chiemseestraße"
-housenumber: 4
+street: Chiemseestraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 09:00-12:00"
+opening_hours: Mo-Sa 09:00-12:00
 website: ""

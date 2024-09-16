@@ -1,11 +1,11 @@
 id: 201160043
-type: way
+type: node
 latitude: 49.17213
 longitude: 12.86757
 postcode: "93444"
 city: Bad Kötzting
-street: "Pfingstreiterstraße"
-housenumber: 19
+street: Pfingstreiterstraße
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

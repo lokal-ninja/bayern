@@ -1,11 +1,11 @@
 id: 90039426
-type: way
+type: node
 latitude: 47.8778
 longitude: 10.61511
 postcode: "87600"
 city: Kaufbeuren
-street: "Apfeltranger Straße"
-housenumber: 3
+street: Apfeltranger Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

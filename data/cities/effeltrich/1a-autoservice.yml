@@ -4,8 +4,8 @@ latitude: 49.6549
 longitude: 11.08769
 postcode: "91090"
 city: Effeltrich
-street: "Erlanger Straße"
-housenumber: 12
+street: Erlanger Straße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 07:30-12:00, 13:00-18:00; Sa 09:00-12:00; Su, PH off"
-website: "https://autobayer.go1a.de/"
+opening_hours: Mo-Fr 07:30-12:00, 13:00-18:00; Sa 09:00-12:00; Su, PH off
+website: https://autobayer.go1a.de/

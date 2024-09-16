@@ -4,8 +4,8 @@ latitude: 48.16453
 longitude: 11.5754
 postcode: ""
 city: München
-street: "Destouchesstraße"
-housenumber: 57
+street: Destouchesstraße
+housenumber: "57"
 phone: ""
-opening_hours: "by appointment 089-45232037"
+opening_hours: '"by appointment 089-45232037"'
 website: ""

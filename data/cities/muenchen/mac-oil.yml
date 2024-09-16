@@ -1,11 +1,11 @@
 id: 698049648
-type: way
+type: node
 latitude: 48.1459
 longitude: 11.47675
 postcode: "81241"
 city: München
-street: "Landsberger Straße"
-housenumber: 426
+street: Landsberger Straße
+housenumber: "426"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00"
-website: "https://www.mac-oil.de/de/p/oilfinder-1082.html?a=2&targetId=13&targetLocId=16935&target=oilslider"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-16:00
+website: https://www.mac-oil.de/de/p/oilfinder-1082.html?a=2&targetId=13&targetLocId=16935&target=oilslider

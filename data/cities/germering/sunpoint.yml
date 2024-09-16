@@ -1,11 +1,11 @@
 id: 406784471
-type: way
+type: node
 latitude: 48.12985
 longitude: 11.3601
 postcode: "82110"
 city: Germering
-street: "Obere Bahnhofstraße"
-housenumber: 62
+street: Obere Bahnhofstraße
+housenumber: "62"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-20:00"
-website: "https://www.sunpoint.de/"
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-20:00
+website: https://www.sunpoint.de/

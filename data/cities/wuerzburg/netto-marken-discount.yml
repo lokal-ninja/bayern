@@ -1,11 +1,11 @@
 id: 158321407
-type: way
+type: node
 latitude: 49.73103
 longitude: 9.95977
 postcode: "97084"
 city: Würzburg
-street: "Max-Mengeringhausen-Straße"
-housenumber: 22
+street: Max-Mengeringhausen-Straße
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

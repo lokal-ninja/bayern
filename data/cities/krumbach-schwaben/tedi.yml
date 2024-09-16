@@ -1,11 +1,11 @@
 id: 95034294
-type: way
+type: node
 latitude: 48.25455
 longitude: 10.35577
 postcode: "86381"
 city: Krumbach (Schwaben)
-street: "Nordstraße"
-housenumber: 11
+street: Nordstraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
-website: "https://www.tedi.com/stores/6199/DE/BAYERN/Krumbach/Nordstr-11"
+website: https://www.tedi.com/stores/6199/DE/BAYERN/Krumbach/Nordstr-11

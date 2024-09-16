@@ -1,11 +1,11 @@
 id: 42255933
-type: way
+type: node
 latitude: 47.7115
 longitude: 10.33656
 postcode: "87437"
 city: Kempten (Allgäu)
-street: "Römerstraße"
-housenumber: 14
+street: Römerstraße
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.04155
 longitude: 11.5039
 postcode: "82049"
 city: Pullach i. Isartal
-street: "Wolfratshauser Straße"
-housenumber: 152
+street: Wolfratshauser Straße
+housenumber: "152"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.ihle.de"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.ihle.de

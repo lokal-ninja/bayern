@@ -4,8 +4,8 @@ latitude: 47.88325
 longitude: 11.45953
 postcode: "82538"
 city: Geretsried
-street: "Bayerwaldstraße"
-housenumber: 2
-phone: "+49 8171 389772"
-opening_hours: "Mo-Sa 08:00-20:00"
+street: Bayerwaldstraße
+housenumber: "2"
+phone: +49 8171 389772
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

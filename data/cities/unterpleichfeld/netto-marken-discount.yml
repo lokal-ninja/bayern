@@ -1,11 +1,11 @@
 id: 152679557
-type: way
+type: node
 latitude: 49.86339
 longitude: 10.03929
 postcode: "97294"
 city: Unterpleichfeld
-street: "An der Spielleite"
-housenumber: 3
+street: An der Spielleite
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

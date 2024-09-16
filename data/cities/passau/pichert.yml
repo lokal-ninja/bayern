@@ -1,11 +1,11 @@
 id: 242877027
-type: way
+type: node
 latitude: 48.58487
 longitude: 13.49047
 postcode: "94034"
 city: Passau
-street: "Schulbergstraße"
-housenumber: 59
+street: Schulbergstraße
+housenumber: "59"
 phone: ""
 opening_hours: ""
-website: "https://www.auto-pichert.de"
+website: https://www.auto-pichert.de

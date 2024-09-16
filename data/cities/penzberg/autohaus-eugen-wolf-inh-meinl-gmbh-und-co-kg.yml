@@ -1,11 +1,11 @@
 id: 46891515
-type: way
+type: node
 latitude: 47.76356
 longitude: 11.36437
 postcode: "82377"
 city: Penzberg
-street: "Seeshaupter Straße"
-housenumber: 44
+street: Seeshaupter Straße
+housenumber: "44"
 phone: ""
 opening_hours: ""
 website: ""

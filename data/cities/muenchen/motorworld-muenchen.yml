@@ -1,11 +1,11 @@
 id: 496104344
-type: way
+type: node
 latitude: 48.1971
 longitude: 11.60578
 postcode: "80939"
 city: München
-street: "Am Ausbesserungswerk"
-housenumber: 8
+street: Am Ausbesserungswerk
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 07:30-22:00; Su 10:00-22:00"
+opening_hours: Mo-Sa 07:30-22:00; Su 10:00-22:00
 website: ""

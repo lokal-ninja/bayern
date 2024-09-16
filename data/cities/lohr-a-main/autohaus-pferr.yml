@@ -1,11 +1,11 @@
 id: 33429337
-type: way
+type: node
 latitude: 50.00468
 longitude: 9.59103
 postcode: "97816"
 city: Lohr a. Main
-street: "Sackenbacher Straße"
-housenumber: 32
-phone: "+49 9352 87100"
-opening_hours: "Mo-Fr 07:30-17:00; Sa 09:00-12:00"
-website: "https://www.ford-pferr-lohr.de/"
+street: Sackenbacher Straße
+housenumber: "32"
+phone: +49 9352 87100
+opening_hours: Mo-Fr 07:30-17:00; Sa 09:00-12:00
+website: https://www.ford-pferr-lohr.de/

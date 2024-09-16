@@ -1,11 +1,11 @@
 id: 443624469
-type: way
+type: node
 latitude: 49.6704
 longitude: 12.15418
 postcode: "92637"
 city: Weiden i.d.OPf.
-street: "Bahnhofstraße"
-housenumber: 28
+street: Bahnhofstraße
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Fr 05:30-19:30; PH,Sa,Su 08:00-18:00"
+opening_hours: Mo-Fr 05:30-19:30; PH,Sa,Su 08:00-18:00
 website: ""

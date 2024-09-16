@@ -1,11 +1,11 @@
 id: 129804710
-type: way
+type: node
 latitude: 49.06393
 longitude: 12.13068
 postcode: "93057"
 city: Regensburg
-street: "Lichtenfelser Straße"
-housenumber: 8
+street: Lichtenfelser Straße
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "https://www.auto-regensburg.de/"
+website: https://www.auto-regensburg.de/

@@ -1,11 +1,11 @@
 id: 142047669
-type: way
+type: node
 latitude: 48.55592
 longitude: 12.15597
 postcode: "84030"
 city: Landshut
-street: "Maybachstraße"
-housenumber: 4
-phone: "+49 871 973890"
+street: Maybachstraße
+housenumber: "4"
+phone: +49 871 973890
 opening_hours: ""
-website: "https://www.seefelder.net/"
+website: https://www.seefelder.net/

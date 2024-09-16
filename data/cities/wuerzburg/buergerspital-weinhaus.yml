@@ -4,8 +4,8 @@ latitude: 49.79608
 longitude: 9.93491
 postcode: "97070"
 city: Würzburg
-street: "Semmelstraße"
-housenumber: 2
-phone: "+49 931 3503403"
-opening_hours: "Mo 09:00-18:00; Tu-Th 09:00-22:00; Fr-Sa 09:00-24:00; Su 11:00-18:00"
-website: "https://www.buergerspital.de/weingut/weinhaus/index.html"
+street: Semmelstraße
+housenumber: "2"
+phone: +49 931 3503403
+opening_hours: Mo 09:00-18:00; Tu-Th 09:00-22:00; Fr-Sa 09:00-24:00; Su 11:00-18:00
+website: https://www.buergerspital.de/weingut/weinhaus/index.html

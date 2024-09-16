@@ -1,11 +1,11 @@
 id: 199479881
-type: way
+type: node
 latitude: 49.27243
 longitude: 11.449
 postcode: "92318"
 city: Neumarkt
-street: "Freystädter Straße"
-housenumber: 11
-phone: "+49 9181 90 02 66"
+street: Freystädter Straße
+housenumber: "11"
+phone: +49 9181 90 02 66
 opening_hours: ""
 website: ""

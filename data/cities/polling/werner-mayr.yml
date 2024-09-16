@@ -1,11 +1,11 @@
 id: 335555977
-type: way
+type: node
 latitude: 47.80698
 longitude: 11.14584
 postcode: "82398"
 city: Polling
-street: "Am Steinbruch"
-housenumber: 7
+street: Am Steinbruch
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

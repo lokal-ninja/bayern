@@ -4,8 +4,8 @@ latitude: 50.05306
 longitude: 9.01557
 postcode: "63791"
 city: Karlstein am Main
-street: "Kahler Straße"
-housenumber: 35
-phone: "+49 6188 9945555"
-opening_hours: "Termine nach Vereinbarung"
-website: "http://www.casavita-karlstein.de/"
+street: Kahler Straße
+housenumber: "35"
+phone: +49 6188 9945555
+opening_hours: '"Termine nach Vereinbarung"'
+website: http://www.casavita-karlstein.de/

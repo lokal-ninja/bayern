@@ -4,8 +4,8 @@ latitude: 49.16109
 longitude: 11.94961
 postcode: "93183"
 city: Kallmünz
-street: "Dinauer Straße"
-housenumber: 4
-phone: "+49 9473 268"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-12:30"
-website: "https://www.autohaus-feldmeier.de/"
+street: Dinauer Straße
+housenumber: "4"
+phone: +49 9473 268
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-12:30
+website: https://www.autohaus-feldmeier.de/

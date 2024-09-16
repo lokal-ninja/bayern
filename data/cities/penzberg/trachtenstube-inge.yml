@@ -4,8 +4,8 @@ latitude: 47.75066
 longitude: 11.37787
 postcode: "82377"
 city: Penzberg
-street: "Karlstraße"
-housenumber: 19
-phone: "+49 8856 3620"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00; Su,PH off"
-website: "https://www.trachtenstube-inge.de/"
+street: Karlstraße
+housenumber: "19"
+phone: +49 8856 3620
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-16:00; Su,PH off
+website: https://www.trachtenstube-inge.de/

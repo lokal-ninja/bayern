@@ -1,11 +1,11 @@
 id: 58780470
-type: way
+type: node
 latitude: 47.89494
 longitude: 10.64102
 postcode: "87600"
 city: Kaufbeuren
-street: "Innovapark"
-housenumber: 35
+street: Innovapark
+housenumber: "35"
 phone: ""
 opening_hours: ""
-website: "https://filialen.aldi-sued.de/bayern/kaufbeuren/innovapark-35"
+website: https://filialen.aldi-sued.de/bayern/kaufbeuren/innovapark-35

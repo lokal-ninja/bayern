@@ -1,11 +1,11 @@
 id: 127909896
-type: way
+type: node
 latitude: 49.69234
 longitude: 10.93309
 postcode: "91334"
 city: Hemhofen
-street: "Bergstraße"
-housenumber: 2
-phone: "+49 (0) 9195 7285"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00; PH off"
-website: "https://www.gaertnerei-grosskopf.de/"
+street: Bergstraße
+housenumber: "2"
+phone: +49 (0) 9195 7285
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00; PH off
+website: https://www.gaertnerei-grosskopf.de/

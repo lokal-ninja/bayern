@@ -1,11 +1,11 @@
 id: 90636175
-type: way
+type: node
 latitude: 50.26921
 longitude: 10.96426
 postcode: "96450"
 city: Coburg
-street: "Melanchthonstraße"
-housenumber: 8
+street: Melanchthonstraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

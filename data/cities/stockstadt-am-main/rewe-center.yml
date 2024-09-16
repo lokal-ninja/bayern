@@ -1,11 +1,11 @@
 id: 25460032
-type: way
+type: node
 latitude: 49.9602
 longitude: 9.07996
 postcode: "63811"
 city: Stockstadt am Main
-street: "Taunusstraße"
-housenumber: 2
+street: Taunusstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

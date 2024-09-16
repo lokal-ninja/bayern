@@ -4,8 +4,8 @@ latitude: 47.74932
 longitude: 11.37437
 postcode: "82377"
 city: Penzberg
-street: "Ludwig-März-Straße"
-housenumber: 4
-phone: "+49 8856 9362622"
-opening_hours: "Mo-Fr 09:00-12:00, Mo,We,Fr 15:00-18:00; Sa 10:00-14:00; PH off"
-website: "http://www.hoppala-second-hand.de/"
+street: Ludwig-März-Straße
+housenumber: "4"
+phone: +49 8856 9362622
+opening_hours: Mo-Fr 09:00-12:00, Mo,We,Fr 15:00-18:00; Sa 10:00-14:00; PH off
+website: http://www.hoppala-second-hand.de/

@@ -1,11 +1,11 @@
 id: 246235766
-type: way
+type: node
 latitude: 48.17335
 longitude: 10.83759
 postcode: "86836"
 city: Untermeitingen
-street: "Ulrichstraße"
-housenumber: 40
-phone: "+49 8232 96880"
+street: Ulrichstraße
+housenumber: "40"
+phone: +49 8232 96880
 opening_hours: ""
-website: "https://www.autohaus-zienecker.de"
+website: https://www.autohaus-zienecker.de

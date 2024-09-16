@@ -1,11 +1,11 @@
 id: 180530814
-type: way
+type: node
 latitude: 48.53577
 longitude: 12.14982
 postcode: "84028"
 city: Landshut
-street: "Ländgasse"
-housenumber: 137
+street: Ländgasse
+housenumber: "137"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.c-and-a.com"
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.c-and-a.com

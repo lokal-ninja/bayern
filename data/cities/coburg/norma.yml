@@ -4,8 +4,8 @@ latitude: 50.26163
 longitude: 10.96157
 postcode: "96450"
 city: Coburg
-street: "Mohrenstraße"
-housenumber: 12
+street: Mohrenstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "http://www.norma-online.de/"
+opening_hours: Mo-Sa 08:00-20:00
+website: http://www.norma-online.de/

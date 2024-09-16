@@ -1,11 +1,11 @@
 id: 223759169
-type: way
+type: node
 latitude: 48.40376
 longitude: 13.32809
 postcode: "94060"
 city: Pocking
-street: "Hartkirchner Straße"
-housenumber: 45
+street: Hartkirchner Straße
+housenumber: "45"
 phone: ""
 opening_hours: ""
 website: ""

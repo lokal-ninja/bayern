@@ -1,11 +1,11 @@
 id: 1064886284
-type: way
+type: node
 latitude: 49.79621
 longitude: 9.93502
 postcode: "97070"
 city: Würzburg
-street: "Semmelstraße"
-housenumber: 
+street: Semmelstraße
+housenumber: ""
 phone: ""
-opening_hours: "Mo 09:00-18:00; Tu-Th 09:00-22:00; Fr,Sa 09:00-24:00; Su 11:00-18:00"
-website: "https://www.buergerspital.de/weingut/weinhaus/index.html"
+opening_hours: Mo 09:00-18:00; Tu-Th 09:00-22:00; Fr,Sa 09:00-24:00; Su 11:00-18:00
+website: https://www.buergerspital.de/weingut/weinhaus/index.html

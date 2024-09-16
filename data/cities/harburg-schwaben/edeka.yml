@@ -1,11 +1,11 @@
 id: 104032865
-type: way
+type: node
 latitude: 48.78756
 longitude: 10.69283
 postcode: "86655"
 city: Harburg (Schwaben)
-street: "Wemdinger Straße"
-housenumber: 4
+street: Wemdinger Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00"
+opening_hours: Mo-Fr 08:00-20:00
 website: ""

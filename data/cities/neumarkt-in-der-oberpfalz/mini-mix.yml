@@ -1,11 +1,11 @@
 id: 115939010
-type: way
+type: node
 latitude: 49.26316
 longitude: 11.47363
 postcode: "92318"
 city: Neumarkt in der Oberpfalz
-street: "Gutenbergstraße"
-housenumber: 4
+street: Gutenbergstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.mixmarkt.eu/de/germany/"
+website: https://www.mixmarkt.eu/de/germany/

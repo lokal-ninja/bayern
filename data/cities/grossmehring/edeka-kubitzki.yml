@@ -1,11 +1,11 @@
 id: 603959815
-type: way
+type: node
 latitude: 48.7693
 longitude: 11.5122
 postcode: "85098"
 city: Großmehring
-street: "Ingolstädter Straße"
-housenumber: 79
+street: Ingolstädter Straße
+housenumber: "79"
 phone: ""
-opening_hours: "Mo-Sa 06:00-20:00"
+opening_hours: Mo-Sa 06:00-20:00
 website: ""

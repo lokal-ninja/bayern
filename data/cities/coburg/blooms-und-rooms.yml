@@ -4,8 +4,8 @@ latitude: 50.25643
 longitude: 10.96414
 postcode: "96450"
 city: Coburg
-street: "Ketschengasse"
-housenumber: 29
-phone: "+49 9561 239481"
-opening_hours: "Mo-Fr 8:30-18:30; Sa 8:30-18:00"
-website: "https://www.blooms-and-rooms.de"
+street: Ketschengasse
+housenumber: "29"
+phone: +49 9561 239481
+opening_hours: Mo-Fr 8:30-18:30; Sa 8:30-18:00
+website: https://www.blooms-and-rooms.de

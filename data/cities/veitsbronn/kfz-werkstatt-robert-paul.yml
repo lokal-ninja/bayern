@@ -1,11 +1,11 @@
 id: 482290938
-type: way
+type: node
 latitude: 49.50968
 longitude: 10.88824
 postcode: "90587"
 city: Veitsbronn
-street: "Weiherwiese"
-housenumber: 25
+street: Weiherwiese
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00, Sa 07:30-12:00"
-website: "https://www.der-autoschrauber.de"
+opening_hours: Mo-Fr 07:30-18:00, Sa 07:30-12:00
+website: https://www.der-autoschrauber.de

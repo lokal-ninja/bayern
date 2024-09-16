@@ -1,11 +1,11 @@
 id: 214174990
-type: way
+type: node
 latitude: 50.0065
 longitude: 12.07686
 postcode: "95615"
 city: Marktredwitz
-street: "Wunsiedler Straße"
-housenumber: 4
+street: Wunsiedler Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

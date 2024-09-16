@@ -1,11 +1,11 @@
 id: 93846511
-type: way
+type: node
 latitude: 50.02883
 longitude: 10.52098
 postcode: "97437"
 city: Haßfurt
-street: "Flugplatzstraße"
-housenumber: 3
+street: Flugplatzstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

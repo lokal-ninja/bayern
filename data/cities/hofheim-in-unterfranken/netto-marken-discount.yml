@@ -1,11 +1,11 @@
 id: 946068140
-type: way
+type: node
 latitude: 50.13252
 longitude: 10.52076
 postcode: "97461"
 city: Hofheim in Unterfranken
-street: "Industriestraße"
+street: Industriestraße
 housenumber: 15a
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de/filialen/hofheim/industriestr-15a/3202"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de/filialen/hofheim/industriestr-15a/3202

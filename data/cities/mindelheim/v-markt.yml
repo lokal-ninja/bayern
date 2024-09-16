@@ -1,11 +1,11 @@
 id: 95816158
-type: way
+type: node
 latitude: 48.04552
 longitude: 10.50427
 postcode: "87719"
 city: Mindelheim
-street: "Allgäuer Straße"
-housenumber: 19
+street: Allgäuer Straße
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

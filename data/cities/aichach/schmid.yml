@@ -1,11 +1,11 @@
 id: 106356706
-type: way
+type: node
 latitude: 48.43767
 longitude: 11.10956
 postcode: "86551"
 city: Aichach
-street: "Karl-Schiller-Straße"
-housenumber: 5
+street: Karl-Schiller-Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "http://www.schmid-aichach.de"
+website: http://www.schmid-aichach.de

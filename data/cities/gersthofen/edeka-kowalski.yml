@@ -1,11 +1,11 @@
 id: 196476188
-type: way
+type: node
 latitude: 48.4348
 longitude: 10.87556
 postcode: "86368"
 city: Gersthofen
-street: "Lechfeldstraße"
-housenumber: 1
+street: Lechfeldstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

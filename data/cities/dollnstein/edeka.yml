@@ -1,11 +1,11 @@
 id: 225085721
-type: way
+type: node
 latitude: 48.87219
 longitude: 11.07685
 postcode: "91795"
 city: Dollnstein
-street: "Bahnhofstraße"
-housenumber: 12
+street: Bahnhofstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 07:30-20:00"
+opening_hours: Mo-Fr 08:00-20:00; Sa 07:30-20:00
 website: ""

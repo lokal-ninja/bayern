@@ -4,8 +4,8 @@ latitude: 47.90661
 longitude: 11.33955
 postcode: "82541"
 city: Ammerland
-street: "Kloiberweg"
-housenumber: 12
-phone: "+49 152 38911791"
-opening_hours: "24/7"
-website: "https://bestattung-doehla.de/"
+street: Kloiberweg
+housenumber: "12"
+phone: +49 152 38911791
+opening_hours: 24/7
+website: https://bestattung-doehla.de/

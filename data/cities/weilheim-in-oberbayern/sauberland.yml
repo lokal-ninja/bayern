@@ -1,11 +1,11 @@
 id: 550514564
-type: way
+type: node
 latitude: 47.83674
 longitude: 11.14336
 postcode: "82362"
 city: Weilheim in Oberbayern
-street: "Alpenstraße"
-housenumber: 10
+street: Alpenstraße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00; Sa 09:00-13:00; Su,PH off"
+opening_hours: Mo-Fr 07:30-18:00; Sa 09:00-13:00; Su,PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 60727979
-type: way
+type: node
 latitude: 48.19715
 longitude: 10.76448
 postcode: "86830"
 city: Schwabmünchen
-street: "Gottlieb-Daimler-Straße"
-housenumber: 2
+street: Gottlieb-Daimler-Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

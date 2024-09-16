@@ -1,11 +1,11 @@
 id: 29911656
-type: way
+type: node
 latitude: 49.38029
 longitude: 12.34123
 postcode: "92447"
 city: Schwarzhofen
-street: "Nabburger Straße"
-housenumber: 1
+street: Nabburger Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

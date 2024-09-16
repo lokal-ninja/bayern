@@ -1,11 +1,11 @@
 id: 151220622
-type: way
+type: node
 latitude: 49.80538
 longitude: 11.25772
 postcode: "91346"
 city: Wiesenttal
-street: "Forchheimer Straße"
-housenumber: 14
+street: Forchheimer Straße
+housenumber: "14"
 phone: "+499196998566"
-opening_hours: "May 1-Sep 30 09:00-17:00, Oct 1-Mar 31 12:00-16:00; PH off"
-website: "https://www.aktiv-reisen.com/"
+opening_hours: May 1-Sep 30 09:00-17:00, Oct 1-Mar 31 12:00-16:00; PH off
+website: https://www.aktiv-reisen.com/

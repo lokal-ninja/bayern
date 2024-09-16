@@ -1,11 +1,11 @@
 id: 328248230
-type: way
+type: node
 latitude: 47.95392
 longitude: 11.49774
 postcode: "82544"
 city: Egling
-street: "Münchner Straße"
-housenumber: 1
-phone: "+49 8170 7464"
-opening_hours: "Mo-We,Fr 06:45-13:00, 14:45-18:00; Tu 06:45-13:00; Sa 06:30-13:00"
-website: "https://www.baeckerei-koeglsperger.de/"
+street: Münchner Straße
+housenumber: "1"
+phone: +49 8170 7464
+opening_hours: Mo-We,Fr 06:45-13:00, 14:45-18:00; Tu 06:45-13:00; Sa 06:30-13:00
+website: https://www.baeckerei-koeglsperger.de/

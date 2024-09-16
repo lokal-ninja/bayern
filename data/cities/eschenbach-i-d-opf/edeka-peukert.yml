@@ -1,11 +1,11 @@
 id: 1188084613
-type: way
+type: node
 latitude: 49.75395
 longitude: 11.81539
 postcode: "92676"
 city: Eschenbach i.d.OPf.
-street: "Kirchenthumbacher Straße"
-housenumber: 29
+street: Kirchenthumbacher Straße
+housenumber: "29"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
+opening_hours: Mo-Sa 07:00-20:00; PH off
 website: ""

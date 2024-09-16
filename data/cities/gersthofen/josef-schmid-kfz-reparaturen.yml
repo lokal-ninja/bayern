@@ -1,11 +1,11 @@
 id: 196355922
-type: way
+type: node
 latitude: 48.42973
 longitude: 10.86275
 postcode: "86368"
 city: Gersthofen
-street: "Thyssenstraße"
-housenumber: 41
+street: Thyssenstraße
+housenumber: "41"
 phone: ""
 opening_hours: ""
 website: ""

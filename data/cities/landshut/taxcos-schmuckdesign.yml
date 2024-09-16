@@ -4,8 +4,8 @@ latitude: 48.53455
 longitude: 12.1494
 postcode: "84028"
 city: Landshut
-street: "Ländgasse"
-housenumber: 50
-phone: "+49 871 2764874"
-opening_hours: "Mo-Fr 10:00-15:00; PH off"
-website: "https://taxcos.com/"
+street: Ländgasse
+housenumber: "50"
+phone: +49 871 2764874
+opening_hours: Mo-Fr 10:00-15:00; PH off
+website: https://taxcos.com/

@@ -1,11 +1,11 @@
 id: 435783543
-type: way
+type: node
 latitude: 48.19973
 longitude: 10.38881
 postcode: "86480"
 city: Aletshausen
-street: "Bahnhofstraße"
-housenumber: 14
+street: Bahnhofstraße
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

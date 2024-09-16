@@ -1,11 +1,11 @@
 id: 97763483
-type: way
+type: node
 latitude: 47.79516
 longitude: 12.12177
 postcode: "83064"
 city: Raubling
-street: "Veichtbauernweg"
-housenumber: 10
+street: Veichtbauernweg
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de

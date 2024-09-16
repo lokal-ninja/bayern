@@ -1,11 +1,11 @@
 id: 97871851
-type: way
+type: node
 latitude: 48.69193
 longitude: 11.61151
 postcode: "85290"
 city: Geisenfeld
-street: "Nöttinger Straße"
-housenumber: 21
+street: Nöttinger Straße
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.lidl.de/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.lidl.de/

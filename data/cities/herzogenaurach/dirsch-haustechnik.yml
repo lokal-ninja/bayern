@@ -1,11 +1,11 @@
 id: 155834542
-type: way
+type: node
 latitude: 49.57724
 longitude: 10.89125
 postcode: "91074"
 city: Herzogenaurach
-street: "Einsteinstraße"
-housenumber: 28
-phone: "+49 9132 788 628"
-opening_hours: "Mo-Th 08:00-17:00; Fr 08:00-14:00"
-website: "https://dirsch-haustechnik.de/"
+street: Einsteinstraße
+housenumber: "28"
+phone: +49 9132 788 628
+opening_hours: Mo-Th 08:00-17:00; Fr 08:00-14:00
+website: https://dirsch-haustechnik.de/

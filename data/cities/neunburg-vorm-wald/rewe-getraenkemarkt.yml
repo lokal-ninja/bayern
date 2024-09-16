@@ -1,11 +1,11 @@
 id: 29140484
-type: way
+type: node
 latitude: 49.34562
 longitude: 12.37439
 postcode: "92431"
 city: Neunburg vorm Wald
-street: "Am Pfalzgrafencenter"
-housenumber: 1
+street: Am Pfalzgrafencenter
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

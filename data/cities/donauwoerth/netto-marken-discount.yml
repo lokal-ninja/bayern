@@ -1,11 +1,11 @@
 id: 129205390
-type: way
+type: node
 latitude: 48.72444
 longitude: 10.77961
 postcode: "86609"
 city: Donauwörth
-street: "Berger Vorstadt"
-housenumber: 31
+street: Berger Vorstadt
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
+opening_hours: Mo-Sa 07:00-20:00; PH off
 website: ""

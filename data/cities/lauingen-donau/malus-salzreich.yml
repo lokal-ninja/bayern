@@ -1,11 +1,11 @@
 id: 520834929
-type: way
+type: node
 latitude: 48.56535
 longitude: 10.4185
 postcode: "89415"
 city: Lauingen (Donau)
-street: "Alois-Moser-Straße"
-housenumber: 4
+street: Alois-Moser-Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

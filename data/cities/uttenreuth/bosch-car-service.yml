@@ -1,11 +1,11 @@
 id: 199412747
-type: way
+type: node
 latitude: 49.59614
 longitude: 11.06835
 postcode: "91080"
 city: Uttenreuth
-street: "Erlanger Straße"
-housenumber: 33
-phone: "+49 9131 57088"
+street: Erlanger Straße
+housenumber: "33"
+phone: +49 9131 57088
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.00774
 longitude: 12.09345
 postcode: "95615"
 city: Marktredwitz
-street: "Ludwig-Thoma-Straße"
-housenumber: 31
-phone: "+49 9231 879955"
-opening_hours: "Tu, Th 9:00-12:00, 14:30-18:00; Sa 9:00-12:00"
+street: Ludwig-Thoma-Straße
+housenumber: "31"
+phone: +49 9231 879955
+opening_hours: Tu, Th 9:00-12:00, 14:30-18:00; Sa 9:00-12:00
 website: ""

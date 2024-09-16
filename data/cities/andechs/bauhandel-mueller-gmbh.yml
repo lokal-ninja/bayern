@@ -1,11 +1,11 @@
 id: 275440211
-type: way
+type: node
 latitude: 47.97466
 longitude: 11.22116
 postcode: "82346"
 city: Andechs
-street: "Graf-Rasso-Straße"
-housenumber: 4
-phone: "+49 8152 395610"
+street: Graf-Rasso-Straße
+housenumber: "4"
+phone: +49 8152 395610
 opening_hours: ""
-website: "https://www.mueller-bauhandel.de/"
+website: https://www.mueller-bauhandel.de/

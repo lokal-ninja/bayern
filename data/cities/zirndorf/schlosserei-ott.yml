@@ -4,8 +4,8 @@ latitude: 49.44293
 longitude: 10.95594
 postcode: "90513"
 city: Zirndorf
-street: "Schulstraße"
-housenumber: 15
+street: Schulstraße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Th 07:00-16:00; Fr 07:00-12:00"
-website: "http://www.schlosserei-ott.de"
+opening_hours: Mo-Th 07:00-16:00; Fr 07:00-12:00
+website: http://www.schlosserei-ott.de

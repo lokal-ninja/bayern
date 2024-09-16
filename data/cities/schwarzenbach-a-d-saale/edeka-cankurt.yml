@@ -1,11 +1,11 @@
 id: 34665701
-type: way
+type: node
 latitude: 50.22056
 longitude: 11.93667
 postcode: "95126"
 city: Schwarzenbach a.d.Saale
-street: "Kirchenlamitzer Straße"
-housenumber: 8
+street: Kirchenlamitzer Straße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

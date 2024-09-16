@@ -1,11 +1,11 @@
 id: 114223495
-type: way
+type: node
 latitude: 48.65068
 longitude: 11.5859
 postcode: "85290"
 city: Geisenfeld
-street: "Eichelberg"
-housenumber: 8
-phone: "+49 8452 7355727;+49 160 96214481"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-16:00"
-website: "https://kfz-werkstatt-service-autotechnik-weiss-reichertshofenronnweg.autoreparaturen.de/"
+street: Eichelberg
+housenumber: "8"
+phone: +49 8452 7355727;+49 160 96214481
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-16:00
+website: https://kfz-werkstatt-service-autotechnik-weiss-reichertshofenronnweg.autoreparaturen.de/

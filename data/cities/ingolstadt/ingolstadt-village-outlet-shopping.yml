@@ -1,11 +1,11 @@
 id: 231526845
-type: way
+type: node
 latitude: 48.78247
 longitude: 11.4805
 postcode: "85055"
 city: Ingolstadt
-street: "Otto-Hahn-Straße"
-housenumber: 1
+street: Otto-Hahn-Straße
+housenumber: "1"
 phone: "+498418863100"
-opening_hours: "Mo-Sa 10:00-20:00; PH,Su off"
+opening_hours: Mo-Sa 10:00-20:00; PH,Su off
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.63006
 longitude: 12.49748
 postcode: "84130"
 city: Dingolfing
-street: "Lederergasse"
-housenumber: 19
-phone: "+49 8731 312204"
-opening_hours: "Tu-Fr 09:00-13:00,14:30-18:00; Sa 09:00-13:00"
-website: "http://haus-der-genuesse.de/"
+street: Lederergasse
+housenumber: "19"
+phone: +49 8731 312204
+opening_hours: Tu-Fr 09:00-13:00,14:30-18:00; Sa 09:00-13:00
+website: http://haus-der-genuesse.de/

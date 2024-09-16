@@ -1,11 +1,11 @@
 id: 476148629
-type: way
+type: node
 latitude: 48.99232
 longitude: 12.12149
 postcode: "93055"
 city: Regensburg
-street: "Prüller Weg"
-housenumber: 5
+street: Prüller Weg
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00, Sa 08:00-12:00"
-website: "https://www.bierschneider.de/"
+opening_hours: Mo-Fr 07:30-18:00, Sa 08:00-12:00
+website: https://www.bierschneider.de/

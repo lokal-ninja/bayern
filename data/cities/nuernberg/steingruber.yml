@@ -4,8 +4,8 @@ latitude: 49.43388
 longitude: 11.0483
 postcode: "90441"
 city: Nürnberg
-street: "Schweinauer Hauptstraße"
-housenumber: 27
+street: Schweinauer Hauptstraße
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Fr 05:30-18:00; Sa 05:30-13:00; Su,PH off"
-website: "https://steingruber.de"
+opening_hours: Mo-Fr 05:30-18:00; Sa 05:30-13:00; Su,PH off
+website: https://steingruber.de

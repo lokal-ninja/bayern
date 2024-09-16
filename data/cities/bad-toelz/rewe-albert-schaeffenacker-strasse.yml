@@ -1,11 +1,11 @@
 id: 107735796
-type: way
+type: node
 latitude: 47.75881
 longitude: 11.58559
 postcode: "83646"
 city: Bad Tölz
-street: "Albert-Schäffenacker-Straße"
-housenumber: 3
+street: Albert-Schäffenacker-Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

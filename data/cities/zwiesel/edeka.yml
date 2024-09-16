@@ -1,11 +1,11 @@
 id: 298983639
-type: way
+type: node
 latitude: 49.01001
 longitude: 13.23792
 postcode: "94227"
 city: Zwiesel
-street: "Hindenburgstraße"
-housenumber: 2
+street: Hindenburgstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-19:00"
+opening_hours: Mo-Sa 07:00-19:00
 website: ""

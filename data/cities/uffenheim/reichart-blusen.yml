@@ -4,8 +4,8 @@ latitude: 49.54041
 longitude: 10.23932
 postcode: ""
 city: Uffenheim
-street: "Bad Windsheimer Straße"
-housenumber: 3
-phone: "+49 (0)9842 - 98 13 0"
-opening_hours: "Tu-Fr 09:00-12:00"
-website: "https://www.reichart-blusen.de/"
+street: Bad Windsheimer Straße
+housenumber: "3"
+phone: +49 (0)9842 - 98 13 0
+opening_hours: Tu-Fr 09:00-12:00
+website: https://www.reichart-blusen.de/

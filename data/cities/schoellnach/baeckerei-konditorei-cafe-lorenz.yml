@@ -5,7 +5,7 @@ longitude: 13.21728
 postcode: "94508"
 city: Schöllnach
 street: ""
-housenumber: 32
-phone: "+49 9903 18 51"
-opening_hours: "Mo-Sa 06:00-11:00; Su 06:15-09:30"
-website: "https://www.baeckerei-lorenz.de/"
+housenumber: "32"
+phone: +49 9903 18 51
+opening_hours: Mo-Sa 06:00-11:00; Su 06:15-09:30
+website: https://www.baeckerei-lorenz.de/

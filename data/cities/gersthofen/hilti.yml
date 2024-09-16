@@ -1,11 +1,11 @@
 id: 96096487
-type: way
+type: node
 latitude: 48.41266
 longitude: 10.86986
 postcode: "86368"
 city: Gersthofen
-street: "Wernher-von-Braun-Straße"
-housenumber: 14
+street: Wernher-von-Braun-Straße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Th 07:30-16:30; Fr 07:30-14:00"
+opening_hours: Mo-Th 07:30-16:30; Fr 07:30-14:00
 website: ""

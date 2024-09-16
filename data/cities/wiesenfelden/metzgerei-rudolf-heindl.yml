@@ -4,8 +4,8 @@ latitude: 49.0397
 longitude: 12.54048
 postcode: "94344"
 city: Wiesenfelden
-street: "Oswaldstraße"
-housenumber: 9
-phone: "+49 9966 330"
-opening_hours: "Mo-We 06:00-15:00, Th, Sa 06:00-12:30, Fr 06:00-18:00"
-website: "https://www.metzgerei-heindl-wiesenfelden.de/"
+street: Oswaldstraße
+housenumber: "9"
+phone: +49 9966 330
+opening_hours: Mo-We 06:00-15:00, Th, Sa 06:00-12:30, Fr 06:00-18:00
+website: https://www.metzgerei-heindl-wiesenfelden.de/

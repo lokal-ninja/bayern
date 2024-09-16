@@ -1,11 +1,11 @@
 id: 260736991
-type: way
+type: node
 latitude: 50.03219
 longitude: 10.49943
 postcode: "97437"
 city: Haßfurt
-street: "Schweinfurter Straße"
-housenumber: 2
+street: Schweinfurter Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

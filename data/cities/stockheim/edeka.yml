@@ -1,11 +1,11 @@
 id: 129373903
-type: way
+type: node
 latitude: 50.29426
 longitude: 11.28639
 postcode: "96342"
 city: Stockheim
-street: "Industriestraße"
-housenumber: 14
+street: Industriestraße
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

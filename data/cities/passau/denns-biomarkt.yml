@@ -1,11 +1,11 @@
 id: 167619142
-type: way
+type: node
 latitude: 48.5749
 longitude: 13.41595
 postcode: "94036"
 city: Passau
-street: "Regensburger Straße"
-housenumber: 70
-phone: "+49 851 75638869"
-opening_hours: "Mo-Sa 08:00-20:00"
+street: Regensburger Straße
+housenumber: "70"
+phone: +49 851 75638869
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

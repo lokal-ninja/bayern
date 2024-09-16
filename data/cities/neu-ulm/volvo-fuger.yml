@@ -1,11 +1,11 @@
 id: 117264951
-type: way
+type: node
 latitude: 48.38422
 longitude: 10.02513
 postcode: "89231"
 city: Neu-Ulm
-street: "Dornierstraße"
-housenumber: 7
-phone: "+49 731 79241"
-opening_hours: "Mo-Th 08:00-12:00, 13:00-17:00; Fr 08:00-12:00, 13:00-15:00"
-website: "http://www.ah-fuger.de/"
+street: Dornierstraße
+housenumber: "7"
+phone: +49 731 79241
+opening_hours: Mo-Th 08:00-12:00, 13:00-17:00; Fr 08:00-12:00, 13:00-15:00
+website: http://www.ah-fuger.de/

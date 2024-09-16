@@ -1,11 +1,11 @@
 id: 1011867170
-type: way
+type: node
 latitude: 49.90951
 longitude: 9.15097
 postcode: "63834"
 city: Sulzbach am Main
-street: "Hauptstraße"
-housenumber: 10
+street: Hauptstraße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-We,Sa 07:00-13:00; Th,Fr 07:00-18:00"
+opening_hours: Mo-We,Sa 07:00-13:00; Th,Fr 07:00-18:00
 website: ""

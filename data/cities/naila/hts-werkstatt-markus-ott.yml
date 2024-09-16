@@ -1,11 +1,11 @@
 id: 72861013
-type: way
+type: node
 latitude: 50.32486
 longitude: 11.71174
 postcode: "95119"
 city: Naila
-street: "Wilhelm-Hagen-Straße"
-housenumber: 4
+street: Wilhelm-Hagen-Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

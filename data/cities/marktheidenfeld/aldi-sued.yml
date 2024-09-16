@@ -1,11 +1,11 @@
 id: 692590551
-type: way
+type: node
 latitude: 49.85337
 longitude: 9.60102
 postcode: "97828"
 city: Marktheidenfeld
-street: "Georg-Mayr-Straße"
-housenumber: 26
+street: Georg-Mayr-Straße
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://filialen.aldi-sued.de/bayern/marktheidenfeld/georg-mayr-strasse-26"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://filialen.aldi-sued.de/bayern/marktheidenfeld/georg-mayr-strasse-26

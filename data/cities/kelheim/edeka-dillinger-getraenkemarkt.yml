@@ -1,11 +1,11 @@
 id: 672131969
-type: way
+type: node
 latitude: 48.912
 longitude: 11.86919
 postcode: "93309"
 city: Kelheim
-street: "Alfons-Simonius-Straße"
-housenumber: 30
+street: Alfons-Simonius-Straße
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

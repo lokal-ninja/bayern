@@ -1,11 +1,11 @@
 id: 108506846
-type: way
+type: node
 latitude: 48.03594
 longitude: 10.49601
 postcode: ""
 city: Mindelheim
-street: "Fellhornstraße"
-housenumber: 13
+street: Fellhornstraße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

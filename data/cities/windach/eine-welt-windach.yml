@@ -4,8 +4,8 @@ latitude: 48.06797
 longitude: 11.03546
 postcode: "86949"
 city: Windach
-street: "Münchener Straße"
-housenumber: 2
-phone: "+49 1575 5701491"
-opening_hours: "Tu,Th,Fr 10:00-12:00,15:00-18:00; We,Sa 10:00-12:00"
-website: "https://www.eineweltwindach.de/laden/ladenEWW.html"
+street: Münchener Straße
+housenumber: "2"
+phone: +49 1575 5701491
+opening_hours: Tu,Th,Fr 10:00-12:00,15:00-18:00; We,Sa 10:00-12:00
+website: https://www.eineweltwindach.de/laden/ladenEWW.html

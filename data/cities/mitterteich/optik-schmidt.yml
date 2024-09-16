@@ -1,11 +1,11 @@
 id: 667112513
-type: way
+type: node
 latitude: 49.9509
 longitude: 12.24371
 postcode: "95666"
 city: Mitterteich
-street: "Unterer Marktplatz"
-housenumber: 2
+street: Unterer Marktplatz
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.schmidt-uhren-optik.de/"
+website: https://www.schmidt-uhren-optik.de/

@@ -4,8 +4,8 @@ latitude: 48.40188
 longitude: 11.74956
 postcode: "85354"
 city: Freising
-street: "Angerbadergasse"
-housenumber: 6
-phone: "+49-8161-83606"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00; Su,PH off"
+street: Angerbadergasse
+housenumber: "6"
+phone: +49-8161-83606
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-16:00; Su,PH off
 website: ""

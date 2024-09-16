@@ -4,8 +4,8 @@ latitude: 49.5691
 longitude: 10.88049
 postcode: "91074"
 city: Herzogenaurach
-street: "Hauptstraße"
-housenumber: 43
-phone: "+49 9132 2211"
-opening_hours: "Mo off; Tu-Fr 09:30-18:00; Sa 09:00-13:00"
-website: "https://www.parfuemerie-cb.de/filiale-herzogenaurach"
+street: Hauptstraße
+housenumber: "43"
+phone: +49 9132 2211
+opening_hours: Mo off; Tu-Fr 09:30-18:00; Sa 09:00-13:00
+website: https://www.parfuemerie-cb.de/filiale-herzogenaurach

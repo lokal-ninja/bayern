@@ -1,11 +1,11 @@
 id: 151544420
-type: way
+type: node
 latitude: 48.53808
 longitude: 10.99507
 postcode: "86574"
 city: Petersdorf
-street: "Axtstraße"
-housenumber: 26
+street: Axtstraße
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

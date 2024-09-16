@@ -1,11 +1,11 @@
 id: 704703252
-type: way
+type: node
 latitude: 48.98842
 longitude: 12.24079
 postcode: "93098"
 city: Mintraching
-street: "Germanenstraße"
-housenumber: 3
-phone: "+49 9406 958524 0"
-opening_hours: "Mo-Th 07:00-12:00, 13:00-18:00; Fr 07:00-12:00,, 13:00-17:00"
-website: "https://www.kfz-wild.com/"
+street: Germanenstraße
+housenumber: "3"
+phone: +49 9406 958524 0
+opening_hours: Mo-Th 07:00-12:00, 13:00-18:00; Fr 07:00-12:00,, 13:00-17:00
+website: https://www.kfz-wild.com/

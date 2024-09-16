@@ -1,11 +1,11 @@
 id: 234701156
-type: way
+type: node
 latitude: 48.40032
 longitude: 10.87121
 postcode: "86154"
 city: Augsburg
-street: "Krumbacher Straße"
-housenumber: 9
+street: Krumbacher Straße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 96096518
-type: way
+type: node
 latitude: 48.41105
 longitude: 10.87427
 postcode: "86368"
 city: Gersthofen
-street: "Ziegeleistraße"
-housenumber: 15
-phone: "+49 821 4970647"
+street: Ziegeleistraße
+housenumber: "15"
+phone: +49 821 4970647
 opening_hours: ""
 website: ""

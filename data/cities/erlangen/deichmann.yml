@@ -1,11 +1,11 @@
 id: 193934800
-type: way
+type: node
 latitude: 49.59293
 longitude: 11.0036
 postcode: "91052"
 city: Erlangen
-street: "Nürnberger Straße"
-housenumber: 7
-phone: "+49 9131 897514"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://www.deichmann.com/"
+street: Nürnberger Straße
+housenumber: "7"
+phone: +49 9131 897514
+opening_hours: Mo-Sa 09:30-20:00
+website: https://www.deichmann.com/

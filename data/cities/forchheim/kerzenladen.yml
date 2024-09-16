@@ -4,8 +4,8 @@ latitude: 49.71983
 longitude: 11.05682
 postcode: "91301"
 city: Forchheim
-street: "St.-Martin-Straße"
-housenumber: 11
-phone: "+49 9191 640114"
-opening_hours: "Offen nach Terminvereinbarung 0170 7610388"
-website: "https://www.kerzenladen.com/"
+street: St.-Martin-Straße
+housenumber: "11"
+phone: +49 9191 640114
+opening_hours: '"Offen nach Terminvereinbarung 0170 7610388"'
+website: https://www.kerzenladen.com/

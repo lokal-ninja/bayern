@@ -1,11 +1,11 @@
 id: 97679843
-type: way
+type: node
 latitude: 48.3695
 longitude: 11.3847
 postcode: "85229"
 city: Markt Indersdorf
-street: "Glonntalstraße"
-housenumber: 29
+street: Glonntalstraße
+housenumber: "29"
 phone: ""
 opening_hours: ""
-website: "https://www.autohaus-schmeller.de/neu/"
+website: https://www.autohaus-schmeller.de/neu/

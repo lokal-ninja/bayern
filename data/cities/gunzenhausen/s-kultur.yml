@@ -4,8 +4,8 @@ latitude: 49.11443
 longitude: 10.75449
 postcode: "91710"
 city: Gunzenhausen
-street: "Marktplatz"
-housenumber: 27
-phone: "+49 9831 2528"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-14:00"
-website: "http://www.skultur-gunzenhausen.de/"
+street: Marktplatz
+housenumber: "27"
+phone: +49 9831 2528
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-14:00
+website: http://www.skultur-gunzenhausen.de/

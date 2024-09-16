@@ -1,11 +1,11 @@
 id: 159339558
-type: way
+type: node
 latitude: 47.56939
 longitude: 10.66767
 postcode: "87629"
 city: Füssen
-street: "Hiebelerstraße"
-housenumber: 65
+street: Hiebelerstraße
+housenumber: "65"
 phone: ""
 opening_hours: ""
-website: "https://www.autohaus-heuberger.de/"
+website: https://www.autohaus-heuberger.de/

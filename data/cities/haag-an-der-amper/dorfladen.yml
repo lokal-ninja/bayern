@@ -4,8 +4,9 @@ latitude: 48.45881
 longitude: 11.83211
 postcode: "85410"
 city: Haag an der Amper
-street: "Pfarrer-Weingand-Straße"
-housenumber: 2
-phone: "+49 8167 9898120"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-12:00; Su,PH off; Aug 05-Aug 31: Mo 07:00-13:00,15:00-18:00; Tu-Fr 08:00-13:00,15:00-18:00; Sa 07:00-12:00"
-website: "https://dorfladen-haag.de/"
+street: Pfarrer-Weingand-Straße
+housenumber: "2"
+phone: +49 8167 9898120
+opening_hours: 'Mo-Fr 07:00-18:00; Sa 07:00-12:00; Su,PH off; Aug 05-Aug 31: Mo 07:00-13:00,15:00-18:00;
+    Tu-Fr 08:00-13:00,15:00-18:00; Sa 07:00-12:00'
+website: https://dorfladen-haag.de/

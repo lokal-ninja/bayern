@@ -1,11 +1,11 @@
 id: 199021225
-type: way
+type: node
 latitude: 48.58399
 longitude: 10.47962
 postcode: "89407"
 city: Dillingen a.d.Donau
-street: "Otto-Brenner-Straße"
-housenumber: 2
+street: Otto-Brenner-Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "http://www.friese-ersatzteile.de/"
+website: http://www.friese-ersatzteile.de/

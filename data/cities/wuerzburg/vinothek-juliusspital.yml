@@ -4,8 +4,8 @@ latitude: 49.79886
 longitude: 9.93221
 postcode: "97070"
 city: Würzburg
-street: "Klinikstraße"
-housenumber: 1
-phone: "+49 931 3931450"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.juliusspital-weingut.de/besuch/vinothek/index.html"
+street: Klinikstraße
+housenumber: "1"
+phone: +49 931 3931450
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.juliusspital-weingut.de/besuch/vinothek/index.html

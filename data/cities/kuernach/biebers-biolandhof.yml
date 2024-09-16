@@ -4,8 +4,8 @@ latitude: 49.84498
 longitude: 10.03741
 postcode: "97273"
 city: Kürnach
-street: "Semmelstraße"
-housenumber: 31
-phone: "+49-9367-2983"
-opening_hours: "Mo,Th 17:00-19:00; Tu,Fr 10:00-12:00,17:00-19:00; Sa 10:00-13:00"
+street: Semmelstraße
+housenumber: "31"
+phone: +49-9367-2983
+opening_hours: Mo,Th 17:00-19:00; Tu,Fr 10:00-12:00,17:00-19:00; Sa 10:00-13:00
 website: ""

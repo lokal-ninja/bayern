@@ -1,11 +1,11 @@
 id: 24641454
-type: way
+type: node
 latitude: 49.45454
 longitude: 11.29776
 postcode: "91227"
 city: Leinburg
-street: "Kalkofenstraße"
-housenumber: 2
-phone: "+49 9120 1804 12"
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+street: Kalkofenstraße
+housenumber: "2"
+phone: +49 9120 1804 12
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

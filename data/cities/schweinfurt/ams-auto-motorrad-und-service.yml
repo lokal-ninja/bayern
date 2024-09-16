@@ -1,11 +1,11 @@
 id: 37488910
-type: way
+type: node
 latitude: 50.03776
 longitude: 10.23581
 postcode: "97424"
 city: Schweinfurt
-street: "Carl-Zeiss-Straße"
-housenumber: 6
-phone: "+49 9721 77310"
-opening_hours: "Mo-Fr 08:00-18:30; Sa 09:00-17:00"
-website: "https://ams-schweinfurt.de/"
+street: Carl-Zeiss-Straße
+housenumber: "6"
+phone: +49 9721 77310
+opening_hours: Mo-Fr 08:00-18:30; Sa 09:00-17:00
+website: https://ams-schweinfurt.de/

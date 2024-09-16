@@ -1,11 +1,11 @@
 id: 375094827
-type: way
+type: node
 latitude: 48.95181
 longitude: 10.60362
 postcode: "86732"
 city: Oettingen i.Bay.
-street: "Schloßstraße"
-housenumber: 45
-phone: "+49 9082 2659"
-opening_hours: "Mo-Fr 08:30-12:15,14:00-18:00; Sa 08:30-12:30"
+street: Schloßstraße
+housenumber: "45"
+phone: +49 9082 2659
+opening_hours: Mo-Fr 08:30-12:15,14:00-18:00; Sa 08:30-12:30
 website: ""

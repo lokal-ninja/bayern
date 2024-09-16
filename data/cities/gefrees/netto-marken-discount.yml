@@ -1,11 +1,11 @@
 id: 140448563
-type: way
+type: node
 latitude: 50.09404
 longitude: 11.72871
 postcode: "95482"
 city: Gefrees
-street: "Bayreuther Straße"
-housenumber: 6
+street: Bayreuther Straße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
+opening_hours: Mo-Sa 07:00-20:00; PH off
 website: ""

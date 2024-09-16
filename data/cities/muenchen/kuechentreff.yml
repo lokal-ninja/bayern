@@ -4,8 +4,8 @@ latitude: 48.19262
 longitude: 11.59813
 postcode: ""
 city: München
-street: "Maria-Probst-Straße"
-housenumber: 22
-phone: "+49 89 37001780"
+street: Maria-Probst-Straße
+housenumber: "22"
+phone: +49 89 37001780
 opening_hours: ""
-website: "http://www.kuechentreff-dahoam.de/"
+website: http://www.kuechentreff-dahoam.de/

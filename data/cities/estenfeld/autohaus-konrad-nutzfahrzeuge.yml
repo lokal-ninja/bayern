@@ -1,11 +1,11 @@
 id: 1184516463
-type: way
+type: node
 latitude: 49.8401
 longitude: 10.01192
 postcode: "97230"
 city: Estenfeld
-street: "Otto-Hahn-Straße"
-housenumber: 24
+street: Otto-Hahn-Straße
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

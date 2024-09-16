@@ -4,8 +4,8 @@ latitude: 49.44516
 longitude: 11.83104
 postcode: "92224"
 city: Amberg
-street: "Fuggerstraße"
-housenumber: 24
-phone: "+49 9621 250988"
-opening_hours: "Mo-Fr 08:30-19:00; Sa 08:30-18:00; PH off"
-website: "https://www.brunnerbaecker.de/"
+street: Fuggerstraße
+housenumber: "24"
+phone: +49 9621 250988
+opening_hours: Mo-Fr 08:30-19:00; Sa 08:30-18:00; PH off
+website: https://www.brunnerbaecker.de/

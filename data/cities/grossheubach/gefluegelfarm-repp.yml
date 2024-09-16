@@ -4,8 +4,8 @@ latitude: 49.71393
 longitude: 9.23882
 postcode: "63920"
 city: Großheubach
-street: "Auweg"
-housenumber: 25
+street: Auweg
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
-website: "https://www.repps-frischeinudeln.de/"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00
+website: https://www.repps-frischeinudeln.de/

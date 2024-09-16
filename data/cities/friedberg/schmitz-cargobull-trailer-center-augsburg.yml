@@ -1,11 +1,11 @@
 id: 313014268
-type: way
+type: node
 latitude: 48.41092
 longitude: 10.95282
 postcode: "86316"
 city: Friedberg
-street: "Winterbruckenweg"
-housenumber: 27
+street: Winterbruckenweg
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

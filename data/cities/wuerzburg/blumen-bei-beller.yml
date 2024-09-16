@@ -1,11 +1,11 @@
 id: 1250345360
-type: way
+type: node
 latitude: 49.79428
 longitude: 9.9298
 postcode: "97070"
 city: Würzburg
-street: "Unterer Markt"
-housenumber: 
-phone: "+49 931 54739"
-opening_hours: "Mo-We 09:00-18:00; Th 08:00-18:00; Fr 08:00-18:00; Sa 08:00-16:00"
-website: "http://www.blumenbeibeller.de"
+street: Unterer Markt
+housenumber: ""
+phone: +49 931 54739
+opening_hours: Mo-We 09:00-18:00; Th 08:00-18:00; Fr 08:00-18:00; Sa 08:00-16:00
+website: http://www.blumenbeibeller.de

@@ -4,8 +4,8 @@ latitude: 47.75223
 longitude: 11.37721
 postcode: "82377"
 city: Penzberg
-street: "Bahnhofstraße"
-housenumber: 32
-phone: "+49 8856 8020660"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:30-12:30; PH off"
-website: "https://www.sanitaetshaus-erdmann.de/"
+street: Bahnhofstraße
+housenumber: "32"
+phone: +49 8856 8020660
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:30-12:30; PH off
+website: https://www.sanitaetshaus-erdmann.de/

@@ -1,11 +1,11 @@
 id: 99289384
-type: way
+type: node
 latitude: 47.80968
 longitude: 10.87548
 postcode: "86956"
 city: Schongau
-street: "Bernbeurener Straße"
-housenumber: 11
+street: Bernbeurener Straße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

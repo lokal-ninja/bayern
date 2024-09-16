@@ -4,8 +4,8 @@ latitude: 49.4491
 longitude: 11.07168
 postcode: "90402"
 city: Nürnberg
-street: "Jakobstraße"
-housenumber: 40
+street: Jakobstraße
+housenumber: "40"
 phone: "+491727268843"
-opening_hours: "by appointment"
+opening_hours: '"by appointment"'
 website: ""

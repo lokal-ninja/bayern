@@ -4,8 +4,8 @@ latitude: 47.86431
 longitude: 12.00836
 postcode: "83043"
 city: Bad Aibling
-street: "Bahnhofstraße"
-housenumber: 2
+street: Bahnhofstraße
+housenumber: "2"
 phone: ""
-opening_hours: "nach Vereinbarung"
-website: "https://lovecouture.de/"
+opening_hours: '"nach Vereinbarung"'
+website: https://lovecouture.de/

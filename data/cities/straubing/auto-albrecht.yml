@@ -1,11 +1,11 @@
 id: 291235238
-type: way
+type: node
 latitude: 48.88517
 longitude: 12.59494
 postcode: "94315"
 city: Straubing
-street: "Schlesische Straße"
-housenumber: 17
-phone: "+49 9421 60782"
-opening_hours: "Mo-Fr 08:00-12:00,13:00-18:00; Sa 08:00-12:00"
-website: "https://www.skoda-albrecht.de/"
+street: Schlesische Straße
+housenumber: "17"
+phone: +49 9421 60782
+opening_hours: Mo-Fr 08:00-12:00,13:00-18:00; Sa 08:00-12:00
+website: https://www.skoda-albrecht.de/

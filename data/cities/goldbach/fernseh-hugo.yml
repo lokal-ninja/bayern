@@ -1,11 +1,11 @@
 id: 150445389
-type: way
+type: node
 latitude: 49.99512
 longitude: 9.1766
 postcode: "63773"
 city: Goldbach
-street: "Aschaffenburger Straße"
+street: Aschaffenburger Straße
 housenumber: 16a
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 08:00-12:00,13:30-18:00; We 08:00-12:00; Sa 09:00-13:00"
+opening_hours: Mo,Tu,Th,Fr 08:00-12:00,13:30-18:00; We 08:00-12:00; Sa 09:00-13:00
 website: ""

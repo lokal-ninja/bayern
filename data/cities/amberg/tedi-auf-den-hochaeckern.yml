@@ -1,11 +1,11 @@
 id: 781749957
-type: way
+type: node
 latitude: 49.43216
 longitude: 11.88647
 postcode: "92224"
 city: Amberg
-street: "Auf den Hochäckern"
-housenumber: 1
+street: Auf den Hochäckern
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

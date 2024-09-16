@@ -4,8 +4,8 @@ latitude: 49.30225
 longitude: 10.57243
 postcode: "91522"
 city: Ansbach
-street: "Uzstraße"
-housenumber: 5
+street: Uzstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-16:00"
-website: "https://www.rummel-mode.de/"
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-16:00
+website: https://www.rummel-mode.de/

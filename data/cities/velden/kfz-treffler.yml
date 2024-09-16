@@ -1,11 +1,11 @@
 id: 162416581
-type: way
+type: node
 latitude: 48.3657
 longitude: 12.25907
 postcode: "84149"
 city: Velden
-street: "Vilsbiburger Straße"
-housenumber: 9
-phone: "+49 8742 96770"
+street: Vilsbiburger Straße
+housenumber: "9"
+phone: +49 8742 96770
 opening_hours: ""
-website: "https://www.kfz-treffler.de"
+website: https://www.kfz-treffler.de

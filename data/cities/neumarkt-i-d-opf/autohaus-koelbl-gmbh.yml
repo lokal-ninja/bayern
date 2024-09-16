@@ -1,11 +1,11 @@
 id: 575289897
-type: way
+type: node
 latitude: 49.2642
 longitude: 11.4468
 postcode: "92318"
 city: Neumarkt i.d.OPf
-street: "Münchener Ring"
-housenumber: 5
+street: Münchener Ring
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

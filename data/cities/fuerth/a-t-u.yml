@@ -1,11 +1,11 @@
 id: 146604937
-type: way
+type: node
 latitude: 49.4837
 longitude: 10.96501
 postcode: "90766"
 city: Fürth
-street: "Würzburger Straße"
-housenumber: 128
+street: Würzburger Straße
+housenumber: "128"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:30; Sa 08:00-15:00"
+opening_hours: Mo-Fr 07:30-18:30; Sa 08:00-15:00
 website: ""

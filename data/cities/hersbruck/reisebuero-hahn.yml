@@ -4,8 +4,8 @@ latitude: 49.50915
 longitude: 11.42896
 postcode: "91217"
 city: Hersbruck
-street: "Oberer Markt"
-housenumber: 2
+street: Oberer Markt
+housenumber: "2"
 phone: "+49915181800"
-opening_hours: "Mo-Fr 10:00-13:00,14:00-17:30; We 10:00-13:00; Sa 10:00-12:30"
-website: "http://www.hahntravel.de/"
+opening_hours: Mo-Fr 10:00-13:00,14:00-17:30; We 10:00-13:00; Sa 10:00-12:30
+website: http://www.hahntravel.de/

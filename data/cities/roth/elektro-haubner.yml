@@ -1,11 +1,11 @@
 id: 123723235
-type: way
+type: node
 latitude: 49.24582
 longitude: 11.09184
 postcode: ""
 city: Roth
-street: "Kugelbühlstraße"
-housenumber: 9
+street: Kugelbühlstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

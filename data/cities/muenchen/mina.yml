@@ -4,8 +4,8 @@ latitude: 48.11323
 longitude: 11.58758
 postcode: "81539"
 city: München
-street: "Untersbergstraße"
-housenumber: 22
+street: Untersbergstraße
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-17:00"
+opening_hours: Mo-Fr 10:00-20:00; Sa 10:00-17:00
 website: ""

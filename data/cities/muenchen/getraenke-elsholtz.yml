@@ -4,8 +4,8 @@ latitude: 48.15511
 longitude: 11.56487
 postcode: "80798"
 city: München
-street: "Schwindstraße"
-housenumber: 32
+street: Schwindstraße
+housenumber: "32"
 phone: ""
-opening_hours: "PH,Su off; Mo-Sa 09:00-19:00"
+opening_hours: PH,Su off; Mo-Sa 09:00-19:00
 website: ""

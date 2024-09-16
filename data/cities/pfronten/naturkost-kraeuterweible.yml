@@ -4,8 +4,8 @@ latitude: 47.58389
 longitude: 10.55827
 postcode: "87459"
 city: Pfronten
-street: "Theaterstraße"
-housenumber: 2
+street: Theaterstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
-website: "https://www.naturkost-kraeuterweible.de/"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00
+website: https://www.naturkost-kraeuterweible.de/

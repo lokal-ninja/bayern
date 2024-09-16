@@ -1,11 +1,11 @@
 id: 263964282
-type: way
+type: node
 latitude: 47.82758
 longitude: 12.48277
 postcode: "83236"
 city: Übersee
-street: "Feldwieser Straße"
-housenumber: 54
+street: Feldwieser Straße
+housenumber: "54"
 phone: ""
 opening_hours: ""
 website: ""

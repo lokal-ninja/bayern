@@ -4,8 +4,8 @@ latitude: 48.36551
 longitude: 10.90164
 postcode: "86150"
 city: Augsburg
-street: "Vorderer Lech"
-housenumber: 43
+street: Vorderer Lech
+housenumber: "43"
 phone: "+4982120918416"
-opening_hours: "Tu-Fr 13:30-18:30,Sa 11:00-18:00"
-website: "https://www.create-and-play.de/"
+opening_hours: Tu-Fr 13:30-18:30,Sa 11:00-18:00
+website: https://www.create-and-play.de/

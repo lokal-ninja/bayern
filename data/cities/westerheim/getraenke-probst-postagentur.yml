@@ -1,11 +1,12 @@
 id: 129552765
-type: way
+type: node
 latitude: 48.01293
 longitude: 10.30325
 postcode: "87784"
 city: Westerheim
-street: "Hauptstraße"
-housenumber: 72
+street: Hauptstraße
+housenumber: "72"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 08:00-10:00,15:30-18:30; We 08:00-09:00,15:30-18:30; Sa 08:00-12:00"
+opening_hours: Mo,Tu,Th,Fr 08:00-10:00,15:30-18:30; We 08:00-09:00,15:30-18:30; Sa
+    08:00-12:00
 website: ""

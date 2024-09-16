@@ -1,11 +1,11 @@
 id: 647891452
-type: way
+type: node
 latitude: 48.99402
 longitude: 12.11095
 postcode: "93053"
 city: Regensburg
-street: "Johann-Hösl-Straße"
-housenumber: 1
+street: Johann-Hösl-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:30-20:00"
-website: "https://filialen.aldi-sued.de/bayern/regensburg/johann-hoesl-strasse-1"
+opening_hours: Mo-Sa 07:30-20:00
+website: https://filialen.aldi-sued.de/bayern/regensburg/johann-hoesl-strasse-1

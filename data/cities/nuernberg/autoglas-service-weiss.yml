@@ -1,11 +1,11 @@
 id: 93110778
-type: way
+type: node
 latitude: 49.44795
 longitude: 11.03972
 postcode: "90431"
 city: Nürnberg
-street: "Witschelstraße"
-housenumber: 
+street: Witschelstraße
+housenumber: ""
 phone: "+49911324110"
 opening_hours: ""
-website: "https://www.autoglas-weiss.de/"
+website: https://www.autoglas-weiss.de/

@@ -4,8 +4,8 @@ latitude: 48.19252
 longitude: 11.25038
 postcode: "82256"
 city: Fürstenfeldbruck
-street: "Rudolf-Diesel-Ring"
-housenumber: 3
-phone: "+49 81 41 50 14 30"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-12:00; Su 08:00-11:00"
-website: "https://www.max-wimmer.de/"
+street: Rudolf-Diesel-Ring
+housenumber: "3"
+phone: +49 81 41 50 14 30
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-12:00; Su 08:00-11:00
+website: https://www.max-wimmer.de/

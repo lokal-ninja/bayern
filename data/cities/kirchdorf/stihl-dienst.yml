@@ -5,7 +5,7 @@ longitude: 12.20103
 postcode: "83527"
 city: Kirchdorf
 street: ""
-housenumber: 3
-phone: "+49 8072 1334"
+housenumber: "3"
+phone: +49 8072 1334
 opening_hours: ""
-website: "http://www.motorsägendoktor.de"
+website: http://www.motorsägendoktor.de

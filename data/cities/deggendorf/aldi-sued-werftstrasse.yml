@@ -1,11 +1,11 @@
 id: 97478105
-type: way
+type: node
 latitude: 48.82894
 longitude: 12.95941
 postcode: "94469"
 city: Deggendorf
-street: "Werftstraße"
-housenumber: 32
+street: Werftstraße
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://filialen.aldi-sued.de/bayern/deggendorf/werftstrasse-32"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://filialen.aldi-sued.de/bayern/deggendorf/werftstrasse-32

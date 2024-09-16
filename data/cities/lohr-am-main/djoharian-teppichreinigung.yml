@@ -4,8 +4,8 @@ latitude: 49.99507
 longitude: 9.56936
 postcode: "97816"
 city: Lohr am Main
-street: "Ludwigstraße"
-housenumber: 21
-phone: "+49 9352 80382"
-opening_hours: "Mo-Tu, Th-Fr 10:00-18:00; Sa 10:00-13:00"
-website: "http://artoriental.de/"
+street: Ludwigstraße
+housenumber: "21"
+phone: +49 9352 80382
+opening_hours: Mo-Tu, Th-Fr 10:00-18:00; Sa 10:00-13:00
+website: http://artoriental.de/

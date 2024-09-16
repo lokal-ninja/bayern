@@ -4,8 +4,9 @@ latitude: 48.15685
 longitude: 11.57464
 postcode: "80796"
 city: München
-street: "Elisabethplatz"
-housenumber: 
+street: Elisabethplatz
+housenumber: ""
 phone: ""
-opening_hours: "Die Öffnungszeiten sind noch nicht festgelegt, derzeit werktäglich circa stätestens ab 10:00-18:00 Uhr"
+opening_hours: '"Die Öffnungszeiten sind noch nicht festgelegt, derzeit werktäglich
+    circa stätestens ab 10:00-18:00 Uhr"'
 website: ""

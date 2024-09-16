@@ -1,11 +1,11 @@
 id: 229226944
-type: way
+type: node
 latitude: 49.43925
 longitude: 11.0955
 postcode: ""
 city: Nürnberg
-street: "Holzgartenstraße"
-housenumber: 24
+street: Holzgartenstraße
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

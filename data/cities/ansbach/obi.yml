@@ -1,11 +1,11 @@
 id: 59208785
-type: way
+type: node
 latitude: 49.29914
 longitude: 10.549
 postcode: "91522"
 city: Ansbach
-street: "Am Reiterzentrum"
-housenumber: 8
+street: Am Reiterzentrum
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

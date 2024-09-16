@@ -4,8 +4,8 @@ latitude: 48.16939
 longitude: 11.32268
 postcode: "82223"
 city: Eichenau
-street: "Hauptstraße"
-housenumber: 26
+street: Hauptstraße
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:30,14:30-18:00; Sa 08:00-12:30"
-website: "https://www.hofpfisterei.de/"
+opening_hours: Mo-Fr 08:00-12:30,14:30-18:00; Sa 08:00-12:30
+website: https://www.hofpfisterei.de/

@@ -1,11 +1,11 @@
 id: 442894617
-type: way
+type: node
 latitude: 50.05525
 longitude: 12.17674
 postcode: "95659"
 city: Arzberg
-street: "Marktredwitzer Straße"
-housenumber: 38
-phone: "+49 9233 6307"
-opening_hours: "Mo-Sa 7:00-20:00"
+street: Marktredwitzer Straße
+housenumber: "38"
+phone: +49 9233 6307
+opening_hours: Mo-Sa 7:00-20:00
 website: ""

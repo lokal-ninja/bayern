@@ -1,11 +1,11 @@
 id: 163737838
-type: way
+type: node
 latitude: 49.46425
 longitude: 10.98715
 postcode: "90763"
 city: Fürth
-street: "Schwabacher Straße"
-housenumber: 137
+street: Schwabacher Straße
+housenumber: "137"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

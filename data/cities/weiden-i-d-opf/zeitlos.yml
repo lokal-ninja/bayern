@@ -4,8 +4,8 @@ latitude: 49.67806
 longitude: 12.16685
 postcode: "92637"
 city: Weiden i.d.OPf.
-street: "Sebastianstraße"
-housenumber: 9
-phone: "+49 961 4701611"
-opening_hours: "Mo-We 16:30-19:00; Th,Fr 15:00-19:00; Sa 12:00-17:00; Su off"
-website: "http://www.sattwa.de"
+street: Sebastianstraße
+housenumber: "9"
+phone: +49 961 4701611
+opening_hours: Mo-We 16:30-19:00; Th,Fr 15:00-19:00; Sa 12:00-17:00; Su off
+website: http://www.sattwa.de

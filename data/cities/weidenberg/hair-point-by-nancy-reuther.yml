@@ -4,8 +4,8 @@ latitude: 49.94157
 longitude: 11.72287
 postcode: "95466"
 city: Weidenberg
-street: "Bahnhofstraße"
-housenumber: 4
-phone: "+49 9278 774535"
-opening_hours: "Di-Sa 08:30-13:00, Do-Fr 14:00-18:00"
-website: "https://www.hairpoint-weidenberg.de/"
+street: Bahnhofstraße
+housenumber: "4"
+phone: +49 9278 774535
+opening_hours: Di-Sa 08:30-13:00, Do-Fr 14:00-18:00
+website: https://www.hairpoint-weidenberg.de/

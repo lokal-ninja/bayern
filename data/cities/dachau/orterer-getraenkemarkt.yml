@@ -1,11 +1,11 @@
 id: 36999384
-type: way
+type: node
 latitude: 48.26692
 longitude: 11.43964
 postcode: "85221"
 city: Dachau
-street: "Freisinger Straße"
-housenumber: 57
-phone: "+49 8131 351346"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"
-website: "https://www.orterer.de/"
+street: Freisinger Straße
+housenumber: "57"
+phone: +49 8131 351346
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00
+website: https://www.orterer.de/

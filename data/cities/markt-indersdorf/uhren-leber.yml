@@ -1,11 +1,11 @@
 id: 244951907
-type: way
+type: node
 latitude: 48.36267
 longitude: 11.37608
 postcode: "85229"
 city: Markt Indersdorf
-street: "Freisinger Straße"
-housenumber: 21
+street: Freisinger Straße
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

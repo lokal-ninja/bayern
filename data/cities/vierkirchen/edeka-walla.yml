@@ -4,8 +4,8 @@ latitude: 48.3607
 longitude: 11.4439
 postcode: "85256"
 city: Vierkirchen
-street: "Indersdorfer Straße"
-housenumber: 66
-phone: "+49 8139 801440"
-opening_hours: "Mo-Sa 7:00-20:00"
-website: "https://edeka-walla.de/"
+street: Indersdorfer Straße
+housenumber: "66"
+phone: +49 8139 801440
+opening_hours: Mo-Sa 7:00-20:00
+website: https://edeka-walla.de/

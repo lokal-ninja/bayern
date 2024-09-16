@@ -4,8 +4,8 @@ latitude: 49.72103
 longitude: 11.05882
 postcode: "91301"
 city: Forchheim
-street: "Hauptstraße"
-housenumber: 1
+street: Hauptstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-14:00; PH off"
-website: "https://www.friseursalon-forchheim.de/"
+opening_hours: Tu-Fr 09:00-18:00; Sa 09:00-14:00; PH off
+website: https://www.friseursalon-forchheim.de/

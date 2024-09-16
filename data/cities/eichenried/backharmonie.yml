@@ -4,8 +4,9 @@ latitude: 48.27675
 longitude: 11.79253
 postcode: "85452"
 city: Eichenried
-street: "Hauptstraße"
-housenumber: 6
+street: Hauptstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo, Di, Fr, 6:00-11:00 und 14:00-18:00; Mi, 6:00-11:00; Sa, 7:00-12:00; So, 8:00-11:00"
+opening_hours: Mo, Di, Fr, 6:00-11:00 und 14:00-18:00; Mi, 6:00-11:00; Sa, 7:00-12:00;
+    So, 8:00-11:00
 website: ""

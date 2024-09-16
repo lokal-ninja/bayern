@@ -1,11 +1,11 @@
 id: 327395439
-type: way
+type: node
 latitude: 48.83929
 longitude: 10.84782
 postcode: "86653"
 city: Monheim
-street: "Donauwörther Straße"
-housenumber: 48
+street: Donauwörther Straße
+housenumber: "48"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

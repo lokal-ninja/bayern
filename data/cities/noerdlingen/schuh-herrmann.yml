@@ -1,11 +1,11 @@
 id: 87018367
-type: way
+type: node
 latitude: 48.85184
 longitude: 10.49449
 postcode: "86720"
 city: Nördlingen
-street: "Wemdinger Straße"
-housenumber: 4
+street: Wemdinger Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.58292
 longitude: 10.56195
 postcode: "87459"
 city: Pfronten
-street: "Meilinger Straße"
-housenumber: 12
+street: Meilinger Straße
+housenumber: "12"
 phone: ""
-opening_hours: "nach Vereinbarung"
-website: "https://www.atelier-farbkraft.com/"
+opening_hours: '"nach Vereinbarung"'
+website: https://www.atelier-farbkraft.com/

@@ -4,8 +4,8 @@ latitude: 48.14359
 longitude: 11.61795
 postcode: "81677"
 city: München
-street: "Buschingstraße"
-housenumber: 4
-phone: "+49 89 470 54 52"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 09:00-13:00"
-website: "https://www.hundesalon-popp.de"
+street: Buschingstraße
+housenumber: "4"
+phone: +49 89 470 54 52
+opening_hours: Mo-Fr 10:00-18:00; Sa 09:00-13:00
+website: https://www.hundesalon-popp.de

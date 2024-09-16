@@ -4,8 +4,8 @@ latitude: 47.5685
 longitude: 10.68456
 postcode: "87629"
 city: Füssen
-street: "Kemptener Straße"
-housenumber: 66
+street: Kemptener Straße
+housenumber: "66"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00"
-website: "http://www.norma-online.de/"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-20:00
+website: http://www.norma-online.de/

@@ -4,8 +4,8 @@ latitude: 48.14571
 longitude: 11.57275
 postcode: "80333"
 city: München
-street: "Türkenstraße"
-housenumber: 11
-phone: "+49 89 30 72 81 07"
-opening_hours: "Tu-Fr 13:00-18:00; Sa 11:00-15:00"
-website: "https://www.galerie-bender.de/"
+street: Türkenstraße
+housenumber: "11"
+phone: +49 89 30 72 81 07
+opening_hours: Tu-Fr 13:00-18:00; Sa 11:00-15:00
+website: https://www.galerie-bender.de/

@@ -1,11 +1,11 @@
 id: 785975000
-type: way
+type: node
 latitude: 48.02361
 longitude: 12.22675
 postcode: "83549"
 city: Eiselfing
-street: "Thalham"
-housenumber: 15
+street: Thalham
+housenumber: "15"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

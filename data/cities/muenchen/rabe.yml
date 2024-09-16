@@ -4,8 +4,8 @@ latitude: 48.13539
 longitude: 11.57501
 postcode: "80331"
 city: München
-street: "Rosental"
-housenumber: 7
+street: Rosental
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-18:00"
-website: "https://rabefashion.com/de-de"
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-18:00
+website: https://rabefashion.com/de-de

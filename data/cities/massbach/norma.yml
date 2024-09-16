@@ -1,11 +1,11 @@
 id: 123092030
-type: way
+type: node
 latitude: 50.1773
 longitude: 10.27902
 postcode: "97711"
 city: Maßbach
-street: "Volkershausener Straße"
-housenumber: 46
+street: Volkershausener Straße
+housenumber: "46"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.36929
 longitude: 10.19012
 postcode: "91541"
 city: Rothenburg ob der Tauber
-street: "Dr.-Bühler-Straße"
-housenumber: 2
-phone: "+49-9861-4842"
-opening_hours: "Mo-Fr 08:00-13:00,14:00-18:00; Sa,Su off"
-website: "http://www.soldnerspecial.de"
+street: Dr.-Bühler-Straße
+housenumber: "2"
+phone: +49-9861-4842
+opening_hours: Mo-Fr 08:00-13:00,14:00-18:00; Sa,Su off
+website: http://www.soldnerspecial.de

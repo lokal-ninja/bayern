@@ -1,11 +1,11 @@
 id: 45124797
-type: way
+type: node
 latitude: 49.94527
 longitude: 9.10029
 postcode: "63741"
 city: Aschaffenburg
-street: "Niedernberger Straße"
-housenumber: 3
+street: Niedernberger Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.46523
 longitude: 11.06965
 postcode: "90419"
 city: Nürnberg
-street: "Bucher Straße"
-housenumber: 93
+street: Bucher Straße
+housenumber: "93"
 phone: ""
-opening_hours: "Nach Vereinbarung"
+opening_hours: '"Nach Vereinbarung"'
 website: ""

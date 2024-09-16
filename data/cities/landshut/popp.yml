@@ -1,11 +1,11 @@
 id: 141556053
-type: way
+type: node
 latitude: 48.56126
 longitude: 12.12711
 postcode: "84032"
 city: Landshut
-street: "Am Hascherkeller"
-housenumber: 25
+street: Am Hascherkeller
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

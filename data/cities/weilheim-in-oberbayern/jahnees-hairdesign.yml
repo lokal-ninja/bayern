@@ -1,11 +1,11 @@
 id: 159167359
-type: way
+type: node
 latitude: 47.84292
 longitude: 11.14336
 postcode: "82362"
 city: Weilheim in Oberbayern
-street: "Münchener Straße"
-housenumber: 12
+street: Münchener Straße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

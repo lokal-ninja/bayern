@@ -4,8 +4,8 @@ latitude: 48.11268
 longitude: 11.50746
 postcode: "81377"
 city: München
-street: "Waldfriedhofstraße"
-housenumber: 68
-phone: "+49 89 7149551"
-opening_hours: "Tu-Fr 07:00-18:30; Sa 07:00-12:30; Mo,Su,PH off"
-website: "http://metzgerei-probst.de/"
+street: Waldfriedhofstraße
+housenumber: "68"
+phone: +49 89 7149551
+opening_hours: Tu-Fr 07:00-18:30; Sa 07:00-12:30; Mo,Su,PH off
+website: http://metzgerei-probst.de/

@@ -1,11 +1,11 @@
 id: 360155854
-type: way
+type: node
 latitude: 48.39008
 longitude: 11.06456
 postcode: "86453"
 city: Dasing
-street: "Laimeringer Straße"
-housenumber: 2
+street: Laimeringer Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

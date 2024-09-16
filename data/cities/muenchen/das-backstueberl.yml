@@ -4,8 +4,8 @@ latitude: 48.10238
 longitude: 11.53089
 postcode: "81379"
 city: München
-street: "Zielstattstraße"
-housenumber: 41
+street: Zielstattstraße
+housenumber: "41"
 phone: ""
-opening_hours: "Th,Fr 09:00-18:00; Sa 08:00-13:00"
+opening_hours: Th,Fr 09:00-18:00; Sa 08:00-13:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.74686
 longitude: 11.46922
 postcode: "85053"
 city: Ingolstadt
-street: "Manchinger Straße"
-housenumber: 105
+street: Manchinger Straße
+housenumber: "105"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.polo-motorrad.de/"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.polo-motorrad.de/

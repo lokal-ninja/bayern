@@ -4,8 +4,8 @@ latitude: 48.82333
 longitude: 11.83251
 postcode: "93326"
 city: Abensberg
-street: "Schwaighausener Straße"
-housenumber: 2
-phone: "0049 9443 992222"
-opening_hours: "Fr 08:00-18:00"
-website: "http://www.bauernladen-holzer.de/"
+street: Schwaighausener Straße
+housenumber: "2"
+phone: 0049 9443 992222
+opening_hours: Fr 08:00-18:00
+website: http://www.bauernladen-holzer.de/

@@ -1,11 +1,11 @@
 id: 231105034
-type: way
+type: node
 latitude: 50.14391
 longitude: 11.05899
 postcode: "96215"
 city: Lichtenfels
-street: "Bamberger Straße"
-housenumber: 21
+street: Bamberger Straße
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

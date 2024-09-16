@@ -4,8 +4,8 @@ latitude: 49.01314
 longitude: 12.08807
 postcode: "93047"
 city: Regensburg
-street: "Kumpfmühler Straße"
-housenumber: 8
-phone: "+49 941 78031230"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.denns-biomarkt.de/29810_Regensburg.html"
+street: Kumpfmühler Straße
+housenumber: "8"
+phone: +49 941 78031230
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.denns-biomarkt.de/29810_Regensburg.html

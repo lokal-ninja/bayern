@@ -1,11 +1,11 @@
 id: 155074809
-type: way
+type: node
 latitude: 50.33404
 longitude: 10.13761
 postcode: "97618"
 city: Hohenroth
-street: "Talweg"
-housenumber: 4
+street: Talweg
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "http://www.fliesen-hein.de/"
+website: http://www.fliesen-hein.de/

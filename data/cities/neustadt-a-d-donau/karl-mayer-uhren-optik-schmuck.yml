@@ -1,11 +1,11 @@
 id: 397496191
-type: way
+type: node
 latitude: 48.80875
 longitude: 11.7634
 postcode: "93333"
 city: Neustadt a.d.Donau
-street: "Herzog-Ludwig-Straße"
-housenumber: 13
+street: Herzog-Ludwig-Straße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

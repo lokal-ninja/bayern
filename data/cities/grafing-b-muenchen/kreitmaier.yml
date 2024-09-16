@@ -4,8 +4,9 @@ latitude: 48.04558
 longitude: 11.96671
 postcode: "85567"
 city: Grafing b. München
-street: "Marktplatz"
-housenumber: 8
-phone: "+49 8092 709043"
-opening_hours: "Mo-Fr 05:30-18:30; Sa 05:30-18:00; PH,Su 07:00-18:00; Dec 25-26 off; Jan 01 off"
-website: "https://baeckerei-kreitmaier.de/index.php/filialen/stammhaus-grafing/"
+street: Marktplatz
+housenumber: "8"
+phone: +49 8092 709043
+opening_hours: Mo-Fr 05:30-18:30; Sa 05:30-18:00; PH,Su 07:00-18:00; Dec 25-26 off;
+    Jan 01 off
+website: https://baeckerei-kreitmaier.de/index.php/filialen/stammhaus-grafing/

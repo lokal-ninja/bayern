@@ -1,11 +1,11 @@
 id: 68732490
-type: way
+type: node
 latitude: 50.09051
 longitude: 9.04786
 postcode: "63755"
 city: Alzenau
-street: "Industriestraße"
-housenumber: 3
+street: Industriestraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-17:00"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 87437686
-type: way
+type: node
 latitude: 50.03649
 longitude: 10.23658
 postcode: "97424"
 city: Schweinfurt
-street: "Carl-Benz-Straße"
-housenumber: 2
+street: Carl-Benz-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 9:00-18:00; Sa 9:00-14:00; Su off"
+opening_hours: Mo-Fr 9:00-18:00; Sa 9:00-14:00; Su off
 website: ""

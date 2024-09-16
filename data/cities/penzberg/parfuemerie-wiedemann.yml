@@ -4,8 +4,8 @@ latitude: 47.75044
 longitude: 11.37437
 postcode: "82377"
 city: Penzberg
-street: "Bahnhofstraße"
-housenumber: 19
-phone: "+49 8856 83112"
-opening_hours: "Mo-Fr 9:00-18:30, Sa 9:00-16:00"
-website: "https://www.parfuemerie-wiedemann.de/"
+street: Bahnhofstraße
+housenumber: "19"
+phone: +49 8856 83112
+opening_hours: Mo-Fr 9:00-18:30, Sa 9:00-16:00
+website: https://www.parfuemerie-wiedemann.de/

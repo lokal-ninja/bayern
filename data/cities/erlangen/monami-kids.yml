@@ -4,8 +4,8 @@ latitude: 49.59906
 longitude: 11.00369
 postcode: "91054"
 city: Erlangen
-street: "Wasserturmstraße"
-housenumber: 4
-phone: "+49 9131 9708070"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-14:00"
-website: "https://www.monamikids.de/"
+street: Wasserturmstraße
+housenumber: "4"
+phone: +49 9131 9708070
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-14:00
+website: https://www.monamikids.de/

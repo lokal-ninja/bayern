@@ -1,11 +1,11 @@
 id: 40650249
-type: way
+type: node
 latitude: 48.10662
 longitude: 11.64451
 postcode: "81735"
 city: München
-street: "Albert-Schweitzer-Straße"
-housenumber: 78
+street: Albert-Schweitzer-Straße
+housenumber: "78"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.life-einkaufszentrum.de"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.life-einkaufszentrum.de

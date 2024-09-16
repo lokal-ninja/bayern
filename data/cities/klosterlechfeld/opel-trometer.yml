@@ -1,11 +1,11 @@
 id: 199351292
-type: way
+type: node
 latitude: 48.15962
 longitude: 10.82782
 postcode: "86836"
 city: Klosterlechfeld
-street: "Schwabmünchner Straße"
-housenumber: 16
+street: Schwabmünchner Straße
+housenumber: "16"
 phone: ""
 opening_hours: ""
-website: "https://www.trometer.de"
+website: https://www.trometer.de

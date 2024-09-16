@@ -4,8 +4,8 @@ latitude: 49.71417
 longitude: 11.07734
 postcode: "91301"
 city: Forchheim
-street: "Krankenhausstraße"
-housenumber: 8
-phone: "+49 9191 3509980"
-opening_hours: "Mo-Th 08:30-18:00; Fr 08:30-15:00"
-website: "https://www.rehateam-nordbayern.de/"
+street: Krankenhausstraße
+housenumber: "8"
+phone: +49 9191 3509980
+opening_hours: Mo-Th 08:30-18:00; Fr 08:30-15:00
+website: https://www.rehateam-nordbayern.de/

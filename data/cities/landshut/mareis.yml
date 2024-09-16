@@ -4,8 +4,8 @@ latitude: 48.52922
 longitude: 12.146
 postcode: "84036"
 city: Landshut
-street: "Innere Münchener Straße"
-housenumber: 27
-phone: "+49 871 97496080"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://mareis.com"
+street: Innere Münchener Straße
+housenumber: "27"
+phone: +49 871 97496080
+opening_hours: Mo-Sa 08:00-20:00
+website: https://mareis.com

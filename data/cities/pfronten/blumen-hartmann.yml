@@ -1,11 +1,11 @@
 id: 197768505
-type: way
+type: node
 latitude: 47.59783
 longitude: 10.56089
 postcode: "87459"
 city: Pfronten
-street: "Gernweg"
-housenumber: 5
+street: Gernweg
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "http://www.blumen-hartmann-pfronten.de/"
+website: http://www.blumen-hartmann-pfronten.de/

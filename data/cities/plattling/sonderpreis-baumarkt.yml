@@ -1,11 +1,11 @@
 id: 184612486
-type: way
+type: node
 latitude: 48.77933
 longitude: 12.87082
 postcode: "94447"
 city: Plattling
-street: "Bahnhofstraße"
-housenumber: 10
+street: Bahnhofstraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

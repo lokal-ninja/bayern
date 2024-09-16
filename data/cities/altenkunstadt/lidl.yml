@@ -4,8 +4,8 @@ latitude: 50.13089
 longitude: 11.24353
 postcode: "96264"
 city: Altenkunstadt
-street: "Weismainer Straße"
-housenumber: 15
+street: Weismainer Straße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.lidl.de/"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.lidl.de/

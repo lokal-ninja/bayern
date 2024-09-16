@@ -4,8 +4,8 @@ latitude: 49.04786
 longitude: 11.35715
 postcode: "91171"
 city: Greding
-street: "Berchinger Straße"
-housenumber: 17
-phone: "+49 8463 6039900"
-opening_hours: "nach tel. Vereinbarung"
-website: "https://www.creatronics.de"
+street: Berchinger Straße
+housenumber: "17"
+phone: +49 8463 6039900
+opening_hours: '"nach tel. Vereinbarung"'
+website: https://www.creatronics.de

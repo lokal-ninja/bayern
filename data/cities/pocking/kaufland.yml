@@ -1,11 +1,11 @@
 id: 210717837
-type: way
+type: node
 latitude: 48.41055
 longitude: 13.33238
 postcode: "94060"
 city: Pocking
-street: "Passauer Straße"
-housenumber: 160
+street: Passauer Straße
+housenumber: "160"
 phone: ""
 opening_hours: ""
 website: ""

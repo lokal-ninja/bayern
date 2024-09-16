@@ -1,11 +1,11 @@
 id: 189446840
-type: way
+type: node
 latitude: 48.56385
 longitude: 11.26556
 postcode: "86529"
 city: Schrobenhausen
-street: "Bürgermeister-Stocker-Ring"
-housenumber: 9
+street: Bürgermeister-Stocker-Ring
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

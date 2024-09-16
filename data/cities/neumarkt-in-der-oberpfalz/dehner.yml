@@ -1,11 +1,11 @@
 id: 1153751434
-type: way
+type: node
 latitude: 49.29942
 longitude: 11.45911
 postcode: "92318"
 city: Neumarkt in der Oberpfalz
-street: "Blomenhofstraße"
-housenumber: 5
-phone: "+49 (9181) 46255-0"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.dehner.de/market/dehner-gartencenter-neumarkt-in-der-oberpfalz/"
+street: Blomenhofstraße
+housenumber: "5"
+phone: +49 (9181) 46255-0
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.dehner.de/market/dehner-gartencenter-neumarkt-in-der-oberpfalz/

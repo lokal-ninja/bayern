@@ -1,11 +1,11 @@
 id: 90531827
-type: way
+type: node
 latitude: 50.24976
 longitude: 10.96213
 postcode: "96450"
 city: Coburg
-street: "Karchestraße"
-housenumber: 10
+street: Karchestraße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
+opening_hours: Mo-Sa 07:00-20:00; PH off
 website: ""

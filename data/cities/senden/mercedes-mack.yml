@@ -1,11 +1,11 @@
 id: 248688393
-type: way
+type: node
 latitude: 48.31447
 longitude: 10.05559
 postcode: "89250"
 city: Senden
-street: "Friedrich-List-Straße"
-housenumber: 5
+street: Friedrich-List-Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

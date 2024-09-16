@@ -1,11 +1,11 @@
 id: 238614750
-type: way
+type: node
 latitude: 48.24254
 longitude: 10.87661
 postcode: "86343"
 city: Königsbrunn
-street: "Landsberger Straße"
-housenumber: 121
+street: Landsberger Straße
+housenumber: "121"
 phone: ""
-opening_hours: "Fr-Sa 14:00-18:00"
-website: "https://koebi.bayern/"
+opening_hours: Fr-Sa 14:00-18:00
+website: https://koebi.bayern/

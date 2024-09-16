@@ -1,11 +1,11 @@
 id: 223290692
-type: way
+type: node
 latitude: 50.1083
 longitude: 9.21646
 postcode: "63825"
 city: Schöllkrippen
-street: "Spessartstraße"
-housenumber: 21
-phone: "+49 6024 5098809"
-opening_hours: "Mo-Th 06:00-13:30,15:00-18:00; Fr 06:00-18:00; Sa 07:00-12:00"
-website: "http://www.dorfladen-hofstaedten.de"
+street: Spessartstraße
+housenumber: "21"
+phone: +49 6024 5098809
+opening_hours: Mo-Th 06:00-13:30,15:00-18:00; Fr 06:00-18:00; Sa 07:00-12:00
+website: http://www.dorfladen-hofstaedten.de

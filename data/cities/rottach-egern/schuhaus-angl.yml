@@ -4,8 +4,8 @@ latitude: 47.69323
 longitude: 11.77044
 postcode: "83700"
 city: Rottach-Egern
-street: "Nördliche Hauptstraße"
-housenumber: 31
+street: Nördliche Hauptstraße
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:30, Sa 09:30-17:30"
-website: "https://www.schuhhaus-angl.de/haeuser/rottach-egern.html"
+opening_hours: Mo-Fr 09:30-18:30, Sa 09:30-17:30
+website: https://www.schuhhaus-angl.de/haeuser/rottach-egern.html

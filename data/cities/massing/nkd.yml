@@ -1,11 +1,11 @@
 id: 313059205
-type: way
+type: node
 latitude: 48.39177
 longitude: 12.60898
 postcode: "84323"
 city: Massing
-street: "Berta-Hummel-Straße"
-housenumber: 2
+street: Berta-Hummel-Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

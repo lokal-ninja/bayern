@@ -1,11 +1,11 @@
 id: 400503279
-type: way
+type: node
 latitude: 47.99815
 longitude: 11.51239
 postcode: "82064"
 city: Straßlach-Dingharting
-street: "Gewerbestraße"
-housenumber: 2
+street: Gewerbestraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://filialen.aldi-sued.de/bayern/strasslach-dingharting/gewerbestrasse-2"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://filialen.aldi-sued.de/bayern/strasslach-dingharting/gewerbestrasse-2

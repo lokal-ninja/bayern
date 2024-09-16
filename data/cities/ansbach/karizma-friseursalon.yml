@@ -4,8 +4,8 @@ latitude: 49.30215
 longitude: 10.57107
 postcode: "91522"
 city: Ansbach
-street: "Platenstraße"
-housenumber: 17
+street: Platenstraße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Fr nach telefonischer Vereinbarung"
-website: "https://www.karizma-hairstyling.de/"
+opening_hours: Mo-Fr "nach telefonischer Vereinbarung"
+website: https://www.karizma-hairstyling.de/

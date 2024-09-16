@@ -4,8 +4,9 @@ latitude: 47.88258
 longitude: 11.70413
 postcode: "83607"
 city: Holzkirchen
-street: "Rosenheimer Straße"
-housenumber: 27
+street: Rosenheimer Straße
+housenumber: "27"
 phone: "+4980247736"
-opening_hours: "Di 14:00-18:30; Mi 10:00-18:30; Do 10:00-18:30; Fr 10:00-18:30; Sa 09:00-14:00"
+opening_hours: Di 14:00-18:30; Mi 10:00-18:30; Do 10:00-18:30; Fr 10:00-18:30; Sa
+    09:00-14:00
 website: ""

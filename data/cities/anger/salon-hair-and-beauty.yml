@@ -4,8 +4,8 @@ latitude: 47.78487
 longitude: 12.87057
 postcode: "83454"
 city: Anger
-street: "Hauptstraße"
-housenumber: 20
-phone: "+49 8656 1572"
-opening_hours: "Mo 08:30-18:00; Tu,Th,Fr 08:30-18:00; We 08:30-15:00; Sa 08:00-12:00"
+street: Hauptstraße
+housenumber: "20"
+phone: +49 8656 1572
+opening_hours: Mo 08:30-18:00; Tu,Th,Fr 08:30-18:00; We 08:30-15:00; Sa 08:00-12:00
 website: ""

@@ -1,11 +1,11 @@
 id: 718647007
-type: way
+type: node
 latitude: 48.28066
 longitude: 11.25819
 postcode: "85254"
 city: Sulzemoos
-street: "Justus-von-Liebig-Straße"
-housenumber: 9
+street: Justus-von-Liebig-Straße
+housenumber: "9"
 phone: ""
 opening_hours: ""
-website: "http://www.classiccars-burgmaier.de/"
+website: http://www.classiccars-burgmaier.de/

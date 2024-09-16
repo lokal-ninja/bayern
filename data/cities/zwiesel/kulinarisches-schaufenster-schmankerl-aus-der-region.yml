@@ -4,8 +4,8 @@ latitude: 48.99946
 longitude: 13.21611
 postcode: "94227"
 city: Zwiesel
-street: "Zwieselberg"
-housenumber: 1
-phone: "+49-9922 8698810"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 09:00-13:00; PH off"
-website: "http://www.regionale-schmankerl.de/"
+street: Zwieselberg
+housenumber: "1"
+phone: +49-9922 8698810
+opening_hours: Mo-Fr 10:00-18:00; Sa 09:00-13:00; PH off
+website: http://www.regionale-schmankerl.de/

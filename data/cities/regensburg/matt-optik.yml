@@ -4,8 +4,8 @@ latitude: 49.0071
 longitude: 12.06186
 postcode: "93051"
 city: Regensburg
-street: "Dr.-Gessler-Straße"
-housenumber: 45
-phone: "+49 941 9 50 80"
-opening_hours: "Mo-Sa 9:00-20:00"
-website: "https://www.matt.de"
+street: Dr.-Gessler-Straße
+housenumber: "45"
+phone: +49 941 9 50 80
+opening_hours: Mo-Sa 9:00-20:00
+website: https://www.matt.de

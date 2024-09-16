@@ -1,11 +1,11 @@
 id: 252841300
-type: way
+type: node
 latitude: 47.66928
 longitude: 12.94375
 postcode: "83483"
 city: Bischofswiesen
-street: "Reichenhaller Straße"
-housenumber: 18
+street: Reichenhaller Straße
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

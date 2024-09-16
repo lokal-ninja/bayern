@@ -1,11 +1,11 @@
 id: 768573589
-type: way
+type: node
 latitude: 49.35235
 longitude: 11.27148
 postcode: "90559"
 city: Burgthann
-street: "Burgthanner Straße"
-housenumber: 34
+street: Burgthanner Straße
+housenumber: "34"
 phone: ""
 opening_hours: ""
 website: ""

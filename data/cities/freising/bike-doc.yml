@@ -4,8 +4,8 @@ latitude: 48.4003
 longitude: 11.73864
 postcode: "85354"
 city: Freising
-street: "Kammergasse"
-housenumber: 
-phone: "+49-8161-4965031"
-opening_hours: "Th 17:00-19:00; Fr-We,PH off nach Vereinbarung"
-website: "https://bike-doc.de"
+street: Kammergasse
+housenumber: ""
+phone: +49-8161-4965031
+opening_hours: Th 17:00-19:00; Fr-We,PH off "nach Vereinbarung"
+website: https://bike-doc.de

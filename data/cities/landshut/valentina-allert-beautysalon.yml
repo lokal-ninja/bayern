@@ -4,8 +4,8 @@ latitude: 48.53423
 longitude: 12.14937
 postcode: "84028"
 city: Landshut
-street: "Ländgasse"
-housenumber: 37
+street: Ländgasse
+housenumber: "37"
 phone: ""
-opening_hours: "nach Vereinbarung"
+opening_hours: '"nach Vereinbarung"'
 website: ""

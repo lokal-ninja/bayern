@@ -1,11 +1,11 @@
 id: 224171527
-type: way
+type: node
 latitude: 48.46193
 longitude: 11.27954
 postcode: "86576"
 city: Schiltberg
-street: "Rutmarstraße"
-housenumber: 16
+street: Rutmarstraße
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

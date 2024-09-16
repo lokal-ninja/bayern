@@ -4,8 +4,8 @@ latitude: 48.32811
 longitude: 10.90476
 postcode: "86159"
 city: Augsburg
-street: "Heini-Dittmar-Straße"
-housenumber: 17
-phone: "+49 821 47 05 17-6"
-opening_hours: "Mo-Fr 09:00-19:00, Sa 09:00-14:00"
-website: "https://www.haarbasis17.de/"
+street: Heini-Dittmar-Straße
+housenumber: "17"
+phone: +49 821 47 05 17-6
+opening_hours: Mo-Fr 09:00-19:00, Sa 09:00-14:00
+website: https://www.haarbasis17.de/

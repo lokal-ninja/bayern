@@ -1,11 +1,11 @@
 id: 140448567
-type: way
+type: node
 latitude: 50.10019
 longitude: 11.73102
 postcode: "95482"
 city: Gefrees
-street: "Witzleshofener Straße"
-housenumber: 22
-phone: "+49 9254 8396"
+street: Witzleshofener Straße
+housenumber: "22"
+phone: +49 9254 8396
 opening_hours: ""
 website: ""

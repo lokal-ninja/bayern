@@ -1,11 +1,11 @@
 id: 43979085
-type: way
+type: node
 latitude: 49.50952
 longitude: 11.42681
 postcode: "91217"
 city: Hersbruck
-street: "Nürnberger Straße"
-housenumber: 7
-phone: "+49 9151 73070"
-opening_hours: "Mo-Th 08:30-17:00; Fr 08:30-16:00"
-website: "http://www.hersbrucker-zeitung.de/"
+street: Nürnberger Straße
+housenumber: "7"
+phone: +49 9151 73070
+opening_hours: Mo-Th 08:30-17:00; Fr 08:30-16:00
+website: http://www.hersbrucker-zeitung.de/

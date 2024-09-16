@@ -1,11 +1,11 @@
 id: 144439796
-type: way
+type: node
 latitude: 49.54474
 longitude: 11.94806
 postcode: "92242"
 city: Hirschau
-street: "Hauptstraße"
-housenumber: 32
+street: Hauptstraße
+housenumber: "32"
 phone: ""
-opening_hours: "Tu-Fr 08:30-18:00; Sa 08:00-12:00; Mo, Su, PH Off"
+opening_hours: Tu-Fr 08:30-18:00; Sa 08:00-12:00; Mo, Su, PH Off
 website: ""

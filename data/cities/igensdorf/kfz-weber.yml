@@ -4,8 +4,8 @@ latitude: 49.61786
 longitude: 11.21444
 postcode: "91338"
 city: Igensdorf
-street: "Unterlindelbach"
-housenumber: 13
-phone: "+49 9126 298944"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.kfz-weber-meisterbetrieb.de"
+street: Unterlindelbach
+housenumber: "13"
+phone: +49 9126 298944
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.kfz-weber-meisterbetrieb.de

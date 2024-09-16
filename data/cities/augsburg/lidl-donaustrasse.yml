@@ -1,11 +1,11 @@
 id: 91216496
-type: way
+type: node
 latitude: 48.37608
 longitude: 10.93002
 postcode: "86165"
 city: Augsburg
-street: "Donaustraße"
-housenumber: 6
+street: Donaustraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
-website: "https://www.lidl.de/f/augsburg/donaustrasse.html"
+opening_hours: Mo-Sa 07:00-20:00; PH off
+website: https://www.lidl.de/f/augsburg/donaustrasse.html

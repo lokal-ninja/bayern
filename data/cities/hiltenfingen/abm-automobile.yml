@@ -1,11 +1,11 @@
 id: 97667100
-type: way
+type: node
 latitude: 48.15606
 longitude: 10.71337
 postcode: "86856"
 city: Hiltenfingen
-street: "Türkheimer Straße"
-housenumber: 50
+street: Türkheimer Straße
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

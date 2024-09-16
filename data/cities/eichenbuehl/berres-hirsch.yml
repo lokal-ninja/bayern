@@ -1,11 +1,11 @@
 id: 712121744
-type: way
+type: node
 latitude: 49.70707
 longitude: 9.32213
 postcode: "63928"
 city: Eichenbühl
-street: "Etterweg"
-housenumber: 1
-phone: "+49 9371 6156"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00; PH off"
-website: "https://www.berres-hirsch.de"
+street: Etterweg
+housenumber: "1"
+phone: +49 9371 6156
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-12:00; PH off
+website: https://www.berres-hirsch.de

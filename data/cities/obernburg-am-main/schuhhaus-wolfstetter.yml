@@ -4,8 +4,8 @@ latitude: 49.84041
 longitude: 9.14583
 postcode: "63785"
 city: Obernburg am Main
-street: "Römerstraße"
-housenumber: 12
-phone: "+49 6022 9150"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-14:00; PH off"
-website: "http://www.schuh-wolfstetter.de/"
+street: Römerstraße
+housenumber: "12"
+phone: +49 6022 9150
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-14:00; PH off
+website: http://www.schuh-wolfstetter.de/

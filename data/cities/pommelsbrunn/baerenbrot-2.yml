@@ -1,11 +1,11 @@
 id: 361813213
-type: way
+type: node
 latitude: 49.54331
 longitude: 11.5071
 postcode: "91224"
 city: Pommelsbrunn
 street: ""
-housenumber: 16
+housenumber: "16"
 phone: ""
-opening_hours: "Tu-Sa 05:30-11:30"
+opening_hours: Tu-Sa 05:30-11:30
 website: ""

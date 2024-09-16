@@ -4,8 +4,8 @@ latitude: 49.45566
 longitude: 11.07947
 postcode: "90403"
 city: Nürnberg
-street: "Theresienstraße"
-housenumber: 22
+street: Theresienstraße
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:30"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-17:30
 website: ""

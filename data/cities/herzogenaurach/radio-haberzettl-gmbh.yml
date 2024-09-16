@@ -4,8 +4,8 @@ latitude: 49.56827
 longitude: 10.89516
 postcode: "91074"
 city: Herzogenaurach
-street: "Rathgeberstraße"
-housenumber: 41
-phone: "+49 9132 45 28"
-opening_hours: "Mo-We 10:00-18:00; Th 10:00-13:00; Fr 10:00-18:00; Sa 10:00-13:00"
-website: "https://www.haberzettl-hifi.de/"
+street: Rathgeberstraße
+housenumber: "41"
+phone: +49 9132 45 28
+opening_hours: Mo-We 10:00-18:00; Th 10:00-13:00; Fr 10:00-18:00; Sa 10:00-13:00
+website: https://www.haberzettl-hifi.de/

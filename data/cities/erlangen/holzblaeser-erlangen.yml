@@ -4,8 +4,8 @@ latitude: 49.59656
 longitude: 11.01361
 postcode: "91054"
 city: Erlangen
-street: "Luitpoldstraße"
-housenumber: 3
-phone: "+49 9131 5301550"
-opening_hours: "Tu,We,Fr,Sa 10:00-12:30, Tu,We,Fr 15:00-18:00"
-website: "https://www.holzblaeser-erlangen.de/"
+street: Luitpoldstraße
+housenumber: "3"
+phone: +49 9131 5301550
+opening_hours: Tu,We,Fr,Sa 10:00-12:30, Tu,We,Fr 15:00-18:00
+website: https://www.holzblaeser-erlangen.de/

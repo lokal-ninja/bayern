@@ -1,11 +1,11 @@
 id: 198718774
-type: way
+type: node
 latitude: 48.57902
 longitude: 10.44189
 postcode: "89415"
 city: Lauingen (Donau)
-street: "Ostendstraße"
-housenumber: 14
+street: Ostendstraße
+housenumber: "14"
 phone: ""
 opening_hours: ""
-website: "https://www.baumschule-bunk.de/"
+website: https://www.baumschule-bunk.de/

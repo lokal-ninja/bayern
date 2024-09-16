@@ -1,11 +1,11 @@
 id: 373201648
-type: way
+type: node
 latitude: 49.16565
 longitude: 10.93902
 postcode: "91174"
 city: Spalt
-street: "Dorfstraße"
-housenumber: 17
+street: Dorfstraße
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

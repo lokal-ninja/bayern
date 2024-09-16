@@ -4,8 +4,8 @@ latitude: 50.07461
 longitude: 10.09308
 postcode: "97502"
 city: Euerbach
-street: "Dr.-Georg-Schäfer-Straße"
-housenumber: 5
+street: Dr.-Georg-Schäfer-Straße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 09:00-20:00"
-website: "http://gut-obbach.de"
+opening_hours: Mo-Fr 08:00-20:00; Sa 09:00-20:00
+website: http://gut-obbach.de

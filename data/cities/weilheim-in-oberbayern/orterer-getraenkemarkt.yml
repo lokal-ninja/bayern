@@ -1,11 +1,11 @@
 id: 159356505
-type: way
+type: node
 latitude: 47.8423
 longitude: 11.14565
 postcode: "82362"
 city: Weilheim in Oberbayern
-street: "Pütrichstraße"
-housenumber: 17
-phone: "+49 881 4179426"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"
-website: "https://www.orterer.de/"
+street: Pütrichstraße
+housenumber: "17"
+phone: +49 881 4179426
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00
+website: https://www.orterer.de/

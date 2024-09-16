@@ -1,11 +1,11 @@
 id: 1289177346
-type: way
+type: node
 latitude: 48.16258
 longitude: 11.5866
 postcode: "80802"
 city: München
-street: "Münchner Freiheit"
-housenumber: 7
+street: Münchner Freiheit
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

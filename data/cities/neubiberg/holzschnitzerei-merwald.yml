@@ -4,8 +4,8 @@ latitude: 48.0753
 longitude: 11.6794
 postcode: "85579"
 city: Neubiberg
-street: "Wotanstraße"
-housenumber: 7
+street: Wotanstraße
+housenumber: "7"
 phone: ""
-opening_hours: "nach telefonischer Vereinbarung"
+opening_hours: '"nach telefonischer Vereinbarung"'
 website: ""

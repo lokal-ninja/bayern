@@ -4,8 +4,8 @@ latitude: 48.16084
 longitude: 11.58235
 postcode: "80801"
 city: München
-street: "Kaiserstraße"
-housenumber: 23
+street: Kaiserstraße
+housenumber: "23"
 phone: ""
-opening_hours: "Tu-Fr 11:00-19:00; Sa 11:00-15:00"
+opening_hours: Tu-Fr 11:00-19:00; Sa 11:00-15:00
 website: ""

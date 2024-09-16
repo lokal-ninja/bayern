@@ -1,11 +1,11 @@
 id: 201071815
-type: way
+type: node
 latitude: 48.86409
 longitude: 12.57536
 postcode: "94315"
 city: Straubing
-street: "Landshuter Straße"
-housenumber: 135
+street: Landshuter Straße
+housenumber: "135"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

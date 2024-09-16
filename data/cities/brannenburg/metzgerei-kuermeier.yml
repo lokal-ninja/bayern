@@ -4,8 +4,8 @@ latitude: 47.73256
 longitude: 12.10458
 postcode: "83098"
 city: Brannenburg
-street: "Dapferstraße"
-housenumber: 5
+street: Dapferstraße
+housenumber: "5"
 phone: ""
-opening_hours: "We-Fr 07:30-18:00; Sa 07:30-12:30; PH off"
-website: "https://www.metzgerei-kuermeier.de"
+opening_hours: We-Fr 07:30-18:00; Sa 07:30-12:30; PH off
+website: https://www.metzgerei-kuermeier.de

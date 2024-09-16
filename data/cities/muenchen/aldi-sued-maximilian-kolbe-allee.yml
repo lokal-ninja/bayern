@@ -1,11 +1,11 @@
 id: 25452465
-type: way
+type: node
 latitude: 48.08812
 longitude: 11.63911
 postcode: "81739"
 city: München
-street: "Maximilian-Kolbe-Allee"
-housenumber: 1
+street: Maximilian-Kolbe-Allee
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://filialen.aldi-sued.de/bayern/muenchen-neuperlach/maximilian-kolbe-allee-1"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://filialen.aldi-sued.de/bayern/muenchen-neuperlach/maximilian-kolbe-allee-1

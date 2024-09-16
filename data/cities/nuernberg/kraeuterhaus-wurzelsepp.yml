@@ -4,8 +4,8 @@ latitude: 49.4532
 longitude: 11.07664
 postcode: "90403"
 city: Nürnberg
-street: "Hauptmarkt"
-housenumber: 1
-phone: "+49 911 226612"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-18:00"
-website: "https://www.wurzelsepp-nuernberg.de/"
+street: Hauptmarkt
+housenumber: "1"
+phone: +49 911 226612
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-18:00
+website: https://www.wurzelsepp-nuernberg.de/

@@ -4,8 +4,8 @@ latitude: 47.55937
 longitude: 9.70623
 postcode: "88131"
 city: Lindau (Bodensee)
-street: "Köchlinstraße"
-housenumber: 26
+street: Köchlinstraße
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:15; Sa 06:30-12:30"
-website: "https://www.walserspezialitaeten.de/"
+opening_hours: Mo-Fr 06:30-18:15; Sa 06:30-12:30
+website: https://www.walserspezialitaeten.de/

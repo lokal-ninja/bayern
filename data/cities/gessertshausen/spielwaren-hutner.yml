@@ -4,8 +4,8 @@ latitude: 48.33307
 longitude: 10.7347
 postcode: "86459"
 city: Gessertshausen
-street: "Bahnhofsplatz"
-housenumber: 8
+street: Bahnhofsplatz
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00, 13:00-18:00; Sa 09:00-12:00"
-website: "https://spieltgut.de"
+opening_hours: Mo-Fr 09:00-12:00, 13:00-18:00; Sa 09:00-12:00
+website: https://spieltgut.de

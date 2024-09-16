@@ -4,8 +4,8 @@ latitude: 48.85191
 longitude: 12.9609
 postcode: "94469"
 city: Deggendorf
-street: "Industriestraße"
-housenumber: 19
+street: Industriestraße
+housenumber: "19"
 phone: "+499912709870"
-opening_hours: "Mo.Sa 08:00-20:00"
-website: "https://www.getraenke-degenhart.de/maerkte/getraenke_degenhart_deggendorf"
+opening_hours: Mo.Sa 08:00-20:00
+website: https://www.getraenke-degenhart.de/maerkte/getraenke_degenhart_deggendorf

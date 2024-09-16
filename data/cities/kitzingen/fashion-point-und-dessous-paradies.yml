@@ -4,8 +4,8 @@ latitude: 49.73889
 longitude: 10.16065
 postcode: "97318"
 city: Kitzingen
-street: "Kaiserstraße"
-housenumber: 10
-phone: "+49 9321 8737"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-15:00"
-website: "https://www.fashionpoint-kitzingen.de/"
+street: Kaiserstraße
+housenumber: "10"
+phone: +49 9321 8737
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-15:00
+website: https://www.fashionpoint-kitzingen.de/

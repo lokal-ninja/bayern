@@ -4,8 +4,8 @@ latitude: 48.72879
 longitude: 10.48418
 postcode: "86735"
 city: Amerdingen
-street: "Aufhausener Straße"
-housenumber: 6
-phone: "+49 9089 233"
-opening_hours: "Mo-Fr 08:30-12:00, 14:00-18:00; Sa 08:30-13:00"
-website: "https://www.getraenke-reitschuster.de/gam-amerdingen"
+street: Aufhausener Straße
+housenumber: "6"
+phone: +49 9089 233
+opening_hours: Mo-Fr 08:30-12:00, 14:00-18:00; Sa 08:30-13:00
+website: https://www.getraenke-reitschuster.de/gam-amerdingen

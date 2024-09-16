@@ -1,11 +1,11 @@
 id: 121896787
-type: way
+type: node
 latitude: 48.04179
 longitude: 10.50473
 postcode: "87719"
 city: Mindelheim
-street: "Aggensteinstraße"
-housenumber: 2
+street: Aggensteinstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "http://www.reifen-feneberg.de/"
+website: http://www.reifen-feneberg.de/

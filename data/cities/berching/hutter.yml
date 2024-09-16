@@ -4,8 +4,8 @@ latitude: 49.10621
 longitude: 11.44027
 postcode: "92334"
 city: Berching
-street: "Reichenauplatz"
-housenumber: 1
+street: Reichenauplatz
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://hutter-berching.de"
+website: https://hutter-berching.de

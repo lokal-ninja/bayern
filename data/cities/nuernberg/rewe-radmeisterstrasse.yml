@@ -4,8 +4,8 @@ latitude: 49.37083
 longitude: 11.07669
 postcode: "90455"
 city: Nürnberg
-street: "Radmeisterstraße"
-housenumber: 3
-phone: "+49 911 8177580"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.rewe.de/marktseite/nuernberg/440982/rewe-markt-radmeisterstrasse-3/"
+street: Radmeisterstraße
+housenumber: "3"
+phone: +49 911 8177580
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.rewe.de/marktseite/nuernberg/440982/rewe-markt-radmeisterstrasse-3/

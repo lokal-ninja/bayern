@@ -1,11 +1,11 @@
 id: 237931920
-type: way
+type: node
 latitude: 48.07281
 longitude: 12.56889
 postcode: "83342"
 city: Tacherting
-street: "Trostberger Straße"
-housenumber: 42
+street: Trostberger Straße
+housenumber: "42"
 phone: ""
 opening_hours: ""
 website: ""

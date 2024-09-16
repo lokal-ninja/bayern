@@ -1,11 +1,11 @@
 id: 214814135
-type: way
+type: node
 latitude: 48.30445
 longitude: 10.45745
 postcode: "86505"
 city: Münsterhausen
-street: "Thannhauser Straße"
-housenumber: 51
-phone: "+49  8281 2220"
+street: Thannhauser Straße
+housenumber: "51"
+phone: +49  8281 2220
 opening_hours: ""
 website: ""

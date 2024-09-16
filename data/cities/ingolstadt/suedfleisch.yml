@@ -1,11 +1,11 @@
 id: 35797914
-type: way
+type: node
 latitude: 48.74332
 longitude: 11.48288
 postcode: "85053"
 city: Ingolstadt
-street: "Scheelestraße"
-housenumber: 
+street: Scheelestraße
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

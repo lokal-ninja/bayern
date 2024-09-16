@@ -1,11 +1,11 @@
 id: 37399636
-type: way
+type: node
 latitude: 49.4943
 longitude: 11.04949
 postcode: "90427"
 city: Nürnberg
-street: "Bucher Hauptstraße"
-housenumber: 40
+street: Bucher Hauptstraße
+housenumber: "40"
 phone: ""
-opening_hours: "Mo-Fr 07:00-22:00; Sa 07:00-20:00"
+opening_hours: Mo-Fr 07:00-22:00; Sa 07:00-20:00
 website: ""

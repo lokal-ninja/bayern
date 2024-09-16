@@ -1,11 +1,11 @@
 id: 138655088
-type: way
+type: node
 latitude: 49.19267
 longitude: 11.3366
 postcode: "92342"
 city: Freystadt
-street: "Appianistraße"
-housenumber: 4
+street: Appianistraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

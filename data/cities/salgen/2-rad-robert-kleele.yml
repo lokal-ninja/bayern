@@ -1,11 +1,11 @@
 id: 263168269
-type: way
+type: node
 latitude: 48.10679
 longitude: 10.48456
 postcode: "87775"
 city: Salgen
-street: "Mattsieser Straße"
-housenumber: 6
-phone: "+49 8265 1091"
+street: Mattsieser Straße
+housenumber: "6"
+phone: +49 8265 1091
 opening_hours: ""
 website: ""

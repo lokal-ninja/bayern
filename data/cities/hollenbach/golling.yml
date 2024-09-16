@@ -1,11 +1,11 @@
 id: 133782316
-type: way
+type: node
 latitude: 48.48913
 longitude: 11.0797
 postcode: "86568"
 city: Hollenbach
-street: "Hauptstraße"
-housenumber: 10
+street: Hauptstraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

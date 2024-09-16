@@ -1,11 +1,11 @@
 id: 175081924
-type: way
+type: node
 latitude: 50.42746
 longitude: 10.30237
 postcode: "97638"
 city: Mellrichstadt
-street: "Roßmarkt"
-housenumber: 2
-phone: "+49 9776 8356"
-opening_hours: "Mo-Fr 07:30-18:30; Sa 07:00-13:00"
+street: Roßmarkt
+housenumber: "2"
+phone: +49 9776 8356
+opening_hours: Mo-Fr 07:30-18:30; Sa 07:00-13:00
 website: ""

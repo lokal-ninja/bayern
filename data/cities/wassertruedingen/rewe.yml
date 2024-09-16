@@ -1,11 +1,11 @@
 id: 741878953
-type: way
+type: node
 latitude: 49.04254
 longitude: 10.59642
 postcode: "91717"
 city: Wassertrüdingen
-street: "Weinbergweg"
-housenumber: 3
+street: Weinbergweg
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

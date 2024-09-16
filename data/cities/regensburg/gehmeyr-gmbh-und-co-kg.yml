@@ -1,11 +1,11 @@
 id: 118146011
-type: way
+type: node
 latitude: 49.06499
 longitude: 12.13736
 postcode: "93057"
 city: Regensburg
-street: "Auerbacher Straße"
-housenumber: 2
-phone: "+49 941 69681 0"
+street: Auerbacher Straße
+housenumber: "2"
+phone: +49 941 69681 0
 opening_hours: ""
-website: "http://www.gehmeyr.de/"
+website: http://www.gehmeyr.de/

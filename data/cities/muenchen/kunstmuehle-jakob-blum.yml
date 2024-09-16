@@ -4,8 +4,8 @@ latitude: 48.13763
 longitude: 11.58083
 postcode: ""
 city: München
-street: "Neuturmstraße"
-housenumber: 3
+street: Neuturmstraße
+housenumber: "3"
 phone: "+4989294222"
-opening_hours: "Mo-Sa 10:00-18:00"
-website: "https://www.hofbraeuhaus-kunstmuehle.de/"
+opening_hours: Mo-Sa 10:00-18:00
+website: https://www.hofbraeuhaus-kunstmuehle.de/

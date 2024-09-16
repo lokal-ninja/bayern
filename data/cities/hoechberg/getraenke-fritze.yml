@@ -1,11 +1,11 @@
 id: 149012113
-type: way
+type: node
 latitude: 49.77176
 longitude: 9.8679
 postcode: "97204"
 city: Höchberg
-street: "Leibnizstraße"
-housenumber: 2
-phone: "+49 931 882 897"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.getraenke-fritze.de/internal-2"
+street: Leibnizstraße
+housenumber: "2"
+phone: +49 931 882 897
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.getraenke-fritze.de/internal-2

@@ -4,8 +4,9 @@ latitude: 47.86421
 longitude: 12.01118
 postcode: "83043"
 city: Bad Aibling
-street: "Kirchzeile"
-housenumber: 6
+street: Kirchzeile
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:00, Sa 09:00-12:00; May-Dec We 14:00-18:00 off; PH,Su off"
-website: "http://www.erlesenesundmehr.de/Startseite/"
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:00, Sa 09:00-12:00; May-Dec We 14:00-18:00
+    off; PH,Su off
+website: http://www.erlesenesundmehr.de/Startseite/

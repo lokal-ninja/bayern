@@ -4,8 +4,8 @@ latitude: 49.50751
 longitude: 11.28147
 postcode: "91207"
 city: Lauf a.d.Pegnitz
-street: "Luitpoldstraße"
-housenumber: 7
+street: Luitpoldstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Tu 09:00-18:00; We 09:00-12:00; Th-Fr 09:00-18:00; Sa 09:00-12:00"
-website: "https://www.raumbraun.de/"
+opening_hours: Mo-Tu 09:00-18:00; We 09:00-12:00; Th-Fr 09:00-18:00; Sa 09:00-12:00
+website: https://www.raumbraun.de/

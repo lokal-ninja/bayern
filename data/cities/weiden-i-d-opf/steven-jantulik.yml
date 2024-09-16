@@ -4,8 +4,8 @@ latitude: 49.67603
 longitude: 12.16224
 postcode: "92637"
 city: Weiden i.d.OPf.
-street: "Schulgasse"
-housenumber: 10
-phone: "+49 961 48028685"
-opening_hours: "Mo-Fr 09:00-18:00; PH,Sa,Su off"
-website: "https://www.stevenjantulik.de/"
+street: Schulgasse
+housenumber: "10"
+phone: +49 961 48028685
+opening_hours: Mo-Fr 09:00-18:00; PH,Sa,Su off
+website: https://www.stevenjantulik.de/

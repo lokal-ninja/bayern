@@ -4,8 +4,8 @@ latitude: 48.92478
 longitude: 12.01064
 postcode: "93077"
 city: Bad Abbach
-street: "Industriestraße"
-housenumber: 9
+street: Industriestraße
+housenumber: "9"
 phone: ""
-opening_hours: "Th,Fr 14:00-20:00; Sa 10:00-15:00"
+opening_hours: Th,Fr 14:00-20:00; Sa 10:00-15:00
 website: ""

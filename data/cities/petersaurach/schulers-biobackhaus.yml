@@ -1,11 +1,11 @@
 id: 372005421
-type: way
+type: node
 latitude: 49.30915
 longitude: 10.74745
 postcode: "91580"
 city: Petersaurach
-street: "Hauptstraße"
-housenumber: 12
+street: Hauptstraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

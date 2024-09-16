@@ -1,11 +1,11 @@
 id: 53230288
-type: way
+type: node
 latitude: 50.32199
 longitude: 11.72027
 postcode: "95119"
 city: Naila
-street: "Selbitzer Berg"
-housenumber: 25
+street: Selbitzer Berg
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

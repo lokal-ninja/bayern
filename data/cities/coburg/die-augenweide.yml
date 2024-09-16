@@ -4,8 +4,8 @@ latitude: 50.25793
 longitude: 10.96563
 postcode: "96450"
 city: Coburg
-street: "Steingasse"
-housenumber: 3
-phone: "+49 9561 799735"
-opening_hours: "Mo-We,Fr 09:00-18:00; Th 09:00-14:00; Sa 09:00-15:00; Su,PH off"
-website: "https://www.dieaugenweidecoburg.de/"
+street: Steingasse
+housenumber: "3"
+phone: +49 9561 799735
+opening_hours: Mo-We,Fr 09:00-18:00; Th 09:00-14:00; Sa 09:00-15:00; Su,PH off
+website: https://www.dieaugenweidecoburg.de/

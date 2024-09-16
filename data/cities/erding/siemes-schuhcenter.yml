@@ -4,8 +4,8 @@ latitude: 48.30839
 longitude: 11.89074
 postcode: "85435"
 city: Erding
-street: "Anton-Huber-Straße"
-housenumber: 1
-phone: "+49 8122 1876252"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.schuhcenter.de/"
+street: Anton-Huber-Straße
+housenumber: "1"
+phone: +49 8122 1876252
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.schuhcenter.de/

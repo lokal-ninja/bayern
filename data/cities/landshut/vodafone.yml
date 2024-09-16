@@ -4,8 +4,8 @@ latitude: 48.53675
 longitude: 12.15166
 postcode: "84028"
 city: Landshut
-street: "Altstadt"
-housenumber: 87
-phone: "+49 871 20945204"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "https://shops.vodafone.de/landshut/altstadt-87"
+street: Altstadt
+housenumber: "87"
+phone: +49 871 20945204
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
+website: https://shops.vodafone.de/landshut/altstadt-87

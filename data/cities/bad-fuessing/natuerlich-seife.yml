@@ -1,11 +1,11 @@
 id: 236759474
-type: way
+type: node
 latitude: 48.35146
 longitude: 13.30552
 postcode: "94072"
 city: Bad Füssing
-street: "Tannenweg"
-housenumber: 4
+street: Tannenweg
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

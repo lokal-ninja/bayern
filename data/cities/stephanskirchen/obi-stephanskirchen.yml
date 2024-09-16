@@ -1,11 +1,11 @@
 id: 189592560
-type: way
+type: node
 latitude: 47.85018
 longitude: 12.15761
 postcode: "83071"
 city: Stephanskirchen
-street: "Hofmühlstraße"
-housenumber: 54
-phone: "+49 8031 700201"
+street: Hofmühlstraße
+housenumber: "54"
+phone: +49 8031 700201
 opening_hours: ""
-website: "https://www.obi.de/de/maerkte/Stephanskirchen"
+website: https://www.obi.de/de/maerkte/Stephanskirchen

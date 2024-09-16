@@ -1,11 +1,11 @@
 id: 377592537
-type: way
+type: node
 latitude: 49.96247
 longitude: 9.08191
 postcode: ""
 city: Stockstadt am Main
-street: "Taunusstraße"
-housenumber: 5
+street: Taunusstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.01523
 longitude: 12.12104
 postcode: "93055"
 city: Regensburg
-street: "Straubinger Straße"
-housenumber: 9
-phone: "+49 941 78019999"
-opening_hours: "Mo-We 09:00-17:00; Sa 09:00-13:00; Th 09:00-13:00; Fr 10:00-19:00"
-website: "https://www.wirkaufendeinauto.de/standorte/regensburg-93055/"
+street: Straubinger Straße
+housenumber: "9"
+phone: +49 941 78019999
+opening_hours: Mo-We 09:00-17:00; Sa 09:00-13:00; Th 09:00-13:00; Fr 10:00-19:00
+website: https://www.wirkaufendeinauto.de/standorte/regensburg-93055/

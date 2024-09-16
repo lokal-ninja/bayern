@@ -1,11 +1,11 @@
 id: 217141258
-type: way
+type: node
 latitude: 49.16859
 longitude: 11.45245
 postcode: "92360"
 city: Mühlhausen
-street: "Am Alten Bahnhof"
-housenumber: 20
+street: Am Alten Bahnhof
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

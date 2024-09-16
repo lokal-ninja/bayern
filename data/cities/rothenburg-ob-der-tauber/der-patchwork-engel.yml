@@ -4,8 +4,8 @@ latitude: 49.37301
 longitude: 10.18056
 postcode: "91541"
 city: Rothenburg ob der Tauber
-street: "Spitalgasse"
-housenumber: 19
-phone: "+49-9861-87889"
-opening_hours: "nach Vereinbarung"
-website: "http://www.patchwork-engel.de"
+street: Spitalgasse
+housenumber: "19"
+phone: +49-9861-87889
+opening_hours: '"nach Vereinbarung"'
+website: http://www.patchwork-engel.de

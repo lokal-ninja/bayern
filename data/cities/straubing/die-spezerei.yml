@@ -4,8 +4,8 @@ latitude: 48.88301
 longitude: 12.5694
 postcode: "94315"
 city: Straubing
-street: "Simon-Höller-Straße"
-housenumber: 24
-phone: "+49 9421 22289"
-opening_hours: "Mo-Fr 08:30-18:30; Sa 08:30-16:00"
-website: "http://www.die-spezerei.de/"
+street: Simon-Höller-Straße
+housenumber: "24"
+phone: +49 9421 22289
+opening_hours: Mo-Fr 08:30-18:30; Sa 08:30-16:00
+website: http://www.die-spezerei.de/

@@ -4,8 +4,8 @@ latitude: 48.13148
 longitude: 11.57542
 postcode: "80469"
 city: München
-street: "Klenzestraße"
-housenumber: 26
+street: Klenzestraße
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.penny.de/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.penny.de/

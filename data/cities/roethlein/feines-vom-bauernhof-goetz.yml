@@ -1,11 +1,11 @@
 id: 664812666
-type: way
+type: node
 latitude: 49.9845
 longitude: 10.21353
 postcode: "97520"
 city: Röthlein
-street: "Hauptstraße"
-housenumber: 90
-phone: "+49 9723 3542"
+street: Hauptstraße
+housenumber: "90"
+phone: +49 9723 3542
 opening_hours: ""
-website: "http://feines-vom-bauernhof.com"
+website: http://feines-vom-bauernhof.com

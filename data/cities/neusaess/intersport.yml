@@ -1,11 +1,11 @@
 id: 164623061
-type: way
+type: node
 latitude: 48.39447
 longitude: 10.82981
 postcode: "86356"
 city: Neusäß
-street: "Daimlerstraße"
-housenumber: 6
-phone: "+49 8214553770"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.schuh-schmid.com/filialen/neusaess-intersport/"
+street: Daimlerstraße
+housenumber: "6"
+phone: +49 8214553770
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.schuh-schmid.com/filialen/neusaess-intersport/

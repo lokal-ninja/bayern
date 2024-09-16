@@ -1,11 +1,11 @@
 id: 160311775
-type: way
+type: node
 latitude: 48.54464
 longitude: 12.13616
 postcode: "84034"
 city: Landshut
-street: "Herzog-Albrecht-Straße"
-housenumber: 20
+street: Herzog-Albrecht-Straße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://orterer.de"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://orterer.de

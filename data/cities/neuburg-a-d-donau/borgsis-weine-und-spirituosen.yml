@@ -4,8 +4,8 @@ latitude: 48.74469
 longitude: 11.22031
 postcode: "86633"
 city: Neuburg a. d. Donau
-street: "Donaustraße"
-housenumber: 40
-phone: "+49 (0) 8431 - 42190"
-opening_hours: "Mo-Th 17:00-20:00; Fr 14:00-18:00; Sa 09:00-16:00"
-website: "https://borgsis-weine.de/"
+street: Donaustraße
+housenumber: "40"
+phone: +49 (0) 8431 - 42190
+opening_hours: Mo-Th 17:00-20:00; Fr 14:00-18:00; Sa 09:00-16:00
+website: https://borgsis-weine.de/

@@ -4,8 +4,8 @@ latitude: 48.24355
 longitude: 10.36271
 postcode: "86381"
 city: Krumbach (Schwaben)
-street: "Franz-Aletsee-Straße"
-housenumber: 5
-phone: "+49 162 3205329"
-opening_hours: "nach Vereinbarung"
-website: "https://www.fmbeautybar.de/"
+street: Franz-Aletsee-Straße
+housenumber: "5"
+phone: +49 162 3205329
+opening_hours: '"nach Vereinbarung"'
+website: https://www.fmbeautybar.de/

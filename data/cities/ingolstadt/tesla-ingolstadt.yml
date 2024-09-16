@@ -1,11 +1,11 @@
 id: 1148970170
-type: way
+type: node
 latitude: 48.78685
 longitude: 11.48319
 postcode: "85055"
 city: Ingolstadt
-street: "Lise-Meitner-Straße"
-housenumber: 12
+street: Lise-Meitner-Straße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:00; Su off"
+opening_hours: Mo-Sa 09:00-18:00; Su off
 website: ""

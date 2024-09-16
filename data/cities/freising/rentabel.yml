@@ -4,8 +4,8 @@ latitude: 48.39564
 longitude: 11.76998
 postcode: "85356"
 city: Freising
-street: "Kepserstraße"
-housenumber: 41
+street: Kepserstraße
+housenumber: "41"
 phone: ""
-opening_hours: "Tu,Th 10:00-18:00; PH,Su,Mo off; Fr 10:00-16:00"
-website: "https://www.caritas-biq-freising.de/de/rentabel-gebrauchtwarenhaus"
+opening_hours: Tu,Th 10:00-18:00; PH,Su,Mo off; Fr 10:00-16:00
+website: https://www.caritas-biq-freising.de/de/rentabel-gebrauchtwarenhaus

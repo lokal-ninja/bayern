@@ -1,11 +1,11 @@
 id: 147495922
-type: way
+type: node
 latitude: 49.66096
 longitude: 12.15394
 postcode: "92637"
 city: Weiden i.d.OPf.
-street: "Untere Bauscherstraße"
-housenumber: 25
+street: Untere Bauscherstraße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

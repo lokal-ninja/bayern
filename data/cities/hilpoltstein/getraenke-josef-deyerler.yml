@@ -1,11 +1,11 @@
 id: 204976358
-type: way
+type: node
 latitude: 49.15019
 longitude: 11.24591
 postcode: "91161"
 city: Hilpoltstein
-street: "Mindorf A"
-housenumber: 25
+street: Mindorf A
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

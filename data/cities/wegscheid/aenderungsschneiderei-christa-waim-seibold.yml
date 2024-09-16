@@ -4,8 +4,8 @@ latitude: 48.59602
 longitude: 13.79294
 postcode: "94110"
 city: Wegscheid
-street: "Jahnstraße"
-housenumber: 39
-phone: "+49 8592 1725"
-opening_hours: "08:00-18:00"
+street: Jahnstraße
+housenumber: "39"
+phone: +49 8592 1725
+opening_hours: 08:00-18:00
 website: ""

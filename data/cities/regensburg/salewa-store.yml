@@ -4,8 +4,8 @@ latitude: 49.01881
 longitude: 12.0937
 postcode: "93047"
 city: Regensburg
-street: "Rote-Hahnen-Gasse"
-housenumber: 5
-phone: "+49-941-59855511"
-opening_hours: "Mo-Fr 10:00-18:30, Sa 10:00-18:00"
+street: Rote-Hahnen-Gasse
+housenumber: "5"
+phone: +49-941-59855511
+opening_hours: Mo-Fr 10:00-18:30, Sa 10:00-18:00
 website: ""

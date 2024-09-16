@@ -4,8 +4,8 @@ latitude: 48.71913
 longitude: 11.17264
 postcode: "86633"
 city: Neuburg an der Donau
-street: "Am Südpark"
-housenumber: 6
+street: Am Südpark
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 08:30-16:00"
-website: "https://www.suedpark-neuburg.de/getraenke-fleischmann"
+opening_hours: Mo-Fr 09:00-19:00; Sa 08:30-16:00
+website: https://www.suedpark-neuburg.de/getraenke-fleischmann

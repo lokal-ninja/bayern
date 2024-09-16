@@ -1,11 +1,11 @@
 id: 1212631763
-type: way
+type: node
 latitude: 47.84884
 longitude: 12.07542
 postcode: "83059"
 city: Kolbermoor
-street: "Rosenheimer Straße"
-housenumber: 54
+street: Rosenheimer Straße
+housenumber: "54"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de

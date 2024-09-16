@@ -4,8 +4,8 @@ latitude: 48.38087
 longitude: 10.92941
 postcode: "86165"
 city: Augsburg
-street: "Meraner Straße"
-housenumber: 3
-phone: "+49 821 718664"
-opening_hours: "Mo-Fr 09:00-19:00, Sa 09:00-18:00"
-website: "https://kimlongmarkt.de"
+street: Meraner Straße
+housenumber: "3"
+phone: +49 821 718664
+opening_hours: Mo-Fr 09:00-19:00, Sa 09:00-18:00
+website: https://kimlongmarkt.de

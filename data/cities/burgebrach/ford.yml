@@ -1,11 +1,11 @@
 id: 99465214
-type: way
+type: node
 latitude: 49.82722
 longitude: 10.74555
 postcode: "96138"
 city: Burgebrach
-street: "Bamberger Straße"
-housenumber: 3
+street: Bamberger Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

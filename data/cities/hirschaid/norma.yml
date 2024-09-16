@@ -1,11 +1,11 @@
 id: 77479235
-type: way
+type: node
 latitude: 49.81162
 longitude: 10.99853
 postcode: "96114"
 city: Hirschaid
-street: "Nürnberger Straße"
-housenumber: 94
+street: Nürnberger Straße
+housenumber: "94"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

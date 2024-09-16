@@ -4,8 +4,8 @@ latitude: 49.37953
 longitude: 10.18359
 postcode: "91541"
 city: Rothenburg ob der Tauber
-street: "Galgengasse"
-housenumber: 53
-phone: "+49 9861 935080"
-opening_hours: "Mo-Fr 08:30-18:00"
-website: "https://www.ortho-seitz.de/"
+street: Galgengasse
+housenumber: "53"
+phone: +49 9861 935080
+opening_hours: Mo-Fr 08:30-18:00
+website: https://www.ortho-seitz.de/

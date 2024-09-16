@@ -1,11 +1,11 @@
 id: 42931693
-type: way
+type: node
 latitude: 48.96687
 longitude: 13.13743
 postcode: "94209"
 city: Regen
-street: "Rinchnacher Straße"
-housenumber: 9
+street: Rinchnacher Straße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://filialen.aldi-sued.de/bayern/regen/rinchnacher-strasse-9"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://filialen.aldi-sued.de/bayern/regen/rinchnacher-strasse-9

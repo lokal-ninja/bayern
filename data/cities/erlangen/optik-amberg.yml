@@ -4,8 +4,8 @@ latitude: 49.597
 longitude: 11.00421
 postcode: "91054"
 city: Erlangen
-street: "Hauptstraße"
-housenumber: 26
-phone: "+49 9131 21162"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-16:00"
-website: "https://www.optik-amberg.de/"
+street: Hauptstraße
+housenumber: "26"
+phone: +49 9131 21162
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-16:00
+website: https://www.optik-amberg.de/

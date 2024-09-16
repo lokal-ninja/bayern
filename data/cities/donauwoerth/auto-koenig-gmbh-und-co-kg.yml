@@ -1,11 +1,11 @@
 id: 110247107
-type: way
+type: node
 latitude: 48.73322
 longitude: 10.77796
 postcode: "86609"
 city: Donauwörth
-street: "Nürnberger Straße"
-housenumber: 20
-phone: "+49 906 70665-0"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-13:00"
-website: "https://www.autokoenig.de/"
+street: Nürnberger Straße
+housenumber: "20"
+phone: +49 906 70665-0
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-13:00
+website: https://www.autokoenig.de/

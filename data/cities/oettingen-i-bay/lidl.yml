@@ -1,11 +1,11 @@
 id: 306914309
-type: way
+type: node
 latitude: 48.94629
 longitude: 10.59664
 postcode: "86732"
 city: Oettingen i.Bay.
-street: "Am Sauereck"
-housenumber: 1
+street: Am Sauereck
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

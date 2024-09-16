@@ -1,11 +1,11 @@
 id: 312881748
-type: way
+type: node
 latitude: 49.73431
 longitude: 10.1737
 postcode: "97318"
 city: Kitzingen
-street: "Mainbernheimer Straße"
+street: Mainbernheimer Straße
 housenumber: 97e
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.norma-online.de/de/filialfinder/suchergebnis?lng=10.17076&lat=49.7364&r=300"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.norma-online.de/de/filialfinder/suchergebnis?lng=10.17076&lat=49.7364&r=300

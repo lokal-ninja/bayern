@@ -1,11 +1,11 @@
 id: 743747168
-type: way
+type: node
 latitude: 49.66241
 longitude: 11.08173
 postcode: "91090"
 city: Effeltrich
-street: "Baiersdorfer Straße"
-housenumber: 37
+street: Baiersdorfer Straße
+housenumber: "37"
 phone: ""
 opening_hours: ""
 website: ""

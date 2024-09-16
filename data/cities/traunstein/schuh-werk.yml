@@ -4,8 +4,8 @@ latitude: 47.86865
 longitude: 12.64957
 postcode: "83278"
 city: Traunstein
-street: "Mittlere Hofgasse"
-housenumber: 8
-phone: "+49 861 164113"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:00; Th 09:00-12:00"
-website: "http://schuhwerk.inarbeit.org/"
+street: Mittlere Hofgasse
+housenumber: "8"
+phone: +49 861 164113
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:00; Th 09:00-12:00
+website: http://schuhwerk.inarbeit.org/

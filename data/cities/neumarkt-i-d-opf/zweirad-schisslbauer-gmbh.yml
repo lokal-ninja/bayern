@@ -1,11 +1,12 @@
 id: 165349736
-type: way
+type: node
 latitude: 49.28677
 longitude: 11.44877
 postcode: "92318"
 city: Neumarkt i.d.OPf
-street: "Nürnberger Straße"
-housenumber: 22
+street: Nürnberger Straße
+housenumber: "22"
 phone: "+4991814879290"
-opening_hours: "Mar-Sep: Mo-Fr 09:00-18:00, Sa 09:00-12:30; Oct-Feb: Mo-Fr 09:00-12:00,13:00-18:00, Sa 09:00-12:30"
-website: "https://www.schisslbauer.de/"
+opening_hours: 'Mar-Sep: Mo-Fr 09:00-18:00, Sa 09:00-12:30; Oct-Feb: Mo-Fr 09:00-12:00,13:00-18:00,
+    Sa 09:00-12:30'
+website: https://www.schisslbauer.de/

@@ -4,8 +4,9 @@ latitude: 48.10371
 longitude: 11.41938
 postcode: "82152"
 city: Planegg
-street: "Bahnhofstraße"
-housenumber: 19
+street: Bahnhofstraße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo 08:00-14:30; Tu 08:00-18:00; We 08:00-18:00; Th 08:00-20:00; Fr 08:00-18:00; Sa 08:00-15:00; Su, PH off"
-website: "https://friseure-aus-leidenschaft.de/"
+opening_hours: Mo 08:00-14:30; Tu 08:00-18:00; We 08:00-18:00; Th 08:00-20:00; Fr
+    08:00-18:00; Sa 08:00-15:00; Su, PH off
+website: https://friseure-aus-leidenschaft.de/

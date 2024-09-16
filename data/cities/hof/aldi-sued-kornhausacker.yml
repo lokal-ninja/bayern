@@ -1,11 +1,11 @@
 id: 33860012
-type: way
+type: node
 latitude: 50.32337
 longitude: 11.89296
 postcode: "95030"
 city: Hof
-street: "Kornhausacker"
-housenumber: 7
+street: Kornhausacker
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://filialen.aldi-sued.de/bayern/hof/kornhausacker-7"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://filialen.aldi-sued.de/bayern/hof/kornhausacker-7

@@ -1,11 +1,11 @@
 id: 982810187
-type: way
+type: node
 latitude: 50.13401
 longitude: 10.56387
 postcode: "97461"
 city: Hofheim
-street: "Kindergartenstraße"
-housenumber: 
+street: Kindergartenstraße
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

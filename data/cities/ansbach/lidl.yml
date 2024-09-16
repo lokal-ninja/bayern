@@ -1,11 +1,11 @@
 id: 196892126
-type: way
+type: node
 latitude: 49.29603
 longitude: 10.56889
 postcode: "91522"
 city: Ansbach
-street: "Louis-Schmetzer-Straße"
-housenumber: 4
+street: Louis-Schmetzer-Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

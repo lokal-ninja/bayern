@@ -4,8 +4,8 @@ latitude: 48.19262
 longitude: 11.86377
 postcode: "85570"
 city: Markt Schwaben
-street: "Bahnhofallee"
-housenumber: 1
+street: Bahnhofallee
+housenumber: "1"
 phone: ""
-opening_hours: "Tu -Sa 09:00-15:00; We 15:00-17:00"
-website: "http://aufdackeln.de"
+opening_hours: Tu -Sa 09:00-15:00; We 15:00-17:00
+website: http://aufdackeln.de

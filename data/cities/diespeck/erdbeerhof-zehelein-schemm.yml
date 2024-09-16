@@ -5,7 +5,7 @@ longitude: 10.60086
 postcode: "91456"
 city: Diespeck
 street: ""
-housenumber: 10
+housenumber: "10"
 phone: ""
 opening_hours: ""
-website: "https://www.zehelein-schemm.de/"
+website: https://www.zehelein-schemm.de/

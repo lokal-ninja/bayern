@@ -4,8 +4,8 @@ latitude: 49.45777
 longitude: 11.12558
 postcode: "90482"
 city: Nürnberg
-street: "Ostendstraße"
-housenumber: 176
+street: Ostendstraße
+housenumber: "176"
 phone: "+49911544592"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-13:00"
-website: "https://metzgerei-walk.de/fachgeschaefte.php?show=7"
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-13:00
+website: https://metzgerei-walk.de/fachgeschaefte.php?show=7

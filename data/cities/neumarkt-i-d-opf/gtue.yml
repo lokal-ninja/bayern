@@ -1,11 +1,11 @@
 id: 116739240
-type: way
+type: node
 latitude: 49.26995
 longitude: 11.46201
 postcode: "92318"
 city: Neumarkt i.d.OPf
-street: "Ingolstädter Straße"
-housenumber: 30
+street: Ingolstädter Straße
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

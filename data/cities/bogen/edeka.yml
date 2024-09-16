@@ -1,11 +1,11 @@
 id: 976245742
-type: way
+type: node
 latitude: 48.91926
 longitude: 12.66942
 postcode: "94327"
 city: Bogen
-street: "Petersgewanne"
+street: Petersgewanne
 housenumber: 1a
-phone: "+49 9422 8079960"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.moder-edeka.de/"
+phone: +49 9422 8079960
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.moder-edeka.de/

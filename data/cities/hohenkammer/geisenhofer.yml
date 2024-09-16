@@ -4,8 +4,8 @@ latitude: 48.42351
 longitude: 11.52027
 postcode: "85411"
 city: Hohenkammer
-street: "Schloßstraße"
-housenumber: 19
-phone: "+49 8137 7832"
-opening_hours: "Tu-Fr 07:30-12:30,14:00-18:00; Sa 07:00-12:00; Mo off"
-website: "https://metzgerei-geisenhofer.de"
+street: Schloßstraße
+housenumber: "19"
+phone: +49 8137 7832
+opening_hours: Tu-Fr 07:30-12:30,14:00-18:00; Sa 07:00-12:00; Mo off
+website: https://metzgerei-geisenhofer.de

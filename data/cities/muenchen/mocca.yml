@@ -4,8 +4,8 @@ latitude: 48.11899
 longitude: 11.54812
 postcode: "81371"
 city: München
-street: "Implerstraße"
-housenumber: 40
-phone: "+49 89 32163600"
-opening_hours: "Mo-Fr 06:00-20:00; Sa 06:00-16:00; Su,PH 07:00-15:00"
+street: Implerstraße
+housenumber: "40"
+phone: +49 89 32163600
+opening_hours: Mo-Fr 06:00-20:00; Sa 06:00-16:00; Su,PH 07:00-15:00
 website: ""

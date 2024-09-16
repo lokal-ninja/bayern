@@ -1,11 +1,11 @@
 id: 93663379
-type: way
+type: node
 latitude: 49.55919
 longitude: 11.34109
 postcode: "91220"
 city: Schnaittach
-street: "Festungsstraße"
-housenumber: 7
-phone: "+49 91531496"
+street: Festungsstraße
+housenumber: "7"
+phone: +49 91531496
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 204037380
-type: way
+type: node
 latitude: 49.70562
 longitude: 9.2753
 postcode: "63927"
 city: Bürgstadt
-street: "Eichenbühler Straße"
-housenumber: 77
-phone: "+49 9371 2431"
-opening_hours: "Mo-Th 08:00-16:00; Fr 08:00-15:00; PH off"
-website: "http://www.kaesemuench.de/"
+street: Eichenbühler Straße
+housenumber: "77"
+phone: +49 9371 2431
+opening_hours: Mo-Th 08:00-16:00; Fr 08:00-15:00; PH off
+website: http://www.kaesemuench.de/

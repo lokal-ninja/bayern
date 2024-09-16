@@ -1,11 +1,11 @@
 id: 143983240
-type: way
+type: node
 latitude: 48.85219
 longitude: 13.28256
 postcode: "94548"
 city: Innernzell
-street: "Grafenauer Straße"
-housenumber: 31
+street: Grafenauer Straße
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

@@ -4,8 +4,9 @@ latitude: 48.13961
 longitude: 11.51165
 postcode: "80687"
 city: München
-street: "Friedenheimer Straße"
-housenumber: 27
+street: Friedenheimer Straße
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Tu 07:00-12:00,13:00-18:00, We 07:00-18:00, Th 07:00-12:00,13:00-18:00, Fr 07:00-18:00, Sa 07:30-13:00"
+opening_hours: Mo-Tu 07:00-12:00,13:00-18:00, We 07:00-18:00, Th 07:00-12:00,13:00-18:00,
+    Fr 07:00-18:00, Sa 07:30-13:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.04584
 longitude: 11.96731
 postcode: "85567"
 city: Grafing bei München
-street: "Marktplatz"
-housenumber: 11
-phone: "+49 8092 336144"
-opening_hours: "Mo-Fr 10:00-13:00, 14:00-18:00; PH off"
-website: "https://www.fonland.de"
+street: Marktplatz
+housenumber: "11"
+phone: +49 8092 336144
+opening_hours: Mo-Fr 10:00-13:00, 14:00-18:00; PH off
+website: https://www.fonland.de

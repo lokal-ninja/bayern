@@ -1,11 +1,11 @@
 id: 743674705
-type: way
+type: node
 latitude: 48.15852
 longitude: 11.85426
 postcode: "85646"
 city: Anzing
-street: "Erdinger Straße"
-housenumber: 34
+street: Erdinger Straße
+housenumber: "34"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

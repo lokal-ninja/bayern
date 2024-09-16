@@ -4,8 +4,8 @@ latitude: 48.56076
 longitude: 12.13878
 postcode: "84030"
 city: Landshut
-street: "Waldkirchener Straße"
-housenumber: 1
+street: Waldkirchener Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://netto-online.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://netto-online.de

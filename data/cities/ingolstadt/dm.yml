@@ -4,8 +4,8 @@ latitude: 48.77384
 longitude: 11.39003
 postcode: "85057"
 city: Ingolstadt
-street: "Am Westpark"
-housenumber: 6
+street: Am Westpark
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su, PH Off"
-website: "https://www.dm.de/"
+opening_hours: Mo-Sa 08:00-20:00; Su, PH Off
+website: https://www.dm.de/

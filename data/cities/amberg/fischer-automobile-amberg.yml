@@ -4,8 +4,8 @@ latitude: 49.44976
 longitude: 11.82611
 postcode: "92224"
 city: Amberg
-street: "Speckmannshofer Straße"
-housenumber: 2
-phone: "+49 9621 3090"
-opening_hours: "Mo-Fr 8:00-18:00"
-website: "https://fischer-automobile.de/unternehmen/standorte/amberg"
+street: Speckmannshofer Straße
+housenumber: "2"
+phone: +49 9621 3090
+opening_hours: Mo-Fr 8:00-18:00
+website: https://fischer-automobile.de/unternehmen/standorte/amberg

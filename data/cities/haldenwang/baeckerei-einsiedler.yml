@@ -1,11 +1,11 @@
 id: 88882380
-type: way
+type: node
 latitude: 47.80174
 longitude: 10.34194
 postcode: "87490"
 city: Haldenwang
-street: "Schafgasse"
-housenumber: 13
+street: Schafgasse
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 06:00-13:00,14:00-18:00; Sa 06:00-12:30"
+opening_hours: Mo-Fr 06:00-13:00,14:00-18:00; Sa 06:00-12:30
 website: ""

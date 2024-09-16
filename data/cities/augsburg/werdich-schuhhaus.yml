@@ -4,8 +4,8 @@ latitude: 48.36731
 longitude: 10.89784
 postcode: "86150"
 city: Augsburg
-street: "Moritzplatz"
-housenumber: 2
+street: Moritzplatz
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:30-20:00; Sa 09:30-18:00"
-website: "https://www.werdich.com/werdich-das-schuhhaus-in-augsburg/"
+opening_hours: Mo-Fr 09:30-20:00; Sa 09:30-18:00
+website: https://www.werdich.com/werdich-das-schuhhaus-in-augsburg/

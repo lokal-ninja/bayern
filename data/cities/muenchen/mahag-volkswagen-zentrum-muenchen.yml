@@ -4,8 +4,8 @@ latitude: 48.128
 longitude: 11.58999
 postcode: "81669"
 city: München
-street: "Schleibingerstraße"
-housenumber: 16
-phone: "+49 89 48001-100"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 09:00-14:00; Su 11:00-16:00"
-website: "https://www.mahag.de/"
+street: Schleibingerstraße
+housenumber: "16"
+phone: +49 89 48001-100
+opening_hours: Mo-Fr 07:00-18:00; Sa 09:00-14:00; Su 11:00-16:00
+website: https://www.mahag.de/

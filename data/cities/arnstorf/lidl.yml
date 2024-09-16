@@ -1,11 +1,11 @@
 id: 215546506
-type: way
+type: node
 latitude: 48.56426
 longitude: 12.82464
 postcode: "94424"
 city: Arnstorf
-street: "Mariakirchener Straße"
-housenumber: 34
+street: Mariakirchener Straße
+housenumber: "34"
 phone: ""
 opening_hours: ""
 website: ""

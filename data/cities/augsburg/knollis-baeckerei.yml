@@ -4,8 +4,8 @@ latitude: 48.31818
 longitude: 10.90961
 postcode: "86179"
 city: Augsburg
-street: "Haunstetter Straße"
-housenumber: 239
+street: Haunstetter Straße
+housenumber: "239"
 phone: ""
-opening_hours: "Mo-Fr 06:00-20:00; Sa 06:00-19:00"
-website: "http://friedberger-landbrot.de/"
+opening_hours: Mo-Fr 06:00-20:00; Sa 06:00-19:00
+website: http://friedberger-landbrot.de/

@@ -4,8 +4,8 @@ latitude: 49.44652
 longitude: 11.0769
 postcode: "90443"
 city: Nürnberg
-street: "Richard-Wagner-Platz"
-housenumber: 1
+street: Richard-Wagner-Platz
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00"
+opening_hours: Mo-Sa 09:00-19:00
 website: ""

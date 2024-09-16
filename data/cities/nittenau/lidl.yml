@@ -1,11 +1,11 @@
 id: 1292966039
-type: way
+type: node
 latitude: 49.20587
 longitude: 12.28556
 postcode: "93149"
 city: Nittenau
-street: "Industriestraße"
-housenumber: 9
+street: Industriestraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.lidl.de/f/nittenau/industriestrasse-9.html"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.lidl.de/f/nittenau/industriestrasse-9.html

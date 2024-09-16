@@ -1,11 +1,11 @@
 id: 237773949
-type: way
+type: node
 latitude: 49.11893
 longitude: 10.75403
 postcode: "91710"
 city: Gunzenhausen
-street: "Bahnhofstraße"
-housenumber: 20
+street: Bahnhofstraße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

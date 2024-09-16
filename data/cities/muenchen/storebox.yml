@@ -4,8 +4,8 @@ latitude: 48.14371
 longitude: 11.53627
 postcode: "80636"
 city: München
-street: "Erika-Mann-Straße"
-housenumber: 62
-phone: "0800 366 6446"
-opening_hours: "24/7"
+street: Erika-Mann-Straße
+housenumber: "62"
+phone: 0800 366 6446
+opening_hours: 24/7
 website: ""

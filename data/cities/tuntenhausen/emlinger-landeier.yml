@@ -5,7 +5,7 @@ longitude: 12.03307
 postcode: "83104"
 city: Tuntenhausen
 street: ""
-housenumber: 1
-phone: "+49 8067 1766"
-opening_hours: "Mo-Su 07:30-19:00"
-website: "https://www.huehnerhotel-emling.de/"
+housenumber: "1"
+phone: +49 8067 1766
+opening_hours: Mo-Su 07:30-19:00
+website: https://www.huehnerhotel-emling.de/

@@ -4,8 +4,8 @@ latitude: 47.85421
 longitude: 12.12513
 postcode: "83022"
 city: Rosenheim
-street: "Münchener Straße"
-housenumber: 9
+street: Münchener Straße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00"
-website: "http://www.siebzehnrübl.de/"
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-18:00
+website: http://www.siebzehnrübl.de/

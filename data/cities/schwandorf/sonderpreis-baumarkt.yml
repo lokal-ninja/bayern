@@ -1,11 +1,11 @@
 id: 30893127
-type: way
+type: node
 latitude: 49.31362
 longitude: 12.14848
 postcode: "92421"
 city: Schwandorf
-street: "Am Brunnfeld"
-housenumber: 2
+street: Am Brunnfeld
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

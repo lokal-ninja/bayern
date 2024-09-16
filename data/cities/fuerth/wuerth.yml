@@ -1,11 +1,11 @@
 id: 287892165
-type: way
+type: node
 latitude: 49.48445
 longitude: 10.94504
 postcode: "90766"
 city: Fürth
-street: "Manfred-Roth-Straße"
-housenumber: 15
+street: Manfred-Roth-Straße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.26201
 longitude: 10.96576
 postcode: "96450"
 city: Coburg
-street: "Steinweg"
-housenumber: 42
-phone: "+49 9561 7098773"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-14:00; Su,Mo,PH off"
+street: Steinweg
+housenumber: "42"
+phone: +49 9561 7098773
+opening_hours: Tu-Fr 09:00-18:00; Sa 09:00-14:00; Su,Mo,PH off
 website: ""

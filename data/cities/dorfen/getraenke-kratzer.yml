@@ -4,8 +4,8 @@ latitude: 48.26708
 longitude: 12.15734
 postcode: "84405"
 city: Dorfen
-street: "Bahnhofstraße"
-housenumber: 4
-phone: "+49 8081 955805"
-opening_hours: "Mo-Sa 08:00-19:00"
-website: "https://getraenke-kratzer-claus.de/"
+street: Bahnhofstraße
+housenumber: "4"
+phone: +49 8081 955805
+opening_hours: Mo-Sa 08:00-19:00
+website: https://getraenke-kratzer-claus.de/

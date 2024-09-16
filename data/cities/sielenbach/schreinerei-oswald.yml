@@ -1,11 +1,11 @@
 id: 153190294
-type: way
+type: node
 latitude: 48.40079
 longitude: 11.1644
 postcode: "86577"
 city: Sielenbach
-street: "Maria-Birnbaum-Straße"
+street: Maria-Birnbaum-Straße
 housenumber: 10a
 phone: ""
 opening_hours: ""
-website: "http://schreiner-oswald.de"
+website: http://schreiner-oswald.de

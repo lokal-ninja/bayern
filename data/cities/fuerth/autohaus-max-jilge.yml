@@ -1,11 +1,11 @@
 id: 320896947
-type: way
+type: node
 latitude: 49.49133
 longitude: 10.91813
 postcode: "90768"
 city: Fürth
-street: "Lagerstraße"
-housenumber: 72
-phone: "+49 911 751394"
-opening_hours: "Mo-Th 07:30-18:00; Fr 07:30-17:00; Sa 08:00-12:00"
-website: "https://www.autohausmaxjilge.de/"
+street: Lagerstraße
+housenumber: "72"
+phone: +49 911 751394
+opening_hours: Mo-Th 07:30-18:00; Fr 07:30-17:00; Sa 08:00-12:00
+website: https://www.autohausmaxjilge.de/

@@ -1,11 +1,11 @@
 id: 776315938
-type: way
+type: node
 latitude: 47.6492
 longitude: 11.1192
 postcode: ""
 city: Schwaigen Grafenaschau
-street: "Aschauer Straße"
-housenumber: 13
+street: Aschauer Straße
+housenumber: "13"
 phone: ""
 opening_hours: ""
-website: "https://dorfladen-grafenaschau.de"
+website: https://dorfladen-grafenaschau.de

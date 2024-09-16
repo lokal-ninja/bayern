@@ -4,8 +4,8 @@ latitude: 48.15098
 longitude: 11.57406
 postcode: "80799"
 city: München
-street: "Schellingstraße"
-housenumber: 48
-phone: "+49 89 27370162"
-opening_hours: "Tu-Fr 11:00-18:00; Sa 11:00-16:00"
-website: "https://www.storms-galerie.de/"
+street: Schellingstraße
+housenumber: "48"
+phone: +49 89 27370162
+opening_hours: Tu-Fr 11:00-18:00; Sa 11:00-16:00
+website: https://www.storms-galerie.de/

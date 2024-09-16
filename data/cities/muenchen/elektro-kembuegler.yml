@@ -4,8 +4,8 @@ latitude: 48.16048
 longitude: 11.52479
 postcode: "80638"
 city: München
-street: "Gerner Straße"
-housenumber: 20
+street: Gerner Straße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-13:00; PH off"
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-13:00; PH off
 website: ""

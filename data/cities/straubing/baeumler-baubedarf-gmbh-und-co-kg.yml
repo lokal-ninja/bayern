@@ -1,11 +1,11 @@
 id: 187114084
-type: way
+type: node
 latitude: 48.89172
 longitude: 12.62346
 postcode: "94315"
 city: Straubing
-street: "Schlesische Straße"
-housenumber: 235
-phone: "+49 9421 63061"
+street: Schlesische Straße
+housenumber: "235"
+phone: +49 9421 63061
 opening_hours: ""
-website: "http://www.baeumler-baubedarf.de/"
+website: http://www.baeumler-baubedarf.de/

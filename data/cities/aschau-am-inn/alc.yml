@@ -4,8 +4,8 @@ latitude: 48.19887
 longitude: 12.34938
 postcode: "84544"
 city: Aschau am Inn
-street: "Erlenweg"
-housenumber: 5
+street: Erlenweg
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.alc-group.de"
+website: https://www.alc-group.de

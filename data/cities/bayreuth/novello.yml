@@ -4,8 +4,8 @@ latitude: 49.94458
 longitude: 11.57125
 postcode: "95444"
 city: Bayreuth
-street: "Maximilianstraße"
-housenumber: 74
+street: Maximilianstraße
+housenumber: "74"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:30-16:00; Su off"
-website: "https://www.novello-bayreuth.de/"
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:30-16:00; Su off
+website: https://www.novello-bayreuth.de/

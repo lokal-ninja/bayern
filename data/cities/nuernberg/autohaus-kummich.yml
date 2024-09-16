@@ -4,8 +4,8 @@ latitude: 49.4581
 longitude: 11.03556
 postcode: "90429"
 city: Nürnberg
-street: "Fürther Straße"
-housenumber: 210
-phone: "+49 911 32440 0"
-opening_hours: "Mo-Fr 08:30-18:00; Sa 09:30-16:00"
-website: "https://www.kummich.de/ueber-uns/standorte/nuernberg.html"
+street: Fürther Straße
+housenumber: "210"
+phone: +49 911 32440 0
+opening_hours: Mo-Fr 08:30-18:00; Sa 09:30-16:00
+website: https://www.kummich.de/ueber-uns/standorte/nuernberg.html

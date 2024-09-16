@@ -4,8 +4,8 @@ latitude: 48.72547
 longitude: 13.37163
 postcode: "94104"
 city: Tittling
-street: "Falkensteinstraße"
-housenumber: 4
+street: Falkensteinstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,13:00-18:00; Sa,Su 09:00-12:00,13:00-16:00"
-website: "https://www.imkerei-umlauf.de/"
+opening_hours: Mo-Fr 08:00-12:00,13:00-18:00; Sa,Su 09:00-12:00,13:00-16:00
+website: https://www.imkerei-umlauf.de/

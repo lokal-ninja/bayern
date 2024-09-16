@@ -1,11 +1,11 @@
 id: 95850521
-type: way
+type: node
 latitude: 49.43749
 longitude: 11.88125
 postcode: "92224"
 city: Amberg
-street: "Regensburger Straße"
-housenumber: 69
+street: Regensburger Straße
+housenumber: "69"
 phone: ""
 opening_hours: ""
 website: ""

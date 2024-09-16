@@ -4,8 +4,8 @@ latitude: 49.24956
 longitude: 11.10589
 postcode: "91154"
 city: Roth
-street: "Ostring"
-housenumber: 12
+street: Ostring
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off
 website: ""

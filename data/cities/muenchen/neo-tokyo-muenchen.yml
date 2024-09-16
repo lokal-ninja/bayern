@@ -4,8 +4,8 @@ latitude: 48.16244
 longitude: 11.58776
 postcode: "80802"
 city: München
-street: "Haimhauserstraße"
-housenumber: 3
-phone: "+49 89 346986"
-opening_hours: "Mo-Sa 11:00-18:30"
+street: Haimhauserstraße
+housenumber: "3"
+phone: +49 89 346986
+opening_hours: Mo-Sa 11:00-18:30
 website: ""

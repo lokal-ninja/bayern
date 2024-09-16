@@ -1,11 +1,11 @@
 id: 92898000
-type: way
+type: node
 latitude: 48.09651
 longitude: 11.95992
 postcode: "85560"
 city: Ebersberg
-street: "Anzinger Straße"
-housenumber: 6
+street: Anzinger Straße
+housenumber: "6"
 phone: "+498008002534"
-opening_hours: "Mo-Fr 06:00-14:00"
-website: "https://www.aldi-sued.de/"
+opening_hours: Mo-Fr 06:00-14:00
+website: https://www.aldi-sued.de/

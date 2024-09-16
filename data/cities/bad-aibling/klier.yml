@@ -4,8 +4,8 @@ latitude: 47.87079
 longitude: 11.99992
 postcode: "83043"
 city: Bad Aibling
-street: "Grassingerstraße"
-housenumber: 16
-phone: "+49 8061 93 66 87"
-opening_hours: "Mo-Sa 09:00-19:00; PH off"
-website: "https://www.klier.de/"
+street: Grassingerstraße
+housenumber: "16"
+phone: +49 8061 93 66 87
+opening_hours: Mo-Sa 09:00-19:00; PH off
+website: https://www.klier.de/

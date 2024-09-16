@@ -1,11 +1,11 @@
 id: 577273143
-type: way
+type: node
 latitude: 49.70595
 longitude: 11.93527
 postcode: "92655"
 city: Grafenwöhr
-street: "Im Gewerbepark"
-housenumber: 30
+street: Im Gewerbepark
+housenumber: "30"
 phone: "09641936800"
 opening_hours: ""
 website: ""

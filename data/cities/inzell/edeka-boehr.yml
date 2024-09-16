@@ -1,11 +1,11 @@
 id: 123033623
-type: way
+type: node
 latitude: 47.76176
 longitude: 12.75078
 postcode: "83334"
 city: Inzell
-street: "Bichlstraße"
-housenumber: 1
+street: Bichlstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:30-19:30"
+opening_hours: Mo-Sa 07:30-19:30
 website: ""

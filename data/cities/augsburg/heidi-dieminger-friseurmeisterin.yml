@@ -4,8 +4,8 @@ latitude: 48.37561
 longitude: 10.88972
 postcode: "86152"
 city: Augsburg
-street: "Lange Gasse"
-housenumber: 31
-phone: "+49 821 319 41 40"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 08:00-13:00"
+street: Lange Gasse
+housenumber: "31"
+phone: +49 821 319 41 40
+opening_hours: Tu-Fr 09:00-18:00; Sa 08:00-13:00
 website: ""

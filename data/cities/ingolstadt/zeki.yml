@@ -1,11 +1,11 @@
 id: 537173202
-type: way
+type: node
 latitude: 48.77983
 longitude: 11.36278
 postcode: "85049"
 city: Ingolstadt
-street: "Ochsenmühlstraße"
-housenumber: 11
+street: Ochsenmühlstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00"
+opening_hours: Mo-Fr 09:00-18:00
 website: ""

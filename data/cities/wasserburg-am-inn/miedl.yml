@@ -4,8 +4,8 @@ latitude: 48.06185
 longitude: 12.23063
 postcode: "83512"
 city: Wasserburg am Inn
-street: "Schustergasse"
-housenumber: 2
-phone: "+49 8071 9224508"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:30-17:00; Su 07:00-12:00"
-website: "https://www.miedl.com/"
+street: Schustergasse
+housenumber: "2"
+phone: +49 8071 9224508
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:30-17:00; Su 07:00-12:00
+website: https://www.miedl.com/

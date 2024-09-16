@@ -4,8 +4,8 @@ latitude: 49.5962
 longitude: 11.01359
 postcode: "91054"
 city: Erlangen
-street: "Waldstraße"
-housenumber: 2
+street: Waldstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Th 08:00-17:00; Fr 08:00-15:30"
-website: "http://www.elektro-grosshandel-schmidt.de/"
+opening_hours: Mo-Th 08:00-17:00; Fr 08:00-15:30
+website: http://www.elektro-grosshandel-schmidt.de/

@@ -4,8 +4,8 @@ latitude: 48.13215
 longitude: 11.59242
 postcode: "81667"
 city: München
-street: "Preysingstraße"
-housenumber: 6
+street: Preysingstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Tu-Fr 10:00-12:00,13:00-17:00"
+opening_hours: Tu-Fr 10:00-12:00,13:00-17:00
 website: ""

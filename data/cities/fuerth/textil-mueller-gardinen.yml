@@ -1,11 +1,11 @@
 id: 207703785
-type: way
+type: node
 latitude: 49.5101
 longitude: 10.97745
 postcode: "90765"
 city: Fürth
-street: "Gebrüder-Grimm-Straße"
-housenumber: 14
-phone: "+49 911 761570"
-opening_hours: "Mo 09:00-12:00,14:30-18:00"
-website: "https://www.gardinen-fuerth.com"
+street: Gebrüder-Grimm-Straße
+housenumber: "14"
+phone: +49 911 761570
+opening_hours: Mo 09:00-12:00,14:30-18:00
+website: https://www.gardinen-fuerth.com

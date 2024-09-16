@@ -1,11 +1,11 @@
 id: 101084293
-type: way
+type: node
 latitude: 48.46395
 longitude: 11.24824
 postcode: "86576"
 city: Schiltberg
-street: "Obere Ortsstraße"
-housenumber: 14
-phone: "+49 8259 8282623"
-opening_hours: "Mo-Fr 06:00-17:00; Sa 06:00-12:00; Su,PH off"
-website: "https://baeckerei-kornprobst.de/filialen/"
+street: Obere Ortsstraße
+housenumber: "14"
+phone: +49 8259 8282623
+opening_hours: Mo-Fr 06:00-17:00; Sa 06:00-12:00; Su,PH off
+website: https://baeckerei-kornprobst.de/filialen/

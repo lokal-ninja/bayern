@@ -4,8 +4,8 @@ latitude: 48.11259
 longitude: 11.54413
 postcode: "81371"
 city: München
-street: "Brudermühlstraße"
-housenumber: 54
+street: Brudermühlstraße
+housenumber: "54"
 phone: ""
-opening_hours: "Mo 06:00-17:00;Tu-Th 07:00-17:00;Fr 07:00-18:00;Sa,Su,PH off"
-website: "https://www.verleihnix.de/"
+opening_hours: Mo 06:00-17:00;Tu-Th 07:00-17:00;Fr 07:00-18:00;Sa,Su,PH off
+website: https://www.verleihnix.de/

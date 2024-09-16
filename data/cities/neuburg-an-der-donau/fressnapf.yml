@@ -4,8 +4,8 @@ latitude: 48.71904
 longitude: 11.17264
 postcode: "86633"
 city: Neuburg an der Donau
-street: "Am Südpark"
-housenumber: 4
+street: Am Südpark
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 08:30-18:00"
-website: "https://www.suedpark-neuburg.de/fressnapf"
+opening_hours: Mo-Fr 09:00-19:00; Sa 08:30-18:00
+website: https://www.suedpark-neuburg.de/fressnapf

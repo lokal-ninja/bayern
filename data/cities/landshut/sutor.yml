@@ -4,8 +4,8 @@ latitude: 48.5352
 longitude: 12.14975
 postcode: "84028"
 city: Landshut
-street: "Theaterstraße"
-housenumber: 64
+street: Theaterstraße
+housenumber: "64"
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://sutor.de"
+opening_hours: Mo-Sa 09:30-19:00
+website: https://sutor.de

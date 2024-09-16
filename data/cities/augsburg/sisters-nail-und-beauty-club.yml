@@ -4,8 +4,8 @@ latitude: 48.31194
 longitude: 10.90253
 postcode: "86179"
 city: Augsburg
-street: "Neue Straße"
-housenumber: 27
+street: Neue Straße
+housenumber: "27"
 phone: "+4982140826730"
-opening_hours: "by appointment"
+opening_hours: '"by appointment"'
 website: ""

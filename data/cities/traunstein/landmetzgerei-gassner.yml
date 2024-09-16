@@ -1,11 +1,11 @@
 id: 175018379
-type: way
+type: node
 latitude: 47.88141
 longitude: 12.63397
 postcode: "83278"
 city: Traunstein
-street: "Gewerbepark Kaserne"
-housenumber: 19
+street: Gewerbepark Kaserne
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

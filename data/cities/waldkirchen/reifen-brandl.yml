@@ -1,11 +1,11 @@
 id: 327681734
-type: way
+type: node
 latitude: 48.73061
 longitude: 13.60946
 postcode: "94065"
 city: Waldkirchen
-street: "Bannholzstraße"
-housenumber: 20
-phone: "+49 8581 2987"
+street: Bannholzstraße
+housenumber: "20"
+phone: +49 8581 2987
 opening_hours: ""
 website: ""

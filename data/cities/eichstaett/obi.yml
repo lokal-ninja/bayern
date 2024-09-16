@@ -1,11 +1,11 @@
 id: 316709683
-type: way
+type: node
 latitude: 48.87728
 longitude: 11.2109
 postcode: "85072"
 city: Eichstätt
-street: "Sollnau"
-housenumber: 38
+street: Sollnau
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00; PH off"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00; PH off
 website: ""

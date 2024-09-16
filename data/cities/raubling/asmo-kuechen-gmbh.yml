@@ -1,11 +1,11 @@
 id: 185650894
-type: way
+type: node
 latitude: 47.80987
 longitude: 12.11963
 postcode: "83064"
 city: Raubling
-street: "Rosenheimer Straße"
-housenumber: 105
+street: Rosenheimer Straße
+housenumber: "105"
 phone: ""
 opening_hours: ""
-website: "https://www.asmo.de/"
+website: https://www.asmo.de/

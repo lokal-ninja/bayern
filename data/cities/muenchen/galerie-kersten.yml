@@ -4,8 +4,8 @@ latitude: 48.1347
 longitude: 11.57745
 postcode: "80331"
 city: München
-street: "Westenriederstraße"
-housenumber: 6
-phone: "+49 89 292525"
-opening_hours: "Tu-Fr 11:00-18:00; Sa 11:00-16:00"
-website: "https://galerie-kersten.de/muenchen-viktualienmarkt/"
+street: Westenriederstraße
+housenumber: "6"
+phone: +49 89 292525
+opening_hours: Tu-Fr 11:00-18:00; Sa 11:00-16:00
+website: https://galerie-kersten.de/muenchen-viktualienmarkt/

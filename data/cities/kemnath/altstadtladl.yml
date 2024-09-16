@@ -4,8 +4,8 @@ latitude: 49.87054
 longitude: 11.88751
 postcode: "95478"
 city: Kemnath
-street: "Stadtplatz"
-housenumber: 11
+street: Stadtplatz
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 08:00-13:00, Mo-Fr 14:00-18:00; Su,PH off"
-website: "https://altstadtladl.de/"
+opening_hours: Mo-Sa 08:00-13:00, Mo-Fr 14:00-18:00; Su,PH off
+website: https://altstadtladl.de/

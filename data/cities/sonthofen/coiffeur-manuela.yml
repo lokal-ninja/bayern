@@ -1,11 +1,11 @@
 id: 89806054
-type: way
+type: node
 latitude: 47.51148
 longitude: 10.27568
 postcode: "87527"
 city: Sonthofen
-street: "Freibadstraße"
-housenumber: 5
+street: Freibadstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

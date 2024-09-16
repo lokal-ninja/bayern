@@ -1,11 +1,11 @@
 id: 302202744
-type: way
+type: node
 latitude: 49.64613
 longitude: 9.21845
 postcode: "63916"
 city: Amorbach
-street: "Miltenberger Straße"
-housenumber: 33
+street: Miltenberger Straße
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1100616142
-type: way
+type: node
 latitude: 48.57987
 longitude: 13.40155
 postcode: "94036"
 city: Passau
-street: "Thann"
-housenumber: 13
+street: Thann
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 08:00-13:00"
+opening_hours: Mo-Fr 08:00-13:00
 website: ""

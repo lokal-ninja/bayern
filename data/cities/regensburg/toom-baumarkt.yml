@@ -4,8 +4,8 @@ latitude: 49.00775
 longitude: 12.06239
 postcode: "93051"
 city: Regensburg
-street: "Dr.-Gessler-Straße"
-housenumber: 47
-phone: "+49 941 630804-10"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "http://www.toom-baumarkt.de"
+street: Dr.-Gessler-Straße
+housenumber: "47"
+phone: +49 941 630804-10
+opening_hours: Mo-Sa 08:00-20:00
+website: http://www.toom-baumarkt.de

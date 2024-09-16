@@ -1,11 +1,11 @@
 id: 310307871
-type: way
+type: node
 latitude: 49.03467
 longitude: 11.93396
 postcode: "93152"
 city: Nittendorf
-street: "An der Steinbuchse"
-housenumber: 2
+street: An der Steinbuchse
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://filialen.aldi-sued.de/bayern/nittendorf/an-der-steinbuchse-2"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://filialen.aldi-sued.de/bayern/nittendorf/an-der-steinbuchse-2

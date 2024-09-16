@@ -1,11 +1,11 @@
 id: 1302468488
-type: way
+type: node
 latitude: 49.44126
 longitude: 12.04607
 postcode: "92546"
 city: Schmidgaden
-street: "Industriegebiet Trisching"
-housenumber: 6
-phone: "+49 9438 9419090"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
+street: Industriegebiet Trisching
+housenumber: "6"
+phone: +49 9438 9419090
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
 website: ""

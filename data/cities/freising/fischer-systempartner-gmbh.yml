@@ -4,8 +4,8 @@ latitude: 48.3922
 longitude: 11.77022
 postcode: "85356"
 city: Freising
-street: "Jagdstraße"
-housenumber: 16
-phone: "+49-8161-14808-0"
-opening_hours: "Mo-Fr 08:00-12:00,13:00-17:00"
-website: "https://www.itfischer.de/"
+street: Jagdstraße
+housenumber: "16"
+phone: +49-8161-14808-0
+opening_hours: Mo-Fr 08:00-12:00,13:00-17:00
+website: https://www.itfischer.de/

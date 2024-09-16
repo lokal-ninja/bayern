@@ -1,11 +1,11 @@
 id: 127099457
-type: way
+type: node
 latitude: 48.88561
 longitude: 10.47455
 postcode: "86757"
 city: Wallerstein
-street: "Hauptstraße"
-housenumber: 67
+street: Hauptstraße
+housenumber: "67"
 phone: ""
 opening_hours: ""
-website: "https://www.ritter-blumen.de/"
+website: https://www.ritter-blumen.de/

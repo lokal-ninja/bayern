@@ -4,8 +4,8 @@ latitude: 48.19606
 longitude: 11.58269
 postcode: "80937"
 city: München
-street: "Sudetendeutschestraße"
+street: Sudetendeutschestraße
 housenumber: 8a
 phone: ""
-opening_hours: "Öffnungszeiten sehr variabel, Richtwerte: Mo-Sa 9-20 Uhr;PH off"
+opening_hours: '"Öffnungszeiten sehr variabel, Richtwerte: Mo-Sa 9-20 Uhr";PH off'
 website: ""

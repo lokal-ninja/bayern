@@ -4,8 +4,8 @@ latitude: 49.57187
 longitude: 10.88154
 postcode: "91074"
 city: Herzogenaurach
-street: "Goethestraße"
-housenumber: 1
+street: Goethestraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 09:00-13:00"
+opening_hours: Mo-Fr 10:00-18:00; Sa 09:00-13:00
 website: ""

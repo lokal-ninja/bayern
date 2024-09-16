@@ -4,8 +4,8 @@ latitude: 49.79384
 longitude: 9.93073
 postcode: "97070"
 city: Würzburg
-street: "Kürschnerhof"
-housenumber: 7
-phone: "+49 931 40453996"
-opening_hours: "Mo-Sa 09:30-18:00"
-website: "https://www.hussel.de/"
+street: Kürschnerhof
+housenumber: "7"
+phone: +49 931 40453996
+opening_hours: Mo-Sa 09:30-18:00
+website: https://www.hussel.de/

@@ -1,11 +1,11 @@
 id: 37974342
-type: way
+type: node
 latitude: 49.89108
 longitude: 10.89132
 postcode: "96047"
 city: Bamberg
-street: "Zinkenwörth"
-housenumber: 31
+street: Zinkenwörth
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

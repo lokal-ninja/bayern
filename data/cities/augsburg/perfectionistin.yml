@@ -4,8 +4,8 @@ latitude: 48.35637
 longitude: 10.89891
 postcode: "86159"
 city: Augsburg
-street: "Alpenstraße"
+street: Alpenstraße
 housenumber: 32 1/5
 phone: ""
-opening_hours: "Mo-Sa nach Vereinbarung"
+opening_hours: '"Mo-Sa nach Vereinbarung"'
 website: ""

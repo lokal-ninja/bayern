@@ -4,8 +4,8 @@ latitude: 47.82242
 longitude: 12.64462
 postcode: "83313"
 city: Siegsdorf
-street: "Hauptstraße"
-housenumber: 9
-phone: "+49 8666 327"
-opening_hours: "Mo-Th 8:00-13:00, Fr 8:00-18:00, Sa 7:00-12:00"
-website: "https://www.reiter-achthal.de"
+street: Hauptstraße
+housenumber: "9"
+phone: +49 8666 327
+opening_hours: Mo-Th 8:00-13:00, Fr 8:00-18:00, Sa 7:00-12:00
+website: https://www.reiter-achthal.de

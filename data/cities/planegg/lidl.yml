@@ -1,11 +1,11 @@
 id: 231749216
-type: way
+type: node
 latitude: 48.11016
 longitude: 11.42993
 postcode: "82152"
 city: Planegg
-street: "Behringstraße"
+street: Behringstraße
 housenumber: 2b
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
-website: "https://www.lidl.de/"
+opening_hours: Mo-Sa 07:00-20:00; PH off
+website: https://www.lidl.de/

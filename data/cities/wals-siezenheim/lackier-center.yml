@@ -1,11 +1,11 @@
 id: 201730521
-type: way
+type: node
 latitude: 47.81488
 longitude: 12.98032
 postcode: "5071"
 city: Wals-Siezenheim
-street: "Bayernstraße"
-housenumber: 71
+street: Bayernstraße
+housenumber: "71"
 phone: ""
 opening_hours: ""
 website: ""

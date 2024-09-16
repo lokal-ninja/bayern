@@ -1,11 +1,11 @@
 id: 57670605
-type: way
+type: node
 latitude: 49.11623
 longitude: 10.71925
 postcode: "91710"
 city: Gunzenhausen
-street: "Walder Straße"
-housenumber: 3
-phone: "+49 9831 2542"
+street: Walder Straße
+housenumber: "3"
+phone: +49 9831 2542
 opening_hours: ""
-website: "https://www.gaertnerei-kuck.de/kontakt"
+website: https://www.gaertnerei-kuck.de/kontakt

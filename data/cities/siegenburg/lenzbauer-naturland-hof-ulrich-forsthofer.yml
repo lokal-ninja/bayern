@@ -1,11 +1,11 @@
 id: 319723992
-type: way
+type: node
 latitude: 48.75283
 longitude: 11.85212
 postcode: "93354"
 city: Siegenburg
-street: "Landshuter Straße"
-housenumber: 18
+street: Landshuter Straße
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

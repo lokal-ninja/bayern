@@ -1,11 +1,11 @@
 id: 137655944
-type: way
+type: node
 latitude: 48.48815
 longitude: 10.93328
 postcode: "86508"
 city: Rehling
-street: "Baumweg"
-housenumber: 5
+street: Baumweg
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

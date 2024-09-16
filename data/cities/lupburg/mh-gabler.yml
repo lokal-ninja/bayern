@@ -1,11 +1,11 @@
 id: 1244567705
-type: way
+type: node
 latitude: 49.17373
 longitude: 11.74203
 postcode: "92331"
 city: Lupburg
-street: "Degerndorf G"
-housenumber: 9
+street: Degerndorf G
+housenumber: "9"
 phone: ""
 opening_hours: ""
-website: "https://www.mh-gabler.de/"
+website: https://www.mh-gabler.de/

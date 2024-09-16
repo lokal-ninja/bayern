@@ -1,11 +1,11 @@
 id: 896123234
-type: way
+type: node
 latitude: 49.9877
 longitude: 10.55064
 postcode: "97478"
 city: Knetzgau
-street: "Mainleite"
-housenumber: 6
+street: Mainleite
+housenumber: "6"
 phone: "+4995279509195"
 opening_hours: ""
-website: "http://www.milkasport.de"
+website: http://www.milkasport.de

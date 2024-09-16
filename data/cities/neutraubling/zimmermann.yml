@@ -4,8 +4,8 @@ latitude: 48.99423
 longitude: 12.19457
 postcode: "93073"
 city: Neutraubling
-street: "Regensburger Straße"
-housenumber: 13
-phone: "+49 9401 5269672"
-opening_hours: "Mo-Fr 08:30-18:00"
-website: "https://www.zimmermann-vital.de/"
+street: Regensburger Straße
+housenumber: "13"
+phone: +49 9401 5269672
+opening_hours: Mo-Fr 08:30-18:00
+website: https://www.zimmermann-vital.de/

@@ -4,8 +4,9 @@ latitude: 48.09231
 longitude: 11.46483
 postcode: ""
 city: Neuried
-street: "Gautinger Straße"
+street: Gautinger Straße
 housenumber: 5a
 phone: ""
-opening_hours: "Tu,Th 08:30-19:00; Fr 08:30-18:00; Mo,We,Sa,Su,PH off; Termine nach Vereinbarung"
-website: "http://www.schoenheitsatelier-petry.de/"
+opening_hours: Tu,Th 08:30-19:00; Fr 08:30-18:00; Mo,We,Sa,Su,PH off; "Termine nach
+    Vereinbarung"
+website: http://www.schoenheitsatelier-petry.de/

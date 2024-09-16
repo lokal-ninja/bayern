@@ -1,11 +1,11 @@
 id: 307823078
-type: way
+type: node
 latitude: 47.96517
 longitude: 12.60445
 postcode: "83301"
 city: Traunreut
-street: "Königsberger Straße"
-housenumber: 1
+street: Königsberger Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

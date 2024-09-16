@@ -4,8 +4,8 @@ latitude: 47.75068
 longitude: 11.37722
 postcode: "82377"
 city: Penzberg
-street: "Karlstraße"
-housenumber: 23
-phone: "+49 8856 803874"
-opening_hours: "Mo,Tu,Th,Fr 09:00-18:30; We 09:00-16:00; Sa 09:00-14:00"
-website: "http://www.blumen-lineaverde.de/"
+street: Karlstraße
+housenumber: "23"
+phone: +49 8856 803874
+opening_hours: Mo,Tu,Th,Fr 09:00-18:30; We 09:00-16:00; Sa 09:00-14:00
+website: http://www.blumen-lineaverde.de/

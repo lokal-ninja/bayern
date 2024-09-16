@@ -5,7 +5,7 @@ longitude: 12.06189
 postcode: "83109"
 city: Großkarolinenfeld
 street: ""
-housenumber: 1
-phone: "+49 8061 370735"
+housenumber: "1"
+phone: +49 8061 370735
 opening_hours: ""
-website: "https://www.promedia-group.de/Veranstaltungstechnik/"
+website: https://www.promedia-group.de/Veranstaltungstechnik/

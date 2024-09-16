@@ -1,11 +1,11 @@
 id: 40897637
-type: way
+type: node
 latitude: 49.76736
 longitude: 9.9442
 postcode: "97084"
 city: Würzburg
-street: "Mergentheimer Straße"
-housenumber: 59
-phone: "+49 30 25549172200"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.xxxlutz.de/c/xxxl-neubert-wuerzburg"
+street: Mergentheimer Straße
+housenumber: "59"
+phone: +49 30 25549172200
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.xxxlutz.de/c/xxxl-neubert-wuerzburg

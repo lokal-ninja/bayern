@@ -4,8 +4,8 @@ latitude: 48.36702
 longitude: 10.8969
 postcode: "86150"
 city: Augsburg
-street: "Bürgermeister-Fischer-Straße"
-housenumber: 2
+street: Bürgermeister-Fischer-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00; Su off"
-website: "https://www.tchibo.de/service/storefinder/store/100008669"
+opening_hours: Mo-Sa 09:00-19:00; Su off
+website: https://www.tchibo.de/service/storefinder/store/100008669

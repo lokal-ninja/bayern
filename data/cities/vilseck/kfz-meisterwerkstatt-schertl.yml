@@ -1,11 +1,11 @@
 id: 205828868
-type: way
+type: node
 latitude: 49.61849
 longitude: 11.79127
 postcode: "92249"
 city: Vilseck
-street: "Robert-Bosch-Straße"
-housenumber: 3
+street: Robert-Bosch-Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://www.auto-schertl.de/"
+website: https://www.auto-schertl.de/

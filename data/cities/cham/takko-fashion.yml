@@ -1,11 +1,11 @@
 id: 43580325
-type: way
+type: node
 latitude: 49.20215
 longitude: 12.66344
 postcode: "93413"
 city: Cham
-street: "Mittelweg"
-housenumber: 16
+street: Mittelweg
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

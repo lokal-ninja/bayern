@@ -4,8 +4,8 @@ latitude: 49.00517
 longitude: 12.08601
 postcode: "93051"
 city: Regensburg
-street: "Karthauser Straße"
-housenumber: 1
-phone: "+49 941 991234"
-opening_hours: "Tu-Fr 08:30-17:30; Sa 08:30-13:00"
+street: Karthauser Straße
+housenumber: "1"
+phone: +49 941 991234
+opening_hours: Tu-Fr 08:30-17:30; Sa 08:30-13:00
 website: ""

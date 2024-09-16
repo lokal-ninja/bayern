@@ -1,11 +1,11 @@
 id: 194169829
-type: way
+type: node
 latitude: 48.40518
 longitude: 10.59856
 postcode: "86441"
 city: Zusmarshausen
-street: "Wertinger Straße"
-housenumber: 37
+street: Wertinger Straße
+housenumber: "37"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

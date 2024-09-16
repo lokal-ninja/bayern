@@ -1,11 +1,11 @@
 id: 130733337
-type: way
+type: node
 latitude: 48.23059
 longitude: 10.10316
 postcode: "89257"
 city: Illertissen
-street: "Einsteinring"
-housenumber: 13
+street: Einsteinring
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

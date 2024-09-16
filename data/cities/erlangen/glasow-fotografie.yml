@@ -4,8 +4,8 @@ latitude: 49.59895
 longitude: 11.00384
 postcode: "91054"
 city: Erlangen
-street: "Wasserturmstraße"
-housenumber: 1
-phone: "+49 9131 27169"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-15:00"
-website: "https://www.foto-glasow.de/"
+street: Wasserturmstraße
+housenumber: "1"
+phone: +49 9131 27169
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-15:00
+website: https://www.foto-glasow.de/

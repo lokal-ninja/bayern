@@ -1,11 +1,11 @@
 id: 198947348
-type: way
+type: node
 latitude: 48.5727
 longitude: 10.43339
 postcode: "89415"
 city: Lauingen (Donau)
-street: "Dillinger Straße"
-housenumber: 4
+street: Dillinger Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "http://www.norma-online.de/"
+opening_hours: Mo-Sa 08:00-20:00
+website: http://www.norma-online.de/

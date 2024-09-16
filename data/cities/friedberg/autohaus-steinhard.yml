@@ -1,11 +1,11 @@
 id: 439610777
-type: way
+type: node
 latitude: 48.34469
 longitude: 11.05227
 postcode: "86316"
 city: Friedberg
-street: "Aretinstraße"
-housenumber: 26
-phone: "+49 8208 247"
+street: Aretinstraße
+housenumber: "26"
+phone: +49 8208 247
 opening_hours: ""
-website: "https://autohaus-steinhard.de/"
+website: https://autohaus-steinhard.de/

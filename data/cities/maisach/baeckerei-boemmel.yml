@@ -4,8 +4,8 @@ latitude: 48.21146
 longitude: 11.29726
 postcode: "82216"
 city: Maisach
-street: "Brucker Straße"
-housenumber: 3
-phone: "+49 8142 3637"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-12:00"
-website: "https://baeckerei-boemmel.de/"
+street: Brucker Straße
+housenumber: "3"
+phone: +49 8142 3637
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-12:00
+website: https://baeckerei-boemmel.de/

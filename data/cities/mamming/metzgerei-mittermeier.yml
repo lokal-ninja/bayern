@@ -4,8 +4,9 @@ latitude: 48.65014
 longitude: 12.6052
 postcode: "94437"
 city: Mamming
-street: "Hauptstraße"
-housenumber: 20
+street: Hauptstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Tu,Th,Fr 07:00-13:30,15:00-17:30; We 07:00-13:30; Sa 07:00-12:00; Mo,Su,PH off"
+opening_hours: Tu,Th,Fr 07:00-13:30,15:00-17:30; We 07:00-13:30; Sa 07:00-12:00; Mo,Su,PH
+    off
 website: ""

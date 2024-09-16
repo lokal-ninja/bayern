@@ -1,11 +1,11 @@
 id: 35734924
-type: way
+type: node
 latitude: 47.50259
 longitude: 11.09828
 postcode: "82467"
 city: Garmisch-Partenkirchen
-street: "Amselstraße"
-housenumber: 2
+street: Amselstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

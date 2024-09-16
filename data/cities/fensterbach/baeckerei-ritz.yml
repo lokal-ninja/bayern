@@ -1,11 +1,11 @@
 id: 262590242
-type: way
+type: node
 latitude: 49.40094
 longitude: 12.06521
 postcode: "92269"
 city: Fensterbach
-street: "Sankt-Ulrich-Straße"
-housenumber: 6
+street: Sankt-Ulrich-Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

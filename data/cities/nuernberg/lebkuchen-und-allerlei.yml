@@ -4,8 +4,8 @@ latitude: 49.47545
 longitude: 11.10643
 postcode: "90411"
 city: Nürnberg
-street: "Bessemerstraße"
-housenumber: 18
-phone: "+49 911 512201"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-13:00"
-website: "https://www.lebkuchenundallerlei.de/"
+street: Bessemerstraße
+housenumber: "18"
+phone: +49 911 512201
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-13:00
+website: https://www.lebkuchenundallerlei.de/

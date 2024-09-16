@@ -1,11 +1,11 @@
 id: 223067271
-type: way
+type: node
 latitude: 48.54939
 longitude: 11.27465
 postcode: "86529"
 city: Schrobenhausen
-street: "Berliner Straße"
-housenumber: 2
+street: Berliner Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

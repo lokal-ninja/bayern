@@ -4,8 +4,8 @@ latitude: 49.78584
 longitude: 10.03043
 postcode: "97228"
 city: Rottendorf
-street: "Am Moritzberg"
-housenumber: 15
-phone: "+49-9302-3096492"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00-18:00"
-website: "https://www.soliver.de/"
+street: Am Moritzberg
+housenumber: "15"
+phone: +49-9302-3096492
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:00-18:00
+website: https://www.soliver.de/

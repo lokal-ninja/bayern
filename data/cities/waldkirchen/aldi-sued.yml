@@ -1,11 +1,11 @@
 id: 293936838
-type: way
+type: node
 latitude: 48.72365
 longitude: 13.61359
 postcode: "94065"
 city: Waldkirchen
-street: "Bannholzstraße"
-housenumber: 7
+street: Bannholzstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://filialen.aldi-sued.de/bayern/waldkirchen/bannholzstrasse-7"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://filialen.aldi-sued.de/bayern/waldkirchen/bannholzstrasse-7

@@ -4,8 +4,8 @@ latitude: 49.44656
 longitude: 11.05983
 postcode: "90443"
 city: Nürnberg
-street: "Hirtengasse"
-housenumber: 11
-phone: "+49 911 263284"
-opening_hours: "Mo-Fr 08:30-12:30,14:00-18:00; Sa 09:00-12:00"
-website: "https://web.archive.org/web/20161012024301/harzers-bazaar.de/optikharzer.html"
+street: Hirtengasse
+housenumber: "11"
+phone: +49 911 263284
+opening_hours: Mo-Fr 08:30-12:30,14:00-18:00; Sa 09:00-12:00
+website: https://web.archive.org/web/20161012024301/harzers-bazaar.de/optikharzer.html

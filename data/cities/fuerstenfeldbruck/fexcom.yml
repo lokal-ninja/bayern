@@ -4,8 +4,8 @@ latitude: 48.17675
 longitude: 11.25246
 postcode: "82256"
 city: Fürstenfeldbruck
-street: "Schöngeisinger Straße"
-housenumber: 37
-phone: "+49 8141 536353"
-opening_hours: "Mo-Fr 09:30-13:00,14:00-18:30, Sa 10:00-14:00"
-website: "https://www.safetonet-family-store.de/startseite.html"
+street: Schöngeisinger Straße
+housenumber: "37"
+phone: +49 8141 536353
+opening_hours: Mo-Fr 09:30-13:00,14:00-18:30, Sa 10:00-14:00
+website: https://www.safetonet-family-store.de/startseite.html

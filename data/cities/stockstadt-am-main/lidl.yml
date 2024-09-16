@@ -1,11 +1,11 @@
 id: 93708643
-type: way
+type: node
 latitude: 49.96237
 longitude: 9.08548
 postcode: "63811"
 city: Stockstadt am Main
-street: "Industriestraße"
-housenumber: 27
+street: Industriestraße
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

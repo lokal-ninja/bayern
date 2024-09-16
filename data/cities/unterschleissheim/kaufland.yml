@@ -1,11 +1,11 @@
 id: 50894766
-type: way
+type: node
 latitude: 48.28568
 longitude: 11.55986
 postcode: "85716"
 city: Unterschleißheim
-street: "Andreas-Danzer-Weg"
-housenumber: 2
+street: Andreas-Danzer-Weg
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

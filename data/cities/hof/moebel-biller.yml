@@ -1,11 +1,11 @@
 id: 38338798
-type: way
+type: node
 latitude: 50.2806
 longitude: 11.92095
 postcode: "95032"
 city: Hof
-street: "An den Mühlwiesen"
-housenumber: 2
-phone: "+49 9281 5401 10"
+street: An den Mühlwiesen
+housenumber: "2"
+phone: +49 9281 5401 10
 opening_hours: ""
-website: "https://www.biller.de/"
+website: https://www.biller.de/

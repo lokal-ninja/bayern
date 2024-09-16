@@ -4,8 +4,9 @@ latitude: 48.13139
 longitude: 11.58946
 postcode: "81669"
 city: München
-street: "Rosenheimer Straße"
-housenumber: 12
+street: Rosenheimer Straße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr,Sa 08:00-20:00 unknown Begin der Öffungszeiten ungewiss. 20 Uhr Schließung"
+opening_hours: Mo-Fr,Sa 08:00-20:00 unknown "Begin der Öffungszeiten ungewiss. 20
+    Uhr Schließung"
 website: ""

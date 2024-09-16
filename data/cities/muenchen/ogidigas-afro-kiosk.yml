@@ -4,8 +4,8 @@ latitude: 48.12593
 longitude: 11.56125
 postcode: "80337"
 city: München
-street: "Maistraße"
-housenumber: 69
+street: Maistraße
+housenumber: "69"
 phone: ""
-opening_hours: "Tu-Sa 11:00-20:00"
+opening_hours: Tu-Sa 11:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 116987494
-type: way
+type: node
 latitude: 47.84333
 longitude: 12.0555
 postcode: "83059"
 city: Kolbermoor
-street: "Albert-Schalper-Straße"
-housenumber: 45
-phone: "+49 8031 8070470"
-opening_hours: "Mo-Fr 12:00-19:00; Sa 09:00-16:00; PH off"
-website: "https://www.rabe-bike.de/"
+street: Albert-Schalper-Straße
+housenumber: "45"
+phone: +49 8031 8070470
+opening_hours: Mo-Fr 12:00-19:00; Sa 09:00-16:00; PH off
+website: https://www.rabe-bike.de/

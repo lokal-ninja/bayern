@@ -4,8 +4,8 @@ latitude: 48.12906
 longitude: 11.55588
 postcode: "80336"
 city: München
-street: "Herzog-Heinrich-Straße"
-housenumber: 37
-phone: "+49 89 81889499"
-opening_hours: "Mo-Sa 10:00-15:00"
-website: "https://isarballon.de/"
+street: Herzog-Heinrich-Straße
+housenumber: "37"
+phone: +49 89 81889499
+opening_hours: Mo-Sa 10:00-15:00
+website: https://isarballon.de/

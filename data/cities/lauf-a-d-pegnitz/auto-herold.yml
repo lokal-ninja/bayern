@@ -1,11 +1,11 @@
 id: 32352336
-type: way
+type: node
 latitude: 49.51621
 longitude: 11.28932
 postcode: "91207"
 city: Lauf a.d. Pegnitz
-street: "Hersbrucker Straße"
-housenumber: 53
+street: Hersbrucker Straße
+housenumber: "53"
 phone: ""
-opening_hours: "Mo-Th 07:30-18:00; Fr 07:30-17:00; Sa 09:00-13:00; Su, PH off"
-website: "https://auto-herold.de/"
+opening_hours: Mo-Th 07:30-18:00; Fr 07:30-17:00; Sa 09:00-13:00; Su, PH off
+website: https://auto-herold.de/

@@ -4,8 +4,8 @@ latitude: 48.13783
 longitude: 11.56672
 postcode: "80331"
 city: München
-street: "Herzogspitalstraße"
-housenumber: 13
+street: Herzogspitalstraße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.michaelsbund.de/medienhaus/buchhandlung/"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.michaelsbund.de/medienhaus/buchhandlung/

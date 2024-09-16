@@ -1,11 +1,11 @@
 id: 690233722
-type: way
+type: node
 latitude: 49.7025
 longitude: 10.26042
 postcode: "97346"
 city: Iphofen
-street: "Obere Gräbengasse"
-housenumber: 12
+street: Obere Gräbengasse
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 05:30-12:00"
+opening_hours: Mo-Sa 05:30-12:00
 website: ""

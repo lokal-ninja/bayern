@@ -1,11 +1,11 @@
 id: 590046053
-type: way
+type: node
 latitude: 49.94282
 longitude: 11.72437
 postcode: "95466"
 city: Weidenberg
-street: "Bahnhofstraße"
-housenumber: 18
+street: Bahnhofstraße
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.norma-online.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.norma-online.de

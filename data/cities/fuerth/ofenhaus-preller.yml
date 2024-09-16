@@ -1,11 +1,11 @@
 id: 209872721
-type: way
+type: node
 latitude: 49.47926
 longitude: 11.01106
 postcode: "90765"
 city: Fürth
-street: "Hans-Vogel-Straße"
-housenumber: 43
-phone: "+49 911 97986 0"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:30-14:00"
-website: "http://www.ofen-preller.de"
+street: Hans-Vogel-Straße
+housenumber: "43"
+phone: +49 911 97986 0
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:30-14:00
+website: http://www.ofen-preller.de

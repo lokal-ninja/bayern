@@ -4,8 +4,8 @@ latitude: 47.84978
 longitude: 12.82232
 postcode: "83317"
 city: Teisendorf
-street: "Marktstraße"
-housenumber: 20
+street: Marktstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 8:00-12:00, 14:00-18:00;Sa 8:00-12:00"
-website: "https://www.optik-henseler.de/"
+opening_hours: Mo-Fr 8:00-12:00, 14:00-18:00;Sa 8:00-12:00
+website: https://www.optik-henseler.de/

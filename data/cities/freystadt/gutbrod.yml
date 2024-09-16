@@ -1,11 +1,11 @@
 id: 185270874
-type: way
+type: node
 latitude: 49.19891
 longitude: 11.32827
 postcode: "92342"
 city: Freystadt
-street: "Marktplatz"
-housenumber: 37
+street: Marktplatz
+housenumber: "37"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-16:00"
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-16:00
 website: ""

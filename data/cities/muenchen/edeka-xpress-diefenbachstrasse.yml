@@ -4,8 +4,8 @@ latitude: 48.07684
 longitude: 11.51851
 postcode: "81479"
 city: München
-street: "Diefenbachstraße"
-housenumber: 49
-phone: "+49 89 79199070"
-opening_hours: "Mo-Sa 07:00-20:00"
+street: Diefenbachstraße
+housenumber: "49"
+phone: +49 89 79199070
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.36764
 longitude: 10.89583
 postcode: "86150"
 city: Augsburg
-street: "Annastraße"
-housenumber: 29
-phone: "+49 821 3194400"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.eckerle.de/filialen/studio-augsburg/"
+street: Annastraße
+housenumber: "29"
+phone: +49 821 3194400
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.eckerle.de/filialen/studio-augsburg/

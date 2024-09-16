@@ -1,11 +1,11 @@
 id: 244469195
-type: way
+type: node
 latitude: 48.07644
 longitude: 11.52244
 postcode: "81479"
 city: München
-street: "Herterichstraße"
-housenumber: 24
-phone: "+49 89 794896"
+street: Herterichstraße
+housenumber: "24"
+phone: +49 89 794896
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 431903434
-type: way
+type: node
 latitude: 50.1162
 longitude: 11.46029
 postcode: "95326"
 city: Kulmbach
-street: "Blaicher Straße"
-housenumber: 65
+street: Blaicher Straße
+housenumber: "65"
 phone: ""
-opening_hours: "Tu-Fr 08:30-18:00; Sa 07:30-12:00"
+opening_hours: Tu-Fr 08:30-18:00; Sa 07:30-12:00
 website: ""

@@ -1,11 +1,11 @@
 id: 208080784
-type: way
+type: node
 latitude: 48.51105
 longitude: 13.46133
 postcode: "4783"
 city: Wernstein am Inn
-street: "Hofötzer Straße"
-housenumber: 10
+street: Hofötzer Straße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

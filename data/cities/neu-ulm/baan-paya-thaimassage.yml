@@ -4,8 +4,8 @@ latitude: 48.41375
 longitude: 10.06809
 postcode: "89233"
 city: Neu-Ulm
-street: "Gerstmayrstraße"
-housenumber: 3
-phone: "+49 731 37816007"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00; Su,PH off"
-website: "http://www.payathai.de"
+street: Gerstmayrstraße
+housenumber: "3"
+phone: +49 731 37816007
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00; Su,PH off
+website: http://www.payathai.de

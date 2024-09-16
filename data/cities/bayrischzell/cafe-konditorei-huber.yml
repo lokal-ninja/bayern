@@ -4,8 +4,8 @@ latitude: 47.67367
 longitude: 12.01182
 postcode: "83735"
 city: Bayrischzell
-street: "Krapfen"
-housenumber: 2
+street: Krapfen
+housenumber: "2"
 phone: ""
-opening_hours: "We-Su 10:00-22:00"
-website: "http://www.cafehuber.de/"
+opening_hours: We-Su 10:00-22:00
+website: http://www.cafehuber.de/

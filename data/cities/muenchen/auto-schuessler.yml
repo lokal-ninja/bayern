@@ -4,8 +4,8 @@ latitude: 48.19296
 longitude: 11.46564
 postcode: "80999"
 city: München
-street: "Georg-Reismüller-Straße"
-housenumber: 18
-phone: "+49 89 89 22 39 59"
-opening_hours: "Mo-Th 07:30-17:30; Fr 07:30-15:00"
-website: "http://www.auto-schuessler.com"
+street: Georg-Reismüller-Straße
+housenumber: "18"
+phone: +49 89 89 22 39 59
+opening_hours: Mo-Th 07:30-17:30; Fr 07:30-15:00
+website: http://www.auto-schuessler.com

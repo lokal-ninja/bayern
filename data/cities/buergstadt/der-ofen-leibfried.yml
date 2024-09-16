@@ -4,8 +4,8 @@ latitude: 49.70683
 longitude: 9.26661
 postcode: "63927"
 city: Bürgstadt
-street: "Friedenstraße"
-housenumber: 14
-phone: "+49 9371 3116"
-opening_hours: "Tu-Fr 10:00-12:00, 14:00-16:00; Sa 10:00-12:00; Mo,PH off"
-website: "https://www.ofen-leibfried.de/"
+street: Friedenstraße
+housenumber: "14"
+phone: +49 9371 3116
+opening_hours: Tu-Fr 10:00-12:00, 14:00-16:00; Sa 10:00-12:00; Mo,PH off
+website: https://www.ofen-leibfried.de/

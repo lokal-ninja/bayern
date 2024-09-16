@@ -4,8 +4,8 @@ latitude: 48.36621
 longitude: 10.89932
 postcode: "86150"
 city: Augsburg
-street: "Maximilianstraße"
-housenumber: 51
+street: Maximilianstraße
+housenumber: "51"
 phone: ""
-opening_hours: "Mo-Fr 11:00-19:00; Sa 10:00-18:00+"
+opening_hours: Mo-Fr 11:00-19:00; Sa 10:00-18:00+
 website: ""

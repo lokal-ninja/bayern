@@ -4,8 +4,8 @@ latitude: 49.83544
 longitude: 12.05913
 postcode: "92681"
 city: Erbendorf
-street: "Bruckmühle"
-housenumber: 4
+street: Bruckmühle
+housenumber: "4"
 phone: ""
-opening_hours: "09:00-17:00"
-website: "https://bermas-erbendorf.de/"
+opening_hours: 09:00-17:00
+website: https://bermas-erbendorf.de/

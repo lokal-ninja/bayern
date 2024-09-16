@@ -4,8 +4,8 @@ latitude: 49.46421
 longitude: 11.07623
 postcode: "90408"
 city: Nürnberg
-street: "Uhlandstraße"
-housenumber: 30
-phone: "+49-911-352299"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"
+street: Uhlandstraße
+housenumber: "30"
+phone: +49-911-352299
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00
 website: ""

@@ -1,11 +1,11 @@
 id: 83922733
-type: way
+type: node
 latitude: 48.07659
 longitude: 11.25212
 postcode: "82234"
 city: Weßling
-street: "Hauptstraße"
-housenumber: 23
+street: Hauptstraße
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

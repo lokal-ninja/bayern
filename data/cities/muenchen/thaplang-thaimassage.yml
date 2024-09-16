@@ -4,8 +4,8 @@ latitude: 48.1123
 longitude: 11.67621
 postcode: "81827"
 city: München
-street: "Hugo-Weiss-Straße"
-housenumber: 6
+street: Hugo-Weiss-Straße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00"
+opening_hours: Mo-Fr 10:00-19:00
 website: ""

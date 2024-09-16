@@ -1,11 +1,11 @@
 id: 93101137
-type: way
+type: node
 latitude: 50.05654
 longitude: 9.15871
 postcode: "63776"
 city: Mömbris
-street: "Klinger"
-housenumber: 16
+street: Klinger
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 431541952
-type: way
+type: node
 latitude: 50.12579
 longitude: 11.43759
 postcode: "95326"
 city: Kulmbach
-street: "Ziegelhüttener Hang"
-housenumber: 40
+street: Ziegelhüttener Hang
+housenumber: "40"
 phone: ""
-opening_hours: "Tu-Fr 08:00-19:00; Sa 08:00-16:30"
+opening_hours: Tu-Fr 08:00-19:00; Sa 08:00-16:30
 website: ""

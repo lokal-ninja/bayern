@@ -4,8 +4,8 @@ latitude: 48.37075
 longitude: 10.92043
 postcode: "86153"
 city: Augsburg
-street: "Proviantbachstraße"
-housenumber: 3
-phone: "+49 821 56090-0"
-opening_hours: "Mo-Fr 07:30-16:30"
-website: "https://www.wiedemann-augsburg.de"
+street: Proviantbachstraße
+housenumber: "3"
+phone: +49 821 56090-0
+opening_hours: Mo-Fr 07:30-16:30
+website: https://www.wiedemann-augsburg.de

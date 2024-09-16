@@ -1,11 +1,11 @@
 id: 24720800
-type: way
+type: node
 latitude: 48.64805
 longitude: 11.78648
 postcode: "84048"
 city: Mainburg
-street: "Köglmühle"
-housenumber: 5
+street: Köglmühle
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
 website: ""

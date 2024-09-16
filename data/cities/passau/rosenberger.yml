@@ -4,8 +4,8 @@ latitude: 48.57022
 longitude: 13.42081
 postcode: "94032"
 city: Passau
-street: "Spitalhofstraße"
-housenumber: 99
+street: Spitalhofstraße
+housenumber: "99"
 phone: ""
 opening_hours: ""
-website: "https://elro.elektro-online.de/kontakt.html"
+website: https://elro.elektro-online.de/kontakt.html

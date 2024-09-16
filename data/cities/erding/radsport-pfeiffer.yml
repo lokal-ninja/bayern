@@ -4,8 +4,8 @@ latitude: 48.33173
 longitude: 11.92884
 postcode: "85435"
 city: Erding
-street: "Am Griesfeld"
-housenumber: 1
-phone: "+49 8122 7690"
-opening_hours: "Tu-Fr 09:00-12:30,14:00-18:00; Sa 09:00-13:00"
-website: "https://www.radsport-pfeiffer.de/"
+street: Am Griesfeld
+housenumber: "1"
+phone: +49 8122 7690
+opening_hours: Tu-Fr 09:00-12:30,14:00-18:00; Sa 09:00-13:00
+website: https://www.radsport-pfeiffer.de/

@@ -1,11 +1,11 @@
 id: 222745593
-type: way
+type: node
 latitude: 48.75777
 longitude: 10.45045
 postcode: "86735"
 city: Forheim
-street: "Am Schmiedacker"
-housenumber: 1
+street: Am Schmiedacker
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://www.forheimer-gold.de"
+opening_hours: Mo-Fr 09:00-17:00
+website: https://www.forheimer-gold.de

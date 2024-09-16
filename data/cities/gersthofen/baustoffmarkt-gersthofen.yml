@@ -1,11 +1,11 @@
 id: 137514860
-type: way
+type: node
 latitude: 48.43553
 longitude: 10.86668
 postcode: "86368"
 city: Gersthofen
-street: "Senefelderstraße"
-housenumber: 21
-phone: "+49 821 24999-0"
+street: Senefelderstraße
+housenumber: "21"
+phone: +49 821 24999-0
 opening_hours: ""
-website: "https://www.baustoffmarkt-gersthofen.de"
+website: https://www.baustoffmarkt-gersthofen.de

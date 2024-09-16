@@ -1,11 +1,11 @@
 id: 115104861
-type: way
+type: node
 latitude: 48.06977
 longitude: 10.85898
 postcode: "86899"
 city: Landsberg am Lech
-street: "Lechwiesenstraße"
-housenumber: 56
+street: Lechwiesenstraße
+housenumber: "56"
 phone: ""
 opening_hours: ""
-website: "https://www.autohaus-schraml.de/"
+website: https://www.autohaus-schraml.de/

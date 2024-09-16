@@ -4,8 +4,8 @@ latitude: 49.01927
 longitude: 12.09728
 postcode: "93047"
 city: Regensburg
-street: "Domplatz"
-housenumber: 6
+street: Domplatz
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.beatnuts.de/Beatnuts-Stores"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.beatnuts.de/Beatnuts-Stores

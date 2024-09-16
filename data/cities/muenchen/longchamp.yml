@@ -4,8 +4,8 @@ latitude: 48.13923
 longitude: 11.57723
 postcode: ""
 city: München
-street: "Residenzstraße"
-housenumber: 7
+street: Residenzstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00; Sa 10:00-18:00"
+opening_hours: Mo-Sa 10:00-19:00; Sa 10:00-18:00
 website: ""

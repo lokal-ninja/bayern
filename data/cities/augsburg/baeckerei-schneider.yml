@@ -1,11 +1,11 @@
-id: 899311252
+id: 337786981
 type: node
-latitude: 48.30818
-longitude: 10.91
-postcode: "86179"
+latitude: 48.3126
+longitude: 10.85653
+postcode: "86199"
 city: Augsburg
-street: "Bürgermeister-Widmeier-Straße"
-housenumber: 4
-phone: "+49 821 81 14 81"
-opening_hours: "Mo-Fr 05:30-18:00; Sa 05:30-12:00; Su 07:30-11:00"
-website: "https://www.vollwertbaecker-schneider.de/"
+street: Bobinger Straße
+housenumber: "81"
+phone: ""
+opening_hours: Mo-Fr 06:15-18:00; Sa 06:15-12:00; Su 07:30-12:00
+website: ""

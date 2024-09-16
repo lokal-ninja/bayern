@@ -4,8 +4,8 @@ latitude: 48.54614
 longitude: 12.17961
 postcode: "84036"
 city: Landshut
-street: "Ritter-von-Schoch-Straße"
-housenumber: 20
-phone: "+49 871 95389680"
-opening_hours: "Mo-Sa 06:00-20:00; Su,PH 08:00-11:00"
-website: "https://mareis.com/filialen"
+street: Ritter-von-Schoch-Straße
+housenumber: "20"
+phone: +49 871 95389680
+opening_hours: Mo-Sa 06:00-20:00; Su,PH 08:00-11:00
+website: https://mareis.com/filialen

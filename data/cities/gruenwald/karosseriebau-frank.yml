@@ -4,8 +4,8 @@ latitude: 48.03995
 longitude: 11.52027
 postcode: "82031"
 city: Grünwald
-street: "Emil-Geis-Straße"
-housenumber: 3
-phone: "+49 89 6412137"
-opening_hours: "Mo-Th 07:45-12:00, 12:45-16:45; Fr 07:45-14:00"
-website: "https://karosseriebau-frank.de/"
+street: Emil-Geis-Straße
+housenumber: "3"
+phone: +49 89 6412137
+opening_hours: Mo-Th 07:45-12:00, 12:45-16:45; Fr 07:45-14:00
+website: https://karosseriebau-frank.de/

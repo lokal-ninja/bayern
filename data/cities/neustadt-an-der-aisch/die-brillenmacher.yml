@@ -1,11 +1,11 @@
 id: 71898174
-type: way
+type: node
 latitude: 49.57864
 longitude: 10.6056
 postcode: "91413"
 city: Neustadt an der Aisch
-street: "Wilhelmstraße"
-housenumber: 34
+street: Wilhelmstraße
+housenumber: "34"
 phone: ""
 opening_hours: ""
 website: ""

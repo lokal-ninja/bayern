@@ -1,11 +1,11 @@
 id: 120949744
-type: way
+type: node
 latitude: 48.87523
 longitude: 12.57246
 postcode: "94315"
 city: Straubing
-street: "Landshuter Straße"
-housenumber: 20
-phone: "+49 9421 31139"
+street: Landshuter Straße
+housenumber: "20"
+phone: +49 9421 31139
 opening_hours: ""
-website: "http://www.doerfl.de/"
+website: http://www.doerfl.de/

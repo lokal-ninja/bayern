@@ -1,11 +1,11 @@
 id: 299353853
-type: way
+type: node
 latitude: 48.11942
 longitude: 10.45348
 postcode: "87772"
 city: Pfaffenhausen
-street: "Hauptstraße"
-housenumber: 17
+street: Hauptstraße
+housenumber: "17"
 phone: ""
 opening_hours: ""
-website: "https://www.baeckerei-schmid-stetten.de/"
+website: https://www.baeckerei-schmid-stetten.de/

@@ -1,11 +1,11 @@
 id: 295433541
-type: way
+type: node
 latitude: 48.8969
 longitude: 11.17604
 postcode: "85072"
 city: Eichstätt
-street: "Weißenburger Straße"
-housenumber: 36
+street: Weißenburger Straße
+housenumber: "36"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.edeka.de/eh/s%C3%BCdbayern/edeka-wei%C3%9Fenburger-stra%C3%9Fe-36/index.jsp"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.edeka.de/eh/s%C3%BCdbayern/edeka-wei%C3%9Fenburger-stra%C3%9Fe-36/index.jsp

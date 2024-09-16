@@ -1,11 +1,11 @@
 id: 50132621
-type: way
+type: node
 latitude: 50.27582
 longitude: 10.98491
 postcode: "96450"
 city: Coburg
-street: "Rosenauer Straße"
-housenumber: 102
+street: Rosenauer Straße
+housenumber: "102"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
+opening_hours: Mo-Sa 07:00-20:00; PH off
 website: ""

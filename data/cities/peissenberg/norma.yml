@@ -1,11 +1,11 @@
 id: 123173288
-type: way
+type: node
 latitude: 47.80331
 longitude: 11.07765
 postcode: ""
 city: Peißenberg
-street: "Hauptstraße"
-housenumber: 20
+street: Hauptstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Sa 8:00-20:00; Su,PH closed"
+opening_hours: Mo-Sa 8:00-20:00; Su,PH closed
 website: ""

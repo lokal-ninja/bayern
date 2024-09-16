@@ -4,8 +4,8 @@ latitude: 48.57509
 longitude: 13.45874
 postcode: "94032"
 city: Passau
-street: "Große Klingergasse"
-housenumber: 8
-phone: "+49 851 35156 35327"
-opening_hours: "Mo-Fr 09:00-12:30,13:30-18:00, Sa 09:00-14:00"
-website: "http://www.weber-berufsbekleidung.de/"
+street: Große Klingergasse
+housenumber: "8"
+phone: +49 851 35156 35327
+opening_hours: Mo-Fr 09:00-12:30,13:30-18:00, Sa 09:00-14:00
+website: http://www.weber-berufsbekleidung.de/

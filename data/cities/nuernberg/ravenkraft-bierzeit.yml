@@ -4,8 +4,8 @@ latitude: 49.44938
 longitude: 11.07855
 postcode: "90402"
 city: Nürnberg
-street: "Hallplatz"
-housenumber: 2
+street: Hallplatz
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 11:00-20:00"
-website: "https://www.ravenkraft.beer/"
+opening_hours: Mo-Sa 11:00-20:00
+website: https://www.ravenkraft.beer/

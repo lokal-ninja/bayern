@@ -1,11 +1,11 @@
 id: 51498088
-type: way
+type: node
 latitude: 48.60439
 longitude: 11.62563
 postcode: "85283"
 city: Wolnzach
-street: "Herrnstraße"
-housenumber: 7
+street: Herrnstraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

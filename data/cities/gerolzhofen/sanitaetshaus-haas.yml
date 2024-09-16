@@ -1,11 +1,11 @@
 id: 254609706
-type: way
+type: node
 latitude: 49.9008
 longitude: 10.3482
 postcode: "97447"
 city: Gerolzhofen
-street: "Bgm.-Weigand-Straße"
-housenumber: 1
+street: Bgm.-Weigand-Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

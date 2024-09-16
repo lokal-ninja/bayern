@@ -4,8 +4,8 @@ latitude: 49.02004
 longitude: 12.09413
 postcode: "93047"
 city: Regensburg
-street: "Rathausplatz"
-housenumber: 4
+street: Rathausplatz
+housenumber: "4"
 phone: ""
-opening_hours: "Tu-Fr 11:00-19:00; Sa 11:00-17:00"
-website: "http://www.rupert-kraus.com/"
+opening_hours: Tu-Fr 11:00-19:00; Sa 11:00-17:00
+website: http://www.rupert-kraus.com/

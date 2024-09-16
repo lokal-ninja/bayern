@@ -1,11 +1,11 @@
 id: 91402149
-type: way
+type: node
 latitude: 48.99596
 longitude: 12.19448
 postcode: "93073"
 city: Neutraubling
-street: "Rainstallweg"
+street: Rainstallweg
 housenumber: 2b
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de

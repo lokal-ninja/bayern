@@ -1,11 +1,11 @@
 id: 35319114
-type: way
+type: node
 latitude: 48.8439
 longitude: 12.62501
 postcode: "94330"
 city: Aiterhofen
-street: "Keltenstraße"
-housenumber: 1
+street: Keltenstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

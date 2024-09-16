@@ -1,11 +1,11 @@
 id: 807285742
-type: way
+type: node
 latitude: 48.88927
 longitude: 12.60642
 postcode: "94315"
 city: Straubing
-street: "Schlesische Straße"
-housenumber: 120
+street: Schlesische Straße
+housenumber: "120"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de

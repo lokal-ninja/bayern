@@ -4,8 +4,8 @@ latitude: 49.44674
 longitude: 11.84948
 postcode: "92224"
 city: Amberg
-street: "Kaiser-Wilhelm-Ring"
-housenumber: 29
-phone: "+49 9621 470152"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:30"
-website: "http://www.fr-copy-land.de"
+street: Kaiser-Wilhelm-Ring
+housenumber: "29"
+phone: +49 9621 470152
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-12:30
+website: http://www.fr-copy-land.de

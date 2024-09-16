@@ -1,11 +1,11 @@
 id: 98427204
-type: way
+type: node
 latitude: 49.00251
 longitude: 12.11861
 postcode: "93053"
 city: Regensburg
-street: "Erbprinz-Franz-Joseph-Straße"
-housenumber: 19
+street: Erbprinz-Franz-Joseph-Straße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

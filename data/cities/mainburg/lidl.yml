@@ -1,11 +1,11 @@
 id: 149306520
-type: way
+type: node
 latitude: 48.63873
 longitude: 11.77947
 postcode: "84048"
 city: Mainburg
-street: "Freisinger Straße"
-housenumber: 3
+street: Freisinger Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

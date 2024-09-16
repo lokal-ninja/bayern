@@ -1,11 +1,11 @@
 id: 555838178
-type: way
+type: node
 latitude: 49.87518
 longitude: 9.7973
 postcode: "97274"
 city: Leinach
-street: "Zellinger Straße"
-housenumber: 
+street: Zellinger Straße
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

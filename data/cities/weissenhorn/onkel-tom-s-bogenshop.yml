@@ -4,8 +4,8 @@ latitude: 48.30576
 longitude: 10.15795
 postcode: "89264"
 city: Weißenhorn
-street: "Hauptstraße"
-housenumber: 24
-phone: "+49 172 7456996"
-opening_hours: "Th 16:00-19:00; Fr 15:00-19:00; Sa 09:00-12:00"
-website: "http://www.mein-bogensport.de/"
+street: Hauptstraße
+housenumber: "24"
+phone: +49 172 7456996
+opening_hours: Th 16:00-19:00; Fr 15:00-19:00; Sa 09:00-12:00
+website: http://www.mein-bogensport.de/

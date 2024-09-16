@@ -4,8 +4,8 @@ latitude: 50.24829
 longitude: 10.1942
 postcode: "97702"
 city: Münnerstadt
-street: "Veit-Stoß-Straße"
-housenumber: 6
-phone: "+49 9733 81220"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00"
-website: "https://tintenfaesschen.de/"
+street: Veit-Stoß-Straße
+housenumber: "6"
+phone: +49 9733 81220
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00
+website: https://tintenfaesschen.de/

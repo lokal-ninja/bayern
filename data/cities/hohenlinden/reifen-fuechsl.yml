@@ -4,8 +4,8 @@ latitude: 48.15831
 longitude: 11.99455
 postcode: "85664"
 city: Hohenlinden
-street: "Hauptstraße"
-housenumber: 1
-phone: "+49 8124 910204"
-opening_hours: "Mo-Fr 07:30-12:00,13:00-17:00; Sa 08:00-12:00"
-website: "https://www.reifen-fuechsl.de/"
+street: Hauptstraße
+housenumber: "1"
+phone: +49 8124 910204
+opening_hours: Mo-Fr 07:30-12:00,13:00-17:00; Sa 08:00-12:00
+website: https://www.reifen-fuechsl.de/

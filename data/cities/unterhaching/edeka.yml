@@ -4,8 +4,8 @@ latitude: 48.0658
 longitude: 11.61387
 postcode: "82008"
 city: Unterhaching
-street: "Hauptstraße"
-housenumber: 2
-phone: "+49 89 615 003 41"
-opening_hours: "Mo-Sa 07:00-20:00"
+street: Hauptstraße
+housenumber: "2"
+phone: +49 89 615 003 41
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

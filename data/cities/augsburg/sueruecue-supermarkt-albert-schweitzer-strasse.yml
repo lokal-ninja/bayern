@@ -1,11 +1,11 @@
 id: 97707640
-type: way
+type: node
 latitude: 48.31368
 longitude: 10.90325
 postcode: "86179"
 city: Augsburg
-street: "Albert-Schweitzer-Straße"
-housenumber: 16
+street: Albert-Schweitzer-Straße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Sa 08:30-19:00; PH off"
+opening_hours: Mo-Sa 08:30-19:00; PH off
 website: ""

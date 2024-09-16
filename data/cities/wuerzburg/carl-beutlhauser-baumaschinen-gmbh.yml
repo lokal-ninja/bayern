@@ -1,11 +1,11 @@
 id: 91675367
-type: way
+type: node
 latitude: 49.81433
 longitude: 9.87445
 postcode: "97080"
 city: Würzburg
-street: "Friedrich-Koenig-Straße"
-housenumber: 21
-phone: "+49 931 705 2100"
-opening_hours: "Mo-Th 07:00-17:00; Fr 07:00-16:00"
-website: "https://www.beutlhauser.de/standorte/wuerzburg"
+street: Friedrich-Koenig-Straße
+housenumber: "21"
+phone: +49 931 705 2100
+opening_hours: Mo-Th 07:00-17:00; Fr 07:00-16:00
+website: https://www.beutlhauser.de/standorte/wuerzburg

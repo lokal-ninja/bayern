@@ -4,8 +4,8 @@ latitude: 48.33728
 longitude: 10.88268
 postcode: "86199"
 city: Augsburg
-street: "Friedrich-Ebert-Straße"
-housenumber: 50
-phone: "+49 821 92593"
-opening_hours: "Th,Sa 08:00-12:00; Fr 08:00-13:00,14:00-18:00; PH off"
-website: "https://www.hofladenschweiger.de/"
+street: Friedrich-Ebert-Straße
+housenumber: "50"
+phone: +49 821 92593
+opening_hours: Th,Sa 08:00-12:00; Fr 08:00-13:00,14:00-18:00; PH off
+website: https://www.hofladenschweiger.de/

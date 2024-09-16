@@ -1,11 +1,11 @@
 id: 235490436
-type: way
+type: node
 latitude: 48.2726
 longitude: 10.83653
 postcode: "86399"
 city: Bobingen
-street: "Hochstraße"
-housenumber: 42
+street: Hochstraße
+housenumber: "42"
 phone: ""
-opening_hours: "Di - Fr, 8:00 - 18:00, Sa 8:00 - 13:00"
+opening_hours: Di - Fr, 8:00 - 18:00, Sa 8:00 - 13:00
 website: ""

@@ -1,11 +1,11 @@
 id: 502003950
-type: way
+type: node
 latitude: 48.67414
 longitude: 11.42506
 postcode: "85123"
 city: Karlskron
-street: "Hauptstraße"
-housenumber: 91
+street: Hauptstraße
+housenumber: "91"
 phone: ""
 opening_hours: ""
 website: ""

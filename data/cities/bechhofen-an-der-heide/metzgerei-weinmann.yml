@@ -1,11 +1,11 @@
 id: 737084051
-type: way
+type: node
 latitude: 49.15861
 longitude: 10.55046
 postcode: "91572"
 city: Bechhofen an der Heide
-street: "Gunzenhausener Straße"
-housenumber: 3
-phone: "+49 9822 277"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 07:00-12:00"
-website: "https://www.metzgerei-weinmann.de/"
+street: Gunzenhausener Straße
+housenumber: "3"
+phone: +49 9822 277
+opening_hours: Mo-Fr 08:00-18:00; Sa 07:00-12:00
+website: https://www.metzgerei-weinmann.de/

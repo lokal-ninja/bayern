@@ -4,8 +4,8 @@ latitude: 48.36535
 longitude: 10.88028
 postcode: "86150"
 city: Augsburg
-street: "Pferseer Straße"
-housenumber: 19
-phone: "+49 821 50 80 47 99"
-opening_hours: "nach Vereinbarung"
-website: "https://schlafteq.com/schlafexperte/augsburg"
+street: Pferseer Straße
+housenumber: "19"
+phone: +49 821 50 80 47 99
+opening_hours: '"nach Vereinbarung"'
+website: https://schlafteq.com/schlafexperte/augsburg

@@ -4,8 +4,8 @@ latitude: 48.14159
 longitude: 11.48837
 postcode: "80687"
 city: München
-street: "Willibaldstraße"
-housenumber: 18
+street: Willibaldstraße
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-15:30"
-website: "https://nebenan-unverpackt.de/"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-15:30
+website: https://nebenan-unverpackt.de/

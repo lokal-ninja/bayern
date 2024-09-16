@@ -1,11 +1,11 @@
 id: 407449920
-type: way
+type: node
 latitude: 47.80082
 longitude: 12.59103
 postcode: "83346"
 city: Bergen
-street: "Alzinger Straße"
-housenumber: 1
+street: Alzinger Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

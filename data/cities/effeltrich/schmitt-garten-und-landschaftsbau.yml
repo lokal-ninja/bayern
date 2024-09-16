@@ -1,11 +1,12 @@
 id: 71432908
-type: way
+type: node
 latitude: 49.66383
 longitude: 11.09033
 postcode: "91090"
 city: Effeltrich
-street: "Forchheimer Straße"
-housenumber: 9
+street: Forchheimer Straße
+housenumber: "9"
 phone: ""
-opening_hours: "Sep-Oct Mo-Fr 09:00-18:00; Sep-Oct Sa 09:00-16:00; Nov Mo-Fr 09:00-17:00; Nov Sa 09:00-16:00; Su,PH off"
-website: "https://www.baumschule-schmitt.com/"
+opening_hours: Sep-Oct Mo-Fr 09:00-18:00; Sep-Oct Sa 09:00-16:00; Nov Mo-Fr 09:00-17:00;
+    Nov Sa 09:00-16:00; Su,PH off
+website: https://www.baumschule-schmitt.com/

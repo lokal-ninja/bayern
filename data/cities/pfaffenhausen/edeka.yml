@@ -1,11 +1,11 @@
 id: 1033257411
-type: way
+type: node
 latitude: 48.12084
 longitude: 10.44939
 postcode: "87772"
 city: Pfaffenhausen
-street: "Krumbacher Straße"
-housenumber: 12
+street: Krumbacher Straße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

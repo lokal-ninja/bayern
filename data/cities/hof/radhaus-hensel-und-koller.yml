@@ -1,11 +1,11 @@
 id: 118228125
-type: way
+type: node
 latitude: 50.30277
 longitude: 11.92277
 postcode: "95032"
 city: Hof
-street: "Wunsiedler Straße"
-housenumber: 16
+street: Wunsiedler Straße
+housenumber: "16"
 phone: "+4992815402730"
-opening_hours: "Mo off; Tu-Fr 09:30-19:00; Sa 09:30-17:00"
-website: "https://www.hensel-koller.de"
+opening_hours: Mo off; Tu-Fr 09:30-19:00; Sa 09:30-17:00
+website: https://www.hensel-koller.de

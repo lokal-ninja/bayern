@@ -1,11 +1,11 @@
 id: 366920042
-type: way
+type: node
 latitude: 49.90788
 longitude: 12.18386
 postcode: "95676"
 city: Wiesau
-street: "Egerstraße"
-housenumber: 4
-phone: "+49 9634 1324"
+street: Egerstraße
+housenumber: "4"
+phone: +49 9634 1324
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.15028
 longitude: 11.53504
 postcode: "80634"
 city: München
-street: "Schulstraße"
-housenumber: 26
+street: Schulstraße
+housenumber: "26"
 phone: ""
-opening_hours: "Nach Vereinbarung"
+opening_hours: '"Nach Vereinbarung"'
 website: ""

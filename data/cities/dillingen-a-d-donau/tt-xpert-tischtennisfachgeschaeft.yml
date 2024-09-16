@@ -4,8 +4,8 @@ latitude: 48.57674
 longitude: 10.4797
 postcode: "89407"
 city: Dillingen a.d.Donau
-street: "Johann-Michael-Sailer-Straße"
-housenumber: 5
-phone: "+49 8213199049"
-opening_hours: "Fr 14:00-18:00 ||nach Vereinbarung"
-website: "https://tt-xpert.de/"
+street: Johann-Michael-Sailer-Straße
+housenumber: "5"
+phone: +49 8213199049
+opening_hours: Fr 14:00-18:00 ||"nach Vereinbarung"
+website: https://tt-xpert.de/

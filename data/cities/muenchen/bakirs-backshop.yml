@@ -4,8 +4,8 @@ latitude: 48.12457
 longitude: 11.61347
 postcode: "81671"
 city: München
-street: "Aschheimer Straße"
-housenumber: 1
+street: Aschheimer Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:00; Su 12:00-15:00; Sa,PH off"
+opening_hours: Mo-Fr 06:30-18:00; Su 12:00-15:00; Sa,PH off
 website: ""

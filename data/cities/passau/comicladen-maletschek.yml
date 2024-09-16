@@ -1,11 +1,11 @@
 id: 243084841
-type: way
+type: node
 latitude: 48.57738
 longitude: 13.4546
 postcode: "94034"
 city: Passau
-street: "Eggendobl"
-housenumber: 14
+street: Eggendobl
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 15:00-18:00; Sa 13:00-18:00"
+opening_hours: Mo-Fr 15:00-18:00; Sa 13:00-18:00
 website: ""

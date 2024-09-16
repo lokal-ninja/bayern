@@ -1,11 +1,11 @@
 id: 330355827
-type: way
+type: node
 latitude: 49.28412
 longitude: 10.78558
 postcode: "91564"
 city: Neuendettelsau
-street: "Bahnhofstraße"
-housenumber: 18
+street: Bahnhofstraße
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

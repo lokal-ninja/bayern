@@ -4,8 +4,8 @@ latitude: 48.69117
 longitude: 12.20392
 postcode: "84061"
 city: Ergoldsbach
-street: "Hauptstraße"
-housenumber: 19
-phone: "+49 8771 4097970"
-opening_hours: "Mo-Sa 06:00-18:00; Su 08:00-18:00"
-website: "https://www.baeckerei-weinzierl.de/"
+street: Hauptstraße
+housenumber: "19"
+phone: +49 8771 4097970
+opening_hours: Mo-Sa 06:00-18:00; Su 08:00-18:00
+website: https://www.baeckerei-weinzierl.de/

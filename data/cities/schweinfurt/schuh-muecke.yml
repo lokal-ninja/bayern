@@ -4,8 +4,8 @@ latitude: 50.04651
 longitude: 10.23682
 postcode: "97421"
 city: Schweinfurt
-street: "Am Oberen Marienbach"
-housenumber: 1
+street: Am Oberen Marienbach
+housenumber: "1"
 phone: "+4997213709777"
-opening_hours: "Mo-Fr 09:30-20:00; Sa 09:00-19:00; Su,PH off"
-website: "https://www.schuhmuecke.de/schweinfurt"
+opening_hours: Mo-Fr 09:30-20:00; Sa 09:00-19:00; Su,PH off
+website: https://www.schuhmuecke.de/schweinfurt

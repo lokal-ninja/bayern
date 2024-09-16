@@ -1,11 +1,11 @@
 id: 200196806
-type: way
+type: node
 latitude: 48.77383
 longitude: 12.26753
 postcode: "84066"
 city: Mallersdorf-Pfaffenberg
-street: "Bayerwaldstraße"
-housenumber: 30
+street: Bayerwaldstraße
+housenumber: "30"
 phone: ""
 opening_hours: ""
-website: "https://schramm-partner.de/"
+website: https://schramm-partner.de/

@@ -4,8 +4,8 @@ latitude: 49.84271
 longitude: 9.15836
 postcode: "63820"
 city: Elsenfeld
-street: "Bahnhofstraße"
-housenumber: 2
-phone: "+49 6022 38987"
-opening_hours: "Tu-Fr 09:00-12:00,13:00-18:00"
-website: "https://www.pedalsucht.com"
+street: Bahnhofstraße
+housenumber: "2"
+phone: +49 6022 38987
+opening_hours: Tu-Fr 09:00-12:00,13:00-18:00
+website: https://www.pedalsucht.com

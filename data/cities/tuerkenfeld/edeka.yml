@@ -1,11 +1,11 @@
 id: 295236507
-type: way
+type: node
 latitude: 48.10151
 longitude: 11.07936
 postcode: "82299"
 city: Türkenfeld
-street: "An der Kälberweide"
-housenumber: 8
+street: An der Kälberweide
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.13949
 longitude: 11.56256
 postcode: "80335"
 city: München
-street: "Bayerstraße"
-housenumber: 6
+street: Bayerstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Su,PH 06:00-24:00"
+opening_hours: Mo-Su,PH 06:00-24:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.13577
 longitude: 11.60569
 postcode: "81675"
 city: München
-street: "Einsteinstraße"
-housenumber: 99
-phone: "+49 89 47 32 04"
-opening_hours: "Mo-Th 09:00-13:00,15:00-18:00; Fr 09:00-13:00,15:00-17:00"
-website: "https://glaserei-raab.de/"
+street: Einsteinstraße
+housenumber: "99"
+phone: +49 89 47 32 04
+opening_hours: Mo-Th 09:00-13:00,15:00-18:00; Fr 09:00-13:00,15:00-17:00
+website: https://glaserei-raab.de/

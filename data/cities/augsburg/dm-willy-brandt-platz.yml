@@ -4,8 +4,8 @@ latitude: 48.36556
 longitude: 10.90856
 postcode: "86153"
 city: Augsburg
-street: "Willy-Brandt-Platz"
-housenumber: 1
+street: Willy-Brandt-Platz
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
-website: "https://www.dm.de/store/d1a5/augsburg/willy-brandt-platz-1"
+opening_hours: Mo-Sa 08:00-20:00; PH off
+website: https://www.dm.de/store/d1a5/augsburg/willy-brandt-platz-1

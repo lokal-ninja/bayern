@@ -1,11 +1,11 @@
 id: 248375746
-type: way
+type: node
 latitude: 48.56751
 longitude: 11.27915
 postcode: "86529"
 city: Schrobenhausen
-street: "Ingolstädter Straße"
-housenumber: 26
+street: Ingolstädter Straße
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

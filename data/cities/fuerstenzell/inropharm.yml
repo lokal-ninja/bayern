@@ -1,11 +1,11 @@
 id: 259112970
-type: way
+type: node
 latitude: 48.51401
 longitude: 13.33234
 postcode: "94081"
 city: Fürstenzell
-street: "Aspertsham"
-housenumber: 70
-phone: "+49 8502 1025"
-opening_hours: "Mo-Th 09:00-16:00; Th 18:00-20:00; Fr 09:00-13:00"
-website: "https://www.inropharm.de/"
+street: Aspertsham
+housenumber: "70"
+phone: +49 8502 1025
+opening_hours: Mo-Th 09:00-16:00; Th 18:00-20:00; Fr 09:00-13:00
+website: https://www.inropharm.de/

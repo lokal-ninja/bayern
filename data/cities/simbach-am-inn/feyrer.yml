@@ -4,8 +4,8 @@ latitude: 48.26713
 longitude: 13.02856
 postcode: "84359"
 city: Simbach am Inn
-street: "Innstraße"
-housenumber: 13
-phone: "+49 8571 2561"
-opening_hours: "Mo,Tu,Th,Fr 07:00-18:00; We 07:00-12:30; Sa 07:00-12:00"
-website: "https://www.metzgerei-feyrer.de/"
+street: Innstraße
+housenumber: "13"
+phone: +49 8571 2561
+opening_hours: Mo,Tu,Th,Fr 07:00-18:00; We 07:00-12:30; Sa 07:00-12:00
+website: https://www.metzgerei-feyrer.de/

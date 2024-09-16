@@ -4,8 +4,8 @@ latitude: 48.33821
 longitude: 11.83737
 postcode: "85445"
 city: Oberding
-street: "Schulstraße"
-housenumber: 10
-phone: "+49 8122 8123"
-opening_hours: "Tu-Fr 08:30-12:00, 14:00-18:00; Sa 08:30-12:30"
-website: "http://blumen-sonja.de"
+street: Schulstraße
+housenumber: "10"
+phone: +49 8122 8123
+opening_hours: Tu-Fr 08:30-12:00, 14:00-18:00; Sa 08:30-12:30
+website: http://blumen-sonja.de

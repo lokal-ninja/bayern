@@ -1,11 +1,11 @@
 id: 205758086
-type: way
+type: node
 latitude: 49.66167
 longitude: 10.46115
 postcode: "91443"
 city: Scheinfeld
-street: "Nürnberger Straße"
-housenumber: 9
+street: Nürnberger Straße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

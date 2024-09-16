@@ -4,8 +4,8 @@ latitude: 48.11069
 longitude: 11.71345
 postcode: "81827"
 city: München
-street: "Wasserburger Landstraße"
-housenumber: 282
+street: Wasserburger Landstraße
+housenumber: "282"
 phone: ""
-opening_hours: "Termine nach Vereinbarung"
+opening_hours: '"Termine nach Vereinbarung"'
 website: ""

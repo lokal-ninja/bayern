@@ -4,8 +4,8 @@ latitude: 49.70101
 longitude: 9.25732
 postcode: "63897"
 city: Miltenberg
-street: "Hauptstraße"
-housenumber: 77
+street: Hauptstraße
+housenumber: "77"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:15,14:00-18:00; Sa 09:00-13:00; PH off"
-website: "http://www.niendorf-brillenoptik.de"
+opening_hours: Mo-Fr 09:00-12:15,14:00-18:00; Sa 09:00-13:00; PH off
+website: http://www.niendorf-brillenoptik.de

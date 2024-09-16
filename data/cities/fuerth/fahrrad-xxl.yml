@@ -1,11 +1,11 @@
 id: 351323868
-type: way
+type: node
 latitude: 49.51647
 longitude: 10.99626
 postcode: "90765"
 city: Fürth
-street: "In der Schmalau"
-housenumber: 55
-phone: "+49 911 131351 00"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.fahrrad-xxl.de"
+street: In der Schmalau
+housenumber: "55"
+phone: +49 911 131351 00
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.fahrrad-xxl.de

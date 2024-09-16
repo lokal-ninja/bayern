@@ -1,11 +1,11 @@
 id: 25340298
-type: way
+type: node
 latitude: 49.97947
 longitude: 9.11335
 postcode: "63741"
 city: Aschaffenburg
-street: "Mainaschaffer Straße"
-housenumber: 115
-phone: "+49 6021 3570"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.mediamarkt.de/de/store/aschaffenburg-416"
+street: Mainaschaffer Straße
+housenumber: "115"
+phone: +49 6021 3570
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.mediamarkt.de/de/store/aschaffenburg-416

@@ -4,8 +4,8 @@ latitude: 49.59745
 longitude: 11.0182
 postcode: "91054"
 city: Erlangen
-street: "Loewenichstraße"
-housenumber: 34
-phone: "+49 9131 605639"
-opening_hours: "Tu-Sa 09:00-19:00"
+street: Loewenichstraße
+housenumber: "34"
+phone: +49 9131 605639
+opening_hours: Tu-Sa 09:00-19:00
 website: ""

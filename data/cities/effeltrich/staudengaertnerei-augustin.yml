@@ -1,11 +1,11 @@
 id: 151163769
-type: way
+type: node
 latitude: 49.65476
 longitude: 11.09367
 postcode: "91090"
 city: Effeltrich
-street: "Neunkirchener Straße"
-housenumber: 15
-phone: "+49 9133 77660"
-opening_hours: "Mar-Nov Mo-Fr 08:00-18:00; Mar-Nov Sa 08:00-16:00; Su,PH off"
-website: "https://www.stauden-augustin.de"
+street: Neunkirchener Straße
+housenumber: "15"
+phone: +49 9133 77660
+opening_hours: Mar-Nov Mo-Fr 08:00-18:00; Mar-Nov Sa 08:00-16:00; Su,PH off
+website: https://www.stauden-augustin.de

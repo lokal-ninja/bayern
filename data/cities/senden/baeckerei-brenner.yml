@@ -4,8 +4,8 @@ latitude: 48.31743
 longitude: 10.07363
 postcode: "89250"
 city: Senden
-street: "Römerstraße"
-housenumber: 44
-phone: "+49 7307 22659"
-opening_hours: "Mo-Fr 05:45-18:00; Sa 05:45-12:30"
-website: "https://www.baeckerei-brenner.de/"
+street: Römerstraße
+housenumber: "44"
+phone: +49 7307 22659
+opening_hours: Mo-Fr 05:45-18:00; Sa 05:45-12:30
+website: https://www.baeckerei-brenner.de/
