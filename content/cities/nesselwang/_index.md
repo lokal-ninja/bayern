@@ -1,6 +1,6 @@
 ---
 title: Nesselwang
 url: /nesselwang/
-latitude: 47.624
-longitude: 10.504
+latitude: 47.621
+longitude: 10.502
 ---

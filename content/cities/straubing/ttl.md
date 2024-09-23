@@ -1,5 +1,5 @@
 ---
 title: "TTL"
 url: /straubing/ttl/
-shop: Teppiche
+shop: Baumarkt
 ---
