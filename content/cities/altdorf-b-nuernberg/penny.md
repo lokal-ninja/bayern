@@ -1,5 +1,5 @@
 ---
-title: "PENNY"
+title: "Penny"
 url: /altdorf-b-nuernberg/penny/
 shop: Supermarkt
 ---

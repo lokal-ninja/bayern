@@ -1,6 +1,6 @@
 ---
 title: Poppenricht
 url: /poppenricht/
-latitude: 49.477
-longitude: 11.798
+latitude: 49.473
+longitude: 11.828
 ---

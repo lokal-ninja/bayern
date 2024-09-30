@@ -7,5 +7,6 @@ city: Hersbruck
 street: Martin-Luther-Straße
 housenumber: "9"
 phone: ""
-opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00; PH,Su off
+opening_hours: Su,PH off; Mo 10:00-14:00,16:00-18:00; Tu,We 16:00-18:00; Th,Fr 10:00-14:00,16:00-18:00;
+    Sa 09:00-14:00
 website: ""
