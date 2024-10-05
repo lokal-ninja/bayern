@@ -1,6 +1,6 @@
 ---
-title: Lauf a.d.Pegnitz
+title: Lauf a.d. Pegnitz
 url: /lauf-a-d-pegnitz/
-latitude: 49.497
-longitude: 11.262
+latitude: 49.518
+longitude: 11.274
 ---

@@ -7,6 +7,6 @@ city: Augsburg
 street: Donauwörther Straße
 housenumber: "101"
 phone: +49 821 414649
-opening_hours: Mar-Sep Mo-Fr 09:00-12:00,13:00-18:00; Mar-Sep We 09:00-12:00; Mar-Sep
-    Sa 09:00-13:00; Oct-Feb Mo off; Oct-Feb We 09:00-12:00,13:00-18:00; PH off
+opening_hours: Mar-Sep Mo-Fr 09:00-12:00,13:00-18:00; Mar-Sep We off; Mar-Sep Sa 09:00-13:00;
+    Oct-Feb Mo off; Oct-Feb We 09:00-12:00,13:00-18:00; PH off
 website: https://www.bike-center-pfanz.de
