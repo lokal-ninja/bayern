@@ -1,6 +1,6 @@
 ---
 title: Nonnenhorn
 url: /nonnenhorn/
-latitude: 47.575
-longitude: 9.612
+latitude: 47.573
+longitude: 9.61
 ---

@@ -1,11 +1,11 @@
-id: 2150811190
+id: 1564968049
 type: node
-latitude: 49.42778
-longitude: 11.04275
-postcode: "90441"
+latitude: 49.40551
+longitude: 11.0933
+postcode: "90469"
 city: Nürnberg
-street: Schweinauer Hauptstraße
-housenumber: "112"
+street: Deidesheimer Straße
+housenumber: 14a
 phone: ""
-opening_hours: Mo-Fr 06:30-18:30; Sa 07:00-14:00; Su 07:00-17:00
-website: ""
+opening_hours: ""
+website: https://www.baecker-nuernberg.de/
