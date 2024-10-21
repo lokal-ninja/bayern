@@ -1,6 +1,6 @@
 ---
 title: Herrieden
 url: /herrieden/
-latitude: 49.233
-longitude: 10.497
+latitude: 49.235
+longitude: 10.502
 ---

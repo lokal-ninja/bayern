@@ -1,6 +1,6 @@
 ---
 title: Gräfenberg
 url: /graefenberg/
-latitude: 49.644
-longitude: 11.249
+latitude: 49.645
+longitude: 11.253
 ---

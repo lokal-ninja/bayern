@@ -7,5 +7,6 @@ city: Würzburg
 street: Ulmer Hof
 housenumber: "3"
 phone: +49 931 55716
-opening_hours: Mo,Th 11:00-15:00; Fr,Sa 11:00-16:00; PH,Tu,We,Su off
+opening_hours: Mo 11:00-16:00; Th 12:00-16:00; Fr 12:00-17:00; Sa 11:00-17:00; Tu,We,Su,PH
+    off
 website: https://www.jeansecke.com/

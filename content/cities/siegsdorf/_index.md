@@ -1,6 +1,6 @@
 ---
 title: Siegsdorf
 url: /siegsdorf/
-latitude: 47.827
-longitude: 12.636
+latitude: 47.836
+longitude: 12.634
 ---

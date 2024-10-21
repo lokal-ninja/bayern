@@ -1,5 +1,5 @@
 ---
 title: "Perlenmarkt"
 url: /muenchen/perlenmarkt/
-shop: Sport
+shop: Basteln
 ---

@@ -1,6 +1,6 @@
 ---
 title: Mömlingen
 url: /moemlingen/
-latitude: 49.849
-longitude: 9.09
+latitude: 49.858
+longitude: 9.085
 ---
