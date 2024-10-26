@@ -1,6 +1,6 @@
 ---
 title: Karlskron
 url: /karlskron/
-latitude: 48.675
-longitude: 11.42
+latitude: 48.679
+longitude: 11.409
 ---
