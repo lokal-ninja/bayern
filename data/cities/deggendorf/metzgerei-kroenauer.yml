@@ -7,6 +7,6 @@ city: Deggendorf
 street: Auf der Windschnur
 housenumber: "20"
 phone: +49 991 6463
-opening_hours: Mo 07:30-12:15;Tu 07:30-12:15,14:30-18:00;We 07:30-12:15;Th-Fr 07:30-12:15,14:30-18:00;Sa
-    07:00-12:00
+opening_hours: Mo 07:30-12:15; Tu 07:30-12:15; We 07:30-12:15; Th,Fr 07:30-12:15;
+    Sa 07:00-12:00
 website: ""

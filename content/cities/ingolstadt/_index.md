@@ -1,6 +1,6 @@
 ---
 title: Ingolstadt
 url: /ingolstadt/
-latitude: 48.766
-longitude: 11.439
+latitude: 48.754
+longitude: 11.348
 ---

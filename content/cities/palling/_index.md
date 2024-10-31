@@ -1,6 +1,6 @@
 ---
 title: Palling
 url: /palling/
-latitude: 48.036
-longitude: 12.658
+latitude: 47.978
+longitude: 12.655
 ---

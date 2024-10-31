@@ -1,6 +1,6 @@
 ---
 title: Bad Bayersoien
 url: /bad-bayersoien/
-latitude: 47.693
-longitude: 10.989
+latitude: 47.707
+longitude: 10.98
 ---
