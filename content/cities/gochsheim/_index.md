@@ -1,6 +1,6 @@
 ---
 title: Gochsheim
 url: /gochsheim/
-latitude: 50.018
-longitude: 10.282
+latitude: 50.02
+longitude: 10.283
 ---

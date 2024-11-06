@@ -1,6 +1,6 @@
 ---
 title: Schiltberg
 url: /schiltberg/
-latitude: 48.468
-longitude: 11.247
+latitude: 48.464
+longitude: 11.248
 ---

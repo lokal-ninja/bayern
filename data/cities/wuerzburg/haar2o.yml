@@ -7,6 +7,6 @@ city: Würzburg
 street: Alte Kasernstraße
 housenumber: "9"
 phone: +49-931-46774600
-opening_hours: Tu, We, Fr 08:00-12:30, 13:30-17:00; Th 08:00-12:30, 13:30-18:00; Sa
-    08:00-13:00
+opening_hours: Mo-We 08:00-12:30,13:30-17:00; Fr 08:00-12:30,13:30-17:00; Th,Su,PH
+    off
 website: ""

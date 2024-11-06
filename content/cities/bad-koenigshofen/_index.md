@@ -1,6 +1,6 @@
 ---
 title: Bad Königshofen
 url: /bad-koenigshofen/
-latitude: 50.298
-longitude: 10.455
+latitude: 50.301
+longitude: 10.463
 ---

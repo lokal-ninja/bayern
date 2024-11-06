@@ -1,5 +1,5 @@
 ---
 title: "Telekom Shop"
 url: /landshut/telekom-shop-siemensstrasse/
-shop: Elektronik
+shop: Handy
 ---

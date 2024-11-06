@@ -1,6 +1,6 @@
 ---
 title: Oberostendorf
 url: /oberostendorf/
-latitude: 47.944
-longitude: 10.744
+latitude: 47.946
+longitude: 10.739
 ---
