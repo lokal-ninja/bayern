@@ -1,6 +1,6 @@
 ---
 title: Haiming
 url: /haiming/
-latitude: 48.216
-longitude: 12.864
+latitude: 48.225
+longitude: 12.879
 ---

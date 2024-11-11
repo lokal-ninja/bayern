@@ -1,6 +1,6 @@
 ---
 title: Tussenhausen
 url: /tussenhausen/
-latitude: 48.1
-longitude: 10.556
+latitude: 48.094
+longitude: 10.546
 ---

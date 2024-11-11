@@ -1,6 +1,6 @@
 ---
 title: Wörth
 url: /woerth/
-latitude: 48.245
-longitude: 11.903
+latitude: 48.244
+longitude: 11.936
 ---
