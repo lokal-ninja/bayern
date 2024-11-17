@@ -1,6 +1,6 @@
 ---
 title: Schweitenkirchen
 url: /schweitenkirchen/
-latitude: 48.501
-longitude: 11.602
+latitude: 48.532
+longitude: 11.638
 ---

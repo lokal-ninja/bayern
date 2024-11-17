@@ -1,6 +1,6 @@
 ---
 title: Nittenau
 url: /nittenau/
-latitude: 49.197
-longitude: 12.264
+latitude: 49.198
+longitude: 12.263
 ---

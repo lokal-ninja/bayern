@@ -1,6 +1,6 @@
 ---
 title: Ursensollen
 url: /ursensollen/
-latitude: 49.397
-longitude: 11.763
+latitude: 49.396
+longitude: 11.78
 ---

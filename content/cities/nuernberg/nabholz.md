@@ -1,5 +1,5 @@
 ---
 title: "Nabholz"
 url: /nuernberg/nabholz/
-shop: Reifen
+shop: Autowerkstatt
 ---

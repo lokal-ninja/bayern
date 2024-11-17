@@ -1,6 +1,6 @@
 ---
-title: Neustadt a.d. Waldnaab
+title: Neustadt a.d.Waldnaab
 url: /neustadt-a-d-waldnaab/
-latitude: 49.733
-longitude: 12.178
+latitude: 49.731
+longitude: 12.172
 ---
