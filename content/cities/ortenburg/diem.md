@@ -1,5 +1,5 @@
 ---
 title: "Diem"
 url: /ortenburg/diem/
-shop: Modehaus
+shop: Kleidung
 ---

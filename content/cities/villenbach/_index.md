@@ -1,6 +1,6 @@
 ---
 title: Villenbach
 url: /villenbach/
-latitude: 48.508
-longitude: 10.614
+latitude: 48.524
+longitude: 10.596
 ---

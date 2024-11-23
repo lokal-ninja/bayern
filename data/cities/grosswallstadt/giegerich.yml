@@ -7,5 +7,5 @@ city: Großwallstadt
 street: Quellenstraße
 housenumber: "49"
 phone: ""
-opening_hours: Mo-Fr 07:30-12:00, 13:00-18:00
+opening_hours: Mo,Tu,Th,Fr 07:30-12:00, 13:00-18:00; We 07:30-12:00
 website: https://giegerich-werkzeuge-shop.de/

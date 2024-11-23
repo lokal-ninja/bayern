@@ -1,6 +1,6 @@
 ---
 title: Fraunberg
 url: /fraunberg/
-latitude: 48.358
-longitude: 11.975
+latitude: 48.367
+longitude: 12.034
 ---

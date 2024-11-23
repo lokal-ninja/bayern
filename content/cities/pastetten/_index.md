@@ -1,6 +1,6 @@
 ---
 title: Pastetten
 url: /pastetten/
-latitude: 48.188
-longitude: 11.946
+latitude: 48.201
+longitude: 11.963
 ---
