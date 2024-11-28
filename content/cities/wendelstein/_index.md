@@ -1,6 +1,6 @@
 ---
 title: Wendelstein
 url: /wendelstein/
-latitude: 49.356
-longitude: 11.143
+latitude: 49.363
+longitude: 11.17
 ---

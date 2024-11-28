@@ -7,5 +7,6 @@ city: Wielenbach
 street: Primelstraße
 housenumber: "2"
 phone: +49 881 3392
-opening_hours: ""
+opening_hours: Mo,Sa-Su off; Tu-Fr 09:00-12:30,14:00-18:00 || "Gerne auch nach telefonischer
+    Vereinbarung."
 website: https://bettenmerk.de/

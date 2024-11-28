@@ -1,5 +1,5 @@
 ---
-title: "Tee und Kräuterstub'n"
+title: "Tee & Kräuterstub'n"
 url: /bad-toelz/tee-und-kraeuterstubn/
-shop: Tee
+shop: Kräuter
 ---

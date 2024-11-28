@@ -1,6 +1,6 @@
 ---
 title: Osterhofen
 url: /osterhofen/
-latitude: 48.66
-longitude: 12.978
+latitude: 48.694
+longitude: 13.02
 ---
