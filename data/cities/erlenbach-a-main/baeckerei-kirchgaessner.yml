@@ -7,5 +7,5 @@ city: Erlenbach a. Main
 street: Bahnstraße
 housenumber: "21"
 phone: +49 9372 98890
-opening_hours: Mo off; Tu-Fr 06:00-18:00; Sa 06:00-12:00; Su 08:00-11:00
+opening_hours: Mo,Tu,Th,Fr 06:00-17:30; We,Sa 06:00-12:00; Su 08:00-11:00
 website: https://baeckerei-kirchgaessner.de/

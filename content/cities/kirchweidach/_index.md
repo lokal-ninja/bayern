@@ -1,6 +1,6 @@
 ---
 title: Kirchweidach
 url: /kirchweidach/
-latitude: 48.084
-longitude: 12.641
+latitude: 48.085
+longitude: 12.645
 ---
