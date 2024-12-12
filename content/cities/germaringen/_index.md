@@ -1,6 +1,6 @@
 ---
 title: Germaringen
 url: /germaringen/
-latitude: 47.926
-longitude: 10.671
+latitude: 47.924
+longitude: 10.669
 ---
