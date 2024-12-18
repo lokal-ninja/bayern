@@ -1,5 +1,5 @@
 ---
-title: "HORNBACH"
+title: "Hornbach"
 url: /fuerth/hornbach/
 shop: Baumarkt
 ---

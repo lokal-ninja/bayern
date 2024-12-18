@@ -1,6 +1,6 @@
 ---
 title: Wolnzach
 url: /wolnzach/
-latitude: 48.613
-longitude: 11.61
+latitude: 48.604
+longitude: 11.627
 ---
