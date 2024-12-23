@@ -1,5 +1,0 @@
----
-title: "Prientaler Bergbauernladen"
-url: /aschau-im-chiemgau/prientaler-bergbauernladen/
-shop: Hofladen
----

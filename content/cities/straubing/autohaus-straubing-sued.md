@@ -1,5 +1,0 @@
----
-title: "Autohaus Straubing Süd"
-url: /straubing/autohaus-straubing-sued/
-shop: Autohaus
----
