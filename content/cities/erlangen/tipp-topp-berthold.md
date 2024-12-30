@@ -1,0 +1,5 @@
+---
+title: "Tipp-Topp Berthold"
+url: /erlangen/tipp-topp-berthold/
+shop: Wäscherei
+---

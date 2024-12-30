@@ -1,0 +1,5 @@
+---
+title: "DB Service Store"
+url: /forchheim/db-service-store/
+shop: Kiosk
+---
