@@ -1,6 +1,6 @@
 ---
 title: Burgheim
 url: /burgheim/
-latitude: 48.698
-longitude: 11.026
+latitude: 48.699
+longitude: 11.016
 ---

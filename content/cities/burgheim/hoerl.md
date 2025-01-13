@@ -1,5 +1,5 @@
 ---
-title: "HÖRL"
+title: "Hörl"
 url: /burgheim/hoerl/
 shop: Getränke
 ---

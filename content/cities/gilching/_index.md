@@ -1,6 +1,6 @@
 ---
 title: Gilching
 url: /gilching/
-latitude: 48.11
-longitude: 11.298
+latitude: 48.106
+longitude: 11.291
 ---

@@ -7,5 +7,5 @@ city: Stadtbergen
 street: Bismarckstraße
 housenumber: "25"
 phone: ""
-opening_hours: Tu-Fr 09:30-18:00; Sa 10:00-13:00
+opening_hours: Tu,Fr 09:30-18:00; We,Th 09:30-19:30
 website: https://www.slow-it-second-hand.de/
