@@ -1,6 +1,6 @@
 ---
 title: Gachenbach
 url: /gachenbach/
-latitude: 48.496
-longitude: 11.239
+latitude: 48.531
+longitude: 11.241
 ---

@@ -1,6 +1,6 @@
 ---
 title: Dinkelscherben
 url: /dinkelscherben/
-latitude: 48.345
-longitude: 10.586
+latitude: 48.344
+longitude: 10.588
 ---

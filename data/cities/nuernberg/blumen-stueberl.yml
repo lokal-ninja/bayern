@@ -1,11 +1,12 @@
 id: 5595294441
 type: node
-latitude: 49.47067
-longitude: 11.11349
+latitude: 49.47066
+longitude: 11.11354
 postcode: "90491"
 city: Nürnberg
-street: Leipziger Straße
-housenumber: "59"
+street: Chemnitzer Straße
+housenumber: "28"
 phone: +49 911 512051
-opening_hours: Mo-Fr 08:00-12:00,14:00-18:00; Sa 08:00-13:00
+opening_hours: Mo-Di 08:00-12:00,14:00-18:00; Mi 08:00-12:00; Do-Fr 08:00-12:00,14:00-18:00
+    Sa 08:00-13:00
 website: ""

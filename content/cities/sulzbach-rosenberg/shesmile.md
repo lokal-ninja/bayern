@@ -1,5 +1,5 @@
 ---
 title: "shesmile"
 url: /sulzbach-rosenberg/shesmile/
-shop: Baumarkt
+shop: Basteln
 ---
