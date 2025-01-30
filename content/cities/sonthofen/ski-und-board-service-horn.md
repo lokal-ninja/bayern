@@ -1,5 +1,5 @@
 ---
 title: "Ski und Board Service Horn"
 url: /sonthofen/ski-und-board-service-horn/
-shop: Sport
+shop: Ski
 ---

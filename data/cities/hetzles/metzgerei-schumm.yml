@@ -7,6 +7,6 @@ city: Hetzles
 street: Steingasse
 housenumber: "1"
 phone: +49 9134 1750
-opening_hours: Mo 07:00-12:30; Tu 07:00-12:30, 14:30-18:00; Th 07:00-12:30, 14:30-18:00;
-    Fr 07:00-18:00; Sa 07:00-12:30
+opening_hours: Mo 07:00-12:30; Tu 07:00-12:30, 14:30-18:00; We 07:00-12:30, 14:30-18:00;
+    Th 07:00-12:30, 14:30-18:00; Fr 07:00-18:00; Sa 07:00-12:30
 website: https://www.metzgerei-schumm.de/

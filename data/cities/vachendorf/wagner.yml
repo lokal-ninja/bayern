@@ -1,11 +1,11 @@
 id: 210549115
 type: node
-latitude: 47.84205
-longitude: 12.60714
+latitude: 47.84206
+longitude: 12.60716
 postcode: "83377"
 city: Vachendorf
 street: Hauptstraße
 housenumber: "10"
 phone: ""
-opening_hours: Tu-Fr 06:00-18:00; Sa 06:00-12:00; Su 08:00-11:15
-website: ""
+opening_hours: 'Tu-Fr 06:00-18:00; Sa 06:00-12:00; '
+website: https://beggawanga.de/

@@ -1,5 +1,5 @@
 ---
 title: "Lebkuchen Metzger"
 url: /nuernberg/lebkuchen-metzger/
-shop: Süßwaren
+shop: Allgemein
 ---

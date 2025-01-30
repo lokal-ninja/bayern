@@ -1,6 +1,6 @@
 ---
 title: Breitenthal
 url: /breitenthal/
-latitude: 48.237
-longitude: 10.297
+latitude: 48.238
+longitude: 10.293
 ---

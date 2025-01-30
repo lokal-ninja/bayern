@@ -7,5 +7,11 @@ city: Dießen am Ammersee
 street: Seestraße
 housenumber: "31"
 phone: ""
-opening_hours: Mo-Su 10:00-20:00
-website: https://seekiosk-diessen.jimdofree.com/
+opening_hours: |-
+    Mo-Su 11:00-19:00, Apr
+    Mo-Su 10:00-20:00, May
+    Mo-Su 9:30-21:00, Jun - Aug
+    Mo-Su 10:00-20:00, Sep 1 - Sep 15
+    Mo-Su 11:00-19:00, Sep 16 - Sep 30
+    Mo-Su 11:00-18:00, Oct 1 - Oct 19
+website: https://seekiosk-diessen.jimdofree.com
