@@ -1,6 +1,6 @@
 ---
 title: Mellrichstadt
 url: /mellrichstadt/
-latitude: 50.424
-longitude: 10.297
+latitude: 50.423
+longitude: 10.296
 ---

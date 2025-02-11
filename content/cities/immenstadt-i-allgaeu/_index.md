@@ -1,6 +1,6 @@
 ---
 title: Immenstadt i.Allgäu
 url: /immenstadt-i-allgaeu/
-latitude: 47.553
-longitude: 10.234
+latitude: 47.56
+longitude: 10.218
 ---

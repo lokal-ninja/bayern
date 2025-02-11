@@ -1,5 +1,5 @@
 ---
-title: "Obi Gartencenter"
+title: "OBI Gartencenter"
 url: /landshut/obi-gartencenter/
 shop: Baumarkt
 ---
