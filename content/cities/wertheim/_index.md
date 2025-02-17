@@ -1,6 +1,6 @@
 ---
 title: Wertheim
 url: /wertheim/
-latitude: 49.772
-longitude: 9.561
+latitude: 49.776
+longitude: 9.577
 ---
