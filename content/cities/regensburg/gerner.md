@@ -1,5 +1,5 @@
 ---
 title: "gerner"
 url: /regensburg/gerner/
-shop: Baumarkt
+shop: Baustoffe
 ---
