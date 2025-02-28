@@ -7,5 +7,6 @@ city: Schnaittenbach
 street: Wernberger Straße
 housenumber: "19"
 phone: +49 9622 71320
-opening_hours: Mo-Fr 08:00-12:00; Mo-Th 13:00-17:00; Fr 12:00-16:00; PH off
+opening_hours: Mo-Fr 08:00-12:00, Mo-Th 13:00-18:00, Fr 13:00-17:00, Sa 09:00-12:00;
+    Su,PH off
 website: ""
