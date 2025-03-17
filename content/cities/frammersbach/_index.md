@@ -1,6 +1,6 @@
 ---
 title: Frammersbach
 url: /frammersbach/
-latitude: 50.061
-longitude: 9.407
+latitude: 50.063
+longitude: 9.47
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Nah&Gut"
+title: "nah&gut"
 url: /freihung/nahundgut/
 shop: Supermarkt
 ---

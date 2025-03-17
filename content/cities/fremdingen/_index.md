@@ -1,6 +1,6 @@
 ---
 title: Fremdingen
 url: /fremdingen/
-latitude: 48.972
-longitude: 10.463
+latitude: 48.971
+longitude: 10.456
 ---

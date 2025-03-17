@@ -7,5 +7,5 @@ city: Erlangen
 street: Bahnhofplatz
 housenumber: "1"
 phone: ""
-opening_hours: Mo-Fr 07:30-19:00; Sa 08:15-15:00; Su 09:15-15:00
+opening_hours: Mo-Fr 18:00-18:00; Sa 08:00-13:00; Su,PH off
 website: https://reiseauskunft.bahn.de/bin/ff/query.exe/dn?ld=4373&&ident=bv.02603773.1602862109&rt=1&performGis=1&dbAgencyExtId=999502583&dbAgencyPoolUIC=105&dbAgencyViewMode=detail&SetGlobalOptionGO_callMapFromPosition=tpOvAreaMapStart&REQMapCenterCoordType=GEO&
