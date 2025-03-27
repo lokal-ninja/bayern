@@ -1,6 +1,6 @@
 ---
 title: Breitenberg
 url: /breitenberg/
-latitude: 48.703
-longitude: 13.793
+latitude: 48.702
+longitude: 13.791
 ---

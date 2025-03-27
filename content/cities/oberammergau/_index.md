@@ -1,6 +1,6 @@
 ---
 title: Oberammergau
 url: /oberammergau/
-latitude: 47.597
-longitude: 11.064
+latitude: 47.6
+longitude: 11.054
 ---

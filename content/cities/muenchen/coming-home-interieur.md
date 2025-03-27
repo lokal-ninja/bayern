@@ -1,5 +1,5 @@
 ---
 title: "Coming Home Interieur"
 url: /muenchen/coming-home-interieur/
-shop: Allgemein
+shop: Raumausstattung
 ---

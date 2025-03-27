@@ -1,5 +1,5 @@
 ---
-title: "PENNY"
+title: "Penny"
 url: /taufkirchen/penny/
 shop: Supermarkt
 ---

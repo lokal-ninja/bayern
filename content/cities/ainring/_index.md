@@ -1,6 +1,6 @@
 ---
 title: Ainring
 url: /ainring/
-latitude: 47.79
-longitude: 12.943
+latitude: 47.807
+longitude: 12.961
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vergölst"
 url: /kempten-allgaeu/vergoelst/
-shop: Autowerkstatt
+shop: Reifen
 ---
