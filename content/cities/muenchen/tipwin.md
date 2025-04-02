@@ -1,5 +1,5 @@
 ---
 title: "tipwin"
 url: /muenchen/tipwin/
-shop: Wettbüro
+shop: Lotterie
 ---
