@@ -1,6 +1,6 @@
 ---
 title: Sennfeld
 url: /sennfeld/
-latitude: 50.037
-longitude: 10.25
+latitude: 50.039
+longitude: 10.245
 ---
