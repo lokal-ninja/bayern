@@ -1,5 +1,5 @@
 ---
-title: "EDEKA"
+title: "Edeka"
 url: /graefelfing/edeka-bahnhofstrasse/
 shop: Supermarkt
 ---

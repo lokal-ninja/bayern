@@ -1,5 +1,5 @@
 ---
-title: "NORMA"
+title: "Norma"
 url: /grafenrheinfeld/norma/
 shop: Supermarkt
 ---

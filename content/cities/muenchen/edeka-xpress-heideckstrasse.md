@@ -1,5 +1,5 @@
 ---
-title: "EDEKA xpress"
+title: "Edeka xpress"
 url: /muenchen/edeka-xpress-heideckstrasse/
 shop: Supermarkt
 ---

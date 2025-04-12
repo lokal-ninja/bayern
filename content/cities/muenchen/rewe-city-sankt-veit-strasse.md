@@ -1,5 +1,5 @@
 ---
-title: "REWE City"
+title: "Rewe City"
 url: /muenchen/rewe-city-sankt-veit-strasse/
 shop: Supermarkt
 ---

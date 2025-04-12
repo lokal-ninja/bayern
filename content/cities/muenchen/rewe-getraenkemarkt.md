@@ -1,5 +1,5 @@
 ---
-title: "REWE Getränkemarkt"
+title: "Rewe Getränkemarkt"
 url: /muenchen/rewe-getraenkemarkt/
 shop: Getränke
 ---
