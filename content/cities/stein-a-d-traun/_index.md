@@ -1,6 +1,6 @@
 ---
-title: Stein a.d. Traun
+title: Stein a.d.Traun
 url: /stein-a-d-traun/
-latitude: 47.993
-longitude: 12.549
+latitude: 47.986
+longitude: 12.547
 ---

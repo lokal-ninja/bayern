@@ -7,5 +7,5 @@ city: Erlangen
 street: Paulistraße
 housenumber: "6"
 phone: +49 9131 26167
-opening_hours: Sa,Su,Mo,Tu,PH off; We 07:30-18:00; Th-Fr 06:30-18:00
+opening_hours: Sa-Tu,PH off; We 06:30-18:00; Th,Fr 06:30-18:00
 website: ""

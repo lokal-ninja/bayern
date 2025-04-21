@@ -1,5 +1,5 @@
 ---
 title: "WMF"
 url: /erlangen/wmf/
-shop: Haushaltsartikel
+shop: Küchen
 ---

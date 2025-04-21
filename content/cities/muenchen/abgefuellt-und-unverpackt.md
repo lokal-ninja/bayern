@@ -1,5 +1,5 @@
 ---
 title: "abgefüllt & unverpackt"
 url: /muenchen/abgefuellt-und-unverpackt/
-shop: Haushaltsartikel
+shop: Lebensmittel
 ---

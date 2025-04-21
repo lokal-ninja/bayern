@@ -1,6 +1,6 @@
 ---
 title: Hallstadt
 url: /hallstadt/
-latitude: 49.924
-longitude: 10.878
+latitude: 49.923
+longitude: 10.894
 ---

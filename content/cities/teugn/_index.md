@@ -1,6 +1,6 @@
 ---
 title: Teugn
 url: /teugn/
-latitude: 48.891
-longitude: 12.013
+latitude: 48.9
+longitude: 12.009
 ---
