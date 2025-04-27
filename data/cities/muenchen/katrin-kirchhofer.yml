@@ -7,5 +7,5 @@ city: München
 street: Josephsburgstraße
 housenumber: "60"
 phone: ""
-opening_hours: Mo-Tu,Th 11:00-19:00; We 09:00-18:00; Fr 09:00-19:00; PH closed
+opening_hours: Mo,Tu,Th,Fr 11:00-19:00; We,Sa,Su,PH off
 website: ""

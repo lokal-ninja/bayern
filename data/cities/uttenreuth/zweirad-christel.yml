@@ -7,5 +7,6 @@ city: Uttenreuth
 street: Esperstraße
 housenumber: "14"
 phone: ""
-opening_hours: ""
+opening_hours: 'Mar-Oct: Mo-Fr 09:00-13:00,14:00-18:00; Mar-Oct: Sa 09:00-13:00; Mar-Oct:
+    Su,PH off; Nov-Feb: Tu-Fr 09:00-13:00,14:00-18:00; Nov-Feb: Sa-Mo,PH off'
 website: https://www.zweirad-christel.de/

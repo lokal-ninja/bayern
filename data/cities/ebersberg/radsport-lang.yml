@@ -1,11 +1,12 @@
-id: 295166557
+id: 12778158825
 type: node
-latitude: 48.07808
-longitude: 11.96168
+latitude: 48.07794
+longitude: 11.96774
 postcode: "85560"
 city: Ebersberg
-street: Floßmannstraße
-housenumber: "20"
+street: Ulrichstraße
+housenumber: 1a
 phone: +49 8092 861666
-opening_hours: Tu-Fr 09:00-12:30,14:00-18:00; Sa 09:00-13:00; PH off
-website: https://www.radsportlang.de/
+opening_hours: 'Mar-Oct: Tu-Fr 09:00-13:00,14:00-19:00; Nov-Okt: Tu-Fr 09:00-13:00,14:00-18:00;
+    Sa 09:00-13:00; PH off'
+website: https://www.radsportlang.de

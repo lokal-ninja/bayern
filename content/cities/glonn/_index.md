@@ -1,6 +1,6 @@
 ---
 title: Glonn
 url: /glonn/
-latitude: 47.988
-longitude: 11.866
+latitude: 47.987
+longitude: 11.862
 ---

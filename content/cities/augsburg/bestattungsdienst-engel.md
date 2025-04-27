@@ -1,5 +1,5 @@
 ---
-title: "Bestattungsdienst Engel"
+title: "Bestattungsdienst ENGEL"
 url: /augsburg/bestattungsdienst-engel/
 shop: Bestattungen
 ---

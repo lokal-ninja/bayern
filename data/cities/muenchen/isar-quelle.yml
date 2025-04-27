@@ -1,11 +1,11 @@
 id: 437545071
 type: node
-latitude: 48.12626
-longitude: 11.57821
+latitude: 48.12629
+longitude: 11.57818
 postcode: "81541"
 city: München
 street: Ohlmüllerstraße
 housenumber: "2"
-phone: +49 89 44218140
-opening_hours: Mo-Fr 10:00-19:00; Sa10:00-16:00 || "bei schönem Wetter Mo-Sa 10:00-20:00"
-website: https://www.isarquelle.de/
+phone: ""
+opening_hours: Mo-Su,PH 07:00-24:00
+website: ""
