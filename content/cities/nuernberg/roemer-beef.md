@@ -1,5 +1,5 @@
 ---
-title: "RÖMER BEEF"
+title: "Römer Beef"
 url: /nuernberg/roemer-beef/
 shop: Metzgerei
 ---

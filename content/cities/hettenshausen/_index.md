@@ -1,6 +1,6 @@
 ---
 title: Hettenshausen
 url: /hettenshausen/
-latitude: 48.515
-longitude: 11.505
+latitude: 48.514
+longitude: 11.506
 ---

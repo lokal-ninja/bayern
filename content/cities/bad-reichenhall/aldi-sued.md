@@ -1,5 +1,5 @@
 ---
-title: "ALDI Süd"
+title: "Aldi Süd"
 url: /bad-reichenhall/aldi-sued/
 shop: Supermarkt
 ---
