@@ -1,11 +1,12 @@
-id: 170962365
+id: 12826319948
 type: node
-latitude: 47.74187
-longitude: 12.15659
+latitude: 47.74185
+longitude: 12.15664
 postcode: "83131"
 city: Nußdorf am Inn
 street: Hauptstraße
 housenumber: 5a
 phone: ""
-opening_hours: Mo-We,Su,PH off; Th-Fr 09:00-18:00; Sa 09:00-16:00
-website: https://kaffeeladen-nussdorf.de/
+opening_hours: 'Th-Fr 09:00-18:00; Sep-Apr: Sa 09:00-13:00; May-Aug: Sa 09:00-16:00;
+    Su-We,PH off'
+website: ""

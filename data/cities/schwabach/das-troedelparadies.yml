@@ -7,5 +7,6 @@ city: Schwabach
 street: Kappadocia
 housenumber: "8"
 phone: +49 9122 6033751
-opening_hours: Sa,Mi 10:00-13:00; Do,Fr 10:00-13:00, 14:30-18:00
+opening_hours: We,Sa 10:00-13:00, Th,Fr 10:00-13:00,14:30-18:00, Sa 10:00-13:00; Mo,Tu
+    off
 website: https://www.das-trödelparadies.de

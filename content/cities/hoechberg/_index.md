@@ -1,6 +1,6 @@
 ---
 title: Höchberg
 url: /hoechberg/
-latitude: 49.785
-longitude: 9.886
+latitude: 49.771
+longitude: 9.866
 ---
