@@ -1,6 +1,6 @@
 ---
 title: Innernzell
 url: /innernzell/
-latitude: 48.852
-longitude: 13.283
+latitude: 48.85
+longitude: 13.276
 ---

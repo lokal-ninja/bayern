@@ -1,12 +1,11 @@
-id: 382344492
+id: 2365347204
 type: node
-latitude: 49.46018
-longitude: 11.1307
-postcode: "90482"
+latitude: 49.46246
+longitude: 11.06987
+postcode: "90419"
 city: Nürnberg
-street: Mögeldorfer Hauptstraße
-housenumber: "40"
+street: Kirchenweg
+housenumber: "4"
 phone: ""
-opening_hours: Mo-Th 08:30-13:00,15:00-18:00, Fr 07:30-13:00, Sa 07:00-12:30; Su off,
-    Fr 15:00-18:00
-website: https://www.hofpfisterei.de/
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-13:30
+website: https://www.hofpfisterei.de

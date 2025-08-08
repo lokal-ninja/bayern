@@ -1,6 +1,6 @@
 ---
 title: Heustreu
 url: /heustreu/
-latitude: 50.347
-longitude: 10.263
+latitude: 50.354
+longitude: 10.257
 ---

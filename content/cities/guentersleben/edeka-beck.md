@@ -1,5 +1,5 @@
 ---
-title: "EDEKA Beck"
+title: "Edeka Beck"
 url: /guentersleben/edeka-beck/
 shop: Supermarkt
 ---

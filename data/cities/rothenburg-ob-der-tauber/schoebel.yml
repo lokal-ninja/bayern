@@ -7,5 +7,5 @@ city: Rothenburg ob der Tauber
 street: Galgengasse
 housenumber: "6"
 phone: ""
-opening_hours: Mo-Th 07:00-17:00; Fr off; Sa 07:00-17:00; Su 08:00-17:00
+opening_hours: Mo,We-Su 11:00-17:00; Tu off
 website: ""

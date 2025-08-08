@@ -1,6 +1,6 @@
 ---
 title: Denklingen
 url: /denklingen/
-latitude: 47.932
-longitude: 10.867
+latitude: 47.914
+longitude: 10.904
 ---

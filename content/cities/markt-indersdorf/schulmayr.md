@@ -1,5 +1,5 @@
 ---
 title: "Schulmayr"
 url: /markt-indersdorf/schulmayr/
-shop: Allgemein
+shop: Kamine & Öfen
 ---

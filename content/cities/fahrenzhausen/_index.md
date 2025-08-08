@@ -1,6 +1,6 @@
 ---
 title: Fahrenzhausen
 url: /fahrenzhausen/
-latitude: 48.351
-longitude: 11.563
+latitude: 48.35
+longitude: 11.564
 ---

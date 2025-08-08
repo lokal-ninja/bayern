@@ -1,5 +1,5 @@
 ---
-title: "H. T. - Anhängerverleih"
+title: "H.T. Anhängerverleih"
 url: /ingolstadt/h-t-anhaengerverleih/
-shop: Anhänger
+shop: Mieten
 ---

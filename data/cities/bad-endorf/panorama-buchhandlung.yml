@@ -7,5 +7,5 @@ city: Bad Endorf
 street: Bahnhofstraße
 housenumber: 21a
 phone: ""
-opening_hours: Mo-Fr 09:00-18:00, Sa 09:00-13:00
+opening_hours: Mo,We,Su off; Tu,Th 09:00-12:00,15:00-18:00; Fr 15:00-18:00; Sa 09:00-13:00
 website: ""

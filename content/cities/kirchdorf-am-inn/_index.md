@@ -1,6 +1,6 @@
 ---
 title: Kirchdorf am Inn
 url: /kirchdorf-am-inn/
-latitude: 48.258
-longitude: 13.002
+latitude: 48.257
+longitude: 12.997
 ---

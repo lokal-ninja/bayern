@@ -1,5 +1,5 @@
 ---
 title: "Sport Schrott"
 url: /regensburg/sport-schrott/
-shop: Kleidung
+shop: Sport
 ---

@@ -1,6 +1,6 @@
 ---
 title: Opfenbach
 url: /opfenbach/
-latitude: 47.642
-longitude: 9.832
+latitude: 47.629
+longitude: 9.837
 ---

@@ -1,6 +1,6 @@
 ---
 title: Karlsfeld
 url: /karlsfeld/
-latitude: 48.222
-longitude: 11.481
+latitude: 48.228
+longitude: 11.47
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Geißelmeier"
+title: "Geisselmeier"
 url: /treuchtlingen/geisselmeier/
 shop: Metzgerei
 ---

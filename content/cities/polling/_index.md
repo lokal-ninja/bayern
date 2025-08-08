@@ -1,6 +1,6 @@
 ---
 title: Polling
 url: /polling/
-latitude: 47.815
-longitude: 11.107
+latitude: 47.81
+longitude: 11.132
 ---

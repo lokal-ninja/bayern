@@ -1,6 +1,6 @@
 ---
 title: Schirnding
 url: /schirnding/
-latitude: 50.077
-longitude: 12.232
+latitude: 50.079
+longitude: 12.23
 ---

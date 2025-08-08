@@ -1,6 +1,6 @@
 ---
 title: Inzell
 url: /inzell/
-latitude: 47.766
-longitude: 12.747
+latitude: 47.762
+longitude: 12.748
 ---

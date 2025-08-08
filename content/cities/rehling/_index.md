@@ -1,6 +1,6 @@
 ---
 title: Rehling
 url: /rehling/
-latitude: 48.487
-longitude: 10.931
+latitude: 48.489
+longitude: 10.946
 ---

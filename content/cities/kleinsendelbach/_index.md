@@ -1,6 +1,6 @@
 ---
 title: Kleinsendelbach
 url: /kleinsendelbach/
-latitude: 49.596
-longitude: 11.158
+latitude: 49.603
+longitude: 11.168
 ---

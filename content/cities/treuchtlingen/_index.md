@@ -1,6 +1,6 @@
 ---
 title: Treuchtlingen
 url: /treuchtlingen/
-latitude: 48.952
-longitude: 10.911
+latitude: 48.983
+longitude: 10.884
 ---

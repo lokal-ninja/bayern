@@ -1,11 +1,11 @@
 id: 2545604627
 type: node
-latitude: 49.46063
-longitude: 11.10541
+latitude: 49.46059
+longitude: 11.10536
 postcode: "90489"
 city: Nürnberg
 street: Welserstraße
-housenumber: 1-5
+housenumber: "1"
 phone: ""
 opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off
 website: ""

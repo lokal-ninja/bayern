@@ -1,5 +1,5 @@
 ---
-title: "Yormas"
+title: "Yorma's"
 url: /landshut/yormas/
-shop: Supermarkt
+shop: Lebensmittel
 ---

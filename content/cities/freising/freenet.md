@@ -1,5 +1,5 @@
 ---
-title: "Freenet"
+title: "freenet"
 url: /freising/freenet/
 shop: Handy
 ---

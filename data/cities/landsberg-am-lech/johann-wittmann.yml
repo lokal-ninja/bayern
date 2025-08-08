@@ -7,5 +7,5 @@ city: Landsberg am Lech
 street: Hauptplatz
 housenumber: "183"
 phone: +49 8191/1410
-opening_hours: ""
+opening_hours: Mo,Tu,Th,Fr 09:00-17:00; We 09:00-12:30; Sa 09:00-12:30
 website: ""
