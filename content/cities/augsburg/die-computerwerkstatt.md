@@ -1,5 +1,5 @@
 ---
-title: "die Computerwerkstatt"
+title: "Die Computerwerkstatt"
 url: /augsburg/die-computerwerkstatt/
 shop: Computer
 ---

@@ -1,6 +1,6 @@
 ---
 title: Fürstenzell
 url: /fuerstenzell/
-latitude: 48.523
-longitude: 13.319
+latitude: 48.581
+longitude: 13.272
 ---

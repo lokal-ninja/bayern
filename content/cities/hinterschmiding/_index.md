@@ -1,6 +1,6 @@
 ---
 title: Hinterschmiding
 url: /hinterschmiding/
-latitude: 48.823
-longitude: 13.601
+latitude: 48.822
+longitude: 13.599
 ---

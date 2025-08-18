@@ -7,5 +7,6 @@ city: Fürstenzell
 street: Holzbacher Straße
 housenumber: "3"
 phone: +49 8502 426 44 66
-opening_hours: Mo-Fr 09:00-12:00,14:00-18:00; Sa 09:00-13:00
-website: ""
+opening_hours: Mo,Tu,Th,Fr 09:00-12:00;14:00-18:00; We 09:00-12:00; Sa 09:00-13:00;
+    Su,PH off
+website: https://www.schuhhaus-sixl.de/

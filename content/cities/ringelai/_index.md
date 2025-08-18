@@ -1,6 +1,6 @@
 ---
 title: Ringelai
 url: /ringelai/
-latitude: 48.813
-longitude: 13.471
+latitude: 48.812
+longitude: 13.475
 ---

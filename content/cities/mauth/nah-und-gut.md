@@ -1,5 +1,5 @@
 ---
-title: "nah und gut"
+title: "Nah und Gut"
 url: /mauth/nah-und-gut/
-shop: Supermarkt
+shop: Lebensmittel
 ---
