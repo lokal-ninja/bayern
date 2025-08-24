@@ -1,5 +1,5 @@
 ---
 title: "Jaspout"
 url: /hassfurt/jaspout/
-shop: Allgemein
+shop: Outdoor
 ---

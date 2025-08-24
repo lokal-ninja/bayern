@@ -2,5 +2,5 @@
 title: Haßfurt
 url: /hassfurt/
 latitude: 50.032
-longitude: 10.5
+longitude: 10.539
 ---

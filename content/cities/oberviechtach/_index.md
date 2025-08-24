@@ -1,6 +1,6 @@
 ---
 title: Oberviechtach
 url: /oberviechtach/
-latitude: 49.46
-longitude: 12.419
+latitude: 49.455
+longitude: 12.415
 ---
