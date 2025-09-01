@@ -1,5 +1,5 @@
 ---
-title: "Wolle und Schönes"
+title: "Wolle & Schönes"
 url: /muenchen/wolle-und-schoenes/
 shop: Wolle
 ---

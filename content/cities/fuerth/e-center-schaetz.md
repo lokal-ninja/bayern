@@ -1,5 +1,5 @@
 ---
-title: "E center Schätz"
+title: "E-Center Schätz"
 url: /fuerth/e-center-schaetz/
 shop: Supermarkt
 ---

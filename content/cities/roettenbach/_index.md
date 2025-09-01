@@ -1,6 +1,6 @@
 ---
 title: Röttenbach
 url: /roettenbach/
-latitude: 49.668
-longitude: 10.931
+latitude: 49.659
+longitude: 10.915
 ---
