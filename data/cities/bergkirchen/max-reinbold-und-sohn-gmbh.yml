@@ -7,5 +7,7 @@ city: Bergkirchen
 street: Prieler Straße
 housenumber: "2"
 phone: +49 8135 93060
-opening_hours: ""
+opening_hours: 'Mar-Oct: Mo-Th 07:30-12:00,13:00-18:00; Mar-Oct: Fr 07:30-12:00,13:00-17:00;
+    Mar-Oct: Sa 07:30-12:00; Nov: Mo-Fr 07:30-12:00,13:00-17:00; Nov: Sa 07:30-12:00;
+    Dec-Feb: Mo-Fr 07:30-12:00,13:00-17:00'
 website: https://reinbold-lauterbach.de/

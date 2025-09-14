@@ -1,5 +1,5 @@
 ---
-title: "Küchentreff"
+title: "KüchenTreff"
 url: /uebersee/kuechentreff/
 shop: Küchen
 ---
