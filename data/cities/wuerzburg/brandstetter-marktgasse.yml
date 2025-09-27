@@ -7,6 +7,5 @@ city: Würzburg
 street: Marktgasse
 housenumber: "3"
 phone: ""
-opening_hours: Mo-Fr 05:00-18:00, Sa 05:00-18:00, Su 05:00- 10:00|| "Corona-Zeiten
-    beachten!"
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-16:00; Su 08:00-13:00
 website: ""
