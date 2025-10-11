@@ -1,5 +1,5 @@
 ---
-title: "K Kiosk"
+title: "k kiosk"
 url: /unterschleissheim/k-kiosk/
-shop: Kiosk
+shop: Zeitungen
 ---

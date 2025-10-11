@@ -1,6 +1,6 @@
 ---
 title: Emmering
 url: /emmering/
-latitude: 48.181
-longitude: 11.28
+latitude: 48.184
+longitude: 11.274
 ---

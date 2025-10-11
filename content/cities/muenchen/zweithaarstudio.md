@@ -1,5 +1,5 @@
 ---
 title: "Zweithaarstudio"
 url: /muenchen/zweithaarstudio/
-shop: Friseur
+shop: Allgemein
 ---
