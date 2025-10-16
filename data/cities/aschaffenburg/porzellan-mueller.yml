@@ -7,5 +7,5 @@ city: Aschaffenburg
 street: Roßmarkt
 housenumber: "14"
 phone: ""
-opening_hours: ""
+opening_hours: Mo,Su,PH off; Tu-Fr 10:30-17:00; Sa 10:30-16:00
 website: ""
