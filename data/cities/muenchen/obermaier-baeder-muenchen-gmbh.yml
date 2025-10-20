@@ -7,5 +7,5 @@ city: München
 street: Salvatorstraße
 housenumber: "2"
 phone: +4989 224651
-opening_hours: Mo-Sa 10:00-19:00
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
 website: https://obermaier.de

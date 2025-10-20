@@ -1,12 +1,11 @@
-id: 462275495
+id: 983851108
 type: node
-latitude: 48.0911
-longitude: 11.52116
-postcode: "81379"
+latitude: 48.13892
+longitude: 11.53393
+postcode: "80339"
 city: München
-street: Aidenbachstraße
-housenumber: "116"
+street: Trappentreustraße
+housenumber: "10"
 phone: ""
-opening_hours: 'Mar-Oct: Mo-Fr 09:00-12:00, 13:00-18:00; Sa 10:00-13:00; PH off; Nov-Feb:
-    Mo-Fr 09:00-12:00, 13:00-18:00; Sa 10:00-13:00; PH off'
-website: https://www.radldiscount.de/
+opening_hours: Tu-Fr 09:00-12:00, Mo-Fr 13:00-18:00, Sa 10:00-13:00; PH off
+website: ""
