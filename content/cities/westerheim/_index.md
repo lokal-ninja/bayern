@@ -1,6 +1,6 @@
 ---
 title: Westerheim
 url: /westerheim/
-latitude: 48.015
-longitude: 10.3
+latitude: 48.022
+longitude: 10.302
 ---

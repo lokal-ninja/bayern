@@ -1,6 +1,6 @@
 ---
 title: Truchtlaching
 url: /truchtlaching/
-latitude: 47.946
-longitude: 12.5
+latitude: 47.959
+longitude: 12.501
 ---

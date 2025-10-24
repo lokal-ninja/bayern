@@ -7,5 +7,5 @@ city: Erlangen
 street: Luitpoldstraße
 housenumber: "31"
 phone: ""
-opening_hours: Tu-Fr 12:00-19:00
+opening_hours: Tu-Th 12:00-19:00; Fr 12:00-16:00
 website: https://teilerei.de/

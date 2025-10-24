@@ -1,6 +1,6 @@
 ---
 title: Volkach
 url: /volkach/
-latitude: 49.873
-longitude: 10.168
+latitude: 49.865
+longitude: 10.229
 ---
