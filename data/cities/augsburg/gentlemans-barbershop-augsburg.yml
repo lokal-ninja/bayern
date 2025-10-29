@@ -7,5 +7,6 @@ city: Augsburg
 street: Von-Richthofen-Straße
 housenumber: "38"
 phone: ""
-opening_hours: Tu 07:30-19:00; We-Fr 09:00-19:00; Sa 07:30-15:00; Mo off
+opening_hours: Tu 07:30-19:00; We,Th 09:00-19:00; Sa 07:30-15:00; Fr 08:00-19:00;
+    Mo off
 website: ""

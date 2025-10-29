@@ -1,12 +1,12 @@
-id: 6283070223
+id: 13264746231
 type: node
-latitude: 49.50071
-longitude: 11.43768
+latitude: 49.50306
+longitude: 11.43818
 postcode: "91217"
 city: Hersbruck
-street: Leutenbachstraße
-housenumber: "17"
+street: Ostbahnstraße
+housenumber: "47"
 phone: ""
-opening_hours: Mo,Tu,Th 06:30-12:00,14:00-18:00; We 06:30-12:00; Fr 06:30-18:00; Sa
-    07:00-12:00
+opening_hours: Mo-Fr 06:30-12:00,Mo-Di 14:00-18:00, Do-Fr 14:00-18:00, Sa 07:00-12:00;
+    PH off
 website: ""
