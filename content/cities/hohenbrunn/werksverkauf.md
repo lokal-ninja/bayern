@@ -1,5 +1,5 @@
 ---
 title: "Werksverkauf"
 url: /hohenbrunn/werksverkauf/
-shop: Allgemein
+shop: Pasta
 ---

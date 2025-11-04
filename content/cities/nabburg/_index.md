@@ -1,6 +1,6 @@
 ---
 title: Nabburg
 url: /nabburg/
-latitude: 49.453
-longitude: 12.181
+latitude: 49.454
+longitude: 12.185
 ---
