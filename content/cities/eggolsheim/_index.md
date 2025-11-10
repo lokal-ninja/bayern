@@ -1,6 +1,6 @@
 ---
 title: Eggolsheim
 url: /eggolsheim/
-latitude: 49.769
-longitude: 11.057
+latitude: 49.77
+longitude: 11.036
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lieblingsteil"
 url: /aichach/lieblingsteil/
-shop: Modehaus
+shop: Kleidung
 ---

@@ -1,6 +1,6 @@
 ---
 title: Ottensoos
 url: /ottensoos/
-latitude: 49.512
-longitude: 11.339
+latitude: 49.51
+longitude: 11.34
 ---
