@@ -7,5 +7,5 @@ city: Nürnberg
 street: Johannisstraße
 housenumber: "14"
 phone: +49 911 93161415
-opening_hours: ""
+opening_hours: Mo,Th,Fr 16:00-19:00
 website: https://moritzberg.cc/

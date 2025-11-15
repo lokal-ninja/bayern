@@ -1,6 +1,6 @@
 ---
 title: Rohrbach an der Ilm
 url: /rohrbach-an-der-ilm/
-latitude: 48.608
-longitude: 11.579
+latitude: 48.611
+longitude: 11.58
 ---

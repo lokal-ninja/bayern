@@ -1,6 +1,6 @@
 ---
 title: Erding
 url: /erding/
-latitude: 48.306
-longitude: 11.889
+latitude: 48.305
+longitude: 11.891
 ---
