@@ -1,6 +1,6 @@
 ---
 title: Pleinfeld
 url: /pleinfeld/
-latitude: 49.118
-longitude: 10.935
+latitude: 49.095
+longitude: 10.992
 ---

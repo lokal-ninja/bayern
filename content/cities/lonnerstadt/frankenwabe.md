@@ -1,5 +1,5 @@
 ---
 title: "Frankenwabe"
 url: /lonnerstadt/frankenwabe/
-shop: Allgemein
+shop: Imkerei
 ---

@@ -1,6 +1,6 @@
 ---
 title: Erdweg
 url: /erdweg/
-latitude: 48.355
-longitude: 11.276
+latitude: 48.331
+longitude: 11.308
 ---

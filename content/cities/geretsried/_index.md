@@ -1,6 +1,6 @@
 ---
 title: Geretsried
 url: /geretsried/
-latitude: 47.851
-longitude: 11.49
+latitude: 47.847
+longitude: 11.475
 ---

@@ -1,6 +1,6 @@
 ---
 title: Hohenlinden
 url: /hohenlinden/
-latitude: 48.156
-longitude: 11.987
+latitude: 48.158
+longitude: 11.995
 ---
