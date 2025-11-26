@@ -1,6 +1,6 @@
 ---
 title: Schnaittenbach
 url: /schnaittenbach/
-latitude: 49.544
-longitude: 11.989
+latitude: 49.555
+longitude: 12.007
 ---

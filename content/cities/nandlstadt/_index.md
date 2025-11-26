@@ -1,6 +1,6 @@
 ---
 title: Nandlstadt
 url: /nandlstadt/
-latitude: 48.537
+latitude: 48.536
 longitude: 11.805
 ---

@@ -1,6 +1,6 @@
 ---
 title: Langensendelbach
 url: /langensendelbach/
-latitude: 49.641
-longitude: 11.067
+latitude: 49.64
+longitude: 11.073
 ---

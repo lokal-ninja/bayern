@@ -1,5 +1,5 @@
 ---
 title: "Flügelleicht"
 url: /mittenwald/fluegelleicht/
-shop: Modehaus
+shop: Kleidung
 ---
