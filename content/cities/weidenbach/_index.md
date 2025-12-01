@@ -1,6 +1,6 @@
 ---
 title: Weidenbach
 url: /weidenbach/
-latitude: 49.195
-longitude: 10.658
+latitude: 49.201
+longitude: 10.648
 ---

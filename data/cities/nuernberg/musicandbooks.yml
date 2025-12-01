@@ -7,5 +7,5 @@ city: Nürnberg
 street: Jakobstraße
 housenumber: "46"
 phone: "+49911223967"
-opening_hours: Mo,Tu,Th,Fr 11:00-19:00; We 12:00-18:00,Sa 11:00-18:00
+opening_hours: Mo, Th-Fr 11:00-18:00; Tu-We 11:00-17:00; Sa 10:00-17:00
 website: http://musicandbooks.eu
