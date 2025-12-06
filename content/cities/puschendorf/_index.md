@@ -1,6 +1,6 @@
 ---
 title: Puschendorf
 url: /puschendorf/
-latitude: 49.523
-longitude: 10.837
+latitude: 49.526
+longitude: 10.83
 ---

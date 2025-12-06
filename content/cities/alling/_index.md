@@ -1,6 +1,6 @@
 ---
 title: Alling
 url: /alling/
-latitude: 48.151
-longitude: 11.255
+latitude: 48.152
+longitude: 11.262
 ---

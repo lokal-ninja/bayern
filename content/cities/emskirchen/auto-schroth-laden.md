@@ -1,5 +1,5 @@
 ---
-title: "Auto-Schroth Laden"
+title: "Auto Schroth Laden"
 url: /emskirchen/auto-schroth-laden/
 shop: Autoteile
 ---

@@ -1,6 +1,6 @@
 ---
 title: Allersberg
 url: /allersberg/
-latitude: 49.25
-longitude: 11.238
+latitude: 49.253
+longitude: 11.246
 ---
