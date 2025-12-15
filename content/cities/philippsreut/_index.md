@@ -1,6 +1,6 @@
 ---
 title: Philippsreut
 url: /philippsreut/
-latitude: 48.864
-longitude: 13.677
+latitude: 48.893
+longitude: 13.649
 ---

@@ -1,5 +1,5 @@
 ---
-title: "ALDI Süd"
+title: "Aldi Süd"
 url: /passau/aldi-sued-neuburger-strasse/
 shop: Supermarkt
 ---
