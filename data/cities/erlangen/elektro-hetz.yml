@@ -7,5 +7,5 @@ city: Erlangen
 street: Innere Brucker Straße
 housenumber: "3"
 phone: +49 9131 21265
-opening_hours: Mo-Fr 09:00-18:00; Sa 09:30-13:00
+opening_hours: Mo-We,Fr 09:00-18:00; Th,Sa 09:30-13:00
 website: ""

@@ -1,12 +1,12 @@
 id: 7432645668
 type: node
-latitude: 49.63198
-longitude: 11.00263
+latitude: 49.63181
+longitude: 11.00359
 postcode: "91096"
 city: Möhrendorf
 street: Oberndorf
 housenumber: "12"
-phone: ""
-opening_hours: Mo-Sa 08:00-12:00,13:30-18:30; We 08:00-12:00,13:00-18:30; Th 08:30-12:00,13:30-18:30;
-    Su 09:00-12:00
-website: http://www.morgentauspargel.de
+phone: +49 9131 47126
+opening_hours: Mo,Tu 08:00-12:00,13:30-18:30; We 08:00-12:00,13:00-18:30; Th 08:30-12:00,13:30-18:30;
+    Fr,Sa 08:00-12:00,13:30-18:30
+website: https://morgentauwirtsstube.de/hofladen
