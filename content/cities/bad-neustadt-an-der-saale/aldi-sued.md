@@ -1,5 +1,5 @@
 ---
-title: "ALDI Süd"
+title: "Aldi Süd"
 url: /bad-neustadt-an-der-saale/aldi-sued/
 shop: Supermarkt
 ---

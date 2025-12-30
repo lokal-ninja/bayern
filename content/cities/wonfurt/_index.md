@@ -1,6 +1,6 @@
 ---
 title: Wonfurt
 url: /wonfurt/
-latitude: 50.011
-longitude: 10.468
+latitude: 50.015
+longitude: 10.469
 ---
