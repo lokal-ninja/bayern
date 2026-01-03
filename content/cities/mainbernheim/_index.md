@@ -1,6 +1,6 @@
 ---
 title: Mainbernheim
 url: /mainbernheim/
-latitude: 49.709
-longitude: 10.219
+latitude: 49.715
+longitude: 10.213
 ---

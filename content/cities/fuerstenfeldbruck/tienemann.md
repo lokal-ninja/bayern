@@ -1,5 +1,5 @@
 ---
 title: "Tienemann"
 url: /fuerstenfeldbruck/tienemann/
-shop: Eisenwaren
+shop: Haushaltsartikel
 ---
