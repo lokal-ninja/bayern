@@ -1,5 +1,5 @@
 ---
 title: "Wühlkiste"
 url: /hassfurt/wuehlkiste/
-shop: Antiquitäten
+shop: Kramladen
 ---

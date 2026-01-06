@@ -7,5 +7,5 @@ city: München
 street: Giesinger Bahnhofplatz
 housenumber: "9"
 phone: ""
-opening_hours: Mo-Fr 09:00-13:00,14:00-18:00
+opening_hours: Tu,We 09:00-13:00,14:00-18:00; Th 09:00-12:30,13:00-15:30
 website: ""
