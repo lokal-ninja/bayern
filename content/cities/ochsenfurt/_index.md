@@ -1,6 +1,6 @@
 ---
 title: Ochsenfurt
 url: /ochsenfurt/
-latitude: 49.664
-longitude: 10.064
+latitude: 49.665
+longitude: 10.076
 ---

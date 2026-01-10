@@ -1,6 +1,6 @@
 ---
 title: Stadtsteinach
 url: /stadtsteinach/
-latitude: 50.162
-longitude: 11.505
+latitude: 50.163
+longitude: 11.504
 ---

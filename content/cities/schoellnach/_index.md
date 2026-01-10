@@ -1,6 +1,6 @@
 ---
 title: Schöllnach
 url: /schoellnach/
-latitude: 48.787
-longitude: 13.217
+latitude: 48.775
+longitude: 13.191
 ---

@@ -1,6 +1,6 @@
 ---
 title: Icking
 url: /icking/
-latitude: 47.941
-longitude: 11.43
+latitude: 47.926
+longitude: 11.42
 ---
