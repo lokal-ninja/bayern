@@ -1,6 +1,6 @@
 ---
 title: Michelau i.OFr.
 url: /michelau-i-ofr/
-latitude: 50.164
-longitude: 11.1
+latitude: 50.162
+longitude: 11.112
 ---

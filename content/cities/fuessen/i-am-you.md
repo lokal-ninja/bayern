@@ -1,5 +1,5 @@
 ---
-title: "I am you"
+title: "I am You"
 url: /fuessen/i-am-you/
-shop: Feinkost
+shop: Bioladen
 ---

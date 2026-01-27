@@ -1,5 +1,5 @@
 ---
 title: "essStudio"
 url: /passau/essstudio/
-shop: Allgemein
+shop: Lebensmittel
 ---

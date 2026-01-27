@@ -1,5 +1,5 @@
 ---
-title: "NORMA"
+title: "Norma"
 url: /coburg/norma-bamberger-strasse/
 shop: Supermarkt
 ---

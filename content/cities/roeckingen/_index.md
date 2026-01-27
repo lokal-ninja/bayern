@@ -1,6 +1,6 @@
 ---
 title: Röckingen
 url: /roeckingen/
-latitude: 49.056
-longitude: 10.557
+latitude: 49.057
+longitude: 10.566
 ---

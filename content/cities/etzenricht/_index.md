@@ -1,6 +1,6 @@
 ---
 title: Etzenricht
 url: /etzenricht/
-latitude: 49.624
-longitude: 12.094
+latitude: 49.619
+longitude: 12.088
 ---

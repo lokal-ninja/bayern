@@ -7,5 +7,5 @@ city: Friedenfels
 street: Gemmingen-Straße
 housenumber: "9"
 phone: "+499683257"
-opening_hours: We+Th 07:00-12:00 14:00-18:00,Fri 07:00-18:00,Sat 07:00-12:00
+opening_hours: We-Fr 07:00-12:00,14:00-18:00;Sa 07:00-12:00
 website: ""

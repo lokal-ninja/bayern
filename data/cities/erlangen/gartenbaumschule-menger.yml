@@ -7,6 +7,7 @@ city: Erlangen
 street: Baumschulenweg
 housenumber: "15"
 phone: ""
-opening_hours: Mar-Oct Mo-Fr 08:00-18:00, Sa 08:00-14:00;Nov-Feb Mo-Fr 08:00-17:00,
-    Sa 09:30-13:00
+opening_hours: Feb Mo-Fr 09:00-17:00; Feb Sa off; Mar-Oct Mo-Fr 08:00-18:00; Mar-Oct
+    Sa 08:00-14:00; Nov-Dec Mo-Fr 09:00-17:00; Nov-Dec Sa 10:00-13:00; Dec 24-Jan
+    31 off
 website: ""

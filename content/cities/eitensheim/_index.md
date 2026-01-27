@@ -1,6 +1,6 @@
 ---
 title: Eitensheim
 url: /eitensheim/
-latitude: 48.82
+latitude: 48.822
 longitude: 11.32
 ---
