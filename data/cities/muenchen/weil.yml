@@ -7,5 +7,5 @@ city: München
 street: Elisabethplatz
 housenumber: ""
 phone: ""
-opening_hours: Mo,Th,Fr 07:00-18:00; Tu off; We,Sa 07:00-14:00
+opening_hours: Tu-Th,Sa 07:00-14:00; Fr 07:00-18:00; Su,Mo,PH off
 website: ""

@@ -1,6 +1,6 @@
 ---
 title: Stetten
 url: /stetten/
-latitude: 48.027
-longitude: 10.439
+latitude: 48.297
+longitude: 11.373
 ---

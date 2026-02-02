@@ -1,6 +1,6 @@
 ---
 title: Bernbeuren
 url: /bernbeuren/
-latitude: 47.741
-longitude: 10.779
+latitude: 47.738
+longitude: 10.784
 ---
