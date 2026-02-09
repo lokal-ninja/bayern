@@ -1,6 +1,6 @@
 ---
 title: Missen-Wilhams
 url: /missen-wilhams/
-latitude: 47.597
-longitude: 10.127
+latitude: 47.598
+longitude: 10.124
 ---

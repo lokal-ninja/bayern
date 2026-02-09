@@ -1,6 +1,6 @@
 ---
 title: Gräfelfing
 url: /graefelfing/
-latitude: 48.119
-longitude: 11.429
+latitude: 48.13
+longitude: 11.431
 ---
