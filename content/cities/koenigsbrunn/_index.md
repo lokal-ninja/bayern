@@ -1,6 +1,6 @@
 ---
 title: Königsbrunn
 url: /koenigsbrunn/
-latitude: 48.282
-longitude: 10.886
+latitude: 48.256
+longitude: 10.869
 ---

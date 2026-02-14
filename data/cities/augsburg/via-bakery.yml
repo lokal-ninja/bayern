@@ -7,5 +7,5 @@ city: Augsburg
 street: Zeuggasse
 housenumber: "9"
 phone: ""
-opening_hours: We-Sa 10:00-18:00
+opening_hours: We-Sa 10:00-18:00; Mo,Tu,Su off
 website: ""
