@@ -1,6 +1,6 @@
 ---
 title: Feldafing
 url: /feldafing/
-latitude: 47.947
-longitude: 11.289
+latitude: 47.946
+longitude: 11.288
 ---

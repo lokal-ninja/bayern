@@ -7,5 +7,5 @@ city: Würzburg
 street: Nürnberger Straße
 housenumber: "86"
 phone: +49 931 25090402
-opening_hours: Mo-Sa 10:00-20:00
+opening_hours: Mo-Do 10:00-00:00; Fr-Sa 10:00-01:00; So 12:00-00:00
 website: https://filiale104@18plus.de
