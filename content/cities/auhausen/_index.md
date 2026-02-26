@@ -1,6 +1,6 @@
 ---
 title: Auhausen
 url: /auhausen/
-latitude: 49.01
-longitude: 10.62
+latitude: 49.008
+longitude: 10.618
 ---

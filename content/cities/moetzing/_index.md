@@ -1,6 +1,6 @@
 ---
 title: Mötzing
 url: /moetzing/
-latitude: 48.913
-longitude: 12.423
+latitude: 48.893
+longitude: 12.374
 ---

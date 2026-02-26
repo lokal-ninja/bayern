@@ -1,5 +1,5 @@
 ---
-title: "Tedi"
+title: "TEDi"
 url: /tirschenreuth/tedi/
-shop: Raumausstattung
+shop: Kramladen
 ---
