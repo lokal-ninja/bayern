@@ -1,5 +1,5 @@
 ---
 title: "Greifenstein"
 url: /schnaittach/greifenstein/
-shop: Gardinen
+shop: Kleidung
 ---

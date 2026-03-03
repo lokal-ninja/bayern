@@ -1,6 +1,6 @@
 ---
 title: Graben
 url: /graben/
-latitude: 48.184
-longitude: 10.843
+latitude: 48.203
+longitude: 10.842
 ---

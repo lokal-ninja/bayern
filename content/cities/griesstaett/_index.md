@@ -1,6 +1,6 @@
 ---
 title: Griesstätt
 url: /griesstaett/
-latitude: 48.001
-longitude: 12.178
+latitude: 47.97
+longitude: 12.172
 ---
