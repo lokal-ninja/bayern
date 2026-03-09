@@ -7,5 +7,5 @@ city: Holzkirchen
 street: Münchner Straße
 housenumber: "6"
 phone: +49 8024 2322
-opening_hours: ""
+opening_hours: Mo,Tu,Th,Fr 09:00-12:30,14:30-18:00; We,Sa 09:00-12:30
 website: ""

@@ -1,6 +1,6 @@
 ---
 title: Hof
 url: /hof/
-latitude: 50.306
-longitude: 11.917
+latitude: 50.323
+longitude: 11.923
 ---
