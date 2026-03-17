@@ -1,6 +1,6 @@
 ---
 title: Hammelburg
 url: /hammelburg/
-latitude: 50.115
-longitude: 9.89
+latitude: 50.117
+longitude: 9.889
 ---

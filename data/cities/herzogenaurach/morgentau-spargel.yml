@@ -1,11 +1,12 @@
-id: 11897486601
+id: 11897275114
 type: node
-latitude: 49.56632
-longitude: 10.89611
+latitude: 49.57796
+longitude: 10.88495
 postcode: "91074"
 city: Herzogenaurach
-street: Erlanger Straße
+street: Ohmstraße
 housenumber: ""
 phone: +49 9132 782 610
-opening_hours: Mo-Fr 09:00-13:00, 14:00-18:00; Sa 08:00-13:00, 14:00-18:00
+opening_hours: Mo-Tu off; We-Th 09:00-13:00, 14:00-18:00; Fr 08:00-13:00, 14:00-18:00;
+    Sa 08:00-13:00
 website: https://www.morgentau.de

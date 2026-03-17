@@ -7,5 +7,5 @@ city: Erlangen
 street: Tennenloher Straße
 housenumber: "12"
 phone: +49 9131 9111833
-opening_hours: Mo-Sa 09:00-17:00
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-13:00
 website: ""
