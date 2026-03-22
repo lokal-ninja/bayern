@@ -1,6 +1,6 @@
 ---
 title: Ehingen
 url: /ehingen/
-latitude: 49.087
-longitude: 10.538
+latitude: 49.086
+longitude: 10.539
 ---
