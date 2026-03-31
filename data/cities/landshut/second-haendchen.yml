@@ -7,5 +7,6 @@ city: Landshut
 street: Schützenstraße
 housenumber: "2"
 phone: ""
-opening_hours: Mo-Fr 10:00-12:00
+opening_hours: Mo-Fr 10:00-12:00, Mo,We,Th 16:00-17:00 || "nach telefonischer Vereinbarung";
+    PH off
 website: https://www.familienzentrum-landshut.de/second-haendchen-2.html

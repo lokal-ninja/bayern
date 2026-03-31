@@ -1,5 +1,5 @@
 ---
-title: "ART OF HAIR"
+title: "Art of Hair"
 url: /hoesbach/art-of-hair/
 shop: Friseur
 ---

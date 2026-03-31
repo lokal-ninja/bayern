@@ -1,6 +1,6 @@
 ---
 title: Untermeitingen
 url: /untermeitingen/
-latitude: 48.161
-longitude: 10.813
+latitude: 48.16
+longitude: 10.809
 ---
