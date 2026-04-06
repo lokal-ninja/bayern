@@ -7,5 +7,6 @@ city: Augsburg
 street: Gentnerstraße
 housenumber: "79"
 phone: ""
-opening_hours: Mo 07:30-13:30; Tu-Fr 07:30-18:00; Sa 07:30-12:30; Su,PH off
+opening_hours: Mo,Tu 07:30-14:00; We,Th 07:30-18:00; Fr 07:00-18:00; Sa 07:30-12:30;
+    Su,PH off
 website: ""

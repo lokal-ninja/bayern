@@ -1,6 +1,6 @@
 ---
 title: Postbauer-Heng
 url: /postbauer-heng/
-latitude: 49.304
-longitude: 11.354
+latitude: 49.312
+longitude: 11.35
 ---
