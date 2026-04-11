@@ -1,6 +1,6 @@
 ---
 title: Moosburg a.d. Isar
 url: /moosburg-a-d-isar/
-latitude: 48.47
-longitude: 11.965
+latitude: 48.462
+longitude: 11.95
 ---

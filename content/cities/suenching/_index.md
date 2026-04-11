@@ -1,6 +1,6 @@
 ---
 title: Sünching
 url: /suenching/
-latitude: 48.884
-longitude: 12.356
+latitude: 48.883
+longitude: 12.355
 ---

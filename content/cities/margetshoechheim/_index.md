@@ -1,6 +1,6 @@
 ---
 title: Margetshöchheim
 url: /margetshoechheim/
-latitude: 49.841
-longitude: 9.863
+latitude: 49.836
+longitude: 9.864
 ---

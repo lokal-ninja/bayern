@@ -7,6 +7,5 @@ city: Markt Schwaben
 street: Herzog-Ludwig-Straße
 housenumber: "14"
 phone: +49 8121 7604838
-opening_hours: Tu 13:30-18:30; We 10:30-12:30; Th-Fr 13:30-18:30; Sa 10:30-12:30;
-    PH off
-website: https://www.fahrbar.shop/
+opening_hours: Tu,Th,Fr 09:00-12:00,14:00-18:00; Sa 09:00-13:00; PH off
+website: https://www.fahrbar.info/
