@@ -1,5 +1,5 @@
 ---
-title: "Saima"
+title: "SAiMA"
 url: /muenchen/saima/
 shop: Kleidung
 ---

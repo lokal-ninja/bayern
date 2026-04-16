@@ -1,6 +1,6 @@
 ---
 title: Ensdorf
 url: /ensdorf/
-latitude: 49.339
-longitude: 11.936
+latitude: 49.34
+longitude: 11.937
 ---

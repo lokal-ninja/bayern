@@ -1,6 +1,6 @@
 ---
 title: Freyung
 url: /freyung/
-latitude: 48.809
-longitude: 13.547
+latitude: 48.808
+longitude: 13.548
 ---

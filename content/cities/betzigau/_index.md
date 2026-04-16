@@ -1,6 +1,6 @@
 ---
 title: Betzigau
 url: /betzigau/
-latitude: 47.738
-longitude: 10.379
+latitude: 47.735
+longitude: 10.381
 ---

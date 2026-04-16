@@ -1,6 +1,6 @@
 ---
 title: Kettershausen
 url: /kettershausen/
-latitude: 48.184
-longitude: 10.259
+latitude: 48.18
+longitude: 10.257
 ---
