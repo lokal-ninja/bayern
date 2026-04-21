@@ -1,6 +1,6 @@
 ---
 title: Taufkirchen
 url: /taufkirchen/
-latitude: 48.046
-longitude: 11.615
+latitude: 48.044
+longitude: 11.618
 ---

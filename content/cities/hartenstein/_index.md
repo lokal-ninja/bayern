@@ -1,6 +1,6 @@
 ---
 title: Hartenstein
 url: /hartenstein/
-latitude: 49.585
-longitude: 11.476
+latitude: 49.596
+longitude: 11.526
 ---

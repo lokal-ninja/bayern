@@ -6,6 +6,7 @@ postcode: "86316"
 city: Friedberg
 street: Ludwigstraße
 housenumber: "26"
-phone: ""
-opening_hours: Mo-Fr 09:00-18:00;Tu,We 12:30-13:30 off; Sa 09:00-12:30
+phone: +49 821 60999444
+opening_hours: Mo,Th,Fr 09:00-18:00; Tu,We 09:00-12:30,13:30-18:00; Sa 09:00-12:30;
+    Su,PH off
 website: https://www.optik-sautter.de/
