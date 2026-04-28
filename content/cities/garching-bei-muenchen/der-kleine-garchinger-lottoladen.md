@@ -1,5 +1,5 @@
 ---
-title: "Der Kleine Garchinger Lottoladen"
+title: "Der kleine Garchinger Lottoladen"
 url: /garching-bei-muenchen/der-kleine-garchinger-lottoladen/
 shop: Kiosk
 ---

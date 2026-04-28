@@ -7,5 +7,6 @@ city: München
 street: Einsteinstraße
 housenumber: "149"
 phone: ""
-opening_hours: Tu-Sa 10:00-17:00
+opening_hours: '"Only open for scheduled appointments. Consultation hours are daily
+    10-11h."'
 website: ""

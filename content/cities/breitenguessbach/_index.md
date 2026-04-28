@@ -1,6 +1,6 @@
 ---
 title: Breitengüßbach
 url: /breitenguessbach/
-latitude: 49.971
-longitude: 10.885
+latitude: 49.974
+longitude: 10.874
 ---

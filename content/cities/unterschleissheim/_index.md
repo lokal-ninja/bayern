@@ -1,6 +1,6 @@
 ---
 title: Unterschleißheim
 url: /unterschleissheim/
-latitude: 48.275
-longitude: 11.573
+latitude: 48.283
+longitude: 11.583
 ---

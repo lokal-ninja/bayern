@@ -1,6 +1,6 @@
 ---
 title: Gmund
 url: /gmund/
-latitude: 47.768
-longitude: 11.725
+latitude: 47.749
+longitude: 11.737
 ---
