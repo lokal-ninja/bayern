@@ -1,6 +1,6 @@
 ---
 title: Füssen
 url: /fuessen/
-latitude: 47.57
-longitude: 10.699
+latitude: 47.568
+longitude: 10.682
 ---

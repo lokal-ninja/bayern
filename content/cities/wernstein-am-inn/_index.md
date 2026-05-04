@@ -1,6 +1,6 @@
 ---
 title: Wernstein am Inn
 url: /wernstein-am-inn/
-latitude: 48.511
+latitude: 48.508
 longitude: 13.461
 ---

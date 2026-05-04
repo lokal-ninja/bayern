@@ -7,5 +7,6 @@ city: Prien am Chiemsee
 street: Kirchenweg
 housenumber: "1"
 phone: +49 80511684
-opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00; Su 10:00-12:00
+opening_hours: 'Apr-Jun,Oct-Dec: Mo-Fr 08:00-18:00; Apr-Jun,Oct-Dec: Sa 08:00-13:00;
+    Jan-Mar,Jul-Sep: Mo-Fr 08:00-17:00; Jan-Mar,Jul-Sep: Sa 08:00-13:00'
 website: www.blumen-rother.de
