@@ -1,5 +1,5 @@
 ---
 title: "besico"
 url: /nuernberg/besico-leyher-strasse/
-shop: Autoteile
+shop: Autowerkstatt
 ---

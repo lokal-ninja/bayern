@@ -1,6 +1,6 @@
 ---
 title: Kitzingen
 url: /kitzingen/
-latitude: 49.741
-longitude: 10.151
+latitude: 49.729
+longitude: 10.192
 ---

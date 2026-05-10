@@ -1,6 +1,6 @@
 ---
 title: Rattelsdorf
 url: /rattelsdorf/
-latitude: 50.013
-longitude: 10.884
+latitude: 50.02
+longitude: 10.895
 ---

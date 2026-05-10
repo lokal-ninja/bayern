@@ -2,5 +2,5 @@
 title: Schöfweg
 url: /schoefweg/
 latitude: 48.839
-longitude: 13.228
+longitude: 13.229
 ---

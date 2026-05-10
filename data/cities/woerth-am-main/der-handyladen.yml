@@ -7,5 +7,6 @@ city: Wörth am Main
 street: Landstraße
 housenumber: 11b
 phone: +49 9372 943179
-opening_hours: Mo-Fr 09:00-13:00,14:00-19:00; Sa 09:00-14:00; PH off
+opening_hours: Mo,Tu,Th,Fr 10:00-12:30,14:00-18:00; Sa 10:00-13:00; We 10:00-12:30;
+    PH off
 website: https://www.derhandyladen.com/standorte/woerth-am-main

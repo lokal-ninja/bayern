@@ -7,6 +7,5 @@ city: Hersbruck
 street: Ostbahnstraße
 housenumber: "47"
 phone: ""
-opening_hours: Mo-Fr 06:30-12:00, Mo-Di 14:00-18:00, Do-Fr 14:00-18:00, Sa 07:00-12:00;
-    PH off
+opening_hours: Mo-Fr 06:30-12:00; Mo-Di 14:00-18:00; Do-Fr 14:00-18:00, Sa 07:00-12:00
 website: ""
