@@ -1,6 +1,6 @@
 ---
 title: Unterthingau
 url: /unterthingau/
-latitude: 47.771
-longitude: 10.507
+latitude: 47.772
+longitude: 10.502
 ---

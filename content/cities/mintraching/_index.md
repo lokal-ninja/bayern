@@ -1,6 +1,6 @@
 ---
 title: Mintraching
 url: /mintraching/
-latitude: 48.955
+latitude: 48.956
 longitude: 12.24
 ---

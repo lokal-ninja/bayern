@@ -1,6 +1,6 @@
 ---
 title: Chieming
 url: /chieming/
-latitude: 47.89
-longitude: 12.534
+latitude: 47.908
+longitude: 12.539
 ---

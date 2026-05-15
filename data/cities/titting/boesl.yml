@@ -1,11 +1,12 @@
 id: 1563083671
 type: node
-latitude: 48.99578
-longitude: 11.2107
+latitude: 48.99577
+longitude: 11.21072
 postcode: ""
 city: Titting
 street: Marktstraße
 housenumber: "25"
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: Mo,Fr 06:30-18:00; Tu,Th 06:30-14:00, 15:30-18:00; Sa 06:30-12:30;
+    We,Su,PH off
+website: https://www.boesl-titting.de/metzgerei/
