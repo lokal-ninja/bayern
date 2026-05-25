@@ -1,6 +1,6 @@
 ---
 title: Ramerberg
 url: /ramerberg/
-latitude: 48.027
-longitude: 12.141
+latitude: 48.018
+longitude: 12.142
 ---

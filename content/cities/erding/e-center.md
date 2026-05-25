@@ -1,5 +1,5 @@
 ---
-title: "E center"
+title: "E-Center"
 url: /erding/e-center/
 shop: Supermarkt
 ---

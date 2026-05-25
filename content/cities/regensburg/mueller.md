@@ -1,5 +1,5 @@
 ---
 title: "Müller"
 url: /regensburg/mueller/
-shop: Bäckerei
+shop: Drogerie
 ---

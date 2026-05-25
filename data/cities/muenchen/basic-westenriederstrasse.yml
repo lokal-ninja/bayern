@@ -7,5 +7,5 @@ city: München
 street: Westenriederstraße
 housenumber: "35"
 phone: +49 89 2420890
-opening_hours: Mo-Sa 08:00-20:00
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
 website: https://www.tegut.com/basic

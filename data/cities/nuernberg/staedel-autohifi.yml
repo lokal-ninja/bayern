@@ -7,5 +7,5 @@ city: Nürnberg
 street: Erlenstegenstraße
 housenumber: "39"
 phone: ""
-opening_hours: ""
+opening_hours: Mo,Tu,Th,Fr 10:00-18:00; We,Sa 10:00-14:00
 website: https://www.staedel-autohifi.de/

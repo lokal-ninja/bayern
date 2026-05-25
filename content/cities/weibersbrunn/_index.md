@@ -1,6 +1,6 @@
 ---
 title: Weibersbrunn
 url: /weibersbrunn/
-latitude: 49.93
-longitude: 9.364
+latitude: 49.897
+longitude: 9.396
 ---
