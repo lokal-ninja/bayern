@@ -1,6 +1,6 @@
 ---
 title: Mengkofen
 url: /mengkofen/
-latitude: 48.715
-longitude: 12.431
+latitude: 48.722
+longitude: 12.445
 ---

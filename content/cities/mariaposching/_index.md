@@ -1,6 +1,6 @@
 ---
 title: Mariaposching
 url: /mariaposching/
-latitude: 48.844
-longitude: 12.797
+latitude: 48.841
+longitude: 12.804
 ---
