@@ -1,6 +1,6 @@
 ---
 title: Waldershof
 url: /waldershof/
-latitude: 49.978
-longitude: 12.062
+latitude: 49.977
+longitude: 12.061
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Sussner"
+title: "Sußner"
 url: /kalchreuth/sussner/
 shop: Metzgerei
 ---

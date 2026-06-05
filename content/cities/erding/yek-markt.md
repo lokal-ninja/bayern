@@ -1,5 +1,5 @@
 ---
-title: "Yek Markt"
+title: "YEK-Markt"
 url: /erding/yek-markt/
-shop: Lebensmittel
+shop: Supermarkt
 ---
