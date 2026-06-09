@@ -1,6 +1,6 @@
 ---
 title: Röhrnbach
 url: /roehrnbach/
-latitude: 48.733
-longitude: 13.522
+latitude: 48.777
+longitude: 13.512
 ---

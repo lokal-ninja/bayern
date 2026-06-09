@@ -1,5 +1,5 @@
 ---
-title: "Awo-Bücherbasar"
+title: "AWO Bücherbasar"
 url: /forchheim/awo-buecherbasar/
 shop: Bücher
 ---
