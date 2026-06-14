@@ -1,6 +1,6 @@
 ---
 title: Wiesenfelden
 url: /wiesenfelden/
-latitude: 49.045
-longitude: 12.533
+latitude: 49.042
+longitude: 12.535
 ---
