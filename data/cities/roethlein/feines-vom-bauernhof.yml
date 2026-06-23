@@ -4,8 +4,9 @@ latitude: 49.99082
 longitude: 10.23006
 postcode: "97520"
 city: Röthlein
-street: Hauptstraße
-housenumber: "90"
+street: Am Kührasen
+housenumber: "1"
 phone: +49 9723 3542
-opening_hours: Apr-Aug Mo-Su 09:00-18:00 Sept Di-Su 09:00-18:00 Oct Do-Su 09:00-18:00
+opening_hours: 'Mar: Su 09:00-18:00; Apr-Aug: Mo-Su 09:00-18:00; Sep: Tu-Su 09:00-18:00;
+    Oct: Th-Su 09:00-18:00'
 website: https://www.feines-vom-bauernhof.com/

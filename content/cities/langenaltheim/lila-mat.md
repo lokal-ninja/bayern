@@ -1,5 +1,5 @@
 ---
 title: "Lila-mat"
 url: /langenaltheim/lila-mat/
-shop: Supermarkt
+shop: Lebensmittel
 ---
