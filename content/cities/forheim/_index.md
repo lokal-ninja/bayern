@@ -1,6 +1,6 @@
 ---
 title: Forheim
 url: /forheim/
-latitude: 48.758
-longitude: 10.45
+latitude: 48.757
+longitude: 10.452
 ---

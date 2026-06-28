@@ -1,6 +1,6 @@
 ---
 title: Hirschaid
 url: /hirschaid/
-latitude: 49.82
+latitude: 49.821
 longitude: 11.001
 ---

@@ -1,6 +1,6 @@
 ---
 title: Ansbach
 url: /ansbach/
-latitude: 49.296
-longitude: 10.571
+latitude: 49.305
+longitude: 10.577
 ---
