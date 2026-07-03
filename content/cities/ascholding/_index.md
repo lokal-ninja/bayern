@@ -1,6 +1,6 @@
 ---
 title: Ascholding
 url: /ascholding/
-latitude: 47.891
-longitude: 11.504
+latitude: 47.886
+longitude: 11.51
 ---
