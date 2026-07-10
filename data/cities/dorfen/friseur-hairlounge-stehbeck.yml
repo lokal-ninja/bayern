@@ -7,6 +7,6 @@ city: Dorfen
 street: Haager Straße
 housenumber: "6"
 phone: +49 8081 2480
-opening_hours: Mo 09:00-19:00;Tu,We 08:00-18:00; Th 08:00-20:00; Fr 8:30-18:00; Sa
-    08:00-13:00; Su,PH off
+opening_hours: Mo 09:00-19:00; Tu,We 08:00-18:00; Th 08:00-20:00; Fr 08:30-18:00;
+    Sa 08:00-13:00; Su,PH off
 website: ""

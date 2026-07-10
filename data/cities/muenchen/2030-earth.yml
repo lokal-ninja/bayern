@@ -7,5 +7,8 @@ city: München
 street: Ehrengutstraße
 housenumber: "16"
 phone: +49 173 9392080
-opening_hours: ""
+opening_hours: |-
+    "Bei Anfragen gerne melden:
+    0173 939 2080
+    info@2030.earth"
 website: https://2030.earth

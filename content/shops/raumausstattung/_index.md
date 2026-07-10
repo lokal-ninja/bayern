@@ -1,5 +1,5 @@
 ---
 title: Raumausstattung
 url: /raumausstattung/
-icon: other
+icon: interior_decoration
 ---

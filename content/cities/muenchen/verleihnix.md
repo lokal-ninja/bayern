@@ -1,5 +1,5 @@
 ---
 title: "Verleihnix"
 url: /muenchen/verleihnix/
-shop: Baumarkt
+shop: Werkzeuge
 ---
