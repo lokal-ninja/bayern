@@ -7,5 +7,5 @@ city: München
 street: Theresienstraße
 housenumber: 9+11
 phone: ""
-opening_hours: by appointment
+opening_hours: '"by appointment"'
 website: ""

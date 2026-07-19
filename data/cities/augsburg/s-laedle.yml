@@ -7,5 +7,5 @@ city: Augsburg
 street: Wellenburger Straße
 housenumber: "44"
 phone: +49 176 60 877 259
-opening_hours: Nov-Dez:Fr 14:00-17:00; Sa 11:00-17:00
+opening_hours: 'Nov-Dec: Fr 14:00-17:00; Sa 11:00-17:00'
 website: https://www.geschenkreich.de/
