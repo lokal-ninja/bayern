@@ -1,6 +1,6 @@
 ---
 title: Altomünster
 url: /altomuenster/
-latitude: 48.38
-longitude: 11.259
+latitude: 48.388
+longitude: 11.256
 ---

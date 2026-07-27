@@ -1,6 +1,6 @@
 ---
 title: Geslau
 url: /geslau/
-latitude: 49.366
-longitude: 10.316
+latitude: 49.36
+longitude: 10.335
 ---

@@ -1,6 +1,6 @@
 ---
 title: Penzberg
 url: /penzberg/
-latitude: 47.757
-longitude: 11.376
+latitude: 47.749
+longitude: 11.383
 ---

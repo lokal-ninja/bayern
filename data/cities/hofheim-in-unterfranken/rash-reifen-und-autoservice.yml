@@ -7,5 +7,5 @@ city: Hofheim in Unterfranken
 street: Lendershäuser Straße
 housenumber: "18"
 phone: "+4995237771"
-opening_hours: Mo-Fr 09:00-18:00 Sa 09:00-14:00
+opening_hours: Mo-Fr 09:00-18:00;Sa 09:00-14:00;PH off
 website: ""

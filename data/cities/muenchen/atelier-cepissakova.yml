@@ -7,5 +7,7 @@ city: München
 street: Gollierstraße
 housenumber: "33"
 phone: "+4917623521237"
-opening_hours: ""
+opening_hours: |-
+    "Termine nach Vereinbarung
+    0176 2352 1237"
 website: https://www.atelier-maria-cepissakova.de/

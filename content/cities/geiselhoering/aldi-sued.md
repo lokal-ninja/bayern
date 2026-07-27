@@ -1,5 +1,5 @@
 ---
-title: "ALDI Süd"
+title: "Aldi Süd"
 url: /geiselhoering/aldi-sued/
 shop: Supermarkt
 ---

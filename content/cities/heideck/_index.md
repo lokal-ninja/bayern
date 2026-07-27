@@ -1,6 +1,6 @@
 ---
 title: Heideck
 url: /heideck/
-latitude: 49.132
-longitude: 11.124
+latitude: 49.133
+longitude: 11.129
 ---
