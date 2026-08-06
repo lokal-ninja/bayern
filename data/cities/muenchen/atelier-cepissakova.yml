@@ -1,13 +1,11 @@
-id: 6005629815
+id: 4906038427
 type: node
-latitude: 48.13562
+latitude: 48.13561
 longitude: 11.54137
 postcode: "80339"
 city: München
 street: Gollierstraße
 housenumber: "33"
-phone: "+4917623521237"
-opening_hours: |-
-    "Termine nach Vereinbarung
-    0176 2352 1237"
-website: https://www.atelier-maria-cepissakova.de/
+phone: ""
+opening_hours: '"Termine nach Vereinbarung"'
+website: ""

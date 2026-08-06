@@ -1,6 +1,6 @@
 ---
 title: Landshut
 url: /landshut/
-latitude: 48.545
-longitude: 12.154
+latitude: 48.554
+longitude: 12.147
 ---

@@ -1,6 +1,6 @@
 ---
 title: Fridolfing
 url: /fridolfing/
-latitude: 48.005
-longitude: 12.813
+latitude: 47.997
+longitude: 12.825
 ---

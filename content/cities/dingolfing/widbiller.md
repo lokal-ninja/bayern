@@ -1,5 +1,5 @@
 ---
 title: "Widbiller"
 url: /dingolfing/widbiller/
-shop: Allgemein
+shop: Elektronik
 ---

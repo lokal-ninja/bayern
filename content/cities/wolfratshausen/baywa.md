@@ -1,5 +1,5 @@
 ---
-title: "Baywa"
+title: "BayWa"
 url: /wolfratshausen/baywa/
-shop: Garten-Center
+shop: Baumarkt
 ---

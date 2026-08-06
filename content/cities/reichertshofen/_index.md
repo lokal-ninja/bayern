@@ -1,6 +1,6 @@
 ---
 title: Reichertshofen
 url: /reichertshofen/
-latitude: 48.66
-longitude: 11.463
+latitude: 48.658
+longitude: 11.465
 ---

@@ -1,6 +1,6 @@
 ---
 title: Maxhütte-Haidhof
 url: /maxhuette-haidhof/
-latitude: 49.2
-longitude: 12.094
+latitude: 49.183
+longitude: 12.114
 ---
