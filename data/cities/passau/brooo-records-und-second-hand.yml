@@ -7,5 +7,5 @@ city: Passau
 street: Theresienstraße
 housenumber: "36"
 phone: +49 851 78410978
-opening_hours: Mo-Sa 10:00-18:00 (Oct-Mar) Mo-Sa 11:00 - 19:00 (Apr-Sep)
+opening_hours: 'Oct-Mar Mo-Sa 10:00-18:00; Apr-Sep: Mo-Sa 11:00-19:00'
 website: ""

@@ -7,5 +7,6 @@ city: Ansbach
 street: ""
 housenumber: "3"
 phone: "+4998197780600"
-opening_hours: Mo-Fr 06:30-12:30; PH=closed
+opening_hours: Mo-Fr 07:00-12:30, Mo,Tu 14:30-17:00, Th,Fr 14:30-18:00; Sa 07:00-12:00;
+    PH closed
 website: https://www.metzgerei-rammler.de/

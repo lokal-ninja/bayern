@@ -1,5 +1,5 @@
 ---
 title: "Grenzgänger"
 url: /muenchen/grenzgaenger/
-shop: Wein
+shop: Kaffee
 ---

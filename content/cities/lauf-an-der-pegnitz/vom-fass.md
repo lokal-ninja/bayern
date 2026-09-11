@@ -1,5 +1,5 @@
 ---
-title: "Vom Fass"
+title: "vom Fass"
 url: /lauf-an-der-pegnitz/vom-fass/
-shop: Spirituosen
+shop: Feinkost
 ---

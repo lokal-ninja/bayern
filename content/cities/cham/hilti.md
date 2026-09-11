@@ -1,5 +1,5 @@
 ---
 title: "Hilti"
 url: /cham/hilti/
-shop: Eisenwaren
+shop: Allgemein
 ---

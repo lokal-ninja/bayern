@@ -7,5 +7,5 @@ city: Augsburg
 street: Gögginger Straße
 housenumber: "110"
 phone: ""
-opening_hours: Mo,Tu,Th,Fr 09:30-12:30,14:30-18:00, We,Sa 09:30-13:00
+opening_hours: Mo,Tu,Th,Fr 09:30-12:30,14:30-18:00; We,Sa 09:30-13:00
 website: https://augsburger-lokschuppen.de/

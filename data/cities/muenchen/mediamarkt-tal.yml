@@ -1,11 +1,11 @@
 id: 9937030231
 type: node
-latitude: 48.13607
-longitude: 11.57982
+latitude: 48.13604
+longitude: 11.57983
 postcode: "80331"
 city: München
 street: Tal
 housenumber: "19"
 phone: ""
-opening_hours: Mo-Sa 10:00-19:00
+opening_hours: Mo-Sa 10:00-19:00; Su,PH off
 website: ""

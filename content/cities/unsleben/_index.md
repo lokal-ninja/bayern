@@ -1,6 +1,6 @@
 ---
 title: Unsleben
 url: /unsleben/
-latitude: 50.379
-longitude: 10.255
+latitude: 50.375
+longitude: 10.256
 ---

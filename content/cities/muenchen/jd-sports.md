@@ -1,5 +1,5 @@
 ---
 title: "JD Sports"
 url: /muenchen/jd-sports/
-shop: Sport
+shop: Kleidung
 ---

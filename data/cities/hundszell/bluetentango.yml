@@ -7,5 +7,5 @@ city: Hundszell
 street: Lechermannstraße
 housenumber: "45"
 phone: +49 15565 493091
-opening_hours: appointment
+opening_hours: '"appointment"'
 website: https://www.bluetentango.de

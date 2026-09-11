@@ -1,5 +1,5 @@
 ---
-title: "ALDI Süd"
+title: "Aldi Süd"
 url: /sulzbach-am-main/aldi-sued/
 shop: Supermarkt
 ---

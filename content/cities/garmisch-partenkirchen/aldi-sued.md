@@ -1,5 +1,5 @@
 ---
-title: "ALDI Süd"
+title: "Aldi Süd"
 url: /garmisch-partenkirchen/aldi-sued/
 shop: Supermarkt
 ---

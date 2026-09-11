@@ -1,6 +1,6 @@
 ---
 title: Schwangau
 url: /schwangau/
-latitude: 47.597
-longitude: 10.738
+latitude: 47.579
+longitude: 10.741
 ---

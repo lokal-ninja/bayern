@@ -1,5 +1,5 @@
 ---
-title: "ALDI Süd"
+title: "Aldi Süd"
 url: /bayreuth/aldi-sued-himmelkronstrasse/
 shop: Supermarkt
 ---

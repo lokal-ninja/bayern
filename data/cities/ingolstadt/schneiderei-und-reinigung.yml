@@ -7,5 +7,5 @@ city: Ingolstadt
 street: Goethestraße
 housenumber: "64"
 phone: "+4915758300481"
-opening_hours: Mo-Fr 09:00-18:00
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
 website: ""

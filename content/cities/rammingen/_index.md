@@ -1,6 +1,6 @@
 ---
 title: Rammingen
 url: /rammingen/
-latitude: 48.062
-longitude: 10.584
+latitude: 48.056
+longitude: 10.587
 ---

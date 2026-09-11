@@ -1,5 +1,5 @@
 ---
-title: "EURONICS Denk"
+title: "Euronics Denk"
 url: /berchtesgaden/euronics-denk/
-shop: Elektrisch
+shop: Elektronik
 ---
