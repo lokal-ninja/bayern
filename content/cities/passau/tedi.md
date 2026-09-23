@@ -1,5 +1,5 @@
 ---
-title: "Tedi"
+title: "TEDi"
 url: /passau/tedi/
-shop: Warenhaus
+shop: Kramladen
 ---

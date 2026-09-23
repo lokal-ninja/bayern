@@ -1,5 +1,5 @@
 ---
-title: "Privatbäckerei Wimmer"
+title: "PrivatBäckerei Wimmer"
 url: /muenchen/privatbaeckerei-wimmer/
 shop: Bäckerei
 ---

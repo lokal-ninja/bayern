@@ -6,7 +6,6 @@ postcode: "80809"
 city: München
 street: Lerchenauer Straße
 housenumber: "7"
-phone: ""
-opening_hours: Mo-Tu 09:00-13:00,15:00-18:00; We 09:00-13:00; Th-Fr 09:00-13:00,15:00-18:00;
-    Sa 09:00-13:00
+phone: +49 89 3008426
+opening_hours: Mo-Tu,Th-Fr 09:00-13:00,15:00-18:00; We,Sa 09:00-13:00
 website: ""

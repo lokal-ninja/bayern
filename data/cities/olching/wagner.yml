@@ -7,6 +7,5 @@ city: Olching
 street: Hauptstraße
 housenumber: "20"
 phone: ""
-opening_hours: Mo 09:00-19:00; Tu 09:00-19:00; We 09:00-19:00; Th 08:30-20:00; Fr
-    09:00-19:00; Sa 09:00-16:00
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00
 website: https://www.treffpunkt-wagner.de/

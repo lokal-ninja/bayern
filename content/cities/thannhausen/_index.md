@@ -1,6 +1,6 @@
 ---
 title: Thannhausen
 url: /thannhausen/
-latitude: 48.284
-longitude: 10.461
+latitude: 48.283
+longitude: 10.47
 ---

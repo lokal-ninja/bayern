@@ -1,5 +1,5 @@
 ---
-title: "Freßnapf"
+title: "Fressnapf"
 url: /kuernach/fressnapf/
 shop: Tiere
 ---
