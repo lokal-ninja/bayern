@@ -1,5 +1,5 @@
 ---
-title: "Blumen Heller"
+title: "blumen heller"
 url: /ansbach/blumen-heller/
 shop: Blumen
 ---

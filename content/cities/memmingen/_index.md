@@ -1,6 +1,6 @@
 ---
 title: Memmingen
 url: /memmingen/
-latitude: 47.999
-longitude: 10.152
+latitude: 47.988
+longitude: 10.16
 ---

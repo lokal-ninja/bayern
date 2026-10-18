@@ -1,6 +1,6 @@
 ---
 title: Oberstaufen
 url: /oberstaufen/
-latitude: 47.558
-longitude: 10.028
+latitude: 47.554
+longitude: 10.022
 ---

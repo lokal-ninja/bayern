@@ -1,5 +1,5 @@
 ---
 title: "Motorradcenter Oberkotzau"
 url: /oberkotzau/motorradcenter-oberkotzau/
-shop: Fahrrad
+shop: Motorrad
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Secondo-Engelservice"
+title: "Secondo Engelservice"
 url: /coburg/secondo-engelservice/
-shop: Kleidung
+shop: Gebrauchtwaren
 ---

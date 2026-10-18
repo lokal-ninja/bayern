@@ -1,11 +1,12 @@
-id: 998182792
+id: 14264593240
 type: node
-latitude: 48.35523
-longitude: 10.94508
+latitude: 48.3543
+longitude: 10.94532
 postcode: "86163"
 city: Augsburg
-street: Friedberger Straße
-housenumber: "135"
+street: Hochzoller Straße
+housenumber: 7a
 phone: ""
-opening_hours: Mo-Fr 12:00-18:00; Sa 10:00-13:00
+opening_hours: Mo-Fr 12:00-18:00, Mo-Fr 10:00-12:00 unknown "nur Sommer"; Sa 10:00-13:00;
+    PH off
 website: https://www.optimalrad.de/

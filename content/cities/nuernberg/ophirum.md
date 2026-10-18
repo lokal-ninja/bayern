@@ -1,5 +1,5 @@
 ---
 title: "Ophirum"
 url: /nuernberg/ophirum/
-shop: Allgemein
+shop: Schmuck
 ---

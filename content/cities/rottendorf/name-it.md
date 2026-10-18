@@ -1,5 +1,5 @@
 ---
-title: "Name It"
+title: "NAME IT"
 url: /rottendorf/name-it/
 shop: Kleidung
 ---

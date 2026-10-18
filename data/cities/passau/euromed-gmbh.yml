@@ -7,5 +7,5 @@ city: Passau
 street: Wörth
 housenumber: "13"
 phone: +49 851 490640
-opening_hours: Mo-Fr 08:00-17:00
+opening_hours: Mo,Tu,Th 08:00-17:00; We 08:00-16:30; Fr 08:00-15:15
 website: ""

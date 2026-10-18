@@ -1,6 +1,6 @@
 ---
 title: Alfeld
 url: /alfeld/
-latitude: 49.429
-longitude: 11.541
+latitude: 49.43
+longitude: 11.544
 ---
