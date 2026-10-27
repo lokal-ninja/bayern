@@ -1,5 +1,5 @@
 ---
-title: "Kiko Milano"
+title: "KIKO Milano"
 url: /muenchen/kiko-milano/
 shop: Kosmetik
 ---

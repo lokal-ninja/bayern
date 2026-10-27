@@ -1,6 +1,6 @@
 ---
 title: Münchsmünster
 url: /muenchsmuenster/
-latitude: 48.763
-longitude: 11.691
+latitude: 48.766
+longitude: 11.686
 ---

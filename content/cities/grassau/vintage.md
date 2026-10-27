@@ -1,5 +1,5 @@
 ---
 title: "Vintage"
 url: /grassau/vintage/
-shop: Modehaus
+shop: Kleidung
 ---
