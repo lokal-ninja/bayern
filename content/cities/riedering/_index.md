@@ -1,6 +1,6 @@
 ---
 title: Riedering
 url: /riedering/
-latitude: 47.854
-longitude: 12.236
+latitude: 47.865
+longitude: 12.26
 ---

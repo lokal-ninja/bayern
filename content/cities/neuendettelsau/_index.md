@@ -1,6 +1,6 @@
 ---
 title: Neuendettelsau
 url: /neuendettelsau/
-latitude: 49.284
-longitude: 10.785
+latitude: 49.286
+longitude: 10.79
 ---

@@ -1,5 +1,5 @@
 ---
-title: "NORMA"
+title: "Norma"
 url: /nuernberg/norma-brettergartenstrasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Euromaster"
 url: /wuerzburg/euromaster/
-shop: Reifen
+shop: Autowerkstatt
 ---

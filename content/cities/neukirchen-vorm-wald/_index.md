@@ -1,6 +1,6 @@
 ---
 title: Neukirchen vorm Wald
 url: /neukirchen-vorm-wald/
-latitude: 48.689
-longitude: 13.383
+latitude: 48.684
+longitude: 13.381
 ---

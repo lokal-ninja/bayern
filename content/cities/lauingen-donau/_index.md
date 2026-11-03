@@ -1,6 +1,6 @@
 ---
 title: Lauingen (Donau)
 url: /lauingen-donau/
-latitude: 48.568
-longitude: 10.428
+latitude: 48.573
+longitude: 10.419
 ---

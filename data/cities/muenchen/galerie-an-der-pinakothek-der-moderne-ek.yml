@@ -6,6 +6,6 @@ postcode: "80333"
 city: München
 street: Gabelsbergerstraße
 housenumber: "7"
-phone: +49 89 288 077 43
-opening_hours: '"Monday on appointment"; Tu-Fr 12:00-19:00; Sa,Su 12:00-18:00'
+phone: +49 89 28807743
+opening_hours: Mo "on appointment"; Tu-Sa 12:00-18:00; Su 12:00-18:00 "viewing only"
 website: https://galerie-ruetz.de/
