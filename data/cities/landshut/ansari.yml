@@ -7,5 +7,5 @@ city: Landshut
 street: Klötzlmüllerstraße
 housenumber: "60"
 phone: ""
-opening_hours: ""
+opening_hours: Mo,Tu,Th,Fr 14:00-16:00; Sa 10:00-14:00
 website: https://www.auktionshaus-ansari.de/

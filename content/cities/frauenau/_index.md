@@ -1,6 +1,6 @@
 ---
 title: Frauenau
 url: /frauenau/
-latitude: 48.989
-longitude: 13.3
+latitude: 48.992
+longitude: 13.301
 ---

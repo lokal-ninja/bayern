@@ -1,5 +1,5 @@
 ---
 title: "Naturkind"
 url: /muenchen/naturkind/
-shop: Lebensmittel
+shop: Supermarkt
 ---
