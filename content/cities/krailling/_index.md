@@ -1,6 +1,6 @@
 ---
 title: Krailling
 url: /krailling/
-latitude: 48.093
-longitude: 11.414
+latitude: 48.097
+longitude: 11.412
 ---

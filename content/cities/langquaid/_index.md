@@ -1,6 +1,6 @@
 ---
 title: Langquaid
 url: /langquaid/
-latitude: 48.824
+latitude: 48.82
 longitude: 12.05
 ---

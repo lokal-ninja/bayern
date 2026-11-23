@@ -1,5 +1,5 @@
 ---
 title: "Rituals..."
 url: /nuernberg/rituals/
-shop: Kleidung
+shop: Kosmetik
 ---

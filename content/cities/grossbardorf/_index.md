@@ -1,6 +1,6 @@
 ---
 title: Großbardorf
 url: /grossbardorf/
-latitude: 50.266
-longitude: 10.364
+latitude: 50.27
+longitude: 10.368
 ---

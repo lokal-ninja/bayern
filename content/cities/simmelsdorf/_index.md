@@ -1,6 +1,6 @@
 ---
 title: Simmelsdorf
 url: /simmelsdorf/
-latitude: 49.612
-longitude: 11.361
+latitude: 49.619
+longitude: 11.358
 ---
